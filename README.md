@@ -3,6 +3,7 @@
 ## Usage
 
 0. Dependencies
+    - python
     - pipenv
     - a proxy service
 
@@ -17,6 +18,8 @@ $ pipenv install
 HTTP_PROXY_URL={url}
 HTTPS_PROXY_URL={url}
 ```
+
+(If using Zyte, copy `zyte-proxy-ca.crt` to top level directory)
 
 3. Run
 ```
