@@ -142,7 +142,10 @@ class Game:
         return ("Game: " + str(self.datetime.strftime("%b %d %H:%M")) + " | " + self.teamA.name + " vs. " + self.teamB.name + ", " + self.teamA_score + " - " + self.teamB_score)
 
     def to_csv(self):
-        return [self.teamA.name, self.teamB.name, self.teamA_score, self.teamB_score, self.datetime.strftime("%m/%d/%Y, %H:%M"), self.round]
+        datestring = "TBA"
+        if (self.datetime != None):
+            datestring = self.datetime.strftime("%m/%d/%Y, %H:%M")
+        return [self.teamA.name, self.teamB.name, self.teamA_score, self.teamB_score, datestring, self.round]
 
 
 # player instance stores their name, number and team
@@ -419,6 +422,10 @@ def parsePoolsStage(soup, teams, year):
     pools = parsePoolTables(soup, teams)
     poolGameTables = soup.find_all(
         "table", {"class": "global_table scores_table"})
+
+    if len(pools) == 0 and len(poolGameTables) == 0:
+        return
+
     if len(pools) == 0:
         pools = [Pool("Pool A", [], [])]
 
@@ -460,23 +467,27 @@ def parseBracketGame(game, teams, year, roundName):
     teamB = convertTeamLinkToTeam(game_teams[1].find("a"), teams)
 
     # scaping date information from webpage
-    game_date = game.find("span", {"class": "date"}).contents[0].split(" ")
-    year = int(game_date[0].split("/")[2])
-    month = int(game_date[0].split("/")[0])
-    day = int(game_date[0].split("/")[1])
-    hour = game_date[1].split(":")[0]
+    game_datetime = None
+    try:
+        game_date = game.find("span", {"class": "date"}).contents[0].split(" ")
+        year = int(game_date[0].split("/")[2])
+        month = int(game_date[0].split("/")[0])
+        day = int(game_date[0].split("/")[1])
+        hour = game_date[1].split(":")[0]
 
-    # handling tournaments that forget to update time of game
-    if hour.isdigit():
-        hour = int(hour)
-        minute = int(game_date[1].split(":")[1])
-        if (game_date[2] == "PM" and hour != 12):
-            hour += 12
-    else:
-        hour = 0
-        minute = 0
+        # handling tournaments that forget to update time of game
+        if hour.isdigit():
+            hour = int(hour)
+            minute = int(game_date[1].split(":")[1])
+            if (game_date[2] == "PM" and hour != 12):
+                hour += 12
+        else:
+            hour = 0
+            minute = 0
 
-    game_datetime = datetime(year, month, day, hour, minute)
+        game_datetime = datetime(year, month, day, hour, minute)
+    except:
+        pass
 
     # adding game to games list
     game = Game(teamA, teamB, teamA_score,
@@ -488,6 +499,9 @@ def parseBracketGame(game, teams, year, roundName):
 def parseBracket(soup, teams, year):
     games = []
     columns = soup.find_all("div", {"class": "bracket_col"})
+    if len(columns) == 0:
+        return
+
     bracketName = soup.find("h3").find("a").contents[0]
 
     for column in columns:
@@ -504,7 +518,9 @@ def parseBracketStage(soup, teams, year):
     brackets = []
     bracketSections = soup.find_all("section", {"class": "section page"})
     for bracketSection in bracketSections:
-        brackets.append(parseBracket(bracketSection, teams, year))
+        bracket = parseBracket(bracketSection, teams, year)
+        if bracket != None:
+            brackets.append(bracket)
 
     return brackets
 
@@ -523,18 +539,20 @@ def stagesHaveGames(stages):
     return False
 
 
-def datetimeOfFirstGame(stage):
-    game = None
-    if isinstance(stage, Pools):
-        if stage.pools[0].games != []:
-            game = stage.pools[0].games[0]
-    elif isinstance(stage, Brackets) :
-        if stage.brackets[0].games != []:
-            game = stage.brackets[0].games[0]
-    elif isinstance(stage, Clusters):
-        if stage.clusters[0].games != []:
-            game = stage.clusters[0].games[0]
-    return game.datetime
+def datetimeOfFirstGame(stages):
+    for stage in stages:
+        game = None
+        if isinstance(stage, Pools):
+            if stage.pools[0].games != []:
+                game = stage.pools[0].games[0]
+        elif isinstance(stage, Brackets) :
+            if stage.brackets[0].games != []:
+                game = stage.brackets[0].games[0]
+        elif isinstance(stage, Clusters):
+            if stage.clusters[0].games != []:
+                game = stage.clusters[0].games[0]
+        if game != None:
+            return game.datetime
 
 
 def parseTournament(html, url, fileName, year):
@@ -574,7 +592,9 @@ def parseTournament(html, url, fileName, year):
             name = stageNames[stageNameIndex]
             stageNameIndex += 1
             if slideId == "poolSlide":
-                stages.append(Pools(name, parsePoolsStage(slide, teams, year)))
+                stage = parsePoolsStage(slide, teams, year)
+                if stage != None:
+                    stages.append(Pools(name, stage))
             elif slideId == "bracketSlide":
                 stages.append(Brackets(name, parseBracketStage(slide, teams, year)))
             elif slideId == "clusterSlide":
@@ -591,7 +611,7 @@ def parseTournament(html, url, fileName, year):
         return None
 
 
-    return Tournament(tournamentName, url, teams, datetimeOfFirstGame(stages[0]), division, stages)
+    return Tournament(tournamentName, url, teams, datetimeOfFirstGame(stages), division, stages)
  
 
 def parseTournamentCalendar(html):

@@ -14,6 +14,19 @@ from parse import addRosterToTeam, parseTournament, parseTournamentCalendar
 load_dotenv()
 config = None
 
+seasonIdMap = {
+    2014: 4,
+    2015: 5,
+    2016: 6,
+    2017: 7,
+    2018: 8,
+    2019: 14,
+    2020: 15,
+    2021: 16,
+    2022: 17,
+    2023: 18,
+}
+
 
 class Config:
     def __init__(self, year, disableCache, overwriteCSVs):
@@ -49,7 +62,8 @@ def makeProxiedRequest(url):
             "http": HTTP_PROXY_URL,
             "https": HTTPS_PROXY_URL,
         },
-        verify='zyte-proxy-ca.crt'
+        verify='zyte-proxy-ca.crt',
+        timeout=600,
     )
 
     return response.content
@@ -140,12 +154,17 @@ def scrapeListOfTournamentUrls(config, urls):
             log.error(e)
             errors.append(urls[i].replace('\n', ''))
 
-    with open('errors.txt', 'w') as f:
+    with open(f'errors{config.year}.txt', 'w') as f:
         f.write('\n'.join(errors))
 
 
 def scrapeYear(config):
-    seasonId = config.year - 2005
+    try:
+        seasonId = seasonIdMap[config.year]
+    except KeyError:
+        log.error(f'Invalid year: {config.year}')
+        return
+
     calendarUrl = f'https://play.usaultimate.org/events/tournament/?ViewAll=true&IsLeagueType=false&IsClinic=false&FilterByCategory=AE&SeasonId={seasonId}'
 
     pages = parseTournamentCalendar(
@@ -158,22 +177,19 @@ def scrapeYear(config):
     scrapeListOfTournamentUrls(config, pages)
 
 def retryErrors(config):
-    with open('errors.txt', 'r') as f:
+    with open(f'errors{config.year}.txt', 'r') as f:
         urls = f.readlines()
         scrapeListOfTournamentUrls(config, urls)
     
 
 def main(argv):
-    log.basicConfig(
-        level=log.INFO,
-        format='[%(asctime)s] {%(filename)s:%(lineno)d} %(levelname)s - %(message)s',
-        datefmt='%H:%M:%S'
-    )
+    
     disableCache = False
     overwrite = False
     retry = False
     year = None
     tournament = None
+    debug = False
     opts, args = getopt.getopt(
         argv, "hdory:t:", ["help", "disableCache", "overwrite", "retry", "year=", "tournament="])
     for opt, arg in opts:
@@ -183,6 +199,7 @@ def main(argv):
             print("-o", "--overwrite | overwrite existing csv files")
             print("-r", "--retry | retry failed tournaments from errors.txt")
             print("-y", "--year | specify year to scrape")
+            print("--debug | enable debug logging")
             sys.exit()
         elif opt in ("-d", "--disableCache"):
             disableCache = True
@@ -197,6 +214,17 @@ def main(argv):
             year = arg
         elif opt in ("-t", "--tournament"):
             tournament = arg
+        elif opt in ("--debug"):
+            debug = True
+    
+    level = log.INFO
+    if debug:
+        level = log.DEBUG
+    log.basicConfig(
+        level=level,
+        format='[%(asctime)s] {%(filename)s:%(lineno)d} %(levelname)s - %(message)s',
+        datefmt='%H:%M:%S'
+    )
 
     if year == None and tournament == None:
         print("Please specify a year or tournament to scrape!")
