@@ -8,6 +8,12 @@ beautifulsoup4 = "*"
 requests = "*"
 cchardet = "*"
 python-dotenv = "*"
+stem = "*"
+pysocks = "*"
+toripchanger = "*"
+flask = "*"
+apscheduler = "*"
+psutil = "*"
 
 [dev-packages]
 autopep8 = "*"
