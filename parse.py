@@ -126,12 +126,13 @@ class Team:
 
 
 class Game:
-    def __init__(self, teamA, teamB, teamA_score, teamB_score, datetime, round=None):
+    def __init__(self, teamA, teamB, teamA_score, teamB_score, datetime, status, round=None):
         self.teamA = teamA
         self.teamB = teamB
         self.teamA_score = teamA_score
         self.teamB_score = teamB_score
         self.datetime = datetime
+        self.status = status
         self.round = round
 
     # allows sorting by datetime
@@ -145,7 +146,7 @@ class Game:
         datestring = "TBA"
         if (self.datetime != None):
             datestring = self.datetime.strftime("%m/%d/%Y, %H:%M")
-        return [self.teamA.name, self.teamB.name, self.teamA_score, self.teamB_score, datestring, self.round]
+        return [self.teamA.name, self.teamB.name, self.teamA_score, self.teamB_score, datestring, self.round, self.status]
 
 
 # player instance stores their name, number and team
@@ -179,13 +180,17 @@ class TeamInstance:
 
 
 class Tournament:
-    def __init__(self, name, url, teams, datetime, division, stages):
+    def __init__(self, name, url, city, state, startDate, endDate, teams, datetime, division, stages):
         self.name = name
         self.url = url
         self.teams = teams
         self.stages = stages
         self.datetime = datetime
         self.division = division  # Age - Gender
+        self.city = city
+        self.state = state
+        self.startDate = startDate
+        self.endDate = endDate
 
     def __it__(self, other):
         return self.datetime < other.datetime
@@ -373,11 +378,11 @@ def parseGameTable(soup, teams, year):
                 "span", {"class": "isScore"})[1].find("span").contents[0]
 
             # error checker to eliminate forfits and unplayed games
-            if not teamA_score.isdigit() or not teamB_score.isdigit() or (int(teamA_score) <= 1 and int(teamB_score) <= 1):
-                continue
+            # if not teamA_score.isdigit() or not teamB_score.isdigit() or (int(teamA_score) <= 1 and int(teamB_score) <= 1):
+            #     continue
 
             # html code which contains team names, scores, and team ids
-            gameInfo = row.find_all("td")[3:5]
+            gameInfo = row.find_all("td")[3:6]
 
             # errorr checking to make sure td did not forget to update teams
             if gameInfo[0].contents[0] == "TBD" or gameInfo[1].contents[0] == "TBD":
@@ -411,8 +416,10 @@ def parseGameTable(soup, teams, year):
                 # for games where TD failed to put a date
                 game_datetime = datetime(year, 12, 25, 1, 0)
 
+            status = row.find_all("td")[6].find("span").contents[0]           
+
             # commit games to objects
-            game = Game(teamA, teamB, teamA_score, teamB_score, game_datetime)
+            game = Game(teamA, teamB, teamA_score, teamB_score, game_datetime, status)
             games.append(game)
 
     return games
@@ -489,9 +496,11 @@ def parseBracketGame(game, teams, year, roundName):
     except:
         pass
 
+    status = game.find("span", {"class": "game-status"}).contents[0]
+
     # adding game to games list
     game = Game(teamA, teamB, teamA_score,
-                teamB_score, game_datetime, roundName)
+                teamB_score, game_datetime, status, roundName)
 
     return game
 
@@ -555,7 +564,7 @@ def datetimeOfFirstGame(stages):
             return game.datetime
 
 
-def parseTournament(html, url, fileName, year):
+def parseTournament(html, info, fileName, year):
     teams = {}
     # opening html parser
     soup = BeautifulSoup(html, 'html.parser')
@@ -564,12 +573,14 @@ def parseTournament(html, url, fileName, year):
     try:
         tournamentName = str(soup.find("div", {"class": "breadcrumbs"}).find_all("a")[1].contents[0])
     except:
+        url = info["url"]
         log.error(f"Error parsing tournament name from {url}")
         return None
 
     # finding stages of tournament (tabs)
     stageTabs = soup.find("ul", {"class": "tabsLeft tabs"})
     if stageTabs == None:
+        log.debug(f"No stages found for {tournamentName}")
         return None
 
     stageNames = []
@@ -578,6 +589,7 @@ def parseTournament(html, url, fileName, year):
         stageNames.append(a.contents[0])
 
     if len(stageNames) == 0:
+        log.debug(f"No stage names found for {tournamentName}")
         return None
 
     slides = soup.find("div", {"class": "slides"})
@@ -608,10 +620,11 @@ def parseTournament(html, url, fileName, year):
     #retrieve month and day from game
 
     if not stagesHaveGames(stages):
+        log.debug(f"No games found for {tournamentName}")
         return None
 
 
-    return Tournament(tournamentName, url, teams, datetimeOfFirstGame(stages), division, stages)
+    return Tournament(tournamentName, info["url"], info["city"], info["state"], info["startDate"], info["endDate"], teams, datetimeOfFirstGame(stages), division, stages)
  
 
 def parseTournamentCalendar(html):
@@ -628,6 +641,25 @@ def parseTournamentCalendar(html):
 
     #find specific tournament divison pages that should have teams
     for t in calendar:
+        cells = t.findAll("td")
+        city = cells[2].contents[0].strip()
+        state = cells[3].contents[0].strip()
+        dateString = cells[5].contents[0].strip()
+
+        dates = dateString.split(" - ")
+        startDate = ""
+        endDate = ""
+        if len(dates) == 2:
+            startDate = dates[0]
+            endDate = dates[1]
+        elif len(dates) == 1:
+            startDate = dates[0]
+            endDate = dates[0]
+
+        if startDate != "":
+            startDate = datetime.strptime(startDate, "%b %d, %Y").strftime("%Y-%m-%d")
+        if endDate != "":
+            endDate = datetime.strptime(endDate, "%b %d, %Y").strftime("%Y-%m-%d")
 
         #iterate through each divison of a tournament
         for num in t.findAll("li"):
@@ -643,7 +675,15 @@ def parseTournamentCalendar(html):
                     url = link + "/schedule/" + DIVISIONS[num.contents[0].strip()]
                     lower = url.lower()
                     if not ("high-school" in lower or "middle-school" in lower):
-                        page_links.append(url)
+                        d = {
+                            "city": city,
+                            "state": state,
+                            "startDate": startDate,
+                            "endDate": endDate,
+                            "url": url,
+                        }
+
+                        page_links.append(d)
                 except:
                     log.debug("Unknown division: " + num.contents[0].strip() + " from " + link) 
 

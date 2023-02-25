@@ -3,12 +3,14 @@ import getopt
 import csv
 from enum import Enum
 import requests
+import json, atexit
 import logging as log
 from pathlib import Path
-from os.path import exists
+from os.path import exists, normpath
 from os import getenv
 from dotenv import load_dotenv
 from parse import addRosterToTeam, parseTournament, parseTournamentCalendar
+from tor import *
 
 
 load_dotenv()
@@ -29,17 +31,18 @@ seasonIdMap = {
 
 
 class Config:
-    def __init__(self, year, disableCache, overwriteCSVs):
+    def __init__(self, year, disableCache, overwriteCSVs, live, calendarOnly):
         self.disableCache = disableCache
         self.overwriteCSVs = overwriteCSVs
         self.year = year
+        self.live = live
+        self.calendarOnly = calendarOnly
 
 
 class PageType(Enum):
     YEAR_CALENDAR = 1
     TOURNAMENT = 2
     TEAM = 3
-
 
 def writeContentToFile(path, file, content):
     Path(path).mkdir(parents=True, exist_ok=True)
@@ -53,18 +56,23 @@ def writeContentToFile(path, file, content):
 def makeProxiedRequest(url):
     log.debug(f"Making proxied request to {url}")
 
-    HTTP_PROXY_URL = getenv('HTTP_PROXY_URL')
-    HTTPS_PROXY_URL = getenv('HTTPS_PROXY_URL')
+    if not torIsRunning():
+        tor_process = startTorServer()
+        atexit.register(tor_process.kill)
 
     response = requests.get(
         url,
         proxies={
-            "http": HTTP_PROXY_URL,
-            "https": HTTPS_PROXY_URL,
+            'http': 'socks5://127.0.0.1:9050',
+            'https': 'socks5://127.0.0.1:9050'
         },
-        verify='zyte-proxy-ca.crt',
         timeout=600,
     )
+
+    if response.status_code != 200:
+        log.error(f"Request to {url} failed with status code {response.status_code}")
+        log.error(json.dumps(response, indent=2))
+        sys.exit(1)
 
     return response.content
 
@@ -75,16 +83,20 @@ def loadPage(config, url, pageType, tournamentName=None, teamName=None):
     Path(path).mkdir(parents=True, exist_ok=True)
     file = None
 
+    disableCache = config.disableCache
+
     if pageType == PageType.YEAR_CALENDAR:
         file = 'calendar.html'
     elif pageType == PageType.TOURNAMENT:
+        if config.live:
+            disableCache = True
         path += tournamentName + '/'
         file = 'tournament.html'
     elif pageType == PageType.TEAM:
         path += tournamentName + '/'
         file = f'{teamName}.html'
 
-    if not config.disableCache and exists(path + file):
+    if not disableCache and exists(path + file):
         log.debug(f"File {path + file} already exists, using local copy")
         with open(path + file, 'rb') as f:
             return f.read()
@@ -102,6 +114,7 @@ def writeTournamentToCSV(config, tournament, tournamentFilePath):
         writer = csv.writer(f)
         writer.writerow([tournament.name, tournament.division, tournament.datetime.day,
                         tournament.datetime.month, tournament.datetime.year])
+        writer.writerow([tournament.city, tournament.state, tournament.startDate, tournament.endDate])
         writer.writerow([tournament.url])
         for team in tournament.teams:
             writer.writerows(team.csvFormat())
@@ -118,9 +131,9 @@ def scrapeTeam(config, tournamentName, team):
     addRosterToTeam(teamContent, team)
 
 
-def scrapeTournament(config, url, index, total):
+def scrapeTournament(config, tournamentInfo, index, total):
     # url in format https://play.usaultimate.org/events/Santa-Barbara-Invite-2022/schedule/Men/CollegeMen/
-    parts = url.split('/')
+    parts = tournamentInfo['url'].split('/')
     tournamentName = parts[4].strip() + parts[7].strip()
     tournamentFilePath = f'csv/{config.year}/{tournamentName}.csv'
 
@@ -130,11 +143,10 @@ def scrapeTournament(config, url, index, total):
         log.debug(f"CSV file {tournamentFilePath} already exists, skipping")
         return
 
-    
     tournamentContent = loadPage(
-        config, url, PageType.TOURNAMENT, tournamentName)
+        config, tournamentInfo['url'], PageType.TOURNAMENT, tournamentName)
     tournament = parseTournament(
-        tournamentContent, url, tournamentName, config.year)
+        tournamentContent, tournamentInfo, tournamentName, config.year)
     if tournament is None:
         return
 
@@ -144,15 +156,16 @@ def scrapeTournament(config, url, index, total):
 
     writeTournamentToCSV(config, tournament, tournamentFilePath)
 
-def scrapeListOfTournamentUrls(config, urls):
+
+def scrapeListOfTournamentUrls(config, tournaments):
     errors = []
-    total = len(urls)
-    for i in range(len(urls)):
+    total = len(tournaments)
+    for i in range(len(tournaments)):
         try:
-            scrapeTournament(config, urls[i], i, total)
+            scrapeTournament(config, tournaments[i], i, total)
         except Exception as e:
             log.error(e)
-            errors.append(urls[i].replace('\n', ''))
+            errors.append(tournaments[i]['url'].replace('\n', ''))
 
     with open(f'errors{config.year}.txt', 'w') as f:
         f.write('\n'.join(errors))
@@ -169,32 +182,49 @@ def scrapeYear(config):
 
     pages = parseTournamentCalendar(
         loadPage(config, calendarUrl, PageType.YEAR_CALENDAR))
-    
-    with open('tournaments.txt', 'w') as f:
-        for page in pages:
-            f.write(page + '\n')
 
-    scrapeListOfTournamentUrls(config, pages)
+    path = f'csv/{config.year}/'
+    Path(path).mkdir(parents=True, exist_ok=True)
+    with open(path+'_calendar.csv', 'w', newline='') as f:
+        writer = csv.writer(f)
+        for pageInfo in pages:
+            writer.writerow([pageInfo['url'], pageInfo['city'], pageInfo['state'], pageInfo['startDate'], pageInfo['endDate']])
+
+    if not config.calendarOnly:
+        scrapeListOfTournamentUrls(config, pages)
+
 
 def retryErrors(config):
     with open(f'errors{config.year}.txt', 'r') as f:
         urls = f.readlines()
         scrapeListOfTournamentUrls(config, urls)
-    
 
 def main(argv):
-    
     disableCache = False
     overwrite = False
     retry = False
     year = None
     tournament = None
     debug = False
+    live = False
+    calendarOnly = False
+    tournamentInfo = {}
     opts, args = getopt.getopt(
-        argv, "hdory:t:", ["help", "disableCache", "overwrite", "retry", "year=", "tournament="])
+        argv, "lhdory:t:", [
+            "live", 
+            "help", 
+            "disableCache", 
+            "overwrite", 
+            "retry", 
+            "year=", 
+            "tournament=", 
+            "debug", 
+            "calendarOnly",
+            ])
     for opt, arg in opts:
         if opt in ("-h", "--help"):
             print('-h --help | view help options')
+            print("-l", "--live | scrape live data (used by app.py)")
             print("-d", "--disableCache | ignore cached html files")
             print("-o", "--overwrite | overwrite existing csv files")
             print("-r", "--retry | retry failed tournaments from errors.txt")
@@ -216,7 +246,11 @@ def main(argv):
             tournament = arg
         elif opt in ("--debug"):
             debug = True
-    
+        elif opt in ("-l", "--live"):
+            live = True
+        elif opt in ("--calendarOnly"): 
+            calendarOnly = True
+
     level = log.INFO
     if debug:
         level = log.DEBUG
@@ -226,17 +260,18 @@ def main(argv):
         datefmt='%H:%M:%S'
     )
 
-    if year == None and tournament == None:
-        print("Please specify a year or tournament to scrape!")
-        print("Use --year (-y) or --tournament (-t)")
+    if year == None:
+        print("Please specify a to scrape!")
+        print("Use --year (-y)")
         sys.exit()
 
-    config = Config(int(year), disableCache, overwrite)
-    
+    config = Config(int(year), disableCache, overwrite, live, calendarOnly)
+
     if retry:
         retryErrors(config)
     elif tournament != None:
-        scrapeTournament(config, tournament, 0, 1)
+        tournamentInfo["url"] = tournament
+        scrapeTournament(config, tournamentInfo, 0, 1)
     else:
         log.info("Scraping year: " + year)
         scrapeYear(config)

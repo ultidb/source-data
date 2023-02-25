@@ -5,12 +5,16 @@
 0. Dependencies
     - python
     - pipenv
-    - a proxy service
+    - a proxy service or Tor
 
 1. Install Requirements
 ```
 $ pipenv shell
 $ pipenv install
+```
+
+```
+$ brew install tor
 ```
 
 2. Set proxy urls in `.env`
