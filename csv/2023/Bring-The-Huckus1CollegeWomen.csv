@@ -116,16 +116,6 @@ Connecticut College,8
 23,Kristen Hummer
 51,Sabilah Alibhai
 b,r,e,a,k
-Ithaca,9
-02,Leah Lin
-12,Maria Lesser
-15,Danka Hlinka
-19,Izabella DeVett
-23,Alicia Menduni
-25,Joe Mukamal
-32,Anna Fluhler
-33,Ana Bauroth 
-b,r,e,a,k
 Syracuse University,10
 0,Anna-Carole Samson
 0,Zoe Colman
@@ -146,37 +136,41 @@ Princeton,11
 3,Anna-Maria  Chedia
 12,Tracy Zhang
 b,r,e,a,k
-Dickinson,12
+Ithaca,9
+02,Leah Lin
+12,Maria Lesser
+15,Danka Hlinka
+19,Izabella DeVett
+23,Alicia Menduni
+25,Joe Mukamal
+32,Anna Fluhler
+33,Ana Bauroth 
 b,r,e,a,k
-Messiah,13
+Dickinson,12
 b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool
 pool,Pool A
-Dartmouth,Lehigh,0,0,"02/25/2023, 10:00",Pool A
-Haverford-Bryn Mawr,SUNY-Geneseo,0,0,"02/25/2023, 10:00",Pool A
-Dartmouth,SUNY-Geneseo,0,0,"02/25/2023, 12:00",Pool A
-Haverford-Bryn Mawr,Lehigh,0,0,"02/25/2023, 12:00",Pool A
-Dartmouth,Haverford-Bryn Mawr,0,0,"02/25/2023, 14:00",Pool A
-Lehigh,SUNY-Geneseo,0,0,"02/25/2023, 14:00",Pool A
+Dartmouth,Lehigh,0,0,"02/25/2023, 10:00",Pool A,Scheduled
+Haverford-Bryn Mawr,SUNY-Geneseo,0,0,"02/25/2023, 10:00",Pool A,Scheduled
+Dartmouth,SUNY-Geneseo,0,0,"02/25/2023, 12:00",Pool A,Scheduled
+Haverford-Bryn Mawr,Lehigh,0,0,"02/25/2023, 12:00",Pool A,Scheduled
+Dartmouth,Haverford-Bryn Mawr,0,0,"02/25/2023, 14:00",Pool A,Scheduled
+Lehigh,SUNY-Geneseo,0,0,"02/25/2023, 14:00",Pool A,Scheduled
 pool,Pool B
-Swarthmore,Boston College,0,0,"02/25/2023, 10:00",Pool B
-New Hampshire,Connecticut College,0,0,"02/25/2023, 10:00",Pool B
-Swarthmore,Connecticut College,0,0,"02/25/2023, 12:00",Pool B
-New Hampshire,Boston College,0,0,"02/25/2023, 12:00",Pool B
-Swarthmore,New Hampshire,0,0,"02/25/2023, 14:00",Pool B
-Boston College,Connecticut College,0,0,"02/25/2023, 14:00",Pool B
+Swarthmore,Boston College,0,0,"02/25/2023, 10:00",Pool B,Scheduled
+New Hampshire,Connecticut College,0,0,"02/25/2023, 10:00",Pool B,Scheduled
+Swarthmore,Connecticut College,0,0,"02/25/2023, 12:00",Pool B,Scheduled
+New Hampshire,Boston College,0,0,"02/25/2023, 12:00",Pool B,Scheduled
+Swarthmore,New Hampshire,0,0,"02/25/2023, 14:00",Pool B,Scheduled
+Boston College,Connecticut College,0,0,"02/25/2023, 14:00",Pool B,Scheduled
 pool,Pool C
-Ithaca,Messiah,0,0,"02/25/2023, 09:00",Pool C
-Princeton,Dickinson,0,0,"02/25/2023, 09:00",Pool C
-Ithaca,Princeton,0,0,"02/25/2023, 10:30",Pool C
-Syracuse University,Dickinson,0,0,"02/25/2023, 10:30",Pool C
-Dickinson,Messiah,0,0,"02/25/2023, 12:00",Pool C
-Syracuse University,Princeton,0,0,"02/25/2023, 12:00",Pool C
-Ithaca,Dickinson,0,0,"02/25/2023, 13:30",Pool C
-Syracuse University,Messiah,0,0,"02/25/2023, 13:30",Pool C
-Ithaca,Syracuse University,0,0,"02/25/2023, 15:00",Pool C
-Princeton,Messiah,0,0,"02/25/2023, 15:00",Pool C
+Ithaca,Princeton,0,0,"02/25/2023, 10:00",Pool C,Scheduled
+Syracuse University,Dickinson,13,0,"02/25/2023, 10:00",Pool C,Final
+Ithaca,Dickinson,0,0,"02/25/2023, 12:00",Pool C,Scheduled
+Syracuse University,Princeton,0,0,"02/25/2023, 12:00",Pool C,Scheduled
+Ithaca,Syracuse University,0,0,"02/25/2023, 14:00",Pool C,Scheduled
+Princeton,Dickinson,0,0,"02/25/2023, 14:00",Pool C,Scheduled
 b,r,e,a,k
 brackets,Bracket
 bracket,Championship

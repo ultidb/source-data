@@ -26,7 +26,7 @@ def scrapeCalendar():
     print("scraping calendar")
     global year
     year = str(date.today().year)
-    subprocess.run(["python", "scrape.py", "-y", year, "--debug", "--calendarOnly"])
+    subprocess.run(["python", "scrape.py", "-y", year, "--debug", "-d", "--calendarOnly"])
 
     global ongoingTournaments
     global upcomingTournaments
@@ -80,13 +80,13 @@ tor_process = startTorServer()
 atexit.register(tor_process.kill)
 scheduler = BackgroundScheduler()
 scheduler.add_job(func=scrapeCalendar, trigger="interval", days=1)
-scheduler.add_job(func=scrapeOngoingTournaments, trigger="interval", minutes=15)
+scheduler.add_job(func=scrapeOngoingTournaments, trigger="interval", minutes=5)
 scheduler.add_job(func=scrapeUpcomingTournaments, trigger="interval", hours=12)
 scheduler.start()
 scheduler.print_jobs()
 
 # Initial run on startup
-# scrapeCalendar()
+scrapeCalendar()
 # scrapeUpcomingTournaments()
 # scrapeOngoingTournaments()
 

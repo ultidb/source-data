@@ -126,12 +126,13 @@ class Team:
 
 
 class Game:
-    def __init__(self, teamA, teamB, teamA_score, teamB_score, datetime, round=None):
+    def __init__(self, teamA, teamB, teamA_score, teamB_score, datetime, status, round=None):
         self.teamA = teamA
         self.teamB = teamB
         self.teamA_score = teamA_score
         self.teamB_score = teamB_score
         self.datetime = datetime
+        self.status = status
         self.round = round
 
     # allows sorting by datetime
@@ -145,7 +146,7 @@ class Game:
         datestring = "TBA"
         if (self.datetime != None):
             datestring = self.datetime.strftime("%m/%d/%Y, %H:%M")
-        return [self.teamA.name, self.teamB.name, self.teamA_score, self.teamB_score, datestring, self.round]
+        return [self.teamA.name, self.teamB.name, self.teamA_score, self.teamB_score, datestring, self.round, self.status]
 
 
 # player instance stores their name, number and team
@@ -381,7 +382,7 @@ def parseGameTable(soup, teams, year):
             #     continue
 
             # html code which contains team names, scores, and team ids
-            gameInfo = row.find_all("td")[3:5]
+            gameInfo = row.find_all("td")[3:6]
 
             # errorr checking to make sure td did not forget to update teams
             if gameInfo[0].contents[0] == "TBD" or gameInfo[1].contents[0] == "TBD":
@@ -415,8 +416,10 @@ def parseGameTable(soup, teams, year):
                 # for games where TD failed to put a date
                 game_datetime = datetime(year, 12, 25, 1, 0)
 
+            status = row.find_all("td")[6].find("span").contents[0]           
+
             # commit games to objects
-            game = Game(teamA, teamB, teamA_score, teamB_score, game_datetime)
+            game = Game(teamA, teamB, teamA_score, teamB_score, game_datetime, status)
             games.append(game)
 
     return games
@@ -493,9 +496,11 @@ def parseBracketGame(game, teams, year, roundName):
     except:
         pass
 
+    status = game.find("span", {"class": "game-status"}).contents[0]
+
     # adding game to games list
     game = Game(teamA, teamB, teamA_score,
-                teamB_score, game_datetime, roundName)
+                teamB_score, game_datetime, status, roundName)
 
     return game
 
