@@ -6,7 +6,6 @@ import subprocess, time, atexit, csv
 from tor import startTorServer
 from scrape import scrapeListOfTournamentUrls, Config
 import logging as log
-import pygit2
 
 ongoingTournaments = []
 upcomingTournaments = []
@@ -66,12 +65,14 @@ def scrapeOngoingTournaments():
     config = Config(int(year), False, True, True, False)
     global ongoingTournaments
     scrapeListOfTournamentUrls(config, ongoingTournaments)
+    commitToGit()
 
 def scrapeUpcomingTournaments():
     global year
     config = Config(int(year), True, True, False, False)
     global upcomingTournaments
     scrapeListOfTournamentUrls(config, upcomingTournaments)
+    commitToGit()
 
 def commitToGit():
     subprocess.run(["git", "checkout", "live"])
@@ -89,13 +90,13 @@ tor_process = startTorServer()
 atexit.register(tor_process.kill)
 scheduler = BackgroundScheduler()
 scheduler.add_job(func=scrapeCalendar, trigger="interval", days=1)
-scheduler.add_job(func=scrapeOngoingTournaments, trigger="interval", minutes=5)
+scheduler.add_job(func=scrapeOngoingTournaments, trigger="interval", minutes=10)
 scheduler.add_job(func=scrapeUpcomingTournaments, trigger="interval", hours=12)
 scheduler.start()
 scheduler.print_jobs()
 
 # Initial run on startup
-commitToGit()
+
 # scrapeUpcomingTournaments()
 # scrapeOngoingTournaments()
 
