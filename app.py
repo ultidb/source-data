@@ -1,3 +1,4 @@
+from inspect import Signature
 from flask import Flask
 from datetime import datetime, date, timedelta
 from apscheduler.schedulers.background import BackgroundScheduler
@@ -5,6 +6,7 @@ import subprocess, time, atexit, csv
 from tor import startTorServer
 from scrape import scrapeListOfTournamentUrls, Config
 import logging as log
+import pygit2
 
 ongoingTournaments = []
 upcomingTournaments = []
@@ -71,6 +73,13 @@ def scrapeUpcomingTournaments():
     global upcomingTournaments
     scrapeListOfTournamentUrls(config, upcomingTournaments)
 
+def commitToGit():
+    subprocess.run(["git", "checkout", "live"])
+    subprocess.run(["git", "add", "."])
+    message = f"Scraper run: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
+    subprocess.run(["git", "commit", "-m", message])
+    subprocess.run(["git", "push", "origin", "live"])    
+
 log.basicConfig(
         level=log.DEBUG,
         format='[%(asctime)s] {%(filename)s:%(lineno)d} %(levelname)s - %(message)s',
@@ -86,7 +95,7 @@ scheduler.start()
 scheduler.print_jobs()
 
 # Initial run on startup
-scrapeCalendar()
+commitToGit()
 # scrapeUpcomingTournaments()
 # scrapeOngoingTournaments()
 
