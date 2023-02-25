@@ -79,7 +79,9 @@ def commitToGit():
     subprocess.run(["git", "add", "."])
     message = f"Scraper run: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
     subprocess.run(["git", "commit", "-m", message])
-    subprocess.run(["git", "push", "origin", "live"])    
+    subprocess.run(["git", "push", "origin", "live"])
+
+# def listUpdatedCsvs():
 
 log.basicConfig(
         level=log.DEBUG,
@@ -89,16 +91,17 @@ log.basicConfig(
 tor_process = startTorServer()
 atexit.register(tor_process.kill)
 scheduler = BackgroundScheduler()
-scheduler.add_job(func=scrapeCalendar, trigger="interval", days=1)
-scheduler.add_job(func=scrapeOngoingTournaments, trigger="interval", minutes=10)
-scheduler.add_job(func=scrapeUpcomingTournaments, trigger="interval", hours=12)
+# scheduler.add_job(func=scrapeCalendar, trigger="interval", days=1)
+# scheduler.add_job(func=scrapeOngoingTournaments, trigger="interval", minutes=10)
+# scheduler.add_job(func=scrapeUpcomingTournaments, trigger="interval", hours=12)
 scheduler.start()
 scheduler.print_jobs()
 
 # Initial run on startup
 
 # scrapeUpcomingTournaments()
-# scrapeOngoingTournaments()
+scrapeCalendar()
+scrapeOngoingTournaments()
 
 # Shut down the scheduler when exiting the app
 atexit.register(lambda: scheduler.shutdown())
