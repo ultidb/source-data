@@ -23,11 +23,16 @@ def isUpcoming(startDate):
 
     return start > today and start <= (today + timedelta(days=10))
 
-def scrapeCalendar():
+def scrapeCalendar(disableCache=True):
     print("scraping calendar")
     global year
     year = str(date.today().year)
-    subprocess.run(["python", "scrape.py", "-y", year, "--debug", "-d", "--calendarOnly"])
+
+    d = "--disableCache"
+    if not disableCache:
+        d = ""
+    
+    subprocess.run(["python", "scrape.py", "-y", year, "--debug", "--calendarOnly", d])
 
     global ongoingTournaments
     global upcomingTournaments
@@ -65,6 +70,7 @@ def scrapeOngoingTournaments():
     config = Config(int(year), False, True, True, False)
     global ongoingTournaments
     scrapeListOfTournamentUrls(config, ongoingTournaments)
+    listUpdatedCsvs()
     commitToGit()
 
 def scrapeUpcomingTournaments():
@@ -81,7 +87,15 @@ def commitToGit():
     subprocess.run(["git", "commit", "-m", message])
     subprocess.run(["git", "push", "origin", "live"])
 
-# def listUpdatedCsvs():
+def listUpdatedCsvs():
+    proc = subprocess.run(['git', 'status', '-s'], capture_output=True)
+    status = proc.stdout.decode('utf-8')
+    output = []
+    for line in status.split('\n'):
+        items = line.strip().split(' ')
+        if len(items) > 1:
+            output.append(items[1])
+    print(output)
 
 log.basicConfig(
         level=log.DEBUG,
@@ -100,8 +114,9 @@ scheduler.print_jobs()
 # Initial run on startup
 
 # scrapeUpcomingTournaments()
-scrapeCalendar()
+scrapeCalendar(False)
 scrapeOngoingTournaments()
+# listUpdatedCsvs()
 
 # Shut down the scheduler when exiting the app
 atexit.register(lambda: scheduler.shutdown())

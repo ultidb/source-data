@@ -21,6 +21,32 @@ John Brown,9
 57,Matthew Alberg
 97,Theodore Stegall
 b,r,e,a,k
+Missouri S&T,8
+0,Calvin Curran
+0,Carson Kempf
+0,Colin Munch
+0,Gino Lanasa
+0,Austin King
+0,Kevin Wyle
+0,Nicholas Mincemeyer
+0,Nicholas Mincemeyer
+0,Shane Keeton
+0,Steven Holden
+02,Ray Mauntel
+03,Wesley Fransen
+07,Owen Thoms
+11,Nick Gentry
+16,Sam Papin
+21,Ben Murray
+22,Aidan Byrne
+27,Brandyss Sherman-Hall
+28,Zachary Sanders
+32,Kyle Johnson
+34,Thomas O'Hanlon
+40,Michael Lahmeyer
+64,Kenneth Stanley
+81,Zachary Szatkowski
+b,r,e,a,k
 Texas-Dallas,1
 0,Anthony Nguyen
 0,Boris Strots
@@ -54,48 +80,6 @@ Texas-Dallas,1
 48,Christian Parker
 50,David Piersall
 b,r,e,a,k
-Missouri S&T,8
-0,Calvin Curran
-0,Carson Kempf
-0,Colin Munch
-0,Gino Lanasa
-0,Austin King
-0,Kevin Wyle
-0,Nicholas Mincemeyer
-0,Nicholas Mincemeyer
-0,Shane Keeton
-0,Steven Holden
-02,Ray Mauntel
-03,Wesley Fransen
-07,Owen Thoms
-11,Nick Gentry
-16,Sam Papin
-21,Ben Murray
-22,Aidan Byrne
-27,Brandyss Sherman-Hall
-28,Zachary Sanders
-32,Kyle Johnson
-34,Thomas O'Hanlon
-40,Michael Lahmeyer
-64,Kenneth Stanley
-81,Zachary Szatkowski
-b,r,e,a,k
-Kansas State,17
-0,Cory Wrolson
-07,Ethan Christy
-08,John Davis
-10,Alexander Dimino
-12,William Ouellette
-13,Corey Bowen
-15,Braden Nielson
-20,Tyler Price
-21,Austyn Smith
-23,Timothy  Keesecker 
-28,Evan Lindsay
-29,Bryan Symons
-33,TIMOTHY PEARCE
-77,Spencer Pennington
-b,r,e,a,k
 Luther,16
 0,Benjamin Hughes
 0,Carter Thompson
@@ -120,6 +104,22 @@ Luther,16
 27,Isaac Habben
 55,Christian Johnson
 76,Jackson Meehan
+b,r,e,a,k
+Kansas State,17
+0,Cory Wrolson
+07,Ethan Christy
+08,John Davis
+10,Alexander Dimino
+12,William Ouellette
+13,Corey Bowen
+15,Braden Nielson
+20,Tyler Price
+21,Austyn Smith
+23,Timothy  Keesecker 
+28,Evan Lindsay
+29,Bryan Symons
+33,TIMOTHY PEARCE
+77,Spencer Pennington
 b,r,e,a,k
 Oklahoma Christian,2
 0,Aaron Smith
@@ -174,6 +174,31 @@ Kansas,7
 66,Kaden Hubler
 77,Alejandro (Alex) Perez
 b,r,e,a,k
+Illinois State,18
+0,Blake McKee
+0,Brandon Hill
+0,Carter Whitlow
+0,Cody  Wyatt
+0,Elliott Tubbs
+0,Ethan  Moore 
+0,James Henning
+0,Joseph Baker
+0,Kacper Wujda
+0,Logan Dudley
+0,Adrian Esquivel
+0,Alessandro Gibson
+0,Max Marcionetti
+0,Patrick Corlett
+0,Riley Hendron
+0,Thomas  Diveley
+1,Sean Dickerson
+5,Luke Brigman
+23,Joe Cercello
+24,Anthony Serio
+24,Truman Arie
+26,Nick Wollney
+32,Jonathan Gancarczyk
+b,r,e,a,k
 Texas A&M (B),15
 0,Gabriel Perello
 0,Gareth May
@@ -199,31 +224,6 @@ Texas A&M (B),15
 57,Dhruv Pant
 60,John McKelvey
 73,Justin Petre
-b,r,e,a,k
-Illinois State,18
-0,Blake McKee
-0,Brandon Hill
-0,Carter Whitlow
-0,Cody  Wyatt
-0,Elliott Tubbs
-0,Ethan  Moore 
-0,James Henning
-0,Joseph Baker
-0,Kacper Wujda
-0,Logan Dudley
-0,Adrian Esquivel
-0,Alessandro Gibson
-0,Max Marcionetti
-0,Patrick Corlett
-0,Riley Hendron
-0,Thomas  Diveley
-1,Sean Dickerson
-5,Luke Brigman
-23,Joe Cercello
-24,Anthony Serio
-24,Truman Arie
-26,Nick Wollney
-32,Jonathan Gancarczyk
 b,r,e,a,k
 Oklahoma,10
 0,Andrew Kenny
@@ -365,6 +365,18 @@ Arkansas,4
 69,Asa Brown
 92,Tommy  Medford
 b,r,e,a,k
+North Texas,13
+0,Harold Hubbard
+0,Jancarlo  Perez
+0,Jason  Borchers 
+0,Joshua Fambro
+0,Nolan Henderson
+0,Parker Moran
+0,Ryan Munoz
+7,Samuel Garza
+11,Jonathan Scott
+11,Andrew Hambrick
+b,r,e,a,k
 Wichita State University,12
 0,Carter Murdock
 0,Jontell Russ
@@ -381,18 +393,6 @@ Wichita State University,12
 22,Josiah Pfeiffer
 44,Jack King
 81,Patrick Loganbill
-b,r,e,a,k
-North Texas,13
-0,Harold Hubbard
-0,Jancarlo  Perez
-0,Jason  Borchers 
-0,Joshua Fambro
-0,Nolan Henderson
-0,Parker Moran
-0,Ryan Munoz
-7,Samuel Garza
-11,Jonathan Scott
-11,Andrew Hambrick
 b,r,e,a,k
 Baylor,5
 0,Abigail Baier
@@ -430,10 +430,10 @@ Texas-Dallas,Kansas State,13,5,"02/25/2023, 08:30",Pool A,Final
 John Brown,Luther,13,6,"02/25/2023, 08:30",Pool A,Final
 Texas-Dallas,John Brown,7,10,"02/25/2023, 10:00",Pool A,Final
 Missouri S&T,Luther,11,7,"02/25/2023, 10:00",Pool A,Final
-Luther,Kansas State,0,0,"02/25/2023, 11:30",Pool A,Scheduled
-Missouri S&T,John Brown,0,0,"02/25/2023, 11:30",Pool A,Scheduled
-Texas-Dallas,Luther,0,0,"02/25/2023, 13:00",Pool A,Scheduled
-Missouri S&T,Kansas State,0,0,"02/25/2023, 13:00",Pool A,Scheduled
+Luther,Kansas State,13,3,"02/25/2023, 11:30",Pool A,Final
+Missouri S&T,John Brown,9,10,"02/25/2023, 11:30",Pool A,Final
+Texas-Dallas,Luther,11,9,"02/25/2023, 13:00",Pool A,Final
+Missouri S&T,Kansas State,13,0,"02/25/2023, 13:00",Pool A,Final
 Texas-Dallas,Missouri S&T,0,0,"02/25/2023, 14:30",Pool A,Scheduled
 John Brown,Kansas State,0,0,"02/25/2023, 14:30",Pool A,Scheduled
 pool,Pool B
@@ -441,21 +441,21 @@ Oklahoma Christian,Illinois State,10,6,"02/25/2023, 08:30",Pool B,Final
 Oklahoma,Texas A&M (B),8,11,"02/25/2023, 08:30",Pool B,Final
 Oklahoma Christian,Oklahoma,12,5,"02/25/2023, 10:00",Pool B,Final
 Kansas,Texas A&M (B),13,1,"02/25/2023, 10:00",Pool B,Final
-Texas A&M (B),Illinois State,0,0,"02/25/2023, 11:30",Pool B,Scheduled
-Kansas,Oklahoma,0,0,"02/25/2023, 11:30",Pool B,Scheduled
-Oklahoma Christian,Texas A&M (B),0,0,"02/25/2023, 13:00",Pool B,Scheduled
-Kansas,Illinois State,0,0,"02/25/2023, 13:00",Pool B,Scheduled
-Oklahoma Christian,Kansas,0,0,"02/25/2023, 14:30",Pool B,Scheduled
+Texas A&M (B),Illinois State,7,13,"02/25/2023, 11:30",Pool B,Final
+Kansas,Oklahoma,9,6,"02/25/2023, 11:30",Pool B,Final
+Oklahoma Christian,Texas A&M (B),13,1,"02/25/2023, 13:00",Pool B,Final
+Kansas,Illinois State,13,5,"02/25/2023, 13:00",Pool B,Final
+Oklahoma Christian,Kansas,11,4,"02/25/2023, 14:30",Pool B,In Progress
 Oklahoma,Illinois State,0,0,"02/25/2023, 14:30",Pool B,Scheduled
 pool,Pool C
 Missouri,Oklahoma State University,12,4,"02/25/2023, 08:30",Pool C,Final
 Texas (B),Rice,5,11,"02/25/2023, 08:30",Pool C,Final
 Missouri,Texas (B),13,5,"02/25/2023, 10:00",Pool C,Final
 Iowa,Rice,12,5,"02/25/2023, 10:00",Pool C,Final
-Rice,Oklahoma State University,0,0,"02/25/2023, 11:30",Pool C,Scheduled
-Iowa,Texas (B),0,0,"02/25/2023, 11:30",Pool C,Scheduled
-Missouri,Rice,0,0,"02/25/2023, 13:00",Pool C,Scheduled
-Iowa,Oklahoma State University,0,0,"02/25/2023, 13:00",Pool C,Scheduled
+Rice,Oklahoma State University,10,7,"02/25/2023, 11:30",Pool C,Final
+Iowa,Texas (B),12,6,"02/25/2023, 11:30",Pool C,Final
+Missouri,Rice,12,6,"02/25/2023, 13:00",Pool C,Final
+Iowa,Oklahoma State University,11,4,"02/25/2023, 13:00",Pool C,Final
 Missouri,Iowa,0,0,"02/25/2023, 14:30",Pool C,Scheduled
 Texas (B),Oklahoma State University,0,0,"02/25/2023, 14:30",Pool C,Scheduled
 pool,Pool D
@@ -463,10 +463,10 @@ Arkansas,Harding,13,5,"02/25/2023, 08:30",Pool D,Final
 Wichita State University,North Texas,9,8,"02/25/2023, 08:30",Pool D,Final
 Arkansas,Wichita State University,10,7,"02/25/2023, 10:00",Pool D,Final
 Baylor,North Texas,5,9,"02/25/2023, 10:00",Pool D,Final
-North Texas,Harding,0,0,"02/25/2023, 11:30",Pool D,Scheduled
-Baylor,Wichita State University,0,0,"02/25/2023, 11:30",Pool D,Scheduled
-Arkansas,North Texas,0,0,"02/25/2023, 13:00",Pool D,Scheduled
-Baylor,Harding,0,0,"02/25/2023, 13:00",Pool D,Scheduled
+North Texas,Harding,9,6,"02/25/2023, 11:30",Pool D,Final
+Baylor,Wichita State University,7,13,"02/25/2023, 11:30",Pool D,Final
+Arkansas,North Texas,9,8,"02/25/2023, 13:00",Pool D,Final
+Baylor,Harding,13,8,"02/25/2023, 13:00",Pool D,Final
 Arkansas,Baylor,0,0,"02/25/2023, 14:30",Pool D,Scheduled
 Wichita State University,Harding,0,0,"02/25/2023, 14:30",Pool D,Scheduled
 b,r,e,a,k

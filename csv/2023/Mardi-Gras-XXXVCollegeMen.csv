@@ -29,10 +29,6 @@ Indiana,1
 25,George Peterson
 69,Liam Mulligan
 b,r,e,a,k
-Sam Houston State,12
-0,Ya Chih Cheng
-12,Sidney Arel
-b,r,e,a,k
 LSU,8
 0,Adam Richards
 0,Austin McDonnell
@@ -61,6 +57,10 @@ LSU,8
 69,Jared Smith
 81,Devon Teer
 90,Saif Ahmed
+b,r,e,a,k
+Sam Houston State,12
+0,Ya Chih Cheng
+12,Sidney Arel
 b,r,e,a,k
 Spring Hill College,13
 03,Carter Pesnell
@@ -231,37 +231,6 @@ Alabama-Huntsville,3
 99,Colby Bong
 99,Nolan Anderson
 b,r,e,a,k
-Mississippi State (B),19
-08,Tayshaun Smith
-17,Joshua Hamann
-18,Christian Spencer
-19,Joshua Cagle
-21,Gideon Miller
-28,Skylar Bates
-47,Dawson Johns
-50,Ka'Von Spivey
-77,Jackson Thomas
-99,Sean Glasgow
-b,r,e,a,k
-Miami,15
-0,Brandon Wittrock
-02,Andrew Dietel
-03,Trey Riera-Gomez
-05,Jesse Ramos
-07,Timothy Hunsdorfer
-08,Seán Sheehy
-10,Matthew Duval
-11,Connor Lavigne
-17,Calvin Leung
-19,Pierce Kinney
-24,Nicholas Montes
-27,Brandon Scheinbach
-28,Elliot Danto
-36,Noah Teer
-43,Jackson Baer
-56,Owen Fleming
-69,Lux Sovann
-b,r,e,a,k
 Texas State,6
 0,Aaron Ogdee
 0,Aidan Wilson
@@ -287,6 +256,66 @@ Texas State,6
 15,Jake Strickling
 33,Rion Saldana
 88,Reid Pannell
+b,r,e,a,k
+Miami,15
+0,Brandon Wittrock
+02,Andrew Dietel
+03,Trey Riera-Gomez
+05,Jesse Ramos
+07,Timothy Hunsdorfer
+08,Seán Sheehy
+10,Matthew Duval
+11,Connor Lavigne
+17,Calvin Leung
+19,Pierce Kinney
+24,Nicholas Montes
+27,Brandon Scheinbach
+28,Elliot Danto
+36,Noah Teer
+43,Jackson Baer
+56,Owen Fleming
+69,Lux Sovann
+b,r,e,a,k
+Mississippi State (B),19
+08,Tayshaun Smith
+17,Joshua Hamann
+18,Christian Spencer
+19,Joshua Cagle
+21,Gideon Miller
+28,Skylar Bates
+47,Dawson Johns
+50,Ka'Von Spivey
+77,Jackson Thomas
+99,Sean Glasgow
+b,r,e,a,k
+Texas A&M,5
+0,Kyle Moran
+4,Decker Padgett
+5,Trace Cabaniss
+6,Aidan Lesseraux
+7,Michael Abide
+7,Vinay Patel
+8,Ben Stone
+10,Maren Monsivais
+11,nicholas taylor
+12,Kyle Sculley
+13,Tyler Reinhardt
+15,Josiah Padgett
+16,Timothy Mosher
+17,Benjamin Riggs
+18,Ethan Niedzwiedz
+20,Evan Menefee
+22,Tony Cao
+23,Garrison Abide
+24,Riley Falls
+31,Nicholas Viggato
+37,Michael  Stamps
+47,Akshaj Kumar
+54,Colby Millenbruch
+55,Aaron Su
+66,Ethan Reid
+69,Justin Davis
+99,Spencer Solberg
 b,r,e,a,k
 Central Florida,4
 2,Alexander Mooney
@@ -326,35 +355,6 @@ Mississippi State,9
 31,Grant Houston
 74,Owen McCoy
 b,r,e,a,k
-Texas A&M,5
-0,Kyle Moran
-4,Decker Padgett
-5,Trace Cabaniss
-6,Aidan Lesseraux
-7,Michael Abide
-7,Vinay Patel
-8,Ben Stone
-10,Maren Monsivais
-11,nicholas taylor
-12,Kyle Sculley
-13,Tyler Reinhardt
-15,Josiah Padgett
-16,Timothy Mosher
-17,Benjamin Riggs
-18,Ethan Niedzwiedz
-20,Evan Menefee
-22,Tony Cao
-23,Garrison Abide
-24,Riley Falls
-31,Nicholas Viggato
-37,Michael  Stamps
-47,Akshaj Kumar
-54,Colby Millenbruch
-55,Aaron Su
-66,Ethan Reid
-69,Justin Davis
-99,Spencer Solberg
-b,r,e,a,k
 Tulane (B),16
 0,Advaith Subramanian
 0,Axel Nielsen
@@ -393,10 +393,10 @@ pools,Saturday Pool Play
 pool,Pool A
 Indiana,Houston,13,3,"02/25/2023, 08:30",Pool A,Final
 Sam Houston State,Spring Hill College,13,4,"02/25/2023, 08:30",Pool A,Final
-Indiana,Sam Houston State,0,0,"02/25/2023, 12:00",Pool A,Scheduled
-LSU,Spring Hill College,0,0,"02/25/2023, 12:00",Pool A,Scheduled
-Spring Hill College,Houston,0,0,"02/25/2023, 13:45",Pool A,Scheduled
-LSU,Sam Houston State,0,0,"02/25/2023, 13:45",Pool A,Scheduled
+Indiana,Sam Houston State,13,9,"02/25/2023, 12:00",Pool A,Final
+LSU,Spring Hill College,13,8,"02/25/2023, 12:00",Pool A,Final
+Spring Hill College,Houston,10,7,"02/25/2023, 13:45",Pool A,Final
+LSU,Sam Houston State,11,7,"02/25/2023, 13:45",Pool A,Final
 Indiana,Spring Hill College,0,0,"02/25/2023, 15:30",Pool A,Scheduled
 LSU,Houston,0,0,"02/25/2023, 15:30",Pool A,Scheduled
 Indiana,LSU,0,0,"02/25/2023, 17:15",Pool A,Scheduled
@@ -404,10 +404,10 @@ Sam Houston State,Houston,0,0,"02/25/2023, 17:15",Pool A,Scheduled
 pool,Pool B
 Florida,Trinity University,13,5,"02/25/2023, 08:30",Pool B,Final
 Jacksonville State,Texas Tech,13,8,"02/25/2023, 08:30",Pool B,Final
-Florida,Jacksonville State,0,0,"02/25/2023, 10:15",Pool B,Scheduled
+Florida,Jacksonville State,13,4,"02/25/2023, 10:15",Pool B,Final
 Tennessee-Chattanooga,Texas Tech,13,0,"02/25/2023, 10:15",Pool B,Final
 Texas Tech,Trinity University,0,0,"02/25/2023, 13:45",Pool B,Scheduled
-Tennessee-Chattanooga,Jacksonville State,0,0,"02/25/2023, 13:45",Pool B,Scheduled
+Tennessee-Chattanooga,Jacksonville State,13,4,"02/25/2023, 13:45",Pool B,Final
 Florida,Texas Tech,0,0,"02/25/2023, 15:30",Pool B,Scheduled
 Tennessee-Chattanooga,Trinity University,0,0,"02/25/2023, 15:30",Pool B,Scheduled
 Florida,Tennessee-Chattanooga,0,0,"02/25/2023, 17:15",Pool B,Scheduled
@@ -416,9 +416,9 @@ pool,Pool C
 Alabama-Huntsville,Mississippi State (B),13,4,"02/25/2023, 08:30",Pool C,Final
 Kennesaw State,Miami,13,4,"02/25/2023, 08:30",Pool C,Final
 Alabama-Huntsville,Kennesaw State,11,8,"02/25/2023, 10:15",Pool C,Scheduled
-Texas State,Miami,0,0,"02/25/2023, 10:15",Pool C,Scheduled
-Miami,Mississippi State (B),0,0,"02/25/2023, 12:00",Pool C,Scheduled
-Texas State,Kennesaw State,0,0,"02/25/2023, 12:00",Pool C,Scheduled
+Texas State,Miami,13,10,"02/25/2023, 10:15",Pool C,Final
+Miami,Mississippi State (B),7,4,"02/25/2023, 12:00",Pool C,Final
+Texas State,Kennesaw State,9,10,"02/25/2023, 12:00",Pool C,Final
 Alabama-Huntsville,Miami,0,0,"02/25/2023, 15:30",Pool C,Scheduled
 Texas State,Mississippi State (B),0,0,"02/25/2023, 15:30",Pool C,Scheduled
 Alabama-Huntsville,Texas State,0,0,"02/25/2023, 17:15",Pool C,Scheduled
@@ -427,11 +427,11 @@ pool,Pool D
 Central Florida,University of Mississippi,13,3,"02/25/2023, 08:30",Pool D,Final
 Mississippi State,Tulane (B),13,6,"02/25/2023, 08:30",Pool D,Final
 Central Florida,Mississippi State,10,9,"02/25/2023, 10:15",Pool D,Final
-Texas A&M,Tulane (B),0,0,"02/25/2023, 10:15",Pool D,Scheduled
-Tulane (B),University of Mississippi,0,0,"02/25/2023, 12:00",Pool D,Scheduled
-Texas A&M,Mississippi State,0,0,"02/25/2023, 12:00",Pool D,Scheduled
+Texas A&M,Tulane (B),11,6,"02/25/2023, 10:15",Pool D,Final
+Tulane (B),University of Mississippi,11,8,"02/25/2023, 12:00",Pool D,Final
+Texas A&M,Mississippi State,11,6,"02/25/2023, 12:00",Pool D,Final
 Central Florida,Tulane (B),0,0,"02/25/2023, 13:45",Pool D,Scheduled
-Texas A&M,University of Mississippi,0,0,"02/25/2023, 13:45",Pool D,Scheduled
+Texas A&M,University of Mississippi,13,1,"02/25/2023, 13:45",Pool D,Final
 Central Florida,Texas A&M,0,0,"02/25/2023, 15:30",Pool D,Scheduled
 Mississippi State,University of Mississippi,0,0,"02/25/2023, 15:30",Pool D,Scheduled
 b,r,e,a,k

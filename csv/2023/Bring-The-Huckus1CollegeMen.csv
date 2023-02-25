@@ -132,25 +132,6 @@ SUNY Cortland,5
 97,James Marino
 99,Maxwell Tolan
 b,r,e,a,k
-Penn State (B),6
-9,Luke Vernon
-14,Sam Wherley
-15,Jeremy Mack
-22,Joseph Hennessy
-24,Norman Holloway
-28,Dylan Connor
-43,Steven Remish
-47,Spencer Milanek
-48,Ethan Dunmire
-52,Harsh Zaver
-53,Jake Niessen
-95,Josh Rechenberg
-99,Gabe Vanderbrink
-b,r,e,a,k
-Army,7
-b,r,e,a,k
-Vermont (B),8
-b,r,e,a,k
 Massachusetts (B),9
 0,Jacob LaRue
 0,Jayden Amirault
@@ -178,6 +159,25 @@ Massachusetts (B),9
 19,Ryan Lynch
 20,Cameron Salvatore
 54,Ian McKenna
+b,r,e,a,k
+Army,7
+b,r,e,a,k
+Vermont (B),8
+b,r,e,a,k
+Penn State (B),6
+9,Luke Vernon
+14,Sam Wherley
+15,Jeremy Mack
+22,Joseph Hennessy
+24,Norman Holloway
+28,Dylan Connor
+43,Steven Remish
+47,Spencer Milanek
+48,Ethan Dunmire
+52,Harsh Zaver
+53,Jake Niessen
+95,Josh Rechenberg
+99,Gabe Vanderbrink
 b,r,e,a,k
 Swarthmore,10
 0,Aaron Thammavongxay
@@ -320,12 +320,12 @@ Ithaca,Rochester,0,0,"02/25/2023, 15:00",Pool A,Scheduled
 SUNY-Albany,SUNY Cortland,0,0,"02/25/2023, 15:00",Pool A,Scheduled
 pool,Pool B
 Penn State (B),Swarthmore,0,0,"02/25/2023, 09:00",Pool B,Scheduled
-Vermont (B),Massachusetts (B),0,0,"02/25/2023, 09:00",Pool B,Scheduled
+Vermont (B),Massachusetts (B),8,10,"02/25/2023, 09:00",Pool B,Final
 Penn State (B),Vermont (B),0,0,"02/25/2023, 10:30",Pool B,Scheduled
-Army,Massachusetts (B),0,0,"02/25/2023, 10:30",Pool B,Scheduled
-Massachusetts (B),Swarthmore,0,0,"02/25/2023, 12:00",Pool B,Scheduled
+Army,Massachusetts (B),8,9,"02/25/2023, 10:30",Pool B,Final
+Massachusetts (B),Swarthmore,13,4,"02/25/2023, 12:00",Pool B,Final
 Army,Vermont (B),0,0,"02/25/2023, 12:00",Pool B,Scheduled
-Penn State (B),Massachusetts (B),0,0,"02/25/2023, 13:30",Pool B,Scheduled
+Penn State (B),Massachusetts (B),6,10,"02/25/2023, 13:30",Pool B,Final
 Army,Swarthmore,0,0,"02/25/2023, 13:30",Pool B,Scheduled
 Penn State (B),Army,0,0,"02/25/2023, 15:00",Pool B,Scheduled
 Vermont (B),Swarthmore,0,0,"02/25/2023, 15:00",Pool B,Scheduled
