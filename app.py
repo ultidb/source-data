@@ -6,6 +6,7 @@ import subprocess, time, atexit, csv
 from tor import startTorServer
 from scrape import scrapeListOfTournamentUrls, Config
 import logging as log
+import requests
 
 ongoingTournaments = []
 upcomingTournaments = []
@@ -70,15 +71,19 @@ def scrapeOngoingTournaments():
     config = Config(int(year), False, True, True, False)
     global ongoingTournaments
     scrapeListOfTournamentUrls(config, ongoingTournaments)
-    listUpdatedCsvs()
+    csvs = listUpdatedCsvs()
     commitToGit()
+    postListToAPI(csvs)
 
 def scrapeUpcomingTournaments():
     global year
     config = Config(int(year), True, True, False, False)
     global upcomingTournaments
     scrapeListOfTournamentUrls(config, upcomingTournaments)
+    csvs = listUpdatedCsvs()
     commitToGit()
+    postListToAPI(csvs)
+
 
 def commitToGit():
     subprocess.run(["git", "checkout", "live"])
@@ -96,6 +101,10 @@ def listUpdatedCsvs():
         if len(items) > 1:
             output.append(items[1])
     print(output)
+
+def postListToAPI(csvs):
+    r = requests.post('http://127.0.0.1:3030/v1/ingest', json=csvs)
+    print(r.status_code)
 
 log.basicConfig(
         level=log.DEBUG,

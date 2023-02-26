@@ -141,6 +141,24 @@ Pittsburgh,2
 42,Stephanie Le
 89,Katherine  McCormick
 b,r,e,a,k
+Georgia,6
+0,Briana Li
+0,Emma Tucker
+0,Jamie Martin
+0,Korie Rudin
+0,Paige Robinson
+0,Sara Logsdon
+1,Quincy Booth
+5,Anne Cooke
+6,Sarah Lang
+7,Abigail Barrantes
+9,Elle Mayer
+12,Sarah  Povie
+15,Sophia DeLuca
+22,Susannah Parker
+27,Jane Brock
+42,Alessa Cullinan
+b,r,e,a,k
 Brown,10
 0,Chloe de Campos
 0,Dana Richie
@@ -163,24 +181,6 @@ Brown,10
 5,Rita Feder
 14,Amelia Chalfant
 88,Anjali Shah
-b,r,e,a,k
-Georgia,6
-0,Briana Li
-0,Emma Tucker
-0,Jamie Martin
-0,Korie Rudin
-0,Paige Robinson
-0,Sara Logsdon
-1,Quincy Booth
-5,Anne Cooke
-6,Sarah Lang
-7,Abigail Barrantes
-9,Elle Mayer
-12,Sarah  Povie
-15,Sophia DeLuca
-22,Susannah Parker
-27,Jane Brock
-42,Alessa Cullinan
 b,r,e,a,k
 Michigan,3
 0,Audrey McManus
@@ -445,8 +445,8 @@ Columbia,Penn State,8,10,"02/25/2023, 12:30",Pool A,Final
 Northeastern,SUNY-Binghamton,8,6,"02/25/2023, 12:30",Pool A,Final
 Virginia,Columbia,11,5,"02/25/2023, 14:15",Pool A,Final
 Northeastern,Penn State,13,3,"02/25/2023, 14:15",Pool A,Final
-Virginia,Northeastern,0,0,"02/25/2023, 16:00",Pool A,Scheduled
-SUNY-Binghamton,Penn State,0,0,"02/25/2023, 16:00",Pool A,Scheduled
+Virginia,Northeastern,6,13,"02/25/2023, 16:00",Pool A,Final
+SUNY-Binghamton,Penn State,13,8,"02/25/2023, 16:00",Pool A,Final
 pool,Pool B
 Pittsburgh,Brown,12,9,"02/25/2023, 09:00",Pool B,Final
 Georgia,Yale,7,13,"02/25/2023, 09:00",Pool B,Final
@@ -456,8 +456,8 @@ Yale,Brown,4,13,"02/25/2023, 12:30",Pool B,Final
 Michigan,Georgia,9,12,"02/25/2023, 12:30",Pool B,Final
 Pittsburgh,Yale,10,11,"02/25/2023, 14:15",Pool B,Final
 Michigan,Brown,10,11,"02/25/2023, 14:15",Pool B,Final
-Pittsburgh,Michigan,0,0,"02/25/2023, 16:00",Pool B,Scheduled
-Georgia,Brown,0,0,"02/25/2023, 16:00",Pool B,Scheduled
+Pittsburgh,Michigan,11,7,"02/25/2023, 16:00",Pool B,Final
+Georgia,Brown,9,8,"02/25/2023, 16:00",Pool B,Final
 pool,Pool C
 Pennsylvania,MIT,15,3,"02/25/2023, 10:00",Pool C,Final
 Case Western Reserve,Maryland,14,5,"02/25/2023, 10:00",Pool C,Final
@@ -482,6 +482,14 @@ Carnegie Mellon,South Carolina,9,14,"02/25/2023, 14:00",Pool E,Final
 b,r,e,a,k
 brackets,W BP
 bracket,CHAMPIONSHIP BRACKET
+Northeastern,Case Western Reserve,13,1,"02/26/2023, 08:30",PRE-Q,Final
+Brown,Columbia,0,0,"02/26/2023, 08:30",PRE-Q,Scheduled
+Pittsburgh,South Carolina,0,0,"02/26/2023, 08:30",PRE-Q,Scheduled
+Virginia,Ohio State,13,8,"02/26/2023, 08:30",PRE-Q,Final
+Yale,Massachusetts,13,6,"02/26/2023, 08:30",PRE-Q,Final
+Penn State,Michigan,0,0,"02/26/2023, 08:30",PRE-Q,Scheduled
+SUNY-Binghamton,Notre Dame,0,0,"02/26/2023, 08:30",PRE-Q,Scheduled
+Georgia,Pennsylvania,0,0,"02/26/2023, 08:30",PRE-Q,Scheduled
 bracket,3RD PLACE GAME
 bracket,5TH PLACE BRACKET
 bracket,7TH PLACE GAME

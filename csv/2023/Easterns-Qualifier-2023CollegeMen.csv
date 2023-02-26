@@ -69,34 +69,6 @@ William & Mary,1
 66,Charles Tai
 99,Jacques Worth
 b,r,e,a,k
-Alabama,13
-0,Aidan Joyce
-0,Arden Markin
-0,Ben Anderson
-0,Brady Grogan
-0,Devin Kelly
-0,Foster Palmer 
-0,Jeffrey Martin
-0,Lachlan Campbell
-0,LaNolan Billingsley
-0,Morgan Knight
-0,Nace Allen
-0,Spencer Young
-0,Steven Ladenberger
-0,Trey Besch
-0,William Nash
-2,Scott Landers
-2,Garrett Murphy
-7,Jacob Ham
-7,Joseph Gilroy
-8,Logan Ashwell
-16,Thomas Orchanian
-26,Dalton Brewer
-56,Benjamin Miralaeff
-57,Dylan Doherty
-69,Zachary Powers
-84,Joshua Lewis
-b,r,e,a,k
 Georgetown,12
 0,Aidan Mitchell
 0,Andrew Sington
@@ -124,6 +96,34 @@ Georgetown,12
 84,Isaac Hawkins
 88,David Song
 99,Matthew Zuppas
+b,r,e,a,k
+Alabama,13
+0,Aidan Joyce
+0,Arden Markin
+0,Ben Anderson
+0,Brady Grogan
+0,Devin Kelly
+0,Foster Palmer 
+0,Jeffrey Martin
+0,Lachlan Campbell
+0,LaNolan Billingsley
+0,Morgan Knight
+0,Nace Allen
+0,Spencer Young
+0,Steven Ladenberger
+0,Trey Besch
+0,William Nash
+2,Scott Landers
+2,Garrett Murphy
+7,Jacob Ham
+7,Joseph Gilroy
+8,Logan Ashwell
+16,Thomas Orchanian
+26,Dalton Brewer
+56,Benjamin Miralaeff
+57,Dylan Doherty
+69,Zachary Powers
+84,Joshua Lewis
 b,r,e,a,k
 Cincinnati,17
 0,brayden Spencer
@@ -173,11 +173,11 @@ Duke,11
 38,Alex Zhuang
 75,Jason Tran
 b,r,e,a,k
-Maryland,7
+North Carolina-Wilmington,2
 b,r,e,a,k
 Notre Dame,18
 b,r,e,a,k
-North Carolina-Wilmington,2
+Maryland,7
 b,r,e,a,k
 Florida State,14
 b,r,e,a,k
@@ -350,6 +350,35 @@ Cornell,16
 92,Sam Garncarz
 94,Ka Lok Ethan Lau
 b,r,e,a,k
+Georgia Tech,5
+0,Alex Broering
+0,Chris Gmeiner
+0,Ephraim Connor
+0,Joshua Ngotiaoco
+0,Nikos Verlenden
+0,Philip Emry
+0,Sean Jung
+2,Derek Rizzi
+2,Carter Tegen
+5,Neil Barry
+6,Raymond Jia
+7,Christopher Zuo
+13,Nathan Adair
+14,Alden Rosakranse
+16,Kevin Fan
+17,Charlie Orth
+18,Nicholas Huffman
+19,Sam Orth
+24,Matthew Mills
+26,Keller Smith
+28,Eric Shen
+37,Owen Hammond-Lee
+42,Adam Grossberg
+46,Brendan McCluskey
+72,Matthew Dacey-Koo
+77,Flavius Penescu
+88,Peter Gardner
+b,r,e,a,k
 Case Western Reserve,4
 0,Alex Flores
 0,Anil Driehuys
@@ -380,35 +409,6 @@ Case Western Reserve,4
 77,Will Oltjen 
 81,Graham Galts
 99,Daniel Estrin
-b,r,e,a,k
-Georgia Tech,5
-0,Alex Broering
-0,Chris Gmeiner
-0,Ephraim Connor
-0,Joshua Ngotiaoco
-0,Nikos Verlenden
-0,Philip Emry
-0,Sean Jung
-2,Derek Rizzi
-2,Carter Tegen
-5,Neil Barry
-6,Raymond Jia
-7,Christopher Zuo
-13,Nathan Adair
-14,Alden Rosakranse
-16,Kevin Fan
-17,Charlie Orth
-18,Nicholas Huffman
-19,Sam Orth
-24,Matthew Mills
-26,Keller Smith
-28,Eric Shen
-37,Owen Hammond-Lee
-42,Adam Grossberg
-46,Brendan McCluskey
-72,Matthew Dacey-Koo
-77,Flavius Penescu
-88,Peter Gardner
 b,r,e,a,k
 The George Washington University,20
 0,Daniel Davis
@@ -445,8 +445,8 @@ Alabama,Cincinnati,13,12,"02/25/2023, 12:30",Pool A,Final
 North Carolina-Charlotte,Georgetown,13,9,"02/25/2023, 12:30",Pool A,Final
 William & Mary,Alabama,13,6,"02/25/2023, 14:15",Pool A,Final
 North Carolina-Charlotte,Cincinnati,13,7,"02/25/2023, 14:15",Pool A,Final
-William & Mary,North Carolina-Charlotte,0,0,"02/25/2023, 16:00",Pool A,Scheduled
-Georgetown,Cincinnati,0,0,"02/25/2023, 16:00",Pool A,Scheduled
+William & Mary,North Carolina-Charlotte,8,13,"02/25/2023, 16:00",Pool A,Final
+Georgetown,Cincinnati,13,11,"02/25/2023, 16:00",Pool A,Final
 pool,Pool B
 North Carolina-Wilmington,Notre Dame,11,12,"02/25/2023, 09:00",Pool B,Final
 Duke,Florida State,12,9,"02/25/2023, 09:00",Pool B,Final
@@ -456,8 +456,8 @@ Florida State,Notre Dame,10,13,"02/25/2023, 12:30",Pool B,Final
 Maryland,Duke,11,12,"02/25/2023, 12:30",Pool B,Final
 North Carolina-Wilmington,Florida State,13,7,"02/25/2023, 14:15",Pool B,Final
 Maryland,Notre Dame,13,12,"02/25/2023, 14:15",Pool B,Final
-North Carolina-Wilmington,Maryland,0,0,"02/25/2023, 16:00",Pool B,Scheduled
-Duke,Notre Dame,4,4,"02/25/2023, 16:00",Pool B,Scheduled
+North Carolina-Wilmington,Maryland,12,9,"02/25/2023, 16:00",Pool B,Final
+Duke,Notre Dame,13,9,"02/25/2023, 16:00",Pool B,Final
 pool,Pool C
 McGill,Georgia State,13,7,"02/25/2023, 09:00",Pool C,Final
 James Madison,Temple,13,11,"02/25/2023, 09:00",Pool C,Final
@@ -467,8 +467,8 @@ Temple,Georgia State,7,11,"02/25/2023, 12:30",Pool C,Final
 South Carolina,James Madison,13,9,"02/25/2023, 12:30",Pool C,Final
 McGill,Temple,10,8,"02/25/2023, 14:15",Pool C,Final
 South Carolina,Georgia State,13,4,"02/25/2023, 14:15",Pool C,Final
-McGill,South Carolina,0,0,"02/25/2023, 16:00",Pool C,Scheduled
-James Madison,Georgia State,0,0,"02/25/2023, 16:00",Pool C,Scheduled
+McGill,South Carolina,11,13,"02/25/2023, 16:00",Pool C,Final
+James Madison,Georgia State,13,10,"02/25/2023, 16:00",Pool C,Final
 pool,Pool D
 Case Western Reserve,The George Washington University,13,12,"02/25/2023, 09:00",Pool D,Final
 Virginia,Cornell,12,7,"02/25/2023, 09:00",Pool D,Final
@@ -478,21 +478,35 @@ Cornell,The George Washington University,12,10,"02/25/2023, 12:30",Pool D,Final
 Georgia Tech,Virginia,10,12,"02/25/2023, 12:30",Pool D,Final
 Case Western Reserve,Cornell,13,11,"02/25/2023, 14:15",Pool D,Final
 Georgia Tech,The George Washington University,13,5,"02/25/2023, 14:15",Pool D,Final
-Case Western Reserve,Georgia Tech,0,0,"02/25/2023, 16:00",Pool D,Scheduled
-Virginia,The George Washington University,0,0,"02/25/2023, 16:00",Pool D,Scheduled
+Case Western Reserve,Georgia Tech,9,13,"02/25/2023, 16:00",Pool D,Final
+Virginia,The George Washington University,13,7,"02/25/2023, 16:00",Pool D,Final
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,Championship Bracket
+North Carolina-Charlotte,North Carolina-Wilmington,0,0,"02/26/2023, 09:00",Quarterfinals,In Progress
+James Madison,Virginia,0,0,"02/26/2023, 09:00",Quarterfinals,In Progress
+South Carolina,Cornell,0,0,"02/26/2023, 09:00",Quarterfinals,In Progress
+William & Mary,Duke,8,5,"02/26/2023, 09:00",Quarterfinals,In Progress
 bracket,3rd Place
 bracket,5th Place
 bracket,7th Place
 b,r,e,a,k
 brackets,9th Place Bracket
 bracket,9th Place Bracket
+Georgetown,Maryland,0,0,"02/26/2023, 09:00",9th Place Quarterfinals,In Progress
+Georgia State,Georgia Tech,0,0,"02/26/2023, 09:00",9th Place Quarterfinals,In Progress
+McGill,Case Western Reserve,0,0,"02/26/2023, 09:00",9th Place Quarterfinals,In Progress
+Alabama,Notre Dame,0,0,"02/26/2023, 09:00",9th Place Quarterfinals,In Progress
 bracket,11th Place
 bracket,13th Place Bracket
 bracket,15th Place
 b,r,e,a,k
 pools,Sunday Consolation Pool
 pool,Pool E
+Cincinnati,Temple,0,0,"02/26/2023, 09:00",Pool E,Scheduled
+Florida State,The George Washington University,0,0,"02/26/2023, 09:00",Pool E,Scheduled
+Cincinnati,The George Washington University,0,0,"02/26/2023, 11:00",Pool E,Scheduled
+Florida State,Temple,0,0,"02/26/2023, 11:00",Pool E,Scheduled
+Cincinnati,Florida State,0,0,"02/26/2023, 13:00",Pool E,Scheduled
+Temple,The George Washington University,0,0,"02/26/2023, 13:00",Pool E,Scheduled
 b,r,e,a,k

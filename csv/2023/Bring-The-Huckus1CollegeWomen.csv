@@ -13,6 +13,8 @@ Dartmouth,1
 0,Wenxin (Rose) Zhao
 4,Megan Ren
 b,r,e,a,k
+Lehigh,3
+b,r,e,a,k
 Haverford-Bryn Mawr,2
 0,Alexandra Lederman
 0,Amy Tse
@@ -39,8 +41,6 @@ Haverford-Bryn Mawr,2
 0,Zhao Gu Gammage
 0,Zoe Costanza
 b,r,e,a,k
-Lehigh,3
-b,r,e,a,k
 SUNY-Geneseo,4
 2,Emma Hayes
 5,Nora Whorton
@@ -57,30 +57,6 @@ SUNY-Geneseo,4
 28,Madison  Kieft 
 34,Rebecca Rocco
 57,Alexandra Flurschutz
-b,r,e,a,k
-Swarthmore,5
-b,r,e,a,k
-New Hampshire,6
-01,Anna Arnold
-02,Cora Salzano
-03,Grace Ruszkai
-04,Halery Desilets
-05,Avalaine Dries
-06,Elizabeth Menard
-11,Kaisa Mundorff
-12,Acadia Spear
-13,Meaghan Corbett
-16,Kathryn Concannon
-17,Sandra Thelander
-20,Katherine Wimberly
-21,Elisabeth Petit
-22,Talia Monroe
-23,Isabella Collamati
-24,Julia Edgar
-27,Allison  Qualls
-31,Kristen Petagna
-48,Clara Manley
-63,Faith Frings
 b,r,e,a,k
 Boston College,7
 0,Ashley Xu
@@ -104,6 +80,28 @@ Boston College,7
 0,Sophia Stanton
 0,Sydney Prechtl
 b,r,e,a,k
+New Hampshire,6
+01,Anna Arnold
+02,Cora Salzano
+03,Grace Ruszkai
+04,Halery Desilets
+05,Avalaine Dries
+06,Elizabeth Menard
+11,Kaisa Mundorff
+12,Acadia Spear
+13,Meaghan Corbett
+16,Kathryn Concannon
+17,Sandra Thelander
+20,Katherine Wimberly
+21,Elisabeth Petit
+22,Talia Monroe
+23,Isabella Collamati
+24,Julia Edgar
+27,Allison  Qualls
+31,Kristen Petagna
+48,Clara Manley
+63,Faith Frings
+b,r,e,a,k
 Connecticut College,8
 0,Chloe Schlesselman
 0,Gemma Savitz-Vogel
@@ -115,6 +113,8 @@ Connecticut College,8
 22,Althea Tierney
 23,Kristen Hummer
 51,Sabilah Alibhai
+b,r,e,a,k
+Swarthmore,5
 b,r,e,a,k
 Ithaca,9
 02,Leah Lin
@@ -134,6 +134,8 @@ Syracuse University,10
 15,Meris Rosenberg
 27,Adelaide Sprague
 b,r,e,a,k
+Dickinson,12
+b,r,e,a,k
 Princeton,11
 0,Bethany Villaruz
 0,Carrie Li
@@ -146,35 +148,40 @@ Princeton,11
 3,Anna-Maria  Chedia
 12,Tracy Zhang
 b,r,e,a,k
-Dickinson,12
-b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool
 pool,Pool A
-Dartmouth,Lehigh,0,0,"02/25/2023, 10:00",Pool A,Scheduled
-Haverford-Bryn Mawr,SUNY-Geneseo,0,0,"02/25/2023, 10:00",Pool A,Scheduled
-Dartmouth,SUNY-Geneseo,0,0,"02/25/2023, 12:00",Pool A,Scheduled
-Haverford-Bryn Mawr,Lehigh,0,0,"02/25/2023, 12:00",Pool A,Scheduled
-Dartmouth,Haverford-Bryn Mawr,0,0,"02/25/2023, 14:00",Pool A,Scheduled
-Lehigh,SUNY-Geneseo,0,0,"02/25/2023, 14:00",Pool A,Scheduled
+Dartmouth,Lehigh,11,7,"02/25/2023, 10:00",Pool A,Final
+Haverford-Bryn Mawr,SUNY-Geneseo,10,7,"02/25/2023, 10:00",Pool A,Final
+Dartmouth,SUNY-Geneseo,7,10,"02/25/2023, 12:00",Pool A,Final
+Haverford-Bryn Mawr,Lehigh,7,11,"02/25/2023, 12:00",Pool A,Final
+Dartmouth,Haverford-Bryn Mawr,10,9,"02/25/2023, 14:00",Pool A,Final
+Lehigh,SUNY-Geneseo,12,10,"02/25/2023, 14:00",Pool A,Final
 pool,Pool B
-Swarthmore,Boston College,0,0,"02/25/2023, 10:00",Pool B,Scheduled
-New Hampshire,Connecticut College,0,0,"02/25/2023, 10:00",Pool B,Scheduled
-Swarthmore,Connecticut College,0,0,"02/25/2023, 12:00",Pool B,Scheduled
-New Hampshire,Boston College,0,0,"02/25/2023, 12:00",Pool B,Scheduled
-Swarthmore,New Hampshire,0,0,"02/25/2023, 14:00",Pool B,Scheduled
-Boston College,Connecticut College,0,0,"02/25/2023, 14:00",Pool B,Scheduled
+Swarthmore,Boston College,3,11,"02/25/2023, 10:00",Pool B,Final
+New Hampshire,Connecticut College,7,6,"02/25/2023, 10:00",Pool B,Final
+Swarthmore,Connecticut College,7,10,"02/25/2023, 12:00",Pool B,Final
+New Hampshire,Boston College,3,13,"02/25/2023, 12:00",Pool B,Final
+Swarthmore,New Hampshire,5,6,"02/25/2023, 14:00",Pool B,Final
+Boston College,Connecticut College,13,5,"02/25/2023, 14:00",Pool B,Final
 pool,Pool C
 Ithaca,Princeton,13,2,"02/25/2023, 10:00",Pool C,Final
 Syracuse University,Dickinson,13,0,"02/25/2023, 10:00",Pool C,Final
 Ithaca,Dickinson,7,2,"02/25/2023, 12:00",Pool C,Final
 Syracuse University,Princeton,8,2,"02/25/2023, 12:00",Pool C,Final
 Ithaca,Syracuse University,10,3,"02/25/2023, 14:00",Pool C,Final
-Princeton,Dickinson,0,0,"02/25/2023, 14:00",Pool C,Scheduled
+Princeton,Dickinson,6,9,"02/25/2023, 14:00",Pool C,Final
 b,r,e,a,k
 brackets,Bracket
 bracket,Championship
+Ithaca,Dartmouth,0,0,"02/26/2023, 10:30",Quarters,Scheduled
+Boston College,SUNY-Geneseo,0,0,"02/26/2023, 10:30",Quarters,Scheduled
+Swarthmore,Ithaca,0,1,"02/26/2023, 09:00",Play In,Final
+Boston College,Princeton,1,0,"02/26/2023, 09:00",Play In,Final
+New Hampshire,Dickinson,0,0,"02/26/2023, 09:00",Play In,Scheduled
+Connecticut College,Syracuse University,0,0,"02/26/2023, 09:00",Play In,Scheduled
 bracket,9th Place
+Swarthmore,Princeton,0,0,"02/26/2023, 10:30",9th Semis,Scheduled
 bracket,5th Place
 bracket,7th Place
 bracket,3rd Place

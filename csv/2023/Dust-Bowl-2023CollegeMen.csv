@@ -306,22 +306,6 @@ Rice,14
 52,Nathan Moskowitz
 72,Jake Sperry
 b,r,e,a,k
-Oklahoma State University,19
-0,Antonio Baldeon
-0,Isaac Jones
-0,Joseph Lynch
-0,Macormick Lyne
-0,Michael Tate
-0,Simon Landrum
-0,Stuart Wire
-0,Will Jones
-0,William Faust
-5,Matthew Greene
-22,Justin Arney
-23,Ryan Whisenhunt
-32,Matthew Nare
-63,Collin Wycoff
-b,r,e,a,k
 Texas (B),11
 0,Alex Valdes
 0,Ammar Fatehi
@@ -346,6 +330,22 @@ Texas (B),11
 2,Aidan Beam
 15,Rohan Patel
 b,r,e,a,k
+Oklahoma State University,19
+0,Antonio Baldeon
+0,Isaac Jones
+0,Joseph Lynch
+0,Macormick Lyne
+0,Michael Tate
+0,Simon Landrum
+0,Stuart Wire
+0,Will Jones
+0,William Faust
+5,Matthew Greene
+22,Justin Arney
+23,Ryan Whisenhunt
+32,Matthew Nare
+63,Collin Wycoff
+b,r,e,a,k
 Arkansas,4
 0,Ben Sampson
 0,Christopher Roy
@@ -365,18 +365,6 @@ Arkansas,4
 69,Asa Brown
 92,Tommy  Medford
 b,r,e,a,k
-North Texas,13
-0,Harold Hubbard
-0,Jancarlo  Perez
-0,Jason  Borchers 
-0,Joshua Fambro
-0,Nolan Henderson
-0,Parker Moran
-0,Ryan Munoz
-7,Samuel Garza
-11,Jonathan Scott
-11,Andrew Hambrick
-b,r,e,a,k
 Wichita State University,12
 0,Carter Murdock
 0,Jontell Russ
@@ -393,6 +381,18 @@ Wichita State University,12
 22,Josiah Pfeiffer
 44,Jack King
 81,Patrick Loganbill
+b,r,e,a,k
+North Texas,13
+0,Harold Hubbard
+0,Jancarlo  Perez
+0,Jason  Borchers 
+0,Joshua Fambro
+0,Nolan Henderson
+0,Parker Moran
+0,Ryan Munoz
+7,Samuel Garza
+11,Jonathan Scott
+11,Andrew Hambrick
 b,r,e,a,k
 Baylor,5
 0,Abigail Baier
@@ -434,8 +434,8 @@ Luther,Kansas State,13,3,"02/25/2023, 11:30",Pool A,Final
 Missouri S&T,John Brown,9,10,"02/25/2023, 11:30",Pool A,Final
 Texas-Dallas,Luther,11,9,"02/25/2023, 13:00",Pool A,Final
 Missouri S&T,Kansas State,13,0,"02/25/2023, 13:00",Pool A,Final
-Texas-Dallas,Missouri S&T,0,0,"02/25/2023, 14:30",Pool A,Scheduled
-John Brown,Kansas State,0,0,"02/25/2023, 14:30",Pool A,Scheduled
+Texas-Dallas,Missouri S&T,6,9,"02/25/2023, 14:30",Pool A,Final
+John Brown,Kansas State,13,0,"02/25/2023, 14:30",Pool A,Final
 pool,Pool B
 Oklahoma Christian,Illinois State,10,6,"02/25/2023, 08:30",Pool B,Final
 Oklahoma,Texas A&M (B),8,11,"02/25/2023, 08:30",Pool B,Final
@@ -445,8 +445,8 @@ Texas A&M (B),Illinois State,7,13,"02/25/2023, 11:30",Pool B,Final
 Kansas,Oklahoma,9,6,"02/25/2023, 11:30",Pool B,Final
 Oklahoma Christian,Texas A&M (B),13,1,"02/25/2023, 13:00",Pool B,Final
 Kansas,Illinois State,13,5,"02/25/2023, 13:00",Pool B,Final
-Oklahoma Christian,Kansas,11,4,"02/25/2023, 14:30",Pool B,In Progress
-Oklahoma,Illinois State,0,0,"02/25/2023, 14:30",Pool B,Scheduled
+Oklahoma Christian,Kansas,13,6,"02/25/2023, 14:30",Pool B,Final
+Oklahoma,Illinois State,4,10,"02/25/2023, 14:30",Pool B,Final
 pool,Pool C
 Missouri,Oklahoma State University,12,4,"02/25/2023, 08:30",Pool C,Final
 Texas (B),Rice,5,11,"02/25/2023, 08:30",Pool C,Final
@@ -456,8 +456,8 @@ Rice,Oklahoma State University,10,7,"02/25/2023, 11:30",Pool C,Final
 Iowa,Texas (B),12,6,"02/25/2023, 11:30",Pool C,Final
 Missouri,Rice,12,6,"02/25/2023, 13:00",Pool C,Final
 Iowa,Oklahoma State University,11,4,"02/25/2023, 13:00",Pool C,Final
-Missouri,Iowa,0,0,"02/25/2023, 14:30",Pool C,Scheduled
-Texas (B),Oklahoma State University,0,0,"02/25/2023, 14:30",Pool C,Scheduled
+Missouri,Iowa,10,8,"02/25/2023, 14:30",Pool C,Final
+Texas (B),Oklahoma State University,10,7,"02/25/2023, 14:30",Pool C,Final
 pool,Pool D
 Arkansas,Harding,13,5,"02/25/2023, 08:30",Pool D,Final
 Wichita State University,North Texas,9,8,"02/25/2023, 08:30",Pool D,Final
@@ -467,16 +467,24 @@ North Texas,Harding,9,6,"02/25/2023, 11:30",Pool D,Final
 Baylor,Wichita State University,7,13,"02/25/2023, 11:30",Pool D,Final
 Arkansas,North Texas,9,8,"02/25/2023, 13:00",Pool D,Final
 Baylor,Harding,13,8,"02/25/2023, 13:00",Pool D,Final
-Arkansas,Baylor,0,0,"02/25/2023, 14:30",Pool D,Scheduled
-Wichita State University,Harding,0,0,"02/25/2023, 14:30",Pool D,Scheduled
+Arkansas,Baylor,10,7,"02/25/2023, 14:30",Pool D,Final
+Wichita State University,Harding,13,6,"02/25/2023, 14:30",Pool D,Final
 b,r,e,a,k
 brackets,Sunday Bracket Play
 bracket,Championship Bracket
+Kansas,Texas-Dallas,0,0,"02/26/2023, 09:00",Pre Quarters,In Progress
+Iowa,North Texas,0,0,"02/26/2023, 09:00",Pre Quarters,In Progress
+Wichita State University,Rice,0,0,"02/26/2023, 09:00",Pre Quarters,In Progress
+Missouri S&T,Illinois State,0,0,"02/26/2023, 09:00",Pre Quarters,In Progress
 bracket,5th Place Game
 bracket,7th Place Game
 bracket,9th Place Bracket
 bracket,11th Place Bracket
 bracket,13th Place Bracket
+Luther,Oklahoma,0,0,"02/26/2023, 09:00",13th Bracket Quarters,In Progress
+Baylor,Oklahoma State University,0,0,"02/26/2023, 09:00",13th Bracket Quarters,In Progress
+Texas A&M (B),Kansas State,0,0,"02/26/2023, 09:00",13th Bracket Quarters,In Progress
+Texas (B),Harding,0,0,"02/26/2023, 09:00",13th Bracket Quarters,In Progress
 bracket,15th Place Bracket
 bracket,17th Place Bracket
 bracket,19th Place Bracket
