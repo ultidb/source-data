@@ -195,9 +195,20 @@ def scrapeYear(config):
 
 
 def retryErrors(config):
+    retryUrls = []
     with open(f'errors{config.year}.txt', 'r') as f:
-        urls = f.readlines()
-        scrapeListOfTournamentUrls(config, urls)
+        retryUrls = f.readlines()
+    retryUrls = [url.replace('\n', '') for url in retryUrls]
+    print(retryUrls)
+    with open(f'csv/{config.year}/_calendar.csv', newline='') as csvfile:
+        reader = csv.reader(csvfile, delimiter=',', quotechar='"')
+        for row in reader:
+            if row[0] in retryUrls:
+                scrapeTournament(config,
+                                 {'url': row[0], 'city': row[1], 'state': row[2], 'startDate': row[3], 'endDate': row[4]}, 
+                                 0, 0)
+        # scrapeListOfTournamentUrls(config, urls)
+    
 
 def main(argv):
     disableCache = False

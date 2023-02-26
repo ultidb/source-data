@@ -4,7 +4,7 @@ import queue
 from bs4 import BeautifulSoup, NavigableString, Tag
 import logging as log
 import csv
-from datetime import datetime
+from datetime import datetime, timedelta
 
 DIVISIONS = {
     "College - Men": "Men/CollegeMen/",
@@ -93,7 +93,11 @@ DIVISIONS = {
 
 # Team class, allows storage of name and roster
 
-
+statusOptions = [
+    "Final",
+    "In Progress",
+    "Scheduled",
+]
 class Team:
     def __init__(self, name, seed, url, id=None, roster=[]):
         self.name = name
@@ -185,12 +189,12 @@ class Tournament:
         self.url = url
         self.teams = teams
         self.stages = stages
-        self.datetime = datetime
         self.division = division  # Age - Gender
         self.city = city
         self.state = state
         self.startDate = startDate
         self.endDate = endDate
+        self.datetime = datetime
 
     def __it__(self, other):
         return self.datetime < other.datetime
@@ -496,7 +500,18 @@ def parseBracketGame(game, teams, year, roundName):
     except:
         pass
 
-    status = game.find("span", {"class": "game-status"}).contents[0]
+    status = ""
+    statusSpans = game.find("span", {"class": "game-status"}).contents
+    if len(statusSpans) and statusSpans[0] in statusOptions:
+        status = statusSpans[0]
+    elif game_datetime is None:
+        status = "Scheduled"
+    else:
+        # game ended and one team has a score
+        if game_datetime > (datetime.now() + timedelta(hours=2)) and (teamA_score > 0 or teamB_score > 0):
+            status = "Final"
+        else:
+            status = "Scheduled"
 
     # adding game to games list
     game = Game(teamA, teamB, teamA_score,
@@ -546,22 +561,6 @@ def stagesHaveGames(stages):
             if stage.clusters[0].games != []:
                 return True
     return False
-
-
-def datetimeOfFirstGame(stages):
-    for stage in stages:
-        game = None
-        if isinstance(stage, Pools):
-            if stage.pools[0].games != []:
-                game = stage.pools[0].games[0]
-        elif isinstance(stage, Brackets) :
-            if stage.brackets[0].games != []:
-                game = stage.brackets[0].games[0]
-        elif isinstance(stage, Clusters):
-            if stage.clusters[0].games != []:
-                game = stage.clusters[0].games[0]
-        if game != None:
-            return game.datetime
 
 
 def parseTournament(html, info, fileName, year):
@@ -615,16 +614,17 @@ def parseTournament(html, info, fileName, year):
     teams = list(teams.values()) 
     division = soup.find("h1", {"class": "title"}).contents[0]
 
-    t_month = None
-    t_day = None
-    #retrieve month and day from game
+    
+    # create datetime from start date
+    startDate = info["startDate"]
+    dt = datetime.strptime(startDate, "%Y-%m-%d")
 
     if not stagesHaveGames(stages):
         log.debug(f"No games found for {tournamentName}")
         return None
 
 
-    return Tournament(tournamentName, info["url"], info["city"], info["state"], info["startDate"], info["endDate"], teams, datetimeOfFirstGame(stages), division, stages)
+    return Tournament(tournamentName, info["url"], info["city"], info["state"], info["startDate"], info["endDate"], teams, dt, division, stages)
  
 
 def parseTournamentCalendar(html):
