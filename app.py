@@ -1,3 +1,4 @@
+from inspect import Signature
 from flask import Flask
 from datetime import datetime, date, timedelta
 from apscheduler.schedulers.background import BackgroundScheduler
@@ -5,6 +6,7 @@ import subprocess, time, atexit, csv
 from tor import startTorServer
 from scrape import scrapeListOfTournamentUrls, Config
 import logging as log
+import requests
 
 ongoingTournaments = []
 upcomingTournaments = []
@@ -22,11 +24,16 @@ def isUpcoming(startDate):
 
     return start > today and start <= (today + timedelta(days=10))
 
-def scrapeCalendar():
-    print("scraping calendar")
+def scrapeCalendar(disableCache=True):
     global year
     year = str(date.today().year)
-    subprocess.run(["python", "scrape.py", "-y", year, "--debug", "-d", "--calendarOnly"])
+    log.info(f"scraping calendar for {year}")
+
+    d = "--disableCache"
+    if not disableCache:
+        d = ""
+    
+    subprocess.run(["python", "scrape.py", "-y", year, "--debug", "--calendarOnly", d])
 
     global ongoingTournaments
     global upcomingTournaments
@@ -55,8 +62,8 @@ def scrapeCalendar():
                             "endDate": row[4],
                             "url": row[0],
                     })
-    print(ongoingTournaments)
-    print(upcomingTournaments)
+    log.info(f"found {len(ongoingTournaments)} ongoing tournaments")
+    log.info(f"found {len(upcomingTournaments)} upcoming tournaments")
     
 
 def scrapeOngoingTournaments():
@@ -64,37 +71,73 @@ def scrapeOngoingTournaments():
     config = Config(int(year), False, True, True, False)
     global ongoingTournaments
     scrapeListOfTournamentUrls(config, ongoingTournaments)
+    csvs = listUpdatedCsvs()
+    commitToGit()
+    postListToAPI(csvs)
 
 def scrapeUpcomingTournaments():
     global year
     config = Config(int(year), True, True, False, False)
     global upcomingTournaments
     scrapeListOfTournamentUrls(config, upcomingTournaments)
+    csvs = listUpdatedCsvs()
+    commitToGit()
+    postListToAPI(csvs)
+
+
+def commitToGit():
+    subprocess.run(["git", "checkout", "live"])
+    subprocess.run(["git", "add", "."])
+    message = f"Scraper run: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
+    subprocess.run(["git", "commit", "-m", message])
+    subprocess.run(["git", "push", "origin", "live"])
+
+def listUpdatedCsvs():
+    proc = subprocess.run(['git', 'status', '-s'], capture_output=True)
+    status = proc.stdout.decode('utf-8')
+    output = []
+    for line in status.split('\n'):
+        items = line.strip().split(' ')
+        if len(items) > 1:
+            output.append(items[1])
+    return output
+
+def postListToAPI(csvs):
+    payload = { "paths": csvs }
+    log.info(f"posting {len(csvs)} csvs to API")
+    try:
+        r = requests.post('http://127.0.0.1:3030/v1/ingest', data=payload)
+        if r.status_code != 204:
+            log.error(f"API returned {r.status_code} with message: {r.text}")
+    except Exception as e:
+        log.error(f"API returned error: {e}")
+
+def setupTor():
+    tor_process = startTorServer()
+    atexit.register(tor_process.kill)
+
+def setupSchedule(): 
+    scheduler = BackgroundScheduler()
+    scheduler.add_job(func=scrapeCalendar, trigger="interval", days=1)
+    scheduler.add_job(func=scrapeOngoingTournaments, trigger="interval", minutes=10)
+    scheduler.add_job(func=scrapeUpcomingTournaments, trigger="interval", hours=12)
+    scheduler.start()
+    scheduler.print_jobs()
+
+    # Shut down the scheduler when exiting the app
+    atexit.register(lambda: scheduler.shutdown())
+
 
 log.basicConfig(
-        level=log.DEBUG,
+        level=log.INFO,
         format='[%(asctime)s] {%(filename)s:%(lineno)d} %(levelname)s - %(message)s',
         datefmt='%H:%M:%S'
     )
-tor_process = startTorServer()
-atexit.register(tor_process.kill)
-scheduler = BackgroundScheduler()
-scheduler.add_job(func=scrapeCalendar, trigger="interval", days=1)
-scheduler.add_job(func=scrapeOngoingTournaments, trigger="interval", minutes=5)
-scheduler.add_job(func=scrapeUpcomingTournaments, trigger="interval", hours=12)
-scheduler.start()
-scheduler.print_jobs()
+app = Flask(__name__)
+setupTor()
+setupSchedule()
 
 # Initial run on startup
-scrapeCalendar()
+scrapeCalendar(False)
+scrapeOngoingTournaments()
 # scrapeUpcomingTournaments()
-# scrapeOngoingTournaments()
-
-# Shut down the scheduler when exiting the app
-atexit.register(lambda: scheduler.shutdown())
-
-app = Flask(__name__)
-
-@app.route("/")
-def hello_world():
-    return "<p>Hello, World!</p>"
