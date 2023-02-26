@@ -1,4 +1,5 @@
 College Terminus 2014,College - Men ,15,3,2014
+East Point,GA,2014-03-15,2014-03-16
 https://play.usaultimate.org/events/College-Terminus-2014/schedule/Men/CollegeMen/
 Massachusetts,1
 0,SAMUEL RICHARDSON
@@ -375,63 +376,67 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
-Notre Dame,Indiana,13,5,"03/15/2014, 09:00",Pool A
-Massachusetts,Auburn,13,8,"03/15/2014, 10:30",Pool A
-Auburn,Indiana,12,8,"03/15/2014, 12:00",Pool A
-Massachusetts,Indiana,13,5,"03/15/2014, 13:30",Pool A
-Notre Dame,Auburn,9,12,"03/15/2014, 13:30",Pool A
-Massachusetts,Notre Dame,13,3,"03/15/2014, 15:00",Pool A
+Massachusetts,TEAM_NAME_NOT_FOUND,W,F,"03/15/2014, 09:00",Pool A,Final
+Notre Dame,Indiana,13,5,"03/15/2014, 09:00",Pool A,Final
+Massachusetts,Auburn,13,8,"03/15/2014, 10:30",Pool A,Final
+Indiana,TEAM_NAME_NOT_FOUND,W,F,"03/15/2014, 10:30",Pool A,Final
+Notre Dame,TEAM_NAME_NOT_FOUND,W,F,"03/15/2014, 12:00",Pool A,Final
+Auburn,Indiana,12,8,"03/15/2014, 12:00",Pool A,Final
+Massachusetts,Indiana,13,5,"03/15/2014, 13:30",Pool A,Final
+Notre Dame,Auburn,9,12,"03/15/2014, 13:30",Pool A,Final
+Massachusetts,Notre Dame,13,3,"03/15/2014, 15:00",Pool A,Final
+Auburn,TEAM_NAME_NOT_FOUND,W,F,"03/15/2014, 15:00",Pool A,Final
 pool,Pool B
-Dartmouth,Elon,13,8,"03/15/2014, 09:00",Pool B
-Georgia Tech,Indiana Wesleyan,13,9,"03/15/2014, 09:00",Pool B
-Dartmouth,Alabama,8,13,"03/15/2014, 10:30",Pool B
-Indiana Wesleyan,Elon,8,13,"03/15/2014, 10:30",Pool B
-Georgia Tech,Elon,12,9,"03/15/2014, 12:00",Pool B
-Alabama,Indiana Wesleyan,13,6,"03/15/2014, 12:00",Pool B
-Dartmouth,Indiana Wesleyan,13,6,"03/15/2014, 13:30",Pool B
-Georgia Tech,Alabama,9,10,"03/15/2014, 13:30",Pool B
-Dartmouth,Georgia Tech,9,13,"03/15/2014, 15:00",Pool B
-Alabama,Elon,11,13,"03/15/2014, 15:00",Pool B
+Dartmouth,Elon,13,8,"03/15/2014, 09:00",Pool B,Final
+Georgia Tech,Indiana Wesleyan,13,9,"03/15/2014, 09:00",Pool B,Final
+Dartmouth,Alabama,8,13,"03/15/2014, 10:30",Pool B,Final
+Indiana Wesleyan,Elon,8,13,"03/15/2014, 10:30",Pool B,Final
+Georgia Tech,Elon,12,9,"03/15/2014, 12:00",Pool B,Final
+Alabama,Indiana Wesleyan,13,6,"03/15/2014, 12:00",Pool B,Final
+Dartmouth,Indiana Wesleyan,13,6,"03/15/2014, 13:30",Pool B,Final
+Georgia Tech,Alabama,9,10,"03/15/2014, 13:30",Pool B,Final
+Dartmouth,Georgia Tech,9,13,"03/15/2014, 15:00",Pool B,Final
+Alabama,Elon,11,13,"03/15/2014, 15:00",Pool B,Final
 pool,Pool C
-Eastern Michigan,Northeastern,13,7,"03/15/2014, 09:00",Pool C
-Minnesota-Duluth,Kennesaw State,13,9,"03/15/2014, 09:00",Pool C
-Eastern Michigan,Kennesaw State,13,9,"03/15/2014, 10:30",Pool C
-Minnesota-Duluth,Northeastern,12,9,"03/15/2014, 10:30",Pool C
-Eastern Michigan,Minnesota-Duluth,13,10,"03/15/2014, 12:00",Pool C
-Northeastern,Kennesaw State,10,5,"03/15/2014, 12:00",Pool C
+Eastern Michigan,Northeastern,13,7,"03/15/2014, 09:00",Pool C,Final
+Minnesota-Duluth,Kennesaw State,13,9,"03/15/2014, 09:00",Pool C,Final
+Eastern Michigan,Kennesaw State,13,9,"03/15/2014, 10:30",Pool C,Final
+Minnesota-Duluth,Northeastern,12,9,"03/15/2014, 10:30",Pool C,Final
+Eastern Michigan,Minnesota-Duluth,13,10,"03/15/2014, 12:00",Pool C,Final
+Northeastern,Kennesaw State,10,5,"03/15/2014, 12:00",Pool C,Final
 pool,Pool D
-Missouri,Tennessee,12,10,"03/15/2014, 09:00",Pool D
-Tufts,Rochester,13,4,"03/15/2014, 09:00",Pool D
-Missouri,Rochester,13,5,"03/15/2014, 10:30",Pool D
-Tufts,Tennessee,13,3,"03/15/2014, 10:30",Pool D
-Missouri,Tufts,11,13,"03/15/2014, 12:00",Pool D
-Tennessee,Rochester,13,6,"03/15/2014, 12:00",Pool D
+Missouri,Tennessee,12,10,"03/15/2014, 09:00",Pool D,Final
+Tufts,Rochester,13,4,"03/15/2014, 09:00",Pool D,Final
+Missouri,Rochester,13,5,"03/15/2014, 10:30",Pool D,Final
+Tufts,Tennessee,13,3,"03/15/2014, 10:30",Pool D,Final
+Missouri,Tufts,11,13,"03/15/2014, 12:00",Pool D,Final
+Tennessee,Rochester,13,6,"03/15/2014, 12:00",Pool D,Final
 b,r,e,a,k
 clusters,Crossovers
 cluster,Crossovers
-Eastern Michigan,Tufts,8,13,"03/15/2014, 15:00",
-Missouri,Minnesota-Duluth,12,14,"03/15/2014, 15:00",
-Northeastern,Rochester,12,6,"03/15/2014, 15:00",
-Kennesaw State,Tennessee,11,12,"03/15/2014, 15:00",
+Eastern Michigan,Tufts,8,13,"03/15/2014, 15:00",,Final
+Missouri,Minnesota-Duluth,12,14,"03/15/2014, 15:00",,Final
+Northeastern,Rochester,12,6,"03/15/2014, 15:00",,Final
+Kennesaw State,Tennessee,11,12,"03/15/2014, 15:00",,Final
 b,r,e,a,k
 brackets,1-8 Place
 bracket,Championship
-Massachusetts,Georgia Tech,15,9,"03/15/2014, 17:00",1st Quarters
-Tufts,Minnesota-Duluth,15,6,"03/15/2014, 17:00",1st Quarters
-Alabama,Auburn,10,13,"03/15/2014, 17:00",1st Quarters
-Eastern Michigan,Missouri,15,7,"03/15/2014, 17:00",1st Quarters
-Massachusetts,Tufts,0,0,"03/16/2014, 09:00",1st Semis
-Auburn,Eastern Michigan,0,0,"03/16/2014, 09:00",1st Semis
+Massachusetts,Georgia Tech,15,9,"03/15/2014, 17:00",1st Quarters,Final
+Tufts,Minnesota-Duluth,15,6,"03/15/2014, 17:00",1st Quarters,Final
+Alabama,Auburn,10,13,"03/15/2014, 17:00",1st Quarters,Final
+Eastern Michigan,Missouri,15,7,"03/15/2014, 17:00",1st Quarters,Final
+Massachusetts,Tufts,0,0,"03/16/2014, 09:00",1st Semis,Scheduled
+Auburn,Eastern Michigan,0,0,"03/16/2014, 09:00",1st Semis,Scheduled
 bracket,5th Place
 bracket,7th Place
 bracket,3rd Place
 b,r,e,a,k
 brackets,9th Place
 bracket,9th Place
-Indiana,Indiana Wesleyan,13,10,"03/15/2014, 17:00",9th Prequarter
-Notre Dame,Elon,12,9,"03/15/2014, 17:00",9th Quarters
-Kennesaw State,Rochester,14,7,"03/15/2014, 17:00",9th Quarters
-Dartmouth,Indiana,0,0,"03/16/2014, 09:00",9th Quarters
-Northeastern,Tennessee,8,14,"03/15/2014, 17:00",9th Quarters
-Notre Dame,Kennesaw State,0,0,"03/16/2014, 10:45",9th Semis
+Indiana,Indiana Wesleyan,13,10,"03/15/2014, 17:00",9th Prequarter,Final
+Notre Dame,Elon,12,9,"03/15/2014, 17:00",9th Quarters,Final
+Kennesaw State,Rochester,14,7,"03/15/2014, 17:00",9th Quarters,Final
+Dartmouth,Indiana,0,0,"03/16/2014, 09:00",9th Quarters,Scheduled
+Northeastern,Tennessee,8,14,"03/15/2014, 17:00",9th Quarters,Final
+Notre Dame,Kennesaw State,0,0,"03/16/2014, 10:45",9th Semis,Scheduled
 b,r,e,a,k
