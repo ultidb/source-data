@@ -34,4 +34,5 @@ For help, use `-h` flag
 
 
 ## Flask app for live data scraping
-tbd
+
+Run with `flask run`
