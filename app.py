@@ -25,9 +25,9 @@ def isUpcoming(startDate):
     return start > today and start <= (today + timedelta(days=10))
 
 def scrapeCalendar(disableCache=True):
-    print("scraping calendar")
     global year
     year = str(date.today().year)
+    log.info(f"scraping calendar for {year}")
 
     d = "--disableCache"
     if not disableCache:
@@ -62,8 +62,8 @@ def scrapeCalendar(disableCache=True):
                             "endDate": row[4],
                             "url": row[0],
                     })
-    print(ongoingTournaments)
-    print(upcomingTournaments)
+    log.info(f"found {len(ongoingTournaments)} ongoing tournaments")
+    log.info(f"found {len(upcomingTournaments)} upcoming tournaments")
     
 
 def scrapeOngoingTournaments():
@@ -100,38 +100,44 @@ def listUpdatedCsvs():
         items = line.strip().split(' ')
         if len(items) > 1:
             output.append(items[1])
-    print(output)
+    return output
 
 def postListToAPI(csvs):
-    r = requests.post('http://127.0.0.1:3030/v1/ingest', json=csvs)
-    print(r.status_code)
+    payload = { "paths": csvs }
+    log.info(f"posting {len(csvs)} csvs to API")
+    try:
+        r = requests.post('http://127.0.0.1:3030/v1/ingest', data=payload)
+        if r.status_code != 204:
+            log.error(f"API returned {r.status_code} with message: {r.text}")
+    except Exception as e:
+        log.error(f"API returned error: {e}")
+
+def setupTor():
+    tor_process = startTorServer()
+    atexit.register(tor_process.kill)
+
+def setupSchedule(): 
+    scheduler = BackgroundScheduler()
+    scheduler.add_job(func=scrapeCalendar, trigger="interval", days=1)
+    scheduler.add_job(func=scrapeOngoingTournaments, trigger="interval", minutes=10)
+    scheduler.add_job(func=scrapeUpcomingTournaments, trigger="interval", hours=12)
+    scheduler.start()
+    scheduler.print_jobs()
+
+    # Shut down the scheduler when exiting the app
+    atexit.register(lambda: scheduler.shutdown())
+
 
 log.basicConfig(
-        level=log.DEBUG,
+        level=log.INFO,
         format='[%(asctime)s] {%(filename)s:%(lineno)d} %(levelname)s - %(message)s',
         datefmt='%H:%M:%S'
     )
-tor_process = startTorServer()
-atexit.register(tor_process.kill)
-scheduler = BackgroundScheduler()
-# scheduler.add_job(func=scrapeCalendar, trigger="interval", days=1)
-# scheduler.add_job(func=scrapeOngoingTournaments, trigger="interval", minutes=10)
-# scheduler.add_job(func=scrapeUpcomingTournaments, trigger="interval", hours=12)
-scheduler.start()
-scheduler.print_jobs()
+app = Flask(__name__)
+setupTor()
+setupSchedule()
 
 # Initial run on startup
-
-# scrapeUpcomingTournaments()
 scrapeCalendar(False)
 scrapeOngoingTournaments()
-# listUpdatedCsvs()
-
-# Shut down the scheduler when exiting the app
-atexit.register(lambda: scheduler.shutdown())
-
-app = Flask(__name__)
-
-@app.route("/")
-def hello_world():
-    return "<p>Hello, World!</p>"
+# scrapeUpcomingTournaments()
