@@ -7,7 +7,6 @@ Washington University,1
 0,Evan Tompkins 
 0,Ian Grochocinski
 0,Jake Hyman
-0,Jakob Ayala
 0,Mitchell Oldham
 0,Noah Kaller
 1,Noah Stovitz
@@ -25,6 +24,7 @@ Washington University,1
 28,Elie Weitzman
 33,Nicolas Sprague
 35,Benjamin Reimler
+36,Jakob Ayala
 44,David Higuchi
 77,Nicolas Rios
 81,Nate Ackerman
@@ -32,12 +32,19 @@ Washington University,1
 99,Oliver Every
 b,r,e,a,k
 Missouri S&T,8
+0,Aidan Tow
+0,Austin King
 0,Calvin Curran
 0,Carson Kempf
+0,Ethan McIntyre
+0,Gino Lanasa
 0,Kevin Wyle
+0,Shane Keeton
 02,Ray Mauntel
 03,Wesley Fransen
 07,Owen Thoms
+11,Daniel Faust
+13,Keaton Black
 16,Sam Papin
 22,Aidan Byrne
 27,Brandyss Sherman-Hall
@@ -46,6 +53,7 @@ Missouri S&T,8
 34,Thomas O'Hanlon
 40,Michael Lahmeyer
 64,Kenneth Stanley
+66,Zachary Lopez
 81,Zachary Szatkowski
 b,r,e,a,k
 Wisconsin-Platteville,9
@@ -262,7 +270,7 @@ Northwestern,6
 88,Jason Paul
 b,r,e,a,k
 Wisconsin-Milwaukee,11
-02,Tafika-Kenan Valhmu
+0,Donte  Buckingham 
 03,Jackson McCausland
 06,Leo Ohkerrmann
 15,Charlie Benforado
@@ -287,13 +295,27 @@ Wisconsin-Milwaukee,11
 94,Shiv Patel
 b,r,e,a,k
 Grinnell,14
+0,Benjamin Shulman
 02,Joseph Barrows
 07,Cole Beattie
 08,Noah Fehr
+10,Sam Bigham
+11,William Norry
 20,Jack Connelly
+21,Fergus Braun
+22,Ishai Melamede
+24,Jacob  Cowan
 26,Collin Thomas-Green
+27,Chris Dickinson
+31,Duncan Lambert
+34,Jeremy Trachtenberg
 44,Duncan Steele-Maley
+52,Solomon Golden
 64,Eamon Worden
+65,Jonny Bachman
+68,Harold MacArthur
+76,Zade Mullin
+87,Dominic D’Ascenzo
 b,r,e,a,k
 Missouri,4
 0,Alex Leary
@@ -434,10 +456,13 @@ Illinois State,17
 32,Jonathan Gancarczyk
 b,r,e,a,k
 Northern Iowa,24
+0,Bennett Ludwig
 0,Elliot Drew
+0,Hunter Sullivan
 0,Isaac Timm
 0,Lincoln LaSourd
 0,Ryan Plummer
+0,Thomas Manternach
 0,Trevor Diederichs
 5,Carson Boyer
 11,Matt Adams
@@ -447,10 +472,11 @@ Northern Iowa,24
 69,Brendan Finley
 b,r,e,a,k
 Washington University (B),25
-0,Owen Rice
+0,Ford Vaughters
 17,Max Gordon
 69,Noah Naddaff-Slocum
 69,Oliver Rosand
+69,Owen Rice
 69,Peter Jakiela
 69,Ulysses Atkeson
 69,William Silberstein
@@ -461,9 +487,24 @@ Washington University (B),25
 69,Jacob Hammer
 69,JP Torack
 69,Levi Kaster
+69,Louie Kotler
 69,Mateo Hain
 b,r,e,a,k
 Grinnell (B),32
+0,Krishna Nayar
+0,Sam Emison
+04,Tristan Davis
+14,Nick Wilkerson
+16,Carter Ottele
+18,Ryan Lewis
+21,Jeronimo Camargo Ochoa
+23,Takeru Katayama
+25,David Rhoades
+37,Conrad Dahm
+55,Benjamin Albrecht
+75,Shuta Shibue
+85,Colby Jaros
+97,Jacob Heinrich
 b,r,e,a,k
 Wisconsin-Eau Claire,18
 0,Benjamin Kirkwood
@@ -471,6 +512,7 @@ Wisconsin-Eau Claire,18
 0,Cameron Waldal
 0,Christian Kiener
 0,Connor McKeown
+0,David Krueger
 0,Dylan Schohn
 0,Elliot Mitchell Larson
 0,Evan Schreier
@@ -524,11 +566,14 @@ Wisconsin (B),23
 99,Ryan Mikol
 b,r,e,a,k
 Northwestern (B),26
+0,Americo Garza
+0,Cameron Chang
+0,Eric Gandhi
 0,Kevin Su
 0,Mark Li
 0,Owen Handelman
 0,Parth Patel
-0,Eric Gandhi
+11,Jordan Bass
 24,Ayush Gaggar
 62,John Izzo
 b,r,e,a,k
@@ -615,7 +660,7 @@ Illinois (B),27
 71,Christopher Read
 75,Matthew Rylander
 b,r,e,a,k
-Iowa State University (B),30
+Iowa State (B),30
 0,Andrew Chizek
 0,Bradley Nordwall
 0,Ethan Symonik
@@ -645,6 +690,7 @@ Truman State,20
 0,Michael Lakey
 0,Noah Faulkner
 0,Seth Jarvis
+0,Tegan Haer
 0,Yutaro Hara
 1,Levon Muradyan
 2,Stuart Whitmer
@@ -699,73 +745,113 @@ Knox,28
 78,Colton Degen
 b,r,e,a,k
 Carleton College-Karls,29
+0,Abraham Faber
+0,Alek Pochan
+0,Cole Weinstein
+0,Daniel Nykamp
+0,Elliot Hanson
+0,Luke Bisio
+0,Magnus Ames
+0,Micah Day-O'Connell
+0,Mitchell Anderson
+0,Nathan Przybyla
+0,Peter Kelly
+0,Rhys Lewis
+0,Sean Zheng
+0,Henry Edmonds
+0,Thomas Monson
+0,Will Shrestha
+5,Per Johnson
+7,Theodore Weldon
+9,Griffin Momsen-Hudson
+13,Seth Grauer
+16,Anders Brodnax
+18,Benjamin Garcia
+23,Alex Gran
+44,Lee Li
+54,Jonathan Vilms
+69,Brian Caplan
 b,r,e,a,k
 s,t,a,g,e,s
-pools,Midwest Throwdown Day 1 - Tier 1 Pool
+pools,Midwest Throwdown - Tier 1
 pool,Pool A
-Missouri S&T,Wisconsin-Platteville,0,0,"02/04/2023, 08:00",Pool A,Scheduled
-Washington University,Missouri S&T,0,0,"02/04/2023, 09:30",Pool A,Scheduled
-Wisconsin-Platteville,Kansas,0,0,"02/04/2023, 09:30",Pool A,Scheduled
-Washington University,Kansas,0,0,"02/04/2023, 11:00",Pool A,Scheduled
-Missouri S&T,Kansas,0,0,"02/04/2023, 12:30",Pool A,Scheduled
-Washington University,Wisconsin-Platteville,0,0,"02/04/2023, 12:30",Pool A,Scheduled
+Missouri S&T,Wisconsin-Platteville,0,0,"02/04/2023, 09:30",Pool A,Scheduled
+Washington University,Missouri S&T,0,0,"02/04/2023, 11:00",Pool A,Scheduled
+Wisconsin-Platteville,Kansas,0,0,"02/04/2023, 11:00",Pool A,Scheduled
+Washington University,Kansas,0,0,"02/04/2023, 12:00",Pool A,Scheduled
+Missouri S&T,Kansas,0,0,"02/04/2023, 14:00",Pool A,Scheduled
+Washington University,Wisconsin-Platteville,0,0,"02/04/2023, 14:00",Pool A,Scheduled
 pool,Pool B
-St. Olaf,Iowa State,0,0,"02/04/2023, 08:00",Pool B,Scheduled
-Chicago,Grinnell,0,0,"02/04/2023, 08:00",Pool B,Scheduled
-Iowa State,Chicago,0,0,"02/04/2023, 09:30",Pool B,Scheduled
-St. Olaf,Chicago,0,0,"02/04/2023, 11:00",Pool B,Scheduled
-Iowa State,Grinnell,0,0,"02/04/2023, 11:00",Pool B,Scheduled
-St. Olaf,Grinnell,0,0,"02/04/2023, 12:30",Pool B,Scheduled
+St. Olaf,Chicago,0,0,"03/04/2023, 09:30",Pool B,Scheduled
+Iowa State,Saint Louis,0,0,"03/04/2023, 09:30",Pool B,Scheduled
+St. Olaf,Iowa State,0,0,"03/04/2023, 11:00",Pool B,Scheduled
+St. Olaf,Saint Louis,0,0,"03/04/2023, 12:30",Pool B,Scheduled
+Iowa State,Chicago,0,0,"03/04/2023, 12:30",Pool B,Scheduled
+Chicago,Saint Louis,0,0,"03/04/2023, 14:00",Pool B,Scheduled
 pool,Pool C
-Northwestern,Wisconsin-Milwaukee,0,0,"02/04/2023, 08:00",Pool C,Scheduled
-Colorado College,Northwestern,0,0,"02/04/2023, 09:30",Pool C,Scheduled
-Wisconsin-Milwaukee,Grinnell,0,0,"02/04/2023, 09:30",Pool C,Scheduled
-Colorado College,Grinnell,0,0,"02/04/2023, 11:00",Pool C,Scheduled
-Colorado College,Wisconsin-Milwaukee,0,0,"02/04/2023, 12:30",Pool C,Scheduled
-Northwestern,Grinnell,0,0,"02/04/2023, 12:30",Pool C,Scheduled
+Colorado College,Wisconsin-Milwaukee,0,0,"03/04/2023, 09:30",Pool C,Scheduled
+Colorado College,Northwestern,0,0,"03/04/2023, 11:00",Pool C,Scheduled
+Wisconsin-Milwaukee,Grinnell,0,0,"03/04/2023, 11:00",Pool C,Scheduled
+Northwestern,Grinnell,0,0,"03/04/2023, 12:30",Pool C,Scheduled
+Colorado College,Grinnell,0,0,"03/04/2023, 14:00",Pool C,Scheduled
+Northwestern,Wisconsin-Milwaukee,0,0,"03/04/2023, 14:00",Pool C,Scheduled
 pool,Pool D
-Missouri,Indiana,0,0,"02/04/2023, 08:00",Pool D,Scheduled
-Carleton College-CHOP,Marquette,0,0,"02/04/2023, 08:00",Pool D,Scheduled
-Indiana,Carleton College-CHOP,0,0,"02/04/2023, 09:30",Pool D,Scheduled
-Missouri,Carleton College-CHOP,0,0,"02/04/2023, 11:00",Pool D,Scheduled
-Indiana,Marquette,0,0,"02/04/2023, 11:00",Pool D,Scheduled
-Missouri,Marquette,0,0,"02/04/2023, 12:30",Pool D,Scheduled
+Missouri,Carleton College-CHOP,0,0,"03/04/2023, 09:30",Pool D,Scheduled
+Indiana,Marquette,0,0,"03/04/2023, 09:30",Pool D,Scheduled
+Missouri,Marquette,0,0,"03/04/2023, 11:00",Pool D,Scheduled
+Missouri,Indiana,0,0,"03/04/2023, 12:30",Pool D,Scheduled
+Carleton College-CHOP,Marquette,0,0,"03/04/2023, 12:30",Pool D,Scheduled
+Indiana,Carleton College-CHOP,0,0,"03/04/2023, 14:00",Pool D,Scheduled
 b,r,e,a,k
-pools,Midwest Throwdown Day 1- Tier 2 Pool
+pools,Midwest Throwdown - Tier 2
 pool,Pool E
-Northern Iowa,Grinnell (B),0,0,"02/04/2023, 08:00",Pool E,Scheduled
-Illinois State,Northern Iowa,0,0,"02/04/2023, 09:30",Pool E,Scheduled
-Washington University (B),Grinnell (B),0,0,"02/04/2023, 09:30",Pool E,Scheduled
-Illinois State,Washington University (B),0,0,"02/04/2023, 11:00",Pool E,Scheduled
-Illinois State,Grinnell (B),0,0,"02/04/2023, 12:30",Pool E,Scheduled
-Northern Iowa,Washington University (B),0,0,"02/04/2023, 12:30",Pool E,Scheduled
+Illinois State,Grinnell (B),0,0,"03/04/2023, 02:00",Pool E,Scheduled
+Northern Iowa,Grinnell (B),0,0,"03/04/2023, 09:30",Pool E,Scheduled
+Illinois State,Northern Iowa,0,0,"03/04/2023, 11:00",Pool E,Scheduled
+Washington University (B),Grinnell (B),0,0,"03/04/2023, 11:00",Pool E,Scheduled
+Illinois State,Washington University (B),0,0,"03/04/2023, 12:30",Pool E,Scheduled
+Northern Iowa,Washington University (B),0,0,"03/04/2023, 14:00",Pool E,Scheduled
 pool,Pool F
-Wisconsin-Eau Claire,Wisconsin (B),0,0,"02/04/2023, 08:00",Pool F,Scheduled
-Northwestern (B),Wisconsin-Oshkosh,0,0,"02/04/2023, 08:00",Pool F,Scheduled
-Wisconsin (B),Northwestern (B),0,0,"02/04/2023, 09:30",Pool F,Scheduled
-Wisconsin-Eau Claire,Northwestern (B),0,0,"02/04/2023, 11:00",Pool F,Scheduled
-Wisconsin (B),Wisconsin-Oshkosh,0,0,"02/04/2023, 11:00",Pool F,Scheduled
-Wisconsin-Eau Claire,Wisconsin-Oshkosh,0,0,"02/04/2023, 12:30",Pool F,Scheduled
+Wisconsin-Eau Claire,Wisconsin (B),0,0,"03/04/2023, 02:00",Pool F,Scheduled
+Wisconsin (B),Wisconsin-Oshkosh,0,0,"03/04/2023, 09:30",Pool F,Scheduled
+Wisconsin-Eau Claire,Wisconsin-Oshkosh,0,0,"03/04/2023, 11:00",Pool F,Scheduled
+Wisconsin (B),Northwestern (B),0,0,"03/04/2023, 11:00",Pool F,Scheduled
+Wisconsin-Eau Claire,Northwestern (B),0,0,"03/04/2023, 12:30",Pool F,Scheduled
+Northwestern (B),Wisconsin-Oshkosh,0,0,"03/04/2023, 14:00",Pool F,Scheduled
 pool,Pool G
-Minnesota-Duluth,Illinois (B),0,0,"03/04/2023, 08:00",Pool G,Scheduled
-DePaul,Minnesota-Duluth,0,0,"03/04/2023, 09:30",Pool G,Scheduled
-Illinois (B),Iowa State University (B),0,0,"03/04/2023, 09:30",Pool G,Scheduled
-DePaul,Iowa State University (B),0,0,"03/04/2023, 11:00",Pool G,Scheduled
+Minnesota-Duluth,Illinois (B),0,0,"03/04/2023, 09:30",Pool G,Scheduled
+DePaul,Iowa State (B),0,0,"03/04/2023, 09:30",Pool G,Scheduled
+DePaul,Minnesota-Duluth,0,0,"03/04/2023, 11:00",Pool G,Scheduled
 DePaul,Illinois (B),0,0,"03/04/2023, 12:30",Pool G,Scheduled
-Minnesota-Duluth,Iowa State University (B),0,0,"03/04/2023, 12:30",Pool G,Scheduled
+Minnesota-Duluth,Iowa State (B),0,0,"03/04/2023, 12:30",Pool G,Scheduled
+Illinois (B),Iowa State (B),0,0,"03/04/2023, 14:00",Pool G,Scheduled
 pool,Pool H
-Truman State,Luther,0,0,"03/04/2023, 08:00",Pool H,Scheduled
-Knox,Carleton College-Karls,0,0,"03/04/2023, 08:00",Pool H,Scheduled
-Luther,Knox,0,0,"03/04/2023, 09:30",Pool H,Scheduled
-Truman State,Knox,0,0,"03/04/2023, 11:00",Pool H,Scheduled
-Luther,Carleton College-Karls,0,0,"03/04/2023, 11:00",Pool H,Scheduled
-Truman State,Carleton College-Karls,0,0,"03/04/2023, 12:30",Pool H,Scheduled
+Truman State,Luther,0,0,"03/04/2023, 09:30",Pool H,Scheduled
+Knox,Carleton College-Karls,0,0,"03/04/2023, 09:30",Pool H,Scheduled
+Luther,Knox,0,0,"03/04/2023, 11:00",Pool H,Scheduled
+Truman State,Knox,0,0,"03/04/2023, 12:30",Pool H,Scheduled
+Luther,Carleton College-Karls,0,0,"03/04/2023, 12:30",Pool H,Scheduled
+Truman State,Carleton College-Karls,0,0,"03/04/2023, 14:00",Pool H,Scheduled
 b,r,e,a,k
 clusters,Pool Crossover
 b,r,e,a,k
-brackets,Midwest Throwdown Day 2- Tier 1 Bracket
-bracket,Tier 1 Bracket
+brackets,Midwest Throwdown - 1st Place Bracket
+bracket,Tier 1 - 1st Place Bracket
 bracket,3rd Place
 bracket,5th Place
 bracket,7th Place
+bracket,9th Place
+bracket,11th Place
+bracket,13th Place
+bracket,15th Place
+b,r,e,a,k
+brackets,Midwest Throwdown - 17th Place Bracket
+bracket,Tier 2 - 17th Place Bracket
+bracket,19th Place
+bracket,21st Place
+bracket,23rd Place
+bracket,25th Place
+bracket,27th Place
+bracket,29th Place
+bracket,31st Place
 b,r,e,a,k
