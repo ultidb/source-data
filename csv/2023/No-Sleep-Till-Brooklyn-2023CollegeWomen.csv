@@ -21,30 +21,6 @@ Wellesley,1
 46,Ella McHugh
 99,Raquel Alegria
 b,r,e,a,k
-NYU,6
-0,Victoria  Foong
-2,Eloise Duncan
-4,Isabella Chen
-6,Cindy Li
-7,Raadiya Shardow
-8,Rylie Shaeffer
-9,Ava Kaufman
-10,Nicole Hu
-11,Polly Frazer
-12,Trisha Kopparthi
-16,Mercer Henderson
-17,Allison Chen
-18,Alicia Qian
-19,Analise Ponce
-20,Hannah Heil
-21,Xingzhi Dong
-22,Crystal Zhang
-24,Zuri Alexander
-25,Kexin Xu
-55,Kathy Eo
-70,Yuxi Ma
-74,Maria Angeli Magdaraog
-b,r,e,a,k
 Williams,7
 0,Aliza Cotton
 0,Annika Harrington
@@ -71,6 +47,30 @@ Williams,7
 3,Skylar Yarter
 7,Nina Kolman
 b,r,e,a,k
+NYU,6
+0,Victoria  Foong
+2,Eloise Duncan
+4,Isabella Chen
+6,Cindy Li
+7,Raadiya Shardow
+8,Rylie Shaeffer
+9,Ava Kaufman
+10,Nicole Hu
+11,Polly Frazer
+12,Trisha Kopparthi
+16,Mercer Henderson
+17,Allison Chen
+18,Alicia Qian
+19,Analise Ponce
+20,Hannah Heil
+21,Xingzhi Dong
+22,Crystal Zhang
+24,Zuri Alexander
+25,Kexin Xu
+55,Kathy Eo
+70,Yuxi Ma
+74,Maria Angeli Magdaraog
+b,r,e,a,k
 Columbia (B),12
 0,Alexandra Musat
 0,Caroline Green
@@ -84,25 +84,27 @@ Columbia (B),12
 0,Sasha Ennis
 0,Steph Zhao
 b,r,e,a,k
-Columbia,2
-0,Alexandra Koletsos
-0,Alicia Yang
-0,Andie Tappenden
-0,Annabelle Wechsler
-0,Erin McNulty
-0,Isabelle Puhl
-0,Ishika Kaushal
-0,Leanne Palisoc
-0,Lily Bresee
-0,Maia Donald
-0,Sareena Parikh
-0,Talia Sachs
-0,Tien Lardner
-4,Marisol Martinez
-7,Aya Lahlou
-11,Nina Haskins
-17,Ji Yoon Sim
-24,Eastelle Ding
+Cornell,11
+0,Alexis  Rapacioli
+0,Alice Roberts
+0,Caroline Peddicord
+0,Crystal Zhu
+0,Emily Lyndaker
+0,Eve Lesburg
+0,Gabriella Cabrera
+0,Gabriella Passarelli
+0,Hayley Lorenz
+0,Ireanne Cao
+0,Isabella Giacobbe
+0,Linda Marone
+0,Lyra D'Souza
+0,Parker McLaughlin
+0,Piper Kohlenberger
+0,Ruby Li
+0,Viveka Plassmann
+14,Hannah Davis
+17,Celia Doherty
+18,Sheldon Ennis
 b,r,e,a,k
 Bates,5
 0,Ada Knauft
@@ -125,6 +127,26 @@ Bates,5
 0,Sam Rice
 0,Sarah Smith
 0,Tyler Shambaugh
+b,r,e,a,k
+Columbia,2
+0,Alexandra Koletsos
+0,Alicia Yang
+0,Andie Tappenden
+0,Annabelle Wechsler
+0,Erin McNulty
+0,Isabelle Puhl
+0,Ishika Kaushal
+0,Leanne Palisoc
+0,Lily Bresee
+0,Maia Donald
+0,Sareena Parikh
+0,Talia Sachs
+0,Tien Lardner
+4,Marisol Martinez
+7,Aya Lahlou
+11,Nina Haskins
+17,Ji Yoon Sim
+24,Eastelle Ding
 b,r,e,a,k
 Rutgers,8
 0,Abigail Cohen
@@ -153,42 +175,6 @@ Rutgers,8
 41,Julia  Einfeldt
 50,Kelly Casazza
 65,Victoria Ng
-b,r,e,a,k
-Cornell,11
-0,Alexis  Rapacioli
-0,Alice Roberts
-0,Caroline Peddicord
-0,Crystal Zhu
-0,Emily Lyndaker
-0,Eve Lesburg
-0,Gabriella Cabrera
-0,Gabriella Passarelli
-0,Hayley Lorenz
-0,Ireanne Cao
-0,Isabella Giacobbe
-0,Linda Marone
-0,Lyra D'Souza
-0,Parker McLaughlin
-0,Piper Kohlenberger
-0,Ruby Li
-0,Viveka Plassmann
-14,Hannah Davis
-17,Celia Doherty
-18,Sheldon Ennis
-b,r,e,a,k
-SUNY-Stony Brook,3
-0,Adriana Hong
-0,Ana McMahon
-0,Ella Hartenberg
-0,Emma Matz
-0,Jade Acot
-0,lauren  chiang
-0,May Li
-0,Melanie Galeano
-9,Emma Lian
-25,Chloe Saquing
-44,Rushda Chowdhury
-50,Anna Jao
 b,r,e,a,k
 Harvard,4
 10,Isabel Laguarda
@@ -234,6 +220,20 @@ Wesleyan,9
 17,Maggie Brown
 18,Margaret Heffernan
 b,r,e,a,k
+SUNY-Stony Brook,3
+0,Adriana Hong
+0,Ana McMahon
+0,Ella Hartenberg
+0,Emma Matz
+0,Jade Acot
+0,lauren  chiang
+0,May Li
+0,Melanie Galeano
+9,Emma Lian
+25,Chloe Saquing
+44,Rushda Chowdhury
+50,Anna Jao
+b,r,e,a,k
 Amherst,10
 0,Alison Weiss
 0,Anna Buswell
@@ -250,26 +250,26 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Women's Division
 pool,Pool A
-Wellesley,Columbia (B),0,0,"03/04/2023, 09:00",Pool A,Scheduled
-NYU,Williams,0,0,"03/04/2023, 09:00",Pool A,Scheduled
-Wellesley,Williams,0,0,"03/04/2023, 10:30",Pool A,Scheduled
-NYU,Columbia (B),0,0,"03/04/2023, 12:00",Pool A,Scheduled
+Wellesley,Columbia (B),13,1,"03/04/2023, 09:00",Pool A,Final
+NYU,Williams,4,9,"03/04/2023, 09:00",Pool A,Final
+Wellesley,Williams,9,5,"03/04/2023, 10:30",Pool A,Final
+NYU,Columbia (B),13,1,"03/04/2023, 12:00",Pool A,Final
 Wellesley,NYU,0,0,"03/04/2023, 13:30",Pool A,Scheduled
 Williams,Columbia (B),0,0,"03/04/2023, 13:30",Pool A,Scheduled
 pool,Pool B
-Columbia,Cornell,0,0,"03/04/2023, 09:00",Pool B,Scheduled
-Columbia,Rutgers,0,0,"03/04/2023, 10:30",Pool B,Scheduled
-Bates,Cornell,0,0,"03/04/2023, 10:30",Pool B,Scheduled
-Bates,Rutgers,0,0,"03/04/2023, 12:00",Pool B,Scheduled
+Columbia,Cornell,7,9,"03/04/2023, 09:00",Pool B,Final
+Columbia,Rutgers,9,6,"03/04/2023, 10:30",Pool B,Final
+Bates,Cornell,8,9,"03/04/2023, 10:30",Pool B,Scheduled
+Bates,Rutgers,11,1,"03/04/2023, 12:00",Pool B,Final
 Columbia,Bates,0,0,"03/04/2023, 13:30",Pool B,Scheduled
 Rutgers,Cornell,0,0,"03/04/2023, 13:30",Pool B,Scheduled
 pool,Pool C
-Harvard,Wesleyan,0,0,"03/04/2023, 09:00",Pool C,Scheduled
+Harvard,Wesleyan,11,4,"03/04/2023, 09:00",Pool C,Final
 SUNY-Stony Brook,Amherst,W,F,"03/04/2023, 10:30",Pool C,Final
-SUNY-Stony Brook,Harvard,0,0,"03/04/2023, 10:30",Pool C,Scheduled
-SUNY-Stony Brook,Wesleyan,0,0,"03/04/2023, 12:00",Pool C,Scheduled
+SUNY-Stony Brook,Harvard,2,10,"03/04/2023, 10:30",Pool C,Final
+SUNY-Stony Brook,Wesleyan,4,6,"03/04/2023, 12:00",Pool C,Final
 Harvard,Amherst,W,F,"03/04/2023, 12:00",Pool C,Final
-Wesleyan,Amherst,0,0,"03/04/2023, 15:00",Pool C,Scheduled
+Wesleyan,Amherst,W,F,"03/04/2023, 15:00",Pool C,Final
 b,r,e,a,k
 brackets,Women's Bracket
 bracket,Championship Bracket

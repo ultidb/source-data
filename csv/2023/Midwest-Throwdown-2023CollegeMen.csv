@@ -312,22 +312,6 @@ Grinnell,14
 76,Zade Mullin
 87,Dominic D’Ascenzo
 b,r,e,a,k
-Northern Iowa,24
-0,Bennett Ludwig
-0,Elliot Drew
-0,Hunter Sullivan
-0,Isaac Timm
-0,Lincoln LaSourd
-0,Ryan Plummer
-0,Thomas Manternach
-0,Trevor Diederichs
-5,Carson Boyer
-11,Matt Adams
-19,Aaron Burger
-21,Casey Shanaberger
-22,Duncan Wierzchowski
-69,Brendan Finley
-b,r,e,a,k
 Kansas,16
 0,Henry Haw
 0,Nickolas Krehbiel
@@ -354,6 +338,22 @@ Kansas,16
 61,Aiden Jacobs 
 66,Kaden Hubler
 77,Alejandro (Alex) Perez
+b,r,e,a,k
+Northern Iowa,24
+0,Bennett Ludwig
+0,Elliot Drew
+0,Hunter Sullivan
+0,Isaac Timm
+0,Lincoln LaSourd
+0,Ryan Plummer
+0,Thomas Manternach
+0,Trevor Diederichs
+5,Carson Boyer
+11,Matt Adams
+19,Aaron Burger
+21,Casey Shanaberger
+22,Duncan Wierzchowski
+69,Brendan Finley
 b,r,e,a,k
 Iowa State (B),30
 0,Andrew Chizek
@@ -778,7 +778,7 @@ pool,Pool A
 Missouri,Grinnell (B),13,0,"03/04/2023, 08:00",Pool A,Final
 Truman State,Luther,12,7,"03/04/2023, 08:00",Pool A,Final
 Missouri,Luther,13,6,"03/04/2023, 09:30",Pool A,Final
-Truman State,Grinnell (B),0,0,"03/04/2023, 09:30",Pool A,Scheduled
+Truman State,Grinnell (B),13,1,"03/04/2023, 09:30",Pool A,Final
 Missouri,Truman State,9,6,"03/04/2023, 11:00",Pool A,Final
 Luther,Grinnell (B),13,1,"03/04/2023, 11:00",Pool A,Final
 pool,Pool B
@@ -798,14 +798,14 @@ Wisconsin (B),Knox,0,0,"03/04/2023, 20:00",Pool C,Scheduled
 pool,Pool D
 Grinnell,Iowa State (B),13,2,"03/04/2023, 08:00",Pool D,Final
 Kansas,Northern Iowa,0,0,"03/04/2023, 08:00",Pool D,Scheduled
-Grinnell,Northern Iowa,0,0,"03/04/2023, 09:30",Pool D,Scheduled
+Grinnell,Northern Iowa,11,5,"03/04/2023, 09:30",Pool D,Final
 Kansas,Iowa State (B),13,0,"03/04/2023, 09:30",Pool D,Final
 Grinnell,Kansas,0,0,"03/04/2023, 11:00",Pool D,Scheduled
 Northern Iowa,Iowa State (B),13,2,"03/04/2023, 11:00",Pool D,Final
 b,r,e,a,k
 pools,STL Pool
 pool,Pool A
-Washington University,Wisconsin-Milwaukee,0,0,"03/04/2023, 12:30",Pool A,Scheduled
+Washington University,Wisconsin-Milwaukee,3,3,"03/04/2023, 12:30",Pool A,In Progress
 Carleton College-CHOP,Illinois (B),0,0,"03/04/2023, 12:30",Pool A,Scheduled
 Washington University,Illinois (B),0,0,"03/04/2023, 14:00",Pool A,Scheduled
 Wisconsin-Milwaukee,Carleton College-CHOP,0,0,"03/04/2023, 14:00",Pool A,Scheduled
