@@ -1,6 +1,20 @@
 Midwest Throwdown 2023,College - Women ,4,3,2023
 Columbia,MO,2023-03-04,2023-03-05
 https://play.usaultimate.org/events/Midwest-Throwdown-2023/schedule/Women/CollegeWomen/
+Winona State,15
+00,Greta  Baumgartner
+01,Victoria Jackson
+03,Mckenna Miller
+10,Molly Nelson
+11,Zella Fruzyna
+13,Kayleigh Boe
+16,Caitlin Martin
+28,Brittany Sletten
+36,Sophia Theiss
+42,Lily-Rose Ybarra
+55,Abigail Gleason
+84,ellie barker
+b,r,e,a,k
 Colorado College,5
 0,Anna  Matsui
 0,Cassidy Recker
@@ -24,37 +38,6 @@ Colorado College,5
 37,Elsa Hoff
 56,Grace Tumavicus
 88,Galileo Fries
-b,r,e,a,k
-Wisconsin-Eau Claire,11
-7,Reed Ziemer
-8,Sarah Heuss
-03,Faith Neuens
-04,Carolyn Hanson
-15,Anna Benishek
-16,Ella Pratt
-20,Alana Bauer
-31,Rachel Foldy
-32,Makenna Samuels
-33,Maggie Guetschow
-37,Sydney Schermerhorn
-42,Elise Harper
-44,Grace Liebl
-57,Lucy Weld
-99,Kayla Poncius
-b,r,e,a,k
-Winona State,15
-00,Greta  Baumgartner
-01,Victoria Jackson
-03,Mckenna Miller
-10,Molly Nelson
-11,Zella Fruzyna
-13,Kayleigh Boe
-16,Caitlin Martin
-28,Brittany Sletten
-36,Sophia Theiss
-42,Lily-Rose Ybarra
-55,Abigail Gleason
-84,ellie barker
 b,r,e,a,k
 Luther,26
 0,Channing Cade
@@ -84,6 +67,23 @@ John Brown,28
 44,Kacy Highfill
 48,Sarah Grace Smith
 74,Lindsay Scott
+b,r,e,a,k
+Wisconsin-Eau Claire,11
+7,Reed Ziemer
+8,Sarah Heuss
+03,Faith Neuens
+04,Carolyn Hanson
+15,Anna Benishek
+16,Ella Pratt
+20,Alana Bauer
+31,Rachel Foldy
+32,Makenna Samuels
+33,Maggie Guetschow
+37,Sydney Schermerhorn
+42,Elise Harper
+44,Grace Liebl
+57,Lucy Weld
+99,Kayla Poncius
 b,r,e,a,k
 Arkansas,6
 0,Amelie Wise
@@ -322,26 +322,6 @@ Marquette,8
 48,Julia  Dobbs
 87,Kate Hyland
 b,r,e,a,k
-Washington University (B),17
-0,Mihi Dormeville
-0,Ogo Elumelu
-0,Zhixin Xu
-11,Piper Drebes
-11,Sarah Stier
-13,Kianna Zucker
-15,Danielle Hazan
-17,Lauren Sands
-18,Oluwatoni John
-23,Janice Ntimba
-27,Talia Paulson
-29,Tai Owen
-41,Leah Karush
-43,Shamreethaa Seeniraj
-49,April Springer
-64,Dorothy  Halliday 
-79,Kate Dickman
-86,Ran Huo
-b,r,e,a,k
 Saint Louis,18
 0,Lindsay Rehme
 0,Rachel Gatewood
@@ -366,6 +346,26 @@ Saint Louis,18
 63,Zoe  Zoghlin
 73,Jennifer Kline
 81,Alexa Grant
+b,r,e,a,k
+Washington University (B),17
+0,Mihi Dormeville
+0,Ogo Elumelu
+0,Zhixin Xu
+11,Piper Drebes
+11,Sarah Stier
+13,Kianna Zucker
+15,Danielle Hazan
+17,Lauren Sands
+18,Oluwatoni John
+23,Janice Ntimba
+27,Talia Paulson
+29,Tai Owen
+41,Leah Karush
+43,Shamreethaa Seeniraj
+49,April Springer
+64,Dorothy  Halliday 
+79,Kate Dickman
+86,Ran Huo
 b,r,e,a,k
 Wisconsin (B),24
 0,Abby Seltzer
@@ -600,12 +600,12 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Columbia Pool
 pool,Pool A
-Colorado College,John Brown,0,0,"03/04/2023, 08:00",Pool A,Scheduled
-Winona State,Luther,0,0,"03/04/2023, 08:00",Pool A,Scheduled
-Colorado College,Winona State,0,0,"03/04/2023, 09:30",Pool A,Scheduled
-Wisconsin-Eau Claire,Luther,0,0,"03/04/2023, 09:30",Pool A,Scheduled
+Colorado College,John Brown,9,2,"03/04/2023, 08:00",Pool A,Final
+Winona State,Luther,13,3,"03/04/2023, 08:00",Pool A,Final
+Colorado College,Winona State,1,7,"03/04/2023, 09:30",Pool A,Final
+Wisconsin-Eau Claire,Luther,5,8,"03/04/2023, 09:30",Pool A,Final
 Luther,John Brown,0,0,"03/04/2023, 11:00",Pool A,Scheduled
-Wisconsin-Eau Claire,Winona State,0,0,"03/04/2023, 11:00",Pool A,Scheduled
+Wisconsin-Eau Claire,Winona State,1,8,"03/04/2023, 11:00",Pool A,Final
 Colorado College,Luther,0,0,"03/04/2023, 12:30",Pool A,Scheduled
 Wisconsin-Eau Claire,John Brown,0,0,"03/04/2023, 12:30",Pool A,Scheduled
 Colorado College,Wisconsin-Eau Claire,0,0,"03/04/2023, 14:00",Pool A,Scheduled
@@ -631,14 +631,14 @@ Knox,Wisconsin-La Crosse,0,0,"03/04/2023, 18:30",Pool C,Scheduled
 b,r,e,a,k
 pools,STL Pool
 pool,Pool I
-Saint Louis,Wisconsin (B),0,0,"03/04/2023, 08:00",Pool I,Scheduled
-Washington University,Washington University (B),0,0,"03/04/2023, 08:00",Pool I,Scheduled
-Washington University (B),Saint Louis,0,0,"03/04/2023, 09:10",Pool I,Scheduled
-Washington University,Marquette,0,0,"03/04/2023, 09:10",Pool I,Scheduled
-Washington University,Wisconsin (B),0,0,"03/04/2023, 10:20",Pool I,Scheduled
-Marquette,Washington University (B),0,0,"03/04/2023, 10:20",Pool I,Scheduled
-Washington University,Saint Louis,0,0,"03/04/2023, 11:30",Pool I,Scheduled
-Marquette,Wisconsin (B),0,0,"03/04/2023, 11:30",Pool I,Scheduled
+Saint Louis,Wisconsin (B),11,0,"03/04/2023, 08:00",Pool I,Final
+Washington University,Washington University (B),11,1,"03/04/2023, 08:00",Pool I,Final
+Washington University (B),Saint Louis,4,6,"03/04/2023, 09:10",Pool I,Final
+Washington University,Marquette,11,6,"03/04/2023, 09:10",Pool I,Final
+Washington University,Wisconsin (B),11,2,"03/04/2023, 10:20",Pool I,Final
+Marquette,Washington University (B),11,4,"03/04/2023, 10:20",Pool I,Final
+Washington University,Saint Louis,11,1,"03/04/2023, 11:30",Pool I,Final
+Marquette,Wisconsin (B),11,2,"03/04/2023, 11:30",Pool I,Final
 Marquette,Saint Louis,0,0,"03/04/2023, 12:40",Pool I,Scheduled
 Washington University (B),Wisconsin (B),0,0,"03/04/2023, 12:40",Pool I,Scheduled
 pool,Pool J
