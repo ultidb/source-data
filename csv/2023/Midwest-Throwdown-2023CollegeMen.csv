@@ -479,6 +479,29 @@ Illinois (B),27
 71,Christopher Read
 75,Matthew Rylander
 b,r,e,a,k
+Marquette,13
+7,Luke Marciniak
+03,Robbie McChesney
+04,Gabe Gonzalez
+05,Vincent Ricciardi
+08,Joseph Branca
+09,Jonathan Snell
+11,Sean Bishop
+14,Jackson Seltzer
+17,Michael Donlin
+19,Evan Frias
+20,Isaac  Shimek
+23,Gunnar Thompson
+28,Kyle Reader
+30,Sean Habash
+33,nathan shannon
+39,Francis Nuguid
+44,Benjamin Bolz
+80,JJ Mansour
+84,Bruce Deal
+85,John Wall
+88,Johnathan Mika
+b,r,e,a,k
 St. Olaf,2
 0,Daniel Brown
 0,Jesse Laursen
@@ -527,29 +550,6 @@ Chicago,10
 10,Eliot Lajaunie
 18,Dale Decatur
 28,Grant Harris
-b,r,e,a,k
-Marquette,13
-7,Luke Marciniak
-03,Robbie McChesney
-04,Gabe Gonzalez
-05,Vincent Ricciardi
-08,Joseph Branca
-09,Jonathan Snell
-11,Sean Bishop
-14,Jackson Seltzer
-17,Michael Donlin
-19,Evan Frias
-20,Isaac  Shimek
-23,Gunnar Thompson
-28,Kyle Reader
-30,Sean Habash
-33,nathan shannon
-39,Francis Nuguid
-44,Benjamin Bolz
-80,JJ Mansour
-84,Bruce Deal
-85,John Wall
-88,Johnathan Mika
 b,r,e,a,k
 Carleton College-Karls,29
 0,Abraham Faber
@@ -602,37 +602,6 @@ Colorado College,3
 66,Sean McGonigle
 99,Quinn Eaheart
 b,r,e,a,k
-Wisconsin-Platteville,9
-6,Adam Butzen
-01,Kayley Latham
-03,Cole Quigley
-04,Braden Lendosky
-05,Anders Lind
-06,Jack Weis
-07,Caleb Krueger
-08,Vincent De Ceuster
-09,Grant McClendon
-10,Matthew Montano
-11,Mary Ellen Moran
-12,Kaleb Robey
-13,JoJo Peplinski
-14,Keagan Gustin
-15,Michael Rego
-17,Lucas Johnson
-18,Adam Martin
-21,Ted Plewa
-22,Maximilian Nytko
-24,Luther Anderson
-26,Shae  Sullivan
-27,Nick Smies
-28,Tony Kaseman
-31,Andrew McGinley
-33,Logan Bruck
-39,Luke  Skoumal
-42,Zach Blotz
-52,John Anderson
-99,Caleb Fleming
-b,r,e,a,k
 Saint Louis,15
 0,AJ Ciaramitaro
 0,Alex Davis
@@ -675,6 +644,37 @@ Northwestern (B),26
 11,Jordan Bass
 24,Ayush Gaggar
 62,John Izzo
+b,r,e,a,k
+Wisconsin-Platteville,9
+6,Adam Butzen
+01,Kayley Latham
+03,Cole Quigley
+04,Braden Lendosky
+05,Anders Lind
+06,Jack Weis
+07,Caleb Krueger
+08,Vincent De Ceuster
+09,Grant McClendon
+10,Matthew Montano
+11,Mary Ellen Moran
+12,Kaleb Robey
+13,JoJo Peplinski
+14,Keagan Gustin
+15,Michael Rego
+17,Lucas Johnson
+18,Adam Martin
+21,Ted Plewa
+22,Maximilian Nytko
+24,Luther Anderson
+26,Shae  Sullivan
+27,Nick Smies
+28,Tony Kaseman
+31,Andrew McGinley
+33,Logan Bruck
+39,Luke  Skoumal
+42,Zach Blotz
+52,John Anderson
+99,Caleb Fleming
 b,r,e,a,k
 Northwestern,6
 0,Charlie Geci
@@ -782,7 +782,7 @@ Truman State,Grinnell (B),13,1,"03/04/2023, 09:30",Pool A,Final
 Missouri,Truman State,9,6,"03/04/2023, 11:00",Pool A,Final
 Luther,Grinnell (B),13,1,"03/04/2023, 11:00",Pool A,Final
 pool,Pool B
-Indiana,Wisconsin-Oshkosh,0,0,"03/04/2023, 12:30",Pool B,Scheduled
+Indiana,Wisconsin-Oshkosh,13,3,"03/04/2023, 12:30",Pool B,Scheduled
 DePaul,Minnesota-Duluth,0,0,"03/04/2023, 12:30",Pool B,Scheduled
 Indiana,Minnesota-Duluth,0,0,"03/04/2023, 14:00",Pool B,Scheduled
 DePaul,Wisconsin-Oshkosh,0,0,"03/04/2023, 14:00",Pool B,Scheduled
@@ -806,30 +806,46 @@ b,r,e,a,k
 pools,STL Pool
 pool,Pool A
 Washington University,Wisconsin-Milwaukee,3,3,"03/04/2023, 12:30",Pool A,In Progress
-Carleton College-CHOP,Illinois (B),0,0,"03/04/2023, 12:30",Pool A,Scheduled
+Carleton College-CHOP,Illinois (B),13,2,"03/04/2023, 12:30",Pool A,Scheduled
 Washington University,Illinois (B),0,0,"03/04/2023, 14:00",Pool A,Scheduled
 Wisconsin-Milwaukee,Carleton College-CHOP,0,0,"03/04/2023, 14:00",Pool A,Scheduled
 Washington University,Carleton College-CHOP,0,0,"03/04/2023, 15:30",Pool A,Scheduled
 Wisconsin-Milwaukee,Illinois (B),0,0,"03/04/2023, 15:30",Pool A,Scheduled
 pool,Pool B
-St. Olaf,Chicago,0,0,"03/04/2023, 12:30",Pool B,Scheduled
-Marquette,Carleton College-Karls,0,0,"03/04/2023, 12:30",Pool B,Scheduled
+St. Olaf,Chicago,11,9,"03/04/2023, 12:30",Pool B,Scheduled
+Marquette,Carleton College-Karls,13,2,"03/04/2023, 12:30",Pool B,Scheduled
 St. Olaf,Carleton College-Karls,0,0,"03/04/2023, 14:00",Pool B,Scheduled
 Chicago,Marquette,0,0,"03/04/2023, 14:00",Pool B,Scheduled
 St. Olaf,Marquette,0,0,"03/04/2023, 15:30",Pool B,Scheduled
 Chicago,Carleton College-Karls,0,0,"03/04/2023, 15:30",Pool B,Scheduled
 pool,Pool C
-Colorado College,Wisconsin-Platteville,0,0,"03/04/2023, 12:30",Pool C,Scheduled
+Colorado College,Wisconsin-Platteville,13,4,"03/04/2023, 12:30",Pool C,Scheduled
 Saint Louis,Northwestern (B),0,0,"03/04/2023, 12:30",Pool C,Scheduled
 Colorado College,Northwestern (B),0,0,"03/04/2023, 14:00",Pool C,Scheduled
 Wisconsin-Platteville,Saint Louis,0,0,"03/04/2023, 14:00",Pool C,Scheduled
 Colorado College,Saint Louis,0,0,"03/04/2023, 15:30",Pool C,Scheduled
 Wisconsin-Platteville,Northwestern (B),0,0,"03/04/2023, 15:30",Pool C,Scheduled
 pool,Pool D
-Northwestern,Washington University (B),0,0,"03/04/2023, 12:30",Pool D,Scheduled
+Northwestern,Washington University (B),13,2,"03/04/2023, 12:30",Pool D,Scheduled
 Missouri S&T,Illinois State,0,0,"03/04/2023, 12:30",Pool D,Scheduled
 Northwestern,Illinois State,0,0,"03/04/2023, 14:00",Pool D,Scheduled
 Missouri S&T,Washington University (B),0,0,"03/04/2023, 14:00",Pool D,Scheduled
 Northwestern,Missouri S&T,0,0,"03/04/2023, 15:30",Pool D,Scheduled
 Illinois State,Washington University (B),0,0,"03/04/2023, 15:30",Pool D,Scheduled
+b,r,e,a,k
+brackets,Columbia Championship Bracket
+bracket,Columbia Championship Bracket
+bracket,5th Place Tie
+bracket,5th Place Tie 2
+bracket,3rd Place
+bracket,9th Place Bracket
+bracket,13th Place
+bracket,15th Place
+b,r,e,a,k
+brackets,St. Louis Bracket
+bracket,St. Louis Bracket
+bracket,9th Place Bracket
+bracket,13th Place
+bracket,12th Place Game
+bracket,15th Place
 b,r,e,a,k

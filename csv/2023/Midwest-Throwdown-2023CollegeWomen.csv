@@ -85,6 +85,47 @@ Wisconsin-Eau Claire,11
 57,Lucy Weld
 99,Kayla Poncius
 b,r,e,a,k
+Macalester,25
+03,Gracie Bender
+04,Molly Friedrichs
+06,Iris Guo
+07,Nicole Sponseller
+11,Eddie Buchko
+12,Sophia Mitnick
+13,May Kinnamon
+14,Emma Murray
+15,Siri Hoff
+21,Vivian Powell
+22,Inbal Armony
+24,Adi Megiddo
+26,Lily Matthews-Needelman
+36,Rachel Spencer
+51,Nora de Rege
+70,Claire Lee
+83,Philomena Shuffelton-Sobe
+99,Sophia Diliberti
+b,r,e,a,k
+Minnesota-Duluth,29
+0,Alexis Frakie
+0,Erin Hopkins
+0,Helaina Orn
+0,Kathryn Garvin
+0,Kelly Logan
+0,Mara Halls
+0,Naomi Halls
+0,nora rowan
+0,Olivia Haller
+0,Paige Reinertson
+0,Rachel Weis
+0,Sarah Lehnertz
+11,Mae Munkeby
+12,Alicia Severin
+15,Ani Fafinski
+20,Kayla Selbitschka
+55,Nicole Fish
+89,Julia Record
+99,Athena Bolton-Steiner
+b,r,e,a,k
 Arkansas,6
 0,Amelie Wise
 0,ANA LAURA ERRIGO
@@ -155,47 +196,6 @@ Grinnell,19
 0,Sasha Laugen
 0,Sophia Unzicker
 0,Sophia Mason
-b,r,e,a,k
-Macalester,25
-03,Gracie Bender
-04,Molly Friedrichs
-06,Iris Guo
-07,Nicole Sponseller
-11,Eddie Buchko
-12,Sophia Mitnick
-13,May Kinnamon
-14,Emma Murray
-15,Siri Hoff
-21,Vivian Powell
-22,Inbal Armony
-24,Adi Megiddo
-26,Lily Matthews-Needelman
-36,Rachel Spencer
-51,Nora de Rege
-70,Claire Lee
-83,Philomena Shuffelton-Sobe
-99,Sophia Diliberti
-b,r,e,a,k
-Minnesota-Duluth,29
-0,Alexis Frakie
-0,Erin Hopkins
-0,Helaina Orn
-0,Kathryn Garvin
-0,Kelly Logan
-0,Mara Halls
-0,Naomi Halls
-0,nora rowan
-0,Olivia Haller
-0,Paige Reinertson
-0,Rachel Weis
-0,Sarah Lehnertz
-11,Mae Munkeby
-12,Alicia Severin
-15,Ani Fafinski
-20,Kayla Selbitschka
-55,Nicole Fish
-89,Julia Record
-99,Athena Bolton-Steiner
 b,r,e,a,k
 Iowa,7
 0,Ashley Streck
@@ -606,13 +606,13 @@ Colorado College,Winona State,1,7,"03/04/2023, 09:30",Pool A,Final
 Wisconsin-Eau Claire,Luther,5,8,"03/04/2023, 09:30",Pool A,Final
 Luther,John Brown,0,0,"03/04/2023, 11:00",Pool A,Scheduled
 Wisconsin-Eau Claire,Winona State,1,8,"03/04/2023, 11:00",Pool A,Final
-Colorado College,Luther,0,0,"03/04/2023, 12:30",Pool A,Scheduled
-Wisconsin-Eau Claire,John Brown,0,0,"03/04/2023, 12:30",Pool A,Scheduled
+Colorado College,Luther,11,6,"03/04/2023, 12:30",Pool A,Scheduled
+Wisconsin-Eau Claire,John Brown,4,8,"03/04/2023, 12:30",Pool A,Scheduled
 Colorado College,Wisconsin-Eau Claire,0,0,"03/04/2023, 14:00",Pool A,Scheduled
 Winona State,John Brown,0,0,"03/04/2023, 14:00",Pool A,Scheduled
 pool,Pool B
 Arkansas,Minnesota-Duluth,0,0,"03/04/2023, 12:30",Pool B,Scheduled
-Grinnell,Macalester,0,0,"03/04/2023, 12:30",Pool B,Scheduled
+Grinnell,Macalester,8,9,"03/04/2023, 12:30",Pool B,Scheduled
 Arkansas,Grinnell,0,0,"03/04/2023, 14:00",Pool B,Scheduled
 Iowa State,Macalester,0,0,"03/04/2023, 14:00",Pool B,Scheduled
 Macalester,Minnesota-Duluth,0,0,"03/04/2023, 15:30",Pool B,Scheduled
@@ -639,8 +639,8 @@ Washington University,Wisconsin (B),11,2,"03/04/2023, 10:20",Pool I,Final
 Marquette,Washington University (B),11,4,"03/04/2023, 10:20",Pool I,Final
 Washington University,Saint Louis,11,1,"03/04/2023, 11:30",Pool I,Final
 Marquette,Wisconsin (B),11,2,"03/04/2023, 11:30",Pool I,Final
-Marquette,Saint Louis,0,0,"03/04/2023, 12:40",Pool I,Scheduled
-Washington University (B),Wisconsin (B),0,0,"03/04/2023, 12:40",Pool I,Scheduled
+Marquette,Saint Louis,5,6,"03/04/2023, 12:40",Pool I,Scheduled
+Washington University (B),Wisconsin (B),11,3,"03/04/2023, 12:40",Pool I,Scheduled
 pool,Pool J
 Northwestern,St. Olaf (B),0,0,"03/04/2023, 16:10",Pool J,Scheduled
 Illinois,Purdue (B),0,0,"03/04/2023, 16:10",Pool J,Scheduled
@@ -653,7 +653,7 @@ Wisconsin-Milwaukee,St. Olaf (B),0,0,"03/04/2023, 19:40",Pool J,Scheduled
 Northwestern,Wisconsin-Milwaukee,0,0,"03/04/2023, 20:50",Pool J,Scheduled
 Illinois,St. Olaf (B),0,0,"03/04/2023, 20:50",Pool J,Scheduled
 pool,Pool K
-Purdue,Northwestern (B),0,0,"03/04/2023, 13:50",Pool K,Scheduled
+Purdue,Northwestern (B),11,0,"03/04/2023, 13:50",Pool K,Final
 Truman State,Indiana,0,0,"03/04/2023, 13:50",Pool K,Scheduled
 Purdue,Truman State,0,0,"03/04/2023, 15:00",Pool K,Scheduled
 St. Olaf,Indiana,0,0,"03/04/2023, 15:00",Pool K,Scheduled
@@ -663,4 +663,27 @@ Purdue,Indiana,0,0,"03/04/2023, 18:30",Pool K,Scheduled
 St. Olaf,Northwestern (B),0,0,"03/04/2023, 18:30",Pool K,Scheduled
 Purdue,St. Olaf,0,0,"03/04/2023, 19:40",Pool K,Scheduled
 Truman State,Northwestern (B),0,0,"03/04/2023, 19:40",Pool K,Scheduled
+b,r,e,a,k
+brackets,Championship Bracket St. Louis
+bracket,Championship Bracket
+bracket,7th Place
+bracket,5th Place
+bracket,3rd Place
+b,r,e,a,k
+brackets,9th Place Bracket St. Louis
+bracket,9th Place
+bracket,11th Place
+b,r,e,a,k
+pools,Consolation Round Robin St. Louis
+pool,Pool L
+b,r,e,a,k
+brackets,Championship Bracket Columbia
+bracket,Championship Bracket
+bracket,5th Place Tie Part 1
+bracket,5th Place Tie Part 2
+bracket,3rd Place
+b,r,e,a,k
+pools,Consolation Round Robin Columbia
+pool,Pool M
+pool,Pool N
 b,r,e,a,k

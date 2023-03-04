@@ -100,33 +100,6 @@ Western New England,12
 97,Peter Nazario
 98,Michael McCarthy
 b,r,e,a,k
-Syracuse,5
-0,Benjamin Robinson
-0,Casey Kelley
-0,Charles Aubitz
-0,Alexander Metcalf
-0,Daniel Ricci
-0,David Urban
-0,Julian  Boscoo
-0,Kfir Shoham
-0,Matt Latvis
-0,Nicholas Rubino
-0,Noah Sullivan
-0,Quinn Daly
-0,Quinn Whitbeck
-0,Eamon Conneely
-0,Grady Bosch
-0,Tim  Ha
-7,Reece Nelson
-9,Jason McElhinney
-11,Tayara Romero
-13,Arthur Maiorella
-35,Joshua Friedman
-52,Cole  Arnold
-69,Dean Lourenco
-69,Jack Doran
-74,Ian Daughton
-b,r,e,a,k
 NYU,2
 0,Andy Shi
 0,Ashan Kiridena
@@ -157,25 +130,32 @@ NYU,2
 14,Constantine Stake
 96,Edward DiTolla
 b,r,e,a,k
-Hofstra,8
-0,Christina Kyprianou
-0,Jake Olney
-0,Karl Basile-Baehr
-0,Luke Gruppuso
-0,Nadya Svidzerskaya
-0,Patrick Bruso
-0,Robert Shea
-0,Robert Beanland
-0,Sean Kupstas
-0,Timothy Chang
-1,Aidan Henry
-7,Diante Ferguson
-8,Joshua Garatti
-19,Jason Valverde
-23,Jacob Lewis
-31,Gabriel Kritz
-38,Caleb Rockhill
-57,Joseph Cicione
+Syracuse,5
+0,Benjamin Robinson
+0,Casey Kelley
+0,Charles Aubitz
+0,Alexander Metcalf
+0,Daniel Ricci
+0,David Urban
+0,Julian  Boscoo
+0,Kfir Shoham
+0,Matt Latvis
+0,Nicholas Rubino
+0,Noah Sullivan
+0,Quinn Daly
+0,Quinn Whitbeck
+0,Eamon Conneely
+0,Grady Bosch
+0,Tim  Ha
+7,Reece Nelson
+9,Jason McElhinney
+11,Tayara Romero
+13,Arthur Maiorella
+35,Joshua Friedman
+52,Cole  Arnold
+69,Dean Lourenco
+69,Jack Doran
+74,Ian Daughton
 b,r,e,a,k
 Cornell (B),11
 01,Adam Cahall
@@ -197,6 +177,47 @@ Cornell (B),11
 73,Robert Bridges
 84,Charles Wang
 96,Mattieu Zhai
+b,r,e,a,k
+Hofstra,8
+0,Christina Kyprianou
+0,Jake Olney
+0,Karl Basile-Baehr
+0,Luke Gruppuso
+0,Nadya Svidzerskaya
+0,Patrick Bruso
+0,Robert Shea
+0,Robert Beanland
+0,Sean Kupstas
+0,Timothy Chang
+1,Aidan Henry
+7,Diante Ferguson
+8,Joshua Garatti
+19,Jason Valverde
+23,Jacob Lewis
+31,Gabriel Kritz
+38,Caleb Rockhill
+57,Joseph Cicione
+b,r,e,a,k
+MIT,4
+0,Kaden Silva
+0,Luka Karginov
+0,Luka Govedic
+0,Manuel Morales
+0,Matthew Landis
+0,Noah Anderson
+0,Raymond Feng
+0,Raymond Li
+0,Sean Cheng
+0,Sebastien Loko
+0,Victor Qin
+0,Andrew Okyere
+0,Christopher Layden
+2,Ezra Gordon
+9,Chukwuemekalum Echezona
+11,Jacob Daitzman
+25,Federico Ramirez
+33,Vincent Fan
+81,Alexander Velberg
 b,r,e,a,k
 Tufts (B),10
 0,Evan Hu
@@ -226,27 +247,6 @@ Tufts (B),10
 54,Liam Reardon
 88,Josiah Martin
 99,Christopher  Garcia
-b,r,e,a,k
-MIT,4
-0,Kaden Silva
-0,Luka Karginov
-0,Luka Govedic
-0,Manuel Morales
-0,Matthew Landis
-0,Noah Anderson
-0,Raymond Feng
-0,Raymond Li
-0,Sean Cheng
-0,Sebastien Loko
-0,Victor Qin
-0,Andrew Okyere
-0,Christopher Layden
-2,Ezra Gordon
-9,Chukwuemekalum Echezona
-11,Jacob Daitzman
-25,Federico Ramirez
-33,Vincent Fan
-81,Alexander Velberg
 b,r,e,a,k
 Williams,3
 0,Reed Kendall
@@ -313,21 +313,21 @@ pool,Pool A
 Columbia,Western New England,13,4,"03/04/2023, 09:00",Pool A,Final
 Bates,SUNY-Stony Brook,8,9,"03/04/2023, 09:00",Pool A,Final
 Columbia,SUNY-Stony Brook,11,9,"03/04/2023, 10:30",Pool A,Final
-Bates,Western New England,11,7,"03/04/2023, 12:00",Pool A,Final
-Columbia,Bates,0,0,"03/04/2023, 13:30",Pool A,Scheduled
-SUNY-Stony Brook,Western New England,0,0,"03/04/2023, 13:30",Pool A,Scheduled
+Bates,Western New England,12,7,"03/04/2023, 12:00",Pool A,Final
+Columbia,Bates,11,8,"03/04/2023, 13:30",Pool A,Final
+SUNY-Stony Brook,Western New England,12,6,"03/04/2023, 13:30",Pool A,Final
 pool,Pool B
 NYU,Cornell (B),13,2,"03/04/2023, 09:00",Pool B,Final
 NYU,Hofstra,13,6,"03/04/2023, 10:30",Pool B,Final
 Syracuse,Cornell (B),13,1,"03/04/2023, 10:30",Pool B,Final
 Syracuse,Hofstra,13,2,"03/04/2023, 12:00",Pool B,Final
-NYU,Syracuse,0,0,"03/04/2023, 13:30",Pool B,Scheduled
-Hofstra,Cornell (B),0,0,"03/04/2023, 13:30",Pool B,Scheduled
+NYU,Syracuse,9,8,"03/04/2023, 13:30",Pool B,Final
+Hofstra,Cornell (B),7,8,"03/04/2023, 13:30",Pool B,Final
 pool,Pool C
 MIT,Brown (B),8,7,"03/04/2023, 09:00",Pool C,Final
 Williams,Tufts (B),10,11,"03/04/2023, 10:30",Pool C,Final
 Williams,Brown (B),11,6,"03/04/2023, 12:00",Pool C,Final
-MIT,Tufts (B),0,0,"03/04/2023, 12:00",Pool C,Scheduled
+MIT,Tufts (B),10,9,"03/04/2023, 12:00",Pool C,Final
 Williams,MIT,0,0,"03/04/2023, 15:00",Pool C,Scheduled
 Brown (B),Tufts (B),0,0,"03/04/2023, 15:00",Pool C,Scheduled
 b,r,e,a,k

@@ -16,19 +16,6 @@ Utah,1
 82,Andrew Elliott
 88,Elijah Watchalotone
 b,r,e,a,k
-Idaho,8
-0,Andrew Davies
-0,Ethan Rouen
-0,Ike Blough
-0,James McDonald
-0,James Hagman
-0,Jeremiah Boswell
-0,Julian Collins
-07,Brian Healy
-12,Logan Thompson
-15,Benjamin Borkowski
-89,Devon Schneider
-b,r,e,a,k
 Nevada-Reno,4
 0,Brody Moreno-McClure
 0,Davis Berry
@@ -67,6 +54,19 @@ Montana State,5
 16,Aaron Rhoderick
 23,Zachary Danielson
 42,Sean McAneney
+b,r,e,a,k
+Idaho,8
+0,Andrew Davies
+0,Ethan Rouen
+0,Ike Blough
+0,James McDonald
+0,James Hagman
+0,Jeremiah Boswell
+0,Julian Collins
+07,Brian Healy
+12,Logan Thompson
+15,Benjamin Borkowski
+89,Devon Schneider
 b,r,e,a,k
 Brigham Young (B),2
 0,Abraham Alton
@@ -148,15 +148,15 @@ pools,Pool Play
 pool,Pool A
 Utah,Montana State,9,7,"03/04/2023, 09:30",Pool A,Final
 Nevada-Reno,Idaho,15,7,"03/04/2023, 09:30",Pool A,Scheduled
-Utah,Idaho,0,0,"03/04/2023, 11:30",Pool A,Scheduled
-Nevada-Reno,Montana State,0,0,"03/04/2023, 11:30",Pool A,Scheduled
+Utah,Idaho,15,2,"03/04/2023, 11:30",Pool A,Final
+Nevada-Reno,Montana State,10,8,"03/04/2023, 11:30",Pool A,Scheduled
 Utah,Nevada-Reno,0,0,"03/04/2023, 13:30",Pool A,Scheduled
 Montana State,Idaho,0,0,"03/04/2023, 13:30",Pool A,Scheduled
 pool,Pool B
-Brigham Young (B),Boise State,0,0,"03/04/2023, 09:30",Pool B,Scheduled
-Washington State,Montana,0,0,"03/04/2023, 09:30",Pool B,Scheduled
-Brigham Young (B),Montana,0,0,"03/04/2023, 11:30",Pool B,Scheduled
-Washington State,Boise State,0,0,"03/04/2023, 11:30",Pool B,Scheduled
+Brigham Young (B),Boise State,15,6,"03/04/2023, 09:30",Pool B,Final
+Washington State,Montana,15,5,"03/04/2023, 09:30",Pool B,Final
+Brigham Young (B),Montana,15,5,"03/04/2023, 11:30",Pool B,Final
+Washington State,Boise State,11,10,"03/04/2023, 11:30",Pool B,Final
 Brigham Young (B),Washington State,0,0,"03/04/2023, 13:30",Pool B,Scheduled
 Boise State,Montana,0,0,"03/04/2023, 13:30",Pool B,Scheduled
 b,r,e,a,k

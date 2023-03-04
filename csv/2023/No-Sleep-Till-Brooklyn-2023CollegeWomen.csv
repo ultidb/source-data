@@ -106,6 +106,26 @@ Cornell,11
 17,Celia Doherty
 18,Sheldon Ennis
 b,r,e,a,k
+Columbia,2
+0,Alexandra Koletsos
+0,Alicia Yang
+0,Andie Tappenden
+0,Annabelle Wechsler
+0,Erin McNulty
+0,Isabelle Puhl
+0,Ishika Kaushal
+0,Leanne Palisoc
+0,Lily Bresee
+0,Maia Donald
+0,Sareena Parikh
+0,Talia Sachs
+0,Tien Lardner
+4,Marisol Martinez
+7,Aya Lahlou
+11,Nina Haskins
+17,Ji Yoon Sim
+24,Eastelle Ding
+b,r,e,a,k
 Bates,5
 0,Ada Knauft
 0,Cassidy Meyer
@@ -127,26 +147,6 @@ Bates,5
 0,Sam Rice
 0,Sarah Smith
 0,Tyler Shambaugh
-b,r,e,a,k
-Columbia,2
-0,Alexandra Koletsos
-0,Alicia Yang
-0,Andie Tappenden
-0,Annabelle Wechsler
-0,Erin McNulty
-0,Isabelle Puhl
-0,Ishika Kaushal
-0,Leanne Palisoc
-0,Lily Bresee
-0,Maia Donald
-0,Sareena Parikh
-0,Talia Sachs
-0,Tien Lardner
-4,Marisol Martinez
-7,Aya Lahlou
-11,Nina Haskins
-17,Ji Yoon Sim
-24,Eastelle Ding
 b,r,e,a,k
 Rutgers,8
 0,Abigail Cohen
@@ -254,15 +254,15 @@ Wellesley,Columbia (B),13,1,"03/04/2023, 09:00",Pool A,Final
 NYU,Williams,4,9,"03/04/2023, 09:00",Pool A,Final
 Wellesley,Williams,9,5,"03/04/2023, 10:30",Pool A,Final
 NYU,Columbia (B),13,1,"03/04/2023, 12:00",Pool A,Final
-Wellesley,NYU,0,0,"03/04/2023, 13:30",Pool A,Scheduled
-Williams,Columbia (B),0,0,"03/04/2023, 13:30",Pool A,Scheduled
+Wellesley,NYU,10,2,"03/04/2023, 13:30",Pool A,Final
+Williams,Columbia (B),13,2,"03/04/2023, 13:30",Pool A,Final
 pool,Pool B
 Columbia,Cornell,7,9,"03/04/2023, 09:00",Pool B,Final
 Columbia,Rutgers,9,6,"03/04/2023, 10:30",Pool B,Final
-Bates,Cornell,8,9,"03/04/2023, 10:30",Pool B,Scheduled
+Bates,Cornell,8,9,"03/04/2023, 10:30",Pool B,Final
 Bates,Rutgers,11,1,"03/04/2023, 12:00",Pool B,Final
-Columbia,Bates,0,0,"03/04/2023, 13:30",Pool B,Scheduled
-Rutgers,Cornell,0,0,"03/04/2023, 13:30",Pool B,Scheduled
+Columbia,Bates,8,6,"03/04/2023, 13:30",Pool B,Final
+Rutgers,Cornell,2,10,"03/04/2023, 13:30",Pool B,Final
 pool,Pool C
 Harvard,Wesleyan,11,4,"03/04/2023, 09:00",Pool C,Final
 SUNY-Stony Brook,Amherst,W,F,"03/04/2023, 10:30",Pool C,Final

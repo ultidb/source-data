@@ -1,6 +1,38 @@
 Oak Creek Challenge 2023,College - Men ,4,3,2023
 Frederick,MD,2023-03-04,2023-03-05
 https://play.usaultimate.org/events/Oak-Creek-Challenge-2023/schedule/Men/CollegeMen/
+Yale,7
+0,Andrew Lau
+0,Andrew Yang
+0,Ben Chaimberg
+0,Ben Phifer
+0,Christopher Gumina
+0,Daniel Lu
+0,Dashiell Stevanovich
+0,Elijah  Kennard
+0,Harry Greenblatt
+0,Henry Berger
+0,Ian Wang
+0,AJ Nakash
+0,Jack Griffin
+0,Jerry Tan
+0,John Kiely
+0,Max Saffer-Meng
+0,Neal Ma
+0,Owen Hathaway Hacker
+0,Sungho Moon
+0,Thomas Venarde
+0,Wolf Boone
+0,Zubin Birnbach
+0,Nathan Brown
+5,Javier Pardo
+9,Nayan Birnbach
+17,Kosuke Tominaga
+18,Micah Derringer
+21,Andrew Weitzman
+27,Jack Cloherty
+98,Jonah Sparling
+b,r,e,a,k
 Virginia Tech,1
 0,Alex Winsness
 0,Andrew Holladay
@@ -56,38 +88,6 @@ George Washington,6
 41,Sumner Gubisch
 43,Evan Campbell
 b,r,e,a,k
-Yale,7
-0,Andrew Lau
-0,Andrew Yang
-0,Ben Chaimberg
-0,Ben Phifer
-0,Christopher Gumina
-0,Daniel Lu
-0,Dashiell Stevanovich
-0,Elijah  Kennard
-0,Harry Greenblatt
-0,Henry Berger
-0,Ian Wang
-0,AJ Nakash
-0,Jack Griffin
-0,Jerry Tan
-0,John Kiely
-0,Max Saffer-Meng
-0,Neal Ma
-0,Owen Hathaway Hacker
-0,Sungho Moon
-0,Thomas Venarde
-0,Wolf Boone
-0,Zubin Birnbach
-0,Nathan Brown
-5,Javier Pardo
-9,Nayan Birnbach
-17,Kosuke Tominaga
-18,Micah Derringer
-21,Andrew Weitzman
-27,Jack Cloherty
-98,Jonah Sparling
-b,r,e,a,k
 Drexel,12
 0,Andrew Vallette
 0,Ansel Lewis
@@ -114,30 +114,6 @@ Drexel,12
 47,Benjamin Bruce
 63,Jimmy Maher
 b,r,e,a,k
-Johns Hopkins,5
-0,Eric McAlexander
-0,Ethan Bomhardt
-0,Garrett Goldin
-0,Jayvik Joshi
-0,Jeffrey  Zhou
-0,JiWon Woo
-0,Jonathan Nichols
-0,Christopher Lo
-0,Daniel Naiman
-0,Justin Waltrip
-0,Kevin Hom
-0,Nathan Perlman
-0,Quinn Hauck
-0,Raj Gosain
-0,Theo Lee
-0,Tyler Lehrfeld
-3,David Sullivan
-4,Jed Cohen
-11,Simon Allocca
-13,Kyle Fisher
-18,Julian Ching Hei Chow
-19,Benjamin Schlesinger
-b,r,e,a,k
 Lehigh,2
 0,Austin Rosypal
 0,Brandon Reith
@@ -161,6 +137,30 @@ Lehigh,2
 58,Gregory Dardaris
 93,Ari Carp
 95,Jakob Fett
+b,r,e,a,k
+Johns Hopkins,5
+0,Eric McAlexander
+0,Ethan Bomhardt
+0,Garrett Goldin
+0,Jayvik Joshi
+0,Jeffrey  Zhou
+0,JiWon Woo
+0,Jonathan Nichols
+0,Christopher Lo
+0,Daniel Naiman
+0,Justin Waltrip
+0,Kevin Hom
+0,Nathan Perlman
+0,Quinn Hauck
+0,Raj Gosain
+0,Theo Lee
+0,Tyler Lehrfeld
+3,David Sullivan
+4,Jed Cohen
+11,Simon Allocca
+13,Kyle Fisher
+18,Julian Ching Hei Chow
+19,Benjamin Schlesinger
 b,r,e,a,k
 Rowan,8
 2,Adam Becker
@@ -283,10 +283,10 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Saturday Pool Play
 pool,Pool A
-Virginia Tech,Yale,0,0,"03/04/2023, 12:30",Pool A,Scheduled
-George Washington,Drexel,0,0,"03/04/2023, 12:30",Pool A,Scheduled
-Virginia Tech,Drexel,0,0,"03/04/2023, 14:15",Pool A,Scheduled
-George Washington,Yale,0,0,"03/04/2023, 14:15",Pool A,Scheduled
+Virginia Tech,Yale,7,8,"03/04/2023, 12:30",Pool A,Final
+George Washington,Drexel,11,5,"03/04/2023, 12:30",Pool A,Final
+Virginia Tech,Drexel,13,3,"03/04/2023, 14:15",Pool A,Final
+George Washington,Yale,8,10,"03/04/2023, 14:15",Pool A,Final
 Virginia Tech,George Washington,0,0,"03/04/2023, 16:00",Pool A,Scheduled
 Yale,Drexel,0,0,"03/04/2023, 16:00",Pool A,Scheduled
 pool,Pool B
@@ -294,14 +294,14 @@ Lehigh,Rowan,13,5,"03/04/2023, 09:00",Pool B,Final
 Johns Hopkins,Maryland-Baltimore County,12,3,"03/04/2023, 09:00",Pool B,Final
 Lehigh,Maryland-Baltimore County,13,1,"03/04/2023, 10:45",Pool B,Final
 Johns Hopkins,Rowan,13,6,"03/04/2023, 10:45",Pool B,Final
-Lehigh,Johns Hopkins,8,13,"03/04/2023, 12:30",Pool B,Final
-Rowan,Maryland-Baltimore County,0,0,"03/04/2023, 12:30",Pool B,Scheduled
+Lehigh,Johns Hopkins,13,8,"03/04/2023, 12:30",Pool B,Final
+Rowan,Maryland-Baltimore County,11,4,"03/04/2023, 12:30",Pool B,Final
 pool,Pool C
 Towson,West Chester,13,0,"03/04/2023, 09:00",Pool C,Final
 American,Salisbury,13,3,"03/04/2023, 09:00",Pool C,Final
 Towson,Salisbury,13,1,"03/04/2023, 10:45",Pool C,Final
 American,West Chester,8,7,"03/04/2023, 10:45",Pool C,Final
-Towson,American,0,0,"03/04/2023, 14:15",Pool C,Scheduled
+Towson,American,8,6,"03/04/2023, 14:15",Pool C,Final
 West Chester,Salisbury,0,0,"03/04/2023, 14:15",Pool C,Scheduled
 b,r,e,a,k
 pools,Sunday Championship Pool
