@@ -125,30 +125,6 @@ Indiana,5
 25,George Peterson
 69,Liam Mulligan
 b,r,e,a,k
-DePaul,19
-6,Lachlan Bond
-02,Carter Altruda
-03,Peter Stergios
-03,Tate Newby
-04,Peter Thompson
-05,Elias Smith
-07,Daniel Finney
-09,Carlos Avila
-10,Ian MacKimm
-11,Quinn Williams
-12,Galen Sienicki
-15,Jaden Simpson
-16,Turner Pahl
-17,Alexander  Espinosa 
-22,Chuck Rogers
-25,Benjamin Davis
-32,Junior Zambrano
-35,Nate Burleyson
-37,Tim Tran
-38,Peter Milburn
-47,Alex Kielbasa
-51,Aiden Rathmann
-b,r,e,a,k
 Minnesota-Duluth,22
 0,Diego Umana
 0,Evan Malone
@@ -172,6 +148,30 @@ Minnesota-Duluth,22
 24,Aaron Reiser
 26,Jack Fritschel
 69,Reagan Nguyen
+b,r,e,a,k
+DePaul,19
+6,Lachlan Bond
+02,Carter Altruda
+03,Peter Stergios
+03,Tate Newby
+04,Peter Thompson
+05,Elias Smith
+07,Daniel Finney
+09,Carlos Avila
+10,Ian MacKimm
+11,Quinn Williams
+12,Galen Sienicki
+15,Jaden Simpson
+16,Turner Pahl
+17,Alexander  Espinosa 
+22,Chuck Rogers
+25,Benjamin Davis
+32,Junior Zambrano
+35,Nate Burleyson
+37,Tim Tran
+38,Peter Milburn
+47,Alex Kielbasa
+51,Aiden Rathmann
 b,r,e,a,k
 Wisconsin-Oshkosh,31
 0,Dane Carey
@@ -479,29 +479,6 @@ Illinois (B),27
 71,Christopher Read
 75,Matthew Rylander
 b,r,e,a,k
-Marquette,13
-7,Luke Marciniak
-03,Robbie McChesney
-04,Gabe Gonzalez
-05,Vincent Ricciardi
-08,Joseph Branca
-09,Jonathan Snell
-11,Sean Bishop
-14,Jackson Seltzer
-17,Michael Donlin
-19,Evan Frias
-20,Isaac  Shimek
-23,Gunnar Thompson
-28,Kyle Reader
-30,Sean Habash
-33,nathan shannon
-39,Francis Nuguid
-44,Benjamin Bolz
-80,JJ Mansour
-84,Bruce Deal
-85,John Wall
-88,Johnathan Mika
-b,r,e,a,k
 St. Olaf,2
 0,Daniel Brown
 0,Jesse Laursen
@@ -527,6 +504,29 @@ St. Olaf,2
 37,Karsten Wennerlund
 39,Kai Assef
 69,Quinn Munson
+b,r,e,a,k
+Marquette,13
+7,Luke Marciniak
+03,Robbie McChesney
+04,Gabe Gonzalez
+05,Vincent Ricciardi
+08,Joseph Branca
+09,Jonathan Snell
+11,Sean Bishop
+14,Jackson Seltzer
+17,Michael Donlin
+19,Evan Frias
+20,Isaac  Shimek
+23,Gunnar Thompson
+28,Kyle Reader
+30,Sean Habash
+33,nathan shannon
+39,Francis Nuguid
+44,Benjamin Bolz
+80,JJ Mansour
+84,Bruce Deal
+85,John Wall
+88,Johnathan Mika
 b,r,e,a,k
 Chicago,10
 0,Aiden Tandiono
@@ -633,18 +633,6 @@ Saint Louis,15
 34,William Drexler
 69,Stephen Rashford
 b,r,e,a,k
-Northwestern (B),26
-0,Americo Garza
-0,Cameron Chang
-0,Eric Gandhi
-0,Kevin Su
-0,Mark Li
-0,Owen Handelman
-0,Parth Patel
-11,Jordan Bass
-24,Ayush Gaggar
-62,John Izzo
-b,r,e,a,k
 Wisconsin-Platteville,9
 6,Adam Butzen
 01,Kayley Latham
@@ -675,6 +663,18 @@ Wisconsin-Platteville,9
 42,Zach Blotz
 52,John Anderson
 99,Caleb Fleming
+b,r,e,a,k
+Northwestern (B),26
+0,Americo Garza
+0,Cameron Chang
+0,Eric Gandhi
+0,Kevin Su
+0,Mark Li
+0,Owen Handelman
+0,Parth Patel
+11,Jordan Bass
+24,Ayush Gaggar
+62,John Izzo
 b,r,e,a,k
 Northwestern,6
 0,Charlie Geci
@@ -782,71 +782,93 @@ Truman State,Grinnell (B),13,1,"03/04/2023, 09:30",Pool A,Final
 Missouri,Truman State,9,6,"03/04/2023, 11:00",Pool A,Final
 Luther,Grinnell (B),13,1,"03/04/2023, 11:00",Pool A,Final
 pool,Pool B
-Indiana,Wisconsin-Oshkosh,13,3,"03/04/2023, 12:30",Pool B,Scheduled
-DePaul,Minnesota-Duluth,0,0,"03/04/2023, 12:30",Pool B,Scheduled
-Indiana,Minnesota-Duluth,0,0,"03/04/2023, 14:00",Pool B,Scheduled
-DePaul,Wisconsin-Oshkosh,0,0,"03/04/2023, 14:00",Pool B,Scheduled
-Indiana,DePaul,0,0,"03/04/2023, 15:30",Pool B,Scheduled
-Minnesota-Duluth,Wisconsin-Oshkosh,0,0,"03/04/2023, 15:30",Pool B,Scheduled
+Indiana,Wisconsin-Oshkosh,13,3,"03/04/2023, 12:30",Pool B,Final
+DePaul,Minnesota-Duluth,8,12,"03/04/2023, 12:30",Pool B,Final
+Indiana,Minnesota-Duluth,12,9,"03/04/2023, 14:00",Pool B,Final
+DePaul,Wisconsin-Oshkosh,11,1,"03/04/2023, 14:00",Pool B,Final
+Indiana,DePaul,13,7,"03/04/2023, 15:30",Pool B,Final
+Minnesota-Duluth,Wisconsin-Oshkosh,13,3,"03/04/2023, 15:30",Pool B,Final
 pool,Pool C
-Iowa State,Knox,0,0,"03/04/2023, 17:00",Pool C,Scheduled
-Wisconsin-Eau Claire,Wisconsin (B),0,0,"03/04/2023, 17:00",Pool C,Scheduled
-Iowa State,Wisconsin (B),0,0,"03/04/2023, 18:30",Pool C,Scheduled
-Wisconsin-Eau Claire,Knox,0,0,"03/04/2023, 18:30",Pool C,Scheduled
-Iowa State,Wisconsin-Eau Claire,0,0,"03/04/2023, 20:00",Pool C,Scheduled
-Wisconsin (B),Knox,0,0,"03/04/2023, 20:00",Pool C,Scheduled
+Iowa State,Knox,13,1,"03/04/2023, 17:00",Pool C,Final
+Wisconsin-Eau Claire,Wisconsin (B),12,7,"03/04/2023, 17:00",Pool C,Final
+Iowa State,Wisconsin (B),13,1,"03/04/2023, 18:30",Pool C,Final
+Wisconsin-Eau Claire,Knox,13,5,"03/04/2023, 18:30",Pool C,Final
+Iowa State,Wisconsin-Eau Claire,13,5,"03/04/2023, 20:00",Pool C,Final
+Wisconsin (B),Knox,10,7,"03/04/2023, 20:00",Pool C,Final
 pool,Pool D
 Grinnell,Iowa State (B),13,2,"03/04/2023, 08:00",Pool D,Final
-Kansas,Northern Iowa,0,0,"03/04/2023, 08:00",Pool D,Scheduled
+Kansas,Northern Iowa,8,5,"03/04/2023, 08:00",Pool D,Final
 Grinnell,Northern Iowa,11,5,"03/04/2023, 09:30",Pool D,Final
 Kansas,Iowa State (B),13,0,"03/04/2023, 09:30",Pool D,Final
-Grinnell,Kansas,0,0,"03/04/2023, 11:00",Pool D,Scheduled
+Grinnell,Kansas,9,6,"03/04/2023, 11:00",Pool D,Final
 Northern Iowa,Iowa State (B),13,2,"03/04/2023, 11:00",Pool D,Final
 b,r,e,a,k
 pools,STL Pool
 pool,Pool A
-Washington University,Wisconsin-Milwaukee,3,3,"03/04/2023, 12:30",Pool A,In Progress
-Carleton College-CHOP,Illinois (B),13,2,"03/04/2023, 12:30",Pool A,Scheduled
-Washington University,Illinois (B),0,0,"03/04/2023, 14:00",Pool A,Scheduled
-Wisconsin-Milwaukee,Carleton College-CHOP,0,0,"03/04/2023, 14:00",Pool A,Scheduled
-Washington University,Carleton College-CHOP,0,0,"03/04/2023, 15:30",Pool A,Scheduled
-Wisconsin-Milwaukee,Illinois (B),0,0,"03/04/2023, 15:30",Pool A,Scheduled
+Washington University,Wisconsin-Milwaukee,11,8,"03/04/2023, 12:30",Pool A,Final
+Carleton College-CHOP,Illinois (B),13,2,"03/04/2023, 12:30",Pool A,Final
+Washington University,Illinois (B),13,4,"03/04/2023, 14:00",Pool A,Final
+Wisconsin-Milwaukee,Carleton College-CHOP,13,7,"03/04/2023, 14:00",Pool A,Final
+Washington University,Carleton College-CHOP,13,4,"03/04/2023, 15:30",Pool A,Final
+Wisconsin-Milwaukee,Illinois (B),13,3,"03/04/2023, 15:30",Pool A,Final
 pool,Pool B
-St. Olaf,Chicago,11,9,"03/04/2023, 12:30",Pool B,Scheduled
-Marquette,Carleton College-Karls,13,2,"03/04/2023, 12:30",Pool B,Scheduled
-St. Olaf,Carleton College-Karls,0,0,"03/04/2023, 14:00",Pool B,Scheduled
-Chicago,Marquette,0,0,"03/04/2023, 14:00",Pool B,Scheduled
-St. Olaf,Marquette,0,0,"03/04/2023, 15:30",Pool B,Scheduled
-Chicago,Carleton College-Karls,0,0,"03/04/2023, 15:30",Pool B,Scheduled
+St. Olaf,Chicago,11,9,"03/04/2023, 12:30",Pool B,Final
+Marquette,Carleton College-Karls,13,2,"03/04/2023, 12:30",Pool B,Final
+St. Olaf,Carleton College-Karls,13,1,"03/04/2023, 14:00",Pool B,Final
+Chicago,Marquette,10,11,"03/04/2023, 14:00",Pool B,Final
+St. Olaf,Marquette,10,7,"03/04/2023, 15:30",Pool B,Final
+Chicago,Carleton College-Karls,13,5,"03/04/2023, 15:30",Pool B,Final
 pool,Pool C
-Colorado College,Wisconsin-Platteville,13,4,"03/04/2023, 12:30",Pool C,Scheduled
-Saint Louis,Northwestern (B),0,0,"03/04/2023, 12:30",Pool C,Scheduled
-Colorado College,Northwestern (B),0,0,"03/04/2023, 14:00",Pool C,Scheduled
-Wisconsin-Platteville,Saint Louis,0,0,"03/04/2023, 14:00",Pool C,Scheduled
-Colorado College,Saint Louis,0,0,"03/04/2023, 15:30",Pool C,Scheduled
-Wisconsin-Platteville,Northwestern (B),0,0,"03/04/2023, 15:30",Pool C,Scheduled
+Colorado College,Wisconsin-Platteville,13,4,"03/04/2023, 12:30",Pool C,Final
+Saint Louis,Northwestern (B),13,0,"03/04/2023, 12:30",Pool C,Final
+Colorado College,Northwestern (B),13,2,"03/04/2023, 14:00",Pool C,Final
+Wisconsin-Platteville,Saint Louis,3,13,"03/04/2023, 14:00",Pool C,Final
+Colorado College,Saint Louis,11,8,"03/04/2023, 15:30",Pool C,Final
+Wisconsin-Platteville,Northwestern (B),11,9,"03/04/2023, 15:30",Pool C,Final
 pool,Pool D
-Northwestern,Washington University (B),13,2,"03/04/2023, 12:30",Pool D,Scheduled
-Missouri S&T,Illinois State,0,0,"03/04/2023, 12:30",Pool D,Scheduled
-Northwestern,Illinois State,0,0,"03/04/2023, 14:00",Pool D,Scheduled
-Missouri S&T,Washington University (B),0,0,"03/04/2023, 14:00",Pool D,Scheduled
-Northwestern,Missouri S&T,0,0,"03/04/2023, 15:30",Pool D,Scheduled
-Illinois State,Washington University (B),0,0,"03/04/2023, 15:30",Pool D,Scheduled
+Northwestern,Washington University (B),13,2,"03/04/2023, 12:30",Pool D,Final
+Missouri S&T,Illinois State,12,3,"03/04/2023, 12:30",Pool D,Final
+Northwestern,Illinois State,13,1,"03/04/2023, 14:00",Pool D,Final
+Missouri S&T,Washington University (B),13,2,"03/04/2023, 14:00",Pool D,Final
+Northwestern,Missouri S&T,11,9,"03/04/2023, 15:30",Pool D,Final
+Illinois State,Washington University (B),13,4,"03/04/2023, 15:30",Pool D,Final
 b,r,e,a,k
 brackets,Columbia Championship Bracket
 bracket,Columbia Championship Bracket
-bracket,5th Place Tie
-bracket,5th Place Tie 2
-bracket,3rd Place
+Missouri,Minnesota-Duluth,3,1,"03/05/2023, 08:00",Quarters,In Progress
+Grinnell,Wisconsin-Eau Claire,0,0,"03/05/2023, 08:00",Quarters,In Progress
+Iowa State,Kansas,0,0,"03/05/2023, 08:00",Quarters,In Progress
+Indiana,Truman State,0,0,"03/05/2023, 08:00",Quarters,In Progress
+bracket,5th Place T-1
+bracket,5th Place T-2
+bracket,Third Place
+b,r,e,a,k
+brackets,Columbia Consolation Bracket
 bracket,9th Place Bracket
-bracket,13th Place
+Luther,Wisconsin-Oshkosh,0,0,"03/05/2023, 11:00",9th Quarter,In Progress
+Northern Iowa,Knox,0,0,"03/05/2023, 11:00",9th Quarter,In Progress
+Wisconsin (B),Iowa State (B),0,0,"03/05/2023, 11:00",9th Quarter,In Progress
+DePaul,Grinnell (B),0,0,"03/05/2023, 11:00",9th Quarter,In Progress
+bracket,11th Place
+bracket,13th Place Bracket
 bracket,15th Place
 b,r,e,a,k
-brackets,St. Louis Bracket
-bracket,St. Louis Bracket
-bracket,9th Place Bracket
-bracket,13th Place
-bracket,12th Place Game
-bracket,15th Place
+brackets,St. Louis Championship Bracket
+bracket,St. Louis Championship Bracket
+Washington University,Marquette,0,0,"03/05/2023, 09:00",Quarters,Scheduled
+Northwestern,Saint Louis,0,0,"03/05/2023, 09:00",Quarters,Scheduled
+Colorado College,Missouri S&T,0,0,"03/05/2023, 09:00",Quarters,Scheduled
+St. Olaf,Wisconsin-Milwaukee,0,0,"03/05/2023, 09:00",Quarters,Scheduled
+bracket,3rd Place
 bracket,5th Place Bracket
+b,r,e,a,k
+brackets,St. Louis Consolation Bracket
+bracket,St. Louis Consolation Bracket
+Carleton College-CHOP,Carleton College-Karls,0,0,"03/05/2023, 12:00",9th Quarters,In Progress
+Illinois State,Northwestern (B),0,0,"03/05/2023, 12:00",9th Quarters,In Progress
+Wisconsin-Platteville,Washington University (B),0,0,"03/05/2023, 12:00",9th Quarters,In Progress
+Chicago,Illinois (B),0,0,"03/05/2023, 12:00",9th Quarters,In Progress
+bracket,11th Place
+bracket,13th Place Bracket
+bracket,15th Place
 b,r,e,a,k

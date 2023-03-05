@@ -1,6 +1,30 @@
 Huckin in the Hills IX,College - Men ,4,3,2023
 Morgantown,WV,2023-03-04,2023-03-05
 https://play.usaultimate.org/events/Huckin-in-the-Hills-IX/schedule/Men/CollegeMen/
+Dayton,1
+0,Ben Laliberte
+0,Callan Daenzer
+0,David Colao
+0,Gabriel Janus
+0,J.D. Wentzel
+0,Kellen Finan
+0,Kevin Brun
+0,Matthew Pfeil
+0,Nicholas Holden
+0,Paul Lachcik
+0,Ryan  Bisignani
+0,Ryan Wcislek
+0,Thomas Kilbane
+3,Mason Haynes
+7,Jesse Lauderbaugh
+10,Vincent Laury
+15,Joshua Maltese
+16,Jackson Werner
+18,Quinn Kelly
+21,John Whitmore
+69,Nicholas Schulz
+97,Jacob Szafranski
+b,r,e,a,k
 West Virginia,5
 0,Adam Mosley
 0,Aidan Sweeney
@@ -27,30 +51,6 @@ West Virginia,5
 27,Brandon Purdue 
 34,Jack Johnson
 69,Michael Pellock
-b,r,e,a,k
-Dayton,1
-0,Ben Laliberte
-0,Callan Daenzer
-0,David Colao
-0,Gabriel Janus
-0,J.D. Wentzel
-0,Kellen Finan
-0,Kevin Brun
-0,Matthew Pfeil
-0,Nicholas Holden
-0,Paul Lachcik
-0,Ryan  Bisignani
-0,Ryan Wcislek
-0,Thomas Kilbane
-3,Mason Haynes
-7,Jesse Lauderbaugh
-10,Vincent Laury
-15,Joshua Maltese
-16,Jackson Werner
-18,Quinn Kelly
-21,John Whitmore
-69,Nicholas Schulz
-97,Jacob Szafranski
 b,r,e,a,k
 Ohio,4
 1,Nathan Swindell
@@ -136,34 +136,6 @@ SUNY-Buffalo (B),10
 84,Michael Olmoz
 87,Jay Pierce
 b,r,e,a,k
-SUNY-Buffalo,3
-0,Andrew Ralicki
-0,Asa Mohammed
-0,Carson Essenburg
-0,Christopher Mattos
-0,Colton Zack
-0,Elias McQuade
-0,Evan Bembenista 
-0,Michael Shore
-0,Michael Warsaw
-0,Noah Reifenheiser
-0,Reilly Donovan
-0,Rodrigo Tjan
-0,Seamus Rowan
-0,Sean O'Malley
-0,Thomas Graham
-0,Joseph LaMacchia
-0,Kevin Puebla
-0,Lucas Taber
-8,Joshua Seale
-9,Devin Hendricks
-18,Ethan  Snyderman
-21,Justin Seale
-22,Elliot Rivera
-25,Joe  Bachraty
-26,Matthew Montera
-63,Jack Puttre
-b,r,e,a,k
 Miami (Ohio),2
 0,Aiden Schmeling
 0,AJ Dickerson
@@ -195,6 +167,34 @@ Miami (Ohio),2
 39,Caleb Wright
 58,Kydan Young
 74,Samuel Orr
+b,r,e,a,k
+SUNY-Buffalo,3
+0,Andrew Ralicki
+0,Asa Mohammed
+0,Carson Essenburg
+0,Christopher Mattos
+0,Colton Zack
+0,Elias McQuade
+0,Evan Bembenista 
+0,Michael Shore
+0,Michael Warsaw
+0,Noah Reifenheiser
+0,Reilly Donovan
+0,Rodrigo Tjan
+0,Seamus Rowan
+0,Sean O'Malley
+0,Thomas Graham
+0,Joseph LaMacchia
+0,Kevin Puebla
+0,Lucas Taber
+8,Joshua Seale
+9,Devin Hendricks
+18,Ethan  Snyderman
+21,Justin Seale
+22,Elliot Rivera
+25,Joe  Bachraty
+26,Matthew Montera
+63,Jack Puttre
 b,r,e,a,k
 Wright State,6
 0,Cade Mason
@@ -260,13 +260,13 @@ pool,Pool A
 Dayton,SUNY-Buffalo (B),13,0,"03/04/2023, 09:00",Pool A,Final
 West Virginia,Akron,13,2,"03/04/2023, 09:00",Pool A,Final
 Dayton,West Virginia,10,9,"03/04/2023, 10:30",Pool A,Final
-Ohio,Akron,0,0,"03/04/2023, 10:30",Pool A,Scheduled
-Akron,SUNY-Buffalo (B),0,0,"03/04/2023, 12:00",Pool A,Scheduled
+Ohio,Akron,13,4,"03/04/2023, 10:30",Pool A,Final
+Akron,SUNY-Buffalo (B),13,3,"03/04/2023, 12:00",Pool A,Final
 Ohio,West Virginia,4,9,"03/04/2023, 12:00",Pool A,Final
-Dayton,Akron,0,0,"03/04/2023, 13:30",Pool A,Scheduled
-Ohio,SUNY-Buffalo (B),0,0,"03/04/2023, 13:30",Pool A,Scheduled
-Dayton,Ohio,0,0,"03/04/2023, 15:00",Pool A,Scheduled
-West Virginia,SUNY-Buffalo (B),0,0,"03/04/2023, 15:00",Pool A,Scheduled
+Dayton,Akron,13,2,"03/04/2023, 13:30",Pool A,Final
+Ohio,SUNY-Buffalo (B),13,2,"03/04/2023, 13:30",Pool A,Final
+Dayton,Ohio,13,4,"03/04/2023, 15:00",Pool A,Final
+West Virginia,SUNY-Buffalo (B),13,1,"03/04/2023, 15:00",Pool A,Final
 pool,Pool B
 Miami (Ohio),Kent State,13,4,"03/04/2023, 09:00",Pool B,Final
 Wright State,Case Western Reserve (B),13,1,"03/04/2023, 09:00",Pool B,Final
@@ -274,15 +274,22 @@ Miami (Ohio),Wright State,13,10,"03/04/2023, 10:30",Pool B,Final
 SUNY-Buffalo,Case Western Reserve (B),13,1,"03/04/2023, 10:30",Pool B,Final
 Case Western Reserve (B),Kent State,7,9,"03/04/2023, 12:00",Pool B,Final
 SUNY-Buffalo,Wright State,13,7,"03/04/2023, 12:00",Pool B,Final
-Miami (Ohio),Case Western Reserve (B),0,0,"03/04/2023, 13:30",Pool B,Scheduled
-SUNY-Buffalo,Kent State,0,0,"03/04/2023, 13:30",Pool B,Scheduled
-Miami (Ohio),SUNY-Buffalo,0,0,"03/04/2023, 15:00",Pool B,Scheduled
-Wright State,Kent State,0,0,"03/04/2023, 15:00",Pool B,Scheduled
+Miami (Ohio),Case Western Reserve (B),13,2,"03/04/2023, 13:30",Pool B,Final
+SUNY-Buffalo,Kent State,12,8,"03/04/2023, 13:30",Pool B,Final
+Miami (Ohio),SUNY-Buffalo,11,8,"03/04/2023, 15:00",Pool B,Final
+Wright State,Kent State,13,6,"03/04/2023, 15:00",Pool B,Final
 b,r,e,a,k
 brackets,Bracket Play
 bracket,Championship Bracket
+SUNY-Buffalo,Ohio,0,0,"03/05/2023, 09:00",Quarters,Scheduled
+West Virginia,Wright State,0,0,"03/05/2023, 09:00",Quarters,Scheduled
 bracket,3rd Place Game
 bracket,5th Place Game
 b,r,e,a,k
 clusters,Consolation Pool
+cluster,Consolation Pool
+Akron,Case Western Reserve (B),0,0,"03/05/2023, 09:00",,Scheduled
+SUNY-Buffalo (B),Kent State,0,0,"03/05/2023, 09:00",,Scheduled
+Akron,Kent State,0,0,"03/05/2023, 10:45",,Scheduled
+SUNY-Buffalo (B),Case Western Reserve (B),0,0,"03/05/2023, 10:45",,Scheduled
 b,r,e,a,k
