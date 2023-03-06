@@ -97,6 +97,7 @@ statusOptions = [
     "Final",
     "In Progress",
     "Scheduled",
+    "Cancelled",
 ]
 class Team:
     def __init__(self, name, seed, url, id=None, roster=[]):
@@ -105,6 +106,7 @@ class Team:
         self.url = url
         self.seed = seed
         self.roster = roster
+        self.nickname = ""
 
     def to_string(self):
         return ("Team: " + self.name)
@@ -343,14 +345,17 @@ def addRosterToTeam(content, team):
         roster.append(Player(number, name))
     team.roster = roster
 
+# def addNicknameToTeam(content, team):
+#     try:
+#         soup.find()
 
-def parseClustersStage(soup, teams, year):
+def parseClustersStage(soup, teams, year, startDate):
     clusterTables = soup.find_all(
         "table", {"class": "global_table scores_table"})
     clusters = []
     for clusterTable in clusterTables:
         clusterName = clusterTable.find("th").contents[0]
-        clusterGames = parseGameTable(clusterTable, teams, year)
+        clusterGames = parseGameTable(clusterTable, teams, year, startDate)
         if clusterName != None and len(clusterGames) > 0:
             clusters.append(Cluster(clusterName, clusterGames))
 
@@ -372,7 +377,7 @@ def parsePoolTables(soup, teams):
     return pools
 
 
-def parseGameTable(soup, teams, year):
+def parseGameTable(soup, teams, year, startDate):
     games = []
     for row in soup.find("tbody").find_all("tr"):
         if row.has_attr("data-game"):
@@ -418,7 +423,7 @@ def parseGameTable(soup, teams, year):
                 game_datetime = datetime(year, month, day, hour, minute)
             except:
                 # for games where TD failed to put a date
-                game_datetime = datetime(year, 12, 25, 1, 0)
+                game_datetime = startDate
 
             status = row.find_all("td")[6].find("span").contents[0]           
 
@@ -429,7 +434,7 @@ def parseGameTable(soup, teams, year):
     return games
 
 
-def parsePoolsStage(soup, teams, year):
+def parsePoolsStage(soup, teams, year, startDate):
     pools = parsePoolTables(soup, teams)
     poolGameTables = soup.find_all(
         "table", {"class": "global_table scores_table"})
@@ -441,7 +446,7 @@ def parsePoolsStage(soup, teams, year):
         pools = [Pool("Pool A", [], [])]
 
     for i in range(len(pools)):
-        pools[i].games = parseGameTable(poolGameTables[i], teams, year)
+        pools[i].games = parseGameTable(poolGameTables[i], teams, year, startDate)
         for game in pools[i].games:
             game.round = pools[i].name
 
@@ -455,7 +460,7 @@ def convertNonDigitScore(score):
         return 0
 
 
-def parseBracketGame(game, teams, year, roundName):
+def parseBracketGame(game, teams, year, startDate, roundName):
     game_teams = game.find_all("span", {"class": "team"})
 
     team_scores = game.find_all("span", {"class": "score"})
@@ -498,7 +503,7 @@ def parseBracketGame(game, teams, year, roundName):
 
         game_datetime = datetime(year, month, day, hour, minute)
     except:
-        pass
+        game_datetime = startDate
 
     status = ""
     statusSpans = game.find("span", {"class": "game-status"}).contents
@@ -520,7 +525,7 @@ def parseBracketGame(game, teams, year, roundName):
     return game
 
 
-def parseBracket(soup, teams, year):
+def parseBracket(soup, teams, year, startDate):
     games = []
     columns = soup.find_all("div", {"class": "bracket_col"})
     if len(columns) == 0:
@@ -532,17 +537,17 @@ def parseBracket(soup, teams, year):
         roundName = column.find("h4", {"class": "col_title"}).contents[0]
         columnGames = column.find_all("div", {"class": "bracket_game"})
         for game in columnGames:
-            game = parseBracketGame(game, teams, year, roundName)
+            game = parseBracketGame(game, teams, year, startDate, roundName)
             if game != None:
                 games.append(game)
     return Bracket(bracketName, games)
 
 
-def parseBracketStage(soup, teams, year):
+def parseBracketStage(soup, teams, year, startDate):
     brackets = []
     bracketSections = soup.find_all("section", {"class": "section page"})
     for bracketSection in bracketSections:
-        bracket = parseBracket(bracketSection, teams, year)
+        bracket = parseBracket(bracketSection, teams, year, startDate)
         if bracket != None:
             brackets.append(bracket)
 
@@ -595,6 +600,10 @@ def parseTournament(html, info, fileName, year):
 
     stages = []
 
+    # create datetime from start date
+    startDate = info["startDate"]
+    dt = datetime.strptime(startDate, "%Y-%m-%d")
+
     for slide in slides.children:
         if isinstance(slide, NavigableString):
             continue
@@ -603,21 +612,16 @@ def parseTournament(html, info, fileName, year):
             name = stageNames[stageNameIndex]
             stageNameIndex += 1
             if slideId == "poolSlide":
-                stage = parsePoolsStage(slide, teams, year)
+                stage = parsePoolsStage(slide, teams, year, dt)
                 if stage != None:
                     stages.append(Pools(name, stage))
             elif slideId == "bracketSlide":
-                stages.append(Brackets(name, parseBracketStage(slide, teams, year)))
+                stages.append(Brackets(name, parseBracketStage(slide, teams, year, dt)))
             elif slideId == "clusterSlide":
-                stages.append(Clusters(name, parseClustersStage(slide, teams, year)))
+                stages.append(Clusters(name, parseClustersStage(slide, teams, year, dt)))
 
     teams = list(teams.values()) 
     division = soup.find("h1", {"class": "title"}).contents[0]
-
-    
-    # create datetime from start date
-    startDate = info["startDate"]
-    dt = datetime.strptime(startDate, "%Y-%m-%d")
 
     if not stagesHaveGames(stages):
         log.debug(f"No games found for {tournamentName}")
