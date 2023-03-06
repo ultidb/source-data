@@ -10,6 +10,9 @@ import requests
 
 ongoingTournaments = []
 upcomingTournaments = []
+recentlyEndedTournaments = []
+commitAndPush = True
+postToAPI = True 
 year = str(date.today().year) 
 
 def print_date_time():
@@ -24,6 +27,12 @@ def isUpcoming(startDate):
 
     return start > today and start <= (today + timedelta(days=10))
 
+def isRecentlyEnded(endDate):
+    end = endDate.date()
+    today = datetime.today().date()
+
+    return end < today and end >= (today - timedelta(days=2))
+
 def scrapeCalendar(disableCache=True):
     global year
     year = str(date.today().year)
@@ -37,8 +46,10 @@ def scrapeCalendar(disableCache=True):
 
     global ongoingTournaments
     global upcomingTournaments
+    global recentlyEndedTournaments
     ongoingTournaments = []
     upcomingTournaments = []
+    recentlyEndedTournaments = []
 
     with open(f'csv/{year}/_calendar.csv', newline='') as csvfile:
         reader = csv.reader(csvfile, delimiter=',', quotechar='"')
@@ -62,8 +73,18 @@ def scrapeCalendar(disableCache=True):
                             "endDate": row[4],
                             "url": row[0],
                     })
+                elif (isRecentlyEnded(endDate)):
+                    recentlyEndedTournaments.append({
+                            "city": row[1],
+                            "state": row[2],
+                            "startDate": row[3],
+                            "endDate": row[4],
+                            "url": row[0],
+                    })
+                
     log.info(f"found {len(ongoingTournaments)} ongoing tournaments")
     log.info(f"found {len(upcomingTournaments)} upcoming tournaments")
+    log.info(f"found {len(recentlyEndedTournaments)} recently ended tournaments")
     
 
 def scrapeOngoingTournaments():
@@ -72,8 +93,12 @@ def scrapeOngoingTournaments():
     global ongoingTournaments
     scrapeListOfTournamentUrls(config, ongoingTournaments)
     csvs = listUpdatedCsvs()
-    commitToGit()
-    postListToAPI(csvs)
+    global commitAndPush
+    if commitAndPush:
+        commitToGit()
+    global postToAPI
+    if postToAPI:
+        postListToAPI(csvs, False, True, False)
 
 def scrapeUpcomingTournaments():
     global year
@@ -81,13 +106,30 @@ def scrapeUpcomingTournaments():
     global upcomingTournaments
     scrapeListOfTournamentUrls(config, upcomingTournaments)
     csvs = listUpdatedCsvs()
-    commitToGit()
-    postListToAPI(csvs)
+    global commitAndPush
+    if commitAndPush:
+        commitToGit()
+    global postToAPI
+    if postToAPI:
+        postListToAPI(csvs)
+
+def scrapeRecentlyEndedTournaments():
+    global year
+    config = Config(int(year), False, True, True, False)
+    global recentlyEndedTournaments
+    scrapeListOfTournamentUrls(config, recentlyEndedTournaments)
+    csvs = listUpdatedCsvs()
+    global commitAndPush
+    if commitAndPush:
+        commitToGit()
+    global postToAPI
+    if postToAPI:
+        postListToAPI(csvs)
 
 
 def commitToGit():
     subprocess.run(["git", "checkout", "live"])
-    subprocess.run(["git", "add", "."])
+    subprocess.run(["git", "add", "csv"])
     message = f"Scraper run: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
     subprocess.run(["git", "commit", "-m", message])
     subprocess.run(["git", "push", "origin", "live"])
@@ -98,12 +140,12 @@ def listUpdatedCsvs():
     output = []
     for line in status.split('\n'):
         items = line.strip().split(' ')
-        if len(items) > 1:
+        if len(items) > 1 and not items[1].endswith('_calendar.csv'):
             output.append(items[1])
     return output
 
-def postListToAPI(csvs):
-    payload = { "paths": csvs }
+def postListToAPI(csvs, UpdatePlayers=True, checkExisting=True, DryRun=False):
+    payload = { "paths": csvs, "updatePlayers": UpdatePlayers, "checkExisting": checkExisting, "dryRun": DryRun }
     log.info(f"posting {len(csvs)} csvs to API")
     try:
         r = requests.post('http://127.0.0.1:3030/v1/ingest', data=payload)
@@ -121,6 +163,7 @@ def setupSchedule():
     scheduler.add_job(func=scrapeCalendar, trigger="interval", days=1)
     scheduler.add_job(func=scrapeOngoingTournaments, trigger="interval", minutes=10)
     scheduler.add_job(func=scrapeUpcomingTournaments, trigger="interval", hours=12)
+    scheduler.add_job(func=scrapeRecentlyEndedTournaments, trigger="interval", hours=4)
     scheduler.start()
     scheduler.print_jobs()
 
@@ -138,6 +181,11 @@ setupTor()
 setupSchedule()
 
 # Initial run on startup
-scrapeCalendar(False)
-scrapeOngoingTournaments()
+# scrapeCalendar(False)
+# scrapeRecentlyEndedTournaments()
+# scrapeOngoingTournaments()
 # scrapeUpcomingTournaments()
+# csvs = listUpdatedCsvs()
+# print(csvs)
+# commitToGit()
+# postListToAPI(csvs, False, True, False)
