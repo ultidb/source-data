@@ -96,23 +96,7 @@ Reed,13
 00,Tessa Corbet
 00,Will Stevens
 b,r,e,a,k
-Seattle,10
-0,Daniel Kirov-Tomilov
-0,Jadrian Png
-0,Aneesh Gada
-0,Joseph Hess
-0,Mack Nishida
-0,Maika Nucci
-0,Matthew Le
-0,Riley Cobar
-0,Roan Weinkauf
-0,Samuel  Hannah
-0,Zak Carter-Schwendler
-11,Jamie Kauffman
-13,Jin Oh
-18,Caleb Akiyama
-21,Kevin Rogers
-69,Owen Trampe
+TEAM_NAME_NOT_FOUND,10
 b,r,e,a,k
 Gonzaga,5
 0,Adam Chin
@@ -277,10 +261,10 @@ s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
 Washington (B),Puget Sound,13,10,"03/04/2023, 08:30",Pool A,Final
-Pacific Lutheran,Seattle,13,11,"03/04/2023, 08:30",Pool A,Final
+Pacific Lutheran,TEAM_NAME_NOT_FOUND,13,11,"03/04/2023, 08:30",Pool A,Final
 Pacific Lutheran,Reed,13,10,"03/04/2023, 10:20",Pool A,Final
-Puget Sound,Seattle,13,10,"03/04/2023, 10:20",Pool A,Final
-Seattle,Reed,9,13,"03/04/2023, 12:10",Pool A,Final
+Puget Sound,TEAM_NAME_NOT_FOUND,13,10,"03/04/2023, 10:20",Pool A,Final
+TEAM_NAME_NOT_FOUND,Reed,9,13,"03/04/2023, 12:10",Pool A,Final
 Pacific Lutheran,Washington (B),11,13,"03/04/2023, 12:10",Pool A,Final
 Puget Sound,Reed,13,6,"03/04/2023, 14:00",Pool A,Final
 pool,Pool B
@@ -305,29 +289,37 @@ Washington (B),Willamette University,13,3,"03/04/2023, 14:00",,Final
 b,r,e,a,k
 brackets,Bracket Play
 bracket,Championship
-Washington (B),Willamette University,0,0,"03/05/2023, 08:30",Quarterfinals,In Progress
-Portland State,Puget Sound,0,0,"03/05/2023, 08:30",Quarterfinals,In Progress
-Gonzaga,Pacific Lutheran,0,0,"03/05/2023, 08:30",Quarterfinals,In Progress
-Parkland - PLU Alumni,Oregon State (B),0,0,"03/05/2023, 08:30",Quarterfinals,In Progress
+Washington (B),Parkland - PLU Alumni,11,15,"03/05/2023, 13:00",Final,Final
+Washington (B),Portland State,15,12,"03/05/2023, 10:40",Semifinals,Final
+Pacific Lutheran,Parkland - PLU Alumni,13,15,"03/05/2023, 10:40",Semifinals,Final
+Washington (B),Willamette University,15,5,"03/05/2023, 08:30",Quarterfinals,Final
+Portland State,Puget Sound,15,10,"03/05/2023, 08:30",Quarterfinals,Final
+Gonzaga,Pacific Lutheran,15,16,"03/05/2023, 08:30",Quarterfinals,Final
+Parkland - PLU Alumni,Oregon State (B),15,3,"03/05/2023, 08:30",Quarterfinals,Final
 b,r,e,a,k
 brackets,Placement Bracket
 bracket,5th-6th Place
+Gonzaga,Puget Sound,14,11,"03/05/2023, 13:10",5th place,Final
+Willamette University,Gonzaga,4,15,"03/05/2023, 11:00",Semifinals ,Final
+Puget Sound,Oregon State (B),15,9,"03/05/2023, 11:00",Semifinals ,Final
 b,r,e,a,k
 brackets,Placement Bracket 2
 bracket,7th-8th Place
+Willamette University,Oregon State (B),13,10,"03/05/2023, 13:00",7th place ,Final
 b,r,e,a,k
 brackets,Bracket Placement 3
 bracket,3rd-4th place
+Portland State,Pacific Lutheran,10,11,"03/05/2023, 13:00",3rd,Final
 b,r,e,a,k
 pools,Consolation
 pool,Pool D
-Reed,California-Davis (B),0,0,"03/05/2023, 08:30",Pool D,Scheduled
-Seattle,Whitworth,0,0,"03/05/2023, 08:30",Pool D,Scheduled
-Pacific Lutheran (B),Portland,0,0,"03/05/2023, 08:30",Pool D,Scheduled
-Reed,Portland,0,0,"03/05/2023, 10:40",Pool D,Scheduled
-Seattle,California-Davis (B),0,0,"03/05/2023, 10:40",Pool D,Scheduled
-Pacific Lutheran (B),Whitworth,0,0,"03/05/2023, 10:40",Pool D,Scheduled
-Reed,Pacific Lutheran (B),0,0,"03/05/2023, 13:00",Pool D,Scheduled
-Seattle,Portland,0,0,"03/05/2023, 13:00",Pool D,Scheduled
-California-Davis (B),Whitworth,0,0,"03/05/2023, 13:00",Pool D,Scheduled
+Reed,California-Davis (B),15,8,"03/05/2023, 08:30",Pool D,Final
+TEAM_NAME_NOT_FOUND,Whitworth,13,7,"03/05/2023, 08:30",Pool D,Final
+Pacific Lutheran (B),Portland,F,W,"03/05/2023, 08:30",Pool D,Final
+Reed,Portland,13,12,"03/05/2023, 10:40",Pool D,Final
+TEAM_NAME_NOT_FOUND,California-Davis (B),15,8,"03/05/2023, 10:40",Pool D,Final
+Pacific Lutheran (B),Whitworth,F,W,"03/05/2023, 10:40",Pool D,Scheduled
+Reed,Pacific Lutheran (B),W,F,"03/05/2023, 13:00",Pool D,Final
+TEAM_NAME_NOT_FOUND,Portland,13,11,"03/05/2023, 13:00",Pool D,Final
+California-Davis (B),Whitworth,F,W,"03/05/2023, 13:00",Pool D,Final
 b,r,e,a,k
