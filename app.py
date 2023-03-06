@@ -11,6 +11,8 @@ import requests
 ongoingTournaments = []
 upcomingTournaments = []
 recentlyEndedTournaments = []
+commitAndPush = True
+postToAPI = True 
 year = str(date.today().year) 
 
 def print_date_time():
@@ -91,8 +93,12 @@ def scrapeOngoingTournaments():
     global ongoingTournaments
     scrapeListOfTournamentUrls(config, ongoingTournaments)
     csvs = listUpdatedCsvs()
-    commitToGit()
-    postListToAPI(csvs)
+    global commitAndPush
+    if commitAndPush:
+        commitToGit()
+    global postToAPI
+    if postToAPI:
+        postListToAPI(csvs, False, True, False)
 
 def scrapeUpcomingTournaments():
     global year
@@ -100,8 +106,12 @@ def scrapeUpcomingTournaments():
     global upcomingTournaments
     scrapeListOfTournamentUrls(config, upcomingTournaments)
     csvs = listUpdatedCsvs()
-    commitToGit()
-    postListToAPI(csvs)
+    global commitAndPush
+    if commitAndPush:
+        commitToGit()
+    global postToAPI
+    if postToAPI:
+        postListToAPI(csvs)
 
 def scrapeRecentlyEndedTournaments():
     global year
@@ -109,8 +119,12 @@ def scrapeRecentlyEndedTournaments():
     global recentlyEndedTournaments
     scrapeListOfTournamentUrls(config, recentlyEndedTournaments)
     csvs = listUpdatedCsvs()
-    commitToGit()
-    postListToAPI(csvs)
+    global commitAndPush
+    if commitAndPush:
+        commitToGit()
+    global postToAPI
+    if postToAPI:
+        postListToAPI(csvs)
 
 
 def commitToGit():
@@ -130,8 +144,8 @@ def listUpdatedCsvs():
             output.append(items[1])
     return output
 
-def postListToAPI(csvs):
-    payload = { "paths": csvs }
+def postListToAPI(csvs, UpdatePlayers=True, checkExisting=True, DryRun=False):
+    payload = { "paths": csvs, "updatePlayers": UpdatePlayers, "checkExisting": checkExisting, "dryRun": DryRun }
     log.info(f"posting {len(csvs)} csvs to API")
     try:
         r = requests.post('http://127.0.0.1:3030/v1/ingest', data=payload)
@@ -167,6 +181,11 @@ setupTor()
 setupSchedule()
 
 # Initial run on startup
-scrapeCalendar(False)
-scrapeRecentlyEndedTournaments()
+# scrapeCalendar(False)
+# scrapeRecentlyEndedTournaments()
+# scrapeOngoingTournaments()
 # scrapeUpcomingTournaments()
+# csvs = listUpdatedCsvs()
+# print(csvs)
+# commitToGit()
+# postListToAPI(csvs, False, True, False)
