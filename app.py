@@ -42,7 +42,7 @@ def scrapeCalendar(disableCache=True):
     if not disableCache:
         d = ""
     
-    subprocess.run(["python", "scrape.py", "-y", year, "--debug", "--calendarOnly", d])
+    subprocess.run(["python", "scrape.py", "-y", year, "--calendarOnly", d])
 
     global ongoingTournaments
     global upcomingTournaments
@@ -181,7 +181,7 @@ setupTor()
 setupSchedule()
 
 # Initial run on startup
-# scrapeCalendar(False)
+scrapeCalendar(True)
 # scrapeRecentlyEndedTournaments()
 # scrapeOngoingTournaments()
 # scrapeUpcomingTournaments()

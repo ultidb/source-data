@@ -2,6 +2,8 @@ Mardi Gras XXXV,College - Men ,25,2,2023
 Baton Rouge,LA,2023-02-25,2023-02-26
 https://play.usaultimate.org/events/Mardi-Gras-XXXV/schedule/Men/CollegeMen/
 Indiana,1
+teamInfo,HoosierMama?s,"Bloomington, Indiana",modules/common/hoosiermamas.org,https://www.facebook.com/HoosierMamas/,https://twitter.com/Hoosier_Mamas?lang=en
+coaches,Connor Regan
 0,Achyuta Murli
 0,Aidan Ball
 0,Collin Rassel
@@ -30,16 +32,18 @@ Indiana,1
 69,Liam Mulligan
 b,r,e,a,k
 LSU,8
+teamInfo,Purple Haze,"Baton Rouge, Louisiana",,,https://twitter.com/LSUUltimateM
+coaches,Chas Legge,Nicholas  Harper
 0,Adam Richards
 0,Austin McDonnell
 0,Caleb Franklin
+0,Collin Casseri
 0,Evan Duplessis
 0,Evan Babin
-0,Evan Scariano
 0,Grant Rebowe
-0,Collin Casseri
 0,Ira Anderson
 0,Martin Sullivan
+0,Max Collette
 0,Pierre Smith
 0,Stephen Abel
 1,Ryan Ripley
@@ -56,13 +60,24 @@ LSU,8
 66,Jaylon Boone
 69,Jared Smith
 81,Devon Teer
+84,Evan Scariano
 90,Saif Ahmed
 b,r,e,a,k
 Sam Houston State,12
+teamInfo,Deuce Ultimate,"Huntsville, Texas",,,
 0,Ya Chih Cheng
+6,Eric Castro
+9,Rhyan Miller
 12,Sidney Arel
+13,Dominic Medina
+21,Marc-Anthony Watts
+23,William Mathews
+31,Trent Walling
+39,Zach Sells
+69,Dominic Carozza
 b,r,e,a,k
 Spring Hill College,13
+teamInfo,SHUC,"Mobile, Alabama",,,
 03,Carter Pesnell
 06,Jordan Gibbs
 07,Eric Williams
@@ -76,16 +91,22 @@ Spring Hill College,13
 99,Carrick Brogan
 b,r,e,a,k
 Houston,17
-4,Luke Penrod
+teamInfo,Skyline,"Houston, Texas",,,
+0,Alexander Ruiz
+0,Isaac Martinez
 5,Aidan Hegner
+7,Bruce Manning
+04,Luke Penrod
 17,Shan Pappa
 20,Evan McGhee
+22,Piercen Hoekstra
+23,Vance Dicken
 44,Julian Huen
 54,Alex Tucker
 66,Aaron Rahman
-69,Vance Dicken
 b,r,e,a,k
 Florida,2
+teamInfo,Florida,"Gainesville, Florida",modules/common/ufmclubultimate.com,https://www.facebook.com/floridaultimate,https://twitter.com/floridaclubult
 02,Nathaniel Wilson
 03,Ricardo DeLeon
 06,Jose Bolanos
@@ -112,9 +133,12 @@ Florida,2
 99,Devon Keyt
 b,r,e,a,k
 Tennessee-Chattanooga,7
+teamInfo,Swamp Donkeys,"Chattanooga, Tennessee",,https://www.facebook.com/pages/UTC-Ultimate-Frisbee/688460324541637,https://twitter.com/UTCSwamp
+coaches,Bryan Sansbury
 0,Jackson Bushore
 2,Pryce Bevins
 6,Steele Davies
+9,Landon Kyle
 01,Sterling Grant
 03,Jared Beazley
 04,Braden Beebe
@@ -125,35 +149,40 @@ Tennessee-Chattanooga,7
 18,Ethan Arnold
 19,Hunter Beard
 20,David Wilkins
-23,Stephen Lee
 33,Charles Wheeler
+46,Hayden Gore
 50,Carter Cooper
 b,r,e,a,k
 Jacksonville State,11
-0,Brodie Sewell
+teamInfo,Firebird ,"Jacksonville, Alabama",https://jsuultimate.com/,,https://twitter.com/jsufirebird
 0,Connor Hall
-0,David  Luna
-0,Grant LaVercombe
-0,Jake Givens
-0,John Knauss
-0,Joshua  Logan
-0,Kobe Groce
-0,Matthew Barnett
-0,Maximilian  Gropp
-0,Mike Zheng 
-0,Nathan Williams
-0,Riley Stover
-0,Robert Strickland
+01,Matthew Barnett
+02,Robert Strickland
+03,Maximilian  Gropp
+06,David Mejía
+07,patrick stokesbary
+09,Joshua  Logan
 12,Brandon Aguilar
 14,Tiernan Whytock
+21,David  Luna
+24,Neil Cleare
+26,Nathan Williams
+27,Brodie Sewell
+29,Grant LaVercombe
+31,Riley Stover
 32,Kristopher McClure
 39,Jarrett Swanson
+45,Clay Bishop
+65,Kobe Groce
+67,John Knauss
+69,Mike Zheng 
+88,Jake Givens
 b,r,e,a,k
 Trinity University,18
+teamInfo,Turbulence,"San Antonio, Texas",,,
 0,Daniel Chapa
 0,Deral Robison
 0,Gabriel Manners
-0,Jake Ridenbaugh
 0,James Crosnoe
 0,Joey Mattingly
 0,Nicholas Stipanovic
@@ -169,6 +198,7 @@ Trinity University,18
 13,Jaedron Mueller
 21,Jack Pittman
 23,Elliott Conely
+27,Jake Ridenbaugh
 42,Holden Soderstrom
 66,Nicholas  Chen
 67,Spencer Olejniczak
@@ -176,11 +206,11 @@ Trinity University,18
 99,Nathan Ashworth
 b,r,e,a,k
 Texas Tech,14
+teamInfo,Tumbleweed,"Lubbock, Texas",modules/common/www.Tumbleweedultimate.com,https://www.facebook.com/groups/TTUUltimate/,https://twitter.com/techtumbleweed?lang=en
 0,Aidan Quinteros
 0,Bowen Forman
 0,Evan Peterson
 0,Eyal Refaeli
-0,Fadi Romanos
 0,Grayson Adams
 0,Kaleb Torres
 0,Luke Raetzman
@@ -190,74 +220,89 @@ Texas Tech,14
 2,Micah McDew
 6,Cameron Fortenbaugh
 9,Jack Wilkinson
+11,Fadi Romanos
 29,Charles Cornell
 99,Kale Sanders-Merritt
 b,r,e,a,k
 Alabama-Huntsville,3
+teamInfo,Nightmares,"Huntsville, Alabama",,https://www.facebook.com/UAHultimatefrisbee/?fref=ts,https://twitter.com/uahultimate
 0,Alec Minnicks
 0,Alexander DiBenio
 0,Brian Bekken
+0,Conner Lough
+0,Daisuke Yamada
 0,Dominic Kenyon
 0,Horace Wilson
 0,Houston Baker
 0,Isaiah Mason
-0,Conner Lough
-0,Daisuke Yamada
 0,Michael Poe
 0,Samuel Williams
 3,Callahan Diercks
 4,Riley Bong
 7,Kolson Johnson
 10,Andrew Sentell
-12,Joshua Kolby
 12,Daniel Kim
+12,Joshua Kolby
 33,Jere Goldsmith
 34,Bradley Fleming
 42,Noah Schwalb
 55,Chris Youngblood
+75,Ethan Moldofsky
 91,Jonathan Sillivant
 99,Colby Bong
 99,Nolan Anderson
 b,r,e,a,k
 Kennesaw State,10
+teamInfo,Parliament,"Kennesaw, Georgia",,,
 0,Bobby Burns
 0,Chase Miller
 0,Christian Thomas
+0,Ian Maddox
 0,Jesus Gonzalez
 0,Jonas Griesbeck
-0,Michael Faress
 0,Ryan Dees
+2,Michael Faress
 4,Eric Sinkler
 8,Victor Ochoa-Lorenzo
+10,Evan Marshall
 27,Mason Myler
 b,r,e,a,k
 Texas State,6
-0,Aaron Ogdee
-0,Aidan Wilson
-0,Alejandro  Valdez
-0,Ashten Barker 
-0,Blake Bailey
-0,Caleb Tiemann
+teamInfo,Texas State Buckets,"San Marcos, Texas",,,
 0,Connor  McLean
-0,Dylan Kaifesh
-0,Ellery Hale
-0,Garin Davis
-0,Harris Ewald
-0,Hayden Campbell
-0,Jack Courts
-0,Landen Muennink
-0,Logan Carroll
-0,Matthew Coffelt
-0,Parker Kaifesh
-2,Erik Atwell
-3,Jonathan Zygarlenski
+0,Gerrick Bowman
+0,Jacob Butler
+0,Ronald Malina
+0,Wyatt Christilles
+01,Blake Bailey
+02,Erik Atwell
+03,Jonathan Zygarlenski
+05,Logan Carroll
+06,Grant Chang
+07,Aaron Ogdee
+08,Alejandro  Valdez
 09,Jackson Potts
-10,Francis  Lasta
+10,Harris Ewald
+11,Parker Kaifesh
+12,Aidan Wilson
+13,Landen Muennink
 15,Jake Strickling
+21,Hayden Campbell
+23,Matthew Coffelt
+24,Jacob Greendyk
+26,Ellery Hale
+27,Garin Davis
 33,Rion Saldana
+33,Cody Cherrington
+34,Caleb Tiemann
+41,Ashten Barker 
+43,Dylan Kaifesh
+54,Jack Courts
 88,Reid Pannell
+99,Francis  Lasta
 b,r,e,a,k
 Miami,15
+teamInfo,UMiami Vice,"Coral Gables, Florida",https://miami.campuslabs.com/engage/organization/ultimate-frisbee-club,,
 0,Brandon Wittrock
 02,Andrew Dietel
 03,Trey Riera-Gomez
@@ -277,18 +322,24 @@ Miami,15
 69,Lux Sovann
 b,r,e,a,k
 Mississippi State (B),19
+teamInfo,Pony Express,"Strakville, Mississippi",,https://www.facebook.com/pages/MSU-Mens-Ultimate-Club/109943542442587?ref=hl,https://twitter.com/HailStateUlt
+03,Hayden Butts
 08,Tayshaun Smith
-17,Joshua Hamann
-18,Christian Spencer
-19,Joshua Cagle
+09,Cooper Daras
+20,Joshua Mitchell
 21,Gideon Miller
+24,Zachary Crane
+26,Nathan Reynolds
 28,Skylar Bates
 47,Dawson Johns
 50,Ka'Von Spivey
+56,Ethan Kilpatrick
 77,Jackson Thomas
 99,Sean Glasgow
 b,r,e,a,k
 Central Florida,4
+teamInfo,Dogs of War,"Orlando, Florida",http://centralfloridaultimate.com/,https://www.facebook.com/CentralFloridaUltimate,https://twitter.com/PupsofConflict
+coaches,Michael Taylor
 2,Alexander Mooney
 3,Alex Nelson
 4,Christopher Patrick
@@ -315,6 +366,7 @@ Central Florida,4
 55,Bradley  Paul
 b,r,e,a,k
 Texas A&M,5
+teamInfo,Dozen,"COLLEGE STATION, Texas",modules/common/dozenultimate.com,https://www.facebook.com/tamuultimate/,https://twitter.com/DozenUltimate/
 0,Kyle Moran
 4,Decker Padgett
 5,Trace Cabaniss
@@ -344,24 +396,37 @@ Texas A&M,5
 99,Spencer Solberg
 b,r,e,a,k
 Mississippi State,9
+teamInfo,Dark Horse,"Starkville, Mississippi",,https://www.facebook.com/pages/MSU-Mens-Ultimate-Club/109943542442587?ref=hl,https://twitter.com/HailStateUlt
 0,Andrew Ohrberg
+01,Vivesh Patel
+02,Drake Robertson
 04,Will Kalahar
 05,Daniel Grisham
 10,Dawson Archer
 12,Aaliyan Mohammed 
+14,James Tindell
 15,William Clark
 22,Caleb Byers
+25,Nathaniel Haley
 29,Noah Carpenter
 31,Grant Houston
+33,Drew Laird
+55,Frank Mcgee
 74,Owen McCoy
+78,Barnes Lowry
 b,r,e,a,k
 Tulane (B),16
+teamInfo,Tulane B,"New Orleans, Louisiana",,,
 0,Advaith Subramanian
 0,Axel Nielsen
 0,Benjamin Knepper
 0,Daniel Flink
 0,Gabe Ellias
 0,Grayson Broderick
+0,Jacob Greenhill
+0,James Morgan
+0,Casper Graham
+0,Jesse Katz
 0,Levi Smetana
 0,Matt Frey
 0,Max Greenberg
@@ -371,9 +436,13 @@ Tulane (B),16
 0,Taylor Friedman
 5,Joseph Wagner
 12,Benjamin Nevis
+28,Corey Hart
+29,Jeffrey Greenblatt
+31,Jonathan Israel
 77,Jonah Yurman
 b,r,e,a,k
 University of Mississippi,20
+teamInfo,Ole Miss Rebels,"University/Oxford, Mississippi",,,
 0,Brandon School
 01,William Pentecost
 04,John Harvey
