@@ -358,6 +358,9 @@ def addRosterToTeam(soup, team):
 
 def addInfoToTeam(soup, team):
     info = soup.find("div", {"class": "profile_info"})
+    if not info:
+        team.info = TeamInfo("", "", [], "", "", "")
+        return
     nickname = ""
     try:
         nameContents = info.find("h4").find("a").contents[0].strip()
@@ -371,7 +374,10 @@ def addInfoToTeam(soup, team):
         log.error(f"Failed to parse nickname for team {team.name} at {team.url}")
         pass
 
-    location = info.find("p", {"class": "team_city"}).contents[0]
+    locationInfo = info.find("p", {"class": "team_city"})
+    location = ""
+    if locationInfo:
+        location = locationInfo.contents[0]
     entries = info.findAll("dl")
     website = ""
     facebook = ""
@@ -486,7 +492,9 @@ def parseGameTable(soup, teams, year, startDate):
                 # for games where TD failed to put a date
                 game_datetime = startDate
 
-            status = row.find_all("td")[6].find("span").contents[0]           
+            status = row.find_all("td")[6].find("span")
+            if len(status.contents):
+                status = status.contents[0]           
 
             # commit games to objects
             game = Game(teamA, teamB, teamA_score, teamB_score, game_datetime, status)

@@ -129,6 +129,7 @@ def writeTournamentToCSV(config, tournament, tournamentFilePath):
 def scrapeTeam(config, tournamentName, team):
     teamContent = loadPage(config, team.url, PageType.TEAM,
                            tournamentName, team.name)
+    
     soup = BeautifulSoup(teamContent, 'html.parser')
     addRosterToTeam(soup, team)
     addInfoToTeam(soup, team)
@@ -154,8 +155,9 @@ def scrapeTournament(config, tournamentInfo, index, total):
         return
 
     for team in tournament.teams:
-        log.info(f"Scraping team page for {team.name}")
-        scrapeTeam(config, tournamentName, team)
+        if team.name != 'TEAM_NAME_NOT_FOUND':
+            log.info(f"Scraping team page for {team.name}")
+            scrapeTeam(config, tournamentName, team)
 
     writeTournamentToCSV(config, tournament, tournamentFilePath)
 
@@ -198,10 +200,14 @@ def scrapeYear(config):
 
 
 def retryErrors(config):
+    retrylines = []
     retryUrls = []
     with open(f'errors{config.year}.txt', 'r') as f:
-        retryUrls = f.readlines()
-    retryUrls = [url.replace('\n', '') for url in retryUrls]
+        retrylines = f.readlines()
+    for line in retrylines:
+        url = line.split(' ')[0].replace('\n', '')
+        retryUrls.append(url)
+
     print(retryUrls)
     with open(f'csv/{config.year}/_calendar.csv', newline='') as csvfile:
         reader = csv.reader(csvfile, delimiter=',', quotechar='"')
