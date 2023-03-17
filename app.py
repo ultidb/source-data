@@ -6,13 +6,17 @@ import subprocess, time, atexit, csv
 from tor import startTorServer
 from scrape import scrapeListOfTournamentUrls, Config
 import logging as log
-import requests
+import requests, os
+from dotenv import load_dotenv
 
 ongoingTournaments = []
 upcomingTournaments = []
 recentlyEndedTournaments = []
-commitAndPush = True
-postToAPI = True 
+load_dotenv()
+COMMIT_AND_PUSH = os.getenv("COMMIT_AND_PUSH") == "True"
+POST_TO_API = os.getenv("POST_TO_API") == "True"
+LOAD_CALENDAR_ON_START = os.getenv("LOAD_CAL_ON_START") == "True"
+API_URL = os.getenv("API_URL")
 year = str(date.today().year) 
 
 def print_date_time():
@@ -88,42 +92,30 @@ def scrapeCalendar(disableCache=True):
     
 
 def scrapeOngoingTournaments():
-    global year
     config = Config(int(year), False, True, True, False)
-    global ongoingTournaments
     scrapeListOfTournamentUrls(config, ongoingTournaments)
     csvs = listUpdatedCsvs()
-    global commitAndPush
-    if commitAndPush:
+    if COMMIT_AND_PUSH:
         commitToGit()
-    global postToAPI
-    if postToAPI:
+    if POST_TO_API:
         postListToAPI(csvs, False, True, False)
 
 def scrapeUpcomingTournaments():
-    global year
     config = Config(int(year), True, True, False, False)
-    global upcomingTournaments
     scrapeListOfTournamentUrls(config, upcomingTournaments)
     csvs = listUpdatedCsvs()
-    global commitAndPush
-    if commitAndPush:
+    if COMMIT_AND_PUSH:
         commitToGit()
-    global postToAPI
-    if postToAPI:
+    if POST_TO_API:
         postListToAPI(csvs)
 
 def scrapeRecentlyEndedTournaments():
-    global year
     config = Config(int(year), False, True, True, False)
-    global recentlyEndedTournaments
     scrapeListOfTournamentUrls(config, recentlyEndedTournaments)
     csvs = listUpdatedCsvs()
-    global commitAndPush
-    if commitAndPush:
+    if COMMIT_AND_PUSH:
         commitToGit()
-    global postToAPI
-    if postToAPI:
+    if POST_TO_API:
         postListToAPI(csvs)
 
 
@@ -148,7 +140,7 @@ def postListToAPI(csvs, UpdatePlayers=True, checkExisting=True, DryRun=False):
     payload = { "paths": csvs, "updatePlayers": UpdatePlayers, "checkExisting": checkExisting, "dryRun": DryRun }
     log.info(f"posting {len(csvs)} csvs to API")
     try:
-        r = requests.post('http://127.0.0.1:3030/v1/ingest', data=payload)
+        r = requests.post(API_URL, data=payload)
         if r.status_code != 204:
             log.error(f"API returned {r.status_code} with message: {r.text}")
     except Exception as e:
@@ -177,15 +169,25 @@ log.basicConfig(
         datefmt='%H:%M:%S'
     )
 app = Flask(__name__)
-setupTor()
-setupSchedule()
 
-# Initial run on startup
-scrapeCalendar(True)
-# scrapeRecentlyEndedTournaments()
-# scrapeOngoingTournaments()
-# scrapeUpcomingTournaments()
-# csvs = listUpdatedCsvs()
-# print(csvs)
-# commitToGit()
-# postListToAPI(csvs, False, True, False)
+@app.route("/health-check")
+def healthCheck():
+    output = {
+        "ongoingTournaments": len(ongoingTournaments),
+        "upcomingTournaments": len(upcomingTournaments),
+        "recentlyEndedTournaments": len(recentlyEndedTournaments),
+    }
+
+    return output
+
+if __name__ == "__main__":
+    setupTor()
+    setupSchedule()
+
+    # Initial run on startup
+    scrapeCalendar(LOAD_CALENDAR_ON_START)
+    # scrapeRecentlyEndedTournaments()
+    # scrapeOngoingTournaments()
+    scrapeUpcomingTournaments()
+
+    app.run(port=3031)

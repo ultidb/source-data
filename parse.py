@@ -388,8 +388,12 @@ def addInfoToTeam(soup, team):
             coaches += parseCoaches(entry.find("dd").contents)
         elif entry.find("dt").contents[0] == "Website:":
             website = entry.find("a")['href']
+            if website.startswith('modules/common/'):
+                website = website[15:]
         elif entry.find("dt").contents[0] == "Facebook:":
             facebook = entry.find("a")['href']
+            if facebook.startswith('modules/common/'):
+                facebook = facebook[15:]
         elif entry.find("dt").contents[0] == "Twitter:":
             twitter = entry.find("a")['href']
             if twitter.startswith('modules/common/'):
