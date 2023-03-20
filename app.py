@@ -188,6 +188,6 @@ if __name__ == "__main__":
     scrapeCalendar(LOAD_CALENDAR_ON_START)
     # scrapeRecentlyEndedTournaments()
     # scrapeOngoingTournaments()
-    scrapeUpcomingTournaments()
+    # scrapeUpcomingTournaments()
 
     app.run(port=3031)
