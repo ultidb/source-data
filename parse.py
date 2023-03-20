@@ -1,7 +1,8 @@
 from calendar import calendar
 from fileinput import filename
 import queue
-from bs4 import BeautifulSoup, NavigableString, Tag
+import string
+from bs4 import BeautifulSoup, NavigableString, Tag, element
 import logging as log
 import csv
 from datetime import datetime, timedelta
@@ -107,6 +108,7 @@ class Team:
         self.seed = seed
         self.roster = roster
         self.nickname = ""
+        self.info = None
 
     def to_string(self):
         return ("Team: " + self.name)
@@ -124,6 +126,8 @@ class Team:
 
     def csvFormat(self):
         s = [[self.name, self.seed]]
+        if self.info != None:
+            s += self.info.to_csv()
         for player in self.roster:
             s.append(player.to_csv())
         return s
@@ -173,14 +177,21 @@ class Player:
 # Instance of a  team over the course of a season
 
 
-class TeamInstance:
-    def __init__(self, teamID, location, coaches):
-        self.teamID = teamID
+class TeamInfo:
+    def __init__(self, nickname, location, coaches, website, facebook, twitter):
+        self.nickname = nickname
         self.location = location
         self.coaches = coaches
+        self.website = website
+        self.facebook = facebook
+        self.twitter = twitter
 
     def to_csv(self):
-        return ([self.teamID, self.location, self.coaches])
+        output = [['teamInfo',self.nickname, self.location, self.website, self.facebook, self.twitter]]
+        if (len(self.coaches) > 1):
+            output.append(self.coaches)
+
+        return output
 
 # tournment class stores the name of the tournament, the teams, the games, the date, and the division (one tournament can only hold one division of a tournament)
 
@@ -329,10 +340,10 @@ def convertTeamLinkToTeam(link, teams):
     return teams[id]
 
 
-def addRosterToTeam(content, team):
+def addRosterToTeam(soup, team):
     roster = []
     try:
-        tableRows = BeautifulSoup(content, 'html.parser').find(
+        tableRows = soup.find(
             "table").findAll("tr")[1:]
     except:
         log.error(f"Failed to parse roster for team {team.name} at {team.url}")
@@ -345,9 +356,69 @@ def addRosterToTeam(content, team):
         roster.append(Player(number, name))
     team.roster = roster
 
-# def addNicknameToTeam(content, team):
-#     try:
-#         soup.find()
+def addInfoToTeam(soup, team):
+    info = soup.find("div", {"class": "profile_info"})
+    if not info:
+        team.info = TeamInfo("", "", [], "", "", "")
+        return
+    nickname = ""
+    try:
+        nameContents = info.find("h4").find("a").contents[0].strip()
+        if nameContents[-1] == ")":
+            index = 2
+            while nameContents[-index] != "(":
+                index += 1
+
+            nickname = nameContents[-(index-1):-1]
+    except:
+        log.error(f"Failed to parse nickname for team {team.name} at {team.url}")
+        pass
+
+    locationInfo = info.find("p", {"class": "team_city"})
+    location = ""
+    if locationInfo:
+        location = locationInfo.contents[0]
+    entries = info.findAll("dl")
+    website = ""
+    facebook = ""
+    twitter = ""
+    coaches = ['coaches']
+    for entry in entries:
+        if entry.find("dt").contents[0] == "Coaches:":
+            coaches += parseCoaches(entry.find("dd").contents)
+        elif entry.find("dt").contents[0] == "Website:":
+            website = entry.find("a")['href']
+            if website.startswith('modules/common/'):
+                website = website[15:]
+        elif entry.find("dt").contents[0] == "Facebook:":
+            facebook = entry.find("a")['href']
+            if facebook.startswith('modules/common/'):
+                facebook = facebook[15:]
+        elif entry.find("dt").contents[0] == "Twitter:":
+            twitter = entry.find("a")['href']
+            if twitter.startswith('modules/common/'):
+                twitter = twitter[15:]
+    
+    team.info = TeamInfo(nickname, location.strip(), coaches, website.strip(), facebook.strip(), twitter.strip())
+
+def parseCoaches(items): # passing in list of tags with coach info
+    output = []
+    for item in items:
+        if type(item) != element.NavigableString:
+            continue
+        inner = item.strip() # remove whitespace
+        if inner == "":
+            continue
+            
+        if inner[-1] == ")":
+            index = 2
+            while inner[-index] != "(":
+                index += 1
+            inner = inner[:-index].strip()            
+        output.append(inner)
+
+    return output
+
 
 def parseClustersStage(soup, teams, year, startDate):
     clusterTables = soup.find_all(
@@ -425,7 +496,9 @@ def parseGameTable(soup, teams, year, startDate):
                 # for games where TD failed to put a date
                 game_datetime = startDate
 
-            status = row.find_all("td")[6].find("span").contents[0]           
+            status = row.find_all("td")[6].find("span")
+            if len(status.contents):
+                status = status.contents[0]           
 
             # commit games to objects
             game = Game(teamA, teamB, teamA_score, teamB_score, game_datetime, status)
