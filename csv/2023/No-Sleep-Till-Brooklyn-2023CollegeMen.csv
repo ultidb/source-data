@@ -2,6 +2,8 @@ No Sleep Till Brooklyn 2023,College - Men ,4,3,2023
 Brooklyn,NY,2023-03-04,2023-03-05
 https://play.usaultimate.org/events/No-Sleep-Till-Brooklyn-2023/schedule/Men/CollegeMen/
 Columbia,1
+teamInfo,Uptown Local,"New York, New York",http://www.columbia.edu/cu/ultimate/?DB_OEM_ID=9600,https://www.facebook.com/CU.uplo/,
+coaches,Chris Nelson,Benjamin Korman
 0,Daniel Esler
 0,Ethan Ostrow
 0,Haijian Wu
@@ -34,6 +36,7 @@ Columbia,1
 42,Aaron Bruce
 b,r,e,a,k
 SUNY-Stony Brook,7
+teamInfo,Panic,"Stony Brook, New York",,https://www.facebook.com/SBUUltimateFrisbee/,
 0,Bryson Mariano
 0,Connor Joseph
 0,Daniel Chao
@@ -58,6 +61,7 @@ SUNY-Stony Brook,7
 69,Wes Collins
 b,r,e,a,k
 Bates,6
+teamInfo,Orange Whip,"Lewiston, Maine",https://sites.google.com/bates.edu/batescollegeorangewhip/home,,https://twitter.com/bateso_whip?lang=en
 0,Benjamin Morse
 0,Benjamin Bushley
 0,Daniel Snider
@@ -80,6 +84,7 @@ Bates,6
 22,Ben Fasciano
 b,r,e,a,k
 Western New England,12
+teamInfo,Golden Bears,"Springfield, Massachusetts",,,
 0,Evan Sheridan
 3,Collin Winkelmann
 4,Brendon Mersincavage
@@ -101,6 +106,7 @@ Western New England,12
 98,Michael McCarthy
 b,r,e,a,k
 NYU,2
+teamInfo,New York University ,"New York, New York",,https://www.facebook.com/nyuhaze,https://twitter.com/NYUpurplehaze
 0,Andy Shi
 0,Ashan Kiridena
 0,Braden Dahl
@@ -131,6 +137,7 @@ NYU,2
 96,Edward DiTolla
 b,r,e,a,k
 Syracuse,5
+teamInfo,Doom,"Syracuse, New York",http://doomultimate.wixsite.com/su-ultimate-frisbee,https://www.facebook.com/SyracuseUltimate,https://twitter.com/doomultimate
 0,Benjamin Robinson
 0,Casey Kelley
 0,Charles Aubitz
@@ -158,6 +165,7 @@ Syracuse,5
 74,Ian Daughton
 b,r,e,a,k
 Cornell (B),11
+teamInfo,Shake),"Ithaca, New York",https://cornell.campusgroups.com/shake/home/,,https://twitter.com/shakeultimate
 01,Adam Cahall
 04,Maximilian Griner
 06,John Lovier
@@ -179,6 +187,7 @@ Cornell (B),11
 96,Mattieu Zhai
 b,r,e,a,k
 Hofstra,8
+teamInfo,Flying Dutchmen,"Hempstead, New York",,,@HUFDUltimate
 0,Christina Kyprianou
 0,Jake Olney
 0,Karl Basile-Baehr
@@ -199,6 +208,7 @@ Hofstra,8
 57,Joseph Cicione
 b,r,e,a,k
 Williams,3
+teamInfo,WUFO,"Williamstown, Massachusetts",http://williamsultimate.com,,https://www.twitter.com/wufoultimate
 0,Reed Kendall
 01,Nick Langel
 02,Kawika Tu
@@ -233,6 +243,7 @@ Williams,3
 99,Luke Graupmann
 b,r,e,a,k
 Tufts (B),10
+teamInfo,Tufts B,"Medford, Massachusetts",www.tuftsmensultimate.org,,
 0,Evan Hu
 00,Ray Feinleib
 01,Joshua Blum
@@ -262,6 +273,7 @@ Tufts (B),10
 99,Christopher  Garcia
 b,r,e,a,k
 MIT,4
+teamInfo,Grim Beaver,"Cambridge, Massachusetts",http://mens-ult.mit.edu,https://www.facebook.com/pages/MIT-Mens-Ultimate/129768873797702,https://twitter.com/MITultimate
 0,Kaden Silva
 0,Luka Karginov
 0,Luka Govedic
@@ -283,6 +295,7 @@ MIT,4
 81,Alexander Velberg
 b,r,e,a,k
 Brown (B),9
+teamInfo,Brown - B,"Providence, Rhode Island",,,
 0,Andy Luo
 0,Bryce Jacobs
 0,Caleb Stutman-Shaw
@@ -333,15 +346,25 @@ Brown (B),Tufts (B),5,13,"03/04/2023, 15:00",Pool C,Final
 b,r,e,a,k
 brackets,Open Division Bracket
 bracket,Championship Bracket
-Tufts (B),Syracuse,0,0,"03/05/2023, 08:30",Quarterfinals,In Progress
-NYU,MIT,0,0,"03/05/2023, 10:00",Quarterfinals,In Progress
-SUNY-Stony Brook,Williams,0,0,"03/05/2023, 08:30",Quarterfinals,In Progress
-Columbia,Bates,0,0,"03/05/2023, 10:00",Quarterfinals,In Progress
+MIT,Williams,10,9,"03/05/2023, 13:00",Finals,Final
+Syracuse,MIT,9,11,"03/05/2023, 11:30",Semifinals,Final
+Williams,Columbia,10,9,"03/05/2023, 11:30",Semifinals,Final
+Tufts (B),Syracuse,9,11,"03/05/2023, 08:30",Quarterfinals,Final
+NYU,MIT,5,11,"03/05/2023, 10:00",Quarterfinals,Final
+SUNY-Stony Brook,Williams,10,11,"03/05/2023, 08:30",Quarterfinals,Final
+Columbia,Bates,8,7,"03/05/2023, 10:00",Quarterfinals,Final
 bracket,9th Place Bracket
-Cornell (B),Western New England,0,0,"03/05/2023, 08:30",9th Place Semifinals,In Progress
-Hofstra,Brown (B),0,0,"03/05/2023, 08:30",9th Place Semifinals,In Progress
+Western New England,Brown (B),8,12,"03/05/2023, 10:00",9th Place Final,Final
+Cornell (B),Western New England,6,11,"03/05/2023, 08:30",9th Place Semifinals,Final
+Hofstra,Brown (B),5,10,"03/05/2023, 08:30",9th Place Semifinals,Final
 bracket,11th Place Bracket
+Cornell (B),Hofstra,3,12,"03/05/2023, 10:00",11th Place Final,Final
 bracket,3rd Place Bracket
+Syracuse,Columbia,9,12,"03/05/2023, 13:00",3rd Place Final,Final
 bracket,Tied For 5th Place Bracket
-bracket,Tied For 5th Place Bracket
+NYU,Bates,9,10,"03/05/2023, 11:30",Tied for 5th Place Final,Final
+b,r,e,a,k
+brackets,Tied for 5th Place Final
+bracket,Tied for 5th Place Final
+Tufts (B),SUNY-Stony Brook,11,9,"03/05/2023, 11:30",Tied for 5th Place Final,Final
 b,r,e,a,k

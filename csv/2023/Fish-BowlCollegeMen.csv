@@ -2,6 +2,7 @@ Fish Bowl,College - Men ,4,3,2023
 Harrisonburg,VA,2023-03-04,2023-03-05
 https://play.usaultimate.org/events/Fish-Bowl/schedule/Men/CollegeMen/
 Rutgers,5
+teamInfo,Machine,"New Brunswick, New Jersey",,,
 7,Timothy Pupalaikis
 01,Christopher Iglesias
 03,Tyler Mackey
@@ -27,6 +28,7 @@ Rutgers,5
 86,Jason Furbee
 b,r,e,a,k
 Delaware,4
+teamInfo,Sideshow,"Newark, Delaware",,,
 0,Angus Yocum
 0,Bastian Perry
 0,Bryan DelleDonne
@@ -49,6 +51,7 @@ Delaware,4
 51,Alexander Daley
 b,r,e,a,k
 James Madison,1
+teamInfo,Hellfish,"Harrisonburg, Virginia",jmu.edu,,
 0,Alex Ricci
 0,Benjamin Scott
 0,Brett Marchant
@@ -77,6 +80,8 @@ James Madison,1
 96,Benjamin Corrigan
 b,r,e,a,k
 Connecticut,8
+teamInfo,UConn Huskies,"Storrs, Connecticut",https://www.instagram.com/uconnultimate/,,https://twitter.com/UConnMensUlti
+coaches,Jeremy Bernier
 0,Alexander Manos
 0,Austin Rey
 0,Christopher Fan
@@ -101,6 +106,7 @@ Connecticut,8
 37,James Tibolla
 b,r,e,a,k
 North Carolina-Wilmington,3
+teamInfo,Seamen,"Wilmington, North Carolina",http://seamenultimate.com/,https://www.facebook.com/seamenultimate,https://twitter.com/seamenultimate
 0,Christian Belus
 0,Colin Hines
 0,Isaac Abelson
@@ -126,6 +132,8 @@ North Carolina-Wilmington,3
 99,Chase Korabik
 b,r,e,a,k
 Penn State,2
+teamInfo,Spank,"University Park, Pennsylvania",http://clubs.psu.edu/up/ultimate/,,https://twitter.com/spank_ultimate
+coaches,Morrison Smith
 0,Brandon Shunk
 0,Charlie Hurwitz
 0,Logan Piercy
@@ -151,6 +159,7 @@ Penn State,2
 91,Shane Donaher
 b,r,e,a,k
 Carnegie Mellon,6
+teamInfo,Mr. Yuk,"Pittsburgh, Pennsylvania",https://www.andrew.cmu.edu/user/ultimate/yuk/,,https://twitter.com/mryukultimate
 0,Alex Wilf
 0,Alexander Capestany
 0,Alexander Kirages
@@ -176,9 +185,20 @@ Carnegie Mellon,6
 69,Christopher Chang
 b,r,e,a,k
 Hellfish Bumblers,7
+teamInfo,,"Harrisonburg, Virginia",,,
+0,Mason Ong
+0,Travis Terrell
+00,Nicholas Albright
+00,Andrew Farquharson
 00,Charles Stimpson
+00,James Friscia
+00,Jeremy Thacker
+00,Jonathan Fosbury
+00,Joseph Evans
+30,Naram Alhasani
 b,r,e,a,k
 Maryland (B),10
+teamInfo,Astro Quakers,"College Park, Maryland",,,https://www.twitter.com/umdfub
 0,Casey Fuller
 0,Jason Zhao
 0,Josh Pollack
@@ -201,6 +221,7 @@ Maryland (B),10
 88,Ty Nachenberg
 b,r,e,a,k
 James Madison (B),9
+teamInfo,Smellfish,"Harrisonburg, Virginia",http://www.jmu.edu/recreation/sport-clubs/clubs/mensultimate.shtml,,
 00,Aidan Augustin
 03,Ryan Upton
 07,Ryan McGowan
@@ -224,6 +245,7 @@ James Madison (B),9
 99,Nick Mussen
 b,r,e,a,k
 George Washington (B),11
+teamInfo,G-Dub Bippos,"Washington, D.C., District of Columbia",,,https://twitter.com/GDub_B
 0,Daniel Munch
 0,Maxwell Katz
 0,Scott Haggerty
@@ -241,6 +263,7 @@ George Washington (B),11
 89,Collin Pivnick
 b,r,e,a,k
 William & Mary (B),13
+teamInfo,Seahorse,"Williamsburg, Virginia",,,https://twitter.com/WM_Seahorse
 00,Bailey  Nicholson
 00,Cameron Byer
 00,Ryan Blackburn
@@ -264,6 +287,7 @@ William & Mary (B),13
 84,Hanqing Chen
 b,r,e,a,k
 American (B),12
+teamInfo,Revolution,"Washington, District of Columbia",http://www.americanultimate.com/main-site,https://www.facebook.com/stall11,
 0,Charlie Jennings
 0,David Baron
 0,Ethan Corpuel
@@ -296,16 +320,23 @@ Carnegie Mellon,Hellfish Bumblers,W,L,"03/04/2023, 13:00",Pool B,Final
 b,r,e,a,k
 brackets,A Div Bracket
 bracket,Championship
-Penn State,James Madison,0,0,"03/05/2023, 10:00",Quarters,In Progress
-Delaware,Carnegie Mellon,0,0,"03/05/2023, 10:00",Quarters,In Progress
+Penn State,North Carolina-Wilmington,6,11,"03/05/2023, 13:20",Finals,Final
+Rutgers,Penn State,9,11,"03/05/2023, 11:40",Semis,Final
+Delaware,North Carolina-Wilmington,6,15,"03/05/2023, 11:40",Semis,Final
+Penn State,James Madison,10,8,"03/05/2023, 10:00",Quarters,Final
+Delaware,Carnegie Mellon,10,9,"03/05/2023, 10:00",Quarters,Final
 bracket,5th Place Bracket
+James Madison,Carnegie Mellon,12,5,"03/05/2023, 13:20",5th place ,Final
+James Madison,Hellfish Bumblers,1,0,"03/05/2023, 11:40",5th semis,Final
+Carnegie Mellon,Connecticut,10,9,"03/05/2023, 11:40",5th semis,Final
 bracket,7th Place
+Hellfish Bumblers,Connecticut,0,1,"03/05/2023, 13:20",7th Place,Final
 bracket,3rd Place
 b,r,e,a,k
 pools,B Team Round Robin
 pool,Pool C
 James Madison (B),William & Mary (B),9,5,"03/04/2023, 10:00",Pool C,Final
-George Washington (B),American (B),1,0,"03/04/2023, 10:00",Pool C,Final
+George Washington (B),American (B),10,2,"03/04/2023, 10:00",Pool C,Final
 James Madison (B),George Washington (B),7,3,"03/04/2023, 11:00",Pool C,Final
 Maryland (B),American (B),8,2,"03/04/2023, 11:00",Pool C,Final
 American (B),William & Mary (B),2,8,"03/04/2023, 12:00",Pool C,Final
@@ -317,7 +348,10 @@ George Washington (B),William & Mary (B),7,6,"03/04/2023, 14:00",Pool C,Final
 b,r,e,a,k
 brackets,B Team Mini-Bracket
 bracket,Championship Bracket
-James Madison (B),George Washington (B),0,0,"03/05/2023, 11:40",Championship Semis,Scheduled
-William & Mary (B),American (B),0,0,"03/05/2023, 10:00",Championship Quarters,In Progress
+Maryland (B),James Madison (B),10,7,"03/05/2023, 13:30",Championship Quarters,Final
+Maryland (B),William & Mary (B),10,8,"03/05/2023, 11:40",Championship Semis,Final
+James Madison (B),George Washington (B),12,2,"03/05/2023, 11:40",Championship Semis,Final
+William & Mary (B),American (B),15,1,"03/05/2023, 10:00",Championship Quarters,Final
 bracket,3rd Place Finals
+William & Mary (B),George Washington (B),13,7,"03/05/2023, 13:20",3rd Place Finals,Final
 b,r,e,a,k

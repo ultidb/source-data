@@ -2,6 +2,7 @@ import sys
 import getopt
 import csv
 from enum import Enum
+from bs4 import BeautifulSoup
 import requests
 import json, atexit
 import logging as log
@@ -9,7 +10,7 @@ from pathlib import Path
 from os.path import exists, normpath
 from os import getenv
 from dotenv import load_dotenv
-from parse import addRosterToTeam, parseTournament, parseTournamentCalendar
+from parse import addRosterToTeam, addInfoToTeam, parseTournament, parseTournamentCalendar
 from tor import *
 
 
@@ -128,7 +129,10 @@ def writeTournamentToCSV(config, tournament, tournamentFilePath):
 def scrapeTeam(config, tournamentName, team):
     teamContent = loadPage(config, team.url, PageType.TEAM,
                            tournamentName, team.name)
-    addRosterToTeam(teamContent, team)
+    
+    soup = BeautifulSoup(teamContent, 'html.parser')
+    addRosterToTeam(soup, team)
+    addInfoToTeam(soup, team)
 
 
 def scrapeTournament(config, tournamentInfo, index, total):
@@ -151,8 +155,9 @@ def scrapeTournament(config, tournamentInfo, index, total):
         return
 
     for team in tournament.teams:
-        log.info(f"Scraping team page for {team.name}")
-        scrapeTeam(config, tournamentName, team)
+        if team.name != 'TEAM_NAME_NOT_FOUND':
+            log.info(f"Scraping team page for {team.name}")
+            scrapeTeam(config, tournamentName, team)
 
     writeTournamentToCSV(config, tournament, tournamentFilePath)
 
@@ -165,7 +170,7 @@ def scrapeListOfTournamentUrls(config, tournaments):
             scrapeTournament(config, tournaments[i], i, total)
         except Exception as e:
             log.error(e)
-            errors.append(tournaments[i]['url'].replace('\n', ''))
+            errors.append(tournaments[i]['url'].replace('\n', '') + f' {e}')
 
     with open(f'errors{config.year}.txt', 'w') as f:
         f.write('\n'.join(errors))
@@ -195,10 +200,14 @@ def scrapeYear(config):
 
 
 def retryErrors(config):
+    retrylines = []
     retryUrls = []
     with open(f'errors{config.year}.txt', 'r') as f:
-        retryUrls = f.readlines()
-    retryUrls = [url.replace('\n', '') for url in retryUrls]
+        retrylines = f.readlines()
+    for line in retrylines:
+        url = line.split(' ')[0].replace('\n', '')
+        retryUrls.append(url)
+
     print(retryUrls)
     with open(f'csv/{config.year}/_calendar.csv', newline='') as csvfile:
         reader = csv.reader(csvfile, delimiter=',', quotechar='"')
@@ -208,7 +217,12 @@ def retryErrors(config):
                                  {'url': row[0], 'city': row[1], 'state': row[2], 'startDate': row[3], 'endDate': row[4]}, 
                                  0, 0)
         # scrapeListOfTournamentUrls(config, urls)
-    
+def readInfoFromCalendarCSV(year, url):
+    with open(f'csv/{year}/_calendar.csv', newline='') as csvfile:
+        reader = csv.reader(csvfile, delimiter=',', quotechar='"')
+        for row in reader:
+            if row[0] == url:
+                return { "city": row[1], "state": row[2],"startDate": row[3], "endDate": row[4], "url": row[0] }   
 
 def main(argv):
     disableCache = False
@@ -281,7 +295,7 @@ def main(argv):
     if retry:
         retryErrors(config)
     elif tournament != None:
-        tournamentInfo["url"] = tournament
+        tournamentInfo = readInfoFromCalendarCSV(year, tournament)
         scrapeTournament(config, tournamentInfo, 0, 1)
     else:
         log.info("Scraping year: " + year)
