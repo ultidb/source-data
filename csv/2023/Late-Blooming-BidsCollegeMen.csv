@@ -24,22 +24,6 @@ coaches,Scott Graber,Alex Grande
 73,Elijah  Kennard
 98,Jonah Sparling
 b,r,e,a,k
-Southern Connecticut State,4
-teamInfo,Mighty Hucks,"New Haven, Connecticut",,,
-coaches,Michael Schriefer
-0,Elliott Via
-0,Ivan Teplyakov
-0,Liam VanderWyk
-0,Noah Luby
-0,Sam Trumbley
-0,Shane Carvin
-0,Benjamin Martin
-0,Wyatt Schadt
-0,Zachary Chittenden
-14,Dominic D'Aurio
-21,Will Chiero
-97,Arjun Valdes
-b,r,e,a,k
 Rensselaer Polytech,5
 teamInfo,Trudge,"Troy, New York",http://frisbee.union.rpi.edu/,https://www.facebook.com/pages/RPI-Trudge-Ultimate/150465975037160,https://twitter.com/rpitrudge
 2,Chang Liu
@@ -64,6 +48,22 @@ teamInfo,Trudge,"Troy, New York",http://frisbee.union.rpi.edu/,https://www.faceb
 88,Andrew Gervia
 95,Charlie Heffernan
 99,Orestis Narliotis
+b,r,e,a,k
+Southern Connecticut State,4
+teamInfo,Mighty Hucks,"New Haven, Connecticut",,,
+coaches,Michael Schriefer
+0,Elliott Via
+0,Ivan Teplyakov
+0,Liam VanderWyk
+0,Noah Luby
+0,Sam Trumbley
+0,Shane Carvin
+0,Benjamin Martin
+0,Wyatt Schadt
+0,Zachary Chittenden
+14,Dominic D'Aurio
+21,Will Chiero
+97,Arjun Valdes
 b,r,e,a,k
 Central Connecticut State,2
 teamInfo,Blue Barracudas,"New Britain, Connecticut",,,
@@ -137,16 +137,23 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
-Southern Connecticut State,Rensselaer Polytech,0,0,"03/26/2023, 09:00",Pool A,Scheduled
-Yale,Rensselaer Polytech,0,0,"03/26/2023, 10:10",Pool A,Scheduled
-Yale,Southern Connecticut State,0,0,"03/26/2023, 11:20",Pool A,Scheduled
+Southern Connecticut State,Rensselaer Polytech,4,9,"03/26/2023, 09:00",Pool A,Final
+Yale,Rensselaer Polytech,12,1,"03/26/2023, 10:10",Pool A,Final
+Yale,Southern Connecticut State,14,0,"03/26/2023, 11:20",Pool A,Final
 pool,Pool B
-Vassar,New Haven,0,0,"03/26/2023, 09:00",Pool B,Scheduled
-Central Connecticut State,New Haven,0,0,"03/26/2023, 10:10",Pool B,Scheduled
-Central Connecticut State,Vassar,0,0,"03/26/2023, 11:20",Pool B,Scheduled
+Vassar,New Haven,11,3,"03/26/2023, 09:00",Pool B,Final
+Central Connecticut State,New Haven,9,3,"03/26/2023, 10:10",Pool B,Final
+Central Connecticut State,Vassar,7,5,"03/26/2023, 11:20",Pool B,Final
 b,r,e,a,k
 brackets,Bracket Play
-bracket,1st Place
 bracket,3rd Place
+Vassar,Rensselaer Polytech,0,7,"03/26/2023, 14:50",3rd Place,Final
 bracket,5th Place
+Southern Connecticut State,New Haven,4,13,"03/26/2023, 14:50",5th Place,Final
+bracket,Finals
+Central Connecticut State,Yale,0,0,"03/26/2023, 12:30",Finals,Final
+Rensselaer Polytech,Central Connecticut State,1,10,"03/26/2023, 11:00",Semis,Final
+Vassar,Yale,4,9,"03/26/2023, 11:00",Semis,Final
+Rensselaer Polytech,New Haven,7,5,"03/26/2023, 09:30",Quarters,Final
+Vassar,Southern Connecticut State,12,1,"03/26/2023, 09:30",Quarters,Final
 b,r,e,a,k

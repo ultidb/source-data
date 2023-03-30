@@ -105,6 +105,35 @@ teamInfo,Big Donkey Ultimate,"Haverford, Pennsylvania",,,https://twitter.com/don
 36,Cade Fanning
 37,Clay Stoltenberg
 b,r,e,a,k
+Bowdoin,3
+teamInfo,Clown,"Brunswick, Maine",,,https://twitter.com/stoned_clown?lang=en
+0,Alexander Kelly
+0,Anders Larson
+0,Benjamin Israel
+0,Ilo Holdridge
+0,Jamie Roan
+0,John Soeder
+0,Collin Tardio
+0,Leonard Mayorga
+0,Miles Berry
+0,Paul Wang
+0,Philip Spyrou
+0,Sam Ralston
+0,Spencer Sussman
+0,Troy Kellerr
+0,Zach Cheesman
+1,Mason Winter
+1,Benjamin Halperin
+2,Cole Fairfield
+3,Will Gaston
+11,Kenneth Garcia
+15,Sawyer Gouldman
+17,Thomas Mazzuchi
+51,Theodore Barton
+55,Cameron Edgar
+69,Ian Zogg
+69,Thomas Hornbeck
+b,r,e,a,k
 Oberlin,2
 teamInfo,Flying Horsecows,"Oberlin, Ohio",,,
 0,Benjamin Eichner
@@ -134,35 +163,6 @@ teamInfo,Flying Horsecows,"Oberlin, Ohio",,,
 31,Noam Canter
 35,Adam Wright
 71,Sagana Ondande
-b,r,e,a,k
-Bowdoin,3
-teamInfo,Clown,"Brunswick, Maine",,,https://twitter.com/stoned_clown?lang=en
-0,Alexander Kelly
-0,Anders Larson
-0,Benjamin Israel
-0,Ilo Holdridge
-0,Jamie Roan
-0,John Soeder
-0,Collin Tardio
-0,Leonard Mayorga
-0,Miles Berry
-0,Paul Wang
-0,Philip Spyrou
-0,Sam Ralston
-0,Spencer Sussman
-0,Troy Kellerr
-0,Zach Cheesman
-1,Mason Winter
-1,Benjamin Halperin
-2,Cole Fairfield
-3,Will Gaston
-11,Kenneth Garcia
-15,Sawyer Gouldman
-17,Thomas Mazzuchi
-51,Theodore Barton
-55,Cameron Edgar
-69,Ian Zogg
-69,Thomas Hornbeck
 b,r,e,a,k
 Bentley,6
 teamInfo,Icehouse,"Waltham, Massachusetts",,,twitter.com/bentleyultimate
@@ -214,23 +214,29 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
-Williams,Kenyon,0,0,"03/25/2023, 09:30",Pool A,Scheduled
-Brandeis,Haverford,0,0,"03/25/2023, 09:30",Pool A,Scheduled
-Williams,Brandeis,0,0,"03/25/2023, 11:10",Pool A,Scheduled
-Williams,Haverford,0,0,"03/25/2023, 12:50",Pool A,Scheduled
-Kenyon,Brandeis,0,0,"03/25/2023, 12:50",Pool A,Scheduled
-Kenyon,Haverford,0,0,"03/25/2023, 14:30",Pool A,Scheduled
+Williams,Kenyon,15,4,"03/25/2023, 09:30",Pool A,Final
+Brandeis,Haverford,12,8,"03/25/2023, 09:30",Pool A,Final
+Williams,Brandeis,14,6,"03/25/2023, 11:10",Pool A,Final
+Williams,Haverford,12,1,"03/25/2023, 12:50",Pool A,Final
+Kenyon,Brandeis,11,10,"03/25/2023, 12:50",Pool A,Final
+Kenyon,Haverford,15,4,"03/25/2023, 14:30",Pool A,Final
 pool,Pool B
-Bowdoin,Bentley,0,0,"03/25/2023, 09:30",Pool B,Scheduled
-Oberlin,Bowdoin,0,0,"03/25/2023, 11:10",Pool B,Scheduled
-Bentley,Shippensburg,0,0,"03/25/2023, 11:10",Pool B,Scheduled
-Oberlin,Shippensburg,0,0,"03/25/2023, 12:50",Pool B,Scheduled
-Oberlin,Bentley,0,0,"03/25/2023, 14:30",Pool B,Scheduled
-Bowdoin,Shippensburg,0,0,"03/25/2023, 14:30",Pool B,Scheduled
+Bowdoin,Bentley,12,6,"03/25/2023, 09:30",Pool B,Final
+Oberlin,Bowdoin,7,11,"03/25/2023, 11:10",Pool B,Final
+Bentley,Shippensburg,11,9,"03/25/2023, 11:10",Pool B,Final
+Oberlin,Shippensburg,9,6,"03/25/2023, 12:50",Pool B,Final
+Oberlin,Bentley,11,7,"03/25/2023, 14:30",Pool B,Final
+Bowdoin,Shippensburg,15,6,"03/25/2023, 14:30",Pool B,Final
 b,r,e,a,k
 brackets,Bracket Play
 bracket,Championship Bracket
+Bowdoin,Kenyon,0,0,"03/26/2023, 12:50",Semi-Finals,Cancelled
+Bowdoin,Haverford,1,0,"03/26/2023, 11:10",Quarter-Finals,Final
+Kenyon,Bentley,15,3,"03/26/2023, 09:30",Quarter-Finals,Final
+Oberlin,Brandeis,10,9,"03/26/2023, 09:30",Quarter-Finals,Final
+Williams,Shippensburg,0,0,"03/26/2023, 11:10",Quarter-Finals,Cancelled
 bracket,Third Place Bracket
 bracket,Fifth Place Bracket
+Bentley,Brandeis,0,0,"03/26/2023, 23:10",Fifth Place,Cancelled
 bracket,Seventh Place Bracket
 b,r,e,a,k

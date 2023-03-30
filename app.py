@@ -189,5 +189,7 @@ if __name__ == "__main__":
     # scrapeRecentlyEndedTournaments()
     # scrapeOngoingTournaments()
     # scrapeUpcomingTournaments()
+    # csvs = listUpdatedCsvs()
+    # postListToAPI(csvs)
 
     app.run(port=3031)

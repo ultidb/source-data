@@ -339,6 +339,24 @@ def convertTeamLinkToTeam(link, teams):
     teams[id] = Team(name, seed, url, id)
     return teams[id]
 
+def extract_nickname(team_name):
+    opening_index = team_name.find("(")
+    closing_index = team_name.rfind(")")
+
+    # If both parentheses were found
+    if opening_index != -1 and closing_index != -1:
+        nickname = team_name[opening_index + 1 : closing_index]
+
+        # Ignore interior parentheses if the text inside is only one character
+        if "(" in nickname and ")" in nickname:
+            start_index = nickname.find("(")
+            end_index = nickname.rfind(")")
+            if end_index - start_index > 1:
+                nickname = nickname[start_index + 1 : end_index]
+
+        return nickname.strip()
+    else:
+        return ""
 
 def addRosterToTeam(soup, team):
     roster = []
@@ -364,12 +382,7 @@ def addInfoToTeam(soup, team):
     nickname = ""
     try:
         nameContents = info.find("h4").find("a").contents[0].strip()
-        if nameContents[-1] == ")":
-            index = 2
-            while nameContents[-index] != "(":
-                index += 1
-
-            nickname = nameContents[-(index-1):-1]
+        nickname = extract_nickname(nameContents)
     except:
         log.error(f"Failed to parse nickname for team {team.name} at {team.url}")
         pass
