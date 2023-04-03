@@ -27,28 +27,6 @@ teamInfo,Thunderbirds,"Vancouver, British Columbia CA",,,
 88,Nicolas Sanchez
 99,Abeer Lamba
 b,r,e,a,k
-Whitman,8
-teamInfo,Whitman Sweets,"Walla Walla, Washington",,https://www.facebook.com/Whitman-Sweets-Mens-Ultimate-236959183065222/,https://twitter.com/MWhitman_Sweets
-0,Benjamin Canty
-0,brodie monohan
-0,Colin Pfister
-0,Connor Scott
-0,Daniel Sutton
-0,Elan Siegler
-0,Hans Frautschi
-0,Jasper Brown
-0,Kai Kirsch
-0,Larson Selvig
-0,Leo Dungan-Seaver
-0,Luke Patrick
-0,Nico Darringer
-0,Tanner Filion
-0,Teagan Freda-Cowie 
-13,Soren Severens
-25,Tyler Shanahan
-34,Gus Marhoefer
-35,Lyle Hahn
-b,r,e,a,k
 Dartmouth,9
 teamInfo,Pain Train,"Hanover, New Hampshire",https://sites.dartmouth.edu/ultimatefrisbee/paintrain/,,https://twitter.com/DMouthPainTrain
 coaches,Colby Clarkson
@@ -77,6 +55,28 @@ coaches,Colby Clarkson
 24,Jackson Scarbrough
 33,Drew Loughnane
 44,Theodore Trefonides
+b,r,e,a,k
+Whitman,8
+teamInfo,Whitman Sweets,"Walla Walla, Washington",,https://www.facebook.com/Whitman-Sweets-Mens-Ultimate-236959183065222/,https://twitter.com/MWhitman_Sweets
+0,Benjamin Canty
+0,brodie monohan
+0,Colin Pfister
+0,Connor Scott
+0,Daniel Sutton
+0,Elan Siegler
+0,Hans Frautschi
+0,Jasper Brown
+0,Kai Kirsch
+0,Larson Selvig
+0,Leo Dungan-Seaver
+0,Luke Patrick
+0,Nico Darringer
+0,Tanner Filion
+0,Teagan Freda-Cowie 
+13,Soren Severens
+25,Tyler Shanahan
+34,Gus Marhoefer
+35,Lyle Hahn
 b,r,e,a,k
 Washington,2
 teamInfo,Sundodgers,"Seattle, Washington",,https://www.facebook.com/uwultimate,https://twitter.com/sundodgers
@@ -248,6 +248,32 @@ teamInfo,GURU,"Spokane, Washington",,https://www.facebook.com/GonzagaMensUltimat
 24,Brennan Twiggs
 95,Leland Mason
 b,r,e,a,k
+Victoria,5
+teamInfo,Vikes,"Victoria, British Columbia CA",www.uvicultimate.com,https://www.facebook.com/UVictimUltimate,https://twitter.com/uvictimultimate
+00,Alex Piepjohn 
+00,Ben Baird
+00,Ben Lefevre
+00,Brett Sommerville
+00,Dylan Cochrane
+00,Fraser Buck
+00,Isaac Greenham
+00,Jake Douglas
+00,James Edgell
+00,Nyle Lebbell
+00,Richard Mcleod 
+00,Theo Davis
+00,Lochlan Margison
+00,William Alexander
+00,Zhangsong Gao
+03,Duncan Armstrong
+27,Ian McLaren
+31,Keegan Freeland
+40,Jordan Atchison
+51,Justin Pettenuzzo
+53,Benjamin Savage
+69,Max Pettenuzzo
+72,Timothy Friesen
+b,r,e,a,k
 Oregon State,4
 teamInfo,Beavers,"Corvallis, Oregon",http://osumensultimate.wix.com/oregon-state-ultimate,https://www.facebook.com/osubeaversultimatedisc,https://twitter.com/OSU_ultimate
 0,Antonio Rueda
@@ -279,9 +305,6 @@ teamInfo,Beavers,"Corvallis, Oregon",http://osumensultimate.wix.com/oregon-state
 31,Henry Wayte
 96,Matt Rix
 b,r,e,a,k
-Victoria,5
-teamInfo,Vikes,"Victoria, British Columbia CA",www.uvicultimate.com,https://www.facebook.com/UVictimUltimate,https://twitter.com/uvictimultimate
-b,r,e,a,k
 Chico State,12
 teamInfo,Chico State,"Chico, California",,,
 0,Christian Reinig
@@ -304,32 +327,57 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Saturday Pools
 pool,Pool A
-Whitman,Dartmouth,0,0,"04/01/2023, 08:00",Pool A,Scheduled
-British Columbia,Dartmouth,0,0,"04/01/2023, 10:00",Pool A,Scheduled
-British Columbia,Whitman,0,0,"04/01/2023, 12:00",Pool A,Scheduled
+Whitman,Dartmouth,12,13,"04/01/2023, 08:00",Pool A,Final
+British Columbia,Dartmouth,15,5,"04/01/2023, 10:00",Pool A,Final
+British Columbia,Whitman,15,7,"04/01/2023, 12:00",Pool A,Final
 pool,Pool B
-Utah,Washington State,0,0,"04/01/2023, 08:00",Pool B,Scheduled
-Washington,Washington State,0,0,"04/01/2023, 10:00",Pool B,Scheduled
-Washington,Utah,0,0,"04/01/2023, 12:00",Pool B,Scheduled
+Utah,Washington State,12,8,"04/01/2023, 08:00",Pool B,Final
+Washington,Washington State,15,5,"04/01/2023, 10:00",Pool B,Final
+Washington,Utah,14,7,"04/01/2023, 12:00",Pool B,Final
 pool,Pool C
-Western Washington,Gonzaga,0,0,"04/01/2023, 08:00",Pool C,Scheduled
-Utah State,Gonzaga,0,0,"04/01/2023, 10:00",Pool C,Scheduled
-Utah State,Western Washington,0,0,"04/01/2023, 12:00",Pool C,Scheduled
+Western Washington,Gonzaga,11,8,"04/01/2023, 08:00",Pool C,Final
+Utah State,Gonzaga,14,9,"04/01/2023, 10:00",Pool C,Final
+Utah State,Western Washington,13,10,"04/01/2023, 12:00",Pool C,Final
 pool,Pool D
-Victoria,Chico State,0,0,"04/01/2023, 08:00",Pool D,Scheduled
-Oregon State,Chico State,0,0,"04/01/2023, 10:00",Pool D,Scheduled
-Oregon State,Victoria,0,0,"04/01/2023, 12:00",Pool D,Scheduled
+Victoria,Chico State,14,7,"04/01/2023, 08:00",Pool D,Final
+Oregon State,Chico State,15,5,"04/01/2023, 10:00",Pool D,Final
+Oregon State,Victoria,10,11,"04/01/2023, 12:00",Pool D,Final
 b,r,e,a,k
 clusters,Seeding crossover
+cluster,Pool E
+British Columbia,Utah State,8,11,"04/01/2023, 16:00",,Final
+Washington,Victoria,15,7,"04/01/2023, 17:00",,Final
 b,r,e,a,k
 brackets,Bracket
 bracket,Bracket
+Utah,British Columbia,8,13,"04/02/2023, 13:00",Finals,Final
+Utah,Dartmouth,10,9,"04/02/2023, 11:00",Semis,Final
+Western Washington,British Columbia,9,12,"04/02/2023, 11:00",Semis,Final
+Utah State,Utah,10,12,"04/02/2023, 09:00",Quarters,Final
+Victoria,Dartmouth,8,9,"04/02/2023, 09:00",Quarters,Final
+Washington,Western Washington,10,11,"04/02/2023, 09:00",Quarters,Final
+British Columbia,Oregon State,15,9,"04/02/2023, 09:00",Quarters,Final
+Utah,Gonzaga,11,9,"04/01/2023, 14:00",Prequarters,Final
+Dartmouth,Chico State,14,5,"04/01/2023, 14:00",Prequarters,Final
+Western Washington,Washington State,10,8,"04/01/2023, 14:00",Prequarters,Final
+Oregon State,Whitman,10,7,"04/01/2023, 14:00",Prequarters,Final
 b,r,e,a,k
 brackets,Consolation
 bracket,5th place
+Utah State,Washington,6,15,"04/02/2023, 13:00",5th place final,Final
+Utah State,Victoria,11,8,"04/02/2023, 11:00",5th place semis,Final
+Washington,Oregon State,14,9,"04/02/2023, 11:00",5th place semis,Final
 bracket,7th place
+Victoria,Oregon State,8,13,"04/02/2023, 13:00",7th place final,Final
 bracket,3rd place
+Dartmouth,Western Washington,11,14,"04/02/2023, 13:00",3rd place game,Final
 b,r,e,a,k
 pools,Consolation pool
 pool,Pool E
+Gonzaga,Washington State,9,11,"04/02/2023, 09:00",Pool E,Final
+Chico State,Whitman,4,15,"04/02/2023, 09:00",Pool E,Final
+Gonzaga,Whitman,5,13,"04/02/2023, 11:00",Pool E,Final
+Chico State,Washington State,8,14,"04/02/2023, 11:00",Pool E,Final
+Gonzaga,Chico State,9,3,"04/02/2023, 13:00",Pool E,Final
+Washington State,Whitman,8,13,"04/02/2023, 13:00",Pool E,Final
 b,r,e,a,k
