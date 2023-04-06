@@ -1,4 +1,5 @@
 from inspect import Signature
+import json
 from flask import Flask
 from datetime import datetime, date, timedelta
 from apscheduler.schedulers.background import BackgroundScheduler
@@ -98,7 +99,7 @@ def scrapeOngoingTournaments():
     if COMMIT_AND_PUSH:
         commitToGit()
     if POST_TO_API:
-        postListToAPI(csvs, False, True, False)
+        postUpdatedCsvsToReceiver(csvs, False, True, False)
 
 def scrapeUpcomingTournaments():
     config = Config(int(year), True, True, False, False)
@@ -107,7 +108,7 @@ def scrapeUpcomingTournaments():
     if COMMIT_AND_PUSH:
         commitToGit()
     if POST_TO_API:
-        postListToAPI(csvs)
+        postUpdatedCsvsToReceiver(csvs)
 
 def scrapeRecentlyEndedTournaments():
     config = Config(int(year), False, True, True, False)
@@ -116,7 +117,7 @@ def scrapeRecentlyEndedTournaments():
     if COMMIT_AND_PUSH:
         commitToGit()
     if POST_TO_API:
-        postListToAPI(csvs)
+        postUpdatedCsvsToReceiver(csvs)
 
 
 def commitToGit():
@@ -136,15 +137,15 @@ def listUpdatedCsvs():
             output.append(items[1])
     return output
 
-def postListToAPI(csvs, UpdatePlayers=True, checkExisting=True, DryRun=False):
+def postUpdatedCsvsToReceiver(csvs, UpdatePlayers=True, checkExisting=True, DryRun=False):
     payload = { "paths": csvs, "updatePlayers": UpdatePlayers, "checkExisting": checkExisting, "dryRun": DryRun }
-    log.info(f"posting {len(csvs)} csvs to API")
+    log.info(f"posting {len(csvs)} csvs to receiver")
     try:
-        r = requests.post(API_URL, data=payload)
+        r = requests.post(API_URL, data=json.dumps(payload), headers={'Content-Type': 'application/json'})
         if r.status_code != 204:
-            log.error(f"API returned {r.status_code} with message: {r.text}")
+            log.error(f"receiver returned {r.status_code} with message: {r.text}")
     except Exception as e:
-        log.error(f"API returned error: {e}")
+        log.error(f"receiver returned error: {e}")
 
 def setupTor():
     tor_process = startTorServer()
@@ -190,6 +191,6 @@ if __name__ == "__main__":
     # scrapeOngoingTournaments()
     # scrapeUpcomingTournaments()
     # csvs = listUpdatedCsvs()
-    # postListToAPI(csvs)
+    # postUpdatedCsvsToReceiver(csvs)
 
-    app.run(port=3031)
+    app.run(port=3032)
