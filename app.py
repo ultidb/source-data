@@ -18,6 +18,7 @@ COMMIT_AND_PUSH = os.getenv("COMMIT_AND_PUSH") == "True"
 POST_TO_API = os.getenv("POST_TO_API") == "True"
 LOAD_CALENDAR_ON_START = os.getenv("LOAD_CAL_ON_START") == "True"
 API_URL = os.getenv("API_URL")
+HOST = os.getenv("HOST")
 year = str(date.today().year) 
 
 def print_date_time():
@@ -181,6 +182,11 @@ def healthCheck():
 
     return output
 
+@app.after_request
+def add_cors_header(response):
+    response.headers['Access-Control-Allow-Origin'] = '*'
+    return response
+
 if __name__ == "__main__":
     setupTor()
     setupSchedule()
@@ -193,4 +199,4 @@ if __name__ == "__main__":
     # csvs = listUpdatedCsvs()
     # postUpdatedCsvsToReceiver(csvs)
 
-    app.run(port=3032)
+    app.run(host=HOST, port=3032)
