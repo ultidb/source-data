@@ -96,29 +96,29 @@ def scrapeCalendar(disableCache=True):
 def scrapeOngoingTournaments():
     config = Config(int(year), False, True, True, False)
     scrapeListOfTournamentUrls(config, ongoingTournaments)
-    csvs = listUpdatedCsvs()
-    if COMMIT_AND_PUSH:
-        commitToGit()
-    if POST_TO_API:
-        postUpdatedCsvsToReceiver(csvs, False, True, False)
+    commitAndPush(True)
 
 def scrapeUpcomingTournaments():
     config = Config(int(year), True, True, False, False)
     scrapeListOfTournamentUrls(config, upcomingTournaments)
-    csvs = listUpdatedCsvs()
-    if COMMIT_AND_PUSH:
-        commitToGit()
-    if POST_TO_API:
-        postUpdatedCsvsToReceiver(csvs)
+    commitAndPush()
 
 def scrapeRecentlyEndedTournaments():
     config = Config(int(year), False, True, True, False)
     scrapeListOfTournamentUrls(config, recentlyEndedTournaments)
+    commitAndPush()
+
+def commitAndPush(isOngoing=False):
     csvs = listUpdatedCsvs()
-    if COMMIT_AND_PUSH:
-        commitToGit()
-    if POST_TO_API:
-        postUpdatedCsvsToReceiver(csvs)
+    if len(csvs) > 0:
+        if COMMIT_AND_PUSH:
+            commitToGit()
+        if POST_TO_API:
+            if isOngoing:
+                postUpdatedCsvsToReceiver(csvs, False, True, False)
+            else:
+                postUpdatedCsvsToReceiver(csvs) 
+
 
 
 def commitToGit():
