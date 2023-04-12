@@ -9,6 +9,7 @@ from scrape import scrapeListOfTournamentUrls, Config
 import logging as log
 import requests, os
 from dotenv import load_dotenv
+import db
 
 ongoingTournaments = []
 upcomingTournaments = []
@@ -143,8 +144,12 @@ def postUpdatedCsvsToReceiver(csvs, UpdatePlayers=True, checkExisting=True, DryR
         r = requests.post(API_URL, data=json.dumps(payload), headers={'Content-Type': 'application/json'})
         if r.status_code != 204:
             log.error(f"receiver returned {r.status_code} with message: {r.text}")
+            db.updateFailedCSVs(csvs)
+        else:
+            db.updateSuccesfulCSVs(csvs)
     except Exception as e:
         log.error(f"receiver returned error: {e}")
+        db.updateFailedCSVs(csvs)
 
 def setupTor():
     tor_process = startTorServer()
@@ -163,6 +168,7 @@ def setupSchedule():
     atexit.register(lambda: scheduler.shutdown())
 
 def prodSetup():
+    db.create_tournaments_db()
     setupTor()
     setupSchedule()
     scrapeCalendar(True)
