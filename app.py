@@ -13,7 +13,7 @@ from dotenv import load_dotenv
 ongoingTournaments = []
 upcomingTournaments = []
 recentlyEndedTournaments = []
-load_dotenv()
+load_dotenv(override=True)
 COMMIT_AND_PUSH = os.getenv("COMMIT_AND_PUSH") == "True"
 POST_TO_API = os.getenv("POST_TO_API") == "True"
 LOAD_CALENDAR_ON_START = os.getenv("LOAD_CAL_ON_START") == "True"
@@ -119,8 +119,6 @@ def commitAndPush(isOngoing=False):
             else:
                 postUpdatedCsvsToReceiver(csvs) 
 
-
-
 def commitToGit():
     subprocess.run(["git", "checkout", "live"])
     subprocess.run(["git", "add", "csv"])
@@ -134,7 +132,7 @@ def listUpdatedCsvs():
     output = []
     for line in status.split('\n'):
         items = line.strip().split(' ')
-        if len(items) > 1 and not items[1].endswith('_calendar.csv'):
+        if len(items) > 1 and not items[1].endswith('_calendar.csv') and items[1].startswith('csv/'):
             output.append(items[1])
     return output
 
@@ -164,6 +162,10 @@ def setupSchedule():
     # Shut down the scheduler when exiting the app
     atexit.register(lambda: scheduler.shutdown())
 
+def prodSetup():
+    setupTor()
+    setupSchedule()
+    scrapeCalendar(True)
 
 log.basicConfig(
         level=log.INFO,
@@ -188,15 +190,19 @@ def add_cors_header(response):
     return response
 
 if __name__ == "__main__":
-    setupTor()
-    setupSchedule()
+    # Setup default config (init schedule, tor, and scrape calendar for year)
+    prodSetup()
 
-    # Initial run on startup
-    scrapeCalendar(LOAD_CALENDAR_ON_START)
+    # Optional calls for testing/development
+    # setupTor()
+    # setupSchedule()
+    # scrapeCalendar(LOAD_CALENDAR_ON_START)
     # scrapeRecentlyEndedTournaments()
     # scrapeOngoingTournaments()
     # scrapeUpcomingTournaments()
     # csvs = listUpdatedCsvs()
     # postUpdatedCsvsToReceiver(csvs)
+    # print(COMMIT_AND_PUSH)
+    # commitAndPush()
 
     app.run(host=HOST, port=3032)
