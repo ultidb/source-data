@@ -6,7 +6,7 @@ def create_tournaments_db():
     c = conn.cursor()
     
     # Create the Tournaments table
-    c.execute('''CREATE TABLE Tournaments
+    c.execute('''CREATE TABLE IF NOT EXISTS Tournaments
                 (csvPath TEXT PRIMARY KEY, needsUpdate INTEGER, updatedAt TIMESTAMP DEFAULT CURRENT_TIMESTAMP)''')
     
     # Commit the changes and close the connection
