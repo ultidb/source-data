@@ -33,54 +33,6 @@ coaches,Meghan Drews
 35,Adam Wright
 71,Sagana Ondande
 b,r,e,a,k
-Kenyon,2
-teamInfo,SERF,"Gambier, Ohio",,,https://twitter.com/kenyonserf
-0,Diego Connolly
-4,Griffin Meyer
-00,Max Fishman
-02,Henry Wopschall
-05,MacIntyre Johnson
-06,Aidan Cullen
-07,Jackson Killilea
-08,Teddy Kamin
-09,Michael George
-10,Owen Hevly
-11,Liam Savona
-13,Henry Haley Goldman
-14,Henry Markwardt
-15,Tobias Hughes
-16,Brendan Kolerich
-18,Ryan Yarcusko
-20,Brian Coburn
-21,Lucien Kisch
-22,Alejandro  Paulino
-23,Nicholas Forsyth
-24,Elliot Moore
-25,Ethan Wagner
-27,Ryan Madison
-28,Adam Blum
-30,Finn Anders
-36,Isoo O’Brien
-50,Ford Young
-69,Kyle Boozer
-99,Micah Arenstein
-b,r,e,a,k
-Cedarville,3
-teamInfo,Swarm,"Cedarville, Ohio",,,https://twitter.com/cedarvilleuf
-0,Ethan Hatch
-0,Gustave Stralnic
-0,Isaac Hubble
-0,Johnathon Revell
-0,Micah Davidson
-0,Michael White
-2,Thor Peterson
-4,Brandon Barker
-14,Matthew Von Eiff
-17,Granite Lesko
-19,David Pride
-44,David Hubbard
-55,Samuel Marshall
-b,r,e,a,k
 Franciscan,4
 teamInfo,Fatal,"Steubenville, Ohio",,https://www.facebook.com/franciscanfatalultimate/?fref=ts,https://twitter.com/FranciscanFATAL
 0,Luke Forrester
@@ -134,6 +86,54 @@ teamInfo,B.L.O.B.,"Cincinnati, Ohio",,,https://twitter.com/BLOB_ultimate
 90,Andrew Pericat
 93,Christian Geary
 b,r,e,a,k
+Kenyon,2
+teamInfo,SERF,"Gambier, Ohio",,,https://twitter.com/kenyonserf
+0,Diego Connolly
+4,Griffin Meyer
+00,Max Fishman
+02,Henry Wopschall
+05,MacIntyre Johnson
+06,Aidan Cullen
+07,Jackson Killilea
+08,Teddy Kamin
+09,Michael George
+10,Owen Hevly
+11,Liam Savona
+13,Henry Haley Goldman
+14,Henry Markwardt
+15,Tobias Hughes
+16,Brendan Kolerich
+18,Ryan Yarcusko
+20,Brian Coburn
+21,Lucien Kisch
+22,Alejandro  Paulino
+23,Nicholas Forsyth
+24,Elliot Moore
+25,Ethan Wagner
+27,Ryan Madison
+28,Adam Blum
+30,Finn Anders
+36,Isoo O’Brien
+50,Ford Young
+69,Kyle Boozer
+99,Micah Arenstein
+b,r,e,a,k
+Cedarville,3
+teamInfo,Swarm,"Cedarville, Ohio",,,https://twitter.com/cedarvilleuf
+0,Ethan Hatch
+0,Gustave Stralnic
+0,Isaac Hubble
+0,Johnathon Revell
+0,Micah Davidson
+0,Michael White
+2,Thor Peterson
+4,Brandon Barker
+14,Matthew Von Eiff
+17,Granite Lesko
+19,David Pride
+44,David Hubbard
+55,Samuel Marshall
+b,r,e,a,k
 Denison,6
 teamInfo,Denison Frisbee Ultimate Club,"Granville, Ohio",https://denisonultimate.com/,https://www.facebook.com/DenisonUltimate/,
 0,Alec Gau
@@ -164,39 +164,32 @@ teamInfo,Wooster Hawks,"Wooster, Ohio",https://www.wooster.edu/students/organiza
 89,Alexander Drummond
 b,r,e,a,k
 s,t,a,g,e,s
-pools,Round Robin
+pools,Saturday Pools
 pool,Pool A
-Oberlin,Wooster,0,0,"04/15/2023, 09:00",Pool A,Scheduled
-Kenyon,Cedarville,0,0,"04/15/2023, 09:00",Pool A,Scheduled
-Franciscan,Xavier,0,0,"04/15/2023, 09:00",Pool A,Scheduled
-Oberlin,Franciscan,0,0,"04/15/2023, 10:40",Pool A,Scheduled
-Kenyon,Denison,0,0,"04/15/2023, 10:40",Pool A,Scheduled
-Cedarville,Wooster,0,0,"04/15/2023, 10:40",Pool A,Scheduled
-Oberlin,Kenyon,0,0,"04/15/2023, 12:20",Pool A,Scheduled
-Cedarville,Denison,0,0,"04/15/2023, 12:20",Pool A,Scheduled
-Franciscan,Denison,0,0,"04/15/2023, 12:20",Pool A,Scheduled
-Cedarville,Franciscan,0,0,"04/15/2023, 14:00",Pool A,Scheduled
-Xavier,Wooster,0,0,"04/15/2023, 14:00",Pool A,Scheduled
-Oberlin,Xavier,0,0,"04/15/2023, 14:00",Pool A,Scheduled
-Xavier,Denison,0,0,"04/15/2023, 15:40",Pool A,Scheduled
-Kenyon,Wooster,0,0,"04/15/2023, 15:40",Pool A,Scheduled
-Denison,Wooster,0,0,"04/15/2023, 15:40",Pool A,Scheduled
-Oberlin,Cedarville,0,0,"04/16/2023, 09:00",Pool A,Scheduled
-Kenyon,Xavier,0,0,"04/16/2023, 09:00",Pool A,Scheduled
-Franciscan,Wooster,0,0,"04/16/2023, 09:00",Pool A,Scheduled
-Kenyon,Franciscan,0,0,"04/16/2023, 10:40",Pool A,Scheduled
-Cedarville,Xavier,0,0,"04/16/2023, 10:40",Pool A,Scheduled
-Oberlin,Denison,0,0,"04/16/2023, 14:00",Pool A,Scheduled
+Oberlin,Xavier,0,0,"04/15/2023, 09:00",Pool A,Scheduled
+Franciscan,Xavier,0,0,"04/15/2023, 10:45",Pool A,Scheduled
+Oberlin,Franciscan,0,0,"04/15/2023, 12:30",Pool A,Scheduled
+pool,Pool B
+Kenyon,Denison,0,0,"04/15/2023, 09:00",Pool B,Scheduled
+Cedarville,Wooster,0,0,"04/15/2023, 09:00",Pool B,Scheduled
+Kenyon,Wooster,0,0,"04/15/2023, 10:45",Pool B,Scheduled
+Cedarville,Denison,0,0,"04/15/2023, 10:45",Pool B,Scheduled
+Kenyon,Cedarville,0,0,"04/15/2023, 12:30",Pool B,Scheduled
+Denison,Wooster,0,0,"04/15/2023, 12:30",Pool B,Scheduled
 b,r,e,a,k
-brackets,1st Place 
-bracket,1st Place Finals
+brackets,Championship Bracket
+bracket,1st Place
 b,r,e,a,k
-brackets,3rd Place 
-bracket,3rd Place Finals
-b,r,e,a,k
-brackets,4th Place
-bracket,4th Place Finals
-b,r,e,a,k
-brackets,5th Place
-bracket,5th Place Finals
+pools,Placement Pool
+pool,Pool C
+Oberlin,Xavier,0,0,"04/16/2023, 09:00",Pool C,Scheduled
+Cedarville,Franciscan,0,0,"04/16/2023, 09:00",Pool C,Scheduled
+Oberlin,Cedarville,0,0,"04/16/2023, 10:45",Pool C,Scheduled
+Kenyon,Franciscan,0,0,"04/16/2023, 10:45",Pool C,Scheduled
+Franciscan,Xavier,0,0,"04/16/2023, 12:30",Pool C,Scheduled
+Kenyon,Cedarville,0,0,"04/16/2023, 12:30",Pool C,Scheduled
+Oberlin,Franciscan,0,0,"04/16/2023, 14:15",Pool C,Scheduled
+Kenyon,Xavier,0,0,"04/16/2023, 14:15",Pool C,Scheduled
+Oberlin,Kenyon,0,0,"04/16/2023, 16:00",Pool C,Scheduled
+Cedarville,Xavier,0,0,"04/16/2023, 16:00",Pool C,Scheduled
 b,r,e,a,k
