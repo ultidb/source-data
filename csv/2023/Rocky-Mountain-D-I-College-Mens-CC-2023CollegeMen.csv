@@ -147,6 +147,22 @@ teamInfo,Sourdough,"Denver, Colorado",,,
 7,Ori Miller
 15,Charles Erickson
 b,r,e,a,k
+Colorado (C),7
+teamInfo,Rooster Tussle,"Denver, Colorado",,,
+0,Alexander Johnson
+0,Ethan Teplitzky
+0,Johnny Gregorio
+0,Marcus Mondrow
+0,McCarley Root
+0,Noah Sentnor
+0,Saketh Chityala
+0,Stefan Wagner
+0,William Jackson
+8,Joseph Loy
+15,Tyler Brown
+31,Jordan Chen
+69,Ari Mondrow
+b,r,e,a,k
 Denver (B),5
 teamInfo,Sourdough B Team,"Denver, Colorado",,,
 0,August Mitchell
@@ -167,22 +183,6 @@ teamInfo,Sourdough B Team,"Denver, Colorado",,,
 0,Tyler Eaton
 0,William Carl
 b,r,e,a,k
-Colorado (C),7
-teamInfo,Rooster Tussle,"Denver, Colorado",,,
-0,Alexander Johnson
-0,Ethan Teplitzky
-0,Johnny Gregorio
-0,Marcus Mondrow
-0,McCarley Root
-0,Noah Sentnor
-0,Saketh Chityala
-0,Stefan Wagner
-0,William Jackson
-8,Joseph Loy
-15,Tyler Brown
-31,Jordan Chen
-69,Ari Mondrow
-b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
@@ -198,13 +198,17 @@ Denver,Colorado (C),13,3,"04/15/2023, 09:00",Pool B,Final
 Colorado State,Colorado (C),13,0,"04/15/2023, 10:45",Pool B,Final
 Denver,Denver (B),13,2,"04/15/2023, 10:45",Pool B,Final
 Colorado State,Denver,11,6,"04/15/2023, 12:30",Pool B,Final
-Denver (B),Colorado (C),0,0,"04/15/2023, 12:30",Pool B,Scheduled
+Denver (B),Colorado (C),7,10,"04/15/2023, 12:30",Pool B,Final
 b,r,e,a,k
 brackets,Championship Bracket 1st
 bracket,1st Place
+Colorado,Denver,0,0,"04/15/2023, 14:15",1st Place Semis,Scheduled
+Colorado (B),Colorado State,0,0,"04/15/2023, 14:15",1st Place Semis,Scheduled
 b,r,e,a,k
 brackets,Championship Bracket 2nd
 bracket,2nd Place
+Colorado State (B),Denver (B),0,0,"04/15/2023, 14:15",2nd Place Play In,Scheduled
+Colorado Mesa,Colorado (C),0,0,"04/15/2023, 14:15",2nd Place Play In,Scheduled
 b,r,e,a,k
 brackets,Championship Bracket 5th
 bracket,5th Place
