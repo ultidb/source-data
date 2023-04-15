@@ -1,24 +1,6 @@
 Hudson Valley D-III College Men's CC,College - Men ,15,4,2023
 Fort Ann,NY,2023-04-15,2023-04-16
 https://play.usaultimate.org/events/Hudson-Valley-D-III-College-Mens-CC-2023/schedule/Men/CollegeMen/
-Army,3
-teamInfo,Army- West Point,"West Point, New York",,,
-0,Alexander Meredith
-0,Bennett Schmid
-0,Charles Wheaton
-0,Daniel Gologorsky
-0,David Sweeten
-0,Dylan Cree
-0,Dylan Overbey
-0,Evan Lee
-0,Jack Dellinger
-0,Keno Deary
-0,Koen Dolezar
-0,Sean Lai
-3,Zachary Hall
-10,David Sang
-11,Justin Yeung
-b,r,e,a,k
 Connecticut College,1
 teamInfo,Dasein,"New London, Connecticut",https://www.instagram.com/conncollulti/,https://www.facebook.com/ConnCollUltimate/,https://twitter.com/DaseinUltimate
 0,Bowen Supple
@@ -65,6 +47,24 @@ teamInfo,Wombats,"Saratoga Springs, New York",,,
 31,Parker Stern
 35,Billy Lee
 47,Cam Angwin
+b,r,e,a,k
+Army,3
+teamInfo,Army- West Point,"West Point, New York",,,
+0,Alexander Meredith
+0,Bennett Schmid
+0,Charles Wheaton
+0,Daniel Gologorsky
+0,David Sweeten
+0,Dylan Cree
+0,Dylan Overbey
+0,Evan Lee
+0,Jack Dellinger
+0,Keno Deary
+0,Koen Dolezar
+0,Sean Lai
+3,Zachary Hall
+10,David Sang
+11,Justin Yeung
 b,r,e,a,k
 Bard,9
 teamInfo,Big Bird,"Annandale-on-Hudson, New York",,,
@@ -282,7 +282,7 @@ Army,Skidmore,9,11,"04/15/2023, 12:30",Pool A,Final
 Connecticut College,New Haven,13,2,"04/15/2023, 14:15",Pool A,Final
 Army,Bard,13,7,"04/15/2023, 14:15",Pool A,Final
 Connecticut College,Army,10,11,"04/15/2023, 16:00",Pool A,Final
-Skidmore,Bard,0,0,"04/15/2023, 16:00",Pool A,Scheduled
+Skidmore,Bard,W,F,"04/15/2023, 16:00",Pool A,Final
 pool,Pool B
 Wesleyan,Hartford,13,6,"04/15/2023, 09:00",Pool B,Final
 Wesleyan,Siena,13,2,"04/15/2023, 10:45",Pool B,Final
@@ -295,11 +295,15 @@ b,r,e,a,k
 clusters,B and C Crossover
 cluster,Placement
 Wesleyan,Vassar,13,4,"04/15/2023, 14:15",,Final
-Hartford,Union,0,0,"04/15/2023, 14:15",,Scheduled
-Rensselaer Polytech,Siena,0,0,"04/15/2023, 14:15",,Scheduled
+Hartford,Union,W,L,"04/15/2023, 14:15",,Final
+Rensselaer Polytech,Siena,12,5,"04/15/2023, 14:15",,Final
+Hartford,Rensselaer Polytech,0,0,"04/15/2023, 16:00",,Scheduled
+Union,Siena,0,W,"04/15/2023, 16:00",,Final
 b,r,e,a,k
 brackets,Sunday Bracket Play
 bracket,Championship
+Connecticut College,Vassar,0,0,"04/16/2023, 11:00",Semis,Scheduled
+Skidmore,Wesleyan,0,0,"04/16/2023, 11:00",Semis,Scheduled
 bracket,3rd Place
 bracket,5th Place
 bracket,6th Place
