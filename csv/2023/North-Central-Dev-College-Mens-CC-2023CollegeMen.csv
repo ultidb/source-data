@@ -167,18 +167,21 @@ pools,Pool A
 pool,Pool A
 Wisconsin (B),Iowa State (B),15,5,"04/15/2023, 09:00",Pool A,Final
 Wisconsin (B),Minnesota (C),12,11,"04/15/2023, 11:00",Pool A,Final
-Iowa State (B),Minnesota (C),0,0,"04/15/2023, 13:00",Pool A,Scheduled
+Iowa State (B),Minnesota (C),5,15,"04/15/2023, 13:00",Pool A,Final
 b,r,e,a,k
 pools,Pool B
 pool,Pool B
 Minnesota (B),Wisconsin-Milwaukee (B),15,0,"04/15/2023, 11:00",Pool B,Final
 Carleton College-Karls (C),Marquette (B),12,11,"04/15/2023, 11:00",Pool B,Final
-Minnesota (B),Carleton College-Karls (C),0,0,"04/15/2023, 13:00",Pool B,Scheduled
-Marquette (B),Wisconsin-Milwaukee (B),0,0,"04/15/2023, 13:00",Pool B,Scheduled
+Minnesota (B),Carleton College-Karls (C),15,6,"04/15/2023, 13:00",Pool B,Final
+Marquette (B),Wisconsin-Milwaukee (B),14,4,"04/15/2023, 13:00",Pool B,Final
 b,r,e,a,k
 brackets,Brackets
 bracket,Championship Bracket
+Wisconsin (B),Minnesota (B),0,0,"04/16/2023, 09:00",First,Scheduled
 bracket,Second Place
+Minnesota (C),Marquette (B),0,0,"04/15/2023, 15:00",Second Place Quarter,Scheduled
+Iowa State (B),Carleton College-Karls (C),0,0,"04/15/2023, 15:00",Second Place Quarter,Scheduled
 b,r,e,a,k
 pools,Optional Consolation Pool
 pool,Pool C
