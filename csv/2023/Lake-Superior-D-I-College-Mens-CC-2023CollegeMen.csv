@@ -30,30 +30,6 @@ coaches,Becky LeDonne,Ted Schewe
 94,Pieran Robert
 99,Zane Stein
 b,r,e,a,k
-Marquette,3
-teamInfo,Birdhouse,"Milwaukee, Wisconsin",https://www.birdhouseultimate.com/home,https://www.facebook.com/marquetteultimate,https://twitter.com/BirdhouseMU
-1,Isaac  Shimek
-3,Robbie McChesney
-4,Gabe Gonzalez
-5,Vincent Ricciardi
-7,Luke Marciniak
-8,Joseph Branca
-9,Jonathan Snell
-11,Sean Bishop
-14,Jackson Seltzer
-17,Michael Donlin
-19,Evan Frias
-23,Gunnar Thompson
-28,Kyle Reader
-30,Sean Habash
-33,nathan shannon
-39,Francis Nuguid
-44,Benjamin Bolz
-80,JJ Mansour
-84,Bruce Deal
-85,John Wall
-88,Johnathan Mika
-b,r,e,a,k
 Wisconsin-La Crosse,6
 teamInfo,BadLUC,"La Crosse, Wisconsin",https://uwlmyorgs.collegiatelink.net/organization/mensultimate,https://www.facebook.com/UWLaCrosseUltimateClub/?ref=aymt_homepage_panel,https://twitter.com/ultimateluc?lang=en
 0,Andrew Pathos
@@ -81,6 +57,30 @@ teamInfo,BadLUC,"La Crosse, Wisconsin",https://uwlmyorgs.collegiatelink.net/orga
 42,Benjamin Thom
 84,Tate Goretzki
 b,r,e,a,k
+Marquette,3
+teamInfo,Birdhouse,"Milwaukee, Wisconsin",https://www.birdhouseultimate.com/home,https://www.facebook.com/marquetteultimate,https://twitter.com/BirdhouseMU
+1,Isaac  Shimek
+3,Robbie McChesney
+4,Gabe Gonzalez
+5,Vincent Ricciardi
+7,Luke Marciniak
+8,Joseph Branca
+9,Jonathan Snell
+11,Sean Bishop
+14,Jackson Seltzer
+17,Michael Donlin
+19,Evan Frias
+23,Gunnar Thompson
+28,Kyle Reader
+30,Sean Habash
+33,nathan shannon
+39,Francis Nuguid
+44,Benjamin Bolz
+80,JJ Mansour
+84,Bruce Deal
+85,John Wall
+88,Johnathan Mika
+b,r,e,a,k
 Northern Michigan,8
 teamInfo,Riptide,"Marquette, Michigan",http://www.nmu.edu/sportsrecsports/node/85,https://www.facebook.com/WildcatsUltimate,
 0,Conner Marshall
@@ -95,6 +95,19 @@ teamInfo,Riptide,"Marquette, Michigan",http://www.nmu.edu/sportsrecsports/node/8
 0,Ansel  Brenneman 
 9,Kaye Shanahan
 66,Charlie Feeley
+b,r,e,a,k
+Wisconsin-Whitewater,7
+teamInfo,Sub*Par,"Whitewater, Wisconsin",,,@subparUWW
+0,Dylan Hill
+0,Jackson Hollander
+0,Jason Loftus
+0,Luke Sutherland
+5,Andrew DeFrates
+11,Nicholas McNulty
+12,Eric Koran
+23,Zachary Bauman
+34,Calvin Newman
+66,Anthony Gutowsky
 b,r,e,a,k
 Wisconsin-Milwaukee,2
 teamInfo,Black Cat,"Milwaukee, Wisconsin",,https://www.facebook.com/BlackCatUltimate?ref=br_tf,@BlaCkatUltimate
@@ -182,33 +195,20 @@ teamInfo,Homegrown,"stevens point, Wisconsin",,,
 91,Riley Fahey
 95,rebecca marsh
 b,r,e,a,k
-Wisconsin-Whitewater,7
-teamInfo,Sub*Par,"Whitewater, Wisconsin",,,@subparUWW
-0,Dylan Hill
-0,Jackson Hollander
-0,Jason Loftus
-0,Luke Sutherland
-5,Andrew DeFrates
-11,Nicholas McNulty
-12,Eric Koran
-23,Zachary Bauman
-34,Calvin Newman
-66,Anthony Gutowsky
-b,r,e,a,k
 s,t,a,g,e,s
 pools,Saturday Pool Play
 pool,Pool A
-Wisconsin,Wisconsin-La Crosse,0,0,"04/15/2023, 09:00",Pool A,Scheduled
-Marquette,Northern Michigan,0,0,"04/15/2023, 09:00",Pool A,Scheduled
-Wisconsin,Northern Michigan,0,0,"04/15/2023, 11:00",Pool A,Scheduled
-Marquette,Wisconsin-La Crosse,0,0,"04/15/2023, 11:00",Pool A,Scheduled
+Wisconsin,Wisconsin-La Crosse,15,7,"04/15/2023, 09:00",Pool A,Final
+Marquette,Northern Michigan,15,9,"04/15/2023, 09:00",Pool A,Final
+Wisconsin,Northern Michigan,15,1,"04/15/2023, 11:00",Pool A,Final
+Marquette,Wisconsin-La Crosse,9,15,"04/15/2023, 11:00",Pool A,Final
 Wisconsin,Marquette,0,0,"04/15/2023, 13:00",Pool A,Scheduled
 Wisconsin-La Crosse,Northern Michigan,0,0,"04/15/2023, 13:00",Pool A,Scheduled
 pool,Pool B
-Wisconsin-Milwaukee,Wisconsin-Stevens Point,15,4,"04/15/2023, 09:00",Pool B,Scheduled
-Wisconsin-Eau Claire,Wisconsin-Whitewater,0,0,"04/15/2023, 09:00",Pool B,Scheduled
+Wisconsin-Milwaukee,Wisconsin-Stevens Point,15,4,"04/15/2023, 09:00",Pool B,Final
+Wisconsin-Eau Claire,Wisconsin-Whitewater,10,15,"04/15/2023, 09:00",Pool B,Final
 Wisconsin-Milwaukee,Wisconsin-Whitewater,0,0,"04/15/2023, 11:00",Pool B,Scheduled
-Wisconsin-Eau Claire,Wisconsin-Stevens Point,15,8,"04/15/2023, 11:00",Pool B,Scheduled
+Wisconsin-Eau Claire,Wisconsin-Stevens Point,15,8,"04/15/2023, 11:00",Pool B,Final
 Wisconsin-Milwaukee,Wisconsin-Eau Claire,0,0,"04/15/2023, 13:00",Pool B,Scheduled
 Wisconsin-Stevens Point,Wisconsin-Whitewater,0,0,"04/15/2023, 13:00",Pool B,Scheduled
 b,r,e,a,k
