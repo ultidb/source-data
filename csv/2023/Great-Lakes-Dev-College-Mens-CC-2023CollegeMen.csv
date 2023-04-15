@@ -28,19 +28,6 @@ teamInfo,Michigan-B,"Ann Arbor, Michigan",http://www.magnumultimate.com,,https:/
 26,Matthew Cao
 30,Jack Gurwin
 b,r,e,a,k
-Northwestern (B),5
-teamInfo,Bolt,"Evanston, Illinois",https://www.nutultimate.com,https://www.facebook.com/NUTUltimate,https://twitter.com/BoltUltimate
-0,Americo Garza
-0,Arthur Lebovitz
-0,Cameron Chang
-0,Kevin Su
-0,Mark Li
-0,Owen Handelman
-0,Parth Patel
-11,Jordan Bass
-24,Ayush Gaggar
-62,John Izzo
-b,r,e,a,k
 Illinois (B),4
 teamInfo,Boomland,"Champaign, Illinois",,,https://twitter.com/boomlandulti?lang=en
 0,Alexander Utsis
@@ -63,6 +50,19 @@ teamInfo,Boomland,"Champaign, Illinois",,,https://twitter.com/boomlandulti?lang=
 69,Brennen Clark
 71,Christopher Read
 75,Matthew Rylander
+b,r,e,a,k
+Northwestern (B),5
+teamInfo,Bolt,"Evanston, Illinois",https://www.nutultimate.com,https://www.facebook.com/NUTUltimate,https://twitter.com/BoltUltimate
+0,Americo Garza
+0,Arthur Lebovitz
+0,Cameron Chang
+0,Kevin Su
+0,Mark Li
+0,Owen Handelman
+0,Parth Patel
+11,Jordan Bass
+24,Ayush Gaggar
+62,John Izzo
 b,r,e,a,k
 Michigan State (B),2
 teamInfo,Riot Control,"East Lansing, Michigan",,,
@@ -150,11 +150,11 @@ pools,Pool Play
 pool,Pool A
 Michigan (B),Northwestern (B),14,9,"04/15/2023, 08:00",Pool A,Final
 Michigan (B),Illinois (B),15,4,"04/15/2023, 10:00",Pool A,Final
-Illinois (B),Northwestern (B),0,0,"04/15/2023, 12:00",Pool A,Scheduled
+Illinois (B),Northwestern (B),12,9,"04/15/2023, 12:00",Pool A,Final
 b,r,e,a,k
 brackets,Pool B Bracket
 bracket,Pool B Bracket
-Michigan State (B),Purdue (B),0,0,"04/15/2023, 12:00",Pool B Finals,Scheduled
+Michigan State (B),Purdue (B),12,10,"04/15/2023, 12:00",Pool B Finals,Final
 Michigan State (B),Chicago (B),10,7,"04/15/2023, 10:00",Pool B Semifinals,Final
 Purdue (B),Notre Dame (B),14,7,"04/15/2023, 10:00",Pool B Semifinals,Final
 bracket,Pool B 3rd Place
@@ -162,6 +162,7 @@ Chicago (B),Notre Dame (B),0,0,"04/15/2023, 12:00",Pool B 3rd Place,Scheduled
 b,r,e,a,k
 brackets,Championship Brackets
 bracket,Championship
+Michigan State (B),Michigan (B),0,0,"04/16/2023, 08:00",Championship,Scheduled
 bracket,2nd Place Game to Go
 b,r,e,a,k
 pools,Pool Play Completion
