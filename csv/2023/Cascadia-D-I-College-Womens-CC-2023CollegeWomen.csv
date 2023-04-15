@@ -32,27 +32,6 @@ coaches,Danie Proby,Robbie Brennan,Daisy Lin
 77,Jenalyn Ng
 93,Mika Kurahashi
 b,r,e,a,k
-Victoria,4
-teamInfo,Vikes,"Victoria, British Columbia CA",,,
-0,Arabella Brudney
-0,Breanna Roussin
-0,Brynn Freeland
-0,Claire Bates
-0,Emily Kay-Leighton
-0,Ericka Edgell
-0,Georgia  Smith
-0,Hannah Kroeplin
-0,Jessica Carroll
-0,Kathleen Bourdon
-0,Leah Demsey
-0,Lucy Bridal
-0,Marijke  Kliewer
-0,Taylor Betonte
-1,Monica Devonshire
-2,Laura Devonshire
-3,Alicia Brolly
-55,Taryn Webster
-b,r,e,a,k
 Western Washington,5
 teamInfo,Chaos,"Bellingham, Washington",https://wp.wwu.edu/wultimate/,https://www.facebook.com/pages/WWU-Chaos-Ultimate/374278315920245,https://twitter.com/WWUchaos
 coaches,Alyssa Weatherford
@@ -79,6 +58,27 @@ coaches,Alyssa Weatherford
 69,Ellie Martin-Tai
 95,Gwen Murray
 99,Erica Richardson
+b,r,e,a,k
+Victoria,4
+teamInfo,Vikes,"Victoria, British Columbia CA",,,
+0,Arabella Brudney
+0,Breanna Roussin
+0,Brynn Freeland
+0,Claire Bates
+0,Emily Kay-Leighton
+0,Ericka Edgell
+0,Georgia  Smith
+0,Hannah Kroeplin
+0,Jessica Carroll
+0,Kathleen Bourdon
+0,Leah Demsey
+0,Lucy Bridal
+0,Marijke  Kliewer
+0,Taylor Betonte
+1,Monica Devonshire
+2,Laura Devonshire
+3,Alicia Brolly
+55,Taryn Webster
 b,r,e,a,k
 Washington,2
 teamInfo,Element,"Seattle, Washington",,https://www.facebook.com/ElementUltimate/,https://twitter.com/UWElement
@@ -187,16 +187,16 @@ s,t,a,g,e,s
 pools,Day 1 - Pool A
 pool,Pool A
 British Columbia,Western Washington,15,4,"04/15/2023, 09:00",Pool A,Final
-British Columbia,Victoria,0,0,"04/15/2023, 11:00",Pool A,Scheduled
-Victoria,Western Washington,7,11,"04/15/2023, 13:00",Pool A,In Progress
+British Columbia,Victoria,15,4,"04/15/2023, 11:00",Pool A,Final
+Victoria,Western Washington,7,11,"04/15/2023, 13:00",Pool A,Final
 b,r,e,a,k
 pools,Day 1 - Pool B
 pool,Pool B
-Washington,Washington (B),0,0,"04/15/2023, 11:00",Pool B,Scheduled
-Oregon,Oregon State,0,0,"04/15/2023, 11:00",Pool B,Scheduled
-Washington,Oregon State,0,0,"04/15/2023, 13:00",Pool B,Scheduled
-Oregon,Washington (B),0,0,"04/15/2023, 13:00",Pool B,Scheduled
-Washington,Oregon,0,0,"04/15/2023, 13:00",Pool B,Scheduled
+Washington,Washington (B),15,1,"04/15/2023, 11:00",Pool B,Final
+Oregon,Oregon State,W,L,"04/15/2023, 11:00",Pool B,Final
+Washington,Oregon State,0,0,"04/15/2023, 13:00",Pool B,Cancelled
+Oregon,Washington (B),0,0,"04/15/2023, 13:00",Pool B,Cancelled
+Washington,Oregon,15,10,"04/15/2023, 13:00",Pool B,Final
 Oregon State,Washington (B),0,0,"04/15/2023, 13:00",Pool B,Scheduled
 b,r,e,a,k
 brackets,Brackets
