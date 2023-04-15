@@ -31,21 +31,6 @@ coaches,Danica Vasa
 47,Sarah Bases
 72,Lauren Marshall
 b,r,e,a,k
-Syracuse,4
-teamInfo,Fox Force Seven,"Syracuse , New York",,https://www.facebook.com/FoxForceSeven,https://twitter.com/FoxForceSeven
-00,Adelaide Sprague
-00,Caitlin Spillane
-00,Elisa Hustedt
-00,Madison Clum
-00,Megan Radakovich
-00,Zoe Colman
-02,Rory Livingston
-08,Jaryn Lafond
-12,Elizabeth Knapp
-13,Lacey Robinson
-15,Meris Rosenberg
-69,Anne Hanes
-b,r,e,a,k
 RIT,5
 teamInfo,Yams,"Rochester, New York",,,
 00,Mary Enow
@@ -64,6 +49,21 @@ teamInfo,Yams,"Rochester, New York",,,
 42,Elspeth Dorr
 44,Eva Switala
 95,Jessica Marinelli
+b,r,e,a,k
+Syracuse,4
+teamInfo,Fox Force Seven,"Syracuse , New York",,https://www.facebook.com/FoxForceSeven,https://twitter.com/FoxForceSeven
+00,Adelaide Sprague
+00,Caitlin Spillane
+00,Elisa Hustedt
+00,Madison Clum
+00,Megan Radakovich
+00,Zoe Colman
+02,Rory Livingston
+08,Jaryn Lafond
+12,Elizabeth Knapp
+13,Lacey Robinson
+15,Meris Rosenberg
+69,Anne Hanes
 b,r,e,a,k
 Cornell,2
 teamInfo,Wild Roses,"Ithaca, New York",,,
@@ -141,16 +141,14 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
-SUNY-Binghamton,Syracuse,0,0,"04/15/2023, 09:00",Pool A,Scheduled
-SUNY-Binghamton,RIT,0,0,"04/15/2023, 10:45",Pool A,Scheduled
+SUNY-Binghamton,Syracuse,15,3,"04/15/2023, 09:00",Pool A,Final
+SUNY-Binghamton,RIT,15,5,"04/15/2023, 10:45",Pool A,Scheduled
 Syracuse,RIT,0,0,"04/15/2023, 12:30",Pool A,Scheduled
 pool,Pool B
-Cornell,Cornell (B),0,0,"04/15/2023, 09:00",Pool B,Scheduled
-Ottawa,SUNY-Buffalo,0,0,"04/15/2023, 09:00",Pool B,Scheduled
-Cornell,SUNY-Buffalo,0,0,"04/15/2023, 10:45",Pool B,Scheduled
-Ottawa,Cornell (B),0,0,"04/15/2023, 10:45",Pool B,Scheduled
-Cornell,Ottawa,0,0,"04/15/2023, 10:45",Pool B,Scheduled
-SUNY-Buffalo,Cornell (B),0,0,"04/15/2023, 10:45",Pool B,Scheduled
+Cornell,Cornell (B),15,0,"04/15/2023, 09:00",Pool B,Final
+Ottawa,SUNY-Buffalo,15,1,"04/15/2023, 09:00",Pool B,Final
+Cornell,Ottawa,5,13,"04/15/2023, 10:45",Pool B,Scheduled
+SUNY-Buffalo,Cornell (B),0,0,"04/15/2023, 12:30",Pool B,Scheduled
 b,r,e,a,k
 brackets,Conferences Bracket
 bracket,D1WND

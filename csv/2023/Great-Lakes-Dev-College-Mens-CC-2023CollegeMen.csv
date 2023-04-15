@@ -28,6 +28,19 @@ teamInfo,Michigan-B,"Ann Arbor, Michigan",http://www.magnumultimate.com,,https:/
 26,Matthew Cao
 30,Jack Gurwin
 b,r,e,a,k
+Northwestern (B),5
+teamInfo,Bolt,"Evanston, Illinois",https://www.nutultimate.com,https://www.facebook.com/NUTUltimate,https://twitter.com/BoltUltimate
+0,Americo Garza
+0,Arthur Lebovitz
+0,Cameron Chang
+0,Kevin Su
+0,Mark Li
+0,Owen Handelman
+0,Parth Patel
+11,Jordan Bass
+24,Ayush Gaggar
+62,John Izzo
+b,r,e,a,k
 Illinois (B),4
 teamInfo,Boomland,"Champaign, Illinois",,,https://twitter.com/boomlandulti?lang=en
 0,Alexander Utsis
@@ -51,19 +64,6 @@ teamInfo,Boomland,"Champaign, Illinois",,,https://twitter.com/boomlandulti?lang=
 71,Christopher Read
 75,Matthew Rylander
 b,r,e,a,k
-Northwestern (B),5
-teamInfo,Bolt,"Evanston, Illinois",https://www.nutultimate.com,https://www.facebook.com/NUTUltimate,https://twitter.com/BoltUltimate
-0,Americo Garza
-0,Arthur Lebovitz
-0,Cameron Chang
-0,Kevin Su
-0,Mark Li
-0,Owen Handelman
-0,Parth Patel
-11,Jordan Bass
-24,Ayush Gaggar
-62,John Izzo
-b,r,e,a,k
 Michigan State (B),2
 teamInfo,Riot Control,"East Lansing, Michigan",,,
 0,Jack Pizer-Lippitz
@@ -83,29 +83,6 @@ teamInfo,Riot Control,"East Lansing, Michigan",,,
 64,Cameron Dick
 65,Noah Greenberg
 69,Connor Griffin
-b,r,e,a,k
-Chicago (B),7
-teamInfo,Hedonism Bots,"Chicago, Illinois",,,https://twitter.com/HedonismBots
-00,Alex Klerman
-00,Alex Korfhage
-00,Brayley Starr
-00,Charlie  Walsh
-00,Christopher Nowak
-00,Darya Foroohar
-00,Emmanuel Abayev
-00,Faruk Badur
-00,Garrett White
-00,Jack Nugent
-00,John Blalack
-00,Joseph Kaplan
-00,Josh Edington
-00,Malank Goel
-00,Nathan Ohana
-00,Nic Perez
-00,Noel McGrory
-00,Rohan Buluswar
-00,Romy Li
-00,Yaochu Bi
 b,r,e,a,k
 Purdue (B),3
 teamInfo,CTRL-Z,"West Lafayette, Indiana",,,
@@ -130,6 +107,29 @@ teamInfo,CTRL-Z,"West Lafayette, Indiana",,,
 36,Jonathan Jackson
 78,Kevin Asaro
 b,r,e,a,k
+Chicago (B),7
+teamInfo,Hedonism Bots,"Chicago, Illinois",,,https://twitter.com/HedonismBots
+00,Alex Klerman
+00,Alex Korfhage
+00,Brayley Starr
+00,Charlie  Walsh
+00,Christopher Nowak
+00,Darya Foroohar
+00,Emmanuel Abayev
+00,Faruk Badur
+00,Garrett White
+00,Jack Nugent
+00,John Blalack
+00,Joseph Kaplan
+00,Josh Edington
+00,Malank Goel
+00,Nathan Ohana
+00,Nic Perez
+00,Noel McGrory
+00,Rohan Buluswar
+00,Romy Li
+00,Yaochu Bi
+b,r,e,a,k
 Notre Dame (B),6
 teamInfo,Opus D's,"Notre Dame, Indiana",,,
 0,Aidan Finn
@@ -148,15 +148,17 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
-Michigan (B),Northwestern (B),0,0,"04/15/2023, 08:00",Pool A,Scheduled
-Michigan (B),Illinois (B),0,0,"04/15/2023, 10:00",Pool A,Scheduled
+Michigan (B),Northwestern (B),14,9,"04/15/2023, 08:00",Pool A,Final
+Michigan (B),Illinois (B),15,4,"04/15/2023, 10:00",Pool A,Final
 Illinois (B),Northwestern (B),0,0,"04/15/2023, 12:00",Pool A,Scheduled
 b,r,e,a,k
 brackets,Pool B Bracket
 bracket,Pool B Bracket
-Michigan State (B),Chicago (B),0,0,"04/15/2023, 10:00",Pool B Semifinals,Scheduled
-Purdue (B),Notre Dame (B),0,0,"04/15/2023, 10:00",Pool B Semifinals,Scheduled
+Michigan State (B),Purdue (B),0,0,"04/15/2023, 12:00",Pool B Finals,Scheduled
+Michigan State (B),Chicago (B),10,7,"04/15/2023, 10:00",Pool B Semifinals,Final
+Purdue (B),Notre Dame (B),14,7,"04/15/2023, 10:00",Pool B Semifinals,Final
 bracket,Pool B 3rd Place
+Chicago (B),Notre Dame (B),0,0,"04/15/2023, 12:00",Pool B 3rd Place,Scheduled
 b,r,e,a,k
 brackets,Championship Brackets
 bracket,Championship
