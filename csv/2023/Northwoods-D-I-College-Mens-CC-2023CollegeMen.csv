@@ -31,33 +31,6 @@ coaches,Kevin Bruns,Kristian Johnson,Blake Trantina,Trevor Graham
 86,John Helgeson
 88,Evan Ellis
 b,r,e,a,k
-Minnesota-Duluth,3
-teamInfo,Northern Lights,"Duluth, Minnesota",,https://www.facebook.com/lights33,https://twitter.com/UMD_Lights
-0,Alex Roth
-0,Diego Umana
-0,Evan Malone
-0,Joey Wozniak
-0,Nathan Salberg
-0,Sean Haley
-0,Tyler McBride
-0,Wyatt Hall
-0,Yunchan Hur
-0,Zachary Huffaker
-0,Zander Harris
-3,Thomas Donahue
-3,Owen Cloutier
-4,Evan Boelter
-5,Reese Pinney
-8,Henry Liebl
-9,Aidan Sutton
-10,Alejandro Christenson
-16,Alex Hubley
-20,Cory Kurkowski
-21,Joseph Peterson
-24,Aaron Reiser
-26,Jack Fritschel
-69,Reagan Nguyen
-b,r,e,a,k
 Carleton College,2
 teamInfo,CUT,"Northfield, Minnesota",https://www.carleton.edu/student/orgs/cut/,https://www.facebook.com/CUTrules,https://twitter.com/cutrules
 coaches,Philip Bowen,Tim Schoch,Dillon Lanier,Noah Hanson
@@ -90,6 +63,33 @@ coaches,Philip Bowen,Tim Schoch,Dillon Lanier,Noah Hanson
 98,Bobby Eleveld
 99,Daniel Chen
 b,r,e,a,k
+Minnesota-Duluth,3
+teamInfo,Northern Lights,"Duluth, Minnesota",,https://www.facebook.com/lights33,https://twitter.com/UMD_Lights
+0,Alex Roth
+0,Diego Umana
+0,Evan Malone
+0,Joey Wozniak
+0,Nathan Salberg
+0,Sean Haley
+0,Tyler McBride
+0,Wyatt Hall
+0,Yunchan Hur
+0,Zachary Huffaker
+0,Zander Harris
+3,Thomas Donahue
+3,Owen Cloutier
+4,Evan Boelter
+5,Reese Pinney
+8,Henry Liebl
+9,Aidan Sutton
+10,Alejandro Christenson
+16,Alex Hubley
+20,Cory Kurkowski
+21,Joseph Peterson
+24,Aaron Reiser
+26,Jack Fritschel
+69,Reagan Nguyen
+b,r,e,a,k
 North Dakota State,4
 teamInfo,Windbreak,"Fargo, North Dakota",,,
 01,Jack Firman
@@ -106,12 +106,12 @@ teamInfo,Windbreak,"Fargo, North Dakota",,,
 15,Diego Price
 b,r,e,a,k
 s,t,a,g,e,s
-clusters,Saturday Round Robin
-cluster,Saturday
-Minnesota,Minnesota-Duluth,0,0,"04/15/2023, 12:00",,Scheduled
-Carleton College,North Dakota State,0,0,"04/15/2023, 12:00",,Scheduled
-Minnesota,North Dakota State,0,0,"04/15/2023, 14:00",,Scheduled
-Carleton College,Minnesota-Duluth,0,0,"04/15/2023, 14:00",,Scheduled
-Minnesota,Carleton College,0,0,"04/15/2023, 16:00",,Scheduled
-Minnesota-Duluth,North Dakota State,0,0,"04/15/2023, 16:00",,Scheduled
+pools,Flexible Round Robin
+pool,Pool A
+Carleton College,North Dakota State,0,0,"04/15/2023, 12:00",Pool A,Scheduled
+Minnesota,Minnesota-Duluth,0,0,"04/15/2023, 12:00",Pool A,Scheduled
+Minnesota,North Dakota State,0,0,"04/15/2023, 14:00",Pool A,Scheduled
+Carleton College,Minnesota-Duluth,0,0,"04/15/2023, 14:00",Pool A,Scheduled
+Minnesota,Carleton College,0,0,"04/15/2023, 16:00",Pool A,Scheduled
+Minnesota-Duluth,North Dakota State,0,0,"04/15/2023, 16:00",Pool A,Scheduled
 b,r,e,a,k
