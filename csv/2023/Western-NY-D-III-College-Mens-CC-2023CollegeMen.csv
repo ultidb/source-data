@@ -47,6 +47,94 @@ teamInfo,Piggies,"Rochester, New York",,https://www.facebook.com/RochesterUltima
 50,Jack Ringel
 55,Victor  Chang
 b,r,e,a,k
+Colgate,6
+teamInfo,Jabberwock,"Hamilton, New York",,https://www.facebook.com/Jabbervibe,https://twitter.com/jabberwockult
+1,Max Kiefer
+2,Sam Kresch
+3,Jack Forstadt
+4,Eric Barber
+5,John Maher
+6,Danny Molyneux 
+7,Jack McGrath
+10,Henry Burdorf
+11,Andrew Lass
+17,Cameron Swaney
+19,Sawyer Fisher
+20,Ryan Ewanow
+21,Nathan Kwon
+22,Ian Wehrly
+28,Sam Markowitz
+29,Charlie Mehos
+30,Sid Wadhera
+36,Sam Rowland
+39,Connor Deagle
+43,Samuel Witonsky
+69,Mason Woodman
+82,Drew Hindall
+87,Jackson Kustell
+b,r,e,a,k
+Ithaca,3
+teamInfo,Nawshus Ultimate,"Ithaca, New York",,,
+04,Thomas Cronin
+06,Noah Sandler
+07,Aidan Berk
+08,Nathaniel White
+09,Evan Mandell
+10,Elliot Mintz
+11,Jamie Falkovich 
+13,Chip Murphy
+14,Benji Turansky
+15,Ben McKelvey
+17,Zebadiah Staples
+20,Jack Butler
+22,Jaden Fitch
+24,Joshua Krizar
+25,Jalen Bolton-Steiner
+27,Noah Kamens
+32,Luke Pohlman
+35,Tim McCall
+55,Jonathan Vaile
+77,Cyrus Edlund-Farsad
+97,Vincent  Masotti
+b,r,e,a,k
+SUNY-Cortland,4
+teamInfo,Team Rocket,"Cortland, New York",,,https://twitter.com/cortlandulti?s=21
+00,Anthony Thompson
+00,Billy Poveda
+00,Brian Wise
+00,Cal Mailer
+00,Christopher Lee
+00,Adam Plana
+00,Connor Vicchiariello
+00,Dylan Foutch
+00,Ethan Laderman
+00,Jack-Henry Whalen
+00,Danny Breen
+00,Devon Blackwood
+00,Matthew Bean
+00,Maxwell Tolan
+00,Michael DeVillers
+00,Michael Moran
+00,Ryan Tart
+00,Ryan Joyce-Turner
+00,Scott Ferguson
+00,Kade Manchester
+00,Zachary Wexler
+00,zachary jackson
+02,Luke Barrett
+09,Christopher Caneiro
+10,Leonardo  Rodriguez 
+13,Damon Carroll
+14,Justin Horton
+23,Mark Weidman
+25,Aidan Russo
+31,Anthony Graff
+34,Timothy Zorn
+41,Jordan Lambert
+48,Jonathan Cangelosi
+75,Dominick Pilo
+97,James Marino
+b,r,e,a,k
 SUNY-Oneonta,5
 teamInfo,A,"Oneonta, New York",,,
 0,Jack Gaudioso
@@ -114,56 +202,6 @@ teamInfo,Snail,"Geneseo, New York",,,@geneseoultimate
 7,Quentin Wall
 13,Noah Ofri-Akman
 b,r,e,a,k
-Colgate,6
-teamInfo,Jabberwock,"Hamilton, New York",,https://www.facebook.com/Jabbervibe,https://twitter.com/jabberwockult
-1,Max Kiefer
-2,Sam Kresch
-3,Jack Forstadt
-4,Eric Barber
-5,John Maher
-6,Danny Molyneux 
-7,Jack McGrath
-10,Henry Burdorf
-11,Andrew Lass
-17,Cameron Swaney
-19,Sawyer Fisher
-20,Ryan Ewanow
-21,Nathan Kwon
-22,Ian Wehrly
-28,Sam Markowitz
-29,Charlie Mehos
-30,Sid Wadhera
-36,Sam Rowland
-39,Connor Deagle
-43,Samuel Witonsky
-69,Mason Woodman
-82,Drew Hindall
-87,Jackson Kustell
-b,r,e,a,k
-Ithaca,3
-teamInfo,Nawshus Ultimate,"Ithaca, New York",,,
-04,Thomas Cronin
-06,Noah Sandler
-07,Aidan Berk
-08,Nathaniel White
-09,Evan Mandell
-10,Elliot Mintz
-11,Jamie Falkovich 
-13,Chip Murphy
-14,Benji Turansky
-15,Ben McKelvey
-17,Zebadiah Staples
-20,Jack Butler
-22,Jaden Fitch
-24,Joshua Krizar
-25,Jalen Bolton-Steiner
-27,Noah Kamens
-32,Luke Pohlman
-35,Tim McCall
-55,Jonathan Vaile
-77,Cyrus Edlund-Farsad
-97,Vincent  Masotti
-b,r,e,a,k
 Hamilton,7
 teamInfo,Hot Saucers,"Clinton, New York",https://hotsaucersultimate.wordpress.com/,,https://twitter.com/HCSTATE
 0,Adam Koplik
@@ -201,44 +239,6 @@ teamInfo,Hot Saucers,"Clinton, New York",https://hotsaucersultimate.wordpress.co
 92,Nathaniel Koplik
 99,Ryan Crist
 b,r,e,a,k
-SUNY-Cortland,4
-teamInfo,Team Rocket,"Cortland, New York",,,https://twitter.com/cortlandulti?s=21
-00,Anthony Thompson
-00,Billy Poveda
-00,Brian Wise
-00,Cal Mailer
-00,Christopher Lee
-00,Adam Plana
-00,Connor Vicchiariello
-00,Dylan Foutch
-00,Ethan Laderman
-00,Jack-Henry Whalen
-00,Danny Breen
-00,Devon Blackwood
-00,Matthew Bean
-00,Maxwell Tolan
-00,Michael DeVillers
-00,Michael Moran
-00,Ryan Tart
-00,Ryan Joyce-Turner
-00,Scott Ferguson
-00,Kade Manchester
-00,Zachary Wexler
-00,zachary jackson
-02,Luke Barrett
-09,Christopher Caneiro
-10,Leonardo  Rodriguez 
-13,Damon Carroll
-14,Justin Horton
-23,Mark Weidman
-25,Aidan Russo
-31,Anthony Graff
-34,Timothy Zorn
-41,Jordan Lambert
-48,Jonathan Cangelosi
-75,Dominick Pilo
-97,James Marino
-b,r,e,a,k
 SUNY-Fredonia,8
 teamInfo,Terrifying Turtles,"Fredonia, New York",,https://www.facebook.com/groups/248344905192884/,https://twitter.com/fredoniault
 0,Brian Lyght Jr
@@ -262,11 +262,15 @@ b,r,e,a,k
 s,t,a,g,e,s
 brackets,Bracket Play
 bracket,Championship
-Rochester,SUNY-Oneonta,0,0,"04/16/2023, 09:00",Quarters,Scheduled
-SUNY-Geneseo,Colgate,0,0,"04/15/2023, 09:00",Quarters,Scheduled
-Ithaca,Hamilton,0,0,"04/15/2023, 09:00",Quarters,Scheduled
-SUNY-Cortland,SUNY-Fredonia,0,0,"04/15/2023, 09:00",Quarters,Scheduled
+Rochester,Colgate,0,0,"04/16/2023, 10:45",Semis,Scheduled
+Ithaca,SUNY-Cortland,0,0,"04/16/2023, 10:45",Semis,Scheduled
+Rochester,SUNY-Oneonta,10,3,"04/16/2023, 09:00",Quarters,Final
+SUNY-Geneseo,Colgate,6,12,"04/15/2023, 09:00",Quarters,Final
+Ithaca,Hamilton,14,7,"04/15/2023, 09:00",Quarters,Final
+SUNY-Cortland,SUNY-Fredonia,15,1,"04/15/2023, 09:00",Quarters,Final
 bracket,Third
+SUNY-Oneonta,SUNY-Geneseo,0,0,"04/16/2023, 10:45",Third Quarters,Scheduled
+Hamilton,SUNY-Fredonia,0,0,"04/16/2023, 10:45",Third Quarters,Scheduled
 bracket,Fifth
 bracket,Seventh
 b,r,e,a,k
