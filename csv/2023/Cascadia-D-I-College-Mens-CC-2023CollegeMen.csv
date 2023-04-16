@@ -56,26 +56,6 @@ coaches,Ari Nitikman
 88,Nicolas Sanchez
 99,Abeer Lamba
 b,r,e,a,k
-Portland State,7
-teamInfo,Vitruvious,"Portland, Oregon",https://www.instagram.com/portlandstateultimate/?hl=en,https://www.instagram.com/portlandstateultimate/?hl=en,https://twitter.com/psujuicy
-0,Aaron Dawson
-0,AVI TAYLOR
-0,Cassidy  Moore
-0,Cole Martinson
-0,Evan Holliday
-0,Liana Mintiero
-0,Michael Stanley
-0,Oscar Quick
-0,Riley Wunderlich
-0,Sophia Leer
-0,Soren Burwell
-0,Swu Wu
-0,Trenton Haas
-2,Daniel Karabatsos
-20,Reilly Aldrich
-21,Damon McMahon
-22,Victor Cowles
-b,r,e,a,k
 Victoria,6
 teamInfo,Vikes,"Victoria, British Columbia CA",www.uvicultimate.com,https://www.facebook.com/UVictimUltimate,https://twitter.com/uvictimultimate
 0,Alex Piepjohn 
@@ -102,6 +82,26 @@ teamInfo,Vikes,"Victoria, British Columbia CA",www.uvicultimate.com,https://www.
 81,Theo Davis
 88,Ben Lefevre
 99,Anderson Grafton-Freeze
+b,r,e,a,k
+Portland State,7
+teamInfo,Vitruvious,"Portland, Oregon",https://www.instagram.com/portlandstateultimate/?hl=en,https://www.instagram.com/portlandstateultimate/?hl=en,https://twitter.com/psujuicy
+0,Aaron Dawson
+0,AVI TAYLOR
+0,Cassidy  Moore
+0,Cole Martinson
+0,Evan Holliday
+0,Liana Mintiero
+0,Michael Stanley
+0,Oscar Quick
+0,Riley Wunderlich
+0,Sophia Leer
+0,Soren Burwell
+0,Swu Wu
+0,Trenton Haas
+2,Daniel Karabatsos
+20,Reilly Aldrich
+21,Damon McMahon
+22,Victor Cowles
 b,r,e,a,k
 Oregon State,5
 teamInfo,Beavers,"Corvallis, Oregon",http://osumensultimate.wix.com/oregon-state-ultimate,https://www.facebook.com/osubeaversultimatedisc,https://twitter.com/OSU_ultimate
@@ -247,11 +247,11 @@ s,t,a,g,e,s
 pools,Saturday Pools
 pool,Pool A
 Oregon,Victoria,W,L,"04/15/2023, 13:00",Pool A,Final
-British Columbia,Portland State,0,0,"04/15/2023, 13:00",Pool A,Scheduled
+British Columbia,Portland State,W,L,"04/15/2023, 13:00",Pool A,Final
 Oregon,Portland State,W,L,"04/15/2023, 15:00",Pool A,Final
-British Columbia,Victoria,0,0,"04/15/2023, 15:00",Pool A,Scheduled
+British Columbia,Victoria,W,L,"04/15/2023, 15:00",Pool A,Final
 Oregon,British Columbia,W,L,"04/15/2023, 17:00",Pool A,Final
-Victoria,Portland State,0,0,"04/15/2023, 17:00",Pool A,Scheduled
+Victoria,Portland State,W,L,"04/15/2023, 17:00",Pool A,Final
 pool,Pool B
 Washington,Oregon (B),13,4,"04/15/2023, 09:00",Pool B,Final
 Oregon State,Washington (B),13,2,"04/15/2023, 09:00",Pool B,Final
@@ -266,8 +266,16 @@ Oregon State,Oregon (B),13,4,"04/15/2023, 17:00",Pool B,Final
 b,r,e,a,k
 brackets,Sunday Bracket
 bracket,Finals
+Oregon,Washington,0,0,"04/16/2023, 09:00",Semis,Scheduled
+Oregon State,British Columbia,0,0,"04/16/2023, 09:00",Semis,Scheduled
 bracket,Backdoor
 b,r,e,a,k
 pools,Day 2 - Completion Pool
 pool,Pool C
+Portland State,Western Washington,0,0,"04/16/2023, 09:00",Pool C,Scheduled
+Victoria,Washington (B),0,0,"04/16/2023, 09:00",Pool C,Scheduled
+Victoria,Western Washington,0,0,"04/16/2023, 11:00",Pool C,Scheduled
+Portland State,Oregon (B),0,0,"04/16/2023, 11:00",Pool C,Scheduled
+Victoria,Oregon (B),0,0,"04/16/2023, 13:00",Pool C,Scheduled
+Portland State,Washington (B),0,0,"04/16/2023, 13:00",Pool C,Scheduled
 b,r,e,a,k
