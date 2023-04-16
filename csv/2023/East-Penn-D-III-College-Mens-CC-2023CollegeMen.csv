@@ -80,27 +80,6 @@ teamInfo,Earthworms,"Swarthmore, Pennsylvania",,,https://twitter.com/WormsUltima
 0,Ryan Jin
 0,Xi Teng Tay
 b,r,e,a,k
-Muhlenberg,4
-teamInfo,Flying Squirrels,"Allentown, Pennsylvania",,,
-0,Bennett Knight
-0,Claire Spenard
-0,David Hay
-0,Edmund Sage
-0,Jacob Swartz
-0,Jacob Weisblatt
-0,John Stellmann
-0,Justin Billich
-0,Gabriel Duftler
-0,Isaac Levin-Delson
-0,Marcos Santiago
-0,Max Nierenberg
-0,Thomas Lillis
-0,Yoav Susskind
-2,Luke McIntyre
-14,Jackson Kondak
-23,Sam Gartenberg
-25,Ethan Citron
-b,r,e,a,k
 Lehigh (B),3
 teamInfo,Lehigh-B,"Bethlehem, Pennsylvania",,,https://twitter.com/BehighUnited
 0,Andrew Jacobsen
@@ -123,6 +102,27 @@ teamInfo,Lehigh-B,"Bethlehem, Pennsylvania",,,https://twitter.com/BehighUnited
 11,Thomas Gibbins
 70,Matthew Slaski
 b,r,e,a,k
+Muhlenberg,4
+teamInfo,Flying Squirrels,"Allentown, Pennsylvania",,,
+0,Bennett Knight
+0,Claire Spenard
+0,David Hay
+0,Edmund Sage
+0,Jacob Swartz
+0,Jacob Weisblatt
+0,John Stellmann
+0,Justin Billich
+0,Gabriel Duftler
+0,Isaac Levin-Delson
+0,Marcos Santiago
+0,Max Nierenberg
+0,Thomas Lillis
+0,Yoav Susskind
+2,Luke McIntyre
+14,Jackson Kondak
+23,Sam Gartenberg
+25,Ethan Citron
+b,r,e,a,k
 s,t,a,g,e,s
 pools,Round Robin
 pool,Pool A
@@ -130,14 +130,16 @@ Haverford,Lehigh (B),9,1,"04/15/2023, 09:00",Pool A,Final
 Swarthmore,Muhlenberg,7,2,"04/15/2023, 09:00",Pool A,Final
 Haverford,Scranton,6,13,"04/15/2023, 10:45",Pool A,Final
 Swarthmore,Lehigh (B),11,8,"04/15/2023, 10:45",Pool A,Final
-Muhlenberg,Scranton,0,0,"04/15/2023, 12:30",Pool A,Scheduled
+Muhlenberg,Scranton,F,W,"04/15/2023, 12:30",Pool A,Final
 Haverford,Swarthmore,13,12,"04/15/2023, 12:30",Pool A,Final
-Haverford,Muhlenberg,0,0,"04/15/2023, 14:15",Pool A,Scheduled
+Haverford,Muhlenberg,W,F,"04/15/2023, 14:15",Pool A,Final
 Lehigh (B),Scranton,1,13,"04/15/2023, 14:15",Pool A,Final
-Lehigh (B),Muhlenberg,0,0,"04/15/2023, 16:00",Pool A,Scheduled
+Lehigh (B),Muhlenberg,W,F,"04/15/2023, 16:00",Pool A,Final
 Swarthmore,Scranton,2,13,"04/15/2023, 16:00",Pool A,Final
 b,r,e,a,k
 brackets,Bracket Play
 bracket,1st Place
+Scranton,Haverford,0,0,"04/16/2023, 09:00",Finals,Scheduled
 bracket,2nd Place
+Swarthmore,Lehigh (B),0,0,"04/16/2023, 09:00",2nd Place Semis,Scheduled
 b,r,e,a,k
