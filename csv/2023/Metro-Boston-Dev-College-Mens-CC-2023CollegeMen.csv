@@ -27,6 +27,19 @@ teamInfo,Tufts B,"Medford, Massachusetts",www.tuftsmensultimate.org,,
 88,Josiah Martin
 99,Christopher  Garcia
 b,r,e,a,k
+MIT (B),5
+teamInfo,Woodmunchers,"Cambridge, Massachusetts",mens-ult.mit.edu,,
+00,Aneesh Gupta
+00,Ellery Stahler
+00,Felix Prasanna
+00,Haoxuan Li
+00,J Briseno Tapia
+00,Jack Fletcher
+00,Kyle Roke
+00,Tomasz Slusarczyk
+00,William-Trung Vu
+00,Yaseen Alkhafaji
+b,r,e,a,k
 Northeastern (C),4
 teamInfo,Salty C Dogs,"Boston, Massachusetts",https://web.northeastern.edu/clubsports/ultimate-frisbee-m/,https://www.facebook.com/NUMensUltimate,https://twitter.com/NUMensUltimate
 coaches,Jakob Farnham
@@ -49,19 +62,6 @@ coaches,Jakob Farnham
 33,Max Steinman 
 42,Gabriel Jentis
 69,Tyler Smithtro
-b,r,e,a,k
-MIT (B),5
-teamInfo,Woodmunchers,"Cambridge, Massachusetts",mens-ult.mit.edu,,
-00,Aneesh Gupta
-00,Ellery Stahler
-00,Felix Prasanna
-00,Haoxuan Li
-00,J Briseno Tapia
-00,Jack Fletcher
-00,Kyle Roke
-00,Tomasz Slusarczyk
-00,William-Trung Vu
-00,Yaseen Alkhafaji
 b,r,e,a,k
 Northeastern (B),2
 teamInfo,Beastern,"Boston, Massachusetts",http://www.ultimate.neu.edu,https://www.facebook.com/NUMensUltimate,https://twitter.com/NUMensUltimate
@@ -118,19 +118,6 @@ coaches,Eliot Fenton,Abijith Krishnan
 7,Carlo Hensch
 14,Matthew Qu
 b,r,e,a,k
-Boston University (B),6
-teamInfo,Boston University,"Boston, Massachusetts",http://www.bu.edu/fitrec/club/sports/frisbee.shtml,https://www.facebook.com/BU.Ultimate,
-0,Bailey Scott
-0,Danny Nguyen
-0,Eli Marlin
-0,Jackson Cross
-0,Jericho Jacala
-0,Luke McCarthy
-0,Rafaele DiMaggio
-0,Spencer Yeh
-13,Derek Dong
-21,Jasper Liu
-b,r,e,a,k
 Tufts (C),7
 teamInfo,Tufts C,"Medford, Massachusetts",www.tuftsmensultimate.org,,
 0,Dyan Peifer 
@@ -144,19 +131,32 @@ teamInfo,Tufts C,"Medford, Massachusetts",www.tuftsmensultimate.org,,
 0,Prithvi Shahani
 68,Maddox Weisz
 b,r,e,a,k
+Boston University (B),6
+teamInfo,Boston University,"Boston, Massachusetts",http://www.bu.edu/fitrec/club/sports/frisbee.shtml,https://www.facebook.com/BU.Ultimate,
+0,Bailey Scott
+0,Danny Nguyen
+0,Eli Marlin
+0,Jackson Cross
+0,Jericho Jacala
+0,Luke McCarthy
+0,Rafaele DiMaggio
+0,Spencer Yeh
+13,Derek Dong
+21,Jasper Liu
+b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
-Tufts (B),MIT (B),0,0,"04/15/2023, 09:00",Pool A,Scheduled
-Tufts (B),Northeastern (C),0,0,"04/15/2023, 12:30",Pool A,Scheduled
-Northeastern (C),MIT (B),0,0,"04/15/2023, 14:15",Pool A,Scheduled
+Tufts (B),MIT (B),15,0,"04/15/2023, 09:00",Pool A,Final
+Tufts (B),Northeastern (C),15,1,"04/15/2023, 12:30",Pool A,Final
+Northeastern (C),MIT (B),3,12,"04/15/2023, 14:15",Pool A,Final
 pool,Pool B
-Northeastern (B),Tufts (C),0,0,"04/15/2023, 10:45",Pool B,Scheduled
-Harvard (B),Boston University (B),0,0,"04/15/2023, 10:45",Pool B,Scheduled
+Northeastern (B),Tufts (C),15,4,"04/15/2023, 10:45",Pool B,Final
+Harvard (B),Boston University (B),14,3,"04/15/2023, 10:45",Pool B,Final
 Northeastern (B),Boston University (B),0,0,"04/15/2023, 12:30",Pool B,Scheduled
 Harvard (B),Tufts (C),0,0,"04/15/2023, 12:30",Pool B,Scheduled
-Northeastern (B),Harvard (B),0,0,"04/15/2023, 12:30",Pool B,Scheduled
-Boston University (B),Tufts (C),0,0,"04/15/2023, 12:30",Pool B,Scheduled
+Northeastern (B),Harvard (B),14,2,"04/15/2023, 12:30",Pool B,Final
+Boston University (B),Tufts (C),6,11,"04/15/2023, 12:30",Pool B,Final
 b,r,e,a,k
 brackets,Bracket Play
 bracket,Bracket Play
