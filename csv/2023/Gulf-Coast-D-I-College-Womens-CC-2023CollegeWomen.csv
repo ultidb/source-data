@@ -23,23 +23,6 @@ teamInfo,Ramma Jamma,"Tuscaloosa, Alabama",,,https://twitter.com/RammaJammaULT
 56,Annika Jensen
 60,Madison Sawyer
 b,r,e,a,k
-LSU,4
-teamInfo,LSU Women's Ultimate,"Baton Rouge, Louisiana",http://lsuuniversityrec.com/lsuurec/,,
-0,Carly Greig
-0,Catherine  Borel
-0,Frances Kelly
-0,Kendryx Periban
-0,Lauryn Boschulte
-0,Louise Garfias
-0,Noah Flaherty
-0,Olivia Cheatham
-0,Sarah Saxon
-0,Victoria Horton
-0,Abigail Roscoe 
-0,Amelia Fredericks
-28,Jacqueline Le Grange
-42,Anna Borne
-b,r,e,a,k
 Tulane,5
 teamInfo,Muses,"New Orleans, Louisiana",,,@TUmuses
 00,Annabelle Falconer
@@ -64,6 +47,23 @@ teamInfo,Muses,"New Orleans, Louisiana",,,@TUmuses
 00,Rayna Carner
 00,Sivan Ornstein-Luks
 00,Sofie  Schusterman 
+b,r,e,a,k
+LSU,4
+teamInfo,LSU Women's Ultimate,"Baton Rouge, Louisiana",http://lsuuniversityrec.com/lsuurec/,,
+0,Carly Greig
+0,Catherine  Borel
+0,Frances Kelly
+0,Kendryx Periban
+0,Lauryn Boschulte
+0,Louise Garfias
+0,Noah Flaherty
+0,Olivia Cheatham
+0,Sarah Saxon
+0,Victoria Horton
+0,Abigail Roscoe 
+0,Amelia Fredericks
+28,Jacqueline Le Grange
+42,Anna Borne
 b,r,e,a,k
 Alabama-Huntsville,2
 teamInfo,Terror,"Huntsville, Alabama",,,
@@ -104,19 +104,6 @@ teamInfo,Fuego,"Jacksonville, Alabama",,,https://twitter.com/jsufuego
 42,Elizabeth O'Donnell
 47,Annie Kelley
 b,r,e,a,k
-Auburn,6
-teamInfo,Ares,"Auburn, Alabama",https://auburn.campuslabs.com/engage/organization/womensultimatefrisbee,,AuburnAres
-0,Emily  Lamberson
-0,Emma Tolbert
-0,Jada Mahoney
-0,Katherine Clemmons
-0,Macy Butler
-0,Olivia Bledsoe
-03,Corinne Mari Arcenal
-07,Alexa Kloske
-08,Era Moellering
-13,Tatum Black
-b,r,e,a,k
 Vanderbilt,7
 teamInfo,VUDU,"Nashville, Tennessee",,https://www.facebook.com/VUDUultimate/,https://twitter.com/vuduhuh?lang=en
 coaches,Meaghan  Creamer
@@ -134,24 +121,44 @@ coaches,Meaghan  Creamer
 14,Rhea  Patney
 16,Morgan Butts
 b,r,e,a,k
+Auburn,6
+teamInfo,Ares,"Auburn, Alabama",https://auburn.campuslabs.com/engage/organization/womensultimatefrisbee,,AuburnAres
+0,Emily  Lamberson
+0,Emma Tolbert
+0,Jada Mahoney
+0,Katherine Clemmons
+0,Macy Butler
+0,Olivia Bledsoe
+03,Corinne Mari Arcenal
+07,Alexa Kloske
+08,Era Moellering
+13,Tatum Black
+b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool A (3 team round robin)
 pool,Pool A
 Alabama,Tulane,13,6,"04/22/2023, 09:00",Pool A,Final
 Alabama,LSU,13,7,"04/22/2023, 10:50",Pool A,Final
-LSU,Tulane,0,0,"04/22/2023, 12:40",Pool A,Scheduled
+LSU,Tulane,7,8,"04/22/2023, 12:40",Pool A,Final
 b,r,e,a,k
 pools,Pool B (Clipped Pool)
 pool,Pool B
 Jacksonville State,Auburn,13,5,"04/22/2023, 09:00",Pool B,Final
 Alabama-Huntsville,Vanderbilt,13,2,"04/22/2023, 09:00",Pool B,Final
 Alabama-Huntsville,Jacksonville State,13,4,"04/22/2023, 10:50",Pool B,Final
-Auburn,Vanderbilt,10,4,"04/22/2023, 10:50",Pool B,Final
+Auburn,Vanderbilt,4,10,"04/22/2023, 10:50",Pool B,Final
 b,r,e,a,k
 brackets,1st Place (Bids 1 & 2)
 bracket,1st Place
+Alabama,Alabama-Huntsville,0,0,"04/23/2023, 09:00",1st Place Final,Scheduled
 b,r,e,a,k
 clusters,Pool Play Completion (Bids 3-5)
 cluster,Pool Play Completion
-Jacksonville State,Vanderbilt,0,0,"04/22/2023, 12:40",,Scheduled
+Jacksonville State,Vanderbilt,13,0,"04/22/2023, 12:40",,Final
+Jacksonville State,LSU,0,0,"04/23/2023, 09:00",,Scheduled
+Tulane,Vanderbilt,0,0,"04/23/2023, 09:00",,Scheduled
+Jacksonville State,Tulane,0,0,"04/23/2023, 10:50",,Scheduled
+LSU,Auburn,0,0,"04/23/2023, 10:50",,Scheduled
+Tulane,Auburn,0,0,"04/23/2023, 12:40",,Scheduled
+LSU,Vanderbilt,0,0,"04/23/2023, 12:40",,Scheduled
 b,r,e,a,k
