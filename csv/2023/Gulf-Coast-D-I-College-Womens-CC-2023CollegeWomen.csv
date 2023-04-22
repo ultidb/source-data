@@ -137,14 +137,14 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool A (3 team round robin)
 pool,Pool A
-Alabama,Tulane,0,0,"04/22/2023, 09:00",Pool A,Scheduled
-Alabama,LSU,0,0,"04/22/2023, 10:50",Pool A,Scheduled
+Alabama,Tulane,13,6,"04/22/2023, 09:00",Pool A,Final
+Alabama,LSU,13,7,"04/22/2023, 10:50",Pool A,Final
 LSU,Tulane,0,0,"04/22/2023, 12:40",Pool A,Scheduled
 b,r,e,a,k
 pools,Pool B (Clipped Pool)
 pool,Pool B
 Jacksonville State,Auburn,0,0,"04/22/2023, 09:00",Pool B,Scheduled
-Alabama-Huntsville,Vanderbilt,0,0,"04/22/2023, 09:00",Pool B,Scheduled
+Alabama-Huntsville,Vanderbilt,13,2,"04/22/2023, 09:00",Pool B,Scheduled
 Alabama-Huntsville,Jacksonville State,0,0,"04/22/2023, 10:50",Pool B,Scheduled
 Auburn,Vanderbilt,0,0,"04/22/2023, 10:50",Pool B,Scheduled
 b,r,e,a,k
@@ -152,4 +152,6 @@ brackets,1st Place (Bids 1 & 2)
 bracket,1st Place
 b,r,e,a,k
 clusters,Pool Play Completion (Bids 3-5)
+cluster,Pool Play Completion
+Jacksonville State,Vanderbilt,0,0,"04/22/2023, 12:40",,Scheduled
 b,r,e,a,k
