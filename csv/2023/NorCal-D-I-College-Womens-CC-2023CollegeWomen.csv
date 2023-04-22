@@ -28,26 +28,6 @@ coaches,Robin Davis,Shayla Harris,Jamie Nuwer
 55,Elena Kamas
 98,Kiana Hu
 b,r,e,a,k
-Santa Clara,4
-teamInfo,Santa Clara RAGE,"Santa Clara, California",,,
-00,Anabel Howe
-00,Anka Bayanbat
-00,Anna Keenan
-00,Ella Morey
-00,Emma (Riley) Fink
-00,Grace Knight
-00,Hannah Johnson
-00,Katheryne Boardman
-00,Maddy Burns
-00,Monica Sommer
-00,Olivia Vidal
-00,Olivia Pruett
-00,Sarah Abruzzo
-00,Shea Mulqueeney
-00,Sienna Unter
-08,Sofia Brumbaugh
-16,Kayleigh Vu
-b,r,e,a,k
 California-Santa Cruz,5
 teamInfo,Sol,"Santa Cruz, California",,,
 coaches,Nick Tolfa
@@ -77,6 +57,26 @@ coaches,Nick Tolfa
 29,Camila Grossman
 55,Marley Standard
 99,Tina Zhu
+b,r,e,a,k
+Santa Clara,4
+teamInfo,Santa Clara RAGE,"Santa Clara, California",,,
+00,Anabel Howe
+00,Anka Bayanbat
+00,Anna Keenan
+00,Ella Morey
+00,Emma (Riley) Fink
+00,Grace Knight
+00,Hannah Johnson
+00,Katheryne Boardman
+00,Maddy Burns
+00,Monica Sommer
+00,Olivia Vidal
+00,Olivia Pruett
+00,Sarah Abruzzo
+00,Shea Mulqueeney
+00,Sienna Unter
+08,Sofia Brumbaugh
+16,Kayleigh Vu
 b,r,e,a,k
 California,3
 teamInfo,Pie Queens,"Berkeley, California",http://www.piequeens.org,https://www.facebook.com/piequeensultimate,https://www.twitter.com/piequeens
@@ -177,7 +177,7 @@ pools,Pool Play
 pool,Pool A
 Stanford,California-Santa Cruz,13,6,"04/22/2023, 09:00",Pool A,Final
 Stanford,Santa Clara,13,6,"04/22/2023, 10:45",Pool A,Final
-Santa Clara,California-Santa Cruz,0,0,"04/22/2023, 12:30",Pool A,Scheduled
+Santa Clara,California-Santa Cruz,7,13,"04/22/2023, 12:30",Pool A,Final
 pool,Pool B
 California-Davis,Chico State,13,2,"04/22/2023, 09:00",Pool B,Final
 California,Nevada-Reno,13,3,"04/22/2023, 09:00",Pool B,Final
@@ -187,7 +187,14 @@ California,Chico State,13,2,"04/22/2023, 12:30",Pool B,Final
 b,r,e,a,k
 brackets,Bracket Play
 bracket,First/Second Place
+Stanford,California,0,0,"04/23/2023, 09:00",Finals,Scheduled
 b,r,e,a,k
 pools,Placement Pool Play
 pool,Pool C
+California-Santa Cruz,Nevada-Reno,0,0,"04/23/2023, 09:00",Pool C,Scheduled
+California-Davis,Santa Clara,0,0,"04/23/2023, 09:00",Pool C,Scheduled
+Santa Clara,Chico State,0,0,"04/23/2023, 10:45",Pool C,Scheduled
+California-Davis,California-Santa Cruz,0,0,"04/23/2023, 10:45",Pool C,Scheduled
+Nevada-Reno,Santa Clara,0,0,"04/23/2023, 12:30",Pool C,Scheduled
+California-Santa Cruz,Chico State,0,0,"04/23/2023, 12:30",Pool C,Scheduled
 b,r,e,a,k
