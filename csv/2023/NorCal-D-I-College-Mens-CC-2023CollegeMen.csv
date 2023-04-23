@@ -31,31 +31,6 @@ coaches,Johnny Ortberg
 71,Aidan Curry
 77,Mario Ambrose
 b,r,e,a,k
-Nevada-Reno,6
-teamInfo,Elevation Ultimate,"Reno, Nevada",https://nevadaultimate.weebly.com/,https://www.facebook.com/NevadaUltimate/,https://twitter.com/nevadaultimate
-0,Brody Moreno-McClure
-0,David Leonhardt
-0,Davis Berry
-0,Erick Bandala Sanchez
-0,Logan Beffort
-0,Malachite Nelson
-0,Marcus Fredrickson
-0,Michael Caliz
-0,Moeses Chavez
-0,Nicholas Kutter
-0,Nicolas Olson
-0,Rodney Wolfgang
-0,Thomas Kolvet
-0,Zachary Wilhite
-2,Douglas Pieplow
-8,Spencer Lee
-33,Jeremiah Haumeder
-35,Christopher Carter
-42,Richard Scheen-Stribling
-55,Jonathon Lau
-77,Jack Stinson
-95,Justin MacQuiddy
-b,r,e,a,k
 Stanford,3
 teamInfo,Stanford Bloodthirsty,"Stanford, California",,https://www.facebook.com/stanfordbloodthirsty/,https://twitter.com/stanfordblood
 coaches,Lucas Dallmann,Lily Steponaitis,Christian Cortes
@@ -86,6 +61,51 @@ coaches,Lucas Dallmann,Lily Steponaitis,Christian Cortes
 88,Shiley Einav
 89,Jerred Smith
 b,r,e,a,k
+Nevada-Reno,6
+teamInfo,Elevation Ultimate,"Reno, Nevada",https://nevadaultimate.weebly.com/,https://www.facebook.com/NevadaUltimate/,https://twitter.com/nevadaultimate
+0,Brody Moreno-McClure
+0,David Leonhardt
+0,Davis Berry
+0,Erick Bandala Sanchez
+0,Logan Beffort
+0,Malachite Nelson
+0,Marcus Fredrickson
+0,Michael Caliz
+0,Moeses Chavez
+0,Nicholas Kutter
+0,Nicolas Olson
+0,Rodney Wolfgang
+0,Thomas Kolvet
+0,Zachary Wilhite
+2,Douglas Pieplow
+8,Spencer Lee
+33,Jeremiah Haumeder
+35,Christopher Carter
+42,Richard Scheen-Stribling
+55,Jonathon Lau
+77,Jack Stinson
+95,Justin MacQuiddy
+b,r,e,a,k
+Humboldt State,10
+teamInfo,Humboldt State Buds,"Arcata, California",,,
+00,Andre Sargissian
+00,Cole Insalaco
+00,Collin Silva
+00,Cori Muller
+00,Donovan Wakeman
+00,Elias Simon
+00,Evan Vieira
+00,Grady Hecht
+00,Joaquin Bartosh
+00,Kenny Kurbat
+00,Leo Kepcke
+00,Mathias Hall
+00,Matthew Smith
+00,Max Rivera
+00,Scott Estepa
+00,Spencer Garrett
+00,Trenton Sissom
+b,r,e,a,k
 Chico State,7
 teamInfo,Chico State,"Chico, California",,,
 0,Christian Reinig
@@ -107,26 +127,6 @@ teamInfo,Chico State,"Chico, California",,,
 85,Benjamin Santiago-Kemp
 88,Owen Onatanian
 99,Parker Thomas
-b,r,e,a,k
-Humboldt State,10
-teamInfo,Humboldt State Buds,"Arcata, California",,,
-00,Andre Sargissian
-00,Cole Insalaco
-00,Collin Silva
-00,Cori Muller
-00,Donovan Wakeman
-00,Elias Simon
-00,Evan Vieira
-00,Grady Hecht
-00,Joaquin Bartosh
-00,Kenny Kurbat
-00,Leo Kepcke
-00,Mathias Hall
-00,Matthew Smith
-00,Max Rivera
-00,Scott Estepa
-00,Spencer Garrett
-00,Trenton Sissom
 b,r,e,a,k
 Santa Clara,4
 teamInfo,SCAB,"Santa Clara, California",,,https://twitter.com/SCABUltiFris
@@ -264,13 +264,13 @@ pool,Pool A
 California-Santa Cruz,Humboldt State,13,2,"04/22/2023, 09:00",Pool A,Final
 Nevada-Reno,Chico State,12,10,"04/22/2023, 09:00",Pool A,Final
 California-Santa Cruz,Nevada-Reno,13,2,"04/22/2023, 10:45",Pool A,Final
-Stanford,Chico State,0,0,"04/22/2023, 10:45",Pool A,Scheduled
+Stanford,Chico State,13,8,"04/22/2023, 10:45",Pool A,Final
 Chico State,Humboldt State,0,0,"04/22/2023, 12:30",Pool A,Scheduled
-Stanford,Nevada-Reno,0,0,"04/22/2023, 12:30",Pool A,Scheduled
+Stanford,Nevada-Reno,13,11,"04/22/2023, 12:30",Pool A,Final
 California-Santa Cruz,Chico State,13,6,"04/22/2023, 14:15",Pool A,Final
 Stanford,Humboldt State,0,0,"04/22/2023, 14:15",Pool A,Scheduled
 California-Santa Cruz,Stanford,13,8,"04/22/2023, 16:00",Pool A,Final
-Nevada-Reno,Humboldt State,0,0,"04/22/2023, 16:00",Pool A,Scheduled
+Nevada-Reno,Humboldt State,11,9,"04/22/2023, 16:00",Pool A,Final
 pool,Pool B
 California-Davis,San Jose State,13,2,"04/22/2023, 09:00",Pool B,Final
 Santa Clara,Fresno State,13,4,"04/22/2023, 09:00",Pool B,Final
