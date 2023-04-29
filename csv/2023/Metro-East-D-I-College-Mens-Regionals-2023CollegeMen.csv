@@ -473,7 +473,7 @@ Rutgers,Rowan,15,4,"04/29/2023, 09:00",Pool A,Final
 NYU,SUNY-Binghamton,7,9,"04/29/2023, 09:00",Pool A,Final
 Rutgers,SUNY-Binghamton,13,11,"04/29/2023, 11:00",Pool A,Final
 NYU,Rowan,10,6,"04/29/2023, 11:00",Pool A,Final
-Rutgers,NYU,0,0,"04/29/2023, 13:00",Pool A,Scheduled
+Rutgers,NYU,12,8,"04/29/2023, 13:00",Pool A,Final
 Rowan,SUNY-Binghamton,6,15,"04/29/2023, 13:00",Pool A,Final
 pool,Pool B
 Connecticut,Syracuse,9,11,"04/29/2023, 09:00",Pool B,Final
@@ -494,10 +494,13 @@ Columbia,Princeton,11,15,"04/29/2023, 09:00",Pool D,Final
 RIT,Cornell (B),15,3,"04/29/2023, 09:00",Pool D,Final
 Columbia,Cornell (B),15,6,"04/29/2023, 11:00",Pool D,Final
 RIT,Princeton,12,10,"04/29/2023, 11:00",Pool D,Final
-Columbia,RIT,0,0,"04/29/2023, 13:00",Pool D,Scheduled
+Columbia,RIT,10,13,"04/29/2023, 13:00",Pool D,Final
 Princeton,Cornell (B),15,4,"04/29/2023, 13:00",Pool D,Final
 b,r,e,a,k
 clusters,Saturday Crossover
+cluster,PreQuarters
+SUNY-Binghamton,Columbia,0,0,"04/29/2023, 15:00",,Scheduled
+Princeton,NYU,0,0,"04/29/2023, 15:00",,Scheduled
 b,r,e,a,k
 brackets,Sunday Bracket Play
 bracket,Championship
@@ -508,4 +511,5 @@ b,r,e,a,k
 pools,Sunday Consolation Pools
 pool,Pool E
 pool,Pool F
+Rowan,Cornell (B),0,0,"04/30/2023, 11:00",Pool F,Scheduled
 b,r,e,a,k
