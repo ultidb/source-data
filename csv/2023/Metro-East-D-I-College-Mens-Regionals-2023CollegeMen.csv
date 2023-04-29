@@ -480,15 +480,15 @@ Connecticut,Syracuse,9,11,"04/29/2023, 09:00",Pool B,Final
 Carleton University,SUNY-Albany,15,4,"04/29/2023, 09:00",Pool B,Final
 Connecticut,SUNY-Albany,14,8,"04/29/2023, 11:00",Pool B,Final
 Carleton University,Syracuse,15,4,"04/29/2023, 11:00",Pool B,Final
-Connecticut,Carleton University,0,0,"04/29/2023, 13:00",Pool B,Scheduled
-Syracuse,SUNY-Albany,0,0,"04/29/2023, 13:00",Pool B,Scheduled
+Connecticut,Carleton University,9,14,"04/29/2023, 13:00",Pool B,Final
+Syracuse,SUNY-Albany,12,11,"04/29/2023, 13:00",Pool B,Final
 pool,Pool C
 Cornell,SUNY-Stony Brook,12,3,"04/29/2023, 09:00",Pool C,Final
 Yale,Hofstra,12,7,"04/29/2023, 09:00",Pool C,Final
 Cornell,Hofstra,15,2,"04/29/2023, 11:00",Pool C,Final
 Yale,SUNY-Stony Brook,12,11,"04/29/2023, 11:00",Pool C,Final
-Cornell,Yale,0,0,"04/29/2023, 13:00",Pool C,Scheduled
-SUNY-Stony Brook,Hofstra,0,0,"04/29/2023, 13:00",Pool C,Scheduled
+Cornell,Yale,15,3,"04/29/2023, 13:00",Pool C,Final
+SUNY-Stony Brook,Hofstra,10,8,"04/29/2023, 13:00",Pool C,Final
 pool,Pool D
 Columbia,Princeton,11,15,"04/29/2023, 09:00",Pool D,Final
 RIT,Cornell (B),15,3,"04/29/2023, 09:00",Pool D,Final
@@ -501,6 +501,8 @@ clusters,Saturday Crossover
 cluster,PreQuarters
 SUNY-Binghamton,Columbia,0,0,"04/29/2023, 15:00",,Scheduled
 Princeton,NYU,0,0,"04/29/2023, 15:00",,Scheduled
+Syracuse,SUNY-Stony Brook,0,0,"04/29/2023, 15:00",,Scheduled
+Yale,Connecticut,0,0,"04/29/2023, 15:00",,Scheduled
 b,r,e,a,k
 brackets,Sunday Bracket Play
 bracket,Championship
@@ -511,5 +513,10 @@ b,r,e,a,k
 pools,Sunday Consolation Pools
 pool,Pool E
 pool,Pool F
+Rowan,Hofstra,0,0,"04/30/2023, 09:00",Pool F,Scheduled
+SUNY-Albany,Cornell (B),0,0,"04/30/2023, 09:00",Pool F,Scheduled
 Rowan,Cornell (B),0,0,"04/30/2023, 11:00",Pool F,Scheduled
+SUNY-Albany,Hofstra,0,0,"04/30/2023, 11:00",Pool F,Scheduled
+Rowan,SUNY-Albany,0,0,"04/30/2023, 13:00",Pool F,Scheduled
+Hofstra,Cornell (B),0,0,"04/30/2023, 13:00",Pool F,Scheduled
 b,r,e,a,k
