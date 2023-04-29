@@ -144,28 +144,6 @@ coaches,Braedon Petrus
 77,Jackson Heglie
 81,Emmett Warner
 b,r,e,a,k
-Montana State,13
-teamInfo,Rum Runners,"Bozeman, Montana",,https://www.facebook.com/MSUultimate/,https://twitter.com/RumRunnersMT
-0,Aiden Killeen
-0,Artie Battaglin
-0,Ben Bernier
-0,Colton Copelin
-0,Jake Ralston
-0,Jasper Goldman
-0,Jerome Jerome
-0,Joel Harvey
-0,Kyler Thompson
-0,Noah Dean-Erlander
-0,William Jordan
-4,Elliott Harris-Musack
-11,Rabi Phelan
-12,Logan Sadler
-14,Ian Ray
-16,Aaron Rhoderick
-23,Zachary Danielson
-42,Sean McAneney
-44,Gus Downey
-b,r,e,a,k
 Utah,7
 teamInfo,Zion Curtain,"Salt Lake City, Utah",https://www.zioncurtainultimate.com/,https://www.facebook.com/pages/ZCU-Zion-Curtain-Ultimate/162698807137761,https://twitter.com/zioncurtainulti
 coaches,Eric Christensen
@@ -196,6 +174,28 @@ coaches,Eric Christensen
 82,Andrew Elliott
 88,Elijah Watchalotone
 89,Oliver Cecchini
+b,r,e,a,k
+Montana State,13
+teamInfo,Rum Runners,"Bozeman, Montana",,https://www.facebook.com/MSUultimate/,https://twitter.com/RumRunnersMT
+0,Aiden Killeen
+0,Artie Battaglin
+0,Ben Bernier
+0,Colton Copelin
+0,Jake Ralston
+0,Jasper Goldman
+0,Jerome Jerome
+0,Joel Harvey
+0,Kyler Thompson
+0,Noah Dean-Erlander
+0,William Jordan
+4,Elliott Harris-Musack
+11,Rabi Phelan
+12,Logan Sadler
+14,Ian Ray
+16,Aaron Rhoderick
+23,Zachary Danielson
+42,Sean McAneney
+44,Gus Downey
 b,r,e,a,k
 Utah Valley,12
 teamInfo,Utah Valley Ultimate,"Orem, Utah",,,
@@ -393,14 +393,16 @@ bracket,Pool A Placement
 b,r,e,a,k
 brackets,Clipped Pool B
 bracket,Pool B
-Oregon,Montana State,0,0,"04/29/2023, 10:50",Pool B Round 1,Scheduled
-Utah,Utah Valley,0,0,"04/29/2023, 10:50",Pool B Round 1,Scheduled
+Oregon,Utah,0,0,"04/29/2023, 12:40",Pool B Finals,Scheduled
+Oregon,Montana State,13,3,"04/29/2023, 10:50",Pool B Round 1,Final
+Utah,Utah Valley,13,10,"04/29/2023, 10:50",Pool B Round 1,Final
 bracket,Pool B Placement
+Montana State,Utah Valley,0,0,"04/29/2023, 12:40",Pool B Placement,Scheduled
 b,r,e,a,k
 pools,3 Team Pools
 pool,Pool C
 Washington,Gonzaga,14,11,"04/29/2023, 09:00",Pool C,Final
-Washington,Victoria,0,0,"04/29/2023, 10:50",Pool C,Scheduled
+Washington,Victoria,12,11,"04/29/2023, 10:50",Pool C,Final
 Victoria,Gonzaga,0,0,"04/29/2023, 12:40",Pool C,Scheduled
 pool,Pool D
 Utah State,Portland State,15,10,"04/29/2023, 09:00",Pool D,Final
