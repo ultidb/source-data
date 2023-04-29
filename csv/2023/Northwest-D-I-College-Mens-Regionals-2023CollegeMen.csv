@@ -388,7 +388,7 @@ s,t,a,g,e,s
 brackets,Clipped Pool A
 bracket,Pool A
 British Columbia,Washington (B),15,5,"04/29/2023, 10:50",Pool A Round 1,Final
-Western Washington,Washington State,0,0,"04/29/2023, 10:50",Pool A Round 1,Scheduled
+Western Washington,Washington State,15,8,"04/29/2023, 10:50",Pool A Round 1,Scheduled
 bracket,Pool A Placement
 b,r,e,a,k
 brackets,Clipped Pool B
@@ -397,19 +397,23 @@ Oregon,Utah,0,0,"04/29/2023, 12:40",Pool B Finals,Scheduled
 Oregon,Montana State,13,3,"04/29/2023, 10:50",Pool B Round 1,Final
 Utah,Utah Valley,13,10,"04/29/2023, 10:50",Pool B Round 1,Final
 bracket,Pool B Placement
-Montana State,Utah Valley,10,13,"04/29/2023, 12:40",Pool B Placement,Final
+Montana State,Utah Valley,10,13,"04/29/2023, 12:40",Pool B Placement,Scheduled
 b,r,e,a,k
 pools,3 Team Pools
 pool,Pool C
 Washington,Gonzaga,14,11,"04/29/2023, 09:00",Pool C,Final
 Washington,Victoria,12,11,"04/29/2023, 10:50",Pool C,Final
-Victoria,Gonzaga,0,0,"04/29/2023, 12:40",Pool C,Scheduled
+Victoria,Gonzaga,15,8,"04/29/2023, 12:40",Pool C,Final
 pool,Pool D
 Utah State,Portland State,15,10,"04/29/2023, 09:00",Pool D,Final
 Utah State,Oregon State,11,9,"04/29/2023, 10:50",Pool D,Final
-Oregon State,Portland State,0,0,"04/29/2023, 12:40",Pool D,Scheduled
+Oregon State,Portland State,15,7,"04/29/2023, 12:40",Pool D,Final
 b,r,e,a,k
 clusters,2:30 PM Crossovers
+cluster,Crossover
+Oregon State,Utah Valley,0,0,"04/29/2023, 14:30",,Scheduled
+Victoria,Washington State,0,0,"04/29/2023, 14:30",,Scheduled
+Western Washington,Gonzaga,0,0,"04/29/2023, 14:30",,Scheduled
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,1st Place
