@@ -339,24 +339,28 @@ pools,Pool Play
 pool,Pool C
 Colorado State,Texas State,15,0,"04/29/2023, 08:30",Pool C,Final
 Colorado State,Arkansas,15,2,"04/29/2023, 10:15",Pool C,Final
-Arkansas,Texas State,0,0,"04/29/2023, 12:00",Pool C,Scheduled
+Arkansas,Texas State,9,2,"04/29/2023, 12:00",Pool C,Final
 pool,Pool A
 Colorado,Washington University (B),15,1,"04/29/2023, 10:15",Pool A,Final
 Texas A&M,Denver,5,6,"04/29/2023, 10:15",Pool A,Final
-Colorado,Denver,0,0,"04/29/2023, 12:00",Pool A,Scheduled
-Texas A&M,Washington University (B),0,0,"04/29/2023, 12:00",Pool A,Scheduled
+Colorado,Denver,15,1,"04/29/2023, 12:00",Pool A,Final
+Texas A&M,Washington University (B),8,4,"04/29/2023, 12:00",Pool A,Final
 pool,Pool B
 Texas-Dallas,Texas-San Antonio,13,0,"04/29/2023, 10:15",Pool B,Final
 Kansas,Sam Houston,7,5,"04/29/2023, 10:15",Pool B,Final
-Texas-Dallas,Kansas,0,0,"04/29/2023, 12:00",Pool B,Scheduled
+Texas-Dallas,Kansas,9,5,"04/29/2023, 12:00",Pool B,Final
 Sam Houston,Texas-San Antonio,0,0,"04/29/2023, 12:00",Pool B,Scheduled
 pool,Pool D
 Washington University,North Texas,15,1,"04/29/2023, 10:15",Pool D,Final
 Texas,Saint Louis,9,5,"04/29/2023, 10:15",Pool D,Final
-Washington University,Texas,0,0,"04/29/2023, 12:00",Pool D,Scheduled
+Washington University,Texas,11,6,"04/29/2023, 12:00",Pool D,Final
 Saint Louis,North Texas,0,0,"04/29/2023, 12:00",Pool D,Scheduled
 b,r,e,a,k
 clusters,Re-Seeding Crossovers
+cluster,Re-Seeding Crossovers
+Colorado,Colorado State,0,0,"04/29/2023, 13:45",,Scheduled
+Arkansas,Texas A&M,0,0,"04/29/2023, 13:45",,Scheduled
+Denver,Texas State,0,0,"04/29/2023, 13:45",,Scheduled
 b,r,e,a,k
 brackets,Bracket Play
 bracket,Championship Bracket
