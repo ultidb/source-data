@@ -216,26 +216,6 @@ teamInfo,Woof,"Richardson, Texas",,https://www.facebook.com/UTDWOOF/,https://twi
 98,Luiz Astorga
 99,Nikhil Jeeva
 b,r,e,a,k
-North Texas,12
-teamInfo,UNT,"Denton, Texas",,,https://twitter.com/UltimateUnt
-0,Joshua Martinez
-0,Joshua Fambro
-0,Michael Mangan
-0,Nolan Henderson
-0,Parker Moran
-0,Paul Galletti
-0,Ryan Munoz
-0,Carlos Reynosa
-0,Harold Hubbard
-0,Jancarlo  Perez
-0,Jason  Borchers 
-0,Achille Boneza
-0,Zack Waters
-5,Will Tober
-7,Samuel Garza
-11,Andrew Hambrick
-11,Jonathan Scott
-b,r,e,a,k
 Washington University,3
 teamInfo,Contra,"St. Louis, Missouri",contra.wustl.edu,,twitter.com/wucontra
 0,Christopher Heron
@@ -267,30 +247,25 @@ teamInfo,Contra,"St. Louis, Missouri",contra.wustl.edu,,twitter.com/wucontra
 88,Cole Segal
 99,Oliver Every
 b,r,e,a,k
-Tarleton State,13
-teamInfo,Texan Ultimate,"Stephenville, Texas",,,
-0,Alan Villarreal
-0,Bizimana Musa
-0,Cade Snyder
-0,Caden Kieschnick 
-0,Cooper Deans
-0,Dakota Dodson
-0,Hunter Phillips
-0,Ian Wedel
-0,Jace Morgan
-0,Jared Nelson
-0,Kai Potter
-0,Kenton Bogan
-0,Kobi Felch
-0,Nash Caudle
-0,Preston Jones
-0,Quinn Sullivan
-0,Ryan Deans
-0,Ryan Wisnoski 
-0,Sam Semper
-0,William Massey
-2,James Reed
-14,Garrett Drolet
+North Texas,12
+teamInfo,UNT,"Denton, Texas",,,https://twitter.com/UltimateUnt
+0,Joshua Martinez
+0,Joshua Fambro
+0,Michael Mangan
+0,Nolan Henderson
+0,Parker Moran
+0,Paul Galletti
+0,Ryan Munoz
+0,Carlos Reynosa
+0,Harold Hubbard
+0,Jancarlo  Perez
+0,Jason  Borchers 
+0,Achille Boneza
+0,Zack Waters
+5,Will Tober
+7,Samuel Garza
+11,Andrew Hambrick
+11,Jonathan Scott
 b,r,e,a,k
 Texas A&M,6
 teamInfo,Dozen,"COLLEGE STATION, Texas",dozenultimate.com,https://www.facebook.com/tamuultimate/,https://twitter.com/DozenUltimate/
@@ -321,6 +296,31 @@ teamInfo,Dozen,"COLLEGE STATION, Texas",dozenultimate.com,https://www.facebook.c
 66,Ethan Reid
 69,Justin Davis
 99,Spencer Solberg
+b,r,e,a,k
+Tarleton State,13
+teamInfo,Texan Ultimate,"Stephenville, Texas",,,
+0,Alan Villarreal
+0,Bizimana Musa
+0,Cade Snyder
+0,Caden Kieschnick 
+0,Cooper Deans
+0,Dakota Dodson
+0,Hunter Phillips
+0,Ian Wedel
+0,Jace Morgan
+0,Jared Nelson
+0,Kai Potter
+0,Kenton Bogan
+0,Kobi Felch
+0,Nash Caudle
+0,Preston Jones
+0,Quinn Sullivan
+0,Ryan Deans
+0,Ryan Wisnoski 
+0,Sam Semper
+0,William Massey
+2,James Reed
+14,Garrett Drolet
 b,r,e,a,k
 Missouri,4
 teamInfo,Missouri,"Columbia, Missouri",,https://www.facebook.com/University-of-Missouri-Mens-Ultimate-Frisbee-Club-485959944787244,https://twitter.com/MizClubMFrisbee
@@ -438,7 +438,7 @@ pool,Pool A
 Colorado,Oklahoma State,15,5,"04/29/2023, 09:45",Pool A,Final
 Texas State,Kansas,13,10,"04/29/2023, 09:45",Pool A,Final
 Colorado,Texas State,14,6,"04/29/2023, 11:30",Pool A,Final
-Kansas,Oklahoma State,0,0,"04/29/2023, 11:30",Pool A,Scheduled
+Kansas,Oklahoma State,11,6,"04/29/2023, 11:30",Pool A,Final
 pool,Pool B
 Texas,Texas-Dallas,14,6,"04/29/2023, 08:00",Pool B,Final
 Saint Louis,Texas-Dallas,11,7,"04/29/2023, 09:45",Pool B,Final
@@ -446,19 +446,26 @@ Texas,Saint Louis,15,4,"04/29/2023, 11:30",Pool B,Final
 pool,Pool C
 Washington University,Tarleton State,12,11,"04/29/2023, 09:45",Pool C,Final
 Texas A&M,North Texas,5,10,"04/29/2023, 09:45",Pool C,Final
-Washington University,North Texas,0,0,"04/29/2023, 11:30",Pool C,Scheduled
-Texas A&M,Tarleton State,0,0,"04/29/2023, 11:30",Pool C,Scheduled
+Washington University,North Texas,12,6,"04/29/2023, 11:30",Pool C,Final
+Texas A&M,Tarleton State,9,8,"04/29/2023, 11:30",Pool C,Final
 pool,Pool D
 Missouri,Texas (B),12,6,"04/29/2023, 09:45",Pool D,Final
 Colorado State,Arkansas,11,9,"04/29/2023, 09:45",Pool D,Final
-Missouri,Colorado State,2,6,"04/29/2023, 11:30",Pool D,In Progress
-Arkansas,Texas (B),0,0,"04/29/2023, 11:30",Pool D,Scheduled
+Missouri,Colorado State,10,9,"04/29/2023, 11:30",Pool D,Final
+Arkansas,Texas (B),13,5,"04/29/2023, 11:30",Pool D,Final
 b,r,e,a,k
 brackets,Elimination (Bracket 16.2.2)
 bracket,1st Place
+Colorado,Missouri,0,0,"04/29/2023, 13:30",Semifinals,In Progress
+Washington University,Texas,0,0,"04/29/2023, 13:30",Semifinals,In Progress
 bracket,2nd Place
+North Texas,Arkansas,0,0,"04/29/2023, 13:30",2nd (2v3 games),In Progress
+Kansas,Saint Louis,0,0,"04/29/2023, 13:30",2nd (2v3 games),In Progress
+Texas State,Texas-Dallas,0,0,"04/29/2023, 13:30",2nd (2v3 games),In Progress
+Texas A&M,Colorado State,0,0,"04/29/2023, 13:30",2nd (2v3 games),In Progress
 bracket,7th Place
 bracket,9th Place
 bracket,11th Place
 bracket,13th Place
+Oklahoma State,Texas (B),0,0,"04/30/2023, 10:30",13th Semis,In Progress
 b,r,e,a,k
