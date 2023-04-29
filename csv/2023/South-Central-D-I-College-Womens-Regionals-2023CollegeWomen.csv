@@ -157,29 +157,6 @@ teamInfo,Locamotive,"St.Louis, Missouri",,https://www.facebook.com/twoWUs,https:
 79,Kate Dickman
 86,Ran Huo
 b,r,e,a,k
-Texas-Dallas,2
-teamInfo,Whiplash,"Richardson, Texas",,,
-coaches,Katie Metzler
-0,Adaeze  Ogoazi 
-0,Daniela Arena
-0,Emily Banditrat
-4,Rebecca Jackson
-02,Elyssa Ducret
-10,Nupur Sampat
-11,Aleena Syed
-12,Kimmy  Wilson
-17,Lauren Anne Nicolas
-18,Allison Chang
-20,Negin Khakpour
-21,Hui-Yee Tsang
-22,Mia Sacco
-23,Elissa Balke
-25,Karen Nguyen
-26,Avery  Johnson
-27,Sabrina Castillo
-29,Katrina Lee
-55,Faith Fraser
-b,r,e,a,k
 Kansas,7
 teamInfo,Betty Ultimate,"Lawrence, Kansas",www.bettyultimate.com,https://www.facebook.com/pages/Betty-Ultimate/144061402213,https://twitter.com/bettyultimate
 coaches,Jordan Warren
@@ -203,21 +180,28 @@ coaches,Jordan Warren
 0,Annie Patton
 5,Chandler Olmstead
 b,r,e,a,k
-Sam Houston,12
-teamInfo,Sam Houston,"Huntsville, Texas",,,
-0,Emma Bush
-0,Jesika Miller
-0,Kelsey Hu
-0,Luisa De La Rosa Romo
-0,Mae Lewis
-0,Samantha Martinez
-0,Sara Willer
-4,Makenzie Kuehn
-13,Amayah Gabriel
-14,Lauren Kintz
-15,Lauren Rosales
-20,Ya Chih Cheng
-84,Lindsay Hollis
+Texas-Dallas,2
+teamInfo,Whiplash,"Richardson, Texas",,,
+coaches,Katie Metzler
+0,Adaeze  Ogoazi 
+0,Daniela Arena
+0,Emily Banditrat
+4,Rebecca Jackson
+02,Elyssa Ducret
+10,Nupur Sampat
+11,Aleena Syed
+12,Kimmy  Wilson
+17,Lauren Anne Nicolas
+18,Allison Chang
+20,Negin Khakpour
+21,Hui-Yee Tsang
+22,Mia Sacco
+23,Elissa Balke
+25,Karen Nguyen
+26,Avery  Johnson
+27,Sabrina Castillo
+29,Katrina Lee
+55,Faith Fraser
 b,r,e,a,k
 Texas-San Antonio,13
 teamInfo,Legion,"San Antonio, Texas",,,
@@ -233,6 +217,22 @@ teamInfo,Legion,"San Antonio, Texas",,,
 0,Natalie Blackburn
 0,Sarah Junco-Chavez
 22,Joshlynn Chapa
+b,r,e,a,k
+Sam Houston,12
+teamInfo,Sam Houston,"Huntsville, Texas",,,
+0,Emma Bush
+0,Jesika Miller
+0,Kelsey Hu
+0,Luisa De La Rosa Romo
+0,Mae Lewis
+0,Samantha Martinez
+0,Sara Willer
+4,Makenzie Kuehn
+13,Amayah Gabriel
+14,Lauren Kintz
+15,Lauren Rosales
+20,Ya Chih Cheng
+84,Lindsay Hollis
 b,r,e,a,k
 Washington University,4
 teamInfo,Iron Horse,"St. Louis, Missouri",,https://www.facebook.com/twoWUs,https://twitter.com/wuwultimate
@@ -338,10 +338,10 @@ s,t,a,g,e,s
 pools,Pool Play
 pool,Pool C
 Colorado State,Texas State,15,0,"04/29/2023, 08:30",Pool C,Final
-Colorado State,Arkansas,0,0,"04/29/2023, 10:15",Pool C,Scheduled
+Colorado State,Arkansas,15,2,"04/29/2023, 10:15",Pool C,Final
 Arkansas,Texas State,0,0,"04/29/2023, 12:00",Pool C,Scheduled
 pool,Pool A
-Colorado,Washington University (B),0,0,"04/29/2023, 10:15",Pool A,Scheduled
+Colorado,Washington University (B),15,1,"04/29/2023, 10:15",Pool A,Final
 Texas A&M,Denver,0,0,"04/29/2023, 10:15",Pool A,Scheduled
 Colorado,Denver,0,0,"04/29/2023, 12:00",Pool A,Scheduled
 Texas A&M,Washington University (B),0,0,"04/29/2023, 12:00",Pool A,Scheduled
@@ -349,13 +349,13 @@ Colorado,Texas A&M,0,0,"04/29/2023, 12:00",Pool A,Scheduled
 Denver,Washington University (B),0,0,"04/29/2023, 12:00",Pool A,Scheduled
 pool,Pool B
 Texas-Dallas,Texas-San Antonio,0,0,"04/29/2023, 10:15",Pool B,Scheduled
-Kansas,Sam Houston,0,0,"04/29/2023, 10:15",Pool B,Scheduled
+Kansas,Sam Houston,7,5,"04/29/2023, 10:15",Pool B,Final
 Texas-Dallas,Sam Houston,0,0,"04/29/2023, 12:00",Pool B,Scheduled
 Kansas,Texas-San Antonio,0,0,"04/29/2023, 12:00",Pool B,Scheduled
 Texas-Dallas,Kansas,0,0,"04/29/2023, 12:00",Pool B,Scheduled
 Sam Houston,Texas-San Antonio,0,0,"04/29/2023, 12:00",Pool B,Scheduled
 pool,Pool D
-Washington University,North Texas,0,0,"04/29/2023, 10:15",Pool D,Scheduled
+Washington University,North Texas,15,1,"04/29/2023, 10:15",Pool D,Final
 Texas,Saint Louis,0,0,"04/29/2023, 10:15",Pool D,Scheduled
 Washington University,Saint Louis,0,0,"04/29/2023, 12:00",Pool D,Scheduled
 Texas,North Texas,0,0,"04/29/2023, 12:00",Pool D,Scheduled
