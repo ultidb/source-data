@@ -31,27 +31,6 @@ teamInfo,Zoodisc,"Amherst, Massachusetts",,https://www.facebook.com/UMassUltimat
 95,Luca  Harwood
 99,Tobias Paperno
 b,r,e,a,k
-Maine,8
-teamInfo,Snositi,"Orono, Maine",,,
-0,Brendan Stone
-0,Garrett Dickinson
-0,Jack Hogan
-0,Justin Strout
-0,Tommy Young
-0,Tyler Adams
-6,Cole Moore
-6,Ryan O'Sullivan
-13,Ryan Thompson
-16,Cullen Stevens
-17,Dylan Ralph
-18,Jack  Cecelya
-18,Aidan Gorneau
-44,Aidan Hayes
-44,Joe Jacobson
-64,Matisse Moser
-88,Andrew Riley
-99,Clayton Coffman
-b,r,e,a,k
 Dartmouth,9
 teamInfo,Pain Train,"Hanover, New Hampshire",https://sites.dartmouth.edu/ultimatefrisbee/paintrain/,,https://twitter.com/DMouthPainTrain
 coaches,Colby Clarkson
@@ -81,6 +60,27 @@ coaches,Colby Clarkson
 24,Jackson Scarbrough
 33,Drew Loughnane
 44,Theodore Trefonides
+b,r,e,a,k
+Maine,8
+teamInfo,Snositi,"Orono, Maine",,,
+0,Brendan Stone
+0,Garrett Dickinson
+0,Jack Hogan
+0,Justin Strout
+0,Tommy Young
+0,Tyler Adams
+6,Cole Moore
+6,Ryan O'Sullivan
+13,Ryan Thompson
+16,Cullen Stevens
+17,Dylan Ralph
+18,Jack  Cecelya
+18,Aidan Gorneau
+44,Aidan Hayes
+44,Joe Jacobson
+64,Matisse Moser
+88,Andrew Riley
+99,Clayton Coffman
 b,r,e,a,k
 Tufts (C),16
 teamInfo,Tufts C,"Medford, Massachusetts",www.tuftsmensultimate.org,,
@@ -123,39 +123,6 @@ teamInfo,Chill,"Burlington, Vermont",,https://www.facebook.com/Team.Chill.33/,ht
 72,Jack Rice
 82,Declan Kervick
 b,r,e,a,k
-Harvard,7
-teamInfo,Red Line,"Cambridge, Massachusetts",http://www.instagram.com/harvardredline,https://www.facebook.com/HarvardUltimate,https://twitter.com/HarvardRedLine
-coaches,Matthew Heath,Pablo Reimers
-0,Aaron Berger
-0,Adam Park
-0,Aidan Zhou
-0,Christopher Ma
-0,Christopher Ruaño
-0,Coby Sheehan
-0,Cole Salvador
-0,Collin Lief
-0,Daniel Koenig
-0,David Seo
-0,Jonah Abrams
-0,Julian Li
-0,Luke Lawson
-0,Marc Courtemanche
-0,Matt Pauly
-0,Max Surprenant
-0,Michael Chen
-0,Mikel  Davies
-0,Owen Bernstein
-0,Paz Meyers
-0,Felix Perez Diener
-0,William Anderson
-0,Wonuola Obasa
-5,Zadoc Gee
-8,Thomas Gustafson
-18,Isaac Newman
-22,Elijah Shell
-41,Hayden  Teeter
-42,Francisco Fernandez
-b,r,e,a,k
 Massachusetts (B),10
 teamInfo,Umass Amherst Developmental,"Amherst, Massachusetts",,,https://twitter.com/ZoodiscD
 02,Nathan Shenoy
@@ -189,6 +156,39 @@ teamInfo,Umass Amherst Developmental,"Amherst, Massachusetts",,,https://twitter.
 89,Nathan LaPointe
 96,Xiao Yang
 97,Jacob LaRue
+b,r,e,a,k
+Harvard,7
+teamInfo,Red Line,"Cambridge, Massachusetts",http://www.instagram.com/harvardredline,https://www.facebook.com/HarvardUltimate,https://twitter.com/HarvardRedLine
+coaches,Matthew Heath,Pablo Reimers
+0,Aaron Berger
+0,Adam Park
+0,Aidan Zhou
+0,Christopher Ma
+0,Christopher Ruaño
+0,Coby Sheehan
+0,Cole Salvador
+0,Collin Lief
+0,Daniel Koenig
+0,David Seo
+0,Jonah Abrams
+0,Julian Li
+0,Luke Lawson
+0,Marc Courtemanche
+0,Matt Pauly
+0,Max Surprenant
+0,Michael Chen
+0,Mikel  Davies
+0,Owen Bernstein
+0,Paz Meyers
+0,Felix Perez Diener
+0,William Anderson
+0,Wonuola Obasa
+5,Zadoc Gee
+8,Thomas Gustafson
+18,Isaac Newman
+22,Elijah Shell
+41,Hayden  Teeter
+42,Francisco Fernandez
 b,r,e,a,k
 Tufts (B),15
 teamInfo,Tufts B,"Medford, Massachusetts",www.tuftsmensultimate.org,,
@@ -424,29 +424,29 @@ bracket,15th Place
 b,r,e,a,k
 pools,Pool Play
 pool,Pool A
-Massachusetts,Tufts (C),0,0,"05/06/2023, 09:00",Pool A,Scheduled
-Maine,Dartmouth,0,0,"05/06/2023, 09:00",Pool A,Scheduled
+Massachusetts,Tufts (C),15,0,"05/06/2023, 09:00",Pool A,Final
+Maine,Dartmouth,5,15,"05/06/2023, 09:00",Pool A,Final
 Massachusetts,Dartmouth,0,0,"05/06/2023, 11:00",Pool A,Scheduled
 Maine,Tufts (C),0,0,"05/06/2023, 11:00",Pool A,Scheduled
 Massachusetts,Maine,0,0,"05/06/2023, 11:00",Pool A,Scheduled
 Dartmouth,Tufts (C),0,0,"05/06/2023, 11:00",Pool A,Scheduled
 pool,Pool B
-Vermont,Tufts (B),0,0,"05/06/2023, 09:00",Pool B,Scheduled
-Harvard,Massachusetts (B),0,0,"05/06/2023, 09:00",Pool B,Scheduled
+Vermont,Tufts (B),15,7,"05/06/2023, 09:00",Pool B,Final
+Harvard,Massachusetts (B),11,13,"05/06/2023, 09:00",Pool B,Final
 Vermont,Massachusetts (B),0,0,"05/06/2023, 11:00",Pool B,Scheduled
 Harvard,Tufts (B),0,0,"05/06/2023, 11:00",Pool B,Scheduled
 Vermont,Harvard,0,0,"05/06/2023, 11:00",Pool B,Scheduled
 Massachusetts (B),Tufts (B),0,0,"05/06/2023, 11:00",Pool B,Scheduled
 pool,Pool C
-Brown,Northeastern (B),0,0,"05/06/2023, 09:00",Pool C,Scheduled
-McGill,MIT,0,0,"05/06/2023, 09:00",Pool C,Scheduled
+Brown,Northeastern (B),15,5,"05/06/2023, 09:00",Pool C,Final
+McGill,MIT,13,7,"05/06/2023, 09:00",Pool C,Final
 Brown,MIT,0,0,"05/06/2023, 11:00",Pool C,Scheduled
 McGill,Northeastern (B),0,0,"05/06/2023, 11:00",Pool C,Scheduled
 Brown,McGill,0,0,"05/06/2023, 11:00",Pool C,Scheduled
 MIT,Northeastern (B),0,0,"05/06/2023, 11:00",Pool C,Scheduled
 pool,Pool D
-Tufts,Middlebury (B),0,0,"05/06/2023, 09:00",Pool D,Scheduled
-Northeastern,Massachusetts-Lowell,0,0,"05/06/2023, 09:00",Pool D,Scheduled
+Tufts,Middlebury (B),15,1,"05/06/2023, 09:00",Pool D,Final
+Northeastern,Massachusetts-Lowell,15,3,"05/06/2023, 09:00",Pool D,Final
 Tufts,Massachusetts-Lowell,0,0,"05/06/2023, 11:00",Pool D,Scheduled
 Northeastern,Middlebury (B),0,0,"05/06/2023, 11:00",Pool D,Scheduled
 Tufts,Northeastern,0,0,"05/06/2023, 11:00",Pool D,Scheduled
