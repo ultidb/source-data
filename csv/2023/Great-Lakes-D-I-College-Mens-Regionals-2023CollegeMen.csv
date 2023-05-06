@@ -167,6 +167,33 @@ coaches,Raymond Lu,Joseph Besser
 88,Kion Young
 92,Tobey Chang
 b,r,e,a,k
+DePaul,14
+teamInfo,DUC,"Chicago, Illinois",http://www.instagram.com/depaulultimate,,https://twitter.com/depaultimate
+2,Carter Altruda
+3,Peter Stergios
+3,Tate Newby
+4,Peter Thompson
+5,Elias Smith
+6,Lachlan Bond
+7,Daniel Finney
+9,Carlos Avila
+10,Ian MacKimm
+11,Quinn Williams
+12,Galen Sienicki
+14,Samuel Tagle
+15,Jaden Simpson
+16,Turner Pahl
+17,Alexander  Espinosa 
+22,Chuck Rogers
+25,Benjamin Davis
+28,Eli Hoffmann
+32,Junior Zambrano
+35,Nate Burleyson
+37,Tim Tran
+38,Peter Milburn
+47,Alex Kielbasa
+51,Aiden Rathmann
+b,r,e,a,k
 Illinois State,11
 teamInfo,Gnomes,"Normal, Illinois",,https://www.facebook.com/Illinois-State-Ultimate-223013237713080/timeline/,https://twitter.com/isugnomes?lang=en
 0,Blake McKee
@@ -195,33 +222,6 @@ teamInfo,Gnomes,"Normal, Illinois",,https://www.facebook.com/Illinois-State-Ulti
 24,Truman Arie
 26,Nick Wollney
 32,Jonathan Gancarczyk
-b,r,e,a,k
-DePaul,14
-teamInfo,DUC,"Chicago, Illinois",http://www.instagram.com/depaulultimate,,https://twitter.com/depaultimate
-2,Carter Altruda
-3,Peter Stergios
-3,Tate Newby
-4,Peter Thompson
-5,Elias Smith
-6,Lachlan Bond
-7,Daniel Finney
-9,Carlos Avila
-10,Ian MacKimm
-11,Quinn Williams
-12,Galen Sienicki
-14,Samuel Tagle
-15,Jaden Simpson
-16,Turner Pahl
-17,Alexander  Espinosa 
-22,Chuck Rogers
-25,Benjamin Davis
-28,Eli Hoffmann
-32,Junior Zambrano
-35,Nate Burleyson
-37,Tim Tran
-38,Peter Milburn
-47,Alex Kielbasa
-51,Aiden Rathmann
 b,r,e,a,k
 Michigan State,6
 teamInfo,ARC,"East Lansing, Michigan",,https://www.facebook.com/michiganstateultimate,https://www.twitter.com/MSUARCUltimate
@@ -456,9 +456,9 @@ Chicago,Eastern Michigan,0,0,"05/06/2023, 10:45",Pool A,Scheduled
 Purdue,Chicago,0,0,"05/06/2023, 12:30",Pool A,Scheduled
 Eastern Michigan,Loyola-Chicago,0,0,"05/06/2023, 12:30",Pool A,Scheduled
 pool,Pool B
-Northwestern,Illinois State,0,0,"05/06/2023, 09:00",Pool B,Scheduled
+Northwestern,Illinois State,13,4,"05/06/2023, 09:00",Pool B,Final
 Michigan,DePaul,0,0,"05/06/2023, 09:00",Pool B,Scheduled
-Northwestern,DePaul,0,0,"05/06/2023, 10:45",Pool B,Scheduled
+Northwestern,DePaul,13,5,"05/06/2023, 10:45",Pool B,Final
 Michigan,Illinois State,0,0,"05/06/2023, 10:45",Pool B,Scheduled
 Northwestern,Michigan,0,0,"05/06/2023, 12:30",Pool B,Scheduled
 Illinois State,DePaul,0,0,"05/06/2023, 12:30",Pool B,Scheduled
@@ -467,7 +467,7 @@ Indiana,Western Michigan,13,9,"05/06/2023, 09:00",Pool C,Final
 Michigan State,Michigan (B),13,8,"05/06/2023, 09:00",Pool C,Final
 Indiana,Michigan (B),13,5,"05/06/2023, 10:45",Pool C,Final
 Michigan State,Western Michigan,13,5,"05/06/2023, 10:45",Pool C,Final
-Indiana,Michigan State,0,0,"05/06/2023, 12:30",Pool C,Scheduled
+Indiana,Michigan State,12,8,"05/06/2023, 12:30",Pool C,In Progress
 Western Michigan,Michigan (B),0,0,"05/06/2023, 12:30",Pool C,Scheduled
 pool,Pool D
 Notre Dame,Grand Valley,13,4,"05/06/2023, 09:00",Pool D,Final
