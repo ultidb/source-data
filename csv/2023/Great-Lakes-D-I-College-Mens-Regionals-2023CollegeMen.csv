@@ -106,35 +106,6 @@ teamInfo,Darkwing,"Chicago, Illinois",http://loyolaultimate.wixsite.com/darkwing
 24,Anthony Scibelli
 77,James Goodfriend
 b,r,e,a,k
-Northwestern,2
-teamInfo,NUT,"Evanston, Illinois",https://www.nutultimate.com,https://www.facebook.com/NUTUltimate,https://twitter.com/NUTUltimate
-coaches,Penelope Wu
-0,Charlie Geci
-0,Christopher Lee
-0,Conner Goodwin
-0,Elijah Hansen
-0,Ezra Danzig
-0,Gabriel Bassin
-0,Ian Falck
-0,Isidore Donnelly
-0,Jack Peckham
-0,Jett House
-0,Joshua Divak
-0,Julian Baldwin
-0,Kevin Ji
-0,Nathan Rachwalski
-0,Robin Erdakos
-0,Sam Jonas
-0,Sean Liu
-0,Andrew Laeuger
-8,Peter Walsh
-13,Jack Daenzer
-17,Wilson Sprague
-21,Benjamin  Fried
-42,Ezra Rich
-44,Ethan Less
-88,Jason Paul
-b,r,e,a,k
 Michigan,7
 teamInfo,MagnUM,"Ann Arbor, Michigan",http://www.magnumultimate.com/,https://www.facebook.com/magnUMultimatefrisbee/,https://twitter.com/magnUMultimate
 coaches,Raymond Lu,Joseph Besser
@@ -166,6 +137,35 @@ coaches,Raymond Lu,Joseph Besser
 84,Cian Johnson
 88,Kion Young
 92,Tobey Chang
+b,r,e,a,k
+Northwestern,2
+teamInfo,NUT,"Evanston, Illinois",https://www.nutultimate.com,https://www.facebook.com/NUTUltimate,https://twitter.com/NUTUltimate
+coaches,Penelope Wu
+0,Charlie Geci
+0,Christopher Lee
+0,Conner Goodwin
+0,Elijah Hansen
+0,Ezra Danzig
+0,Gabriel Bassin
+0,Ian Falck
+0,Isidore Donnelly
+0,Jack Peckham
+0,Jett House
+0,Joshua Divak
+0,Julian Baldwin
+0,Kevin Ji
+0,Nathan Rachwalski
+0,Robin Erdakos
+0,Sam Jonas
+0,Sean Liu
+0,Andrew Laeuger
+8,Peter Walsh
+13,Jack Daenzer
+17,Wilson Sprague
+21,Benjamin  Fried
+42,Ezra Rich
+44,Ethan Less
+88,Jason Paul
 b,r,e,a,k
 Illinois State,11
 teamInfo,Gnomes,"Normal, Illinois",,https://www.facebook.com/Illinois-State-Ultimate-223013237713080/timeline/,https://twitter.com/isugnomes?lang=en
@@ -457,10 +457,10 @@ Purdue,Chicago,13,6,"05/06/2023, 12:30",Pool A,Final
 Eastern Michigan,Loyola-Chicago,12,10,"05/06/2023, 12:30",Pool A,Final
 pool,Pool B
 Northwestern,Illinois State,13,4,"05/06/2023, 09:00",Pool B,Final
-Michigan,DePaul,0,0,"05/06/2023, 09:00",Pool B,Scheduled
+Michigan,DePaul,13,3,"05/06/2023, 09:00",Pool B,Final
 Northwestern,DePaul,13,5,"05/06/2023, 10:45",Pool B,Final
 Michigan,Illinois State,13,1,"05/06/2023, 10:45",Pool B,Final
-Northwestern,Michigan,0,0,"05/06/2023, 12:30",Pool B,Scheduled
+Northwestern,Michigan,6,13,"05/06/2023, 12:30",Pool B,Final
 Illinois State,DePaul,13,11,"05/06/2023, 12:30",Pool B,Final
 pool,Pool C
 Indiana,Western Michigan,13,9,"05/06/2023, 09:00",Pool C,Final
@@ -468,7 +468,7 @@ Michigan State,Michigan (B),13,8,"05/06/2023, 09:00",Pool C,Final
 Indiana,Michigan (B),13,5,"05/06/2023, 10:45",Pool C,Final
 Michigan State,Western Michigan,13,5,"05/06/2023, 10:45",Pool C,Final
 Indiana,Michigan State,13,8,"05/06/2023, 12:30",Pool C,Final
-Western Michigan,Michigan (B),0,0,"05/06/2023, 12:30",Pool C,Scheduled
+Western Michigan,Michigan (B),10,6,"05/06/2023, 12:30",Pool C,Final
 pool,Pool D
 Notre Dame,Grand Valley,13,4,"05/06/2023, 09:00",Pool D,Final
 Illinois,Purdue (B),13,2,"05/06/2023, 09:00",Pool D,Final
@@ -479,6 +479,8 @@ Grand Valley,Purdue (B),11,8,"05/06/2023, 12:30",Pool D,Final
 b,r,e,a,k
 brackets,Championship
 bracket,Championship Bracket
+Northwestern,Western Michigan,0,0,"05/06/2023, 14:30",Pre-QuarterFinals,In Progress
+Michigan State,Illinois State,0,0,"05/06/2023, 14:30",Pre-QuarterFinals,In Progress
 Eastern Michigan,Notre Dame,0,0,"05/06/2023, 14:30",Pre-QuarterFinals,In Progress
 Grand Valley,Chicago,0,0,"05/06/2023, 14:30",Pre-QuarterFinals,In Progress
 bracket,3rd Place
