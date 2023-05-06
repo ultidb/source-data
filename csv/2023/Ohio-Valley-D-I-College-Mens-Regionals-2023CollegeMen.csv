@@ -113,46 +113,6 @@ teamInfo,Trout,"Athens, Ohio",,https://www.facebook.com/ohioultimate/,https://tw
 53,Danny Murnin
 55,Peter Haverland
 b,r,e,a,k
-Lehigh,7
-teamInfo,Lehigh,"Bethlehem, Pennsylvania",,,https://twitter.com/lehighultimate
-0,Brandon Reith
-0,Dominic Policarpo
-0,Gianni  Rienecker
-0,Max Peinkofer
-0,Michael Hazaz
-0,Thomas Dyett
-0,William Maghak
-0,Zachary Weiser
-1,Ben Dickson
-7,Jonathan Trzaska
-10,Robin Maillard
-23,Zachary Michael
-44,David Hinkle
-50,Carl Saba
-55,Andrew Schachter
-58,Gregory Dardaris
-93,Ari Carp
-95,Jakob Fett
-b,r,e,a,k
-Toledo,11
-teamInfo,Savage,"Toledo, Ohio",,,
-0,Benjamin Brunswick
-0,Jakob Nutter
-0,McKenna Mee
-2,Isaac Plamondon
-3,Thomas Piaskowski
-4,Paul Meyers
-8,Wyatt Early
-12,Steven Willer
-12,Gabriel Doringo
-13,Erik Schaefer
-15,Elliott Cook
-19,Dawson Kirkland
-22,Nick Beckham
-58,Austin Hancock
-69,Noah Blanton
-92,Samuel DeVine
-b,r,e,a,k
 Penn State,2
 teamInfo,Spank,"University Park, Pennsylvania",http://clubs.psu.edu/up/ultimate/,,https://twitter.com/spank_ultimate
 coaches,Morrison Smith
@@ -189,6 +149,27 @@ coaches,Morrison Smith
 88,Sean  Duffy
 91,Shane Donaher
 b,r,e,a,k
+Lehigh,7
+teamInfo,Lehigh,"Bethlehem, Pennsylvania",,,https://twitter.com/lehighultimate
+0,Brandon Reith
+0,Dominic Policarpo
+0,Gianni  Rienecker
+0,Max Peinkofer
+0,Michael Hazaz
+0,Thomas Dyett
+0,William Maghak
+0,Zachary Weiser
+1,Ben Dickson
+7,Jonathan Trzaska
+10,Robin Maillard
+23,Zachary Michael
+44,David Hinkle
+50,Carl Saba
+55,Andrew Schachter
+58,Gregory Dardaris
+93,Ari Carp
+95,Jakob Fett
+b,r,e,a,k
 West Chester,14
 teamInfo,A,"West Chester , Pennsylvania",,,
 coaches,Giovanni Ruggirello
@@ -220,6 +201,25 @@ coaches,Giovanni Ruggirello
 82,Jimmy Dougherty
 88,Sean Whoriskey
 95,Ricky Lyons
+b,r,e,a,k
+Toledo,11
+teamInfo,Savage,"Toledo, Ohio",,,
+0,Benjamin Brunswick
+0,Jakob Nutter
+0,McKenna Mee
+2,Isaac Plamondon
+3,Thomas Piaskowski
+4,Paul Meyers
+8,Wyatt Early
+12,Steven Willer
+12,Gabriel Doringo
+13,Erik Schaefer
+15,Elliott Cook
+19,Dawson Kirkland
+22,Nick Beckham
+58,Austin Hancock
+69,Noah Blanton
+92,Samuel DeVine
 b,r,e,a,k
 Temple,6
 teamInfo,Alert,"Philadelphia, Pennsylvania",,,https://twitter.com/templeultimatem
@@ -429,22 +429,22 @@ s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
 Pittsburgh,Ohio,13,4,"05/06/2023, 09:00",Pool A,Final
-Carnegie Mellon,Case Western Reserve (B),0,0,"05/06/2023, 09:00",Pool A,Scheduled
-Pittsburgh,Case Western Reserve (B),0,0,"05/06/2023, 11:00",Pool A,Scheduled
+Carnegie Mellon,Case Western Reserve (B),13,5,"05/06/2023, 09:00",Pool A,Final
+Pittsburgh,Case Western Reserve (B),6,0,"05/06/2023, 11:00",Pool A,In Progress
 Carnegie Mellon,Ohio,4,1,"05/06/2023, 11:00",Pool A,In Progress
 Pittsburgh,Carnegie Mellon,0,0,"05/06/2023, 13:00",Pool A,Scheduled
 Ohio,Case Western Reserve (B),0,0,"05/06/2023, 13:00",Pool A,Scheduled
 pool,Pool B
-Penn State,Toledo,0,0,"05/06/2023, 09:00",Pool B,Scheduled
+Penn State,Toledo,13,4,"05/06/2023, 09:00",Pool B,Final
 Lehigh,West Chester,13,8,"05/06/2023, 09:00",Pool B,Final
-Penn State,West Chester,0,0,"05/06/2023, 11:00",Pool B,Scheduled
-Lehigh,Toledo,0,0,"05/06/2023, 11:00",Pool B,Scheduled
+Penn State,West Chester,3,1,"05/06/2023, 11:00",Pool B,In Progress
+Lehigh,Toledo,5,3,"05/06/2023, 11:00",Pool B,In Progress
 Penn State,Lehigh,0,0,"05/06/2023, 13:00",Pool B,Scheduled
 Toledo,West Chester,0,0,"05/06/2023, 13:00",Pool B,Scheduled
 pool,Pool C
 Case Western Reserve,Pennsylvania,12,7,"05/06/2023, 09:00",Pool C,Final
 Temple,Miami (Ohio),13,8,"05/06/2023, 09:00",Pool C,Final
-Case Western Reserve,Miami (Ohio),0,0,"05/06/2023, 11:00",Pool C,Scheduled
+Case Western Reserve,Miami (Ohio),3,3,"05/06/2023, 11:00",Pool C,In Progress
 Temple,Pennsylvania,3,1,"05/06/2023, 11:00",Pool C,In Progress
 Case Western Reserve,Temple,0,0,"05/06/2023, 13:00",Pool C,Scheduled
 Pennsylvania,Miami (Ohio),0,0,"05/06/2023, 13:00",Pool C,Scheduled
