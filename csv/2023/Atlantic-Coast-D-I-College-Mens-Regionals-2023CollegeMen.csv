@@ -36,6 +36,42 @@ coaches,David Allison,Matt Gouchoe-Hanas
 88,Henry Chen
 95,Noah Bush
 b,r,e,a,k
+North Carolina State,2
+teamInfo,NC State Alpha,"Raleigh, North Carolina",,https://www.facebook.com/NCSUalpha/,https://twitter.com/ncsualpha
+0,Henry Kennedy
+1,Nicholas  Khot
+2,Suhas Madiraju
+3,Tommaso Piccorossi
+5,Nico Field
+6,Henri Lessard
+8,Jacob Green 
+9,Alexander Tayyeb
+10,Rishi Rajesh  Jeswani
+11,Townsend Dierauf
+12,Hiatt von Alten
+14,Srikara Prithvi
+15,Matti Lee
+16,Seiji Kakefuda
+17,John Laney
+18,Sebastian Boccieri
+19,Justin-Cooper Williams
+20,Brennan Kramling
+22,John Bradley
+24,Christopher Nelson
+25,Allen MacMillan
+27,Leonardo Tapia
+31,Sean Wiles
+35,Blake Stratton
+37,Vincent Zhang
+39,Feliks Ciesielski
+42,Zac Kuelz
+49,Daniel Ferriter
+59,Sathvik Avulapati
+80,Will Scudder
+87,Ari Izzo
+95,Jack Hartingh
+99,Nathan Khot
+b,r,e,a,k
 Duke,4
 teamInfo,Brimstone,"Durham, North Carolina",,https://www.facebook.com/dukeBrimstoneUltimate/,https://twitter.com/Duke_Brimstone
 coaches,Clint McSherry
@@ -91,42 +127,6 @@ teamInfo,Seamen,"Wilmington, North Carolina",http://seamenultimate.com/,https://
 88,Lukas Becker
 97,Pablo Velosa
 99,Chase Korabik
-b,r,e,a,k
-North Carolina State,2
-teamInfo,NC State Alpha,"Raleigh, North Carolina",,https://www.facebook.com/NCSUalpha/,https://twitter.com/ncsualpha
-0,Henry Kennedy
-1,Nicholas  Khot
-2,Suhas Madiraju
-3,Tommaso Piccorossi
-5,Nico Field
-6,Henri Lessard
-8,Jacob Green 
-9,Alexander Tayyeb
-10,Rishi Rajesh  Jeswani
-11,Townsend Dierauf
-12,Hiatt von Alten
-14,Srikara Prithvi
-15,Matti Lee
-16,Seiji Kakefuda
-17,John Laney
-18,Sebastian Boccieri
-19,Justin-Cooper Williams
-20,Brennan Kramling
-22,John Bradley
-24,Christopher Nelson
-25,Allen MacMillan
-27,Leonardo Tapia
-31,Sean Wiles
-35,Blake Stratton
-37,Vincent Zhang
-39,Feliks Ciesielski
-42,Zac Kuelz
-49,Daniel Ferriter
-59,Sathvik Avulapati
-80,Will Scudder
-87,Ari Izzo
-95,Jack Hartingh
-99,Nathan Khot
 b,r,e,a,k
 North Carolina-Charlotte,9
 teamInfo,Charlotte Skyrise,"Charlotte, North Carolina",,https://www.facebook.com/groups/UNCCfrisbee/,
@@ -482,8 +482,9 @@ b,r,e,a,k
 s,t,a,g,e,s
 brackets,Nationals Qualifying Brackets
 bracket,1st Place 
+North Carolina,North Carolina State,0,0,"05/07/2023, 10:30",1st Place Finals,Scheduled
 North Carolina,Duke,15,2,"05/06/2023, 14:30",1st Place Semis,Final
-North Carolina-Wilmington,North Carolina State,0,0,"05/06/2023, 14:30",1st Place Semis,In Progress
+North Carolina-Wilmington,North Carolina State,13,15,"05/06/2023, 14:30",1st Place Semis,Final
 North Carolina,North Carolina-Charlotte,15,5,"05/06/2023, 10:30",1st Place Quarters,Final
 South Carolina,Duke,12,15,"05/06/2023, 10:30",1st Place Quarters,Final
 North Carolina-Wilmington,James Madison,15,11,"05/06/2023, 10:30",1st Place Quarters,Final
@@ -497,6 +498,7 @@ William & Mary,James Madison,13,14,"05/06/2023, 08:30",Round One,Final
 Georgetown,Virginia,14,15,"05/06/2023, 08:30",Round One,Final
 North Carolina State,Liberty,15,11,"05/06/2023, 08:30",Round One,Final
 bracket,2nd Place
+South Carolina,North Carolina-Wilmington,0,0,"05/07/2023, 08:30",2nd Place Quarters,In Progress
 Appalachian State,Virginia Tech,0,0,"05/06/2023, 14:30",2P - 3rd Round,In Progress
 South Carolina,North Carolina-Charlotte,14,13,"05/06/2023, 14:30",2P - 3rd Round,Final
 Virginia,Appalachian State,11,15,"05/06/2023, 12:30",2P - 2nd Round,Final
@@ -520,8 +522,8 @@ clusters,Consolation 13th-16th
 cluster,13th-16th
 Towson,Delaware,6,15,"05/06/2023, 12:30",,Final
 Maryland,Liberty,15,10,"05/06/2023, 12:30",,Final
-Towson,Liberty,7,15,"05/06/2023, 14:30",,Scheduled
-Maryland,Delaware,0,0,"05/06/2023, 14:30",,Scheduled
+Towson,Liberty,7,15,"05/06/2023, 14:30",,Final
+Maryland,Delaware,10,15,"05/06/2023, 14:30",,Final
 Towson,Maryland,0,0,"05/07/2023, 08:30",,Scheduled
 Delaware,Liberty,0,0,"05/07/2023, 08:30",,Scheduled
 b,r,e,a,k
