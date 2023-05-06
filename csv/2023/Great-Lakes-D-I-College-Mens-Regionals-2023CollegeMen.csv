@@ -167,33 +167,6 @@ coaches,Raymond Lu,Joseph Besser
 88,Kion Young
 92,Tobey Chang
 b,r,e,a,k
-DePaul,14
-teamInfo,DUC,"Chicago, Illinois",http://www.instagram.com/depaulultimate,,https://twitter.com/depaultimate
-2,Carter Altruda
-3,Peter Stergios
-3,Tate Newby
-4,Peter Thompson
-5,Elias Smith
-6,Lachlan Bond
-7,Daniel Finney
-9,Carlos Avila
-10,Ian MacKimm
-11,Quinn Williams
-12,Galen Sienicki
-14,Samuel Tagle
-15,Jaden Simpson
-16,Turner Pahl
-17,Alexander  Espinosa 
-22,Chuck Rogers
-25,Benjamin Davis
-28,Eli Hoffmann
-32,Junior Zambrano
-35,Nate Burleyson
-37,Tim Tran
-38,Peter Milburn
-47,Alex Kielbasa
-51,Aiden Rathmann
-b,r,e,a,k
 Illinois State,11
 teamInfo,Gnomes,"Normal, Illinois",,https://www.facebook.com/Illinois-State-Ultimate-223013237713080/timeline/,https://twitter.com/isugnomes?lang=en
 0,Blake McKee
@@ -222,6 +195,33 @@ teamInfo,Gnomes,"Normal, Illinois",,https://www.facebook.com/Illinois-State-Ulti
 24,Truman Arie
 26,Nick Wollney
 32,Jonathan Gancarczyk
+b,r,e,a,k
+DePaul,14
+teamInfo,DUC,"Chicago, Illinois",http://www.instagram.com/depaulultimate,,https://twitter.com/depaultimate
+2,Carter Altruda
+3,Peter Stergios
+3,Tate Newby
+4,Peter Thompson
+5,Elias Smith
+6,Lachlan Bond
+7,Daniel Finney
+9,Carlos Avila
+10,Ian MacKimm
+11,Quinn Williams
+12,Galen Sienicki
+14,Samuel Tagle
+15,Jaden Simpson
+16,Turner Pahl
+17,Alexander  Espinosa 
+22,Chuck Rogers
+25,Benjamin Davis
+28,Eli Hoffmann
+32,Junior Zambrano
+35,Nate Burleyson
+37,Tim Tran
+38,Peter Milburn
+47,Alex Kielbasa
+51,Aiden Rathmann
 b,r,e,a,k
 Indiana,3
 teamInfo,HoosierMama?s,"Bloomington, Indiana",hoosiermamas.org,https://www.facebook.com/HoosierMamas/,https://twitter.com/Hoosier_Mamas?lang=en
@@ -370,29 +370,6 @@ teamInfo,Papal Rage,"Notre Dame, Indiana",https://ndultimate.wordpress.com/,,@nd
 69,William Theisen
 78,Kevin Wakakuwa
 b,r,e,a,k
-Grand Valley,9
-teamInfo,Lakers,"Allendale, Michigan",,,
-coaches,Alex Bertoia
-0,jack Vitick
-2,Sydney Zimmerman
-3,Kyle Walt
-4,Gabe Ecenbarger
-6,Jordan Gabrielse
-7,Blake Baumann
-9,Evan Smith
-10,Jaysen Holly
-13,Andreas Hardgrave
-15,Zachary Veenstra
-16,George Sipiora
-17,Grant Bush
-18,Malachi Neil
-21,Justin Von Kulajta Winn
-22,Harrison Smith
-26,Dennis Rennells
-39,Max Mensik
-42,Caleb Faulkner
-69,Isaac Hagedorn
-b,r,e,a,k
 Illinois,5
 teamInfo,Rise,"Champaign, Illinois",http://www.illiniultimate.com/#/home,https://www.facebook.com/pages/Illinois-Ultimate/139887979390815,https://twitter.com/Illinois_Rise
 0,Eli Artemakis
@@ -423,6 +400,29 @@ teamInfo,Rise,"Champaign, Illinois",http://www.illiniultimate.com/#/home,https:/
 70,Kevin Zhou
 86,Kevin Tan
 b,r,e,a,k
+Grand Valley,9
+teamInfo,Lakers,"Allendale, Michigan",,,
+coaches,Alex Bertoia
+0,jack Vitick
+2,Sydney Zimmerman
+3,Kyle Walt
+4,Gabe Ecenbarger
+6,Jordan Gabrielse
+7,Blake Baumann
+9,Evan Smith
+10,Jaysen Holly
+13,Andreas Hardgrave
+15,Zachary Veenstra
+16,George Sipiora
+17,Grant Bush
+18,Malachi Neil
+21,Justin Von Kulajta Winn
+22,Harrison Smith
+26,Dennis Rennells
+39,Max Mensik
+42,Caleb Faulkner
+69,Isaac Hagedorn
+b,r,e,a,k
 Purdue (B),16
 teamInfo,CTRL-Z,"West Lafayette, Indiana",,,
 0,Adam Baarman
@@ -452,16 +452,16 @@ pool,Pool A
 Purdue,Eastern Michigan,13,5,"05/06/2023, 09:00",Pool A,Final
 Chicago,Loyola-Chicago,13,4,"05/06/2023, 09:00",Pool A,Final
 Purdue,Loyola-Chicago,13,2,"05/06/2023, 10:45",Pool A,Final
-Chicago,Eastern Michigan,0,0,"05/06/2023, 10:45",Pool A,Scheduled
+Chicago,Eastern Michigan,12,6,"05/06/2023, 10:45",Pool A,Scheduled
 Purdue,Chicago,0,0,"05/06/2023, 12:30",Pool A,Scheduled
-Eastern Michigan,Loyola-Chicago,0,0,"05/06/2023, 12:30",Pool A,Scheduled
+Eastern Michigan,Loyola-Chicago,12,10,"05/06/2023, 12:30",Pool A,Final
 pool,Pool B
 Northwestern,Illinois State,13,4,"05/06/2023, 09:00",Pool B,Final
 Michigan,DePaul,0,0,"05/06/2023, 09:00",Pool B,Scheduled
 Northwestern,DePaul,13,5,"05/06/2023, 10:45",Pool B,Final
-Michigan,Illinois State,0,0,"05/06/2023, 10:45",Pool B,Scheduled
+Michigan,Illinois State,13,1,"05/06/2023, 10:45",Pool B,Final
 Northwestern,Michigan,0,0,"05/06/2023, 12:30",Pool B,Scheduled
-Illinois State,DePaul,0,0,"05/06/2023, 12:30",Pool B,Scheduled
+Illinois State,DePaul,13,11,"05/06/2023, 12:30",Pool B,Final
 pool,Pool C
 Indiana,Western Michigan,13,9,"05/06/2023, 09:00",Pool C,Final
 Michigan State,Michigan (B),13,8,"05/06/2023, 09:00",Pool C,Final
@@ -474,7 +474,7 @@ Notre Dame,Grand Valley,13,4,"05/06/2023, 09:00",Pool D,Final
 Illinois,Purdue (B),0,0,"05/06/2023, 09:00",Pool D,Scheduled
 Notre Dame,Purdue (B),13,1,"05/06/2023, 10:45",Pool D,Final
 Illinois,Grand Valley,0,0,"05/06/2023, 10:45",Pool D,Scheduled
-Notre Dame,Illinois,0,0,"05/06/2023, 12:30",Pool D,Scheduled
+Notre Dame,Illinois,10,12,"05/06/2023, 12:30",Pool D,Final
 Grand Valley,Purdue (B),11,8,"05/06/2023, 12:30",Pool D,Final
 b,r,e,a,k
 brackets,Championship
