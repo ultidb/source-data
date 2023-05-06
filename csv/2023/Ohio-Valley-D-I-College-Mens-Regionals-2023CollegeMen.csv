@@ -431,7 +431,7 @@ pool,Pool A
 Pittsburgh,Ohio,13,4,"05/06/2023, 09:00",Pool A,Final
 Carnegie Mellon,Case Western Reserve (B),0,0,"05/06/2023, 09:00",Pool A,Scheduled
 Pittsburgh,Case Western Reserve (B),0,0,"05/06/2023, 11:00",Pool A,Scheduled
-Carnegie Mellon,Ohio,0,0,"05/06/2023, 11:00",Pool A,Scheduled
+Carnegie Mellon,Ohio,4,1,"05/06/2023, 11:00",Pool A,In Progress
 Pittsburgh,Carnegie Mellon,0,0,"05/06/2023, 13:00",Pool A,Scheduled
 Ohio,Case Western Reserve (B),0,0,"05/06/2023, 13:00",Pool A,Scheduled
 pool,Pool B
@@ -445,12 +445,12 @@ pool,Pool C
 Case Western Reserve,Pennsylvania,12,7,"05/06/2023, 09:00",Pool C,Final
 Temple,Miami (Ohio),13,8,"05/06/2023, 09:00",Pool C,Final
 Case Western Reserve,Miami (Ohio),0,0,"05/06/2023, 11:00",Pool C,Scheduled
-Temple,Pennsylvania,0,0,"05/06/2023, 11:00",Pool C,Scheduled
+Temple,Pennsylvania,3,1,"05/06/2023, 11:00",Pool C,In Progress
 Case Western Reserve,Temple,0,0,"05/06/2023, 13:00",Pool C,Scheduled
 Pennsylvania,Miami (Ohio),0,0,"05/06/2023, 13:00",Pool C,Scheduled
 pool,Pool D
 Ohio State,West Virginia,17,0,"05/06/2023, 09:00",Pool D,Final
-Cincinnati,West Virginia,0,0,"05/06/2023, 11:00",Pool D,Scheduled
+Cincinnati,West Virginia,3,0,"05/06/2023, 11:00",Pool D,In Progress
 Ohio State,Cincinnati,0,0,"05/06/2023, 13:00",Pool D,Scheduled
 b,r,e,a,k
 clusters,Saturday Crossovers
