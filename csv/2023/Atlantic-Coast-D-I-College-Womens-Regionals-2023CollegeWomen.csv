@@ -32,6 +32,27 @@ coaches,Jessica Jones,Anne Worth,Mary Rippe,Elisabeth Parker
 38,Jessica Wu
 54,Alex Hecht
 b,r,e,a,k
+Duke,4
+teamInfo,Swerve,"Durham, North Carolina",https://sites.duke.edu/wultimate/,https://www.facebook.com/DukeSwerve/,https://twitter.com/dukeswerve
+coaches,Alan Hoyle
+0,Carla Pollen
+0,Hannah Scanlon
+0,Kate Burns
+0,Katie Spencer
+0,Lily Talerman
+0,Megan Chien
+0,Morgan Baxter
+0,Piper Epstein
+0,Rathi Kashi
+0,Suzanne Angermeier
+0,Sydney Neal
+0,Veronika Kostina
+1,Anne Crowley
+6,Ashley Talwar
+10,Nicole Patterson
+99,Lauren Cao
+99,Riley Fisher
+b,r,e,a,k
 American,9
 teamInfo,Dirty Ladies,"Washington, District of Columbia",http://audirtyladies.weebly.com/,https://www.facebook.com/AUDirtyLadies,https://twitter.com/AUDirtyLadies
 0,Fiona Harris
@@ -80,27 +101,6 @@ coaches,Christopher Monahan,Isabella Burns
 81,Abby Minecci
 85,Isabella DiFulvio
 93,Julia Wine
-b,r,e,a,k
-Duke,4
-teamInfo,Swerve,"Durham, North Carolina",https://sites.duke.edu/wultimate/,https://www.facebook.com/DukeSwerve/,https://twitter.com/dukeswerve
-coaches,Alan Hoyle
-0,Carla Pollen
-0,Hannah Scanlon
-0,Kate Burns
-0,Katie Spencer
-0,Lily Talerman
-0,Megan Chien
-0,Morgan Baxter
-0,Piper Epstein
-0,Rathi Kashi
-0,Suzanne Angermeier
-0,Sydney Neal
-0,Veronika Kostina
-1,Anne Crowley
-6,Ashley Talwar
-10,Nicole Patterson
-99,Lauren Cao
-99,Riley Fisher
 b,r,e,a,k
 North Carolina State,3
 teamInfo,Jaga Monsta,"Raleigh, North Carolina",,https://www.facebook.com/pages/J%C3%A4ga-NCSU-Womens-Ultimate/153552627991990,https://twitter.com/NCSUJagaMonsta
@@ -395,10 +395,11 @@ b,r,e,a,k
 s,t,a,g,e,s
 brackets,Nationals Qualifying Brackets
 bracket,First Place
+North Carolina,Duke,0,0,"05/06/2023, 14:30",1st Place Semis,Scheduled
 North Carolina,American,15,4,"05/06/2023, 10:30",1st Place Quarters,Final
-William & Mary,Duke,0,0,"05/06/2023, 10:30",1st Place Quarters,Scheduled
-North Carolina State,Clemson,0,0,"05/06/2023, 10:30",1st Place Quarters,Scheduled
-South Carolina,Virginia,0,0,"05/06/2023, 10:30",1st Place Quarters,Scheduled
+William & Mary,Duke,8,15,"05/06/2023, 10:30",1st Place Quarters,Final
+North Carolina State,Clemson,9,13,"05/06/2023, 10:30",1st Place Quarters,Scheduled
+South Carolina,Virginia,7,13,"05/06/2023, 10:30",1st Place Quarters,Final
 North Carolina,Maryland,15,1,"05/06/2023, 08:30",Round One,Final
 American,James Madison,14,13,"05/06/2023, 08:30",Round One,Final
 East Carolina,William & Mary,12,13,"05/06/2023, 08:30",Round One,Final
@@ -408,10 +409,12 @@ Georgetown,Clemson,3,15,"05/06/2023, 08:30",Round One,Final
 South Carolina,Delaware,15,6,"05/06/2023, 08:30",Round One,Final
 Virginia Commonwealth,Virginia,1,15,"05/06/2023, 08:30",Round One,Final
 bracket,2nd Place
+South Carolina,James Madison,0,0,"05/06/2023, 12:30",2P - 2nd Round,Scheduled
+William & Mary,Georgetown,0,0,"05/06/2023, 12:30",2P - 2nd Round,Scheduled
 American,Delaware,0,0,"05/06/2023, 12:30",2P - 2nd Round,Scheduled
-Maryland,James Madison,0,0,"05/06/2023, 10:30",2P - 1st Round,Scheduled
-East Carolina,Virginia Tech,0,0,"05/06/2023, 10:30",2P - 1st Round,Scheduled
-Liberty,Georgetown,0,0,"05/06/2023, 10:30",2P - 1st Round,Scheduled
+Maryland,James Madison,6,14,"05/06/2023, 10:30",2P - 1st Round,Final
+East Carolina,Virginia Tech,10,8,"05/06/2023, 10:30",2P - 1st Round,Final
+Liberty,Georgetown,4,15,"05/06/2023, 10:30",2P - 1st Round,Final
 Delaware,Virginia Commonwealth,15,3,"05/06/2023, 10:30",2P - 1st Round,Final
 b,r,e,a,k
 brackets,Consolation 5th-12th
@@ -421,4 +424,11 @@ bracket,11th Place
 bracket,5th Place
 b,r,e,a,k
 clusters,Consolation 13th-16th
+cluster,13th-16th
+Maryland,Liberty,0,0,"05/06/2023, 12:30",,Scheduled
+Virginia Tech,Virginia Commonwealth,0,0,"05/06/2023, 12:30",,Scheduled
+Maryland,Virginia Commonwealth,0,0,"05/06/2023, 14:30",,Scheduled
+Virginia Tech,Liberty,0,0,"05/06/2023, 14:30",,Scheduled
+Maryland,Virginia Tech,0,0,"05/07/2023, 08:30",,Scheduled
+Liberty,Virginia Commonwealth,0,0,"05/07/2023, 08:30",,Scheduled
 b,r,e,a,k
