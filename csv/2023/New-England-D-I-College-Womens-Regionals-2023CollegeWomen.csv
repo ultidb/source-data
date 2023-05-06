@@ -411,7 +411,7 @@ pool,Pool C
 Northeastern,Boston University (B),15,0,"05/06/2023, 10:00",Pool C,Final
 Massachusetts,Harvard,9,7,"05/06/2023, 10:00",Pool C,Final
 Northeastern,Massachusetts,12,7,"05/06/2023, 11:45",Pool C,Final
-Harvard,Boston University (B),0,0,"05/06/2023, 11:45",Pool C,In Progress
+Harvard,Boston University (B),15,1,"05/06/2023, 11:45",Pool C,Final
 pool,Pool D
 Brown,Northeastern (B),10,2,"05/06/2023, 10:00",Pool D,Final
 Vermont (B),Boston University,3,15,"05/06/2023, 10:00",Pool D,Final
@@ -420,9 +420,12 @@ Vermont (B),Northeastern (B),13,2,"05/06/2023, 11:45",Pool D,Final
 b,r,e,a,k
 clusters,Crossover
 cluster,Crossover Play
-Vermont,Brown,0,0,"05/06/2023, 13:30",,Scheduled
-Boston University,New Hampshire,0,0,"05/06/2023, 13:30",,Scheduled
-Boston College,Vermont (B),0,0,"05/06/2023, 13:30",,Scheduled
+Tufts,Northeastern,0,0,"05/06/2023, 13:30",,In Progress
+Vermont,Brown,0,0,"05/06/2023, 13:30",,In Progress
+Boston University,New Hampshire,0,0,"05/06/2023, 13:30",,In Progress
+Massachusetts,Rhode Island,0,0,"05/06/2023, 13:30",,In Progress
+Boston College,Vermont (B),0,0,"05/06/2023, 13:30",,In Progress
+MIT,Harvard,0,0,"05/06/2023, 13:30",,In Progress
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,Championship Bracket
@@ -436,7 +439,10 @@ bracket,11th Place
 b,r,e,a,k
 pools,Consolation Round Robin
 pool,Round Robin
-Tufts (B),Northeastern (B),0,0,"05/06/2023, 13:30",Round Robin,Scheduled
+Brown (B),Boston University (B),0,0,"05/06/2023, 13:30",Round Robin,In Progress
+Tufts (B),Northeastern (B),0,0,"05/06/2023, 13:30",Round Robin,In Progress
 Brown (B),Northeastern (B),0,0,"05/07/2023, 10:00",Round Robin,Scheduled
+Tufts (B),Boston University (B),0,0,"05/07/2023, 10:00",Round Robin,Scheduled
 Brown (B),Tufts (B),0,0,"05/07/2023, 12:00",Round Robin,Scheduled
+Boston University (B),Northeastern (B),0,0,"05/07/2023, 12:00",Round Robin,Scheduled
 b,r,e,a,k

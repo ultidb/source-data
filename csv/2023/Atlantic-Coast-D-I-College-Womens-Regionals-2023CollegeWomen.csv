@@ -53,6 +53,60 @@ coaches,Alan Hoyle
 99,Lauren Cao
 99,Riley Fisher
 b,r,e,a,k
+Clemson,6
+teamInfo,Tiger Lilies,"Clemson, South Carolina",,,
+0,Abigail Barrett
+0,Annie Woofter
+0,Catalina Infante
+0,Disney Medeiros
+0,Eliza Haines
+0,Erin Jones
+0,Isabela Galeano
+0,Isabella Solov
+0,Jada Garrick
+0,Jessie Inguagiato
+0,Katie Burzin
+0,Kelsey Mosshart
+0,Lucy Endean
+0,McCauley Medlin
+0,Mia Kramer
+0,Naomi Higgins
+0,Olivia Russo
+0,Ragan Broussard
+0,Saduni Arachchi
+0,Taylor Simoes
+0,Valerie Phillips 
+17,Zoe Stapel
+58,Lanie O'Neill
+b,r,e,a,k
+Virginia,2
+teamInfo,Hydra,"Charlottesville, Virginia",https://sites.google.com/a/virginia.edu/womens-ultimate-frisbee-club-at-the-university-of-virginia/,https://www.facebook.com/HydraNFriends/,https://twitter.com/HydraNFriends
+0,Birgitta Taylor-Lillquist
+0,Breanna  Donahue
+0,Bridget Williams
+0,Carolina Otal
+0,Dorian Gaines
+0,Emily Huber
+0,Emily Schroeder
+0,Emma  Vorathiankul
+0,Keisha Enriquez
+0,Ava Amato
+0,Aviva Kosto
+0,Aydan Moskowitz
+0,Paulina (Syd) Kirk
+0,Rachel Lisner
+0,Shea Ruzich
+0,Stephanie Skahen
+0,Leila Troxell
+0,Megan Kennedy
+0,Sydney Rohrbach
+0,Victoria  Stoner 
+7,Kira Flores
+8,Sydney Mannion
+11,Paulina Pelaez
+24,Annabel Tripodi
+78,Bess Renjilian
+b,r,e,a,k
 American,9
 teamInfo,Dirty Ladies,"Washington, District of Columbia",http://audirtyladies.weebly.com/,https://www.facebook.com/AUDirtyLadies,https://twitter.com/AUDirtyLadies
 0,Fiona Harris
@@ -124,32 +178,6 @@ teamInfo,Jaga Monsta,"Raleigh, North Carolina",,https://www.facebook.com/pages/J
 54,Caroline Vande Berg
 63,Rithika Vatchavai
 b,r,e,a,k
-Clemson,6
-teamInfo,Tiger Lilies,"Clemson, South Carolina",,,
-0,Abigail Barrett
-0,Annie Woofter
-0,Catalina Infante
-0,Disney Medeiros
-0,Eliza Haines
-0,Erin Jones
-0,Isabela Galeano
-0,Isabella Solov
-0,Jada Garrick
-0,Jessie Inguagiato
-0,Katie Burzin
-0,Kelsey Mosshart
-0,Lucy Endean
-0,McCauley Medlin
-0,Mia Kramer
-0,Naomi Higgins
-0,Olivia Russo
-0,Ragan Broussard
-0,Saduni Arachchi
-0,Taylor Simoes
-0,Valerie Phillips 
-17,Zoe Stapel
-58,Lanie O'Neill
-b,r,e,a,k
 South Carolina,7
 teamInfo,Scorch Ultimate,"Columbia, South Carolina",https://www.instagram.com/scorchultimate/,https://www.facebook.com/scorchultimate/,https://twitter.com/ScorchUltimate
 0,Ashley King
@@ -185,34 +213,6 @@ teamInfo,Scorch Ultimate,"Columbia, South Carolina",https://www.instagram.com/sc
 35,Tess Wheeler
 39,Emma Owens
 48,Erin  McDonough
-b,r,e,a,k
-Virginia,2
-teamInfo,Hydra,"Charlottesville, Virginia",https://sites.google.com/a/virginia.edu/womens-ultimate-frisbee-club-at-the-university-of-virginia/,https://www.facebook.com/HydraNFriends/,https://twitter.com/HydraNFriends
-0,Birgitta Taylor-Lillquist
-0,Breanna  Donahue
-0,Bridget Williams
-0,Carolina Otal
-0,Dorian Gaines
-0,Emily Huber
-0,Emily Schroeder
-0,Emma  Vorathiankul
-0,Keisha Enriquez
-0,Ava Amato
-0,Aviva Kosto
-0,Aydan Moskowitz
-0,Paulina (Syd) Kirk
-0,Rachel Lisner
-0,Shea Ruzich
-0,Stephanie Skahen
-0,Leila Troxell
-0,Megan Kennedy
-0,Sydney Rohrbach
-0,Victoria  Stoner 
-7,Kira Flores
-8,Sydney Mannion
-11,Paulina Pelaez
-24,Annabel Tripodi
-78,Bess Renjilian
 b,r,e,a,k
 Maryland,16
 teamInfo,Helpful Corn,"College Park, Maryland",https://sites.google.com/site/umdwomensultimate/,https://www.facebook.com/UMD-Womens-Ultimate,https://twitter.com/UMD_HelpfulCorn
@@ -396,9 +396,10 @@ s,t,a,g,e,s
 brackets,Nationals Qualifying Brackets
 bracket,First Place
 North Carolina,Duke,0,0,"05/06/2023, 14:30",1st Place Semis,Scheduled
+Clemson,Virginia,0,0,"05/06/2023, 14:30",1st Place Semis,Scheduled
 North Carolina,American,15,4,"05/06/2023, 10:30",1st Place Quarters,Final
 William & Mary,Duke,8,15,"05/06/2023, 10:30",1st Place Quarters,Final
-North Carolina State,Clemson,9,13,"05/06/2023, 10:30",1st Place Quarters,Scheduled
+North Carolina State,Clemson,9,13,"05/06/2023, 10:30",1st Place Quarters,Final
 South Carolina,Virginia,7,13,"05/06/2023, 10:30",1st Place Quarters,Final
 North Carolina,Maryland,15,1,"05/06/2023, 08:30",Round One,Final
 American,James Madison,14,13,"05/06/2023, 08:30",Round One,Final
@@ -410,6 +411,7 @@ South Carolina,Delaware,15,6,"05/06/2023, 08:30",Round One,Final
 Virginia Commonwealth,Virginia,1,15,"05/06/2023, 08:30",Round One,Final
 bracket,2nd Place
 South Carolina,James Madison,0,0,"05/06/2023, 12:30",2P - 2nd Round,Scheduled
+North Carolina State,East Carolina,0,0,"05/06/2023, 12:30",2P - 2nd Round,Scheduled
 William & Mary,Georgetown,0,0,"05/06/2023, 12:30",2P - 2nd Round,Scheduled
 American,Delaware,0,0,"05/06/2023, 12:30",2P - 2nd Round,Scheduled
 Maryland,James Madison,7,14,"05/06/2023, 10:30",2P - 1st Round,Final
