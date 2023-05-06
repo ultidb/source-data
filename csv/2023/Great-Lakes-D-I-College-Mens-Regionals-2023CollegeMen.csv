@@ -341,35 +341,6 @@ teamInfo,Michigan-B,"Ann Arbor, Michigan",http://www.magnumultimate.com,,https:/
 26,Matthew Cao
 30,Jack Gurwin
 b,r,e,a,k
-Notre Dame,4
-teamInfo,Papal Rage,"Notre Dame, Indiana",https://ndultimate.wordpress.com/,,@ndultimate
-0,Aidan Vogel
-0,Andrew Canzano
-0,Brian Wagner
-0,Jacob Hepler
-0,Jonathan Henry
-0,Matthew Capps
-0,Sean Miranda
-0,Zach Jaromin
-1,Augustine Hauge
-3,Aidan Thomas
-5,Zachary Koh
-7,London Williams
-8,Patrick Schwartz
-10,Michael Rauch
-11,Daniel Harrison
-15,Mark Valenzuela
-23,Caleb Hutchison
-25,Alfredo Huete
-28,Marc Chahoud
-50,Colin Stevens
-69,Connor Wozniak
-69,Chris Walsh
-69,Marshall Horton
-69,Michel Domenella
-69,William Theisen
-78,Kevin Wakakuwa
-b,r,e,a,k
 Illinois,5
 teamInfo,Rise,"Champaign, Illinois",http://www.illiniultimate.com/#/home,https://www.facebook.com/pages/Illinois-Ultimate/139887979390815,https://twitter.com/Illinois_Rise
 0,Eli Artemakis
@@ -399,6 +370,35 @@ teamInfo,Rise,"Champaign, Illinois",http://www.illiniultimate.com/#/home,https:/
 68,Kai Bowen
 70,Kevin Zhou
 86,Kevin Tan
+b,r,e,a,k
+Notre Dame,4
+teamInfo,Papal Rage,"Notre Dame, Indiana",https://ndultimate.wordpress.com/,,@ndultimate
+0,Aidan Vogel
+0,Andrew Canzano
+0,Brian Wagner
+0,Jacob Hepler
+0,Jonathan Henry
+0,Matthew Capps
+0,Sean Miranda
+0,Zach Jaromin
+1,Augustine Hauge
+3,Aidan Thomas
+5,Zachary Koh
+7,London Williams
+8,Patrick Schwartz
+10,Michael Rauch
+11,Daniel Harrison
+15,Mark Valenzuela
+23,Caleb Hutchison
+25,Alfredo Huete
+28,Marc Chahoud
+50,Colin Stevens
+69,Connor Wozniak
+69,Chris Walsh
+69,Marshall Horton
+69,Michel Domenella
+69,William Theisen
+78,Kevin Wakakuwa
 b,r,e,a,k
 Grand Valley,9
 teamInfo,Lakers,"Allendale, Michigan",,,
@@ -452,8 +452,8 @@ pool,Pool A
 Purdue,Eastern Michigan,13,5,"05/06/2023, 09:00",Pool A,Final
 Chicago,Loyola-Chicago,13,4,"05/06/2023, 09:00",Pool A,Final
 Purdue,Loyola-Chicago,13,2,"05/06/2023, 10:45",Pool A,Final
-Chicago,Eastern Michigan,12,6,"05/06/2023, 10:45",Pool A,Scheduled
-Purdue,Chicago,0,0,"05/06/2023, 12:30",Pool A,Scheduled
+Chicago,Eastern Michigan,12,6,"05/06/2023, 10:45",Pool A,Final
+Purdue,Chicago,13,6,"05/06/2023, 12:30",Pool A,Final
 Eastern Michigan,Loyola-Chicago,12,10,"05/06/2023, 12:30",Pool A,Final
 pool,Pool B
 Northwestern,Illinois State,13,4,"05/06/2023, 09:00",Pool B,Final
@@ -471,14 +471,16 @@ Indiana,Michigan State,13,8,"05/06/2023, 12:30",Pool C,Final
 Western Michigan,Michigan (B),0,0,"05/06/2023, 12:30",Pool C,Scheduled
 pool,Pool D
 Notre Dame,Grand Valley,13,4,"05/06/2023, 09:00",Pool D,Final
-Illinois,Purdue (B),0,0,"05/06/2023, 09:00",Pool D,Scheduled
+Illinois,Purdue (B),13,2,"05/06/2023, 09:00",Pool D,Final
 Notre Dame,Purdue (B),13,1,"05/06/2023, 10:45",Pool D,Final
-Illinois,Grand Valley,0,0,"05/06/2023, 10:45",Pool D,Scheduled
+Illinois,Grand Valley,13,4,"05/06/2023, 10:45",Pool D,Final
 Notre Dame,Illinois,10,12,"05/06/2023, 12:30",Pool D,Final
 Grand Valley,Purdue (B),11,8,"05/06/2023, 12:30",Pool D,Final
 b,r,e,a,k
 brackets,Championship
 bracket,Championship Bracket
+Eastern Michigan,Notre Dame,0,0,"05/06/2023, 14:30",Pre-QuarterFinals,In Progress
+Grand Valley,Chicago,0,0,"05/06/2023, 14:30",Pre-QuarterFinals,In Progress
 bracket,3rd Place
 bracket,5th Place Bracket
 bracket,7th Place
