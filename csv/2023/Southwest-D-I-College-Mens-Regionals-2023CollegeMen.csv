@@ -299,6 +299,31 @@ coaches,Lucas Dallmann,Lily Steponaitis,Christian Cortes
 88,Shiley Einav
 89,Jerred Smith
 b,r,e,a,k
+Nevada-Reno,16
+teamInfo,Elevation Ultimate,"Reno, Nevada",https://nevadaultimate.weebly.com/,https://www.facebook.com/NevadaUltimate/,https://twitter.com/nevadaultimate
+0,Brody Moreno-McClure
+0,David Leonhardt
+0,Davis Berry
+0,Erick Bandala Sanchez
+0,Logan Beffort
+0,Malachite Nelson
+0,Marcus Fredrickson
+0,Michael Caliz
+0,Moeses Chavez
+0,Nicholas Kutter
+0,Nicolas Olson
+0,Rodney Wolfgang
+0,Thomas Kolvet
+0,Zachary Wilhite
+2,Douglas Pieplow
+8,Spencer Lee
+33,Jeremiah Haumeder
+35,Christopher Carter
+42,Richard Scheen-Stribling
+55,Jonathon Lau
+77,Jack Stinson
+95,Justin MacQuiddy
+b,r,e,a,k
 Santa Clara,9
 teamInfo,SCAB,"Santa Clara, California",,,https://twitter.com/SCABUltiFris
 coaches,Ryan Messersmith
@@ -330,31 +355,6 @@ coaches,Ryan Messersmith
 88,Declan Lavery
 98,David Rogers
 99,Zachary Harvey
-b,r,e,a,k
-Nevada-Reno,16
-teamInfo,Elevation Ultimate,"Reno, Nevada",https://nevadaultimate.weebly.com/,https://www.facebook.com/NevadaUltimate/,https://twitter.com/nevadaultimate
-0,Brody Moreno-McClure
-0,David Leonhardt
-0,Davis Berry
-0,Erick Bandala Sanchez
-0,Logan Beffort
-0,Malachite Nelson
-0,Marcus Fredrickson
-0,Michael Caliz
-0,Moeses Chavez
-0,Nicholas Kutter
-0,Nicolas Olson
-0,Rodney Wolfgang
-0,Thomas Kolvet
-0,Zachary Wilhite
-2,Douglas Pieplow
-8,Spencer Lee
-33,Jeremiah Haumeder
-35,Christopher Carter
-42,Richard Scheen-Stribling
-55,Jonathon Lau
-77,Jack Stinson
-95,Justin MacQuiddy
 b,r,e,a,k
 California,4
 teamInfo,California-Berkeley,"Berkeley, California",,https://www.facebook.com/CalMensUltimate/,https://twitter.com/calmensultimate?lang=en
@@ -462,18 +462,18 @@ pools,Saturday Pool Play
 pool,Pool A
 UCLA,Cal Poly-SLO (B),15,6,"05/06/2023, 13:15",Pool A,Final
 California-Santa Barbara,Southern California,12,7,"05/06/2023, 13:15",Pool A,Final
-UCLA,California-Santa Barbara,0,0,"05/06/2023, 15:00",Pool A,Scheduled
-Southern California,Cal Poly-SLO (B),0,0,"05/06/2023, 15:00",Pool A,Scheduled
+UCLA,California-Santa Barbara,15,4,"05/06/2023, 15:00",Pool A,Final
+Southern California,Cal Poly-SLO (B),13,6,"05/06/2023, 15:00",Pool A,Final
 pool,Pool B
 California-Santa Cruz,California-Irvine,11,3,"05/06/2023, 13:15",Pool B,Final
 California-San Diego,Arizona State,13,4,"05/06/2023, 13:15",Pool B,Final
 California-Santa Cruz,California-San Diego,12,7,"05/06/2023, 15:00",Pool B,Final
-Arizona State,California-Irvine,0,0,"05/06/2023, 15:00",Pool B,Scheduled
+Arizona State,California-Irvine,10,12,"05/06/2023, 15:00",Pool B,Final
 pool,Pool C
 Cal Poly-SLO,Nevada-Reno,15,0,"05/06/2023, 13:15",Pool C,Final
 Stanford,Santa Clara,11,7,"05/06/2023, 13:15",Pool C,Final
-Cal Poly-SLO,Stanford,0,0,"05/06/2023, 15:00",Pool C,Scheduled
-Santa Clara,Nevada-Reno,0,0,"05/06/2023, 15:00",Pool C,Scheduled
+Cal Poly-SLO,Stanford,14,4,"05/06/2023, 15:00",Pool C,Final
+Santa Clara,Nevada-Reno,9,10,"05/06/2023, 15:00",Pool C,Final
 pool,Pool D
 California,San Diego State,13,2,"05/06/2023, 13:15",Pool D,Final
 Grand Canyon,California-Davis,8,6,"05/06/2023, 13:15",Pool D,Final
@@ -481,9 +481,16 @@ Grand Canyon,San Diego State,0,0,"05/06/2023, 15:00",Pool D,Scheduled
 California-Davis,San Diego State,0,0,"05/06/2023, 15:00",Pool D,Scheduled
 b,r,e,a,k
 clusters,Post Pool Play Crossovers
+cluster,Crossovers
+UCLA,Cal Poly-SLO,0,0,"05/06/2023, 16:45",,Scheduled
+Stanford,Southern California,0,0,"05/06/2023, 16:45",,Scheduled
+California-Santa Barbara,Nevada-Reno,0,0,"05/06/2023, 16:45",,Scheduled
 b,r,e,a,k
 pools,4 Seed Consolation
 pool,Pool E
+Cal Poly-SLO (B),Santa Clara,0,0,"05/06/2023, 16:45",Pool E,Scheduled
+Arizona State,Santa Clara,0,0,"05/07/2023, 08:00",Pool E,Scheduled
+Cal Poly-SLO (B),Arizona State,0,0,"05/07/2023, 11:30",Pool E,Scheduled
 b,r,e,a,k
 brackets,Championship
 bracket,Finals

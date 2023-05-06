@@ -348,6 +348,8 @@ teamInfo,Men's,"Waterville, Maine",http://web.colby.edu/ultimate/,,https://twitt
 24,Joseph  Grassi
 56,Edward Wu
 b,r,e,a,k
+TEAM_NAME_NOT_FOUND,14
+b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
@@ -360,10 +362,8 @@ Middlebury,Wentworth,0,0,"05/06/2023, 11:00",Pool B,Scheduled
 Wentworth,Amherst,8,14,"05/06/2023, 13:00",Pool B,Final
 pool,Pool C
 Williams,Roger Williams,15,5,"05/06/2023, 09:00",Pool C,Final
-Bates,Stonehill,14,10,"05/06/2023, 09:00",Pool C,Final
-Williams,Stonehill,0,0,"05/06/2023, 11:00",Pool C,Scheduled
-Bates,Roger Williams,0,0,"05/06/2023, 11:00",Pool C,Scheduled
-Williams,Bates,15,6,"05/06/2023, 11:00",Pool C,Final
+Bates,Stonehill,15,9,"05/06/2023, 09:00",Pool C,Final
+Williams,Bates,15,4,"05/06/2023, 11:00",Pool C,Final
 Stonehill,Roger Williams,7,13,"05/06/2023, 11:00",Pool C,Final
 pool,Pool D
 Brandeis,Colby,13,10,"05/06/2023, 09:00",Pool D,Final
@@ -372,8 +372,10 @@ Bryant,Colby,13,8,"05/06/2023, 13:00",Pool D,Final
 b,r,e,a,k
 brackets,Bracket Play
 bracket,1st Place
-Bowdoin,Brandeis,0,0,"05/06/2023, 15:00",Semifinal,Scheduled
+Bowdoin,Brandeis,12,10,"05/06/2023, 15:00",Semifinal,Final
 bracket,2nd Place
+Roger Williams,TEAM_NAME_NOT_FOUND,0,0,"05/06/2023, 15:00",Round of 32,Scheduled
+Bates,Bryant,0,0,"05/06/2023, 15:00",Round of 32,Scheduled
 bracket,5th Place
 bracket,7th Place
 bracket,9th Place
