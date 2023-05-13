@@ -95,23 +95,6 @@ teamInfo,,"Gainesville, Florida",,,
 34,Johnathan Schimmelpfennig
 81,Tommy Akin
 b,r,e,a,k
-Beaches & Cream,7
-teamInfo,,"Nashville, Tennessee",,,
-04,Mathew Berg
-12,Don Clark
-14,Jenny Newby
-15,Phil Mantel
-19,Alexandra Hoover
-22,Cait Gagnon
-23,Patrick Ryan McVay
-26,Samantha Pace
-28,Melani Morales
-37,Sam Harvey
-57,Michael Hinze
-84,Robin Sasseville
-89,Brianna Jaffray
-99,Nathan Piechal
-b,r,e,a,k
 Dandelion Wine,13
 teamInfo,,"Los Angeles, California",,,
 0,Mike Schlesinger
@@ -132,22 +115,22 @@ teamInfo,,"Los Angeles, California",,,
 57,Andrew Dunn
 77,Greta Becker
 b,r,e,a,k
-Beachwreck,3
-teamInfo,,"Cincinnati, Ohio",https://www.cincinnatiultimate.org/teams/beachwreck,https://www.facebook.com/beachboatulty/,https://twitter.com/beachboatulty
-01,Scott Schriner
-02,Sarah Butts
-05,Ryan Gorman
-07,Michael Partusch
-10,Jordan O'Neill
-12,Michael Settles
-19,Chelsea Partusch
-22,Brittany Winner
-31,Emma Schroder
-33,Austin Winner
-34,Joseph Cari
-39,Sara Scott
-41,Katherine Macri
-81,Kimberly Cooper
+Beaches & Cream,7
+teamInfo,,"Nashville, Tennessee",,,
+04,Mathew Berg
+12,Don Clark
+14,Jenny Newby
+15,Phil Mantel
+19,Alexandra Hoover
+22,Cait Gagnon
+23,Patrick Ryan McVay
+26,Samantha Pace
+28,Melani Morales
+37,Sam Harvey
+57,Michael Hinze
+84,Robin Sasseville
+89,Brianna Jaffray
+99,Nathan Piechal
 b,r,e,a,k
 Long Beach Legend,6
 teamInfo,,"Long Beach, California",,,
@@ -167,6 +150,23 @@ teamInfo,,"Long Beach, California",,,
 44,Daniel Davisson
 62,Kyle Taylor
 b,r,e,a,k
+Beachwreck,3
+teamInfo,,"Cincinnati, Ohio",https://www.cincinnatiultimate.org/teams/beachwreck,https://www.facebook.com/beachboatulty/,https://twitter.com/beachboatulty
+01,Scott Schriner
+02,Sarah Butts
+05,Ryan Gorman
+07,Michael Partusch
+10,Jordan O'Neill
+12,Michael Settles
+19,Chelsea Partusch
+22,Brittany Winner
+31,Emma Schroder
+33,Austin Winner
+34,Joseph Cari
+39,Sara Scott
+41,Katherine Macri
+81,Kimberly Cooper
+b,r,e,a,k
 Default,9
 teamInfo,,"Burlington, Vermont",,,
 01,Richard Raabe
@@ -182,24 +182,6 @@ teamInfo,,"Burlington, Vermont",,,
 69,Kat McGorry
 77,David Seaver
 96,Tay Dunklee
-b,r,e,a,k
-Floppy Discs,4
-teamInfo,,"Conshohocken, Pennsylvania",,,
-0,Andre Martinez
-0,Caitlin Gleason
-0,Courtney Remm
-0,Eric Gallagher
-0,Jesse Lieberman
-0,Katy Harris
-0,Kelsey Turner
-0,Larissa Ferreira
-0,Tim Morrill
-7,Bryant Dean
-11,Andrea Jacoski
-23,Alissa Farina
-25,Edward Brakoniecki
-27,David Boyer
-76,Adam Kracht
 b,r,e,a,k
 Point Break'n,5
 teamInfo,,"Los Angeles, California",,,
@@ -242,6 +224,24 @@ teamInfo,,"Seattle, Washington",,,
 64,Ezra Schiff
 93,Benjamin LaRoque
 b,r,e,a,k
+Floppy Discs,4
+teamInfo,,"Conshohocken, Pennsylvania",,,
+0,Andre Martinez
+0,Caitlin Gleason
+0,Courtney Remm
+0,Eric Gallagher
+0,Jesse Lieberman
+0,Katy Harris
+0,Kelsey Turner
+0,Larissa Ferreira
+0,Tim Morrill
+7,Bryant Dean
+11,Andrea Jacoski
+23,Alissa Farina
+25,Edward Brakoniecki
+27,David Boyer
+76,Adam Kracht
+b,r,e,a,k
 Oakland Arthritics,14
 teamInfo,,"Oakland, California",,,
 02,John-Peter (JP) Cafaro
@@ -273,18 +273,23 @@ pool,Pool B
 Riders of Berk,Dandelion Wine,13,6,"05/13/2023, 09:00",Pool B,Final
 Beaches & Cream,Sweaty Petty,7,12,"05/13/2023, 09:00",Pool B,Final
 Riders of Berk,Sweaty Petty,13,5,"05/13/2023, 10:30",Pool B,Final
-Beaches & Cream,Dandelion Wine,0,0,"05/13/2023, 10:30",Pool B,Scheduled
+Beaches & Cream,Dandelion Wine,8,12,"05/13/2023, 10:30",Pool B,Final
 pool,Pool C
 Beachwreck,Default,15,10,"05/13/2023, 09:00",Pool C,Final
-Beachwreck,Long Beach Legend,0,0,"05/13/2023, 10:30",Pool C,Scheduled
+Beachwreck,Long Beach Legend,7,11,"05/13/2023, 10:30",Pool C,Final
 Long Beach Legend,Default,0,0,"05/13/2023, 12:00",Pool C,Scheduled
 pool,Pool D
 Floppy Discs,Oakland Arthritics,11,7,"05/13/2023, 09:00",Pool D,Final
 Point Break'n,Sailors of Seattle,12,8,"05/13/2023, 09:00",Pool D,Final
-Floppy Discs,Point Break'n,0,0,"05/13/2023, 10:30",Pool D,Scheduled
-Sailors of Seattle,Oakland Arthritics,13,5,"05/13/2023, 10:30",Pool D,Scheduled
+Floppy Discs,Point Break'n,4,12,"05/13/2023, 10:30",Pool D,Final
+Sailors of Seattle,Oakland Arthritics,13,5,"05/13/2023, 10:30",Pool D,Final
 b,r,e,a,k
 clusters,Crossover
+cluster,Reseeding Crossovers
+Riders of Berk,Point Break'n,0,0,"05/13/2023, 12:00",,Scheduled
+Sweaty Petty,Floppy Discs,0,0,"05/13/2023, 12:00",,Scheduled
+Sailors of Seattle,Dandelion Wine,0,0,"05/13/2023, 12:00",,Scheduled
+Beaches & Cream,Oakland Arthritics,0,0,"05/13/2023, 12:00",,Scheduled
 b,r,e,a,k
 brackets,Championship
 bracket,Championship
