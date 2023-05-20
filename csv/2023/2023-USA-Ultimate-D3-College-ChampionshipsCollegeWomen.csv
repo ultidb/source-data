@@ -54,23 +54,6 @@ coaches,Jason Oswald
 45,Zoe Costanza
 47,Anna Bingham
 b,r,e,a,k
-Catholic,13
-teamInfo,Nun Betta,"Washington, District of Columbia",,https://www.facebook.com/CUAWomensUltimate/,https://twitter.com/CUAultimate
-coaches,Steve Kreider,Lauren Coene,Madelyn Demaret,Kiera Kenneally
-01,Elliana Arnold
-04,Madeline Perrino
-05,Catalina DeMassi
-07,Nina Consiglio
-08,Maria Organ
-09,Ava Wiggenhorn
-12,Emma Wallace
-14,Sophia Cook
-15,Ciara  Keane
-16,Meredith Hamm
-26,Bridget Guinee
-28,Jessica Jalowiec
-32,Margaret O'Brien
-b,r,e,a,k
 Michigan Tech,12
 teamInfo,Superior Ma's,"Houghton, Michigan",,,https://twitter.com/mtusupma
 coaches,Michael Merwin
@@ -91,6 +74,39 @@ coaches,Michael Merwin
 39,Serenity  Snyder
 44,Tessa Meyer
 99,Emma Elliot
+b,r,e,a,k
+Catholic,13
+teamInfo,Nun Betta,"Washington, District of Columbia",,https://www.facebook.com/CUAWomensUltimate/,https://twitter.com/CUAultimate
+coaches,Steve Kreider,Lauren Coene,Madelyn Demaret,Kiera Kenneally
+01,Elliana Arnold
+04,Madeline Perrino
+05,Catalina DeMassi
+07,Nina Consiglio
+08,Maria Organ
+09,Ava Wiggenhorn
+12,Emma Wallace
+14,Sophia Cook
+15,Ciara  Keane
+16,Meredith Hamm
+26,Bridget Guinee
+28,Jessica Jalowiec
+32,Margaret O'Brien
+b,r,e,a,k
+Whitman,7
+teamInfo,Whitman Sweets,"Walla Walla, Washington",whitmancollegesweets.squarespace.com,https://www.facebook.com/pages/Whitman-College-Lady-Sweets/713665542065651,https://twitter.com/WWladysweets
+02,Gemma Munck
+03,Dora Trinkle
+04,Ollie Fox
+06,Wyatt Albright
+09,Isabel Arcaris
+11,Claire Jenkins
+12,Nadja Goldberg
+19,Rebecca Bartig
+19,Margaret Tookey
+22,Josephine Bygrave
+27,Gabbie Campbell
+28,Ella Johnson
+99,Amelia Atack
 b,r,e,a,k
 Wellesley,2
 teamInfo,Whiptails,"Wellesley, Massachusetts",https://sites.google.com/wellesley.edu/wellesleywhiptails/home,,https://twitter.com/thewholedamnbus
@@ -113,22 +129,6 @@ coaches,Marshall Goff,Scott Gatto
 49,Danika Lee Heaney
 53,Krishangi Dandapure
 77,Chaucer Langbert
-b,r,e,a,k
-Whitman,7
-teamInfo,Whitman Sweets,"Walla Walla, Washington",whitmancollegesweets.squarespace.com,https://www.facebook.com/pages/Whitman-College-Lady-Sweets/713665542065651,https://twitter.com/WWladysweets
-02,Gemma Munck
-03,Dora Trinkle
-04,Ollie Fox
-06,Wyatt Albright
-09,Isabel Arcaris
-11,Claire Jenkins
-12,Nadja Goldberg
-19,Rebecca Bartig
-19,Margaret Tookey
-22,Josephine Bygrave
-27,Gabbie Campbell
-28,Ella Johnson
-99,Amelia Atack
 b,r,e,a,k
 Union (Tennessee),14
 teamInfo,Tennessee) (Jillz,"Jackson, Tennessee",,,UnionJillz
@@ -224,6 +224,30 @@ coaches,Garrett Clay
 64,Hannah Bernhardt
 72,Catherine Rhame
 b,r,e,a,k
+Colorado College,10
+teamInfo,Zenith,"Colorado Springs, Colorado",,https://www.facebook.com/ZenithUltimate/,https://twitter.com/ZENITHultimate
+coaches,Monica Weindling
+02,Anna  Matsui
+05,Mary Andrews
+06,Sophia Hennessy
+07,Casey Shaw-Merrigan
+08,Katherine Bicks
+09,Fiona Rucker
+10,Evie Angevine
+13,Sophie Roback
+16,Galileo Fries
+18,Luca Pieretti
+19,Zoe Williamson
+21,Sophie  Addison
+24,Elizabeth Blanning
+26,Alva Hamreteg
+28,Kelsey Viadro
+31,Persis Baroody
+37,Elsa Hoff
+56,Grace Tumavicus
+61,Cassidy Recker
+77,Soumya Keefe
+b,r,e,a,k
 Wesleyan,15
 teamInfo,Vicious Circles,"Middletown, Connecticut",,https://www.facebook.com/vishiswhy/,https://twitter.com/divacupzone
 06,Halle Newman
@@ -249,30 +273,6 @@ teamInfo,Vicious Circles,"Middletown, Connecticut",,https://www.facebook.com/vis
 81,Kayla Harrison
 91,Lola Murnighan
 99,Olivia Bordon
-b,r,e,a,k
-Colorado College,10
-teamInfo,Zenith,"Colorado Springs, Colorado",,https://www.facebook.com/ZenithUltimate/,https://twitter.com/ZENITHultimate
-coaches,Monica Weindling
-02,Anna  Matsui
-05,Mary Andrews
-06,Sophia Hennessy
-07,Casey Shaw-Merrigan
-08,Katherine Bicks
-09,Fiona Rucker
-10,Evie Angevine
-13,Sophie Roback
-16,Galileo Fries
-18,Luca Pieretti
-19,Zoe Williamson
-21,Sophie  Addison
-24,Elizabeth Blanning
-26,Alva Hamreteg
-28,Kelsey Viadro
-31,Persis Baroody
-37,Elsa Hoff
-56,Grace Tumavicus
-61,Cassidy Recker
-77,Soumya Keefe
 b,r,e,a,k
 Portland,4
 teamInfo,UPRoar,"Portland, Oregon",https://www.instagram.com/uproarfrisbee/,https://www.facebook.com/upwomensultimate,https://twitter.com/uproar_ultimate
@@ -364,29 +364,29 @@ pools,Pool Play
 pool,Pool A
 Middlebury,Michigan Tech,15,4,"05/20/2023, 10:45",Pool A,Final
 Haverford-Bryn Mawr,Catholic,15,6,"05/20/2023, 10:45",Pool A,Final
-Middlebury,Catholic,14,4,"05/20/2023, 13:00",Pool A,Scheduled
-Haverford-Bryn Mawr,Michigan Tech,12,4,"05/20/2023, 13:00",Pool A,Scheduled
+Middlebury,Catholic,15,4,"05/20/2023, 13:00",Pool A,Final
+Haverford-Bryn Mawr,Michigan Tech,14,6,"05/20/2023, 13:00",Pool A,Scheduled
 Middlebury,Haverford-Bryn Mawr,0,0,"05/20/2023, 15:15",Pool A,Scheduled
 Michigan Tech,Catholic,0,0,"05/20/2023, 15:15",Pool A,Scheduled
 pool,Pool B
 Wellesley,Occidental,15,4,"05/20/2023, 08:30",Pool B,Final
 Whitman,Union (Tennessee),13,7,"05/20/2023, 08:30",Pool B,Final
-Wellesley,Union (Tennessee),11,2,"05/20/2023, 13:00",Pool B,Scheduled
-Whitman,Occidental,8,5,"05/20/2023, 13:00",Pool B,Scheduled
+Wellesley,Union (Tennessee),13,2,"05/20/2023, 13:00",Pool B,Scheduled
+Whitman,Occidental,15,5,"05/20/2023, 13:00",Pool B,Final
 Wellesley,Whitman,0,0,"05/20/2023, 15:15",Pool B,Scheduled
 Occidental,Union (Tennessee),0,0,"05/20/2023, 15:15",Pool B,Scheduled
 pool,Pool C
 Carleton College-Eclipse,Colorado College,15,7,"05/20/2023, 08:30",Pool C,Final
 Williams,Wesleyan,12,6,"05/20/2023, 08:30",Pool C,Final
-Carleton College-Eclipse,Wesleyan,13,4,"05/20/2023, 13:00",Pool C,Scheduled
-Williams,Colorado College,11,6,"05/20/2023, 13:00",Pool C,Scheduled
+Carleton College-Eclipse,Wesleyan,15,4,"05/20/2023, 13:00",Pool C,Final
+Williams,Colorado College,13,8,"05/20/2023, 13:00",Pool C,Scheduled
 Carleton College-Eclipse,Williams,0,0,"05/20/2023, 15:15",Pool C,Scheduled
 Colorado College,Wesleyan,0,0,"05/20/2023, 15:15",Pool C,Scheduled
 pool,Pool D
 Portland,St. Olaf,15,5,"05/20/2023, 10:45",Pool D,Final
 Mount Holyoke,Knox,15,3,"05/20/2023, 10:45",Pool D,Final
 Portland,Knox,15,5,"05/20/2023, 13:00",Pool D,Final
-Mount Holyoke,St. Olaf,6,7,"05/20/2023, 13:00",Pool D,Scheduled
+Mount Holyoke,St. Olaf,7,9,"05/20/2023, 13:00",Pool D,Scheduled
 Portland,Mount Holyoke,0,0,"05/20/2023, 15:15",Pool D,Scheduled
 St. Olaf,Knox,0,0,"05/20/2023, 15:15",Pool D,Scheduled
 b,r,e,a,k
