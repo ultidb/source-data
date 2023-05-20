@@ -130,6 +130,21 @@ teamInfo,Whitman Sweets,"Walla Walla, Washington",whitmancollegesweets.squarespa
 28,Ella Johnson
 99,Amelia Atack
 b,r,e,a,k
+Union (Tennessee),14
+teamInfo,Tennessee) (Jillz,"Jackson, Tennessee",,,UnionJillz
+coaches,Harrison Hayes,Victoria Graves
+00,Kathryn Haynes 
+01,Elizabeth Sowell
+03,Joy Tiebout
+05,Victoria Green
+06,Elyse Pearman
+07,Lindsey Norwood
+08,Claire Ward
+11,Abigail Bone
+18,Becca Rackley
+24,Caroline Lukasick
+27,MollieKay Grubbs
+b,r,e,a,k
 Occidental,11
 teamInfo,WAC,"Los Angeles, California",,https://www.facebook.com/ultimatewomen.oxy/,https://twitter.com/OxyUltimateWAC
 coaches,Sophie Havranek
@@ -154,21 +169,6 @@ coaches,Sophie Havranek
 42,Ava Letterie
 55,Adeline Fabel
 64,Holly Frank
-b,r,e,a,k
-Union (Tennessee),14
-teamInfo,Tennessee) (Jillz,"Jackson, Tennessee",,,UnionJillz
-coaches,Harrison Hayes,Victoria Graves
-00,Kathryn Haynes 
-01,Elizabeth Sowell
-03,Joy Tiebout
-05,Victoria Green
-06,Elyse Pearman
-07,Lindsey Norwood
-08,Claire Ward
-11,Abigail Bone
-18,Becca Rackley
-24,Caroline Lukasick
-27,MollieKay Grubbs
 b,r,e,a,k
 Carleton College-Eclipse,3
 teamInfo,Eclipse,"Northfield, Minnesota",http://carletoneclipse.weebly.com/,,https://twitter.com/eclipsethedisc
@@ -200,17 +200,18 @@ b,r,e,a,k
 Williams,6
 teamInfo,Nova,"Williamstown, Massachusetts",https://www.williamsultimate.com,,https://twitter.com/lifewithnova69
 coaches,Garrett Clay
-0,Annika Harrington
-02,Emily Stanger
+00,Annika Harrington
 03,Skylar Yarter
 04,Joanie Cha
 05,Madeline Birknes
+06,Aliza Cotton
 06,Ruby Gary
 07,Nina Kolman
 09,Zoe Evans
 09,Kazane Kitazono
 10,Nawon Lee
 11,Katherine Yang
+11,Emily Stanger
 14,Lauren Ryan
 15,Sasha Driver
 18,Emma Sandstrom
@@ -222,31 +223,6 @@ coaches,Garrett Clay
 37,Sydney Ghorayeb
 64,Hannah Bernhardt
 72,Catherine Rhame
-73,Aliza Cotton
-b,r,e,a,k
-Colorado College,10
-teamInfo,Zenith,"Colorado Springs, Colorado",,https://www.facebook.com/ZenithUltimate/,https://twitter.com/ZENITHultimate
-coaches,Monica Weindling
-02,Anna  Matsui
-05,Mary Andrews
-06,Sophia Hennessy
-07,Casey Shaw-Merrigan
-08,Katherine Bicks
-09,Fiona Rucker
-10,Evie Angevine
-13,Sophie Roback
-16,Galileo Fries
-18,Luca Pieretti
-19,Zoe Williamson
-21,Sophie  Addison
-24,Elizabeth Blanning
-26,Alva Hamreteg
-28,Kelsey Viadro
-31,Persis Baroody
-37,Elsa Hoff
-56,Grace Tumavicus
-61,Cassidy Recker
-77,Soumya Keefe
 b,r,e,a,k
 Wesleyan,15
 teamInfo,Vicious Circles,"Middletown, Connecticut",,https://www.facebook.com/vishiswhy/,https://twitter.com/divacupzone
@@ -273,6 +249,30 @@ teamInfo,Vicious Circles,"Middletown, Connecticut",,https://www.facebook.com/vis
 81,Kayla Harrison
 91,Lola Murnighan
 99,Olivia Bordon
+b,r,e,a,k
+Colorado College,10
+teamInfo,Zenith,"Colorado Springs, Colorado",,https://www.facebook.com/ZenithUltimate/,https://twitter.com/ZENITHultimate
+coaches,Monica Weindling
+02,Anna  Matsui
+05,Mary Andrews
+06,Sophia Hennessy
+07,Casey Shaw-Merrigan
+08,Katherine Bicks
+09,Fiona Rucker
+10,Evie Angevine
+13,Sophie Roback
+16,Galileo Fries
+18,Luca Pieretti
+19,Zoe Williamson
+21,Sophie  Addison
+24,Elizabeth Blanning
+26,Alva Hamreteg
+28,Kelsey Viadro
+31,Persis Baroody
+37,Elsa Hoff
+56,Grace Tumavicus
+61,Cassidy Recker
+77,Soumya Keefe
 b,r,e,a,k
 Portland,4
 teamInfo,UPRoar,"Portland, Oregon",https://www.instagram.com/uproarfrisbee/,https://www.facebook.com/upwomensultimate,https://twitter.com/uproar_ultimate
@@ -369,22 +369,22 @@ Haverford-Bryn Mawr,Michigan Tech,0,0,"05/20/2023, 13:00",Pool A,Scheduled
 Middlebury,Haverford-Bryn Mawr,0,0,"05/20/2023, 15:15",Pool A,Scheduled
 Michigan Tech,Catholic,0,0,"05/20/2023, 15:15",Pool A,Scheduled
 pool,Pool B
-Wellesley,Occidental,0,0,"05/20/2023, 08:30",Pool B,Scheduled
-Whitman,Union (Tennessee),0,0,"05/20/2023, 08:30",Pool B,Scheduled
+Wellesley,Occidental,15,4,"05/20/2023, 08:30",Pool B,Final
+Whitman,Union (Tennessee),13,7,"05/20/2023, 08:30",Pool B,Final
 Wellesley,Union (Tennessee),0,0,"05/20/2023, 13:00",Pool B,Scheduled
 Whitman,Occidental,0,0,"05/20/2023, 13:00",Pool B,Scheduled
 Wellesley,Whitman,0,0,"05/20/2023, 15:15",Pool B,Scheduled
 Occidental,Union (Tennessee),0,0,"05/20/2023, 15:15",Pool B,Scheduled
 pool,Pool C
-Carleton College-Eclipse,Colorado College,0,0,"05/20/2023, 08:30",Pool C,Scheduled
-Williams,Wesleyan,0,0,"05/20/2023, 08:30",Pool C,Scheduled
+Carleton College-Eclipse,Colorado College,15,7,"05/20/2023, 08:30",Pool C,Final
+Williams,Wesleyan,12,6,"05/20/2023, 08:30",Pool C,Final
 Carleton College-Eclipse,Wesleyan,0,0,"05/20/2023, 13:00",Pool C,Scheduled
 Williams,Colorado College,0,0,"05/20/2023, 13:00",Pool C,Scheduled
 Carleton College-Eclipse,Williams,0,0,"05/20/2023, 15:15",Pool C,Scheduled
 Colorado College,Wesleyan,0,0,"05/20/2023, 15:15",Pool C,Scheduled
 pool,Pool D
 Portland,St. Olaf,0,0,"05/20/2023, 10:45",Pool D,Scheduled
-Mount Holyoke,Knox,0,0,"05/20/2023, 10:45",Pool D,Scheduled
+Mount Holyoke,Knox,1,1,"05/20/2023, 10:45",Pool D,Scheduled
 Portland,Knox,0,0,"05/20/2023, 13:00",Pool D,Scheduled
 Mount Holyoke,St. Olaf,0,0,"05/20/2023, 13:00",Pool D,Scheduled
 Portland,Mount Holyoke,0,0,"05/20/2023, 15:15",Pool D,Scheduled
