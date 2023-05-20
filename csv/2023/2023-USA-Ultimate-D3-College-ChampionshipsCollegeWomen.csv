@@ -54,6 +54,23 @@ coaches,Jason Oswald
 45,Zoe Costanza
 47,Anna Bingham
 b,r,e,a,k
+Catholic,13
+teamInfo,Nun Betta,"Washington, District of Columbia",,https://www.facebook.com/CUAWomensUltimate/,https://twitter.com/CUAultimate
+coaches,Steve Kreider,Lauren Coene,Madelyn Demaret,Kiera Kenneally
+01,Elliana Arnold
+04,Madeline Perrino
+05,Catalina DeMassi
+07,Nina Consiglio
+08,Maria Organ
+09,Ava Wiggenhorn
+12,Emma Wallace
+14,Sophia Cook
+15,Ciara  Keane
+16,Meredith Hamm
+26,Bridget Guinee
+28,Jessica Jalowiec
+32,Margaret O'Brien
+b,r,e,a,k
 Michigan Tech,12
 teamInfo,Superior Ma's,"Houghton, Michigan",,,https://twitter.com/mtusupma
 coaches,Michael Merwin
@@ -74,23 +91,6 @@ coaches,Michael Merwin
 39,Serenity  Snyder
 44,Tessa Meyer
 99,Emma Elliot
-b,r,e,a,k
-Catholic,13
-teamInfo,Nun Betta,"Washington, District of Columbia",,https://www.facebook.com/CUAWomensUltimate/,https://twitter.com/CUAultimate
-coaches,Steve Kreider,Lauren Coene,Madelyn Demaret,Kiera Kenneally
-01,Elliana Arnold
-04,Madeline Perrino
-05,Catalina DeMassi
-07,Nina Consiglio
-08,Maria Organ
-09,Ava Wiggenhorn
-12,Emma Wallace
-14,Sophia Cook
-15,Ciara  Keane
-16,Meredith Hamm
-26,Bridget Guinee
-28,Jessica Jalowiec
-32,Margaret O'Brien
 b,r,e,a,k
 Wellesley,2
 teamInfo,Whiptails,"Wellesley, Massachusetts",https://sites.google.com/wellesley.edu/wellesleywhiptails/home,,https://twitter.com/thewholedamnbus
@@ -298,6 +298,28 @@ coaches,Elise Hollowell,Rebecca Perston,Daniel Young
 42,Mallori Boddy
 99,Allison Wells
 b,r,e,a,k
+Mount Holyoke,5
+teamInfo,Daisy Chain,"South Hadley, Massachusetts",,https://www.facebook.com/mhcult,https://twitter.com/mhcdaisychain
+coaches,Kate Powers,Paige Howell,Justin Baumann
+01,Lara Gao
+05,Gigi Downey
+07,Kyra Sanborn-Burch
+09,Molly Potts
+12,Bridget McBride
+13,Celine Falcon-Geist
+15,Madelyn McAlexander
+17,Reece Liu
+23,Gabbi Perry
+24,Olive Rowell
+28,Silvie Schlein
+29,Charlotte Moynihan
+30,Jamie  Eldridge 
+33,Rossi Wang
+37,Elspeth Howland
+42,Hjordis Aho
+43,Saira Sukthankar 
+46,Eliza Williams-Derry
+b,r,e,a,k
 St. Olaf,9
 teamInfo,Vortex,"Northfield, Minnesota",http://vortexultimate.weebly.com/,https://www.facebook.com/VortexWomensUltimate/,https://twitter.com/STOWomensUlti
 coaches,Sylvie Mercil,Elise Gallup
@@ -324,28 +346,6 @@ coaches,Sylvie Mercil,Elise Gallup
 93,Bella Marek
 98,Savina Dock
 b,r,e,a,k
-Mount Holyoke,5
-teamInfo,Daisy Chain,"South Hadley, Massachusetts",,https://www.facebook.com/mhcult,https://twitter.com/mhcdaisychain
-coaches,Kate Powers,Paige Howell,Justin Baumann
-01,Lara Gao
-05,Gigi Downey
-07,Kyra Sanborn-Burch
-09,Molly Potts
-12,Bridget McBride
-13,Celine Falcon-Geist
-15,Madelyn McAlexander
-17,Reece Liu
-23,Gabbi Perry
-24,Olive Rowell
-28,Silvie Schlein
-29,Charlotte Moynihan
-30,Jamie  Eldridge 
-33,Rossi Wang
-37,Elspeth Howland
-42,Hjordis Aho
-43,Saira Sukthankar 
-46,Eliza Williams-Derry
-b,r,e,a,k
 Knox,16
 teamInfo,Alley Cats,"Galesburg, Illinois",,https://www.facebook.com/Knox-College-Ultimate-170986939622/,https://twitter.com/Knox_ultimate?lang=en
 02,Kali Christopher
@@ -366,14 +366,14 @@ Middlebury,Michigan Tech,15,4,"05/20/2023, 10:45",Pool A,Final
 Haverford-Bryn Mawr,Catholic,15,6,"05/20/2023, 10:45",Pool A,Final
 Middlebury,Catholic,15,4,"05/20/2023, 13:00",Pool A,Final
 Haverford-Bryn Mawr,Michigan Tech,15,6,"05/20/2023, 13:00",Pool A,Final
-Middlebury,Haverford-Bryn Mawr,14,8,"05/20/2023, 15:15",Pool A,Scheduled
-Michigan Tech,Catholic,10,12,"05/20/2023, 15:15",Pool A,Scheduled
+Middlebury,Haverford-Bryn Mawr,15,8,"05/20/2023, 15:15",Pool A,Final
+Michigan Tech,Catholic,10,13,"05/20/2023, 15:15",Pool A,Final
 pool,Pool B
 Wellesley,Occidental,15,4,"05/20/2023, 08:30",Pool B,Final
 Whitman,Union (Tennessee),13,7,"05/20/2023, 08:30",Pool B,Final
 Wellesley,Union (Tennessee),15,5,"05/20/2023, 13:00",Pool B,Final
 Whitman,Occidental,15,5,"05/20/2023, 13:00",Pool B,Final
-Wellesley,Whitman,12,9,"05/20/2023, 15:15",Pool B,Scheduled
+Wellesley,Whitman,13,9,"05/20/2023, 15:15",Pool B,Final
 Occidental,Union (Tennessee),9,15,"05/20/2023, 15:15",Pool B,Final
 pool,Pool C
 Carleton College-Eclipse,Colorado College,15,7,"05/20/2023, 08:30",Pool C,Final
@@ -387,11 +387,15 @@ Portland,St. Olaf,15,5,"05/20/2023, 10:45",Pool D,Final
 Mount Holyoke,Knox,15,3,"05/20/2023, 10:45",Pool D,Final
 Portland,Knox,15,5,"05/20/2023, 13:00",Pool D,Final
 Mount Holyoke,St. Olaf,11,12,"05/20/2023, 13:00",Pool D,Final
-Portland,Mount Holyoke,11,12,"05/20/2023, 15:15",Pool D,Scheduled
+Portland,Mount Holyoke,11,12,"05/20/2023, 15:15",Pool D,Final
 St. Olaf,Knox,15,4,"05/20/2023, 15:15",Pool D,Final
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,1st Place
+Whitman,Colorado College,0,0,"05/21/2023, 08:30",Prequarterfinal,In Progress
+Williams,Union (Tennessee),0,0,"05/21/2023, 08:30",Prequarterfinal,In Progress
+Mount Holyoke,Catholic,0,0,"05/21/2023, 08:30",Prequarterfinal,In Progress
+Haverford-Bryn Mawr,St. Olaf,0,0,"05/21/2023, 08:30",Prequarterfinal,In Progress
 bracket,5th Place
 bracket,5th Place
 b,r,e,a,k
@@ -401,4 +405,10 @@ bracket,11th Place
 b,r,e,a,k
 pools,13th Place Round Robin
 pool,Pool E
+Michigan Tech,Wesleyan,0,0,"05/21/2023, 08:30",Pool E,Scheduled
+Occidental,Knox,0,0,"05/21/2023, 08:30",Pool E,Scheduled
+Michigan Tech,Knox,0,0,"05/21/2023, 10:45",Pool E,Scheduled
+Occidental,Wesleyan,0,0,"05/21/2023, 10:45",Pool E,Scheduled
+Michigan Tech,Occidental,0,0,"05/22/2023, 08:30",Pool E,Scheduled
+Wesleyan,Knox,0,0,"05/22/2023, 08:30",Pool E,Scheduled
 b,r,e,a,k

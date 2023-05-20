@@ -247,6 +247,28 @@ teamInfo,Pranksters,"Middlebury, Vermont",https://go.middlebury.edu/prankstersul
 83,Gavin Rice
 96,Max Hanscom
 b,r,e,a,k
+Lewis & Clark,6
+teamInfo,Bacchus,"Portland, Oregon",https://www.instagram.com/bacchusultimate/?hl=en,https://www.facebook.com/bacchusultimate/,https://twitter.com/BacchusUltimate?lang=en
+coaches,Benjamin Whitenack,Tadao Kumasaka,August Schwartz,Sam Franer
+01,Orlando Impas
+02,Toby Rivera
+03,Leo Farley
+04,Charlie Wagner
+07,Max Zwerin
+09,Leo Finley
+11,Sebastian  Williamson
+13,Christopher Olson
+14,Levi Stahl
+16,Zoe Lang
+18,David Allen
+19,Owen Heh
+20,Oliver Sumners
+20,Benjamin Travers
+21,James Fishman-Morren
+23,Anson Parker
+71,William Ahlstrom
+83,Jericho Stern
+b,r,e,a,k
 Grinnell,10
 teamInfo,Grinnellephants,"Grinnell, Iowa",,,https://twitter.com/Grinnellephants
 coaches,Rebecca Crown,Nick Culver
@@ -272,28 +294,6 @@ coaches,Rebecca Crown,Nick Culver
 68,Harold MacArthur
 76,Zade Mullin
 87,Dominic D’Ascenzo
-b,r,e,a,k
-Lewis & Clark,6
-teamInfo,Bacchus,"Portland, Oregon",https://www.instagram.com/bacchusultimate/?hl=en,https://www.facebook.com/bacchusultimate/,https://twitter.com/BacchusUltimate?lang=en
-coaches,Benjamin Whitenack,Tadao Kumasaka,August Schwartz,Sam Franer
-01,Orlando Impas
-02,Toby Rivera
-03,Leo Farley
-04,Charlie Wagner
-07,Max Zwerin
-09,Leo Finley
-11,Sebastian  Williamson
-13,Christopher Olson
-14,Levi Stahl
-16,Zoe Lang
-18,David Allen
-19,Owen Heh
-20,Oliver Sumners
-20,Benjamin Travers
-21,James Fishman-Morren
-23,Anson Parker
-71,William Ahlstrom
-83,Jericho Stern
 b,r,e,a,k
 Butler,15
 teamInfo,Butler Big Dog,"Indianapolis, Indiana",,,https://twitter.com/but_club
@@ -460,14 +460,14 @@ Williams,Colorado Mines,15,6,"05/20/2023, 08:30",Pool B,Final
 St. Olaf,Colorado Mines,15,8,"05/20/2023, 10:45",Pool B,Final
 Williams,Navy,15,13,"05/20/2023, 10:45",Pool B,Final
 St. Olaf,Williams,15,10,"05/20/2023, 15:15",Pool B,Final
-Navy,Colorado Mines,10,7,"05/20/2023, 15:15",Pool B,Scheduled
+Navy,Colorado Mines,11,9,"05/20/2023, 15:15",Pool B,Final
 pool,Pool C
 Middlebury,Grinnell,13,10,"05/20/2023, 08:30",Pool C,Final
 Lewis & Clark,Butler,14,9,"05/20/2023, 08:30",Pool C,Final
 Middlebury,Butler,15,9,"05/20/2023, 10:45",Pool C,Final
 Lewis & Clark,Grinnell,13,14,"05/20/2023, 10:45",Pool C,Final
-Middlebury,Lewis & Clark,12,9,"05/20/2023, 15:15",Pool C,Scheduled
-Grinnell,Butler,12,11,"05/20/2023, 15:15",Pool C,Scheduled
+Middlebury,Lewis & Clark,13,9,"05/20/2023, 15:15",Pool C,Final
+Grinnell,Butler,13,11,"05/20/2023, 15:15",Pool C,Scheduled
 pool,Pool D
 Whitman,Missouri S&T,8,15,"05/20/2023, 08:30",Pool D,Final
 Richmond,Rochester,14,10,"05/20/2023, 08:30",Pool D,Final
@@ -489,5 +489,7 @@ bracket,11th Place
 b,r,e,a,k
 pools,13th Place Round Robin
 pool,Pool E
+Colorado Mines,Whitman,0,0,"05/21/2023, 08:30",Pool E,Scheduled
 Occidental,Whitman,0,0,"05/21/2023, 10:45",Pool E,Scheduled
+Occidental,Colorado Mines,0,0,"05/22/2023, 08:30",Pool E,Scheduled
 b,r,e,a,k
