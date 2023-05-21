@@ -160,28 +160,6 @@ teamInfo,,"Sparta, New Jersey",https://www.instagram.com/sparta.helots/,https://
 70,Robert Patten
 88,Andrzej Porter
 b,r,e,a,k
-Odyssey,9
-teamInfo,,"Medford , Massachusetts",,,
-0,Brian Lamoureux
-0,DREW STIERHOFF
-0,Evan Mandell
-0,Justin O'Kelly
-0,Thomas von Allmen
-1,Ryan Prescott
-2,Eli Robinson
-4,Michael Walker
-8,Nicholas Kochersperger
-10,Elliot Mintz
-11,Jack Hogan
-13,Stephen Welsh
-17,Zebadiah Staples
-20,Adrian Baker
-23,Justin Juchnewich
-26,Jack McShane
-38,Nicholas  Dell'Amore
-64,Jonathan Ramos
-82,Trey Wiley
-b,r,e,a,k
 Rochester Open Club,10
 teamInfo,,"Rochester, New York",,,
 coaches,Skylar Brunner
@@ -203,6 +181,28 @@ coaches,Skylar Brunner
 11,Jamie Falkovich 
 13,Braemen Twitchell
 25,William McNamara
+b,r,e,a,k
+Odyssey,9
+teamInfo,,"Medford , Massachusetts",,,
+0,Brian Lamoureux
+0,DREW STIERHOFF
+0,Evan Mandell
+0,Justin O'Kelly
+0,Thomas von Allmen
+1,Ryan Prescott
+2,Eli Robinson
+4,Michael Walker
+8,Nicholas Kochersperger
+10,Elliot Mintz
+11,Jack Hogan
+13,Stephen Welsh
+17,Zebadiah Staples
+20,Adrian Baker
+23,Justin Juchnewich
+26,Jack McShane
+38,Nicholas  Dell'Amore
+64,Jonathan Ramos
+82,Trey Wiley
 b,r,e,a,k
 Spring Break '93,7
 teamInfo,,"Hartford, Connecticut",,,SpringBreakUlti
@@ -278,11 +278,11 @@ Lantern,Ascension,0,0,"05/21/2023, 11:00",Pool A,Scheduled
 Blueprint,All Bashed Out,0,0,"05/21/2023, 11:00",Pool A,Scheduled
 Shade,Helots,0,0,"05/21/2023, 11:00",Pool A,Scheduled
 pool,Pool B
-Spring Break '93,Alibi,0,0,"05/20/2023, 10:00",Pool B,Scheduled
+Spring Break '93,Alibi,15,9,"05/20/2023, 10:00",Pool B,Final
 Odyssey,Rochester Open Club,8,15,"05/20/2023, 10:00",Pool B,Final
 Spring Break '93,Odyssey,6,15,"05/20/2023, 12:00",Pool B,Final
-Alibi,Rochester Open Club,0,0,"05/20/2023, 12:00",Pool B,Scheduled
-Spring Break '93,Rochester Open Club,0,0,"05/20/2023, 14:00",Pool B,Scheduled
+Alibi,Rochester Open Club,9,15,"05/20/2023, 12:00",Pool B,Final
+Spring Break '93,Rochester Open Club,3,15,"05/20/2023, 14:00",Pool B,Final
 Alibi,Odyssey,6,15,"05/20/2023, 14:00",Pool B,Final
 b,r,e,a,k
 clusters,Pool B Sunday Rounds
@@ -293,4 +293,6 @@ Alibi,Odyssey,0,0,"05/21/2023, 11:00",,Scheduled
 Spring Break '93,Rochester Open Club,0,0,"05/21/2023, 11:00",,Scheduled
 b,r,e,a,k
 clusters,Sunday Final Round
+cluster,Crossover
+Spring Break '93,Alibi,0,0,"05/21/2023, 13:00",,Scheduled
 b,r,e,a,k
