@@ -6,6 +6,7 @@ teamInfo,Pleiades,"Chapel Hill, North Carolina",http://www.uncpleiades.com,https
 coaches,Jessica Jones,Anne Worth,Mary Rippe,Elisabeth Parker
 00,Allison Reilly
 01,Grace Conerly
+02,Sarah Combs
 02,Alexandra Evans
 03,Emily Przykucki
 04,Isabel Myers-Miller
@@ -23,7 +24,6 @@ coaches,Jessica Jones,Anne Worth,Mary Rippe,Elisabeth Parker
 18,Eugenia Chow
 21,Theresa Yu
 22,Catherine Fradenburg
-24,Sarah Combs
 25,Rachel Yao
 27,Dhara Buebel
 28,Abigail Stevens
@@ -382,31 +382,6 @@ coaches,Christina Sur,Justin Forman
 82,Claire Schmitt
 94,Gloria Adeola
 b,r,e,a,k
-Vermont,4
-teamInfo,Ruckus,"Burlington , Vermont",,https://www.facebook.com/UVMRuckus/,https://twitter.com/ruckusultimate
-coaches,Daron Byerly,Sara Jacobi
-02,Lucinda Toppen
-03,Isabel Berman
-05,Dylan Wilcox
-07,Mikaela Luke-Currier
-08,Mae Browning
-10,Lauren Clayter
-11,Kennedy McCarthy
-12,Leah Silverman
-13,Riley Knupp
-14,Caroline Stone
-16,Marina Godley-Fisher
-17,Sarah VonDoepp
-21,Alexandra Greer
-22,Sophia Nolan
-22,Reilly Wells
-26,Nadia Scoppettone
-33,Sophie Acker
-35,Ashley Schlinger
-36,Lucia McCallum
-44,Emily Pozzy
-47,Izzy Pitman
-b,r,e,a,k
 Tufts,5
 teamInfo,Elephant Women,"Somerville, Massachusetts",https://www.instagram.com/tuftsewo/,https://www.facebook.com/tuftsewo/,https://twitter.com/ewonews
 coaches,Meriden Estes,Sangwha Hong,Megan Wilson,Margaret Pendleton
@@ -463,25 +438,30 @@ coaches,Katherine Wilson,Morgan Zajonc,Shaelynn Davis,Angela Lin
 88,Jessie Lew
 95,Ysabella Zaloudek-Luba
 b,r,e,a,k
-Victoria,16
-teamInfo,Vikes,"Victoria, British Columbia CA",,,
-coaches,Amira Maddison,Juli Ohsada
-01,Monica Devonshire
-02,Laura Devonshire
-03,Alicia Brolly
-05,Breanna Roussin
-10,Jessica Carroll
-11,Ericka Edgell
-12,Emily Kay-Leighton
-13,Lucy Bridal
-14,Leah Demsey
-16,Taylor Betonte
-19,Brynn Freeland
-23,Arabella Brudney
-24,Claire Bates
-33,Kathleen Bourdon
-55,Taryn Webster
-97,Georgia  Smith
+Vermont,4
+teamInfo,Ruckus,"Burlington , Vermont",,https://www.facebook.com/UVMRuckus/,https://twitter.com/ruckusultimate
+coaches,Daron Byerly,Sara Jacobi
+02,Lucinda Toppen
+03,Isabel Berman
+05,Dylan Wilcox
+07,Mikaela Luke-Currier
+08,Mae Browning
+10,Lauren Clayter
+11,Kennedy McCarthy
+12,Leah Silverman
+13,Riley Knupp
+14,Caroline Stone
+16,Marina Godley-Fisher
+17,Sarah VonDoepp
+21,Alexandra Greer
+22,Sophia Nolan
+22,Reilly Wells
+26,Nadia Scoppettone
+33,Sophie Acker
+35,Ashley Schlinger
+36,Lucia McCallum
+44,Emily Pozzy
+47,Izzy Pitman
 b,r,e,a,k
 Carnegie Mellon,20
 teamInfo,Money Mellons,"Pittsburgh, Pennsylvania",https://www.andrew.cmu.edu/user/ultimate/mmellons/,https://www.facebook.com/Carnegie-Mellon-Money-Mellons-119112951433726/?fref=ts,https://twitter.com/cmwultimate
@@ -506,11 +486,31 @@ coaches,Matthew Duffy,Stephanie Dunning,Jed Farber
 48,Marissa Ma
 71,Isabella Krisky
 b,r,e,a,k
+Victoria,16
+teamInfo,Vikes,"Victoria, British Columbia CA",,,
+coaches,Amira Maddison,Juli Ohsada
+01,Monica Devonshire
+02,Laura Devonshire
+03,Alicia Brolly
+05,Breanna Roussin
+10,Jessica Carroll
+11,Ericka Edgell
+12,Emily Kay-Leighton
+13,Lucy Bridal
+14,Leah Demsey
+16,Taylor Betonte
+19,Brynn Freeland
+23,Arabella Brudney
+24,Claire Bates
+33,Kathleen Bourdon
+55,Taryn Webster
+91,Georgia  Smith
+b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
-Colorado State,SUNY-Binghamton,0,0,"05/26/2023, 10:30",Pool A,Scheduled
-North Carolina,Washington,0,0,"05/26/2023, 10:30",Pool A,Scheduled
+Colorado State,SUNY-Binghamton,4,3,"05/26/2023, 10:30",Pool A,Scheduled
+North Carolina,Washington,4,2,"05/26/2023, 10:30",Pool A,Scheduled
 Washington,SUNY-Binghamton,0,0,"05/26/2023, 15:00",Pool A,Scheduled
 Colorado State,UCLA,0,0,"05/26/2023, 15:00",Pool A,Scheduled
 North Carolina,UCLA,0,0,"05/26/2023, 17:00",Pool A,Scheduled
@@ -520,8 +520,8 @@ SUNY-Binghamton,UCLA,0,0,"05/27/2023, 10:30",Pool A,Scheduled
 North Carolina,Colorado State,0,0,"05/27/2023, 13:00",Pool A,Scheduled
 Washington,UCLA,0,0,"05/27/2023, 13:00",Pool A,Scheduled
 pool,Pool B
-Colorado,Georgia,0,0,"05/26/2023, 08:30",Pool B,Scheduled
-Stanford,Virginia,0,0,"05/26/2023, 08:30",Pool B,Scheduled
+Colorado,Georgia,15,4,"05/26/2023, 08:30",Pool B,Final
+Stanford,Virginia,15,6,"05/26/2023, 08:30",Pool B,Final
 Northeastern,Virginia,0,0,"05/26/2023, 13:00",Pool B,Scheduled
 Colorado,Stanford,0,0,"05/26/2023, 13:00",Pool B,Scheduled
 Northeastern,Georgia,0,0,"05/26/2023, 17:00",Pool B,Scheduled
@@ -532,7 +532,7 @@ Colorado,Northeastern,0,0,"05/27/2023, 15:00",Pool B,Scheduled
 Stanford,Georgia,0,0,"05/27/2023, 15:00",Pool B,Scheduled
 pool,Pool C
 Carleton College,Texas-Dallas,0,0,"05/26/2023, 10:30",Pool C,Scheduled
-California-Santa Barbara,Chicago,0,0,"05/26/2023, 10:30",Pool C,Scheduled
+California-Santa Barbara,Chicago,5,3,"05/26/2023, 10:30",Pool C,Scheduled
 California-Santa Barbara,Texas-Dallas,0,0,"05/26/2023, 15:00",Pool C,Scheduled
 British Columbia,Carleton College,0,0,"05/26/2023, 15:00",Pool C,Scheduled
 British Columbia,Chicago,0,0,"05/26/2023, 17:00",Pool C,Scheduled
@@ -542,8 +542,8 @@ Texas-Dallas,Chicago,0,0,"05/27/2023, 13:00",Pool C,Scheduled
 British Columbia,California-Santa Barbara,0,0,"05/27/2023, 15:00",Pool C,Scheduled
 Carleton College,Chicago,0,0,"05/27/2023, 15:00",Pool C,Scheduled
 pool,Pool D
-Tufts,Victoria,0,0,"05/26/2023, 08:30",Pool D,Scheduled
-Oregon,Carnegie Mellon,0,0,"05/26/2023, 08:30",Pool D,Scheduled
+Tufts,Victoria,15,7,"05/26/2023, 08:30",Pool D,Final
+Oregon,Carnegie Mellon,14,8,"05/26/2023, 08:30",Pool D,Final
 Vermont,Carnegie Mellon,0,0,"05/26/2023, 13:00",Pool D,Scheduled
 Oregon,Victoria,0,0,"05/26/2023, 13:00",Pool D,Scheduled
 Vermont,Tufts,0,0,"05/26/2023, 17:00",Pool D,Scheduled
