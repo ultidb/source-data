@@ -179,31 +179,6 @@ coaches,Rustin Ingold-Smith,Dylan Tunnell
 95,Luca  Harwood
 99,Tobias Paperno
 b,r,e,a,k
-California,14
-teamInfo,Ursa Major,"Berkeley, California",,https://www.facebook.com/CalMensUltimate/,https://twitter.com/calmensultimate?lang=en
-coaches,Daniel Silverstein,Evan Magsig
-00,Gavin May
-01,Renzo Soatto
-02,Lawson Graham
-04,Samuel Laur
-05,Robert McCabe
-06,Kushal Khangaonkar
-08,Drew Palmer
-09,Evan Kandell
-10,Donovan Mierlak
-11,Emery Goulet
-14,Dexter Clyburn
-20,Owen Zuidema
-21,Ridge Huang
-23,Vincent Su
-24,Carter Lankford
-26,Aditya  Vunnum
-32,Camden Mah
-33,Lucas Intagliata
-43,Gabriel Gatewood-Wolfe
-97,Eric Johnson
-99,Vikram Deepak
-b,r,e,a,k
 Brown,7
 teamInfo,Brownian Motion,"Providence, Rhode Island",http://www.brown.edu/Athletics/Mens_Ultimate/,https://www.facebook.com/brownultimatefrisbee,https://twitter.com/BMoUltimate
 coaches,James Smart
@@ -231,6 +206,31 @@ coaches,James Smart
 84,Andrew Hardy
 95,Siddharth Yende
 99,Henry Egan
+b,r,e,a,k
+California,14
+teamInfo,Ursa Major,"Berkeley, California",,https://www.facebook.com/CalMensUltimate/,https://twitter.com/calmensultimate?lang=en
+coaches,Daniel Silverstein,Evan Magsig
+00,Gavin May
+01,Renzo Soatto
+02,Lawson Graham
+04,Samuel Laur
+05,Robert McCabe
+06,Kushal Khangaonkar
+08,Drew Palmer
+09,Evan Kandell
+10,Donovan Mierlak
+11,Emery Goulet
+14,Dexter Clyburn
+20,Owen Zuidema
+21,Ridge Huang
+23,Vincent Su
+24,Carter Lankford
+26,Aditya  Vunnum
+32,Camden Mah
+33,Lucas Intagliata
+43,Gabriel Gatewood-Wolfe
+97,Eric Johnson
+99,Vikram Deepak
 b,r,e,a,k
 Minnesota,11
 teamInfo,Grey Duck,"Minneapolis, Minnesota",http://mngreyduck.weebly.com/,https://www.facebook.com/MNGreyDuck,@1Duck1Love
@@ -316,6 +316,35 @@ coaches,Tim Gilligan,Sean Liston,Cody Mills
 88,Alex Herman
 96,Martin  Doherty
 b,r,e,a,k
+Vermont,3
+teamInfo,Chill,"Burlington, Vermont",,https://www.facebook.com/Team.Chill.33/,https://twitter.com/team_chill
+coaches,Jacob Saunders,Kyle Weatherhogg
+00,Chase Drinkwater
+02,Kuochuan Ponzio
+04,Benjamin Payson
+06,Gabriele Kautz
+07,Turner Allen
+08,Eli Standard
+09,True Hanson
+11,Gabriel Smestad
+15,James Cairn
+16,Grant Goodale
+17,Moses Delane
+18,Casey Thornton
+19,Christopher Kiepert
+21,Luca Stuccio
+22,Zachary Watson-Stevens
+23,Kristof Rohaly-Medved
+24,Nico Christakos
+28,Leo Sarandos
+33,John Sickles
+36,Carl Crawford
+37,Parker Lin-Butler
+42,Ryan Bliss
+44,Carter Lawless
+72,Jack Rice
+82,Declan Kervick
+b,r,e,a,k
 Carleton College,10
 teamInfo,CUT,"Northfield, Minnesota",https://www.carleton.edu/student/orgs/cut/,https://www.facebook.com/CUTrules,https://twitter.com/cutrules
 coaches,Philip Bowen,Noah Hanson,Dillon Lanier,Tim Schoch
@@ -346,35 +375,6 @@ coaches,Philip Bowen,Noah Hanson,Dillon Lanier,Tim Schoch
 64,Leo Xiao
 66,Dexter  Pakula
 77,William Fleming
-b,r,e,a,k
-Vermont,3
-teamInfo,Chill,"Burlington, Vermont",,https://www.facebook.com/Team.Chill.33/,https://twitter.com/team_chill
-coaches,Jacob Saunders,Kyle Weatherhogg
-00,Chase Drinkwater
-02,Kuochuan Ponzio
-04,Benjamin Payson
-06,Gabriele Kautz
-07,Turner Allen
-08,Eli Standard
-09,True Hanson
-11,Gabriel Smestad
-15,James Cairn
-16,Grant Goodale
-17,Moses Delane
-18,Casey Thornton
-19,Christopher Kiepert
-21,Luca Stuccio
-22,Zachary Watson-Stevens
-23,Kristof Rohaly-Medved
-24,Nico Christakos
-28,Leo Sarandos
-33,John Sickles
-36,Carl Crawford
-37,Parker Lin-Butler
-42,Ryan Bliss
-44,Carter Lawless
-72,Jack Rice
-82,Declan Kervick
 b,r,e,a,k
 Michigan,19
 teamInfo,MagnUM,"Ann Arbor, Michigan",http://www.magnumultimate.com/,https://www.facebook.com/magnUMultimatefrisbee/,https://twitter.com/magnUMultimate
@@ -613,7 +613,7 @@ Minnesota,California,14,15,"05/26/2023, 13:00",Pool B,Final
 Massachusetts,Brown,15,12,"05/26/2023, 13:00",Pool B,Final
 Minnesota,Utah State,15,13,"05/26/2023, 17:00",Pool B,Final
 California,Utah State,15,11,"05/27/2023, 08:30",Pool B,Final
-Brown,Minnesota,15,14,"05/27/2023, 10:30",Pool B,Scheduled
+Brown,Minnesota,15,14,"05/27/2023, 10:30",Pool B,Final
 Massachusetts,California,15,10,"05/27/2023, 10:30",Pool B,Final
 Massachusetts,Minnesota,0,0,"05/27/2023, 15:00",Pool B,Scheduled
 Brown,Utah State,0,0,"05/27/2023, 15:00",Pool B,Scheduled
@@ -623,7 +623,7 @@ Carleton College,Michigan,14,13,"05/26/2023, 10:30",Pool C,Final
 Carleton College,North Carolina State,15,10,"05/26/2023, 15:00",Pool C,Final
 Vermont,Cal Poly-SLO,9,14,"05/26/2023, 15:00",Pool C,Final
 Vermont,Michigan,15,13,"05/26/2023, 17:00",Pool C,Final
-Cal Poly-SLO,Carleton College,15,11,"05/27/2023, 10:30",Pool C,Scheduled
+Cal Poly-SLO,Carleton College,15,11,"05/27/2023, 10:30",Pool C,Final
 Vermont,North Carolina State,15,9,"05/27/2023, 10:30",Pool C,Final
 North Carolina State,Michigan,0,0,"05/27/2023, 13:00",Pool C,Scheduled
 Vermont,Carleton College,0,0,"05/27/2023, 15:00",Pool C,Scheduled
