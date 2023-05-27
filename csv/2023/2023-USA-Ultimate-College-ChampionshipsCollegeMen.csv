@@ -36,6 +36,33 @@ coaches,David Allison,Matt Gouchoe-Hanas
 88,Henry Chen
 95,Noah Bush
 b,r,e,a,k
+Oregon,8
+teamInfo,Ego,"Eugene, Oregon",,https://www.facebook.com/OneBigEgo/,https://twitter.com/egotime
+coaches,Braedon Petrus,Will Lohre
+00,Jack Gleason
+03,Keali Mccarter
+04,Daniel Ritthaler
+05,Itay Chang
+06,Jackson Knox
+08,Adam Wulkan
+09,Marcus Beidler
+11,Benjamin Keigwin
+14,Nicholas Cao
+15,Chander Boyd-Fliegel
+17,Max Arquilevich
+18,Marco Muralles
+23,Julian Saunt
+24,Mica Glass
+27,Mason  Weybright
+28,Max Massey
+34,Adam McNichols
+36,Gabriel Nobis
+45,Beckett Sessums
+48,Ben Horrisberger
+72,Aaron Kaplan
+77,Jackson Heglie
+81,Emmett Warner
+b,r,e,a,k
 Georgia,17
 teamInfo,Jojah,"Athens, Georgia",https://jojahultimatefrisbee.wordpress.com/,https://www.facebook.com/JojahUltimate,https://twitter.com/JojahUltimate
 coaches,Sam Batson,Elizabeth Leon,Ryan Hill
@@ -65,33 +92,6 @@ coaches,Sam Batson,Elizabeth Leon,Ryan Hill
 61,Carter Rathur
 88,Luke Cranor
 99,Matthew Fazzalaro
-b,r,e,a,k
-Oregon,8
-teamInfo,Ego,"Eugene, Oregon",,https://www.facebook.com/OneBigEgo/,https://twitter.com/egotime
-coaches,Braedon Petrus,Will Lohre
-00,Jack Gleason
-03,Keali Mccarter
-04,Daniel Ritthaler
-05,Itay Chang
-06,Jackson Knox
-08,Adam Wulkan
-09,Marcus Beidler
-11,Benjamin Keigwin
-14,Nicholas Cao
-15,Chander Boyd-Fliegel
-17,Max Arquilevich
-18,Marco Muralles
-23,Julian Saunt
-24,Mica Glass
-27,Mason  Weybright
-28,Max Massey
-34,Adam McNichols
-36,Gabriel Nobis
-45,Beckett Sessums
-48,Ben Horrisberger
-72,Aaron Kaplan
-77,Jackson Heglie
-81,Emmett Warner
 b,r,e,a,k
 California-Santa Cruz,12
 teamInfo,Slugs,"Santa Cruz, California",http://www.slugultimate.com/,https://www.facebook.com/slugultimate,https://twitter.com/slugultimate
@@ -601,9 +601,9 @@ North Carolina,Oregon,15,10,"05/26/2023, 10:30",Pool A,Final
 Oregon,Tufts,13,10,"05/26/2023, 15:00",Pool A,Final
 California-Santa Cruz,Georgia,13,14,"05/26/2023, 15:00",Pool A,Final
 North Carolina,Georgia,15,10,"05/26/2023, 17:00",Pool A,Final
-Oregon,California-Santa Cruz,14,9,"05/27/2023, 08:30",Pool A,Scheduled
+Oregon,California-Santa Cruz,14,9,"05/27/2023, 08:30",Pool A,Final
 North Carolina,Tufts,15,10,"05/27/2023, 08:30",Pool A,Final
-Tufts,Georgia,0,0,"05/27/2023, 10:30",Pool A,Scheduled
+Tufts,Georgia,2,3,"05/27/2023, 10:30",Pool A,Scheduled
 North Carolina,California-Santa Cruz,0,0,"05/27/2023, 13:00",Pool A,Scheduled
 Oregon,Georgia,0,0,"05/27/2023, 13:00",Pool A,Scheduled
 pool,Pool B
@@ -613,8 +613,8 @@ Minnesota,California,14,15,"05/26/2023, 13:00",Pool B,Final
 Massachusetts,Brown,15,12,"05/26/2023, 13:00",Pool B,Final
 Minnesota,Utah State,15,13,"05/26/2023, 17:00",Pool B,Final
 California,Utah State,15,11,"05/27/2023, 08:30",Pool B,Final
-Brown,Minnesota,0,0,"05/27/2023, 10:30",Pool B,Scheduled
-Massachusetts,California,0,0,"05/27/2023, 10:30",Pool B,Scheduled
+Brown,Minnesota,2,3,"05/27/2023, 10:30",Pool B,Scheduled
+Massachusetts,California,3,1,"05/27/2023, 10:30",Pool B,Scheduled
 Massachusetts,Minnesota,0,0,"05/27/2023, 15:00",Pool B,Scheduled
 Brown,Utah State,0,0,"05/27/2023, 15:00",Pool B,Scheduled
 pool,Pool C
@@ -623,8 +623,8 @@ Carleton College,Michigan,14,13,"05/26/2023, 10:30",Pool C,Final
 Carleton College,North Carolina State,15,10,"05/26/2023, 15:00",Pool C,Final
 Vermont,Cal Poly-SLO,9,14,"05/26/2023, 15:00",Pool C,Final
 Vermont,Michigan,15,13,"05/26/2023, 17:00",Pool C,Final
-Cal Poly-SLO,Carleton College,0,0,"05/27/2023, 10:30",Pool C,Scheduled
-Vermont,North Carolina State,0,0,"05/27/2023, 10:30",Pool C,Scheduled
+Cal Poly-SLO,Carleton College,2,1,"05/27/2023, 10:30",Pool C,Scheduled
+Vermont,North Carolina State,2,2,"05/27/2023, 10:30",Pool C,Scheduled
 North Carolina State,Michigan,0,0,"05/27/2023, 13:00",Pool C,Scheduled
 Vermont,Carleton College,0,0,"05/27/2023, 15:00",Pool C,Scheduled
 Cal Poly-SLO,Michigan,0,0,"05/27/2023, 15:00",Pool C,Scheduled
