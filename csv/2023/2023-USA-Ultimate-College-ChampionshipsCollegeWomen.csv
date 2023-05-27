@@ -160,25 +160,6 @@ coaches,Claire Chastain,Christina Mickle,Cassandra Swafford
 77,Emma Williamson
 97,Megan Kenny
 b,r,e,a,k
-Georgia,18
-teamInfo,Athena,"Athens, Georgia",,https://www.facebook.com/UniversityOfGeorgiaWomensUltimate/,https://twitter.com/UGAUltimate
-coaches,Jami Cashin,Grant Cashin
-01,Quincy Booth
-02,Michelle Tzou
-03,Fiona Cashin
-04,Samantha Chambers 
-06,Sarah Lang
-09,Elle Mayer
-10,Mia Tomay Bongcaron
-13,Briana Li
-14,Gracelyn Bayliss
-15,Sophia DeLuca
-20,Mae Kline
-22,Susannah Parker
-26,Korie Rudin
-27,Jane Brock
-33,Emma Tucker
-b,r,e,a,k
 Stanford,7
 teamInfo,Superfly,"Stanford, California",http://ultimate.stanford.edu,https://facebook.com/superflyulti,https://twitter.com/SuperflyUlti
 coaches,Robin Davis,Shayla Harris,Jamie Nuwer,Jennie Lummis
@@ -203,6 +184,25 @@ coaches,Robin Davis,Shayla Harris,Jamie Nuwer,Jennie Lummis
 55,Elena Kamas
 96,Yishu Chen
 98,Kiana Hu
+b,r,e,a,k
+Georgia,18
+teamInfo,Athena,"Athens, Georgia",,https://www.facebook.com/UniversityOfGeorgiaWomensUltimate/,https://twitter.com/UGAUltimate
+coaches,Jami Cashin,Grant Cashin
+01,Quincy Booth
+02,Michelle Tzou
+03,Fiona Cashin
+04,Samantha Chambers 
+06,Sarah Lang
+09,Elle Mayer
+10,Mia Tomay Bongcaron
+13,Briana Li
+14,Gracelyn Bayliss
+15,Sophia DeLuca
+20,Mae Kline
+22,Susannah Parker
+26,Korie Rudin
+27,Jane Brock
+33,Emma Tucker
 b,r,e,a,k
 Northeastern,11
 teamInfo,Valkyries A,"Boston, Massachusetts",http://www.ultimate.neu.edu/women/,,https://twitter.com/ValksUltimate
@@ -407,6 +407,32 @@ coaches,Daron Byerly,Sara Jacobi
 44,Emily Pozzy
 47,Izzy Pitman
 b,r,e,a,k
+Tufts,5
+teamInfo,Elephant Women,"Somerville, Massachusetts",https://www.instagram.com/tuftsewo/,https://www.facebook.com/tuftsewo/,https://twitter.com/ewonews
+coaches,Meriden Estes,Sangwha Hong,Megan Wilson,Margaret Pendleton
+02,Megan Lam
+05,Dorothy DiMascio-Donohue
+07,Morgan Owens
+08,Megan Mathieu
+09,Ariel Felcan
+10,Ryanne Barrett
+11,Rachel Levitt
+12,Leija Helling
+14,Carolynn Brooks
+15,Emily Kemp
+17,Brooke Chomko
+18,Hazel Ostrowski
+19,Michelle Wu
+20,Sofia Grose
+22,Olivia Goss
+23,Sadie  Schmitz
+27,Yayla Tur
+29,Sophie Hankin
+36,Katherine Lew
+45,Ellie Kowalski
+51,Cindy Zhang
+99,Lia Yamamoto Schwartz
+b,r,e,a,k
 Oregon,9
 teamInfo,Fugue,"Eugene, Oregon",http://oregonfugue.weebly.com/,https://www.facebook.com/Fugueultimate/,https://twitter.com/OregonFugue
 coaches,Katherine Wilson,Morgan Zajonc,Shaelynn Davis,Angela Lin
@@ -436,32 +462,6 @@ coaches,Katherine Wilson,Morgan Zajonc,Shaelynn Davis,Angela Lin
 72,Ezra Weybright
 88,Jessie Lew
 95,Ysabella Zaloudek-Luba
-b,r,e,a,k
-Tufts,5
-teamInfo,Elephant Women,"Somerville, Massachusetts",https://www.instagram.com/tuftsewo/,https://www.facebook.com/tuftsewo/,https://twitter.com/ewonews
-coaches,Meriden Estes,Sangwha Hong,Megan Wilson,Margaret Pendleton
-02,Megan Lam
-05,Dorothy DiMascio-Donohue
-07,Morgan Owens
-08,Megan Mathieu
-09,Ariel Felcan
-10,Ryanne Barrett
-11,Rachel Levitt
-12,Leija Helling
-14,Carolynn Brooks
-15,Emily Kemp
-17,Brooke Chomko
-18,Hazel Ostrowski
-19,Michelle Wu
-20,Sofia Grose
-22,Olivia Goss
-23,Sadie  Schmitz
-27,Yayla Tur
-29,Sophie Hankin
-36,Katherine Lew
-45,Ellie Kowalski
-51,Cindy Zhang
-99,Lia Yamamoto Schwartz
 b,r,e,a,k
 Victoria,16
 teamInfo,Vikes,"Victoria, British Columbia CA",,,
@@ -525,7 +525,7 @@ Stanford,Virginia,15,6,"05/26/2023, 08:30",Pool B,Final
 Northeastern,Virginia,9,8,"05/26/2023, 13:00",Pool B,Final
 Colorado,Stanford,14,13,"05/26/2023, 13:00",Pool B,Final
 Northeastern,Georgia,9,14,"05/26/2023, 17:00",Pool B,Final
-Virginia,Georgia,13,8,"05/27/2023, 08:30",Pool B,Scheduled
+Virginia,Georgia,13,8,"05/27/2023, 08:30",Pool B,Final
 Stanford,Northeastern,0,0,"05/27/2023, 10:30",Pool B,Scheduled
 Colorado,Virginia,0,0,"05/27/2023, 10:30",Pool B,Scheduled
 Colorado,Northeastern,0,0,"05/27/2023, 15:00",Pool B,Scheduled
@@ -547,7 +547,7 @@ Oregon,Carnegie Mellon,14,8,"05/26/2023, 08:30",Pool D,Final
 Vermont,Carnegie Mellon,15,4,"05/26/2023, 13:00",Pool D,Final
 Oregon,Victoria,14,11,"05/26/2023, 13:00",Pool D,Final
 Vermont,Tufts,15,8,"05/26/2023, 17:00",Pool D,Final
-Tufts,Oregon,12,11,"05/27/2023, 08:30",Pool D,Scheduled
+Tufts,Oregon,13,12,"05/27/2023, 08:30",Pool D,Final
 Vermont,Victoria,13,6,"05/27/2023, 08:30",Pool D,Scheduled
 Vermont,Oregon,0,0,"05/27/2023, 13:00",Pool D,Scheduled
 Tufts,Carnegie Mellon,0,0,"05/27/2023, 13:00",Pool D,Scheduled
