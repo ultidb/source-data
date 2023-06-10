@@ -32,33 +32,6 @@ teamInfo,,"Asheville, North Carolina",http://www.ashevilleultimate.org/club,http
 97,David Goldsmith
 99,George Bumgardner
 b,r,e,a,k
-Stale Pretzels,9
-teamInfo,,"Chattanooga, Tennessee",,,
-0,Brandon Staggs
-0,Carlton Smith
-0,Colie Cain
-0,Gerleen Dineros
-0,JO Watson
-0,Jon Reed
-0,Natalie Hollenback
-0,Sydnee Hanson
-0,Thomas Larocco
-2,Jared Trevor
-5,Adam Garrison
-5,Neil Place
-8,Roger King
-13,Brittany Williamson
-13,Jeff Nowiski
-17,Craig Wong
-23,Kenneth Andejeski
-37,Mathew Taylor
-38,Clay Thomas
-40,Nicholas Stewart
-48,Kelsey Cline
-77,Anthony Cain
-78,Charlotte Purcell
-99,Josh Hudson
-b,r,e,a,k
 Upwinded,8
 teamInfo,,"Charleston, South Carolina",,,
 0,Ali Rockett
@@ -89,6 +62,33 @@ teamInfo,,"Charleston, South Carolina",,,
 28,Melani Morales
 33,Nick Jewell
 98,Julia Schroeder
+b,r,e,a,k
+Stale Pretzels,9
+teamInfo,,"Chattanooga, Tennessee",,,
+0,Brandon Staggs
+0,Carlton Smith
+0,Colie Cain
+0,Gerleen Dineros
+0,JO Watson
+0,Jon Reed
+0,Natalie Hollenback
+0,Sydnee Hanson
+0,Thomas Larocco
+2,Jared Trevor
+5,Adam Garrison
+5,Neil Place
+8,Roger King
+13,Brittany Williamson
+13,Jeff Nowiski
+17,Craig Wong
+23,Kenneth Andejeski
+37,Mathew Taylor
+38,Clay Thomas
+40,Nicholas Stewart
+48,Kelsey Cline
+77,Anthony Cain
+78,Charlotte Purcell
+99,Josh Hudson
 b,r,e,a,k
 Shipwreck,2
 teamInfo,,"Cincinnati, Ohio",https://cincyultimate.org/teams/shipwreck,https://www.facebook.com/shipwreckulty/,https://twitter.com/shipwreckulty
@@ -312,34 +312,6 @@ teamInfo,,"Raleigh, North Carolina",,,
 89,Jo Cheng
 91,Renee Tamming
 b,r,e,a,k
-Yacht Club,13
-teamInfo,,"Raleigh, North Carolina",https://www.instagram.com/yachtclub_ulti/,,
-0,Alex Taylor
-0,Anthony Spizzirri
-0,Ashley Johnston
-0,Audrey Siple
-0,Brian Dahlben
-0,Caroline Saul
-0,Chris Love
-0,Dorothy Kimel-Scott
-0,Emily Mangone
-0,Erin Love
-0,Gracyn Bancroft
-0,Ingrid Humphrey
-0,James Carter
-0,Kristen Walfield
-0,Lauren Wyatt
-0,Matt Stevenson
-0,Matthew Raskind
-0,Molly Arwood
-0,Sarah (Sadie) Nott
-0,Timothy Glover
-9,Sean Stasiak
-13,Daniel Brown
-17,Schuyler Kylstra
-24,Sean Johnston
-41,William Clark
-b,r,e,a,k
 Old Dog.,12
 teamInfo,,"Knoxville, Tennessee",,,
 04,Katie Cooper
@@ -368,12 +340,40 @@ teamInfo,,"Knoxville, Tennessee",,,
 88,Jeremy Yuill
 89,Dylan Elder
 b,r,e,a,k
+Yacht Club,13
+teamInfo,,"Raleigh, North Carolina",https://www.instagram.com/yachtclub_ulti/,,
+0,Alex Taylor
+0,Anthony Spizzirri
+0,Ashley Johnston
+0,Audrey Siple
+0,Brian Dahlben
+0,Caroline Saul
+0,Chris Love
+0,Dorothy Kimel-Scott
+0,Emily Mangone
+0,Erin Love
+0,Gracyn Bancroft
+0,Ingrid Humphrey
+0,James Carter
+0,Kristen Walfield
+0,Lauren Wyatt
+0,Matt Stevenson
+0,Matthew Raskind
+0,Molly Arwood
+0,Sarah (Sadie) Nott
+0,Timothy Glover
+9,Sean Stasiak
+13,Daniel Brown
+17,Schuyler Kylstra
+24,Sean Johnston
+41,William Clark
+b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
 Antiques Roadshow,Stale Pretzels,13,4,"06/10/2023, 09:00",Pool A,Final
 Upwinded,Stale Pretzels,11,12,"06/10/2023, 10:45",Pool A,Final
-Antiques Roadshow,Upwinded,0,0,"06/10/2023, 12:30",Pool A,Scheduled
+Antiques Roadshow,Upwinded,11,12,"06/10/2023, 12:30",Pool A,Final
 pool,Pool B
 Shipwreck,Dollytown Lollypops,13,9,"06/10/2023, 09:00",Pool B,Final
 Old Money,Dollytown Lollypops,5,13,"06/10/2023, 10:45",Pool B,Final
@@ -381,21 +381,24 @@ Shipwreck,Old Money,13,1,"06/10/2023, 12:30",Pool B,Final
 pool,Pool C
 Day Shift,edad,13,5,"06/10/2023, 09:00",Pool C,Final
 Terrible Fish,edad,13,6,"06/10/2023, 10:45",Pool C,Final
-Day Shift,Terrible Fish,0,0,"06/10/2023, 12:30",Pool C,Scheduled
+Day Shift,Terrible Fish,11,10,"06/10/2023, 12:30",Pool C,Final
 pool,Pool D
 Joint Pain,Yacht Club,13,9,"06/10/2023, 10:45",Pool D,Final
 Atlanta Fawkes,Old Dog.,13,3,"06/10/2023, 10:45",Pool D,Final
 Joint Pain,Atlanta Fawkes,2,13,"06/10/2023, 12:30",Pool D,Final
-Old Dog.,Yacht Club,0,0,"06/10/2023, 12:30",Pool D,Scheduled
+Old Dog.,Yacht Club,12,11,"06/10/2023, 12:30",Pool D,Final
 b,r,e,a,k
 brackets,Championship
 bracket,1st Place
+Antiques Roadshow,Atlanta Fawkes,0,0,"06/10/2023, 14:15",1st Semis,Scheduled
 b,r,e,a,k
 brackets,Championship
 bracket,2nd Place
+Upwinded,Joint Pain,0,0,"06/10/2023, 14:15",2nd Pre-Quarters,Scheduled
 b,r,e,a,k
 brackets,Championship
 bracket,4th Place
+Stale Pretzels,Old Dog.,0,0,"06/10/2023, 14:15",4th Pool Play,In Progress
 b,r,e,a,k
 brackets,Championship
 bracket,6th Place
