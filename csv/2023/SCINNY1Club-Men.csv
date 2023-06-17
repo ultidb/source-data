@@ -331,7 +331,7 @@ CMen,Impulse,0,0,"06/17/2023, 14:00",Pool B,Scheduled
 pool,Pool C
 Hazard,Flying Pig,11,8,"06/17/2023, 10:00",Pool C,Final
 Hazard,Chimney,7,15,"06/17/2023, 12:00",Pool C,Final
-Chimney,Flying Pig,0,0,"06/17/2023, 14:00",Pool C,Scheduled
+Chimney,Flying Pig,15,5,"06/17/2023, 14:00",Pool C,Final
 pool,Pool D
 Black Lung,Scoop,13,0,"06/17/2023, 10:00",Pool D,Final
 Flying Dutchmen,On Ramp,13,3,"06/17/2023, 10:00",Pool D,Final
@@ -341,9 +341,13 @@ Black Lung,Flying Dutchmen,0,0,"06/17/2023, 14:00",Pool D,Scheduled
 Scoop,On Ramp,6,13,"06/17/2023, 14:00",Pool D,Final
 b,r,e,a,k
 clusters,Pre-Quarters
+cluster,Pre-Quarters
+Beacon,Chimney,0,0,"06/17/2023, 16:00",,Scheduled
 b,r,e,a,k
 brackets,Championship
 bracket,Championship
+Hazard,Enigma,0,0,"06/17/2023, 16:00",Pre-Quarters,Scheduled
+Diesel,Flying Pig,0,0,"06/17/2023, 16:00",Pre-Quarters,Scheduled
 b,r,e,a,k
 brackets,Placement Games
 bracket,3rd Place
