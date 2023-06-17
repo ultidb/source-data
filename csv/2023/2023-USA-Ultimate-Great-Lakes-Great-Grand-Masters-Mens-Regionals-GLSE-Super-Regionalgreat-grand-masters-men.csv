@@ -84,6 +84,34 @@ teamInfo,,"Cincinanti, Ohio",https://www.facebook.com/AgeAgainstTheMachineUltima
 86,William DaRosa
 88,Tom Phillips
 b,r,e,a,k
+Recycled,3
+teamInfo,,"Decatur, Georgia",,,
+0,Gregory Allpow
+01,Mo Bunnell
+02,Bryant Depenbrok
+03,Grant Cashin
+04,Chris Cleaver
+05,David Goode
+06,Charles Yood
+07,Hector Fulco
+08,Pablo Jose Saade Garcia
+09,Mark Stuewe
+13,Luis Novoa
+16,Nick Josties
+18,Alan Reeves
+21,James Allen
+23,Calvin Lin
+25,Richard Hale Brown
+28,Florian Pfender
+44,Marc Seto
+52,Richard Whitcomb
+55,Rich Franck
+67,Jason Kirkpatrick
+71,Eric Nelson
+73,Greg Murray
+91,Jens Achenbach
+98,Gregg Shapiro
+b,r,e,a,k
 CHRONIC,2
 teamInfo,,"Chicago, Illinois",,,
 01,Marc Landau
@@ -112,34 +140,6 @@ teamInfo,,"Chicago, Illinois",,,
 68,Tim Gallagher
 84,Patrick Prendergast
 85,Graham Brisben
-b,r,e,a,k
-Recycled,3
-teamInfo,,"Decatur, Georgia",,,
-0,Gregory Allpow
-01,Mo Bunnell
-02,Bryant Depenbrok
-03,Grant Cashin
-04,Chris Cleaver
-05,David Goode
-06,Charles Yood
-07,Hector Fulco
-08,Pablo Jose Saade Garcia
-09,Mark Stuewe
-13,Luis Novoa
-16,Nick Josties
-18,Alan Reeves
-21,James Allen
-23,Calvin Lin
-25,Richard Hale Brown
-28,Florian Pfender
-44,Marc Seto
-52,Richard Whitcomb
-55,Rich Franck
-67,Jason Kirkpatrick
-71,Eric Nelson
-73,Greg Murray
-91,Jens Achenbach
-98,Gregg Shapiro
 b,r,e,a,k
 Zombiemaker,5
 teamInfo,,"Chicago, Illinois",,,
@@ -178,15 +178,18 @@ HURT,AGE Against the Machine GGM,15,5,"06/17/2023, 10:00",Pool A,Final
 HURT,TriAged,15,3,"06/17/2023, 12:00",Pool A,Final
 TriAged,AGE Against the Machine GGM,15,13,"06/17/2023, 14:00",Pool A,Final
 pool,Pool B
-CHRONIC,Zombiemaker,0,0,"06/17/2023, 10:00",Pool B,Scheduled
-CHRONIC,Recycled,0,0,"06/17/2023, 12:00",Pool B,Scheduled
-Recycled,Zombiemaker,0,0,"06/17/2023, 14:00",Pool B,Scheduled
+CHRONIC,Zombiemaker,13,8,"06/17/2023, 10:00",Pool B,Final
+CHRONIC,Recycled,10,15,"06/17/2023, 12:00",Pool B,Final
+Recycled,Zombiemaker,15,7,"06/17/2023, 14:00",Pool B,Final
 b,r,e,a,k
 brackets,Championship
 bracket,1st Place
+HURT,Recycled,0,0,"06/18/2023, 09:00",1st Place,Scheduled
 b,r,e,a,k
 brackets,Placement
 bracket,2nd Place
+TriAged,Zombiemaker,0,0,"06/18/2023, 09:00",2nd Place Quarters,Scheduled
+AGE Against the Machine GGM,CHRONIC,0,0,"06/18/2023, 09:00",2nd Place Quarters,Scheduled
 b,r,e,a,k
 brackets,Placement
 bracket,4th Place
