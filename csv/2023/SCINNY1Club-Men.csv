@@ -27,26 +27,6 @@ teamInfo,,"Grand Rapids, Michigan",,,https://twitter.com/BeaconUlti
 81,Alec DenBraber
 84,Michael Weber
 b,r,e,a,k
-Enigma,8
-teamInfo,,"Dayton, Ohio",,https://www.facebook.com/pages/Enigma/112703698822469?ref=hl,
-0,Carl Ahlborg
-0,Isaac Hubble
-0,Tobiah Weyer
-8,Nate Olander
-9,Jake Blue
-10,Riley Ulmer
-11,Lloyd Goldstein
-16,Taylor Chatfield
-17,Sean Shields
-17,Daniel MacManus
-21,Ben Knoth
-23,Derek Fitch
-31,Chetan Gomatam
-33,Andrew Fassler
-46,Ian Ehlers 
-59,Brent Poynter
-98,Jarod Garel
-b,r,e,a,k
 Diesel,9
 teamInfo,,"Ann Arbor, Michigan",,,
 0,Alex Barber
@@ -73,6 +53,26 @@ teamInfo,,"Ann Arbor, Michigan",,,
 58,Samuel Pierson
 76,Matthew Bell
 85,Dafeng Chen
+b,r,e,a,k
+Enigma,8
+teamInfo,,"Dayton, Ohio",,https://www.facebook.com/pages/Enigma/112703698822469?ref=hl,
+0,Carl Ahlborg
+0,Isaac Hubble
+0,Tobiah Weyer
+8,Nate Olander
+9,Jake Blue
+10,Riley Ulmer
+11,Lloyd Goldstein
+16,Taylor Chatfield
+17,Sean Shields
+17,Daniel MacManus
+21,Ben Knoth
+23,Derek Fitch
+31,Chetan Gomatam
+33,Andrew Fassler
+46,Ian Ehlers 
+59,Brent Poynter
+98,Jarod Garel
 b,r,e,a,k
 I-69,2
 teamInfo,,"Indianapolis, Indiana",,,
@@ -213,6 +213,33 @@ coaches,Zach Kaylor
 73,Kale Kessler
 88,Owen Ball
 b,r,e,a,k
+Flying Dutchmen,5
+teamInfo,,"Columbus, Ohio",,,
+0,Adam Perks
+0,Eric Wright
+0,Eric Coglianese
+0,Jason Wherry
+0,Kenton Lawson
+0,Calum Ridenour
+0,Lucas Nestor
+0,Nick Sophocleous
+3,David Braden
+4,David Hazlett
+7,Brock Stephan
+9,Austin Riegel
+11,Andrew Thompson
+12,Alec Mathena
+15,Ben Haywood
+15,Nicholas Kaiser
+16,Anthony Sanderell
+17,Nicholas Ondrejko
+19,Avery Gleeson
+23,Kyle Murray
+32,Nate Dikeman
+72,Shane Spiegel
+93,Peter Zhang
+98,Brian Griffiths
+b,r,e,a,k
 Black Lung,4
 teamInfo,,"Lexington, Kentucky",,,https://twitter.com/blacklungulti?lang=en
 0,Christopher Powers
@@ -241,33 +268,6 @@ teamInfo,,"Lexington, Kentucky",,,https://twitter.com/blacklungulti?lang=en
 53,Jacob Gowan
 55,John Blair
 72,Jake Montgomery
-b,r,e,a,k
-Flying Dutchmen,5
-teamInfo,,"Columbus, Ohio",,,
-0,Adam Perks
-0,Eric Wright
-0,Eric Coglianese
-0,Jason Wherry
-0,Kenton Lawson
-0,Calum Ridenour
-0,Lucas Nestor
-0,Nick Sophocleous
-3,David Braden
-4,David Hazlett
-7,Brock Stephan
-9,Austin Riegel
-11,Andrew Thompson
-12,Alec Mathena
-15,Ben Haywood
-15,Nicholas Kaiser
-16,Anthony Sanderell
-17,Nicholas Ondrejko
-19,Avery Gleeson
-23,Kyle Murray
-32,Nate Dikeman
-72,Shane Spiegel
-93,Peter Zhang
-98,Brian Griffiths
 b,r,e,a,k
 On Ramp,11
 teamInfo,,"Indianapolis, Indiana",,,
@@ -322,7 +322,7 @@ s,t,a,g,e,s
 pools,SCINNY
 pool,Pool A
 Beacon,Diesel,15,7,"06/17/2023, 10:00",Pool A,Final
-Beacon,Enigma,0,0,"06/17/2023, 12:00",Pool A,Scheduled
+Beacon,Enigma,15,3,"06/17/2023, 12:00",Pool A,Final
 Enigma,Diesel,0,0,"06/17/2023, 14:00",Pool A,Scheduled
 pool,Pool B
 I-69,Impulse,15,3,"06/17/2023, 10:00",Pool B,Final
@@ -336,7 +336,7 @@ pool,Pool D
 Black Lung,Scoop,13,0,"06/17/2023, 10:00",Pool D,Final
 Flying Dutchmen,On Ramp,13,3,"06/17/2023, 10:00",Pool D,Final
 Black Lung,On Ramp,0,0,"06/17/2023, 12:00",Pool D,Scheduled
-Flying Dutchmen,Scoop,0,0,"06/17/2023, 12:00",Pool D,Scheduled
+Flying Dutchmen,Scoop,13,0,"06/17/2023, 12:00",Pool D,Final
 Black Lung,Flying Dutchmen,0,0,"06/17/2023, 14:00",Pool D,Scheduled
 Scoop,On Ramp,0,0,"06/17/2023, 14:00",Pool D,Scheduled
 b,r,e,a,k
