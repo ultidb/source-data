@@ -22,6 +22,24 @@ teamInfo,,"Brooklyn, New York",,,https://twitter.com/nyc_blueprint
 25,Drew Schnaudigel
 69,Garrett Wibbelsman
 b,r,e,a,k
+DiX,4
+teamInfo,,"Boston, Massachusetts",,,
+0,Colin Sunde
+0,Ethan Fortin
+0,Griffin Gee
+0,Josh Markette
+0,Matthew Orr
+0,Owen Cordes
+0,Topher Davis
+0,Turner Allen
+2,Simon Carapella
+3,Henry Laseter
+12,Mac Hecht
+19,Solomon Rueschemeyer-Bailey
+23,Thomas Griffin
+27,Caelan McSweeney
+42,Leo Gordon
+b,r,e,a,k
 Big Wrench,1
 teamInfo,,"Somerville, Massachusetts",http://bigwrenchultimate.com,https://www.facebook.com/BigWrenchUlt,https://twitter.com/BigWrenchUlt
 0,Adrian Staples
@@ -49,25 +67,6 @@ teamInfo,,"Somerville, Massachusetts",http://bigwrenchultimate.com,https://www.f
 37,Noah Weintraub
 50,Roman Short
 b,r,e,a,k
-DiZ,6
-teamInfo,,"Boston, Massachusetts",,,
-0,Ben Chamis
-0,Calvin Wicks
-0,Dallon Archibald
-0,David Pinto
-0,Gabriel Colton
-0,Joseph Michaud
-0,Louis Douville Beaudoin
-0,Max Hemeon
-0,Orion Cable
-0,Peter Boerth
-0,Toshihiro Nagase
-3,Ben Sadok
-5,Noah Backer
-6,Cole Moore
-33,Reed Browning
-35,Dan Goldstein
-b,r,e,a,k
 Sprout,2
 teamInfo,,"Devens, Massachusetts",,,
 0,Bryan Dole
@@ -91,23 +90,37 @@ teamInfo,,"Devens, Massachusetts",,,
 80,Chris Bartoli
 81,Geir Hartl
 b,r,e,a,k
-DiX,4
+DiZ,6
 teamInfo,,"Boston, Massachusetts",,,
-0,Colin Sunde
-0,Ethan Fortin
-0,Griffin Gee
-0,Josh Markette
-0,Matthew Orr
-0,Owen Cordes
-0,Topher Davis
-0,Turner Allen
-2,Simon Carapella
-3,Henry Laseter
-12,Mac Hecht
-19,Solomon Rueschemeyer-Bailey
-23,Thomas Griffin
-27,Caelan McSweeney
-42,Leo Gordon
+0,Ben Chamis
+0,Calvin Wicks
+0,Dallon Archibald
+0,David Pinto
+0,Gabriel Colton
+0,Joseph Michaud
+0,Louis Douville Beaudoin
+0,Max Hemeon
+0,Orion Cable
+0,Peter Boerth
+0,Toshihiro Nagase
+3,Ben Sadok
+5,Noah Backer
+6,Cole Moore
+33,Reed Browning
+35,Dan Goldstein
+b,r,e,a,k
+Retired,7
+teamInfo,,"Amherst, Massachusetts",,,
+0,Benjamin Weinstein
+0,Carl Crawford
+0,Chase Drinkwater
+0,Christopher Kiepert
+0,Leo Sarandos
+0,Nico Christakos
+9,Jack Rice
+9,Jae Lee
+22,Zachary Watson-Stevens
+69,Owen Young
 b,r,e,a,k
 DiY,5
 teamInfo,,"Boston, Massachusetts",,,
@@ -140,36 +153,23 @@ teamInfo,,"Amherst, Massachusetts",,,
 23,Carter Stevens
 82,Declan Kervick
 b,r,e,a,k
-Retired,7
-teamInfo,,"Amherst, Massachusetts",,,
-0,Benjamin Weinstein
-0,Carl Crawford
-0,Chase Drinkwater
-0,Christopher Kiepert
-0,Leo Sarandos
-0,Nico Christakos
-9,Jack Rice
-9,Jae Lee
-22,Zachary Watson-Stevens
-69,Owen Young
-b,r,e,a,k
 s,t,a,g,e,s
 pools,Round Robin
 pool,Pool A
-DiZ,Retired,0,0,"06/18/2023, 09:00",Pool A,Scheduled
+DiZ,Retired,13,10,"06/18/2023, 09:00",Pool A,Scheduled
 Big Wrench,Blueprint,10,13,"06/18/2023, 09:00",Pool A,Final
-DiY,DiX,0,0,"06/18/2023, 09:00",Pool A,Scheduled
-Sprout,Blueprint,0,0,"06/18/2023, 10:40",Pool A,Scheduled
+DiY,DiX,10,13,"06/18/2023, 09:00",Pool A,Final
+Sprout,Blueprint,8,13,"06/18/2023, 10:40",Pool A,Scheduled
 Big Wrench,DiZ,11,13,"06/18/2023, 10:40",Pool A,Final
-DiY,Tire,0,0,"06/18/2023, 10:40",Pool A,Scheduled
+DiY,Tire,13,6,"06/18/2023, 10:40",Pool A,Scheduled
 Big Wrench,Sprout,11,13,"06/18/2023, 12:20",Pool A,Final
-Blueprint,Tire,0,0,"06/18/2023, 12:20",Pool A,Scheduled
-DiX,DiZ,0,0,"06/18/2023, 12:20",Pool A,Scheduled
-DiY,Retired,0,0,"06/18/2023, 12:20",Pool A,Scheduled
-Sprout,Tire,0,0,"06/18/2023, 14:00",Pool A,Scheduled
-Blueprint,DiY,0,0,"06/18/2023, 14:00",Pool A,Scheduled
-DiX,Retired,0,0,"06/18/2023, 14:00",Pool A,Scheduled
-Sprout,DiX,0,0,"06/18/2023, 15:40",Pool A,Scheduled
+Blueprint,Tire,13,12,"06/18/2023, 12:20",Pool A,Scheduled
+DiX,DiZ,9,5,"06/18/2023, 12:20",Pool A,Scheduled
+DiY,Retired,13,6,"06/18/2023, 12:20",Pool A,Scheduled
+Sprout,Tire,13,5,"06/18/2023, 14:00",Pool A,Scheduled
+Blueprint,DiY,6,9,"06/18/2023, 14:00",Pool A,Scheduled
+DiX,Retired,W,L,"06/18/2023, 14:00",Pool A,Scheduled
+Sprout,DiX,7,13,"06/18/2023, 15:40",Pool A,Scheduled
 Big Wrench,Retired,13,10,"06/18/2023, 15:40",Pool A,Final
-DiZ,Tire,0,0,"06/18/2023, 15:40",Pool A,Scheduled
+DiZ,Tire,13,6,"06/18/2023, 15:40",Pool A,Scheduled
 b,r,e,a,k
