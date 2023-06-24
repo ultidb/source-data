@@ -169,6 +169,33 @@ teamInfo,,"Atlanta, Georgia",,,
 42,Carl Peterson
 92,Geoffrey 'Bo' Price
 b,r,e,a,k
+Atlanta Arson,6
+teamInfo,,"Atlanta, Georgia",,,https://twitter.com/atlantaarson
+0,Carlo Vanni
+0,Christian  Montufar
+0,Evan Amon
+0,Hamilton Mebius
+0,Jaden Medley-Fowlkes
+0,Kevin Miller
+0,Krishan Chib
+0,Kyle Mullins
+0,Maxwell Lopez
+0,Robert Mobley
+1,Spencer Pennington
+1,Jay Burnett
+3,Harrison  Briggs 
+4,Vinny Nguyen
+9,Foster Boales
+11,Lee Phan
+13,Flavius Penescu
+16,Tanjid Mitul
+20,Dacree Harden
+24,Elliott Park
+29,Kai Diez
+36,Eric Frega
+66,Jaylon Boone
+69,John Broling
+b,r,e,a,k
 Foxtrot,10
 teamInfo,,"Austin, Texas",,,
 0,Ethan Ege
@@ -212,62 +239,6 @@ teamInfo,,"Mobile, Alabama",,,
 33,Nicholas Cockrell
 85,Matthew Skinner
 b,r,e,a,k
-Atlanta Arson,6
-teamInfo,,"Atlanta, Georgia",,,https://twitter.com/atlantaarson
-0,Carlo Vanni
-0,Christian  Montufar
-0,Evan Amon
-0,Hamilton Mebius
-0,Jaden Medley-Fowlkes
-0,Kevin Miller
-0,Krishan Chib
-0,Kyle Mullins
-0,Maxwell Lopez
-0,Robert Mobley
-1,Spencer Pennington
-1,Jay Burnett
-3,Harrison  Briggs 
-4,Vinny Nguyen
-9,Foster Boales
-11,Lee Phan
-13,Flavius Penescu
-16,Tanjid Mitul
-20,Dacree Harden
-24,Elliott Park
-29,Kai Diez
-36,Eric Frega
-66,Jaylon Boone
-69,John Broling
-b,r,e,a,k
-Villains,11
-teamInfo,,"Nashville, Tennessee",http://nashvilleultimate.com/ycc,,
-00,Benjamin Price
-00,Dane Gore
-00,Gavin Higgins
-00,Gavriel Wiggins
-00,JohnThomas Atema
-00,Luke Allison
-00,Nate Bertelsen
-00,Nathan Rainey
-00,Tobin Beichler
-00,Will McAfee
-00,William Stickles
-06,Andrew Coward
-b,r,e,a,k
-Ronin,14
-teamInfo,,"Madison, Alabama",,,
-0,Alec Minnicks
-0,Alexander DiBenio
-0,Benjamin Forton
-0,Horace Wilson
-0,Jason Eames
-0,Samuel Williams
-0,Zachary Moore
-24,Danny Lee
-42,Noah Schwalb
-75,Ethan Moldofsky
-91,Jonathan Sillivant
-b,r,e,a,k
 Raptor,3
 teamInfo,,"Orlando, Florida",,,
 0,Chris O'Connor
@@ -288,6 +259,20 @@ teamInfo,,"Orlando, Florida",,,
 81,Eric Kieffer
 85,Eric Tumelty
 87,Matt Outlaw
+b,r,e,a,k
+Ronin,14
+teamInfo,,"Madison, Alabama",,,
+0,Alec Minnicks
+0,Alexander DiBenio
+0,Benjamin Forton
+0,Horace Wilson
+0,Jason Eames
+0,Samuel Williams
+0,Zachary Moore
+24,Danny Lee
+42,Noah Schwalb
+75,Ethan Moldofsky
+91,Jonathan Sillivant
 b,r,e,a,k
 Nashville Mudcats,7
 teamInfo,,"Nashville, Tennessee",,,
@@ -318,6 +303,21 @@ teamInfo,,"Nashville, Tennessee",,,
 58,Armando Olivares
 96,Dillon Knight
 b,r,e,a,k
+Villains,11
+teamInfo,,"Nashville, Tennessee",http://nashvilleultimate.com/ycc,,
+00,Benjamin Price
+00,Dane Gore
+00,Gavin Higgins
+00,Gavriel Wiggins
+00,JohnThomas Atema
+00,Luke Allison
+00,Nate Bertelsen
+00,Nathan Rainey
+00,Tobin Beichler
+00,Will McAfee
+00,William Stickles
+06,Andrew Coward
+b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
@@ -347,8 +347,8 @@ Foxtrot,Villains,11,7,"06/24/2023, 08:00",Pool B,Final
 Battleship,Ronin,11,7,"06/24/2023, 08:00",Pool B,Final
 Atlanta Arson,Nashville Mudcats,11,3,"06/24/2023, 08:00",Pool B,Final
 Battleship,Nashville Mudcats,0,0,"06/24/2023, 09:45",Pool B,Scheduled
-Raptor,Villains,0,0,"06/24/2023, 09:45",Pool B,Scheduled
-Atlanta Arson,Ronin,0,0,"06/24/2023, 09:45",Pool B,Scheduled
+Raptor,Villains,11,3,"06/24/2023, 09:45",Pool B,Final
+Atlanta Arson,Ronin,11,7,"06/24/2023, 09:45",Pool B,Final
 Battleship,Raptor,0,0,"06/24/2023, 11:30",Pool B,Scheduled
 Foxtrot,Ronin,0,0,"06/24/2023, 11:30",Pool B,Scheduled
 Atlanta Arson,Villains,0,0,"06/24/2023, 11:30",Pool B,Scheduled
