@@ -162,30 +162,6 @@ teamInfo,,"Hampton, Virginia",,https://www.facebook.com/BrackishUlti/,@BrackishU
 91,James Dangler
 95,Megan Schlak
 b,r,e,a,k
-Legion,4
-teamInfo,,"Lynchburg, Virginia",,https://www.facebook.com/VALegionUltimate/,
-0,Asha Gillette
-0,Caleb Weldy
-0,Katherine Clark
-0,Krista Habermas
-0,Matthew Glasgow
-0,McKenzie Ross
-0,Walter Lewis
-1,Rupert Armentrout
-2,Kevin Habermas
-3,Ashley Mast
-8,Shawn Messick
-12,Jonathan Mast
-14,Andrew Lewis
-24,Victoria Dissmore
-25,Elizabeth Ware
-32,Jenna Bibby
-34,Benjamin Barnett
-37,Brandon Lison
-77,Matthew Sutherland
-82,Hannah VerasAlba
-87,Austin Heston
-b,r,e,a,k
 Ant Madness,2
 teamInfo,,"Arlington, Virginia",,,https://twitter.com/antmadness
 0,Ashley Wilhelm
@@ -211,6 +187,30 @@ teamInfo,,"Arlington, Virginia",,,https://twitter.com/antmadness
 53,Jackson Gode
 64,Ian Decker
 91,Erin Doyle
+b,r,e,a,k
+Legion,4
+teamInfo,,"Lynchburg, Virginia",,https://www.facebook.com/VALegionUltimate/,
+0,Asha Gillette
+0,Caleb Weldy
+0,Katherine Clark
+0,Krista Habermas
+0,Matthew Glasgow
+0,McKenzie Ross
+0,Walter Lewis
+1,Rupert Armentrout
+2,Kevin Habermas
+3,Ashley Mast
+8,Shawn Messick
+12,Jonathan Mast
+14,Andrew Lewis
+24,Victoria Dissmore
+25,Elizabeth Ware
+32,Jenna Bibby
+34,Benjamin Barnett
+37,Brandon Lison
+77,Matthew Sutherland
+82,Hannah VerasAlba
+87,Austin Heston
 b,r,e,a,k
 Spice,7
 teamInfo,,"Charlottesville, Virginia",,,https://twitter.com/SpiceUltimateVA
@@ -297,8 +297,8 @@ Voltage,District Cocktails,3,13,"06/24/2023, 12:00",Pool A,Final
 HVAC,Magnanimouse,13,8,"06/24/2023, 12:00",Pool A,Final
 Revival,Voltage,13,2,"06/24/2023, 13:45",Pool A,Final
 HVAC,District Cocktails,12,6,"06/24/2023, 13:45",Pool A,Final
-Revival,HVAC,0,0,"06/24/2023, 15:30",Pool A,Scheduled
-Magnanimouse,District Cocktails,0,0,"06/24/2023, 15:30",Pool A,Scheduled
+Revival,HVAC,12,8,"06/24/2023, 15:30",Pool A,Final
+Magnanimouse,District Cocktails,11,10,"06/24/2023, 15:30",Pool A,Final
 pool,Pool B
 Ant Madness,Brackish,5,10,"06/24/2023, 08:30",Pool B,Final
 Legion,Espionage,11,4,"06/24/2023, 08:30",Pool B,Final
@@ -312,16 +312,23 @@ Brackish,Espionage,11,0,"06/24/2023, 11:30",Pool B,Final
 Ant Madness,Swampbenders,11,5,"06/24/2023, 14:00",Pool B,Final
 Legion,Brackish,7,10,"06/24/2023, 14:00",Pool B,Final
 Spice,Espionage,8,4,"06/24/2023, 14:00",Pool B,Final
-Ant Madness,Espionage,0,0,"06/24/2023, 15:30",Pool B,Scheduled
+Ant Madness,Espionage,11,4,"06/24/2023, 15:30",Pool B,Final
 Legion,Spice,10,7,"06/24/2023, 15:30",Pool B,Final
-Brackish,Swampbenders,0,0,"06/24/2023, 15:30",Pool B,Scheduled
+Brackish,Swampbenders,11,4,"06/24/2023, 15:30",Pool B,Final
 b,r,e,a,k
 brackets,Championship
 bracket,Championship Bracket
+Revival,Spice,0,0,"06/25/2023, 08:30",Quarter Finals,In Progress
+Ant Madness,Magnanimouse,0,0,"06/25/2023, 08:30",Quarter Finals,In Progress
+HVAC,Legion,0,0,"06/25/2023, 08:30",Quarter Finals,In Progress
+Brackish,District Cocktails,0,0,"06/25/2023, 08:30",Quarter Finals,In Progress
 bracket,3rd Place
 bracket,5th Place
 bracket,7th Place
 b,r,e,a,k
 pools,Consolation Pool
 pool,Consolation Pool
+Voltage,Swampbenders,0,0,"06/25/2023, 08:30",Consolation Pool,Scheduled
+Espionage,Swampbenders,0,0,"06/25/2023, 10:30",Consolation Pool,Scheduled
+Espionage,Voltage,0,0,"06/25/2023, 12:30",Consolation Pool,Scheduled
 b,r,e,a,k
