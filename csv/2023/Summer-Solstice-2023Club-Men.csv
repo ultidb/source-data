@@ -59,6 +59,23 @@ coaches,John Cairns
 69,Kuochuan Ponzio
 82,Leandro Marx
 b,r,e,a,k
+Skipjack,8
+teamInfo,,"San Diego, California",,https://www.facebook.com/sdstreetgang,https://twitter.com/SDskipjack
+0,James McGuinness
+0,Javid Aceil
+0,Jeremy Cho
+0,Kellen Gray
+0,Nate Becker
+0,Zac Goldberg
+10,Ryley Hill
+10,Jason Glassy
+11,Jonathan Aycock
+16,Joseph Huppert
+24,Krishna Gomatam
+36,Boris Li
+88,Elijah Nobis
+94,Zachary Spidell
+b,r,e,a,k
 Sawtooth,5
 teamInfo,,"Boise, Idaho",https://boiseultimatescene.com/sawtooth,https://www.facebook.com/Sawtooth-Boise-Ultimate-619500648417608/,https://twitter.com/SawtoothUlti
 0,Emmett Poole
@@ -76,23 +93,6 @@ teamInfo,,"Boise, Idaho",https://boiseultimatescene.com/sawtooth,https://www.fac
 31,Tanner Cleveland
 71,Harper Poole
 96,Matt Rix
-b,r,e,a,k
-Skipjack,8
-teamInfo,,"San Diego, California",,https://www.facebook.com/sdstreetgang,https://twitter.com/SDskipjack
-0,James McGuinness
-0,Javid Aceil
-0,Jeremy Cho
-0,Kellen Gray
-0,Nate Becker
-0,Zac Goldberg
-10,Ryley Hill
-10,Jason Glassy
-11,Jonathan Aycock
-16,Joseph Huppert
-24,Krishna Gomatam
-36,Boris Li
-88,Elijah Nobis
-94,Zachary Spidell
 b,r,e,a,k
 Sockeye,2
 teamInfo,,"Seattle, Washington",https://www.seattlesockeye.org/,https://www.facebook.com/SeattleSockeye/,https://twitter.com/SeattleSockeye/
@@ -349,23 +349,6 @@ teamInfo,,"Vancouver, British Columbia CA",,,
 0,Wesley  Wong
 17,Vincent Lee
 b,r,e,a,k
-Green River Swordfish,15
-teamInfo,,"Davis, California",,,
-0,Aidan McKelvey
-0,Alejandro Pagan
-0,Austin Joseph
-0,Ben Mattison
-0,Charles Barnes
-0,Scott Ballinger
-0,Steven Swartz
-24,Peter DeBrine
-28,Ian Morritse
-37,Logan Dolim
-37,Trevor Ryder
-42,David Croft
-62,Elliot Wilde
-70,Peter Reifenstein
-b,r,e,a,k
 Heartbreak,14
 teamInfo,,"Coeur d'Alene, Idaho",https://cdaultimate.wixsite.com/frisbee/heartbreak,https://www.facebook.com/Heartbreakultimate,
 0,Kira Belnap
@@ -387,6 +370,23 @@ teamInfo,,"Coeur d'Alene, Idaho",https://cdaultimate.wixsite.com/frisbee/heartbr
 54,Alex Stumphauzer
 55,Sean Chapel
 81,Amit Tzivion
+b,r,e,a,k
+Green River Swordfish,15
+teamInfo,,"Davis, California",,,
+0,Aidan McKelvey
+0,Alejandro Pagan
+0,Austin Joseph
+0,Ben Mattison
+0,Charles Barnes
+0,Scott Ballinger
+0,Steven Swartz
+24,Peter DeBrine
+28,Ian Morritse
+37,Logan Dolim
+37,Trevor Ryder
+42,David Croft
+62,Elliot Wilde
+70,Peter Reifenstein
 b,r,e,a,k
 SOUF,11
 teamInfo,,"Seattle , Washington",,,
@@ -422,14 +422,14 @@ Rhino Slam!,Sawtooth,13,4,"06/24/2023, 10:15",Pool A,Final
 Dark Star,Skipjack,13,2,"06/24/2023, 10:15",Pool A,Final
 Rhino Slam!,Skipjack,13,3,"06/24/2023, 12:00",Pool A,Final
 Dark Star,Sawtooth,13,4,"06/24/2023, 12:00",Pool A,Final
-Sawtooth,Skipjack,0,0,"06/24/2023, 13:45",Pool A,Scheduled
+Sawtooth,Skipjack,12,13,"06/24/2023, 13:45",Pool A,Final
 Rhino Slam!,Dark Star,0,0,"06/24/2023, 17:00",Pool A,Scheduled
 pool,Pool B
 Sockeye,Zyzzyva,13,7,"06/24/2023, 10:15",Pool B,Final
 Furious George,Switchback,12,9,"06/24/2023, 10:15",Pool B,Final
 Sockeye,Switchback,13,3,"06/24/2023, 12:00",Pool B,Final
 Furious George,Zyzzyva,10,9,"06/24/2023, 12:00",Pool B,Final
-Sockeye,Furious George,0,0,"06/24/2023, 13:45",Pool B,Scheduled
+Sockeye,Furious George,13,10,"06/24/2023, 13:45",Pool B,Scheduled
 Zyzzyva,Switchback,0,0,"06/24/2023, 13:45",Pool B,Scheduled
 pool,Pool C
 Ghost Train,ONI,13,6,"06/24/2023, 08:30",Pool C,Final
@@ -447,8 +447,8 @@ Blackfish,Heartbreak,12,5,"06/24/2023, 10:15",Pool D,Final
 SOUF,Green River Swordfish,8,13,"06/24/2023, 10:15",Pool D,Final
 Blackfish,Green River Swordfish,13,8,"06/24/2023, 12:00",Pool D,Final
 SOUF,Heartbreak,9,10,"06/24/2023, 12:00",Pool D,Final
-Blackfish,SOUF,0,0,"06/24/2023, 13:45",Pool D,Scheduled
-Heartbreak,Green River Swordfish,0,0,"06/24/2023, 13:45",Pool D,Scheduled
+Blackfish,SOUF,11,6,"06/24/2023, 13:45",Pool D,Scheduled
+Heartbreak,Green River Swordfish,13,7,"06/24/2023, 13:45",Pool D,Final
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,Championship Bracket
