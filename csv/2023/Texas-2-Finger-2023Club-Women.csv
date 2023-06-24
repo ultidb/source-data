@@ -171,17 +171,21 @@ s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
 Vengeance,Inferno,15,0,"06/24/2023, 08:30",Pool A,Final
-Hayride,Inferno,0,0,"06/24/2023, 10:20",Pool A,Scheduled
-Hayride,Vengeance,0,0,"06/24/2023, 12:10",Pool A,Scheduled
+Hayride,Inferno,15,1,"06/24/2023, 10:20",Pool A,Final
+Hayride,Vengeance,7,8,"06/24/2023, 12:10",Pool A,Final
 pool,Pool B
 Crush City,TWISTED,13,3,"06/24/2023, 08:30",Pool B,Final
 Firewheel,San Antonio Problems,7,11,"06/24/2023, 08:30",Pool B,Final
 Crush City,San Antonio Problems,11,3,"06/24/2023, 10:20",Pool B,Final
 Firewheel,TWISTED,7,12,"06/24/2023, 10:20",Pool B,Final
-Crush City,Firewheel,0,0,"06/24/2023, 12:10",Pool B,Scheduled
-TWISTED,San Antonio Problems,0,0,"06/24/2023, 12:10",Pool B,Scheduled
+Crush City,Firewheel,13,2,"06/24/2023, 12:10",Pool B,Final
+TWISTED,San Antonio Problems,5,8,"06/24/2023, 12:10",Pool B,Final
 b,r,e,a,k
 clusters,Crossover
+cluster,Crossover
+Vengeance,Crush City,0,0,"06/25/2023, 08:00",,Scheduled
+Hayride,TWISTED,0,0,"06/25/2023, 08:00",,Scheduled
+San Antonio Problems,Inferno,0,0,"06/25/2023, 08:00",,Scheduled
 b,r,e,a,k
 brackets,Bracket Play
 bracket,Championship

@@ -55,30 +55,6 @@ teamInfo,,"Sioux Falls, South Dakota",,,
 84,Aaron Bauer
 99,Grant Dunbar
 b,r,e,a,k
-Minnesota Superior A,8
-teamInfo,,"Minneapolis, Minnesota",,,
-coaches,Andrew Dornbush,Jesse Stratton
-0,Josh Hendrickson
-0,Kaiden Thiers
-0,Leo Kirsch
-0,Matteo Meyer
-0,Murphy Galvin
-0,Noam Halpern
-0,Nolan Heuermann
-0,Riley Vang
-0,Thomas Shope
-0,Abraham Boardman
-0,Charlie Hoch
-0,Danny Hobday
-0,Eli Schaberg
-0,Ellis Newhouse
-0,Ivan Kase
-0,Jasper Priest
-0,Wyatt Mackenthun
-10,Wallace Jirele
-17,Joe Hendrickson
-42,Evan Snyder
-b,r,e,a,k
 Trident II,5
 teamInfo,,"Chicago, Illinois",,,https://twitter.com/Trident2Ulti
 coaches,Robert Gross
@@ -108,6 +84,30 @@ coaches,Robert Gross
 42,Tanner Holtz
 53,Joe Berry
 69,Sai Girap
+b,r,e,a,k
+Minnesota Superior A,8
+teamInfo,,"Minneapolis, Minnesota",,,
+coaches,Andrew Dornbush,Jesse Stratton
+0,Josh Hendrickson
+0,Kaiden Thiers
+0,Leo Kirsch
+0,Matteo Meyer
+0,Murphy Galvin
+0,Noam Halpern
+0,Nolan Heuermann
+0,Riley Vang
+0,Thomas Shope
+0,Abraham Boardman
+0,Charlie Hoch
+0,Danny Hobday
+0,Eli Schaberg
+0,Ellis Newhouse
+0,Ivan Kase
+0,Jasper Priest
+0,Wyatt Mackenthun
+10,Wallace Jirele
+17,Joe Hendrickson
+42,Evan Snyder
 b,r,e,a,k
 THE BODY,9
 teamInfo,,"Minneapolis, Minnesota",,https://www.facebook.com/TheBodyMN/,https://www.twitter.com/TheBodyMN/
@@ -156,6 +156,27 @@ teamInfo,,"Golden Valley, Minnesota",,,https://twitter.com/ulti_ni
 74,Jakob Yedo
 77,Patrick Eikens
 b,r,e,a,k
+Minnesota Superior B,10
+teamInfo,,"Minneapolis, Minnesota",,,
+coaches,Timothy Opdahl
+0,Isaac Tsai
+0,Isaiah  Klepfer 
+0,Johnny Haas
+0,Finn Dougherty
+0,Harper O'Dowd
+0,Leland Engelking
+0,Noah Johnson
+0,Parker Knudson
+0,Thomas Anderson
+0,Vincent Meyer
+0,Zander Sachs
+5,Henry Wineberg
+13,Liam Griffin
+13,Kyle Dolbow
+28,Owen Keepers
+44,Ethan Ode
+99,Theodore Bonin
+b,r,e,a,k
 Scythe,2
 teamInfo,,"Omaha, Nebraska",http://www.bonehorn.com,https://www.facebook.com/scytheultimate/?ref=aymt_homepage_panel&eid=ARBvN0gED3WPXSN3wd5-QYuW_bTwDmgrDEb19ZeuZ2OAuYE13vdyfwSQASticEyPyGjIcpYB9Q0sfBVB,@ScytheUltimate
 0,ANDREW  TUPPER
@@ -200,27 +221,6 @@ teamInfo,,"Duluth, Minnesota",,https://www.facebook.com/DingwopUltimate,
 69,Patrick Andresen
 69,Kjell Olmanson
 99,Kyle DeJesus
-b,r,e,a,k
-Minnesota Superior B,10
-teamInfo,,"Minneapolis, Minnesota",,,
-coaches,Timothy Opdahl
-0,Isaac Tsai
-0,Isaiah  Klepfer 
-0,Johnny Haas
-0,Finn Dougherty
-0,Harper O'Dowd
-0,Leland Engelking
-0,Noah Johnson
-0,Parker Knudson
-0,Thomas Anderson
-0,Vincent Meyer
-0,Zander Sachs
-5,Henry Wineberg
-13,Liam Griffin
-13,Kyle Dolbow
-28,Owen Keepers
-44,Ethan Ode
-99,Theodore Bonin
 b,r,e,a,k
 Loaded Panda,7
 teamInfo,,"Cedar Falls, Iowa",,,
@@ -268,7 +268,7 @@ DeMo,Trident II,13,7,"06/24/2023, 09:00",Pool A,Final
 Nomads,THE BODY,13,5,"06/24/2023, 09:00",Pool A,Final
 DeMo,Nomads,13,4,"06/24/2023, 11:30",Pool A,Final
 Trident II,Minnesota Superior A,9,13,"06/24/2023, 11:30",Pool A,Scheduled
-DeMo,Minnesota Superior A,0,0,"06/24/2023, 13:00",Pool A,Scheduled
+DeMo,Minnesota Superior A,13,6,"06/24/2023, 13:00",Pool A,Final
 Trident II,THE BODY,0,0,"06/24/2023, 13:00",Pool A,Scheduled
 Nomads,Trident II,0,0,"06/24/2023, 14:30",Pool A,Scheduled
 Minnesota Superior A,THE BODY,0,0,"06/24/2023, 14:30",Pool A,Scheduled
@@ -282,8 +282,8 @@ Scythe,Knights of Ni,9,13,"06/24/2023, 11:30",Pool B,Final
 DINGWOP,Loaded Panda,13,5,"06/24/2023, 11:30",Pool B,Final
 Minnesota Superior B,BeMo,13,8,"06/24/2023, 11:30",Pool B,Final
 Scythe,Loaded Panda,0,0,"06/24/2023, 13:00",Pool B,Scheduled
-Knights of Ni,BeMo,0,0,"06/24/2023, 13:00",Pool B,Scheduled
-DINGWOP,Minnesota Superior B,0,0,"06/24/2023, 13:00",Pool B,Scheduled
+Knights of Ni,BeMo,13,2,"06/24/2023, 13:00",Pool B,Final
+DINGWOP,Minnesota Superior B,7,10,"06/24/2023, 13:00",Pool B,Final
 Scythe,BeMo,0,0,"06/24/2023, 14:30",Pool B,Scheduled
 Knights of Ni,DINGWOP,0,0,"06/24/2023, 14:30",Pool B,Scheduled
 Loaded Panda,Minnesota Superior B,0,0,"06/24/2023, 14:30",Pool B,Scheduled
