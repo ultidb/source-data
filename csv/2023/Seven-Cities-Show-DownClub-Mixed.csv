@@ -59,29 +59,6 @@ teamInfo,,"Washington DC, District of Columbia",,https://www.facebook.com/hvacul
 92,Alexandra Erwin
 95,Maggie Graves
 b,r,e,a,k
-District Cocktails,9
-teamInfo,,"Washington, District of Columbia",,https://www.facebook.com/CocktailsUltimate,https://twitter.com/DCCocktailsUlti
-1,Kane Gormley
-3,Nicholas Mozer
-6,Megan Humes
-8,Daniel Bowman
-10,Erik Larmore
-11,Joseph Miller
-12,Jennifer Wu
-14,Egburonu Uduka
-14,Natsu Manning
-16,Collin Brooks
-18,Galen Reifsnider
-22,Camila Cabanne
-24,Jackson Valler
-25,Thomas Frazier
-27,Jennifer Pridemore
-33,Melissa Bierschenk
-34,Austin Do
-42,Andrew O'Neill
-72,Katherine Murray
-86,Julianne Twomey
-b,r,e,a,k
 Magnanimouse,6
 teamInfo,,"Durham, North Carolina",,,https://twitter.com/MagnanimouseNC
 0,Blaire Garrett
@@ -108,6 +85,29 @@ teamInfo,,"Durham, North Carolina",,,https://twitter.com/MagnanimouseNC
 48,Suzanne Tyler
 85,Ted Randby
 99,Kyle McConaughey
+b,r,e,a,k
+District Cocktails,9
+teamInfo,,"Washington, District of Columbia",,https://www.facebook.com/CocktailsUltimate,https://twitter.com/DCCocktailsUlti
+1,Kane Gormley
+3,Nicholas Mozer
+6,Megan Humes
+8,Daniel Bowman
+10,Erik Larmore
+11,Joseph Miller
+12,Jennifer Wu
+14,Egburonu Uduka
+14,Natsu Manning
+16,Collin Brooks
+18,Galen Reifsnider
+22,Camila Cabanne
+24,Jackson Valler
+25,Thomas Frazier
+27,Jennifer Pridemore
+33,Melissa Bierschenk
+34,Austin Do
+42,Andrew O'Neill
+72,Katherine Murray
+86,Julianne Twomey
 b,r,e,a,k
 Voltage,8
 teamInfo,,"Baltimore, Maryland",,,https://twitter.com/VoltageUltimat1
@@ -212,6 +212,30 @@ teamInfo,,"Lynchburg, Virginia",,https://www.facebook.com/VALegionUltimate/,
 82,Hannah VerasAlba
 87,Austin Heston
 b,r,e,a,k
+Spice,7
+teamInfo,,"Charlottesville, Virginia",,,https://twitter.com/SpiceUltimateVA
+0,Kevin Chung
+0,Lynn Mandeltort
+0,Malia Gardner
+0,Na’jir Dipasalegne
+0,Nicolas West
+0,Nolan Klein
+0,Olivia Bearman
+0,Anna Caughron
+0,Eli Beech-Brown
+0,Ryann Boudreau
+0,Sabrina Combs
+0,Tracy Kuper
+0,Yannick Albert
+0,Josh Epstein
+5,Joseph Terrana
+11,Paulina Pelaez
+13,Dick (Richard Sr) Leary
+25,Katelyn Birchfield
+34,Phillip Martin
+35,Alexander Brewster
+47,Rhiannon Begley
+b,r,e,a,k
 Espionage,10
 teamInfo,,"Washington, District of Columbia",,,@espionageulti
 0,Alyssa Attonito
@@ -262,30 +286,6 @@ teamInfo,,"Washington, District of Columbia",,,https://twitter.com/DCSwampbender
 33,Evan Lindeman
 52,Maddox Kromash
 b,r,e,a,k
-Spice,7
-teamInfo,,"Charlottesville, Virginia",,,https://twitter.com/SpiceUltimateVA
-0,Kevin Chung
-0,Lynn Mandeltort
-0,Malia Gardner
-0,Na’jir Dipasalegne
-0,Nicolas West
-0,Nolan Klein
-0,Olivia Bearman
-0,Anna Caughron
-0,Eli Beech-Brown
-0,Ryann Boudreau
-0,Sabrina Combs
-0,Tracy Kuper
-0,Yannick Albert
-0,Josh Epstein
-5,Joseph Terrana
-11,Paulina Pelaez
-13,Dick (Richard Sr) Leary
-25,Katelyn Birchfield
-34,Phillip Martin
-35,Alexander Brewster
-47,Rhiannon Begley
-b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
@@ -296,7 +296,7 @@ HVAC,Voltage,13,1,"06/24/2023, 10:15",Pool A,Final
 Voltage,District Cocktails,3,13,"06/24/2023, 12:00",Pool A,Final
 HVAC,Magnanimouse,13,8,"06/24/2023, 12:00",Pool A,Final
 Revival,Voltage,13,2,"06/24/2023, 13:45",Pool A,Final
-HVAC,District Cocktails,0,0,"06/24/2023, 13:45",Pool A,Scheduled
+HVAC,District Cocktails,13,6,"06/24/2023, 13:45",Pool A,Final
 Revival,HVAC,0,0,"06/24/2023, 15:30",Pool A,Scheduled
 Magnanimouse,District Cocktails,0,0,"06/24/2023, 15:30",Pool A,Scheduled
 pool,Pool B
@@ -309,9 +309,9 @@ Espionage,Swampbenders,11,5,"06/24/2023, 10:00",Pool B,Final
 Ant Madness,Spice,11,3,"06/24/2023, 11:30",Pool B,Final
 Legion,Swampbenders,11,5,"06/24/2023, 11:30",Pool B,Final
 Brackish,Espionage,11,0,"06/24/2023, 11:30",Pool B,Final
-Ant Madness,Swampbenders,0,0,"06/24/2023, 14:00",Pool B,Scheduled
-Legion,Brackish,0,0,"06/24/2023, 14:00",Pool B,Scheduled
-Spice,Espionage,0,0,"06/24/2023, 14:00",Pool B,Scheduled
+Ant Madness,Swampbenders,11,5,"06/24/2023, 14:00",Pool B,Final
+Legion,Brackish,7,10,"06/24/2023, 14:00",Pool B,Final
+Spice,Espionage,8,4,"06/24/2023, 14:00",Pool B,Final
 Ant Madness,Espionage,0,0,"06/24/2023, 15:30",Pool B,Scheduled
 Legion,Spice,0,0,"06/24/2023, 15:30",Pool B,Scheduled
 Brackish,Swampbenders,0,0,"06/24/2023, 15:30",Pool B,Scheduled
