@@ -59,6 +59,23 @@ coaches,John Cairns
 69,Kuochuan Ponzio
 82,Leandro Marx
 b,r,e,a,k
+Skipjack,8
+teamInfo,,"San Diego, California",,https://www.facebook.com/sdstreetgang,https://twitter.com/SDskipjack
+0,James McGuinness
+0,Javid Aceil
+0,Jeremy Cho
+0,Kellen Gray
+0,Nate Becker
+0,Zac Goldberg
+10,Ryley Hill
+10,Jason Glassy
+11,Jonathan Aycock
+16,Joseph Huppert
+24,Krishna Gomatam
+36,Boris Li
+88,Elijah Nobis
+94,Zachary Spidell
+b,r,e,a,k
 Sawtooth,5
 teamInfo,,"Boise, Idaho",https://boiseultimatescene.com/sawtooth,https://www.facebook.com/Sawtooth-Boise-Ultimate-619500648417608/,https://twitter.com/SawtoothUlti
 0,Emmett Poole
@@ -76,23 +93,6 @@ teamInfo,,"Boise, Idaho",https://boiseultimatescene.com/sawtooth,https://www.fac
 31,Tanner Cleveland
 71,Harper Poole
 96,Matt Rix
-b,r,e,a,k
-Skipjack,8
-teamInfo,,"San Diego, California",,https://www.facebook.com/sdstreetgang,https://twitter.com/SDskipjack
-0,James McGuinness
-0,Javid Aceil
-0,Jeremy Cho
-0,Kellen Gray
-0,Nate Becker
-0,Zac Goldberg
-10,Ryley Hill
-10,Jason Glassy
-11,Jonathan Aycock
-16,Joseph Huppert
-24,Krishna Gomatam
-36,Boris Li
-88,Elijah Nobis
-94,Zachary Spidell
 b,r,e,a,k
 Sockeye,2
 teamInfo,,"Seattle, Washington",https://www.seattlesockeye.org/,https://www.facebook.com/SeattleSockeye/,https://twitter.com/SeattleSockeye/
@@ -421,7 +421,7 @@ pool,Pool A
 Rhino Slam!,Sawtooth,13,4,"06/24/2023, 10:15",Pool A,Final
 Dark Star,Skipjack,13,2,"06/24/2023, 10:15",Pool A,Final
 Rhino Slam!,Skipjack,0,0,"06/24/2023, 12:00",Pool A,Scheduled
-Dark Star,Sawtooth,0,0,"06/24/2023, 12:00",Pool A,Scheduled
+Dark Star,Sawtooth,13,4,"06/24/2023, 12:00",Pool A,Final
 Sawtooth,Skipjack,0,0,"06/24/2023, 13:45",Pool A,Scheduled
 Rhino Slam!,Dark Star,0,0,"06/24/2023, 17:00",Pool A,Scheduled
 pool,Pool B
