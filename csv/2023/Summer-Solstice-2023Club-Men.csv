@@ -280,6 +280,26 @@ teamInfo,,"Seattle, Washington",,,
 60,Aidan Malone
 84,Scott Sivola
 b,r,e,a,k
+Anchor,13
+teamInfo,,"San Francisco, California",,,
+0,Bo Rasmussen
+0,Boris Strots
+0,Daniel Heynen
+0,Dillon Einck
+0,Edward Cao
+0,Enoch Wang
+0,SAMSON BAILEY
+0,Stephen Chait
+0,Thomas McCrone
+0,Kevin Hallman
+3,Alex Rossmeissl
+7,Vibhav Parimi
+9,Ben McAuliffe
+10,Jamison Klang
+33,William Fuller
+46,Maozhi Liu
+75,Bodie Shargel
+b,r,e,a,k
 ONI,17
 teamInfo,,"Vancouver, British Columbia CA",,,
 69,Aaron Klymasz- Swartz
@@ -303,26 +323,6 @@ teamInfo,,"Vancouver, British Columbia CA",,,
 69,Silas Huizinga
 69,Simon Lee
 69,Stanley Chung
-b,r,e,a,k
-Anchor,13
-teamInfo,,"San Francisco, California",,,
-0,Bo Rasmussen
-0,Boris Strots
-0,Daniel Heynen
-0,Dillon Einck
-0,Edward Cao
-0,Enoch Wang
-0,SAMSON BAILEY
-0,Stephen Chait
-0,Thomas McCrone
-0,Kevin Hallman
-3,Alex Rossmeissl
-7,Vibhav Parimi
-9,Ben McAuliffe
-10,Jamison Klang
-33,William Fuller
-46,Maozhi Liu
-75,Bodie Shargel
 b,r,e,a,k
 Blackfish,10
 teamInfo,,"Vancouver, British Columbia CA",,,
@@ -439,9 +439,9 @@ Oregon Trainwreck,Make it Rain,13,12,"06/24/2023, 10:15",Pool C,Final
 Make it Rain,ONI,10,6,"06/24/2023, 12:00",Pool C,Final
 Oregon Trainwreck,Anchor,12,9,"06/24/2023, 12:00",Pool C,Final
 Ghost Train,Make it Rain,13,7,"06/24/2023, 13:45",Pool C,Final
-Oregon Trainwreck,ONI,0,0,"06/24/2023, 13:45",Pool C,Scheduled
+Oregon Trainwreck,ONI,13,3,"06/24/2023, 13:45",Pool C,Final
 Ghost Train,Oregon Trainwreck,10,9,"06/24/2023, 15:30",Pool C,Final
-Anchor,ONI,0,0,"06/24/2023, 15:30",Pool C,Scheduled
+Anchor,ONI,13,5,"06/24/2023, 15:30",Pool C,Final
 pool,Pool D
 Blackfish,Heartbreak,12,5,"06/24/2023, 10:15",Pool D,Final
 SOUF,Green River Swordfish,8,13,"06/24/2023, 10:15",Pool D,Final
@@ -452,6 +452,8 @@ Heartbreak,Green River Swordfish,13,7,"06/24/2023, 13:45",Pool D,Final
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,Championship Bracket
+Switchback,Ghost Train,0,0,"06/25/2023, 08:30",Pre-Quarters,In Progress
+Zyzzyva,Oregon Trainwreck,0,0,"06/25/2023, 08:30",Pre-Quarters,In Progress
 b,r,e,a,k
 brackets,Consolation Brackets
 bracket,Third Place
@@ -462,4 +464,10 @@ bracket,Eleventh Place
 b,r,e,a,k
 pools,Consolation Pool
 pool,Consolation Pool
+Anchor,SOUF,0,0,"06/25/2023, 08:30",Consolation Pool,Scheduled
+Make it Rain,Green River Swordfish,0,0,"06/25/2023, 08:30",Consolation Pool,Scheduled
+SOUF,ONI,0,0,"06/25/2023, 10:15",Consolation Pool,Scheduled
+Green River Swordfish,Anchor,0,0,"06/25/2023, 10:15",Consolation Pool,Scheduled
+Make it Rain,SOUF,0,0,"06/25/2023, 12:00",Consolation Pool,Scheduled
+Green River Swordfish,ONI,0,0,"06/25/2023, 12:00",Consolation Pool,Scheduled
 b,r,e,a,k
