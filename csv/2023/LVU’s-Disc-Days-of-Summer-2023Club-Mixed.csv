@@ -49,6 +49,32 @@ teamInfo,,"Brooklyn, New York",,,
 40,Justin Thomas
 48,Ian Foley
 b,r,e,a,k
+FLI,5
+teamInfo,,"Long Island, New York",https://discny.org/t/fli-1,https://www.facebook.com/FLIultimate,https://twitter.com/fliultimate
+0,Anna Jao
+0,Chris Ambrosio
+0,Christopher Kizis
+0,Elizabeth Kuzman-McRae
+0,Joseph LaMacchia
+0,Matthew Nieto
+0,Naomi Miller
+0,Nicole Luparello
+0,Ryan Grabijas
+0,Thomas Graham
+1,May Patino
+3,Ivan Lerner
+5,Alex Shipps
+9,Emma Lian
+9,Laura Marrin
+09,Scott Mulderig
+19,Stacey Ng
+21,Christopher Cabot
+25,Andrew Bogle
+31,Collin Bartoldus
+51,Paul McDermott
+54,Daniel Stern
+96,Eric Cannella
+b,r,e,a,k
 Heavy Flow,7
 teamInfo,,"Columbia, Maryland",,https://www.facebook.com/heavyflowulti/,https://twitter.com/heavyflowulti
 0,Emily Mildner
@@ -75,32 +101,6 @@ teamInfo,,"Columbia, Maryland",,https://www.facebook.com/heavyflowulti/,https://
 84,Meghan Gloyd
 88,Justin Chu
 89,Heather Jentilet
-b,r,e,a,k
-FLI,5
-teamInfo,,"Long Island, New York",https://discny.org/t/fli-1,https://www.facebook.com/FLIultimate,https://twitter.com/fliultimate
-0,Anna Jao
-0,Chris Ambrosio
-0,Christopher Kizis
-0,Elizabeth Kuzman-McRae
-0,Joseph LaMacchia
-0,Matthew Nieto
-0,Naomi Miller
-0,Nicole Luparello
-0,Ryan Grabijas
-0,Thomas Graham
-1,May Patino
-3,Ivan Lerner
-5,Alex Shipps
-9,Emma Lian
-9,Laura Marrin
-09,Scott Mulderig
-19,Stacey Ng
-21,Christopher Cabot
-25,Andrew Bogle
-31,Collin Bartoldus
-51,Paul McDermott
-54,Daniel Stern
-96,Eric Cannella
 b,r,e,a,k
 Crucible,10
 teamInfo,,"Pittsburgh, Pennsylvania",,,@pghcrucible
@@ -333,7 +333,7 @@ Heat Wave,FLI,8,7,"06/24/2023, 15:00",Pool A,Final
 Heavy Flow,Crucible,12,9,"06/24/2023, 15:00",Pool A,Final
 Garbage Plates,Crucible,12,2,"06/25/2023, 09:45",Pool A,Final
 Heat Wave,Heavy Flow,10,8,"06/25/2023, 09:45",Pool A,Final
-FLI,Buffalo Brain Freeze,0,0,"06/25/2023, 09:45",Pool A,Scheduled
+FLI,Buffalo Brain Freeze,10,7,"06/25/2023, 09:45",Pool A,Final
 pool,Pool B
 Greater Baltimore Anthem,ColorBomb,12,7,"06/24/2023, 09:45",Pool B,Final
 PS,Mashed,13,12,"06/24/2023, 09:45",Pool B,Final
@@ -347,14 +347,20 @@ ColorBomb,Mashed,6,13,"06/24/2023, 13:15",Pool B,Final
 Greater Baltimore Anthem,Starfire,11,6,"06/24/2023, 15:00",Pool B,Final
 PS,ColorBomb,13,7,"06/24/2023, 15:00",Pool B,Final
 Buffalo Lake Effect,Mashed,10,7,"06/24/2023, 15:00",Pool B,Final
-Greater Baltimore Anthem,Mashed,0,0,"06/25/2023, 09:45",Pool B,Scheduled
-PS,Buffalo Lake Effect,0,0,"06/25/2023, 09:45",Pool B,Scheduled
-ColorBomb,Starfire,0,0,"06/25/2023, 09:45",Pool B,Scheduled
+Greater Baltimore Anthem,Mashed,10,9,"06/25/2023, 09:45",Pool B,Final
+PS,Buffalo Lake Effect,7,9,"06/25/2023, 09:45",Pool B,Final
+ColorBomb,Starfire,9,5,"06/25/2023, 09:45",Pool B,Final
 b,r,e,a,k
 brackets,Bracket Play
 bracket,1st Place Bracket
+Garbage Plates,Greater Baltimore Anthem,0,0,"06/25/2023, 11:30",1st Place Semis,In Progress
+Buffalo Lake Effect,Heat Wave,0,0,"06/25/2023, 11:30",1st Place Semis,In Progress
 bracket,5th Place Bracket
+FLI,PS,0,0,"06/25/2023, 11:30",5th Place Finals,Scheduled
 bracket,7th Place Bracket
+Heavy Flow,Mashed,0,0,"06/25/2023, 11:30",7th Place Finals,Scheduled
 bracket,9th Place Bracket
+Crucible,ColorBomb,0,0,"06/25/2023, 11:30",9th Place Finals,Scheduled
 bracket,11th Place Bracket
+Buffalo Brain Freeze,Starfire,0,0,"06/25/2023, 11:30",11th Place Finals,Scheduled
 b,r,e,a,k
