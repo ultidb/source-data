@@ -31,35 +31,31 @@ coaches,Ethan Taylor-Pierce
 56,Landis Hackett
 99,Jared Jandreau
 b,r,e,a,k
-Lampshade,8
-teamInfo,,"Cambridge, Massachusetts",,,
-coaches,Abijith Krishnan
-0,Adam Alper
-0,Ben Fasciano
-0,Bobby Lovitch
-0,Bryan Xian
-0,Claire Blazewicz
-0,Henry Caron
-0,Jaden Busch
-0,Karina Cruz
-0,Liz Anusauskas
-0,Molly Rockwood
-0,Rachel Levitt
-0,Robert Shapiro
-0,Rose Gordon
-0,Sofia Grose
-0,Sofia Leav
-0,Varun Shah
-13,Liam Day
-13,Clara Walsh
-20,Kevin Murphy
-22,Gina Pryciak
-24,Sajani Clerk
-24,Claire Slattery
-51,Jared Kannel
-53,David O'Dea
-74,Eva McDermott
-88,Dalton Lovins
+FLI,8
+teamInfo,,"Long Island, New York",https://discny.org/t/fli-1,https://www.facebook.com/FLIultimate,https://twitter.com/fliultimate
+0,Anna Jao
+0,Billie Feigin
+0,Christopher Kizis
+0,Grace Aderibigbe
+0,Joseph LaMacchia
+0,Mary Menger
+0,Matthew Nieto
+0,Naomi Miller
+0,Ryan Grabijas
+0,Stacey Ng
+0,Thomas Graham
+1,May Patino
+3,Ivan Lerner
+5,Alex Shipps
+9,Laura Marrin
+9,Emma Lian
+9,Scott Mulderig
+14,Samantha Gonzalez
+21,Christopher Cabot
+25,Andrew Bogle
+31,Collin Bartoldus
+51,Paul McDermott
+54,Daniel Stern
 b,r,e,a,k
 Default,9
 teamInfo,,"Burlington, Vermont",,,
@@ -206,7 +202,37 @@ teamInfo,,"Burlington, Vermont",,,
 73,Astro Larsen
 86,Jonathan Davis
 b,r,e,a,k
-Sunken Circus,3
+Lampshade,3
+teamInfo,,"Cambridge, Massachusetts",,,
+coaches,Abijith Krishnan
+0,Adam Alper
+0,Ben Fasciano
+0,Bobby Lovitch
+0,Bryan Xian
+0,Claire Blazewicz
+0,Henry Caron
+0,Jaden Busch
+0,Karina Cruz
+0,Liz Anusauskas
+0,Molly Rockwood
+0,Rachel Levitt
+0,Robert Shapiro
+0,Rose Gordon
+0,Sofia Grose
+0,Sofia Leav
+0,Varun Shah
+13,Liam Day
+13,Clara Walsh
+20,Kevin Murphy
+22,Gina Pryciak
+24,Sajani Clerk
+24,Claire Slattery
+51,Jared Kannel
+53,David O'Dea
+74,Eva McDermott
+88,Dalton Lovins
+b,r,e,a,k
+Sunken Circus,6
 teamInfo,,"Portland , Maine",,,
 0,Hudson Carr
 1,Rick Miller
@@ -230,32 +256,6 @@ teamInfo,,"Portland , Maine",,,
 88,Owen Jacobsen
 89,Chad Mcdonnell
 90,Hayley SooHoo
-b,r,e,a,k
-FLI,6
-teamInfo,,"Long Island, New York",https://discny.org/t/fli-1,https://www.facebook.com/FLIultimate,https://twitter.com/fliultimate
-0,Anna Jao
-0,Billie Feigin
-0,Christopher Kizis
-0,Grace Aderibigbe
-0,Joseph LaMacchia
-0,Mary Menger
-0,Matthew Nieto
-0,Naomi Miller
-0,Ryan Grabijas
-0,Stacey Ng
-0,Thomas Graham
-1,May Patino
-3,Ivan Lerner
-5,Alex Shipps
-9,Laura Marrin
-9,Emma Lian
-9,Scott Mulderig
-14,Samantha Gonzalez
-21,Christopher Cabot
-25,Andrew Bogle
-31,Collin Bartoldus
-51,Paul McDermott
-54,Daniel Stern
 b,r,e,a,k
 Quahogs,11
 teamInfo,,"Providence, Rhode Island",,,
@@ -346,6 +346,7 @@ teamInfo,,"Burlington, Vermont",,,
 16,Mariz Mangundayao
 19,Ryan Colarusso
 20,Jackson Berman
+23,Ashley Brogan
 29,Sarah Whitney
 33,Sebastian Ventrone
 34,Sarah Rose
@@ -416,10 +417,10 @@ b,r,e,a,k
 pools,Saturday Pools
 pool,Pool A
 The Buoy Association,Default,0,0,"07/08/2023, 10:30",Pool A,Scheduled
-Lampshade,Buffalo Brain Freeze,0,0,"07/08/2023, 10:30",Pool A,Scheduled
+FLI,Buffalo Brain Freeze,0,0,"07/08/2023, 10:30",Pool A,Scheduled
 The Buoy Association,Buffalo Brain Freeze,0,0,"07/08/2023, 12:15",Pool A,Scheduled
-Lampshade,Default,0,0,"07/08/2023, 12:15",Pool A,Scheduled
-The Buoy Association,Lampshade,0,0,"07/08/2023, 14:00",Pool A,Scheduled
+FLI,Default,0,0,"07/08/2023, 12:15",Pool A,Scheduled
+The Buoy Association,FLI,0,0,"07/08/2023, 14:00",Pool A,Scheduled
 Default,Buffalo Brain Freeze,0,0,"07/08/2023, 14:00",Pool A,Scheduled
 pool,Pool B
 Scarecrow,WHUF,0,0,"07/08/2023, 10:30",Pool B,Scheduled
@@ -429,11 +430,11 @@ Buffalo Lake Effect,WHUF,0,0,"07/08/2023, 14:00",Pool B,Scheduled
 Scarecrow,Buffalo Lake Effect,0,0,"07/08/2023, 15:45",Pool B,Scheduled
 WHUF,Sugar Shack,0,0,"07/08/2023, 15:45",Pool B,Scheduled
 pool,Pool C
-Sunken Circus,Quahogs,0,0,"07/08/2023, 10:30",Pool C,Scheduled
-FLI,Equinox,0,0,"07/08/2023, 10:30",Pool C,Scheduled
-Sunken Circus,Equinox,0,0,"07/08/2023, 12:15",Pool C,Scheduled
-FLI,Quahogs,0,0,"07/08/2023, 12:15",Pool C,Scheduled
-Sunken Circus,FLI,0,0,"07/08/2023, 15:45",Pool C,Scheduled
+Lampshade,Quahogs,0,0,"07/08/2023, 10:30",Pool C,Scheduled
+Sunken Circus,Equinox,0,0,"07/08/2023, 10:30",Pool C,Scheduled
+Lampshade,Equinox,0,0,"07/08/2023, 12:15",Pool C,Scheduled
+Sunken Circus,Quahogs,0,0,"07/08/2023, 12:15",Pool C,Scheduled
+Lampshade,Sunken Circus,0,0,"07/08/2023, 15:45",Pool C,Scheduled
 Quahogs,Equinox,0,0,"07/08/2023, 15:45",Pool C,Scheduled
 pool,Pool D
 Bench,Rainbow,0,0,"07/08/2023, 12:15",Pool D,Scheduled
