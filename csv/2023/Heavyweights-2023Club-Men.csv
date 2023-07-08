@@ -299,6 +299,29 @@ teamInfo,,"Ann Arbor, Michigan",,,
 76,Matthew Bell
 85,Dafeng Chen
 b,r,e,a,k
+STL Moonar,19
+teamInfo,,"St. Louis, Missouri",,,
+0,Ardian Hoxhaj 
+0,Jackson Hogan
+0,Joe Rosenberg
+0,Jonah Feinstein
+0,JP Torack
+0,Drew Steinhubl
+0,Kevin Wyle
+0,Mitchell Oldham
+0,Payton Jaggie
+0,Sena Murray
+0,Steven James Richardson
+0,Tamish Sapkota
+0,Tom Dupor
+1,Nathan Kamp
+2,Kelly Mauntel
+22,Aidan Byrne
+24,Adam Sherberg
+27,Evan Schreiner
+44,David Higuchi
+81,Zachary Szatkowski
+b,r,e,a,k
 Trident II,11
 teamInfo,,"Chicago, Illinois",,,https://twitter.com/Trident2Ulti
 coaches,Robert Gross
@@ -351,55 +374,6 @@ teamInfo,,"Madison , Wisconsin",,,
 77,Kian Dilweg
 88,Kieran Mandli
 b,r,e,a,k
-STL Moonar,19
-teamInfo,,"St. Louis, Missouri",,,
-0,Ardian Hoxhaj 
-0,Jackson Hogan
-0,Joe Rosenberg
-0,Jonah Feinstein
-0,JP Torack
-0,Drew Steinhubl
-0,Kevin Wyle
-0,Mitchell Oldham
-0,Payton Jaggie
-0,Sena Murray
-0,Steven James Richardson
-0,Tamish Sapkota
-0,Tom Dupor
-1,Nathan Kamp
-2,Kelly Mauntel
-22,Aidan Byrne
-24,Adam Sherberg
-27,Evan Schreiner
-44,David Higuchi
-81,Zachary Szatkowski
-b,r,e,a,k
-I-69,4
-teamInfo,,"Indianapolis, Indiana",,,
-69,Andrew Sin
-69,Anthony Grigoletti
-69,Chris Strawn
-69,CJ Knarr
-69,Cole Hyzer
-69,Drew Galle
-69,Gavin Hensley
-69,Hank Havlin
-69,Ian Vilevac
-69,Jack Kempe
-69,Jake Wahl
-69,Jesse Rumsey
-69,Joel Close
-69,Jonathan Holladay
-69,Mace Chope
-69,Matthew Weaver
-69,Nathan Hershberger
-69,Nathan Bussberg
-69,Nathaniel Close
-69,Noah  Wahl
-69,Ryan McCann
-69,Sedrik Sweet
-69,William Lilegdon
-b,r,e,a,k
 Riverside,5
 teamInfo,,"Austin, Texas",http://riversideultimate.org,https://www.facebook.com/RiversideUltimate/,https://twitter.com/riversideulti
 coaches,Charles Mehrotra,Adam Croissant
@@ -426,6 +400,32 @@ coaches,Charles Mehrotra,Adam Croissant
 74,Sean Kuylen
 86,Jordan Richter
 88,Reid Pannell
+b,r,e,a,k
+I-69,4
+teamInfo,,"Indianapolis, Indiana",,,
+69,Andrew Sin
+69,Anthony Grigoletti
+69,Chris Strawn
+69,CJ Knarr
+69,Cole Hyzer
+69,Drew Galle
+69,Gavin Hensley
+69,Hank Havlin
+69,Ian Vilevac
+69,Jack Kempe
+69,Jake Wahl
+69,Jesse Rumsey
+69,Joel Close
+69,Jonathan Holladay
+69,Mace Chope
+69,Matthew Weaver
+69,Nathan Hershberger
+69,Nathan Bussberg
+69,Nathaniel Close
+69,Noah  Wahl
+69,Ryan McCann
+69,Sedrik Sweet
+69,William Lilegdon
 b,r,e,a,k
 NOx,13
 teamInfo,,"Kansas City, Missouri",,,
@@ -526,7 +526,7 @@ STL Lounar,HouSE,13,6,"07/08/2023, 09:00",Pool B,Final
 NOMAD,Kenji's BBB,5,13,"07/08/2023, 09:00",Pool B,Final
 STL Lounar,NOMAD,13,5,"07/08/2023, 10:45",Pool B,Final
 Chimney,Kenji's BBB,9,13,"07/08/2023, 10:45",Pool B,Final
-Kenji's BBB,HouSE,0,0,"07/08/2023, 12:30",Pool B,Scheduled
+Kenji's BBB,HouSE,12,13,"07/08/2023, 12:30",Pool B,Final
 Chimney,NOMAD,13,11,"07/08/2023, 12:30",Pool B,Final
 STL Lounar,Kenji's BBB,0,0,"07/08/2023, 14:15",Pool B,Scheduled
 Chimney,HouSE,0,0,"07/08/2023, 14:15",Pool B,Scheduled
@@ -537,8 +537,8 @@ Knights of Ni,STL Moonar,13,6,"07/08/2023, 09:00",Pool C,Final
 Trident II,DCVIII,12,11,"07/08/2023, 09:00",Pool C,Final
 Knights of Ni,Trident II,13,5,"07/08/2023, 10:45",Pool C,Final
 Diesel,DCVIII,13,10,"07/08/2023, 10:45",Pool C,Final
-DCVIII,STL Moonar,0,0,"07/08/2023, 12:30",Pool C,Scheduled
-Diesel,Trident II,0,0,"07/08/2023, 12:30",Pool C,Scheduled
+DCVIII,STL Moonar,11,12,"07/08/2023, 12:30",Pool C,Final
+Diesel,Trident II,13,9,"07/08/2023, 12:30",Pool C,Final
 Knights of Ni,DCVIII,0,0,"07/08/2023, 14:15",Pool C,Scheduled
 Diesel,STL Moonar,0,0,"07/08/2023, 14:15",Pool C,Scheduled
 Knights of Ni,Diesel,0,0,"07/08/2023, 16:00",Pool C,Scheduled
@@ -548,8 +548,8 @@ I-69,Trident III,13,7,"07/08/2023, 09:00",Pool D,Final
 Timber,NOx,7,13,"07/08/2023, 09:00",Pool D,Final
 I-69,Timber,13,4,"07/08/2023, 10:45",Pool D,Final
 Riverside,NOx,13,4,"07/08/2023, 10:45",Pool D,Final
-NOx,Trident III,0,0,"07/08/2023, 12:30",Pool D,Scheduled
-Riverside,Timber,0,0,"07/08/2023, 12:30",Pool D,Scheduled
+NOx,Trident III,13,11,"07/08/2023, 12:30",Pool D,Final
+Riverside,Timber,13,1,"07/08/2023, 12:30",Pool D,Final
 I-69,NOx,0,0,"07/08/2023, 14:15",Pool D,Scheduled
 Riverside,Trident III,0,0,"07/08/2023, 14:15",Pool D,Scheduled
 I-69,Riverside,0,0,"07/08/2023, 16:00",Pool D,Scheduled
