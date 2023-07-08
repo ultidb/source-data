@@ -655,8 +655,8 @@ UNION,Toast!,13,2,"07/08/2023, 09:00",Pool B,Final
 Jabba,Mastodon,13,5,"07/08/2023, 09:00",Pool B,Final
 UNION,Mastodon,13,1,"07/08/2023, 10:45",Pool B,Final
 Jabba,Toast!,11,7,"07/08/2023, 10:45",Pool B,Final
-UNION,Jabba,0,0,"07/08/2023, 12:30",Pool B,Scheduled
-Toast!,Mastodon,0,0,"07/08/2023, 12:30",Pool B,Scheduled
+UNION,Jabba,13,8,"07/08/2023, 12:30",Pool B,Final
+Toast!,Mastodon,9,6,"07/08/2023, 12:30",Pool B,Final
 pool,Pool C
 Bandwagon,POW!,13,3,"07/08/2023, 09:00",Pool C,Final
 Mad Udderburn,Boomtown Pandas,13,6,"07/08/2023, 09:00",Pool C,Final
@@ -669,15 +669,15 @@ Spectre,Madison United Mixed Ultimate,13,9,"07/08/2023, 09:00",Pool D,Final
 Point of No Return,ELevate,13,10,"07/08/2023, 09:00",Pool D,Final
 Spectre,ELevate,13,4,"07/08/2023, 10:45",Pool D,Final
 Point of No Return,Madison United Mixed Ultimate,13,6,"07/08/2023, 10:45",Pool D,Final
-Spectre,Point of No Return,0,0,"07/08/2023, 12:30",Pool D,Scheduled
+Spectre,Point of No Return,13,12,"07/08/2023, 12:30",Pool D,Final
 Madison United Mixed Ultimate,ELevate,13,6,"07/08/2023, 12:30",Pool D,Final
 pool,Pool E
 Queen City Gambit,PanIC,13,8,"07/08/2023, 09:00",Pool E,Final
 Mousetrap,Frostbite,12,8,"07/08/2023, 09:00",Pool E,Final
 Queen City Gambit,Frostbite,11,10,"07/08/2023, 10:45",Pool E,Final
 Mousetrap,PanIC,13,4,"07/08/2023, 10:45",Pool E,Final
-Queen City Gambit,Mousetrap,0,0,"07/08/2023, 12:30",Pool E,Scheduled
-PanIC,Frostbite,0,0,"07/08/2023, 12:30",Pool E,Scheduled
+Queen City Gambit,Mousetrap,8,12,"07/08/2023, 12:30",Pool E,Final
+PanIC,Frostbite,9,11,"07/08/2023, 12:30",Pool E,Final
 pool,Pool F
 The Force,Skyhawks,11,12,"07/08/2023, 09:00",Pool F,Final
 2Fly2Furious,Stackcats,9,12,"07/08/2023, 09:00",Pool F,Final
@@ -689,6 +689,8 @@ b,r,e,a,k
 brackets,X BP
 bracket,X CHAMPIONSHIP BRACKET
 Stackcats,Bandwagon,0,0,"07/08/2023, 14:45",X PLAY-IN,Scheduled
+Mousetrap,Jabba,0,0,"07/08/2023, 14:45",X PLAY-IN,Scheduled
+Queen City Gambit,Point of No Return,0,0,"07/08/2023, 14:45",X PLAY-IN,Scheduled
 Skyhawks,Steamboat,0,0,"07/08/2023, 14:45",X PLAY-IN,Scheduled
 bracket,X 3RD PLACE GAME
 bracket,X 5TH PLACE BRACKET
@@ -697,6 +699,8 @@ bracket,X 9TH PLACE BRACKET
 bracket,X 11TH PLACE GAME
 bracket,X 13TH PLACE BRACKET
 2Fly2Furious,POW!,0,0,"07/08/2023, 14:45",X 13TH PLAY-IN,Scheduled
+Frostbite,Mastodon,0,0,"07/08/2023, 14:45",X 13TH PLAY-IN,Scheduled
+PanIC,ELevate,0,0,"07/08/2023, 14:45",X 13TH PLAY-IN,Scheduled
 The Force,Pixel,0,0,"07/08/2023, 14:45",X 13TH PLAY-IN,Scheduled
 bracket,X 15TH PLACE GAME
 bracket,X 17TH PLACE BRACKET
