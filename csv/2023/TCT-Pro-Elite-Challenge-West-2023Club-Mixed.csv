@@ -287,33 +287,6 @@ teamInfo,,"San Francisco Bay Area, California",,https://www.facebook.com/Mischie
 58,Jaclyn Wataoka
 88,Jeffrey He
 b,r,e,a,k
-Impact,10
-teamInfo,,"Wichita, Kansas",,https://www.facebook.com/ImpactUltimate/,https://twitter.com/ImpactUltimate
-00,Ryan Dornbusch
-01,Kez Gesell
-02,Tanner Lee Gesell
-03,Dustin Dye
-06,Amanda Baker
-07,Brittany Parks
-09,David Jochems
-10,Carissa  Dye
-11,Anna Christensen
-12,Charity Felton
-13,Angela Reimer
-14,Kiana Broadley
-16,Ellane Bergen
-18,Samuel Mehan
-21,Reid Christensen
-22,Isaac Blick
-33,Cody Rebholz
-37,Jake Reimer
-42,Westen Gehring
-46,Noelle Wickham
-51,Isaac Entz
-81,Patrick Loganbill
-86,Emily Beeson
-88,Abigail Ned
-b,r,e,a,k
 Lawless,5
 teamInfo,,"Phoenix, Arizona",,,https://twitter.com/ArizonaLawless
 0,Amy Halvorsen
@@ -342,16 +315,43 @@ teamInfo,,"Phoenix, Arizona",,,https://twitter.com/ArizonaLawless
 52,Oliver Artus
 91,Samuel Fontaine
 b,r,e,a,k
+Impact,10
+teamInfo,,"Wichita, Kansas",,https://www.facebook.com/ImpactUltimate/,https://twitter.com/ImpactUltimate
+00,Ryan Dornbusch
+01,Kez Gesell
+02,Tanner Lee Gesell
+03,Dustin Dye
+06,Amanda Baker
+07,Brittany Parks
+09,David Jochems
+10,Carissa  Dye
+11,Anna Christensen
+12,Charity Felton
+13,Angela Reimer
+14,Kiana Broadley
+16,Ellane Bergen
+18,Samuel Mehan
+21,Reid Christensen
+22,Isaac Blick
+33,Cody Rebholz
+37,Jake Reimer
+42,Westen Gehring
+46,Noelle Wickham
+51,Isaac Entz
+81,Patrick Loganbill
+86,Emily Beeson
+88,Abigail Ned
+b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
 Seattle Mixtape,Oregon Scorch,8,15,"07/08/2023, 08:30",Pool A,Final
 Seattle Mixtape,Flight Club,14,10,"07/08/2023, 10:15",Pool A,Final
-Flight Club,Oregon Scorch,13,12,"07/08/2023, 12:00",Pool A,Scheduled
+Flight Club,Oregon Scorch,13,12,"07/08/2023, 12:00",Pool A,Final
 pool,Pool B
 BFG,Bullet Train,15,6,"07/08/2023, 08:30",Pool B,Final
 BFG,Classy,13,9,"07/08/2023, 10:15",Pool B,Final
-Classy,Bullet Train,0,0,"07/08/2023, 12:00",Pool B,Scheduled
+Classy,Bullet Train,13,8,"07/08/2023, 12:00",Pool B,Final
 pool,Pool C
 Polar Bears,Mile High Trash,15,11,"07/08/2023, 08:30",Pool C,Final
 Polar Bears,MOONDOG,12,11,"07/08/2023, 10:15",Pool C,Final
@@ -359,7 +359,7 @@ MOONDOG,Mile High Trash,8,11,"07/08/2023, 12:00",Pool C,Final
 pool,Pool D
 Mischief,Impact,14,13,"07/08/2023, 08:30",Pool D,Final
 Mischief,Lawless,15,12,"07/08/2023, 10:15",Pool D,Final
-Lawless,Impact,0,0,"07/08/2023, 12:00",Pool D,Scheduled
+Lawless,Impact,15,13,"07/08/2023, 12:00",Pool D,Final
 b,r,e,a,k
 clusters,Crossover Reseeding Games
 cluster,Seeding Crossover
@@ -368,7 +368,9 @@ BFG,Mischief,0,0,"07/08/2023, 15:30",,Scheduled
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,Championship
+Classy,Impact,0,0,"07/08/2023, 13:45",Pre-Quarterfinals,Scheduled
 Mile High Trash,Flight Club,0,0,"07/08/2023, 15:30",Pre-Quarterfinals,Scheduled
+Lawless,Bullet Train,0,0,"07/08/2023, 13:45",Pre-Quarterfinals,Scheduled
 Seattle Mixtape,MOONDOG,0,0,"07/08/2023, 15:30",Pre-Quarterfinals,Scheduled
 b,r,e,a,k
 brackets,Placement Brackets
