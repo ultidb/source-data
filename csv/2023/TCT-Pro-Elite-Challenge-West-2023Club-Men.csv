@@ -246,31 +246,6 @@ coaches,Tyler Smith
 73,Jordan Wright
 77,Alejandro (Alex) Perez
 b,r,e,a,k
-GOAT,4
-teamInfo,,"Toronto, Ontario CA",http://goatultimate.wix.com/main,https://www.facebook.com/GOATultimate,https://twitter.com/GOATultimate
-coaches,Micheal Kukucska
-04,Matt O'Brien
-05,Ty Barbieri
-06,Jason  Lam
-07,Michael MacKenzie
-09,Jaret Meron
-10,Kelvin Huang
-13,Iain MacKenzie
-14,Marijo Zlatic
-15,Luc Comire
-16,David Petsinis
-18,Ryan Poloz
-21,Geoffrey Powell
-23,Ty Sadler
-26,Bryan Kuo
-41,Keith McRae
-43,Andrew Ouchterlony
-44,Kevin Jay
-60,James Lewis
-61,Adam O'Donnell
-83,Jason Huynh
-92,Adam Turcotte
-b,r,e,a,k
 Sockeye,5
 teamInfo,,"Seattle, Washington",https://www.seattlesockeye.org/,https://www.facebook.com/SeattleSockeye/,https://twitter.com/SeattleSockeye/
 0,Cedar Hines
@@ -299,6 +274,31 @@ teamInfo,,"Seattle, Washington",https://www.seattlesockeye.org/,https://www.face
 38,Manuel Eckert
 45,Michael Sylvester
 88,ryoama katsuta
+b,r,e,a,k
+GOAT,4
+teamInfo,,"Toronto, Ontario CA",http://goatultimate.wix.com/main,https://www.facebook.com/GOATultimate,https://twitter.com/GOATultimate
+coaches,Micheal Kukucska
+04,Matt O'Brien
+05,Ty Barbieri
+06,Jason  Lam
+07,Michael MacKenzie
+09,Jaret Meron
+10,Kelvin Huang
+13,Iain MacKenzie
+14,Marijo Zlatic
+15,Luc Comire
+16,David Petsinis
+18,Ryan Poloz
+21,Geoffrey Powell
+23,Ty Sadler
+26,Bryan Kuo
+41,Keith McRae
+43,Andrew Ouchterlony
+44,Kevin Jay
+60,James Lewis
+61,Adam O'Donnell
+83,Jason Huynh
+92,Adam Turcotte
 b,r,e,a,k
 OAT,10
 teamInfo,,"East Bay , California",,https://www.facebook.com/OatUltimate,
@@ -334,11 +334,11 @@ pools,Pool Play
 pool,Pool A
 Rhino Slam!,Alamode,15,9,"07/08/2023, 08:30",Pool A,Final
 Rhino Slam!,Fungi,15,10,"07/08/2023, 10:15",Pool A,Final
-Fungi,Alamode,0,0,"07/08/2023, 12:00",Pool A,Scheduled
+Fungi,Alamode,15,12,"07/08/2023, 12:00",Pool A,Scheduled
 pool,Pool B
 Revolver,Make it Rain,15,6,"07/08/2023, 08:30",Pool B,Final
 Revolver,Dark Star,15,12,"07/08/2023, 10:15",Pool B,Final
-Dark Star,Make it Rain,0,0,"07/08/2023, 12:00",Pool B,Scheduled
+Dark Star,Make it Rain,15,4,"07/08/2023, 12:00",Pool B,Final
 pool,Pool C
 Chain Lightning,Mallard,15,8,"07/08/2023, 08:30",Pool C,Final
 Chain Lightning,SoCal Condors,14,11,"07/08/2023, 10:15",Pool C,Final
@@ -346,14 +346,17 @@ SoCal Condors,Mallard,0,0,"07/08/2023, 12:00",Pool C,Scheduled
 pool,Pool D
 GOAT,OAT,15,8,"07/08/2023, 08:30",Pool D,Final
 GOAT,Sockeye,13,14,"07/08/2023, 10:15",Pool D,Final
-Sockeye,OAT,0,0,"07/08/2023, 12:00",Pool D,Scheduled
+Sockeye,OAT,15,3,"07/08/2023, 12:00",Pool D,Final
 b,r,e,a,k
 clusters,Crossover Reseeding Games
 cluster,Seeding Crossover
 Rhino Slam!,Chain Lightning,0,0,"07/08/2023, 13:45",,Scheduled
+Revolver,Sockeye,0,0,"07/08/2023, 15:30",,Scheduled
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,Championship
+Dark Star,OAT,0,0,"07/08/2023, 13:45",Pre-Quarterfinals,Scheduled
+GOAT,Make it Rain,0,0,"07/08/2023, 13:45",Pre-Quarterfinals,Scheduled
 b,r,e,a,k
 brackets,Placement Brackets
 bracket,Third Place
