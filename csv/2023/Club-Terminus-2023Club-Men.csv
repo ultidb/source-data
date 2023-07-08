@@ -1,6 +1,31 @@
 Club Terminus 2023,Club - Men ,8,7,2023
 Peachtree City,GA,2023-07-08,2023-07-09
 https://play.usaultimate.org/events/Club-Terminus-2023/schedule/Men/Club-Men/
+Lost Boys,1
+teamInfo,,"Columbia, South Carolina",mailto:lbfrisbee@gmail.com,https://www.facebook.com/lbultimate/,https://twitter.com/TheLostBoysUlti
+0,Michael Miller
+1,Kyle Woodberry
+2,Adam Chase
+5,Brandon Wider
+6,Luke Hatchl
+8,Matthew Hogue
+10,Colin Sauls
+11,Nicholas Headden
+12,Johnnie Lynch
+13,Tyler Catton
+14,Stuart Hughes
+15,Corey Bennett
+16,Clarence Frady
+18,Chris Wilson
+23,John Bonas
+24,Stephen Trello
+29,Daniel Ouk
+52,Kevin Halprin
+64,Jacob Blackman
+81,Deven Riley
+88,Cleve Fisher
+91,Gerald Renato
+b,r,e,a,k
 Charleston Heat Stroke,9
 teamInfo,,"Charleston, South Carolina",,https://www.facebook.com/CharlestonHeatStroke,https://twitter.com/HeatStrokeCHS
 0,Cannon Yarborough
@@ -53,31 +78,6 @@ teamInfo,,"Atlanta, Georgia",,,
 42,Jon Fey
 72,Rylan Gordon
 91,Matthew Allan
-b,r,e,a,k
-Lost Boys,1
-teamInfo,,"Columbia, South Carolina",mailto:lbfrisbee@gmail.com,https://www.facebook.com/lbultimate/,https://twitter.com/TheLostBoysUlti
-0,Michael Miller
-1,Kyle Woodberry
-2,Adam Chase
-5,Brandon Wider
-6,Luke Hatchl
-8,Matthew Hogue
-10,Colin Sauls
-11,Nicholas Headden
-12,Johnnie Lynch
-13,Tyler Catton
-14,Stuart Hughes
-15,Corey Bennett
-16,Clarence Frady
-18,Chris Wilson
-23,John Bonas
-24,Stephen Trello
-29,Daniel Ouk
-52,Kevin Halprin
-64,Jacob Blackman
-81,Deven Riley
-88,Cleve Fisher
-91,Gerald Renato
 b,r,e,a,k
 Dyno,8
 teamInfo,,"Atlanta, Georgia",,,
@@ -219,35 +219,6 @@ teamInfo,,"Oakland Park, Florida",http://elninoultimate.com,,https://twitter.com
 63,Jason Warley
 99,Carlos Nunez
 b,r,e,a,k
-Delirium,3
-teamInfo,,"Kennesaw, Georgia",,,
-00,Caleb Myatt
-00,Charles Loudermilk
-00,Chase Miller
-00,Cole Chanler
-00,Cole Krucke
-00,Eric Sinkler
-00,Evan Marshall
-00,Ian Maddox
-00,Jack Stephenson
-00,Jake Powell
-00,Jesus Gonzalez
-00,Jon Ross Ingley
-00,Madison Head
-00,Neil Barry
-00,Nigel Hagley
-00,Ross Barnes
-00,Ryan Murphy
-00,Ryan Flick
-00,Ryan Hill
-00,Sam Rose
-00,Sam Batson
-00,William Fleming
-00,William Lindquist
-00,Zach Brennan
-26,Sam Diffin
-69,Samuel Trent
-b,r,e,a,k
 UpRoar,6
 teamInfo,,"Tampa Bay, Florida",,https://www.facebook.com/TampaBayUpRoar,https://twitter.com/TampaBayUpRoar
 0,Alexander Rodriguez
@@ -276,6 +247,35 @@ teamInfo,,"Tampa Bay, Florida",,https://www.facebook.com/TampaBayUpRoar,https://
 43,Dean Stupar
 66,Matthew Mcdonald
 69,Stephen Krajeski
+b,r,e,a,k
+Delirium,3
+teamInfo,,"Kennesaw, Georgia",,,
+00,Caleb Myatt
+00,Charles Loudermilk
+00,Chase Miller
+00,Cole Chanler
+00,Cole Krucke
+00,Eric Sinkler
+00,Evan Marshall
+00,Ian Maddox
+00,Jack Stephenson
+00,Jake Powell
+00,Jesus Gonzalez
+00,Jon Ross Ingley
+00,Madison Head
+00,Neil Barry
+00,Nigel Hagley
+00,Ross Barnes
+00,Ryan Murphy
+00,Ryan Flick
+00,Ryan Hill
+00,Sam Rose
+00,Sam Batson
+00,William Fleming
+00,William Lindquist
+00,Zach Brennan
+26,Sam Diffin
+69,Samuel Trent
 b,r,e,a,k
 Raptor,14
 teamInfo,,"Orlando, Florida",,,
@@ -442,7 +442,7 @@ pools,Pool Play
 pool,Pool A
 Lost Boys,Little Red Wagon,0,0,"07/08/2023, 09:00",Pool A,Scheduled
 Dyno,Charleston Heat Stroke,11,13,"07/08/2023, 09:00",Pool A,Final
-Lost Boys,Charleston Heat Stroke,0,0,"07/08/2023, 10:45",Pool A,Scheduled
+Lost Boys,Charleston Heat Stroke,10,8,"07/08/2023, 10:45",Pool A,Final
 Dyno,Little Red Wagon,0,0,"07/08/2023, 10:45",Pool A,Scheduled
 Lost Boys,Dyno,0,0,"07/08/2023, 12:30",Pool A,Scheduled
 Charleston Heat Stroke,Little Red Wagon,0,0,"07/08/2023, 14:15",Pool A,Scheduled
@@ -458,7 +458,7 @@ Delirium,Raptor,0,0,"07/08/2023, 09:00",Pool C,Scheduled
 UpRoar,Space Cowboys,12,9,"07/08/2023, 10:45",Pool C,Final
 Delirium,Space Cowboys,13,5,"07/08/2023, 12:30",Pool C,Final
 UpRoar,Raptor,0,0,"07/08/2023, 12:30",Pool C,Scheduled
-Delirium,UpRoar,0,0,"07/08/2023, 14:15",Pool C,Scheduled
+Delirium,UpRoar,8,11,"07/08/2023, 14:15",Pool C,Final
 Space Cowboys,Raptor,0,0,"07/08/2023, 14:15",Pool C,Scheduled
 pool,Pool D
 Alliance,Queen City Kings,12,8,"07/08/2023, 09:00",Pool D,Final
