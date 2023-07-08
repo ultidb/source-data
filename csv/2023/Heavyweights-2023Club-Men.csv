@@ -144,30 +144,6 @@ coaches,Joseph Barzilai
 88,Evan Dobson
 98,Drake Hill
 b,r,e,a,k
-HouSE,18
-teamInfo,,"Kenosha, Wisconsin",,https://www.facebook.com/HouSEultimate/,
-0,Nick Waring
-0,Tim Pecharich
-6,Nick Robinson
-01,Nick Lilla
-05,Justin Rummelhart
-07,David Ashmore
-08,Conner Bousson
-09,Kyle Baker
-10,Matt Freer
-10,Scott Wenzel
-11,James Firth Fountain
-13,Blake Kiefner
-15,Ryan O'Reilly
-16,Benjamin Tompkins
-19,Karl Fauerbach
-20,Brett Robinson
-22,Jacob Stock
-26,Jimmy Chaudoin
-29,Zachary Kozmer
-47,Matthew Rodway
-77,Curtis Knaack
-b,r,e,a,k
 Kenji's BBB,15
 teamInfo,,"Roseville, Minnesota",,,
 0,Akos Konkoly
@@ -192,6 +168,30 @@ teamInfo,,"Roseville, Minnesota",,,
 57,Owen Schigiel
 86,John Helgeson
 88,Evan Ellis
+b,r,e,a,k
+HouSE,18
+teamInfo,,"Kenosha, Wisconsin",,https://www.facebook.com/HouSEultimate/,
+0,Nick Waring
+0,Tim Pecharich
+6,Nick Robinson
+01,Nick Lilla
+05,Justin Rummelhart
+07,David Ashmore
+08,Conner Bousson
+09,Kyle Baker
+10,Matt Freer
+10,Scott Wenzel
+11,James Firth Fountain
+13,Blake Kiefner
+15,Ryan O'Reilly
+16,Benjamin Tompkins
+19,Karl Fauerbach
+20,Brett Robinson
+22,Jacob Stock
+26,Jimmy Chaudoin
+29,Zachary Kozmer
+47,Matthew Rodway
+77,Curtis Knaack
 b,r,e,a,k
 Chimney,7
 teamInfo,,"Cleveland, Ohio",,,
@@ -299,29 +299,6 @@ teamInfo,,"Ann Arbor, Michigan",,,
 76,Matthew Bell
 85,Dafeng Chen
 b,r,e,a,k
-STL Moonar,19
-teamInfo,,"St. Louis, Missouri",,,
-0,Ardian Hoxhaj 
-0,Jackson Hogan
-0,Joe Rosenberg
-0,Jonah Feinstein
-0,JP Torack
-0,Drew Steinhubl
-0,Kevin Wyle
-0,Mitchell Oldham
-0,Payton Jaggie
-0,Sena Murray
-0,Steven James Richardson
-0,Tamish Sapkota
-0,Tom Dupor
-1,Nathan Kamp
-2,Kelly Mauntel
-22,Aidan Byrne
-24,Adam Sherberg
-27,Evan Schreiner
-44,David Higuchi
-81,Zachary Szatkowski
-b,r,e,a,k
 Trident II,11
 teamInfo,,"Chicago, Illinois",,,https://twitter.com/Trident2Ulti
 coaches,Robert Gross
@@ -346,6 +323,29 @@ coaches,Robert Gross
 25,Jake Swalec
 35,Zach Eiden
 69,Sai Girap
+b,r,e,a,k
+STL Moonar,19
+teamInfo,,"St. Louis, Missouri",,,
+0,Ardian Hoxhaj 
+0,Jackson Hogan
+0,Joe Rosenberg
+0,Jonah Feinstein
+0,JP Torack
+0,Drew Steinhubl
+0,Kevin Wyle
+0,Mitchell Oldham
+0,Payton Jaggie
+0,Sena Murray
+0,Steven James Richardson
+0,Tamish Sapkota
+0,Tom Dupor
+1,Nathan Kamp
+2,Kelly Mauntel
+22,Aidan Byrne
+24,Adam Sherberg
+27,Evan Schreiner
+44,David Higuchi
+81,Zachary Szatkowski
 b,r,e,a,k
 DCVIII,14
 teamInfo,,"Madison , Wisconsin",,,
@@ -517,8 +517,8 @@ Colonels,Nomads,9,13,"07/08/2023, 10:45",Pool A,Final
 MKE,Scoop,13,3,"07/08/2023, 10:45",Pool A,Final
 Scoop,UFO,6,13,"07/08/2023, 12:30",Pool A,Final
 MKE,Nomads,13,11,"07/08/2023, 12:30",Pool A,Final
-Colonels,Scoop,0,0,"07/08/2023, 14:15",Pool A,Scheduled
-MKE,UFO,0,0,"07/08/2023, 14:15",Pool A,Scheduled
+Colonels,Scoop,13,7,"07/08/2023, 14:15",Pool A,Final
+MKE,UFO,13,7,"07/08/2023, 14:15",Pool A,Final
 Colonels,MKE,0,0,"07/08/2023, 16:00",Pool A,Scheduled
 Nomads,UFO,0,0,"07/08/2023, 16:00",Pool A,Scheduled
 pool,Pool B
@@ -528,7 +528,7 @@ STL Lounar,NOMAD,13,5,"07/08/2023, 10:45",Pool B,Final
 Chimney,Kenji's BBB,9,13,"07/08/2023, 10:45",Pool B,Final
 Kenji's BBB,HouSE,12,13,"07/08/2023, 12:30",Pool B,Final
 Chimney,NOMAD,13,11,"07/08/2023, 12:30",Pool B,Final
-STL Lounar,Kenji's BBB,0,0,"07/08/2023, 14:15",Pool B,Scheduled
+STL Lounar,Kenji's BBB,13,12,"07/08/2023, 14:15",Pool B,Final
 Chimney,HouSE,11,12,"07/08/2023, 14:15",Pool B,Final
 STL Lounar,Chimney,0,0,"07/08/2023, 16:00",Pool B,Scheduled
 NOMAD,HouSE,0,0,"07/08/2023, 16:00",Pool B,Scheduled
@@ -540,7 +540,7 @@ Diesel,DCVIII,13,10,"07/08/2023, 10:45",Pool C,Final
 DCVIII,STL Moonar,11,12,"07/08/2023, 12:30",Pool C,Final
 Diesel,Trident II,13,9,"07/08/2023, 12:30",Pool C,Final
 Knights of Ni,DCVIII,13,6,"07/08/2023, 14:15",Pool C,Final
-Diesel,STL Moonar,0,0,"07/08/2023, 14:15",Pool C,Scheduled
+Diesel,STL Moonar,13,6,"07/08/2023, 14:15",Pool C,Final
 Knights of Ni,Diesel,0,0,"07/08/2023, 16:00",Pool C,Scheduled
 Trident II,STL Moonar,0,0,"07/08/2023, 16:00",Pool C,Scheduled
 pool,Pool D
@@ -551,7 +551,7 @@ Riverside,NOx,13,4,"07/08/2023, 10:45",Pool D,Final
 NOx,Trident III,13,11,"07/08/2023, 12:30",Pool D,Final
 Riverside,Timber,13,1,"07/08/2023, 12:30",Pool D,Final
 I-69,NOx,0,0,"07/08/2023, 14:15",Pool D,Scheduled
-Riverside,Trident III,0,0,"07/08/2023, 14:15",Pool D,Scheduled
+Riverside,Trident III,13,7,"07/08/2023, 14:15",Pool D,Final
 I-69,Riverside,0,0,"07/08/2023, 16:00",Pool D,Scheduled
 Timber,Trident III,0,0,"07/08/2023, 16:00",Pool D,Scheduled
 b,r,e,a,k
