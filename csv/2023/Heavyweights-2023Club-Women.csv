@@ -78,6 +78,28 @@ teamInfo,,"Chicago, Illinois",http://www.dishultimate.com,https://www.facebook.c
 70,Kate  Feldstein
 77,Miriam Stein
 b,r,e,a,k
+Freshwater Ultimate,12
+teamInfo,,"Madison, Wisconsin",,https://www.facebook.com/freshwaterultimate/,https://twitter.com/freshwaterulti
+02,Anjali Mathur
+03,Elizabeth Innes
+04,Tara Kelley
+07,Lani Jensen
+08,Rysa Weigel-Sterr
+09,KaLia Cha
+11,Miranda Day
+13,Kylee Martens
+18,Sammy Chandhok
+23,Elizabeth Anderson
+28,Lexi  Menendez 
+29,Gabriela Stark-Torrentera 
+33,Kelsey Weister
+34,Sarah Ditton
+36,Catherine Heller
+37,Mikaela Hagen
+51,Elizabeth Just
+82,Bridget Joers
+88,Serena Xu
+b,r,e,a,k
 Autonomous,8
 teamInfo,,"Ann Arbor/Detroit, Michigan",,https://www.facebook.com/autonomousultimate/,
 0,Allison Lofgren
@@ -105,28 +127,6 @@ teamInfo,,"Ann Arbor/Detroit, Michigan",,https://www.facebook.com/autonomousulti
 37,Sophie Pebbles
 88,Martha Hale
 99,Ariel Stepniak
-b,r,e,a,k
-Freshwater Ultimate,12
-teamInfo,,"Madison, Wisconsin",,https://www.facebook.com/freshwaterultimate/,https://twitter.com/freshwaterulti
-02,Anjali Mathur
-03,Elizabeth Innes
-04,Tara Kelley
-07,Lani Jensen
-08,Rysa Weigel-Sterr
-09,KaLia Cha
-11,Miranda Day
-13,Kylee Martens
-18,Sammy Chandhok
-23,Elizabeth Anderson
-28,Lexi  Menendez 
-29,Gabriela Stark-Torrentera 
-33,Kelsey Weister
-34,Sarah Ditton
-36,Catherine Heller
-37,Mikaela Hagen
-51,Elizabeth Just
-82,Bridget Joers
-88,Serena Xu
 b,r,e,a,k
 Twisted Womxn,9
 teamInfo,,"Des Moines, Iowa",,,
@@ -199,6 +199,26 @@ teamInfo,,"St. Louis, Missouri",,https://www.facebook.com/stellarultimate,https:
 55,Elisa Kodama
 99,Isabella Singer
 b,r,e,a,k
+Medusa,6
+teamInfo,,"Milwaukee, Wisconsin",https://medusaultimate.weebly.com/,https://www.facebook.com/medusaultimate,https://twitter.com/medusaultimate
+coaches,Tim Posl
+01,Hayden Kozmer
+03,Cassandra Kleeman
+06,Shannon Clancy
+11,Rachel  Lensing
+13,Megan Diesslin
+14,Alix Raymond
+15,Rose Ricca
+18,Helen Koth
+21,Caroline Walrich
+22,Claire Smart
+26,Mary Kate Drayna
+28,Kristin Pelzel
+33,Katelyn Pisellini
+77,Madeline Rittgers
+79,Gretchen Weber
+99,Sophia Diliberti
+b,r,e,a,k
 Stormborn,11
 teamInfo,,"Minneapolis, Minnesota",,https://www.instagram.com/stormbornwomensultimate/,https://twitter.com/StormbornMN
 0,Giulia Bronzi
@@ -220,26 +240,6 @@ teamInfo,,"Minneapolis, Minnesota",,https://www.instagram.com/stormbornwomensult
 8,Felicia Villalobos
 10,Molly Nelson
 22,Sam Munkeby
-b,r,e,a,k
-Medusa,6
-teamInfo,,"Milwaukee, Wisconsin",https://medusaultimate.weebly.com/,https://www.facebook.com/medusaultimate,https://twitter.com/medusaultimate
-coaches,Tim Posl
-01,Hayden Kozmer
-03,Cassandra Kleeman
-06,Shannon Clancy
-11,Rachel  Lensing
-13,Megan Diesslin
-14,Alix Raymond
-15,Rose Ricca
-18,Helen Koth
-21,Caroline Walrich
-22,Claire Smart
-26,Mary Kate Drayna
-28,Kristin Pelzel
-33,Katelyn Pisellini
-77,Madeline Rittgers
-79,Gretchen Weber
-99,Sophia Diliberti
 b,r,e,a,k
 Sureshot,7
 teamInfo,,"Cincinnati, Ohio",,https://www.facebook.com/sureshotultimate/,https://twitter.com/cincysureshot
@@ -292,9 +292,9 @@ Twisted Womxn,Freshwater Ultimate,6,9,"07/08/2023, 10:45",Pool A,Final
 Indy Rogue,Autonomous,13,1,"07/08/2023, 12:30",Pool A,Final
 Dish,Freshwater Ultimate,13,6,"07/08/2023, 12:30",Pool A,Final
 Wicked,Twisted Womxn,13,1,"07/08/2023, 12:30",Pool A,Final
-Indy Rogue,Freshwater Ultimate,0,0,"07/08/2023, 14:15",Pool A,Scheduled
-Dish,Wicked,0,0,"07/08/2023, 14:15",Pool A,Scheduled
-Autonomous,Twisted Womxn,0,0,"07/08/2023, 14:15",Pool A,Scheduled
+Indy Rogue,Freshwater Ultimate,13,1,"07/08/2023, 14:15",Pool A,Final
+Dish,Wicked,7,11,"07/08/2023, 14:15",Pool A,Final
+Autonomous,Twisted Womxn,11,12,"07/08/2023, 14:15",Pool A,Final
 Indy Rogue,Twisted Womxn,0,0,"07/09/2023, 09:00",Pool A,Scheduled
 Dish,Autonomous,0,0,"07/09/2023, 09:00",Pool A,Scheduled
 Wicked,Freshwater Ultimate,0,0,"07/09/2023, 09:00",Pool A,Scheduled
@@ -308,9 +308,9 @@ Solstice,Stormborn,2,13,"07/08/2023, 10:45",Pool B,Final
 Stellar,Sureshot,13,5,"07/08/2023, 12:30",Pool B,Final
 Heist,Stormborn,13,5,"07/08/2023, 12:30",Pool B,Final
 Medusa,Solstice,11,8,"07/08/2023, 12:30",Pool B,Final
-Stellar,Stormborn,0,0,"07/08/2023, 14:15",Pool B,Scheduled
-Heist,Medusa,0,0,"07/08/2023, 14:15",Pool B,Scheduled
-Sureshot,Solstice,0,0,"07/08/2023, 14:15",Pool B,Scheduled
+Stellar,Stormborn,13,8,"07/08/2023, 14:15",Pool B,Final
+Heist,Medusa,13,6,"07/08/2023, 14:15",Pool B,Final
+Sureshot,Solstice,11,7,"07/08/2023, 14:15",Pool B,Final
 Stellar,Solstice,0,0,"07/09/2023, 09:00",Pool B,Scheduled
 Heist,Sureshot,0,0,"07/09/2023, 09:00",Pool B,Scheduled
 Medusa,Stormborn,0,0,"07/09/2023, 09:00",Pool B,Scheduled
