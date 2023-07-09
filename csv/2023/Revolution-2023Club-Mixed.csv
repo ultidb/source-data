@@ -115,6 +115,32 @@ teamInfo,,"Portland, Oregon",,https://www.facebook.com/HiveUltimate,https://twit
 80,Nathan Braun
 98,Martis Artis
 b,r,e,a,k
+BW Ultimate,3
+teamInfo,,"Sunnyvale, California",,https://www.facebook.com/BW.Ultimate,https://www.twitter.com/bw_ultimate
+0,Cullen Coyne
+0,Emma Morimoto
+0,Gary Dixon
+0,Gretchen Berndt
+0,Hidemasa Kato
+0,James Pollard
+0,Jessica Lee
+0,Jessie Moore
+0,Bettina Chen
+0,Cecilia Bao
+0,Kelly Liu
+0,Max Herrmannsfeldt
+0,Melissa Slaughter
+0,Monica Hsiue
+0,Shirley Saunders
+0,William Chang
+7,Michelle Slaughter
+7,Angela Louh
+16,John Dugan
+23,Vincent Su
+27,Aaron Hom
+44,Conor Bauman
+98,Wyatt Berreman
+b,r,e,a,k
 Tower,2
 teamInfo,,"Sacramento, California",,,https://twitter.com/towerulti
 0,Adam Schobinger
@@ -194,32 +220,6 @@ teamInfo,,"Reno, Nevada",,,https://twitter.com/cutthroatulti
 27,Morgan Greenwood
 35,Raymond Lopez
 44,Giovanni Danforth
-b,r,e,a,k
-BW Ultimate,3
-teamInfo,,"Sunnyvale, California",,https://www.facebook.com/BW.Ultimate,https://www.twitter.com/bw_ultimate
-0,Cullen Coyne
-0,Emma Morimoto
-0,Gary Dixon
-0,Gretchen Berndt
-0,Hidemasa Kato
-0,James Pollard
-0,Jessica Lee
-0,Jessie Moore
-0,Bettina Chen
-0,Cecilia Bao
-0,Kelly Liu
-0,Max Herrmannsfeldt
-0,Melissa Slaughter
-0,Monica Hsiue
-0,Shirley Saunders
-0,William Chang
-7,Michelle Slaughter
-7,Angela Louh
-16,John Dugan
-23,Vincent Su
-27,Aaron Hom
-44,Conor Bauman
-98,Wyatt Berreman
 b,r,e,a,k
 Mango,9
 teamInfo,,"San Francisco, California",https://www.instagram.com/mangoultimate/,,
@@ -353,6 +353,32 @@ teamInfo,,"Santa Barbara, California",,,
 90,Kevin Kirchhoff
 99,Sophia Eli Esteban
 b,r,e,a,k
+Firefly,10
+teamInfo,,"San Francisco, California",www.fireflyultimate.com,facebook.com/fireflydisc,
+0,Abe McKay
+0,Abigail Karp
+0,Amanda Cornfeld
+0,Anna Sciaruto
+0,Anna O'Malley
+0,Brenton Kimmi
+0,David Adams
+0,Erica Messner
+0,Gabe Taylor
+0,Kate Zemke
+0,Lydia Yiu
+0,Lydia Auch
+0,Malachi Wickman
+0,Marcela Vazquez
+0,Nico Gurney
+0,Skylohr Taylor
+0,Winston Chang
+0,Zachary Ormsby
+13,Miles Burnette
+23,Eric Ma
+25,Jenna Borges
+26,Devin Oliver
+38,Conor McNamara
+b,r,e,a,k
 Spoiler Alert,14
 teamInfo,,"Los Angeles, California",,https://www.facebook.com/SpoilerAlertUltimate/,@Spoileralertult
 0,Alison Elliott
@@ -379,32 +405,6 @@ teamInfo,,"Los Angeles, California",,https://www.facebook.com/SpoilerAlertUltima
 71,DEREK LAY
 82,Ariel Rascoe
 87,Brandon Cooper
-b,r,e,a,k
-Firefly,10
-teamInfo,,"San Francisco, California",www.fireflyultimate.com,facebook.com/fireflydisc,
-0,Abe McKay
-0,Abigail Karp
-0,Amanda Cornfeld
-0,Anna Sciaruto
-0,Anna O'Malley
-0,Brenton Kimmi
-0,David Adams
-0,Erica Messner
-0,Gabe Taylor
-0,Kate Zemke
-0,Lydia Yiu
-0,Lydia Auch
-0,Malachi Wickman
-0,Marcela Vazquez
-0,Nico Gurney
-0,Skylohr Taylor
-0,Winston Chang
-0,Zachary Ormsby
-13,Miles Burnette
-23,Eric Ma
-25,Jenna Borges
-26,Devin Oliver
-38,Conor McNamara
 b,r,e,a,k
 Air Throwmads,19
 teamInfo,,"San Mateo, California",,,
@@ -584,7 +584,7 @@ BW Ultimate,Cutthroat,10,11,"07/08/2023, 09:30",Pool B,Final
 Tower,Cutthroat,10,7,"07/08/2023, 11:00",Pool B,Final
 Tower,BW Ultimate,7,9,"07/08/2023, 12:30",Pool B,Final
 American Barbecue,Cutthroat,8,6,"07/08/2023, 12:30",Pool B,Final
-BW Ultimate,American Barbecue,8,5,"07/08/2023, 14:00",Pool B,Scheduled
+BW Ultimate,American Barbecue,8,5,"07/08/2023, 14:00",Pool B,Final
 b,r,e,a,k
 pools,Mid Bracket Pool Play
 pool,Pool C
@@ -596,7 +596,7 @@ Mango,Nebula,11,6,"07/08/2023, 14:00",Pool C,Final
 Shipwreck,Grit City,4,9,"07/08/2023, 14:00",Pool C,Final
 pool,Pool D
 Robot,Spoiler Alert,9,6,"07/08/2023, 11:00",Pool D,Final
-Firefly,Spoiler Alert,7,4,"07/08/2023, 12:30",Pool D,Scheduled
+Firefly,Spoiler Alert,7,4,"07/08/2023, 12:30",Pool D,Final
 Firefly,Robot,4,11,"07/08/2023, 14:00",Pool D,Final
 b,r,e,a,k
 pools,Bottom Bracket Pool Play
@@ -617,19 +617,25 @@ Quails,Moonlight Ultimate,9,8,"07/08/2023, 14:00",,Final
 b,r,e,a,k
 clusters,Crossover Games
 cluster,Crossover
-Donuts,Grit City,0,0,"07/08/2023, 15:30",,Scheduled
-Hive,Mango,0,0,"07/08/2023, 15:30",,Scheduled
+Donuts,Grit City,9,5,"07/08/2023, 15:30",,Final
+Hive,Mango,5,10,"07/08/2023, 15:30",,Final
+American Barbecue,Firefly,0,0,"07/08/2023, 15:30",,Scheduled
+Cutthroat,Robot,0,0,"07/08/2023, 15:30",,Scheduled
 Shipwreck,DR,0,0,"07/08/2023, 15:30",,Scheduled
 Nebula,Birds of Paradise,0,0,"07/08/2023, 15:30",,Scheduled
+Spoiler Alert,VU,0,0,"07/08/2023, 15:30",,Scheduled
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,Championship Bracket
+Tower,Donuts,0,0,"07/09/2023, 10:45",Quarter Finals,Scheduled
+BW Ultimate,Mango,0,0,"07/09/2023, 10:45",Quarter Finals,Scheduled
 bracket,3rd Place
 bracket,5th Place
 bracket,7th Place
 b,r,e,a,k
 brackets,9th Place Bracket
 bracket,9th Place
+Hive,Air Throwmads,0,0,"07/09/2023, 10:45",9th Place - Quarter FInals,Scheduled
 bracket,11th Place
 bracket,13th Place
 bracket,15th Place
