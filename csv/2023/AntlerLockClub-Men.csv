@@ -19,24 +19,6 @@ teamInfo,,"Amherst, Massachusetts",,,
 86,Declan Kervick
 98,Carl Crawford
 b,r,e,a,k
-Buffalo Open,4
-teamInfo,,"Buffalo, New York",,,
-0,Chris Ritchie
-0,Dorien Heim
-0,Ian Johns
-0,Jeffrey Shevlin
-0,Matthias  Williams
-0,Nick Wong
-0,Rohn Parylo
-4,Joe Gambino
-7,Ian Clingerman
-16,Devin Smith
-21,Michael Palozzi
-21,Lucas Seeley
-25,Joe  Bachraty
-42,Joshua-Paul Atkinson
-69,Zane Roth
-b,r,e,a,k
 Dirty Laundry,8
 teamInfo,,"Albany, New York",,,
 0,Dan Priddle
@@ -55,6 +37,24 @@ teamInfo,,"Albany, New York",,,
 18,Simon Phippen
 19,Austin Shave
 43,Joseph Casente
+b,r,e,a,k
+Buffalo Open,4
+teamInfo,,"Buffalo, New York",,,
+0,Chris Ritchie
+0,Dorien Heim
+0,Ian Johns
+0,Jeffrey Shevlin
+0,Matthias  Williams
+0,Nick Wong
+0,Rohn Parylo
+4,Joe Gambino
+7,Ian Clingerman
+16,Devin Smith
+21,Michael Palozzi
+21,Lucas Seeley
+25,Joe  Bachraty
+42,Joshua-Paul Atkinson
+69,Zane Roth
 b,r,e,a,k
 Red Tide,2
 teamInfo,,"Portland, Maine",https://maineultimate.org/p/red-tide?fbclid=IwAR0bDNru2gankJXHGP3ETZUI78rng5ue4-aPUdGmhDgjlY6sqcg5lmuNHkg,https://www.facebook.com/RedTideUltimate,
@@ -83,21 +83,6 @@ teamInfo,,"Portland, Maine",https://maineultimate.org/p/red-tide?fbclid=IwAR0bDN
 87,James Bell
 88,Bailey Kirwin
 97,Daniel Bronshvayg
-b,r,e,a,k
-Bartle Boys,3
-teamInfo,,"New York, New York",,,
-00,Ari Solomon
-00,Christopher Wells
-00,Drew Holahan
-00,Edward  Wong
-00,Garrett Barth
-00,Jack Molloy
-00,James Pardo
-00,Luke Smith
-00,Michael Levy
-00,Ryan Blazejewski
-00,Tyler Leitner
-00,Zachary Halperin
 b,r,e,a,k
 Alibi,6
 teamInfo,,"Albany, New York",,,
@@ -150,33 +135,48 @@ teamInfo,,"Medford , Massachusetts",,,
 58,James Wickham
 82,Trey Wiley
 b,r,e,a,k
+Bartle Boys,3
+teamInfo,,"New York, New York",,,
+00,Ari Solomon
+00,Christopher Wells
+00,Drew Holahan
+00,Edward  Wong
+00,Garrett Barth
+00,Jack Molloy
+00,James Pardo
+00,Luke Smith
+00,Michael Levy
+00,Ryan Blazejewski
+00,Tyler Leitner
+00,Zachary Halperin
+b,r,e,a,k
 s,t,a,g,e,s
 pools,Saturday Pools
 pool,Pool A
-Buffalo Open,Dirty Laundry,0,0,"07/08/2023, 10:30",Pool A,Scheduled
-TireBizFriz,Dirty Laundry,0,0,"07/08/2023, 12:15",Pool A,Scheduled
-TireBizFriz,Buffalo Open,0,0,"07/08/2023, 14:00",Pool A,Scheduled
+Buffalo Open,Dirty Laundry,4,15,"07/08/2023, 10:30",Pool A,Final
+TireBizFriz,Dirty Laundry,15,7,"07/08/2023, 12:15",Pool A,Final
+TireBizFriz,Buffalo Open,W,L,"07/08/2023, 14:00",Pool A,Final
 pool,Pool B
-Red Tide,Alibi,0,0,"07/08/2023, 10:30",Pool B,Scheduled
-Bartle Boys,Odyssey,0,0,"07/08/2023, 10:30",Pool B,Scheduled
-Red Tide,Odyssey,0,0,"07/08/2023, 12:15",Pool B,Scheduled
-Bartle Boys,Alibi,0,0,"07/08/2023, 12:15",Pool B,Scheduled
-Red Tide,Bartle Boys,0,0,"07/08/2023, 14:00",Pool B,Scheduled
-Alibi,Odyssey,0,0,"07/08/2023, 14:00",Pool B,Scheduled
+Red Tide,Alibi,15,2,"07/08/2023, 10:30",Pool B,Final
+Bartle Boys,Odyssey,10,13,"07/08/2023, 10:30",Pool B,Final
+Red Tide,Odyssey,15,4,"07/08/2023, 12:15",Pool B,Final
+Bartle Boys,Alibi,10,12,"07/08/2023, 12:15",Pool B,Final
+Red Tide,Bartle Boys,15,4,"07/08/2023, 14:00",Pool B,Final
+Alibi,Odyssey,13,8,"07/08/2023, 14:00",Pool B,Final
 b,r,e,a,k
 brackets,Saturday Playoffs
 bracket,Finals
+TireBizFriz,Red Tide,8,12,"07/08/2023, 15:45",1st Place,Final
 bracket,3rd Place
+Odyssey,Dirty Laundry,10,9,"07/08/2023, 15:45",3rd Place,Final
 bracket,5th Place
+Alibi,Buffalo Open,15,4,"07/08/2023, 15:45",5th Place,Final
 b,r,e,a,k
-pools,Sunday Round Robin
-pool,Pool D
-Buffalo Open,Bartle Boys,0,0,"07/09/2023, 09:30",Pool D,Scheduled
-Odyssey,Dirty Laundry,0,0,"07/09/2023, 09:30",Pool D,Scheduled
-Buffalo Open,Odyssey,0,0,"07/09/2023, 11:15",Pool D,Scheduled
-Red Tide,Dirty Laundry,0,0,"07/09/2023, 11:15",Pool D,Scheduled
-Dirty Laundry,Bartle Boys,0,0,"07/09/2023, 13:00",Pool D,Scheduled
-Red Tide,Odyssey,0,0,"07/09/2023, 13:00",Pool D,Scheduled
-Buffalo Open,Dirty Laundry,0,0,"07/09/2023, 14:45",Pool D,Scheduled
-Red Tide,Bartle Boys,0,0,"07/09/2023, 14:45",Pool D,Scheduled
+pools,Sunday Matches
+pool,Pool C
+Red Tide,Dirty Laundry,0,0,"07/09/2023, 09:30",Pool C,Scheduled
+Odyssey,Buffalo Open,0,0,"07/09/2023, 09:30",Pool C,Scheduled
+Red Tide,Buffalo Open,0,0,"07/09/2023, 11:15",Pool C,Scheduled
+Odyssey,Dirty Laundry,0,0,"07/09/2023, 11:15",Pool C,Scheduled
+Dirty Laundry,Buffalo Open,0,0,"07/09/2023, 13:00",Pool C,Scheduled
 b,r,e,a,k
