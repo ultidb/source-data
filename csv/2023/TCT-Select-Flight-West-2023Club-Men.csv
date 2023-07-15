@@ -101,27 +101,6 @@ teamInfo,,"San Francisco, California",,,
 33,William Fuller
 46,Maozhi Liu
 b,r,e,a,k
-Clutch,2
-teamInfo,,"Houston, Texas",,https://www.facebook.com/clutchultimate,https://twitter.com/clutchultimate
-0,Ben Meister
-0,Carson Riggins
-0,Cody Pierce
-0,"Gregory Plaia, Jr"
-0,Darrel  Francis III
-0,David Waters
-0,Wyatt Davies
-2,Jheremi Villarreal
-3,Geoffrey Avila
-5,Corey Tolbert
-10,Ibrahim El-sayed
-11,Phillip Nguyen
-12,Ismail Kassim
-21,Francisco Gomez
-24,Shaun Seidenberger
-45,Samuel Heslep
-72,Jake Sperry
-77,Noah Furrh
-b,r,e,a,k
 ISO Atmo,5
 teamInfo,,"Boulder, Colorado",,,
 0,Ahanu Reiva
@@ -148,6 +127,27 @@ teamInfo,,"Boulder, Colorado",,,
 42,Tyler Carr
 64,Eric Gillwald
 99,Samuel Freedman
+b,r,e,a,k
+Clutch,2
+teamInfo,,"Houston, Texas",,https://www.facebook.com/clutchultimate,https://twitter.com/clutchultimate
+0,Ben Meister
+0,Carson Riggins
+0,Cody Pierce
+0,"Gregory Plaia, Jr"
+0,Darrel  Francis III
+0,David Waters
+0,Wyatt Davies
+2,Jheremi Villarreal
+3,Geoffrey Avila
+5,Corey Tolbert
+10,Ibrahim El-sayed
+11,Phillip Nguyen
+12,Ismail Kassim
+21,Francisco Gomez
+24,Shaun Seidenberger
+45,Samuel Heslep
+72,Jake Sperry
+77,Noah Furrh
 b,r,e,a,k
 SOUF,11
 teamInfo,,"Seattle , Washington",,,
@@ -224,28 +224,6 @@ coaches,Julia Johnson
 69,Jiheng Nie
 91,Daniel Peteuil
 b,r,e,a,k
-Battery,13
-teamInfo,,"San Francisco, California",,https://www.facebook.com/batteryultimate/,https://twitter.com/SF_Battery
-00,Adam Koehler
-00,Brandon Zhou
-00,Brendan Mackel
-00,Dylan Rivers
-00,Garrett Silski
-00,Hayden Mans
-00,Henry Kou
-00,Jordan Seaberg
-00,Kosuke Hasegawa
-00,Nick Amano
-00,Samuel Warren
-00,Will  Barnett
-01,Tadhg Young
-07,Austin  Cottarel
-11,Austin F Cary
-13,Cole Wilkinson
-17,Ryo Kather
-31,JB Smith
-64,Kyle Marquis
-b,r,e,a,k
 Ghost Train,8
 teamInfo,,"Seattle, Washington",,https://www.facebook.com/ghosttrainultimate,https://twitter.com/GhostTrainUlti
 0,Carl Richmond
@@ -267,6 +245,28 @@ teamInfo,,"Seattle, Washington",,https://www.facebook.com/ghosttrainultimate,htt
 51,Thomas Schmitt
 64,Kenneth Lawler
 79,Sean Killilea
+b,r,e,a,k
+Battery,13
+teamInfo,,"San Francisco, California",,https://www.facebook.com/batteryultimate/,https://twitter.com/SF_Battery
+00,Adam Koehler
+00,Brandon Zhou
+00,Brendan Mackel
+00,Dylan Rivers
+00,Garrett Silski
+00,Hayden Mans
+00,Henry Kou
+00,Jordan Seaberg
+00,Kosuke Hasegawa
+00,Nick Amano
+00,Samuel Warren
+00,Will  Barnett
+01,Tadhg Young
+07,Austin  Cottarel
+11,Austin F Cary
+13,Cole Wilkinson
+17,Ryo Kather
+31,JB Smith
+64,Kyle Marquis
 b,r,e,a,k
 Kansas City Smokestack,7
 teamInfo,,"Kansas City, Missouri",http://smokestackultimate.weebly.com/,https://www.facebook.com/smokestackultimate,https://www.twitter.com/kc_smokestack
@@ -369,18 +369,18 @@ s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
 Drought,OC Crows,15,10,"07/15/2023, 07:30",Pool A,Final
-Furious George,Anchor,15,5,"07/15/2023, 09:15",Pool A,Final
+Furious George,Anchor,13,4,"07/15/2023, 09:15",Pool A,Final
 Furious George,Drought,0,0,"07/15/2023, 11:00",Pool A,Scheduled
 OC Crows,Anchor,0,0,"07/15/2023, 11:00",Pool A,Scheduled
 pool,Pool B
 Clutch,SOUF,12,11,"07/15/2023, 07:30",Pool B,Final
-Clutch,ISO Atmo,0,0,"07/15/2023, 09:15",Pool B,Scheduled
+Clutch,ISO Atmo,12,13,"07/15/2023, 09:15",Pool B,Final
 ISO Atmo,SOUF,0,0,"07/15/2023, 11:00",Pool B,Scheduled
 pool,Pool C
 OAT,Battery,14,6,"07/15/2023, 07:30",Pool C,Final
 Ghost Train,Hazard,5,13,"07/15/2023, 07:30",Pool C,Final
 OAT,Hazard,13,9,"07/15/2023, 09:15",Pool C,Final
-Ghost Train,Battery,0,0,"07/15/2023, 09:15",Pool C,Scheduled
+Ghost Train,Battery,13,7,"07/15/2023, 09:15",Pool C,Final
 pool,Pool D
 Skipjack,Sonoran Dog,13,4,"07/15/2023, 07:30",Pool D,Final
 Kansas City Smokestack,Haymaker,15,1,"07/15/2023, 07:30",Pool D,Final
