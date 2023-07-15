@@ -122,6 +122,31 @@ teamInfo,,"St Johns, Newfoundland/Labrador CA",,https://www.facebook.com/Regimen
 00,Miguel Santos
 24,Nicholas House
 b,r,e,a,k
+Sprout,3
+teamInfo,,"Devens, Massachusetts",,,
+0,Bryan Dole
+0,Galen Harwood
+0,Griffin Yas
+0,Isaac Kaplan
+0,Luca  Harwood
+0,Will Christian
+5,Daniel Kang
+9,Dillon Monti
+10,Rustin Ingold-Smith
+13,Alex Evangelides
+15,James Cairn
+18,Sam Green
+21,Ben Ayres
+22,Arthur Aucoin
+24,Lyle Berkley
+33,William Thornton
+41,Noel Sierra
+42,Liam Gallinagh
+47,Caleb Seamon
+77,Nima Lhamo
+80,Chris Bartoli
+81,Geir Hartl
+b,r,e,a,k
 Red Tide,10
 teamInfo,,"Portland, Maine",https://maineultimate.org/p/red-tide?fbclid=IwAR0bDNru2gankJXHGP3ETZUI78rng5ue4-aPUdGmhDgjlY6sqcg5lmuNHkg,https://www.facebook.com/RedTideUltimate,
 0,Justin Strout
@@ -177,31 +202,6 @@ teamInfo,,"Montreal, Quebec CA",https://clubmultimate.ca,,
 66,Raphaël Drouin
 77,Jaden Verlaan
 91,Francois Laplante-Anfossi
-b,r,e,a,k
-Sprout,3
-teamInfo,,"Devens, Massachusetts",,,
-0,Bryan Dole
-0,Galen Harwood
-0,Griffin Yas
-0,Isaac Kaplan
-0,Luca  Harwood
-0,Will Christian
-5,Daniel Kang
-9,Dillon Monti
-10,Rustin Ingold-Smith
-13,Alex Evangelides
-15,James Cairn
-18,Sam Green
-21,Ben Ayres
-22,Arthur Aucoin
-24,Lyle Berkley
-33,William Thornton
-41,Noel Sierra
-42,Liam Gallinagh
-47,Caleb Seamon
-77,Nima Lhamo
-80,Chris Bartoli
-81,Geir Hartl
 b,r,e,a,k
 Lantern,6
 teamInfo,,"Boston, Massachusetts",https://www.instagram.com/lanternultimate/?hl=en,,https://twitter.com/lanternultimate
@@ -259,26 +259,6 @@ teamInfo,,"Brooklyn, New York",,,https://twitter.com/nyc_blueprint
 64,Leo Xiao
 89,Julian Quintero Rodriguez
 b,r,e,a,k
-Ascension,11
-teamInfo,,"Sherbrooke, Quebec CA",,,
-0,Adam Leonard
-0,Charles Houle-Parent
-0,David Letourneau
-0,David Vigneau-Lecomte
-0,Jean-Francois Peloquin
-0,Karl Thibault
-0,Maxime Durand-Gasselin
-0,Maxime Lapointe-Major
-0,Nathaniel Leonard
-0,Philippe Garand
-0,Philippe Lacombe
-3,Xavier Blanchette
-5,Mikael Lacombe
-9,Vincent Sasseville
-24,Farouk Oussaada
-31,Simon Trepanier
-71,Raphael Nadeau
-b,r,e,a,k
 Magma Bears,14
 teamInfo,,"ALL OF NEW YORK, New York",,https://www.facebook.com/WestchesterMagmaBears,https://twitter.com/MagmaBearUlti
 coaches,Joshua (Slater) Levey
@@ -309,6 +289,50 @@ coaches,Joshua (Slater) Levey
 55,Jason Hughes
 88,Michael Lovisa
 b,r,e,a,k
+Ascension,11
+teamInfo,,"Sherbrooke, Quebec CA",,,
+0,Adam Leonard
+0,Charles Houle-Parent
+0,David Letourneau
+0,David Vigneau-Lecomte
+0,Jean-Francois Peloquin
+0,Karl Thibault
+0,Maxime Durand-Gasselin
+0,Maxime Lapointe-Major
+0,Nathaniel Leonard
+0,Philippe Garand
+0,Philippe Lacombe
+3,Xavier Blanchette
+5,Mikael Lacombe
+9,Vincent Sasseville
+24,Farouk Oussaada
+31,Simon Trepanier
+71,Raphael Nadeau
+b,r,e,a,k
+MBTA,18
+teamInfo,,"Boston, Massachusetts",,,https://twitter.com/MbtaUltimate
+0,Avery Houston
+0,Benjamin Matton-Conover
+0,Matias Ng
+0,Nathaniel Cramer
+0,Nathaniel Dorson
+0,Kevin Donohue
+0,Tucker Zakon-Anderson
+0,Yashas  Sathvik
+1,Spencer Sochin
+2,Jacob Kaplan
+14,James Greytok
+20,Jakob Farnham
+22,Chris Zhang
+25,Andrew Sheehan
+33,Bennett Hartley
+37,Logan Pfahler
+52,Benjamin Rubasch
+59,John Vaughn
+61,Henry Stock
+74,Alfred Maler
+82,JP Collins
+b,r,e,a,k
 BAG,15
 teamInfo,,"Medford, Massachusetts",,,
 0,Ari Carp
@@ -337,30 +361,6 @@ teamInfo,,"Medford, Massachusetts",,,
 44,Matt Sehgal
 50,Carl Saba
 81,Adam Dahlquist
-b,r,e,a,k
-MBTA,18
-teamInfo,,"Boston, Massachusetts",,,https://twitter.com/MbtaUltimate
-0,Avery Houston
-0,Benjamin Matton-Conover
-0,Matias Ng
-0,Nathaniel Cramer
-0,Nathaniel Dorson
-0,Kevin Donohue
-0,Tucker Zakon-Anderson
-0,Yashas  Sathvik
-1,Spencer Sochin
-2,Jacob Kaplan
-14,James Greytok
-20,Jakob Farnham
-22,Chris Zhang
-25,Andrew Sheehan
-33,Bennett Hartley
-37,Logan Pfahler
-52,Benjamin Rubasch
-59,John Vaughn
-61,Henry Stock
-74,Alfred Maler
-82,JP Collins
 b,r,e,a,k
 Odyssey,19
 teamInfo,,"Medford , Massachusetts",,,
@@ -515,7 +515,7 @@ pools,Elite Pool Play
 pool,Pool A
 General Strike,Regiment,13,7,"07/15/2023, 09:00",Pool A,Final
 Big Wrench,Switchback,11,8,"07/15/2023, 09:00",Pool A,Final
-General Strike,Big Wrench,0,0,"07/15/2023, 10:30",Pool A,Scheduled
+General Strike,Big Wrench,12,7,"07/15/2023, 10:30",Pool A,Scheduled
 Scoop,Switchback,0,0,"07/15/2023, 10:30",Pool A,Scheduled
 Switchback,Regiment,0,0,"07/15/2023, 12:00",Pool A,Scheduled
 Scoop,Big Wrench,0,0,"07/15/2023, 12:00",Pool A,Scheduled
@@ -527,7 +527,7 @@ pool,Pool B
 Blueprint,Red Tide,9,12,"07/15/2023, 09:00",Pool B,Final
 Lantern,Club M - Manic,10,11,"07/15/2023, 09:00",Pool B,Final
 Blueprint,Lantern,0,0,"07/15/2023, 10:30",Pool B,Scheduled
-Sprout,Club M - Manic,0,0,"07/15/2023, 10:30",Pool B,Scheduled
+Sprout,Club M - Manic,13,6,"07/15/2023, 10:30",Pool B,Final
 Club M - Manic,Red Tide,0,0,"07/15/2023, 12:00",Pool B,Scheduled
 Sprout,Lantern,0,0,"07/15/2023, 12:00",Pool B,Scheduled
 Blueprint,Club M - Manic,0,0,"07/15/2023, 13:30",Pool B,Scheduled
@@ -538,9 +538,9 @@ b,r,e,a,k
 pools,classic pool play
 pool,Pool C
 Ascension,Odyssey,11,7,"07/15/2023, 09:00",Pool C,Final
-BAG,MBTA,0,0,"07/15/2023, 09:00",Pool C,Scheduled
+BAG,MBTA,8,10,"07/15/2023, 09:00",Pool C,Final
 Ascension,BAG,0,0,"07/15/2023, 10:30",Pool C,Scheduled
-Magma Bears,MBTA,0,0,"07/15/2023, 10:30",Pool C,Scheduled
+Magma Bears,MBTA,13,6,"07/15/2023, 10:30",Pool C,Final
 MBTA,Odyssey,0,0,"07/15/2023, 12:00",Pool C,Scheduled
 Magma Bears,BAG,0,0,"07/15/2023, 12:00",Pool C,Scheduled
 Ascension,MBTA,0,0,"07/15/2023, 13:30",Pool C,Scheduled
