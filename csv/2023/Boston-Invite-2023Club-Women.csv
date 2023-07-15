@@ -50,6 +50,30 @@ teamInfo,,"Montreal, Quebec CA",,,
 14,Marie-Eve Thériault
 44,Eve Massé
 b,r,e,a,k
+Pine Baroness,9
+teamInfo,,"New Brunswick, New Jersey",,https://www.facebook.com/PineBaroness,
+0,Angel Weng
+9,Yvonne Tang
+01,Michaela Dudley
+02,Celia Smits
+03,Jennifer Willemsen
+05,Whitney Zhou
+08,Jessica Waugaman
+11,Emily Van Malden
+13,Jessica Uscamayta
+14,Kimberly Brown
+15,Leann Gray
+16,Nazahah Hasan
+19,Alice Weng
+21,Jill Sternthal
+22,Kelsey Cadagin
+23,Dana  Marxen
+25,Niletta Burton
+27,Annie Drascher
+29,Jess Stitt
+47,Angela Li
+61,Ashley Talwar
+b,r,e,a,k
 Rip Tide,16
 teamInfo,,"Portland, Maine",http://www.maineultimate.org,,
 coaches,Emily Kallin
@@ -74,30 +98,6 @@ coaches,Emily Kallin
 33,Elizabeth Cope
 34,Esther Devadas
 44,Hannah Lowenstein
-b,r,e,a,k
-Pine Baroness,9
-teamInfo,,"New Brunswick, New Jersey",,https://www.facebook.com/PineBaroness,
-0,Angel Weng
-9,Yvonne Tang
-01,Michaela Dudley
-02,Celia Smits
-03,Jennifer Willemsen
-05,Whitney Zhou
-08,Jessica Waugaman
-11,Emily Van Malden
-13,Jessica Uscamayta
-14,Kimberly Brown
-15,Leann Gray
-16,Nazahah Hasan
-19,Alice Weng
-21,Jill Sternthal
-22,Kelsey Cadagin
-23,Dana  Marxen
-25,Niletta Burton
-27,Annie Drascher
-29,Jess Stitt
-47,Angela Li
-61,Ashley Talwar
 b,r,e,a,k
 Sage,10
 teamInfo,,"Montreal, Quebec CA",,,
@@ -379,15 +379,15 @@ Iris,Pine Baroness,13,4,"07/15/2023, 09:00",Pool A,Final
 Vintage,Rip Tide,8,7,"07/15/2023, 09:00",Pool A,Final
 Iris,Rip Tide,13,2,"07/15/2023, 10:30",Pool A,Final
 Vintage,Pine Baroness,10,5,"07/15/2023, 10:30",Pool A,Final
-Iris,Vintage,0,0,"07/15/2023, 12:00",Pool A,Scheduled
-Pine Baroness,Rip Tide,0,0,"07/15/2023, 12:00",Pool A,Scheduled
+Iris,Vintage,13,6,"07/15/2023, 12:00",Pool A,Final
+Pine Baroness,Rip Tide,7,6,"07/15/2023, 12:00",Pool A,Final
 pool,Pool B
 Wave,Sage,2,13,"07/15/2023, 09:00",Pool B,Final
 Vice,PLOW,10,8,"07/15/2023, 09:00",Pool B,Final
 Wave,PLOW,10,5,"07/15/2023, 10:30",Pool B,Final
 Vice,Sage,4,13,"07/15/2023, 10:30",Pool B,Final
-Wave,Vice,0,0,"07/15/2023, 12:00",Pool B,Scheduled
-Sage,PLOW,0,0,"07/15/2023, 12:00",Pool B,Scheduled
+Wave,Vice,11,8,"07/15/2023, 12:00",Pool B,Final
+Sage,PLOW,10,6,"07/15/2023, 12:00",Pool B,Final
 pool,Pool C
 Venus,Frolic,0,0,"07/15/2023, 09:00",Pool C,Scheduled
 Virginia Rebellion,Ignite,0,0,"07/15/2023, 09:00",Pool C,Scheduled
@@ -403,12 +403,15 @@ b,r,e,a,k
 brackets,Bracket Play
 bracket,1st place
 bracket,9th Place
+Vice,Rip Tide,0,0,"07/16/2023, 09:00",quarters,In Progress
 bracket,11th place
 bracket,5th place
 bracket,3rd place
 bracket,7th place
 b,r,e,a,k
 clusters,Cross over play
+cluster,Crossover
+Vintage,Vice,0,0,"07/15/2023, 13:30",,Scheduled
 b,r,e,a,k
 pools,Placement Pool play
 pool,Pool E
