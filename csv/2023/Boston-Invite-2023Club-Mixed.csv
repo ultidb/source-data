@@ -86,34 +86,6 @@ teamInfo,,"Mansfield, Massachusetts",http://www.darkwingultimate.com,,https://tw
 99,Jordan Kaufman
 99,Kunzang Namgyal
 b,r,e,a,k
-Funk,9
-teamInfo,,"Newburgh, New York",,https://www.facebook.com/HudsonValleyFunk/,https://twitter.com/HVFunk
-0,Briana Chanowitz
-0,Cheyenne Mallo
-0,Christopher Losapio
-0,Dan  McCune
-0,Flynn McCarthy
-0,Liam McCarthy
-0,Lucas Murphy
-0,Matt Latvis
-0,Mirsad Markovic
-0,Robert (Bobby) Owens
-0,Tanvi Shankar
-0,Zachary Schiff
-3,Ava Harnick
-5,Melissa Torchio
-8,Hannah Chang
-12,Jasper Smith
-14,Joseph Ouellette
-16,Matthew Keegan
-18,Arianna Edwards
-19,Faith Summers
-24,Jordan Acker
-25,Christopher Chan
-28,Allison Case
-29,David Leibert
-36,Lindsay Ork
-b,r,e,a,k
 Grand Army,8
 teamInfo,,"Brooklyn, New York",https://linktr.ee/grandarmyultimate,https://www.facebook.com/GrandArmyUltimate,https://www.twitter.com/grandarmymixed
 00,Alex Rafkin
@@ -141,6 +113,34 @@ teamInfo,,"Brooklyn, New York",https://linktr.ee/grandarmyultimate,https://www.f
 00,TJ Dingco
 00,Tom Sum
 00,Tomaso Mukai
+b,r,e,a,k
+Funk,9
+teamInfo,,"Newburgh, New York",,https://www.facebook.com/HudsonValleyFunk/,https://twitter.com/HVFunk
+0,Briana Chanowitz
+0,Cheyenne Mallo
+0,Christopher Losapio
+0,Dan  McCune
+0,Flynn McCarthy
+0,Liam McCarthy
+0,Lucas Murphy
+0,Matt Latvis
+0,Mirsad Markovic
+0,Robert (Bobby) Owens
+0,Tanvi Shankar
+0,Zachary Schiff
+3,Ava Harnick
+5,Melissa Torchio
+8,Hannah Chang
+12,Jasper Smith
+14,Joseph Ouellette
+16,Matthew Keegan
+18,Arianna Edwards
+19,Faith Summers
+24,Jordan Acker
+25,Christopher Chan
+28,Allison Case
+29,David Leibert
+36,Lindsay Ork
 b,r,e,a,k
 Slow,2
 teamInfo,,"Boston, Massachusetts",,https://www.facebook.com/SlowWhiteUltimate/,https://twitter.com/SlowWhite_
@@ -343,35 +343,6 @@ teamInfo,,"Boston, Massachusetts",,,
 68,Benjamin Nelson
 82,Alyson Steinfeld
 b,r,e,a,k
-Starfire,19
-teamInfo,,"Stony Brook, New York",,,
-0,Allison Dowling
-0,Analise Polinsky
-0,Britney Echeverria
-0,Gavin Zhao
-0,Geoffrey Zheng
-0,Kim Duong
-0,Kristin Velazquez
-0,Lynx Yuan
-0,Joe Moyles
-0,Melanie Galeano
-0,Nicole Coveny
-0,Sean O'Sullivan
-0,Syed  Gillani
-0,Victor  Jiang
-2,Belinda Lam
-4,Johnny Jiang
-7,Seewing Zheng
-9,Yuya Baba
-12,Jack Hilton
-12,April Zhang
-13,Henry Lin
-31,Matthew Chin
-42,Maggie Mai
-44,Rushda Chowdhury
-69,Wes Collins
-87,Brandon Chan
-b,r,e,a,k
 Lampshade,14
 teamInfo,,"Cambridge, Massachusetts",,,
 coaches,Abijith Krishnan
@@ -401,6 +372,35 @@ coaches,Abijith Krishnan
 53,David O'Dea
 74,Eva McDermott
 88,Dalton Lovins
+b,r,e,a,k
+Starfire,19
+teamInfo,,"Stony Brook, New York",,,
+0,Allison Dowling
+0,Analise Polinsky
+0,Britney Echeverria
+0,Gavin Zhao
+0,Geoffrey Zheng
+0,Kim Duong
+0,Kristin Velazquez
+0,Lynx Yuan
+0,Joe Moyles
+0,Melanie Galeano
+0,Nicole Coveny
+0,Sean O'Sullivan
+0,Syed  Gillani
+0,Victor  Jiang
+2,Belinda Lam
+4,Johnny Jiang
+7,Seewing Zheng
+9,Yuya Baba
+12,Jack Hilton
+12,April Zhang
+13,Henry Lin
+31,Matthew Chin
+42,Maggie Mai
+44,Rushda Chowdhury
+69,Wes Collins
+87,Brandon Chan
 b,r,e,a,k
 Lobrid,18
 teamInfo,,"Cambridge, Massachusetts",,,
@@ -566,11 +566,11 @@ XIST,Funk,13,4,"07/15/2023, 09:00",Pool A,Final
 Darkwing,Grand Army,10,9,"07/15/2023, 09:00",Pool A,Final
 XIST,Darkwing,10,8,"07/15/2023, 10:30",Pool A,Final
 Pittsburgh Port Authority,Grand Army,11,10,"07/15/2023, 10:30",Pool A,Final
-Grand Army,Funk,0,0,"07/15/2023, 12:00",Pool A,Scheduled
+Grand Army,Funk,10,7,"07/15/2023, 12:00",Pool A,Final
 Pittsburgh Port Authority,Darkwing,13,12,"07/15/2023, 12:00",Pool A,Final
 XIST,Grand Army,13,1,"07/15/2023, 13:30",Pool A,Final
-Pittsburgh Port Authority,Funk,0,0,"07/15/2023, 13:30",Pool A,Scheduled
-XIST,Pittsburgh Port Authority,0,0,"07/15/2023, 15:00",Pool A,Scheduled
+Pittsburgh Port Authority,Funk,8,9,"07/15/2023, 13:30",Pool A,Final
+XIST,Pittsburgh Port Authority,10,9,"07/15/2023, 15:00",Pool A,Final
 Darkwing,Funk,0,0,"07/15/2023, 15:00",Pool A,Scheduled
 pool,Pool B
 Slow,Heat Wave,13,3,"07/15/2023, 09:00",Pool B,Final
@@ -593,9 +593,9 @@ Lobrid,Starfire,9,11,"07/15/2023, 10:30",Pool C,Final
 Townies,Lampshade,11,8,"07/15/2023, 12:00",Pool C,Final
 Obscure,Starfire,13,5,"07/15/2023, 12:00",Pool C,Final
 Obscure,Lobrid,15,5,"07/15/2023, 13:30",Pool C,Final
-Lampshade,Starfire,12,7,"07/15/2023, 13:30",Pool C,Scheduled
+Lampshade,Starfire,12,7,"07/15/2023, 13:30",Pool C,Final
 Townies,Starfire,0,0,"07/15/2023, 15:00",Pool C,Scheduled
-Lampshade,Lobrid,11,9,"07/15/2023, 15:00",Pool C,Scheduled
+Lampshade,Lobrid,11,9,"07/15/2023, 15:00",Pool C,Final
 pool,Pool D
 Deadweight,Eat Lightning,13,1,"07/15/2023, 09:00",Pool D,Final
 Harfang ultimate,Moontower,13,11,"07/15/2023, 09:00",Pool D,Scheduled
