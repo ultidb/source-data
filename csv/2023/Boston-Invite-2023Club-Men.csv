@@ -174,6 +174,33 @@ teamInfo,,"Brooklyn, New York",,,https://twitter.com/nyc_blueprint
 64,Leo Xiao
 89,Julian Quintero Rodriguez
 b,r,e,a,k
+Club M - Manic,7
+teamInfo,,"Montreal, Quebec CA",https://clubmultimate.ca,,
+00,Benno Krojer
+00,David Ferbeyre
+00,Laurent Vautour
+00,Marc-Alexandre Houle
+00,Mathieu Petit
+00,Mathieu Joanis
+00,Fred Gaudet
+00,Georges-Emile Cote
+00,Raffael Cinq-mars
+00,Victor POITTE-SOKOLSKY
+00,Victor De Broux-Leduc
+02,Jonathan Baril
+04,Daniel Tu
+05,Xavier Maranda-Lévesque
+10,Étienne Favre
+18,Dorian Laverdiere
+20,Nathan Wu
+26,Antoine Debien
+34,Tristan Leclair-Vani
+39,Owen Kolinski
+46,Benjamin Palmer
+66,Raphaël Drouin
+77,Jaden Verlaan
+91,Francois Laplante-Anfossi
+b,r,e,a,k
 Red Tide,10
 teamInfo,,"Portland, Maine",https://maineultimate.org/p/red-tide?fbclid=IwAR0bDNru2gankJXHGP3ETZUI78rng5ue4-aPUdGmhDgjlY6sqcg5lmuNHkg,https://www.facebook.com/RedTideUltimate,
 0,Justin Strout
@@ -202,33 +229,6 @@ teamInfo,,"Portland, Maine",https://maineultimate.org/p/red-tide?fbclid=IwAR0bDN
 87,James Bell
 88,Bailey Kirwin
 97,Daniel Bronshvayg
-b,r,e,a,k
-Club M - Manic,7
-teamInfo,,"Montreal, Quebec CA",https://clubmultimate.ca,,
-00,Benno Krojer
-00,David Ferbeyre
-00,Laurent Vautour
-00,Marc-Alexandre Houle
-00,Mathieu Petit
-00,Mathieu Joanis
-00,Fred Gaudet
-00,Georges-Emile Cote
-00,Raffael Cinq-mars
-00,Victor POITTE-SOKOLSKY
-00,Victor De Broux-Leduc
-02,Jonathan Baril
-04,Daniel Tu
-05,Xavier Maranda-Lévesque
-10,Étienne Favre
-18,Dorian Laverdiere
-20,Nathan Wu
-26,Antoine Debien
-34,Tristan Leclair-Vani
-39,Owen Kolinski
-46,Benjamin Palmer
-66,Raphaël Drouin
-77,Jaden Verlaan
-91,Francois Laplante-Anfossi
 b,r,e,a,k
 Lantern,6
 teamInfo,,"Boston, Massachusetts",https://www.instagram.com/lanternultimate/?hl=en,,https://twitter.com/lanternultimate
@@ -279,6 +279,30 @@ teamInfo,,"Sherbrooke, Quebec CA",,,
 31,Simon Trepanier
 71,Raphael Nadeau
 b,r,e,a,k
+MBTA,18
+teamInfo,,"Boston, Massachusetts",,,https://twitter.com/MbtaUltimate
+0,Avery Houston
+0,Benjamin Matton-Conover
+0,Matias Ng
+0,Nathaniel Cramer
+0,Nathaniel Dorson
+0,Kevin Donohue
+0,Tucker Zakon-Anderson
+0,Yashas  Sathvik
+1,Spencer Sochin
+2,Jacob Kaplan
+14,James Greytok
+20,Jakob Farnham
+22,Chris Zhang
+25,Andrew Sheehan
+33,Bennett Hartley
+37,Logan Pfahler
+52,Benjamin Rubasch
+59,John Vaughn
+61,Henry Stock
+74,Alfred Maler
+82,JP Collins
+b,r,e,a,k
 Magma Bears,14
 teamInfo,,"ALL OF NEW YORK, New York",,https://www.facebook.com/WestchesterMagmaBears,https://twitter.com/MagmaBearUlti
 coaches,Joshua (Slater) Levey
@@ -308,30 +332,6 @@ coaches,Joshua (Slater) Levey
 43,Tyler McCarthy
 55,Jason Hughes
 88,Michael Lovisa
-b,r,e,a,k
-MBTA,18
-teamInfo,,"Boston, Massachusetts",,,https://twitter.com/MbtaUltimate
-0,Avery Houston
-0,Benjamin Matton-Conover
-0,Matias Ng
-0,Nathaniel Cramer
-0,Nathaniel Dorson
-0,Kevin Donohue
-0,Tucker Zakon-Anderson
-0,Yashas  Sathvik
-1,Spencer Sochin
-2,Jacob Kaplan
-14,James Greytok
-20,Jakob Farnham
-22,Chris Zhang
-25,Andrew Sheehan
-33,Bennett Hartley
-37,Logan Pfahler
-52,Benjamin Rubasch
-59,John Vaughn
-61,Henry Stock
-74,Alfred Maler
-82,JP Collins
 b,r,e,a,k
 BAG,15
 teamInfo,,"Medford, Massachusetts",,,
@@ -528,7 +528,7 @@ Blueprint,Red Tide,9,12,"07/15/2023, 09:00",Pool B,Final
 Lantern,Club M - Manic,10,11,"07/15/2023, 09:00",Pool B,Final
 Blueprint,Lantern,10,4,"07/15/2023, 10:30",Pool B,Final
 Sprout,Club M - Manic,13,6,"07/15/2023, 10:30",Pool B,Final
-Club M - Manic,Red Tide,0,0,"07/15/2023, 12:00",Pool B,Scheduled
+Club M - Manic,Red Tide,10,9,"07/15/2023, 12:00",Pool B,Final
 Sprout,Lantern,13,4,"07/15/2023, 12:00",Pool B,Final
 Blueprint,Club M - Manic,11,6,"07/15/2023, 13:30",Pool B,Final
 Sprout,Red Tide,12,9,"07/15/2023, 13:30",Pool B,Final
@@ -541,9 +541,9 @@ Ascension,Odyssey,11,7,"07/15/2023, 09:00",Pool C,Final
 BAG,MBTA,8,10,"07/15/2023, 09:00",Pool C,Final
 Ascension,BAG,10,9,"07/15/2023, 10:30",Pool C,Final
 Magma Bears,MBTA,13,6,"07/15/2023, 10:30",Pool C,Final
-MBTA,Odyssey,0,0,"07/15/2023, 12:00",Pool C,Scheduled
+MBTA,Odyssey,9,7,"07/15/2023, 12:00",Pool C,Final
 Magma Bears,BAG,0,0,"07/15/2023, 12:00",Pool C,Scheduled
-Ascension,MBTA,0,0,"07/15/2023, 13:30",Pool C,Scheduled
+Ascension,MBTA,13,6,"07/15/2023, 13:30",Pool C,Final
 Magma Bears,Odyssey,0,0,"07/15/2023, 13:30",Pool C,Scheduled
 Ascension,Magma Bears,0,0,"07/15/2023, 15:00",Pool C,Scheduled
 BAG,Odyssey,0,0,"07/15/2023, 15:00",Pool C,Scheduled
