@@ -115,36 +115,6 @@ teamInfo,,"Richmond, Virginia",,https://www.facebook.com/RevivalFlatball,
 87,Griffin Lang
 89,Nicholas Gigliotti
 b,r,e,a,k
-AMP,2
-teamInfo,,"Philadelphia, Pennsylvania",http://www.phillyamp.com,https://www.facebook.com/PhillyAMP,https://www.twitter.com/phillyamp
-coaches,Patrick Sherlock
-0,Casey Thornton
-1,Delrico Johnson
-2,Sam Grossberg
-3,Rachel Alfano
-4,Raha Mozaffari
-5,Lindsay McKenna
-6,Thomas Nye
-8,Jordan Rhyne
-10,Spencer DeRoos
-13,Eric Witmer
-15,Layne Dodge
-16,Grace Maroon
-18,Sumi Onoe
-21,Linda Morse
-22,Liz Hart
-23,Natalie Bova
-24,Danielle Walsh
-27,Luke Greenley
-34,Olivia Steinberg
-36,Adilina Malave
-44,Max Charles
-53,Will Helenski
-55,Michael Campanella
-70,Jake Butrica
-88,Paul Owens
-99,Eric Nardelli
-b,r,e,a,k
 Sprocket,8
 teamInfo,,"Lexington, Massachusetts",,https://www.facebook.com/sprocket.ultimate,
 coaches,Tom Matthews,Kate Patterson
@@ -174,6 +144,36 @@ coaches,Tom Matthews,Kate Patterson
 60,Caitlin Go
 72,Felipe Delgado
 73,Clara Stewart
+b,r,e,a,k
+AMP,2
+teamInfo,,"Philadelphia, Pennsylvania",http://www.phillyamp.com,https://www.facebook.com/PhillyAMP,https://www.twitter.com/phillyamp
+coaches,Patrick Sherlock
+0,Casey Thornton
+1,Delrico Johnson
+2,Sam Grossberg
+3,Rachel Alfano
+4,Raha Mozaffari
+5,Lindsay McKenna
+6,Thomas Nye
+8,Jordan Rhyne
+10,Spencer DeRoos
+13,Eric Witmer
+15,Layne Dodge
+16,Grace Maroon
+18,Sumi Onoe
+21,Linda Morse
+22,Liz Hart
+23,Natalie Bova
+24,Danielle Walsh
+27,Luke Greenley
+34,Olivia Steinberg
+36,Adilina Malave
+44,Max Charles
+53,Will Helenski
+55,Michael Campanella
+70,Jake Butrica
+88,Paul Owens
+99,Eric Nardelli
 b,r,e,a,k
 Waterloo,15
 teamInfo,,"Austin, Texas",waterloo_ultimateatx,Waterloo%20Ultimate,@ATXWaterlooUlt
@@ -460,15 +460,15 @@ Hybrid,'Shine,15,10,"07/15/2023, 08:30",Pool A,Final
 The Chad Larson Experience,Revival,11,10,"07/15/2023, 08:30",Pool A,Final
 Hybrid,Revival,12,8,"07/15/2023, 10:15",Pool A,Final
 The Chad Larson Experience,'Shine,7,15,"07/15/2023, 10:15",Pool A,Final
-Hybrid,The Chad Larson Experience,0,0,"07/15/2023, 12:00",Pool A,Scheduled
-'Shine,Revival,0,0,"07/15/2023, 12:00",Pool A,Scheduled
+Hybrid,The Chad Larson Experience,9,10,"07/15/2023, 12:00",Pool A,Final
+'Shine,Revival,13,6,"07/15/2023, 12:00",Pool A,Final
 pool,Pool B
 AMP,Jughandle,12,8,"07/15/2023, 08:30",Pool B,Final
 Sprocket,Waterloo,11,10,"07/15/2023, 08:30",Pool B,Final
 AMP,Waterloo,10,8,"07/15/2023, 10:15",Pool B,Final
 Sprocket,Jughandle,12,7,"07/15/2023, 10:15",Pool B,Final
-AMP,Sprocket,0,0,"07/15/2023, 12:00",Pool B,Scheduled
-Jughandle,Waterloo,0,0,"07/15/2023, 12:00",Pool B,Scheduled
+AMP,Sprocket,9,12,"07/15/2023, 12:00",Pool B,Final
+Jughandle,Waterloo,5,10,"07/15/2023, 12:00",Pool B,Final
 pool,Pool C
 Toro,Loco,15,9,"07/15/2023, 08:30",Pool C,Final
 Public Enemy,RAMP,13,11,"07/15/2023, 08:30",Pool C,Final
@@ -481,17 +481,25 @@ Space Force,Cleveland Crocs,15,9,"07/15/2023, 08:30",Pool D,Final
 Rally,Storm,15,10,"07/15/2023, 08:30",Pool D,Final
 Space Force,Storm,12,7,"07/15/2023, 10:15",Pool D,Final
 Rally,Cleveland Crocs,7,14,"07/15/2023, 10:15",Pool D,Final
-Space Force,Rally,0,0,"07/15/2023, 12:00",Pool D,Scheduled
+Space Force,Rally,11,13,"07/15/2023, 12:00",Pool D,Final
 Cleveland Crocs,Storm,14,8,"07/15/2023, 12:00",Pool D,Final
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,Championship Final
+Hybrid,AMP,0,0,"07/16/2023, 08:00",Quarterfinal,In Progress
+RAMP,Space Force,0,0,"07/16/2023, 08:00",Quarterfinal,In Progress
+Toro,Cleveland Crocs,0,0,"07/16/2023, 08:00",Quarterfinal,Scheduled
+'Shine,Sprocket,0,0,"07/16/2023, 08:00",Quarterfinal,Scheduled
 b,r,e,a,k
 brackets,Placement Brackets
 bracket,Third Place
 bracket,Fifth Place Bracket
 bracket,Seventh Place
 bracket,Ninth Place Bracket
+Waterloo,Revival,0,0,"07/16/2023, 08:00",Ninth Quarterfinal,Scheduled
+Storm,Public Enemy,0,0,"07/16/2023, 08:00",Ninth Quarterfinal,Scheduled
+Rally,Loco,0,0,"07/16/2023, 08:00",Ninth Quarterfinal,Scheduled
+Jughandle,The Chad Larson Experience,0,0,"07/16/2023, 08:00",Ninth Quarterfinal,Scheduled
 bracket,Eleventh Place
 bracket,Thirteenth Place Bracket
 bracket,Fifteenth Place
