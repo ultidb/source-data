@@ -165,30 +165,6 @@ teamInfo,,"Somerville, Massachusetts",,,
 64,Jamie Quella
 84,Dan Bush
 b,r,e,a,k
-Soldout,15
-teamInfo,,"Houston/Austin/El Paso, Texas",,,
-0,Matt Ferreri
-00,Mick Walter
-00,Miranda Jaster
-00,Nathan Poese
-00,Patrick Marco
-00,Peter Clarke
-00,Ryan Welch
-00,Shiru Liu
-00,Win Guan
-00,Avery Poese
-00,Barbara Williams
-00,Cameron Williams
-00,Chris Bennett
-00,Elizabeth Cravens
-00,Fay Li
-00,Greg Muth
-00,Jocelyn Jessop
-00,Jonathan Moore
-00,Kayleigh Renfro
-00,Kolby Janzen
-00,Marco Manalang
-b,r,e,a,k
 Day Shift,9
 teamInfo,,"Raleigh, North Carolina",,,
 00,Josh Day
@@ -217,6 +193,30 @@ teamInfo,,"Raleigh, North Carolina",,,
 87,Alyssa Irons
 97,Morelva Campbell
 99,Ivy Johnson
+b,r,e,a,k
+Soldout,15
+teamInfo,,"Houston/Austin/El Paso, Texas",,,
+0,Matt Ferreri
+00,Mick Walter
+00,Miranda Jaster
+00,Nathan Poese
+00,Patrick Marco
+00,Peter Clarke
+00,Ryan Welch
+00,Shiru Liu
+00,Win Guan
+00,Avery Poese
+00,Barbara Williams
+00,Cameron Williams
+00,Chris Bennett
+00,Elizabeth Cravens
+00,Fay Li
+00,Greg Muth
+00,Jocelyn Jessop
+00,Jonathan Moore
+00,Kayleigh Renfro
+00,Kolby Janzen
+00,Marco Manalang
 b,r,e,a,k
 SaLT,5
 teamInfo,,"Seattle, Washington",,,
@@ -457,7 +457,7 @@ SOS,Hey Babe,15,12,"07/21/2023, 08:30",Pool A,Final
 Atlanta Fawkes,Beached Whales,15,6,"07/21/2023, 08:30",Pool A,Final
 SOS,Beached Whales,15,6,"07/21/2023, 10:45",Pool A,Final
 Atlanta Fawkes,Hey Babe,15,7,"07/21/2023, 10:45",Pool A,Final
-SOS,Atlanta Fawkes,5,6,"07/21/2023, 13:00",Pool A,In Progress
+SOS,Atlanta Fawkes,8,9,"07/21/2023, 13:00",Pool A,Final
 Hey Babe,Beached Whales,10,9,"07/21/2023, 13:00",Pool A,Final
 pool,Pool B
 Slower,Day Shift,15,6,"07/21/2023, 08:30",Pool B,Final
@@ -465,7 +465,7 @@ Cool Biz,Soldout,15,6,"07/21/2023, 08:30",Pool B,Final
 Slower,Soldout,13,12,"07/21/2023, 10:45",Pool B,Final
 Cool Biz,Day Shift,15,7,"07/21/2023, 10:45",Pool B,Final
 Slower,Cool Biz,11,14,"07/21/2023, 13:00",Pool B,Final
-Day Shift,Soldout,8,4,"07/21/2023, 13:00",Pool B,In Progress
+Day Shift,Soldout,14,6,"07/21/2023, 13:00",Pool B,Final
 pool,Pool C
 Drag'n Rust,Dollytown Lollypops,15,6,"07/21/2023, 08:30",Pool C,Final
 SaLT,Rocko's Mountain Life,15,6,"07/21/2023, 08:30",Pool C,Final
@@ -483,8 +483,10 @@ Portland Prime,Shipwreck,15,12,"07/21/2023, 13:00",Pool D,Final
 b,r,e,a,k
 brackets,Championship
 bracket,1st Place
+Atlanta Fawkes,Slower,0,0,"07/22/2023, 08:30",Quarters,In Progress
 Drag'n Rust,regret.,0,0,"07/22/2023, 08:30",Quarters,In Progress
 SaLT,Super Drosts,0,0,"07/22/2023, 08:30",Quarters,In Progress
+SOS,Cool Biz,0,0,"07/22/2023, 08:30",Quarters,In Progress
 b,r,e,a,k
 brackets,Placement
 bracket,3rd Place
@@ -497,8 +499,10 @@ bracket,7th Place
 b,r,e,a,k
 brackets,Placement
 bracket,9th Place
+Hey Babe,Soldout,0,0,"07/22/2023, 10:45",Quarters,In Progress
 Rocko's Mountain Life,Portland Prime,0,0,"07/22/2023, 10:45",Quarters,In Progress
 Dollytown Lollypops,Shipwreck,0,0,"07/22/2023, 10:45",Quarters,In Progress
+Beached Whales,Day Shift,0,0,"07/22/2023, 10:45",Quarters,In Progress
 b,r,e,a,k
 brackets,Placement
 bracket,11th Place
