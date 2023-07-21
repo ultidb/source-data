@@ -152,33 +152,6 @@ teamInfo,,"Boulder, Colorado",,,
 88,Ken Snyder
 99,Jerald Keister
 b,r,e,a,k
-Zombiemaker,9
-teamInfo,,"Chicago, Illinois",,,
-00,Angelo Artemakis
-01,Wayne Tang
-03,Brian Sullivan
-05,John Asnis
-06,Matt Watenpool
-07,Murray Lantner
-08,Noam Frankel
-12,Eric Newman
-13,Frank Menendez
-17,Jerry Parks
-18,Alan Salzberg
-24,Danny Lee
-25,Darrin Speegle
-27,Chris Oldstone-Moore
-28,Ernie Miyashita
-29,Paul Kretkowski
-33,Dave Donat
-41,Scott Dietrich
-43,Paul Grafing
-50,Theodore Weldon III
-64,Mark Abney
-67,Mark Lonsway
-72,Mike Tomaszewski
-80,Jake Stake
-b,r,e,a,k
 Shelf Life,15
 teamInfo,,"King George, Virginia",,,
 0,Brian Barney
@@ -207,55 +180,32 @@ teamInfo,,"King George, Virginia",,,
 00,Wayne Biever
 00,Wayne Swanson
 b,r,e,a,k
-Recycled,5
-teamInfo,,"Decatur, Georgia",,,
-00,Bryant Depenbrok
-00,Chris Cleaver
-00,Florian Pfender
-00,Gregory Allpow
-00,Hector Fulco
-00,James Allen
-00,Greg Murray
-00,Jens Achenbach
-00,Luis Novoa
-00,Mark Stuewe
-00,Nick Josties
-00,Pablo Jose Saade Garcia
-00,Rich Franck
-03,Grant Cashin
-05,David Goode
-06,Charles Yood
-18,Alan Reeves
-23,Calvin Lin
-44,Marc Seto
-55,Richard Whitcomb
-67,Jason Kirkpatrick
-71,Eric Nelson
-98,Gregg Shapiro
-b,r,e,a,k
-SICK,12
-teamInfo,,"Texas, Texas",,,
-00,Bradley Strahan
-00,Chris Cosgrove
-00,Chris Conley
-00,Dan Wachter
-00,DAVID ARMSTRONG
-00,David Edwards
-00,Derek Unger
-00,Eugene Downing
-00,Greg Lopp
-00,Jay Banner
-00,Jeff Vilord
-00,Joey Barcio
-00,Joseph Knize
-00,Marcus (Mark) May
-00,Mark Jenesse
-00,Mike Jaris
-00,Ramiro Santana
-00,Rob Seidenberg
-00,Scott Cilento
-00,Tim Allen
-00,Tom Blinn
+Zombiemaker,9
+teamInfo,,"Chicago, Illinois",,,
+00,Angelo Artemakis
+01,Wayne Tang
+03,Brian Sullivan
+05,John Asnis
+06,Matt Watenpool
+07,Murray Lantner
+08,Noam Frankel
+12,Eric Newman
+13,Frank Menendez
+17,Jerry Parks
+18,Alan Salzberg
+24,Danny Lee
+25,Darrin Speegle
+27,Chris Oldstone-Moore
+28,Ernie Miyashita
+29,Paul Kretkowski
+33,Dave Donat
+41,Scott Dietrich
+43,Paul Grafing
+50,Theodore Weldon III
+64,Mark Abney
+67,Mark Lonsway
+72,Mike Tomaszewski
+80,Jake Stake
 b,r,e,a,k
 Relics,3
 teamInfo,,"San Francisco Bay Area, California",,,https://twitter.com/ultimaterelics
@@ -288,6 +238,32 @@ teamInfo,,"San Francisco Bay Area, California",,,https://twitter.com/ultimaterel
 00,Stephen LaBonge
 00,Steve Joye
 b,r,e,a,k
+Recycled,5
+teamInfo,,"Decatur, Georgia",,,
+00,Bryant Depenbrok
+00,Chris Cleaver
+00,Florian Pfender
+00,Gregory Allpow
+00,Hector Fulco
+00,James Allen
+00,Greg Murray
+00,Jens Achenbach
+00,Luis Novoa
+00,Mark Stuewe
+00,Nick Josties
+00,Pablo Jose Saade Garcia
+00,Rich Franck
+03,Grant Cashin
+05,David Goode
+06,Charles Yood
+18,Alan Reeves
+23,Calvin Lin
+44,Marc Seto
+55,Richard Whitcomb
+67,Jason Kirkpatrick
+71,Eric Nelson
+98,Gregg Shapiro
+b,r,e,a,k
 wreckAge,14
 teamInfo,,"Boston, Massachusetts",,,
 00,Cimarron Buser
@@ -310,6 +286,30 @@ teamInfo,,"Boston, Massachusetts",,,
 42,Zak DonGia
 55,John Turi
 73,Jesse Mager
+b,r,e,a,k
+SICK,12
+teamInfo,,"Texas, Texas",,,
+00,Bradley Strahan
+00,Chris Cosgrove
+00,Chris Conley
+00,Dan Wachter
+00,DAVID ARMSTRONG
+00,David Edwards
+00,Derek Unger
+00,Eugene Downing
+00,Greg Lopp
+00,Jay Banner
+00,Jeff Vilord
+00,Joey Barcio
+00,Joseph Knize
+00,Marcus (Mark) May
+00,Mark Jenesse
+00,Mike Jaris
+00,Ramiro Santana
+00,Rob Seidenberg
+00,Scott Cilento
+00,Tim Allen
+00,Tom Blinn
 b,r,e,a,k
 HURT,6
 teamInfo,,"Triangle, North Carolina",,,
@@ -420,14 +420,14 @@ Gritty,Burnside Five-0,0,0,"07/21/2023, 10:45",Pool A,Scheduled
 Surly GGM,Gritty,0,0,"07/21/2023, 13:00",Pool A,Scheduled
 Burnside Five-0,AGE Against the Machine GGM,0,0,"07/21/2023, 13:00",Pool A,Scheduled
 pool,Pool B
-Immortals,Zombiemaker,11,4,"07/21/2023, 08:30",Pool B,In Progress
+Immortals,Zombiemaker,15,4,"07/21/2023, 08:30",Pool B,Final
 Silverhorn,Shelf Life,13,6,"07/21/2023, 08:30",Pool B,In Progress
 Immortals,Shelf Life,0,0,"07/21/2023, 10:45",Pool B,Scheduled
 Silverhorn,Zombiemaker,0,0,"07/21/2023, 10:45",Pool B,Scheduled
 Immortals,Silverhorn,0,0,"07/21/2023, 13:00",Pool B,Scheduled
 Zombiemaker,Shelf Life,0,0,"07/21/2023, 13:00",Pool B,Scheduled
 pool,Pool C
-Relics,SICK,11,3,"07/21/2023, 08:30",Pool C,In Progress
+Relics,SICK,15,4,"07/21/2023, 08:30",Pool C,Final
 Recycled,wreckAge,15,6,"07/21/2023, 08:30",Pool C,Final
 Relics,wreckAge,0,0,"07/21/2023, 10:45",Pool C,Scheduled
 Recycled,SICK,0,0,"07/21/2023, 10:45",Pool C,Scheduled
