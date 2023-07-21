@@ -50,23 +50,6 @@ teamInfo,,"Denver, Colorado",,,
 36,Julie Kafka
 41,Katherine Macri
 b,r,e,a,k
-Rusting Bridge Face,16
-teamInfo,,"Pittsburgh, Pennsylvania",,,
-03,Maria Bajzek
-05,Rachel Parlock
-07,Ashley Miller
-13,Kelly Rigsbee
-15,VALERIE HUGHES
-23,Elissa Picozzi
-26,Kelsey Cowles
-30,Christiana Chang
-34,Melissa May
-39,Jeannine Opie
-41,Chelsea Grindle
-51,Bridget McCoy
-77,Sarah Lorang
-88,Elise Garton
-b,r,e,a,k
 Mint,10
 teamInfo,,"Seattle, Washington",,,
 coaches,Aslyn Blohm
@@ -92,6 +75,23 @@ coaches,Aslyn Blohm
 77,Marlie Somers
 88,Janelle Heinig
 99,Xunantunich Andrews Haley
+b,r,e,a,k
+Rusting Bridge Face,16
+teamInfo,,"Pittsburgh, Pennsylvania",,,
+03,Maria Bajzek
+05,Rachel Parlock
+07,Ashley Miller
+13,Kelly Rigsbee
+15,VALERIE HUGHES
+23,Elissa Picozzi
+26,Kelsey Cowles
+30,Christiana Chang
+34,Melissa May
+39,Jeannine Opie
+41,Chelsea Grindle
+51,Bridget McCoy
+77,Sarah Lorang
+88,Elise Garton
 b,r,e,a,k
 Soar! *sore,2
 teamInfo,,"Dallas/Fort Worth, Texas",,,
@@ -415,7 +415,7 @@ Ghost Town,Rusting Bridge Face,15,7,"07/21/2023, 08:30",Pool A,Final
 Reboot Squad,Rusting Bridge Face,15,1,"07/21/2023, 10:45",Pool A,Final
 Ghost Town,Mint,15,4,"07/21/2023, 10:45",Pool A,Final
 Reboot Squad,Ghost Town,15,6,"07/21/2023, 13:00",Pool A,Final
-Mint,Rusting Bridge Face,7,8,"07/21/2023, 13:00",Pool A,In Progress
+Mint,Rusting Bridge Face,15,14,"07/21/2023, 13:00",Pool A,Final
 pool,Pool B
 Soar! *sore,Surly COUGARS,15,6,"07/21/2023, 08:30",Pool B,Final
 PDXtra,Winded City,15,4,"07/21/2023, 08:30",Pool B,Final
@@ -435,11 +435,13 @@ Night Cheese,UniCORN,9,12,"07/21/2023, 08:30",Pool D,Final
 PUMAS,Cracked Belles,15,6,"07/21/2023, 08:30",Pool D,Final
 Night Cheese,Cracked Belles,15,10,"07/21/2023, 10:45",Pool D,Final
 PUMAS,UniCORN,15,10,"07/21/2023, 10:45",Pool D,Final
-Night Cheese,PUMAS,6,8,"07/21/2023, 13:00",Pool D,In Progress
-UniCORN,Cracked Belles,8,4,"07/21/2023, 13:00",Pool D,In Progress
+Night Cheese,PUMAS,9,15,"07/21/2023, 13:00",Pool D,Final
+UniCORN,Cracked Belles,15,7,"07/21/2023, 13:00",Pool D,Final
 b,r,e,a,k
 brackets,Championship
 bracket,1st Place
+Reboot Squad,PDXtra,0,0,"07/22/2023, 08:30",Quarters,Scheduled
+Ghost Town,Soar! *sore,0,0,"07/22/2023, 08:30",Quarters,Scheduled
 b,r,e,a,k
 brackets,Placement
 bracket,3rd Place
@@ -452,6 +454,8 @@ bracket,7th Place
 b,r,e,a,k
 brackets,Placement
 bracket,9th Place
+Mint,Winded City,0,0,"07/22/2023, 08:30",Quarters,In Progress
+Rusting Bridge Face,Surly COUGARS,0,0,"07/22/2023, 10:45",Quarters,Scheduled
 b,r,e,a,k
 brackets,Placement
 bracket,11th Place
