@@ -1,6 +1,31 @@
 Riverside Classic,Club - Men ,22,7,2023
 Round Rock,TX,2023-07-22,2023-07-23
 https://play.usaultimate.org/events/Riverside-Classic-2023/schedule/Men/Club-Men/
+Brawl,1
+teamInfo,,"Dallas, Texas",,,@dallasbrawl
+0,Benjamin Price
+0,David Hammer
+0,Eian Brent
+0,Jordan Penn-White
+0,Kevin Bowman
+0,Marshall Mao
+0,Scott Zachary
+0,Thomas Trompeter
+0,Willy Goal
+1,Eric VerPloeg
+4,Oakley Armstrong
+5,Nand Patel
+7,Samuel Garza
+11,Matthew Sutton
+12,Andrew Dorf
+16,Jeremy Wilson
+17,Darren Phillips
+25,Alvaro Guzman
+27,Dylan Patton
+42,Watson Anderson
+89,Jack Wooldridge
+99,Tanner Roberts
+b,r,e,a,k
 Foxtrot,9
 teamInfo,,"Austin, Texas",,,
 0,Garrett Davis
@@ -48,31 +73,6 @@ teamInfo,,"Austin, Texas",,,https://twitter.com/texasunitedu20?s=21
 28,Zander Rafferty
 43,Vance Mader
 88,Andy  Zhou
-b,r,e,a,k
-Brawl,1
-teamInfo,,"Dallas, Texas",,,@dallasbrawl
-0,Benjamin Price
-0,David Hammer
-0,Eian Brent
-0,Jordan Penn-White
-0,Kevin Bowman
-0,Marshall Mao
-0,Scott Zachary
-0,Thomas Trompeter
-0,Willy Goal
-1,Eric VerPloeg
-4,Oakley Armstrong
-5,Nand Patel
-7,Samuel Garza
-11,Matthew Sutton
-12,Andrew Dorf
-16,Jeremy Wilson
-17,Darren Phillips
-25,Alvaro Guzman
-27,Dylan Patton
-42,Watson Anderson
-89,Jack Wooldridge
-99,Tanner Roberts
 b,r,e,a,k
 Cowtown Cannons,8
 teamInfo,,"Fort Worth, Texas",,,
@@ -294,6 +294,30 @@ teamInfo,,"Dallas, Texas",,,
 42,Luke Stipanovic
 77,Ian Ambrose
 b,r,e,a,k
+Lil Heroes,4
+teamInfo,,"Austin, Texas",,,
+0,John Savage
+4,Peter Ngo
+5,Owen Smith
+6,Kellen Watts
+7,Saif Ansari
+9,Rushil Randhar
+02,Hobbs McAllister
+10,Garrett Wilson
+11,Ben Thollander
+14,Cade White
+15,Soh Nishiyama
+17,Henry Charbeneau
+18,Brandon Lemens
+19,Ryan Reinhart
+22,Luke Knight
+29,Steven Nguyen
+33,Huy Nguyen
+81,Jake Worthington
+84,Evan Scariano
+96,Talon Balcom
+98,Robert Masterson
+b,r,e,a,k
 Rawhide,5
 teamInfo,,"Tulsa, Oklahoma",,,
 0,Daniel Kleinhenz
@@ -341,35 +365,11 @@ teamInfo,,"Houston/ Austin, Texas",,,
 92,Aaron Dunn
 99,Andres Chesnut
 b,r,e,a,k
-Lil Heroes,4
-teamInfo,,"Austin, Texas",,,
-0,John Savage
-4,Peter Ngo
-5,Owen Smith
-6,Kellen Watts
-7,Saif Ansari
-9,Rushil Randhar
-02,Hobbs McAllister
-10,Garrett Wilson
-11,Ben Thollander
-14,Cade White
-15,Soh Nishiyama
-17,Henry Charbeneau
-18,Brandon Lemens
-19,Ryan Reinhart
-22,Luke Knight
-29,Steven Nguyen
-33,Huy Nguyen
-81,Jake Worthington
-84,Evan Scariano
-96,Talon Balcom
-98,Robert Masterson
-b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
 Cowtown Cannons,Foxtrot,8,12,"07/22/2023, 08:00",Pool A,Final
-Brawl,Foxtrot,0,0,"07/22/2023, 09:30",Pool A,Scheduled
+Brawl,Foxtrot,11,6,"07/22/2023, 09:30",Pool A,Final
 Cowtown Cannons,Texas United,0,0,"07/22/2023, 09:30",Pool A,Scheduled
 Brawl,Cowtown Cannons,0,0,"07/22/2023, 11:00",Pool A,Scheduled
 Foxtrot,Texas United,0,0,"07/22/2023, 11:00",Pool A,Scheduled
@@ -377,7 +377,7 @@ Brawl,Texas United,0,0,"07/22/2023, 12:30",Pool A,Scheduled
 pool,Pool B
 Riverside,San Antonio Warhawks,11,8,"07/22/2023, 08:00",Pool B,Final
 BARNSTORM,Forge,0,0,"07/22/2023, 08:00",Pool B,Scheduled
-BARNSTORM,San Antonio Warhawks,0,0,"07/22/2023, 09:30",Pool B,Scheduled
+BARNSTORM,San Antonio Warhawks,11,8,"07/22/2023, 09:30",Pool B,Final
 Riverside,BARNSTORM,0,0,"07/22/2023, 11:00",Pool B,Scheduled
 San Antonio Warhawks,Forge,0,0,"07/22/2023, 11:00",Pool B,Scheduled
 Riverside,Forge,0,0,"07/22/2023, 12:30",Pool B,Scheduled
@@ -391,7 +391,7 @@ Choice City Hops,Dreadnought,0,0,"07/22/2023, 12:30",Pool C,Scheduled
 pool,Pool D
 Lil Heroes,Sprawl,9,12,"07/22/2023, 08:00",Pool D,Final
 Rawhide,Firefly TX,11,10,"07/22/2023, 08:00",Pool D,Final
-Lil Heroes,Rawhide,0,0,"07/22/2023, 09:30",Pool D,Scheduled
+Lil Heroes,Rawhide,12,8,"07/22/2023, 09:30",Pool D,Final
 Sprawl,Firefly TX,0,0,"07/22/2023, 09:30",Pool D,Scheduled
 Rawhide,Sprawl,0,0,"07/22/2023, 11:00",Pool D,Scheduled
 Lil Heroes,Firefly TX,0,0,"07/22/2023, 12:30",Pool D,Scheduled
