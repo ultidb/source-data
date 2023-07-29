@@ -368,19 +368,15 @@ pools,Pool Play
 pool,Pool A
 Siege,Drift,15,2,"07/29/2023, 12:00",Pool A,Final
 Heist,Notorious C.L.E.,15,1,"07/29/2023, 12:00",Pool A,Final
-Siege,Notorious C.L.E.,0,0,"07/29/2023, 13:30",Pool A,Scheduled
-Heist,Drift,0,0,"07/29/2023, 13:30",Pool A,Scheduled
 Siege,Heist,0,0,"07/29/2023, 13:30",Pool A,Scheduled
 Notorious C.L.E.,Drift,0,0,"07/29/2023, 13:30",Pool A,Scheduled
 pool,Pool B
 Indy Rogue,Dish,15,4,"07/29/2023, 10:30",Pool B,Final
 Indy Rogue,Crush City,9,11,"07/29/2023, 12:00",Pool B,Final
-Crush City,Dish,0,0,"07/29/2023, 13:30",Pool B,Scheduled
+Crush City,Dish,7,3,"07/29/2023, 13:30",Pool B,In Progress
 pool,Pool C
 Starling Ultimate,Autonomous,15,0,"07/29/2023, 12:00",Pool C,Final
 Stellar,Zephyr,7,5,"07/29/2023, 12:00",Pool C,Final
-Starling Ultimate,Zephyr,0,0,"07/29/2023, 13:30",Pool C,Scheduled
-Stellar,Autonomous,0,0,"07/29/2023, 13:30",Pool C,Scheduled
 Starling Ultimate,Stellar,0,0,"07/29/2023, 13:30",Pool C,Scheduled
 Zephyr,Autonomous,0,0,"07/29/2023, 13:30",Pool C,Scheduled
 pool,Pool D
@@ -388,8 +384,6 @@ Rival,Shiver,10,5,"07/29/2023, 12:00",Pool D,Final
 Banshee,Brooklyn Book Club,7,9,"07/29/2023, 12:00",Pool D,Final
 Rival,Brooklyn Book Club,0,0,"07/29/2023, 13:30",Pool D,Scheduled
 Banshee,Shiver,0,0,"07/29/2023, 13:30",Pool D,Scheduled
-Rival,Banshee,0,0,"07/29/2023, 13:30",Pool D,Scheduled
-Brooklyn Book Club,Shiver,0,0,"07/29/2023, 13:30",Pool D,Scheduled
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,Championship Final
