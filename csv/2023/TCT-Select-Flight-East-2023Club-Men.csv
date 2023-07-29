@@ -29,6 +29,31 @@ coaches,Micheal Kukucska,Patrick Russell
 83,Jason Huynh
 92,Adam Turcotte
 b,r,e,a,k
+Delirium,10
+teamInfo,,"Kennesaw, Georgia",,,
+0,Chase Miller
+0,Cole Chanler
+0,Cole Krucke
+0,Caleb Myatt
+0,Ian Maddox
+0,Jack Krugler
+0,Jesus Gonzalez
+0,Ryan Hill
+0,Sam Rose
+0,Sam Batson
+0,Zach Brennan
+4,Eric Sinkler
+7,Jack Stephenson
+9,Madison Head
+10,Evan Marshall
+13,Jake Powell
+13,Ryan Murphy
+14,Ryan Flick
+14,Charles Loudermilk
+22,Jon Ross Ingley
+26,Sam Diffin
+69,Samuel Trent
+b,r,e,a,k
 Alamode,7
 teamInfo,,"San Antonio, Texas",,,
 0,Connor Ross
@@ -55,31 +80,6 @@ teamInfo,,"San Antonio, Texas",,,
 81,Jacob Rosen
 91,Austin Wehrheim
 92,Benjamin Andrade
-b,r,e,a,k
-Delirium,10
-teamInfo,,"Kennesaw, Georgia",,,
-0,Chase Miller
-0,Cole Chanler
-0,Cole Krucke
-0,Caleb Myatt
-0,Ian Maddox
-0,Jack Krugler
-0,Jesus Gonzalez
-0,Ryan Hill
-0,Sam Rose
-0,Sam Batson
-0,Zach Brennan
-4,Eric Sinkler
-7,Jack Stephenson
-9,Madison Head
-10,Evan Marshall
-13,Jake Powell
-13,Ryan Murphy
-14,Ryan Flick
-14,Charles Loudermilk
-22,Jon Ross Ingley
-26,Sam Diffin
-69,Samuel Trent
 b,r,e,a,k
 Flying Dutchmen,16
 teamInfo,,"Columbus, Ohio",,,
@@ -166,26 +166,6 @@ teamInfo,,"Boston, Massachusetts",https://www.instagram.com/lanternultimate/?hl=
 73,Eric Peters
 75,Benjamin Ma
 b,r,e,a,k
-Fungi,8
-teamInfo,,"Denver, Colorado",,https://www.facebook.com/fungiUltimate,
-0,Fabian Galván
-0,Greg Olson
-0,James Miller
-0,Max Van Sickle
-0,Morgan Scott
-0,Oliver Cunningham
-0,Patrick Ellsworth
-0,Sam Ruiz Harding
-0,Shaan Narayan
-0,Stiveen Gualdron
-0,Aaron Wida
-2,Rodrigo  Gould Rodriguez
-3,John Miller
-11,Colton Steiner
-13,Theodore Watkins
-15,Abe Gambert
-33,Adam Federbusch
-b,r,e,a,k
 Beacon,15
 teamInfo,,"Grand Rapids, Michigan",,,https://twitter.com/BeaconUlti
 01,Gabe Ecenbarger
@@ -215,32 +195,25 @@ teamInfo,,"Grand Rapids, Michigan",,,https://twitter.com/BeaconUlti
 81,Alec DenBraber
 84,Michael Weber
 b,r,e,a,k
-Mallard,5
-teamInfo,,"Minneapolis, Minnesota",https://www.mplsmallard.com/,https://www.facebook.com/mplsmallard,https://twitter.com/mplsmallard
-coaches,Tyler Smith
-0,Kenji Her
-01,Adam Meckstroth
-03,Simon Mulrooney
-04,Thomas Donahue
-07,Erik Aadalen
-08,Cash Barber
-09,Tom Duret
-10,Anthony Jirele
-12,Ryan Welch
-13,Josh Kautz
-14,Michael Kovash
-16,Peter Helgeson
-16,William Johnson
-20,Blake Trantina
-23,Alex Tsvetkov
-24,Theodore McGowan
-27,Jonah Engelmann
-30,Becker Mathie
-57,Owen Schigiel
-69,Owen Gin
-73,Jordan Wright
-77,Alejandro (Alex) Perez
-86,John Helgeson
+Fungi,8
+teamInfo,,"Denver, Colorado",,https://www.facebook.com/fungiUltimate,
+0,Fabian Galván
+0,Greg Olson
+0,James Miller
+0,Max Van Sickle
+0,Morgan Scott
+0,Oliver Cunningham
+0,Patrick Ellsworth
+0,Sam Ruiz Harding
+0,Shaan Narayan
+0,Stiveen Gualdron
+0,Aaron Wida
+2,Rodrigo  Gould Rodriguez
+3,John Miller
+11,Colton Steiner
+13,Theodore Watkins
+15,Abe Gambert
+33,Adam Federbusch
 b,r,e,a,k
 Blueprint,3
 teamInfo,,"Brooklyn, New York",,,https://twitter.com/nyc_blueprint
@@ -267,6 +240,33 @@ teamInfo,,"Brooklyn, New York",,,https://twitter.com/nyc_blueprint
 25,Drew Schnaudigel
 31,Aron Szanto
 69,Garrett Wibbelsman
+b,r,e,a,k
+Mallard,5
+teamInfo,,"Minneapolis, Minnesota",https://www.mplsmallard.com/,https://www.facebook.com/mplsmallard,https://twitter.com/mplsmallard
+coaches,Tyler Smith
+0,Kenji Her
+01,Adam Meckstroth
+03,Simon Mulrooney
+04,Thomas Donahue
+07,Erik Aadalen
+08,Cash Barber
+09,Tom Duret
+10,Anthony Jirele
+12,Ryan Welch
+13,Josh Kautz
+14,Michael Kovash
+16,Peter Helgeson
+16,William Johnson
+20,Blake Trantina
+23,Alex Tsvetkov
+24,Theodore McGowan
+27,Jonah Engelmann
+30,Becker Mathie
+57,Owen Schigiel
+69,Owen Gin
+73,Jordan Wright
+77,Alejandro (Alex) Perez
+86,John Helgeson
 b,r,e,a,k
 DeMo,14
 teamInfo,,"Des Moines, Iowa",,,https://twitter.com/demoultimate
@@ -434,21 +434,21 @@ Alamode,Flying Dutchmen,13,8,"07/29/2023, 12:00",Pool A,Final
 GOAT,Flying Dutchmen,15,3,"07/29/2023, 15:00",Pool A,Final
 Alamode,Delirium,13,14,"07/29/2023, 15:00",Pool A,Final
 GOAT,Alamode,15,9,"07/29/2023, 18:00",Pool A,Final
-Delirium,Flying Dutchmen,0,0,"07/29/2023, 18:00",Pool A,Scheduled
+Delirium,Flying Dutchmen,11,7,"07/29/2023, 18:00",Pool A,Final
 pool,Pool B
 Phantom,Lantern,15,11,"07/29/2023, 12:00",Pool B,Final
 Fungi,Beacon,10,9,"07/29/2023, 12:00",Pool B,Final
 Phantom,Beacon,11,5,"07/29/2023, 15:00",Pool B,Final
 Fungi,Lantern,8,13,"07/29/2023, 15:00",Pool B,Final
 Phantom,Fungi,0,0,"07/29/2023, 18:00",Pool B,Scheduled
-Lantern,Beacon,0,0,"07/29/2023, 18:00",Pool B,Scheduled
+Lantern,Beacon,12,13,"07/29/2023, 18:00",Pool B,Final
 pool,Pool C
 Blueprint,CITYWIDE Special,11,7,"07/29/2023, 12:00",Pool C,Final
 Mallard,DeMo,11,8,"07/29/2023, 12:00",Pool C,Final
 Blueprint,DeMo,12,9,"07/29/2023, 15:00",Pool C,Final
 Mallard,CITYWIDE Special,15,4,"07/29/2023, 15:00",Pool C,Final
-Blueprint,Mallard,0,0,"07/29/2023, 18:00",Pool C,Scheduled
-CITYWIDE Special,DeMo,0,0,"07/29/2023, 18:00",Pool C,Scheduled
+Blueprint,Mallard,12,10,"07/29/2023, 18:00",Pool C,Final
+CITYWIDE Special,DeMo,11,13,"07/29/2023, 18:00",Pool C,Final
 pool,Pool D
 Colonels,Lost Boys,10,11,"07/29/2023, 12:00",Pool D,Final
 Red Wolves,Phoenix,8,10,"07/29/2023, 12:00",Pool D,Final
