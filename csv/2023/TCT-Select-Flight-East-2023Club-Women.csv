@@ -168,29 +168,7 @@ teamInfo,,"Chicago, Illinois",http://www.dishultimate.com,https://www.facebook.c
 70,Kate  Feldstein
 77,Miriam Stein
 b,r,e,a,k
-Stellar,3
-teamInfo,,"St. Louis, Missouri",,https://www.facebook.com/stellarultimate,https://twitter.com/StellarUltimate
-0,Ruby Taylor
-1,Anat Gross
-7,Mandy Side
-8,Mary Otten
-05,Lizzie Tilden
-11,Rebecca Storey
-13,Kristina Kohl
-15,Madeleine Thompson
-17,Marissa Land
-18,Emily Lawrence
-23,Claudia Sikora 
-24,Loren Goodrich
-26,Zirui Zhou
-31,Allison Murphy
-37,Angela Romanelli 
-42,Sophie Curran
-49,Kate Halloran
-55,Elisa Kodama
-99,Isabella Singer
-b,r,e,a,k
-Starling Ultimate,8
+Starling Ultimate,3
 teamInfo,,"Northampton, Massachusetts",,https://www.facebook.com/starlingultimate,
 0,Adrienne Wells
 0,Allyse Fazio
@@ -218,6 +196,28 @@ teamInfo,,"Northampton, Massachusetts",,https://www.facebook.com/starlingultimat
 27,Taylor Simpson
 37,Danielle Callard
 b,r,e,a,k
+Stellar,8
+teamInfo,,"St. Louis, Missouri",,https://www.facebook.com/stellarultimate,https://twitter.com/StellarUltimate
+0,Ruby Taylor
+1,Anat Gross
+7,Mandy Side
+8,Mary Otten
+05,Lizzie Tilden
+11,Rebecca Storey
+13,Kristina Kohl
+15,Madeleine Thompson
+17,Marissa Land
+18,Emily Lawrence
+23,Claudia Sikora 
+24,Loren Goodrich
+26,Zirui Zhou
+31,Allison Murphy
+37,Angela Romanelli 
+42,Sophie Curran
+49,Kate Halloran
+55,Elisa Kodama
+99,Isabella Singer
+b,r,e,a,k
 Zephyr,10
 teamInfo,,"Philadelphia , Pennsylvania",https://linktr.ee/The_flock,,https://twitter.com/ZephyrUlti
 00,Emilie Mohler
@@ -240,7 +240,6 @@ teamInfo,,"Philadelphia , Pennsylvania",https://linktr.ee/The_flock,,https://twi
 b,r,e,a,k
 Autonomous,13
 teamInfo,,"Ann Arbor/Detroit, Michigan",,https://www.facebook.com/autonomousultimate/,
-0,Allison Lofgren
 0,Keira Hale
 2,Ashley Krebs
 3,Kiersten Olsen
@@ -248,6 +247,7 @@ teamInfo,,"Ann Arbor/Detroit, Michigan",,https://www.facebook.com/autonomousulti
 6,Anna Browne
 7,Kelly Jones
 8,Jordyn Polito
+9,Allison Lofgren
 9,Rebecca Ostman
 10,Acacia Farber-Krug
 11,Darya Lollos
@@ -377,11 +377,11 @@ Indy Rogue,Dish,0,0,"07/29/2023, 08:30",Pool B,Scheduled
 Indy Rogue,Crush City,0,0,"07/29/2023, 10:15",Pool B,Scheduled
 Crush City,Dish,0,0,"07/29/2023, 12:00",Pool B,Scheduled
 pool,Pool C
-Stellar,Autonomous,0,0,"07/29/2023, 10:15",Pool C,Scheduled
-Starling Ultimate,Zephyr,0,0,"07/29/2023, 10:15",Pool C,Scheduled
-Stellar,Zephyr,0,0,"07/29/2023, 12:00",Pool C,Scheduled
-Starling Ultimate,Autonomous,0,0,"07/29/2023, 12:00",Pool C,Scheduled
-Stellar,Starling Ultimate,0,0,"07/29/2023, 12:00",Pool C,Scheduled
+Starling Ultimate,Autonomous,0,0,"07/29/2023, 10:15",Pool C,Scheduled
+Stellar,Zephyr,0,0,"07/29/2023, 10:15",Pool C,Scheduled
+Starling Ultimate,Zephyr,0,0,"07/29/2023, 12:00",Pool C,Scheduled
+Stellar,Autonomous,0,0,"07/29/2023, 12:00",Pool C,Scheduled
+Starling Ultimate,Stellar,0,0,"07/29/2023, 12:00",Pool C,Scheduled
 Zephyr,Autonomous,0,0,"07/29/2023, 12:00",Pool C,Scheduled
 pool,Pool D
 Rival,Shiver,0,0,"07/29/2023, 10:15",Pool D,Scheduled
