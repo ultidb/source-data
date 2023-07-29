@@ -29,6 +29,31 @@ coaches,Micheal Kukucska,Patrick Russell
 83,Jason Huynh
 92,Adam Turcotte
 b,r,e,a,k
+Delirium,10
+teamInfo,,"Kennesaw, Georgia",,,
+0,Chase Miller
+0,Cole Chanler
+0,Cole Krucke
+0,Caleb Myatt
+0,Ian Maddox
+0,Jack Krugler
+0,Jesus Gonzalez
+0,Ryan Hill
+0,Sam Rose
+0,Sam Batson
+0,Zach Brennan
+4,Eric Sinkler
+7,Jack Stephenson
+9,Madison Head
+10,Evan Marshall
+13,Jake Powell
+13,Ryan Murphy
+14,Ryan Flick
+14,Charles Loudermilk
+22,Jon Ross Ingley
+26,Sam Diffin
+69,Samuel Trent
+b,r,e,a,k
 Alamode,7
 teamInfo,,"San Antonio, Texas",,,
 0,Connor Ross
@@ -55,31 +80,6 @@ teamInfo,,"San Antonio, Texas",,,
 81,Jacob Rosen
 91,Austin Wehrheim
 92,Benjamin Andrade
-b,r,e,a,k
-Delirium,10
-teamInfo,,"Kennesaw, Georgia",,,
-0,Chase Miller
-0,Cole Chanler
-0,Cole Krucke
-0,Caleb Myatt
-0,Ian Maddox
-0,Jack Krugler
-0,Jesus Gonzalez
-0,Ryan Hill
-0,Sam Rose
-0,Sam Batson
-0,Zach Brennan
-4,Eric Sinkler
-7,Jack Stephenson
-9,Madison Head
-10,Evan Marshall
-13,Jake Powell
-13,Ryan Murphy
-14,Ryan Flick
-14,Charles Loudermilk
-22,Jon Ross Ingley
-26,Sam Diffin
-69,Samuel Trent
 b,r,e,a,k
 Flying Dutchmen,16
 teamInfo,,"Columbus, Ohio",,,
@@ -137,6 +137,35 @@ teamInfo,,"Philadelphia , Pennsylvania",,https://www.facebook.com/phillyphantom,
 24,Cole Salomon
 25,Nate Long
 b,r,e,a,k
+Lantern,9
+teamInfo,,"Boston, Massachusetts",https://www.instagram.com/lanternultimate/?hl=en,,https://twitter.com/lanternultimate
+00,Brendan Blaney
+02,Alan Yi
+03,Derek Wiseman
+04,Evan Hu
+05,Thomas Dougherty
+06,Igor Smola
+07,Daniel Benson
+08,Nathan Brown
+09,Sung-Jae Park
+10,Brian Walsh
+11,Alexander Fick
+12,Michael Carando
+13,Matt Kolk
+17,John Repucci
+19,John Buchanan
+22,Matt Rizzo
+23,John-Paul Saggal
+25,Matthew Ayers
+26,Matthew LePere
+33,Chase Flint
+35,Russell Katz
+37,Dylan Baroody
+62,Cody Karjadi
+63,Griffin Smith
+73,Eric Peters
+75,Benjamin Ma
+b,r,e,a,k
 Fungi,8
 teamInfo,,"Denver, Colorado",,https://www.facebook.com/fungiUltimate,
 0,Fabian Galván
@@ -186,61 +215,6 @@ teamInfo,,"Grand Rapids, Michigan",,,https://twitter.com/BeaconUlti
 81,Alec DenBraber
 84,Michael Weber
 b,r,e,a,k
-Lantern,9
-teamInfo,,"Boston, Massachusetts",https://www.instagram.com/lanternultimate/?hl=en,,https://twitter.com/lanternultimate
-00,Brendan Blaney
-02,Alan Yi
-03,Derek Wiseman
-04,Evan Hu
-05,Thomas Dougherty
-06,Igor Smola
-07,Daniel Benson
-08,Nathan Brown
-09,Sung-Jae Park
-10,Brian Walsh
-11,Alexander Fick
-12,Michael Carando
-13,Matt Kolk
-17,John Repucci
-19,John Buchanan
-22,Matt Rizzo
-23,John-Paul Saggal
-25,Matthew Ayers
-26,Matthew LePere
-33,Chase Flint
-35,Russell Katz
-37,Dylan Baroody
-62,Cody Karjadi
-63,Griffin Smith
-73,Eric Peters
-75,Benjamin Ma
-b,r,e,a,k
-Blueprint,3
-teamInfo,,"Brooklyn, New York",,,https://twitter.com/nyc_blueprint
-0,Carter Wang
-0,Christopher Bond
-0,Dillon Cooke
-0,Evan Ma
-0,Jeffrey Voss
-0,John Kern
-0,Johnny Frohlichstein
-0,Max Cohen
-0,Nicolas Leitmann-Niimi
-0,Noam Fisherman
-0,Owen Marschall
-0,Ruozhou Ye
-0,Samuel Pollack
-0,Samuel Ross
-4,Jordan Richmond
-7,Walter Roosa
-10,Andrew Edelman
-11,Patrick Stegemoeller
-15,Daniel Meiland
-16,Joseph Copeland
-25,Drew Schnaudigel
-31,Aron Szanto
-69,Garrett Wibbelsman
-b,r,e,a,k
 Mallard,5
 teamInfo,,"Minneapolis, Minnesota",https://www.mplsmallard.com/,https://www.facebook.com/mplsmallard,https://twitter.com/mplsmallard
 coaches,Tyler Smith
@@ -267,6 +241,32 @@ coaches,Tyler Smith
 73,Jordan Wright
 77,Alejandro (Alex) Perez
 86,John Helgeson
+b,r,e,a,k
+Blueprint,3
+teamInfo,,"Brooklyn, New York",,,https://twitter.com/nyc_blueprint
+0,Carter Wang
+0,Christopher Bond
+0,Dillon Cooke
+0,Evan Ma
+0,Jeffrey Voss
+0,John Kern
+0,Johnny Frohlichstein
+0,Max Cohen
+0,Nicolas Leitmann-Niimi
+0,Noam Fisherman
+0,Owen Marschall
+0,Ruozhou Ye
+0,Samuel Pollack
+0,Samuel Ross
+4,Jordan Richmond
+7,Walter Roosa
+10,Andrew Edelman
+11,Patrick Stegemoeller
+15,Daniel Meiland
+16,Joseph Copeland
+25,Drew Schnaudigel
+31,Aron Szanto
+69,Garrett Wibbelsman
 b,r,e,a,k
 DeMo,14
 teamInfo,,"Des Moines, Iowa",,,https://twitter.com/demoultimate
@@ -432,21 +432,21 @@ pool,Pool A
 GOAT,Delirium,13,5,"07/29/2023, 12:00",Pool A,Final
 Alamode,Flying Dutchmen,13,8,"07/29/2023, 12:00",Pool A,Final
 GOAT,Flying Dutchmen,15,3,"07/29/2023, 15:00",Pool A,Final
-Alamode,Delirium,9,11,"07/29/2023, 15:00",Pool A,In Progress
+Alamode,Delirium,13,14,"07/29/2023, 15:00",Pool A,Final
 GOAT,Alamode,0,0,"07/29/2023, 18:00",Pool A,Scheduled
 Delirium,Flying Dutchmen,0,0,"07/29/2023, 18:00",Pool A,Scheduled
 pool,Pool B
 Phantom,Lantern,15,11,"07/29/2023, 12:00",Pool B,Final
 Fungi,Beacon,10,9,"07/29/2023, 12:00",Pool B,Final
-Phantom,Beacon,0,0,"07/29/2023, 15:00",Pool B,Scheduled
-Fungi,Lantern,7,11,"07/29/2023, 15:00",Pool B,In Progress
+Phantom,Beacon,11,5,"07/29/2023, 15:00",Pool B,Final
+Fungi,Lantern,8,13,"07/29/2023, 15:00",Pool B,Final
 Phantom,Fungi,0,0,"07/29/2023, 18:00",Pool B,Scheduled
 Lantern,Beacon,0,0,"07/29/2023, 18:00",Pool B,Scheduled
 pool,Pool C
 Blueprint,CITYWIDE Special,11,7,"07/29/2023, 12:00",Pool C,Final
 Mallard,DeMo,11,8,"07/29/2023, 12:00",Pool C,Final
-Blueprint,DeMo,0,0,"07/29/2023, 15:00",Pool C,Scheduled
-Mallard,CITYWIDE Special,0,0,"07/29/2023, 15:00",Pool C,Scheduled
+Blueprint,DeMo,12,9,"07/29/2023, 15:00",Pool C,Final
+Mallard,CITYWIDE Special,14,4,"07/29/2023, 15:00",Pool C,Final
 Blueprint,Mallard,0,0,"07/29/2023, 18:00",Pool C,Scheduled
 CITYWIDE Special,DeMo,0,0,"07/29/2023, 18:00",Pool C,Scheduled
 pool,Pool D
