@@ -1,6 +1,31 @@
 TCT Select Flight East 2023,Club - Mixed ,29,7,2023
 Columbus,OH,2023-07-29,2023-07-30
 https://play.usaultimate.org/events/TCT-Select-Flight-East-2023/schedule/Mixed/Club-Mixed
+Red Flag,1
+teamInfo,,"Vancouver, British Columbia CA",,https://www.instagram.com/redflagultimate/,https://twitter.com/redflagulti
+00,Koji Suzuki
+01,William Vu
+03,Katie Wong
+06,Brayden Gee
+08,Justin Podnar
+09,Julia Zhou
+10,Gagan Chatha
+12,Ryan Hoy
+13,Kevin Tong
+20,Collefas Mot
+24,Peter Yu
+25,Bryn McColl
+35,Amelie Marshall
+48,Zellema Mot
+69,Karie Holst
+70,Miu Shiraiwa
+73,Jamie Jung
+74,Sam Creed
+86,Samson Hoy
+93,Mika Kurahashi
+98,Lauren Szeto-Fung
+99,Abeer Lamba
+b,r,e,a,k
 Waterloo,7
 teamInfo,,"Austin, Texas",waterloo_ultimateatx,Waterloo%20Ultimate,@ATXWaterlooUlt
 coaches,Joe Iannacone
@@ -28,31 +53,6 @@ coaches,Joe Iannacone
 69,Mahliyah Adkins-Threats
 69,Nick Loughran
 95,Megan Mendieta
-b,r,e,a,k
-Red Flag,1
-teamInfo,,"Vancouver, British Columbia CA",,https://www.instagram.com/redflagultimate/,https://twitter.com/redflagulti
-00,Koji Suzuki
-01,William Vu
-03,Katie Wong
-06,Brayden Gee
-08,Justin Podnar
-09,Julia Zhou
-10,Gagan Chatha
-12,Ryan Hoy
-13,Kevin Tong
-20,Collefas Mot
-24,Peter Yu
-25,Bryn McColl
-35,Amelie Marshall
-48,Zellema Mot
-69,Karie Holst
-70,Miu Shiraiwa
-73,Jamie Jung
-74,Sam Creed
-86,Samson Hoy
-93,Mika Kurahashi
-98,Lauren Szeto-Fung
-99,Abeer Lamba
 b,r,e,a,k
 Steamboat,10
 teamInfo,,"Cincinnati, Ohio",http://www.steamboatultimate.com/,https://www.facebook.com/steamboatultimate,https://twitter.com/cincysfb
@@ -111,34 +111,6 @@ teamInfo,,"Milwaukee, Wisconsin",,https://www.facebook.com/northerncomfortultima
 59,Todd Miller
 99,Jane Zheng
 b,r,e,a,k
-Revival,15
-teamInfo,,"Richmond, Virginia",,https://www.facebook.com/RevivalFlatball,
-0,Jameson Hinkle
-1,Griffin Schutte
-3,Kate Marston
-4,Mimi Tran
-7,Catherine Grossman
-10,Matthew Reynolds
-11,Skye Whitlow
-12,Tyler Davis
-13,Keys Pattie
-16,Donald Clark
-17,Cullen Monahan
-18,Brittany Taylor
-21,Akram Abudheer
-22,Mary Molly Rowland
-24,Tim Jackson
-25,Crystal Lowery
-29,Rachel Shannon
-31,Hannah Elledge
-33,Sam Bean
-38,Ariel Vogel
-48,Benjamin Broser
-59,Laura  Cataño Silva
-64,Victoria Davis
-87,Griffin Lang
-89,Nicholas Gigliotti
-b,r,e,a,k
 Flight Club,9
 teamInfo,,"Denver, Colorado",,https://www.facebook.com/FlightClubUltimate/,https://twitter.com/flightclubult
 coaches,Madison Olesen
@@ -192,6 +164,34 @@ teamInfo,,"Montana, Montana",,,https://twitter.com/MoondogUltimate
 33,Cian McGinn
 34,Davis Mossman
 34,Ben Perkel
+b,r,e,a,k
+Revival,15
+teamInfo,,"Richmond, Virginia",,https://www.facebook.com/RevivalFlatball,
+0,Jameson Hinkle
+1,Griffin Schutte
+3,Kate Marston
+4,Mimi Tran
+7,Catherine Grossman
+10,Matthew Reynolds
+11,Skye Whitlow
+12,Tyler Davis
+13,Keys Pattie
+16,Donald Clark
+17,Cullen Monahan
+18,Brittany Taylor
+21,Akram Abudheer
+22,Mary Molly Rowland
+24,Tim Jackson
+25,Crystal Lowery
+29,Rachel Shannon
+31,Hannah Elledge
+33,Sam Bean
+38,Ariel Vogel
+48,Benjamin Broser
+59,Laura  Cataño Silva
+64,Victoria Davis
+87,Griffin Lang
+89,Nicholas Gigliotti
 b,r,e,a,k
 Roma Ultima,8
 teamInfo,,"ATL, Georgia",,,
@@ -446,14 +446,14 @@ pools,Pool Play
 pool,Pool A
 Red Flag,Steamboat,11,9,"07/29/2023, 10:30",Pool A,Final
 Waterloo,Northern Comfort,13,5,"07/29/2023, 10:30",Pool A,Final
-Red Flag,Northern Comfort,0,0,"07/29/2023, 13:30",Pool A,Scheduled
+Red Flag,Northern Comfort,14,6,"07/29/2023, 13:30",Pool A,Final
 Waterloo,Steamboat,0,0,"07/29/2023, 13:30",Pool A,Scheduled
 Red Flag,Waterloo,0,0,"07/29/2023, 16:30",Pool A,Scheduled
 Steamboat,Northern Comfort,0,0,"07/29/2023, 16:30",Pool A,Scheduled
 pool,Pool B
 MOONDOG,Flight Club,9,10,"07/29/2023, 10:30",Pool B,Final
 Roma Ultima,Revival,8,10,"07/29/2023, 10:30",Pool B,Final
-MOONDOG,Revival,0,0,"07/29/2023, 13:30",Pool B,Scheduled
+MOONDOG,Revival,11,8,"07/29/2023, 13:30",Pool B,Final
 Roma Ultima,Flight Club,0,0,"07/29/2023, 13:30",Pool B,Scheduled
 MOONDOG,Roma Ultima,0,0,"07/29/2023, 16:30",Pool B,Scheduled
 Flight Club,Revival,0,0,"07/29/2023, 16:30",Pool B,Scheduled
@@ -467,8 +467,8 @@ Darkwing,Bullet Train,0,0,"07/29/2023, 16:30",Pool C,Scheduled
 pool,Pool D
 Cleveland Crocs,League of Shadows,12,4,"07/29/2023, 10:30",Pool D,Final
 Classy,Chicago Parlay,9,8,"07/29/2023, 10:30",Pool D,Final
-Cleveland Crocs,Chicago Parlay,7,3,"07/29/2023, 13:30",Pool D,In Progress
-Classy,League of Shadows,8,3,"07/29/2023, 13:30",Pool D,In Progress
+Cleveland Crocs,Chicago Parlay,12,5,"07/29/2023, 13:30",Pool D,Final
+Classy,League of Shadows,11,7,"07/29/2023, 13:30",Pool D,Final
 Cleveland Crocs,Classy,0,0,"07/29/2023, 16:30",Pool D,Scheduled
 League of Shadows,Chicago Parlay,0,0,"07/29/2023, 16:30",Pool D,Scheduled
 b,r,e,a,k
