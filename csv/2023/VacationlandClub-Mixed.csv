@@ -16,6 +16,7 @@ teamInfo,,"Portland, Maine",,,
 0,Nathan Buck
 0,Nicholas Nelsonwood
 0,Nicole Wilkinson
+0,Walker Hatchett
 0,William Neff
 2,Ian McClelland
 5,Pearce Kelley
@@ -28,48 +29,6 @@ teamInfo,,"Portland, Maine",,,
 47,Alex Rowell
 56,Landis Hackett
 99,Jared Jandreau
-b,r,e,a,k
-Lobrid,4
-teamInfo,,"Cambridge, Massachusetts",,,
-0,Candace Adelberg
-0,Ian Cutler
-0,Lucy Jin
-4,Acer Xu
-07,Joshua Murray
-09,Webster Kehoe
-13,Sarah Antilla
-14,Umar Katumba
-18,Irene Ren
-20,Gabriella Fernando-McKinley
-28,Andrew Churchill
-40,Caitlin Lian
-42,Hao Shen
-64,Jessica Chirichetti
-88,Jasmine Der
-b,r,e,a,k
-Rainbow,5
-teamInfo,,"Somerville, Massachusetts",https://www.rainbowultimate.com,https://www.instagram.com/rainbowultimate/,
-0,Alison Collins
-0,Anna Heavey
-0,Arlene Dai
-0,Celie Hudson
-0,Cheni Chadowitz
-0,Daniel Horrigan
-0,Elle Marcus
-0,Jacob Maynard
-0,Jane Farrell
-0,Jonathan Cass
-0,Justin Grimaldi
-0,Kara Breeden
-0,Phoebe McMahon
-0,Sophie Taylor
-0,WALTER LENOIR
-0,Zhihan Xu
-4,Daniel Jones
-5,Tianzhe Wang
-18,Timothy Whitworth
-26,Souichi Terada
-26,Lizzie Seibert
 b,r,e,a,k
 Deadweight,2
 teamInfo,,"Hartford, Connecticut",,,
@@ -124,6 +83,51 @@ teamInfo,,"Portland , Maine",,,
 89,Chad Mcdonnell
 90,Hayley SooHoo
 b,r,e,a,k
+Lobrid,4
+teamInfo,,"Cambridge, Massachusetts",,,
+0,Candace Adelberg
+0,Ian Cutler
+0,Lucy Jin
+4,Acer Xu
+07,Joshua Murray
+09,Webster Kehoe
+13,Sarah Antilla
+14,Umar Katumba
+18,Irene Ren
+20,Gabriella Fernando-McKinley
+28,Andrew Churchill
+40,Caitlin Lian
+42,Hao Shen
+64,Jessica Chirichetti
+88,Jasmine Der
+b,r,e,a,k
+Rainbow,5
+teamInfo,,"Somerville, Massachusetts",https://www.rainbowultimate.com,https://www.instagram.com/rainbowultimate/,
+0,Elle Marcus
+0,Erin Barno
+0,Jacob Maynard
+0,Jane Farrell
+0,Jonathan Cass
+0,Justin Grimaldi
+0,Kara Breeden
+0,Alison Collins
+0,Anna Heavey
+0,Arlene Dai
+0,Celie Hudson
+0,Cheni Chadowitz
+0,Daniel Horrigan
+0,Adriana Elwood
+0,Phoebe McMahon
+0,Sophie Taylor
+0,WALTER LENOIR
+0,Zhihan Xu
+4,Daniel Jones
+5,Tianzhe Wang
+6,Aidan Ahern
+18,Timothy Whitworth
+26,Souichi Terada
+26,Lizzie Seibert
+b,r,e,a,k
 Replay,6
 teamInfo,,"Boston, Massachusetts",,,
 00,Deanna DeLuca
@@ -172,25 +176,27 @@ teamInfo,,"Providence, Rhode Island",,,
 36,Eric Hurd
 b,r,e,a,k
 s,t,a,g,e,s
-pools,Pool Play
+pools,Round Robin
 pool,Pool A
+Sunken Circus,Replay,0,0,"08/05/2023, 09:00",Pool A,Scheduled
 The Buoy Association,Rainbow,0,0,"08/05/2023, 09:00",Pool A,Scheduled
-The Buoy Association,Lobrid,0,0,"08/05/2023, 11:00",Pool A,Scheduled
-Lobrid,Rainbow,0,0,"08/05/2023, 13:00",Pool A,Scheduled
-pool,Pool B
-Deadweight,Quahogs,0,0,"08/05/2023, 11:00",Pool B,Scheduled
-Sunken Circus,Replay,0,0,"08/05/2023, 11:00",Pool B,Scheduled
-Deadweight,Replay,0,0,"08/05/2023, 13:00",Pool B,Scheduled
-Sunken Circus,Quahogs,0,0,"08/05/2023, 13:00",Pool B,Scheduled
-Deadweight,Sunken Circus,0,0,"08/05/2023, 13:00",Pool B,Scheduled
-Replay,Quahogs,0,0,"08/05/2023, 13:00",Pool B,Scheduled
-b,r,e,a,k
-brackets,Bracket Play
-bracket,Championship
-bracket,3rd Place
-b,r,e,a,k
-pools,5th-7th Pool
-pool,Pool C
-b,r,e,a,k
-clusters,One Seed Crossover
+Deadweight,Quahogs,0,0,"08/05/2023, 09:00",Pool A,Scheduled
+Deadweight,Sunken Circus,0,0,"08/05/2023, 11:00",Pool A,Scheduled
+Lobrid,Rainbow,0,0,"08/05/2023, 11:00",Pool A,Scheduled
+Replay,Quahogs,0,0,"08/05/2023, 11:00",Pool A,Scheduled
+The Buoy Association,Lobrid,0,0,"08/05/2023, 13:00",Pool A,Scheduled
+Deadweight,Replay,0,0,"08/05/2023, 13:00",Pool A,Scheduled
+Sunken Circus,Quahogs,0,0,"08/05/2023, 13:00",Pool A,Scheduled
+The Buoy Association,Deadweight,0,0,"08/05/2023, 15:00",Pool A,Scheduled
+Rainbow,Quahogs,0,0,"08/05/2023, 15:00",Pool A,Scheduled
+Lobrid,Replay,0,0,"08/05/2023, 15:00",Pool A,Scheduled
+The Buoy Association,Replay,0,0,"08/06/2023, 09:00",Pool A,Scheduled
+Deadweight,Lobrid,0,0,"08/06/2023, 09:00",Pool A,Scheduled
+Sunken Circus,Rainbow,0,0,"08/06/2023, 09:00",Pool A,Scheduled
+The Buoy Association,Sunken Circus,0,0,"08/06/2023, 11:00",Pool A,Scheduled
+Deadweight,Rainbow,0,0,"08/06/2023, 11:00",Pool A,Scheduled
+Lobrid,Quahogs,0,0,"08/06/2023, 11:00",Pool A,Scheduled
+Rainbow,Replay,0,0,"08/06/2023, 13:00",Pool A,Scheduled
+The Buoy Association,Quahogs,0,0,"08/06/2023, 13:00",Pool A,Scheduled
+Sunken Circus,Lobrid,0,0,"08/06/2023, 13:00",Pool A,Scheduled
 b,r,e,a,k
