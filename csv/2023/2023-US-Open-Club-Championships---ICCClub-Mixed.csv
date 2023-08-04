@@ -169,29 +169,6 @@ coaches,Jose Gamez,Harold  Henry,Keinys Salamanca,Alejandro Doval
 96,Kathiuska Victoria
 97,Brahian González
 b,r,e,a,k
-Ellipsis,6
-teamInfo,,"Melbourne, VIC AU",,,
-coaches,Amanda Kostic
-06,Alex Gan
-07,Savanna Tucker
-08,JODIE PALMER
-10,Ben Powlay
-17,Samantha Ruhlman
-19,Amy Luo
-21,Emily Kemp
-22,Lucien Noël
-25,Robert Andrews
-28,Jonathan Keyes
-34,Mark Wee
-37,James Bray
-41,Rebecca Palmer
-47,Penelope Wu
-68,Alexander Ladomatos
-73,Anouchka Beaudry
-77,Zakarie Massi
-93,Emily Syrjala
-99,Lia Schwartz
-b,r,e,a,k
 shame.,9
 teamInfo,,"Fort Collins, Colorado",,https://www.facebook.com/shame.ultimate/,https://twitter.com/ultimate_shame
 coaches,Marvin Vuong
@@ -218,6 +195,29 @@ coaches,Marvin Vuong
 56,Jacob Juszak
 97,Sarah Pesch
 99,Rory Veldman
+b,r,e,a,k
+Ellipsis,6
+teamInfo,,"Melbourne, VIC AU",,,
+coaches,Amanda Kostic
+06,Alex Gan
+07,Savanna Tucker
+08,JODIE PALMER
+10,Ben Powlay
+17,Samantha Ruhlman
+19,Amy Luo
+21,Emily Kemp
+22,Lucien Noël
+25,Robert Andrews
+28,Jonathan Keyes
+34,Mark Wee
+37,James Bray
+41,Rebecca Palmer
+47,Penelope Wu
+68,Alexander Ladomatos
+73,Anouchka Beaudry
+77,Zakarie Massi
+93,Emily Syrjala
+99,Lia Schwartz
 b,r,e,a,k
 Drag'n Thrust,3
 teamInfo,,"Minneapolis, Minnesota",http://www.dragnthrust.com,https://www.facebook.com/dragnthrust,https://twitter.com/dragNthrust
@@ -333,7 +333,7 @@ pools,Friday Pool Play
 pool,Pool A
 BFG,Voltaje U.C,15,10,"08/04/2023, 08:30",Pool A,Final
 BFG,NOISE,13,14,"08/04/2023, 10:45",Pool A,Final
-NOISE,Voltaje U.C,11,10,"08/04/2023, 13:00",Pool A,Scheduled
+NOISE,Voltaje U.C,13,11,"08/04/2023, 13:00",Pool A,Scheduled
 pool,Pool B
 Seattle Mixtape,Top Ultimate Club,15,11,"08/04/2023, 08:30",Pool B,Final
 Seattle Mixtape,AMP,15,12,"08/04/2023, 10:45",Pool B,Final
@@ -341,16 +341,20 @@ AMP,Top Ultimate Club,14,7,"08/04/2023, 13:00",Pool B,Final
 pool,Pool C
 Drag'n Thrust,shame.,14,15,"08/04/2023, 08:30",Pool C,Final
 Drag'n Thrust,Ellipsis,14,15,"08/04/2023, 10:45",Pool C,Final
-Ellipsis,shame.,12,14,"08/04/2023, 13:00",Pool C,Scheduled
+Ellipsis,shame.,13,15,"08/04/2023, 13:00",Pool C,Final
 pool,Pool D
 XIST,CRAZY,15,11,"08/04/2023, 08:30",Pool D,Final
 XIST,Polar Bears,14,12,"08/04/2023, 10:45",Pool D,Final
-Polar Bears,CRAZY,14,12,"08/04/2023, 13:00",Pool D,Scheduled
+Polar Bears,CRAZY,15,13,"08/04/2023, 13:00",Pool D,Final
 b,r,e,a,k
 clusters,Seeding Crossover
+cluster,Seeding Crossover
+Seattle Mixtape,XIST,0,0,"08/04/2023, 15:15",,In Progress
 b,r,e,a,k
 brackets,US Open Mixed Championship
 bracket,Championship
+AMP,CRAZY,0,0,"08/04/2023, 15:15",Pre-Quarterfinals,In Progress
+Polar Bears,Top Ultimate Club,0,0,"08/04/2023, 15:15",Pre-Quarterfinals,In Progress
 b,r,e,a,k
 brackets,Placement Brackets
 bracket,Third Place
