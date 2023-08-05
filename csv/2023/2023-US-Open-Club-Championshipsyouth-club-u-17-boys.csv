@@ -8,8 +8,6 @@ coaches,Chris Garcia,Benjamin Garcia,Loic Billaut,Gabriel Gatewood-Wolfe
  ,Elliot
  ,Timothy
  ,William
-0,Dexter Miller
-0,Dylan Tams
 03,Ezra Grziwok Dowling
 05,Oscar Mendelson
 08,Reed Archer
@@ -22,8 +20,10 @@ coaches,Chris Garcia,Benjamin Garcia,Loic Billaut,Gabriel Gatewood-Wolfe
 26,Eitan Amzel
 27,Logan Song
 33,Arvin Parameswaran
+36,Dexter Miller
 37,Guy Joseph Cutting
 48,Aaron Cho
+50,Dylan Tams
 55,Erik Pompe
 72,Nathaniel Brundjar
 82,Sulek Dopman
@@ -32,29 +32,29 @@ b,r,e,a,k
 Seven Hills U17 Open,8
 teamInfo,,"Seattle, Washington",,,
 coaches,Maxwell Sheffield,Dana Baker,Linda Phan
-0,Aage Bonnell
-0,Archer  Burns
-0,Asher Glickman-Flora
-0,Atticus  Pak
-0,David Andrew Isom
-0,Denny Beaumon
-0,Elijah Toeung
-0,Emanuel Berson
-0,Harrison Schaw
-0,Isaac  Lewis 
-0,Jack Lawson
-0,Jason Kuang
-0,Jayden Satterfield
-0,Jonah Yang
-0,josue ostos
-0,Jude Small
-0,Makoa Costales-Gaon
-0,Noah Malla
-0,Owen Mertz
-0,Rowan Dean
-0,Roy Amazona
-0,Sam DeBroux
-0,Tamirat Fox-Ostenson
+00,Harrison Schaw
+03,Roy Amazona
+04,Elijah Toeung
+06,Aage Bonnell
+08,Asher Glickman-Flora
+09,Jonah Yang
+10,Archer  Burns
+11,Jason Kuang
+12,Denny Beaumon
+12,Sam DeBroux
+13,Makoa Costales-Gaon
+16,Emanuel Berson
+18,Jude Small
+21,Jayden Satterfield
+27,Atticus  Pak
+28,josue ostos
+33,Tamirat Fox-Ostenson
+40,Rowan Dean
+42,Isaac  Lewis 
+43,Noah Malla
+48,Jack Lawson
+90,Owen Mertz
+99,David Andrew Isom
 b,r,e,a,k
 Colorado Cutthroat Youth Club U-17 Boys,9
 teamInfo,,"Denver, Colorado",,,
@@ -289,14 +289,11 @@ Oregon Eclipse,6
 teamInfo,,"Portland, Oregon",www.oregonyouthultimate.org,,
 coaches,Russell Arkin,Taylor White
 00,Elias Casper
-00,Liam Erdmann
-00,Oliver Hughes
-00,Rio Long
-00,Salvador  Arias
-02,Driscoll Strong
+01,Salvador  Arias
+02,William Stites
 03,Will Sinkford
-04,Henry Nelson 
 05,Micah Harter
+07,Rio Long
 08,Silas Blum
 09,Milo Melton
 10,Ben Bower
@@ -306,10 +303,13 @@ coaches,Russell Arkin,Taylor White
 16,Grady Gilkey
 17,Liam Bevan
 18,Benjamin Aziz
-22,William Stites
+21,Driscoll Strong
 23,Jules Messersharp
 27,Hollis McNeely
+38,Liam Erdmann
+44,Henry Nelson 
 58,Charles Nieckarz
+78,Oliver Hughes
 87,Howard Hay
 98,Elliot Brandt
 b,r,e,a,k
@@ -445,8 +445,8 @@ Michigan Stubble,13
 teamInfo,,"Saginaw, Michigan",,,
 coaches,Tom Plamondon
  ,Luke
-0,"Martin ""Trey"" Wondergem"
-1,Everett Winzeler
+00,"Martin ""Trey"" Wondergem"
+01,Everett Winzeler
 07,Jackson Otto
 10,Lucas Dykema
 15,Grayson Adams
