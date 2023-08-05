@@ -30,29 +30,6 @@ teamInfo,,"Winchester, Virginia",,http://facebook.com/winccity,http://twitter.co
 55,Ryan Godfrey
 77,Jonathan (Charlie) Smedberg
 b,r,e,a,k
-SUPA FC,13
-teamInfo,,"Stewartstown , Pennsylvania",https://centralpaultimate.com/supa-ultimate-league,@stewartstownupa,@stewartstownupa
-0,Eric Grosh
-0,Jacob Farnham
-0,Jesse Heindel
-0,Bobby Leiphart
-0,Josh Miller
-0,Kevin Boyd
-0,Ryan Donelson
-0,Steven Whiteford
-1,Spencer Grogan
-2,Mark Farnham
-8,Silas Angelino
-10,Derek Rabold
-11,Cody Mohar
-11,Tim Hushon
-14,Josh Heindel
-20,Ryan Hushon
-24,Jon White
-27,Daniel Naylor
-40,Sean Hermanns
-46,Wesley Morgan
-b,r,e,a,k
 Magma Bears,1
 teamInfo,,"ALL OF NEW YORK, New York",,https://www.facebook.com/WestchesterMagmaBears,https://twitter.com/MagmaBearUlti
 0,Anthony Havens
@@ -81,6 +58,29 @@ teamInfo,,"ALL OF NEW YORK, New York",,https://www.facebook.com/WestchesterMagma
 35,Ryan Blazejewski
 43,Tyler McCarthy
 88,Michael Lovisa
+b,r,e,a,k
+SUPA FC,13
+teamInfo,,"Stewartstown , Pennsylvania",https://centralpaultimate.com/supa-ultimate-league,@stewartstownupa,@stewartstownupa
+0,Eric Grosh
+0,Jacob Farnham
+0,Jesse Heindel
+0,Bobby Leiphart
+0,Josh Miller
+0,Kevin Boyd
+0,Ryan Donelson
+0,Steven Whiteford
+1,Spencer Grogan
+2,Mark Farnham
+8,Silas Angelino
+10,Derek Rabold
+11,Cody Mohar
+11,Tim Hushon
+14,Josh Heindel
+20,Ryan Hushon
+24,Jon White
+27,Daniel Naylor
+40,Sean Hermanns
+46,Wesley Morgan
 b,r,e,a,k
 Deepfake,24
 teamInfo,,"New York City, New York",,,
@@ -370,30 +370,6 @@ coaches,Andy Routzahn,Trent Tolley
 98,Anselm Yededji
 99,Antonio Sumler
 b,r,e,a,k
-Alibi,16
-teamInfo,,"Albany, New York",,,
-0,Adam Kohn
-0,Alec Myers
-0,Benjamin Tandlmayer
-0,Jefferson Huang
-0,John Angerame
-0,Josh Bates
-0,Joshua Glick
-0,Kevin Roux
-0,Matt Smith
-0,Matthew Lustbader
-0,Nate Belluche
-0,Thomas Horvath
-1,Jared Gregorek
-9,Devin Hendricks
-18,Caleb Bashant
-25,Griffin Malcolm
-30,Xavier Ortiz-Reyes
-31,Connor Braddock
-41,Jacob Grabois
-55,Logan Stone
-99,Matthew Stuts
-b,r,e,a,k
 MOB Ultimate,21
 teamInfo,,"Baltimore, Maryland",,https://www.facebook.com/MOB-Ultimate-114315757422122,https://twitter.com/MOBUltimate1
 0,Benjamin Guest
@@ -419,6 +395,30 @@ teamInfo,,"Baltimore, Maryland",,https://www.facebook.com/MOB-Ultimate-114315757
 22,Christopher Estes
 64,Stylianos Mastoras
 69,Liam Jones
+b,r,e,a,k
+Alibi,16
+teamInfo,,"Albany, New York",,,
+0,Adam Kohn
+0,Alec Myers
+0,Benjamin Tandlmayer
+0,Jefferson Huang
+0,John Angerame
+0,Josh Bates
+0,Joshua Glick
+0,Kevin Roux
+0,Matt Smith
+0,Matthew Lustbader
+0,Nate Belluche
+0,Thomas Horvath
+1,Jared Gregorek
+9,Devin Hendricks
+18,Caleb Bashant
+25,Griffin Malcolm
+30,Xavier Ortiz-Reyes
+31,Connor Braddock
+41,Jacob Grabois
+55,Logan Stone
+99,Matthew Stuts
 b,r,e,a,k
 Rumspringa,8
 teamInfo,,"Virginville, Pennsylvania",,,
@@ -509,28 +509,6 @@ teamInfo,,"Livonia, Michigan",,,
 36,Brian Bloom
 68,Gerald Chizmadia
 b,r,e,a,k
-BAG,6
-teamInfo,,"Medford, Massachusetts",,,
-0,Christopher Setiawan
-0,Collier Cobb
-0,David Owyang
-0,Jesse Levisohn
-0,Jonathan (JP) Webel
-0,Angus Fuori
-0,Ari Carp
-0,Nadav Berkman
-0,Patrick Como
-0,Sammy Muench
-0,Wes Yan
-10,Ryan Rockett
-11,William Burke
-12,Matt Caswell
-20,Richard Szabo
-34,Tanner Cohen
-44,Matt Sehgal
-50,Carl Saba
-81,Adam Dahlquist
-b,r,e,a,k
 Bomb Squad,7
 teamInfo,,"Baltimore, Maryland",,,
 0,Chad Tenn
@@ -575,6 +553,28 @@ teamInfo,,"Philadelphia, Pennsylvania",,,https://twitter.com/JAWN_Ultimate
 88,Jacob Kesselman
 89,Joshua Heacock
 b,r,e,a,k
+BAG,6
+teamInfo,,"Medford, Massachusetts",,,
+0,Christopher Setiawan
+0,Collier Cobb
+0,David Owyang
+0,Jesse Levisohn
+0,Jonathan (JP) Webel
+0,Angus Fuori
+0,Ari Carp
+0,Nadav Berkman
+0,Patrick Como
+0,Sammy Muench
+0,Wes Yan
+10,Ryan Rockett
+11,William Burke
+12,Matt Caswell
+20,Richard Szabo
+34,Tanner Cohen
+44,Matt Sehgal
+50,Carl Saba
+81,Adam Dahlquist
+b,r,e,a,k
 Long Island Riff Raff,19
 teamInfo,,"Dix Hills, New York",,,
 0,Eric He
@@ -603,7 +603,7 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Saturday Pool Play
 pool,Pool A
-Magma Bears,SUPA FC,0,0,"08/05/2023, 13:30",Pool A,In Progress
+Magma Bears,SUPA FC,13,8,"08/05/2023, 13:30",Pool A,Final
 Winc City Fog of War,Deepfake,13,6,"08/05/2023, 13:30",Pool A,Final
 Magma Bears,Deepfake,0,0,"08/05/2023, 15:15",Pool A,Scheduled
 Winc City Fog of War,SUPA FC,0,0,"08/05/2023, 15:15",Pool A,Scheduled
@@ -611,7 +611,7 @@ Magma Bears,Winc City Fog of War,0,0,"08/05/2023, 17:00",Pool A,Scheduled
 SUPA FC,Deepfake,0,0,"08/05/2023, 17:00",Pool A,Scheduled
 pool,Pool B
 Oakgrove Boys,Chimney,13,7,"08/05/2023, 13:30",Pool B,Final
-Dirty Laundry,Rebels,0,0,"08/05/2023, 13:30",Pool B,In Progress
+Dirty Laundry,Rebels,10,8,"08/05/2023, 13:30",Pool B,Final
 Oakgrove Boys,Rebels,0,0,"08/05/2023, 15:15",Pool B,Scheduled
 Dirty Laundry,Chimney,0,0,"08/05/2023, 15:15",Pool B,Scheduled
 Oakgrove Boys,Dirty Laundry,0,0,"08/05/2023, 17:00",Pool B,Scheduled
@@ -624,7 +624,7 @@ Helots,John Doe,0,0,"08/05/2023, 15:15",Pool C,Scheduled
 Rochester Open Club,Helots,0,0,"08/05/2023, 17:00",Pool C,Scheduled
 John Doe,Town Hall Stars,0,0,"08/05/2023, 17:00",Pool C,Scheduled
 pool,Pool D
-Colt,Alibi,0,0,"08/05/2023, 13:30",Pool D,In Progress
+Colt,Alibi,13,9,"08/05/2023, 13:30",Pool D,Final
 Crypt,MOB Ultimate,0,0,"08/05/2023, 13:30",Pool D,In Progress
 Colt,MOB Ultimate,0,0,"08/05/2023, 15:15",Pool D,Scheduled
 Crypt,Alibi,0,0,"08/05/2023, 15:15",Pool D,Scheduled
@@ -639,7 +639,7 @@ Pittsburgh Stealers,Rumspringa,0,0,"08/05/2023, 17:00",Pool E,Scheduled
 Buffalo Frostbite,Mischief,0,0,"08/05/2023, 17:00",Pool E,Scheduled
 pool,Pool F
 BAG,JAWN,0,0,"08/05/2023, 13:30",Pool F,In Progress
-Bomb Squad,Long Island Riff Raff,0,0,"08/05/2023, 13:30",Pool F,In Progress
+Bomb Squad,Long Island Riff Raff,13,6,"08/05/2023, 13:30",Pool F,Final
 BAG,Long Island Riff Raff,0,0,"08/05/2023, 15:15",Pool F,Scheduled
 Bomb Squad,JAWN,0,0,"08/05/2023, 15:15",Pool F,Scheduled
 BAG,Bomb Squad,0,0,"08/05/2023, 17:00",Pool F,Scheduled
