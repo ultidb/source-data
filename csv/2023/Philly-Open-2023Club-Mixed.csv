@@ -211,32 +211,6 @@ teamInfo,,"New York, New York",,,
 36,Ruoshi Gao
 55,Will Kurnit
 b,r,e,a,k
-Grand Army,3
-teamInfo,,"Brooklyn, New York",https://linktr.ee/grandarmyultimate,https://www.facebook.com/GrandArmyUltimate,https://www.twitter.com/grandarmymixed
-0,Connor Chin
-0,Ella Park-Chan
-0,Henry Zhang
-0,Ivy Tsang
-0,Jae Lee
-0,Jimmy Wang
-0,John Watters
-0,Kayla Seeger
-0,Lily Gould
-0,Tiffany Tai
-0,Tom Sum
-5,Emily Wang
-7,Dena Behar
-9,Stephenie Wang
-11,Mei Reffsin
-12,Antonio Brewer
-12,Casey Banta-Ryan
-25,TJ Dingco
-35,Alex Rafkin
-39,David Chen
-44,Katia Krupa
-69,Peter Luo
-87,Emma Chin
-b,r,e,a,k
 Scarecrow,12
 teamInfo,,"Manchester, New Hampshire",,www.facebook.com/ScarecrowUltimate/,www.twitter.com/ScarecrowMixed
 0,Alex Joseph
@@ -265,6 +239,32 @@ teamInfo,,"Manchester, New Hampshire",,www.facebook.com/ScarecrowUltimate/,www.t
 40,Jacee Cox
 72,Jason Russo
 99,Ryan Benincase
+b,r,e,a,k
+Grand Army,3
+teamInfo,,"Brooklyn, New York",https://linktr.ee/grandarmyultimate,https://www.facebook.com/GrandArmyUltimate,https://www.twitter.com/grandarmymixed
+0,Connor Chin
+0,Ella Park-Chan
+0,Henry Zhang
+0,Ivy Tsang
+0,Jae Lee
+0,Jimmy Wang
+0,John Watters
+0,Kayla Seeger
+0,Lily Gould
+0,Tiffany Tai
+0,Tom Sum
+5,Emily Wang
+7,Dena Behar
+9,Stephenie Wang
+11,Mei Reffsin
+12,Antonio Brewer
+12,Casey Banta-Ryan
+25,TJ Dingco
+35,Alex Rafkin
+39,David Chen
+44,Katia Krupa
+69,Peter Luo
+87,Emma Chin
 b,r,e,a,k
 Swampbenders,26
 teamInfo,,"Washington, District of Columbia",,,https://twitter.com/DCSwampbenders?s=20&t=_yIE5QrgkyXJmRtt4iUg-Q
@@ -806,21 +806,21 @@ Brackish,NYWT,13,3,"08/05/2023, 08:15",Pool B,Final
 Storm,NYWT,13,1,"08/05/2023, 10:00",Pool B,Final
 Brackish,ColorBomb,8,6,"08/05/2023, 10:00",Pool B,Final
 Storm,Brackish,0,0,"08/05/2023, 11:45",Pool B,In Progress
-ColorBomb,NYWT,0,0,"08/05/2023, 11:45",Pool B,In Progress
+ColorBomb,NYWT,10,5,"08/05/2023, 11:45",Pool B,Final
 pool,Pool C
 Grand Army,Crucible,13,2,"08/05/2023, 08:15",Pool C,Final
 Scarecrow,Swampbenders,13,6,"08/05/2023, 08:15",Pool C,Final
 Grand Army,Swampbenders,13,5,"08/05/2023, 10:00",Pool C,Final
 Scarecrow,Crucible,13,5,"08/05/2023, 10:00",Pool C,Final
-Grand Army,Scarecrow,0,0,"08/05/2023, 11:45",Pool C,In Progress
+Grand Army,Scarecrow,8,9,"08/05/2023, 11:45",Pool C,Final
 Crucible,Swampbenders,6,9,"08/05/2023, 11:45",Pool C,Final
 pool,Pool D
 Buffalo Lake Effect,Eat Lightning,11,7,"08/05/2023, 08:15",Pool D,Final
 Heavy Flow,Ultra Instinct,13,3,"08/05/2023, 08:15",Pool D,Final
 Buffalo Lake Effect,Ultra Instinct,13,2,"08/05/2023, 10:00",Pool D,Final
 Heavy Flow,Eat Lightning,11,8,"08/05/2023, 10:00",Pool D,Final
-Buffalo Lake Effect,Heavy Flow,0,0,"08/05/2023, 11:45",Pool D,In Progress
-Eat Lightning,Ultra Instinct,0,0,"08/05/2023, 11:45",Pool D,In Progress
+Buffalo Lake Effect,Heavy Flow,12,7,"08/05/2023, 11:45",Pool D,Final
+Eat Lightning,Ultra Instinct,11,5,"08/05/2023, 11:45",Pool D,In Progress
 pool,Pool E
 Funk,Compost Plates,13,3,"08/05/2023, 08:15",Pool E,Final
 One More Year,Farm Show,7,10,"08/05/2023, 08:15",Pool E,Final
@@ -834,7 +834,7 @@ Mashed,District Cocktails,11,9,"08/05/2023, 08:15",Pool F,Final
 Lampshade,District Cocktails,7,9,"08/05/2023, 10:00",Pool F,Final
 Mashed,Philly Twist,10,9,"08/05/2023, 10:00",Pool F,Final
 Lampshade,Mashed,10,11,"08/05/2023, 11:45",Pool F,Final
-Philly Twist,District Cocktails,0,0,"08/05/2023, 11:45",Pool F,In Progress
+Philly Twist,District Cocktails,7,11,"08/05/2023, 11:45",Pool F,Final
 pool,Pool G
 PS,Espionage,9,12,"08/05/2023, 08:15",Pool G,Final
 Brooklyn Hive,Buffalo Brain Freeze,11,8,"08/05/2023, 08:15",Pool G,Final
@@ -842,12 +842,13 @@ Garbage Plates,Voltage,13,2,"08/05/2023, 08:15",Pool G,Final
 Espionage,Voltage,10,5,"08/05/2023, 10:00",Pool G,Final
 Garbage Plates,Buffalo Brain Freeze,12,3,"08/05/2023, 10:00",Pool G,Final
 PS,Brooklyn Hive,11,8,"08/05/2023, 10:00",Pool G,Final
-Buffalo Brain Freeze,Voltage,0,0,"08/05/2023, 11:45",Pool G,In Progress
+Buffalo Brain Freeze,Voltage,7,6,"08/05/2023, 11:45",Pool G,Final
 Garbage Plates,PS,12,9,"08/05/2023, 11:45",Pool G,Final
 Brooklyn Hive,Espionage,7,10,"08/05/2023, 11:45",Pool G,Final
 b,r,e,a,k
 brackets,Bracket Play (9th to 16th Placement)
 bracket,9th Place Bracket
+Grand Army,District Cocktails,0,0,"08/05/2023, 13:30",9th Place Quarters,Scheduled
 bracket,11th Place Bracket
 bracket,13th Place Bracket
 bracket,15th Place Bracket
@@ -862,6 +863,8 @@ clusters,Bracket Play (25th to 30th Placement)
 b,r,e,a,k
 brackets,Bracket Play (1st to 8th Placement)
 bracket,1st Place Bracket
+Loco,Espionage,0,0,"08/06/2023, 10:00",1st Place Quarters,Scheduled
+Scarecrow,Mashed,0,0,"08/06/2023, 10:00",1st Place Quarters,Scheduled
 bracket,3rd Place Bracket
 bracket,5th Place Bracket
 bracket,7th Place Bracket
