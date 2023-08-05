@@ -224,20 +224,6 @@ teamInfo,,"Portland, Maine",https://maineultimate.org/p/red-tide?fbclid=IwAR0bDN
 88,Bailey Kirwin
 97,Daniel Bronshvayg
 b,r,e,a,k
-Red Squirrels,12
-teamInfo,,"Natick, Massachusetts",,,
-0,Jonathan Coombs
-0,Matthew Gaetano
-0,Michael Forozis
-0,Cajetan Evans
-0,Stephen Eckelkamp
-4,Owen Hartford
-4,William  Ullmann
-6,Benjamin Weber
-6,Cogan Lawler
-8,Tomo Liou
-56,Edward Wu
-b,r,e,a,k
 Club M - Manic,5
 teamInfo,,"Montreal, Quebec CA",https://clubmultimate.ca,,
 00,Benjamin Palmer
@@ -265,12 +251,26 @@ teamInfo,,"Montreal, Quebec CA",https://clubmultimate.ca,,
 66,Félix Côté Dubuc
 66,Raphaël Drouin
 b,r,e,a,k
+Red Squirrels,12
+teamInfo,,"Natick, Massachusetts",,,
+0,Jonathan Coombs
+0,Matthew Gaetano
+0,Michael Forozis
+0,Cajetan Evans
+0,Stephen Eckelkamp
+4,Owen Hartford
+4,William  Ullmann
+6,Benjamin Weber
+6,Cogan Lawler
+8,Tomo Liou
+56,Edward Wu
+b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
 Expendables,MBTA,15,7,"08/05/2023, 09:00",Pool A,Final
 Scoop,MBTA,15,4,"08/05/2023, 11:00",Pool A,Final
-Scoop,Expendables,0,0,"08/05/2023, 13:00",Pool A,Scheduled
+Scoop,Expendables,15,8,"08/05/2023, 13:00",Pool A,Final
 pool,Pool B
 Ascension,Odyssey,14,10,"08/05/2023, 09:00",Pool B,Final
 Big Wrench,Odyssey,15,4,"08/05/2023, 11:00",Pool B,Final
@@ -280,18 +280,26 @@ TireBizFriz,Madhouse,15,2,"08/05/2023, 09:00",Pool C,Final
 Shade,Madhouse,15,3,"08/05/2023, 11:00",Pool C,Final
 Shade,TireBizFriz,0,0,"08/05/2023, 13:00",Pool C,Scheduled
 pool,Pool D
-Club M - Manic,Red Squirrels,0,0,"08/05/2023, 09:00",Pool D,Cancelled
-Red Tide,Red Squirrels,0,0,"08/05/2023, 11:00",Pool D,Cancelled
+Club M - Manic,Red Squirrels,1,0,"08/05/2023, 09:00",Pool D,Final
+Red Tide,Red Squirrels,1,0,"08/05/2023, 11:00",Pool D,Final
 Red Tide,Club M - Manic,15,10,"08/05/2023, 13:00",Pool D,Final
 b,r,e,a,k
 clusters,Crossovers
+cluster,A2-D3
+Expendables,Red Squirrels,1,0,"08/05/2023, 15:00",,Final
+cluster,D2-A3
+Club M - Manic,MBTA,12,7,"08/05/2023, 15:00",,Final
+cluster,B1-D1
+Big Wrench,Red Tide,0,0,"08/05/2023, 15:00",,Scheduled
 b,r,e,a,k
 brackets,Bracket Play
 bracket,1st
+Big Wrench,Expendables,0,0,"08/06/2023, 09:00",Quarters,Scheduled
 bracket,3rd
 bracket,5th
 bracket,7th
 b,r,e,a,k
 pools,Lower
 pool,Pool E
+Red Squirrels,MBTA,0,0,"08/06/2023, 13:00",Pool E,Scheduled
 b,r,e,a,k
