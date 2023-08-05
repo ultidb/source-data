@@ -187,31 +187,6 @@ coaches,Jereme Mason,Thomas Nye
 52,Becker Joseph
 72,Kyle Ford
 b,r,e,a,k
-Colorado Cutthroat: Youth Club U-20 Boys,18
-teamInfo,,"Denver, Colorado",,,
-coaches,Thomas Echols,Phil Lohre,Hannah Matthys
-01,Addison Muller
-05,Eliot Lundt
-06,Campbell Darlington
-10,Tate Voeller
-11,Noah Alleman
-13,Ezra Thoreson
-17,Shane Musfeldt
-18,Alex Yu
-22,Nicholas Kleinhelter
-24,Jonah Hammes
-25,Hayden King
-26,Finn Thaler
-27,Quincy Roy
-29,Felix Feiger
-37,Anders Pearson
-37,Mateo Holguin
-42,Tanner Peavy
-60,Joshua Ho
-62,Jacob Ho
-81,Austin Green
-85,Alex Rini
-b,r,e,a,k
 BUDA U20B,3
 teamInfo,,"Boston, Massachusetts",buda.org/yc,,
 coaches,John Rice,Sarah Nadler
@@ -238,6 +213,31 @@ coaches,John Rice,Sarah Nadler
 50,Armando Feldman
 79,Matthew Xia
 99,Daniel Carey
+b,r,e,a,k
+Colorado Cutthroat: Youth Club U-20 Boys,18
+teamInfo,,"Denver, Colorado",,,
+coaches,Thomas Echols,Phil Lohre,Hannah Matthys
+01,Addison Muller
+05,Eliot Lundt
+06,Campbell Darlington
+10,Tate Voeller
+11,Noah Alleman
+13,Ezra Thoreson
+17,Shane Musfeldt
+18,Alex Yu
+22,Nicholas Kleinhelter
+24,Jonah Hammes
+25,Hayden King
+26,Finn Thaler
+27,Quincy Roy
+29,Felix Feiger
+37,Anders Pearson
+37,Mateo Holguin
+42,Tanner Peavy
+60,Joshua Ho
+62,Jacob Ho
+81,Austin Green
+85,Alex Rini
 b,r,e,a,k
 Triforce,4
 teamInfo,,"Raleigh/Durham/Chapel Hill, North Carolina",,,https://twitter.com/TriforceTYUL
@@ -645,18 +645,18 @@ SmOAK (U20),Rising Tide U20B,15,9,"08/05/2023, 13:00",Pool B,Final
 pool,Pool C
 Philadelphia SEPDA (Boys),Colorado Cutthroat: Youth Club U-20 Boys,15,8,"08/05/2023, 08:30",Pool C,Final
 BUDA U20B,Colorado Cutthroat: Youth Club U-20 Boys,13,15,"08/05/2023, 10:45",Pool C,Final
-BUDA U20B,Philadelphia SEPDA (Boys),11,10,"08/05/2023, 13:00",Pool C,Scheduled
+BUDA U20B,Philadelphia SEPDA (Boys),11,10,"08/05/2023, 13:00",Pool C,Final
 pool,Pool D
 DEVYL U-20 Boys,Red Hots - u20,12,7,"08/05/2023, 08:30",Pool D,Final
 Triforce,Red Hots - u20,15,5,"08/05/2023, 10:45",Pool D,Final
 Triforce,DEVYL U-20 Boys,14,11,"08/05/2023, 13:00",Pool D,Final
 pool,Pool E
 Texas United,Impulse,13,6,"08/05/2023, 10:45",Pool E,Final
-ATLiens,Impulse,9,8,"08/05/2023, 13:00",Pool E,Scheduled
+ATLiens,Impulse,9,8,"08/05/2023, 13:00",Pool E,Final
 ATLiens,Texas United,0,0,"08/05/2023, 15:15",Pool E,Scheduled
 pool,Pool F
 Charlotte Flight,Kentucky Khaos,7,15,"08/05/2023, 10:45",Pool F,Final
-Oregon Trainwreck,Kentucky Khaos,9,12,"08/05/2023, 13:00",Pool F,Scheduled
+Oregon Trainwreck,Kentucky Khaos,9,13,"08/05/2023, 13:00",Pool F,Final
 Oregon Trainwreck,Charlotte Flight,0,0,"08/05/2023, 15:15",Pool F,Scheduled
 pool,Pool G
 Villains,Madison MUFAbots U20B,15,4,"08/05/2023, 10:45",Pool G,Final
@@ -670,6 +670,8 @@ b,r,e,a,k
 clusters,Crossover
 cluster,Crossover
 Red Dawn,Red Hots - u20,0,0,"08/06/2023, 08:30",,Scheduled
+Flying Pig,Colorado Cutthroat: Youth Club U-20 Boys,0,0,"08/06/2023, 08:30",,Scheduled
+BUDA U20B,Rising Tide U20B,0,0,"08/06/2023, 08:30",,Scheduled
 DEVYL U-20 Boys,Connecticut Harpoon,0,0,"08/06/2023, 08:30",,Scheduled
 b,r,e,a,k
 brackets,Championship
