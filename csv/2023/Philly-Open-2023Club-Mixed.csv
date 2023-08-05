@@ -107,34 +107,6 @@ coaches,Benjamin Korman
 25,Patrick Sheil
 69,David Wingate
 b,r,e,a,k
-Brackish,13
-teamInfo,,"Hampton, Virginia",,https://www.facebook.com/BrackishUlti/,@BrackishUlti
-0,Christophe Snead
-0,Tim Slade
-2,Michael Wong
-3,Shawna Zielstorff
-7,Taylor Brooks
-8,Jared Schwallie
-11,Danny Wilson
-12,Elizabeth Bradley
-17,Krista Bueno
-18,James Godwin
-20,Torin Porter
-21,Mae Kemsley-Kirn
-22,Matthew Taleghani
-25,Katrina Kim
-26,Paolo Yalung
-32,Maggie Lincoln
-42,Laura Beaudet
-48,Abby Herrod
-49,Quinn Foley
-52,Sabrina Kim
-55,Katie Powell
-66,Cara Wu
-77,Jaime Benites
-79,Mary Maurer
-91,James Dangler
-b,r,e,a,k
 Storm,2
 teamInfo,,"Charlotte, North Carolina",,https://www.facebook.com/CharlotteStormUltimate/,https://twitter.com/CLTstorm
 coaches,Andrew Manca
@@ -164,6 +136,34 @@ coaches,Andrew Manca
 88,Eliza Rich
 98,Emily Tuckwood
 99,Alexandra Magid
+b,r,e,a,k
+Brackish,13
+teamInfo,,"Hampton, Virginia",,https://www.facebook.com/BrackishUlti/,@BrackishUlti
+0,Christophe Snead
+0,Tim Slade
+2,Michael Wong
+3,Shawna Zielstorff
+7,Taylor Brooks
+8,Jared Schwallie
+11,Danny Wilson
+12,Elizabeth Bradley
+17,Krista Bueno
+18,James Godwin
+20,Torin Porter
+21,Mae Kemsley-Kirn
+22,Matthew Taleghani
+25,Katrina Kim
+26,Paolo Yalung
+32,Maggie Lincoln
+42,Laura Beaudet
+48,Abby Herrod
+49,Quinn Foley
+52,Sabrina Kim
+55,Katie Powell
+66,Cara Wu
+77,Jaime Benites
+79,Mary Maurer
+91,James Dangler
 b,r,e,a,k
 ColorBomb,16
 teamInfo,,"Philadelphia, Pennsylvania",https://www.colorbombulti.com/home,,https://twitter.com/ColorBombUlti
@@ -555,27 +555,6 @@ teamInfo,,"Syracuse, New York",,,
 77,Brian Erwin
 96,Shalin Patel
 b,r,e,a,k
-Philly Twist,20
-teamInfo,,"Philadelphia, Pennsylvania",,https://www.facebook.com/TwistUltimate/,https://twitter.com/philly_twist
-0,Barrett Doering
-0,Adam Lloyd-Jones
-0,Amelia Marx
-0,Emylee Fleshman
-0,Ethan Daum
-0,Kate Witzgall
-0,Philip Iaccarino
-0,Zachary Jacobs
-4,Emily Gallagher
-7,Ben Fournier
-09,Charles Harrity
-14,David Paisner
-16,Valerie Estela-Pro
-27,James Leonard
-31,Amritha Mallikarjun
-45,Dalia Weinstein
-56,Lauren Feder
-81,Troy Zirkel
-b,r,e,a,k
 Lampshade,6
 teamInfo,,"Cambridge, Massachusetts",,,
 coaches,Abijith Krishnan
@@ -630,6 +609,27 @@ teamInfo,,"Washington, District of Columbia",,https://www.facebook.com/Cocktails
 72,Katherine Murray
 86,Julianne Twomey
 99,Rebecca Dorety
+b,r,e,a,k
+Philly Twist,20
+teamInfo,,"Philadelphia, Pennsylvania",,https://www.facebook.com/TwistUltimate/,https://twitter.com/philly_twist
+0,Barrett Doering
+0,Adam Lloyd-Jones
+0,Amelia Marx
+0,Emylee Fleshman
+0,Ethan Daum
+0,Kate Witzgall
+0,Philip Iaccarino
+0,Zachary Jacobs
+4,Emily Gallagher
+7,Ben Fournier
+09,Charles Harrity
+14,David Paisner
+16,Valerie Estela-Pro
+27,James Leonard
+31,Amritha Mallikarjun
+45,Dalia Weinstein
+56,Lauren Feder
+81,Troy Zirkel
 b,r,e,a,k
 Espionage,29
 teamInfo,,"Washington, District of Columbia",,,@espionageulti
@@ -803,7 +803,7 @@ NY Swipes,Spice,0,0,"08/05/2023, 11:45",Pool A,Scheduled
 pool,Pool B
 Storm,ColorBomb,11,6,"08/05/2023, 08:15",Pool B,Final
 Brackish,NYWT,13,3,"08/05/2023, 08:15",Pool B,Final
-Storm,NYWT,0,0,"08/05/2023, 10:00",Pool B,In Progress
+Storm,NYWT,13,1,"08/05/2023, 10:00",Pool B,Final
 Brackish,ColorBomb,0,0,"08/05/2023, 10:00",Pool B,In Progress
 Storm,Brackish,0,0,"08/05/2023, 11:45",Pool B,Scheduled
 ColorBomb,NYWT,0,0,"08/05/2023, 11:45",Pool B,Scheduled
@@ -824,24 +824,24 @@ Eat Lightning,Ultra Instinct,0,0,"08/05/2023, 11:45",Pool D,Scheduled
 pool,Pool E
 Funk,Compost Plates,13,3,"08/05/2023, 08:15",Pool E,Final
 One More Year,Farm Show,7,10,"08/05/2023, 08:15",Pool E,Final
-Funk,Farm Show,0,0,"08/05/2023, 10:00",Pool E,Scheduled
-One More Year,Compost Plates,0,0,"08/05/2023, 10:00",Pool E,Scheduled
+Funk,Farm Show,0,0,"08/05/2023, 10:00",Pool E,In Progress
+One More Year,Compost Plates,0,0,"08/05/2023, 10:00",Pool E,In Progress
 Funk,One More Year,0,0,"08/05/2023, 11:45",Pool E,Scheduled
 Compost Plates,Farm Show,0,0,"08/05/2023, 11:45",Pool E,Scheduled
 pool,Pool F
-Lampshade,Philly Twist,11,9,"08/05/2023, 08:15",Pool F,Scheduled
+Lampshade,Philly Twist,11,9,"08/05/2023, 08:15",Pool F,Final
 Mashed,District Cocktails,11,9,"08/05/2023, 08:15",Pool F,Final
-Lampshade,District Cocktails,0,0,"08/05/2023, 10:00",Pool F,Scheduled
-Mashed,Philly Twist,0,0,"08/05/2023, 10:00",Pool F,Scheduled
+Lampshade,District Cocktails,0,0,"08/05/2023, 10:00",Pool F,In Progress
+Mashed,Philly Twist,0,0,"08/05/2023, 10:00",Pool F,In Progress
 Lampshade,Mashed,0,0,"08/05/2023, 11:45",Pool F,Scheduled
 Philly Twist,District Cocktails,0,0,"08/05/2023, 11:45",Pool F,Scheduled
 pool,Pool G
 PS,Espionage,9,12,"08/05/2023, 08:15",Pool G,Final
 Brooklyn Hive,Buffalo Brain Freeze,0,0,"08/05/2023, 08:15",Pool G,Scheduled
 Garbage Plates,Voltage,0,0,"08/05/2023, 08:15",Pool G,Scheduled
-Espionage,Voltage,0,0,"08/05/2023, 10:00",Pool G,Scheduled
-Garbage Plates,Buffalo Brain Freeze,0,0,"08/05/2023, 10:00",Pool G,Scheduled
-PS,Brooklyn Hive,0,0,"08/05/2023, 10:00",Pool G,Scheduled
+Espionage,Voltage,0,0,"08/05/2023, 10:00",Pool G,In Progress
+Garbage Plates,Buffalo Brain Freeze,0,0,"08/05/2023, 10:00",Pool G,In Progress
+PS,Brooklyn Hive,0,0,"08/05/2023, 10:00",Pool G,In Progress
 Buffalo Brain Freeze,Voltage,0,0,"08/05/2023, 11:45",Pool G,Scheduled
 Garbage Plates,PS,0,0,"08/05/2023, 11:45",Pool G,Scheduled
 Brooklyn Hive,Espionage,0,0,"08/05/2023, 11:45",Pool G,Scheduled
