@@ -157,6 +157,33 @@ teamInfo,,"Albany, New York",,,
 18,Simon Phippen
 27,Tyler Fitzgerald
 b,r,e,a,k
+Rebels,23
+teamInfo,,"Haddonfield, New Jersey",,,
+0,Walker Steven
+5,Brian Rivera-Lau
+5,Kevin Curtin
+9,Stephen Burner
+12,Evan Carmody
+13,Nick Piotti
+14,Brandon Bergman
+15,Colin Finnigan
+17,Dillon Strieffler
+21,Brennan Appleman
+22,Ryan Cook
+26,Mark Butler
+28,Jacob Romero
+31,Tyler Flockton
+33,Scott Pleban
+34,Tam Tran
+35,Joey Rosta
+37,August Wietfeldt
+43,Patrick Irvine
+52,Lewin Levine
+56,Zachary Hunt
+77,Andrew Burgess
+87,Christian Obuchowski
+93,Justin Li
+b,r,e,a,k
 Chimney,14
 teamInfo,,"Cleveland, Ohio",,,
 0,Alex Warrington
@@ -184,33 +211,6 @@ teamInfo,,"Cleveland, Ohio",,,
 55,Samuel Marshall
 61,Derek Lin
 77,Will Oltjen 
-b,r,e,a,k
-Rebels,23
-teamInfo,,"Haddonfield, New Jersey",,,
-0,Walker Steven
-5,Brian Rivera-Lau
-5,Kevin Curtin
-9,Stephen Burner
-12,Evan Carmody
-13,Nick Piotti
-14,Brandon Bergman
-15,Colin Finnigan
-17,Dillon Strieffler
-21,Brennan Appleman
-22,Ryan Cook
-26,Mark Butler
-28,Jacob Romero
-31,Tyler Flockton
-33,Scott Pleban
-34,Tam Tran
-35,Joey Rosta
-37,August Wietfeldt
-43,Patrick Irvine
-52,Lewin Levine
-56,Zachary Hunt
-77,Andrew Burgess
-87,Christian Obuchowski
-93,Justin Li
 b,r,e,a,k
 Rochester Open Club,3
 teamInfo,,"Rochester, New York",,,
@@ -610,7 +610,7 @@ Winc City Fog of War,SUPA FC,0,0,"08/05/2023, 15:15",Pool A,Scheduled
 Magma Bears,Winc City Fog of War,0,0,"08/05/2023, 17:00",Pool A,Scheduled
 SUPA FC,Deepfake,0,0,"08/05/2023, 17:00",Pool A,Scheduled
 pool,Pool B
-Oakgrove Boys,Chimney,0,0,"08/05/2023, 13:30",Pool B,In Progress
+Oakgrove Boys,Chimney,13,7,"08/05/2023, 13:30",Pool B,Final
 Dirty Laundry,Rebels,0,0,"08/05/2023, 13:30",Pool B,In Progress
 Oakgrove Boys,Rebels,0,0,"08/05/2023, 15:15",Pool B,Scheduled
 Dirty Laundry,Chimney,0,0,"08/05/2023, 15:15",Pool B,Scheduled
@@ -618,14 +618,14 @@ Oakgrove Boys,Dirty Laundry,0,0,"08/05/2023, 17:00",Pool B,Scheduled
 Chimney,Rebels,0,0,"08/05/2023, 17:00",Pool B,Scheduled
 pool,Pool C
 Rochester Open Club,John Doe,0,0,"08/05/2023, 13:30",Pool C,In Progress
-Helots,Town Hall Stars,0,0,"08/05/2023, 13:30",Pool C,Scheduled
+Helots,Town Hall Stars,0,0,"08/05/2023, 13:30",Pool C,In Progress
 Rochester Open Club,Town Hall Stars,0,0,"08/05/2023, 15:15",Pool C,Scheduled
 Helots,John Doe,0,0,"08/05/2023, 15:15",Pool C,Scheduled
 Rochester Open Club,Helots,0,0,"08/05/2023, 17:00",Pool C,Scheduled
 John Doe,Town Hall Stars,0,0,"08/05/2023, 17:00",Pool C,Scheduled
 pool,Pool D
-Colt,Alibi,0,0,"08/05/2023, 13:30",Pool D,Scheduled
-Crypt,MOB Ultimate,0,0,"08/05/2023, 13:30",Pool D,Scheduled
+Colt,Alibi,0,0,"08/05/2023, 13:30",Pool D,In Progress
+Crypt,MOB Ultimate,0,0,"08/05/2023, 13:30",Pool D,In Progress
 Colt,MOB Ultimate,0,0,"08/05/2023, 15:15",Pool D,Scheduled
 Crypt,Alibi,0,0,"08/05/2023, 15:15",Pool D,Scheduled
 Colt,Crypt,0,0,"08/05/2023, 17:00",Pool D,Scheduled
@@ -638,8 +638,8 @@ Rumspringa,Buffalo Frostbite,0,0,"08/05/2023, 15:15",Pool E,Scheduled
 Pittsburgh Stealers,Rumspringa,0,0,"08/05/2023, 17:00",Pool E,Scheduled
 Buffalo Frostbite,Mischief,0,0,"08/05/2023, 17:00",Pool E,Scheduled
 pool,Pool F
-BAG,JAWN,0,0,"08/05/2023, 13:30",Pool F,Scheduled
-Bomb Squad,Long Island Riff Raff,0,0,"08/05/2023, 13:30",Pool F,Scheduled
+BAG,JAWN,0,0,"08/05/2023, 13:30",Pool F,In Progress
+Bomb Squad,Long Island Riff Raff,0,0,"08/05/2023, 13:30",Pool F,In Progress
 BAG,Long Island Riff Raff,0,0,"08/05/2023, 15:15",Pool F,Scheduled
 Bomb Squad,JAWN,0,0,"08/05/2023, 15:15",Pool F,Scheduled
 BAG,Bomb Squad,0,0,"08/05/2023, 17:00",Pool F,Scheduled
