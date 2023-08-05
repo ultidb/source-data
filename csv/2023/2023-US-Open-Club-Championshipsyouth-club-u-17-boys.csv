@@ -162,6 +162,29 @@ coaches,PRATIK MAHARJAN,Jonathan Malloy
 34,Adrien Prioul-Ritz
 44,Miles Schiefer
 b,r,e,a,k
+ATLas,10
+teamInfo,,"Atlanta, Georgia",,,@ATLasYCC
+coaches,Gerleen Dineros,Zachary Hollis,Joshua Feng
+0,Pearce Becker
+01,Sawyer Morgan
+02,Oliver Francois Watkins
+05,Ethan Austin-Cruse
+07,Calvin Li
+08,octavian penescu
+09,TJ Smith
+11,Grady Richman
+12,Junot Schlanger
+14,Jacob Walls-Foster
+15,Lucas Ruffin
+20,Andrew Castillejos
+23,Samuel Shapiro
+26,Elias Coffey 
+28,Spencer Shah
+30,Tobiah Watts
+40,Callan Meyer
+83,Billy Wallace
+99,Jake Sanders
+b,r,e,a,k
 Aftershock,7
 teamInfo,,"San Francisco Bay Area, California",https://www.bayultimateyouth.org/,,https://twitter.com/AftershockUlti
 coaches,Suk lyn Lim,Jack Duffey
@@ -185,29 +208,6 @@ coaches,Suk lyn Lim,Jack Duffey
 44,Ben Sumrall
 49,Emmett Price
 72,Amir Hollander
-b,r,e,a,k
-Flying Piglet,18
-teamInfo,,"Cincinnati, Ohio",https://cincyultimate.org/youth/ycc,,https://twitter.com/PigletUltimate
-coaches,Neal Earley,John Gruter,Zachary Weaver
- ,Ben
- ,Conner 
- ,Kyle
- ,Luke
- ,Rory
-03,Quinn Boscher
-07,Matthew Clevidence
-08,Kai Earley
-10,Bennett Havens
-13,Micah Earley
-14,Logan Dreischarf
-16,Nathan Plourde
-18,Liam Fielden
-21,Andrew Newlon
-22,Andrew Schaedig
-23,John Surace
-32,Kyle Zimmerman
-63,Logan Mysona
-80,Ivan Cload
 b,r,e,a,k
 Texas Double Trouble,15
 teamInfo,,"Austin, Texas",,,@DTATXYCC
@@ -235,28 +235,28 @@ coaches,Calvin Lin
 74,Owen Huels
 76,Gabriel Reynolds
 b,r,e,a,k
-ATLas,10
-teamInfo,,"Atlanta, Georgia",,,@ATLasYCC
-coaches,Gerleen Dineros,Zachary Hollis,Joshua Feng
-0,Pearce Becker
-01,Sawyer Morgan
-02,Oliver Francois Watkins
-05,Ethan Austin-Cruse
-07,Calvin Li
-08,octavian penescu
-09,TJ Smith
-11,Grady Richman
-12,Junot Schlanger
-14,Jacob Walls-Foster
-15,Lucas Ruffin
-20,Andrew Castillejos
-23,Samuel Shapiro
-26,Elias Coffey 
-28,Spencer Shah
-30,Tobiah Watts
-40,Callan Meyer
-83,Billy Wallace
-99,Jake Sanders
+Flying Piglet,18
+teamInfo,,"Cincinnati, Ohio",https://cincyultimate.org/youth/ycc,,https://twitter.com/PigletUltimate
+coaches,Neal Earley,John Gruter,Zachary Weaver
+ ,Ben
+ ,Conner 
+ ,Kyle
+ ,Luke
+ ,Rory
+03,Quinn Boscher
+07,Matthew Clevidence
+08,Kai Earley
+10,Bennett Havens
+13,Micah Earley
+14,Logan Dreischarf
+16,Nathan Plourde
+18,Liam Fielden
+21,Andrew Newlon
+22,Andrew Schaedig
+23,John Surace
+32,Kyle Zimmerman
+63,Logan Mysona
+80,Ivan Cload
 b,r,e,a,k
 Oregon Eclipse,6
 teamInfo,,"Portland, Oregon",www.oregonyouthultimate.org,,
@@ -476,8 +476,8 @@ pool,Pool B
 BUDA U17 Boys,ATLas,12,8,"08/05/2023, 10:45",Pool B,Final
 Aftershock,Flying Piglet,14,8,"08/05/2023, 13:00",Pool B,Scheduled
 BUDA U17 Boys,Texas Double Trouble,10,9,"08/05/2023, 13:00",Pool B,Final
-Aftershock,Texas Double Trouble,11,9,"08/05/2023, 15:15",Pool B,Scheduled
-ATLas,Flying Piglet,15,2,"08/05/2023, 15:15",Pool B,In Progress
+Aftershock,Texas Double Trouble,11,10,"08/05/2023, 15:15",Pool B,Scheduled
+ATLas,Flying Piglet,15,2,"08/05/2023, 15:15",Pool B,Final
 Texas Double Trouble,Flying Piglet,0,0,"08/06/2023, 08:30",Pool B,Scheduled
 Aftershock,ATLas,0,0,"08/06/2023, 08:30",Pool B,Scheduled
 BUDA U17 Boys,Flying Piglet,0,0,"08/06/2023, 10:45",Pool B,Scheduled
@@ -487,14 +487,14 @@ pool,Pool C
 DEVYL U-17,NC Hammer,13,8,"08/05/2023, 13:00",Pool C,Scheduled
 Oregon Eclipse,Nightmare,15,0,"08/05/2023, 13:00",Pool C,Final
 Oregon Eclipse,NC Hammer,8,8,"08/05/2023, 15:15",Pool C,Scheduled
-DEVYL U-17,Nightmare,13,1,"08/05/2023, 15:15",Pool C,Scheduled
+DEVYL U-17,Nightmare,14,2,"08/05/2023, 15:15",Pool C,Scheduled
 NC Hammer,Nightmare,0,0,"08/06/2023, 10:45",Pool C,Scheduled
 DEVYL U-17,Oregon Eclipse,0,0,"08/06/2023, 10:45",Pool C,Scheduled
 pool,Pool D
 Capitol Heights,Utah Swarm U17 Boys,10,12,"08/05/2023, 13:00",Pool D,Scheduled
 Philadelphia Padawans,Michigan Stubble,15,6,"08/05/2023, 13:00",Pool D,Final
-Philadelphia Padawans,Utah Swarm U17 Boys,6,11,"08/05/2023, 15:15",Pool D,Scheduled
-Capitol Heights,Michigan Stubble,9,6,"08/05/2023, 15:15",Pool D,Scheduled
+Philadelphia Padawans,Utah Swarm U17 Boys,8,11,"08/05/2023, 15:15",Pool D,Scheduled
+Capitol Heights,Michigan Stubble,10,7,"08/05/2023, 15:15",Pool D,Scheduled
 Utah Swarm U17 Boys,Michigan Stubble,0,0,"08/06/2023, 10:45",Pool D,Scheduled
 Capitol Heights,Philadelphia Padawans,0,0,"08/06/2023, 10:45",Pool D,Scheduled
 b,r,e,a,k
