@@ -278,7 +278,7 @@ Big Wrench,Ascension,15,9,"08/05/2023, 13:00",Pool B,Final
 pool,Pool C
 TireBizFriz,Madhouse,15,2,"08/05/2023, 09:00",Pool C,Final
 Shade,Madhouse,15,3,"08/05/2023, 11:00",Pool C,Final
-Shade,TireBizFriz,0,0,"08/05/2023, 13:00",Pool C,Scheduled
+Shade,TireBizFriz,10,15,"08/05/2023, 13:00",Pool C,Final
 pool,Pool D
 Club M - Manic,Red Squirrels,1,0,"08/05/2023, 09:00",Pool D,Final
 Red Tide,Red Squirrels,1,0,"08/05/2023, 11:00",Pool D,Final
@@ -289,11 +289,18 @@ cluster,A2-D3
 Expendables,Red Squirrels,1,0,"08/05/2023, 15:00",,Final
 cluster,D2-A3
 Club M - Manic,MBTA,12,7,"08/05/2023, 15:00",,Final
+cluster,B2-C3
+Ascension,Madhouse,0,0,"08/05/2023, 15:00",,Scheduled
+cluster,C2-B3
+Shade,Odyssey,0,0,"08/05/2023, 15:00",,Scheduled
+cluster,A1-C1
+Scoop,TireBizFriz,0,0,"08/05/2023, 15:00",,Scheduled
 cluster,B1-D1
 Big Wrench,Red Tide,14,11,"08/05/2023, 15:00",,Final
 b,r,e,a,k
 brackets,Bracket Play
 bracket,1st
+TireBizFriz,Club M - Manic,0,0,"08/06/2023, 09:00",Quarters,Scheduled
 Big Wrench,Expendables,0,0,"08/06/2023, 09:00",Quarters,Scheduled
 bracket,3rd
 bracket,5th
