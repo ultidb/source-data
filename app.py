@@ -1,4 +1,5 @@
 from inspect import Signature
+import json
 from flask import Flask
 from datetime import datetime, date, timedelta
 from apscheduler.schedulers.background import BackgroundScheduler
@@ -8,15 +9,17 @@ from scrape import scrapeListOfTournamentUrls, Config
 import logging as log
 import requests, os
 from dotenv import load_dotenv
+import db
 
 ongoingTournaments = []
 upcomingTournaments = []
 recentlyEndedTournaments = []
-load_dotenv()
+load_dotenv(override=True)
 COMMIT_AND_PUSH = os.getenv("COMMIT_AND_PUSH") == "True"
 POST_TO_API = os.getenv("POST_TO_API") == "True"
 LOAD_CALENDAR_ON_START = os.getenv("LOAD_CAL_ON_START") == "True"
 API_URL = os.getenv("API_URL")
+HOST = os.getenv("HOST")
 year = str(date.today().year) 
 
 def print_date_time():
@@ -94,30 +97,28 @@ def scrapeCalendar(disableCache=True):
 def scrapeOngoingTournaments():
     config = Config(int(year), False, True, True, False)
     scrapeListOfTournamentUrls(config, ongoingTournaments)
-    csvs = listUpdatedCsvs()
-    if COMMIT_AND_PUSH:
-        commitToGit()
-    if POST_TO_API:
-        postListToAPI(csvs, False, True, False)
+    commitAndPush(True)
 
 def scrapeUpcomingTournaments():
     config = Config(int(year), True, True, False, False)
     scrapeListOfTournamentUrls(config, upcomingTournaments)
-    csvs = listUpdatedCsvs()
-    if COMMIT_AND_PUSH:
-        commitToGit()
-    if POST_TO_API:
-        postListToAPI(csvs)
+    commitAndPush()
 
 def scrapeRecentlyEndedTournaments():
     config = Config(int(year), False, True, True, False)
     scrapeListOfTournamentUrls(config, recentlyEndedTournaments)
-    csvs = listUpdatedCsvs()
-    if COMMIT_AND_PUSH:
-        commitToGit()
-    if POST_TO_API:
-        postListToAPI(csvs)
+    commitAndPush()
 
+def commitAndPush(isOngoing=False):
+    csvs = listUpdatedCsvs()
+    if len(csvs) > 0:
+        if COMMIT_AND_PUSH:
+            commitToGit()
+        if POST_TO_API:
+            if isOngoing:
+                postUpdatedCsvsToReceiver(csvs, False, True, False)
+            else:
+                postUpdatedCsvsToReceiver(csvs) 
 
 def commitToGit():
     subprocess.run(["git", "checkout", "live"])
@@ -132,19 +133,23 @@ def listUpdatedCsvs():
     output = []
     for line in status.split('\n'):
         items = line.strip().split(' ')
-        if len(items) > 1 and not items[1].endswith('_calendar.csv'):
+        if len(items) > 1 and not items[1].endswith('_calendar.csv') and items[1].startswith('csv/'):
             output.append(items[1])
     return output
 
-def postListToAPI(csvs, UpdatePlayers=True, checkExisting=True, DryRun=False):
+def postUpdatedCsvsToReceiver(csvs, UpdatePlayers=True, checkExisting=True, DryRun=False):
     payload = { "paths": csvs, "updatePlayers": UpdatePlayers, "checkExisting": checkExisting, "dryRun": DryRun }
-    log.info(f"posting {len(csvs)} csvs to API")
+    log.info(f"posting {len(csvs)} csvs to receiver")
     try:
-        r = requests.post(API_URL, data=payload)
+        r = requests.post(API_URL, data=json.dumps(payload), headers={'Content-Type': 'application/json'})
         if r.status_code != 204:
-            log.error(f"API returned {r.status_code} with message: {r.text}")
+            log.error(f"receiver returned {r.status_code} with message: {r.text}")
+            db.updateFailedCSVs(csvs)
+        else:
+            db.updateSuccesfulCSVs(csvs)
     except Exception as e:
-        log.error(f"API returned error: {e}")
+        log.error(f"receiver returned error: {e}")
+        db.updateFailedCSVs(csvs)
 
 def setupTor():
     tor_process = startTorServer()
@@ -162,6 +167,11 @@ def setupSchedule():
     # Shut down the scheduler when exiting the app
     atexit.register(lambda: scheduler.shutdown())
 
+def prodSetup():
+    db.create_tournaments_db()
+    setupTor()
+    setupSchedule()
+    scrapeCalendar(True)
 
 log.basicConfig(
         level=log.INFO,
@@ -180,14 +190,25 @@ def healthCheck():
 
     return output
 
-if __name__ == "__main__":
-    setupTor()
-    setupSchedule()
+@app.after_request
+def add_cors_header(response):
+    response.headers['Access-Control-Allow-Origin'] = '*'
+    return response
 
-    # Initial run on startup
-    scrapeCalendar(LOAD_CALENDAR_ON_START)
+if __name__ == "__main__":
+    # Setup default config (init schedule, tor, and scrape calendar for year)
+    prodSetup()
+
+    # Optional calls for testing/development
+    # setupTor()
+    # setupSchedule()
+    # scrapeCalendar(LOAD_CALENDAR_ON_START)
     # scrapeRecentlyEndedTournaments()
     # scrapeOngoingTournaments()
-    scrapeUpcomingTournaments()
+    # scrapeUpcomingTournaments()
+    # csvs = listUpdatedCsvs()
+    # postUpdatedCsvsToReceiver(csvs)
+    # print(COMMIT_AND_PUSH)
+    # commitAndPush()
 
-    app.run(port=3031)
+    app.run(host=HOST, port=3032)
