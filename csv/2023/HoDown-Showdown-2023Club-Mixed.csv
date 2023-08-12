@@ -27,27 +27,6 @@ teamInfo,,"Atlanta, Georgia",https://ultiworld.com/team/121469/atlanta-dirty-bir
 65,Aileen Thomas
 83,Ryan Landry
 b,r,e,a,k
-Barefoot,9
-teamInfo,,"Tupelo, Mississippi",barefootultimatefrisbee.com,,
-0,Breanna Snipes
-0,Candace Surface
-0,Carrie Higgins
-0,coby bell
-0,Dana Bramlitt
-0,Jacob  Cook
-0,JAMES SURFACE
-0,Jason Price
-0,Katelyn Nichols
-0,Lee Kleyla
-0,Malachi Johnson 
-0,Mandy Sharp
-0,Marie Kimball
-0,Zach Pitts
-2,Connor Norris
-5,Jonathan King
-10,Paul Ballard
-69,Sam Stoop
-b,r,e,a,k
 Bear Jordan,8
 teamInfo,,"Chapel Hill, North Carolina",,,
 0,Kristen Walfield
@@ -72,6 +51,27 @@ teamInfo,,"Chapel Hill, North Carolina",,,
 84,Paul Fang
 88,Nathan Silverman
 91,Donte Jackson
+b,r,e,a,k
+Barefoot,9
+teamInfo,,"Tupelo, Mississippi",barefootultimatefrisbee.com,,
+0,Breanna Snipes
+0,Candace Surface
+0,Carrie Higgins
+0,coby bell
+0,Dana Bramlitt
+0,Jacob  Cook
+0,JAMES SURFACE
+0,Jason Price
+0,Katelyn Nichols
+0,Lee Kleyla
+0,Malachi Johnson 
+0,Mandy Sharp
+0,Marie Kimball
+0,Zach Pitts
+2,Connor Norris
+5,Jonathan King
+10,Paul Ballard
+69,Sam Stoop
 b,r,e,a,k
 MoonPi,16
 teamInfo,,"Chattanooga, Tennessee",,,
@@ -206,6 +206,29 @@ teamInfo,,"Columbia, South Carolina",https://www.instagram.com/dizzykittyultimat
 48,Erin  McDonough
 66,Robert Gunshefski
 b,r,e,a,k
+Pickles,18
+teamInfo,,"Asheville, North Carolina",https://www.picklesultimate.com/,,
+0,Allison  Parker
+0,Brianna Gorham
+0,Charles Page
+0,Emily Runion
+0,Grace Snell
+0,Jacob Skinsacos
+0,Justin Hall
+0,Lauren Delmastro
+0,Mark Bennink
+0,Matt Hanson
+0,Jon Reed
+0,Patrick Annesty
+0,Stephanie Furnish
+0,Sydnee Hanson
+5,Rocky Morris
+5,Ely Levine
+8,Alexander Schwartz
+10,Noah Shearer
+13,Jeff Nowiski
+25,Julian Cacua
+b,r,e,a,k
 Memphis STAX,10
 teamInfo,,"Memphis, Tennessee",,,https://twitter.com/StaxUltimate
 0,Dillon Joens
@@ -229,29 +252,6 @@ teamInfo,,"Memphis, Tennessee",,,https://twitter.com/StaxUltimate
 7,Mason Keeling
 69,Connor Scanlon
 92,Matthew Cook
-b,r,e,a,k
-Pickles,18
-teamInfo,,"Asheville, North Carolina",https://www.picklesultimate.com/,,
-0,Allison  Parker
-0,Brianna Gorham
-0,Charles Page
-0,Emily Runion
-0,Grace Snell
-0,Jacob Skinsacos
-0,Justin Hall
-0,Lauren Delmastro
-0,Mark Bennink
-0,Matt Hanson
-0,Jon Reed
-0,Patrick Annesty
-0,Stephanie Furnish
-0,Sydnee Hanson
-5,Rocky Morris
-5,Ely Levine
-8,Alexander Schwartz
-10,Noah Shearer
-13,Jeff Nowiski
-25,Julian Cacua
 b,r,e,a,k
 Roma Ultima,3
 teamInfo,,"ATL, Georgia",,,
@@ -527,8 +527,8 @@ pools,Pool Play
 pool,Pool A
 Dirty Bird,Piedmont United,15,1,"08/12/2023, 09:00",Pool A,Final
 Barefoot,MoonPi,12,9,"08/12/2023, 09:00",Pool A,Final
-Dirty Bird,Barefoot,0,0,"08/12/2023, 10:45",Pool A,Scheduled
-Bear Jordan,MoonPi,0,0,"08/12/2023, 10:45",Pool A,Scheduled
+Dirty Bird,Barefoot,15,7,"08/12/2023, 10:45",Pool A,Final
+Bear Jordan,MoonPi,12,9,"08/12/2023, 10:45",Pool A,Final
 MoonPi,Piedmont United,0,0,"08/12/2023, 12:30",Pool A,Scheduled
 Bear Jordan,Barefoot,0,0,"08/12/2023, 12:30",Pool A,Scheduled
 Dirty Bird,MoonPi,0,0,"08/12/2023, 14:15",Pool A,Scheduled
@@ -538,8 +538,8 @@ Barefoot,Piedmont United,0,0,"08/12/2023, 16:00",Pool A,Scheduled
 pool,Pool B
 m'kay Ultimate,Pickles,15,4,"08/12/2023, 09:00",Pool B,Final
 Memphis STAX,Magnanimouse,4,14,"08/12/2023, 09:00",Pool B,Final
-m'kay Ultimate,Memphis STAX,0,0,"08/12/2023, 10:45",Pool B,Scheduled
-Dizzy Kitty,Magnanimouse,0,0,"08/12/2023, 10:45",Pool B,Scheduled
+m'kay Ultimate,Memphis STAX,12,6,"08/12/2023, 10:45",Pool B,Final
+Dizzy Kitty,Magnanimouse,9,11,"08/12/2023, 10:45",Pool B,Final
 Magnanimouse,Pickles,0,0,"08/12/2023, 12:30",Pool B,Scheduled
 Dizzy Kitty,Memphis STAX,0,0,"08/12/2023, 12:30",Pool B,Scheduled
 m'kay Ultimate,Magnanimouse,0,0,"08/12/2023, 14:15",Pool B,Scheduled
@@ -560,7 +560,7 @@ Too Much Fun,Rampage,0,0,"08/12/2023, 16:00",Pool C,Scheduled
 pool,Pool D
 Malice in Wonderland,Flood Zone,15,3,"08/12/2023, 09:00",Pool D,Final
 FlyTrap,Verdant,11,12,"08/12/2023, 09:00",Pool D,Final
-Malice in Wonderland,FlyTrap,0,0,"08/12/2023, 10:45",Pool D,Scheduled
+Malice in Wonderland,FlyTrap,13,12,"08/12/2023, 10:45",Pool D,Final
 Crown Peach,Verdant,0,0,"08/12/2023, 10:45",Pool D,Scheduled
 Verdant,Flood Zone,0,0,"08/12/2023, 12:30",Pool D,Scheduled
 Crown Peach,FlyTrap,0,0,"08/12/2023, 12:30",Pool D,Scheduled
