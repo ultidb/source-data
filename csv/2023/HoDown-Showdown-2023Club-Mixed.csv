@@ -52,6 +52,27 @@ teamInfo,,"Chapel Hill, North Carolina",,,
 88,Nathan Silverman
 91,Donte Jackson
 b,r,e,a,k
+Barefoot,9
+teamInfo,,"Tupelo, Mississippi",barefootultimatefrisbee.com,,
+0,Breanna Snipes
+0,Candace Surface
+0,Carrie Higgins
+0,coby bell
+0,Dana Bramlitt
+0,Jacob  Cook
+0,JAMES SURFACE
+0,Jason Price
+0,Katelyn Nichols
+0,Lee Kleyla
+0,Malachi Johnson 
+0,Mandy Sharp
+0,Marie Kimball
+0,Zach Pitts
+2,Connor Norris
+5,Jonathan King
+10,Paul Ballard
+69,Sam Stoop
+b,r,e,a,k
 Piedmont United,17
 teamInfo,,"Winston-Salem, North Carolina",,,
 0,Aaron Schwartz
@@ -81,27 +102,6 @@ teamInfo,,"Winston-Salem, North Carolina",,,
 83,Michael Ridge
 98,Michael Antkiewicz
 b,r,e,a,k
-Barefoot,9
-teamInfo,,"Tupelo, Mississippi",barefootultimatefrisbee.com,,
-0,Breanna Snipes
-0,Candace Surface
-0,Carrie Higgins
-0,coby bell
-0,Dana Bramlitt
-0,Jacob  Cook
-0,JAMES SURFACE
-0,Jason Price
-0,Katelyn Nichols
-0,Lee Kleyla
-0,Malachi Johnson 
-0,Mandy Sharp
-0,Marie Kimball
-0,Zach Pitts
-2,Connor Norris
-5,Jonathan King
-10,Paul Ballard
-69,Sam Stoop
-b,r,e,a,k
 MoonPi,16
 teamInfo,,"Chattanooga, Tennessee",,,
 0,Colie Cain
@@ -126,32 +126,6 @@ teamInfo,,"Chattanooga, Tennessee",,,
 25,Ayman Handal
 33,Alexandria Frost
 71,Wesley Green
-b,r,e,a,k
-Dizzy Kitty,7
-teamInfo,,"Columbia, South Carolina",https://www.instagram.com/dizzykittyultimate/,,https://twitter.com/DizzyKitty_Ulti
-0,Corrie LaBelle
-0,Emma Owens
-0,Emma Britt
-0,Jacob McClary
-0,Joseph  Cammarata
-0,Katherine Tse
-0,Kayla McClary
-0,Michael Cote
-0,Sara Steger
-0,Thomas Davidson
-0,Tristin Ray
-0,William Caspino
-0,Erin Kemp
-4,Elizabeth Williams
-5,Carter Hayes
-7,Caspar Tarr
-10,Sam Schmoker
-13,Christopher Chen
-16,Andrew White
-25,Gabriella Cruz
-28,David Olsen
-48,Erin  McDonough
-66,Robert Gunshefski
 b,r,e,a,k
 m'kay Ultimate,2
 teamInfo,,"Atlanta, Georgia",,,
@@ -181,6 +155,32 @@ teamInfo,,"Atlanta, Georgia",,,
 55,Lillian Ponitz
 89,Eric Martin
 99,Gabriel Bidot
+b,r,e,a,k
+Dizzy Kitty,7
+teamInfo,,"Columbia, South Carolina",https://www.instagram.com/dizzykittyultimate/,,https://twitter.com/DizzyKitty_Ulti
+0,Corrie LaBelle
+0,Emma Owens
+0,Emma Britt
+0,Jacob McClary
+0,Joseph  Cammarata
+0,Katherine Tse
+0,Kayla McClary
+0,Michael Cote
+0,Sara Steger
+0,Thomas Davidson
+0,Tristin Ray
+0,William Caspino
+0,Erin Kemp
+4,Elizabeth Williams
+5,Carter Hayes
+7,Caspar Tarr
+10,Sam Schmoker
+13,Christopher Chen
+16,Andrew White
+25,Gabriella Cruz
+28,David Olsen
+48,Erin  McDonough
+66,Robert Gunshefski
 b,r,e,a,k
 Magnanimouse,15
 teamInfo,,"Durham, North Carolina",,,https://twitter.com/MagnanimouseNC
@@ -531,8 +531,8 @@ Dirty Bird,Barefoot,15,7,"08/12/2023, 10:45",Pool A,Final
 Bear Jordan,MoonPi,12,9,"08/12/2023, 10:45",Pool A,Final
 MoonPi,Piedmont United,10,14,"08/12/2023, 12:30",Pool A,Final
 Bear Jordan,Barefoot,15,5,"08/12/2023, 12:30",Pool A,Final
-Dirty Bird,MoonPi,0,0,"08/12/2023, 14:15",Pool A,Scheduled
-Bear Jordan,Piedmont United,0,0,"08/12/2023, 14:15",Pool A,Scheduled
+Dirty Bird,MoonPi,15,0,"08/12/2023, 14:15",Pool A,Final
+Bear Jordan,Piedmont United,15,5,"08/12/2023, 14:15",Pool A,Final
 Dirty Bird,Bear Jordan,0,0,"08/12/2023, 16:00",Pool A,Scheduled
 Barefoot,Piedmont United,0,0,"08/12/2023, 16:00",Pool A,Scheduled
 pool,Pool B
@@ -542,8 +542,8 @@ m'kay Ultimate,Memphis STAX,12,6,"08/12/2023, 10:45",Pool B,Final
 Dizzy Kitty,Magnanimouse,11,9,"08/12/2023, 10:45",Pool B,Final
 Magnanimouse,Pickles,15,5,"08/12/2023, 12:30",Pool B,Final
 Dizzy Kitty,Memphis STAX,11,9,"08/12/2023, 12:30",Pool B,Final
-m'kay Ultimate,Magnanimouse,0,0,"08/12/2023, 14:15",Pool B,Scheduled
-Dizzy Kitty,Pickles,0,0,"08/12/2023, 14:15",Pool B,Scheduled
+m'kay Ultimate,Magnanimouse,13,8,"08/12/2023, 14:15",Pool B,Final
+Dizzy Kitty,Pickles,15,3,"08/12/2023, 14:15",Pool B,Final
 m'kay Ultimate,Dizzy Kitty,0,0,"08/12/2023, 16:00",Pool B,Scheduled
 Memphis STAX,Pickles,0,0,"08/12/2023, 16:00",Pool B,Scheduled
 pool,Pool C
@@ -553,8 +553,8 @@ Roma Ultima,Too Much Fun,15,10,"08/12/2023, 10:45",Pool C,Final
 Moontower,Brunch Club,8,11,"08/12/2023, 10:45",Pool C,Final
 Brunch Club,Rampage,15,5,"08/12/2023, 12:30",Pool C,Final
 Moontower,Too Much Fun,8,15,"08/12/2023, 12:30",Pool C,Final
-Roma Ultima,Brunch Club,0,0,"08/12/2023, 14:15",Pool C,Scheduled
-Moontower,Rampage,0,0,"08/12/2023, 14:15",Pool C,Scheduled
+Roma Ultima,Brunch Club,15,7,"08/12/2023, 14:15",Pool C,Final
+Moontower,Rampage,15,3,"08/12/2023, 14:15",Pool C,Final
 Roma Ultima,Moontower,0,0,"08/12/2023, 16:00",Pool C,Scheduled
 Too Much Fun,Rampage,0,0,"08/12/2023, 16:00",Pool C,Scheduled
 pool,Pool D
@@ -564,7 +564,7 @@ Malice in Wonderland,FlyTrap,13,12,"08/12/2023, 10:45",Pool D,Final
 Crown Peach,Verdant,0,0,"08/12/2023, 10:45",Pool D,Scheduled
 Verdant,Flood Zone,14,8,"08/12/2023, 12:30",Pool D,Final
 Crown Peach,FlyTrap,12,11,"08/12/2023, 12:30",Pool D,Final
-Malice in Wonderland,Verdant,0,0,"08/12/2023, 14:15",Pool D,Scheduled
+Malice in Wonderland,Verdant,15,6,"08/12/2023, 14:15",Pool D,Final
 Crown Peach,Flood Zone,0,0,"08/12/2023, 14:15",Pool D,Scheduled
 Malice in Wonderland,Crown Peach,0,0,"08/12/2023, 16:00",Pool D,Scheduled
 FlyTrap,Flood Zone,0,0,"08/12/2023, 16:00",Pool D,Scheduled
