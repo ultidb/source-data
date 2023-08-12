@@ -52,6 +52,35 @@ teamInfo,,"Chapel Hill, North Carolina",,,
 88,Nathan Silverman
 91,Donte Jackson
 b,r,e,a,k
+Piedmont United,17
+teamInfo,,"Winston-Salem, North Carolina",,,
+0,Aaron Schwartz
+0,Abigail Rosenbaum
+0,Caleb Sizemore
+0,Cameron Spong
+0,Dena Werts
+0,Emily Bratton
+0,Eston Miller
+0,Ethan Rodriguez
+0,Joshua Hester
+0,JT Ward
+0,Kirstin Murr
+0,Lissette Rodriguez
+0,Mara Duncan 
+0,Shana Harris
+6,Angela Waszkiewicz
+8,Cooper Korson
+9,Haley Turczynski
+9,Natalie Watt
+11,Jackson Carawan
+26,Peter Geniac
+28,Josh Kripas
+43,Mariamme Burgess
+56,Sam Wright
+77,Sam Shear
+83,Michael Ridge
+98,Michael Antkiewicz
+b,r,e,a,k
 Barefoot,9
 teamInfo,,"Tupelo, Mississippi",barefootultimatefrisbee.com,,
 0,Breanna Snipes
@@ -97,35 +126,6 @@ teamInfo,,"Chattanooga, Tennessee",,,
 25,Ayman Handal
 33,Alexandria Frost
 71,Wesley Green
-b,r,e,a,k
-Piedmont United,17
-teamInfo,,"Winston-Salem, North Carolina",,,
-0,Aaron Schwartz
-0,Abigail Rosenbaum
-0,Caleb Sizemore
-0,Cameron Spong
-0,Dena Werts
-0,Emily Bratton
-0,Eston Miller
-0,Ethan Rodriguez
-0,Joshua Hester
-0,JT Ward
-0,Kirstin Murr
-0,Lissette Rodriguez
-0,Mara Duncan 
-0,Shana Harris
-6,Angela Waszkiewicz
-8,Cooper Korson
-9,Haley Turczynski
-9,Natalie Watt
-11,Jackson Carawan
-26,Peter Geniac
-28,Josh Kripas
-43,Mariamme Burgess
-56,Sam Wright
-77,Sam Shear
-83,Michael Ridge
-98,Michael Antkiewicz
 b,r,e,a,k
 m'kay Ultimate,2
 teamInfo,,"Atlanta, Georgia",,,
@@ -529,8 +529,8 @@ Dirty Bird,Piedmont United,15,1,"08/12/2023, 09:00",Pool A,Final
 Barefoot,MoonPi,12,9,"08/12/2023, 09:00",Pool A,Final
 Dirty Bird,Barefoot,15,7,"08/12/2023, 10:45",Pool A,Final
 Bear Jordan,MoonPi,12,9,"08/12/2023, 10:45",Pool A,Final
-MoonPi,Piedmont United,0,0,"08/12/2023, 12:30",Pool A,Scheduled
-Bear Jordan,Barefoot,0,0,"08/12/2023, 12:30",Pool A,Scheduled
+MoonPi,Piedmont United,10,14,"08/12/2023, 12:30",Pool A,Final
+Bear Jordan,Barefoot,15,5,"08/12/2023, 12:30",Pool A,Final
 Dirty Bird,MoonPi,0,0,"08/12/2023, 14:15",Pool A,Scheduled
 Bear Jordan,Piedmont United,0,0,"08/12/2023, 14:15",Pool A,Scheduled
 Dirty Bird,Bear Jordan,0,0,"08/12/2023, 16:00",Pool A,Scheduled
@@ -541,7 +541,7 @@ Memphis STAX,Magnanimouse,4,14,"08/12/2023, 09:00",Pool B,Final
 m'kay Ultimate,Memphis STAX,12,6,"08/12/2023, 10:45",Pool B,Final
 Dizzy Kitty,Magnanimouse,9,11,"08/12/2023, 10:45",Pool B,Final
 Magnanimouse,Pickles,0,0,"08/12/2023, 12:30",Pool B,Scheduled
-Dizzy Kitty,Memphis STAX,0,0,"08/12/2023, 12:30",Pool B,Scheduled
+Dizzy Kitty,Memphis STAX,11,9,"08/12/2023, 12:30",Pool B,Final
 m'kay Ultimate,Magnanimouse,0,0,"08/12/2023, 14:15",Pool B,Scheduled
 Dizzy Kitty,Pickles,0,0,"08/12/2023, 14:15",Pool B,Scheduled
 m'kay Ultimate,Dizzy Kitty,0,0,"08/12/2023, 16:00",Pool B,Scheduled
@@ -551,8 +551,8 @@ Roma Ultima,Rampage,15,0,"08/12/2023, 09:00",Pool C,Final
 Too Much Fun,Brunch Club,12,10,"08/12/2023, 09:00",Pool C,Final
 Roma Ultima,Too Much Fun,15,10,"08/12/2023, 10:45",Pool C,Final
 Moontower,Brunch Club,8,11,"08/12/2023, 10:45",Pool C,Final
-Brunch Club,Rampage,0,0,"08/12/2023, 12:30",Pool C,Scheduled
-Moontower,Too Much Fun,0,0,"08/12/2023, 12:30",Pool C,Scheduled
+Brunch Club,Rampage,15,5,"08/12/2023, 12:30",Pool C,Final
+Moontower,Too Much Fun,8,15,"08/12/2023, 12:30",Pool C,Final
 Roma Ultima,Brunch Club,0,0,"08/12/2023, 14:15",Pool C,Scheduled
 Moontower,Rampage,0,0,"08/12/2023, 14:15",Pool C,Scheduled
 Roma Ultima,Moontower,0,0,"08/12/2023, 16:00",Pool C,Scheduled
@@ -562,7 +562,7 @@ Malice in Wonderland,Flood Zone,15,3,"08/12/2023, 09:00",Pool D,Final
 FlyTrap,Verdant,11,12,"08/12/2023, 09:00",Pool D,Final
 Malice in Wonderland,FlyTrap,13,12,"08/12/2023, 10:45",Pool D,Final
 Crown Peach,Verdant,0,0,"08/12/2023, 10:45",Pool D,Scheduled
-Verdant,Flood Zone,0,0,"08/12/2023, 12:30",Pool D,Scheduled
+Verdant,Flood Zone,14,8,"08/12/2023, 12:30",Pool D,Final
 Crown Peach,FlyTrap,0,0,"08/12/2023, 12:30",Pool D,Scheduled
 Malice in Wonderland,Verdant,0,0,"08/12/2023, 14:15",Pool D,Scheduled
 Crown Peach,Flood Zone,0,0,"08/12/2023, 14:15",Pool D,Scheduled
