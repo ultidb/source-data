@@ -352,6 +352,27 @@ coaches,Benjamin LaRoque
 63,Louie Bertoncin
 66,Ziqi Zhao
 b,r,e,a,k
+Squid Inc.,12
+teamInfo,,"Bellingham, Washington",,,
+0,Brianne Pacey
+0,Colin Bogar
+0,Emma  Mickelson
+0,Mary Nozykowski
+0,Nathan Brown
+0,Nicole Neumiller
+0,Patrick Taylor
+0,Scott Maxa
+1,Derrick Hirsch
+6,Neal Schobbe
+9,Darren Duquette
+17,Christopher Penuelas
+17,Brian Roach
+33,Margo Heffron
+73,Ruby Volker
+77,Emma Lindsay
+89,James Kozanitis
+93,Abigail Tankersley
+b,r,e,a,k
 Hive,5
 teamInfo,,"Portland, Oregon",,https://www.facebook.com/HiveUltimate,https://twitter.com/Hive_Ultimate
 0,Agnes Lee
@@ -380,27 +401,6 @@ teamInfo,,"Portland, Oregon",,https://www.facebook.com/HiveUltimate,https://twit
 32,Hal Robinson
 80,Nathan Braun
 98,Martis Artis
-b,r,e,a,k
-Squid Inc.,12
-teamInfo,,"Bellingham, Washington",,,
-0,Brianne Pacey
-0,Colin Bogar
-0,Emma  Mickelson
-0,Mary Nozykowski
-0,Nathan Brown
-0,Nicole Neumiller
-0,Patrick Taylor
-0,Scott Maxa
-1,Derrick Hirsch
-6,Neal Schobbe
-9,Darren Duquette
-17,Christopher Penuelas
-17,Brian Roach
-33,Margo Heffron
-73,Ruby Volker
-77,Emma Lindsay
-89,James Kozanitis
-93,Abigail Tankersley
 b,r,e,a,k
 Breakers Mark,16
 teamInfo,,"Portland, Oregon",,,
@@ -460,7 +460,7 @@ pool,Pool D
 Bullet Train,Squid Inc.,13,10,"08/12/2023, 10:45",Pool D,Final
 Hive,Breakers Mark,10,8,"08/12/2023, 12:30",Pool D,Final
 Bullet Train,Breakers Mark,12,7,"08/12/2023, 14:15",Pool D,Final
-Hive,Squid Inc.,13,7,"08/12/2023, 14:15",Pool D,Final
+Hive,Squid Inc.,13,7,"08/12/2023, 14:15",Pool D,Scheduled
 Bullet Train,Hive,12,5,"08/12/2023, 16:00",Pool D,Final
 Squid Inc.,Breakers Mark,9,5,"08/12/2023, 16:00",Pool D,Final
 b,r,e,a,k
@@ -472,13 +472,15 @@ Hive,Spoke,6,10,"08/13/2023, 11:20",Semifinals,Scheduled
 Grit City,Nebula,13,7,"08/13/2023, 09:40",Quarterfinals,Final
 Bullet Train,Igneous Ultimate,11,10,"08/13/2023, 09:40",Quarterfinals,Final
 American Barbecue,Hive,7,9,"08/13/2023, 09:40",Quarterfinals,Final
-Spoke,Seattle Soft Serve,9,5,"08/13/2023, 09:40",Quarterfinals,Scheduled
+Spoke,Seattle Soft Serve,9,4,"08/13/2023, 09:40",Quarterfinals,Scheduled
 Garbage,Nebula,11,12,"08/13/2023, 08:00",Prequarterfinals,Final
-Choco Ghost House,Seattle Soft Serve,4,12,"08/13/2023, 08:00",Prequarterfinals,Final
+Choco Ghost House,Seattle Soft Serve,4,12,"08/13/2023, 08:00",Prequarterfinals,Scheduled
 bracket,5th Place
+Igneous Ultimate,Seattle Soft Serve,6,8,"08/13/2023, 13:00",5th Finals,Scheduled
 Nebula,Igneous Ultimate,7,12,"08/13/2023, 11:20",5th Semifinals,Final
+American Barbecue,Seattle Soft Serve,7,9,"08/13/2023, 11:20",5th Semifinals,In Progress
 bracket,9th Place
-Choco Ghost House,Garbage,4,11,"08/13/2023, 09:40",9th Finals,Final
+Choco Ghost House,Garbage,0,0,"08/13/2023, 09:40",9th Finals,Scheduled
 bracket,7th Place
 b,r,e,a,k
 brackets,B Bracket
@@ -491,9 +493,11 @@ Stump,SkyLab,13,2,"08/13/2023, 08:00",Quarterfinals,Final
 Drip,Night Cap,13,6,"08/13/2023, 09:00",Quarterfinals,Final
 Squid Inc.,Surge,10,5,"08/13/2023, 09:00",Quarterfinals,Final
 bracket,15th Place
+Breakers Mark,Surge,0,0,"08/13/2023, 13:00",15th Finals,Scheduled
 Breakers Mark,SkyLab,13,4,"08/13/2023, 11:20",15th Semifinals,Final
 Night Cap,Surge,0,0,"08/13/2023, 11:20",15th Semifinals,In Progress
 bracket,13th Place
 Garage Sale,Drip,13,5,"08/13/2023, 13:00",13th Place Finals,Final
 bracket,17th Place
+SkyLab,Night Cap,1,0,"08/13/2023, 13:00",17th Finals,Scheduled
 b,r,e,a,k
