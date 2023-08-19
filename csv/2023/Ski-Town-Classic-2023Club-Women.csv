@@ -67,26 +67,6 @@ coaches,Aslyn Blohm
 44,Mac Daily
 77,Tess Cullaz
 b,r,e,a,k
-Seven Devils,7
-teamInfo,,"Boise, Idaho",,https://www.facebook.com/sevendevilsultimate,
-0,Caroline Gulla
-0,Cynthia Ortega
-0,Kelsey Breen
-0,Shannon Montaño
-0,Suzie Walter
-3,Morgan DeMell
-3,Amy Norris
-4,Annaleigh Bawcom
-7,Anna Liu
-13,Greta Smith
-17,Kat Urquhart
-21,Breanna Young
-24,Sarah Staller
-28,Rebekah Beacham
-69,Courtney Grubbs
-77,Amanda Porter
-88,Amanda Ritter
-b,r,e,a,k
 Wildfire,2
 teamInfo,,"San Diego, California",,https://www.facebook.com/WildfireUltimate,https://twitter.com/sd_wildfire
 0,Cassidy Morgan
@@ -113,6 +93,26 @@ teamInfo,,"San Diego, California",,https://www.facebook.com/WildfireUltimate,htt
 61,Hani Pajela
 93,Anna Sivinski
 b,r,e,a,k
+Seven Devils,7
+teamInfo,,"Boise, Idaho",,https://www.facebook.com/sevendevilsultimate,
+0,Caroline Gulla
+0,Cynthia Ortega
+0,Kelsey Breen
+0,Shannon Montaño
+0,Suzie Walter
+3,Morgan DeMell
+3,Amy Norris
+4,Annaleigh Bawcom
+7,Anna Liu
+13,Greta Smith
+17,Kat Urquhart
+21,Breanna Young
+24,Sarah Staller
+28,Rebekah Beacham
+69,Courtney Grubbs
+77,Amanda Porter
+88,Amanda Ritter
+b,r,e,a,k
 Haboob,10
 teamInfo,,"Phoenix, Arizona",,,
 0,Elleythea Smith
@@ -135,6 +135,30 @@ teamInfo,,"Phoenix, Arizona",,,
 26,Nadine Hollender
 51,Sophia Whelpley
 80,Maia Nguyen
+b,r,e,a,k
+Void Cat Rewind,6
+teamInfo,,"Sunnyvale, California",,https://www.facebook.com/VCRultimate/,https://twitter.com/VCRultimate
+01,Gina Contolini
+04,Emily Loo
+07,Molly Cluff
+08,Kathleen Johnston
+09,Tiffany Gemmell 
+11,Jade Bedley
+12,Jaycie Speck
+13,Sophey Dong
+15,Gleymi Hernandez
+17,Elena Neale-Sacks
+18,Mangpo Phothilimthana
+20,J Ishida
+21,Tien Ho
+23,"Emilie ""Shep"" Shepherd"
+26,Lucille Knowles
+50,Samantha Chen
+52,Tara Fussell
+65,Alma Sugiarto
+77,Allison Lee
+79,Rui Yang
+88,Catherinn  Campoy Mireles
 b,r,e,a,k
 Trainwreck,3
 teamInfo,,"Fort Collins, Colorado",,https://www.facebook.com/groups/791490607622995/,@FOCOTrainwreck
@@ -160,30 +184,6 @@ teamInfo,,"Fort Collins, Colorado",,https://www.facebook.com/groups/791490607622
 23,Hannah Renstrom
 27,Sutton Ballard
 51,Grace Brown
-b,r,e,a,k
-Void Cat Rewind,6
-teamInfo,,"Sunnyvale, California",,https://www.facebook.com/VCRultimate/,https://twitter.com/VCRultimate
-01,Gina Contolini
-04,Emily Loo
-07,Molly Cluff
-08,Kathleen Johnston
-09,Tiffany Gemmell 
-11,Jade Bedley
-12,Jaycie Speck
-13,Sophey Dong
-15,Gleymi Hernandez
-17,Elena Neale-Sacks
-18,Mangpo Phothilimthana
-20,J Ishida
-21,Tien Ho
-23,"Emilie ""Shep"" Shepherd"
-26,Lucille Knowles
-50,Samantha Chen
-52,Tara Fussell
-65,Alma Sugiarto
-77,Allison Lee
-79,Rui Yang
-88,Catherinn  Campoy Mireles
 b,r,e,a,k
 Swell,11
 teamInfo,,"Salt Lake City, Utah",,,
@@ -277,17 +277,25 @@ Crush City,Rampage,13,8,"08/19/2023, 12:30",Pool A,Final
 pool,Pool B
 Seven Devils,Haboob,13,1,"08/19/2023, 09:00",Pool B,Final
 Wildfire,Haboob,13,2,"08/19/2023, 10:45",Pool B,Final
-Wildfire,Seven Devils,0,0,"08/19/2023, 12:30",Pool B,Scheduled
+Wildfire,Seven Devils,11,6,"08/19/2023, 12:30",Pool B,Final
 pool,Pool C
 Void Cat Rewind,Swell,10,4,"08/19/2023, 09:00",Pool C,Final
 Trainwreck,Swell,13,3,"08/19/2023, 10:45",Pool C,Final
-Trainwreck,Void Cat Rewind,0,0,"08/19/2023, 12:30",Pool C,Scheduled
+Trainwreck,Void Cat Rewind,7,9,"08/19/2023, 12:30",Pool C,Final
 pool,Pool D
 Fiasco,Just Add Water,12,0,"08/19/2023, 09:00",Pool D,Final
 Dark Sky,Just Add Water,13,0,"08/19/2023, 10:45",Pool D,Final
 Dark Sky,Fiasco,11,7,"08/19/2023, 12:30",Pool D,Final
 b,r,e,a,k
 clusters,Crossover
+cluster,Crossover
+Rampage,Swell,0,0,"08/19/2023, 14:15",,Scheduled
+Seven Devils,Just Add Water,0,0,"08/19/2023, 14:15",,Scheduled
+Trainwreck,Seattle Soul,0,0,"08/19/2023, 14:15",,Scheduled
+Fiasco,Haboob,0,0,"08/19/2023, 14:15",,Scheduled
+cluster,Pool Winner Crossover
+Crush City,Void Cat Rewind,0,0,"08/19/2023, 14:15",,Scheduled
+Wildfire,Dark Sky,0,0,"08/19/2023, 14:15",,Scheduled
 b,r,e,a,k
 brackets,Championship 
 bracket,Finals
