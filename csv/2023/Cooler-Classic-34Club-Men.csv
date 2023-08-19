@@ -31,34 +31,6 @@ coaches,Joseph Barzilai
 88,Evan Dobson
 98,Drake Hill
 b,r,e,a,k
-Haymaker,8
-teamInfo,,"Chicago, Illinois",https://www.chicagohaymaker.com,,
-1,Isaac Degenhart
-2,Alex Zheng
-3,Dean Gottlieb
-4,Bradley Bolliger
-5,Joel Willison
-6,Gordon Peterson
-7,Torsten Johnson
-9,Elliot Shin
-11,Christopher Asta
-12,Seho Young
-12,Rodrigo Arcibar
-13,JT Kirages
-14,Constantine Stake
-15,Benjamin Putano
-17,Owen  Wright
-18,Stephen Liu
-22,Andrew Kindseth
-24,Ezra Rich
-27,Owen Schleif
-41,Aidan O'Neill
-42,Logan Lambright
-43,Kyle Bayes
-69,Filip Wilk
-71,Matt Gubernick
-94,Ryan Morris
-b,r,e,a,k
 DeMo,5
 teamInfo,,"Des Moines, Iowa",,,https://twitter.com/demoultimate
 0,Ben Ransom
@@ -87,6 +59,34 @@ teamInfo,,"Des Moines, Iowa",,,https://twitter.com/demoultimate
 62,Justin  Hua
 69,Jacob Thomae
 71,Dayton Wright
+b,r,e,a,k
+Haymaker,8
+teamInfo,,"Chicago, Illinois",https://www.chicagohaymaker.com,,
+1,Isaac Degenhart
+2,Alex Zheng
+3,Dean Gottlieb
+4,Bradley Bolliger
+5,Joel Willison
+6,Gordon Peterson
+7,Torsten Johnson
+9,Elliot Shin
+11,Christopher Asta
+12,Seho Young
+12,Rodrigo Arcibar
+13,JT Kirages
+14,Constantine Stake
+15,Benjamin Putano
+17,Owen  Wright
+18,Stephen Liu
+22,Andrew Kindseth
+24,Ezra Rich
+27,Owen Schleif
+41,Aidan O'Neill
+42,Logan Lambright
+43,Kyle Bayes
+69,Filip Wilk
+71,Matt Gubernick
+94,Ryan Morris
 b,r,e,a,k
 Beacon,4
 teamInfo,,"Grand Rapids, Michigan",,,https://twitter.com/BeaconUlti
@@ -611,17 +611,17 @@ pools,Pool Play
 pool,Pool A
 Beacon,Haymaker,12,13,"08/19/2023, 09:00",Pool A,Final
 STL Lounar,DeMo,13,10,"08/19/2023, 10:45",Pool A,Final
-STL Lounar,Haymaker,0,0,"08/19/2023, 12:30",Pool A,Scheduled
+STL Lounar,Haymaker,10,7,"08/19/2023, 12:30",Pool A,Final
 Beacon,DeMo,10,12,"08/19/2023, 12:30",Pool A,Final
 STL Lounar,Beacon,0,0,"08/19/2023, 14:15",Pool A,Scheduled
-DeMo,Haymaker,0,0,"08/19/2023, 14:15",Pool A,Scheduled
+DeMo,Haymaker,12,8,"08/19/2023, 14:15",Pool A,Final
 pool,Pool B
 Kansas City Smokestack,HouSE,13,5,"08/19/2023, 09:00",Pool B,Final
 Mallard,Bux,13,10,"08/19/2023, 09:00",Pool B,Final
 Kansas City Smokestack,Bux,9,6,"08/19/2023, 10:45",Pool B,Final
 Mallard,HouSE,13,8,"08/19/2023, 10:45",Pool B,Final
 Kansas City Smokestack,Mallard,9,13,"08/19/2023, 12:30",Pool B,Final
-HouSE,Bux,0,0,"08/19/2023, 14:15",Pool B,Scheduled
+HouSE,Bux,10,11,"08/19/2023, 14:15",Pool B,Final
 pool,Pool C
 MKE,DCVIII,13,6,"08/19/2023, 09:00",Pool C,Final
 Timber,Loaded Panda,13,12,"08/19/2023, 09:00",Pool C,Final
@@ -645,14 +645,15 @@ NOMAD,Nomads,0,0,"08/19/2023, 14:15",Pool E,Scheduled
 Minnesota Superior B,Middleton High School,13,4,"08/19/2023, 14:15",Pool E,Final
 pool,Pool F
 NOx,STL Moonar,7,9,"08/19/2023, 09:00",Pool F,Final
-Choice City Hops,THE BODY,13,12,"08/19/2023, 09:00",Pool F,Scheduled
+Choice City Hops,THE BODY,13,12,"08/19/2023, 09:00",Pool F,Final
 NOx,THE BODY,13,4,"08/19/2023, 10:45",Pool F,Final
-Choice City Hops,STL Moonar,10,13,"08/19/2023, 10:45",Pool F,Scheduled
+Choice City Hops,STL Moonar,10,13,"08/19/2023, 10:45",Pool F,Final
 NOx,Choice City Hops,13,9,"08/19/2023, 12:30",Pool F,Final
 STL Moonar,THE BODY,0,0,"08/19/2023, 14:15",Pool F,Scheduled
 b,r,e,a,k
 brackets,Gold Bracket
 bracket,Gold 1st
+HouSE,Trident II,0,0,"08/19/2023, 16:00",1st Pre-Quarters,Scheduled
 bracket,Gold 3rd
 bracket,Gold 5th
 bracket,Gold 7th
