@@ -108,21 +108,6 @@ teamInfo,,"Lexington, Kentucky",,,https://twitter.com/blacklungulti?lang=en
 55,John Blair
 72,Jake Montgomery
 b,r,e,a,k
-8-Bit Defenders,11
-teamInfo,,"Indianapolis, Indiana",https://www.8bitdefenders.club,https://www.facebook.com/8bitdefenders8,
-0,Andrew Schmidt
-0,Jacob Williams
-0,Nick Townsend
-0,Vincent Hammer
-0,Will Cromer
-2,Trey Johnson
-14,Andrew McNally
-17,Collin Emmert
-33,Dana Granholm
-44,Nathan Hutchens
-66,Collin Koury
-69,Terry Gaither
-b,r,e,a,k
 Pittsburgh Stealers,5
 teamInfo,,"Pittsburgh, Pennsylvania",,,@stealerspitt
 0,Adam Assaad
@@ -149,6 +134,21 @@ teamInfo,,"Pittsburgh, Pennsylvania",,,@stealerspitt
 69,Christopher Chang
 75,Luke Gochis
 88,Matt Reynolds
+b,r,e,a,k
+8-Bit Defenders,11
+teamInfo,,"Indianapolis, Indiana",https://www.8bitdefenders.club,https://www.facebook.com/8bitdefenders8,
+0,Andrew Schmidt
+0,Jacob Williams
+0,Nick Townsend
+0,Vincent Hammer
+0,Will Cromer
+2,Trey Johnson
+14,Andrew McNally
+17,Collin Emmert
+33,Dana Granholm
+44,Nathan Hutchens
+66,Collin Koury
+69,Terry Gaither
 b,r,e,a,k
 Enigma,8
 teamInfo,,"Dayton, Ohio",,https://www.facebook.com/pages/Enigma/112703698822469?ref=hl,
@@ -198,6 +198,29 @@ teamInfo,,"Columbus, Ohio",,,
 93,Peter Zhang
 98,Brian Griffiths
 b,r,e,a,k
+Chimney,4
+teamInfo,,"Cleveland, Ohio",,,
+0,Aidan Stevens
+0,Alex Warrington
+0,Barry McCoy
+0,Dmitriy Estrin
+0,Gabe Dombroski
+0,Jacob Rollins
+0,Jarrell Imamura
+0,Josh Shamburger
+0,Kevin Nicholl
+0,Nathaniel Poshkus
+0,Ryan Coneway
+0,Sean Newell
+0,Tristan Greiner
+2,Malachi Marshall
+6,Jacob Warmath
+13,Benjamin March
+21,Ben Alexander
+22,TJ Kalvas
+61,Derek Lin
+77,Will Oltjen 
+b,r,e,a,k
 Mischief,10
 teamInfo,,"Livonia, Michigan",,,
 0,Alexander Waterhouse
@@ -222,29 +245,6 @@ teamInfo,,"Livonia, Michigan",,,
 36,Brian Bloom
 68,Gerald Chizmadia
 83,Andrew Curtin
-b,r,e,a,k
-Chimney,4
-teamInfo,,"Cleveland, Ohio",,,
-0,Aidan Stevens
-0,Alex Warrington
-0,Barry McCoy
-0,Dmitriy Estrin
-0,Gabe Dombroski
-0,Jacob Rollins
-0,Jarrell Imamura
-0,Josh Shamburger
-0,Kevin Nicholl
-0,Nathaniel Poshkus
-0,Ryan Coneway
-0,Sean Newell
-0,Tristan Greiner
-2,Malachi Marshall
-6,Jacob Warmath
-13,Benjamin March
-21,Ben Alexander
-22,TJ Kalvas
-61,Derek Lin
-77,Will Oltjen 
 b,r,e,a,k
 Hazard,7
 teamInfo,,"Pittsburgh, Pennsylvania",https://www.instagram.com/hazard_pgh,,https://twitter.com/HazzyUltimate
@@ -273,34 +273,51 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool A
 pool,Pool A
-Diesel,Scoop,0,0,"08/19/2023, 09:00",Pool A,Scheduled
-I-69,Scoop,0,0,"08/19/2023, 10:30",Pool A,Scheduled
-I-69,Diesel,0,0,"08/19/2023, 12:00",Pool A,Scheduled
+Diesel,Scoop,13,0,"08/19/2023, 09:00",Pool A,Final
+I-69,Scoop,13,1,"08/19/2023, 10:30",Pool A,Final
+I-69,Diesel,11,6,"08/19/2023, 12:00",Pool A,Final
 b,r,e,a,k
 brackets,Pool B
 bracket,Pool B
-Black Lung,8-Bit Defenders,0,0,"08/19/2023, 09:00",Opening,Scheduled
-Pittsburgh Stealers,Enigma,0,0,"08/19/2023, 09:00",Opening,Scheduled
+Black Lung,Pittsburgh Stealers,12,9,"08/19/2023, 10:30",Pool B Champ,Final
+Black Lung,8-Bit Defenders,13,4,"08/19/2023, 09:00",Opening,Final
+Pittsburgh Stealers,Enigma,13,6,"08/19/2023, 09:00",Opening,Final
 bracket,Pool B 3rd
+8-Bit Defenders,Enigma,9,13,"08/19/2023, 10:30",Pool B 3rd,Final
 b,r,e,a,k
 brackets,Pool C
 bracket,Pool C
-Flying Dutchmen,Mischief,0,0,"08/19/2023, 09:00",Opening,Scheduled
-Chimney,Hazard,0,0,"08/19/2023, 09:00",Opening,Scheduled
+Flying Dutchmen,Chimney,13,4,"08/19/2023, 10:30",Pool C Champ,Final
+Flying Dutchmen,Mischief,13,6,"08/19/2023, 09:00",Opening,Final
+Chimney,Hazard,13,5,"08/19/2023, 09:00",Opening,Final
 bracket,Pool C 3rd
+Mischief,Hazard,7,12,"08/19/2023, 10:30",Pool C 3rd,Final
 b,r,e,a,k
 pools,Pool Champs Crossover
 pool, 
+Black Lung,Flying Dutchmen,5,13,"08/19/2023, 12:00", ,Final
+I-69,Flying Dutchmen,12,10,"08/19/2023, 13:30", ,Final
+I-69,Black Lung,0,0,"08/19/2023, 15:00", ,Scheduled
 b,r,e,a,k
 clusters,Bracket Play-In & 4th Place Crossover
+cluster,Bracket Play-In
+Enigma,Chimney,8,13,"08/19/2023, 13:30",,Final
+Hazard,Pittsburgh Stealers,7,12,"08/19/2023, 13:30",,Final
+cluster,4th Place Crossover
+8-Bit Defenders,Mischief,9,8,"08/19/2023, 13:30",,Final
 b,r,e,a,k
 clusters,Elimination Crossover
+cluster,Elimination Crossover
+Enigma,8-Bit Defenders,0,0,"08/19/2023, 15:00",,Scheduled
+Diesel,Mischief,0,0,"08/19/2023, 15:00",,Scheduled
+Hazard,Scoop,0,0,"08/19/2023, 15:00",,Scheduled
 b,r,e,a,k
 pools,Consolation
 pool,Pool C
 b,r,e,a,k
 brackets,Bracket
 bracket,Championship
+Chimney,Pittsburgh Stealers,0,0,"08/20/2023, 09:00",Quarters,Scheduled
 bracket,3rd
 bracket,5th
 bracket,7th
