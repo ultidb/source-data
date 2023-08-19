@@ -289,7 +289,7 @@ Dark Sky,Fiasco,11,7,"08/19/2023, 12:30",Pool D,Final
 b,r,e,a,k
 clusters,Crossover
 cluster,Crossover
-Rampage,Swell,12,7,"08/19/2023, 14:15",,Scheduled
+Rampage,Swell,12,7,"08/19/2023, 14:15",,Final
 Seven Devils,Just Add Water,13,2,"08/19/2023, 14:15",,Final
 Trainwreck,Seattle Soul,13,5,"08/19/2023, 14:15",,Final
 Fiasco,Haboob,8,5,"08/19/2023, 14:15",,Final
@@ -300,6 +300,7 @@ b,r,e,a,k
 brackets,Championship 
 bracket,Finals
 Crush City,Fiasco,0,0,"08/20/2023, 09:00",Quarters,Scheduled
+Dark Sky,Rampage,0,0,"08/20/2023, 09:00",Quarters,Scheduled
 Wildfire,Trainwreck,0,0,"08/20/2023, 09:00",Quarters,Scheduled
 Void Cat Rewind,Seven Devils,0,0,"08/20/2023, 09:00",Quarters,Scheduled
 bracket,3rd
@@ -308,7 +309,10 @@ bracket,Seventh
 b,r,e,a,k
 clusters,Consolation
 cluster,Consolation
-Just Add Water,Haboob,0,0,"08/20/2023, 09:00",,Cancelled
-Just Add Water,Seattle Soul,0,0,"08/20/2023, 10:45",,Cancelled
-Seattle Soul,Haboob,0,0,"08/20/2023, 12:30",,Cancelled
+Swell,Seattle Soul,0,0,"08/20/2023, 09:00",,Scheduled
+Just Add Water,Haboob,0,0,"08/20/2023, 09:00",,Scheduled
+Swell,Haboob,0,0,"08/20/2023, 10:45",,Scheduled
+Just Add Water,Seattle Soul,0,0,"08/20/2023, 10:45",,Scheduled
+Swell,Just Add Water,0,0,"08/20/2023, 12:30",,Scheduled
+Seattle Soul,Haboob,0,0,"08/20/2023, 12:30",,Scheduled
 b,r,e,a,k
