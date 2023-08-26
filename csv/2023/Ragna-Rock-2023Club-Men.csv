@@ -131,31 +131,6 @@ teamInfo,,"Atlanta, Georgia",,,https://twitter.com/atlantaarson
 66,Jaylon Boone
 69,John Broling
 b,r,e,a,k
-Memphis Pharaohs,5
-teamInfo,,"Memphis, Tennessee",,,
-0,Collin Foster
-0,Cordarius Miller
-0,Dalton Bolgeo
-0,Eli Justice
-0,Gabriel Vacaliuc
-0,Grant Houston
-0,Julian McMillian
-0,Justin Gallagher
-0,Legend Whiteside
-0,Noah Carpenter
-0,Andrew Ohrberg
-0,Carlos Yatar
-0,Ryan Hof
-0,Samuel Yuan
-0,Tyler Cook
-0,Venice Fan
-0,Vivesh Patel
-1,Cesar Gutierrez
-3,Andre Johnson
-7,Peyton Raggio
-11,Samuel Zhou
-87,Noah Windham
-b,r,e,a,k
 Rawhide,7
 teamInfo,,"Tulsa, Oklahoma",,,
 0,Benjamin Howard
@@ -180,6 +155,31 @@ teamInfo,,"Tulsa, Oklahoma",,,
 33,Marcus Smith
 51,John Athens
 55,Matthew Crone
+b,r,e,a,k
+Memphis Pharaohs,5
+teamInfo,,"Memphis, Tennessee",,,
+0,Collin Foster
+0,Cordarius Miller
+0,Dalton Bolgeo
+0,Eli Justice
+0,Gabriel Vacaliuc
+0,Grant Houston
+0,Julian McMillian
+0,Justin Gallagher
+0,Legend Whiteside
+0,Noah Carpenter
+0,Andrew Ohrberg
+0,Carlos Yatar
+0,Ryan Hof
+0,Samuel Yuan
+0,Tyler Cook
+0,Venice Fan
+0,Vivesh Patel
+1,Cesar Gutierrez
+3,Andre Johnson
+7,Peyton Raggio
+11,Samuel Zhou
+87,Noah Windham
 b,r,e,a,k
 BARNSTORM,3
 teamInfo,,"Oklahoma City, Oklahoma",,,
@@ -257,8 +257,8 @@ Dreadnought,Arkansas,0,0,"08/26/2023, 12:30",Pool A,Scheduled
 Second Nature,Dreadnought,0,0,"08/26/2023, 14:00",Pool A,Scheduled
 Meadowlark,Arkansas,0,0,"08/26/2023, 14:00",Pool A,Scheduled
 pool,Pool B
-Memphis Pharaohs,Rawhide,6,13,"08/26/2023, 08:00",Pool B,Scheduled
-Atlanta Arson,Rawhide,0,0,"08/26/2023, 10:00",Pool B,Scheduled
+Memphis Pharaohs,Rawhide,6,13,"08/26/2023, 08:00",Pool B,Final
+Atlanta Arson,Rawhide,10,6,"08/26/2023, 10:00",Pool B,Final
 Atlanta Arson,Memphis Pharaohs,0,0,"08/26/2023, 12:00",Pool B,Scheduled
 pool,Pool C
 Scythe,Grit,0,0,"08/26/2023, 08:00",Pool C,Scheduled
@@ -269,7 +269,7 @@ clusters,Saturday Crossover (B & C Only)
 cluster,Crossover Games
 Atlanta Arson,BARNSTORM,0,0,"08/26/2023, 08:00",,Scheduled
 Memphis Pharaohs,Scythe,0,0,"08/26/2023, 10:00",,Scheduled
-Rawhide,Grit,0,0,"08/26/2023, 12:00",,Scheduled
+Rawhide,Grit,13,11,"08/26/2023, 12:00",,Final
 b,r,e,a,k
 brackets,Sunday Bracket
 bracket,Championship Bracket
