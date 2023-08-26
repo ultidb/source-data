@@ -94,6 +94,31 @@ teamInfo,,"Seattle, Washington",,,
 59,Michael Makar
 77,Camille Beasley
 b,r,e,a,k
+Garage Sale,5
+teamInfo,,"Eugene, Oregon",,,
+0,Bao Pham
+0,Emma Bartlett
+0,Eric Rosenfeld
+0,Isabelle  Bartter
+0,Brielle Ramsdal
+0,Caitlin Winterbottom
+0,Kimber Muth
+0,Myisha Tarvin
+0,Noah Martin
+0,Takisha Tarvin
+0,Zach Starr
+1,Paul Kempler
+1,Ravi Cullop
+6,Justin Carter
+10,Eli Donohue
+14,Bendeguz Pigniczky
+18,Jackson Riley
+18,Jackson Riley
+23,Archer Gordon
+26,Arianna Munro
+34,Max Spiegel
+42,Theo Schaid Hefley
+b,r,e,a,k
 Hive,2
 teamInfo,,"Portland, Oregon",,https://www.facebook.com/HiveUltimate,https://twitter.com/Hive_Ultimate
 0,Agnes Lee
@@ -120,52 +145,6 @@ teamInfo,,"Portland, Oregon",,https://www.facebook.com/HiveUltimate,https://twit
 32,Hal Robinson
 80,Nathan Braun
 b,r,e,a,k
-VU,4
-teamInfo,,"San Francisco, California",https://www.vampireultimate.com/,https://www.facebook.com/VampireUltimate/,
-0,Abigail Henderson
-0,Adam Berman
-0,Amberly Malone
-0,Deborah Park
-0,Ian Brown
-0,Jake Wellins
-0,Jung-Won Ha
-0,Katherine Campbell
-0,Scott McMahon
-3,Aldyn Markle
-12,William Baskin
-13,Anne Chamberlain
-15,Sophie Nadler
-21,Amy Sullivan
-22,Tristan You
-29,Nicholas Guo
-31,Samantha Hirsch
-88,Anthony McCahill
-b,r,e,a,k
-Garage Sale,5
-teamInfo,,"Eugene, Oregon",,,
-0,Bao Pham
-0,Emma Bartlett
-0,Eric Rosenfeld
-0,Isabelle  Bartter
-0,Brielle Ramsdal
-0,Caitlin Winterbottom
-0,Kimber Muth
-0,Myisha Tarvin
-0,Noah Martin
-0,Takisha Tarvin
-0,Zach Starr
-1,Paul Kempler
-1,Ravi Cullop
-6,Justin Carter
-10,Eli Donohue
-14,Bendeguz Pigniczky
-18,Jackson Riley
-18,Jackson Riley
-23,Archer Gordon
-26,Arianna Munro
-34,Max Spiegel
-42,Theo Schaid Hefley
-b,r,e,a,k
 Fable,7
 teamInfo,,"Vancouver, British Columbia CA",,https://www.facebook.com/fableultimate,https://twitter.com/FableUltimate
 0,Allan Zacca
@@ -189,6 +168,27 @@ teamInfo,,"Vancouver, British Columbia CA",,https://www.facebook.com/fableultima
 0,Victor Tran
 0,Yuanyaun Yang
 b,r,e,a,k
+VU,4
+teamInfo,,"San Francisco, California",https://www.vampireultimate.com/,https://www.facebook.com/VampireUltimate/,
+0,Abigail Henderson
+0,Adam Berman
+0,Amberly Malone
+0,Deborah Park
+0,Ian Brown
+0,Jake Wellins
+0,Jung-Won Ha
+0,Katherine Campbell
+0,Scott McMahon
+3,Aldyn Markle
+12,William Baskin
+13,Anne Chamberlain
+15,Sophie Nadler
+21,Amy Sullivan
+22,Tristan You
+29,Nicholas Guo
+31,Samantha Hirsch
+88,Anthony McCahill
+b,r,e,a,k
 s,t,a,g,e,s
 clusters,Crossover Round
 b,r,e,a,k
@@ -204,13 +204,13 @@ Seattle Soft Serve,Mola Mola,13,5,"08/26/2023, 09:00",Pool A,Final
 Squid Inc.,BOP,11,10,"08/26/2023, 09:00",Pool A,Final
 Seattle Soft Serve,BOP,14,5,"08/26/2023, 11:00",Pool A,Final
 Squid Inc.,Mola Mola,15,3,"08/26/2023, 11:00",Pool A,Scheduled
-Seattle Soft Serve,Squid Inc.,0,0,"08/26/2023, 13:30",Pool A,Scheduled
-Mola Mola,BOP,0,0,"08/26/2023, 13:30",Pool A,Scheduled
+Seattle Soft Serve,Squid Inc.,11,7,"08/26/2023, 13:30",Pool A,Final
+Mola Mola,BOP,13,11,"08/26/2023, 13:30",Pool A,Scheduled
 pool,Pool B
-Hive,Garage Sale,11,12,"08/26/2023, 09:00",Pool B,Scheduled
-VU,Fable,10,13,"08/26/2023, 09:00",Pool B,Scheduled
-Hive,Fable,15,5,"08/26/2023, 11:00",Pool B,Scheduled
+Hive,Garage Sale,11,12,"08/26/2023, 09:00",Pool B,Final
+VU,Fable,10,13,"08/26/2023, 09:00",Pool B,Final
+Hive,Fable,15,5,"08/26/2023, 11:00",Pool B,Final
 VU,Garage Sale,6,15,"08/26/2023, 11:00",Pool B,Scheduled
-Hive,VU,0,0,"08/26/2023, 13:30",Pool B,Scheduled
+Hive,VU,14,4,"08/26/2023, 13:30",Pool B,Scheduled
 Garage Sale,Fable,0,0,"08/26/2023, 13:30",Pool B,Scheduled
 b,r,e,a,k
