@@ -19,7 +19,7 @@ load_dotenv(override=True)
 COMMIT_AND_PUSH = os.getenv("COMMIT_AND_PUSH") == "True"
 POST_TO_API = os.getenv("POST_TO_API") == "True"
 LOAD_CALENDAR_ON_START = os.getenv("LOAD_CAL_ON_START") == "True"
-API_URL = os.getenv("API_URL")
+RECEIVER_URL = os.getenv("RECEIVER_URL")
 HOST = os.getenv("HOST")
 year = str(date.today().year) 
 
@@ -117,7 +117,6 @@ def scrapeAndPushVideos():
 
 def commitAndPushVideos():
     csvs = listUpdatedVideos()
-    print(COMMIT_AND_PUSH, POST_TO_API)
     if len(csvs) > 0:
         if COMMIT_AND_PUSH:
             commitToGit('video/csv')
@@ -163,7 +162,7 @@ def postUpdatedCsvsToReceiver(csvs, UpdatePlayers=True, checkExisting=True, DryR
     payload = { "paths": csvs, "updatePlayers": UpdatePlayers, "checkExisting": checkExisting, "dryRun": DryRun }
     log.info(f"posting {len(csvs)} csvs to receiver")
     try:
-        r = requests.post(API_URL, data=json.dumps(payload), headers={'Content-Type': 'application/json'})
+        r = requests.post(RECEIVER_URL+'/v1/ingest', data=json.dumps(payload), headers={'Content-Type': 'application/json'})
         if r.status_code != 204:
             log.error(f"receiver returned {r.status_code} with message: {r.text}")
             db.updateFailedCSVs(csvs)
