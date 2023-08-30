@@ -9,6 +9,7 @@ from scrape import scrapeListOfTournamentUrls, Config
 import logging as log
 import requests, os
 from dotenv import load_dotenv
+from video.video import scrapeVideos
 import db
 
 ongoingTournaments = []
@@ -109,32 +110,53 @@ def scrapeRecentlyEndedTournaments():
     scrapeListOfTournamentUrls(config, recentlyEndedTournaments)
     commitAndPush()
 
+def scrapeAndPushVideos():
+    scrapeVideos()
+    commitAndPushVideos()
+
+
+def commitAndPushVideos():
+    csvs = listUpdatedVideos()
+    print(COMMIT_AND_PUSH, POST_TO_API)
+    if len(csvs) > 0:
+        if COMMIT_AND_PUSH:
+            commitToGit('video/csv')
+        if POST_TO_API:
+            postUpdatedCsvsToReceiver(csvs)
+
 def commitAndPush(isOngoing=False):
     csvs = listUpdatedCsvs()
     if len(csvs) > 0:
         if COMMIT_AND_PUSH:
-            commitToGit()
+            commitToGit('csv')
         if POST_TO_API:
             if isOngoing:
                 postUpdatedCsvsToReceiver(csvs, False, True, False)
             else:
                 postUpdatedCsvsToReceiver(csvs) 
 
-def commitToGit():
+def commitToGit(directory):
     subprocess.run(["git", "checkout", "live"])
-    subprocess.run(["git", "add", "csv"])
+    subprocess.run(["git", "add", directory])
     message = f"Scraper run: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
     subprocess.run(["git", "commit", "-m", message])
     subprocess.run(["git", "push", "origin", "live"])
 
 def listUpdatedCsvs():
+    return listUpdatedFiles('csv/')
+
+def listUpdatedVideos():
+    return listUpdatedFiles('video/csv/')
+
+def listUpdatedFiles(path):
     proc = subprocess.run(['git', 'status', '-s'], capture_output=True)
     status = proc.stdout.decode('utf-8')
     output = []
     for line in status.split('\n'):
         items = line.strip().split(' ')
-        if len(items) > 1 and not items[1].endswith('_calendar.csv') and items[1].startswith('csv/'):
-            output.append(items[1])
+        filename = items[-1]
+        if len(items) > 1 and not filename.endswith('_calendar.csv') and filename.startswith(path):
+            output.append(filename)
     return output
 
 def postUpdatedCsvsToReceiver(csvs, UpdatePlayers=True, checkExisting=True, DryRun=False):
@@ -161,6 +183,7 @@ def setupSchedule():
     scheduler.add_job(func=scrapeOngoingTournaments, trigger="interval", minutes=10)
     scheduler.add_job(func=scrapeUpcomingTournaments, trigger="interval", hours=12)
     scheduler.add_job(func=scrapeRecentlyEndedTournaments, trigger="interval", hours=4)
+    scheduler.add_job(func=scrapeAndPushVideos, trigger="interval", hours=12)
     scheduler.start()
     scheduler.print_jobs()
 
@@ -198,7 +221,7 @@ def add_cors_header(response):
 if __name__ == "__main__":
     # Setup default config (init schedule, tor, and scrape calendar for year)
     prodSetup()
-
+    # scrapeAndPushVideos() 
     # Optional calls for testing/development
     # setupTor()
     # setupSchedule()
