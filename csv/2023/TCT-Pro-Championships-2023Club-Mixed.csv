@@ -29,6 +29,35 @@ coaches,Patrick Sherlock,Andrea Desabato
 88,Paul Owens
 99,Eric Nardelli
 b,r,e,a,k
+NOISE,5
+teamInfo,,"Madison, Wisconsin",http://noiseultimate.wordpress.com/,,www.twitter.com/NOISEUltimate
+0,Donna Johnston
+02,Tyler Williams
+03,Kelsen Alexander
+05,Rose Glinka
+07,Vanessa Cannaday
+10,Tom Annen
+12,Sydney French
+16,Allison Chmaj
+17,Anneke Vermaak
+19,Emily Cohen
+21,Marin Cohan
+27,Nasser Mbae Vogel
+30,Jeffrey Rehm
+32,Daniel Garlock
+33,Katy Stanton
+34,Ben Parrell
+42,Ashley Welsh
+43,Kevin Cannaday
+49,Robyn Fennig
+51,Matthew Grinde
+75,Jake Rubin-Miller
+77,Jack Kelly
+87,Austin Prucha
+91,Sadie Reding
+94,Pieran Robert
+99,Caitlin Murphy
+b,r,e,a,k
 Hybrid,7
 teamInfo,,"Ann Arbor, Michigan",,https://www.facebook.com/HybridUltimate/,https://twitter.com/HybridUltimate
 02,Maketa Mattimore
@@ -87,35 +116,6 @@ coaches,Marshall Goff,Courtney Verhaalen
 82,Edward Tu
 83,Lucas Lytel
 89,Emma Palacio
-b,r,e,a,k
-NOISE,5
-teamInfo,,"Madison, Wisconsin",http://noiseultimate.wordpress.com/,,www.twitter.com/NOISEUltimate
-0,Donna Johnston
-02,Tyler Williams
-03,Kelsen Alexander
-05,Rose Glinka
-07,Vanessa Cannaday
-10,Tom Annen
-12,Sydney French
-16,Allison Chmaj
-17,Anneke Vermaak
-19,Emily Cohen
-21,Marin Cohan
-27,Nasser Mbae Vogel
-30,Jeffrey Rehm
-32,Daniel Garlock
-33,Katy Stanton
-34,Ben Parrell
-42,Ashley Welsh
-43,Kevin Cannaday
-49,Robyn Fennig
-51,Matthew Grinde
-75,Jake Rubin-Miller
-77,Jack Kelly
-87,Austin Prucha
-91,Sadie Reding
-94,Pieran Robert
-99,Caitlin Murphy
 b,r,e,a,k
 Toro,9
 teamInfo,,"Durham, North Carolina",,https://www.facebook.com/ToroUltimate/,https://twitter.com/ToroUltimate
@@ -301,8 +301,8 @@ AMP,NOISE,15,9,"09/02/2023, 11:15",Pool A,Final
 Hybrid,Toro,14,13,"09/02/2023, 11:15",Pool A,Final
 AMP,Hybrid,15,9,"09/02/2023, 13:30",Pool A,Final
 Slow,Toro,13,12,"09/02/2023, 13:30",Pool A,Final
-NOISE,Hybrid,15,6,"09/02/2023, 15:45",Pool A,In Progress
-AMP,Slow,10,6,"09/02/2023, 15:45",Pool A,In Progress
+NOISE,Hybrid,15,6,"09/02/2023, 15:45",Pool A,Final
+AMP,Slow,10,7,"09/02/2023, 15:45",Pool A,In Progress
 AMP,Toro,0,0,"09/03/2023, 08:00",Pool A,Scheduled
 Slow,NOISE,0,0,"09/03/2023, 08:00",Pool A,Scheduled
 pool,Pool B
@@ -313,7 +313,7 @@ Love Tractor,Drag'n Thrust,8,15,"09/02/2023, 11:15",Pool B,Final
 BFG,Love Tractor,10,11,"09/02/2023, 13:30",Pool B,Final
 XIST,Drag'n Thrust,14,10,"09/02/2023, 13:30",Pool B,Final
 Polar Bears,Love Tractor,15,6,"09/02/2023, 15:45",Pool B,Final
-BFG,XIST,12,8,"09/02/2023, 15:45",Pool B,In Progress
+BFG,XIST,13,9,"09/02/2023, 15:45",Pool B,In Progress
 BFG,Drag'n Thrust,0,0,"09/03/2023, 08:00",Pool B,Scheduled
 XIST,Polar Bears,0,0,"09/03/2023, 08:00",Pool B,Scheduled
 b,r,e,a,k
