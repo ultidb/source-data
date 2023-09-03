@@ -57,6 +57,7 @@ def scrapeVideos():
             print(f'Unknown video source platform for {source["source"]}: {source["platform"]}')
         if len(results):
             filename = f'video/csv/{source["id"]}.csv'
+            print(f"scraping {source['platform']}, {source['name']}")
             with open(filename, 'w') as f:
                 f.write(csvHeaderLine)
                 for result in results:
