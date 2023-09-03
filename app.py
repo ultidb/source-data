@@ -162,7 +162,7 @@ def postUpdatedCsvsToReceiver(csvs, UpdatePlayers=True, checkExisting=True, DryR
     payload = { "paths": csvs, "updatePlayers": UpdatePlayers, "checkExisting": checkExisting, "dryRun": DryRun }
     log.info(f"posting {len(csvs)} csvs to receiver")
     try:
-        r = requests.post(RECEIVER_URL+'/v1/ingest', data=json.dumps(payload), headers={'Content-Type': 'application/json'})
+        r = requests.post(RECEIVER_URL+'/ingest', data=json.dumps(payload), headers={'Content-Type': 'application/json'})
         if r.status_code != 204:
             log.error(f"receiver returned {r.status_code} with message: {r.text}")
             db.updateFailedCSVs(csvs)
