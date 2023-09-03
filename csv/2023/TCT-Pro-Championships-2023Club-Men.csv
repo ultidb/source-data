@@ -30,35 +30,6 @@ coaches,Molica Anderson,Adrian King
 93,Tom Doi
 94,Adam Rees
 b,r,e,a,k
-Chain Lightning,5
-teamInfo,,"Atlanta, Georgia",,https://www.facebook.com/pages/Chain-Lightning-Ultimate/188026257831,https://twitter.com/ATLchain
-coaches,Miranda Knowles
-0,Liam Haberfield
-2,Hunter Taylor
-03,Patrick Earles
-04,Jeremy Langdon
-05,Michael Fairley
-06,Brett Hulsmeyer
-07,Parker Bray
-08,Lukas McClamrock
-09,Kennith Taylor
-10,Max Thorne
-11,Tyler Randall
-13,Adam Grossberg
-14,John Stubbs
-16,Edward Ramsey
-17,Hayden Austin-Knab
-18,Adam Miller
-19,Tannon Hedges
-20,Scott Whitley
-21,Coleman Tappero
-22,Tanner Robinson
-26,Christian Gaeta
-36,Nick Spiva
-42,Francisco Fernandez
-44,Mike Kobyra
-66,Jan Schmidt
-b,r,e,a,k
 PoNY,1
 teamInfo,,"New York, New York",,https://www.facebook.com/ponyultimate,https://twitter.com/PrideofNY
 coaches,Cody Mills,Ben Van Heuvelen,Justin Pierce,Bryan Jones
@@ -88,6 +59,35 @@ coaches,Cody Mills,Ben Van Heuvelen,Justin Pierce,Bryan Jones
 81,Sean Mott
 82,Marques Brownlee
 87,Jeffrey Babbitt
+b,r,e,a,k
+Chain Lightning,5
+teamInfo,,"Atlanta, Georgia",,https://www.facebook.com/pages/Chain-Lightning-Ultimate/188026257831,https://twitter.com/ATLchain
+coaches,Miranda Knowles
+0,Liam Haberfield
+2,Hunter Taylor
+03,Patrick Earles
+04,Jeremy Langdon
+05,Michael Fairley
+06,Brett Hulsmeyer
+07,Parker Bray
+08,Lukas McClamrock
+09,Kennith Taylor
+10,Max Thorne
+11,Tyler Randall
+13,Adam Grossberg
+14,John Stubbs
+16,Edward Ramsey
+17,Hayden Austin-Knab
+18,Adam Miller
+19,Tannon Hedges
+20,Scott Whitley
+21,Coleman Tappero
+22,Tanner Robinson
+26,Christian Gaeta
+36,Nick Spiva
+42,Francisco Fernandez
+44,Mike Kobyra
+66,Jan Schmidt
 b,r,e,a,k
 Johnny Bravo,7
 teamInfo,,"Colorado, Colorado",http://bravoultimate.org/,https://www.facebook.com/Johnny-Bravo-Ultimate-111884215492137/,https://twitter.com/BravoUltimate
@@ -304,7 +304,7 @@ PoNY,Johnny Bravo,14,11,"09/02/2023, 13:30",Pool A,Final
 Revolver,Vault,15,6,"09/02/2023, 13:30",Pool A,Final
 Chain Lightning,Johnny Bravo,14,13,"09/02/2023, 15:45",Pool A,Final
 PoNY,Revolver,15,13,"09/02/2023, 15:45",Pool A,Final
-PoNY,Vault,11,9,"09/03/2023, 08:00",Pool A,In Progress
+PoNY,Vault,13,11,"09/03/2023, 08:00",Pool A,Final
 Revolver,Chain Lightning,15,10,"09/03/2023, 08:00",Pool A,Final
 pool,Pool B
 Chicago Machine,Rhino Slam!,13,12,"09/02/2023, 09:00",Pool B,Final
@@ -315,15 +315,19 @@ Truck Stop,Rhino Slam!,15,11,"09/02/2023, 13:30",Pool B,Final
 Chicago Machine,Doublewide,15,10,"09/02/2023, 13:30",Pool B,Final
 Ring of Fire,Rhino Slam!,13,9,"09/02/2023, 15:45",Pool B,Final
 Truck Stop,Chicago Machine,14,11,"09/02/2023, 15:45",Pool B,Final
-Truck Stop,Doublewide,13,12,"09/03/2023, 08:00",Pool B,In Progress
+Truck Stop,Doublewide,15,13,"09/03/2023, 08:00",Pool B,Final
 Chicago Machine,Ring of Fire,15,10,"09/03/2023, 08:00",Pool B,Final
 b,r,e,a,k
 brackets,Pro Championship
 bracket,Championship
+Chain Lightning,Chicago Machine,0,0,"09/03/2023, 10:30",Quarterfinals,Scheduled
+PoNY,Doublewide,0,0,"09/03/2023, 10:30",Quarterfinals,Scheduled
 b,r,e,a,k
 brackets,Placement Brackets
 bracket,Third Place
 bracket,Fifth Place Bracket
+Vault,Ring of Fire,0,0,"09/03/2023, 10:30",Fifth Quarterfinals,Scheduled
+Johnny Bravo,Rhino Slam!,0,0,"09/03/2023, 10:30",Fifth Quarterfinals,Scheduled
 bracket,Seventh Place
 bracket,Ninth Place
 b,r,e,a,k
