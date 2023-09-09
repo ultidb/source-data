@@ -246,6 +246,24 @@ teamInfo,,"Atlanta, Georgia",,,
 72,Rylan Gordon
 91,Matthew Allan
 b,r,e,a,k
+Python,13
+teamInfo,,"Atlanta, Georgia",,,
+02,Carter Tegen
+05,Neil Barry
+06,Raymond Jia
+09,Nikos Verlenden
+12,Alex Broering
+14,Alden Rosakranse
+16,Kevin Fan
+22,Ephraim Connor
+24,Matthew Mills
+26,Keller Smith
+39,Philip Emry
+46,Brendan McCluskey
+77,Flavius Penescu
+81,Sean Jung
+88,Peter Gardner
+b,r,e,a,k
 Hooch,5
 teamInfo,,"Atlanta, Georgia",,,https://twitter.com/HoochUltimate
 0,Zachary Hart
@@ -273,24 +291,6 @@ teamInfo,,"Atlanta, Georgia",,,https://twitter.com/HoochUltimate
 50,Charles Huff
 87,Gino Mattace
 88,Luke Cranor
-b,r,e,a,k
-Python,13
-teamInfo,,"Atlanta, Georgia",,,
-02,Carter Tegen
-05,Neil Barry
-06,Raymond Jia
-09,Nikos Verlenden
-12,Alex Broering
-14,Alden Rosakranse
-16,Kevin Fan
-22,Ephraim Connor
-24,Matthew Mills
-26,Keller Smith
-39,Philip Emry
-46,Brendan McCluskey
-77,Flavius Penescu
-81,Sean Jung
-88,Peter Gardner
 b,r,e,a,k
 Nashville Mudcats,12
 teamInfo,,"Nashville, Tennessee",,,
@@ -412,17 +412,17 @@ pool,Pool B
 Delirium,Power Point Ultimate,13,2,"09/09/2023, 09:45",Pool B,Final
 Space Cowboys,Dyno,13,6,"09/09/2023, 09:45",Pool B,Final
 Delirium,Space Cowboys,13,9,"09/09/2023, 11:30",Pool B,Final
-Dyno,Power Point Ultimate,0,0,"09/09/2023, 11:30",Pool B,Scheduled
+Dyno,Power Point Ultimate,13,2,"09/09/2023, 11:30",Pool B,Final
 pool,Pool C
 Lost Boys,Pulp,13,4,"09/09/2023, 09:45",Pool C,Final
 Charleston Heat Stroke,Music City Mafia,13,11,"09/09/2023, 09:45",Pool C,Final
-Lost Boys,Charleston Heat Stroke,0,0,"09/09/2023, 11:30",Pool C,Scheduled
-Music City Mafia,Pulp,0,0,"09/09/2023, 11:30",Pool C,Scheduled
+Lost Boys,Charleston Heat Stroke,13,11,"09/09/2023, 11:30",Pool C,Final
+Music City Mafia,Pulp,13,10,"09/09/2023, 11:30",Pool C,Final
 pool,Pool D
 Little Red Wagon,Python,13,9,"09/09/2023, 09:45",Pool D,Final
 Hooch,Nashville Mudcats,13,8,"09/09/2023, 09:45",Pool D,Final
 Little Red Wagon,Hooch,13,8,"09/09/2023, 11:30",Pool D,Final
-Nashville Mudcats,Python,0,0,"09/09/2023, 11:30",Pool D,Scheduled
+Nashville Mudcats,Python,8,13,"09/09/2023, 11:30",Pool D,Final
 b,r,e,a,k
 pools,3-Team
 pool,Pool A
@@ -432,9 +432,16 @@ Tanasi,Atlanta Arson,13,4,"09/09/2023, 11:30",Pool A,Final
 b,r,e,a,k
 brackets,Bracket Play
 bracket,Championship
+Tanasi,Space Cowboys,0,0,"09/09/2023, 13:35",Quarters,Scheduled
+Charleston Heat Stroke,Little Red Wagon,0,0,"09/09/2023, 13:35",Quarters,Scheduled
+Lost Boys,Python,0,0,"09/09/2023, 13:35",Quarters,Scheduled
+Atlanta Arson,Delirium,0,0,"09/09/2023, 13:35",Quarters,Scheduled
 bracket,Play-In Games: 2nd
 bracket,Play-In Games: 4th
 bracket,Game to Go: 6th
+Tennessee Folklore,Power Point Ultimate,0,0,"09/09/2023, 13:35",Crossovers,Scheduled
+Pulp,Hooch,0,0,"09/09/2023, 13:35",Crossovers,Scheduled
+Music City Mafia,Nashville Mudcats,0,0,"09/09/2023, 13:35",Crossovers,Scheduled
 bracket,Placement Games: 8th
 bracket,Placement Games: 11th
 b,r,e,a,k
