@@ -233,6 +233,31 @@ teamInfo,,"Raleigh, North Carolina",,https://www.facebook.com/rampageultinc/,htt
 30,Harris Yudin
 64,Max Randall
 b,r,e,a,k
+FlyTrap,5
+teamInfo,,"Wilmington, North Carolina",,https://www.facebook.com/FlyTrap-Ultimate-599420990399270/,
+0,Alyson Edwards
+0,Andy Magee
+0,Brandon Watford
+0,Brittani Isidoro
+0,Cristiana Falvo
+0,Daniel Lemmen
+0,Jacqueline  Chivers
+0,Jessica Cheu
+0,Joey Bye
+0,Joseph Sharp
+0,Julia Buehler
+0,Kelly Funderburk
+0,Mason Oppert
+0,Sarah Hasch
+0,vincent  frungillo
+0,Whitney Elliott
+0,Lacey Coppage
+10,Luke Hancock
+13,Artemio Pascual
+56,Kyle Gibbons
+66,Jordan Haines
+87,Colin Eimers
+b,r,e,a,k
 Bear Jordan,4
 teamInfo,,"Chapel Hill, North Carolina",,,
 7,Brian Dahlben
@@ -260,31 +285,6 @@ teamInfo,,"Chapel Hill, North Carolina",,,
 84,Paul Fang
 88,Nathan Silverman
 91,Donte Jackson
-b,r,e,a,k
-FlyTrap,5
-teamInfo,,"Wilmington, North Carolina",,https://www.facebook.com/FlyTrap-Ultimate-599420990399270/,
-0,Alyson Edwards
-0,Andy Magee
-0,Brandon Watford
-0,Brittani Isidoro
-0,Cristiana Falvo
-0,Daniel Lemmen
-0,Jacqueline  Chivers
-0,Jessica Cheu
-0,Joey Bye
-0,Joseph Sharp
-0,Julia Buehler
-0,Kelly Funderburk
-0,Mason Oppert
-0,Sarah Hasch
-0,vincent  frungillo
-0,Whitney Elliott
-0,Lacey Coppage
-10,Luke Hancock
-13,Artemio Pascual
-56,Kyle Gibbons
-66,Jordan Haines
-87,Colin Eimers
 b,r,e,a,k
 Pickles,11
 teamInfo,,"Asheville, North Carolina",https://www.picklesultimate.com/,,
@@ -321,7 +321,7 @@ Storm,Piedmont United,13,4,"09/09/2023, 08:00",Pool A,Final
 Brunch Club,Magnanimouse,12,10,"09/09/2023, 08:00",Pool A,Final
 Storm,Brunch Club,13,9,"09/09/2023, 10:00",Pool A,Final
 Too Much Fun,Magnanimouse,13,8,"09/09/2023, 10:00",Pool A,Final
-Magnanimouse,Piedmont United,0,0,"09/09/2023, 13:40",Pool A,Scheduled
+Magnanimouse,Piedmont United,11,6,"09/09/2023, 13:40",Pool A,Final
 Too Much Fun,Brunch Club,0,0,"09/09/2023, 13:40",Pool A,Scheduled
 Storm,Magnanimouse,0,0,"09/09/2023, 15:15",Pool A,Scheduled
 Too Much Fun,Piedmont United,0,0,"09/09/2023, 15:15",Pool A,Scheduled
@@ -332,13 +332,17 @@ pools,Pool B & C
 pool,Pool B
 Malice in Wonderland,Rampage,13,1,"09/09/2023, 08:00",Pool B,Final
 Malice in Wonderland,Catalyst,13,11,"09/09/2023, 10:00",Pool B,Final
-Catalyst,Rampage,0,0,"09/09/2023, 13:40",Pool B,Scheduled
+Catalyst,Rampage,11,6,"09/09/2023, 13:40",Pool B,Final
 pool,Pool C
 Bear Jordan,Pickles,13,5,"09/09/2023, 08:00",Pool C,Final
 Bear Jordan,FlyTrap,12,13,"09/09/2023, 10:00",Pool C,Final
-FlyTrap,Pickles,0,0,"09/09/2023, 13:40",Pool C,Scheduled
+FlyTrap,Pickles,13,3,"09/09/2023, 13:40",Pool C,Final
 b,r,e,a,k
 clusters,Pool B/C CrossOver
+cluster,Pool B/C CrossOver
+Malice in Wonderland,FlyTrap,0,0,"09/09/2023, 15:15",,Scheduled
+Catalyst,Pickles,0,0,"09/09/2023, 15:15",,Scheduled
+Rampage,Bear Jordan,0,0,"09/09/2023, 15:15",,Scheduled
 b,r,e,a,k
 brackets,Bracket
 bracket,Championship
