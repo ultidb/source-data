@@ -273,12 +273,12 @@ UNION,Compost Plates,13,1,"09/09/2023, 09:00",Pool A,Final
 Bench,Mashed,12,10,"09/09/2023, 09:00",Pool A,Final
 UNION,Bench,11,5,"09/09/2023, 10:45",Pool A,Final
 Buffalo Lake Effect,Mashed,9,7,"09/09/2023, 10:45",Pool A,Final
-Mashed,Compost Plates,0,0,"09/09/2023, 12:30",Pool A,Scheduled
+Mashed,Compost Plates,13,4,"09/09/2023, 12:30",Pool A,Final
 Buffalo Lake Effect,Bench,10,7,"09/09/2023, 12:30",Pool A,Final
-UNION,Mashed,0,0,"09/09/2023, 14:15",Pool A,Scheduled
+UNION,Mashed,13,3,"09/09/2023, 14:15",Pool A,Final
 Buffalo Lake Effect,Compost Plates,13,4,"09/09/2023, 14:15",Pool A,Final
 UNION,Buffalo Lake Effect,13,7,"09/09/2023, 16:00",Pool A,Final
-Bench,Compost Plates,0,0,"09/09/2023, 16:00",Pool A,Scheduled
+Bench,Compost Plates,13,4,"09/09/2023, 16:00",Pool A,Final
 pool,Pool B
 Garbage Plates,Buffalo Brain Freeze,13,4,"09/09/2023, 09:00",Pool B,Final
 Crash,Zen,W,F,"09/09/2023, 09:00",Pool B,Final
@@ -289,14 +289,21 @@ Townies,Crash,13,8,"09/09/2023, 12:30",Pool B,Final
 Garbage Plates,Zen,W,F,"09/09/2023, 14:15",Pool B,Final
 Townies,Buffalo Brain Freeze,13,4,"09/09/2023, 14:15",Pool B,Final
 Garbage Plates,Townies,12,11,"09/09/2023, 16:00",Pool B,Final
-Crash,Buffalo Brain Freeze,0,0,"09/09/2023, 16:00",Pool B,Scheduled
+Crash,Buffalo Brain Freeze,W,L,"09/09/2023, 16:00",Pool B,Final
 b,r,e,a,k
 clusters,"Sunday Crossover Games, 9 AM round (3 v 4)"
+cluster,3/4 Crossover
+Bench,Buffalo Brain Freeze,0,0,"09/10/2023, 09:00",,Scheduled
+Mashed,Crash,0,0,"09/10/2023, 09:00",,Scheduled
+Compost Plates,Zen,0,0,"09/10/2023, 09:00",,Scheduled
 b,r,e,a,k
 clusters,Crossover 2 v 2
+cluster,2nd crossover
+Buffalo Lake Effect,Townies,0,0,"09/10/2023, 11:00",,Scheduled
 b,r,e,a,k
 brackets,Championship
 bracket,First Place
+UNION,Garbage Plates,0,0,"09/10/2023, 11:00",First Place,Scheduled
 bracket,2nd/3rd
 bracket,Game to Go
 b,r,e,a,k
