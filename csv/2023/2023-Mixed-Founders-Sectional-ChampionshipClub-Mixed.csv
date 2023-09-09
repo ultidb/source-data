@@ -89,6 +89,34 @@ coaches,Jy Francis,Eli Steiker-Ginzberg
 95,Danny Le
 99,Jacob Prunes
 b,r,e,a,k
+Crucible,8
+teamInfo,,"Pittsburgh, Pennsylvania",,,@pghcrucible
+0,Anna Dzuricky
+0,Arianna Kightlinger
+0,Christie Lawry
+0,Forrest Jackson
+0,Jonathan Stokes
+0,Kabir Bakshi
+0,Kira Harbourne
+0,MONICA MERANTE
+0,Quincy Washington
+0,Rowan M Wright
+0,Valeria Duque Villegas
+2,Evan Hake
+3,Gage Silverman
+3,Taha Udyawar
+5,Kelsey Fink
+8,Joseph Merante
+9,Katelyn Stavinga
+9,Kevin Snell
+12,Logan Wright
+12,Phil Martone
+18,Bridget McCoy
+24,Anna VanDusen
+33,Christopher Turocy
+37,Svetlana Romanova
+80,Jay Walker
+b,r,e,a,k
 The Incidentals,9
 teamInfo,,"Hoboken, New Jersey",https://discny.org/e/the-incident-2021,,
 0,Arnav Mehta
@@ -117,34 +145,6 @@ teamInfo,,"Hoboken, New Jersey",https://discny.org/e/the-incident-2021,,
 37,Joanna Chen
 48,Mason Compton
 65,Victoria Ng
-b,r,e,a,k
-Crucible,8
-teamInfo,,"Pittsburgh, Pennsylvania",,,@pghcrucible
-0,Anna Dzuricky
-0,Arianna Kightlinger
-0,Christie Lawry
-0,Forrest Jackson
-0,Jonathan Stokes
-0,Kabir Bakshi
-0,Kira Harbourne
-0,MONICA MERANTE
-0,Quincy Washington
-0,Rowan M Wright
-0,Valeria Duque Villegas
-2,Evan Hake
-3,Gage Silverman
-3,Taha Udyawar
-5,Kelsey Fink
-8,Joseph Merante
-9,Katelyn Stavinga
-9,Kevin Snell
-12,Logan Wright
-12,Phil Martone
-18,Bridget McCoy
-24,Anna VanDusen
-33,Christopher Turocy
-37,Svetlana Romanova
-80,Jay Walker
 b,r,e,a,k
 Pittsburgh Port Authority,2
 teamInfo,,"Pittsburgh, Pennsylvania",https://tinyurl.com/xteamvalues,,https://twitter.com/portauth0rity
@@ -314,7 +314,7 @@ Loco,The Incidentals,13,4,"09/09/2023, 09:00",Pool A,Final
 ColorBomb,Crucible,13,5,"09/09/2023, 09:00",Pool A,Final
 Loco,ColorBomb,13,6,"09/09/2023, 10:50",Pool A,Final
 Jughandle,Crucible,13,2,"09/09/2023, 10:50",Pool A,Final
-Crucible,The Incidentals,7,3,"09/09/2023, 12:40",Pool A,In Progress
+Crucible,The Incidentals,13,9,"09/09/2023, 12:40",Pool A,Final
 Jughandle,ColorBomb,13,5,"09/09/2023, 12:40",Pool A,Final
 Loco,Crucible,0,0,"09/09/2023, 14:40",Pool A,Scheduled
 Jughandle,The Incidentals,0,0,"09/09/2023, 14:40",Pool A,Scheduled
@@ -323,13 +323,17 @@ ColorBomb,The Incidentals,0,0,"09/09/2023, 16:30",Pool A,Scheduled
 pool,Pool B
 Pittsburgh Port Authority,Milk,13,5,"09/09/2023, 09:00",Pool B,Final
 Pittsburgh Port Authority,Philly Twist,13,7,"09/09/2023, 10:50",Pool B,Final
-Philly Twist,Milk,6,3,"09/09/2023, 12:40",Pool B,In Progress
+Philly Twist,Milk,11,7,"09/09/2023, 12:40",Pool B,Final
 pool,Pool C
 Farm Show,Ultra Instinct,13,6,"09/09/2023, 09:00",Pool C,Final
 Farm Show,PS,13,8,"09/09/2023, 10:50",Pool C,Final
 PS,Ultra Instinct,13,3,"09/09/2023, 12:40",Pool C,Final
 b,r,e,a,k
 clusters,Saturday B and C Pool Crossovers
+cluster,Saturday Crossover
+Pittsburgh Port Authority,Farm Show,0,0,"09/09/2023, 14:40",,Scheduled
+Philly Twist,Ultra Instinct,0,0,"09/09/2023, 14:40",,Scheduled
+PS,Milk,0,0,"09/09/2023, 14:40",,Scheduled
 b,r,e,a,k
 brackets,Sunday Bracket Play
 bracket,Championship Bracket
