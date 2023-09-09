@@ -31,6 +31,35 @@ coaches,GENE POLETTO,Ben Cook
 76,Girolamo S Kelly
 88,Christian Holzl
 b,r,e,a,k
+Blink-122 Weekends,5
+teamInfo,,"Whitestown, Indiana",,,https://twitter.com/blink_ultimate?s=21&t=nVX_180idRJU0qBRniJqvw
+00,Josh Phillips
+01,Keenan Plew
+05,Eric Burriss
+06,John Haselden
+08,Peter Carleton
+09,David Hortemiller
+10,J.J. Yarbrough
+13,Blake Vanderbush
+14,Justin Bowling
+16,Heath Kalaba
+18,Andrew Sin
+19,SPENCER LOSCAR
+21,Connor Nolan
+22,Logan Williams
+25,Nick Phillips
+29,John Sellers
+30,Jordan  Lederman 
+31,Andrew Miller
+35,Paul Avilez
+42,Shawn Owen
+45,Jacob Long
+47,Maximillian  Humbert
+52,Jacob Fella
+55,Jason Cadwallader
+82,Davis Lenz
+89,Noah Peyer
+b,r,e,a,k
 Trident II,4
 teamInfo,,"Chicago, Illinois",,,https://twitter.com/Trident2Ulti
 coaches,Robert Gross
@@ -60,35 +89,6 @@ coaches,Robert Gross
 42,Tanner Holtz
 53,Joe Berry
 76,Steven Wagner
-b,r,e,a,k
-Blink-122 Weekends,5
-teamInfo,,"Whitestown, Indiana",,,https://twitter.com/blink_ultimate?s=21&t=nVX_180idRJU0qBRniJqvw
-00,Josh Phillips
-01,Keenan Plew
-05,Eric Burriss
-06,John Haselden
-08,Peter Carleton
-09,David Hortemiller
-10,J.J. Yarbrough
-13,Blake Vanderbush
-14,Justin Bowling
-16,Heath Kalaba
-18,Andrew Sin
-19,SPENCER LOSCAR
-21,Connor Nolan
-22,Logan Williams
-25,Nick Phillips
-29,John Sellers
-30,Jordan  Lederman 
-31,Andrew Miller
-35,Paul Avilez
-42,Shawn Owen
-45,Jacob Long
-47,Maximillian  Humbert
-52,Jacob Fella
-55,Jason Cadwallader
-82,Davis Lenz
-89,Noah Peyer
 b,r,e,a,k
 8-Bit Defenders,8
 teamInfo,,"Indianapolis, Indiana",https://www.8bitdefenders.club,https://www.facebook.com/8bitdefenders8,
@@ -157,6 +157,21 @@ teamInfo,,"Indianapolis, Indiana",,,
 69,Sedrik Sweet
 69,William Lilegdon
 b,r,e,a,k
+Chicago Dark Frogs,6
+teamInfo,,"Chicago , Illinois",,,
+2,Andres Mejia Blanco 
+2,Nate Boddy
+7,Mark Liu
+03,Jean  Ibarra 
+10,Mario Moran
+13,Kevin Reitz
+21,Micheel  Garcia 
+23,Mauricio Galeano Rios
+27,Alec Cullitan
+44,Gabriel Ortiz
+57,José  Escorihuela
+87,DAMIAN  REY
+b,r,e,a,k
 Haymaker,3
 teamInfo,,"Chicago, Illinois",https://www.chicagohaymaker.com,,
 1,Isaac Degenhart
@@ -185,21 +200,6 @@ teamInfo,,"Chicago, Illinois",https://www.chicagohaymaker.com,,
 69,Filip Wilk
 71,Matt Gubernick
 94,Ryan Morris
-b,r,e,a,k
-Chicago Dark Frogs,6
-teamInfo,,"Chicago , Illinois",,,
-2,Andres Mejia Blanco 
-2,Nate Boddy
-7,Mark Liu
-03,Jean  Ibarra 
-10,Mario Moran
-13,Kevin Reitz
-21,Micheel  Garcia 
-23,Mauricio Galeano Rios
-27,Alec Cullitan
-44,Gabriel Ortiz
-57,José  Escorihuela
-87,DAMIAN  REY
 b,r,e,a,k
 On Ramp,7
 teamInfo,,"Indianapolis, Indiana",,,
@@ -255,10 +255,10 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
-Trident I,Lafayette Street Dogs,0,0,"09/09/2023, 09:00",Pool A,Scheduled
-Blink-122 Weekends,8-Bit Defenders,0,0,"09/09/2023, 09:00",Pool A,Scheduled
-Trident I,Blink-122 Weekends,0,0,"09/09/2023, 10:45",Pool A,Scheduled
-Trident II,8-Bit Defenders,0,0,"09/09/2023, 10:45",Pool A,Scheduled
+Trident I,Lafayette Street Dogs,15,2,"09/09/2023, 09:00",Pool A,Final
+Blink-122 Weekends,8-Bit Defenders,15,7,"09/09/2023, 09:00",Pool A,Final
+Trident I,Blink-122 Weekends,1,1,"09/09/2023, 10:45",Pool A,In Progress
+Trident II,8-Bit Defenders,1,1,"09/09/2023, 10:45",Pool A,In Progress
 8-Bit Defenders,Lafayette Street Dogs,0,0,"09/09/2023, 12:30",Pool A,Scheduled
 Trident II,Blink-122 Weekends,0,0,"09/09/2023, 12:30",Pool A,Scheduled
 Trident I,8-Bit Defenders,0,0,"09/09/2023, 14:15",Pool A,Scheduled
@@ -266,10 +266,10 @@ Trident II,Lafayette Street Dogs,0,0,"09/09/2023, 14:15",Pool A,Scheduled
 Trident I,Trident II,0,0,"09/09/2023, 16:00",Pool A,Scheduled
 Blink-122 Weekends,Lafayette Street Dogs,0,0,"09/09/2023, 16:00",Pool A,Scheduled
 pool,Pool B
-I-69,TrIIIdent,0,0,"09/09/2023, 09:00",Pool B,Scheduled
-Chicago Dark Frogs,On Ramp,0,0,"09/09/2023, 09:00",Pool B,Scheduled
-I-69,Chicago Dark Frogs,0,0,"09/09/2023, 10:45",Pool B,Scheduled
-Haymaker,On Ramp,0,0,"09/09/2023, 10:45",Pool B,Scheduled
+I-69,TrIIIdent,15,3,"09/09/2023, 09:00",Pool B,Final
+Chicago Dark Frogs,On Ramp,15,7,"09/09/2023, 09:00",Pool B,Final
+I-69,Chicago Dark Frogs,4,2,"09/09/2023, 10:45",Pool B,In Progress
+Haymaker,On Ramp,3,0,"09/09/2023, 10:45",Pool B,In Progress
 On Ramp,TrIIIdent,0,0,"09/09/2023, 12:30",Pool B,Scheduled
 Haymaker,Chicago Dark Frogs,0,0,"09/09/2023, 12:30",Pool B,Scheduled
 I-69,On Ramp,0,0,"09/09/2023, 14:15",Pool B,Scheduled
