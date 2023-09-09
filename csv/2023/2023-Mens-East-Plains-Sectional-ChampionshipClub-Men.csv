@@ -110,35 +110,6 @@ teamInfo,,"Gregory, Michigan",,,
 44,Matthew Chamberlain
 55,Joshua Wang
 b,r,e,a,k
-Beacon,1
-teamInfo,,"Grand Rapids, Michigan",,,https://twitter.com/BeaconUlti
-01,Gabe Ecenbarger
-02,Justin Perticone
-04,Trevor Polisuk-Balfour
-05,Zachary Turner
-06,Jordan Gabrielse
-07,Ryan Lee
-11,Michael Mansfield
-13,James Baker Jr
-14,Sawyer Fil
-15,Alex Bertoia
-18,Malachi Neil
-21,Justin Von Kulajta Winn
-25,Brendan Schwalm
-27,Colin Fremeau
-31,Caleb Holt
-34,Colin Beauregard
-35,Mitchell Savage
-49,Nathan Zock
-51,Joseph Cubitt
-54,Aaron Schwieterman
-55,Sean Clark
-61,Caleb Stanish
-76,Conrad Nguyen
-77,Matthew Martell
-81,Alec DenBraber
-84,Michael Weber
-b,r,e,a,k
 Black Lung,3
 teamInfo,,"Lexington, Kentucky",,,https://twitter.com/blacklungulti?lang=en
 0,Colin Winter
@@ -167,6 +138,35 @@ teamInfo,,"Lexington, Kentucky",,,https://twitter.com/blacklungulti?lang=en
 53,Jacob Gowan
 61,Chris Bauer
 72,Jake Montgomery
+b,r,e,a,k
+Beacon,1
+teamInfo,,"Grand Rapids, Michigan",,,https://twitter.com/BeaconUlti
+01,Gabe Ecenbarger
+02,Justin Perticone
+04,Trevor Polisuk-Balfour
+05,Zachary Turner
+06,Jordan Gabrielse
+07,Ryan Lee
+11,Michael Mansfield
+13,James Baker Jr
+14,Sawyer Fil
+15,Alex Bertoia
+18,Malachi Neil
+21,Justin Von Kulajta Winn
+25,Brendan Schwalm
+27,Colin Fremeau
+31,Caleb Holt
+34,Colin Beauregard
+35,Mitchell Savage
+49,Nathan Zock
+51,Joseph Cubitt
+54,Aaron Schwieterman
+55,Sean Clark
+61,Caleb Stanish
+76,Conrad Nguyen
+77,Matthew Martell
+81,Alec DenBraber
+84,Michael Weber
 b,r,e,a,k
 Flying Dutchmen,2
 teamInfo,,"Columbus, Ohio",,,
@@ -361,18 +361,22 @@ Exhaust Pipe,MARC,13,10,"09/09/2023, 12:30",Pool D 3rd Place,Final
 b,r,e,a,k
 brackets,Bracket Play
 bracket,1st Place Bracket
-Beacon,Colonels,0,0,"09/09/2023, 16:15",1st Semis,In Progress
-Black Lung,Flying Dutchmen,0,0,"09/09/2023, 16:15",1st Semis,In Progress
+Colonels,Black Lung,0,0,"09/10/2023, 11:00",1st Finals,Scheduled
+Beacon,Colonels,13,15,"09/09/2023, 16:15",1st Semis,Final
+Black Lung,Flying Dutchmen,15,11,"09/09/2023, 16:15",1st Semis,Final
 Beacon,Enigma,15,4,"09/09/2023, 14:15",1st Quarters,Final
 Chimney,Colonels,4,15,"09/09/2023, 14:15",1st Quarters,Final
 Black Lung,Diesel,15,8,"09/09/2023, 14:15",1st Quarters,Final
 Mischief,Flying Dutchmen,2,15,"09/09/2023, 14:15",1st Quarters,Final
 bracket,2nd Place Bracket
+Beacon,Enigma,0,0,"09/10/2023, 09:00",2nd Quarters,In Progress
+Diesel,Flying Dutchmen,0,0,"09/10/2023, 09:00",2nd Quarters,In Progress
 Enigma,Chimney,15,8,"09/09/2023, 16:15",2nd Prequarters,Final
-Diesel,Mischief,0,0,"09/09/2023, 16:15",2nd Prequarters,In Progress
+Diesel,Mischief,15,7,"09/09/2023, 16:15",2nd Prequarters,Final
 bracket,5th Place Bracket
+Mischief,CMen,0,0,"09/10/2023, 09:00",5th Place Quarters,In Progress
 Exhaust Pipe,Chimney,0,0,"09/10/2023, 09:00",5th Place Quarters,In Progress
-CMen,MARC,0,0,"09/10/2023, 16:15",5th Place Prequarters,In Progress
+CMen,MARC,15,6,"09/10/2023, 16:15",5th Place Prequarters,Final
 Exhaust Pipe,Scoop,15,5,"09/10/2023, 16:15",5th Place Prequarters,Final
 Rotisserie Chicken,MARC,6,13,"09/10/2023, 14:15",5th Place Play-in,Final
 bracket,7th Place Bracket
@@ -395,4 +399,6 @@ b,r,e,a,k
 pools,Consolation Bracket
 pool,Pool D
 Scoop,Rotisserie Chicken,0,0,"09/10/2023, 09:00",Pool D,Scheduled
+MARC,Rotisserie Chicken,0,0,"09/10/2023, 11:00",Pool D,Scheduled
+MARC,Scoop,0,0,"09/10/2023, 13:00",Pool D,Scheduled
 b,r,e,a,k
