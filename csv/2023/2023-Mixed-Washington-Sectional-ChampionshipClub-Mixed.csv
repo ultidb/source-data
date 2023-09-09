@@ -276,6 +276,31 @@ coaches,Charlie Mercer
 47,Aakar Mehra
 77,Evan Reding
 b,r,e,a,k
+BOP,12
+teamInfo,,"Seattle, Washington",,,
+0,Aster Olsen
+0,Danielito Prevost-Reilly
+0,Elizabeth Hill
+0,Jessie Won
+0,Jon Abramson
+0,Jonathan Schooler
+0,Joshua Blome
+0,Kalissa Feinberg
+0,Nicolas Sherman
+0,Philip Chan
+0,Rebecca Ferber
+0,Wesley Yu
+0,Meg Narwold
+0,Melanie Jochheim-Atkins
+1,Zifan Feng
+1,Emma Landsman
+3,Josh Rudolph
+6,Connor Brett
+22,Ling Sun
+41,Kiran Devine
+59,Michael Makar
+77,Camille Beasley
+b,r,e,a,k
 Garbage,5
 teamInfo,,"Seattle, Washington",,,
 0,Elizabeth Wisdom
@@ -331,40 +356,15 @@ teamInfo,,"Vancouver, British Columbia CA",,,
 81,Katharine Smith
 88,Tina Yu
 b,r,e,a,k
-BOP,12
-teamInfo,,"Seattle, Washington",,,
-0,Aster Olsen
-0,Danielito Prevost-Reilly
-0,Elizabeth Hill
-0,Jessie Won
-0,Jon Abramson
-0,Jonathan Schooler
-0,Joshua Blome
-0,Kalissa Feinberg
-0,Nicolas Sherman
-0,Philip Chan
-0,Rebecca Ferber
-0,Wesley Yu
-0,Meg Narwold
-0,Melanie Jochheim-Atkins
-1,Zifan Feng
-1,Emma Landsman
-3,Josh Rudolph
-6,Connor Brett
-22,Ling Sun
-41,Kiran Devine
-59,Michael Makar
-77,Camille Beasley
-b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,A Pool
 Red Flag,TT,13,4,"09/09/2023, 09:00",A Pool,Final
-Red Flag,Grit City,0,0,"09/09/2023, 11:00",A Pool,In Progress
+Red Flag,Grit City,13,9,"09/09/2023, 11:00",A Pool,Final
 Grit City,TT,0,0,"09/09/2023, 13:00",A Pool,Scheduled
 pool,B Pool
 Spoke,Squid Inc.,13,6,"09/09/2023, 09:00",B Pool,Final
-Spoke,Bullet Train,0,0,"09/09/2023, 11:00",B Pool,In Progress
+Spoke,Bullet Train,13,6,"09/09/2023, 11:00",B Pool,Final
 Bullet Train,Squid Inc.,0,0,"09/09/2023, 13:00",B Pool,Scheduled
 pool,C Pool
 Seattle Soft Serve,Surge,13,6,"09/09/2023, 09:00",C Pool,Final
@@ -372,9 +372,9 @@ Seattle Soft Serve,Pegasus,0,0,"09/09/2023, 11:00",C Pool,In Progress
 Pegasus,Surge,0,0,"09/09/2023, 13:00",C Pool,Scheduled
 pool,D Pool
 Lights Out,BOP,13,6,"09/09/2023, 09:00",D Pool,Final
-Garbage,Mola Mola,13,12,"09/09/2023, 09:00",D Pool,In Progress
-Lights Out,Garbage,0,0,"09/09/2023, 11:00",D Pool,Scheduled
-BOP,Mola Mola,0,0,"09/09/2023, 11:00",D Pool,Scheduled
+Garbage,Mola Mola,13,12,"09/09/2023, 09:00",D Pool,Final
+Lights Out,Garbage,13,6,"09/09/2023, 11:00",D Pool,Final
+BOP,Mola Mola,13,4,"09/09/2023, 11:00",D Pool,Final
 b,r,e,a,k
 brackets,Mixed | Bracket Play
 bracket,1st Place Bracket
