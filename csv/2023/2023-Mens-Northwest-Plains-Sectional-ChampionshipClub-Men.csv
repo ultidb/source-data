@@ -139,33 +139,6 @@ teamInfo,,"Hartford, Wisconsin",,,
 88,Dan Hummel
 99,Lucas Frede
 b,r,e,a,k
-DCVIII,14
-teamInfo,,"Madison , Wisconsin",,,
-0,Chase Mecham
-0,Connor Taplick
-0,Hagan Leeds Richman
-0,Hagan Leeds Richman
-0,Haoyang Yan
-0,Koby Seaborne
-0,Logan Derheimer
-0,Malek Champion
-0,Simi Fadiran
-0,Tyler Grim
-0,Zachary Cestkowski
-4,Ardian Yudawan
-7,Devaughntae Wright
-7,Griffin Glassel
-9,Ronaldo Lopez Vega
-13,Ryan Munger
-16,Jay Lonetree
-26,Saul Diaz
-29,Yuhao Wu
-31,Andrew McGinley
-35,Henry Lyne
-42,Nicholas Gueldner
-77,Kian Dilweg
-88,Kieran Mandli
-b,r,e,a,k
 Knights of Ni,5
 teamInfo,,"Golden Valley, Minnesota",,,https://twitter.com/ulti_ni
 0,Alex Kraft
@@ -194,6 +167,33 @@ teamInfo,,"Golden Valley, Minnesota",,,https://twitter.com/ulti_ni
 44,Ethan Ode
 52,Max Lang
 74,Jakob Yedo
+b,r,e,a,k
+DCVIII,14
+teamInfo,,"Madison , Wisconsin",,,
+0,Chase Mecham
+0,Connor Taplick
+0,Hagan Leeds Richman
+0,Hagan Leeds Richman
+0,Haoyang Yan
+0,Koby Seaborne
+0,Logan Derheimer
+0,Malek Champion
+0,Simi Fadiran
+0,Tyler Grim
+0,Zachary Cestkowski
+4,Ardian Yudawan
+7,Devaughntae Wright
+7,Griffin Glassel
+9,Ronaldo Lopez Vega
+13,Ryan Munger
+16,Jay Lonetree
+26,Saul Diaz
+29,Yuhao Wu
+31,Andrew McGinley
+35,Henry Lyne
+42,Nicholas Gueldner
+77,Kian Dilweg
+88,Kieran Mandli
 b,r,e,a,k
 Mallard,3
 teamInfo,,"Minneapolis, Minnesota",https://www.mplsmallard.com/,https://www.facebook.com/mplsmallard,https://twitter.com/mplsmallard
@@ -333,29 +333,6 @@ teamInfo,,"Milwaukee, Wisconsin",,,
 98,Troy Roberts
 99,Zane Stein
 b,r,e,a,k
-Spin Doctors,17
-teamInfo,,"Rochester, Minnesota",https://instagram.com/rochestermnultimate?igshid=Y2I2MzMwZWM3ZA==,,
-0,Andrew Napier
-0,BLAKE HAGAN
-0,Bryan Bauman
-0,Creighton Gerber
-0,David Thomas
-0,John Anderson
-0,Joseph Brown
-0,Matthew Tse
-0,Peyton Schneider
-1,Christian Johnson
-2,Grant Waldron
-6,Joseph Gottwald
-7,Wesley Sorum
-10,Ryan Butler
-12,Robert Owen
-21,Nolan Caples
-21,Brent Gothmann
-33,Jay Puffer
-84,Tate Goretzki
-97,Quincy Wittman
-b,r,e,a,k
 DINGWOP,11
 teamInfo,,"Duluth, Minnesota",,https://www.facebook.com/DingwopUltimate,
 0,Tyler McBride
@@ -384,6 +361,29 @@ teamInfo,,"Duluth, Minnesota",,https://www.facebook.com/DingwopUltimate,
 69,Sam Bates
 69,Trent Brunner
 69,Tucker Hoffman
+b,r,e,a,k
+Spin Doctors,17
+teamInfo,,"Rochester, Minnesota",https://instagram.com/rochestermnultimate?igshid=Y2I2MzMwZWM3ZA==,,
+0,Andrew Napier
+0,BLAKE HAGAN
+0,Bryan Bauman
+0,Creighton Gerber
+0,David Thomas
+0,John Anderson
+0,Joseph Brown
+0,Matthew Tse
+0,Peyton Schneider
+1,Christian Johnson
+2,Grant Waldron
+6,Joseph Gottwald
+7,Wesley Sorum
+10,Ryan Butler
+12,Robert Owen
+21,Nolan Caples
+21,Brent Gothmann
+33,Jay Puffer
+84,Tate Goretzki
+97,Quincy Wittman
 b,r,e,a,k
 HouSE,4
 teamInfo,,"Kenosha, Wisconsin",,https://www.facebook.com/HouSEultimate/,
@@ -513,7 +513,7 @@ pool,Pool B
 DCVIII,Milwaukee Revival,13,3,"09/09/2023, 09:00",Pool B,Final
 Knights of Ni,Nomads,13,8,"09/09/2023, 09:00",Pool B,Final
 Mallard,Nomads,0,0,"09/09/2023, 11:00",Pool B,Scheduled
-Knights of Ni,DCVIII,0,0,"09/09/2023, 11:00",Pool B,Scheduled
+Knights of Ni,DCVIII,13,5,"09/09/2023, 11:00",Pool B,Final
 Mallard,Milwaukee Revival,0,0,"09/09/2023, 13:00",Pool B,Scheduled
 Nomads,DCVIII,0,0,"09/09/2023, 13:00",Pool B,Scheduled
 Mallard,DCVIII,0,0,"09/09/2023, 15:00",Pool B,Scheduled
@@ -531,7 +531,7 @@ pools,Applebee's Pool Play
 pool,Pool Y
 General Strike,DINGWOP,15,6,"09/09/2023, 09:00",Pool Y,Final
 Bux,Spin Doctors,0,0,"09/09/2023, 09:00",Pool Y,Scheduled
-General Strike,Spin Doctors,0,0,"09/09/2023, 11:00",Pool Y,Scheduled
+General Strike,Spin Doctors,15,4,"09/09/2023, 11:00",Pool Y,Final
 Bux,DINGWOP,0,0,"09/09/2023, 11:00",Pool Y,Scheduled
 General Strike,Bux,0,0,"09/09/2023, 13:00",Pool Y,Scheduled
 DINGWOP,Spin Doctors,0,0,"09/09/2023, 13:00",Pool Y,Scheduled
