@@ -30,32 +30,6 @@ teamInfo,,"Louisville, Kentucky",https://louisvilleultimate.org/,https://www.fac
 93,Richard Murt
 99,Will Quigley
 b,r,e,a,k
-Exhaust Pipe,13
-teamInfo,,"Cleveland , Ohio",,,
-0,Adam Cox
-0,Alex Flores
-0,Ari Glockner
-0,Elias Hinson
-0,Mace Korytko
-0,Maddox Sutton
-0,Martin Oswald
-0,Matthew Sullivan
-0,Nathan Trudell
-0,Nicholas Waugh
-0,Jason Zhou
-0,John  Iannetta 
-0,Owen Zhou
-0,Ryan Coneway
-0,Samantha Vinik
-0,Samuel Qin
-0,Samuel Qin
-5,Jake Stahl
-7,Sam Greenberg
-17,Masroor Qutubuddin
-24,Pete Digre
-69,Nitin Chockalingam
-76,Logan Heck
-b,r,e,a,k
 Diesel,5
 teamInfo,,"Ann Arbor, Michigan",,,
 0,Austin Engel
@@ -83,6 +57,32 @@ teamInfo,,"Ann Arbor, Michigan",,,
 58,Samuel Pierson
 76,Matthew Bell
 85,Dafeng Chen
+b,r,e,a,k
+Exhaust Pipe,13
+teamInfo,,"Cleveland , Ohio",,,
+0,Adam Cox
+0,Alex Flores
+0,Ari Glockner
+0,Elias Hinson
+0,Mace Korytko
+0,Maddox Sutton
+0,Martin Oswald
+0,Matthew Sullivan
+0,Nathan Trudell
+0,Nicholas Waugh
+0,Jason Zhou
+0,John  Iannetta 
+0,Owen Zhou
+0,Ryan Coneway
+0,Samantha Vinik
+0,Samuel Qin
+0,Samuel Qin
+5,Jake Stahl
+7,Sam Greenberg
+17,Masroor Qutubuddin
+24,Pete Digre
+69,Nitin Chockalingam
+76,Logan Heck
 b,r,e,a,k
 MARC,12
 teamInfo,,"Gregory, Michigan",,,
@@ -195,34 +195,6 @@ teamInfo,,"Akron/Cleveland, Ohio",,,
 69,Noah Spaetti
 91,Jan Woolfork
 b,r,e,a,k
-Enigma,7
-teamInfo,,"Dayton, Ohio",,https://www.facebook.com/pages/Enigma/112703698822469?ref=hl,
-0,Avery Moeller
-0,Carl Ahlborg
-0,Forrest Reed
-0,Isaac Hubble
-0,Matthew Mason
-0,Nathan Ploeger
-0,Tobiah Weyer
-4,Riley Collins
-8,Nate Olander
-9,Jake Blue
-10,Riley Ulmer
-11,Lloyd Goldstein
-11,David Collins
-16,Taylor Chatfield
-17,Daniel Mac Manus
-21,Ben Knoth
-23,Derek Fitch
-24,Andrew Greenfield
-31,Chetan Gomatam
-33,Andrew Fassler
-42,Brandon Henry
-42,Zach Thompson
-46,Ian Ehlers 
-47,Peter Duttweiler
-98,Jarod Garel
-b,r,e,a,k
 Flying Dutchmen,2
 teamInfo,,"Columbus, Ohio",,,
 0,Aaron Lott
@@ -251,6 +223,34 @@ teamInfo,,"Columbus, Ohio",,,
 72,Shane Spiegel
 93,Peter Zhang
 98,Brian Griffiths
+b,r,e,a,k
+Enigma,7
+teamInfo,,"Dayton, Ohio",,https://www.facebook.com/pages/Enigma/112703698822469?ref=hl,
+0,Avery Moeller
+0,Carl Ahlborg
+0,Forrest Reed
+0,Isaac Hubble
+0,Matthew Mason
+0,Nathan Ploeger
+0,Tobiah Weyer
+4,Riley Collins
+8,Nate Olander
+9,Jake Blue
+10,Riley Ulmer
+11,Lloyd Goldstein
+11,David Collins
+16,Taylor Chatfield
+17,Daniel Mac Manus
+21,Ben Knoth
+23,Derek Fitch
+24,Andrew Greenfield
+31,Chetan Gomatam
+33,Andrew Fassler
+42,Brandon Henry
+42,Zach Thompson
+46,Ian Ehlers 
+47,Peter Duttweiler
+98,Jarod Garel
 b,r,e,a,k
 CMen,10
 teamInfo,,"Cincinnati, Ohio",,,
@@ -353,9 +353,11 @@ b,r,e,a,k
 s,t,a,g,e,s
 brackets,Pool Play - 4s
 bracket,Pool D
+Colonels,Diesel,0,0,"09/09/2023, 12:30",Pool D Finals,Scheduled
 Colonels,Exhaust Pipe,13,5,"09/09/2023, 10:45",Pool D Semis,Final
-Diesel,MARC,0,0,"09/09/2023, 10:45",Pool D Semis,In Progress
+Diesel,MARC,13,6,"09/09/2023, 10:45",Pool D Semis,Final
 bracket,Pool D
+Exhaust Pipe,MARC,0,0,"09/09/2023, 12:30",Pool D 3rd Place,Scheduled
 b,r,e,a,k
 brackets,Bracket Play
 bracket,1st Place Bracket
@@ -371,7 +373,7 @@ Beacon,Scoop,13,2,"09/09/2023, 10:45",Pool A,Final
 Beacon,Mischief,0,0,"09/09/2023, 12:30",Pool A,Scheduled
 pool,Pool B
 Enigma,CMen,11,10,"09/09/2023, 09:00",Pool B,Final
-Flying Dutchmen,CMen,0,0,"09/09/2023, 10:45",Pool B,Scheduled
+Flying Dutchmen,CMen,13,5,"09/09/2023, 10:45",Pool B,Final
 Flying Dutchmen,Enigma,0,0,"09/09/2023, 12:30",Pool B,Scheduled
 pool,Pool C
 Chimney,Rotisserie Chicken,13,3,"09/09/2023, 09:00",Pool C,Final
