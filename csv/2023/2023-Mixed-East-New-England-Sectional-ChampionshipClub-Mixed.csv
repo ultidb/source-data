@@ -281,6 +281,34 @@ teamInfo,,"Boston, Massachusetts",,,
 68,Benjamin Nelson
 82,Alyson Steinfeld
 b,r,e,a,k
+Lobrid,11
+teamInfo,,"Cambridge, Massachusetts",,,
+0,Noah Anderson
+8,Haley Olson
+00,Hao Shen
+00,Ian Cutler
+00,Irene Ren
+00,Jasmine Der
+00,Jessica Chirichetti
+00,Joshua Murray
+00,Lucy Jin
+00,Nelvia Clark
+00,Nisha Nayak
+00,Acer Xu
+00,Alexander Velberg
+00,Andrew Churchill
+00,Axis Sivitz
+00,Caitlin Lian
+00,Candace Adelberg
+00,Drew Edwards
+00,Sara Bauman
+00,Sarah Antilla
+00,Sean Fallon
+00,Umar Katumba
+00,Webster Kehoe
+00,Gabriella Fernando-McKinley
+41,Gabriel Kaptchuk
+b,r,e,a,k
 Rainbow,14
 teamInfo,,"Somerville, Massachusetts",https://www.rainbowultimate.com,https://www.instagram.com/rainbowultimate/,
 0,Alison Collins
@@ -309,34 +337,6 @@ teamInfo,,"Somerville, Massachusetts",https://www.rainbowultimate.com,https://ww
 18,Timothy Whitworth
 26,Souichi Terada
 26,Lizzie Seibert
-b,r,e,a,k
-Lobrid,11
-teamInfo,,"Cambridge, Massachusetts",,,
-0,Noah Anderson
-8,Haley Olson
-00,Hao Shen
-00,Ian Cutler
-00,Irene Ren
-00,Jasmine Der
-00,Jessica Chirichetti
-00,Joshua Murray
-00,Lucy Jin
-00,Nelvia Clark
-00,Nisha Nayak
-00,Acer Xu
-00,Alexander Velberg
-00,Andrew Churchill
-00,Axis Sivitz
-00,Caitlin Lian
-00,Candace Adelberg
-00,Drew Edwards
-00,Sara Bauman
-00,Sarah Antilla
-00,Sean Fallon
-00,Umar Katumba
-00,Webster Kehoe
-00,Gabriella Fernando-McKinley
-41,Gabriel Kaptchuk
 b,r,e,a,k
 The Buoy Association,4
 teamInfo,,"Portland, Maine",,,
@@ -467,10 +467,10 @@ Scarecrow,Sunken Circus,12,10,"09/09/2023, 08:00",Pool B,Final
 Darkwing,Scarecrow,13,3,"09/09/2023, 09:45",Pool B,Final
 Sunken Circus,Beached Whales,13,10,"09/09/2023, 09:45",Pool B,Final
 pool,Pool C
-Wild Card,Rainbow,13,4,"09/09/2023, 08:00",Pool C,Scheduled
+Wild Card,Rainbow,13,4,"09/09/2023, 08:00",Pool C,Final
 Obscure,Lobrid,13,9,"09/09/2023, 08:00",Pool C,Final
 Wild Card,Obscure,13,7,"09/09/2023, 09:45",Pool C,Final
-Lobrid,Rainbow,13,8,"09/09/2023, 09:45",Pool C,Scheduled
+Lobrid,Rainbow,13,8,"09/09/2023, 09:45",Pool C,Final
 pool,Pool D
 The Buoy Association,Replay,13,2,"09/09/2023, 08:00",Pool D,Final
 League of Shadows,Quahogs,13,5,"09/09/2023, 08:00",Pool D,Final
@@ -479,11 +479,17 @@ Quahogs,Replay,13,11,"09/09/2023, 09:45",Pool D,Final
 b,r,e,a,k
 brackets,Placement Bracket
 bracket,Finals
+Wild Card,Darkwing,0,0,"09/09/2023, 13:30",Semis,Scheduled
 Sprocket,Scarecrow,0,0,"09/09/2023, 11:30",Quarter Finals,Scheduled
+Obscure,The Buoy Association,0,0,"09/09/2023, 11:30",Quarter Finals,Scheduled
+Wild Card,League of Shadows,11,10,"09/09/2023, 11:30",Quarter Finals,Final
 Lampshade,Darkwing,6,12,"09/09/2023, 11:30",Quarter Finals,Final
 bracket,Second Place
+League of Shadows,Lampshade,0,0,"09/09/2023, 13:30",2nd place play-in,Scheduled
 bracket,Fifth Place
-Sunken Circus,Boston Practice Squad,0,0,"09/09/2023, 11:30",Fifth Play-In,Scheduled
+Sunken Circus,Boston Practice Squad,13,11,"09/09/2023, 11:30",Fifth Play-In,Final
+Replay,Lobrid,0,0,"09/09/2023, 11:30",Fifth Play-In,Scheduled
+Quahogs,Rainbow,0,0,"09/09/2023, 11:30",Fifth Play-In,Scheduled
 Beached Whales,Electric Eyebrows,0,0,"09/09/2023, 11:30",Fifth Play-In,Scheduled
 bracket,Seventh Place
 bracket,Ninth Place

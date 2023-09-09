@@ -59,6 +59,29 @@ teamInfo,,"Omaha, Nebraska",http://www.bonehorn.com,https://www.facebook.com/scy
 77,Michael Swanger
 84,Andrew Wehrman
 b,r,e,a,k
+STL Moonar,6
+teamInfo,,"St. Louis, Missouri",,,
+00,Benjamin Lamport
+00,Brandon Skoba
+00,Evan Schreiner
+00,Geoffrey Cheng
+00,Jacob Geisen
+00,John Markiewicz
+00,JP Torack
+00,Adam Sherberg
+00,Kyle Johnson
+00,Michael Lahmeyer
+00,Payton Jaggie
+00,Sam Papin
+00,Sena Murray
+00,Steven James Richardson
+00,Tom Dupor
+00,Wesley Fransen
+01,Nathan Kamp
+02,Kelly Mauntel
+22,Aidan Byrne
+81,Zachary Szatkowski
+b,r,e,a,k
 Loaded Panda,7
 teamInfo,,"Cedar Falls, Iowa, Iowa",,,
 0,Andrew McCartan
@@ -87,29 +110,6 @@ teamInfo,,"Cedar Falls, Iowa, Iowa",,,
 23,Bobby Reding
 55,Nick Rider
 69,Neal Patel
-b,r,e,a,k
-STL Moonar,6
-teamInfo,,"St. Louis, Missouri",,,
-00,Benjamin Lamport
-00,Brandon Skoba
-00,Evan Schreiner
-00,Geoffrey Cheng
-00,Jacob Geisen
-00,John Markiewicz
-00,JP Torack
-00,Adam Sherberg
-00,Kyle Johnson
-00,Michael Lahmeyer
-00,Payton Jaggie
-00,Sam Papin
-00,Sena Murray
-00,Steven James Richardson
-00,Tom Dupor
-00,Wesley Fransen
-01,Nathan Kamp
-02,Kelly Mauntel
-22,Aidan Byrne
-81,Zachary Szatkowski
 b,r,e,a,k
 DeMo,3
 teamInfo,,"Des Moines, Iowa",,,https://twitter.com/demoultimate
@@ -169,6 +169,28 @@ teamInfo,,"Kansas City, Missouri",http://smokestackultimate.weebly.com/,https://
 98,Matthew Beers
 99,Jonah Larsen
 b,r,e,a,k
+Meadowlark,8
+teamInfo,,"Wichita, Kansas",,https://www.facebook.com/meadowlarkultimate/,
+0,ALEX JAMES
+0,Brandon Jordon
+0,Brandon Griffith
+0,Brayden Ruble
+0,Christian Kaufman
+0,Jonathan Mercer
+0,Josiah Pfeiffer
+0,Kerrick van Asselt
+0,Derek Van Lanen
+0,Ethan Doerksen
+0,Kyle Schluben
+0,Logan Langel
+0,Samuel Fairback
+3,COLIN MILLER
+08,Kristoffer Broadley
+18,Mason Biehler
+19,Luke Hampton
+69,Jonathan Grill
+82,Noah Hettenbach
+b,r,e,a,k
 NOx,5
 teamInfo,,"Kansas City, Missouri",,,
 0,Bryce Badgley
@@ -198,28 +220,6 @@ teamInfo,,"Kansas City, Missouri",,,
 71,Austin Heineman
 98,Garret Heiberger
 b,r,e,a,k
-Meadowlark,8
-teamInfo,,"Wichita, Kansas",,https://www.facebook.com/meadowlarkultimate/,
-0,ALEX JAMES
-0,Brandon Jordon
-0,Brandon Griffith
-0,Brayden Ruble
-0,Christian Kaufman
-0,Jonathan Mercer
-0,Josiah Pfeiffer
-0,Kerrick van Asselt
-0,Derek Van Lanen
-0,Ethan Doerksen
-0,Kyle Schluben
-0,Logan Langel
-0,Samuel Fairback
-3,COLIN MILLER
-08,Kristoffer Broadley
-18,Mason Biehler
-19,Luke Hampton
-69,Jonathan Grill
-82,Noah Hettenbach
-b,r,e,a,k
 s,t,a,g,e,s
 brackets,Championship Bracket
 bracket,First Place Bracket
@@ -231,7 +231,7 @@ pools,Pool Play
 pool,Pool A
 STL Lounar,STL Moonar,13,8,"09/09/2023, 09:00",Pool A,Final
 Scythe,Loaded Panda,13,10,"09/09/2023, 09:00",Pool A,Final
-STL Lounar,Loaded Panda,0,0,"09/09/2023, 11:00",Pool A,Scheduled
+STL Lounar,Loaded Panda,13,3,"09/09/2023, 11:00",Pool A,Final
 Scythe,STL Moonar,0,0,"09/09/2023, 11:00",Pool A,Scheduled
 STL Lounar,Scythe,0,0,"09/09/2023, 13:00",Pool A,Scheduled
 STL Moonar,Loaded Panda,0,0,"09/09/2023, 13:00",Pool A,Scheduled
@@ -239,7 +239,7 @@ pool,Pool B
 Kansas City Smokestack,NOx,13,6,"09/09/2023, 09:00",Pool B,Final
 DeMo,Meadowlark,13,3,"09/09/2023, 09:00",Pool B,Final
 Kansas City Smokestack,Meadowlark,0,0,"09/09/2023, 11:00",Pool B,Scheduled
-DeMo,NOx,0,0,"09/09/2023, 11:00",Pool B,Scheduled
+DeMo,NOx,13,6,"09/09/2023, 11:00",Pool B,Final
 Kansas City Smokestack,DeMo,0,0,"09/09/2023, 13:00",Pool B,Scheduled
 NOx,Meadowlark,0,0,"09/09/2023, 13:00",Pool B,Scheduled
 b,r,e,a,k
