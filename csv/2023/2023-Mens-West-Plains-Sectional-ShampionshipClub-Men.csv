@@ -31,6 +31,35 @@ coaches,Joseph Barzilai
 88,Evan Dobson
 98,Drake Hill
 b,r,e,a,k
+Kansas City Smokestack,2
+teamInfo,,"Kansas City, Missouri",http://smokestackultimate.weebly.com/,https://www.facebook.com/smokestackultimate,https://www.twitter.com/kc_smokestack
+0,Everett Arruda
+01,Cory Green
+03,Andrew Pottinger
+06,John Aucar
+07,Zachery Mahler
+08,Andre Coates
+11,Tim Robbins
+12,Luca Van der Meer
+13,Colin Iglehart
+15,Mark Stedem
+19,Branden Schneider
+20,Jared McKay
+22,Cameron Hunter
+23,Brock Hicks
+26,Luke Grieger
+28,Andrew Curry
+29,Spencer Roberts
+34,Sam Habel
+51,Matthew Price
+59,Jordan Becquer
+74,Ethan Knobloch
+81,Diego Butron
+88,Benton Habel
+97,Aaron Johnson
+98,Matthew Beers
+99,Jonah Larsen
+b,r,e,a,k
 DeMo,3
 teamInfo,,"Des Moines, Iowa",,,https://twitter.com/demoultimate
 0,Ben Masterson
@@ -87,35 +116,6 @@ teamInfo,,"Omaha, Nebraska",http://www.bonehorn.com,https://www.facebook.com/scy
 72,JOHN BEVANS
 77,Michael Swanger
 84,Andrew Wehrman
-b,r,e,a,k
-Kansas City Smokestack,2
-teamInfo,,"Kansas City, Missouri",http://smokestackultimate.weebly.com/,https://www.facebook.com/smokestackultimate,https://www.twitter.com/kc_smokestack
-0,Everett Arruda
-01,Cory Green
-03,Andrew Pottinger
-06,John Aucar
-07,Zachery Mahler
-08,Andre Coates
-11,Tim Robbins
-12,Luca Van der Meer
-13,Colin Iglehart
-15,Mark Stedem
-19,Branden Schneider
-20,Jared McKay
-22,Cameron Hunter
-23,Brock Hicks
-26,Luke Grieger
-28,Andrew Curry
-29,Spencer Roberts
-34,Sam Habel
-51,Matthew Price
-59,Jordan Becquer
-74,Ethan Knobloch
-81,Diego Butron
-88,Benton Habel
-97,Aaron Johnson
-98,Matthew Beers
-99,Jonah Larsen
 b,r,e,a,k
 STL Moonar,6
 teamInfo,,"St. Louis, Missouri",,,
@@ -223,15 +223,19 @@ b,r,e,a,k
 s,t,a,g,e,s
 brackets,Championship Bracket
 bracket,First Place Bracket
-STL Lounar,DeMo,0,0,"09/10/2023, 09:00",First Place Semi,Scheduled
-Scythe,Kansas City Smokestack,0,0,"09/10/2023, 09:00",First Place Semi,Scheduled
+STL Lounar,Kansas City Smokestack,0,0,"09/10/2023, 11:00",First Place Finals,Scheduled
+STL Lounar,DeMo,15,12,"09/10/2023, 09:00",First Place Semi,Final
+Scythe,Kansas City Smokestack,13,14,"09/10/2023, 09:00",First Place Semi,Final
 DeMo,STL Moonar,15,14,"09/09/2023, 15:00",First Place Play in,Final
 Scythe,NOx,15,12,"09/09/2023, 15:00",First Place Play in,Final
 bracket,Second Place Bracket
+DeMo,Scythe,0,0,"09/10/2023, 11:00",Second Place Semi,Scheduled
 bracket,Fourth Place Bracket
+STL Moonar,NOx,0,0,"09/10/2023, 11:00",Fourth Place Semi,Scheduled
 STL Moonar,Meadowlark,15,4,"09/10/2023, 09:00",Fourth Place Quarter,Final
-Loaded Panda,NOx,0,0,"09/10/2023, 09:00",Fourth Place Quarter,Scheduled
+Loaded Panda,NOx,6,13,"09/10/2023, 09:00",Fourth Place Quarter,Final
 bracket,Sixth Place Bracket
+Meadowlark,Loaded Panda,0,0,"09/10/2023, 11:00",Sixth Place Semi,Scheduled
 b,r,e,a,k
 pools,Pool Play
 pool,Pool A
