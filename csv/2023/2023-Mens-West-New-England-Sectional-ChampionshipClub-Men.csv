@@ -30,26 +30,6 @@ teamInfo,,"Amherst, Massachusetts",,,
 80,Chris Bartoli
 81,Geir Hartl
 b,r,e,a,k
-ClubM - MESA,4
-teamInfo,,"Montréal, Quebec CA",https://clubmultimate.ca,,
-0,Brandon Stopnicki
-0,Charles Graton
-0,Félix Lanciault
-0,Francis  Desrochers
-0,François Duch
-0,Hugo Robillard
-0,Jacques Barbe
-0,Jeremy Chan
-0,Louis Beck-Haviernick
-0,Ludovic Cao
-0,Maxime Tetreault
-0,Nikolas Gauthier
-0,Rafael Herazo
-0,Xavier Bordeleau St-Cyr
-0,Yanis Mokrane
-19,Mathieu Petit
-66,Raphaël Drouin
-b,r,e,a,k
 You Need to Calm Down,6
 teamInfo,,"Montpelier, Vermont",,,
 0,Elijah Schumacher
@@ -70,6 +50,53 @@ teamInfo,,"Montpelier, Vermont",,,
 35,JAMES PARDO
 38,Pierce Clark
 42,JOEL DANIELS
+b,r,e,a,k
+ClubM - MESA,4
+teamInfo,,"Montréal, Quebec CA",https://clubmultimate.ca,,
+0,Brandon Stopnicki
+0,Charles Graton
+0,Félix Lanciault
+0,Francis  Desrochers
+0,François Duch
+0,Hugo Robillard
+0,Jacques Barbe
+0,Jeremy Chan
+0,Louis Beck-Haviernick
+0,Ludovic Cao
+0,Maxime Tetreault
+0,Nikolas Gauthier
+0,Rafael Herazo
+0,Xavier Bordeleau St-Cyr
+0,Yanis Mokrane
+19,Mathieu Petit
+66,Raphaël Drouin
+b,r,e,a,k
+Mephisto,3
+teamInfo,,"Montreal, Quebec CA",,https://www.facebook.com/mephistoultimate,
+coaches,Alexandre Lemieux
+0,Charles Guay
+0,Melvyn Brichet
+5,Julien Sénéchal
+6,Paul Hooley
+10,William St-Pierre
+12,Thomas Lalonde-Landry
+15,Raphael Salvas
+16,Vincent Genest
+17,Samuel Warrick
+19,Felix Leonard
+20,Julien Bernat
+22,Ywan Cohonner
+23,Raphaël Lalonde-Landry
+30,Philippe Le Bourdais
+34,Thomas Dubois
+35,Eliott Heloir
+38,Antoine Rousseau
+42,Christophe Tremblay Joncas
+43,Thomas Duplaix
+49,Félix-Antoine Daigle
+69,Liam  McKeown 
+81,Kevin Quinlan
+84,Dylan Lacombe Burgoyne
 b,r,e,a,k
 TireBizFriz,2
 teamInfo,,"Amherst, Massachusetts",,,
@@ -99,33 +126,6 @@ teamInfo,,"Amherst, Massachusetts",,,
 86,Declan Kervick
 91,Walden Ng
 98,Carl Crawford
-b,r,e,a,k
-Mephisto,3
-teamInfo,,"Montreal, Quebec CA",,https://www.facebook.com/mephistoultimate,
-coaches,Alexandre Lemieux
-0,Charles Guay
-0,Melvyn Brichet
-5,Julien Sénéchal
-6,Paul Hooley
-10,William St-Pierre
-12,Thomas Lalonde-Landry
-15,Raphael Salvas
-16,Vincent Genest
-17,Samuel Warrick
-19,Felix Leonard
-20,Julien Bernat
-22,Ywan Cohonner
-23,Raphaël Lalonde-Landry
-30,Philippe Le Bourdais
-34,Thomas Dubois
-35,Eliott Heloir
-38,Antoine Rousseau
-42,Christophe Tremblay Joncas
-43,Thomas Duplaix
-49,Félix-Antoine Daigle
-69,Liam  McKeown 
-81,Kevin Quinlan
-84,Dylan Lacombe Burgoyne
 b,r,e,a,k
 Ascension,5
 teamInfo,,"Sherbrooke, Quebec CA",,,
@@ -161,14 +161,19 @@ pools,Pool
 pool,Pool A
 Sprout,You Need to Calm Down,13,2,"09/09/2023, 13:00",Pool A,Final
 Sprout,ClubM - MESA,13,4,"09/09/2023, 14:35",Pool A,Final
-ClubM - MESA,You Need to Calm Down,0,0,"09/09/2023, 16:10",Pool A,Scheduled
+ClubM - MESA,You Need to Calm Down,12,13,"09/09/2023, 16:10",Pool A,Final
 pool,Pool B
-TireBizFriz,Ascension,0,0,"09/09/2023, 13:00",Pool B,Scheduled
-TireBizFriz,Mephisto,0,0,"09/09/2023, 14:35",Pool B,Scheduled
-Mephisto,Ascension,0,0,"09/09/2023, 16:10",Pool B,Scheduled
+TireBizFriz,Ascension,13,5,"09/09/2023, 13:00",Pool B,Final
+TireBizFriz,Mephisto,9,13,"09/09/2023, 14:35",Pool B,Final
+Mephisto,Ascension,13,6,"09/09/2023, 16:10",Pool B,Final
 b,r,e,a,k
 brackets,Bracket
 bracket,1st place
+Sprout,TireBizFriz,0,0,"09/10/2023, 09:35",Semi-finals,Scheduled
+Mephisto,Ascension,0,0,"09/10/2023, 09:35",Semi-finals,Scheduled
+TireBizFriz,ClubM - MESA,13,5,"09/09/2023, 17:45",Quarter-finals,Final
+You Need to Calm Down,Ascension,6,13,"09/09/2023, 17:45",Quarter-finals,Final
 bracket,3rd place
 bracket,5th Place
+ClubM - MESA,You Need to Calm Down,0,0,"09/10/2023, 09:35",Consolation,Scheduled
 b,r,e,a,k
