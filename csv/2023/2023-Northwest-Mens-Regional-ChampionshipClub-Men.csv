@@ -31,28 +31,6 @@ coaches,Zack Smith
 55,Parker Howard
 88,ryoama katsuta
 b,r,e,a,k
-Mystery Gang,8
-teamInfo,,"Seattle, Washington",,,
-0,James Dailey
-0,Mason Stone
-7,Langley Fitzpatrick
-00,Max Lee
-00,Jordan  Lazer
-00,Simon Weeks
-00,Spencer Freeman
-00,Syon Rao
-00,Arya Dhuvoor
-00,Axel Olson
-00,Brock Colaner
-00,Callahan Phinney
-00,Dominic Chiodi
-00,Evan Farrnand
-00,Filip Icev
-00,Graham Peck
-00,Jake Klasky
-17,Tiarnan Babcock O’Neill
-32,Rami Rifaat
-b,r,e,a,k
 SOUF,11
 teamInfo,,"Seattle , Washington",,,
 0,Achilles Abella
@@ -81,6 +59,28 @@ teamInfo,,"Seattle , Washington",,,
 48,Vince Nguyen
 69,Stephen Oun
 77,Austin Hasbrook
+b,r,e,a,k
+Mystery Gang,8
+teamInfo,,"Seattle, Washington",,,
+0,James Dailey
+0,Mason Stone
+7,Langley Fitzpatrick
+00,Max Lee
+00,Jordan  Lazer
+00,Simon Weeks
+00,Spencer Freeman
+00,Syon Rao
+00,Arya Dhuvoor
+00,Axel Olson
+00,Brock Colaner
+00,Callahan Phinney
+00,Dominic Chiodi
+00,Evan Farrnand
+00,Filip Icev
+00,Graham Peck
+00,Jake Klasky
+17,Tiarnan Babcock O’Neill
+32,Rami Rifaat
 b,r,e,a,k
 Rhino Slam!,2
 teamInfo,,"Portland, Oregon",http://www.rhinoultimate.com/,https://www.facebook.com/pages/Portland-Rhino/406995056021898,https://twitter.com/RhinoUltimate
@@ -198,6 +198,30 @@ coaches,Matthew Berezan,Alexander Bellemare-Davis,Ben Burelle
 89,Kevin Underhill
 99,Vincent Bulloch
 b,r,e,a,k
+Sawtooth,9
+teamInfo,,"Boise, Idaho",https://boiseultimatescene.com/sawtooth,https://www.facebook.com/Sawtooth-Boise-Ultimate-619500648417608/,https://twitter.com/SawtoothUlti
+0,Emmett Poole
+0,Jacob Kemmer
+0,Jay Everett
+0,Joe Dawson
+0,Joshua Letsinger
+0,Matt Stegemann
+0,MATT JERRY
+0,Scott Kaltenecker
+0,Trenton Pearsall
+4,Nathaniel Dryden
+4,John Martin
+5,Jacob Bechler
+7,Mathew Gossard
+8,Hudson Thornton
+9,Thayne Casper
+11,Archey Charnou
+13,James Dahl
+28,Daniel White
+31,Tanner Cleveland
+47,Daniel Kwok
+71,Harper Poole
+b,r,e,a,k
 Shrimp,6
 teamInfo,,"Salt Lake, Utah",,,https://twitter.com/saltlakeshrimp
 0,Travis Wright
@@ -226,30 +250,6 @@ teamInfo,,"Salt Lake, Utah",,,https://twitter.com/saltlakeshrimp
 88,Christian Berger
 98,Cole Stenseth
 99,Grayson Rettberg
-b,r,e,a,k
-Sawtooth,9
-teamInfo,,"Boise, Idaho",https://boiseultimatescene.com/sawtooth,https://www.facebook.com/Sawtooth-Boise-Ultimate-619500648417608/,https://twitter.com/SawtoothUlti
-0,Emmett Poole
-0,Jacob Kemmer
-0,Jay Everett
-0,Joe Dawson
-0,Joshua Letsinger
-0,Matt Stegemann
-0,MATT JERRY
-0,Scott Kaltenecker
-0,Trenton Pearsall
-4,Nathaniel Dryden
-4,John Martin
-5,Jacob Bechler
-7,Mathew Gossard
-8,Hudson Thornton
-9,Thayne Casper
-11,Archey Charnou
-13,James Dahl
-28,Daniel White
-31,Tanner Cleveland
-47,Daniel Kwok
-71,Harper Poole
 b,r,e,a,k
 Dark Star,4
 teamInfo,,"Eugene, Oregon",http://www.darkstarultimate.com,,https://twitter.com/eugenedarkstar
@@ -336,15 +336,15 @@ s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
 Sockeye,SOUF,15,7,"09/23/2023, 09:00",Pool A,Final
-Sockeye,Mystery Gang,0,0,"09/23/2023, 11:00",Pool A,Scheduled
+Sockeye,Mystery Gang,15,6,"09/23/2023, 11:00",Pool A,Final
 Mystery Gang,SOUF,0,0,"09/23/2023, 13:00",Pool A,Scheduled
 pool,Pool B
 Rhino Slam!,Surf,15,7,"09/23/2023, 09:00",Pool B,Final
-Rhino Slam!,Switchback,0,0,"09/23/2023, 11:00",Pool B,Scheduled
+Rhino Slam!,Switchback,15,7,"09/23/2023, 11:00",Pool B,Final
 Switchback,Surf,0,0,"09/23/2023, 13:00",Pool B,Scheduled
 pool,Pool C
 Furious George,Sawtooth,15,9,"09/23/2023, 09:00",Pool C,Final
-Furious George,Shrimp,0,0,"09/23/2023, 11:00",Pool C,Scheduled
+Furious George,Shrimp,15,6,"09/23/2023, 11:00",Pool C,Final
 Shrimp,Sawtooth,0,0,"09/23/2023, 13:00",Pool C,Scheduled
 pool,Pool D
 Dark Star,Ghost Train,15,10,"09/23/2023, 09:00",Pool D,Final
