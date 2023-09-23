@@ -401,17 +401,22 @@ pool,Pool B
 Zyzzyva,Bonsoon,15,1,"09/23/2023, 12:00",Pool B,Final
 OC Crows,Battery,14,7,"09/23/2023, 12:00",Pool B,Final
 Zyzzyva,OC Crows,14,9,"09/23/2023, 13:45",Pool B,Final
-Battery,Bonsoon,0,0,"09/23/2023, 13:45",Pool B,Scheduled
+Battery,Bonsoon,15,3,"09/23/2023, 13:45",Pool B,Final
 pool,Pool C
 SoCal Condors,Green River Swordfish,15,4,"09/23/2023, 10:15",Pool C,Final
 SoCal Condors,OAT,15,9,"09/23/2023, 12:00",Pool C,Final
-OAT,Green River Swordfish,0,0,"09/23/2023, 13:45",Pool C,Scheduled
+OAT,Green River Swordfish,15,6,"09/23/2023, 13:45",Pool C,Final
 pool,Pool D
 Drought,Mavericks,11,12,"09/23/2023, 10:15",Pool D,Final
 Drought,Skipjack,11,14,"09/23/2023, 12:00",Pool D,Final
-Skipjack,Mavericks,0,0,"09/23/2023, 13:45",Pool D,Scheduled
+Skipjack,Mavericks,13,10,"09/23/2023, 13:45",Pool D,Final
 b,r,e,a,k
 clusters,Crossover Play
+cluster,Crossover Play
+Offshore,Drought,0,0,"09/23/2023, 15:30",,Scheduled
+Mavericks,Hazard,0,0,"09/23/2023, 15:30",,Scheduled
+OC Crows,Green River Swordfish,0,0,"09/23/2023, 15:30",,Scheduled
+OAT,Battery,0,0,"09/23/2023, 15:30",,Scheduled
 b,r,e,a,k
 brackets,Bracket Play
 bracket,1st Place Bracket
