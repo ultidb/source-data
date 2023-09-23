@@ -59,6 +59,64 @@ teamInfo,,"Texas City, Texas",,,https://twitter.com/hip_flatball/
 44,Greg Muth
 69,Evan Parizot
 b,r,e,a,k
+Brawl,6
+teamInfo,,"Dallas, Texas",,,@dallasbrawl
+00,Eian Brent
+01,Eric VerPloeg
+04,Oakley Armstrong
+05,Nand Patel
+07,Samuel Garza
+08,Mason Kelley
+10,Willy Goal
+11,Matthew Sutton
+12,Andrew Dorf
+16,Aaron Smith
+19,Marshall Mao
+22,Scott Zachary
+23,Kevin Bowman
+25,Alvaro Guzman
+27,Dylan Patton
+28,Jeremy Wilson
+31,Thomas Trompeter
+32,Jordan Penn-White
+35,Ryan Buckingham
+42,Watson Anderson
+48,Christian Parker
+77,Benjamin Rogers
+87,David Hammer
+89,Jack Wooldridge
+98,Tanner Roberts
+99,Benjamin Price
+b,r,e,a,k
+Doublewide,2
+teamInfo,,"Austin, Texas",https://wellnasty.com/,https://www.facebook.com/DoublewideTX/,https://twitter.com/doublewidetx
+0,Saaketh Palchuru
+01,Kolbe Bauer
+02,Kaplan Maurer
+04,Evan Swiatek
+05,Emmanuel Bilolo
+08,Robert Coffin
+09,Jason Hustad
+10,Alec Wilson Holliday
+11,Reese Bowman
+12,Noah Chambers
+14,Mark Evans
+18,Elliott Moore
+19,Kevin Richardson
+20,Chase Cunningham
+21,Xavier Fuzat
+27,Jacob Sames
+28,Jackson Potts
+33,Jacob Radack
+34,Zachary Slayton
+41,Oliver Fay
+43,Joseph Wylie
+50,Matthew Armour
+69,Christopher Cassella
+73,Gavin Babbitt
+88,Duncan Fitzgerald
+99,Sam Murphy
+b,r,e,a,k
 BARNSTORM,8
 teamInfo,,"Oklahoma City, Oklahoma",,,
 0,alex santai
@@ -147,35 +205,6 @@ coaches,Daniel Wickens
 36,Bryan Downey
 85,Jorge Delgado
 b,r,e,a,k
-Brawl,6
-teamInfo,,"Dallas, Texas",,,@dallasbrawl
-00,Eian Brent
-01,Eric VerPloeg
-04,Oakley Armstrong
-05,Nand Patel
-07,Samuel Garza
-08,Mason Kelley
-10,Willy Goal
-11,Matthew Sutton
-12,Andrew Dorf
-16,Aaron Smith
-19,Marshall Mao
-22,Scott Zachary
-23,Kevin Bowman
-25,Alvaro Guzman
-27,Dylan Patton
-28,Jeremy Wilson
-31,Thomas Trompeter
-32,Jordan Penn-White
-35,Ryan Buckingham
-42,Watson Anderson
-48,Christian Parker
-77,Benjamin Rogers
-87,David Hammer
-89,Jack Wooldridge
-98,Tanner Roberts
-99,Benjamin Price
-b,r,e,a,k
 Alamode,7
 teamInfo,,"San Antonio, Texas",,,
 0,Enrique Trejo
@@ -203,35 +232,6 @@ teamInfo,,"San Antonio, Texas",,,
 81,Jacob Rosen
 91,Austin Wehrheim
 92,Benjamin Andrade
-b,r,e,a,k
-Doublewide,2
-teamInfo,,"Austin, Texas",https://wellnasty.com/,https://www.facebook.com/DoublewideTX/,https://twitter.com/doublewidetx
-0,Saaketh Palchuru
-01,Kolbe Bauer
-02,Kaplan Maurer
-04,Evan Swiatek
-05,Emmanuel Bilolo
-08,Robert Coffin
-09,Jason Hustad
-10,Alec Wilson Holliday
-11,Reese Bowman
-12,Noah Chambers
-14,Mark Evans
-18,Elliott Moore
-19,Kevin Richardson
-20,Chase Cunningham
-21,Xavier Fuzat
-27,Jacob Sames
-28,Jackson Potts
-33,Jacob Radack
-34,Zachary Slayton
-41,Oliver Fay
-43,Joseph Wylie
-50,Matthew Armour
-69,Christopher Cassella
-73,Gavin Babbitt
-88,Duncan Fitzgerald
-99,Sam Murphy
 b,r,e,a,k
 Sprawl,16
 teamInfo,,"Dallas, Texas",,,
@@ -467,9 +467,10 @@ s,t,a,g,e,s
 brackets,Bracket Play
 bracket,Championship Bracket
 Johnny Bravo,H.I.P,0,0,"09/23/2023, 13:15",Semis,In Progress
+Brawl,Doublewide,0,0,"09/23/2023, 13:15",Semis,In Progress
 Johnny Bravo,BARNSTORM,15,4,"09/23/2023, 09:45",Quarters,Final
 H.I.P,ISO Atmo,15,10,"09/23/2023, 09:45",Quarters,Final
-Fungi,Brawl,0,0,"09/23/2023, 09:45",Quarters,In Progress
+Fungi,Brawl,9,10,"09/23/2023, 09:45",Quarters,Final
 Alamode,Doublewide,5,15,"09/23/2023, 09:45",Quarters,Final
 Johnny Bravo,Sprawl,15,3,"09/23/2023, 08:00",Pre-Quarters,Final
 Riverside,BARNSTORM,8,13,"09/23/2023, 08:00",Pre-Quarters,Final
@@ -481,10 +482,12 @@ Alamode,Lil Heroes,13,11,"09/23/2023, 08:00",Pre-Quarters,Final
 Cowtown Cannons,Doublewide,2,15,"09/23/2023, 08:00",Pre-Quarters,Final
 bracket,2nd Place Bracket
 Alamode,Riverside,0,0,"09/23/2023, 11:30",2.R2,In Progress
+Fungi,Texas Duffy,0,0,"09/23/2023, 11:30",2.R2,In Progress
+BARNSTORM,Cowtown Cannons,0,0,"09/23/2023, 11:30",2.R2,In Progress
 Sprawl,Riverside,2,13,"09/23/2023, 09:45",2.R1,Final
-Texas Duffy,Harvey Cats,0,0,"09/23/2023, 09:45",2.R1,In Progress
+Texas Duffy,Harvey Cats,12,9,"09/23/2023, 09:45",2.R1,Final
 Dreadnought,Clutch,0,0,"09/23/2023, 09:45",2.R1,In Progress
-Lil Heroes,Cowtown Cannons,0,0,"09/23/2023, 09:45",2.R1,In Progress
+Lil Heroes,Cowtown Cannons,7,11,"09/23/2023, 09:45",2.R1,Final
 b,r,e,a,k
 brackets,5th-8th Place
 bracket,5th Place Game
@@ -495,4 +498,7 @@ pool,Pool A
 b,r,e,a,k
 pools,13th-16th Place
 pool,Pool B
+Harvey Cats,Lil Heroes,0,0,"09/23/2023, 11:30",Pool B,Scheduled
+Harvey Cats,Sprawl,0,0,"09/23/2023, 15:00",Pool B,Scheduled
+Lil Heroes,Sprawl,0,0,"09/24/2023, 08:00",Pool B,Scheduled
 b,r,e,a,k
