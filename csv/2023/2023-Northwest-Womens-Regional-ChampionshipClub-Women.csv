@@ -307,7 +307,7 @@ pools,Saturday Pool Play
 pool,Pool A
 Schwa,Portland Rain Check,13,1,"09/23/2023, 09:00",Pool A,Final
 Drift,Dark Sky,3,13,"09/23/2023, 09:00",Pool A,Final
-Schwa,Drift,0,0,"09/23/2023, 10:45",Pool A,Scheduled
+Schwa,Drift,13,0,"09/23/2023, 10:45",Pool A,Final
 Seattle END,Dark Sky,6,11,"09/23/2023, 10:45",Pool A,Final
 Dark Sky,Portland Rain Check,13,0,"09/23/2023, 12:30",Pool A,Final
 Seattle END,Drift,0,0,"09/23/2023, 12:30",Pool A,Scheduled
@@ -320,11 +320,15 @@ Traffic,Seattle Soul,13,0,"09/23/2023, 09:00",Pool B,Final
 Traffic,Seven Devils,13,2,"09/23/2023, 10:45",Pool B,Final
 Seven Devils,Seattle Soul,13,2,"09/23/2023, 12:30",Pool B,Final
 pool,Pool C
-Seattle Riot,Eugene Further,0,0,"09/23/2023, 09:00",Pool C,Scheduled
+Seattle Riot,Eugene Further,13,3,"09/23/2023, 09:00",Pool C,Final
 Seattle Riot,Underground,13,4,"09/23/2023, 10:45",Pool C,Final
 Underground,Eugene Further,13,5,"09/23/2023, 12:30",Pool C,Final
 b,r,e,a,k
 clusters,Saturday Crossover Pool Play B and C
+cluster,Crossover BC
+Traffic,Seattle Riot,0,0,"09/23/2023, 14:15",,Scheduled
+Seven Devils,Eugene Further,0,0,"09/23/2023, 14:15",,Scheduled
+Seattle Soul,Underground,0,0,"09/23/2023, 14:15",,Scheduled
 b,r,e,a,k
 brackets,Sunday Bracket
 bracket,1st Place Finals
