@@ -198,30 +198,6 @@ coaches,Matthew Berezan,Alexander Bellemare-Davis,Ben Burelle
 89,Kevin Underhill
 99,Vincent Bulloch
 b,r,e,a,k
-Sawtooth,9
-teamInfo,,"Boise, Idaho",https://boiseultimatescene.com/sawtooth,https://www.facebook.com/Sawtooth-Boise-Ultimate-619500648417608/,https://twitter.com/SawtoothUlti
-0,Emmett Poole
-0,Jacob Kemmer
-0,Jay Everett
-0,Joe Dawson
-0,Joshua Letsinger
-0,Matt Stegemann
-0,MATT JERRY
-0,Scott Kaltenecker
-0,Trenton Pearsall
-4,Nathaniel Dryden
-4,John Martin
-5,Jacob Bechler
-7,Mathew Gossard
-8,Hudson Thornton
-9,Thayne Casper
-11,Archey Charnou
-13,James Dahl
-28,Daniel White
-31,Tanner Cleveland
-47,Daniel Kwok
-71,Harper Poole
-b,r,e,a,k
 Shrimp,6
 teamInfo,,"Salt Lake, Utah",,,https://twitter.com/saltlakeshrimp
 0,Travis Wright
@@ -250,6 +226,30 @@ teamInfo,,"Salt Lake, Utah",,,https://twitter.com/saltlakeshrimp
 88,Christian Berger
 98,Cole Stenseth
 99,Grayson Rettberg
+b,r,e,a,k
+Sawtooth,9
+teamInfo,,"Boise, Idaho",https://boiseultimatescene.com/sawtooth,https://www.facebook.com/Sawtooth-Boise-Ultimate-619500648417608/,https://twitter.com/SawtoothUlti
+0,Emmett Poole
+0,Jacob Kemmer
+0,Jay Everett
+0,Joe Dawson
+0,Joshua Letsinger
+0,Matt Stegemann
+0,MATT JERRY
+0,Scott Kaltenecker
+0,Trenton Pearsall
+4,Nathaniel Dryden
+4,John Martin
+5,Jacob Bechler
+7,Mathew Gossard
+8,Hudson Thornton
+9,Thayne Casper
+11,Archey Charnou
+13,James Dahl
+28,Daniel White
+31,Tanner Cleveland
+47,Daniel Kwok
+71,Harper Poole
 b,r,e,a,k
 Dark Star,4
 teamInfo,,"Eugene, Oregon",http://www.darkstarultimate.com,,https://twitter.com/eugenedarkstar
@@ -281,6 +281,30 @@ coaches,Taylor White
 57,Gunter Przystawik
 62,Quinn Buermeyer
 b,r,e,a,k
+Jen City Executives,5
+teamInfo,,"Jen City, Washington",,,
+0,Adam Simon
+0,Alex Duffel
+0,Britt Atack
+0,Chris Rupp
+0,Clay Dewey-Valentine
+0,Cole Johnson
+0,Dan Hostetler
+0,Jacob Speidel
+0,Mark Burton
+0,Peter Ostergaard
+0,Reed Hendrickson
+00,Milo Snyder
+00,Byron Norris
+00,Cam Bailey
+00,Bradley Houser
+00,Aaron Richards
+01,Kelly Johnson
+21,David Bestock
+22,Evan Klein
+23,Danny Karlinsky
+25,Will Chen
+b,r,e,a,k
 Ghost Train,10
 teamInfo,,"Seattle, Washington",,https://www.facebook.com/ghosttrainultimate,https://twitter.com/GhostTrainUlti
 0,Alex Becker
@@ -308,30 +332,6 @@ teamInfo,,"Seattle, Washington",,https://www.facebook.com/ghosttrainultimate,htt
 79,Sean Killilea
 88,Quinton Yap
 b,r,e,a,k
-Jen City Executives,5
-teamInfo,,"Jen City, Washington",,,
-0,Adam Simon
-0,Alex Duffel
-0,Britt Atack
-0,Chris Rupp
-0,Clay Dewey-Valentine
-0,Cole Johnson
-0,Dan Hostetler
-0,Jacob Speidel
-0,Mark Burton
-0,Peter Ostergaard
-0,Reed Hendrickson
-00,Milo Snyder
-00,Byron Norris
-00,Cam Bailey
-00,Bradley Houser
-00,Aaron Richards
-01,Kelly Johnson
-21,David Bestock
-22,Evan Klein
-23,Danny Karlinsky
-25,Will Chen
-b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
@@ -345,11 +345,11 @@ Switchback,Surf,0,0,"09/23/2023, 13:00",Pool B,Scheduled
 pool,Pool C
 Furious George,Sawtooth,15,9,"09/23/2023, 09:00",Pool C,Final
 Furious George,Shrimp,15,6,"09/23/2023, 11:00",Pool C,Final
-Shrimp,Sawtooth,0,0,"09/23/2023, 13:00",Pool C,Scheduled
+Shrimp,Sawtooth,15,14,"09/23/2023, 13:00",Pool C,Final
 pool,Pool D
 Dark Star,Ghost Train,15,10,"09/23/2023, 09:00",Pool D,Final
 Dark Star,Jen City Executives,15,8,"09/23/2023, 11:00",Pool D,Final
-Jen City Executives,Ghost Train,0,0,"09/23/2023, 13:00",Pool D,Scheduled
+Jen City Executives,Ghost Train,15,11,"09/23/2023, 13:00",Pool D,Final
 b,r,e,a,k
 brackets,Bracket Play
 bracket,Bracket Play
@@ -359,6 +359,7 @@ bracket,5th Place
 b,r,e,a,k
 pools,Consolation Pool
 pool,Pool E
+Sawtooth,Ghost Train,0,0,"09/24/2023, 13:00",Pool E,Scheduled
 b,r,e,a,k
 clusters,Cross Over
 b,r,e,a,k
