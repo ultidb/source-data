@@ -31,6 +31,28 @@ coaches,Zack Smith
 55,Parker Howard
 88,ryoama katsuta
 b,r,e,a,k
+Mystery Gang,8
+teamInfo,,"Seattle, Washington",,,
+0,James Dailey
+0,Mason Stone
+7,Langley Fitzpatrick
+00,Max Lee
+00,Jordan  Lazer
+00,Simon Weeks
+00,Spencer Freeman
+00,Syon Rao
+00,Arya Dhuvoor
+00,Axel Olson
+00,Brock Colaner
+00,Callahan Phinney
+00,Dominic Chiodi
+00,Evan Farrnand
+00,Filip Icev
+00,Graham Peck
+00,Jake Klasky
+17,Tiarnan Babcock O’Neill
+32,Rami Rifaat
+b,r,e,a,k
 SOUF,11
 teamInfo,,"Seattle , Washington",,,
 0,Achilles Abella
@@ -59,28 +81,6 @@ teamInfo,,"Seattle , Washington",,,
 48,Vince Nguyen
 69,Stephen Oun
 77,Austin Hasbrook
-b,r,e,a,k
-Mystery Gang,8
-teamInfo,,"Seattle, Washington",,,
-0,James Dailey
-0,Mason Stone
-7,Langley Fitzpatrick
-00,Max Lee
-00,Jordan  Lazer
-00,Simon Weeks
-00,Spencer Freeman
-00,Syon Rao
-00,Arya Dhuvoor
-00,Axel Olson
-00,Brock Colaner
-00,Callahan Phinney
-00,Dominic Chiodi
-00,Evan Farrnand
-00,Filip Icev
-00,Graham Peck
-00,Jake Klasky
-17,Tiarnan Babcock O’Neill
-32,Rami Rifaat
 b,r,e,a,k
 Rhino Slam!,2
 teamInfo,,"Portland, Oregon",http://www.rhinoultimate.com/,https://www.facebook.com/pages/Portland-Rhino/406995056021898,https://twitter.com/RhinoUltimate
@@ -337,7 +337,7 @@ pools,Pool Play
 pool,Pool A
 Sockeye,SOUF,15,7,"09/23/2023, 09:00",Pool A,Final
 Sockeye,Mystery Gang,15,6,"09/23/2023, 11:00",Pool A,Final
-Mystery Gang,SOUF,0,0,"09/23/2023, 13:00",Pool A,Scheduled
+Mystery Gang,SOUF,15,9,"09/23/2023, 13:00",Pool A,Final
 pool,Pool B
 Rhino Slam!,Surf,15,7,"09/23/2023, 09:00",Pool B,Final
 Rhino Slam!,Switchback,15,7,"09/23/2023, 11:00",Pool B,Final
@@ -359,7 +359,13 @@ bracket,5th Place
 b,r,e,a,k
 pools,Consolation Pool
 pool,Pool E
+SOUF,Sawtooth,0,0,"09/24/2023, 09:00",Pool E,Scheduled
+SOUF,Ghost Train,0,0,"09/24/2023, 11:00",Pool E,Scheduled
 Sawtooth,Ghost Train,0,0,"09/24/2023, 13:00",Pool E,Scheduled
 b,r,e,a,k
 clusters,Cross Over
+cluster,Cross Over
+Sockeye,Furious George,0,0,"09/23/2023, 15:00",,Scheduled
+Shrimp,SOUF,0,0,"09/23/2023, 15:00",,Scheduled
+Mystery Gang,Sawtooth,0,0,"09/23/2023, 15:00",,Scheduled
 b,r,e,a,k
