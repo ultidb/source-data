@@ -60,35 +60,6 @@ teamInfo,,"Amherst, Massachusetts",,,
 91,Walden Ng
 98,Carl Crawford
 b,r,e,a,k
-Big Wrench,11
-teamInfo,,"Somerville, Massachusetts",http://bigwrenchultimate.com,https://www.facebook.com/BigWrenchUlt,https://twitter.com/BigWrenchUlt
-0,Asa Thomson
-0,Calvin Wardle
-0,Christopher Richmond
-0,Conor McManamy
-0,Ethan Cardi
-0,John Wellers
-0,Matt Pauly
-0,Ryan Kadet
-3,Colin Mclaughlin
-3,Brian Wyer
-4,Samuel Laur
-5,Alexander Riahi
-7,Andy Yu
-11,Samuel Letcher
-12,Phillip Joyce
-17,Andrew Zaccardi
-20,Gene Buonaccorsi
-24,Michael Klein
-24,Benjamin Jafek
-25,Ilya Yudkovich
-33,Vincent Fan
-37,Noah Weintraub
-50,Roman Short
-84,Sam Farnsworth
-88,Nick Jewell
-99,Luka Govedic
-b,r,e,a,k
 Magma Bears,14
 teamInfo,,"ALL OF NEW YORK, New York",,https://www.facebook.com/WestchesterMagmaBears,https://twitter.com/MagmaBearUlti
 coaches,Joshua (Slater) Levey
@@ -118,6 +89,35 @@ coaches,Joshua (Slater) Levey
 35,Ryan Blazejewski
 43,Tyler McCarthy
 88,Michael Lovisa
+b,r,e,a,k
+Big Wrench,11
+teamInfo,,"Somerville, Massachusetts",http://bigwrenchultimate.com,https://www.facebook.com/BigWrenchUlt,https://twitter.com/BigWrenchUlt
+0,Asa Thomson
+0,Calvin Wardle
+0,Christopher Richmond
+0,Conor McManamy
+0,Ethan Cardi
+0,John Wellers
+0,Matt Pauly
+0,Ryan Kadet
+3,Colin Mclaughlin
+3,Brian Wyer
+4,Samuel Laur
+5,Alexander Riahi
+7,Andy Yu
+11,Samuel Letcher
+12,Phillip Joyce
+17,Andrew Zaccardi
+20,Gene Buonaccorsi
+24,Michael Klein
+24,Benjamin Jafek
+25,Ilya Yudkovich
+33,Vincent Fan
+37,Noah Weintraub
+50,Roman Short
+84,Sam Farnsworth
+88,Nick Jewell
+99,Luka Govedic
 b,r,e,a,k
 DiG,2
 teamInfo,,"Boston, Massachusetts",https://instagram.com/digultimate/,https://www.facebook.com/digultimate,https://twitter.com/digultimate
@@ -468,33 +468,30 @@ pools,Clipped Pools
 pool,Pool A
 PoNY,Magma Bears,13,2,"09/23/2023, 08:00",Pool A,Final
 TireBizFriz,Big Wrench,13,8,"09/23/2023, 08:00",Pool A,Final
-PoNY,Big Wrench,0,0,"09/23/2023, 09:45",Pool A,Scheduled
-TireBizFriz,Magma Bears,0,0,"09/23/2023, 09:45",Pool A,Scheduled
 PoNY,TireBizFriz,13,6,"09/23/2023, 09:45",Pool A,Final
-Big Wrench,Magma Bears,0,0,"09/23/2023, 09:45",Pool A,Scheduled
+Big Wrench,Magma Bears,11,12,"09/23/2023, 09:45",Pool A,Final
 pool,Pool B
 DiG,Shade,13,5,"09/23/2023, 08:00",Pool B,Final
 Mephisto,Colt,13,7,"09/23/2023, 08:00",Pool B,Final
-DiG,Colt,0,0,"09/23/2023, 09:45",Pool B,Scheduled
-Mephisto,Shade,0,0,"09/23/2023, 09:45",Pool B,Scheduled
 DiG,Mephisto,13,8,"09/23/2023, 09:45",Pool B,Final
 Colt,Shade,9,13,"09/23/2023, 09:45",Pool B,Final
 pool,Pool C
 GOAT,Alibi,13,2,"09/23/2023, 08:00",Pool C,Final
 Blueprint,Sprout,10,12,"09/23/2023, 08:00",Pool C,Final
 GOAT,Sprout,13,10,"09/23/2023, 09:45",Pool C,Final
-Blueprint,Alibi,0,0,"09/23/2023, 09:45",Pool C,Scheduled
-GOAT,Blueprint,0,0,"09/23/2023, 09:45",Pool C,Scheduled
-Sprout,Alibi,0,0,"09/23/2023, 09:45",Pool C,Scheduled
+Blueprint,Alibi,13,4,"09/23/2023, 09:45",Pool C,Final
 pool,Pool D
 Phoenix,Mystery Box,13,7,"09/23/2023, 08:00",Pool D,Final
 Scoop,Red Circus,11,13,"09/23/2023, 08:00",Pool D,Final
 Phoenix,Red Circus,13,7,"09/23/2023, 09:45",Pool D,Final
 Scoop,Mystery Box,0,0,"09/23/2023, 09:45",Pool D,Scheduled
-Phoenix,Scoop,0,0,"09/23/2023, 09:45",Pool D,Scheduled
-Red Circus,Mystery Box,0,0,"09/23/2023, 09:45",Pool D,Scheduled
 b,r,e,a,k
 clusters,Crossovers
+cluster,Crossovers
+PoNY,GOAT,0,0,"09/23/2023, 11:45",,Scheduled
+Sprout,Magma Bears,0,0,"09/23/2023, 11:45",,Scheduled
+TireBizFriz,Blueprint,0,0,"09/23/2023, 11:45",,Scheduled
+Big Wrench,Alibi,0,0,"09/23/2023, 11:45",,Scheduled
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,1st Place Bracket
