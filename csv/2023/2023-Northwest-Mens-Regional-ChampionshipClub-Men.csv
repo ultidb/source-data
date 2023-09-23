@@ -112,6 +112,33 @@ coaches,Angela Tocchi,Tyler Cable,John Cairns
 70,Christopher Strub
 82,Leandro Marx
 b,r,e,a,k
+Surf,12
+teamInfo,,"Victoria, British Columbia CA",,,
+0,Benjamin Savage
+0,Blake Dyer
+0,David Goluskin
+0,Dylan Cochrane
+0,Ian McLaren
+0,Jonah Thiele
+0,Jordan Atchison
+0,Markus Hernandez
+0,Max Pettenuzzo
+0,NATHAN LAM
+0,PATRICK FRISBY
+0,Zhangsong Gao
+3,Duncan Armstrong
+7,Nyle Lebbell
+8,Joshua Perina
+14,Ian Robinson
+22,Oliver Telfer
+25,Jozef Gaber
+33,Pascal Begin-Nose
+54,Shayne Pfeifer
+55,Ben Baird
+72,Timothy Friesen
+79,Ian Hamilton
+81,Theo Davis
+b,r,e,a,k
 Switchback,7
 teamInfo,,"Seattle, Washington",https://switchbackultimate.com/,,https://twitter.com/Switchback_Ulti
 0,Sean Duncan
@@ -140,33 +167,6 @@ teamInfo,,"Seattle, Washington",https://switchbackultimate.com/,,https://twitter
 00,Phillip Korolog
 00,Sahaj Olivar
 00,Samuel Hinson
-b,r,e,a,k
-Surf,12
-teamInfo,,"Victoria, British Columbia CA",,,
-0,Benjamin Savage
-0,Blake Dyer
-0,David Goluskin
-0,Dylan Cochrane
-0,Ian McLaren
-0,Jonah Thiele
-0,Jordan Atchison
-0,Markus Hernandez
-0,Max Pettenuzzo
-0,NATHAN LAM
-0,PATRICK FRISBY
-0,Zhangsong Gao
-3,Duncan Armstrong
-7,Nyle Lebbell
-8,Joshua Perina
-14,Ian Robinson
-22,Oliver Telfer
-25,Jozef Gaber
-33,Pascal Begin-Nose
-54,Shayne Pfeifer
-55,Ben Baird
-72,Timothy Friesen
-79,Ian Hamilton
-81,Theo Davis
 b,r,e,a,k
 Furious George,3
 teamInfo,,"Vancouver, British Columbia CA",,https://www.facebook.com/FuriousGeorgeUltimate,https://twitter.com/FuriousUltimate
@@ -341,7 +341,7 @@ Mystery Gang,SOUF,15,9,"09/23/2023, 13:00",Pool A,Final
 pool,Pool B
 Rhino Slam!,Surf,15,7,"09/23/2023, 09:00",Pool B,Final
 Rhino Slam!,Switchback,15,7,"09/23/2023, 11:00",Pool B,Final
-Switchback,Surf,0,0,"09/23/2023, 13:00",Pool B,Scheduled
+Switchback,Surf,10,13,"09/23/2023, 13:00",Pool B,Final
 pool,Pool C
 Furious George,Sawtooth,15,9,"09/23/2023, 09:00",Pool C,Final
 Furious George,Shrimp,15,6,"09/23/2023, 11:00",Pool C,Final
@@ -360,12 +360,18 @@ b,r,e,a,k
 pools,Consolation Pool
 pool,Pool E
 SOUF,Sawtooth,0,0,"09/24/2023, 09:00",Pool E,Scheduled
+Switchback,Ghost Train,0,0,"09/24/2023, 09:00",Pool E,Scheduled
 SOUF,Ghost Train,0,0,"09/24/2023, 11:00",Pool E,Scheduled
+Switchback,Sawtooth,0,0,"09/24/2023, 11:00",Pool E,Scheduled
+SOUF,Switchback,0,0,"09/24/2023, 13:00",Pool E,Scheduled
 Sawtooth,Ghost Train,0,0,"09/24/2023, 13:00",Pool E,Scheduled
 b,r,e,a,k
 clusters,Cross Over
 cluster,Cross Over
 Sockeye,Furious George,0,0,"09/23/2023, 15:00",,Scheduled
+Rhino Slam!,Dark Star,0,0,"09/23/2023, 15:00",,Scheduled
+Jen City Executives,Switchback,0,0,"09/23/2023, 15:00",,Scheduled
 Shrimp,SOUF,0,0,"09/23/2023, 15:00",,Scheduled
+Surf,Ghost Train,0,0,"09/23/2023, 15:00",,Scheduled
 Mystery Gang,Sawtooth,0,0,"09/23/2023, 15:00",,Scheduled
 b,r,e,a,k
