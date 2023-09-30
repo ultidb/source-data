@@ -472,7 +472,7 @@ Mad Men,HouSE,15,4,"09/30/2023, 09:00",Pool B,Final
 Kansas City Smokestack,NOx,15,4,"09/30/2023, 09:00",Pool B,Final
 Mad Men,NOx,15,6,"09/30/2023, 11:00",Pool B,Final
 Kansas City Smokestack,HouSE,15,6,"09/30/2023, 11:00",Pool B,Final
-Mad Men,Kansas City Smokestack,0,0,"09/30/2023, 13:00",Pool B,Scheduled
+Mad Men,Kansas City Smokestack,6,11,"09/30/2023, 13:00",Pool B,Final
 HouSE,NOx,0,0,"09/30/2023, 13:00",Pool B,Scheduled
 pool,Pool C
 General Strike,Bux,15,10,"09/30/2023, 09:00",Pool C,Final
@@ -485,9 +485,9 @@ pool,Pool D
 Mallard,Scythe,15,3,"09/30/2023, 09:00",Pool D,Final
 Sub Zero,DCVIII,15,3,"09/30/2023, 09:00",Pool D,Final
 Mallard,DCVIII,15,4,"09/30/2023, 11:00",Pool D,Final
-Sub Zero,Scythe,0,0,"09/30/2023, 11:00",Pool D,Scheduled
-Mallard,Sub Zero,0,0,"09/30/2023, 13:00",Pool D,Scheduled
-Scythe,DCVIII,15,7,"09/30/2023, 13:00",Pool D,Scheduled
+Sub Zero,Scythe,15,5,"09/30/2023, 11:00",Pool D,Final
+Mallard,Sub Zero,10,7,"09/30/2023, 13:00",Pool D,Final
+Scythe,DCVIII,15,7,"09/30/2023, 13:00",Pool D,Final
 b,r,e,a,k
 brackets,Bracket Play
 bracket,Championship Bracket
