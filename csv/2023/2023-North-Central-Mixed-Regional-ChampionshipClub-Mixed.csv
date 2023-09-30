@@ -61,6 +61,64 @@ coaches,Rebecca Crown
 77,Kayla Anderson
 99,Ellie Stone
 b,r,e,a,k
+Kansas City United,3
+teamInfo,,"Kansas City, Kansas",,,https://twitter.com/turtleskc
+0,Christian Simpson
+0,Clare Frantz
+0,Janani Ragothaman
+0,Jordan Eissner
+0,Lauren Wiggins
+0,Madison Fulte
+0,Nadine Rowen
+0,Sowmya Ragothaman
+4,Joe Young
+4,Gabriel Valencia
+5,Courtney Walbe
+5,Allen Jones
+5,Taylor Cauthon
+8,Cameron Guidry
+10,Peter (PJ) Matulka
+11,Thomas Schreiber
+16,Taylor Hession
+17,Joe Wheelock
+18,Haley Johnson
+22,Travis Pratt
+24,Danny Kurz
+25,Jessica Tiller
+32,Drew Taylor
+33,Ryan Tuschhoff
+42,David Valentine-Elam
+86,Amanda Johnson
+b,r,e,a,k
+NOISE,2
+teamInfo,,"Madison, Wisconsin",http://noiseultimate.wordpress.com/,,www.twitter.com/NOISEUltimate
+00,Donna Johnston
+02,Tyler Williams
+03,Kelsen Alexander
+05,Rose Glinka
+07,Vanessa Cannaday
+10,Tom Annen
+12,Sydney French
+16,Allison Chmaj
+19,Emily Cohen
+21,Avery Johnson
+23,Marin Cohan
+24,James Sykora
+27,Nasser Mbae Vogel
+30,Jeffrey Rehm
+32,Daniel Garlock
+33,Katy Stanton
+34,Ben Parrell
+42,Ashley Welsh
+43,Kevin Cannaday
+49,Robyn Fennig
+51,Matthew Grinde
+77,Jack Kelly
+87,Austin Prucha
+91,Sadie Reding
+94,Pieran Robert
+99,Caitlin Murphy
+b,r,e,a,k
 Minnesota Star Power,9
 teamInfo,,"Minneapolis/ St. Paul, Minnesota",http://minnesotastarpower.weebly.com/,http://www.facebook.com/MinnesotaStarPower/,https://twitter.com/mnstarpower
 0,Danny Hobday
@@ -118,35 +176,6 @@ teamInfo,,"Wichita, Kansas",,https://www.facebook.com/ImpactUltimate/,https://tw
 81,Patrick Loganbill
 86,Emily Beeson
 88,Abigail Ned
-b,r,e,a,k
-Kansas City United,3
-teamInfo,,"Kansas City, Kansas",,,https://twitter.com/turtleskc
-0,Christian Simpson
-0,Clare Frantz
-0,Janani Ragothaman
-0,Jordan Eissner
-0,Lauren Wiggins
-0,Madison Fulte
-0,Nadine Rowen
-0,Sowmya Ragothaman
-4,Joe Young
-4,Gabriel Valencia
-5,Courtney Walbe
-5,Allen Jones
-5,Taylor Cauthon
-8,Cameron Guidry
-10,Peter (PJ) Matulka
-11,Thomas Schreiber
-16,Taylor Hession
-17,Joe Wheelock
-18,Haley Johnson
-22,Travis Pratt
-24,Danny Kurz
-25,Jessica Tiller
-32,Drew Taylor
-33,Ryan Tuschhoff
-42,David Valentine-Elam
-86,Amanda Johnson
 b,r,e,a,k
 Northern Comfort,6
 teamInfo,,"Milwaukee, Wisconsin",,https://www.facebook.com/northerncomfortultimate/,https://www.twitter.com/nocoultimate
@@ -206,35 +235,6 @@ teamInfo,,"Twin Cities, Minnesota",,,https://twitter.com/notouchingult
 88,Patrick Jensen
 96,Brian Edgerton
 97,Megan Asturias
-b,r,e,a,k
-NOISE,2
-teamInfo,,"Madison, Wisconsin",http://noiseultimate.wordpress.com/,,www.twitter.com/NOISEUltimate
-00,Donna Johnston
-02,Tyler Williams
-03,Kelsen Alexander
-05,Rose Glinka
-07,Vanessa Cannaday
-10,Tom Annen
-12,Sydney French
-16,Allison Chmaj
-19,Emily Cohen
-21,Avery Johnson
-23,Marin Cohan
-24,James Sykora
-27,Nasser Mbae Vogel
-30,Jeffrey Rehm
-32,Daniel Garlock
-33,Katy Stanton
-34,Ben Parrell
-42,Ashley Welsh
-43,Kevin Cannaday
-49,Robyn Fennig
-51,Matthew Grinde
-77,Jack Kelly
-87,Austin Prucha
-91,Sadie Reding
-94,Pieran Robert
-99,Caitlin Murphy
 b,r,e,a,k
 Arms Race,16
 teamInfo,,"Iowa City, Iowa",,,
@@ -464,10 +464,11 @@ s,t,a,g,e,s
 brackets,Bracket Play
 bracket,Championship
 Drag'n Thrust,The Chad Larson Experience,0,0,"09/30/2023, 15:00",Semis,Scheduled
+Kansas City United,NOISE,0,0,"09/30/2023, 15:00",Semis,Scheduled
 Drag'n Thrust,Minnesota Star Power,15,6,"09/30/2023, 11:00",Quarters,Final
 The Chad Larson Experience,Impact,11,9,"09/30/2023, 11:00",Quarters,Final
 Kansas City United,Northern Comfort,13,7,"09/30/2023, 11:00",Quarters,Final
-No Touching!,NOISE,4,15,"09/30/2023, 11:00",Quarters,Scheduled
+No Touching!,NOISE,4,15,"09/30/2023, 11:00",Quarters,Final
 Drag'n Thrust,Arms Race,15,4,"09/30/2023, 09:00",Pre-Quarters,Final
 Bird,Minnesota Star Power,10,15,"09/30/2023, 09:00",Pre-Quarters,Final
 The Chad Larson Experience,Mad Udderburn,15,12,"09/30/2023, 09:00",Pre-Quarters,Final
@@ -477,6 +478,7 @@ Northern Comfort,Bantr,15,12,"09/30/2023, 09:00",Pre-Quarters,Final
 No Touching!,Pushovers,15,8,"09/30/2023, 09:00",Pre-Quarters,Final
 NOISE,Boomtown Pandas,15,3,"09/30/2023, 09:00",Pre-Quarters,Final
 bracket,Backdoor Bracket
+No Touching!,Bird,0,0,"09/30/2023, 13:00",2nd Place Round 2,Scheduled
 Northern Comfort,Mad Udderburn,0,0,"09/30/2023, 13:00",2nd Place Round 2,Scheduled
 Impact,Bantr,0,0,"09/30/2023, 13:00",2nd Place Round 2,Scheduled
 Minnesota Star Power,Pushovers,0,0,"09/30/2023, 13:00",2nd Place Round 2,Scheduled
