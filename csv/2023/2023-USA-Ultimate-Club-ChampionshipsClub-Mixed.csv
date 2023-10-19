@@ -356,35 +356,6 @@ coaches,Tracey Lo
 88,Mark Whitton
 92,Tobey Chang
 b,r,e,a,k
-Lawless,16
-teamInfo,,"Phoenix, Arizona",,,https://twitter.com/ArizonaLawless
-coaches,Mark Borger,John Patinella
-01,Shane Davidson
-02,Andrew Kohl
-03,Mario Verdugo
-05,Dakota Lippincott
-07,Cynthia Thomas
-08,Shelby Petty
-11,Melissa Dunn
-15,Stefanie Nguyen
-16,Audrey Brown
-19,Madison Speagle
-20,Ryan Irvin
-21,Caroline OConnell
-22,Samuel Fontaine
-26,Lauren Pisani
-29,Marshall Crawford
-30,Amy Halvorsen
-32,Ryan Lacy
-33,Carl Morgenstern
-37,Jackie Welsch
-51,Kay Powell
-52,Annie Ngo
-66,Oliver Artus
-67,Taylor Gilman
-80,Travis Dunn
-88,Garrett Hable
-b,r,e,a,k
 Slow,9
 teamInfo,,"Boston, Massachusetts",,https://www.facebook.com/SlowWhiteUltimate/,https://twitter.com/SlowWhite_
 coaches,Marshall Goff,Sophia Herscu,Courtney Verhaalen
@@ -414,6 +385,35 @@ coaches,Marshall Goff,Sophia Herscu,Courtney Verhaalen
 82,Edward Tu
 83,Lucas Lytel
 89,Emma Palacio
+b,r,e,a,k
+Lawless,16
+teamInfo,,"Phoenix, Arizona",,,https://twitter.com/ArizonaLawless
+coaches,Mark Borger,John Patinella
+01,Shane Davidson
+02,Andrew Kohl
+03,Mario Verdugo
+05,Dakota Lippincott
+07,Cynthia Thomas
+08,Shelby Petty
+11,Melissa Dunn
+15,Stefanie Nguyen
+16,Audrey Brown
+19,Madison Speagle
+20,Ryan Irvin
+21,Caroline OConnell
+22,Samuel Fontaine
+26,Lauren Pisani
+29,Marshall Crawford
+30,Amy Halvorsen
+32,Ryan Lacy
+33,Carl Morgenstern
+37,Jackie Welsch
+51,Kay Powell
+52,Annie Ngo
+66,Oliver Artus
+67,Taylor Gilman
+80,Travis Dunn
+88,Garrett Hable
 b,r,e,a,k
 BFG,4
 teamInfo,,"Seattle, Washington",,,https://twitter.com/SeattleBFG
@@ -479,13 +479,13 @@ pools,Pool Play
 pool,Pool A
 shame.,'Shine,15,8,"10/19/2023, 09:00",Pool A,Final
 Sprocket,Rally,15,7,"10/19/2023, 09:00",Pool A,Final
-shame.,Rally,0,0,"10/19/2023, 11:15",Pool A,Scheduled
-Sprocket,'Shine,0,0,"10/19/2023, 11:15",Pool A,Scheduled
+shame.,Rally,1,1,"10/19/2023, 11:15",Pool A,Scheduled
+Sprocket,'Shine,1,2,"10/19/2023, 11:15",Pool A,Scheduled
 shame.,Sprocket,0,0,"10/19/2023, 13:30",Pool A,Scheduled
 'Shine,Rally,0,0,"10/19/2023, 13:30",Pool A,Scheduled
 pool,Pool B
-Drag'n Thrust,Red Flag,0,0,"10/19/2023, 11:15",Pool B,Scheduled
-XIST,Mischief,0,0,"10/19/2023, 11:15",Pool B,Scheduled
+Drag'n Thrust,Red Flag,2,1,"10/19/2023, 11:15",Pool B,Scheduled
+XIST,Mischief,2,1,"10/19/2023, 11:15",Pool B,Scheduled
 Drag'n Thrust,Mischief,0,0,"10/19/2023, 13:30",Pool B,Scheduled
 XIST,Red Flag,0,0,"10/19/2023, 13:30",Pool B,Scheduled
 Drag'n Thrust,XIST,0,0,"10/19/2023, 15:45",Pool B,Scheduled
@@ -498,10 +498,10 @@ Seattle Mixtape,NOISE,0,0,"10/19/2023, 13:30",Pool C,Scheduled
 AMP,Seattle Mixtape,0,0,"10/19/2023, 15:45",Pool C,Scheduled
 NOISE,Hybrid,0,0,"10/19/2023, 15:45",Pool C,Scheduled
 pool,Pool D
-BFG,Slow,11,12,"10/19/2023, 09:00",Pool D,In Progress
+BFG,Slow,11,12,"10/19/2023, 09:00",Pool D,Final
 Cleveland Crocs,Lawless,14,15,"10/19/2023, 09:00",Pool D,Final
-BFG,Lawless,0,0,"10/19/2023, 11:15",Pool D,Scheduled
-Cleveland Crocs,Slow,0,0,"10/19/2023, 11:15",Pool D,Scheduled
+BFG,Lawless,2,0,"10/19/2023, 11:15",Pool D,Scheduled
+Cleveland Crocs,Slow,2,2,"10/19/2023, 11:15",Pool D,Scheduled
 BFG,Cleveland Crocs,0,0,"10/19/2023, 15:45",Pool D,Scheduled
 Slow,Lawless,0,0,"10/19/2023, 15:45",Pool D,Scheduled
 b,r,e,a,k
