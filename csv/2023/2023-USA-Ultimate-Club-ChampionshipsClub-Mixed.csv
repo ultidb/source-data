@@ -239,36 +239,6 @@ coaches,Jonathan He,Alexander Lam
 93,Mika Kurahashi
 98,Lauren Szeto-Fung
 b,r,e,a,k
-AMP,3
-teamInfo,,"Philadelphia, Pennsylvania",http://www.phillyamp.com,https://www.facebook.com/PhillyAMP,https://www.twitter.com/phillyamp
-coaches,Patrick Sherlock,Andrea Desabato
-01,Delrico Johnson
-02,Sam Grossberg
-03,Rachel Alfano
-04,Raha Mozaffari
-05,Lindsay McKenna
-06,Thomas Nye
-08,Jordan Rhyne
-10,Spencer DeRoos
-13,Eric Witmer
-15,Layne Dodge
-16,Grace Maroon
-18,Sumi Onoe
-21,Linda Morse
-22,Liz Hart
-23,Natalie Bova
-24,Danielle Walsh
-27,Luke Greenley
-34,Olivia Steinberg
-36,Adilina Malave
-44,Max Charles
-53,Will Helenski
-54,Henry Ing
-55,Michael Campanella
-70,Jake Butrica
-88,Paul Owens
-99,Eric Nardelli
-b,r,e,a,k
 Seattle Mixtape,6
 teamInfo,,"Seattle, Washington",,https://www.facebook.com/206ghettobirds/,https://twitter.com/SeattleMIXtape
 coaches,Bryson Fox,Drew Johnson
@@ -299,6 +269,64 @@ coaches,Bryson Fox,Drew Johnson
 88,Brandon Li
 99,Khalif El-Salaam
 b,r,e,a,k
+Hybrid,15
+teamInfo,,"Ann Arbor, Michigan",,https://www.facebook.com/HybridUltimate/,https://twitter.com/HybridUltimate
+coaches,Tracey Lo
+03,Sara Nitz
+04,Theo Shapinsky
+05,Hayley Banas
+06,Nora Mertz
+08,Dan Donovan
+10,Brittany Wright
+11,Annalise Meilink
+13,Dalton Smith
+16,Riely Kuznicki
+18,Laura  Gerencser
+19,Amy Turner
+21,Tracey Lo
+22,Michael Dagher-Margosian
+24,Charlotte Wilson
+25,Chris Doehring
+26,David Zoldan
+33,James Hill
+42,Nathan Champoux
+73,Maya Grumeretz
+76,Adam Stautberg
+77,Katrina McGuire
+84,Cian Johnson
+88,Mark Whitton
+92,Tobey Chang
+b,r,e,a,k
+AMP,3
+teamInfo,,"Philadelphia, Pennsylvania",http://www.phillyamp.com,https://www.facebook.com/PhillyAMP,https://www.twitter.com/phillyamp
+coaches,Patrick Sherlock,Andrea Desabato
+01,Delrico Johnson
+02,Sam Grossberg
+03,Rachel Alfano
+04,Raha Mozaffari
+05,Lindsay McKenna
+06,Thomas Nye
+08,Jordan Rhyne
+10,Spencer DeRoos
+13,Eric Witmer
+15,Layne Dodge
+16,Grace Maroon
+18,Sumi Onoe
+21,Linda Morse
+22,Liz Hart
+23,Natalie Bova
+24,Danielle Walsh
+27,Luke Greenley
+34,Olivia Steinberg
+36,Adilina Malave
+44,Max Charles
+53,Will Helenski
+54,Henry Ing
+55,Michael Campanella
+70,Jake Butrica
+88,Paul Owens
+99,Eric Nardelli
+b,r,e,a,k
 NOISE,10
 teamInfo,,"Madison, Wisconsin",http://noiseultimate.wordpress.com/,,www.twitter.com/NOISEUltimate
 00,Donna Johnston
@@ -327,34 +355,6 @@ teamInfo,,"Madison, Wisconsin",http://noiseultimate.wordpress.com/,,www.twitter.
 91,Sadie Reding
 94,Pieran Robert
 99,Caitlin Murphy
-b,r,e,a,k
-Hybrid,15
-teamInfo,,"Ann Arbor, Michigan",,https://www.facebook.com/HybridUltimate/,https://twitter.com/HybridUltimate
-coaches,Tracey Lo
-03,Sara Nitz
-04,Theo Shapinsky
-05,Hayley Banas
-06,Nora Mertz
-08,Dan Donovan
-10,Brittany Wright
-11,Annalise Meilink
-13,Dalton Smith
-16,Riely Kuznicki
-18,Laura  Gerencser
-19,Amy Turner
-21,Tracey Lo
-22,Michael Dagher-Margosian
-24,Charlotte Wilson
-25,Chris Doehring
-26,David Zoldan
-33,James Hill
-42,Nathan Champoux
-73,Maya Grumeretz
-76,Adam Stautberg
-77,Katrina McGuire
-84,Cian Johnson
-88,Mark Whitton
-92,Tobey Chang
 b,r,e,a,k
 Slow,9
 teamInfo,,"Boston, Massachusetts",,https://www.facebook.com/SlowWhiteUltimate/,https://twitter.com/SlowWhite_
@@ -481,8 +481,8 @@ shame.,'Shine,15,8,"10/19/2023, 09:00",Pool A,Final
 Sprocket,Rally,15,7,"10/19/2023, 09:00",Pool A,Final
 shame.,Rally,15,9,"10/19/2023, 11:15",Pool A,Final
 Sprocket,'Shine,15,11,"10/19/2023, 11:15",Pool A,Final
-shame.,Sprocket,14,8,"10/19/2023, 13:30",Pool A,Scheduled
-'Shine,Rally,10,13,"10/19/2023, 13:30",Pool A,Scheduled
+shame.,Sprocket,15,10,"10/19/2023, 13:30",Pool A,Scheduled
+'Shine,Rally,10,15,"10/19/2023, 13:30",Pool A,Scheduled
 pool,Pool B
 Drag'n Thrust,Red Flag,15,7,"10/19/2023, 11:15",Pool B,Final
 XIST,Mischief,15,11,"10/19/2023, 11:15",Pool B,Final
@@ -493,8 +493,8 @@ Red Flag,Mischief,0,0,"10/19/2023, 15:45",Pool B,Scheduled
 pool,Pool C
 AMP,NOISE,15,12,"10/19/2023, 09:00",Pool C,Final
 Seattle Mixtape,Hybrid,15,12,"10/19/2023, 09:00",Pool C,Final
-AMP,Hybrid,10,13,"10/19/2023, 13:30",Pool C,Scheduled
-Seattle Mixtape,NOISE,14,9,"10/19/2023, 13:30",Pool C,Scheduled
+AMP,Hybrid,10,14,"10/19/2023, 13:30",Pool C,Final
+Seattle Mixtape,NOISE,15,9,"10/19/2023, 13:30",Pool C,Scheduled
 AMP,Seattle Mixtape,0,0,"10/19/2023, 15:45",Pool C,Scheduled
 NOISE,Hybrid,0,0,"10/19/2023, 15:45",Pool C,Scheduled
 pool,Pool D
