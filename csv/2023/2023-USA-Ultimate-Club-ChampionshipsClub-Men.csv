@@ -30,36 +30,6 @@ coaches,Joseph Durst,Michael Lun,Tim Kefalas
 81,Nathan Buchholz
 88,Quinn Finer
 b,r,e,a,k
-Truck Stop,1
-teamInfo,,"Washington, District of Columbia",,https://www.facebook.com/TruckStopUltimate/,https://twitter.com/truckstopulti
-coaches,Alexander Crew,Lauren Boyle
-02,Isaac Lee
-03,Alexandre Fall
-04,Charles McCutcheon
-05,David Cranston
-08,Thomas Edmonds
-09,Benjamin Oort
-10,Tyler Monroe
-11,Luke Rehfuss
-12,Matthew Rowan McDonnell
-13,Cole Jurek
-14,Aaron Bartlett
-16,AJ Merriman
-17,Moussa Dia
-21,Rhys Bergeron
-24,Jacques Nissen
-25,Marcus Thaw
-30,David Bloodgood
-31,Christian Boxley
-32,Andrew Roy
-45,Jeff Wodatch
-52,Gus Norrbom
-53,Jonny Malks
-57,Jasper Tom
-73,Frederick Farah
-78,Jeremy Knopf
-91,Troy Holland
-b,r,e,a,k
 Ring of Fire,8
 teamInfo,,"Raleigh, North Carolina",https://ringultimate.org/,,https://twitter.com/ringultimate
 coaches,David Allison,Michael Lee
@@ -90,6 +60,36 @@ coaches,David Allison,Michael Lee
 80,Alexander Davis
 87,Ethan Bloodworth
 b,r,e,a,k
+Truck Stop,1
+teamInfo,,"Washington, District of Columbia",,https://www.facebook.com/TruckStopUltimate/,https://twitter.com/truckstopulti
+coaches,Alexander Crew,Lauren Boyle
+02,Isaac Lee
+03,Alexandre Fall
+04,Charles McCutcheon
+05,David Cranston
+08,Thomas Edmonds
+09,Benjamin Oort
+10,Tyler Monroe
+11,Luke Rehfuss
+12,Matthew Rowan McDonnell
+13,Cole Jurek
+14,Aaron Bartlett
+16,AJ Merriman
+17,Moussa Dia
+21,Rhys Bergeron
+24,Jacques Nissen
+25,Marcus Thaw
+30,David Bloodgood
+31,Christian Boxley
+32,Andrew Roy
+45,Jeff Wodatch
+52,Gus Norrbom
+53,Jonny Malks
+57,Jasper Tom
+73,Frederick Farah
+78,Jeremy Knopf
+91,Troy Holland
+b,r,e,a,k
 Dark Star,13
 teamInfo,,"Eugene, Oregon",http://www.darkstarultimate.com,,https://twitter.com/eugenedarkstar
 coaches,Taylor White
@@ -118,36 +118,6 @@ coaches,Taylor White
 80,Braedon Petrus
 81,Emmett Warner
 94,Scott Radlauer
-b,r,e,a,k
-Doublewide,7
-teamInfo,,"Austin, Texas",https://wellnasty.com/,https://www.facebook.com/DoublewideTX/,https://twitter.com/doublewidetx
-coaches,Bjorn Schey
-0,Saaketh Palchuru
-01,Kolbe Bauer
-02,Kaplan Maurer
-04,Evan Swiatek
-05,Emmanuel Bilolo
-08,Robert Coffin
-09,Jason Hustad
-10,Alec Wilson Holliday
-11,Reese Bowman
-12,Noah Chambers
-14,Mark Evans
-18,Elliott Moore
-19,Kevin Richardson
-20,Chase Cunningham
-21,Xavier Fuzat
-27,Jacob Sames
-28,Jackson Potts
-33,Jacob Radack
-34,Zachary Slayton
-41,Oliver Fay
-43,Joseph Wylie
-50,Matthew Armour
-69,Christopher Cassella
-73,Gavin Babbitt
-88,Duncan Fitzgerald
-99,Sam Murphy
 b,r,e,a,k
 PoNY,2
 teamInfo,,"New York, New York",,https://www.facebook.com/ponyultimate,https://twitter.com/PrideofNY
@@ -178,6 +148,36 @@ coaches,Justin Pierce,Bryan Jones,Cody Mills,Isaac Saul
 81,Sean Mott
 82,Marques Brownlee
 87,Jeffrey Babbitt
+b,r,e,a,k
+Doublewide,7
+teamInfo,,"Austin, Texas",https://wellnasty.com/,https://www.facebook.com/DoublewideTX/,https://twitter.com/doublewidetx
+coaches,Bjorn Schey
+0,Saaketh Palchuru
+01,Kolbe Bauer
+02,Kaplan Maurer
+04,Evan Swiatek
+05,Emmanuel Bilolo
+08,Robert Coffin
+09,Jason Hustad
+10,Alec Wilson Holliday
+11,Reese Bowman
+12,Noah Chambers
+14,Mark Evans
+18,Elliott Moore
+19,Kevin Richardson
+20,Chase Cunningham
+21,Xavier Fuzat
+27,Jacob Sames
+28,Jackson Potts
+33,Jacob Radack
+34,Zachary Slayton
+41,Oliver Fay
+43,Joseph Wylie
+50,Matthew Armour
+69,Christopher Cassella
+73,Gavin Babbitt
+88,Duncan Fitzgerald
+99,Sam Murphy
 b,r,e,a,k
 Raleigh-Durham United,11
 teamInfo,,"Raleigh, North Carolina",https://www.instagram.com/rduultimate/,,https://twitter.com/rduultimate
@@ -483,12 +483,12 @@ pool,Pool A
 Truck Stop,Johnny Bravo,14,15,"10/19/2023, 09:00",Pool A,Final
 Ring of Fire,Dark Star,15,9,"10/19/2023, 09:00",Pool A,Final
 Truck Stop,Dark Star,15,4,"10/19/2023, 11:15",Pool A,Final
-Ring of Fire,Johnny Bravo,12,15,"10/19/2023, 11:15",Pool A,Final
+Ring of Fire,Johnny Bravo,9,12,"10/19/2023, 11:15",Pool A,Scheduled
 Truck Stop,Ring of Fire,0,0,"10/19/2023, 13:30",Pool A,Scheduled
 Johnny Bravo,Dark Star,0,0,"10/19/2023, 13:30",Pool A,Scheduled
 pool,Pool B
-PoNY,Raleigh-Durham United,14,11,"10/19/2023, 11:15",Pool B,Final
-Doublewide,Vault,15,9,"10/19/2023, 11:15",Pool B,Final
+PoNY,Raleigh-Durham United,9,8,"10/19/2023, 11:15",Pool B,Scheduled
+Doublewide,Vault,10,8,"10/19/2023, 11:15",Pool B,Scheduled
 PoNY,Vault,0,0,"10/19/2023, 13:30",Pool B,Scheduled
 Doublewide,Raleigh-Durham United,0,0,"10/19/2023, 13:30",Pool B,Scheduled
 PoNY,Doublewide,0,0,"10/19/2023, 15:45",Pool B,Scheduled
@@ -503,8 +503,8 @@ Rhino Slam!,Sub Zero,0,0,"10/19/2023, 15:45",Pool C,Scheduled
 pool,Pool D
 Chain Lightning,Furious George,15,7,"10/19/2023, 09:00",Pool D,Final
 Chicago Machine,Blueprint,15,9,"10/19/2023, 09:00",Pool D,Final
-Chain Lightning,Blueprint,15,8,"10/19/2023, 11:15",Pool D,Final
-Chicago Machine,Furious George,15,6,"10/19/2023, 11:15",Pool D,Final
+Chain Lightning,Blueprint,11,7,"10/19/2023, 11:15",Pool D,Scheduled
+Chicago Machine,Furious George,13,5,"10/19/2023, 11:15",Pool D,Scheduled
 Chain Lightning,Chicago Machine,0,0,"10/19/2023, 15:45",Pool D,Scheduled
 Furious George,Blueprint,0,0,"10/19/2023, 15:45",Pool D,Scheduled
 b,r,e,a,k
