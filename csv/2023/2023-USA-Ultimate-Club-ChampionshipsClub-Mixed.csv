@@ -239,6 +239,34 @@ coaches,Andrew Berry,Nathan Young
 91,Munis Thahir
 99,Dylan Burns
 b,r,e,a,k
+Hybrid,15
+teamInfo,,"Ann Arbor, Michigan",,https://www.facebook.com/HybridUltimate/,https://twitter.com/HybridUltimate
+coaches,Tracey Lo
+03,Sara Nitz
+04,Theo Shapinsky
+05,Hayley Banas
+06,Nora Mertz
+08,Dan Donovan
+10,Brittany Wright
+11,Annalise Meilink
+13,Dalton Smith
+16,Riely Kuznicki
+18,Laura  Gerencser
+19,Amy Turner
+21,Tracey Lo
+22,Michael Dagher-Margosian
+24,Charlotte Wilson
+25,Chris Doehring
+26,David Zoldan
+33,James Hill
+42,Nathan Champoux
+73,Maya Grumeretz
+76,Adam Stautberg
+77,Katrina McGuire
+84,Cian Johnson
+88,Mark Whitton
+92,Tobey Chang
+b,r,e,a,k
 Seattle Mixtape,6
 teamInfo,,"Seattle, Washington",,https://www.facebook.com/206ghettobirds/,https://twitter.com/SeattleMIXtape
 coaches,Bryson Fox,Drew Johnson
@@ -268,34 +296,6 @@ coaches,Bryson Fox,Drew Johnson
 82,Mario O'Brien
 88,Brandon Li
 99,Khalif El-Salaam
-b,r,e,a,k
-Hybrid,15
-teamInfo,,"Ann Arbor, Michigan",,https://www.facebook.com/HybridUltimate/,https://twitter.com/HybridUltimate
-coaches,Tracey Lo
-03,Sara Nitz
-04,Theo Shapinsky
-05,Hayley Banas
-06,Nora Mertz
-08,Dan Donovan
-10,Brittany Wright
-11,Annalise Meilink
-13,Dalton Smith
-16,Riely Kuznicki
-18,Laura  Gerencser
-19,Amy Turner
-21,Tracey Lo
-22,Michael Dagher-Margosian
-24,Charlotte Wilson
-25,Chris Doehring
-26,David Zoldan
-33,James Hill
-42,Nathan Champoux
-73,Maya Grumeretz
-76,Adam Stautberg
-77,Katrina McGuire
-84,Cian Johnson
-88,Mark Whitton
-92,Tobey Chang
 b,r,e,a,k
 AMP,3
 teamInfo,,"Philadelphia, Pennsylvania",http://www.phillyamp.com,https://www.facebook.com/PhillyAMP,https://www.twitter.com/phillyamp
@@ -356,6 +356,35 @@ teamInfo,,"Madison, Wisconsin",http://noiseultimate.wordpress.com/,,www.twitter.
 94,Pieran Robert
 99,Caitlin Murphy
 b,r,e,a,k
+BFG,4
+teamInfo,,"Seattle, Washington",,,https://twitter.com/SeattleBFG
+coaches,Corbin Atack
+00,Jason Yun
+02,Kimberly Schlesinger
+08,Jennifer Ricaurte
+11,Reid Koss
+12,Kaitlynne Roling
+14,Mohammud Tilmo
+15,Eliana Moskovitz
+17,Thomas Li
+18,Conor Belfield
+19,Derek Mourad
+20,Alexa Kirkland
+22,Jack Verzuh
+23,Linnea Soo
+24,Cheryl Hsu
+25,Tommy Lin
+27,Jeffrey Pape
+28,Leah Bar-On Simmons
+29,Sam Pickel
+30,Sarah Benditt
+32,Alissa Soo
+35,AnnaMaria Pape
+51,Sam Harkness
+66,Crystal Koo
+88,Linh Hoang
+95,Jamie Kauffman
+b,r,e,a,k
 Slow,9
 teamInfo,,"Boston, Massachusetts",,https://www.facebook.com/SlowWhiteUltimate/,https://twitter.com/SlowWhite_
 coaches,Marshall Goff,Sophia Herscu,Courtney Verhaalen
@@ -385,35 +414,6 @@ coaches,Marshall Goff,Sophia Herscu,Courtney Verhaalen
 82,Edward Tu
 83,Lucas Lytel
 89,Emma Palacio
-b,r,e,a,k
-BFG,4
-teamInfo,,"Seattle, Washington",,,https://twitter.com/SeattleBFG
-coaches,Corbin Atack
-00,Jason Yun
-02,Kimberly Schlesinger
-08,Jennifer Ricaurte
-11,Reid Koss
-12,Kaitlynne Roling
-14,Mohammud Tilmo
-15,Eliana Moskovitz
-17,Thomas Li
-18,Conor Belfield
-19,Derek Mourad
-20,Alexa Kirkland
-22,Jack Verzuh
-23,Linnea Soo
-24,Cheryl Hsu
-25,Tommy Lin
-27,Jeffrey Pape
-28,Leah Bar-On Simmons
-29,Sam Pickel
-30,Sarah Benditt
-32,Alissa Soo
-35,AnnaMaria Pape
-51,Sam Harkness
-66,Crystal Koo
-88,Linh Hoang
-95,Jamie Kauffman
 b,r,e,a,k
 Lawless,16
 teamInfo,,"Phoenix, Arizona",,,https://twitter.com/ArizonaLawless
@@ -495,18 +495,22 @@ AMP,NOISE,15,12,"10/19/2023, 09:00",Pool C,Final
 Seattle Mixtape,Hybrid,15,12,"10/19/2023, 09:00",Pool C,Final
 AMP,Hybrid,10,14,"10/19/2023, 13:30",Pool C,Final
 Seattle Mixtape,NOISE,15,9,"10/19/2023, 13:30",Pool C,Final
-AMP,Seattle Mixtape,14,11,"10/19/2023, 15:45",Pool C,Scheduled
-NOISE,Hybrid,10,15,"10/19/2023, 15:45",Pool C,Scheduled
+AMP,Seattle Mixtape,14,11,"10/19/2023, 15:45",Pool C,Final
+NOISE,Hybrid,10,15,"10/19/2023, 15:45",Pool C,Final
 pool,Pool D
 BFG,Slow,11,12,"10/19/2023, 09:00",Pool D,Final
 Cleveland Crocs,Lawless,14,15,"10/19/2023, 09:00",Pool D,Final
 BFG,Lawless,15,6,"10/19/2023, 11:15",Pool D,Final
 Cleveland Crocs,Slow,11,15,"10/19/2023, 11:15",Pool D,Final
-BFG,Cleveland Crocs,15,9,"10/19/2023, 15:45",Pool D,Scheduled
-Slow,Lawless,11,13,"10/19/2023, 15:45",Pool D,Scheduled
+BFG,Cleveland Crocs,15,9,"10/19/2023, 15:45",Pool D,Final
+Slow,Lawless,11,13,"10/19/2023, 15:45",Pool D,Final
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,Championship
+Drag'n Thrust,AMP,0,0,"10/20/2023, 09:00",Pre-Quarterfinal,Scheduled
+Red Flag,Seattle Mixtape,0,0,"10/20/2023, 09:00",Pre-Quarterfinal,Scheduled
+Slow,Rally,0,0,"10/20/2023, 09:00",Pre-Quarterfinal,Scheduled
+Lawless,Sprocket,0,0,"10/20/2023, 09:00",Pre-Quarterfinal,Scheduled
 b,r,e,a,k
 brackets,2024 Pro Flight Qualification
 bracket,5th Place Bracket
