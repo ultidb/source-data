@@ -357,36 +357,6 @@ coaches,Gregory Cousins,Raj Maitra
 82,Michael (Mike) Petersen
 99,Tristan Van De Moortele
 b,r,e,a,k
-Chain Lightning,4
-teamInfo,,"Atlanta, Georgia",,https://www.facebook.com/pages/Chain-Lightning-Ultimate/188026257831,https://twitter.com/ATLchain
-coaches,William Arnold,Miranda Knowles
-2,Hunter Taylor
-00,Liam Haberfield
-03,Patrick Earles
-04,Jeremy Langdon
-05,Michael Fairley
-06,Brett Hulsmeyer
-07,Parker Bray
-08,Lukas McClamrock
-09,Kenni Taylor
-10,Max Thorne
-11,Tyler Randall
-13,Adam Grossberg
-14,John Stubbs
-16,Edward Ramsey
-17,Hayden Austin-Knab
-18,Adam Miller
-19,Tannon Hedges
-20,Scott Whitley
-21,Coleman Tappero
-22,Tanner Robinson
-26,Christian Gaeta
-36,Nick Spiva
-42,Francisco Fernandez
-44,Mike Kobyra
-66,Jan Schmidt
-85,Tom Tulett
-b,r,e,a,k
 Chicago Machine,5
 teamInfo,,"Chicago, Illinois",http://www.chicago-machine.com,https://www.facebook.com/machineultimate,https://twitter.com/MachineUltimate
 coaches,James Highsmith,Kevin Yngve,Alex Champe,Joey Kennedy
@@ -417,35 +387,35 @@ coaches,James Highsmith,Kevin Yngve,Alex Champe,Joey Kennedy
 94,Jason  Vallee
 96,Asher Lantz
 b,r,e,a,k
-Blueprint,16
-teamInfo,,"New York, New York",,,https://twitter.com/nyc_blueprint
-coaches,Ryan Thompson,John Raynolds
-00,John Kern
-01,Sam Alston
-02,Samuel Pollack
-03,Evan Ma
-04,Garrett Wibbelsman
-05,Noam Fisherman
-06,Carter Wang
-07,Jesse Gan
-10,Andrew Edelman
-11,Max Cohen
-12,Ray Ye
-14,Dillon Cooke
-15,Jordan Richmond
-16,Joseph Copeland
-17,Patrick Stegemoeller
-22,Daniel Meiland
-24,Jacob  Cowan
-25,Drew Schnaudigel
-33,Samuel Ross
-35,Gary Delia
-42,Walter Roosa
-46,Ruozhou Ye
-47,Johnny Frohlichstein
-51,Christopher Bond
-52,Owen Marschall
-91,Jeffrey Voss
+Chain Lightning,4
+teamInfo,,"Atlanta, Georgia",,https://www.facebook.com/pages/Chain-Lightning-Ultimate/188026257831,https://twitter.com/ATLchain
+coaches,William Arnold,Miranda Knowles
+2,Hunter Taylor
+00,Liam Haberfield
+03,Patrick Earles
+04,Jeremy Langdon
+05,Michael Fairley
+06,Brett Hulsmeyer
+07,Parker Bray
+08,Lukas McClamrock
+09,Kenni Taylor
+10,Max Thorne
+11,Tyler Randall
+13,Adam Grossberg
+14,John Stubbs
+16,Edward Ramsey
+17,Hayden Austin-Knab
+18,Adam Miller
+19,Tannon Hedges
+20,Scott Whitley
+21,Coleman Tappero
+22,Tanner Robinson
+26,Christian Gaeta
+36,Nick Spiva
+42,Francisco Fernandez
+44,Mike Kobyra
+66,Jan Schmidt
+85,Tom Tulett
 b,r,e,a,k
 Furious George,9
 teamInfo,,"Vancouver, British Columbia CA",,https://www.facebook.com/FuriousGeorgeUltimate,https://twitter.com/FuriousUltimate
@@ -477,6 +447,36 @@ coaches,Matthew Berezan,Alexander Bellemare-Davis,Ben Burelle
 89,Kevin Underhill
 99,Vincent Bulloch
 b,r,e,a,k
+Blueprint,16
+teamInfo,,"New York, New York",,,https://twitter.com/nyc_blueprint
+coaches,Ryan Thompson,John Raynolds
+00,John Kern
+01,Sam Alston
+02,Samuel Pollack
+03,Evan Ma
+04,Garrett Wibbelsman
+05,Noam Fisherman
+06,Carter Wang
+07,Jesse Gan
+10,Andrew Edelman
+11,Max Cohen
+12,Ray Ye
+14,Dillon Cooke
+15,Jordan Richmond
+16,Joseph Copeland
+17,Patrick Stegemoeller
+22,Daniel Meiland
+24,Jacob  Cowan
+25,Drew Schnaudigel
+33,Samuel Ross
+35,Gary Delia
+42,Walter Roosa
+46,Ruozhou Ye
+47,Johnny Frohlichstein
+51,Christopher Bond
+52,Owen Marschall
+91,Jeffrey Voss
+b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
@@ -492,7 +492,7 @@ Doublewide,Vault,15,9,"10/19/2023, 11:15",Pool B,Final
 PoNY,Vault,15,7,"10/19/2023, 13:30",Pool B,Final
 Doublewide,Raleigh-Durham United,15,8,"10/19/2023, 13:30",Pool B,Final
 PoNY,Doublewide,15,4,"10/19/2023, 15:45",Pool B,Final
-Raleigh-Durham United,Vault,15,12,"10/19/2023, 15:45",Pool B,Scheduled
+Raleigh-Durham United,Vault,15,12,"10/19/2023, 15:45",Pool B,Final
 pool,Pool C
 Revolver,Rhino Slam!,15,12,"10/19/2023, 09:00",Pool C,Final
 DiG,Sub Zero,15,12,"10/19/2023, 09:00",Pool C,Final
@@ -505,11 +505,15 @@ Chain Lightning,Furious George,15,7,"10/19/2023, 09:00",Pool D,Final
 Chicago Machine,Blueprint,15,9,"10/19/2023, 09:00",Pool D,Final
 Chain Lightning,Blueprint,15,8,"10/19/2023, 11:15",Pool D,Final
 Chicago Machine,Furious George,15,6,"10/19/2023, 11:15",Pool D,Final
-Chain Lightning,Chicago Machine,10,15,"10/19/2023, 15:45",Pool D,Scheduled
-Furious George,Blueprint,15,9,"10/19/2023, 15:45",Pool D,Scheduled
+Chain Lightning,Chicago Machine,10,15,"10/19/2023, 15:45",Pool D,Final
+Furious George,Blueprint,15,9,"10/19/2023, 15:45",Pool D,Final
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,Championship
+Doublewide,Revolver,0,0,"10/20/2023, 09:00",Pre-Quarterfinals,Scheduled
+Raleigh-Durham United,Rhino Slam!,0,0,"10/20/2023, 09:00",Pre-Quarterfinals,Scheduled
+Chain Lightning,Truck Stop,0,0,"10/20/2023, 09:00",Pre-Quarterfinals,Scheduled
+Furious George,Ring of Fire,0,0,"10/20/2023, 09:00",Pre-Quarterfinals,Scheduled
 b,r,e,a,k
 brackets,2024 Pro Flight Qualification
 bracket,5th Place Bracket
