@@ -48,6 +48,28 @@ coaches,Michael Avila,Isaac Palmer
 70,Devak Coltrane
 84,Owen Hall
 b,r,e,a,k
+Asheville,8
+teamInfo,Asheville,"ASHEVILLE, North Carolina",,,
+coaches,Richard Holder,Brigitte Newsom,Tom House
+ ,Augustus
+ ,James
+0,Jasper Childs
+0,Nick Hardin-Nieri
+0,Noah Goldblatt
+0,Aeden Boyer
+0,Augustus Levin
+0,Berkeley Newsom
+0,Brayden Kaplinger
+0,Damon Simerly
+0,Errol Hill
+0,Evelyn Bick
+0,Finn Pagliaro
+01,Ian Adkins
+22,Walker Sanders
+27,Jonah Childs
+29,McCarter Young
+39,Rowan Armstrong
+b,r,e,a,k
 Greensboro High School 2023,6
 teamInfo,Greensboro High School,"Greensboro, North Carolina",,,
 0,Cameron Spong
@@ -94,28 +116,6 @@ coaches,Annie Bocko,Jonah Kadens
 4,Sean McGarrah
 8,Rhett Stevens
 42,Quinn Doyle
-b,r,e,a,k
-Asheville,8
-teamInfo,Asheville,"ASHEVILLE, North Carolina",,,
-coaches,Richard Holder,Brigitte Newsom,Tom House
- ,Augustus
- ,James
-0,Jasper Childs
-0,Nick Hardin-Nieri
-0,Noah Goldblatt
-0,Aeden Boyer
-0,Augustus Levin
-0,Berkeley Newsom
-0,Brayden Kaplinger
-0,Damon Simerly
-0,Errol Hill
-0,Evelyn Bick
-0,Finn Pagliaro
-01,Ian Adkins
-22,Walker Sanders
-27,Jonah Childs
-29,McCarter Young
-39,Rowan Armstrong
 b,r,e,a,k
 Carolina Friends School,2
 teamInfo,Carolina Friends School Boys,"Durham, North Carolina",,,
@@ -271,10 +271,11 @@ b,r,e,a,k
 s,t,a,g,e,s
 brackets,U20 Finals
 bracket,Championship
-Jordan High School,Greensboro High School 2023,0,0,"10/22/2023, 09:00",Quarters,In Progress
-Carrboro High School,Asheville,0,0,"10/22/2023, 09:00",Quarters,In Progress
+Jordan High School,Asheville,0,0,"10/22/2023, 11:00",Semis,In Progress
+Jordan High School,Greensboro High School 2023,13,4,"10/22/2023, 09:00",Quarters,Final
+Carrboro High School,Asheville,9,10,"10/22/2023, 09:00",Quarters,Final
 Carolina Friends School,Chapel Hill High School,0,0,"10/22/2023, 09:00",Quarters,In Progress
-Athens Drive High School,East Chapel Hill,0,0,"10/22/2023, 09:00",Quarters,In Progress
+Athens Drive High School,East Chapel Hill,12,9,"10/22/2023, 09:00",Quarters,Final
 b,r,e,a,k
 pools,U20 Pool Play
 pool,Pool E
@@ -300,6 +301,9 @@ Greensboro High School 2023,East Chapel Hill,3,15,"10/21/2023, 13:00",Pool F,Fin
 b,r,e,a,k
 pools,Sunday Consolation
 pool,Pool G
+Green Hope,Greensboro High School 2023,0,0,"10/22/2023, 11:00",Pool G,Scheduled
+Green Hope,Carrboro High School,0,0,"10/22/2023, 12:20",Pool G,Scheduled
+Greensboro High School 2023,East Chapel Hill,0,0,"10/22/2023, 13:40",Pool G,Scheduled
 b,r,e,a,k
 brackets,U20 Third Place
 bracket,3rd Place
