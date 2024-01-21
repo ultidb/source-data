@@ -127,21 +127,6 @@ teamInfo,Moxie,"Milwaukee, Wisconsin",https://marquette.presence.io/organization
 37,Kelci Saele
 44,Georgia Martin
 b,r,e,a,k
-Madison West High School,11
-teamInfo,Nemea,"Madison, Wisconsin",,,
-coaches,Laurel Schmidt
-0,ash Sloan
-0,Aubrey Krueger 
-0,Ava Lane
-0,Charlotte Olson
-0,Clara Warrick
-0,Fiona Wong
-0,Ilda Parker
-0,Laurel Schmidt
-0,Maxine Volkman
-0,Nora Zelinka
-0,Sarah Ross
-b,r,e,a,k
 OPRF +,10
 teamInfo,Huskies,"Oak Park, Illinois",,,
 coaches,Stacy Fifer
@@ -157,6 +142,21 @@ coaches,Stacy Fifer
 0,Liz Falck
 0,Lucinda Reeb
 44,Isadora Conour
+b,r,e,a,k
+Madison West High School,11
+teamInfo,Nemea,"Madison, Wisconsin",,,
+coaches,Laurel Schmidt
+0,ash Sloan
+0,Aubrey Krueger 
+0,Ava Lane
+0,Charlotte Olson
+0,Clara Warrick
+0,Fiona Wong
+0,Ilda Parker
+0,Laurel Schmidt
+0,Maxine Volkman
+0,Nora Zelinka
+0,Sarah Ross
 b,r,e,a,k
 Lane Tech,12
 teamInfo,voLTage,"Chicago, Illinois",http://www.lanetechultimate.org,,@ltultimate
@@ -211,22 +211,35 @@ Butta Flies,Six-Lined Racerunners,30,13,"01/21/2024, 08:00",Pool A,Final
 Heist,Medusa,26,12,"01/21/2024, 08:00",Pool A,Final
 Butta Flies,Heist,22,19,"01/21/2024, 09:00",Pool A,Final
 Six-Lined Racerunners,Medusa,18,14,"01/21/2024, 09:00",Pool A,Final
-Butta Flies,Medusa,0,0,"01/21/2024, 10:00",Pool A,Scheduled
+Butta Flies,Medusa,1,0,"01/21/2024, 10:00",Pool A,Final
 Six-Lined Racerunners,Heist,18,20,"01/21/2024, 10:00",Pool A,Final
 pool,Pool B
 Marquette,Davenport,12,11,"01/21/2024, 08:00",Pool B,Final
-St Olaf,Chicago,0,0,"01/21/2024, 08:00",Pool B,Scheduled
+St Olaf,Chicago,1,0,"01/21/2024, 08:00",Pool B,Final
 Marquette,St Olaf,5,19,"01/21/2024, 09:00",Pool B,Final
 Davenport,Chicago,13,12,"01/21/2024, 09:00",Pool B,Final
 Marquette,Chicago,8,14,"01/21/2024, 11:00",Pool B,Final
-Davenport,St Olaf,0,0,"01/21/2024, 11:00",Pool B,Scheduled
+Davenport,St Olaf,8,24,"01/21/2024, 11:00",Pool B,Final
 pool,Pool C
 Wauwatosa East,OPRF +,7,18,"01/21/2024, 08:00",Pool C,Final
 Madison West High School,Lane Tech,19,4,"01/21/2024, 08:00",Pool C,Final
 Wauwatosa East,Madison West High School,7,17,"01/21/2024, 10:00",Pool C,Final
-OPRF +,Lane Tech,0,0,"01/21/2024, 10:00",Pool C,Scheduled
+OPRF +,Lane Tech,1,0,"01/21/2024, 10:00",Pool C,Final
 Wauwatosa East,Lane Tech,5,17,"01/21/2024, 11:00",Pool C,Final
 OPRF +,Madison West High School,9,8,"01/21/2024, 11:00",Pool C,Final
 b,r,e,a,k
 clusters,Crossovers
+cluster,Crossovers
+Butta Flies,St Olaf,0,0,"01/21/2024, 12:00",,Scheduled
+Heist,Chicago,0,0,"01/21/2024, 12:00",,Scheduled
+Six-Lined Racerunners,Davenport,0,0,"01/21/2024, 12:00",,Scheduled
+Medusa,Marquette,0,0,"01/21/2024, 12:00",,Scheduled
+Butta Flies,OPRF +,0,0,"01/21/2024, 13:00",,Scheduled
+Heist,Madison West High School,0,0,"01/21/2024, 13:00",,Scheduled
+Six-Lined Racerunners,Lane Tech,0,0,"01/21/2024, 13:00",,Scheduled
+Medusa,Wauwatosa East,0,0,"01/21/2024, 13:00",,Scheduled
+St Olaf,OPRF +,0,0,"01/21/2024, 14:00",,Scheduled
+Chicago,Madison West High School,0,0,"01/21/2024, 14:00",,Scheduled
+Davenport,Lane Tech,0,0,"01/21/2024, 14:00",,Scheduled
+Marquette,Wauwatosa East,0,0,"01/21/2024, 14:00",,Scheduled
 b,r,e,a,k
