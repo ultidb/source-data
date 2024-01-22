@@ -41,8 +41,9 @@ b,r,e,a,k
 Appalachian State,8
 teamInfo,Nomads,"Boone, North Carolina",,,https://twitter.com/Nomads_Ultimate
 b,r,e,a,k
-SUNY-Binghamton,12
-teamInfo,Big Bear,"Binghamton , New York",https://bigbearultimate.wordpress.com/,https://www.facebook.com/binghamtonultimate/,
+North Carolina (B),12
+teamInfo,BatCH,"CHAPEL HILL, North Carolina",,https://www.facebook.com/uncbatch,https://www.twitter.com/unc_batch
+23,James Conley
 b,r,e,a,k
 Carolina Flyers Youth Academy U20,13
 teamInfo,,"Raleigh, North Carolina",https://theaudl.com/flyers/youth-academy,,https://twitter.com/FlyersAcademy
@@ -165,16 +166,17 @@ teamInfo,DUFF,"Davidson, North Carolina",,https://www.facebook.com/DavidsonUltim
 0,Ben Wagner
 0,Jerry Wang
 0,Jingyan Chi
-0,Nate Green
-0,Nicholas Layke
-0,Nicholas Skarbek-Borowski
+0,Patrick Grimes
 0,Ryan Wu
 0,Seth Pace
 0,Srijit Banerjee
 0,Steve M
 0,Truman Sandy
+0,Nate Green
+0,Nicholas Layke
 2,Garrett Ryan
 4,Wesley Smail
+6,Nicholas Skarbek-Borowski
 42,John Ready
 69,Shane Winner
 77,Josh Matushak
@@ -192,10 +194,10 @@ teamInfo,Lehigh,"Bethlehem, Pennsylvania",,,https://twitter.com/lehighultimate
 0,Carson Smith
 0,Aaron Lam
 0,Andrew Yu-Hwang
-0,Dominic Policarpo
 0,Ethan Meron
 0,Henry Winter
 0,Jake Schachter
+0,Matthias Culbertson
 0,Nathaniel Ivill-Weiner
 0,Thomas Gibbins
 2,Danny Dilsheimer
@@ -203,6 +205,7 @@ teamInfo,Lehigh,"Bethlehem, Pennsylvania",,,https://twitter.com/lehighultimate
 6,Michael Hazaz
 7,Jonathan Trzaska
 20,Zachary Weiser
+25,Dominic Policarpo
 44,David Hinkle
 58,Gregory Dardaris
 85,Thomas Dyett
@@ -233,6 +236,21 @@ coaches,Matt Forster
 b,r,e,a,k
 North Carolina-Wilmington,4
 teamInfo,Seamen,"Wilmington, North Carolina",http://seamenultimate.com/,https://www.facebook.com/seamenultimate,https://twitter.com/seamenultimate
+0,Charlie  Mosner
+0,Christian Belus
+0,Dylan Ng
+0,Ian Cobb
+0,Isaac Abelson
+0,James Thomas
+0,Kessler Teague
+0,Peter Xu
+0,Ryan Manuel
+0,Thomas DeMarkey
+6,Owen Maskelony
+12,Benjamin Hauptli
+16,Busbee Pace
+17,Colby Francfort
+97,Pablo Velosa
 b,r,e,a,k
 South Carolina,5
 teamInfo,Gamecock Ultimate,"Columbia, South Carolina",https://garnetgate.sa.sc.edu/organization/ufrisb,https://facebook.com/GamecockUltimate/,https://twitter.com/CocksUltimate
@@ -261,17 +279,33 @@ teamInfo,Gamecock Ultimate,"Columbia, South Carolina",https://garnetgate.sa.sc.e
 83,Nate Reiss
 86,Brad Thomson
 b,r,e,a,k
+Indiana,9
+teamInfo,HoosierMama?s,"Bloomington, Indiana",hoosiermamas.org,https://www.facebook.com/HoosierMamas/,https://twitter.com/Hoosier_Mamas?lang=en
+coaches,Connor Regan
+0,Collin Rassel
+0,Conner Blalack
+0,Ethan Meyers
+0,Hayden Bosch
+0,Jack Galle
+0,Jacob Moore
+0,Jeremy Weese
+0,John Tyndall
+0,Will Quigley
+3,Aidan Ball
+11,David Woods
+13,Charlie Riedel
+66,Sam Berebitsky
+b,r,e,a,k
 Tennessee,16
 teamInfo,Tennessee,"Knoxville, Tennessee",http://web.utk.edu/~ultimate/,http://facebook.com/TennUltimateM/,https://twitter.com/TennUltimateM
 b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
-Appalachian State,SUNY-Binghamton,0,0,"01/27/2024, 08:00",Pool A,Scheduled
+Appalachian State,North Carolina (B),0,0,"01/27/2024, 08:00",Pool A,Scheduled
 Appalachian State,Carolina Flyers Youth Academy U20,0,0,"01/27/2024, 09:45",Pool A,Scheduled
-North Carolina,SUNY-Binghamton,0,0,"01/27/2024, 11:30",Pool A,Scheduled
 North Carolina,Appalachian State,0,0,"01/27/2024, 13:15",Pool A,Scheduled
-SUNY-Binghamton,Carolina Flyers Youth Academy U20,0,0,"01/27/2024, 13:15",Pool A,Scheduled
+North Carolina (B),Carolina Flyers Youth Academy U20,0,0,"01/27/2024, 13:15",Pool A,Scheduled
 North Carolina,Carolina Flyers Youth Academy U20,0,0,"01/27/2024, 15:00",Pool A,Scheduled
 pool,Pool B
 Penn State,Georgetown,0,0,"01/27/2024, 08:00",Pool B,Scheduled
@@ -288,8 +322,11 @@ Duke,North Carolina-Charlotte,0,0,"01/27/2024, 11:30",Pool C,Scheduled
 Lehigh,Carleton College-CHOP,0,0,"01/27/2024, 13:15",Pool C,Scheduled
 Duke,Carleton College-CHOP,0,0,"01/27/2024, 15:00",Pool C,Scheduled
 pool,Pool D
+Indiana,Tennessee,0,0,"01/27/2024, 09:45",Pool D,Scheduled
+South Carolina,Indiana,0,0,"01/27/2024, 11:30",Pool D,Scheduled
 North Carolina-Wilmington,Tennessee,0,0,"01/27/2024, 11:30",Pool D,Scheduled
 North Carolina-Wilmington,South Carolina,0,0,"01/27/2024, 13:15",Pool D,Scheduled
+North Carolina-Wilmington,Indiana,0,0,"01/27/2024, 15:00",Pool D,Scheduled
 South Carolina,Tennessee,0,0,"01/27/2024, 15:00",Pool D,Scheduled
 b,r,e,a,k
 brackets,Bracket
@@ -302,6 +339,7 @@ brackets,9th Place Bracket
 bracket,9th Place Bracket
 bracket,11th Place Bracket
 bracket,13th Place Bracket
+bracket,15th Place Bracket
 b,r,e,a,k
 brackets,Showcase Game
 bracket,Showcase Game
