@@ -125,32 +125,6 @@ teamInfo,Pleasure,"Tempe, Arizona",https://arizonastateultimate.wordpress.com/,,
 78,Conner Derr
 99,Ryan Newton
 b,r,e,a,k
-Denver,6
-teamInfo,Sourdough,"Denver, Colorado",,,
-coaches,Phil Lohre
-0,Alexander Fleming
-0,Avery Fowler
-0,Benjamin Nichols
-0,Campbell Willmuth
-0,Carver Ward
-0,Dalton Ward
-0,Deven Walsh
-0,Egan Doherty
-0,Gavin Stevens 
-0,Hiroto Bauer
-0,Jason Kaplan
-0,John Migchelbrink
-0,Justin Blake
-0,Khaled  Mahmoud 
-0,Luke Britsch
-0,Mac O'Brien
-0,Mason Charney
-0,Michael Weil
-0,Nate Yaeger
-0,Tobias Holme
-0,Tyler Shepard
-23,Noah Alleman
-b,r,e,a,k
 Colorado (B),4
 teamInfo,CUCU,"Boulder, Colorado",,,
 0,Abram Yehle
@@ -177,6 +151,32 @@ teamInfo,CUCU,"Boulder, Colorado",,,
 62,Leo Gold
 91,Elliot Frank
 b,r,e,a,k
+Denver,6
+teamInfo,Sourdough,"Denver, Colorado",,,
+coaches,Phil Lohre
+0,Alexander Fleming
+0,Avery Fowler
+0,Benjamin Nichols
+0,Campbell Willmuth
+0,Carver Ward
+0,Dalton Ward
+0,Deven Walsh
+0,Egan Doherty
+0,Gavin Stevens 
+0,Hiroto Bauer
+0,Jason Kaplan
+0,John Migchelbrink
+0,Justin Blake
+0,Khaled  Mahmoud 
+0,Luke Britsch
+0,Mac O'Brien
+0,Mason Charney
+0,Michael Weil
+0,Nate Yaeger
+0,Tobias Holme
+0,Tyler Shepard
+23,Noah Alleman
+b,r,e,a,k
 Arizona,8
 teamInfo,Sunburn,"Tucson, Arizona",,,
 0,Alan Flores
@@ -201,6 +201,26 @@ teamInfo,Sunburn,"Tucson, Arizona",,,
 35,Nate Phillips
 41,Zachary Yang
 b,r,e,a,k
+Kansas,2
+teamInfo,Horrorzontals,"Lawrence, Kansas",https://www.instagram.com/horrorzontals/,,https://twitter.com/HorrorZontals
+0,Henry Haw
+0,Kabe Hyde
+0,Kevin Tiernan
+0,Luke Greseth
+0,Nickolas Krehbiel
+0,Noah Bulgatz
+3,Andrew Pottinger
+8,Ryley Ballard
+11,Seppo Hoijarvi
+14,Connor Anderson
+25,Dylan Mcgarr
+31,Ryan Klahr
+34,Peter Czerwinski
+40,Liam Marsh
+50,Brandon Brown
+61,Aiden Jacobs 
+77,Alejandro (Alex) Perez
+b,r,e,a,k
 Brigham Young (B),7
 teamInfo,CHI B,"Provo, Utah",www.byuchiultimate.com,facebook.com/byumensultimate,
 0,Abraham Alton
@@ -223,26 +243,6 @@ teamInfo,CHI B,"Provo, Utah",www.byuchiultimate.com,facebook.com/byumensultimate
 24,Jackson Chambers
 32,Braden Meyers
 b,r,e,a,k
-Kansas,2
-teamInfo,Horrorzontals,"Lawrence, Kansas",https://www.instagram.com/horrorzontals/,,https://twitter.com/HorrorZontals
-0,Henry Haw
-0,Kabe Hyde
-0,Kevin Tiernan
-0,Luke Greseth
-0,Nickolas Krehbiel
-0,Noah Bulgatz
-3,Andrew Pottinger
-8,Ryley Ballard
-11,Seppo Hoijarvi
-14,Connor Anderson
-25,Dylan Mcgarr
-31,Ryan Klahr
-34,Peter Czerwinski
-40,Liam Marsh
-50,Brandon Brown
-61,Aiden Jacobs 
-77,Alejandro (Alex) Perez
-b,r,e,a,k
 s,t,a,g,e,s
 pools,Saturday pool
 pool,Roadrunner
@@ -255,7 +255,7 @@ Northern Arizona,Arizona State (B),13,6,"01/27/2024, 13:30",Roadrunner,Final
 Utah Valley,Arizona State (B),13,2,"01/27/2024, 15:15",Roadrunner,Final
 Colorado Mines,Denver (B),13,4,"01/27/2024, 15:15",Roadrunner,Final
 Utah Valley,Colorado Mines,10,12,"01/27/2024, 17:00",Roadrunner,Final
-Northern Arizona,Denver (B),0,0,"01/27/2024, 17:00",Roadrunner,Scheduled
+Northern Arizona,Denver (B),13,4,"01/27/2024, 17:00",Roadrunner,Final
 pool,Coyote
 Denver,Brigham Young (B),13,6,"01/27/2024, 10:00",Coyote,Final
 Kansas,Colorado (B),4,13,"01/27/2024, 10:00",Coyote,Final
@@ -263,7 +263,7 @@ Kansas,Brigham Young (B),0,0,"01/27/2024, 11:45",Coyote,Scheduled
 Colorado (B),Arizona,13,5,"01/27/2024, 11:45",Coyote,Final
 Kansas,Denver,7,12,"01/27/2024, 13:30",Coyote,Final
 Brigham Young (B),Arizona,7,9,"01/27/2024, 13:30",Coyote,Final
-Colorado (B),Brigham Young (B),0,0,"01/27/2024, 15:15",Coyote,Scheduled
+Colorado (B),Brigham Young (B),13,4,"01/27/2024, 15:15",Coyote,Final
 Denver,Arizona,12,7,"01/27/2024, 15:15",Coyote,Final
 Kansas,Arizona,0,0,"01/27/2024, 17:00",Coyote,Scheduled
 Colorado (B),Denver,0,0,"01/27/2024, 17:00",Coyote,Scheduled
@@ -275,4 +275,5 @@ bracket,championship
 b,r,e,a,k
 pools,Sunday pool
 pool,Pool A
+Denver (B),Arizona State (B),0,0,"01/28/2024, 12:30",Pool A,Scheduled
 b,r,e,a,k
