@@ -553,7 +553,7 @@ pools,Saturday Round Robin
 pool,Pool A
 Cal Poly-SLO,Oklahoma Christian,15,7,"01/27/2024, 09:45",Pool A,Final
 Grand Canyon,Chicago,9,11,"01/27/2024, 09:45",Pool A,Final
-British Columbia,Grand Canyon,0,0,"01/27/2024, 11:30",Pool A,Scheduled
+British Columbia,Grand Canyon,13,10,"01/27/2024, 11:30",Pool A,Final
 Oklahoma Christian,Chicago,11,7,"01/27/2024, 11:30",Pool A,Final
 Cal Poly-SLO,Grand Canyon,15,5,"01/27/2024, 13:15",Pool A,Final
 British Columbia,Chicago,12,6,"01/27/2024, 13:15",Pool A,Final
@@ -564,8 +564,8 @@ British Columbia,Oklahoma Christian,13,12,"01/27/2024, 17:00",Pool A,Final
 pool,Pool B
 Oregon,Southern California,15,7,"01/27/2024, 11:30",Pool B,Final
 California-Santa Cruz,Victoria,10,12,"01/27/2024, 11:30",Pool B,Final
-Oregon,Victoria,0,0,"01/27/2024, 13:15",Pool B,Scheduled
-Stanford,Southern California,0,0,"01/27/2024, 13:15",Pool B,Scheduled
+Oregon,Victoria,14,5,"01/27/2024, 13:15",Pool B,Final
+Stanford,Southern California,9,12,"01/27/2024, 13:15",Pool B,Final
 Oregon,Stanford,15,7,"01/27/2024, 15:15",Pool B,Final
 California-Santa Cruz,Southern California,15,7,"01/27/2024, 15:15",Pool B,Final
 Victoria,Stanford,14,7,"01/27/2024, 18:45",Pool B,Final
@@ -575,7 +575,7 @@ Victoria,Southern California,13,7,"01/27/2024, 20:30",Pool B,Final
 pool,Pool C
 Utah,California-Santa Barbara,12,9,"01/27/2024, 13:15",Pool C,Final
 Colorado State,Cal Poly-SLO (B),15,7,"01/27/2024, 13:15",Pool C,Final
-California,California-Santa Barbara,0,0,"01/27/2024, 15:15",Pool C,Scheduled
+California,California-Santa Barbara,15,6,"01/27/2024, 15:15",Pool C,Final
 Utah,Cal Poly-SLO (B),15,3,"01/27/2024, 15:15",Pool C,Final
 Colorado State,California-Santa Barbara,15,7,"01/27/2024, 17:00",Pool C,Final
 California,Utah,12,10,"01/27/2024, 17:00",Pool C,Final
@@ -585,9 +585,9 @@ California,Cal Poly-SLO (B),15,4,"01/27/2024, 20:30",Pool C,Final
 Utah,Colorado State,14,7,"01/27/2024, 20:30",Pool C,Final
 pool,Pool D
 Brigham Young,California-San Diego,15,14,"01/27/2024, 13:15",Pool D,Final
-Washington,Northwestern,0,0,"01/27/2024, 13:15",Pool D,Scheduled
+Washington,Northwestern,15,5,"01/27/2024, 13:15",Pool D,Final
 Brigham Young,UCLA,14,12,"01/27/2024, 15:15",Pool D,Final
-California-San Diego,Northwestern,0,0,"01/27/2024, 15:15",Pool D,Scheduled
+California-San Diego,Northwestern,15,9,"01/27/2024, 15:15",Pool D,Final
 Washington,California-San Diego,15,7,"01/27/2024, 17:00",Pool D,Final
 UCLA,Northwestern,15,5,"01/27/2024, 17:00",Pool D,Final
 Brigham Young,Northwestern,15,2,"01/27/2024, 18:45",Pool D,Final
@@ -602,14 +602,23 @@ Cal Poly-SLO,Brigham Young,14,9,"01/26/2024, 20:30",Exhibition,Scheduled
 b,r,e,a,k
 brackets,Sunday Bracket Play
 bracket,Championship
+Victoria,California-San Diego,0,0,"01/28/2024, 08:00",Pre-Quarters,Scheduled
+Utah,Oklahoma Christian,0,0,"01/28/2024, 08:00",Pre-Quarters,Scheduled
+British Columbia,Colorado State,0,0,"01/28/2024, 08:00",Pre-Quarters,Scheduled
+Washington,California-Santa Cruz,0,0,"01/28/2024, 08:00",Pre-Quarters,Scheduled
 bracket,Third Place
 bracket,Fifth Place
 bracket,Seventh Place
 bracket,Ninth Place
 bracket,Eleventh Place
 bracket,Thirteenth Place
+Chicago,California-Santa Barbara,0,0,"01/28/2024, 11:30",Thirteenth Semifinals,Scheduled
+Southern California,Northwestern,0,0,"01/28/2024, 11:30",Thirteenth Semifinals,Scheduled
 bracket,Fifteenth Place
 b,r,e,a,k
 pools,Sunday Consolation
 pool,Reseeded 5's
+Stanford,Cal Poly-SLO (B),0,0,"01/28/2024, 08:00",Reseeded 5's,Scheduled
+Grand Canyon,Cal Poly-SLO (B),0,0,"01/28/2024, 09:45",Reseeded 5's,Scheduled
+Grand Canyon,Stanford,0,0,"01/28/2024, 11:30",Reseeded 5's,Scheduled
 b,r,e,a,k
