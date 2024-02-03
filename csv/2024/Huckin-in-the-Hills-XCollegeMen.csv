@@ -183,7 +183,7 @@ West Virginia,Kent State,13,5,"02/03/2024, 09:00",Pool A,Final
 Franciscan,Kent State,13,4,"02/03/2024, 10:40",Pool A,Final
 West Virginia,Ohio,8,7,"02/03/2024, 10:40",Pool A,Final
 Franciscan,West Virginia,13,5,"02/03/2024, 12:20",Pool A,Final
-Ohio,Kent State,0,0,"02/03/2024, 12:20",Pool A,Scheduled
+Ohio,Kent State,13,9,"02/03/2024, 12:20",Pool A,Final
 pool,Pool B
 Towson,Dayton,10,11,"02/03/2024, 09:00",Pool B,Final
 Edinboro,Ohio (B),13,8,"02/03/2024, 09:00",Pool B,Final
@@ -193,6 +193,11 @@ Towson,Ohio (B),13,4,"02/03/2024, 12:20",Pool B,Final
 Dayton,Edinboro,13,3,"02/03/2024, 12:20",Pool B,Final
 b,r,e,a,k
 clusters,Crossover
+cluster,Crossover
+Franciscan,Towson,0,0,"02/03/2024, 14:30",,Scheduled
+Dayton,West Virginia,0,0,"02/03/2024, 14:30",,Scheduled
+Ohio,Ohio (B),0,0,"02/03/2024, 14:30",,Scheduled
+Edinboro,Kent State,0,0,"02/03/2024, 14:30",,Scheduled
 b,r,e,a,k
 brackets,Brackets
 bracket,Championship
