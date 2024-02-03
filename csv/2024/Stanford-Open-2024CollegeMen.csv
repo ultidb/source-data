@@ -30,6 +30,31 @@ coaches,Manisha Daryani,Elijah Kerns,Caleb Merriam
 97,Theo Kojan
 99,Lawrence James Dixon 
 b,r,e,a,k
+Claremont,8
+teamInfo,Braineaters,"Claremont , California",https://www.brainsultimate.com,,https://twitter.com/BrainsUltimate
+02,Michael Yu
+03,Arenaria Cramer
+05,Jacques Paradis
+08,Emmett Levine
+09,Ezra Marcus-Tyler
+11,Adrian Blumberg
+15,Sloan Senofsky
+16,Leo Furr
+20,luxuan Chang
+21,William Yik
+22,Dante Gilbert
+23,Johnny Russell
+28,Jamie Miller
+30,Isamu Masayoshi Sims
+31,Sam Fischer
+43,Griffin Campion
+56,Clay Rasmussen
+71,Elijah Axt
+77,Jeremy Kaufman
+80,Isaiah Curtis 
+93,Jack Sheehan
+99,Jacob Leichter Wilson
+b,r,e,a,k
 Portland,13
 teamInfo,Uprise,"Portland, Oregon",,,
 0,Aaron Margolis
@@ -56,31 +81,6 @@ teamInfo,Uprise,"Portland, Oregon",,,
 42,Troy Carpenter
 51,Charlie DeKlotz
 74,Christian Mibach
-b,r,e,a,k
-Claremont,8
-teamInfo,Braineaters,"Claremont , California",https://www.brainsultimate.com,,https://twitter.com/BrainsUltimate
-02,Michael Yu
-03,Arenaria Cramer
-05,Jacques Paradis
-08,Emmett Levine
-09,Ezra Marcus-Tyler
-11,Adrian Blumberg
-15,Sloan Senofsky
-16,Leo Furr
-20,luxuan Chang
-21,William Yik
-22,Dante Gilbert
-23,Johnny Russell
-28,Jamie Miller
-30,Isamu Masayoshi Sims
-31,Sam Fischer
-43,Griffin Campion
-56,Clay Rasmussen
-71,Elijah Axt
-77,Jeremy Kaufman
-80,Isaiah Curtis 
-93,Jack Sheehan
-99,Jacob Leichter Wilson
 b,r,e,a,k
 San Jose State,12
 teamInfo,Spartans,"San Jose, California",https://sjsusports.com/sports/ultimate,https://www.facebook.com/SJSUUltimate/,
@@ -454,7 +454,7 @@ Claremont,Portland,10,6,"02/03/2024, 09:30",Pool A,Final
 Portland,Oregon State (B),12,7,"02/03/2024, 11:00",Pool A,Final
 Claremont,San Jose State,3,11,"02/03/2024, 11:00",Pool A,Final
 Gold Rush,Portland,13,5,"02/03/2024, 12:30",Pool A,Final
-Claremont,Oregon State (B),0,0,"02/03/2024, 12:30",Pool A,Scheduled
+Claremont,Oregon State (B),13,3,"02/03/2024, 12:30",Pool A,Final
 Gold Rush,Claremont,13,3,"02/03/2024, 14:00",Pool A,Scheduled
 San Jose State,Oregon State (B),0,0,"02/03/2024, 14:00",Pool A,Scheduled
 pool,Pool B
@@ -467,7 +467,7 @@ Washington (B),Puget Sound,6,12,"02/03/2024, 11:00",Pool B,Final
 Seven Hills Bx,Cal State-Long Beach,13,2,"02/03/2024, 12:30",Pool B,Final
 Washington (B),California-Santa Cruz (B),11,6,"02/03/2024, 12:30",Pool B,Final
 Seven Hills Bx,Washington (B),13,5,"02/03/2024, 14:00",Pool B,Final
-Puget Sound,California-Santa Cruz (B),0,0,"02/03/2024, 14:00",Pool B,Scheduled
+Puget Sound,California-Santa Cruz (B),13,3,"02/03/2024, 14:00",Pool B,Final
 pool,Pool C
 Occidental,Cal Poly-Humboldt,13,8,"02/03/2024, 08:00",Pool C,Final
 Cal Poly-SLO (B),California (B),11,9,"02/03/2024, 08:00",Pool C,Final
@@ -485,12 +485,15 @@ Santa Clara,Chico State,13,3,"02/03/2024, 11:00",Pool D,Final
 b,r,e,a,k
 brackets,Bracket Play
 bracket,Championship 
+Puget Sound,Occidental,0,0,"02/03/2024, 08:00",Prequarters,Scheduled
+California (B),Washington (B),0,0,"02/03/2024, 08:00",Prequarters,Scheduled
 bracket,3rd Place
 bracket,5th Place
 bracket,7th Place
 bracket,9th Place
 bracket,11th Place
 bracket,13th Place
+Cal State-Long Beach,Cal Poly-Humboldt,0,0,"02/04/2024, 08:00",13th Semis,Scheduled
 bracket,15th Place
 bracket,17th Place
 b,r,e,a,k
