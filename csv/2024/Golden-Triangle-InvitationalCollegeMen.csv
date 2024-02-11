@@ -29,36 +29,6 @@ teamInfo,Rise,"Champaign, Illinois",https://illinoisrise.com/#/home,https://www.
 75,Matthew Rylander
 86,Kevin Tan
 b,r,e,a,k
-Vanderbilt,3
-teamInfo,Armada,"Nashville, Tennessee",,,https://twitter.com/VUarmada
-0,Julian Delamaza
-01,Brinnan Smith
-03,Cathal Malin
-04,Julian Rosenberg
-06,Stanley Zheng
-07,Timothy Jacob
-08,Justin Kong
-09,Ben Walton
-11,Caleb Boyer
-12,Travis Siebe
-13,David McFarlane
-14,Stephen Hodulik
-15,Ethan Jones
-17,Kai Mehra
-19,Marius Schueller
-21,John Mountel
-23,Matthew Helou
-28,George Gunter
-29,Danny Rosen
-30,Eleazar Rodriguez Lang
-37,Justin Yoo
-42,Xueyuan Jia
-50,Nate Eshleman
-55,Isaac Schapiro
-66,Andres Becerra
-95,Joseph  Bahk
-99,Andrew Overdeck
-b,r,e,a,k
 Auburn,5
 teamInfo,Aetos,"Auburn, Alabama",,https://www.facebook.com/auburnultimate,https://twitter.com/AuburnUltimate
 0,Colton Van Vossen
@@ -107,6 +77,36 @@ teamInfo,Harding Apocalypse,"Searcy, Arkansas",,,
 34,Nathanael Weber
 66,Luke Bensinger
 69,Micah Hill
+b,r,e,a,k
+Vanderbilt,3
+teamInfo,Armada,"Nashville, Tennessee",,,https://twitter.com/VUarmada
+0,Julian Delamaza
+01,Brinnan Smith
+03,Cathal Malin
+04,Julian Rosenberg
+06,Stanley Zheng
+07,Timothy Jacob
+08,Justin Kong
+09,Ben Walton
+11,Caleb Boyer
+12,Travis Siebe
+13,David McFarlane
+14,Stephen Hodulik
+15,Ethan Jones
+17,Kai Mehra
+19,Marius Schueller
+21,John Mountel
+23,Matthew Helou
+28,George Gunter
+29,Danny Rosen
+30,Eleazar Rodriguez Lang
+37,Justin Yoo
+42,Xueyuan Jia
+50,Nate Eshleman
+55,Isaac Schapiro
+66,Andres Becerra
+95,Joseph  Bahk
+99,Andrew Overdeck
 b,r,e,a,k
 Purdue,2
 teamInfo,Undue Ultimate,"West Lafayette, Indiana",https://purduemensultimate.wordpress.com/2016/05/28/about-undue-ultimate/,https://www.facebook.com/pages/Purdue-Ultimate-Frisbee/128269583915564,https://twitter.com/UndueUltimate
@@ -264,34 +264,6 @@ teamInfo,Yellow Hammer,"Tuscaloosa, Alabama",alabamaultimate.wordpress.com,https
 69,Zachary Powers
 84,Joshua Lewis
 b,r,e,a,k
-Kennesaw State,9
-teamInfo,Parliament,"Kennesaw, Georgia",,,
-0,Andrew Tuck
-0,Andrew Giacalone
-0,Bobby Burns
-0,Chase Miller
-0,Chester  Gregg 
-0,Christian Thomas
-0,Cooper Hanson
-0,Eri Cooper
-0,George Bennett Clark
-0,Grady Freeman
-0,Ian Thompson
-0,Jack Stark
-0,Joel De Lima
-0,John Dang
-0,Kishan Patel
-0,Logan Carr
-0,Nathaniel O'Neill
-0,Rodel Jose
-0,Trevor Sloan
-2,Michael Faress
-4,Eric Sinkler
-19,Jonathan Bell
-21,Maya Phillips
-27,Mason Myler
-75,Ethan Moldofsky
-b,r,e,a,k
 LSU,10
 teamInfo,Purple Haze,"Baton Rouge, Louisiana",,,https://twitter.com/LSUUltimateM
 coaches,Chas Legge
@@ -336,15 +308,43 @@ teamInfo,Tennessee) (Union Jaxx,"Jackson, Tennessee",,https://www.facebook.com/j
 69,Noah Harms
 87,Noah Windham
 b,r,e,a,k
+Kennesaw State,9
+teamInfo,Parliament,"Kennesaw, Georgia",,,
+0,Andrew Tuck
+0,Andrew Giacalone
+0,Bobby Burns
+0,Chase Miller
+0,Chester  Gregg 
+0,Christian Thomas
+0,Cooper Hanson
+0,Eri Cooper
+0,George Bennett Clark
+0,Grady Freeman
+0,Ian Thompson
+0,Jack Stark
+0,Joel De Lima
+0,John Dang
+0,Kishan Patel
+0,Logan Carr
+0,Nathaniel O'Neill
+0,Rodel Jose
+0,Trevor Sloan
+2,Michael Faress
+4,Eric Sinkler
+19,Jonathan Bell
+21,Maya Phillips
+27,Mason Myler
+75,Ethan Moldofsky
+b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A - Columbus
-Illinois,Harding,0,0,"02/10/2024, 08:00",Pool A - Columbus,Scheduled
-Vanderbilt,Auburn,0,0,"02/10/2024, 08:00",Pool A - Columbus,Scheduled
-Illinois,Auburn,0,0,"02/10/2024, 09:30",Pool A - Columbus,Scheduled
-Vanderbilt,Harding,0,0,"02/10/2024, 09:30",Pool A - Columbus,Scheduled
-Illinois,Vanderbilt,0,0,"02/10/2024, 11:00",Pool A - Columbus,Scheduled
-Auburn,Harding,0,0,"02/10/2024, 11:00",Pool A - Columbus,Scheduled
+Illinois,Harding,11,5,"02/10/2024, 08:00",Pool A - Columbus,Final
+Vanderbilt,Auburn,9,11,"02/10/2024, 08:00",Pool A - Columbus,Final
+Illinois,Auburn,9,7,"02/10/2024, 09:30",Pool A - Columbus,Final
+Vanderbilt,Harding,9,11,"02/10/2024, 09:30",Pool A - Columbus,Final
+Illinois,Vanderbilt,11,7,"02/10/2024, 11:00",Pool A - Columbus,Final
+Auburn,Harding,10,5,"02/10/2024, 11:00",Pool A - Columbus,Final
 pool,Pool C - Columbus
 Jacksonville State,Mississippi State  (B),0,0,"02/10/2024, 08:00",Pool C - Columbus,Scheduled
 Purdue,Tennessee-Chattanooga,0,0,"02/10/2024, 08:00",Pool C - Columbus,Scheduled
@@ -356,10 +356,26 @@ Purdue,Mississippi State,0,0,"02/10/2024, 11:00",Pool C - Columbus,Scheduled
 Berry,Mississippi State  (B),0,0,"02/10/2024, 11:00",Pool C - Columbus,Scheduled
 Tennessee-Chattanooga,Jacksonville State,0,0,"02/10/2024, 11:00",Pool C - Columbus,Scheduled
 pool,Pool B - Starkville
-Alabama,Union (Tennessee),11,7,"02/10/2024, 09:00",Pool B - Starkville,Scheduled
-Kennesaw State,LSU,8,11,"02/10/2024, 09:00",Pool B - Starkville,Scheduled
-Alabama,LSU,9,7,"02/10/2024, 10:30",Pool B - Starkville,Scheduled
-Kennesaw State,Union (Tennessee),7,11,"02/10/2024, 10:30",Pool B - Starkville,Scheduled
+Alabama,Union (Tennessee),11,7,"02/10/2024, 09:00",Pool B - Starkville,Final
+Kennesaw State,LSU,8,11,"02/10/2024, 09:00",Pool B - Starkville,Final
+Alabama,LSU,9,7,"02/10/2024, 10:30",Pool B - Starkville,Final
+Kennesaw State,Union (Tennessee),7,11,"02/10/2024, 10:30",Pool B - Starkville,Final
+pool,Pool C
+Purdue,Mississippi State,0,0,"02/10/2024, 08:00",Pool C,Scheduled
+Berry,Jacksonville State,0,0,"02/10/2024, 08:00",Pool C,Scheduled
+Tennessee-Chattanooga,Mississippi State  (B),0,0,"02/10/2024, 08:00",Pool C,Scheduled
+Purdue,Berry,0,0,"02/10/2024, 09:30",Pool C,Scheduled
+Mississippi State,Tennessee-Chattanooga,0,0,"02/10/2024, 09:30",Pool C,Scheduled
+Jacksonville State,Mississippi State  (B),0,0,"02/10/2024, 09:30",Pool C,Scheduled
+Purdue,Tennessee-Chattanooga,0,0,"02/10/2024, 11:00",Pool C,Scheduled
+Berry,Mississippi State  (B),0,0,"02/10/2024, 11:00",Pool C,Scheduled
+Mississippi State,Jacksonville State,0,0,"02/10/2024, 11:00",Pool C,Scheduled
+Purdue,Mississippi State  (B),0,0,"02/10/2024, 12:30",Pool C,Scheduled
+Berry,Mississippi State,0,0,"02/10/2024, 12:30",Pool C,Scheduled
+Tennessee-Chattanooga,Jacksonville State,0,0,"02/10/2024, 12:30",Pool C,Scheduled
+Purdue,Jacksonville State,0,0,"02/10/2024, 14:00",Pool C,Scheduled
+Berry,Tennessee-Chattanooga,0,0,"02/10/2024, 14:00",Pool C,Scheduled
+Mississippi State,Mississippi State  (B),0,0,"02/10/2024, 14:00",Pool C,Scheduled
 b,r,e,a,k
 clusters,Friday Night Lights
 cluster,Friday Night Games
