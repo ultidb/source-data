@@ -45,12 +45,6 @@ b,r,e,a,k
 Dickinson,6
 teamInfo,Junkyard Turkeys,"Carlisle, Pennsylvania",,,
 b,r,e,a,k
-Skidmore,7
-teamInfo,Wombats,"Saratoga Springs, New York",,,
-b,r,e,a,k
-Stevens Tech,8
-teamInfo,Stevens Tech,"Hoboken, New Jersey",,,
-b,r,e,a,k
 Central Connecticut State,9
 teamInfo,Yetis,"New Britain , Connecticut",,,
 b,r,e,a,k
@@ -88,6 +82,18 @@ teamInfo,Earthworms,"Swarthmore, Pennsylvania",,,https://twitter.com/WormsUltima
 66,Leo Rothenberg
 88,Ryan Jin
 b,r,e,a,k
+SUNY-Binghamton (B),13
+teamInfo,SUNY-Binghamton B,"Binghamton, New York",https://sites.google.com/binghamton.edu/binghamtonultimate/,https://www.facebook.com/binghamtonultimate/,
+b,r,e,a,k
+Rutgers (B),14
+teamInfo,Mystery Machine,"New Brunswick, New Jersey",,,
+b,r,e,a,k
+Skidmore,7
+teamInfo,Wombats,"Saratoga Springs, New York",,,
+b,r,e,a,k
+Stevens Tech,8
+teamInfo,Stevens Tech,"Hoboken, New Jersey",,,
+b,r,e,a,k
 Salisbury,11
 teamInfo,Buzz,"Salisbury, Maryland",,,
 b,r,e,a,k
@@ -107,12 +113,6 @@ teamInfo,Haggis,"Edinboro, Pennsylvania",,https://www.facebook.com/HaggisUltimat
 28,Dalton Thomas
 69,trevor Baker
 73,Alex Fairbanks
-b,r,e,a,k
-SUNY-Binghamton (B),13
-teamInfo,SUNY-Binghamton B,"Binghamton, New York",https://sites.google.com/binghamton.edu/binghamtonultimate/,https://www.facebook.com/binghamtonultimate/,
-b,r,e,a,k
-Rutgers (B),14
-teamInfo,Mystery Machine,"New Brunswick, New Jersey",,,
 b,r,e,a,k
 Lehigh (B),15
 teamInfo,Lehigh-B,"Bethlehem, Pennsylvania",,,https://twitter.com/BehighUnited
@@ -138,25 +138,34 @@ Army,Vermont (B),0,0,"02/24/2024, 14:00",Pool A,Scheduled
 SUNY-Geneseo,Army,0,0,"02/24/2024, 15:30",Pool A,Scheduled
 Colby,Vermont (B),0,0,"02/24/2024, 15:30",Pool A,Scheduled
 pool,Pool B
-Dickinson,Swarthmore,0,0,"02/24/2024, 09:30",Pool B,Scheduled
-Stevens Tech,Central Connecticut State,0,0,"02/24/2024, 09:30",Pool B,Scheduled
-Dickinson,Stevens Tech,0,0,"02/24/2024, 11:00",Pool B,Scheduled
-Skidmore,Central Connecticut State,0,0,"02/24/2024, 11:00",Pool B,Scheduled
+Dickinson,Rutgers (B),0,0,"02/24/2024, 09:30",Pool B,Scheduled
+Swarthmore,SUNY-Binghamton (B),0,0,"02/24/2024, 09:30",Pool B,Scheduled
+Dickinson,Swarthmore,0,0,"02/24/2024, 11:00",Pool B,Scheduled
+Central Connecticut State,SUNY-Binghamton (B),0,0,"02/24/2024, 11:00",Pool B,Scheduled
+SUNY-Binghamton (B),Rutgers (B),0,0,"02/24/2024, 12:30",Pool B,Scheduled
 Central Connecticut State,Swarthmore,0,0,"02/24/2024, 12:30",Pool B,Scheduled
-Skidmore,Stevens Tech,0,0,"02/24/2024, 12:30",Pool B,Scheduled
-Dickinson,Central Connecticut State,0,0,"02/24/2024, 14:00",Pool B,Scheduled
-Skidmore,Swarthmore,0,0,"02/24/2024, 14:00",Pool B,Scheduled
-Dickinson,Skidmore,0,0,"02/24/2024, 15:30",Pool B,Scheduled
-Stevens Tech,Swarthmore,0,0,"02/24/2024, 15:30",Pool B,Scheduled
+Dickinson,SUNY-Binghamton (B),0,0,"02/24/2024, 14:00",Pool B,Scheduled
+Central Connecticut State,Rutgers (B),0,0,"02/24/2024, 14:00",Pool B,Scheduled
+Dickinson,Central Connecticut State,0,0,"02/24/2024, 15:30",Pool B,Scheduled
+Swarthmore,Rutgers (B),0,0,"02/24/2024, 15:30",Pool B,Scheduled
 pool,Pool C
-Salisbury,Lehigh (B),0,0,"02/24/2024, 09:30",Pool C,Scheduled
-SUNY-Binghamton (B),Rutgers (B),0,0,"02/24/2024, 09:30",Pool C,Scheduled
-Salisbury,SUNY-Binghamton (B),0,0,"02/24/2024, 11:00",Pool C,Scheduled
-Edinboro,Rutgers (B),0,0,"02/24/2024, 11:00",Pool C,Scheduled
-Rutgers (B),Lehigh (B),0,0,"02/24/2024, 12:30",Pool C,Scheduled
-Edinboro,SUNY-Binghamton (B),0,0,"02/24/2024, 12:30",Pool C,Scheduled
-Salisbury,Rutgers (B),0,0,"02/24/2024, 14:00",Pool C,Scheduled
-Edinboro,Lehigh (B),0,0,"02/24/2024, 14:00",Pool C,Scheduled
-Salisbury,Edinboro,0,0,"02/24/2024, 15:30",Pool C,Scheduled
-SUNY-Binghamton (B),Lehigh (B),0,0,"02/24/2024, 15:30",Pool C,Scheduled
+Skidmore,Lehigh (B),0,0,"02/24/2024, 09:30",Pool C,Scheduled
+Salisbury,Edinboro,0,0,"02/24/2024, 09:30",Pool C,Scheduled
+Skidmore,Salisbury,0,0,"02/24/2024, 11:00",Pool C,Scheduled
+Stevens Tech,Edinboro,0,0,"02/24/2024, 11:00",Pool C,Scheduled
+Edinboro,Lehigh (B),0,0,"02/24/2024, 12:30",Pool C,Scheduled
+Stevens Tech,Salisbury,0,0,"02/24/2024, 12:30",Pool C,Scheduled
+Skidmore,Edinboro,0,0,"02/24/2024, 14:00",Pool C,Scheduled
+Stevens Tech,Lehigh (B),0,0,"02/24/2024, 14:00",Pool C,Scheduled
+Skidmore,Stevens Tech,0,0,"02/24/2024, 15:30",Pool C,Scheduled
+Salisbury,Lehigh (B),0,0,"02/24/2024, 15:30",Pool C,Scheduled
+b,r,e,a,k
+brackets,Bracket
+bracket,Championship
+bracket,5th Place
+bracket,7th Place
+bracket,3rd Place
+bracket,9th Place
+bracket,13th Place
+bracket,11th Place
 b,r,e,a,k
