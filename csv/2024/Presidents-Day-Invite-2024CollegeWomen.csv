@@ -392,31 +392,6 @@ coaches,Hannah Hinchsliff,Jack “Moneyball” Hinchsliff,Sarah Hoistad,Emily St
 55,Char Bokhof
 64,Maggie Cvar
 b,r,e,a,k
-Southern California,13
-teamInfo,Hellions of Troy,"Los Angeles, California",http://www.uscwomensultimate.com/,,https://twitter.com/USCHellions
-2,Anjali Gopinathan
-3,Kelly Lukito
-4,Jayne Bottarini
-7,Elizabeth Saunders
-9,Komal Kackar 
-01,Victoria Lawton
-10,Shijia Liu
-12,Amelie Nah
-13,Stella Dziedzic
-16,Helena Kim Chung
-17,Araiza Soto
-18,Mary Muir
-20,Preyashi Poddar
-22,Delilah Masket
-23,Alexandra Lujano-Pawlina
-24,Kai Agueros
-26,Annamarie Ellazar
-41,Natalie So
-57,Amanda Wilson
-73,Tanvi Shankar
-77,Xin Shen
-97,Taylor Ford
-b,r,e,a,k
 Cal Poly-SLO,12
 teamInfo,SLO Motion,"San Luis Obispo, California",https://cpslomotion.wixsite.com/home,https://www.facebook.com/cpslomotion,https://twitter.com/cpslomotion?lang=en
 02,Madelyn Cruz
@@ -442,6 +417,31 @@ teamInfo,SLO Motion,"San Luis Obispo, California",https://cpslomotion.wixsite.co
 64,Bryn Harper
 66,Sofia Daniels
 b,r,e,a,k
+Southern California,13
+teamInfo,Hellions of Troy,"Los Angeles, California",http://www.uscwomensultimate.com/,,https://twitter.com/USCHellions
+2,Anjali Gopinathan
+3,Kelly Lukito
+4,Jayne Bottarini
+7,Elizabeth Saunders
+9,Komal Kackar 
+01,Victoria Lawton
+10,Shijia Liu
+12,Amelie Nah
+13,Stella Dziedzic
+16,Helena Kim Chung
+17,Araiza Soto
+18,Mary Muir
+20,Preyashi Poddar
+22,Delilah Masket
+23,Alexandra Lujano-Pawlina
+24,Kai Agueros
+26,Annamarie Ellazar
+41,Natalie So
+57,Amanda Wilson
+73,Tanvi Shankar
+77,Xin Shen
+97,Taylor Ford
+b,r,e,a,k
 s,t,a,g,e,s
 pools,Saturday Pool Play
 pool,Pool A
@@ -450,7 +450,7 @@ California,California-San Diego (B),10,9,"02/17/2024, 10:30",Pool A,Final
 Colorado,California,12,8,"02/17/2024, 12:00",Pool A,Final
 Western Washington,California-San Diego (B),15,1,"02/17/2024, 12:00",Pool A,Final
 Colorado,Western Washington,13,9,"02/17/2024, 13:30",Pool A,Final
-Western Washington,California,0,0,"02/17/2024, 15:00",Pool A,Scheduled
+Western Washington,California,12,5,"02/17/2024, 15:00",Pool A,Final
 pool,Pool B
 Stanford,Claremont,15,2,"02/17/2024, 09:00",Pool B,Final
 UCLA,Utah,8,9,"02/17/2024, 09:00",Pool B,Final
@@ -470,18 +470,38 @@ Colorado State,Southern California,12,9,"02/17/2024, 10:30",Pool D,Final
 California-Santa Barbara,Cal Poly-SLO,14,8,"02/17/2024, 12:00",Pool D,Final
 California-Santa Barbara,Southern California,15,5,"02/17/2024, 13:30",Pool D,Final
 Colorado State,Cal Poly-SLO,14,5,"02/17/2024, 13:30",Pool D,Final
-California-Santa Barbara,Colorado State,0,0,"02/17/2024, 15:00",Pool D,Scheduled
-Cal Poly-SLO,Southern California,0,0,"02/17/2024, 15:00",Pool D,Scheduled
+California-Santa Barbara,Colorado State,15,5,"02/17/2024, 15:00",Pool D,Final
+Cal Poly-SLO,Southern California,11,6,"02/17/2024, 15:00",Pool D,Final
 b,r,e,a,k
 pools,Sunday Power Pools
 pool,Pool E
+Colorado,California-San Diego,0,0,"02/18/2024, 08:00",Pool E,Scheduled
+Utah,California-Santa Barbara,0,0,"02/18/2024, 08:00",Pool E,Scheduled
+Colorado,Utah,0,0,"02/18/2024, 09:30",Pool E,Scheduled
+California-San Diego,California-Santa Barbara,0,0,"02/18/2024, 09:30",Pool E,Scheduled
+Colorado,California-Santa Barbara,0,0,"02/18/2024, 12:30",Pool E,Scheduled
 Utah,California-San Diego,0,0,"02/18/2024, 12:30",Pool E,Scheduled
 pool,Pool F
+Western Washington,Oregon,0,0,"02/18/2024, 09:30",Pool F,Scheduled
+Stanford,Colorado State,0,0,"02/18/2024, 09:30",Pool F,Scheduled
+Western Washington,Colorado State,0,0,"02/18/2024, 11:00",Pool F,Scheduled
 Stanford,Oregon,0,0,"02/18/2024, 11:00",Pool F,Scheduled
+Western Washington,Stanford,0,0,"02/18/2024, 12:30",Pool F,Scheduled
+Oregon,Colorado State,0,0,"02/18/2024, 12:30",Pool F,Scheduled
 pool,Pool G
+California,Denver,0,0,"02/18/2024, 09:30",Pool G,Scheduled
+Claremont,Cal Poly-SLO,0,0,"02/18/2024, 09:30",Pool G,Scheduled
+California,Cal Poly-SLO,0,0,"02/18/2024, 11:00",Pool G,Scheduled
 Claremont,Denver,0,0,"02/18/2024, 11:00",Pool G,Scheduled
+California,Claremont,0,0,"02/18/2024, 12:30",Pool G,Scheduled
+Denver,Cal Poly-SLO,0,0,"02/18/2024, 12:30",Pool G,Scheduled
 pool,Pool H
+California-San Diego (B),California-Davis,0,0,"02/18/2024, 08:00",Pool H,Scheduled
+UCLA,Southern California,0,0,"02/18/2024, 08:00",Pool H,Scheduled
+California-San Diego (B),Southern California,0,0,"02/18/2024, 09:30",Pool H,Scheduled
 UCLA,California-Davis,0,0,"02/18/2024, 09:30",Pool H,Scheduled
+California-San Diego (B),UCLA,0,0,"02/18/2024, 12:30",Pool H,Scheduled
+California-Davis,Southern California,0,0,"02/18/2024, 12:30",Pool H,Scheduled
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,Championship Bracket
