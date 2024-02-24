@@ -358,29 +358,6 @@ teamInfo,Wreck,"Atlanta, Georgia",https://wreckultimate.wordpress.com/,https://w
 49,Gennie Mansi
 70,Caitlin Aycock
 b,r,e,a,k
-Connecticut,29
-teamInfo,UConn Women's Ultimate,"Storrs, Connecticut",,,
-coaches,Matthew Kearney
-0,Aisling Hinchey
-0,Allyson Kaider
-0,Amanda Sagers
-0,Anna Abou-Francis
-0,Carley Parente
-0,Elizabeth Doyle
-0,Grace Wanderling
-0,Isabella Rubin
-0,Juliana Rush
-0,Kayla Pollman
-0,Rachel Murphy
-0,Sofia Soriano
-3,Sabine Lucas
-3,Jahne Carrenard
-4,Carmen Lo
-7,Jenna Gall
-13,Amelia Colombo
-22,Melissa Tian
-46,Hyunah Boo
-b,r,e,a,k
 James Madison,21
 teamInfo,Bitchmonkeys,"Harrisonburg, Virginia",http://jmuwomensultimate.wordpress.com/,,https://twitter.com/Bitchmonkeys
 0,Brynn Kellie Straley
@@ -409,6 +386,29 @@ teamInfo,Bitchmonkeys,"Harrisonburg, Virginia",http://jmuwomensultimate.wordpres
 11,Jules Hoffman
 69,Iliana Gardner
 77,Zoe Carter
+b,r,e,a,k
+Connecticut,29
+teamInfo,UConn Women's Ultimate,"Storrs, Connecticut",,,
+coaches,Matthew Kearney
+0,Aisling Hinchey
+0,Allyson Kaider
+0,Amanda Sagers
+0,Anna Abou-Francis
+0,Carley Parente
+0,Elizabeth Doyle
+0,Grace Wanderling
+0,Isabella Rubin
+0,Juliana Rush
+0,Kayla Pollman
+0,Rachel Murphy
+0,Sofia Soriano
+3,Sabine Lucas
+3,Jahne Carrenard
+4,Carmen Lo
+7,Jenna Gall
+13,Amelia Colombo
+22,Melissa Tian
+46,Hyunah Boo
 b,r,e,a,k
 MIT,28
 teamInfo,sMITe,"Cambridge, Massachusetts",http://scripts.mit.edu/~womens-ult/,https://www.facebook.com/ultismite,https://twitter.com/ultismite
@@ -700,7 +700,7 @@ Notre Dame,Virginia,15,8,"02/24/2024, 10:00",Pool A,Final
 Tufts,Virginia,15,3,"02/24/2024, 14:00",Pool A,Final
 Notre Dame,Georgia,13,15,"02/24/2024, 14:00",Pool A,Final
 Tufts,Notre Dame,15,7,"02/24/2024, 16:00",Pool A,Final
-Georgia,Virginia,0,0,"02/24/2024, 16:00",Pool A,Scheduled
+Georgia,Virginia,10,9,"02/24/2024, 16:00",Pool A,Final
 pool,Pool B
 Chicago,Yale,12,15,"02/24/2024, 10:00",Pool B,Final
 Pittsburgh,Ohio State,11,10,"02/24/2024, 10:00",Pool B,Final
@@ -725,7 +725,7 @@ Georgia Tech,James Madison,8,6,"02/24/2024, 13:00",Pool D,Final
 Pennsylvania,MIT,13,0,"02/24/2024, 14:30",Pool D,Final
 Georgia Tech,Connecticut,8,7,"02/24/2024, 14:30",Pool D,Final
 Pennsylvania,Georgia Tech,13,4,"02/24/2024, 16:00",Pool D,Final
-James Madison,Connecticut,0,0,"02/24/2024, 16:00",Pool D,Scheduled
+James Madison,Connecticut,7,6,"02/24/2024, 16:00",Pool D,Final
 pool,Pool E
 South Carolina,Harvard,15,6,"02/24/2024, 12:00",Pool E,Final
 Penn State,Maryland,11,5,"02/24/2024, 12:00",Pool E,Final
@@ -750,6 +750,9 @@ Columbia,Temple,11,2,"02/24/2024, 14:00",Pool G,Final
 b,r,e,a,k
 brackets,W BP
 bracket,CHAMPIONSHIP BRACKET
+Tufts,Massachusetts,0,0,"02/25/2024, 09:30",PRE-Q,Scheduled
+North Carolina State,Pennsylvania,0,0,"02/25/2024, 09:30",PRE-Q,Scheduled
+Notre Dame,Carnegie Mellon,0,0,"02/25/2024, 09:30",PRE-Q,Scheduled
 bracket,3RD PLACE GAME
 bracket,5TH PLACE BRACKET
 bracket,7TH PLACE GAME
@@ -767,4 +770,7 @@ b,r,e,a,k
 pools,CONSOLATION PP
 pool,Pool H
 Temple,Virginia Tech,7,9,"02/24/2024, 16:15",Pool H,Final
+Virginia Tech,MIT,0,0,"02/25/2024, 11:00",Pool H,Scheduled
+Temple,Connecticut,0,0,"02/25/2024, 12:30",Pool H,Scheduled
+Temple,MIT,0,0,"02/25/2024, 14:00",Pool H,Scheduled
 b,r,e,a,k
