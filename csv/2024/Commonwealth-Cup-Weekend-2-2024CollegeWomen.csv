@@ -706,8 +706,8 @@ Chicago,Yale,12,15,"02/24/2024, 10:00",Pool B,Final
 Pittsburgh,Ohio State,11,10,"02/24/2024, 10:00",Pool B,Final
 Chicago,Ohio State,7,15,"02/24/2024, 12:00",Pool B,Final
 Pittsburgh,Yale,15,13,"02/24/2024, 12:00",Pool B,Final
-Chicago,Pittsburgh,0,0,"02/24/2024, 16:00",Pool B,Scheduled
-Yale,Ohio State,0,0,"02/24/2024, 16:00",Pool B,Scheduled
+Chicago,Pittsburgh,12,11,"02/24/2024, 16:00",Pool B,Final
+Yale,Ohio State,5,15,"02/24/2024, 16:00",Pool B,Final
 pool,Pool C
 SUNY-Binghamton,Michigan,9,15,"02/24/2024, 10:00",Pool C,Final
 Carnegie Mellon,North Carolina State,4,15,"02/24/2024, 10:00",Pool C,Final
@@ -731,8 +731,8 @@ South Carolina,Harvard,15,6,"02/24/2024, 12:00",Pool E,Final
 Penn State,Maryland,11,5,"02/24/2024, 12:00",Pool E,Final
 South Carolina,Maryland,11,7,"02/24/2024, 14:00",Pool E,Final
 Penn State,Harvard,7,6,"02/24/2024, 14:00",Pool E,Final
-South Carolina,Penn State,0,0,"02/24/2024, 16:00",Pool E,Scheduled
-Harvard,Maryland,0,0,"02/24/2024, 16:00",Pool E,Scheduled
+South Carolina,Penn State,13,7,"02/24/2024, 16:00",Pool E,Final
+Harvard,Maryland,11,8,"02/24/2024, 16:00",Pool E,Final
 pool,Pool F
 Brown,Virginia Tech,15,8,"02/24/2024, 10:00",Pool F,Final
 Ohio,Purdue,11,9,"02/24/2024, 10:00",Pool F,Final
@@ -751,8 +751,13 @@ b,r,e,a,k
 brackets,W BP
 bracket,CHAMPIONSHIP BRACKET
 Tufts,Massachusetts,0,0,"02/25/2024, 09:30",PRE-Q,Scheduled
+Yale,SUNY-Binghamton,0,0,"02/25/2024, 09:30",PRE-Q,Scheduled
 North Carolina State,Pennsylvania,0,0,"02/25/2024, 09:30",PRE-Q,Scheduled
+Ohio State,Virginia,0,0,"02/25/2024, 09:30",PRE-Q,Scheduled
+Pittsburgh,Ohio,0,0,"02/25/2024, 09:30",PRE-Q,Scheduled
 Notre Dame,Carnegie Mellon,0,0,"02/25/2024, 09:30",PRE-Q,Scheduled
+Michigan,South Carolina,0,0,"02/25/2024, 09:30",PRE-Q,Scheduled
+Georgia,Chicago,0,0,"02/25/2024, 09:30",PRE-Q,Scheduled
 bracket,3RD PLACE GAME
 bracket,5TH PLACE BRACKET
 bracket,7TH PLACE GAME
@@ -762,7 +767,9 @@ bracket,T-13TH PLACE (1)
 bracket,T-13TH PLACE (2)
 bracket,17TH PLACE BRACKET
 Columbia,Brown,0,0,"02/25/2024, 09:30",17TH QUARTERS,Scheduled
+Georgia Tech,Harvard,0,0,"02/25/2024, 09:30",17TH QUARTERS,Scheduled
 Purdue,Duke,0,0,"02/25/2024, 09:30",17TH QUARTERS,Scheduled
+Penn State,James Madison,0,0,"02/25/2024, 09:30",17TH QUARTERS,Scheduled
 bracket,19TH PLACE GAME
 bracket,21ST PLACE BRACKET
 bracket,23RD PLACE GAME
@@ -770,7 +777,10 @@ b,r,e,a,k
 pools,CONSOLATION PP
 pool,Pool H
 Temple,Virginia Tech,7,9,"02/24/2024, 16:15",Pool H,Final
+Temple,Maryland,0,0,"02/25/2024, 11:00",Pool H,Scheduled
 Virginia Tech,MIT,0,0,"02/25/2024, 11:00",Pool H,Scheduled
+Virginia Tech,Maryland,0,0,"02/25/2024, 12:30",Pool H,Scheduled
 Temple,Connecticut,0,0,"02/25/2024, 12:30",Pool H,Scheduled
 Temple,MIT,0,0,"02/25/2024, 14:00",Pool H,Scheduled
+Maryland,Connecticut,0,0,"02/25/2024, 14:00",Pool H,Scheduled
 b,r,e,a,k
