@@ -115,6 +115,24 @@ teamInfo,Big Donkey Ultimate,"Haverford, Pennsylvania",,,https://twitter.com/don
 80,Arno Harden
 99,Isaac Roth
 b,r,e,a,k
+Dickinson,6
+teamInfo,Junkyard Turkeys,"Carlisle, Pennsylvania",,,
+0,Caleb Grim
+0,Cole Evans
+0,Drew Arteaga
+0,Felix Zehe
+0,Graham Bucci
+0,Jack Kimbrell
+0,Simon OConnor
+0,Zachary Baskin
+2,Michael Johnson
+4,Gannon Ritter
+9,Wray Meltmar
+12,David Rocamora
+20,Elio Baez-Estersohn
+33,Tobey Patton
+50,Warner Brockman
+b,r,e,a,k
 Central Connecticut State,9
 teamInfo,Yetis,"New Britain , Connecticut",,,
 0,Logan Palardy
@@ -136,24 +154,6 @@ teamInfo,Yetis,"New Britain , Connecticut",,,
 0,Holden Masterson
 13,Leo White
 26,Harrison Silverman
-b,r,e,a,k
-Dickinson,6
-teamInfo,Junkyard Turkeys,"Carlisle, Pennsylvania",,,
-0,Caleb Grim
-0,Cole Evans
-0,Drew Arteaga
-0,Felix Zehe
-0,Graham Bucci
-0,Jack Kimbrell
-0,Simon OConnor
-0,Zachary Baskin
-2,Michael Johnson
-4,Gannon Ritter
-9,Wray Meltmar
-12,David Rocamora
-20,Elio Baez-Estersohn
-33,Tobey Patton
-50,Warner Brockman
 b,r,e,a,k
 Swarthmore,10
 teamInfo,Earthworms,"Swarthmore, Pennsylvania",,,https://twitter.com/WormsUltimate?s=20
@@ -338,15 +338,15 @@ Army,Vermont (B),11,12,"02/24/2024, 14:00",Pool A,Final
 SUNY-Geneseo,Army,4,9,"02/24/2024, 15:30",Pool A,Final
 Colby,Vermont (B),3,13,"02/24/2024, 15:30",Pool A,Final
 pool,Pool B
-Dickinson,Rutgers (B),0,0,"02/24/2024, 09:30",Pool B,Scheduled
+Dickinson,Rutgers (B),13,3,"02/24/2024, 09:30",Pool B,Final
 Swarthmore,SUNY-Binghamton (B),10,8,"02/24/2024, 09:30",Pool B,Final
 Dickinson,Swarthmore,7,6,"02/24/2024, 11:00",Pool B,Final
 Central Connecticut State,SUNY-Binghamton (B),8,4,"02/24/2024, 11:00",Pool B,Final
 SUNY-Binghamton (B),Rutgers (B),3,6,"02/24/2024, 12:30",Pool B,Final
 Central Connecticut State,Swarthmore,8,3,"02/24/2024, 12:30",Pool B,Final
 Dickinson,SUNY-Binghamton (B),8,3,"02/24/2024, 14:00",Pool B,Final
-Central Connecticut State,Rutgers (B),0,0,"02/24/2024, 14:00",Pool B,Scheduled
-Dickinson,Central Connecticut State,0,0,"02/24/2024, 15:30",Pool B,Scheduled
+Central Connecticut State,Rutgers (B),W,L,"02/24/2024, 14:00",Pool B,Final
+Dickinson,Central Connecticut State,8,4,"02/24/2024, 15:30",Pool B,Final
 Swarthmore,Rutgers (B),6,5,"02/24/2024, 15:30",Pool B,Final
 pool,Pool C
 Skidmore,Lehigh (B),13,3,"02/24/2024, 09:30",Pool C,Final
@@ -364,11 +364,15 @@ brackets,Bracket
 bracket,Championship
 Vermont (B),Stevens Tech,0,0,"02/25/2024, 10:00",Quarters,Scheduled
 SUNY-Geneseo,Haverford,0,0,"02/25/2024, 10:00",Quarters,Scheduled
+Colby,Dickinson,0,0,"02/25/2024, 10:00",Quarters,Scheduled
 Army,Salisbury,0,0,"02/25/2024, 10:00",Quarters,Scheduled
 bracket,5th Place
 bracket,7th Place
 bracket,3rd Place
 bracket,9th Place
+Edinboro,Rutgers (B),0,0,"02/25/2024, 09:30",9th Play In,Scheduled
+Swarthmore,Lehigh (B),0,0,"02/25/2024, 09:30",9th Play In,Scheduled
+Skidmore,SUNY-Binghamton (B),0,0,"02/25/2024, 09:30",9th Play In,Scheduled
 bracket,13th Place
 bracket,11th Place
 b,r,e,a,k
