@@ -27,13 +27,11 @@ b,r,e,a,k
 Tufts (B),2
 teamInfo,Tufts B,"Medford, Massachusetts",www.tuftsmensultimate.org,,
 0,Evan Hu
+0,William Crane-Morris
 09,Sammy Muench
 18,Ryan Rockett
 b,r,e,a,k
-Colby,3
-teamInfo,Men's,"Waterville, Maine",http://web.colby.edu/ultimate/,,https://twitter.com/cdc_ultimate
-b,r,e,a,k
-Amherst,4
+Amherst,3
 teamInfo,Army of Darkness,"Amherst, Massachusetts",,,
 0,Bailey McCarthy
 0,Brandon Um
@@ -61,6 +59,9 @@ teamInfo,Army of Darkness,"Amherst, Massachusetts",,,
 32,Harrison Lundy
 69,Theodore Stephens
 b,r,e,a,k
+Colby,4
+teamInfo,Men's,"Waterville, Maine",http://web.colby.edu/ultimate/,,https://twitter.com/cdc_ultimate
+b,r,e,a,k
 Vermont (C),5
 teamInfo,Chill B,"Burlington, Vermont",,https://www.facebook.com/Team.Chill.33/,https://twitter.com/team_chill?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
 0,Caleb Morehouse
@@ -78,27 +79,56 @@ b,r,e,a,k
 Middlebury (B),6
 teamInfo,Branksters,"Middlebury, Vermont",https://go.middlebury.edu/prankstersultimate,https://www.facebook.com/MiddleburyPranksters,https://twitter.com/pranksters69
 b,r,e,a,k
+Western New England,7
+teamInfo,Golden Bears,"Springfield, Massachusetts",,,
+0,John Falco
+0,Michael Duffis
+0,Timothy Amsden
+8,Patrick Callahan
+04,Brendon Mersincavage
+05,Clara Donivan
+06,James Gumbs
+07,Peter Landry
+09,Zachary Handler
+12,Kenneth Kwong
+13,Bryce Lewis
+15,Noah Reilly
+18,Matthew Newkirk
+20,Yuto Hiraki
+23,Wenjing Yang
+24,Christopher Wilson
+27,Jake Dalton
+34,Rhylan Hopkins
+69,Aiden Howell
+80,Cole Redstone
+b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
-Massachusetts  (B),Colby,0,0,"03/02/2024, 09:00",Pool A,Scheduled
-Tufts (B),Vermont (C),0,0,"03/02/2024, 09:00",Pool A,Scheduled
-Amherst,Middlebury (B),0,0,"03/02/2024, 09:00",Pool A,Scheduled
-Massachusetts  (B),Tufts (B),0,0,"03/02/2024, 10:45",Pool A,Scheduled
-Colby,Amherst,0,0,"03/02/2024, 10:45",Pool A,Scheduled
-Vermont (C),Middlebury (B),0,0,"03/02/2024, 10:45",Pool A,Scheduled
-Massachusetts  (B),Amherst,0,0,"03/02/2024, 12:30",Pool A,Scheduled
-Tufts (B),Middlebury (B),0,0,"03/02/2024, 12:30",Pool A,Scheduled
-Colby,Vermont (C),0,0,"03/02/2024, 12:30",Pool A,Scheduled
-Massachusetts  (B),Middlebury (B),0,0,"03/02/2024, 14:15",Pool A,Scheduled
-Tufts (B),Colby,0,0,"03/02/2024, 14:15",Pool A,Scheduled
-Amherst,Vermont (C),0,0,"03/02/2024, 14:15",Pool A,Scheduled
-Massachusetts  (B),Vermont (C),0,0,"03/03/2024, 09:00",Pool A,Scheduled
-Tufts (B),Amherst,0,0,"03/03/2024, 09:00",Pool A,Scheduled
-Colby,Middlebury (B),0,0,"03/03/2024, 09:00",Pool A,Scheduled
+Vermont (C),Middlebury (B),0,0,"03/02/2024, 09:00",Pool A,Scheduled
+Massachusetts  (B),Western New England,0,0,"03/02/2024, 09:00",Pool A,Scheduled
+Amherst,Colby,0,0,"03/02/2024, 09:00",Pool A,Scheduled
+Massachusetts  (B),Colby,0,0,"03/02/2024, 10:45",Pool A,Scheduled
+Tufts (B),Middlebury (B),0,0,"03/02/2024, 10:45",Pool A,Scheduled
+Amherst,Western New England,0,0,"03/02/2024, 10:45",Pool A,Scheduled
+Massachusetts  (B),Tufts (B),0,0,"03/02/2024, 12:30",Pool A,Scheduled
+Vermont (C),Western New England,0,0,"03/02/2024, 12:30",Pool A,Scheduled
+Amherst,Middlebury (B),0,0,"03/02/2024, 12:30",Pool A,Scheduled
+Massachusetts  (B),Vermont (C),0,0,"03/02/2024, 14:15",Pool A,Scheduled
+Colby,Middlebury (B),0,0,"03/02/2024, 14:15",Pool A,Scheduled
+Tufts (B),Western New England,0,0,"03/02/2024, 14:15",Pool A,Scheduled
+Tufts (B),Amherst,0,0,"03/02/2024, 16:00",Pool A,Scheduled
+Colby,Vermont (C),0,0,"03/02/2024, 16:00",Pool A,Scheduled
+Middlebury (B),Western New England,0,0,"03/02/2024, 16:00",Pool A,Scheduled
+Massachusetts  (B),Amherst,0,0,"03/03/2024, 09:00",Pool A,Scheduled
+Tufts (B),Vermont (C),0,0,"03/03/2024, 09:00",Pool A,Scheduled
+Colby,Western New England,0,0,"03/03/2024, 09:00",Pool A,Scheduled
+Massachusetts  (B),Middlebury (B),0,0,"03/03/2024, 10:45",Pool A,Scheduled
+Tufts (B),Colby,0,0,"03/03/2024, 10:45",Pool A,Scheduled
+Amherst,Vermont (C),0,0,"03/03/2024, 10:45",Pool A,Scheduled
 b,r,e,a,k
-brackets,Bracket Play
-bracket,Championship Bracket
-bracket,Bonus Bracket 1
-bracket,Bonus Bracket 2
+brackets,Finals Games
+bracket,1st Place
+bracket,3rd Place
+bracket,5th Place
 b,r,e,a,k
