@@ -57,32 +57,6 @@ coaches,Avery Jones,Kelli Iwamoto,Samantha Wool
 28,Parissa Teli
 38,Abigail Shilts
 b,r,e,a,k
-UCLA,12
-teamInfo,BLU,"Los Angeles, California",http://uclaclubsports.com/index.aspx?path=wuf,https://www.facebook.com/UCLABLU,https://www.twitter.com/blultimate
-coaches,Cheryl Prideaux,Tiffanie Gallo
-02,Sabrina Belkin
-04,Grace Loia-Lopez
-08,Dorsa Zahedi
-09,Wiona  Tan
-10,Minoo Bastani
-11,Katryn Heine
-12,Julia Kamm
-13,Melis Kasaba
-15,Leah Wildmann
-16,Jade Nakama
-17,Cristina Garcia
-18,Kasey Parks
-19,Lise Tucker
-23,Mikaela Magtoto
-25,Lilet Brooks
-27,Samantha Appleton-Sackett
-28,Leyao (Ina)  Chang
-30,Jade Gregory
-32,Mya Mitchell
-48,Anneliese Phillips
-77,Zhiyue Jiang
-95,Isabelle Germain
-b,r,e,a,k
 Texas,13
 teamInfo,Melee,"Austin, Texas",https://texaswomensultimate.github.io/home/,,https://twitter.com/txmelee?lang=en
 coaches,Lorraine Guerin,Bennett Wachob
@@ -109,6 +83,32 @@ coaches,Lorraine Guerin,Bennett Wachob
 0,Abigail Koehn
 0,Amelia Smith
 16,Ana Mussiett
+b,r,e,a,k
+UCLA,12
+teamInfo,BLU,"Los Angeles, California",http://uclaclubsports.com/index.aspx?path=wuf,https://www.facebook.com/UCLABLU,https://www.twitter.com/blultimate
+coaches,Cheryl Prideaux,Tiffanie Gallo
+02,Sabrina Belkin
+04,Grace Loia-Lopez
+08,Dorsa Zahedi
+09,Wiona  Tan
+10,Minoo Bastani
+11,Katryn Heine
+12,Julia Kamm
+13,Melis Kasaba
+15,Leah Wildmann
+16,Jade Nakama
+17,Cristina Garcia
+18,Kasey Parks
+19,Lise Tucker
+23,Mikaela Magtoto
+25,Lilet Brooks
+27,Samantha Appleton-Sackett
+28,Leyao (Ina)  Chang
+30,Jade Gregory
+32,Mya Mitchell
+48,Anneliese Phillips
+77,Zhiyue Jiang
+95,Isabelle Germain
 b,r,e,a,k
 Vermont,2
 teamInfo,Ruckus,"Burlington , Vermont",,https://www.facebook.com/UVMRuckus/,https://twitter.com/ruckusultimate
@@ -428,10 +428,10 @@ pools,Pool Play
 pool,Pool A
 California-San Diego,UCLA,12,4,"03/02/2024, 09:00",Pool A,Final
 British Columbia,Texas,13,4,"03/02/2024, 10:30",Pool A,Final
-British Columbia,UCLA,13,1,"03/02/2024, 12:00",Pool A,Scheduled
-California-San Diego,Texas,0,0,"03/02/2024, 12:00",Pool A,Scheduled
-British Columbia,California-San Diego,0,0,"03/02/2024, 13:30",Pool A,Scheduled
-UCLA,Texas,0,0,"03/02/2024, 13:30",Pool A,Scheduled
+British Columbia,UCLA,13,1,"03/02/2024, 12:00",Pool A,Final
+California-San Diego,Texas,10,2,"03/02/2024, 12:00",Pool A,Final
+British Columbia,California-San Diego,11,6,"03/02/2024, 13:30",Pool A,Final
+UCLA,Texas,6,8,"03/02/2024, 13:30",Pool A,Scheduled
 pool,Pool B
 California-Santa Barbara,California-Davis,10,7,"03/02/2024, 09:00",Pool B,Final
 Vermont,California-Davis,12,3,"03/02/2024, 10:30",Pool B,Final
