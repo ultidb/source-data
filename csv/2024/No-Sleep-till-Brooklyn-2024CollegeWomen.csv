@@ -20,27 +20,6 @@ teamInfo,Whiptails,"Wellesley, Massachusetts",https://sites.google.com/wellesley
 53,Krishangi Dandapure
 99,Raquel Alegria
 b,r,e,a,k
-Bates,6
-teamInfo,Cold Front,"Lewiston, Maine",https://coldfrontultimate.wordpress.com,,https://twitter.com/coldfront_ulti
-0,Abigail Waisler
-0,Ada Knauft
-0,Cassidy Meyer
-0,Dalia Cape
-0,Ellie Schueler
-0,Emma Gillespie
-0,Francisca Rocha
-0,Gemma DeCarolis
-0,Hana Roggendorf
-0,Jamison Bell
-0,Jillian  Scott-Lewis
-0,Liv Myers
-0,Lucy Sterba
-0,Megan Donaghy
-0,Reese Hillman
-0,Rosalie Brown
-0,Sam Rice
-0,Sarah Smith
-b,r,e,a,k
 Wesleyan,7
 teamInfo,Vicious Circles,"Middletown, Connecticut",,https://www.facebook.com/vishiswhy/,https://twitter.com/divacupzone
 01,Amelia  Platt
@@ -67,6 +46,27 @@ teamInfo,Vicious Circles,"Middletown, Connecticut",,https://www.facebook.com/vis
 55,Mae Wrigley
 69,Meili Stanten
 88,Emma Steckline
+b,r,e,a,k
+Bates,6
+teamInfo,Cold Front,"Lewiston, Maine",https://coldfrontultimate.wordpress.com,,https://twitter.com/coldfront_ulti
+0,Abigail Waisler
+0,Ada Knauft
+0,Cassidy Meyer
+0,Dalia Cape
+0,Ellie Schueler
+0,Emma Gillespie
+0,Francisca Rocha
+0,Gemma DeCarolis
+0,Hana Roggendorf
+0,Jamison Bell
+0,Jillian  Scott-Lewis
+0,Liv Myers
+0,Lucy Sterba
+0,Megan Donaghy
+0,Reese Hillman
+0,Rosalie Brown
+0,Sam Rice
+0,Sarah Smith
 b,r,e,a,k
 Columbia (B),12
 teamInfo,Baewatch,"New York, New York",,,
@@ -115,6 +115,26 @@ teamInfo,Nova,"Williamstown, Massachusetts",https://www.williamsultimate.com,,ht
 0,Tahlia Gerger
 3,Skylar Yarter
 b,r,e,a,k
+Columbia,8
+teamInfo,Chimera,"New York , New York",,,https://twitter.com/cultimatewomen
+0,Alexandra Koletsos
+0,Alicia Yang
+0,Annabelle Wechsler
+0,Eva Supanc
+0,Grace Perrin
+0,Hughlyn Wong
+0,Isabelle Puhl
+0,Jillian Magtoto
+0,Kyra Ramesh Krishna
+0,Mandy Meliker
+0,Martina Irurita
+0,Naomi Miller
+0,Sareena Parikh
+0,Talia Sachs
+0,Vicky Wei
+17,Ji Yoon Sim
+24,Eastelle Ding
+b,r,e,a,k
 NYU,5
 teamInfo,NYU Purple Reign,"New York, New York",,,
 coaches,Akina Younge
@@ -139,26 +159,6 @@ coaches,Akina Younge
 25,Kailyn Xu
 70,Yuxi Ma
 74,Maria Angeli Magdaraog
-b,r,e,a,k
-Columbia,8
-teamInfo,Chimera,"New York , New York",,,https://twitter.com/cultimatewomen
-0,Alexandra Koletsos
-0,Alicia Yang
-0,Annabelle Wechsler
-0,Eva Supanc
-0,Grace Perrin
-0,Hughlyn Wong
-0,Isabelle Puhl
-0,Jillian Magtoto
-0,Kyra Ramesh Krishna
-0,Mandy Meliker
-0,Martina Irurita
-0,Naomi Miller
-0,Sareena Parikh
-0,Talia Sachs
-0,Vicky Wei
-17,Ji Yoon Sim
-24,Eastelle Ding
 b,r,e,a,k
 SUNY-Stony Brook,11
 teamInfo,Smash,"Stony Brook, New York",,https://www.facebook.com/StonyBrookUltimateFrisbee/,https://twitter.com/PanicDisc
@@ -266,23 +266,23 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
-Wellesley,Columbia (B),0,0,"03/02/2024, 10:00",Pool A,Scheduled
-Bates,Wesleyan,0,0,"03/02/2024, 10:00",Pool A,Scheduled
-Wellesley,Bates,0,0,"03/02/2024, 11:30",Pool A,Scheduled
-Wesleyan,Columbia (B),0,0,"03/02/2024, 11:30",Pool A,Scheduled
+Wellesley,Columbia (B),12,1,"03/02/2024, 10:00",Pool A,Final
+Bates,Wesleyan,6,9,"03/02/2024, 10:00",Pool A,Final
+Wellesley,Bates,12,2,"03/02/2024, 11:30",Pool A,Final
+Wesleyan,Columbia (B),11,2,"03/02/2024, 11:30",Pool A,Final
 Wellesley,Wesleyan,0,0,"03/02/2024, 14:30",Pool A,Scheduled
 Bates,Columbia (B),0,0,"03/02/2024, 14:30",Pool A,Scheduled
 pool,Pool B
-Williams,SUNY-Stony Brook,0,0,"03/02/2024, 08:30",Pool B,Scheduled
-NYU,Columbia,0,0,"03/02/2024, 08:30",Pool B,Scheduled
-Williams,Columbia,0,0,"03/02/2024, 10:00",Pool B,Scheduled
-NYU,SUNY-Stony Brook,0,0,"03/02/2024, 10:00",Pool B,Scheduled
-Williams,NYU,0,0,"03/02/2024, 11:30",Pool B,Scheduled
+Williams,SUNY-Stony Brook,10,4,"03/02/2024, 08:30",Pool B,Final
+NYU,Columbia,5,9,"03/02/2024, 08:30",Pool B,Final
+Williams,Columbia,7,6,"03/02/2024, 10:00",Pool B,Final
+NYU,SUNY-Stony Brook,8,3,"03/02/2024, 10:00",Pool B,Final
+Williams,NYU,9,5,"03/02/2024, 11:30",Pool B,Final
 Columbia,SUNY-Stony Brook,0,0,"03/02/2024, 13:00",Pool B,Scheduled
 pool,Pool C
-Mount Holyoke,SUNY-Buffalo,0,0,"03/02/2024, 08:30",Pool C,Scheduled
-Cornell,Rutgers,0,0,"03/02/2024, 08:30",Pool C,Scheduled
-Mount Holyoke,Rutgers,0,0,"03/02/2024, 11:30",Pool C,Scheduled
+Mount Holyoke,SUNY-Buffalo,12,4,"03/02/2024, 08:30",Pool C,Final
+Cornell,Rutgers,8,6,"03/02/2024, 08:30",Pool C,Final
+Mount Holyoke,Rutgers,8,6,"03/02/2024, 11:30",Pool C,Final
 Cornell,SUNY-Buffalo,0,0,"03/02/2024, 11:30",Pool C,Scheduled
 Mount Holyoke,Cornell,0,0,"03/02/2024, 13:00",Pool C,Scheduled
 Rutgers,SUNY-Buffalo,0,0,"03/02/2024, 14:30",Pool C,Scheduled

@@ -24,21 +24,6 @@ teamInfo,Dirty Ladies,"Washington, District of Columbia",http://audirtyladies.we
 53,Emma Harbourne
 78,Clara Watson
 b,r,e,a,k
-Towson,6
-teamInfo,Hammertime,"Towson, Maryland",,,
-0,Jocelyn Cather
-0,Kara Kaskel
-0,Katherine  Walsh 
-0,Kristina Watson
-0,Sarah Schultz
-0,shana Gittleson
-0,Tamara Vallejo-Schmidt
-0,Teodora Consoli
-0,Annelise Riordan
-0,Brooke Davidson
-0,Camille Hoffman
-8,Cate Ness
-b,r,e,a,k
 George Washington,7
 teamInfo,GDUB A,"Washington, District of Columbia",https://gdubladyhippos.wixsite.com/gdubladyhippos,https://www.facebook.com/GDubWomensUltimateFrisbee/,https://twitter.com/gdub_hippos
 0,Arielle Geismar
@@ -60,6 +45,21 @@ teamInfo,GDUB A,"Washington, District of Columbia",https://gdubladyhippos.wixsit
 17,Leoni Foster
 23,Manue Alaimo
 27,Eleni Zabaneh
+b,r,e,a,k
+Towson,6
+teamInfo,Hammertime,"Towson, Maryland",,,
+0,Jocelyn Cather
+0,Kara Kaskel
+0,Katherine  Walsh 
+0,Kristina Watson
+0,Sarah Schultz
+0,shana Gittleson
+0,Tamara Vallejo-Schmidt
+0,Teodora Consoli
+0,Annelise Riordan
+0,Brooke Davidson
+0,Camille Hoffman
+8,Cate Ness
 b,r,e,a,k
 American (B),12
 teamInfo,Dirty Ladies,"Washington DC, District of Columbia",,,
@@ -191,6 +191,24 @@ coaches,Steve Kreider
 0,Zoe Bernabe
 2,Miranda Kernaghan
 b,r,e,a,k
+Miami (Florida),10
+teamInfo,Florida) (Southern Tropical Depressions,"Coral Gables, Florida",,https://tinyurl.com/umwultimate,https://twitter.com/UMWultimate
+1,Shaela Sturgeon
+2,Sadie Harris
+3,Ana Montes
+5,Sarah Schwabe
+9,Nitya Anne
+11,Emily Olson
+13,Gina Adams
+14,Cadence Kelly
+17,Morgan Black
+30,Isabela Barr
+32,Bryce  Zwickel 
+52,Jessica Li
+57,Ainsley Heinz
+69,Snowe Simpson
+88,Lauren Prenaveau
+b,r,e,a,k
 William & Mary (B),9
 teamInfo,Woolly Mammoths,"Williamsburg, Virginia",,https://www.facebook.com/mammothultimate/,https://twitter.com/mammothultimate?lang=en
 0,Amelia Kim
@@ -217,45 +235,27 @@ teamInfo,Woolly Mammoths,"Williamsburg, Virginia",,https://www.facebook.com/mamm
 14,Eleni Orphanos
 24,Callie Sties
 b,r,e,a,k
-Miami (Florida),10
-teamInfo,Florida) (Southern Tropical Depressions,"Coral Gables, Florida",,https://tinyurl.com/umwultimate,https://twitter.com/UMWultimate
-1,Shaela Sturgeon
-2,Sadie Harris
-3,Ana Montes
-5,Sarah Schwabe
-9,Nitya Anne
-11,Emily Olson
-13,Gina Adams
-14,Cadence Kelly
-17,Morgan Black
-30,Isabela Barr
-32,Bryce  Zwickel 
-52,Jessica Li
-57,Ainsley Heinz
-69,Snowe Simpson
-88,Lauren Prenaveau
-b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
-American,George Washington,0,0,"03/02/2024, 09:30",Pool A,Scheduled
-Towson,American (B),0,0,"03/02/2024, 09:30",Pool A,Scheduled
-American,American (B),0,0,"03/02/2024, 11:15",Pool A,Scheduled
-Towson,George Washington,0,0,"03/02/2024, 11:15",Pool A,Scheduled
+American,George Washington,12,1,"03/02/2024, 09:30",Pool A,Final
+Towson,American (B),10,2,"03/02/2024, 09:30",Pool A,Final
+American,American (B),13,0,"03/02/2024, 11:15",Pool A,Final
+Towson,George Washington,7,8,"03/02/2024, 11:15",Pool A,Final
 American,Towson,0,0,"03/02/2024, 13:00",Pool A,Scheduled
 George Washington,American (B),0,0,"03/02/2024, 13:00",Pool A,Scheduled
 pool,Pool B
-Delaware,Brown (B),0,0,"03/02/2024, 09:30",Pool B,Scheduled
-Johns Hopkins,Messiah,0,0,"03/02/2024, 09:30",Pool B,Scheduled
-Delaware,Messiah,0,0,"03/02/2024, 11:15",Pool B,Scheduled
-Johns Hopkins,Brown (B),0,0,"03/02/2024, 11:15",Pool B,Scheduled
+Delaware,Brown (B),9,4,"03/02/2024, 09:30",Pool B,Final
+Johns Hopkins,Messiah,10,2,"03/02/2024, 09:30",Pool B,Final
+Delaware,Messiah,9,1,"03/02/2024, 11:15",Pool B,Final
+Johns Hopkins,Brown (B),6,5,"03/02/2024, 11:15",Pool B,Final
 Delaware,Johns Hopkins,0,0,"03/02/2024, 13:00",Pool B,Scheduled
 Brown (B),Messiah,0,0,"03/02/2024, 13:00",Pool B,Scheduled
 pool,Pool C
-Lehigh,William & Mary (B),0,0,"03/02/2024, 09:30",Pool C,Scheduled
-Catholic,Miami (Florida),0,0,"03/02/2024, 09:30",Pool C,Scheduled
-Lehigh,Miami (Florida),0,0,"03/02/2024, 11:15",Pool C,Scheduled
-Catholic,William & Mary (B),0,0,"03/02/2024, 11:15",Pool C,Scheduled
+Lehigh,William & Mary (B),10,3,"03/02/2024, 09:30",Pool C,Final
+Catholic,Miami (Florida),7,3,"03/02/2024, 09:30",Pool C,Final
+Lehigh,Miami (Florida),9,1,"03/02/2024, 11:15",Pool C,Final
+Catholic,William & Mary (B),9,3,"03/02/2024, 11:15",Pool C,Final
 Lehigh,Catholic,0,0,"03/02/2024, 13:00",Pool C,Scheduled
 William & Mary (B),Miami (Florida),0,0,"03/02/2024, 13:00",Pool C,Scheduled
 b,r,e,a,k
