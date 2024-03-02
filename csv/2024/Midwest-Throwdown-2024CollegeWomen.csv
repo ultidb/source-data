@@ -372,19 +372,19 @@ Truman State,Northwestern (B),0,0,"03/02/2024, 08:30",Pool A,Scheduled
 Saint Louis,Washington University (B),0,0,"03/02/2024, 08:30",Pool A,Scheduled
 Washington University,Washington University (B),0,0,"03/02/2024, 10:00",Pool A,Scheduled
 Truman State,Saint Louis,0,0,"03/02/2024, 10:00",Pool A,Scheduled
-Saint Louis,Northwestern (B),0,0,"03/02/2024, 11:30",Pool A,Scheduled
-Washington University,Truman State,0,0,"03/02/2024, 11:30",Pool A,Scheduled
-Washington University,Northwestern (B),0,0,"03/02/2024, 13:00",Pool A,Scheduled
-Truman State,Washington University (B),0,0,"03/02/2024, 13:00",Pool A,Scheduled
-Washington University,Saint Louis,0,0,"03/02/2024, 14:30",Pool A,Scheduled
-Northwestern (B),Washington University (B),0,0,"03/02/2024, 14:30",Pool A,Scheduled
+Washington University,Northwestern (B),0,0,"03/02/2024, 11:30",Pool A,Scheduled
+Truman State,Washington University (B),0,0,"03/02/2024, 11:30",Pool A,Scheduled
+Washington University,Saint Louis,0,0,"03/02/2024, 13:00",Pool A,Scheduled
+Northwestern (B),Washington University (B),0,0,"03/02/2024, 13:00",Pool A,Scheduled
+Saint Louis,Northwestern (B),0,0,"03/02/2024, 14:30",Pool A,Scheduled
+Washington University,Truman State,0,0,"03/02/2024, 14:30",Pool A,Scheduled
 pool,Pool B
-St Olaf,Wisconsin (B),0,0,"03/02/2024, 08:30",Pool B,Scheduled
-St Olaf,Northwestern,0,0,"03/02/2024, 10:00",Pool B,Scheduled
-Missouri,Wisconsin (B),0,0,"03/02/2024, 11:30",Pool B,Scheduled
+Northwestern,Wisconsin (B),0,0,"03/02/2024, 11:30",Pool B,Scheduled
+St Olaf,Missouri,0,0,"03/02/2024, 11:30",Pool B,Scheduled
 Missouri,Northwestern,0,0,"03/02/2024, 13:00",Pool B,Scheduled
-Northwestern,Wisconsin (B),0,0,"03/02/2024, 14:30",Pool B,Scheduled
-St Olaf,Missouri,0,0,"03/02/2024, 14:30",Pool B,Scheduled
+St Olaf,Wisconsin (B),0,0,"03/02/2024, 13:00",Pool B,Scheduled
+St Olaf,Northwestern,0,0,"03/02/2024, 14:30",Pool B,Scheduled
+Missouri,Wisconsin (B),0,0,"03/02/2024, 14:30",Pool B,Scheduled
 pool,Pool C
 Marquette,Macalester,0,0,"03/02/2024, 08:30",Pool C,Scheduled
 Iowa State,Kansas,0,0,"03/02/2024, 08:30",Pool C,Scheduled
@@ -405,12 +405,10 @@ bracket,Championship Bracket
 bracket,Third Place
 bracket,Fifth Place
 bracket,Seventh Place
-bracket,Consolation Bracket
+bracket,Ninth Place
 bracket,Eleventh Place
 bracket,Thirteenth Place
-bracket,Fifteenth Place
-bracket,Eighteenth Place
 b,r,e,a,k
-brackets,Bracket Play
-bracket,Championship Bracket
+pools,Consolation Round Robin
+pool,Pool E
 b,r,e,a,k
