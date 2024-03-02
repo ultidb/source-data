@@ -44,30 +44,19 @@ coaches,Gabriel Colton,Andrew Pillsbury
 0,Ezekiel Bloom
 49,Jihai Wang
 b,r,e,a,k
-SUNY-Albany,5
-teamInfo,SCAM,"Albany, New York",https://www.instagram.com/ualbanyultimate/,,
-0,Brandon  Patanjo
-02,Jonathan Kelly
-03,Owen Castor
-04,Daniel Bishop
-05,Mason Hotaling
-06,Matthew O'Brien
-07,Giovanni Scotti
-08,Sean White
-09,Pierce O'Connell
-10,Jason San Lucas
-11,Jacob Buono
-18,Cory Chin
-19,jeremy Doornick
-20,Spencer Li
-21,William Vasoll Jr.
-23,John Ruoff
-31,Eric Riemer
-34,Christopher Bethea
-50,Justin Ault
-77,Kazuma Lomanto
-88,Evan Gorthy
-99,Chris Cooney
+Brown (B),5
+teamInfo,Brown - B,"Providence, Rhode Island",,,https://twitter.com/PFunkUltimate
+0,Ben Pomeranz
+0,Daniel Graves
+0,Derek Reeves
+0,Ibrahim Mohammed
+0,Ishan Khurana
+0,Oscar King
+01,Owen Harris
+05,Bryce Jacobs
+25,Adrian  Oteiza
+34,Muyu Ye
+77,Alexander Drogin
 b,r,e,a,k
 Rowan,8
 teamInfo,Ruf Riders,"Glassboro, New Jersey",https://www.instagram.com/rowan.ultimate/,https://www.facebook.com/RowanUltimate,https://twitter.com/Rowan_Ultimate
@@ -147,7 +136,32 @@ teamInfo,Clown,"Brunswick, Maine",,,https://twitter.com/stoned_clown?lang=en
 88,Benjamin Halperin
 99,Jamie Roan
 b,r,e,a,k
-Bentley,6
+SUNY-Albany,6
+teamInfo,SCAM,"Albany, New York",https://www.instagram.com/ualbanyultimate/,,
+0,Brandon  Patanjo
+02,Jonathan Kelly
+03,Owen Castor
+04,Daniel Bishop
+05,Mason Hotaling
+06,Matthew O'Brien
+07,Giovanni Scotti
+08,Sean White
+09,Pierce O'Connell
+10,Jason San Lucas
+11,Jacob Buono
+18,Cory Chin
+19,jeremy Doornick
+20,Spencer Li
+21,William Vasoll Jr.
+23,John Ruoff
+31,Eric Riemer
+34,Christopher Bethea
+50,Justin Ault
+77,Kazuma Lomanto
+88,Evan Gorthy
+99,Chris Cooney
+b,r,e,a,k
+Bentley,7
 teamInfo,Icehouse,"Waltham, Massachusetts",,,twitter.com/bentleyultimate
 0,Aiden O'Hara
 0,Armando Pires
@@ -170,20 +184,6 @@ teamInfo,Icehouse,"Waltham, Massachusetts",,,twitter.com/bentleyultimate
 22,Nathan Raap
 66,Hunter Logue
 98,Brady Donahue
-b,r,e,a,k
-Brown (B),7
-teamInfo,Brown - B,"Providence, Rhode Island",,,https://twitter.com/PFunkUltimate
-0,Ben Pomeranz
-0,Daniel Graves
-0,Derek Reeves
-0,Ibrahim Mohammed
-0,Ishan Khurana
-0,Oscar King
-01,Owen Harris
-05,Bryce Jacobs
-25,Adrian  Oteiza
-34,Muyu Ye
-77,Alexander Drogin
 b,r,e,a,k
 Stevens Tech,9
 teamInfo,Stevens Tech,"Hoboken, New Jersey",,,
@@ -267,19 +267,19 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool
 pool,Pool A
-College of New Jersey,SUNY-Albany,0,0,"03/03/2024, 10:00",Pool A,Scheduled
+College of New Jersey,Brown (B),0,0,"03/03/2024, 10:00",Pool A,Scheduled
 Brandeis,Rowan,0,0,"03/03/2024, 10:00",Pool A,Scheduled
 College of New Jersey,Rowan,0,0,"03/03/2024, 11:30",Pool A,Scheduled
-Brandeis,SUNY-Albany,0,0,"03/03/2024, 11:30",Pool A,Scheduled
+Brandeis,Brown (B),0,0,"03/03/2024, 11:30",Pool A,Scheduled
 College of New Jersey,Brandeis,0,0,"03/03/2024, 13:00",Pool A,Scheduled
-SUNY-Albany,Rowan,0,0,"03/03/2024, 13:00",Pool A,Scheduled
+Brown (B),Rowan,0,0,"03/03/2024, 13:00",Pool A,Scheduled
 pool,Pool B
-Penn State (B),Bentley,0,0,"03/03/2024, 10:00",Pool B,Scheduled
-Bowdoin,Brown (B),0,0,"03/03/2024, 10:00",Pool B,Scheduled
-Penn State (B),Brown (B),0,0,"03/03/2024, 11:30",Pool B,Scheduled
-Bowdoin,Bentley,0,0,"03/03/2024, 11:30",Pool B,Scheduled
+Penn State (B),SUNY-Albany,0,0,"03/03/2024, 10:00",Pool B,Scheduled
+Bowdoin,Bentley,0,0,"03/03/2024, 10:00",Pool B,Scheduled
+Penn State (B),Bentley,0,0,"03/03/2024, 11:30",Pool B,Scheduled
+Bowdoin,SUNY-Albany,0,0,"03/03/2024, 11:30",Pool B,Scheduled
 Penn State (B),Bowdoin,0,0,"03/03/2024, 13:00",Pool B,Scheduled
-Bentley,Brown (B),0,0,"03/03/2024, 13:00",Pool B,Scheduled
+SUNY-Albany,Bentley,0,0,"03/03/2024, 13:00",Pool B,Scheduled
 pool,Pool C
 Stevens Tech,Connecticut (B),0,0,"03/03/2024, 10:00",Pool C,Scheduled
 Siena,SUNY-Albany (B),0,0,"03/03/2024, 10:00",Pool C,Scheduled
@@ -300,33 +300,33 @@ SUNY-Albany (B),Siena,9,3,"03/02/2024, 09:00",1,Final
 bracket,Game
 SUNY-Albany (B),Connecticut (B),0,6,"03/02/2024, 10:15",2,Final
 bracket,Game
-Brown (B),Stevens Tech,11,4,"03/02/2024, 09:00",3,Final
+Bentley,Penn State (B),4,9,"03/02/2024, 09:00",3,Final
 bracket,Game
-Brown (B),Siena,11,2,"03/02/2024, 10:15",4,Final
+Bentley,Bowdoin,5,9,"03/02/2024, 10:15",4,Final
 bracket,Game
-Brown (B),Connecticut (B),4,0,"03/02/2024, 11:30",5,Final
+Bentley,Connecticut (B),4,0,"03/02/2024, 11:30",5,Final
 bracket,Game
-Penn State (B),SUNY-Albany,9,1,"03/02/2024, 09:00",6,Final
+Rowan,Brown (B),4,11,"03/02/2024, 09:00",6,Final
 bracket,Game
-Penn State (B),Bowdoin,7,2,"03/02/2024, 23:30",7,Final
+Brown (B),Siena,11,2,"03/02/2024, 23:30",7,Final
 bracket,Game
-Connecticut (B),Rowan,6,7,"03/02/2024, 09:00",8,Final
+Brown (B),Connecticut (B),4,0,"03/02/2024, 09:00",8,Final
 bracket,Game
 Connecticut (B),SUNY-Albany (B),6,0,"03/02/2024, 11:30",9,Final
 bracket,Game
-College of New Jersey,Brandeis,8,9,"03/02/2024, 09:00",10,Final
+College of New Jersey,Brandeis,7,2,"03/02/2024, 09:00",10,Final
 bracket,Game
 College of New Jersey,Bowdoin,9,2,"03/02/2024, 10:15",11,Final
 bracket,Game
-College of New Jersey,SUNY-Albany,9,5,"03/02/2024, 11:30",12,Final
+College of New Jersey,Bentley,8,1,"03/02/2024, 11:30",12,Final
 bracket,Game
-SUNY-Albany,Brandeis,4,9,"03/02/2024, 10:15",13,Final
+Brown (B),Brandeis,4,9,"03/02/2024, 10:15",13,Final
 bracket,Game
-Penn State (B),SUNY-Albany,8,1,"03/02/2024, 11:30",13,Final
+Penn State (B),Brown (B),8,1,"03/02/2024, 11:30",13,Final
 bracket,Game
 Stevens Tech,Rowan,7,5,"03/02/2024, 10:30",14,Final
 bracket,Game
-Bentley,Bowdoin,7,3,"03/02/2024, 09:00",15,Final
+SUNY-Albany,Bowdoin,7,3,"03/02/2024, 09:00",15,Final
 bracket,Game
 Siena,Stevens Tech,0,7,"03/02/2024, 11:30",16,Final
 b,r,e,a,k
