@@ -24,21 +24,6 @@ teamInfo,Dirty Ladies,"Washington, District of Columbia",http://audirtyladies.we
 53,Emma Harbourne
 78,Clara Watson
 b,r,e,a,k
-Towson,6
-teamInfo,Hammertime,"Towson, Maryland",,,
-0,Jocelyn Cather
-0,Kara Kaskel
-0,Katherine  Walsh 
-0,Kristina Watson
-0,Sarah Schultz
-0,shana Gittleson
-0,Tamara Vallejo-Schmidt
-0,Teodora Consoli
-0,Annelise Riordan
-0,Brooke Davidson
-0,Camille Hoffman
-8,Cate Ness
-b,r,e,a,k
 George Washington,7
 teamInfo,GDUB A,"Washington, District of Columbia",https://gdubladyhippos.wixsite.com/gdubladyhippos,https://www.facebook.com/GDubWomensUltimateFrisbee/,https://twitter.com/gdub_hippos
 0,Arielle Geismar
@@ -61,6 +46,21 @@ teamInfo,GDUB A,"Washington, District of Columbia",https://gdubladyhippos.wixsit
 23,Manue Alaimo
 27,Eleni Zabaneh
 b,r,e,a,k
+Towson,6
+teamInfo,Hammertime,"Towson, Maryland",,,
+0,Jocelyn Cather
+0,Kara Kaskel
+0,Katherine  Walsh 
+0,Kristina Watson
+0,Sarah Schultz
+0,shana Gittleson
+0,Tamara Vallejo-Schmidt
+0,Teodora Consoli
+0,Annelise Riordan
+0,Brooke Davidson
+0,Camille Hoffman
+8,Cate Ness
+b,r,e,a,k
 American (B),12
 teamInfo,Dirty Ladies,"Washington DC, District of Columbia",,,
 0,Emilia Fischer
@@ -73,23 +73,6 @@ teamInfo,Dirty Ladies,"Washington DC, District of Columbia",,,
 0,Ruby Thompson
 0,Talia Kahan
 2,Ava Yap
-b,r,e,a,k
-Delaware,2
-teamInfo,Sideshow Ultimate,"Newark, Delaware",,,
-0,Christina Guadagno
-0,Elena Domin
-0,Emilie Harr
-0,Francesca Alcaraz
-0,Kassandra Campbell
-0,Rachel  Goldberg
-0,Syerra Sorber
-05,Paige Elsner
-12,Kaitlin Lynch
-15,Casey James
-16,Theresa Kelly
-21,Carissa Kiessling
-23,Alexandra de Sadow
-32,Rachel Rosen
 b,r,e,a,k
 Johns Hopkins,5
 teamInfo,Blue-Footed Boobies,"Baltimore, Maryland",,,
@@ -113,6 +96,23 @@ teamInfo,Blue-Footed Boobies,"Baltimore, Maryland",,,
 84,Tram Nguyen
 88,Fujia Zheng
 93,Shiori Harima
+b,r,e,a,k
+Delaware,2
+teamInfo,Sideshow Ultimate,"Newark, Delaware",,,
+0,Christina Guadagno
+0,Elena Domin
+0,Emilie Harr
+0,Francesca Alcaraz
+0,Kassandra Campbell
+0,Rachel  Goldberg
+0,Syerra Sorber
+05,Paige Elsner
+12,Kaitlin Lynch
+15,Casey James
+16,Theresa Kelly
+21,Carissa Kiessling
+23,Alexandra de Sadow
+32,Rachel Rosen
 b,r,e,a,k
 Brown (B),8
 teamInfo,Cosmic Rays,"Providence, Rhode Island",,,https://twitter.com/BrownCorays
@@ -243,28 +243,35 @@ Towson,American (B),10,2,"03/02/2024, 09:30",Pool A,Final
 American,American (B),13,0,"03/02/2024, 11:15",Pool A,Final
 Towson,George Washington,7,8,"03/02/2024, 11:15",Pool A,Final
 American,Towson,W,F,"03/03/2024, 08:00",Pool A,Final
-George Washington,American (B),0,0,"03/03/2024, 08:00",Pool A,Scheduled
+George Washington,American (B),10,1,"03/03/2024, 08:00",Pool A,Final
 pool,Pool B
 Delaware,Brown (B),9,4,"03/02/2024, 09:30",Pool B,Final
 Johns Hopkins,Messiah,10,2,"03/02/2024, 09:30",Pool B,Final
 Delaware,Messiah,9,1,"03/02/2024, 11:15",Pool B,Final
 Johns Hopkins,Brown (B),6,5,"03/02/2024, 11:15",Pool B,Final
-Delaware,Johns Hopkins,0,0,"03/03/2024, 08:00",Pool B,Scheduled
-Brown (B),Messiah,0,0,"03/03/2024, 08:00",Pool B,Scheduled
+Delaware,Johns Hopkins,7,8,"03/03/2024, 08:00",Pool B,Final
+Brown (B),Messiah,9,7,"03/03/2024, 08:00",Pool B,Final
 pool,Pool C
 Lehigh,William & Mary (B),10,3,"03/02/2024, 09:30",Pool C,Final
 Catholic,Miami (Florida),7,3,"03/02/2024, 09:30",Pool C,Final
 Lehigh,Miami (Florida),9,1,"03/02/2024, 11:15",Pool C,Final
 Catholic,William & Mary (B),9,3,"03/02/2024, 11:15",Pool C,Final
-Lehigh,Catholic,0,0,"03/03/2024, 08:00",Pool C,Scheduled
-William & Mary (B),Miami (Florida),0,0,"03/03/2024, 08:00",Pool C,Scheduled
+Lehigh,Catholic,7,5,"03/03/2024, 08:00",Pool C,Final
+William & Mary (B),Miami (Florida),2,7,"03/03/2024, 08:00",Pool C,Final
 b,r,e,a,k
 brackets,Bracket Play
 bracket,Championship
+American,Brown (B),0,0,"03/03/2024, 09:30",Quarterfinals,Scheduled
+Delaware,Catholic,0,0,"03/03/2024, 09:30",Quarterfinals,Scheduled
+Lehigh,George Washington,0,0,"03/03/2024, 09:30",Quarterfinals,Scheduled
+Johns Hopkins,Miami (Florida),0,0,"03/03/2024, 09:30",Quarterfinals,Scheduled
 bracket,3rd Place Game
 bracket,5th Place Bracket
 bracket,7th Place Bracket
 b,r,e,a,k
 pools,Consolation Pool
 pool,Pool D
+Messiah,William & Mary (B),0,0,"03/03/2024, 09:30",Pool D,Scheduled
+American (B),William & Mary (B),0,0,"03/03/2024, 11:15",Pool D,Scheduled
+American (B),Messiah,0,0,"03/03/2024, 13:00",Pool D,Scheduled
 b,r,e,a,k
