@@ -468,10 +468,10 @@ b,r,e,a,k
 s,t,a,g,e,s
 clusters,Saturday Non-Pool 
 cluster,Pre-Pool Crossover
-Chicago,Dartmouth,0,0,"03/16/2024, 08:00",,Scheduled
-Illinois,Iowa State,11,9,"03/16/2024, 08:00",,In Progress
-Missouri,LSU,0,0,"03/16/2024, 08:00",,Scheduled
-Oklahoma Christian,Michigan State,0,0,"03/16/2024, 08:00",,Scheduled
+Chicago,Dartmouth,8,8,"03/16/2024, 08:00",,Final
+Illinois,Iowa State,11,9,"03/16/2024, 08:00",,Final
+Missouri,LSU,11,5,"03/16/2024, 08:00",,Final
+Oklahoma Christian,Michigan State,8,12,"03/16/2024, 08:00",,Final
 cluster,BYU Games
 Brigham Young,Colorado College,0,0,"03/16/2024, 09:40",,Scheduled
 Brigham Young,Northeastern,0,0,"03/16/2024, 11:20",,Scheduled
@@ -480,13 +480,33 @@ Brigham Young,Florida,0,0,"03/16/2024, 14:40",,Scheduled
 b,r,e,a,k
 pools,Saturday Pool
 pool,Pool A
+Texas,Michigan State,0,0,"03/16/2024, 11:20",Pool A,Scheduled
+Middlebury,LSU,0,0,"03/16/2024, 11:20",Pool A,Scheduled
 Texas,Middlebury,0,0,"03/16/2024, 13:00",Pool A,Scheduled
+Michigan State,LSU,0,0,"03/16/2024, 13:00",Pool A,Scheduled
+Texas,LSU,0,0,"03/16/2024, 14:40",Pool A,Scheduled
+Middlebury,Michigan State,0,0,"03/16/2024, 14:40",Pool A,Scheduled
 pool,Pool B
+Northeastern,Oklahoma Christian,0,0,"03/16/2024, 09:40",Pool B,Scheduled
+Florida,Missouri,0,0,"03/16/2024, 09:40",Pool B,Scheduled
+Florida,Oklahoma Christian,0,0,"03/16/2024, 11:20",Pool B,Scheduled
 Northeastern,Florida,0,0,"03/16/2024, 13:00",Pool B,Scheduled
+Missouri,Oklahoma Christian,0,0,"03/16/2024, 13:00",Pool B,Scheduled
+Northeastern,Missouri,0,0,"03/16/2024, 14:40",Pool B,Scheduled
 pool,Pool C
+Tulane,Dartmouth,0,0,"03/16/2024, 09:40",Pool C,Scheduled
+Colorado State,Illinois,0,0,"03/16/2024, 09:40",Pool C,Scheduled
 Tulane,Colorado State,0,0,"03/16/2024, 11:20",Pool C,Scheduled
+Illinois,Dartmouth,0,0,"03/16/2024, 11:20",Pool C,Scheduled
+Colorado State,Dartmouth,0,0,"03/16/2024, 13:00",Pool C,Scheduled
+Tulane,Illinois,0,0,"03/16/2024, 14:40",Pool C,Scheduled
 pool,Pool D
+Texas A&M,Dartmouth,0,0,"03/16/2024, 09:40",Pool D,Scheduled
 Texas A&M,Colorado College,0,0,"03/16/2024, 11:20",Pool D,Scheduled
+Dartmouth,Iowa State,0,0,"03/16/2024, 11:20",Pool D,Scheduled
+Texas A&M,Iowa State,0,0,"03/16/2024, 13:00",Pool D,Scheduled
+Colorado College,Dartmouth,0,0,"03/16/2024, 13:00",Pool D,Scheduled
+Colorado College,Iowa State,0,0,"03/16/2024, 14:40",Pool D,Scheduled
 b,r,e,a,k
 clusters,Friday Showcase
 cluster,BYU Games
