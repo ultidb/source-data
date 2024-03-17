@@ -242,20 +242,6 @@ teamInfo,Hellions of Troy,"Los Angeles, California",http://www.uscwomensultimate
 73,Tanvi Shankar
 97,Taylor Ford
 b,r,e,a,k
-Rice,15
-teamInfo,Torque,"Houston, Texas",http://torqueultimate.wix.com/rice-womens-ultimate,,https://twitter.com/TorqueUltimate
-coaches,Ashley Shelor
-0,Lauren Ma
-2,Alice Owens
-6,Natalia Perey
-7,Heather Szczesniak
-10,Amber Liu
-12,Mayah Pazgal
-14,Sophia Figueroa
-17,Isabella Baker
-76,Callista Baker
-91,Ria Stevens
-b,r,e,a,k
 Trinity,13
 teamInfo,Altitude,"San Antonio, Texas",http://www.trinitytigers.com/information/recsports/Club_Sports/Ultimate_Frisbee,,
 0,Avery Hand 
@@ -277,6 +263,20 @@ teamInfo,Altitude,"San Antonio, Texas",http://www.trinitytigers.com/information/
 0,Allison Waters
 20,Alyssa LaGrone
 43,Lily Zeng
+b,r,e,a,k
+Rice,15
+teamInfo,Torque,"Houston, Texas",http://torqueultimate.wix.com/rice-womens-ultimate,,https://twitter.com/TorqueUltimate
+coaches,Ashley Shelor
+0,Lauren Ma
+2,Alice Owens
+6,Natalia Perey
+7,Heather Szczesniak
+10,Amber Liu
+12,Mayah Pazgal
+14,Sophia Figueroa
+17,Isabella Baker
+76,Callista Baker
+91,Ria Stevens
 b,r,e,a,k
 Texas State,20
 teamInfo,Trainwreck,"San Marcos, Texas",,https://www.facebook.com/TexasStateTrainwreck,https://www.twitter.com/txst_trainwreck
@@ -433,20 +433,6 @@ coaches,Tabetha Ridgway
 36,Tela Haskell
 85,Mackenzie Saunders
 b,r,e,a,k
-Texas-San Antonio,21
-teamInfo,Legion,"San Antonio, Texas",,,
-06,sophia garza
-09,Mia Olsen
-11,Sarah Junco-Chavez
-15,Isabelle Olsen
-25,Katherine Furcho
-26,Alex Ortiz
-28,Samantha Cantu
-44,Trinity Riley
-52,Kyra  Kayne
-66,Gianni Mossett
-70,Shea Lamphier
-b,r,e,a,k
 Texas A&M,16
 teamInfo,Stacked,"College Station, Texas",,https://www.facebook.com/TAMUStacked,
 0,Annie Gauderman
@@ -466,6 +452,20 @@ teamInfo,Stacked,"College Station, Texas",,https://www.facebook.com/TAMUStacked,
 13,Agatha Scales
 14,Cheyenne Allen
 18,Julia Tompkins
+b,r,e,a,k
+Texas-San Antonio,21
+teamInfo,Legion,"San Antonio, Texas",,,
+06,sophia garza
+09,Mia Olsen
+11,Sarah Junco-Chavez
+15,Isabelle Olsen
+25,Katherine Furcho
+26,Alex Ortiz
+28,Samantha Cantu
+44,Trinity Riley
+52,Kyra  Kayne
+66,Gianni Mossett
+70,Shea Lamphier
 b,r,e,a,k
 North Texas,14
 teamInfo,Envy,"Denton, Texas",,,
@@ -520,7 +520,7 @@ MIT,LSU,13,0,"03/16/2024, 14:15",Pool C,Final
 Trinity,Rice,12,8,"03/16/2024, 14:15",Pool C,Final
 Texas (B),Texas State,3,13,"03/16/2024, 14:15",Pool C,Final
 MIT,Texas State,8,11,"03/17/2024, 09:00",Pool C,Final
-Trinity,Texas (B),0,0,"03/17/2024, 09:00",Pool C,Scheduled
+Trinity,Texas (B),10,4,"03/17/2024, 09:00",Pool C,Final
 Rice,LSU,13,0,"03/17/2024, 09:00",Pool C,Final
 pool,Pool D
 Central Florida,Texas A&M,13,0,"03/16/2024, 09:00",Pool D,Final
@@ -537,7 +537,7 @@ North Texas,Texas A&M,F,W,"03/16/2024, 14:15",Pool D,Final
 Colorado College,Denver,13,6,"03/16/2024, 14:15",Pool D,Final
 Central Florida,Denver,13,1,"03/17/2024, 09:00",Pool D,Final
 North Texas,Colorado College,F,W,"03/17/2024, 09:00",Pool D,Final
-Texas A&M,Texas-San Antonio,0,0,"03/17/2024, 09:00",Pool D,Scheduled
+Texas A&M,Texas-San Antonio,10,4,"03/17/2024, 09:00",Pool D,Final
 b,r,e,a,k
 brackets,T1 Centex Championship
 bracket,Centex Championship Bracket
@@ -551,12 +551,18 @@ bracket,7th Place
 b,r,e,a,k
 brackets,Centex Ninals Bracket
 bracket,Ninals
+Middlebury,Texas State,0,0,"03/16/2024, 22:45",Quarters,In Progress
+Central Florida,Rice,0,0,"03/16/2024, 22:45",Quarters,In Progress
+Trinity,Colorado College,0,0,"03/16/2024, 22:45",Quarters,In Progress
+Denver,Southern California,0,0,"03/16/2024, 22:45",Quarters,In Progress
 bracket,11th Place
 bracket,13th Place
 bracket,15th Place
 b,r,e,a,k
 brackets,17th Place
 bracket,17th Place
+Texas-San Antonio,Texas (B),0,0,"03/17/2024, 10:45",Quarters,In Progress
+North Texas,LSU,0,0,"03/17/2024, 10:45",Quarters,In Progress
 bracket,19th Place
 bracket,21st place
 b,r,e,a,k
