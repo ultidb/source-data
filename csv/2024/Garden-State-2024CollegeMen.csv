@@ -105,7 +105,10 @@ teamInfo,WV Wild,"Morgantown, West Virginia",https://www.instagram.com/wvu.ultim
 85,Sam Mullenax
 88,Aiden Ballard
 b,r,e,a,k
-Haverford,5
+Villanova,5
+teamInfo,Main Line Ultimate,"Villanova, Pennsylvania",http://villanovaultimate.weebly.com,,https://twitter.com/VUMainLine
+b,r,e,a,k
+Haverford,6
 teamInfo,Big Donkey Ultimate,"Haverford, Pennsylvania",,,https://twitter.com/donkeyultimate
 0,Kaden Natale-schmitt
 1,Leo Wellmann
@@ -130,6 +133,31 @@ teamInfo,Big Donkey Ultimate,"Haverford, Pennsylvania",,,https://twitter.com/don
 48,Aidan Bannon
 80,Arno Harden
 99,Isaac Roth
+b,r,e,a,k
+Rowan,7
+teamInfo,Ruf Riders,"Glassboro, New Jersey",https://www.instagram.com/rowan.ultimate/,https://www.facebook.com/RowanUltimate,https://twitter.com/Rowan_Ultimate
+0,Adam Smith
+0,adam wyatt
+0,Benjamin Rothlauf
+0,Brendan Engelhardt
+0,Christopher Cocciadiferro
+0,Robert Callahan
+0,Russell Williams
+0,Ryan McManus
+0,Liam Liam Michael Mitchko
+0,Logan Trayner
+0,Stephen  Fasolo 
+0,William William Richard Klinger
+1,Kyle Cahill
+3,Matt Miles
+4,Jack Prancl
+6,John Hayes
+8,Brenden Hershman
+22,Ryan Cook
+31,Timothy Jennings
+64,Sean Carpenter
+69,Jared McCallion
+88,Andrzej Porter
 b,r,e,a,k
 Stevens Tech,8
 teamInfo,Stevens Tech,"Hoboken, New Jersey",,,
@@ -173,18 +201,6 @@ teamInfo,Haggis,"Edinboro, Pennsylvania",,https://www.facebook.com/HaggisUltimat
 69,trevor Baker
 73,Alex Fairbanks
 b,r,e,a,k
-Temple (B),12
-teamInfo,False Alarm,"PHILADELPHIA, Pennsylvania",,,
-0,Deepp Patel
-0,Jack Hewitt
-0,James Imdorf
-0,Jinuk Han
-0,Joseph Pimble
-0,Levy Morrison
-b,r,e,a,k
-Villanova,6
-teamInfo,Main Line Ultimate,"Villanova, Pennsylvania",http://villanovaultimate.weebly.com,,https://twitter.com/VUMainLine
-b,r,e,a,k
 Lehigh (B),10
 teamInfo,Lehigh-B,"Bethlehem, Pennsylvania",,,https://twitter.com/BehighUnited
 0,Andrew Jacobsen
@@ -209,21 +225,36 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool
 pool,Pool A
-Delaware,Messiah,0,0,"03/23/2024, 10:00",Pool A,Scheduled
-West Chester,West Virginia,0,0,"03/23/2024, 10:00",Pool A,Scheduled
-Delaware,West Virginia,0,0,"03/23/2024, 12:00",Pool A,Scheduled
-West Chester,Messiah,0,0,"03/23/2024, 12:00",Pool A,Scheduled
-Delaware,West Chester,0,0,"03/23/2024, 14:00",Pool A,Scheduled
-Messiah,West Virginia,0,0,"03/23/2024, 14:00",Pool A,Scheduled
+Delaware,West Chester,0,0,"03/23/2024, 10:00",Pool A,Scheduled
+Messiah,Villanova,0,0,"03/23/2024, 10:00",Pool A,Scheduled
+Delaware,Messiah,0,0,"03/23/2024, 11:30",Pool A,Scheduled
+West Chester,West Virginia,0,0,"03/23/2024, 11:30",Pool A,Scheduled
+West Virginia,Villanova,0,0,"03/23/2024, 13:00",Pool A,Scheduled
+West Chester,Messiah,0,0,"03/23/2024, 13:00",Pool A,Scheduled
+Delaware,West Virginia,0,0,"03/23/2024, 14:30",Pool A,Scheduled
+West Chester,Villanova,0,0,"03/23/2024, 14:30",Pool A,Scheduled
+Delaware,Villanova,0,0,"03/23/2024, 16:00",Pool A,Scheduled
+Messiah,West Virginia,0,0,"03/23/2024, 16:00",Pool A,Scheduled
 pool,Pool B
-Haverford,Edinboro,0,0,"03/23/2024, 10:00",Pool B,Scheduled
-Stevens Tech,Temple (B),0,0,"03/23/2024, 10:00",Pool B,Scheduled
-Haverford,Temple (B),0,0,"03/23/2024, 11:30",Pool B,Scheduled
+Haverford,Stevens Tech,0,0,"03/23/2024, 10:00",Pool B,Scheduled
+Rowan,Lehigh (B),0,0,"03/23/2024, 10:00",Pool B,Scheduled
+Edinboro,West Chester (B),0,0,"03/23/2024, 10:00",Pool B,Scheduled
+Haverford,Rowan,0,0,"03/23/2024, 11:30",Pool B,Scheduled
 Stevens Tech,Edinboro,0,0,"03/23/2024, 11:30",Pool B,Scheduled
-Haverford,Stevens Tech,0,0,"03/23/2024, 13:00",Pool B,Scheduled
-Edinboro,Temple (B),0,0,"03/23/2024, 14:30",Pool B,Scheduled
-pool,Pool C
-Villanova,Lehigh (B),0,0,"03/23/2024, 10:00",Pool C,Scheduled
-Villanova,West Chester (B),0,0,"03/23/2024, 13:00",Pool C,Scheduled
-Lehigh (B),West Chester (B),0,0,"03/23/2024, 14:30",Pool C,Scheduled
+Lehigh (B),West Chester (B),0,0,"03/23/2024, 11:30",Pool B,Scheduled
+Haverford,Edinboro,0,0,"03/23/2024, 13:00",Pool B,Scheduled
+Rowan,West Chester (B),0,0,"03/23/2024, 13:00",Pool B,Scheduled
+Stevens Tech,Lehigh (B),0,0,"03/23/2024, 13:00",Pool B,Scheduled
+Haverford,West Chester (B),0,0,"03/23/2024, 15:15",Pool B,Scheduled
+Rowan,Stevens Tech,0,0,"03/23/2024, 15:15",Pool B,Scheduled
+Edinboro,Lehigh (B),0,0,"03/23/2024, 15:15",Pool B,Scheduled
+Haverford,Lehigh (B),0,0,"03/24/2024, 09:00",Pool B,Scheduled
+Rowan,Edinboro,0,0,"03/24/2024, 09:00",Pool B,Scheduled
+Stevens Tech,West Chester (B),0,0,"03/24/2024, 09:00",Pool B,Scheduled
+b,r,e,a,k
+brackets,Bracket
+bracket,Championship
+bracket,5th Place
+bracket,3rd Place
+bracket,9th Place
 b,r,e,a,k
