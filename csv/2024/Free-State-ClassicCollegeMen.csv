@@ -61,6 +61,33 @@ coaches,Tommy Gebhardt
 77,Alejandro (Alex) Perez
 88,John Redmond
 b,r,e,a,k
+Truman State,3
+teamInfo,JujiTSU,"Kirksville, Missouri",https://ultimate.truman.edu,https://facebook.com/pages/JujiTSU-Ultimate/159311880755819,https://twitter.com/JujiTSUltimate
+1,Levon Muradyan
+2,John Dames
+4,John Eritreo
+5,Stuart Whitmer
+6,Blake Anderson
+7,Aiden Wahrenbrock
+10,Truett Haer
+11,Tegan Haer
+13,Andrew Hilliard
+14,Riley Scott
+15,Nathen Poe
+17,Jeffrey Laubscher
+20,Samuel Willoughby
+28,Anthony Payne
+29,Zach Vincent
+31,Evan Caito
+38,Liam Bogue
+44,Thomas Schmidt
+45,Seth Formby
+55,Joe Regina
+57,Cade Steinborn
+69,Isaac Vilchis
+88,Noah Faulkner
+99,Diego Butron
+b,r,e,a,k
 Saint Louis,4
 teamInfo,Archangel,"St. Louis, Missouri",,,https://twitter.com/Archangel_SLU
 0,Adam Zabel
@@ -110,33 +137,6 @@ teamInfo,Ironfist,"Siloam Springs, Arkansas",,https://www.facebook.com/jbultimat
 47,Jackson Macdonald
 57,Matthew Alberg
 97,Theodore Stegall
-b,r,e,a,k
-Truman State,3
-teamInfo,JujiTSU,"Kirksville, Missouri",https://ultimate.truman.edu,https://facebook.com/pages/JujiTSU-Ultimate/159311880755819,https://twitter.com/JujiTSUltimate
-1,Levon Muradyan
-2,John Dames
-4,John Eritreo
-5,Stuart Whitmer
-6,Blake Anderson
-7,Aiden Wahrenbrock
-10,Truett Haer
-11,Tegan Haer
-13,Andrew Hilliard
-14,Riley Scott
-15,Nathen Poe
-17,Jeffrey Laubscher
-20,Samuel Willoughby
-28,Anthony Payne
-29,Zach Vincent
-31,Evan Caito
-38,Liam Bogue
-44,Thomas Schmidt
-45,Seth Formby
-55,Joe Regina
-57,Cade Steinborn
-69,Isaac Vilchis
-88,Noah Faulkner
-99,Diego Butron
 b,r,e,a,k
 Missouri S&T,6
 teamInfo,Miner Threat,"Rolla, Missouri",https://www.minerthreatultimate.com/,https://www.facebook.com/groups/8025742180/,https://mobile.twitter.com/minerclub_ulti
@@ -216,20 +216,6 @@ coaches,Elizabeth McCullagh
 69,Connor Kudrna
 99,charlie cutts
 b,r,e,a,k
-Kansas State,14
-teamInfo,Wizards,"Manhattan, Kansas",,,
-02,Matthew Dusin
-06,Braden Nielson
-08,John Davis
-09,Anthony Casenas
-10,Alexander Dimino
-15,Zach Schiel
-20,Tyler Price
-29,Bryan Symons
-33,TIMOTHY PEARCE
-48,Jack Pfeifer
-77,Spencer Pennington
-b,r,e,a,k
 Wichita State,11
 teamInfo,Wheaties,"Wichita, Kansas",,https://www.facebook.com/WSUUltimate,https://twitter.com/wheatiesulti
 0,Eden Broomes
@@ -244,6 +230,20 @@ teamInfo,Wheaties,"Wichita, Kansas",,https://www.facebook.com/WSUUltimate,https:
 5,Derek Van Lanen
 8,Kristoffer Broadley
 13,Logan Langel
+b,r,e,a,k
+Kansas State,14
+teamInfo,Wizards,"Manhattan, Kansas",,,
+02,Matthew Dusin
+06,Braden Nielson
+08,John Davis
+09,Anthony Casenas
+10,Alexander Dimino
+15,Zach Schiel
+20,Tyler Price
+29,Bryan Symons
+33,TIMOTHY PEARCE
+48,Jack Pfeifer
+77,Spencer Pennington
 b,r,e,a,k
 Northern Iowa,8
 teamInfo,AmmUNItion,"Cedar Falls, Iowa",https://sites.google.com/site/ammunitionultimate/home,https://www.facebook.com/UNI.ultimate,https://twitter.com/UNIUltimate
@@ -357,18 +357,18 @@ Kansas,Truman State,11,9,"03/23/2024, 12:00",Pool A,Final
 St Olaf,Saint Louis,11,8,"03/23/2024, 13:30",Pool A,Final
 Kansas,John Brown,13,5,"03/23/2024, 13:30",Pool A,Final
 St Olaf,Kansas,11,10,"03/23/2024, 15:00",Pool A,Final
-Truman State,John Brown,0,0,"03/23/2024, 15:00",Pool A,Scheduled
+Truman State,John Brown,12,5,"03/23/2024, 15:00",Pool A,Final
 pool,Pool B
 Missouri S&T,Kansas State,13,2,"03/23/2024, 09:00",Pool B,Final
 Wichita State,Wisconsin-La Crosse,4,13,"03/23/2024, 09:00",Pool B,Final
 Missouri S&T,Wichita State,13,3,"03/23/2024, 10:30",Pool B,Final
 Oklahoma State,Wisconsin-La Crosse,6,10,"03/23/2024, 10:30",Pool B,Final
 Wisconsin-La Crosse,Kansas State,11,4,"03/23/2024, 12:00",Pool B,Final
-Oklahoma State,Wichita State,0,0,"03/23/2024, 12:00",Pool B,Scheduled
+Oklahoma State,Wichita State,13,4,"03/23/2024, 12:00",Pool B,Final
 Missouri S&T,Wisconsin-La Crosse,11,7,"03/23/2024, 13:30",Pool B,Final
-Oklahoma State,Kansas State,0,0,"03/23/2024, 13:30",Pool B,Scheduled
-Missouri S&T,Oklahoma State,0,0,"03/23/2024, 15:00",Pool B,Scheduled
-Wichita State,Kansas State,0,0,"03/23/2024, 15:00",Pool B,Scheduled
+Oklahoma State,Kansas State,13,4,"03/23/2024, 13:30",Pool B,Final
+Missouri S&T,Oklahoma State,12,7,"03/23/2024, 15:00",Pool B,Final
+Wichita State,Kansas State,10,8,"03/23/2024, 15:00",Pool B,Final
 pool,Pool C
 Nebraska,Kansas (B),12,6,"03/23/2024, 09:00",Pool C,Final
 Illinois State,Wisconsin-Stevens Point,11,7,"03/23/2024, 09:00",Pool C,Final
@@ -383,8 +383,15 @@ Illinois State,Kansas (B),13,4,"03/23/2024, 15:00",Pool C,Final
 b,r,e,a,k
 brackets,Bracket Play
 bracket,Championship
+Saint Louis,John Brown,0,0,"03/24/2024, 10:45",Quarters,Scheduled
+Wisconsin-La Crosse,Illinois State,0,0,"03/24/2024, 09:00",Play-ins,Scheduled
+Missouri S&T,Nebraska,0,0,"03/24/2024, 09:00",Play-ins,Scheduled
+Oklahoma State,Northern Iowa,0,0,"03/24/2024, 09:00",Play-ins,Scheduled
 bracket,Quarters Play-out
 bracket,Semis Play-out
 b,r,e,a,k
 clusters,Sunday Chumpionship
+cluster,Round 1
+Kansas State,Kansas (B),0,0,"03/24/2024, 09:00",,Scheduled
+Wichita State,Wisconsin-Stevens Point,0,0,"03/24/2024, 09:00",,Scheduled
 b,r,e,a,k
