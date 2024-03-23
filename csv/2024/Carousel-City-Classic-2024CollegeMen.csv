@@ -20,35 +20,6 @@ coaches,Luke Phelan,Habib Atallah
 37,Philip Acimovic
 83,Maxime Ayad
 b,r,e,a,k
-Syracuse,2
-teamInfo,Doom,"Syracuse, New York",,,
-0,Eamon Conneely
-0,Frank Tan
-0,Grady Bosch
-0,Gregory Schroeder
-0,John Vanderwege
-0,Josh Solomon
-0,Julian  Boscoo
-0,Kfir Shoham
-0,Matt Latvis
-0,Micah Goff
-0,Nathaniel Buskirk
-0,Nicholas Rubino
-0,Noah Sullivan
-0,Quinn Daly
-0,Quinn Whitbeck
-0,Sam Simon
-0,Sawyer Falkenbush
-0,Tim  Ha
-0,Benjamin Robinson
-0,Casey Kelley
-0,Charles Aubitz
-0,Christopher Kilbridge
-0,David Urban
-0,Alexander O’Neil
-7,Dean Lourenco
-13,Arthur Maiorella
-b,r,e,a,k
 Williams,3
 teamInfo,WUFO,"Williamstown, Massachusetts",http://williamsultimate.com,,https://www.twitter.com/wufoultimate
 coaches,Will Savage
@@ -80,8 +51,34 @@ coaches,Will Savage
 91,Adam Kohn
 92,William Beyreis
 b,r,e,a,k
-SUNY-Binghamton,4
-teamInfo,,,,,
+Syracuse,2
+teamInfo,Doom,"Syracuse, New York",,,
+0,Eamon Conneely
+0,Frank Tan
+0,Grady Bosch
+0,Gregory Schroeder
+0,John Vanderwege
+0,Josh Solomon
+0,Julian  Boscoo
+0,Kfir Shoham
+0,Matt Latvis
+0,Micah Goff
+0,Nathaniel Buskirk
+0,Nicholas Rubino
+0,Noah Sullivan
+0,Quinn Daly
+0,Quinn Whitbeck
+0,Sam Simon
+0,Sawyer Falkenbush
+0,Tim  Ha
+0,Benjamin Robinson
+0,Casey Kelley
+0,Charles Aubitz
+0,Christopher Kilbridge
+0,David Urban
+0,Alexander O’Neil
+7,Dean Lourenco
+13,Arthur Maiorella
 b,r,e,a,k
 Rochester,5
 teamInfo,Piggies,"Rochester, New York",,https://www.facebook.com/RochesterUltimate,https://twitter.com/piggiesultimate
@@ -119,6 +116,8 @@ teamInfo,Piggies,"Rochester, New York",,https://www.facebook.com/RochesterUltima
 50,Jack Ringel
 88,Abraham Lovich
 b,r,e,a,k
+TEAM_NAME_NOT_FOUND,4
+b,r,e,a,k
 MIT,6
 teamInfo,Grim Beaver,"Cambridge, Massachusetts",http://mens-ult.mit.edu,https://www.facebook.com/pages/MIT-Mens-Ultimate/129768873797702,https://twitter.com/MITultimate
 0,Kyle Roke
@@ -140,20 +139,20 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool A
 pool,Pool A
-Ottawa,Williams,0,0,"03/23/2024, 09:00",Pool A,Scheduled
-Syracuse,Rochester,0,0,"03/23/2024, 09:00",Pool A,Scheduled
-SUNY-Binghamton,MIT,0,0,"03/23/2024, 09:00",Pool A,Scheduled
-Ottawa,Syracuse,0,0,"03/23/2024, 10:30",Pool A,Scheduled
-Williams,SUNY-Binghamton,0,0,"03/23/2024, 10:30",Pool A,Scheduled
-Rochester,MIT,0,0,"03/23/2024, 10:30",Pool A,Scheduled
-Ottawa,SUNY-Binghamton,0,0,"03/23/2024, 12:00",Pool A,Scheduled
-Syracuse,MIT,0,0,"03/23/2024, 12:00",Pool A,Scheduled
-Williams,Rochester,0,0,"03/23/2024, 12:00",Pool A,Scheduled
-Ottawa,MIT,0,0,"03/23/2024, 13:30",Pool A,Scheduled
-Syracuse,Williams,0,0,"03/23/2024, 13:30",Pool A,Scheduled
-SUNY-Binghamton,Rochester,0,0,"03/23/2024, 13:30",Pool A,Scheduled
+Ottawa,Williams,12,9,"03/23/2024, 09:00",Pool A,Final
+Syracuse,Rochester,13,12,"03/23/2024, 09:00",Pool A,Final
+TEAM_NAME_NOT_FOUND,MIT,11,8,"03/23/2024, 09:00",Pool A,Final
+Ottawa,Syracuse,13,4,"03/23/2024, 10:30",Pool A,Final
+Williams,TEAM_NAME_NOT_FOUND,13,8,"03/23/2024, 10:30",Pool A,Final
+Rochester,MIT,9,4,"03/23/2024, 10:30",Pool A,Final
+Ottawa,TEAM_NAME_NOT_FOUND,12,10,"03/23/2024, 12:00",Pool A,Final
+Syracuse,MIT,12,11,"03/23/2024, 12:00",Pool A,Final
+Williams,Rochester,12,11,"03/23/2024, 12:00",Pool A,Final
+Ottawa,MIT,0,0,"03/23/2024, 13:30",Pool A,Cancelled
+Syracuse,Williams,0,0,"03/23/2024, 13:30",Pool A,Cancelled
+TEAM_NAME_NOT_FOUND,Rochester,0,0,"03/23/2024, 13:30",Pool A,Cancelled
 Ottawa,Rochester,0,0,"03/24/2024, 09:00",Pool A,Scheduled
-Syracuse,SUNY-Binghamton,0,0,"03/24/2024, 09:00",Pool A,Scheduled
+Syracuse,TEAM_NAME_NOT_FOUND,0,0,"03/24/2024, 09:00",Pool A,Scheduled
 Williams,MIT,0,0,"03/24/2024, 09:00",Pool A,Scheduled
 b,r,e,a,k
 brackets,Bracket
