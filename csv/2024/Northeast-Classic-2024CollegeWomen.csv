@@ -223,6 +223,8 @@ b,r,e,a,k
 Rutgers,16
 teamInfo,Rutgers Nightshade,"New Brunswick, New Jersey",,https://www.facebook.com/rutgersnightshade/,https://twitter.com/ru_nightshade
 coaches,Janine Hlavaty
+0,LouAnn Dameus
+6,Aliceana Lin
 00,Eveline Shiao
 03,Jocelyn Dacquel
 04,Marie Lessard-Brandt
@@ -230,11 +232,9 @@ coaches,Janine Hlavaty
 08,Amy Entin
 09,Jasmine Akman
 11,Sandy Yang
-13,Evelyn Fu
 16,Megha Patel
 18,Emilia Galkin
 19,Bridget Williams
-20,Niyati  Somarouthu
 30,Jessica Dugo
 91,jaime roggio
 97,Hanah Glick
@@ -406,9 +406,7 @@ teamInfo,Skidmore College Thoroughbears,"Saratoga Springs, New York",https://sit
 0,Abigail Svetlik
 04,Eleanor Herbert
 06,Kaitlin Reif
-07,Sylvia Goldman
 08,Maeve Williams
-19,Madeline Lutz
 32,Kaitlin Katirachi
 35,Ashley Schlinger
 36,Lilly Yang-Schmidt
@@ -419,6 +417,8 @@ teamInfo,Skidmore College Thoroughbears,"Saratoga Springs, New York",https://sit
 73,Johanna Meezan
 77,Rose Gordon
 79,Gabriella DePlasco
+91,Eleanor Runiewicz 
+97,Abby Brew
 b,r,e,a,k
 RIT,20
 teamInfo,Yams,"Rochester, New York",,,
@@ -446,45 +446,51 @@ s,t,a,g,e,s
 pools,Pool
 pool,Pool A
 Wesleyan,Rochester,0,0,"03/30/2024, 11:00",Pool A,Scheduled
-Wellesley,Vermont (B),0,0,"03/30/2024, 12:30",Pool A,Scheduled
-Wellesley,Rochester,0,0,"03/30/2024, 14:00",Pool A,Scheduled
-Wesleyan,Vermont (B),0,0,"03/30/2024, 14:00",Pool A,Scheduled
-Wellesley,Wesleyan,0,0,"03/30/2024, 15:30",Pool A,Scheduled
-Vermont (B),Rochester,0,0,"03/30/2024, 15:30",Pool A,Scheduled
+Wellesley,Vermont (B),0,0,"03/30/2024, 12:35",Pool A,Scheduled
+Wellesley,Rochester,0,0,"03/30/2024, 14:10",Pool A,Scheduled
+Wesleyan,Vermont (B),0,0,"03/30/2024, 14:10",Pool A,Scheduled
+Wellesley,Wesleyan,0,0,"03/30/2024, 15:45",Pool A,Scheduled
+Vermont (B),Rochester,0,0,"03/30/2024, 15:45",Pool A,Scheduled
 pool,Pool B
 Bates,Boston University,0,0,"03/30/2024, 11:00",Pool B,Scheduled
 Haverford-Bryn Mawr,Massachusetts,0,0,"03/30/2024, 11:00",Pool B,Scheduled
-Bates,Massachusetts,0,0,"03/30/2024, 12:30",Pool B,Scheduled
-Haverford-Bryn Mawr,Boston University,0,0,"03/30/2024, 12:30",Pool B,Scheduled
-Bates,Haverford-Bryn Mawr,0,0,"03/30/2024, 14:00",Pool B,Scheduled
-Boston University,Massachusetts,0,0,"03/30/2024, 15:30",Pool B,Scheduled
+Bates,Massachusetts,0,0,"03/30/2024, 12:35",Pool B,Scheduled
+Haverford-Bryn Mawr,Boston University,0,0,"03/30/2024, 12:35",Pool B,Scheduled
+Bates,Haverford-Bryn Mawr,0,0,"03/30/2024, 14:10",Pool B,Scheduled
+Boston University,Massachusetts,0,0,"03/30/2024, 15:45",Pool B,Scheduled
 pool,Pool C
 Temple,Rutgers,0,0,"03/30/2024, 11:00",Pool C,Scheduled
-McGill,Connecticut College,0,0,"03/30/2024, 12:30",Pool C,Scheduled
-McGill,Rutgers,0,0,"03/30/2024, 14:00",Pool C,Scheduled
-Temple,Connecticut College,0,0,"03/30/2024, 14:00",Pool C,Scheduled
-McGill,Temple,0,0,"03/30/2024, 15:30",Pool C,Scheduled
-Connecticut College,Rutgers,0,0,"03/30/2024, 15:30",Pool C,Scheduled
+McGill,Connecticut College,0,0,"03/30/2024, 12:35",Pool C,Scheduled
+McGill,Rutgers,0,0,"03/30/2024, 14:10",Pool C,Scheduled
+Temple,Connecticut College,0,0,"03/30/2024, 14:10",Pool C,Scheduled
+McGill,Temple,0,0,"03/30/2024, 15:45",Pool C,Scheduled
+Connecticut College,Rutgers,0,0,"03/30/2024, 15:45",Pool C,Scheduled
 pool,Pool D
 Bowdoin,New Hampshire,0,0,"03/30/2024, 11:00",Pool D,Scheduled
 Rhode Island,Amherst,0,0,"03/30/2024, 11:00",Pool D,Scheduled
-Bowdoin,Amherst,0,0,"03/30/2024, 12:30",Pool D,Scheduled
-Rhode Island,New Hampshire,0,0,"03/30/2024, 12:30",Pool D,Scheduled
-Bowdoin,Rhode Island,0,0,"03/30/2024, 14:00",Pool D,Scheduled
-New Hampshire,Amherst,0,0,"03/30/2024, 15:30",Pool D,Scheduled
+Bowdoin,Amherst,0,0,"03/30/2024, 12:35",Pool D,Scheduled
+Rhode Island,New Hampshire,0,0,"03/30/2024, 12:35",Pool D,Scheduled
+Bowdoin,Rhode Island,0,0,"03/30/2024, 14:10",Pool D,Scheduled
+New Hampshire,Amherst,0,0,"03/30/2024, 15:45",Pool D,Scheduled
 pool,Pool E
 NYU,Colgate,0,0,"03/30/2024, 11:00",Pool E,Scheduled
 Rensselaer Polytech,Amherst Regional High School,0,0,"03/30/2024, 11:00",Pool E,Scheduled
-NYU,Amherst Regional High School,0,0,"03/30/2024, 12:30",Pool E,Scheduled
-Rensselaer Polytech,Colgate,0,0,"03/30/2024, 12:30",Pool E,Scheduled
-NYU,Rensselaer Polytech,0,0,"03/30/2024, 14:00",Pool E,Scheduled
-Colgate,Amherst Regional High School,0,0,"03/30/2024, 14:00",Pool E,Scheduled
+NYU,Amherst Regional High School,0,0,"03/30/2024, 12:35",Pool E,Scheduled
+Rensselaer Polytech,Colgate,0,0,"03/30/2024, 12:35",Pool E,Scheduled
+NYU,Rensselaer Polytech,0,0,"03/30/2024, 14:10",Pool E,Scheduled
+Colgate,Amherst Regional High School,0,0,"03/30/2024, 14:10",Pool E,Scheduled
 pool,Pool F
-Syracuse,SUNY-Albany,0,0,"03/30/2024, 11:00",Pool F,Scheduled
-SUNY-Buffalo,SUNY-Albany,0,0,"03/30/2024, 12:30",Pool F,Scheduled
-SUNY-Buffalo,Syracuse,0,0,"03/30/2024, 14:00",Pool F,Scheduled
+SUNY-Buffalo,SUNY-Albany,0,0,"03/30/2024, 11:00",Pool F,Scheduled
+Syracuse,SUNY-Albany,0,0,"03/30/2024, 12:35",Pool F,Scheduled
+SUNY-Buffalo,Syracuse,0,0,"03/30/2024, 14:10",Pool F,Scheduled
 pool,Pool G
 RIT,Vermont (C),0,0,"03/30/2024, 11:00",Pool G,Scheduled
-Skidmore,Vermont (C),0,0,"03/30/2024, 12:30",Pool G,Scheduled
-Skidmore,RIT,0,0,"03/30/2024, 14:00",Pool G,Scheduled
+Skidmore,Vermont (C),0,0,"03/30/2024, 12:35",Pool G,Scheduled
+Skidmore,RIT,0,0,"03/30/2024, 14:10",Pool G,Scheduled
+b,r,e,a,k
+clusters,Saturday CO
+cluster,CO
+SUNY-Buffalo,Skidmore,0,0,"03/30/2024, 17:20",,Scheduled
+Syracuse,RIT,0,0,"03/30/2024, 17:20",,Scheduled
+Vermont (C),SUNY-Albany,0,0,"03/30/2024, 17:20",,Scheduled
 b,r,e,a,k
