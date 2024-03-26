@@ -331,6 +331,7 @@ teamInfo,Buffalo Grinch,"Buffalo, New York",,,
 26,Ryan Joslyn
 28,Matthew Freeland
 29,Luke LaBoy
+32,Luke Weber
 36,ian pope
 51,Nate Sciara 
 87,Jay Pierce
@@ -350,21 +351,21 @@ teamInfo,Ravens,"Ottawa, Ontario CA",https://goravens.ca/clubs/mens-ultimate-fri
 b,r,e,a,k
 Hofstra,11
 teamInfo,Flying Dutchmen,"Hempstead, New York",,,@HUFDUltimate
+0,Admar Calovini
+0,Brennen Steinborn
+0,Christina Kyprianou
+0,Darsh Patel
 0,Julia Mills
 0,Karl Basile-Baehr
 0,Lily Friedman
 0,Nadya Svidzerskaya
-0,Robert Beanland
 0,Robert Shea
 0,Sam Gibney
 0,Sam Rork
 0,Sean Kupstas
 0,Steven Samuel
-0,Admar Calovini
-0,Brennen Steinborn
-0,Christina Kyprianou
-0,Darsh Patel
 0,Jake Olney
+3,Robert Beanland
 31,Gabriel Kritz
 38,Caleb Rockhill
 57,Joseph Cicione
@@ -395,27 +396,39 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool
 pool,Pool A
-SUNY-Cortland,Wesleyan,0,0,"03/30/2024, 12:30",Pool A,Scheduled
-Vermont (B),Wesleyan,0,0,"03/30/2024, 14:00",Pool A,Scheduled
-Vermont (B),SUNY-Cortland,0,0,"03/30/2024, 15:30",Pool A,Scheduled
+SUNY-Cortland,Wesleyan,0,0,"03/30/2024, 11:00",Pool A,Scheduled
+Vermont (B),Wesleyan,0,0,"03/30/2024, 12:35",Pool A,Scheduled
+Vermont (B),SUNY-Cortland,0,0,"03/30/2024, 14:10",Pool A,Scheduled
 pool,Pool B
-College of New Jersey,Ithaca,0,0,"03/30/2024, 12:30",Pool B,Scheduled
-Amherst Regional,Ithaca,0,0,"03/30/2024, 14:00",Pool B,Scheduled
-Amherst Regional,College of New Jersey,0,0,"03/30/2024, 15:30",Pool B,Scheduled
+College of New Jersey,Ithaca,0,0,"03/30/2024, 11:00",Pool B,Scheduled
+Amherst Regional,Ithaca,0,0,"03/30/2024, 12:35",Pool B,Scheduled
+Amherst Regional,College of New Jersey,0,0,"03/30/2024, 14:10",Pool B,Scheduled
 pool,Pool C
-Swarthmore,SUNY-Binghamton (B),0,0,"03/30/2024, 12:30",Pool C,Scheduled
-Rhode Island,SUNY-Binghamton (B),0,0,"03/30/2024, 14:00",Pool C,Scheduled
-Rhode Island,Swarthmore,0,0,"03/30/2024, 15:30",Pool C,Scheduled
+Swarthmore,SUNY-Binghamton (B),0,0,"03/30/2024, 12:35",Pool C,Scheduled
+Rhode Island,SUNY-Binghamton (B),0,0,"03/30/2024, 14:10",Pool C,Scheduled
+Rhode Island,Swarthmore,0,0,"03/30/2024, 15:45",Pool C,Scheduled
 pool,Pool D
-Rensselaer Polytech,Vermont (C),0,0,"03/30/2024, 12:30",Pool D,Scheduled
-SUNY-Geneseo,Vermont (C),0,0,"03/30/2024, 14:00",Pool D,Scheduled
-SUNY-Geneseo,Rensselaer Polytech,0,0,"03/30/2024, 15:30",Pool D,Scheduled
+Rensselaer Polytech,Vermont (C),0,0,"03/30/2024, 12:35",Pool D,Scheduled
+SUNY-Geneseo,Vermont (C),0,0,"03/30/2024, 14:10",Pool D,Scheduled
+SUNY-Geneseo,Rensselaer Polytech,0,0,"03/30/2024, 15:45",Pool D,Scheduled
 pool,Pool E
-Vermont (C),SUNY-Buffalo (B),0,0,"03/30/2024, 12:30",Pool E,Scheduled
-SUNY-Albany,SUNY-Buffalo (B),0,0,"03/30/2024, 14:00",Pool E,Scheduled
-SUNY-Albany,Vermont (C),0,0,"03/30/2024, 15:30",Pool E,Scheduled
+Skidmore,SUNY-Buffalo (B),0,0,"03/30/2024, 12:35",Pool E,Scheduled
+SUNY-Albany,SUNY-Buffalo (B),0,0,"03/30/2024, 14:10",Pool E,Scheduled
+SUNY-Albany,Skidmore,0,0,"03/30/2024, 15:45",Pool E,Scheduled
 pool,Pool F
-SUNY-Binghamton (B),SUNY-Albany (B),0,0,"03/30/2024, 12:30",Pool F,Scheduled
-Swarthmore,SUNY-Albany (B),0,0,"03/30/2024, 14:00",Pool F,Scheduled
-Swarthmore,SUNY-Binghamton (B),0,0,"03/30/2024, 15:30",Pool F,Scheduled
+Hofstra,SUNY-Albany (B),0,0,"03/30/2024, 12:35",Pool F,Scheduled
+Carleton University,SUNY-Albany (B),0,0,"03/30/2024, 14:10",Pool F,Scheduled
+Carleton University,Hofstra,0,0,"03/30/2024, 15:45",Pool F,Scheduled
+b,r,e,a,k
+clusters,Saturday CO
+cluster,CO
+Vermont (B),Amherst Regional,0,0,"03/30/2024, 15:45",,Scheduled
+College of New Jersey,SUNY-Cortland,0,0,"03/30/2024, 15:45",,Scheduled
+Wesleyan,Ithaca,0,0,"03/30/2024, 15:45",,Scheduled
+Rhode Island,SUNY-Geneseo,0,0,"03/30/2024, 17:20",,Scheduled
+SUNY-Albany,Carleton University,0,0,"03/30/2024, 17:20",,Scheduled
+Hofstra,Skidmore,0,0,"03/30/2024, 17:20",,Scheduled
+Rensselaer Polytech,Swarthmore,0,0,"03/30/2024, 17:20",,Scheduled
+SUNY-Binghamton (B),Vermont (C),0,0,"03/30/2024, 17:20",,Scheduled
+SUNY-Buffalo (B),SUNY-Albany (B),0,0,"03/30/2024, 17:20",,Scheduled
 b,r,e,a,k
