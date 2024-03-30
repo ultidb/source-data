@@ -30,39 +30,6 @@ teamInfo,Chill Dev,"Burlington, Vermont",,https://www.facebook.com/Team.Chill.33
 88,Matthew Gaetano
 95,Asher Levy
 b,r,e,a,k
-SUNY-Cortland,4
-teamInfo,Team Rocket,"Cortland, New York",,,https://twitter.com/cortlandulti?s=21
-00,Alexander Servinskas
-00,Angel Chauca
-00,Christopher Lee
-00,Connor McNeill
-00,Devon Blackwood
-00,Dylan Foutch
-00,Ethan Laderman
-00,Harrison Kelly
-00,Jack-Henry Whalen
-00,James  Prendergast
-00,James Weilert
-00,Matthew Prendergast
-00,Maxwell Tolan
-00,Michael Moran
-00,Michael DeVillers
-00,Riley Drew-Cross
-00,Ryan  Trendell
-00,Ryan Joyce-Turner
-00,Ryan Tart
-00,Tyler Uruburu
-00,zachary jackson
-02,Luke Barrett
-03,Brian Wise
-09,Christopher Caneiro
-10,Leonardo  Rodriguez 
-13,Damon Carroll
-23,Mark Weidman
-25,Aidan Russo
-31,Anthony Graff
-97,James Marino
-b,r,e,a,k
 Wesleyan,5
 teamInfo,Nietzsch Factor,"Middletown, Connecticut",,https://www.facebook.com/nietzschfactor/,https://twitter.com/nietzschfactor
 0,Amit Piryatinsky
@@ -96,6 +63,39 @@ teamInfo,Nietzsch Factor,"Middletown, Connecticut",,https://www.facebook.com/nie
 67,Ulysses Conrad
 77,Dylan McCaleb
 88,Will Clemans
+b,r,e,a,k
+SUNY-Cortland,4
+teamInfo,Team Rocket,"Cortland, New York",,,https://twitter.com/cortlandulti?s=21
+00,Alexander Servinskas
+00,Angel Chauca
+00,Christopher Lee
+00,Connor McNeill
+00,Devon Blackwood
+00,Dylan Foutch
+00,Ethan Laderman
+00,Harrison Kelly
+00,Jack-Henry Whalen
+00,James  Prendergast
+00,James Weilert
+00,Matthew Prendergast
+00,Maxwell Tolan
+00,Michael Moran
+00,Michael DeVillers
+00,Riley Drew-Cross
+00,Ryan  Trendell
+00,Ryan Joyce-Turner
+00,Ryan Tart
+00,Tyler Uruburu
+00,zachary jackson
+02,Luke Barrett
+03,Brian Wise
+09,Christopher Caneiro
+10,Leonardo  Rodriguez 
+13,Damon Carroll
+23,Mark Weidman
+25,Aidan Russo
+31,Anthony Graff
+97,James Marino
 b,r,e,a,k
 Amherst Regional,2
 teamInfo,Hurricanes,"Amherst, Massachusetts",,,@canesultimate
@@ -193,6 +193,31 @@ teamInfo,RIUT,"Kingston, Rhode Island",,https://www.facebook.com/MensRIUT/,https
 16,Joshua Benros
 22,Brad Fowler
 b,r,e,a,k
+SUNY-Binghamton (B),15
+teamInfo,SUNY-Binghamton B,"Binghamton, New York",https://sites.google.com/binghamton.edu/binghamtonultimate/,https://www.facebook.com/binghamtonultimate/,
+4,Rory Jacobs
+8,Christopher Adami
+11,Christian Cincotta
+15,Lucas Hopkins
+16,Austin Cincotta
+18,Samuel Levine
+19,Patrick Pellittiere
+21,Dennis Ahmetaj
+27,Mert Yolseven
+30,Jonathan Appel
+32,Christopher Leon
+35,Quinlan Schultz
+37,Caleb Carpenter
+38,Aidan Goode
+43,Zisis Zias
+52,Noah Capello
+66,Alex Pulsifer
+72,Ryan Ragaini
+87,Kyle Veith
+88,Matthew Stancampiano
+93,Matthew Tibbals
+97,Ethan Weiss
+b,r,e,a,k
 Swarthmore,14
 teamInfo,Earthworms,"Swarthmore, Pennsylvania",,,https://twitter.com/WormsUltimate?s=20
 0,Aaron Thammavongxay
@@ -225,31 +250,6 @@ teamInfo,Earthworms,"Swarthmore, Pennsylvania",,,https://twitter.com/WormsUltima
 30,Daniel Perrin
 66,Leo Rothenberg
 88,Ryan Jin
-b,r,e,a,k
-SUNY-Binghamton (B),15
-teamInfo,SUNY-Binghamton B,"Binghamton, New York",https://sites.google.com/binghamton.edu/binghamtonultimate/,https://www.facebook.com/binghamtonultimate/,
-4,Rory Jacobs
-8,Christopher Adami
-11,Christian Cincotta
-15,Lucas Hopkins
-16,Austin Cincotta
-18,Samuel Levine
-19,Patrick Pellittiere
-21,Dennis Ahmetaj
-27,Mert Yolseven
-30,Jonathan Appel
-32,Christopher Leon
-35,Quinlan Schultz
-37,Caleb Carpenter
-38,Aidan Goode
-43,Zisis Zias
-52,Noah Capello
-66,Alex Pulsifer
-72,Ryan Ragaini
-87,Kyle Veith
-88,Matthew Stancampiano
-93,Matthew Tibbals
-97,Ethan Weiss
 b,r,e,a,k
 SUNY-Geneseo,8
 teamInfo,Snail,"Geneseo, New York",,,@geneseoultimate
@@ -498,16 +498,16 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool
 pool,Pool A
-SUNY-Cortland,Wesleyan,0,0,"03/30/2024, 11:00",Pool A,Scheduled
-Vermont (B),Wesleyan,0,0,"03/30/2024, 12:35",Pool A,Scheduled
-Vermont (B),SUNY-Cortland,0,0,"03/30/2024, 14:10",Pool A,Scheduled
+SUNY-Cortland,Wesleyan,8,9,"03/30/2024, 11:00",Pool A,Final
+Vermont (B),Wesleyan,9,8,"03/30/2024, 12:35",Pool A,Final
+Vermont (B),SUNY-Cortland,9,7,"03/30/2024, 14:10",Pool A,Final
 pool,Pool B
 College of New Jersey,Ithaca,0,0,"03/30/2024, 11:00",Pool B,Scheduled
 Amherst Regional,Ithaca,0,0,"03/30/2024, 12:35",Pool B,Scheduled
 Amherst Regional,College of New Jersey,0,0,"03/30/2024, 14:10",Pool B,Scheduled
 pool,Pool C
-Swarthmore,SUNY-Binghamton (B),0,0,"03/30/2024, 12:35",Pool C,Scheduled
-Rhode Island,SUNY-Binghamton (B),0,0,"03/30/2024, 14:10",Pool C,Scheduled
+Swarthmore,SUNY-Binghamton (B),8,9,"03/30/2024, 12:35",Pool C,Final
+Rhode Island,SUNY-Binghamton (B),12,5,"03/30/2024, 14:10",Pool C,Final
 Rhode Island,Swarthmore,0,0,"03/30/2024, 15:45",Pool C,Scheduled
 pool,Pool D
 Rensselaer Polytech,Vermont (C),0,0,"03/30/2024, 12:35",Pool D,Scheduled
@@ -526,7 +526,7 @@ clusters,Saturday CO
 cluster,CO
 Vermont (B),Amherst Regional,0,0,"03/30/2024, 15:45",,Scheduled
 College of New Jersey,SUNY-Cortland,0,0,"03/30/2024, 15:45",,Scheduled
-Wesleyan,Ithaca,0,0,"03/30/2024, 15:45",,Scheduled
+Wesleyan,Ithaca,9,10,"03/30/2024, 15:45",,Final
 Rhode Island,SUNY-Geneseo,0,0,"03/30/2024, 17:20",,Scheduled
 SUNY-Albany,Middlebury (B),0,0,"03/30/2024, 17:20",,Scheduled
 Hofstra,Skidmore,0,0,"03/30/2024, 17:20",,Scheduled

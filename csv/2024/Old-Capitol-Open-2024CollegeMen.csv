@@ -260,6 +260,33 @@ coaches,Lucas Boyle
 55,Nick Rider
 91,Thomas Helm
 b,r,e,a,k
+Minnesota (C),21
+teamInfo,Rubber Ducky,"Minneapolis, Minnesota",,,
+0,Aiden Gorman
+0,Avi Prager
+0,Ben Christenson
+0,Benjamin Dockerty
+0,Caleb Fravel
+0,Mason Overman 
+0,Neil Roy
+0,Nikolas Van Nelson
+0,Dillon Steeves
+0,Dylan Ringer
+0,Will Beaumaster
+7,Ty Sibinski
+8,Ian Wang
+10,Parker Jelen
+13,Johannes Laurila
+16,Peter Nuon
+17,Sam Revermann
+19,Ben Hunter
+24,Jonathan Ip
+27,Anders Bergren
+32,Mason Hamar
+37,Dev Patel
+42,Vincent Norton
+99,Ian Brudnak Voss
+b,r,e,a,k
 St Thomas,12
 teamInfo,Purple Reign,"Saint Paul, Minnesota",,,
 0,Brady Sullivan
@@ -288,33 +315,6 @@ teamInfo,Purple Reign,"Saint Paul, Minnesota",,,
 69,Albert Dohrer
 74,Kenneth Richards
 87,Alex  Cahill
-b,r,e,a,k
-Minnesota (C),21
-teamInfo,Rubber Ducky,"Minneapolis, Minnesota",,,
-0,Aiden Gorman
-0,Avi Prager
-0,Ben Christenson
-0,Benjamin Dockerty
-0,Caleb Fravel
-0,Mason Overman 
-0,Neil Roy
-0,Nikolas Van Nelson
-0,Dillon Steeves
-0,Dylan Ringer
-0,Will Beaumaster
-7,Ty Sibinski
-8,Ian Wang
-10,Parker Jelen
-13,Johannes Laurila
-16,Peter Nuon
-17,Sam Revermann
-19,Ben Hunter
-24,Jonathan Ip
-27,Anders Bergren
-32,Mason Hamar
-37,Dev Patel
-42,Vincent Norton
-99,Ian Brudnak Voss
 b,r,e,a,k
 Davenport,5
 teamInfo,Panthers,"Grand Rapids, Michigan",davenport.edu/sports/ultimate,,
@@ -526,6 +526,22 @@ teamInfo,Macalester Open Ultimate,"Saint Paul, Minnesota",https://macalesteropen
 72,Jack Keller
 82,Caedmon Kolllmer-Dorsey
 b,r,e,a,k
+Eastern Michigan,17
+teamInfo,Fighting Hellfish,"Ypsilanti, Michigan",,,
+0,Brendan Moore
+0,Robert Cann
+0,Sacha Scarabello
+0,Trinity Bailey
+2,Dylan Williams
+6,Parker Henderson
+05,Julia Danci
+13,Brendan Clancy
+17,Nathanael Schlosser
+17,Tudor Pascutiu
+21,Collin Henig
+23,Harrison Kopko
+29,Carter Dove
+b,r,e,a,k
 St John's (Minnesota),16
 teamInfo,Minnesota) (BAM,"Collegeville, Minnesota",,https://www.facebook.com/pages/Saint-Johns-Ultimate/169796783097127,https://twitter.com/SJUultimate
 coaches,Daniel Bates
@@ -547,76 +563,86 @@ coaches,Daniel Bates
 24,Marcus Lemos
 99,Chenxu Yu
 b,r,e,a,k
-Eastern Michigan,17
-teamInfo,Fighting Hellfish,"Ypsilanti, Michigan",,,
-0,Brendan Moore
-0,Robert Cann
-0,Sacha Scarabello
-0,Trinity Bailey
-2,Dylan Williams
-6,Parker Henderson
-05,Julia Danci
-13,Brendan Clancy
-17,Nathanael Schlosser
-17,Tudor Pascutiu
-21,Collin Henig
-23,Harrison Kopko
-29,Carter Dove
-b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
-Colorado Mines,Northwestern (B),0,0,"03/30/2024, 09:00",Pool A,Scheduled
-Minnesota (B),Wisconsin-Milwaukee (B),0,0,"03/30/2024, 09:00",Pool A,Scheduled
-Colorado Mines,Wisconsin-Milwaukee (B),0,0,"03/30/2024, 10:30",Pool A,Scheduled
-Minnesota (B),Northwestern (B),0,0,"03/30/2024, 10:30",Pool A,Scheduled
-Colorado Mines,Minnesota (B),0,0,"03/30/2024, 12:00",Pool A,Scheduled
-Northwestern (B),Wisconsin-Milwaukee (B),0,0,"03/30/2024, 12:00",Pool A,Scheduled
+Colorado Mines,Northwestern (B),13,1,"03/30/2024, 09:00",Pool A,Final
+Minnesota (B),Wisconsin-Milwaukee (B),13,0,"03/30/2024, 09:00",Pool A,Final
+Colorado Mines,Wisconsin-Milwaukee (B),13,0,"03/30/2024, 10:30",Pool A,Final
+Minnesota (B),Northwestern (B),13,3,"03/30/2024, 10:30",Pool A,Final
+Colorado Mines,Minnesota (B),11,8,"03/30/2024, 12:00",Pool A,Final
+Northwestern (B),Wisconsin-Milwaukee (B),9,3,"03/30/2024, 12:00",Pool A,Final
 pool,Pool B
-Wisconsin-La Crosse,Iowa State (B),0,0,"03/30/2024, 09:00",Pool B,Scheduled
-Colorado (B),Iowa State (B),0,0,"03/30/2024, 10:30",Pool B,Scheduled
-Colorado (B),Wisconsin-La Crosse,0,0,"03/30/2024, 12:00",Pool B,Scheduled
+Wisconsin-La Crosse,Iowa State (B),11,4,"03/30/2024, 09:00",Pool B,Final
+Colorado (B),Iowa State (B),13,1,"03/30/2024, 10:30",Pool B,Final
+Colorado (B),Wisconsin-La Crosse,11,10,"03/30/2024, 12:00",Pool B,Final
 pool,Pool C
-Grinnell,Iowa (B),0,0,"03/30/2024, 09:00",Pool C,Scheduled
-Michigan State,Iowa (B),0,0,"03/30/2024, 10:30",Pool C,Scheduled
-Michigan State,Grinnell,0,0,"03/30/2024, 12:00",Pool C,Scheduled
+Grinnell,Iowa (B),13,0,"03/30/2024, 09:00",Pool C,Final
+Michigan State,Iowa (B),13,0,"03/30/2024, 10:30",Pool C,Final
+Michigan State,Grinnell,11,3,"03/30/2024, 12:00",Pool C,Final
 pool,Pool D
-St Thomas,Minnesota (C),0,0,"03/30/2024, 09:00",Pool D,Scheduled
-Iowa,Minnesota (C),0,0,"03/30/2024, 10:30",Pool D,Scheduled
-Iowa,St Thomas,0,0,"03/30/2024, 12:00",Pool D,Scheduled
+St Thomas,Minnesota (C),4,12,"03/30/2024, 09:00",Pool D,Final
+Iowa,Minnesota (C),13,3,"03/30/2024, 10:30",Pool D,Final
+Iowa,St Thomas,11,4,"03/30/2024, 12:00",Pool D,Final
 pool,Pool E
-Northern Iowa,Washington University (B),0,0,"03/30/2024, 09:00",Pool E,Scheduled
-Davenport,Washington University (B),0,0,"03/30/2024, 10:30",Pool E,Scheduled
-Davenport,Northern Iowa,0,0,"03/30/2024, 12:00",Pool E,Scheduled
+Northern Iowa,Washington University (B),13,2,"03/30/2024, 09:00",Pool E,Final
+Davenport,Washington University (B),12,3,"03/30/2024, 10:30",Pool E,Final
+Davenport,Northern Iowa,10,9,"03/30/2024, 12:00",Pool E,Final
 pool,Pool F
-Carthage,Wisconsin-Stevens Point,0,0,"03/30/2024, 09:00",Pool F,Scheduled
-Minnesota-Duluth,Wisconsin-Stevens Point,0,0,"03/30/2024, 10:30",Pool F,Scheduled
-Minnesota-Duluth,Carthage,0,0,"03/30/2024, 12:00",Pool F,Scheduled
+Carthage,Wisconsin-Stevens Point,13,4,"03/30/2024, 09:00",Pool F,Final
+Minnesota-Duluth,Wisconsin-Stevens Point,9,3,"03/30/2024, 10:30",Pool F,Final
+Minnesota-Duluth,Carthage,8,7,"03/30/2024, 12:00",Pool F,Final
 pool,Pool G
-Illinois State,Luther,0,0,"03/30/2024, 09:00",Pool G,Scheduled
-Southern Illinois-Edwardsville,Luther,0,0,"03/30/2024, 10:30",Pool G,Scheduled
-Southern Illinois-Edwardsville,Illinois State,0,0,"03/30/2024, 12:00",Pool G,Scheduled
+Illinois State,Luther,13,7,"03/30/2024, 09:00",Pool G,Final
+Southern Illinois-Edwardsville,Luther,13,4,"03/30/2024, 10:30",Pool G,Final
+Southern Illinois-Edwardsville,Illinois State,12,5,"03/30/2024, 12:00",Pool G,Final
 pool,Pool H
-St John's (Minnesota),Eastern Michigan,0,0,"03/30/2024, 09:00",Pool H,Scheduled
-Macalester,Eastern Michigan,0,0,"03/30/2024, 10:30",Pool H,Scheduled
-Macalester,St John's (Minnesota),0,0,"03/30/2024, 12:00",Pool H,Scheduled
+St John's (Minnesota),Eastern Michigan,7,8,"03/30/2024, 09:00",Pool H,Final
+Macalester,Eastern Michigan,9,4,"03/30/2024, 10:30",Pool H,Final
+Macalester,St John's (Minnesota),13,6,"03/30/2024, 12:00",Pool H,Final
 b,r,e,a,k
 brackets,Bracket
 bracket,Championship Bracket
+Colorado Mines,Macalester,0,0,"03/31/2024, 09:00",Quarterfinals,Scheduled
+Iowa,Davenport,0,0,"03/31/2024, 09:00",Quarterfinals,Scheduled
+Colorado (B),Southern Illinois-Edwardsville,0,0,"03/31/2024, 09:00",Quarterfinals,Scheduled
+Michigan State,Minnesota-Duluth,0,0,"03/31/2024, 09:00",Quarterfinals,Scheduled
+Colorado Mines,Illinois State,13,6,"03/30/2024, 13:30",Prequarters,Final
+Macalester,Wisconsin-La Crosse,10,4,"03/30/2024, 13:30",Prequarters,Final
+Iowa,Carthage,13,1,"03/30/2024, 13:30",Prequarters,Final
+Davenport,Grinnell,12,6,"03/30/2024, 13:30",Prequarters,Final
+Colorado (B),Eastern Michigan,13,4,"03/30/2024, 13:30",Prequarters,Final
+Southern Illinois-Edwardsville,Minnesota (B),13,10,"03/30/2024, 13:30",Prequarters,Final
+Michigan State,Northern Iowa,11,3,"03/30/2024, 13:30",Prequarters,Final
+Minnesota-Duluth,Minnesota (C),12,7,"03/30/2024, 13:30",Prequarters,Final
 bracket,3rd Place
 bracket,5th Place
 bracket,7th Place
 bracket,9th Place
+Illinois State,Wisconsin-La Crosse,0,0,"03/31/2024, 09:00",9th Place Quarters,Scheduled
+Carthage,Grinnell,0,0,"03/31/2024, 09:00",9th Place Quarters,Scheduled
+Eastern Michigan,Minnesota (B),0,0,"03/31/2024, 09:00",9th Place Quarters,Scheduled
+Northern Iowa,Minnesota (C),0,0,"03/31/2024, 09:00",9th Place Quarters,Scheduled
 bracket,11th Place
 bracket,13th Place
 bracket,15th Place
 b,r,e,a,k
 clusters,Crossover
+cluster,Crossover
+St John's (Minnesota),Luther,12,7,"03/30/2024, 13:30",,Final
+Wisconsin-Stevens Point,Washington University (B),5,10,"03/30/2024, 13:30",,Final
+Iowa (B),St Thomas,4,11,"03/30/2024, 13:30",,Final
+Iowa State (B),Wisconsin-Milwaukee (B),9,3,"03/30/2024, 13:30",,Final
 b,r,e,a,k
 brackets,Consolation Bracket
 bracket,17th Place
+St John's (Minnesota),Northwestern (B),0,0,"03/30/2024, 15:00",17th Place Quarters,Scheduled
+Wisconsin-Stevens Point,St Thomas,0,0,"03/30/2024, 15:00",17th Place Quarters,Scheduled
+Washington University (B),Iowa (B),12,5,"03/30/2024, 15:00",17th Place Quarters,Final
+Luther,Iowa State (B),0,0,"03/30/2024, 15:00",17th Place Quarters,Scheduled
 bracket,19th Place
 b,r,e,a,k
 pools,Consolation Pool
 pool,Consolation Pool
+Wisconsin-Milwaukee (B),Iowa (B),0,0,"03/31/2024, 10:30",Consolation Pool,Scheduled
 b,r,e,a,k
