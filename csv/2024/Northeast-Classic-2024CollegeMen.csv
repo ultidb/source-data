@@ -97,32 +97,6 @@ teamInfo,Team Rocket,"Cortland, New York",,,https://twitter.com/cortlandulti?s=2
 31,Anthony Graff
 97,James Marino
 b,r,e,a,k
-Amherst Regional,2
-teamInfo,Hurricanes,"Amherst, Massachusetts",,,@canesultimate
-coaches,Joe Costello
-0,Cael Danylchuk
-0,Conall Gahan
-0,Declan Sullivan-Flynn
-0,Elias Lundquist
-0,Elliot Phifer
-0,Ellis Rubin
-0,James Pitts
-0,James Wilson
-0,Joseph Hazlip
-0,Julian Camera
-0,Mason Cianfrani-Shin
-0,Mihir Shenoy
-0,Myles Redington
-0,Nolan Ross
-0,Pearl Strong
-0,Quinn Strehorn
-0,Rowan Reichard
-0,Yatharth Rajakumar
-0,Aidan Martin-Weinbaum
-0,Alden Pope
-3,Ben Feeney
-6,Andrew Leutz
-b,r,e,a,k
 College of New Jersey,3
 teamInfo,Revolution,"Ewing, New Jersey",http://www.tcnj.edu/~frisbee/revolution/index.php,,https://twitter.com/TCNJ_Revolution
 0,Brayden Messinger
@@ -168,6 +142,32 @@ teamInfo,Nawshus Ultimate,"Ithaca, New York",,,
 32,Michael Colombo
 77,Cyrus Edlund-Farsad
 97,Vincent  Masotti
+b,r,e,a,k
+Amherst Regional,2
+teamInfo,Hurricanes,"Amherst, Massachusetts",,,@canesultimate
+coaches,Joe Costello
+0,Cael Danylchuk
+0,Conall Gahan
+0,Declan Sullivan-Flynn
+0,Elias Lundquist
+0,Elliot Phifer
+0,Ellis Rubin
+0,James Pitts
+0,James Wilson
+0,Joseph Hazlip
+0,Julian Camera
+0,Mason Cianfrani-Shin
+0,Mihir Shenoy
+0,Myles Redington
+0,Nolan Ross
+0,Pearl Strong
+0,Quinn Strehorn
+0,Rowan Reichard
+0,Yatharth Rajakumar
+0,Aidan Martin-Weinbaum
+0,Alden Pope
+3,Ben Feeney
+6,Andrew Leutz
 b,r,e,a,k
 Rhode Island,7
 teamInfo,RIUT,"Kingston, Rhode Island",,https://www.facebook.com/MensRIUT/,https://twitter.com/mensriut?lang=en
@@ -502,9 +502,9 @@ SUNY-Cortland,Wesleyan,8,9,"03/30/2024, 11:00",Pool A,Final
 Vermont (B),Wesleyan,9,8,"03/30/2024, 12:35",Pool A,Final
 Vermont (B),SUNY-Cortland,9,7,"03/30/2024, 14:10",Pool A,Final
 pool,Pool B
-College of New Jersey,Ithaca,0,0,"03/30/2024, 11:00",Pool B,Scheduled
-Amherst Regional,Ithaca,0,0,"03/30/2024, 12:35",Pool B,Scheduled
-Amherst Regional,College of New Jersey,0,0,"03/30/2024, 14:10",Pool B,Scheduled
+College of New Jersey,Ithaca,8,6,"03/30/2024, 11:00",Pool B,Final
+Amherst Regional,Ithaca,5,13,"03/30/2024, 12:35",Pool B,Final
+Amherst Regional,College of New Jersey,7,10,"03/30/2024, 14:10",Pool B,Final
 pool,Pool C
 Swarthmore,SUNY-Binghamton (B),8,9,"03/30/2024, 12:35",Pool C,Final
 Rhode Island,SUNY-Binghamton (B),12,5,"03/30/2024, 14:10",Pool C,Final
@@ -518,24 +518,26 @@ Skidmore,SUNY-Buffalo (B),0,0,"03/30/2024, 12:35",Pool E,Scheduled
 SUNY-Albany,SUNY-Buffalo (B),0,0,"03/30/2024, 14:10",Pool E,Scheduled
 SUNY-Albany,Skidmore,0,0,"03/30/2024, 15:45",Pool E,Scheduled
 pool,Pool F
-Hofstra,SUNY-Albany (B),0,0,"03/30/2024, 12:35",Pool F,Scheduled
-Middlebury (B),SUNY-Albany (B),0,0,"03/30/2024, 14:10",Pool F,Scheduled
+Hofstra,SUNY-Albany (B),11,3,"03/30/2024, 12:35",Pool F,Final
+Middlebury (B),SUNY-Albany (B),13,3,"03/30/2024, 14:10",Pool F,Final
 Middlebury (B),Hofstra,0,0,"03/30/2024, 15:45",Pool F,Scheduled
 b,r,e,a,k
 clusters,Saturday CO
 cluster,CO
 Vermont (B),Amherst Regional,0,0,"03/30/2024, 15:45",,Scheduled
-College of New Jersey,SUNY-Cortland,0,0,"03/30/2024, 15:45",,Scheduled
+College of New Jersey,SUNY-Cortland,5,8,"03/30/2024, 15:45",,Final
 Wesleyan,Ithaca,9,10,"03/30/2024, 15:45",,Final
 Rhode Island,SUNY-Geneseo,0,0,"03/30/2024, 17:20",,Scheduled
 SUNY-Albany,Middlebury (B),0,0,"03/30/2024, 17:20",,Scheduled
 Hofstra,Skidmore,0,0,"03/30/2024, 17:20",,Scheduled
 Rensselaer Polytech,Swarthmore,0,0,"03/30/2024, 17:20",,Scheduled
 SUNY-Binghamton (B),Vermont (C),13,7,"03/30/2024, 17:20",,Final
-SUNY-Buffalo (B),SUNY-Albany (B),0,0,"03/30/2024, 17:20",,Scheduled
+SUNY-Buffalo (B),SUNY-Albany (B),13,12,"03/30/2024, 17:20",,Final
 b,r,e,a,k
 brackets,Bracket
 bracket,Championship
+Ithaca,SUNY-Cortland,0,0,"03/31/2024, 12:35",Quarters,Scheduled
+Wesleyan,Amherst Regional,0,0,"03/31/2024, 12:35",Quarters,Scheduled
 bracket,5th Place
 bracket,7th Place
 bracket,3rd Place
