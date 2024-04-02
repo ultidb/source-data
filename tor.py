@@ -1,4 +1,5 @@
-import stem.process, re
+import stem.process
+import re
 import logging as log
 from os.path import normpath
 import psutil
