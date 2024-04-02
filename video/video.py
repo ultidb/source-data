@@ -167,6 +167,10 @@ def scrapeUltiworld():
         "https://ultiworld.com/video/?years=2023&divisions=usau-club-mixed&packages=&event=&tags=#filtered",
         "https://ultiworld.com/video/?years=2023&divisions=usau-club-womens&packages=&event=&tags=#filtered",
         "https://ultiworld.com/video/?years=2023&divisions=usau-youth-club&packages=&event=&tags=#filtered",
+        "https://ultiworld.com/video/?years=2024&divisions=usau-college-d-i-mens&packages=&event=&tags=#filtered",
+        "https://ultiworld.com/video/?years=2024&divisions=usau-college-d-i-womens&packages=&event=&tags=#filtered",
+        "https://ultiworld.com/video/?years=2024&divisions=usau-college-d-iii-mens&packages=&event=&tags=#filtered",
+        "https://ultiworld.com/video/?years=2024&divisions=usau-college-d-iii-womens&packages=&event=&tags=#filtered",
     ]
 
     years = {
@@ -180,6 +184,7 @@ def scrapeUltiworld():
         "2021": 0,
         "2022": 0,
         "2023": 0,
+        "2024": 0,
     }
     pattern = r"years=(\d{4})"
     urlPattern = r"(https://ultiworld\.com/video/\d+/).*"
