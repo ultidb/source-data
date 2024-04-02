@@ -19,8 +19,8 @@ load_dotenv(override=True)
 COMMIT_AND_PUSH = os.getenv("COMMIT_AND_PUSH") == "True"
 POST_TO_API = os.getenv("POST_TO_API") == "True"
 LOAD_CALENDAR_ON_START = os.getenv("LOAD_CAL_ON_START") == "True"
-RECEIVER_URL = os.getenv("RECEIVER_URL")
 HOST = os.getenv("HOST")
+API_URL = os.getenv("API_URL")
 year = str(date.today().year)
 
 
@@ -135,7 +135,7 @@ def commitAndPushVideos():
         if COMMIT_AND_PUSH:
             commitToGit("video/csv")
         if POST_TO_API:
-            postUpdatedCsvsToReceiver(csvs)
+            postUpdatedCsvListToAPI(csvs)
 
 
 def commitAndPush(isOngoing=False):
@@ -145,9 +145,9 @@ def commitAndPush(isOngoing=False):
             commitToGit("csv")
         if POST_TO_API:
             if isOngoing:
-                postUpdatedCsvsToReceiver(csvs, False, True, False)
+                postUpdatedCsvListToAPI(csvs, False, True, False)
             else:
-                postUpdatedCsvsToReceiver(csvs)
+                postUpdatedCsvListToAPI(csvs)
 
 
 def commitToGit(directory):
@@ -182,7 +182,7 @@ def listUpdatedFiles(path):
     return output
 
 
-def postUpdatedCsvsToReceiver(
+def postUpdatedCsvListToAPI(
     csvs, UpdatePlayers=True, checkExisting=True, DryRun=False
 ):
     payload = {
@@ -191,20 +191,20 @@ def postUpdatedCsvsToReceiver(
         "checkExisting": checkExisting,
         "dryRun": DryRun,
     }
-    log.info(f"posting {len(csvs)} csvs to receiver")
+    log.info(f"posting {len(csvs)} csvs to ingest endpoint")
     try:
         r = requests.post(
-            RECEIVER_URL + "/ingest",
+            API_URL + "/v1/ingest",
             data=json.dumps(payload),
             headers={"Content-Type": "application/json"},
         )
         if r.status_code != 204:
-            log.error(f"receiver returned {r.status_code} with message: {r.text}")
+            log.error(f"api returned {r.status_code} with message: {r.text}")
             db.updateFailedCSVs(csvs)
         else:
             db.updateSuccesfulCSVs(csvs)
     except Exception as e:
-        log.error(f"receiver returned error: {e}")
+        log.error(f"api returned error: {e}")
         db.updateFailedCSVs(csvs)
 
 
