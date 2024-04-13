@@ -39,6 +39,38 @@ coaches,Matt Gouchoe-Hanas
 95,Noah Bush
 99,Keller Fraley
 b,r,e,a,k
+North Carolina-Wilmington,3
+teamInfo,Seamen,"Wilmington, North Carolina",http://seamenultimate.com/,https://www.facebook.com/seamenultimate,https://twitter.com/seamenultimate
+coaches,Santiago Velosa
+00,Colin Hines
+00,Diego Collazo
+00,Dylan Ng
+00,Grant Barbour
+00,Ian Cobb
+00,Isaac Abelson
+00,James Thomas
+00,john synowsky
+00,Justin Silver
+00,Kessler Teague
+00,Lukas Becker
+00,Luke Merrill
+00,Busbee Pace
+00,Charlie  Mosner
+00,Chase Korabik
+00,Christian Belus
+00,Atharv Patil
+00,Pablo Velosa
+00,Peter Xu
+00,Ryan Manuel
+00,Shea Tucker
+00,Stewart Kelley
+00,Thomas DeMarkey
+00,Tyrese Scott
+06,Owen Maskelony
+11,Patrick Grossheim
+12,Benjamin Hauptli
+17,Colby Francfort
+b,r,e,a,k
 Duke,6
 teamInfo,Brimstone,"Durham, North Carolina",,https://www.facebook.com/dukeBrimstoneUltimate/,https://twitter.com/Duke_Brimstone
 coaches,Clint McSherry
@@ -71,38 +103,6 @@ coaches,Clint McSherry
 36,Christopher Li
 55,Jaime Chueca Arteaga
 88,Alec Hutchinson
-b,r,e,a,k
-North Carolina-Wilmington,3
-teamInfo,Seamen,"Wilmington, North Carolina",http://seamenultimate.com/,https://www.facebook.com/seamenultimate,https://twitter.com/seamenultimate
-coaches,Santiago Velosa
-00,Colin Hines
-00,Diego Collazo
-00,Dylan Ng
-00,Grant Barbour
-00,Ian Cobb
-00,Isaac Abelson
-00,James Thomas
-00,john synowsky
-00,Justin Silver
-00,Kessler Teague
-00,Lukas Becker
-00,Luke Merrill
-00,Busbee Pace
-00,Charlie  Mosner
-00,Chase Korabik
-00,Christian Belus
-00,Atharv Patil
-00,Pablo Velosa
-00,Peter Xu
-00,Ryan Manuel
-00,Shea Tucker
-00,Stewart Kelley
-00,Thomas DeMarkey
-00,Tyrese Scott
-06,Owen Maskelony
-11,Patrick Grossheim
-12,Benjamin Hauptli
-17,Colby Francfort
 b,r,e,a,k
 Clemson,8
 teamInfo,Joint Chiefs of Waft,"Clemson, South Carolina",http://www.clemson.edu/ultimate/,,
@@ -360,8 +360,8 @@ North Carolina,Clemson,15,10,"04/13/2024, 10:45",Pool A,Final
 North Carolina-Wilmington,East Carolina,12,4,"04/13/2024, 10:45",Pool A,Final
 North Carolina,Duke,15,4,"04/13/2024, 12:30",Pool A,Final
 Clemson,East Carolina,9,8,"04/13/2024, 12:30",Pool A,Final
-North Carolina-Wilmington,Clemson,0,0,"04/13/2024, 14:15",Pool A,Scheduled
-Duke,East Carolina,0,0,"04/13/2024, 14:15",Pool A,Scheduled
+North Carolina-Wilmington,Clemson,15,6,"04/13/2024, 14:15",Pool A,Final
+Duke,East Carolina,15,4,"04/13/2024, 14:15",Pool A,Final
 North Carolina,East Carolina,0,0,"04/13/2024, 16:00",Pool A,Scheduled
 North Carolina-Wilmington,Duke,0,0,"04/13/2024, 16:00",Pool A,Scheduled
 pool,Pool B
@@ -375,9 +375,11 @@ North Carolina-Charlotte,Wake Forest,15,3,"04/13/2024, 12:30",Pool C,Final
 b,r,e,a,k
 clusters,Crossover
 cluster,Crossover
-North Carolina State,North Carolina-Charlotte,0,0,"04/13/2024, 14:15",,Scheduled
-Appalachian State,Wake Forest,0,0,"04/13/2024, 14:15",,Scheduled
-South Carolina,Charleston,0,0,"04/13/2024, 14:15",,Scheduled
+North Carolina State,North Carolina-Charlotte,11,10,"04/13/2024, 14:15",,Final
+Appalachian State,Wake Forest,14,6,"04/13/2024, 14:15",,Final
+South Carolina,Charleston,15,0,"04/13/2024, 14:15",,Final
+Appalachian State,South Carolina,0,0,"04/13/2024, 16:00",,Scheduled
+Wake Forest,Charleston,0,0,"04/13/2024, 16:00",,Scheduled
 b,r,e,a,k
 brackets,Bracket Play
 bracket,1st Place 
