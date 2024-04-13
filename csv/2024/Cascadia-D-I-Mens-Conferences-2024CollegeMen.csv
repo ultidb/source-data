@@ -211,35 +211,6 @@ coaches,Shintaro Tsukamoto
 37,Jonathan Yang
 77,Alexander Subarsky
 b,r,e,a,k
-British Columbia,4
-teamInfo,Thunderbirds,"Vancouver, British Columbia CA",,,
-coaches,Ari Nitikman
-1,Karim Jamal
-2,Edward Ross-Zhu
-3,Erez Kassirer
-5,James Lehmann
-6,Matthew Wood
-7,Filip Kragl
-8,Zachary Wong
-11,Justin Podnar
-14,Davis Toth
-16,Justin Luna
-17,Jesse Watt
-19,Jake Yuen
-23,Nicholas Cheng
-24,Wesley Choi
-25,Bryn McColl
-27,Zephaniah Ko
-31,Graeme Hanks
-44,Ryan Phan
-71,Victor Tiet
-72,Wesley  Wong
-73,Angus Chan
-77,Ryan Graves
-83,Nathan Roorda
-88,Devon Bringeland-Powell
-97,Colin Wu
-b,r,e,a,k
 Victoria,5
 teamInfo,Vikes,"Victoria, British Columbia CA",www.uvicultimate.com,https://www.facebook.com/UVictimUltimate,https://twitter.com/uvictimultimate
 0,Dylan Cochrane
@@ -272,6 +243,35 @@ teamInfo,Vikes,"Victoria, British Columbia CA",www.uvicultimate.com,https://www.
 81,Theo Davis
 88,Ben Lefevre
 99,Anderson Grafton-Freeze
+b,r,e,a,k
+British Columbia,4
+teamInfo,Thunderbirds,"Vancouver, British Columbia CA",,,
+coaches,Ari Nitikman
+1,Karim Jamal
+2,Edward Ross-Zhu
+3,Erez Kassirer
+5,James Lehmann
+6,Matthew Wood
+7,Filip Kragl
+8,Zachary Wong
+11,Justin Podnar
+14,Davis Toth
+16,Justin Luna
+17,Jesse Watt
+19,Jake Yuen
+23,Nicholas Cheng
+24,Wesley Choi
+25,Bryn McColl
+27,Zephaniah Ko
+31,Graeme Hanks
+44,Ryan Phan
+71,Victor Tiet
+72,Wesley  Wong
+73,Angus Chan
+77,Ryan Graves
+83,Nathan Roorda
+88,Devon Bringeland-Powell
+97,Colin Wu
 b,r,e,a,k
 Oregon (B),11
 teamInfo,Bucks,"Eugene, Oregon",,,
@@ -311,9 +311,13 @@ Oregon State,Washington (B),15,4,"04/13/2024, 13:00",Pool B,Final
 pool,Pool C
 British Columbia,Oregon (B),15,4,"04/13/2024, 09:00",Pool C,Final
 Victoria,Oregon (B),15,7,"04/13/2024, 11:00",Pool C,Final
-British Columbia,Victoria,0,0,"04/13/2024, 13:00",Pool C,Scheduled
+British Columbia,Victoria,10,11,"04/13/2024, 13:00",Pool C,Final
 b,r,e,a,k
 clusters,Pool B/C Crossover
+cluster,Pool B/C
+Oregon State,Victoria,0,0,"04/13/2024, 15:00",,Cancelled
+Washington (B),Oregon (B),0,0,"04/13/2024, 15:00",,Cancelled
+British Columbia  (B),British Columbia,0,0,"04/13/2024, 15:00",,Cancelled
 b,r,e,a,k
 brackets,Sunday Brackets
 bracket,Championship Bracket
