@@ -55,6 +55,30 @@ teamInfo,Yellow Hammer,"Tuscaloosa, Alabama",alabamaultimate.wordpress.com,https
 69,Zachary Powers
 84,Joshua Lewis
 b,r,e,a,k
+LSU,7
+teamInfo,Purple Haze,"Baton Rouge, Louisiana",,,https://twitter.com/LSUUltimateM
+0,Adam Richards
+0,Andrew Galbraith
+0,Caleb Franklin
+0,Dylan Duhamel
+0,Dylan Shoemaker
+0,Evan Duplessis
+0,George Punjabi
+0,Martin Sullivan
+0,Messiah Farinas
+0,Stephen Abel
+1,Ryan Ripley
+2,Jacob Rachell
+4,Hobbs McAllister
+8,kade cannizaro
+11,Collin Casseri
+12,Daniel Carter
+28,Noah Balbon
+52,Owen Lapeyrouse
+66,Jaylon Boone
+84,Evan Scariano
+90,Saif Ahmed
+b,r,e,a,k
 Vanderbilt,6
 teamInfo,Armada,"Nashville, Tennessee",,,https://twitter.com/VUarmada
 0,Julian Delamaza
@@ -84,64 +108,6 @@ teamInfo,Armada,"Nashville, Tennessee",,,https://twitter.com/VUarmada
 66,Andres Becerra
 95,Joseph  Bahk
 99,Andrew Overdeck
-b,r,e,a,k
-LSU,7
-teamInfo,Purple Haze,"Baton Rouge, Louisiana",,,https://twitter.com/LSUUltimateM
-0,Adam Richards
-0,Andrew Galbraith
-0,Caleb Franklin
-0,Dylan Duhamel
-0,Dylan Shoemaker
-0,Evan Duplessis
-0,George Punjabi
-0,Martin Sullivan
-0,Messiah Farinas
-0,Stephen Abel
-1,Ryan Ripley
-2,Jacob Rachell
-4,Hobbs McAllister
-8,kade cannizaro
-11,Collin Casseri
-12,Daniel Carter
-28,Noah Balbon
-52,Owen Lapeyrouse
-66,Jaylon Boone
-84,Evan Scariano
-90,Saif Ahmed
-b,r,e,a,k
-Auburn,4
-teamInfo,Aetos,"Auburn, Alabama",,https://www.facebook.com/auburnultimate,https://twitter.com/AuburnUltimate
-00,Austin Lyall
-00,Azim Kanjiyani
-00,Carson Owen
-00,Colton Van Vossen
-00,Garrett Nix
-00,Gavin Collins
-00,Gray King
-00,Grayson Smith
-00,Isaac Warren
-00,Jared Eudy
-00,John Williamson
-00,Jonah Reeks
-00,Jonathan Holladay
-00,Joshua Reed
-00,Joshua Thomas
-00,Justin Evans
-00,Kody Shively
-00,Kyle Longley
-00,Lee Thomas
-00,Ron Warren
-00,Ruston Bassett
-00,Tomas Restrepo
-00,William Appleby
-00,Zack Newsom
-05,Tyler Riemer
-08,Jake Givens
-13,James Weatherford
-20,Trent Baldwin
-25,Kenneth Tyburczy
-28,Andrew Bosch
-77,James Ikerman
 b,r,e,a,k
 Mississippi State,5
 teamInfo,Dark Horse,"Starkville, Mississippi",https://instagram.com/msudarkhorse?igshid=MzMyNGUyNmU2YQ%3D%3D&utm_source=qr,https://www.facebook.com/pages/MSU-Mens-Ultimate-Club/109943542442587?ref=hl,https://twitter.com/HailStateUlt
@@ -227,6 +193,40 @@ teamInfo,Tucks,"New Orleans, Louisiana",,https://www.facebook.com/TulaneUltimate
 77,Jonah Yurman
 97,Casper Graham
 b,r,e,a,k
+Auburn,4
+teamInfo,Aetos,"Auburn, Alabama",,https://www.facebook.com/auburnultimate,https://twitter.com/AuburnUltimate
+00,Austin Lyall
+00,Azim Kanjiyani
+00,Carson Owen
+00,Colton Van Vossen
+00,Garrett Nix
+00,Gavin Collins
+00,Gray King
+00,Grayson Smith
+00,Isaac Warren
+00,Jared Eudy
+00,John Williamson
+00,Jonah Reeks
+00,Jonathan Holladay
+00,Joshua Reed
+00,Joshua Thomas
+00,Justin Evans
+00,Kody Shively
+00,Kyle Longley
+00,Lee Thomas
+00,Ron Warren
+00,Ruston Bassett
+00,Tomas Restrepo
+00,William Appleby
+00,Zack Newsom
+05,Tyler Riemer
+08,Jake Givens
+13,James Weatherford
+20,Trent Baldwin
+25,Kenneth Tyburczy
+28,Andrew Bosch
+77,James Ikerman
+b,r,e,a,k
 Alabama-Birmingham,8
 teamInfo,Inferno,"Birmingham, Alabama",,,
 0,Abraham Sun
@@ -275,8 +275,8 @@ Alabama-Huntsville,Vanderbilt,13,7,"04/13/2024, 12:30",Pool A,Final
 Alabama,LSU,11,8,"04/13/2024, 12:30",Pool A,Final
 Alabama-Huntsville,LSU,12,8,"04/13/2024, 14:15",Pool A,Final
 Alabama,Vanderbilt,12,11,"04/13/2024, 14:15",Pool A,Final
-Alabama-Huntsville,Alabama,0,0,"04/13/2024, 16:00",Pool A,Scheduled
-Vanderbilt,LSU,0,0,"04/13/2024, 16:00",Pool A,Scheduled
+Alabama-Huntsville,Alabama,13,6,"04/13/2024, 16:00",Pool A,Final
+Vanderbilt,LSU,10,11,"04/13/2024, 16:00",Pool A,Final
 b,r,e,a,k
 pools,Pool B
 pool,Pool B
@@ -288,13 +288,21 @@ Alabama-Birmingham,Jacksonville State,10,7,"04/13/2024, 12:30",Pool B,Final
 Auburn,Mississippi State,11,10,"04/13/2024, 12:30",Pool B,Final
 Tulane,Alabama-Birmingham,12,4,"04/13/2024, 14:15",Pool B,Final
 Auburn,Jacksonville State,13,4,"04/13/2024, 14:15",Pool B,Final
-Tulane,Auburn,0,0,"04/13/2024, 16:00",Pool B,Scheduled
-Mississippi State,Jacksonville State,0,0,"04/13/2024, 16:00",Pool B,Scheduled
+Tulane,Auburn,9,6,"04/13/2024, 16:00",Pool B,Final
+Mississippi State,Jacksonville State,13,6,"04/13/2024, 16:00",Pool B,Final
 b,r,e,a,k
 brackets,Bracket 4.2.2
 bracket,1st Place
+Alabama-Huntsville,Tulane,0,0,"04/14/2024, 09:00",Semifinals,Scheduled
+Alabama,Mississippi State,0,0,"04/14/2024, 09:00",Semifinals,Scheduled
 bracket,2nd Place
 b,r,e,a,k
 pools,Pool Play Completion
 pool,Pool C
+Auburn,Vanderbilt,0,0,"04/14/2024, 09:00",Pool C,Scheduled
+LSU,Alabama-Birmingham,0,0,"04/14/2024, 09:00",Pool C,Scheduled
+Auburn,LSU,0,0,"04/14/2024, 10:45",Pool C,Scheduled
+Jacksonville State,Vanderbilt,0,0,"04/14/2024, 10:45",Pool C,Scheduled
+Alabama-Birmingham,Vanderbilt,0,0,"04/14/2024, 12:30",Pool C,Scheduled
+Jacksonville State,LSU,0,0,"04/14/2024, 12:30",Pool C,Scheduled
 b,r,e,a,k
