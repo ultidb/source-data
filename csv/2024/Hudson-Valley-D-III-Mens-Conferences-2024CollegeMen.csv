@@ -224,6 +224,32 @@ teamInfo,Red Fox Ultimate,"Poughkeepsie, New York",,,
 21,Nico Esposito
 24,Henry Donat
 b,r,e,a,k
+Vassar,5
+teamInfo,Swinging Monks,"Poughkeepsie, New York",,,
+0,Benjamin Vick
+0,Cole Smith
+0,Damon Chen
+0,Daniel Smith
+0,Jackson Chidiac
+0,Alexander Southern
+0,Ken Portillo
+0,Owen McGarry
+0,Phil Xu
+0,Reza Hall
+0,Ryan Miller
+0,Samuel Tarrant
+0,Max Andelman
+0,Nathan Strope
+0,Vishnu Lakshman
+6,Jose Calles
+8,Luca Reeder
+9,Soren Fischer
+12,Jasper Smith
+13,Allen Hale
+17,Jonah Taranta
+27,Luke Seashore
+84,Nicholas  D’Introno 
+b,r,e,a,k
 Skidmore,4
 teamInfo,Wombats,"Saratoga Springs, New York",,,
 00,Bodhi Smith
@@ -276,32 +302,6 @@ teamInfo,New York) (Electric City Plastic,"Schenectady, New York",,,https://twit
 69,Tim Belin
 88,Gabe Meiselman
 b,r,e,a,k
-Vassar,5
-teamInfo,Swinging Monks,"Poughkeepsie, New York",,,
-0,Benjamin Vick
-0,Cole Smith
-0,Damon Chen
-0,Daniel Smith
-0,Jackson Chidiac
-0,Alexander Southern
-0,Ken Portillo
-0,Owen McGarry
-0,Phil Xu
-0,Reza Hall
-0,Ryan Miller
-0,Samuel Tarrant
-0,Max Andelman
-0,Nathan Strope
-0,Vishnu Lakshman
-6,Jose Calles
-8,Luca Reeder
-9,Soren Fischer
-12,Jasper Smith
-13,Allen Hale
-17,Jonah Taranta
-27,Luke Seashore
-84,Nicholas  D’Introno 
-b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
@@ -320,11 +320,15 @@ Siena,Marist,7,0,"04/13/2024, 11:00",Pool B,Final
 Wesleyan,Marist,13,6,"04/13/2024, 13:00",Pool B,Final
 Wesleyan,Siena,13,1,"04/13/2024, 15:00",Pool B,Final
 pool,Pool C
-Vassar,Union (New York),2,13,"04/13/2024, 11:00",Pool C,Final
+Vassar,Union (New York),13,2,"04/13/2024, 11:00",Pool C,Final
 Skidmore,Union (New York),11,1,"04/13/2024, 13:00",Pool C,Final
-Skidmore,Vassar,4,7,"04/13/2024, 15:00",Pool C,In Progress
+Skidmore,Vassar,6,9,"04/13/2024, 15:00",Pool C,Final
 b,r,e,a,k
 clusters,B and C Crossover
+cluster,B/C Crossover
+Wesleyan,Vassar,0,0,"04/13/2024, 16:15",,Scheduled
+Siena,Union (New York),0,0,"04/13/2024, 16:15",,Scheduled
+Skidmore,Marist,0,0,"04/13/2024, 16:15",,Scheduled
 b,r,e,a,k
 brackets,Bracket Play
 bracket,Championship
