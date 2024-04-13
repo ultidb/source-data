@@ -192,9 +192,9 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Saturday Pool Play
 pool,Pool A
-Northeastern,Harvard,0,0,"04/13/2024, 08:30",Pool A,Scheduled
+Northeastern,Harvard,15,4,"04/13/2024, 08:30",Pool A,Final
 Northeastern,Boston University,15,8,"04/13/2024, 10:30",Pool A,Final
-Boston University,Harvard,0,0,"04/13/2024, 14:30",Pool A,Scheduled
+Boston University,Harvard,9,10,"04/13/2024, 14:30",Pool A,Final
 pool,Pool B
 Tufts,Massachusetts-Lowell,15,1,"04/13/2024, 08:30",Pool B,Final
 Boston College,MIT,14,8,"04/13/2024, 08:30",Pool B,Final
@@ -204,7 +204,14 @@ b,r,e,a,k
 clusters,Regional Standings
 cluster,Regional Standings
 Boston College,Massachusetts-Lowell,15,8,"04/13/2024, 12:30",,Final
+Boston College,Boston University,0,0,"04/14/2024, 08:00",,Scheduled
+Harvard,MIT,0,0,"04/14/2024, 10:00",,Scheduled
+Boston College,Harvard,0,0,"04/14/2024, 12:00",,Scheduled
+Boston University,Massachusetts-Lowell,0,0,"04/14/2024, 12:00",,Scheduled
+Harvard,Massachusetts-Lowell,0,0,"04/14/2024, 14:00",,Scheduled
+Boston University,MIT,0,0,"04/14/2024, 14:00",,Scheduled
 b,r,e,a,k
 brackets,Finals
 bracket,Finals
+Northeastern,Tufts,0,0,"04/14/2024, 14:00",Finals,Scheduled
 b,r,e,a,k
