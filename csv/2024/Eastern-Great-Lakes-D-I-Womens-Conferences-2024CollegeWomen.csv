@@ -139,22 +139,6 @@ coaches,Christopher Miller
 4,Megan Klein
 11,Cara Tinson
 b,r,e,a,k
-Kentucky,5
-teamInfo,Monarchy,"Lexington, Kentucky",,,https://twitter.com/UK_Monarchy?t=Fu3QFWqA0l6E0nB_RmH9lQ&s=09
-0,Callista Huber
-0,Maisie Taul
-0,Rachael Haak
-0,Helen-Rose  Pangilinan 
-0,Sophie Imler
-9,Gracie Parnell
-00,Emerson Palazzo
-00,Rachel Dusek
-00,Skylar Gillies
-00,Isabel Wolf
-00,Julie Collinsworth 
-01,Amber Cox 
-12,Samantha Freeland
-b,r,e,a,k
 Indiana,4
 teamInfo,Calamity Jane,"Bloomington, Indiana",,,
 00,Jara Hockemeyer 
@@ -172,6 +156,22 @@ teamInfo,Calamity Jane,"Bloomington, Indiana",,,
 00,Delia Li
 00,Erin  Schmeltz
 36,Hallie Schmucker
+b,r,e,a,k
+Kentucky,5
+teamInfo,Monarchy,"Lexington, Kentucky",,,https://twitter.com/UK_Monarchy?t=Fu3QFWqA0l6E0nB_RmH9lQ&s=09
+0,Callista Huber
+0,Maisie Taul
+0,Rachael Haak
+0,Helen-Rose  Pangilinan 
+0,Sophie Imler
+9,Gracie Parnell
+00,Emerson Palazzo
+00,Rachel Dusek
+00,Skylar Gillies
+00,Isabel Wolf
+00,Julie Collinsworth 
+01,Amber Cox 
+12,Samantha Freeland
 b,r,e,a,k
 Michigan (B),8
 teamInfo,Michigan B,"Ann Arbor, Michigan",,,
@@ -226,8 +226,8 @@ Michigan State,Grand Valley,7,8,"04/13/2024, 12:30",Pool A,Final
 Purdue,Notre Dame (B),13,2,"04/13/2024, 12:30",Pool A,Final
 Michigan,Michigan State,12,4,"04/13/2024, 14:15",Pool A,Final
 Purdue,Grand Valley,7,6,"04/13/2024, 14:15",Pool A,Final
-Michigan,Notre Dame (B),0,0,"04/13/2024, 16:00",Pool A,Scheduled
-Purdue,Michigan State,0,0,"04/13/2024, 16:00",Pool A,Scheduled
+Michigan,Notre Dame (B),13,0,"04/13/2024, 16:00",Pool A,Final
+Purdue,Michigan State,6,7,"04/13/2024, 16:00",Pool A,Final
 pool,Pool B
 Michigan (B),Purdue (B),5,2,"04/13/2024, 09:00",Pool B,Final
 Notre Dame,Indiana,10,2,"04/13/2024, 09:00",Pool B,Final
@@ -235,15 +235,19 @@ Notre Dame,Michigan (B),13,0,"04/13/2024, 10:45",Pool B,Final
 Kentucky,Purdue (B),7,2,"04/13/2024, 10:45",Pool B,Final
 Kentucky,Michigan (B),6,5,"04/13/2024, 12:30",Pool B,Final
 Indiana,Purdue (B),10,5,"04/13/2024, 12:30",Pool B,Final
-Notre Dame,Kentucky,0,0,"04/13/2024, 14:15",Pool B,Scheduled
+Notre Dame,Kentucky,7,0,"04/13/2024, 14:15",Pool B,Final
 Indiana,Michigan (B),4,2,"04/13/2024, 14:15",Pool B,Final
-Notre Dame,Purdue (B),0,0,"04/13/2024, 16:00",Pool B,Scheduled
-Indiana,Kentucky,0,0,"04/13/2024, 16:00",Pool B,Scheduled
+Notre Dame,Purdue (B),5,1,"04/13/2024, 16:00",Pool B,Final
+Indiana,Kentucky,1,0,"04/13/2024, 16:00",Pool B,Final
 b,r,e,a,k
 brackets,Qualifying Rounds
 bracket,1st Place
+Michigan,Indiana,0,0,"04/14/2024, 09:00",Semi-Finals,In Progress
+Purdue,Notre Dame,0,0,"04/14/2024, 09:00",Semi-Finals,In Progress
 bracket,Third Place
 bracket,5th Place
+Notre Dame (B),Michigan (B),0,0,"04/14/2024, 09:00",5th Place Play-In,In Progress
+Purdue (B),Michigan State,0,0,"04/14/2024, 09:00",5th Place Play-In,In Progress
 bracket,7th Place
 bracket,9th Place
 b,r,e,a,k
