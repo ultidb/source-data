@@ -34,6 +34,24 @@ coaches,Danica Vasa
 10,Danielle Dattler
 25,Ancilla Marie Inocencio
 b,r,e,a,k
+RIT,6
+teamInfo,Yams,"Rochester, New York",,,
+00,Eliana Finkel
+00,Emma Stephen
+00,Marala Perinpanayagam
+00,Nat Kleit
+00,Nathalie Phongsavanh
+00,Olivia McDonald
+00,Quin Villwock
+00,Samantha Morgan
+04,Ariel Haak
+08,Claire Virnoche
+12,Biverly Huff
+13,Courtney McCormack
+17,Eva Pacheco
+44,Eva Switala
+95,Jessica Marinelli
+b,r,e,a,k
 Syracuse,4
 teamInfo,Fox Force Seven,"Syracuse , New York",,https://www.facebook.com/FoxForceSeven,https://twitter.com/FoxForceSeven
 0,Alexandria Culver
@@ -59,24 +77,6 @@ teamInfo,Fox Force Seven,"Syracuse , New York",,https://www.facebook.com/FoxForc
 25,Sophia Ortiz-Heaney
 27,Adelaide Sprague
 53,Corrie Smith 
-b,r,e,a,k
-RIT,6
-teamInfo,Yams,"Rochester, New York",,,
-00,Eliana Finkel
-00,Emma Stephen
-00,Marala Perinpanayagam
-00,Nat Kleit
-00,Nathalie Phongsavanh
-00,Olivia McDonald
-00,Quin Villwock
-00,Samantha Morgan
-04,Ariel Haak
-08,Claire Virnoche
-12,Biverly Huff
-13,Courtney McCormack
-17,Eva Pacheco
-44,Eva Switala
-95,Jessica Marinelli
 b,r,e,a,k
 Cornell,2
 teamInfo,Wild Roses,"Ithaca, New York",,,
@@ -150,16 +150,19 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
-Syracuse,RIT,0,0,"04/20/2024, 09:00",Pool A,Scheduled
-SUNY-Binghamton,Syracuse,0,0,"04/20/2024, 10:45",Pool A,Scheduled
-SUNY-Binghamton,RIT,0,0,"04/20/2024, 12:30",Pool A,Scheduled
+Syracuse,RIT,7,8,"04/20/2024, 09:00",Pool A,Final
+SUNY-Binghamton,Syracuse,10,1,"04/20/2024, 10:45",Pool A,Final
+SUNY-Binghamton,RIT,11,2,"04/20/2024, 12:30",Pool A,Final
 pool,Pool B
-Ottawa,SUNY-Buffalo,0,0,"04/20/2024, 09:00",Pool B,Scheduled
-Cornell,Ottawa,0,0,"04/20/2024, 10:45",Pool B,Scheduled
-Cornell,SUNY-Buffalo,0,0,"04/20/2024, 12:30",Pool B,Scheduled
+Ottawa,SUNY-Buffalo,12,1,"04/20/2024, 09:00",Pool B,Final
+Cornell,Ottawa,6,5,"04/20/2024, 10:45",Pool B,Final
+Cornell,SUNY-Buffalo,13,1,"04/20/2024, 12:30",Pool B,Final
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,1st Place
+SUNY-Binghamton,Cornell,0,0,"04/20/2024, 14:15",Finals,Scheduled
 bracket,2nd Place
+RIT,Ottawa,2,13,"04/20/2024, 14:15",2nd Semi-finals,Final
 bracket,4th Place
+Syracuse,SUNY-Buffalo,0,0,"04/20/2024, 14:15",4th Semi-finals,In Progress
 b,r,e,a,k
