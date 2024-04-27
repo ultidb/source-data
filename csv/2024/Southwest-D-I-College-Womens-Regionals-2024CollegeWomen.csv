@@ -230,31 +230,6 @@ teamInfo,Caliente,"Tempe, Arizona",https://calienteultimate.wordpress.com/,https
 78,Iscent George
 87,Katelyn Kern
 b,r,e,a,k
-UCLA,6
-teamInfo,BLU,"Los Angeles, California",http://uclaclubsports.com/index.aspx?path=wuf,https://www.facebook.com/UCLABLU,https://www.twitter.com/blultimate
-0,Jade Gregory
-0,Jade Nakama
-0,Julia Kamm
-0,Kasey Parks
-0,Katryn Heine
-0,Leah Wildmann
-0,Leyao (Ina)  Chang
-0,Lilet Brooks
-0,Lise Tucker
-0,Melis Kasaba
-0,Mikaela Magtoto
-0,Anneliese Phillips
-0,Cristina Garcia
-0,Dorsa Zahedi
-0,Grace Loia-Lopez
-0,Mya Mitchell
-0,Samantha Appleton-Sackett
-0,Wiona  Tan
-0,Zhiyue Jiang
-2,Sabrina Belkin
-10,Minoo Bastani
-95,Isabelle Germain
-b,r,e,a,k
 California-San Diego,3
 teamInfo,UCSD D-Co Womxn's Ultimate,"San Diego , California",http://www.psychoultimate.com/,https://www.facebook.com/pg/dragoncoultimate/about/?ref=page_internal,@d_co_ultimate
 coaches,Avery Jones,Kelli Iwamoto,Samantha Wool
@@ -284,6 +259,31 @@ coaches,Avery Jones,Kelli Iwamoto,Samantha Wool
 00,Xuan Feldman
 00,Yariel Perkins
 11,Emma Ellefson-Frank
+b,r,e,a,k
+UCLA,6
+teamInfo,BLU,"Los Angeles, California",http://uclaclubsports.com/index.aspx?path=wuf,https://www.facebook.com/UCLABLU,https://www.twitter.com/blultimate
+0,Jade Gregory
+0,Jade Nakama
+0,Julia Kamm
+0,Kasey Parks
+0,Katryn Heine
+0,Leah Wildmann
+0,Leyao (Ina)  Chang
+0,Lilet Brooks
+0,Lise Tucker
+0,Melis Kasaba
+0,Mikaela Magtoto
+0,Anneliese Phillips
+0,Cristina Garcia
+0,Dorsa Zahedi
+0,Grace Loia-Lopez
+0,Mya Mitchell
+0,Samantha Appleton-Sackett
+0,Wiona  Tan
+0,Zhiyue Jiang
+2,Sabrina Belkin
+10,Minoo Bastani
+95,Isabelle Germain
 b,r,e,a,k
 San Diego State,11
 teamInfo,SDSU Gnomes,"San Diego, California",http://arc.sdsu.edu/womens_frisbee/,https://www.facebook.com/sdsugnomes,https://twitter.com/sdsuGNOMES
@@ -440,7 +440,7 @@ pool,Pool A
 Stanford,California (B),15,0,"04/27/2024, 10:45",Pool A,Final
 Southern California,Cal Poly-SLO,6,7,"04/27/2024, 10:45",Pool A,Final
 Stanford,Cal Poly-SLO,9,1,"04/27/2024, 12:30",Pool A,Final
-Southern California,California (B),0,0,"04/27/2024, 12:30",Pool A,Scheduled
+Southern California,California (B),7,3,"04/27/2024, 12:30",Pool A,Final
 pool,Pool B
 California-Santa Barbara,Arizona State,15,2,"04/27/2024, 09:00",Pool B,Final
 California,California-San Diego (B),13,4,"04/27/2024, 09:00",Pool B,Final
@@ -449,20 +449,24 @@ California-San Diego (B),Arizona State,7,5,"04/27/2024, 12:30",Pool B,Final
 pool,Pool C
 California-San Diego,Grand Canyon,12,7,"04/27/2024, 09:00",Pool C,Final
 UCLA,San Diego State,15,5,"04/27/2024, 09:00",Pool C,Final
-California-San Diego,UCLA,0,0,"04/27/2024, 12:30",Pool C,Scheduled
+California-San Diego,UCLA,8,7,"04/27/2024, 12:30",Pool C,Final
 San Diego State,Grand Canyon,7,6,"04/27/2024, 12:30",Pool C,Final
 pool,Pool D
-California-Davis,California-Irvine,14,3,"04/27/2024, 10:45",Pool D,Final
+California-Davis,California-Irvine,13,3,"04/27/2024, 10:45",Pool D,Final
 California-Santa Cruz,Santa Clara,15,1,"04/27/2024, 10:45",Pool D,Final
-California-Davis,California-Santa Cruz,0,0,"04/27/2024, 12:30",Pool D,Scheduled
+California-Davis,California-Santa Cruz,8,12,"04/27/2024, 12:30",Pool D,Final
 Santa Clara,California-Irvine,8,5,"04/27/2024, 12:30",Pool D,Final
 b,r,e,a,k
 brackets,Bracket Play
 bracket,First Place
+Stanford,California-Santa Cruz,0,0,"04/27/2024, 14:15",1st Pl Semis,Scheduled
 bracket,Second Place
+Cal Poly-SLO,California-Davis,0,0,"04/27/2024, 14:15",2nd Pl Prequarters,Scheduled
 bracket,Fourth Place
+Southern California,Santa Clara,0,0,"04/27/2024, 14:15",4th Pl Qualifiers,Scheduled
 bracket,Sixth Place
 bracket,Eighth Place
+California (B),California-Irvine,0,0,"04/27/2024, 14:15",8th Pl Qualifiers,Scheduled
 bracket,Thirteenth Place
 bracket,Fifteenth Place
 b,r,e,a,k
