@@ -30,6 +30,26 @@ teamInfo,Rise,"Champaign, Illinois",https://illinoisrise.com/#/home,,https://twi
 85,Hunter Latson
 86,Kevin Tan
 b,r,e,a,k
+Southern Illinois-Edwardsville,13
+teamInfo,Geese,"Edwardsville, Illinois",,,
+00,Christian Kult
+00,Dalton Steinkamp
+00,Dillon McGinnis
+00,Evan Driscoll
+00,Hector Chaidez
+00,Jonathan Zawitkowski
+00,Keaton Anderson
+00,Nathan  Burrell
+00,Patrick Driscoll
+00,Victor Chaidez
+03,Colin Mclaren
+05,Augustino Ojeda
+06,Lucas Hanson 
+12,Edward Prenzler
+23,Joshua Stout
+32,Evan Squire
+68,Jacob Geisen
+b,r,e,a,k
 Kentucky,8
 teamInfo,KULT,"Lexington, Kentucky",http://www.kyultimate.com/,,https://twitter.com/KYUltimate
 00,Garrett Hamilton
@@ -81,26 +101,6 @@ teamInfo,Darkwing,"Chicago, Illinois",http://loyolaultimate.wixsite.com/darkwing
 24,Anthony Scibelli
 77,James Goodfriend
 88,David Portnow
-b,r,e,a,k
-Southern Illinois-Edwardsville,13
-teamInfo,Geese,"Edwardsville, Illinois",,,
-00,Christian Kult
-00,Dalton Steinkamp
-00,Dillon McGinnis
-00,Evan Driscoll
-00,Hector Chaidez
-00,Jonathan Zawitkowski
-00,Keaton Anderson
-00,Nathan  Burrell
-00,Patrick Driscoll
-00,Victor Chaidez
-03,Colin Mclaren
-05,Augustino Ojeda
-06,Lucas Hanson 
-12,Edward Prenzler
-23,Joshua Stout
-32,Evan Squire
-68,Jacob Geisen
 b,r,e,a,k
 Michigan,2
 teamInfo,MagnUM,"Ann Arbor, Michigan",http://www.magnumultimate.com/,https://www.facebook.com/magnUMultimatefrisbee/,https://twitter.com/magnUMultimate
@@ -354,32 +354,6 @@ teamInfo,Undue Ultimate,"West Lafayette, Indiana",https://purduemensultimate.wor
 13,Eric Palia
 76,Chandler Moy
 b,r,e,a,k
-Northwestern,5
-teamInfo,Lake Effect,"Evanston, Illinois",https://www.nutultimate.com,,
-0,Hari Maheswaran
-0,Nathan Rachwalski
-1,Isidore Donnelly
-2,Bernie Waldman
-4,Kevin Su
-5,Gabriel Bassin
-6,Andrew Shen
-7,Jett House
-8,Ian Falck
-11,Jordan Bass
-13,Jack Daenzer
-20,Kevin Ji
-21,Benjamin  Fried
-22,Charlie Geci
-24,Ayush Gaggar
-35,Albert Luo
-37,Ezra Danzig
-42,Ezra Rich
-44,Ethan Less
-55,Jack Peckham
-68,Emmett Broustis 
-88,Elijah Hansen
-97,Julian Baldwin
-b,r,e,a,k
 Notre Dame,9
 teamInfo,Papal Rage,"Notre Dame, Indiana",https://ndultimate.wordpress.com/,,@ndultimate
 00,Augustine Hauge
@@ -409,6 +383,32 @@ teamInfo,Papal Rage,"Notre Dame, Indiana",https://ndultimate.wordpress.com/,,@nd
 78,Kevin Wakakuwa
 99,Zeping Chen
 b,r,e,a,k
+Northwestern,5
+teamInfo,Lake Effect,"Evanston, Illinois",https://www.nutultimate.com,,
+0,Hari Maheswaran
+0,Nathan Rachwalski
+1,Isidore Donnelly
+2,Bernie Waldman
+4,Kevin Su
+5,Gabriel Bassin
+6,Andrew Shen
+7,Jett House
+8,Ian Falck
+11,Jordan Bass
+13,Jack Daenzer
+20,Kevin Ji
+21,Benjamin  Fried
+22,Charlie Geci
+24,Ayush Gaggar
+35,Albert Luo
+37,Ezra Danzig
+42,Ezra Rich
+44,Ethan Less
+55,Jack Peckham
+68,Emmett Broustis 
+88,Elijah Hansen
+97,Julian Baldwin
+b,r,e,a,k
 Purdue (B),16
 teamInfo,CTRL-Z,"West Lafayette, Indiana",,,
 0,Jacob Davis
@@ -437,36 +437,38 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
-Illinois,Loyola-Chicago,0,0,"04/27/2024, 10:00",Pool A,Scheduled
-Kentucky,Southern Illinois-Edwardsville,0,0,"04/27/2024, 10:00",Pool A,Scheduled
-Illinois,Southern Illinois-Edwardsville,0,0,"04/27/2024, 12:00",Pool A,Scheduled
-Kentucky,Loyola-Chicago,0,0,"04/27/2024, 12:00",Pool A,Scheduled
-Illinois,Kentucky,0,0,"04/27/2024, 14:00",Pool A,Scheduled
-Loyola-Chicago,Southern Illinois-Edwardsville,0,0,"04/27/2024, 14:00",Pool A,Scheduled
+Illinois,Loyola-Chicago,12,5,"04/27/2024, 10:00",Pool A,Final
+Kentucky,Southern Illinois-Edwardsville,8,9,"04/27/2024, 10:00",Pool A,Final
+Illinois,Southern Illinois-Edwardsville,15,6,"04/27/2024, 12:00",Pool A,Final
+Kentucky,Loyola-Chicago,10,9,"04/27/2024, 12:00",Pool A,Final
+Illinois,Kentucky,15,7,"04/27/2024, 14:00",Pool A,Final
+Loyola-Chicago,Southern Illinois-Edwardsville,4,13,"04/27/2024, 14:00",Pool A,Final
 pool,Pool B
-Michigan,Ball State,0,0,"04/27/2024, 10:00",Pool B,Scheduled
-Indiana,Michigan (B),0,0,"04/27/2024, 10:00",Pool B,Scheduled
-Michigan,Michigan (B),0,0,"04/27/2024, 12:00",Pool B,Scheduled
-Indiana,Ball State,0,0,"04/27/2024, 12:00",Pool B,Scheduled
-Michigan,Indiana,0,0,"04/27/2024, 14:00",Pool B,Scheduled
-Ball State,Michigan (B),0,0,"04/27/2024, 14:00",Pool B,Scheduled
+Michigan,Ball State,15,2,"04/27/2024, 10:00",Pool B,Final
+Indiana,Michigan (B),14,7,"04/27/2024, 10:00",Pool B,Final
+Michigan,Michigan (B),15,3,"04/27/2024, 12:00",Pool B,Final
+Indiana,Ball State,15,5,"04/27/2024, 12:00",Pool B,Final
+Michigan,Indiana,15,7,"04/27/2024, 14:00",Pool B,Final
+Ball State,Michigan (B),13,10,"04/27/2024, 14:00",Pool B,Final
 pool,Pool C
-Michigan State,Grand Valley,0,0,"04/27/2024, 10:00",Pool C,Scheduled
-Chicago,Michigan State (B),0,0,"04/27/2024, 10:00",Pool C,Scheduled
-Michigan State,Michigan State (B),0,0,"04/27/2024, 12:00",Pool C,Scheduled
-Chicago,Grand Valley,0,0,"04/27/2024, 12:00",Pool C,Scheduled
-Michigan State,Chicago,0,0,"04/27/2024, 14:00",Pool C,Scheduled
-Grand Valley,Michigan State (B),0,0,"04/27/2024, 14:00",Pool C,Scheduled
+Michigan State,Grand Valley,13,10,"04/27/2024, 10:00",Pool C,Final
+Chicago,Michigan State (B),15,0,"04/27/2024, 10:00",Pool C,Final
+Michigan State,Michigan State (B),15,1,"04/27/2024, 12:00",Pool C,Final
+Chicago,Grand Valley,14,8,"04/27/2024, 12:00",Pool C,Final
+Michigan State,Chicago,11,8,"04/27/2024, 14:00",Pool C,Final
+Grand Valley,Michigan State (B),15,1,"04/27/2024, 14:00",Pool C,Final
 pool,Pool D
-Purdue,Notre Dame,0,0,"04/27/2024, 10:00",Pool D,Scheduled
-Northwestern,Purdue (B),0,0,"04/27/2024, 10:00",Pool D,Scheduled
-Purdue,Purdue (B),0,0,"04/27/2024, 12:00",Pool D,Scheduled
-Northwestern,Notre Dame,0,0,"04/27/2024, 12:00",Pool D,Scheduled
-Purdue,Northwestern,0,0,"04/27/2024, 14:00",Pool D,Scheduled
+Purdue,Notre Dame,13,11,"04/27/2024, 10:00",Pool D,Final
+Northwestern,Purdue (B),14,10,"04/27/2024, 10:00",Pool D,Final
+Purdue,Purdue (B),15,1,"04/27/2024, 12:00",Pool D,Final
+Northwestern,Notre Dame,12,15,"04/27/2024, 12:00",Pool D,Final
+Purdue,Northwestern,15,6,"04/27/2024, 14:00",Pool D,Final
 Notre Dame,Purdue (B),0,0,"04/27/2024, 14:00",Pool D,Scheduled
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,Championship Bracket
+Indiana,Grand Valley,0,0,"04/27/2024, 16:00",Play-In,In Progress
+Chicago,Ball State,0,0,"04/27/2024, 16:00",Play-In,In Progress
 bracket,3rd Place
 bracket,5th Place Bracket
 bracket,7th Place

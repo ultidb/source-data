@@ -310,28 +310,32 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
-Colorado,Texas State,0,0,"04/27/2024, 09:00",Pool A,Scheduled
-Colorado,Denver,0,0,"04/27/2024, 10:45",Pool A,Scheduled
-Denver,Texas State,0,0,"04/27/2024, 12:30",Pool A,Scheduled
+Colorado,Texas State,15,3,"04/27/2024, 09:00",Pool A,Final
+Colorado,Denver,15,0,"04/27/2024, 10:45",Pool A,Final
+Denver,Texas State,8,7,"04/27/2024, 12:30",Pool A,Final
 pool,Pool B
-Colorado State,Texas A&M,0,0,"04/27/2024, 09:00",Pool B,Scheduled
-Colorado State,Saint Louis,0,0,"04/27/2024, 10:45",Pool B,Scheduled
-Saint Louis,Texas A&M,0,0,"04/27/2024, 12:30",Pool B,Scheduled
+Colorado State,Texas A&M,15,4,"04/27/2024, 09:00",Pool B,Final
+Colorado State,Saint Louis,15,4,"04/27/2024, 10:45",Pool B,Final
+Saint Louis,Texas A&M,8,5,"04/27/2024, 12:30",Pool B,Final
 pool,Pool C
-Texas-Dallas,Houston,0,0,"04/27/2024, 10:45",Pool C,Scheduled
-Missouri,Texas (B),0,0,"04/27/2024, 10:45",Pool C,Scheduled
-Texas-Dallas,Texas (B),0,0,"04/27/2024, 12:30",Pool C,Scheduled
-Missouri,Houston,0,0,"04/27/2024, 12:30",Pool C,Scheduled
-Texas-Dallas,Missouri,0,0,"04/27/2024, 12:30",Pool C,Scheduled
-Texas (B),Houston,0,0,"04/27/2024, 12:30",Pool C,Scheduled
+Texas-Dallas,Houston,14,2,"04/27/2024, 10:45",Pool C,Final
+Missouri,Texas (B),15,1,"04/27/2024, 10:45",Pool C,Final
+Texas-Dallas,Missouri,7,5,"04/27/2024, 12:30",Pool C,Final
+Texas (B),Houston,11,5,"04/27/2024, 12:30",Pool C,Final
 pool,Pool D
-Washington University,Sam Houston,0,0,"04/27/2024, 09:00",Pool D,Scheduled
-Washington University,Texas,0,0,"04/27/2024, 10:45",Pool D,Scheduled
-Texas,Sam Houston,0,0,"04/27/2024, 12:30",Pool D,Scheduled
+Washington University,Sam Houston,15,0,"04/27/2024, 09:00",Pool D,Final
+Washington University,Texas,11,7,"04/27/2024, 10:45",Pool D,Final
+Texas,Sam Houston,13,2,"04/27/2024, 12:30",Pool D,Final
 b,r,e,a,k
 brackets,Bracket Play
 bracket,Championship Bracket
+Colorado,Washington University,0,0,"04/27/2024, 14:15",Semifinals,In Progress
+Colorado State,Texas-Dallas,0,0,"04/27/2024, 14:15",Semifinals,In Progress
 bracket,2nd Place Bracket
+Missouri,Sam Houston,0,0,"04/27/2024, 14:15",Pool Play Crossover,In Progress
+Texas State,Saint Louis,0,0,"04/27/2024, 14:15",Pool Play Crossover,In Progress
+Denver,Texas A&M,0,0,"04/27/2024, 14:15",Pool Play Crossover,In Progress
+Texas (B),Texas,0,0,"04/27/2024, 14:15",Pool Play Crossover,In Progress
 bracket,9th Place
 bracket,5th Place
 bracket,7th/8th Place

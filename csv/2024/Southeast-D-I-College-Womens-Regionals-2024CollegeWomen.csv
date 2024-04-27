@@ -151,49 +151,6 @@ teamInfo,VUDU,"Nashville, Tennessee",https://www.instagram.com/vandy.surge?utm_s
 01,Molly Adam
 14,Rhea  Patney
 b,r,e,a,k
-Tulane,10
-teamInfo,Muses,"New Orleans, Louisiana",,,@TUmuses
-00,Ava Hess
-00,Camila Guerrero
-00,Cecilia Pardo
-00,Dianna Lawhead
-00,Dylan Ratner
-00,Ella Boodin
-00,Erin Hollar
-00,Erin Rose Johnson
-00,Rayna Carner
-00,Reese Harward
-00,Sanika Panditrao
-00,Landry Lewis
-00,Mariia Kovalenko 
-00,Skylar Tuch
-13,Julia Baratta
-21,Mya Cummins
-23,Sivan Ornstein-Luks
-29,Dara Brownstein
-b,r,e,a,k
-Georgia (B),15
-teamInfo,Medusa,"Athens, Georgia",,,
-00,Sydney Woods
-02,Lila Morrison
-03,Rose Dodder
-06,Destin Ellison
-07,Adriana Mendes
-07,Sofia Mendes
-08,Stephania Fulleda
-09,Lydia Greene
-11,Anastasia Kutasina
-13,Jamie Deutchman
-15,Rebecca  Coffee
-20,Marilyn Flores-Carlos
-21,Anna Cheaves
-24,Kaia Klenberg
-25,Gabriella Halaby
-26,ayla maughon
-28,Mary Poschel
-31,Sophie Kim
-42,Alessa Cullinan
-b,r,e,a,k
 Alabama-Huntsville,3
 teamInfo,Terror,"Huntsville, Alabama",,,
 00,Amory Dowdy
@@ -237,25 +194,48 @@ coaches,Sean Finlay
 49,Gennie Mansi
 70,Caitlin Aycock
 b,r,e,a,k
-Tennessee,4
-teamInfo,Big Orange Screw,"Knoxville, Tennessee",https://utk.campuslabs.com/engage/organization/womensultimate,https://www.facebook.com/BosTennesseeUltimate,https://twitter.com/bosultimate?lang=en
-0,Ruby Baker
-00,Julia Terrell
-00,Emma Patterson
-03,Margaret Walter
-05,Samantha Borchmann
-09,Laura Leaman
-11,Joey Epperson
-13,Allison Farley
-16,Alyssa Kimbrell
-18,Samantha Foley
-20,Emma Woodward
-21,Atlee Elliott
-22,Hannah McInturff
-23,Ada Whitefield
-43,Kiersten Hamilton
-55,Ella MacNicoll
-56,Kate Blankenship
+Tulane,10
+teamInfo,Muses,"New Orleans, Louisiana",,,@TUmuses
+00,Ava Hess
+00,Camila Guerrero
+00,Cecilia Pardo
+00,Dianna Lawhead
+00,Dylan Ratner
+00,Ella Boodin
+00,Erin Hollar
+00,Erin Rose Johnson
+00,Rayna Carner
+00,Reese Harward
+00,Sanika Panditrao
+00,Landry Lewis
+00,Mariia Kovalenko 
+00,Skylar Tuch
+13,Julia Baratta
+21,Mya Cummins
+23,Sivan Ornstein-Luks
+29,Dara Brownstein
+b,r,e,a,k
+Georgia (B),15
+teamInfo,Medusa,"Athens, Georgia",,,
+00,Sydney Woods
+02,Lila Morrison
+03,Rose Dodder
+06,Destin Ellison
+07,Adriana Mendes
+07,Sofia Mendes
+08,Stephania Fulleda
+09,Lydia Greene
+11,Anastasia Kutasina
+13,Jamie Deutchman
+15,Rebecca  Coffee
+20,Marilyn Flores-Carlos
+21,Anna Cheaves
+24,Kaia Klenberg
+25,Gabriella Halaby
+26,ayla maughon
+28,Mary Poschel
+31,Sophie Kim
+42,Alessa Cullinan
 b,r,e,a,k
 Florida,5
 teamInfo,FUEL,"Gainesville, Florida",http://gvilleultimate.com/FUEL/#!/,https://www.facebook.com/FUELenfuego,https://twitter.com/FUELenfuego
@@ -278,6 +258,26 @@ teamInfo,FUEL,"Gainesville, Florida",http://gvilleultimate.com/FUEL/#!/,https://
 28,Anatolia Legaspi
 44,Anna Hanson
 86,Tori Dew
+b,r,e,a,k
+Tennessee,4
+teamInfo,Big Orange Screw,"Knoxville, Tennessee",https://utk.campuslabs.com/engage/organization/womensultimate,https://www.facebook.com/BosTennesseeUltimate,https://twitter.com/bosultimate?lang=en
+0,Ruby Baker
+00,Julia Terrell
+00,Emma Patterson
+03,Margaret Walter
+05,Samantha Borchmann
+09,Laura Leaman
+11,Joey Epperson
+13,Allison Farley
+16,Alyssa Kimbrell
+18,Samantha Foley
+20,Emma Woodward
+21,Atlee Elliott
+22,Hannah McInturff
+23,Ada Whitefield
+43,Kiersten Hamilton
+55,Ella MacNicoll
+56,Kate Blankenship
 b,r,e,a,k
 Emory,9
 teamInfo,Luna,"Atlanta, Georgia",,,https://twitter.com/lunaultimate
@@ -309,32 +309,34 @@ s,t,a,g,e,s
 pools,Pool Play (15.1.2)
 pool,Pool A
 Georgia,Alabama,0,0,"04/27/2024, 09:00",Pool A,Scheduled
-Florida State,LSU,0,0,"04/27/2024, 09:00",Pool A,Scheduled
-Georgia,LSU,0,0,"04/27/2024, 11:00",Pool A,Scheduled
-Florida State,Alabama,0,0,"04/27/2024, 11:00",Pool A,Scheduled
-Georgia,Florida State,0,0,"04/27/2024, 13:00",Pool A,Scheduled
+Florida State,LSU,15,0,"04/27/2024, 09:00",Pool A,Final
+Georgia,LSU,15,0,"04/27/2024, 11:00",Pool A,Final
+Florida State,Alabama,14,4,"04/27/2024, 11:00",Pool A,Final
+Georgia,Florida State,14,4,"04/27/2024, 13:00",Pool A,Final
 Alabama,LSU,0,0,"04/27/2024, 13:00",Pool A,Scheduled
 pool,Pool B
-Central Florida,Jacksonville State,0,0,"04/27/2024, 09:00",Pool B,Scheduled
-Tennessee-Chattanooga,Vanderbilt,0,0,"04/27/2024, 09:00",Pool B,Scheduled
-Central Florida,Vanderbilt,0,0,"04/27/2024, 11:00",Pool B,Scheduled
-Tennessee-Chattanooga,Jacksonville State,0,0,"04/27/2024, 11:00",Pool B,Scheduled
-Central Florida,Tennessee-Chattanooga,0,0,"04/27/2024, 13:00",Pool B,Scheduled
-Jacksonville State,Vanderbilt,0,0,"04/27/2024, 13:00",Pool B,Scheduled
+Central Florida,Jacksonville State,15,1,"04/27/2024, 09:00",Pool B,Final
+Tennessee-Chattanooga,Vanderbilt,13,2,"04/27/2024, 09:00",Pool B,Final
+Central Florida,Vanderbilt,15,1,"04/27/2024, 11:00",Pool B,Final
+Tennessee-Chattanooga,Jacksonville State,15,6,"04/27/2024, 11:00",Pool B,Final
+Central Florida,Tennessee-Chattanooga,15,0,"04/27/2024, 13:00",Pool B,Final
+Jacksonville State,Vanderbilt,13,5,"04/27/2024, 13:00",Pool B,Final
 pool,Pool C
-Alabama-Huntsville,Tulane,0,0,"04/27/2024, 09:00",Pool C,Scheduled
-Georgia Tech,Georgia (B),0,0,"04/27/2024, 09:00",Pool C,Scheduled
-Alabama-Huntsville,Georgia (B),0,0,"04/27/2024, 11:00",Pool C,Scheduled
-Georgia Tech,Tulane,0,0,"04/27/2024, 11:00",Pool C,Scheduled
-Alabama-Huntsville,Georgia Tech,0,0,"04/27/2024, 13:00",Pool C,Scheduled
-Tulane,Georgia (B),0,0,"04/27/2024, 13:00",Pool C,Scheduled
+Alabama-Huntsville,Tulane,15,3,"04/27/2024, 09:00",Pool C,Final
+Georgia Tech,Georgia (B),15,5,"04/27/2024, 09:00",Pool C,Final
+Alabama-Huntsville,Georgia (B),15,0,"04/27/2024, 11:00",Pool C,Final
+Georgia Tech,Tulane,15,5,"04/27/2024, 11:00",Pool C,Final
+Alabama-Huntsville,Georgia Tech,15,3,"04/27/2024, 13:00",Pool C,Final
+Tulane,Georgia (B),9,5,"04/27/2024, 13:00",Pool C,Final
 pool,Pool D
-Tennessee,Emory,0,0,"04/27/2024, 09:00",Pool D,Scheduled
-Florida,Emory,0,0,"04/27/2024, 11:00",Pool D,Scheduled
-Tennessee,Florida,0,0,"04/27/2024, 13:00",Pool D,Scheduled
+Tennessee,Emory,17,2,"04/27/2024, 09:00",Pool D,Final
+Florida,Emory,15,2,"04/27/2024, 11:00",Pool D,Final
+Tennessee,Florida,10,12,"04/27/2024, 13:00",Pool D,Final
 b,r,e,a,k
 brackets,Bracket Play (16.1)
 bracket,1st Place
+Tennessee-Chattanooga,Tulane,0,0,"04/27/2024, 15:00",1st Place Crossover,Scheduled
+Georgia Tech,Jacksonville State,0,0,"04/27/2024, 15:00",1st Place Crossover,Scheduled
 bracket,T-5th Place
 bracket,T-5th Place
 bracket,9th Place
@@ -342,4 +344,5 @@ bracket,11th Place
 b,r,e,a,k
 pools,13th - 15th Consolation
 pool,13th - 15th Consolation
+Vanderbilt,Georgia (B),0,0,"04/28/2024, 13:00",13th - 15th Consolation,Scheduled
 b,r,e,a,k

@@ -33,6 +33,23 @@ teamInfo,EZ Women,"Rochester, New York",https://rochesterezs.wixsite.com/home,ht
 00,Wendy Zimmerman
 00,Yi Ren
 b,r,e,a,k
+Ithaca,5
+teamInfo,Kweezy Ultimate,"Ithaca, New York",https://www.instagram.com/kweezyultimate/,,
+02,Leah Lin
+03,Marlena Bellucci
+04,Claire Johnson
+07,Isabella Bogue
+10,Jodi Resnick
+12,Maria Lesser
+13,Grace Wang
+14,Grace Alfieri
+22,Sydney Watson
+23,Alicia Menduni
+24,Charlotte Schneider
+25,Joe Mukamal
+33,Ana Bauroth 
+52,Amelia Myers
+b,r,e,a,k
 Hamilton,4
 teamInfo,Hot Saucers,"Clinton, New York",http://hotsaucersultimate.wordpress.com,,@hottestsaucers
 0,Georgia Rigby
@@ -62,23 +79,6 @@ teamInfo,Hot Saucers,"Clinton, New York",http://hotsaucersultimate.wordpress.com
 35,Amelie Heying
 64,Katrina Nelson
 b,r,e,a,k
-Ithaca,5
-teamInfo,Kweezy Ultimate,"Ithaca, New York",https://www.instagram.com/kweezyultimate/,,
-02,Leah Lin
-03,Marlena Bellucci
-04,Claire Johnson
-07,Isabella Bogue
-10,Jodi Resnick
-12,Maria Lesser
-13,Grace Wang
-14,Grace Alfieri
-22,Sydney Watson
-23,Alicia Menduni
-24,Charlotte Schneider
-25,Joe Mukamal
-33,Ana Bauroth 
-52,Amelia Myers
-b,r,e,a,k
 Wesleyan,2
 teamInfo,Vicious Circles,"Middletown, Connecticut",,https://www.facebook.com/vishiswhy/,https://twitter.com/divacupzone
 00,Leza Rooks
@@ -103,28 +103,6 @@ teamInfo,Vicious Circles,"Middletown, Connecticut",,https://www.facebook.com/vis
 50,Nora Jacobsen
 55,Mae Wrigley
 88,Emma Steckline
-b,r,e,a,k
-Vassar,7
-teamInfo,Boxing Nuns,"Poughkeepsie, New York",,,
-0,Abigail DiNardo
-0,Aviv Fischer-Brown
-0,Beatrix Bagin
-0,Lillian Watson
-0,Lily Anninger
-0,Lorelei Essman-Freeman
-0,Marjorie Greenberg
-0,miranda henry
-0,Rebecca  Schwartz
-0,Tamar Weil
-3,Paloma Oteiza
-9,Abigail Smith
-10,Zoe Thompson
-16,Eliana Mor
-22,Olive Adamek
-25,Isabel Heider
-27,Anika Mehanian
-28,Caitlin Gong
-49,stuart Heintz
 b,r,e,a,k
 Skidmore,3
 teamInfo,Skidmore College Thoroughbears,"Saratoga Springs, New York",https://sites.google.com/view/skidmorewombatsultimate/home?authuser=0,,https://twitter.com/skidmorewombats
@@ -152,6 +130,28 @@ teamInfo,Skidmore College Thoroughbears,"Saratoga Springs, New York",https://sit
 91,Eleanor Runiewicz 
 97,Abby Brew
 b,r,e,a,k
+Vassar,7
+teamInfo,Boxing Nuns,"Poughkeepsie, New York",,,
+0,Abigail DiNardo
+0,Aviv Fischer-Brown
+0,Beatrix Bagin
+0,Lillian Watson
+0,Lily Anninger
+0,Lorelei Essman-Freeman
+0,Marjorie Greenberg
+0,miranda henry
+0,Rebecca  Schwartz
+0,Tamar Weil
+3,Paloma Oteiza
+9,Abigail Smith
+10,Zoe Thompson
+16,Eliana Mor
+22,Olive Adamek
+25,Isabel Heider
+27,Anika Mehanian
+28,Caitlin Gong
+49,stuart Heintz
+b,r,e,a,k
 SUNY-Geneseo,6
 teamInfo,Escargot,"Geneseo, New York",,https://www.facebook.com/EscargotUltimate/?fref=ts,https://twitter.com/GeneseoEscargot
 00,Annie Antonucci
@@ -177,17 +177,22 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Saturday Pool A 
 pool,Pool A
-Rochester,Ithaca,0,0,"04/27/2024, 09:00",Pool A,Scheduled
-Hamilton,Ithaca,0,0,"04/27/2024, 11:00",Pool A,Scheduled
-Rochester,Hamilton,0,0,"04/27/2024, 13:00",Pool A,Scheduled
+Rochester,Ithaca,11,8,"04/27/2024, 09:00",Pool A,Final
+Hamilton,Ithaca,6,7,"04/27/2024, 11:00",Pool A,Final
+Rochester,Hamilton,15,5,"04/27/2024, 13:00",Pool A,Final
 b,r,e,a,k
 brackets,Saturday Pool B Bracket
 bracket,1st Place in Pool
-Wesleyan,Vassar,0,0,"04/27/2024, 11:00",Semis,Scheduled
-Skidmore,SUNY-Geneseo,0,0,"04/27/2024, 11:00",Semis,Scheduled
+Wesleyan,Skidmore,11,7,"04/27/2024, 13:00",Finals,Final
+Wesleyan,Vassar,14,0,"04/27/2024, 11:00",Semis,Final
+Skidmore,SUNY-Geneseo,9,3,"04/27/2024, 11:00",Semis,Final
 bracket,3rd in Pool 
+SUNY-Geneseo,Vassar,11,4,"04/27/2024, 13:00",3rd Pool Finals,Final
 b,r,e,a,k
 clusters,Saturday Crossover
+cluster,Crossover Match
+Ithaca,SUNY-Geneseo,0,0,"04/27/2024, 15:00",,Scheduled
+Hamilton,Skidmore,0,0,"04/27/2024, 15:00",,Scheduled
 b,r,e,a,k
 brackets,Sunday Championship Bracket
 bracket,1st Place
