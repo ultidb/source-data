@@ -333,30 +333,43 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
-Middlebury,Amherst,0,0,"05/04/2024, 09:00",Pool A,Scheduled
-Middlebury,Colby,0,0,"05/04/2024, 10:45",Pool A,Scheduled
-Colby,Amherst,0,0,"05/04/2024, 12:30",Pool A,Scheduled
+Middlebury,Amherst,15,3,"05/04/2024, 09:00",Pool A,Final
+Middlebury,Colby,15,2,"05/04/2024, 10:45",Pool A,Final
+Colby,Amherst,11,10,"05/04/2024, 12:30",Pool A,Final
 pool,Pool B
-Williams,Stonehill,0,0,"05/04/2024, 09:00",Pool B,Scheduled
-Williams,Middlebury (B),0,0,"05/04/2024, 10:45",Pool B,Scheduled
-Middlebury (B),Stonehill,0,0,"05/04/2024, 12:30",Pool B,Scheduled
+Williams,Stonehill,15,8,"05/04/2024, 09:00",Pool B,Final
+Williams,Middlebury (B),13,9,"05/04/2024, 10:45",Pool B,Final
+Middlebury (B),Stonehill,13,10,"05/04/2024, 12:30",Pool B,Final
 pool,Pool C
-Bates,Brandeis,0,0,"05/04/2024, 09:00",Pool C,Scheduled
-Bates,Worcester Polytechnic Institute,0,0,"05/04/2024, 10:45",Pool C,Scheduled
-Worcester Polytechnic Institute,Brandeis,0,0,"05/04/2024, 12:30",Pool C,Scheduled
+Bates,Brandeis,15,11,"05/04/2024, 09:00",Pool C,Final
+Bates,Worcester Polytechnic Institute,13,11,"05/04/2024, 10:45",Pool C,Final
+Worcester Polytechnic Institute,Brandeis,12,4,"05/04/2024, 12:30",Pool C,Final
 pool,Pool D
-Bowdoin,Roger Williams,0,0,"05/04/2024, 09:00",Pool D,Scheduled
-Bowdoin,Bryant,0,0,"05/04/2024, 10:45",Pool D,Scheduled
-Bryant,Roger Williams,0,0,"05/04/2024, 12:30",Pool D,Scheduled
+Bowdoin,Roger Williams,15,8,"05/04/2024, 09:00",Pool D,Final
+Bowdoin,Bryant,11,7,"05/04/2024, 10:45",Pool D,Final
+Bryant,Roger Williams,15,5,"05/04/2024, 12:30",Pool D,Final
 b,r,e,a,k
 clusters,Crossovers
+cluster,Saturday Crossovers
+Middlebury,Bates,12,7,"05/04/2024, 14:15",,Final
+Williams,Bowdoin,13,8,"05/04/2024, 14:15",,Final
+Worcester Polytechnic Institute,Amherst,15,5,"05/04/2024, 14:15",,Final
+Bryant,Stonehill,15,5,"05/04/2024, 14:15",,Final
+Colby,Brandeis,11,6,"05/04/2024, 14:15",,Final
+Middlebury (B),Roger Williams,11,9,"05/04/2024, 14:15",,Final
 b,r,e,a,k
 brackets,Bracket Play
 bracket,Championship
+Middlebury,Middlebury (B),0,0,"05/04/2024, 16:00",Quarters,Scheduled
+Worcester Polytechnic Institute,Bowdoin,0,0,"05/04/2024, 16:00",Quarters,Scheduled
+Bates,Bryant,0,0,"05/04/2024, 16:00",Quarters,Scheduled
+Colby,Williams,0,0,"05/04/2024, 16:00",Quarters,Scheduled
 bracket,Third Place
 bracket,Fifth Place
 bracket,Seventh Place
 b,r,e,a,k
 brackets,9-12th Place Bracket
 bracket,9-12th Place Bracket
+Amherst,Stonehill,0,0,"05/05/2024, 09:00",9th Place Semifinals,Scheduled
+Brandeis,Roger Williams,0,0,"05/05/2024, 09:00",9th Place Semifinals,Scheduled
 b,r,e,a,k

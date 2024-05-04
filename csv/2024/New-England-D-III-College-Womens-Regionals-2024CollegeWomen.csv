@@ -36,6 +36,29 @@ coaches,Garrett Clay
 00,Tahlia Gerger
 00,Zoe Evans
 b,r,e,a,k
+Smith,11
+teamInfo,Luna Disc,"Northampton , Massachusetts",,https://www.facebook.com/Smith-College-Lunadisc-288998164934274/,https://twitter.com/lunadisc?lang=en
+00,Alix Livingston
+00,Amrita Chaturvedi
+00,Dominique  Wander
+00,Elliot Burroughs
+00,Erin Gottschalk
+00,Eve Steiner
+00,Hazel Spedding
+00,Iz Thompson
+00,Jules Mount
+00,Juliet Breit
+00,Kathryn Whipple
+00,Maeve Kearns-Stanley
+00,Makenzie  White
+00,Margaret Sullivan
+00,Natalie Morgan
+00,Olivia Siebert
+00,Phoebe Dennison
+00,Shalini Setty
+00,Sophia Jerome
+00,Yasmine Porath
+b,r,e,a,k
 Amherst,8
 teamInfo,Sparkle Motion,"Amherst, Massachusetts",,,@amherstspamo
 00,Alisha Xu
@@ -62,28 +85,28 @@ teamInfo,Sparkle Motion,"Amherst, Massachusetts",,,@amherstspamo
 00,Taylor Brentjens
 00,Zoe Jung
 b,r,e,a,k
-Smith,11
-teamInfo,Luna Disc,"Northampton , Massachusetts",,https://www.facebook.com/Smith-College-Lunadisc-288998164934274/,https://twitter.com/lunadisc?lang=en
-00,Alix Livingston
-00,Amrita Chaturvedi
-00,Dominique  Wander
-00,Elliot Burroughs
-00,Erin Gottschalk
-00,Eve Steiner
-00,Hazel Spedding
-00,Iz Thompson
-00,Jules Mount
-00,Juliet Breit
-00,Kathryn Whipple
-00,Maeve Kearns-Stanley
-00,Makenzie  White
-00,Margaret Sullivan
-00,Natalie Morgan
-00,Olivia Siebert
-00,Phoebe Dennison
-00,Shalini Setty
-00,Sophia Jerome
-00,Yasmine Porath
+Bates,7
+teamInfo,Cold Front,"Lewiston, Maine",https://coldfrontultimate.wordpress.com,,https://twitter.com/coldfront_ulti
+00,Abigail Waisler
+00,Ada Knauft
+00,Cassidy Meyer
+00,Claire Barlass
+00,Daisy Kettle
+00,Dalia Cape
+00,Ellie Schueler
+00,Emma Gillespie
+00,Francisca Rocha
+00,Gemma DeCarolis
+00,Hana Roggendorf
+00,Jamison Bell
+00,Jillian  Scott-Lewis
+00,Liv Myers
+00,Lucy Sterba
+00,Megan Donaghy
+00,Reese Hillman
+00,Rosalie Brown
+00,Sam Rice
+00,Sarah Smith
 b,r,e,a,k
 Wellesley,2
 teamInfo,Whiptails,"Wellesley, Massachusetts",https://sites.google.com/wellesley.edu/wellesleywhiptails/home,,https://twitter.com/thewholedamnbus
@@ -107,29 +130,6 @@ teamInfo,Whiptails,"Wellesley, Massachusetts",https://sites.google.com/wellesley
 38,Annika Wolberg
 53,Krishangi Dandapure
 99,Raquel Alegria
-b,r,e,a,k
-Bates,7
-teamInfo,Cold Front,"Lewiston, Maine",https://coldfrontultimate.wordpress.com,,https://twitter.com/coldfront_ulti
-00,Abigail Waisler
-00,Ada Knauft
-00,Cassidy Meyer
-00,Claire Barlass
-00,Daisy Kettle
-00,Dalia Cape
-00,Ellie Schueler
-00,Emma Gillespie
-00,Francisca Rocha
-00,Gemma DeCarolis
-00,Hana Roggendorf
-00,Jamison Bell
-00,Jillian  Scott-Lewis
-00,Liv Myers
-00,Lucy Sterba
-00,Megan Donaghy
-00,Reese Hillman
-00,Rosalie Brown
-00,Sam Rice
-00,Sarah Smith
 b,r,e,a,k
 Bentley,12
 teamInfo,WoBUS,"Waltham, Massachusetts",,,@wobentultimate
@@ -291,30 +291,43 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
-Williams,Smith,0,0,"05/04/2024, 08:30",Pool A,Scheduled
-Williams,Amherst,0,0,"05/04/2024, 10:25",Pool A,Scheduled
-Amherst,Smith,0,0,"05/04/2024, 12:20",Pool A,Scheduled
+Williams,Smith,10,5,"05/04/2024, 08:30",Pool A,Final
+Williams,Amherst,10,7,"05/04/2024, 10:25",Pool A,Final
+Amherst,Smith,4,8,"05/04/2024, 12:20",Pool A,Final
 pool,Pool B
-Wellesley,Bentley,0,0,"05/04/2024, 08:30",Pool B,Scheduled
-Wellesley,Bates,0,0,"05/04/2024, 10:45",Pool B,Scheduled
-Bates,Bentley,0,0,"05/04/2024, 12:20",Pool B,Scheduled
+Wellesley,Bentley,11,3,"05/04/2024, 08:30",Pool B,Final
+Wellesley,Bates,9,10,"05/04/2024, 10:45",Pool B,Final
+Bates,Bentley,W,L,"05/04/2024, 12:20",Pool B,Final
 pool,Pool C
-Middlebury,Bowdoin,0,0,"05/04/2024, 08:30",Pool C,Scheduled
-Middlebury,Dartmouth,0,0,"05/04/2024, 10:45",Pool C,Scheduled
-Dartmouth,Bowdoin,0,0,"05/04/2024, 12:20",Pool C,Scheduled
+Middlebury,Bowdoin,13,4,"05/04/2024, 08:30",Pool C,Final
+Middlebury,Dartmouth,13,5,"05/04/2024, 10:45",Pool C,Final
+Dartmouth,Bowdoin,11,8,"05/04/2024, 12:20",Pool C,Final
 pool,Pool D
-Brandeis,Stonehill,0,0,"05/04/2024, 08:30",Pool D,Scheduled
-Brandeis,Mount Holyoke,0,0,"05/04/2024, 10:45",Pool D,Scheduled
-Mount Holyoke,Stonehill,0,0,"05/04/2024, 12:20",Pool D,Scheduled
+Brandeis,Stonehill,15,0,"05/04/2024, 08:30",Pool D,Final
+Brandeis,Mount Holyoke,9,7,"05/04/2024, 10:45",Pool D,Final
+Mount Holyoke,Stonehill,15,3,"05/04/2024, 12:20",Pool D,Final
 b,r,e,a,k
 clusters,Crossover Games
+cluster,Crossover Games
+Williams,Middlebury,9,10,"05/04/2024, 14:15",,Final
+Bates,Brandeis,W,L,"05/04/2024, 14:15",,Final
+Mount Holyoke,Bentley,W,L,"05/04/2024, 14:15",,Final
+Dartmouth,Amherst,8,9,"05/04/2024, 14:15",,Final
+Wellesley,Stonehill,0,0,"05/04/2024, 14:15",,Scheduled
+Smith,Bowdoin,9,5,"05/04/2024, 14:15",,Final
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,1st Place Bracket
+Amherst,Brandeis,0,0,"05/04/2024, 16:10",1st Place Quarters,Scheduled
+Williams,Mount Holyoke,0,0,"05/04/2024, 16:10",1st Place Quarters,Scheduled
+Smith,Bates,0,0,"05/04/2024, 16:10",1st Place Quarters,Scheduled
 bracket,3rd Place Bracket
 bracket,5th Place Bracket
 bracket,7th Place Game
 b,r,e,a,k
 pools,OPTIONAL Sunday Consolation
 pool,Pool E
+Dartmouth,Bowdoin,0,0,"05/05/2024, 08:30",Pool E,Scheduled
+Bentley,Bowdoin,0,0,"05/05/2024, 10:25",Pool E,Scheduled
+Bentley,Dartmouth,0,0,"05/05/2024, 12:20",Pool E,Scheduled
 b,r,e,a,k

@@ -154,32 +154,6 @@ teamInfo,Night Train B,"Charlottesville, Virginia",,,
 00,Wyatt Herman
 00,Wyatt Dayhoff
 b,r,e,a,k
-American (B),6
-teamInfo,Revolution,"Washington, District of Columbia",http://www.americanultimate.com/main-site,https://www.facebook.com/stall11,
-00,Grayson Hepp
-03,Swaraj  Randhawa
-08,Sam Makarczyk
-11,Matthew Ross
-19,Ara Rosenhyslop
-25,Evan Smith
-26,James Stoffelmayr
-27,Asher  Rosen
-33,William Zimmerman
-34,Theodore Korfmacher
-36,Anish Bhalerao
-37,Charlie Jennings
-41,Davis Hobbs
-43,Frank Smoot-Canty
-54,Caden Greene
-70,James Branning
-72,Luca Alvarez
-88,Anthony Testa
-90,Eli Kerber
-91,Zachary Ashare
-97,William Jacobs
-98,Jackson Mandel
-99,Paul De Bord
-b,r,e,a,k
 Delaware (B),7
 teamInfo,Sideshow,"Newark, Delaware",,,https://twitter.com/sideshow_b
 00,Alexander Grega
@@ -207,23 +181,54 @@ teamInfo,Sideshow,"Newark, Delaware",,,https://twitter.com/sideshow_b
 01,Maclaren Blow
 17,Nate DeFeo
 b,r,e,a,k
+American (B),6
+teamInfo,Revolution,"Washington, District of Columbia",http://www.americanultimate.com/main-site,https://www.facebook.com/stall11,
+00,Grayson Hepp
+03,Swaraj  Randhawa
+08,Sam Makarczyk
+11,Matthew Ross
+19,Ara Rosenhyslop
+25,Evan Smith
+26,James Stoffelmayr
+27,Asher  Rosen
+33,William Zimmerman
+34,Theodore Korfmacher
+36,Anish Bhalerao
+37,Charlie Jennings
+41,Davis Hobbs
+43,Frank Smoot-Canty
+54,Caden Greene
+70,James Branning
+72,Luca Alvarez
+88,Anthony Testa
+90,Eli Kerber
+91,Zachary Ashare
+97,William Jacobs
+98,Jackson Mandel
+99,Paul De Bord
+b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
-North Carolina (B),South Carolina (B),0,0,"05/04/2024, 09:00",Pool A,Scheduled
-North Carolina (B),North Carolina State (B),0,0,"05/04/2024, 10:45",Pool A,Scheduled
-North Carolina State (B),South Carolina (B),0,0,"05/04/2024, 12:30",Pool A,Scheduled
+North Carolina (B),South Carolina (B),15,6,"05/04/2024, 09:00",Pool A,Final
+North Carolina (B),North Carolina State (B),15,9,"05/04/2024, 10:45",Pool A,Final
+North Carolina State (B),South Carolina (B),15,2,"05/04/2024, 12:30",Pool A,Final
 pool,Clipped Pool B
-Maryland (B),Delaware (B),0,0,"05/04/2024, 10:45",Clipped Pool B,Scheduled
-Virginia (B),American (B),0,0,"05/04/2024, 10:45",Clipped Pool B,Scheduled
-Maryland (B),American (B),0,0,"05/04/2024, 12:30",Clipped Pool B,Scheduled
-Virginia (B),Delaware (B),0,0,"05/04/2024, 12:30",Clipped Pool B,Scheduled
-Maryland (B),Virginia (B),0,0,"05/04/2024, 12:30",Clipped Pool B,Scheduled
-American (B),Delaware (B),0,0,"05/04/2024, 12:30",Clipped Pool B,Scheduled
+Maryland (B),Delaware (B),12,8,"05/04/2024, 10:45",Clipped Pool B,Final
+Virginia (B),American (B),13,8,"05/04/2024, 10:45",Clipped Pool B,Final
+Maryland (B),Virginia (B),14,8,"05/04/2024, 12:30",Clipped Pool B,Final
+American (B),Delaware (B),10,11,"05/04/2024, 12:30",Clipped Pool B,Final
 b,r,e,a,k
 brackets,Bracket Play
 bracket,1st Place 
+North Carolina (B),South Carolina (B),0,0,"05/05/2024, 08:30",1st Place Semis,Scheduled
+North Carolina State (B),Maryland (B),0,0,"05/05/2024, 08:30",1st Place Semis,Scheduled
+Virginia (B),South Carolina (B),6,15,"05/04/2024, 14:15",1st Place Quarters,Final
+North Carolina State (B),Delaware (B),15,0,"05/04/2024, 14:15",1st Place Quarters,Final
 bracket,3rd Place
 b,r,e,a,k
 clusters,Consolation
+cluster,Consolation
+American (B),Virginia (B),0,0,"05/05/2024, 08:30",,Scheduled
+American (B),Delaware (B),0,0,"05/05/2024, 10:15",,Scheduled
 b,r,e,a,k

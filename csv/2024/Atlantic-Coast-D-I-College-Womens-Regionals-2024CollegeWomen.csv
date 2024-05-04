@@ -249,6 +249,28 @@ coaches,Eliana Harnage,Jordan Tippitt
 71,Ollie Shirley
 80,Rachael Gross
 b,r,e,a,k
+Clemson,15
+teamInfo,Tiger Lilies,"Clemson, South Carolina",,,
+00,Abigail Barrett
+00,Amanda Lam
+00,Ashley Hildreth
+00,Cassandra Connelly
+00,Catalina Infante
+00,Disney Medeiros
+00,Eleanor Bolick
+00,Eliza Haines
+00,Elliot Wells
+00,Isabella Solov
+00,Jada Garrick
+00,Jessie Inguagiato
+00,Lucy Endean
+00,Mia Kramer
+00,Rachel Parrish
+00,Ragan Broussard
+00,Riana Patel
+00,Sabrina Fernandez
+00,Taylor Simoes
+b,r,e,a,k
 Appalachian State,10
 teamInfo,Nonads,"Boone, North Carolina",,,
 0,Anastasia Hammond
@@ -272,28 +294,6 @@ teamInfo,Nonads,"Boone, North Carolina",,,
 72,Michelle Pisciotta
 91,Charis Barry
 98,Lillian Perkins
-b,r,e,a,k
-Clemson,15
-teamInfo,Tiger Lilies,"Clemson, South Carolina",,,
-00,Abigail Barrett
-00,Amanda Lam
-00,Ashley Hildreth
-00,Cassandra Connelly
-00,Catalina Infante
-00,Disney Medeiros
-00,Eleanor Bolick
-00,Eliza Haines
-00,Elliot Wells
-00,Isabella Solov
-00,Jada Garrick
-00,Jessie Inguagiato
-00,Lucy Endean
-00,Mia Kramer
-00,Rachel Parrish
-00,Ragan Broussard
-00,Riana Patel
-00,Sabrina Fernandez
-00,Taylor Simoes
 b,r,e,a,k
 William & Mary,4
 teamInfo,Cypress,"Williamsburg, Virginia",,,https://twitter.com/WMultimateW
@@ -405,41 +405,44 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
-North Carolina,Maryland,0,0,"05/04/2024, 08:30",Pool A,Scheduled
-James Madison,Johns Hopkins,0,0,"05/04/2024, 08:30",Pool A,Scheduled
-North Carolina,Johns Hopkins,0,0,"05/04/2024, 12:30",Pool A,Scheduled
-James Madison,Maryland,0,0,"05/04/2024, 12:30",Pool A,Scheduled
-North Carolina,James Madison,0,0,"05/04/2024, 14:30",Pool A,Scheduled
-Maryland,Johns Hopkins,0,0,"05/04/2024, 14:30",Pool A,Scheduled
+North Carolina,Maryland,15,4,"05/04/2024, 08:30",Pool A,Final
+James Madison,Johns Hopkins,15,2,"05/04/2024, 08:30",Pool A,Final
+North Carolina,Johns Hopkins,15,0,"05/04/2024, 12:30",Pool A,Final
+James Madison,Maryland,12,10,"05/04/2024, 12:30",Pool A,Final
+North Carolina,James Madison,15,1,"05/04/2024, 14:30",Pool A,Final
+Maryland,Johns Hopkins,13,9,"05/04/2024, 14:30",Pool A,Final
 pool,Pool B
-South Carolina,North Carolina State,0,0,"05/04/2024, 10:30",Pool B,Scheduled
-Virginia Tech,Liberty,0,0,"05/04/2024, 10:30",Pool B,Scheduled
-South Carolina,Liberty,0,0,"05/04/2024, 12:30",Pool B,Scheduled
-Virginia Tech,North Carolina State,0,0,"05/04/2024, 12:30",Pool B,Scheduled
-South Carolina,Virginia Tech,0,0,"05/04/2024, 14:30",Pool B,Scheduled
-North Carolina State,Liberty,0,0,"05/04/2024, 14:30",Pool B,Scheduled
+South Carolina,North Carolina State,10,9,"05/04/2024, 10:30",Pool B,Final
+Virginia Tech,Liberty,14,7,"05/04/2024, 10:30",Pool B,Final
+South Carolina,Liberty,15,1,"05/04/2024, 12:30",Pool B,Final
+Virginia Tech,North Carolina State,14,11,"05/04/2024, 12:30",Pool B,Final
+South Carolina,Virginia Tech,15,1,"05/04/2024, 14:30",Pool B,Final
+North Carolina State,Liberty,11,5,"05/04/2024, 14:30",Pool B,Final
 pool,Pool C
-American,Appalachian State,0,0,"05/04/2024, 10:30",Pool C,Scheduled
-Georgetown,Clemson,0,0,"05/04/2024, 10:30",Pool C,Scheduled
-American,Clemson,0,0,"05/04/2024, 12:30",Pool C,Scheduled
-Georgetown,Appalachian State,0,0,"05/04/2024, 12:30",Pool C,Scheduled
-American,Georgetown,0,0,"05/04/2024, 14:30",Pool C,Scheduled
-Appalachian State,Clemson,0,0,"05/04/2024, 14:30",Pool C,Scheduled
+American,Appalachian State,12,7,"05/04/2024, 10:30",Pool C,Final
+Georgetown,Clemson,14,5,"05/04/2024, 10:30",Pool C,Final
+American,Clemson,11,8,"05/04/2024, 12:30",Pool C,Final
+Georgetown,Appalachian State,15,4,"05/04/2024, 12:30",Pool C,Final
+American,Georgetown,11,7,"05/04/2024, 14:30",Pool C,Final
+Appalachian State,Clemson,9,14,"05/04/2024, 14:30",Pool C,Final
 pool,Pool D
-William & Mary,Duke,0,0,"05/04/2024, 08:30",Pool D,Scheduled
-Virginia,Charleston,0,0,"05/04/2024, 08:30",Pool D,Scheduled
-William & Mary,Charleston,0,0,"05/04/2024, 12:30",Pool D,Scheduled
-Virginia,Duke,0,0,"05/04/2024, 12:30",Pool D,Scheduled
-William & Mary,Virginia,0,0,"05/04/2024, 14:30",Pool D,Scheduled
+William & Mary,Duke,15,10,"05/04/2024, 08:30",Pool D,Final
+Virginia,Charleston,15,2,"05/04/2024, 08:30",Pool D,Final
+William & Mary,Charleston,15,5,"05/04/2024, 12:30",Pool D,Final
+Virginia,Duke,11,12,"05/04/2024, 12:30",Pool D,Final
+William & Mary,Virginia,15,12,"05/04/2024, 14:30",Pool D,Final
 Duke,Charleston,0,0,"05/04/2024, 14:30",Pool D,Scheduled
 b,r,e,a,k
 brackets,Bracket Play
 bracket,1st Place 
+Virginia Tech,Clemson,0,0,"05/04/2024, 16:30",1st Place PQ,In Progress
+Georgetown,North Carolina State,0,0,"05/04/2024, 16:30",1st Place PQ,In Progress
 bracket,3rd Place
 bracket,5th game one
 bracket,5th game two
 bracket,9th Game one
 bracket,9th game two
 bracket,13th Place
+Liberty,Appalachian State,0,0,"05/04/2024, 16:30",13th Place Semis,In Progress
 bracket,15th Place
 b,r,e,a,k
