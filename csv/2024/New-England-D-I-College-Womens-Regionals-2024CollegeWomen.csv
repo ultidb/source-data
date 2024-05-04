@@ -125,53 +125,6 @@ teamInfo,sMITe,"Cambridge, Massachusetts",http://scripts.mit.edu/~womens-ult/,ht
 66,Veronika Pister
 81,Leala Nakagawa
 b,r,e,a,k
-Boston College,11
-teamInfo,Boston College,"Chestnut Hill, Massachusetts",https://bcwomensultimate.com/,,@bcflixultimate
-coaches,Kaleigh Bozzo
-0,Claire Eckelkamp
-00,Ella Kramer
-00,Emma Schofield
-00,Katherine Nally
-00,Ainsley  Brady 
-00,Anna Ricketts
-00,Caitlin Lawrence
-00,Charlotte Kopelman
-00,Meaghan Feehan
-00,Natalie Greiner
-00,Natalie Prinz
-00,Rachael Grant
-00,Samantha Schade
-00,Sophia Stanton
-00,Susanna Ulrich
-00,Sydney Prechtl
-00,Lila Glenn
-00,Madeleine Mulligan
-00,Madeline Palmese
-00,Margaret Patterson
-69,Marilyn Perez
-69,Kerry Perez
-b,r,e,a,k
-Massachusetts,10
-teamInfo,Zoola A,"Amherst, Massachusetts",,https://www.facebook.com/pages/Lady-Zoo-Ultimate-Frisbee/124773454891,https://twitter.com/ladyzooultimate
-coaches,Ben Ayres
-00,Abigial Freeman
-00,Anna Betz
-00,Annika  Liston 
-00,Corina Page
-00,Elsbeth Wendell
-00,Emilie Poutasse
-00,Isadora Jorgensen
-00,Julia Leifer
-00,Kate Kelleher
-00,Marsela Leverone
-00,Megan  Di Giovanni
-00,Morgan Banta-Ryan
-00,Olivia Paolillo
-00,Olivia Trummel
-00,Qaisara Ruslan
-00,Sabrina Erickson
-00,Samantha Van Horn
-b,r,e,a,k
 Harvard,7
 teamInfo,Quasar,"Cambridge, Massachusetts",https://sites.google.com/view/harvard-womens-ultimate-team/home?pli=1,,https://twitter.com/QuasarUltimate
 00,Ava Bandel
@@ -224,6 +177,80 @@ coaches,Connor Steere
 25,Gigi Welsh
 45,Taylor Ezell
 b,r,e,a,k
+Vermont (B),5
+teamInfo,Vermont B,"Burlington, Vermont",,,
+00,Aurelia Kornheiser
+00,Clementine Hawkins
+00,Gemma Friedman
+00,Josette Glass
+00,Maelle Rosser
+00,Makayla  Hone 
+00,Maya Lurie
+00,Rayna  Axelson
+00,Shifra Waskow
+00,Sophia Santana
+02,Allison Kingsley
+05,Kalei Foley-Rutherfurd
+08,Emma Lavigne
+09,Meribel Collin
+13,McKenna Weston
+14,August Baxandall
+15,Lindsay Taylor
+17,Lila Findlay
+21,Claire Conklin
+22,Annabel Lapp
+25,CJ James
+31,Ella Ferguson
+33,Adelaide Taylor
+81,Sarah Van Horn
+b,r,e,a,k
+Boston College,11
+teamInfo,Boston College,"Chestnut Hill, Massachusetts",https://bcwomensultimate.com/,,@bcflixultimate
+coaches,Kaleigh Bozzo
+0,Claire Eckelkamp
+00,Ella Kramer
+00,Emma Schofield
+00,Katherine Nally
+00,Ainsley  Brady 
+00,Anna Ricketts
+00,Caitlin Lawrence
+00,Charlotte Kopelman
+00,Meaghan Feehan
+00,Natalie Greiner
+00,Natalie Prinz
+00,Rachael Grant
+00,Samantha Schade
+00,Sophia Stanton
+00,Susanna Ulrich
+00,Sydney Prechtl
+00,Lila Glenn
+00,Madeleine Mulligan
+00,Madeline Palmese
+00,Margaret Patterson
+69,Marilyn Perez
+69,Kerry Perez
+b,r,e,a,k
+Massachusetts,10
+teamInfo,Zoola A,"Amherst, Massachusetts",,https://www.facebook.com/pages/Lady-Zoo-Ultimate-Frisbee/124773454891,https://twitter.com/ladyzooultimate
+coaches,Ben Ayres
+00,Abigial Freeman
+00,Anna Betz
+00,Annika  Liston 
+00,Corina Page
+00,Elsbeth Wendell
+00,Emilie Poutasse
+00,Isadora Jorgensen
+00,Julia Leifer
+00,Kate Kelleher
+00,Marsela Leverone
+00,Megan  Di Giovanni
+00,Morgan Banta-Ryan
+00,Olivia Paolillo
+00,Olivia Trummel
+00,Qaisara Ruslan
+00,Sabrina Erickson
+00,Samantha Van Horn
+b,r,e,a,k
 New Hampshire,9
 teamInfo,Oriza Women's Ultimate,"Durham, New Hampshire",https://campusrec.unh.edu/programs/sport-clubs/ultimate-frisbee-women,https://www.facebook.com/unhorizaultimate/,https://twitter.com/unhorizaulti?lang=en
 0,Autumn  Horsey
@@ -270,33 +297,6 @@ teamInfo,UVM C,"BURLINGTON, Vermont",,,
 00,Sophia Venman
 00,Veronica Stanford
 b,r,e,a,k
-Vermont (B),5
-teamInfo,Vermont B,"Burlington, Vermont",,,
-00,Aurelia Kornheiser
-00,Clementine Hawkins
-00,Gemma Friedman
-00,Josette Glass
-00,Maelle Rosser
-00,Makayla  Hone 
-00,Maya Lurie
-00,Rayna  Axelson
-00,Shifra Waskow
-00,Sophia Santana
-02,Allison Kingsley
-05,Kalei Foley-Rutherfurd
-08,Emma Lavigne
-09,Meribel Collin
-13,McKenna Weston
-14,August Baxandall
-15,Lindsay Taylor
-17,Lila Findlay
-21,Claire Conklin
-22,Annabel Lapp
-25,CJ James
-31,Ella Ferguson
-33,Adelaide Taylor
-81,Sarah Van Horn
-b,r,e,a,k
 s,t,a,g,e,s
 brackets,Bracket Play
 bracket,Championship
@@ -304,13 +304,18 @@ Vermont,Tufts,0,0,"05/05/2024, 11:00",Finals,Scheduled
 Vermont,Brown,15,5,"05/04/2024, 14:15",1st Place Semis,Final
 Tufts,Northeastern,15,5,"05/04/2024, 14:15",1st Place Semis,Final
 bracket,Second Place
+Brown,MIT,0,0,"05/05/2024, 09:00",Second Place Quarters,Scheduled
+MIT,Harvard,11,8,"05/04/2024, 16:00",Second Place Play-in,Final
+Rhode Island,Vermont (B),0,0,"05/04/2024, 16:00",Second Place Play-in,Scheduled
 MIT,Boston College,13,3,"05/04/2024, 14:15",Second Place Crossovers,Final
-Massachusetts,Harvard,0,0,"05/04/2024, 14:15",Second Place Crossovers,Scheduled
+Massachusetts,Harvard,0,1,"05/04/2024, 14:15",Second Place Crossovers,Final
 Rhode Island,New Hampshire,10,4,"05/04/2024, 14:15",Second Place Crossovers,Final
-Vermont (C),Vermont (B),0,0,"05/04/2024, 14:15",Second Place Crossovers,Scheduled
+Vermont (C),Vermont (B),5,14,"05/04/2024, 14:15",Second Place Crossovers,Final
 bracket,Fifth Place
 bracket,Seventh Place
 bracket,Ninth Place
+Boston College,Massachusetts,0,0,"05/04/2024, 16:00",Ninth Semis,Scheduled
+New Hampshire,Vermont (C),0,0,"05/04/2024, 16:00",Ninth Semis,Scheduled
 bracket,Eleventh Place
 b,r,e,a,k
 pools,Pool Play
