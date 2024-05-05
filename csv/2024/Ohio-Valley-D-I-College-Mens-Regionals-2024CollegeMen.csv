@@ -34,6 +34,34 @@ coaches,Nick Kaczmarek,Christie Lawry,Ben Morgenstern,Hensley Sejour
 00,William McGlynn
 00,William Litchholt
 b,r,e,a,k
+Penn State,2
+teamInfo,Spank,"University Park, Pennsylvania",http://clubs.psu.edu/up/ultimate/,,https://twitter.com/spank_ultimate
+coaches,Morrison Smith
+00,Doug Hoyer
+00,Ethan Pigeon
+00,Evan Medrow
+00,Nathaniel Hodges
+00,Nicholas  Lutz
+00,Spencer Whitcomb
+02,Sean Brown
+05,Micah Delattre
+06,Benjamin Zhu
+09,Kyle Incollingo
+10,Kelvin Lei
+11,Jeremy Long
+15,Brandon Shunk
+17,Alexander (Zander) Lutz
+20,Roberto Lombana
+21,Evan Lutz
+22,Ben Tokarz
+27,Logan Piercy
+30,Parker Steele
+51,Ethan Landis
+54,Alex Mullen
+55,Benji Feidler
+69,John Williams
+75,Luke Gochis
+b,r,e,a,k
 Temple,4
 teamInfo,Alert,"Philadelphia, Pennsylvania",,,https://twitter.com/templeultimatem
 00,Cole Dirnbeck
@@ -93,34 +121,6 @@ teamInfo,Leadbelly,"Columbus, Ohio",,https://www.facebook.com/LeadbellyUltimate,
 78,Aidan Stevens
 93,Peter Zhang
 99,Alex Warrington
-b,r,e,a,k
-Penn State,2
-teamInfo,Spank,"University Park, Pennsylvania",http://clubs.psu.edu/up/ultimate/,,https://twitter.com/spank_ultimate
-coaches,Morrison Smith
-00,Doug Hoyer
-00,Ethan Pigeon
-00,Evan Medrow
-00,Nathaniel Hodges
-00,Nicholas  Lutz
-00,Spencer Whitcomb
-02,Sean Brown
-05,Micah Delattre
-06,Benjamin Zhu
-09,Kyle Incollingo
-10,Kelvin Lei
-11,Jeremy Long
-15,Brandon Shunk
-17,Alexander (Zander) Lutz
-20,Roberto Lombana
-21,Evan Lutz
-22,Ben Tokarz
-27,Logan Piercy
-30,Parker Steele
-51,Ethan Landis
-54,Alex Mullen
-55,Benji Feidler
-69,John Williams
-75,Luke Gochis
 b,r,e,a,k
 Lehigh,8
 teamInfo,Lehigh,"Bethlehem, Pennsylvania",,,https://twitter.com/lehighultimate
@@ -511,7 +511,8 @@ b,r,e,a,k
 s,t,a,g,e,s
 brackets,Bracket Play
 bracket,1st Place Bracket
-Pittsburgh,Temple,0,0,"05/04/2024, 15:00",1st Semifinal,Scheduled
+Pittsburgh,Penn State,0,0,"05/05/2024, 11:00",1st place,Scheduled
+Pittsburgh,Temple,15,9,"05/04/2024, 15:00",1st Semifinal,Final
 Ohio State,Penn State,11,15,"05/04/2024, 15:00",1st Semifinal,Final
 Pittsburgh,Lehigh,15,10,"05/04/2024, 11:00",1st Quarterfinal,Final
 Cincinnati,Temple,11,12,"05/04/2024, 11:00",1st Quarterfinal,Final
@@ -526,8 +527,10 @@ Pittsburgh (B),Case Western Reserve,15,14,"05/04/2024, 09:00",Round 1,Final
 Carnegie Mellon,Pennsylvania,11,15,"05/04/2024, 09:00",Round 1,Final
 Ohio,Penn State,1,15,"05/04/2024, 09:00",Round 1,Final
 bracket,2nd Place Bracket
-Pennsylvania,Pittsburgh (B),0,0,"05/04/2024, 15:00",2nd Place Prequarterfinal,Scheduled
-Case Western Reserve,Carnegie Mellon,0,0,"05/04/2024, 15:00",2nd Place Prequarterfinal,Scheduled
+Pennsylvania,Temple,0,0,"05/05/2024, 09:00",2nd Quarterfinal,Scheduled
+Case Western Reserve,Ohio State,0,0,"05/05/2024, 09:00",2nd Quarterfinal,Scheduled
+Pennsylvania,Pittsburgh (B),15,10,"05/04/2024, 15:00",2nd Place Prequarterfinal,Final
+Case Western Reserve,Carnegie Mellon,14,12,"05/04/2024, 15:00",2nd Place Prequarterfinal,Final
 Pennsylvania,Penn State (B),15,3,"05/04/2024, 13:00",2nd Place Bracket Round 2,Final
 Pittsburgh (B),Miami (Ohio),14,11,"05/04/2024, 13:00",2nd Place Bracket Round 2,Final
 Cincinnati,Case Western Reserve,9,15,"05/04/2024, 13:00",2nd Place Bracket Round 2,Final
@@ -538,6 +541,7 @@ West Virginia,Case Western Reserve,4,15,"05/04/2024, 11:00",Start of 2nd Place B
 Carnegie Mellon,Ohio,15,7,"05/04/2024, 11:00",Start of 2nd Place Bracket,Final
 bracket,5th Place
 bracket,7th Place
+Pittsburgh (B),Carnegie Mellon,0,0,"05/05/2024, 11:00",7th Place,Scheduled
 bracket,9th Place Bracket
 Penn State (B),Miami (Ohio),0,0,"05/05/2024, 09:00",9th Semifinal,Scheduled
 Cincinnati,Lehigh,0,0,"05/05/2024, 09:00",9th Semifinal,Scheduled
