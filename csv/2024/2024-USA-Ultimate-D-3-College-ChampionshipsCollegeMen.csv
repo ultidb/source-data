@@ -156,6 +156,34 @@ coaches,Matthew Graves,Keys Pattie
 44,Gabriel Graceffo
 55,Nathan Winiarski
 b,r,e,a,k
+Rochester,14
+teamInfo,Piggies,"Rochester, New York",,https://www.facebook.com/RochesterUltimate,https://twitter.com/piggiesultimate
+01,Benjamin Goldstein
+02,Dylan McKellips
+03,Avi Skolnick
+04,Ian Hill
+06,Raffael Venterea
+07,Sumedh Anantha Krishna 
+08,Mitch Whisner
+10,Noah Paradise
+15,Teddy Schwartz
+20,Cameron Lowe
+22,Joel Escobar
+23,Ruben Mendoza
+26,David Leder
+27,Emerson Jenen
+29,Jacob Trokel
+32,Timothy Loftus
+33,Miles Frank
+38,Benjamin Perry
+40,John Mogyordy
+42,Isaac Degenholtz
+47,Sopheakdey  Bov
+49,Adam Cummings
+50,Jack Ringel
+81,Ezra Tock
+88,Abraham Lovich
+b,r,e,a,k
 Berry,11
 teamInfo,Bucks,"Berry, Georgia",,,https://twitter.com/berry_bucks
 coaches,Walter Ellard
@@ -185,34 +213,6 @@ coaches,Walter Ellard
 42,Ian VanOrder
 51,Ryan Perry
 70,Adriel Portillo
-b,r,e,a,k
-Rochester,14
-teamInfo,Piggies,"Rochester, New York",,https://www.facebook.com/RochesterUltimate,https://twitter.com/piggiesultimate
-01,Benjamin Goldstein
-02,Dylan McKellips
-03,Avi Skolnick
-04,Ian Hill
-06,Raffael Venterea
-07,Sumedh Anantha Krishna 
-08,Mitch Whisner
-10,Noah Paradise
-15,Teddy Schwartz
-20,Cameron Lowe
-22,Joel Escobar
-23,Ruben Mendoza
-26,David Leder
-27,Emerson Jenen
-29,Jacob Trokel
-32,Timothy Loftus
-33,Miles Frank
-38,Benjamin Perry
-40,John Mogyordy
-42,Isaac Degenholtz
-47,Sopheakdey  Bov
-49,Adam Cummings
-50,Jack Ringel
-81,Ezra Tock
-88,Abraham Lovich
 b,r,e,a,k
 St Olaf,3
 teamInfo,Berzerkers,"Northfield, Minnesota",https://zerksultimate.weebly.com/,https://www.facebook.com/stozerks/,https://twitter.com/zerksultimate?lang=en
@@ -445,15 +445,15 @@ Oklahoma Christian,Berry,13,10,"05/18/2024, 08:30",Pool B,Final
 Richmond,Rochester,14,10,"05/18/2024, 08:30",Pool B,Final
 Oklahoma Christian,Rochester,15,9,"05/18/2024, 10:45",Pool B,Final
 Richmond,Berry,15,14,"05/18/2024, 10:45",Pool B,Final
-Oklahoma Christian,Richmond,14,9,"05/18/2024, 15:15",Pool B,Scheduled
-Berry,Rochester,12,15,"05/18/2024, 15:15",Pool B,Scheduled
+Oklahoma Christian,Richmond,14,9,"05/18/2024, 15:15",Pool B,Final
+Berry,Rochester,12,15,"05/18/2024, 15:15",Pool B,Final
 pool,Pool C
 St Olaf,Bates,15,14,"05/18/2024, 08:30",Pool C,Final
 Franciscan,Missouri S&T,15,7,"05/18/2024, 08:30",Pool C,Final
 St Olaf,Missouri S&T,15,7,"05/18/2024, 10:45",Pool C,Final
 Franciscan,Bates,14,12,"05/18/2024, 10:45",Pool C,Final
 St Olaf,Franciscan,15,10,"05/18/2024, 15:15",Pool C,Final
-Bates,Missouri S&T,13,11,"05/18/2024, 15:15",Pool C,Scheduled
+Bates,Missouri S&T,13,11,"05/18/2024, 15:15",Pool C,Final
 pool,Pool D
 Whitman,Carleton College-CHOP,14,12,"05/18/2024, 08:30",Pool D,Final
 Williams,Claremont,13,6,"05/18/2024, 08:30",Pool D,Final
@@ -464,6 +464,8 @@ Carleton College-CHOP,Claremont,15,7,"05/18/2024, 13:00",Pool D,Final
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,1st Place
+Richmond,Bates,0,0,"05/19/2024, 08:30",Prequarterfinal,Scheduled
+Franciscan,Rochester,0,0,"05/19/2024, 08:30",Prequarterfinal,Scheduled
 Whitman,Lewis & Clark,0,0,"05/19/2024, 08:30",Prequarterfinal,Scheduled
 Davenport,Carleton College-CHOP,0,0,"05/19/2024, 08:30",Prequarterfinal,Scheduled
 bracket,5th Place
@@ -475,5 +477,10 @@ bracket,11th Place
 b,r,e,a,k
 pools,13th Place Round Robin
 pool,Pool E
+Oberlin,Missouri S&T,0,0,"05/19/2024, 08:30",Pool E,Scheduled
+Berry,Claremont,0,0,"05/19/2024, 08:30",Pool E,Scheduled
 Oberlin,Claremont,0,0,"05/19/2024, 10:45",Pool E,Scheduled
+Berry,Missouri S&T,0,0,"05/19/2024, 10:45",Pool E,Scheduled
+Oberlin,Berry,0,0,"05/20/2024, 08:30",Pool E,Scheduled
+Missouri S&T,Claremont,0,0,"05/20/2024, 08:30",Pool E,Scheduled
 b,r,e,a,k

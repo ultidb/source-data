@@ -280,6 +280,29 @@ coaches,Shayna Brock,Rachael Maxwell,Monica Weindling
 61,Cassidy Recker
 67,Sarah  Malone
 b,r,e,a,k
+St Olaf,4
+teamInfo,Vortex,"Northfield, Minnesota",http://vortexultimate.weebly.com/,https://www.facebook.com/VortexWomensUltimate/,https://twitter.com/STOWomensUlti
+coaches,Elise Gallup,Sylvie Mercil
+04,Hannah Omodt
+06,Erica Collin
+07,Olive Loewer
+09,Savina Dock
+10,Grace Milhaupt
+11,Leina Goto
+14,Ellie McDonald
+15,Carly Smithmier
+16,Emily Mulhern
+17,Juliana Eno
+18,Kaisa Olson
+19,Julia Mockert
+22,Sarah Lester
+23,Maggie Walsh
+27,Alexia Swiglo
+28,Jada Himmelberg
+32,Emma Jansen
+37,Char Batchelor
+87,Rachel Katzovitz
+b,r,e,a,k
 Haverford-Bryn Mawr,5
 teamInfo,Sneetches,"Haverford, Pennsylvania",sneetchultimate.wixsite.com/sneetches,facebook.com/sneetchultimate/,twitter.com/sneetchultimate
 coaches,Jason Oswald,Nikki Ross,Linda Morse
@@ -307,29 +330,6 @@ coaches,Jason Oswald,Nikki Ross,Linda Morse
 42,Anna Roth
 45,Zoe Costanza
 47,Anna Bingham
-b,r,e,a,k
-St Olaf,4
-teamInfo,Vortex,"Northfield, Minnesota",http://vortexultimate.weebly.com/,https://www.facebook.com/VortexWomensUltimate/,https://twitter.com/STOWomensUlti
-coaches,Elise Gallup,Sylvie Mercil
-04,Hannah Omodt
-06,Erica Collin
-07,Olive Loewer
-09,Savina Dock
-10,Grace Milhaupt
-11,Leina Goto
-14,Ellie McDonald
-15,Carly Smithmier
-16,Emily Mulhern
-17,Juliana Eno
-18,Kaisa Olson
-19,Julia Mockert
-22,Sarah Lester
-23,Maggie Walsh
-27,Alexia Swiglo
-28,Jada Himmelberg
-32,Emma Jansen
-37,Char Batchelor
-87,Rachel Katzovitz
 b,r,e,a,k
 Wellesley,9
 teamInfo,Whiptails,"Wellesley, Massachusetts",https://sites.google.com/wellesley.edu/wellesleywhiptails/home,,https://twitter.com/thewholedamnbus
@@ -388,7 +388,7 @@ Wesleyan,Grinnell,15,5,"05/18/2024, 10:45",Pool A,Final
 Portland,Grinnell,15,3,"05/18/2024, 13:00",Pool A,Final
 Wesleyan,Mount Holyoke,13,11,"05/18/2024, 13:00",Pool A,Final
 Portland,Wesleyan,15,6,"05/18/2024, 15:15",Pool A,Final
-Mount Holyoke,Grinnell,10,6,"05/18/2024, 15:15",Pool A,Scheduled
+Mount Holyoke,Grinnell,10,6,"05/18/2024, 15:15",Pool A,Final
 pool,Pool B
 Union (Tennessee),Lewis & Clark,15,13,"05/18/2024, 08:30",Pool B,Final
 Carleton College-Eclipse,Richmond,15,3,"05/18/2024, 08:30",Pool B,Final
@@ -402,17 +402,21 @@ Colorado College,Davenport,11,12,"05/18/2024, 08:30",Pool C,Final
 Macalester,Davenport,8,6,"05/18/2024, 13:00",Pool C,Final
 Colorado College,Middlebury,10,13,"05/18/2024, 13:00",Pool C,Final
 Macalester,Colorado College,12,10,"05/18/2024, 15:15",Pool C,Final
-Middlebury,Davenport,13,11,"05/18/2024, 15:15",Pool C,Scheduled
+Middlebury,Davenport,13,11,"05/18/2024, 15:15",Pool C,Final
 pool,Pool D
 St Olaf,Wellesley,15,9,"05/18/2024, 10:45",Pool D,Final
 Haverford-Bryn Mawr,Occidental,15,4,"05/18/2024, 10:45",Pool D,Final
 St Olaf,Occidental,15,4,"05/18/2024, 13:00",Pool D,Final
 Haverford-Bryn Mawr,Wellesley,15,7,"05/18/2024, 13:00",Pool D,Final
-St Olaf,Haverford-Bryn Mawr,14,6,"05/18/2024, 15:15",Pool D,Scheduled
-Wellesley,Occidental,10,6,"05/18/2024, 15:15",Pool D,Scheduled
+St Olaf,Haverford-Bryn Mawr,14,6,"05/18/2024, 15:15",Pool D,Final
+Wellesley,Occidental,11,6,"05/18/2024, 15:15",Pool D,Final
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,1st Place
+Union (Tennessee),Davenport,0,0,"05/19/2024, 08:30",Prequarterfinal,Scheduled
+Macalester,Lewis & Clark,0,0,"05/19/2024, 08:30",Prequarterfinal,Scheduled
+Haverford-Bryn Mawr,Mount Holyoke,0,0,"05/19/2024, 08:30",Prequarterfinal,Scheduled
+Wesleyan,Wellesley,0,0,"05/19/2024, 08:30",Prequarterfinal,Scheduled
 bracket,5th Place
 bracket,5th Place
 b,r,e,a,k
@@ -422,4 +426,10 @@ bracket,11th Place
 b,r,e,a,k
 pools,13th Place Round Robin
 pool,Pool E
+Grinnell,Colorado College,0,0,"05/19/2024, 08:30",Pool E,Scheduled
+Richmond,Occidental,0,0,"05/19/2024, 08:30",Pool E,Scheduled
+Grinnell,Occidental,0,0,"05/19/2024, 10:45",Pool E,Scheduled
+Richmond,Colorado College,0,0,"05/19/2024, 10:45",Pool E,Scheduled
+Grinnell,Richmond,0,0,"05/20/2024, 08:30",Pool E,Scheduled
+Colorado College,Occidental,0,0,"05/20/2024, 08:30",Pool E,Scheduled
 b,r,e,a,k
