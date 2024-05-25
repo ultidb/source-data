@@ -69,32 +69,6 @@ coaches,Matt Gouchoe-Hanas,Daniel Zhu
 95,Noah Bush
 99,Keller Fraley
 b,r,e,a,k
-Oregon State,17
-teamInfo,Beavers,"Corvallis, Oregon",http://osumensultimate.wix.com/oregon-state-ultimate,https://www.facebook.com/osubeaversultimatedisc,https://twitter.com/OSU_ultimate
-coaches,Vinh Bui,Andrew Buermeyer
-01,Gus Serff-Roberts
-02,Sayric Arias
-03,Seiji Koenigsberg
-04,Ben Thoennes
-05,Quinn O'Connor
-07,Felix Moren
-08,Leo Wolf
-09,Galen Moll
-11,Jack Weinberg
-12,Sam Jordan
-13,Callahan Bosworth
-18,Alesh Fremouw
-21,Ben Lodahl
-22,Ben Brochard
-23,Antonio Rueda
-26,Forrest Vargyas
-27,Elliot Trimbur
-31,Henry Wayte
-47,Challis Holloway
-82,Lucas Henry
-97,Leo Renzema
-98,Matt Rix
-b,r,e,a,k
 Brown,8
 teamInfo,Brownian Motion,"Providence, Rhode Island",http://www.brown.edu/Athletics/Mens_Ultimate/,https://www.facebook.com/brownultimatefrisbee,https://twitter.com/BMoUltimate
 coaches,James Smart,Jonathan Stout,Nate Taylor
@@ -123,6 +97,32 @@ coaches,James Smart,Jonathan Stout,Nate Taylor
 78,Noah Urrutia
 95,Siddharth Yende
 99,Henry Egan
+b,r,e,a,k
+Oregon State,17
+teamInfo,Beavers,"Corvallis, Oregon",http://osumensultimate.wix.com/oregon-state-ultimate,https://www.facebook.com/osubeaversultimatedisc,https://twitter.com/OSU_ultimate
+coaches,Vinh Bui,Andrew Buermeyer
+01,Gus Serff-Roberts
+02,Sayric Arias
+03,Seiji Koenigsberg
+04,Ben Thoennes
+05,Quinn O'Connor
+07,Felix Moren
+08,Leo Wolf
+09,Galen Moll
+11,Jack Weinberg
+12,Sam Jordan
+13,Callahan Bosworth
+18,Alesh Fremouw
+21,Ben Lodahl
+22,Ben Brochard
+23,Antonio Rueda
+26,Forrest Vargyas
+27,Elliot Trimbur
+31,Henry Wayte
+47,Challis Holloway
+82,Lucas Henry
+97,Leo Renzema
+98,Matt Rix
 b,r,e,a,k
 Alabama-Huntsville,13
 teamInfo,Nightmares,"Huntsville, Alabama",,https://www.facebook.com/UAHultimatefrisbee/?fref=ts,https://twitter.com/uahultimate
@@ -608,7 +608,7 @@ pool,Pool A
 Texas,Alabama-Huntsville,15,10,"05/24/2024, 13:19",Pool A,Final
 North Carolina,Brown,15,11,"05/24/2024, 13:19",Pool A,Final
 Brown,Alabama-Huntsville,12,9,"05/25/2024, 08:00",Pool A,In Progress
-Texas,Oregon State,13,10,"05/25/2024, 08:00",Pool A,In Progress
+Texas,Oregon State,15,11,"05/25/2024, 08:00",Pool A,Final
 North Carolina,Oregon State,0,0,"05/25/2024, 10:15",Pool A,Scheduled
 Brown,Texas,0,0,"05/25/2024, 13:00",Pool A,Scheduled
 North Carolina,Alabama-Huntsville,0,0,"05/25/2024, 13:00",Pool A,Scheduled
@@ -618,7 +618,7 @@ Brown,Oregon State,0,0,"05/25/2024, 17:30",Pool A,Scheduled
 pool,Pool B
 Georgia,Washington University,15,8,"05/24/2024, 08:00",Pool B,Final
 Oregon,North Carolina State,15,10,"05/24/2024, 08:00",Pool B,Final
-Carleton College,North Carolina State,10,13,"05/25/2024, 08:00",Pool B,Scheduled
+Carleton College,North Carolina State,12,14,"05/25/2024, 08:00",Pool B,Scheduled
 Georgia,Oregon,0,0,"05/25/2024, 10:15",Pool B,Scheduled
 Carleton College,Washington University,0,0,"05/25/2024, 10:15",Pool B,Scheduled
 North Carolina State,Washington University,0,0,"05/25/2024, 13:00",Pool B,Scheduled
@@ -629,8 +629,8 @@ Georgia,Carleton College,0,0,"05/25/2024, 17:30",Pool B,Scheduled
 pool,Pool C
 Pittsburgh,California,15,6,"05/24/2024, 13:19",Pool C,Final
 Minnesota,Ottawa,15,9,"05/24/2024, 13:19",Pool C,Final
-Minnesota,California,12,11,"05/25/2024, 08:00",Pool C,In Progress
-Massachusetts,Pittsburgh,13,12,"05/25/2024, 08:00",Pool C,Scheduled
+Minnesota,California,13,12,"05/25/2024, 08:00",Pool C,In Progress
+Massachusetts,Pittsburgh,14,13,"05/25/2024, 08:00",Pool C,Scheduled
 Massachusetts,Ottawa,0,0,"05/25/2024, 10:15",Pool C,Scheduled
 Pittsburgh,Minnesota,0,0,"05/25/2024, 10:15",Pool C,Scheduled
 Massachusetts,California,0,0,"05/25/2024, 13:00",Pool C,Scheduled
@@ -641,7 +641,7 @@ pool,Pool D
 Cal Poly-SLO,Penn State,15,9,"05/24/2024, 08:00",Pool D,Final
 Vermont,Michigan,13,15,"05/24/2024, 08:00",Pool D,Final
 Colorado,Michigan,15,7,"05/25/2024, 08:00",Pool D,Final
-Vermont,Penn State,10,10,"05/25/2024, 08:00",Pool D,In Progress
+Vermont,Penn State,11,11,"05/25/2024, 08:00",Pool D,In Progress
 Colorado,Cal Poly-SLO,0,0,"05/25/2024, 10:15",Pool D,Scheduled
 Cal Poly-SLO,Vermont,0,0,"05/25/2024, 13:00",Pool D,Scheduled
 Colorado,Penn State,0,0,"05/25/2024, 13:00",Pool D,Scheduled
