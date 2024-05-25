@@ -131,6 +131,31 @@ coaches,Hannah Hinchsliff,Jack “Moneyball” Hinchsliff,Emily Stege
 51,Grace Brown
 55,Char Bokhof
 b,r,e,a,k
+Colorado,7
+teamInfo,Quandary,"Boulder, Colorado",,https://www.facebook.com/ColoradoWomensUltimate,https://twitter.com/quandaryult
+coaches,Claire Chastain,Cassandra Swafford,Veronica Eder
+00,Leyla Williams
+03,Simone Pierotti
+05,Abbie Gillach
+07,Alison Brzostowicz
+08,Clil Phillips
+09,Nicole Sheerin-Weissenberg
+11,Nori Catalano
+12,Taylor Smith
+13,Faye Burdick
+18,Sierra Petrash
+21,Lena Nyblade
+25,Piper Enderlein
+26,Grace Mattox
+27,Sarah Laughlin
+38,Campbell O'Neal
+42,Teresa Cranston
+44,Stacy Gaskill
+48,Jamilah Toure
+58,Liana Bradley
+59,Rose Bransford
+77,Emma Williamson
+b,r,e,a,k
 Vermont,2
 teamInfo,Ruckus,"Burlington , Vermont",,https://www.facebook.com/UVMRuckus/,https://twitter.com/ruckusultimate
 coaches,Daron Byerly,Sara Jacobi,Elizabeth Leon
@@ -156,31 +181,6 @@ coaches,Daron Byerly,Sara Jacobi,Elizabeth Leon
 37,Lauren Clayter
 38,Rita Narbonne
 44,Emily Pozzy
-b,r,e,a,k
-Colorado,7
-teamInfo,Quandary,"Boulder, Colorado",,https://www.facebook.com/ColoradoWomensUltimate,https://twitter.com/quandaryult
-coaches,Claire Chastain,Cassandra Swafford,Veronica Eder
-00,Leyla Williams
-03,Simone Pierotti
-05,Abbie Gillach
-07,Alison Brzostowicz
-08,Clil Phillips
-09,Nicole Sheerin-Weissenberg
-11,Nori Catalano
-12,Taylor Smith
-13,Faye Burdick
-18,Sierra Petrash
-21,Lena Nyblade
-25,Piper Enderlein
-26,Grace Mattox
-27,Sarah Laughlin
-38,Campbell O'Neal
-42,Teresa Cranston
-44,Stacy Gaskill
-48,Jamilah Toure
-58,Liana Bradley
-59,Rose Bransford
-77,Emma Williamson
 b,r,e,a,k
 Michigan,11
 teamInfo,Flywheel,"Ann Arbor, Michigan",http://www.flywheelultimate.com,,https://www.twitter.com/UMichFlywheel
@@ -543,8 +543,8 @@ Victoria,Colorado State,14,12,"05/25/2024, 08:00",Pool A,Final
 British Columbia,Colorado State,15,9,"05/25/2024, 10:15",Pool A,Final
 Tufts,Victoria,15,8,"05/25/2024, 13:00",Pool A,Final
 British Columbia,California-San Diego,15,9,"05/25/2024, 13:00",Pool A,Final
-British Columbia,Victoria,8,2,"05/25/2024, 15:15",Pool A,Scheduled
-California-San Diego,Colorado State,9,8,"05/25/2024, 15:15",Pool A,In Progress
+British Columbia,Victoria,10,3,"05/25/2024, 15:15",Pool A,Scheduled
+California-San Diego,Colorado State,10,9,"05/25/2024, 15:15",Pool A,In Progress
 Tufts,Colorado State,0,0,"05/25/2024, 17:30",Pool A,Scheduled
 pool,Pool B
 Vermont,Georgia,15,6,"05/24/2024, 08:00",Pool B,Final
@@ -554,8 +554,8 @@ Vermont,Colorado,15,8,"05/25/2024, 10:15",Pool B,Final
 Michigan,Georgia,15,14,"05/25/2024, 10:15",Pool B,Final
 Western Washington,Georgia,15,13,"05/25/2024, 13:00",Pool B,Final
 Colorado,Michigan,15,2,"05/25/2024, 13:00",Pool B,Final
-Vermont,Western Washington,12,4,"05/25/2024, 15:15",Pool B,In Progress
-Colorado,Georgia,14,3,"05/25/2024, 15:15",Pool B,Scheduled
+Vermont,Western Washington,15,4,"05/25/2024, 15:15",Pool B,In Progress
+Colorado,Georgia,15,3,"05/25/2024, 15:15",Pool B,Final
 Vermont,Michigan,0,0,"05/25/2024, 17:30",Pool B,Scheduled
 pool,Pool C
 Stanford,Pennsylvania,15,7,"05/24/2024, 13:19",Pool C,Final
@@ -565,7 +565,7 @@ Carleton College,Stanford,13,14,"05/25/2024, 08:00",Pool C,Final
 Carleton College,Utah,15,6,"05/25/2024, 10:15",Pool C,Final
 Stanford,Washington,15,10,"05/25/2024, 10:15",Pool C,Final
 Carleton College,Pennsylvania,15,7,"05/25/2024, 13:00",Pool C,Final
-Stanford,Utah,11,4,"05/25/2024, 15:15",Pool C,Scheduled
+Stanford,Utah,11,6,"05/25/2024, 15:15",Pool C,Scheduled
 Carleton College,Washington,0,0,"05/25/2024, 17:30",Pool C,Scheduled
 Pennsylvania,Utah,0,0,"05/25/2024, 17:30",Pool C,Scheduled
 pool,Pool D
@@ -576,7 +576,7 @@ California-Santa Barbara,California-Santa Cruz,15,9,"05/25/2024, 08:00",Pool D,F
 North Carolina,Oregon,15,13,"05/25/2024, 10:15",Pool D,Final
 Oregon,California-Santa Barbara,11,15,"05/25/2024, 13:00",Pool D,Final
 North Carolina,California-Santa Cruz,15,6,"05/25/2024, 13:00",Pool D,Final
-California-Santa Cruz,SUNY-Binghamton,7,7,"05/25/2024, 15:15",Pool D,Scheduled
+California-Santa Cruz,SUNY-Binghamton,7,8,"05/25/2024, 15:15",Pool D,Scheduled
 North Carolina,California-Santa Barbara,0,0,"05/25/2024, 17:30",Pool D,Scheduled
 Oregon,SUNY-Binghamton,0,0,"05/25/2024, 17:30",Pool D,Scheduled
 b,r,e,a,k
