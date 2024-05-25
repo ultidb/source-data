@@ -341,38 +341,6 @@ coaches,Rustin Ingold-Smith,Dylan Tunnell
 95,Luca  Harwood
 99,Tobias Paperno
 b,r,e,a,k
-Minnesota,10
-teamInfo,Grey Duck,"Minneapolis, Minnesota",http://mngreyduck.com/,https://www.facebook.com/MNGreyDuck,https://twitter.com/1Duck1Love
-coaches,Kevin Bruns,Trevor Graham,Blake Trantina
-0,Austin Gin
-01,Maximilian Dewberry
-02,Kenji Her
-03,Owen Cloutier
-04,Akos Konkoly
-05,Gabriel Jagt
-06,Alex Tsvetkov
-07,Wyatt Crow
-09,Sebastian Brauer
-10,Anthony Jirele
-11,Ian Mccosky
-13,Jedidiah Pratt
-16,Peter Helgeson
-17,Paul Liang
-19,Austin King
-21,Owen Schigiel
-22,Owen Gin
-23,Paul Krenik
-27,Theo Mahaffey
-28,Caleb Griffiths
-29,Ivan Kase
-33,Jacob Markus
-34,Levi Dohman
-39,Max  Dehlin
-44,Ethan Ode
-77,Jack Walters-Medaris
-86,John Helgeson
-88,Evan Ellis
-b,r,e,a,k
 Pittsburgh,6
 teamInfo,En Sabah Nur,"Pittsburgh, Pennsylvania",pittultimate.org,,@PittUltimateM
 coaches,Nick Kaczmarek,Christie Lawry,Ben Morgenstern,Michael Sodini,Hensley Sejour
@@ -405,26 +373,6 @@ coaches,Nick Kaczmarek,Christie Lawry,Ben Morgenstern,Michael Sodini,Hensley Sej
 88,Micah Davis
 89,Lucius Christie
 b,r,e,a,k
-Ottawa,19
-teamInfo,Gee-Gees,"Ottawa, Ontario CA",,https://www.facebook.com/GeeGeeMensFrisbee,
-coaches,Luke Phelan,Habib Atallah
-03,Martin Gallant
-04,Ennio Ciambella
-07,Cameron Knox
-09,Logan Keillor
-10,Samuel Tremblay-Larochelle
-11,Mark Chow
-13,Theo Gobeil
-15,Mathis Turgeon-Roy
-16,Noah Berube
-17,Nicholas Gohar
-33,Kaeden Ireland
-37,Philip Acimovic
-73,Jaden Fielding
-83,Maxime Ayad
-92,Terron Ross
-99,Renaud St-Onge
-b,r,e,a,k
 California,15
 teamInfo,Ursa Major,"Berkeley, California",https://www.youtube.com/@calmensultimate6634,https://www.facebook.com/CalMensUltimate/,https://twitter.com/calmensultimate
 coaches,Evan Magsig,Daniel Silverstein
@@ -451,6 +399,58 @@ coaches,Evan Magsig,Daniel Silverstein
 84,Edward Morris
 87,Aditya  Vunnum
 97,Eric Johnson
+b,r,e,a,k
+Minnesota,10
+teamInfo,Grey Duck,"Minneapolis, Minnesota",http://mngreyduck.com/,https://www.facebook.com/MNGreyDuck,https://twitter.com/1Duck1Love
+coaches,Kevin Bruns,Trevor Graham,Blake Trantina
+0,Austin Gin
+01,Maximilian Dewberry
+02,Kenji Her
+03,Owen Cloutier
+04,Akos Konkoly
+05,Gabriel Jagt
+06,Alex Tsvetkov
+07,Wyatt Crow
+09,Sebastian Brauer
+10,Anthony Jirele
+11,Ian Mccosky
+13,Jedidiah Pratt
+16,Peter Helgeson
+17,Paul Liang
+19,Austin King
+21,Owen Schigiel
+22,Owen Gin
+23,Paul Krenik
+27,Theo Mahaffey
+28,Caleb Griffiths
+29,Ivan Kase
+33,Jacob Markus
+34,Levi Dohman
+39,Max  Dehlin
+44,Ethan Ode
+77,Jack Walters-Medaris
+86,John Helgeson
+88,Evan Ellis
+b,r,e,a,k
+Ottawa,19
+teamInfo,Gee-Gees,"Ottawa, Ontario CA",,https://www.facebook.com/GeeGeeMensFrisbee,
+coaches,Luke Phelan,Habib Atallah
+03,Martin Gallant
+04,Ennio Ciambella
+07,Cameron Knox
+09,Logan Keillor
+10,Samuel Tremblay-Larochelle
+11,Mark Chow
+13,Theo Gobeil
+15,Mathis Turgeon-Roy
+16,Noah Berube
+17,Nicholas Gohar
+33,Kaeden Ireland
+37,Philip Acimovic
+73,Jaden Fielding
+83,Maxime Ayad
+92,Terron Ross
+99,Renaud St-Onge
 b,r,e,a,k
 Colorado,4
 teamInfo,Mamabird,"Boulder, Colorado",http://www.mamabird.com/,https://www.facebook.com/University-of-Colorado-Mamabird-361160030582581,https://twitter.com/CUMamabird
@@ -607,7 +607,7 @@ pools,Pool Play
 pool,Pool A
 Texas,Alabama-Huntsville,15,10,"05/24/2024, 13:19",Pool A,Final
 North Carolina,Brown,15,11,"05/24/2024, 13:19",Pool A,Final
-Brown,Alabama-Huntsville,13,10,"05/25/2024, 08:00",Pool A,In Progress
+Brown,Alabama-Huntsville,14,11,"05/25/2024, 08:00",Pool A,In Progress
 Texas,Oregon State,15,11,"05/25/2024, 08:00",Pool A,Final
 North Carolina,Oregon State,0,0,"05/25/2024, 10:15",Pool A,Scheduled
 Brown,Texas,0,0,"05/25/2024, 13:00",Pool A,Scheduled
@@ -629,7 +629,7 @@ Georgia,Carleton College,0,0,"05/25/2024, 17:30",Pool B,Scheduled
 pool,Pool C
 Pittsburgh,California,15,6,"05/24/2024, 13:19",Pool C,Final
 Minnesota,Ottawa,15,9,"05/24/2024, 13:19",Pool C,Final
-Minnesota,California,14,14,"05/25/2024, 08:00",Pool C,In Progress
+Minnesota,California,14,15,"05/25/2024, 08:00",Pool C,Final
 Massachusetts,Pittsburgh,15,14,"05/25/2024, 08:00",Pool C,Final
 Massachusetts,Ottawa,0,0,"05/25/2024, 10:15",Pool C,Scheduled
 Pittsburgh,Minnesota,0,0,"05/25/2024, 10:15",Pool C,Scheduled
@@ -641,7 +641,7 @@ pool,Pool D
 Cal Poly-SLO,Penn State,15,9,"05/24/2024, 08:00",Pool D,Final
 Vermont,Michigan,13,15,"05/24/2024, 08:00",Pool D,Final
 Colorado,Michigan,15,7,"05/25/2024, 08:00",Pool D,Final
-Vermont,Penn State,13,12,"05/25/2024, 08:00",Pool D,In Progress
+Vermont,Penn State,14,12,"05/25/2024, 08:00",Pool D,In Progress
 Colorado,Cal Poly-SLO,0,0,"05/25/2024, 10:15",Pool D,Scheduled
 Cal Poly-SLO,Vermont,0,0,"05/25/2024, 13:00",Pool D,Scheduled
 Colorado,Penn State,0,0,"05/25/2024, 13:00",Pool D,Scheduled
