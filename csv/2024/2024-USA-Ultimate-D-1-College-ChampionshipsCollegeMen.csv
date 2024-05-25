@@ -208,39 +208,6 @@ coaches,Braedon Petrus,Connor Matthews,Christopher Strub,Trevor Smith,Dylan Free
 77,Jackson Heglie
 81,Emmett Warner
 b,r,e,a,k
-Washington University,18
-teamInfo,Contra,"St. Louis, Missouri",contra.wustl.edu,,twitter.com/wucontra
-coaches,Blake Larson,Joshua Gabella,Benjamin Reimler
-01,Noah Stovitz
-02,Rohan Patel
-03,Cameron Freeman
-04,Charles Gluck
-05,Jacob Tindall
-06,Bennett Schwartz
-07,Sam Schwartz
-08,Joel Brown
-09,Nicholas Jeschke
-11,Michael Coyne
-12,Ethan  Zhang
-13,Wilson Tryon
-14,Ian Grochocinski
-15,Jake Hyman
-17,Isaac Trommer
-18,Noah Kaller
-20,Jackson Freeman
-21,Christopher Heron
-22,Evan Tompkins 
-23,David Bix
-24,Seth Fisher-Olvera
-25,Benjamin Deppen
-26,Raphael Epstein
-28,Elie Weitzman
-33,Nicolas Sprague
-36,Jakob Ayala
-44,Isaac Fenster
-81,Nate Ackerman
-96,Joe Hess
-b,r,e,a,k
 North Carolina State,14
 teamInfo,NC State Alpha,"Raleigh, North Carolina",,https://www.facebook.com/NCSUalpha/,https://twitter.com/ncsualpha
 coaches,Bailey Laberteaux,Michael Lee,Trevor Lynch,Alexander Lerner
@@ -274,6 +241,39 @@ coaches,Bailey Laberteaux,Michael Lee,Trevor Lynch,Alexander Lerner
 59,Sathvik Avulapati
 80,Will Scudder
 95,Jack Hartingh
+b,r,e,a,k
+Washington University,18
+teamInfo,Contra,"St. Louis, Missouri",contra.wustl.edu,,twitter.com/wucontra
+coaches,Blake Larson,Joshua Gabella,Benjamin Reimler
+01,Noah Stovitz
+02,Rohan Patel
+03,Cameron Freeman
+04,Charles Gluck
+05,Jacob Tindall
+06,Bennett Schwartz
+07,Sam Schwartz
+08,Joel Brown
+09,Nicholas Jeschke
+11,Michael Coyne
+12,Ethan  Zhang
+13,Wilson Tryon
+14,Ian Grochocinski
+15,Jake Hyman
+17,Isaac Trommer
+18,Noah Kaller
+20,Jackson Freeman
+21,Christopher Heron
+22,Evan Tompkins 
+23,David Bix
+24,Seth Fisher-Olvera
+25,Benjamin Deppen
+26,Raphael Epstein
+28,Elie Weitzman
+33,Nicolas Sprague
+36,Jakob Ayala
+44,Isaac Fenster
+81,Nate Ackerman
+96,Joe Hess
 b,r,e,a,k
 Carleton College,11
 teamInfo,CUT,"Northfield, Minnesota",https://www.carleton.edu/student/orgs/cut/,https://www.facebook.com/CUTrules,https://twitter.com/cutrules
@@ -610,8 +610,8 @@ North Carolina,Brown,15,11,"05/24/2024, 13:19",Pool A,Final
 Brown,Alabama-Huntsville,14,11,"05/25/2024, 08:00",Pool A,Final
 Texas,Oregon State,15,11,"05/25/2024, 08:00",Pool A,Final
 North Carolina,Oregon State,15,13,"05/25/2024, 10:15",Pool A,Final
-Brown,Texas,12,9,"05/25/2024, 13:00",Pool A,In Progress
-North Carolina,Alabama-Huntsville,11,7,"05/25/2024, 13:00",Pool A,Scheduled
+Brown,Texas,13,11,"05/25/2024, 13:00",Pool A,In Progress
+North Carolina,Alabama-Huntsville,13,9,"05/25/2024, 13:00",Pool A,Scheduled
 Alabama-Huntsville,Oregon State,0,0,"05/25/2024, 15:15",Pool A,Scheduled
 North Carolina,Texas,0,0,"05/25/2024, 15:15",Pool A,Scheduled
 Brown,Oregon State,0,0,"05/25/2024, 17:30",Pool A,Scheduled
@@ -621,8 +621,8 @@ Oregon,North Carolina State,15,10,"05/24/2024, 08:00",Pool B,Final
 Carleton College,North Carolina State,14,15,"05/25/2024, 08:00",Pool B,Final
 Georgia,Oregon,15,13,"05/25/2024, 10:15",Pool B,Final
 Carleton College,Washington University,12,15,"05/25/2024, 10:15",Pool B,Final
-North Carolina State,Washington University,10,8,"05/25/2024, 13:00",Pool B,In Progress
-Oregon,Carleton College,12,8,"05/25/2024, 13:00",Pool B,Scheduled
+North Carolina State,Washington University,11,9,"05/25/2024, 13:00",Pool B,In Progress
+Oregon,Carleton College,15,9,"05/25/2024, 13:00",Pool B,Final
 Georgia,North Carolina State,0,0,"05/25/2024, 15:15",Pool B,Scheduled
 Oregon,Washington University,0,0,"05/25/2024, 15:15",Pool B,Scheduled
 Georgia,Carleton College,0,0,"05/25/2024, 17:30",Pool B,Scheduled
@@ -633,7 +633,7 @@ Minnesota,California,14,15,"05/25/2024, 08:00",Pool C,Final
 Massachusetts,Pittsburgh,15,14,"05/25/2024, 08:00",Pool C,Final
 Massachusetts,Ottawa,15,9,"05/25/2024, 10:15",Pool C,Final
 Pittsburgh,Minnesota,13,14,"05/25/2024, 10:15",Pool C,Final
-Massachusetts,California,12,10,"05/25/2024, 13:00",Pool C,Scheduled
+Massachusetts,California,14,12,"05/25/2024, 13:00",Pool C,Scheduled
 Pittsburgh,Ottawa,0,0,"05/25/2024, 15:15",Pool C,Scheduled
 Massachusetts,Minnesota,0,0,"05/25/2024, 17:30",Pool C,Scheduled
 California,Ottawa,0,0,"05/25/2024, 17:30",Pool C,Scheduled
@@ -643,8 +643,8 @@ Vermont,Michigan,13,15,"05/24/2024, 08:00",Pool D,Final
 Colorado,Michigan,15,7,"05/25/2024, 08:00",Pool D,Final
 Vermont,Penn State,14,12,"05/25/2024, 08:00",Pool D,Final
 Colorado,Cal Poly-SLO,14,15,"05/25/2024, 10:15",Pool D,Final
-Cal Poly-SLO,Vermont,13,9,"05/25/2024, 13:00",Pool D,Scheduled
-Colorado,Penn State,11,8,"05/25/2024, 13:00",Pool D,Scheduled
+Cal Poly-SLO,Vermont,14,10,"05/25/2024, 13:00",Pool D,Scheduled
+Colorado,Penn State,12,9,"05/25/2024, 13:00",Pool D,Scheduled
 Penn State,Michigan,0,0,"05/25/2024, 15:15",Pool D,Scheduled
 Colorado,Vermont,0,0,"05/25/2024, 17:30",Pool D,Scheduled
 Cal Poly-SLO,Michigan,0,0,"05/25/2024, 17:30",Pool D,Scheduled
