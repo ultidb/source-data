@@ -151,6 +151,33 @@ coaches,Alejandro Guerrero,Horace Wilson
 69,Michael Poe
 99,Colby Bong
 b,r,e,a,k
+Georgia,2
+teamInfo,Jojah,"Athens, Georgia",https://jojahultimatefrisbee.wordpress.com/,https://www.facebook.com/JojahUltimate,https://twitter.com/JojahUltimate
+coaches,Sam Batson,Ishaan Dave
+00,Matthew Davidorf
+02,Adam Goldstein
+04,Ernesto Clarke
+05,Cole Krucke
+06,Aidan Downey
+07,Jack Stephenson
+08,Miguel McGuire
+11,Carter Neuman
+13,Jake Powell
+15,Gaby Elkhoury
+16,Kofi Reeves-Miller
+18,Adam Miller
+19,Jacob Croskey
+20,Scott Whitley
+21,Sam Rose
+23,Jack Krugler
+24,Jeremy Sanders
+30,Cole Chanler
+35,Drew Wentworth
+36,Zach Brennan
+61,Carter Rathur
+73,Gabe Borda
+88,Luke Cranor
+b,r,e,a,k
 Oregon,7
 teamInfo,Ego,"Eugene, Oregon",,https://www.facebook.com/OneBigEgo/,https://twitter.com/egotime
 coaches,Braedon Petrus,Connor Matthews,Christopher Strub,Trevor Smith,Dylan Freechild
@@ -180,33 +207,6 @@ coaches,Braedon Petrus,Connor Matthews,Christopher Strub,Trevor Smith,Dylan Free
 72,Aaron Kaplan
 77,Jackson Heglie
 81,Emmett Warner
-b,r,e,a,k
-Georgia,2
-teamInfo,Jojah,"Athens, Georgia",https://jojahultimatefrisbee.wordpress.com/,https://www.facebook.com/JojahUltimate,https://twitter.com/JojahUltimate
-coaches,Sam Batson,Ishaan Dave
-00,Matthew Davidorf
-02,Adam Goldstein
-04,Ernesto Clarke
-05,Cole Krucke
-06,Aidan Downey
-07,Jack Stephenson
-08,Miguel McGuire
-11,Carter Neuman
-13,Jake Powell
-15,Gaby Elkhoury
-16,Kofi Reeves-Miller
-18,Adam Miller
-19,Jacob Croskey
-20,Scott Whitley
-21,Sam Rose
-23,Jack Krugler
-24,Jeremy Sanders
-30,Cole Chanler
-35,Drew Wentworth
-36,Zach Brennan
-61,Carter Rathur
-73,Gabe Borda
-88,Luke Cranor
 b,r,e,a,k
 North Carolina State,14
 teamInfo,NC State Alpha,"Raleigh, North Carolina",,https://www.facebook.com/NCSUalpha/,https://twitter.com/ncsualpha
@@ -614,7 +614,7 @@ Brown,Texas,15,12,"05/25/2024, 13:00",Pool A,Final
 North Carolina,Alabama-Huntsville,15,11,"05/25/2024, 13:00",Pool A,Final
 Alabama-Huntsville,Oregon State,13,15,"05/25/2024, 15:15",Pool A,Final
 North Carolina,Texas,15,10,"05/25/2024, 15:15",Pool A,Final
-Brown,Oregon State,14,14,"05/25/2024, 17:30",Pool A,In Progress
+Brown,Oregon State,14,15,"05/25/2024, 17:30",Pool A,Final
 pool,Pool B
 Georgia,Washington University,15,8,"05/24/2024, 08:00",Pool B,Final
 Oregon,North Carolina State,15,10,"05/24/2024, 08:00",Pool B,Final
@@ -625,7 +625,7 @@ North Carolina State,Washington University,15,12,"05/25/2024, 13:00",Pool B,Fina
 Oregon,Carleton College,15,9,"05/25/2024, 13:00",Pool B,Final
 Georgia,North Carolina State,14,9,"05/25/2024, 15:15",Pool B,Final
 Oregon,Washington University,15,5,"05/25/2024, 15:15",Pool B,Final
-Georgia,Carleton College,15,10,"05/25/2024, 17:30",Pool B,In Progress
+Georgia,Carleton College,15,10,"05/25/2024, 17:30",Pool B,Final
 pool,Pool C
 Pittsburgh,California,15,6,"05/24/2024, 13:19",Pool C,Final
 Minnesota,Ottawa,15,9,"05/24/2024, 13:19",Pool C,Final
@@ -636,7 +636,7 @@ Pittsburgh,Minnesota,13,14,"05/25/2024, 10:15",Pool C,Final
 Massachusetts,California,15,12,"05/25/2024, 13:00",Pool C,Final
 Pittsburgh,Ottawa,15,10,"05/25/2024, 15:15",Pool C,Final
 Massachusetts,Minnesota,8,15,"05/25/2024, 17:30",Pool C,Final
-California,Ottawa,11,9,"05/25/2024, 17:30",Pool C,In Progress
+California,Ottawa,12,11,"05/25/2024, 17:30",Pool C,In Progress
 pool,Pool D
 Cal Poly-SLO,Penn State,15,9,"05/24/2024, 08:00",Pool D,Final
 Vermont,Michigan,13,15,"05/24/2024, 08:00",Pool D,Final
@@ -646,15 +646,19 @@ Colorado,Cal Poly-SLO,14,15,"05/25/2024, 10:15",Pool D,Final
 Cal Poly-SLO,Vermont,15,10,"05/25/2024, 13:00",Pool D,Final
 Colorado,Penn State,15,10,"05/25/2024, 13:00",Pool D,Final
 Penn State,Michigan,11,15,"05/25/2024, 15:15",Pool D,Final
-Colorado,Vermont,14,10,"05/25/2024, 17:30",Pool D,In Progress
-Cal Poly-SLO,Michigan,13,11,"05/25/2024, 17:30",Pool D,Scheduled
+Colorado,Vermont,15,10,"05/25/2024, 17:30",Pool D,Final
+Cal Poly-SLO,Michigan,15,12,"05/25/2024, 17:30",Pool D,Final
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,1st Place
+Colorado,Texas,0,0,"05/26/2024, 08:00",Prequarterfinal,Scheduled
+Brown,Michigan,0,0,"05/26/2024, 08:00",Prequarterfinal,Scheduled
 b,r,e,a,k
 brackets,Placement
 bracket,13th Place (tie)
+Oregon State,Vermont,0,0,"05/26/2024, 10:00",13T Final,Scheduled
 bracket,13th Place (tie)
 bracket,17th Place (tie)
+Alabama-Huntsville,Penn State,0,0,"05/26/2024, 08:00",17T Final,Scheduled
 bracket,17th Place (tie)
 b,r,e,a,k
