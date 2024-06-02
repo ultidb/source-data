@@ -798,38 +798,6 @@ teamInfo,,"Montreal, Quebec CA",,https://www.facebook.com/FlammesUlti,
 87,Marie-Pier Bisson-Cote
 90,Alexandre Cinq-Mars
 b,r,e,a,k
-Replay,29
-teamInfo,,"Boston, Massachusetts",,,
-0,Abigail Taylor
-0,Andrew Ho
-0,Antoine Mathieu
-0,Brian O'Neill
-0,Colbryn Waggoner
-0,Colby LaGrassa
-0,Jacob Frasu
-0,Joanna Williams
-0,Joe Brod
-0,Josh Gauyo
-0,Kyuhyun Kim
-0,Lars Kovamees
-0,Liz Kistler
-0,Lucas Brown
-0,Eleanor d'Arbeloff
-0,Sean Degrace
-0,Sofia Ricciardi
-0,Sydney Weiner
-0,Travis McGrath
-0,Zach Domanico
-4,Ethan Beattie
-5,Julieta Martinez
-6,Peter Borge
-12,Henry Loftus
-14,Colin Willoughby
-27,Samuel Rothkopf
-33,Rossi Wang
-81,Kayla Harrison
-88,Franklin Mejia
-b,r,e,a,k
 Beached Whales,28
 teamInfo,,"The Sea, Massachusetts",,,
 0,Adam Johnston
@@ -861,6 +829,38 @@ teamInfo,,"The Sea, Massachusetts",,,
 34,Joshua Dennis
 41,Lewis Seton
 46,Benjamin Scharadin
+b,r,e,a,k
+Replay,29
+teamInfo,,"Boston, Massachusetts",,,
+0,Abigail Taylor
+0,Andrew Ho
+0,Antoine Mathieu
+0,Brian O'Neill
+0,Colbryn Waggoner
+0,Colby LaGrassa
+0,Jacob Frasu
+0,Joanna Williams
+0,Joe Brod
+0,Josh Gauyo
+0,Kyuhyun Kim
+0,Lars Kovamees
+0,Liz Kistler
+0,Lucas Brown
+0,Eleanor d'Arbeloff
+0,Sean Degrace
+0,Sofia Ricciardi
+0,Sydney Weiner
+0,Travis McGrath
+0,Zach Domanico
+4,Ethan Beattie
+5,Julieta Martinez
+6,Peter Borge
+12,Henry Loftus
+14,Colin Willoughby
+27,Samuel Rothkopf
+33,Rossi Wang
+81,Kayla Harrison
+88,Franklin Mejia
 b,r,e,a,k
 s,t,a,g,e,s
 pools,Elite Pool Play
@@ -913,12 +913,12 @@ Axolotls,Quahogs,9,10,"06/01/2024, 10:30",Pool L,Final
 FLI,Axolotls,10,7,"06/01/2024, 12:00",Pool L,Final
 Quahogs,Compost Plates,13,8,"06/01/2024, 12:00",Pool L,Final
 pool,Pool M
-Bench,Beached Whales,12,11,"06/01/2024, 09:00",Pool M,Scheduled
-Flammes en rose,Replay,13,5,"06/01/2024, 09:00",Pool M,Scheduled
-Bench,Replay,11,7,"06/01/2024, 10:30",Pool M,Scheduled
-Flammes en rose,Beached Whales,11,9,"06/01/2024, 10:30",Pool M,Scheduled
-Bench,Flammes en rose,10,9,"06/01/2024, 12:00",Pool M,Scheduled
-Beached Whales,Replay,13,5,"06/01/2024, 12:00",Pool M,Scheduled
+Bench,Beached Whales,12,11,"06/01/2024, 09:00",Pool M,Final
+Flammes en rose,Replay,13,5,"06/01/2024, 09:00",Pool M,Final
+Bench,Replay,11,7,"06/01/2024, 10:30",Pool M,Final
+Flammes en rose,Beached Whales,11,9,"06/01/2024, 10:30",Pool M,Final
+Bench,Flammes en rose,10,9,"06/01/2024, 12:00",Pool M,Final
+Beached Whales,Replay,13,5,"06/01/2024, 12:00",Pool M,Final
 b,r,e,a,k
 clusters,Saturday Crossover
 cluster,Elite Play in
@@ -927,8 +927,10 @@ Lampshade,FLI,9,8,"06/01/2024, 13:30",,Final
 League of Shadows,NY Swipes,13,4,"06/01/2024, 13:30",,Final
 Red Fox Ultimate,T Party,13,4,"06/01/2024, 13:30",,Final
 cluster,Classic Seeding Crossover
-Taproot,Rainbow,0,0,"06/01/2024, 13:30",,Scheduled
-Heron,Axolotls,0,0,"06/01/2024, 13:30",,Scheduled
+Taproot,Rainbow,5,11,"06/01/2024, 13:30",,Final
+Heron,Axolotls,5,13,"06/01/2024, 13:30",,Final
+Quahogs,Beached Whales,8,9,"06/01/2024, 13:30",,Final
+Flammes en rose,Hartford Current,0,0,"06/01/2024, 13:30",,Scheduled
 b,r,e,a,k
 brackets,Elite Bracket
 bracket,1st Place
@@ -950,10 +952,15 @@ bracket,15th
 b,r,e,a,k
 brackets,Classic Bracket
 bracket,Championship Classic
+T Party,Axolotls,0,0,"06/02/2024, 09:00",Round Name,Scheduled
+NY Swipes,Rainbow,0,0,"06/02/2024, 09:00",Round Name,Scheduled
+FLI,Beached Whales,0,0,"06/02/2024, 09:00",Round Name,Scheduled
 bracket,3rd
 bracket,5th
 bracket,7th
 bracket,9th place 
+Taproot,Compost Plates,0,0,"06/02/2024, 09:00",Round Name,Scheduled
+Quahogs,Replay,0,0,"06/02/2024, 09:00",Round Name,Scheduled
 bracket,11th
 b,r,e,a,k
 pools,consolation pool
