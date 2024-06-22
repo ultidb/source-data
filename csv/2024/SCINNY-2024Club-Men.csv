@@ -29,25 +29,6 @@ teamInfo,,"Grand Rapids, Michigan",,,https://twitter.com/BeaconUlti
 81,Alec DenBraber
 84,Michael Weber
 b,r,e,a,k
-Mischief,8
-teamInfo,,"Livonia, Michigan",,,
-0,Eseosa Aguebor
-0,James Visnaw
-02,Thomas Piaskowski
-04,Spencer Weiss
-07,Simeon  Russell  
-09,Benjamin Gould
-12,Josh Kneisel
-16,Josh Niemi
-22,Francisco Sara
-27,Henry Keller
-33,Alex Remski
-42,Roan Martin-Hayden
-57,Michael McGrath
-69,Noah Gillespie
-81,Camden Hayden
-88,Mekhi PhillipsRincher
-b,r,e,a,k
 Impulse,11
 teamInfo,,"Pittsburgh, Pennsylvania",http://pittsburgh-ultimate.org/youth-club-teams,,https://twitter.com/impulseultimate
 coaches,Ayuna Uemura
@@ -68,6 +49,25 @@ coaches,Ayuna Uemura
 28,Quincy Leczo
 29,Jan Sames
 45,Christian  Wolff
+b,r,e,a,k
+Mischief,8
+teamInfo,,"Livonia, Michigan",,,
+0,Eseosa Aguebor
+0,James Visnaw
+02,Thomas Piaskowski
+04,Spencer Weiss
+07,Simeon  Russell  
+09,Benjamin Gould
+12,Josh Kneisel
+16,Josh Niemi
+22,Francisco Sara
+27,Henry Keller
+33,Alex Remski
+42,Roan Martin-Hayden
+57,Michael McGrath
+69,Noah Gillespie
+81,Camden Hayden
+88,Mekhi PhillipsRincher
 b,r,e,a,k
 Flying Dutchmen,2
 teamInfo,,"Columbus, Ohio",,,
@@ -197,25 +197,6 @@ teamInfo,,"Cincinnati, Ohio",https://cincyultimate.org/youth/ycc,,https://twitte
 88,Owen Ball
 99,Nicholas Gittens
 b,r,e,a,k
-Hazard,4
-teamInfo,,"Pittsburgh, Pennsylvania",https://www.instagram.com/hazard_pgh,,https://twitter.com/HazzyUltimate
-0,Brendan Copp
-0,Casey Santa
-0,Eric Johnson
-0,Ethan Campion
-0,Jonathan Stokes
-0,Keven Gregg
-0,Michael Mercer
-0,Will Girard
-0,Zachary Harrington
-11,Tristian Yanalitis
-13,Zachary Risinger
-38,Jing Lin
-47,Lawson Fisher
-50,Zach Dahm
-92,Wally Gaida
-99,Andrew Grogan
-b,r,e,a,k
 Black Lung,5
 teamInfo,,"Lexington, Kentucky",,,https://twitter.com/blacklungulti?lang=en
 0,Christopher Powers
@@ -244,6 +225,25 @@ teamInfo,,"Lexington, Kentucky",,,https://twitter.com/blacklungulti?lang=en
 55,John Blair
 61,Chris Bauer
 b,r,e,a,k
+Hazard,4
+teamInfo,,"Pittsburgh, Pennsylvania",https://www.instagram.com/hazard_pgh,,https://twitter.com/HazzyUltimate
+0,Brendan Copp
+0,Casey Santa
+0,Eric Johnson
+0,Ethan Campion
+0,Jonathan Stokes
+0,Keven Gregg
+0,Michael Mercer
+0,Will Girard
+0,Zachary Harrington
+11,Tristian Yanalitis
+13,Zachary Risinger
+38,Jing Lin
+47,Lawson Fisher
+50,Zach Dahm
+92,Wally Gaida
+99,Andrew Grogan
+b,r,e,a,k
 Moon Pigs,10
 teamInfo,,"St. Louis, Missouri",,,
 coaches,Trevor Spohr
@@ -265,26 +265,37 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
-Beacon,Impulse,0,0,"06/22/2024, 08:00",Pool A,Scheduled
-Beacon,Mischief,0,0,"06/22/2024, 10:00",Pool A,Scheduled
-Mischief,Impulse,0,0,"06/22/2024, 12:00",Pool A,Scheduled
+Beacon,Impulse,13,5,"06/22/2024, 08:00",Pool A,Final
+Beacon,Mischief,13,3,"06/22/2024, 10:00",Pool A,Final
+Mischief,Impulse,4,12,"06/22/2024, 12:00",Pool A,Final
 pool,Pool B
-Flying Dutchmen,Flying Piglet,0,0,"06/22/2024, 08:00",Pool B,Scheduled
-Flying Dutchmen,Rubicon Rapids,0,0,"06/22/2024, 10:00",Pool B,Scheduled
-Rubicon Rapids,Flying Piglet,0,0,"06/22/2024, 12:00",Pool B,Scheduled
+Flying Dutchmen,Flying Piglet,13,0,"06/22/2024, 08:00",Pool B,Final
+Flying Dutchmen,Rubicon Rapids,13,8,"06/22/2024, 10:00",Pool B,Final
+Rubicon Rapids,Flying Piglet,13,4,"06/22/2024, 12:00",Pool B,Final
 pool,Pool C
-Grand Trunk,Flying Pig,0,0,"06/22/2024, 08:00",Pool C,Scheduled
-Grand Trunk,Enigma,0,0,"06/22/2024, 10:00",Pool C,Scheduled
-Enigma,Flying Pig,0,0,"06/22/2024, 12:00",Pool C,Scheduled
+Grand Trunk,Flying Pig,13,7,"06/22/2024, 08:00",Pool C,Final
+Grand Trunk,Enigma,13,5,"06/22/2024, 10:00",Pool C,Final
+Enigma,Flying Pig,13,6,"06/22/2024, 12:00",Pool C,Final
 pool,Pool D
-Hazard,Moon Pigs,0,0,"06/22/2024, 08:00",Pool D,Scheduled
-Hazard,Black Lung,0,0,"06/22/2024, 10:00",Pool D,Scheduled
-Black Lung,Moon Pigs,0,0,"06/22/2024, 12:00",Pool D,Scheduled
+Hazard,Moon Pigs,13,2,"06/22/2024, 08:00",Pool D,Final
+Hazard,Black Lung,8,13,"06/22/2024, 10:00",Pool D,Final
+Black Lung,Moon Pigs,13,2,"06/22/2024, 12:00",Pool D,Final
 b,r,e,a,k
 clusters,Crossover
+cluster,Crossover
+Beacon,Grand Trunk,10,9,"06/22/2024, 14:00",,Final
+Flying Dutchmen,Black Lung,8,7,"06/22/2024, 14:00",,Final
+Impulse,Flying Pig,10,7,"06/22/2024, 14:00",,Final
+Rubicon Rapids,Moon Pigs,13,5,"06/22/2024, 14:00",,Final
+Mischief,Enigma,3,13,"06/22/2024, 14:00",,Final
+Flying Piglet,Hazard,0,13,"06/22/2024, 14:00",,Final
 b,r,e,a,k
 brackets,Championships
 bracket,1st Place
+Beacon,Rubicon Rapids,0,0,"06/23/2024, 09:00",Quarters,Scheduled
+Black Lung,Enigma,0,0,"06/23/2024, 09:00",Quarters,Scheduled
+Grand Trunk,Hazard,0,0,"06/23/2024, 09:00",Quarters,Scheduled
+Flying Dutchmen,Impulse,0,0,"06/23/2024, 09:00",Quarters,Scheduled
 bracket,5th Place
 bracket,3rd Place
 bracket,7th Place

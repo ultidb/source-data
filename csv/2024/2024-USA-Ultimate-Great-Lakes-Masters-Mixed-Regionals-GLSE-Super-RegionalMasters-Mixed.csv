@@ -31,6 +31,31 @@ teamInfo,,"Atlanta, Georgia",,,
 00,Timothy Brady
 00,William Carmichael
 b,r,e,a,k
+Stale Pretzels,9
+teamInfo,,"Chattanooga, Tennessee",,,
+0,Carlton Smith
+0,Charles (Tyler) Luchka
+0,Clay Thomas
+0,Ema Hagood
+0,Emily Runion
+0,Barbie Wright
+0,Brian Newsom
+0,Jeff Nowiski
+0,JO Watson
+0,Kendra Reams
+0,Krystal Place
+0,Laura Jones
+0,Mychael Newsom
+0,Natalie Hollenback
+0,Nicholas Amendolare
+0,Ridge Carter
+2,Jared Trevor
+5,Neil Place
+32,Mathew Taylor
+48,Kelsey Cline
+64,Bryan Sandidge
+77,Anthony Cain
+b,r,e,a,k
 IL Advised,8
 teamInfo,,"Chicago, Illinois",,,
 0,Abigail Lindsay
@@ -61,31 +86,6 @@ teamInfo,,"Chicago, Illinois",,,
 57,Russell (Ty) Adams
 77,Robert Dreier
 81,Jake Smith
-b,r,e,a,k
-Stale Pretzels,9
-teamInfo,,"Chattanooga, Tennessee",,,
-0,Carlton Smith
-0,Charles (Tyler) Luchka
-0,Clay Thomas
-0,Ema Hagood
-0,Emily Runion
-0,Barbie Wright
-0,Brian Newsom
-0,Jeff Nowiski
-0,JO Watson
-0,Kendra Reams
-0,Krystal Place
-0,Laura Jones
-0,Mychael Newsom
-0,Natalie Hollenback
-0,Nicholas Amendolare
-0,Ridge Carter
-2,Jared Trevor
-5,Neil Place
-32,Mathew Taylor
-48,Kelsey Cline
-64,Bryan Sandidge
-77,Anthony Cain
 b,r,e,a,k
 Day Shift,2
 teamInfo,,"Raleigh, North Carolina",,,
@@ -260,30 +260,6 @@ teamInfo,,"Raleigh, North Carolina",https://www.instagram.com/yachtclub_ulti/,,
 28,Amanda English
 37,Andrew Morton
 b,r,e,a,k
-Cleveland Croaks,4
-teamInfo,,"Cleveland, Ohio",,,
-0,Adam Schobinger
-0,Brad Kotecki
-0,BRYAN MCCARTHY
-0,David Picone
-0,Jonathon Grgat
-0,Joshua Lavelle
-0,Katherine Hoffman
-0,Melanie Chastka
-0,Mike Bruce
-0,Navid Faraji
-0,Cory Hylton
-0,Ryan Hastings
-6,Sarah Warren
-02,Meghan Drews
-11,Ashley Mitchell
-13,D Claire Burns
-14,Osvaldo Velez-Martinez
-22,Chelsea Zhu
-28,Amy Melena
-41,William Clark
-72,Phillip Warren
-b,r,e,a,k
 Crown,5
 teamInfo,,"St. Petersburg, Florida",,,
 01,Shawna Zielstorff
@@ -310,6 +286,30 @@ teamInfo,,"St. Petersburg, Florida",,,
 91,Mark Schimmel
 92,Tori Taylor
 b,r,e,a,k
+Cleveland Croaks,4
+teamInfo,,"Cleveland, Ohio",,,
+0,Adam Schobinger
+0,Brad Kotecki
+0,BRYAN MCCARTHY
+0,David Picone
+0,Jonathon Grgat
+0,Joshua Lavelle
+0,Katherine Hoffman
+0,Melanie Chastka
+0,Mike Bruce
+0,Navid Faraji
+0,Cory Hylton
+0,Ryan Hastings
+6,Sarah Warren
+02,Meghan Drews
+11,Ashley Mitchell
+13,D Claire Burns
+14,Osvaldo Velez-Martinez
+22,Chelsea Zhu
+28,Amy Melena
+41,William Clark
+72,Phillip Warren
+b,r,e,a,k
 Old People Exercising,12
 teamInfo,,"Livonia, Michigan",,https://www.facebook.com/groups/1385617225582488/?ref=share_group_link,
 0,Derick Delloro
@@ -334,26 +334,37 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
-Atlanta Fawkes,Stale Pretzels,0,0,"06/22/2024, 08:00",Pool A,Scheduled
-Atlanta Fawkes,IL Advised,0,0,"06/22/2024, 10:00",Pool A,Scheduled
-IL Advised,Stale Pretzels,0,0,"06/22/2024, 12:00",Pool A,Scheduled
+Atlanta Fawkes,Stale Pretzels,13,8,"06/22/2024, 08:00",Pool A,Final
+Atlanta Fawkes,IL Advised,13,3,"06/22/2024, 10:00",Pool A,Final
+IL Advised,Stale Pretzels,6,12,"06/22/2024, 12:00",Pool A,Final
 pool,Pool B
-Day Shift,edad,0,0,"06/22/2024, 08:00",Pool B,Scheduled
-Day Shift,Upwinded,0,0,"06/22/2024, 10:00",Pool B,Scheduled
-Upwinded,edad,0,0,"06/22/2024, 12:00",Pool B,Scheduled
+Day Shift,edad,13,0,"06/22/2024, 08:00",Pool B,Final
+Day Shift,Upwinded,10,8,"06/22/2024, 10:00",Pool B,Final
+Upwinded,edad,9,7,"06/22/2024, 12:00",Pool B,Final
 pool,Pool C
-Shipwreck,Yacht Club,0,0,"06/22/2024, 08:00",Pool C,Scheduled
-Shipwreck,Trash Trout,0,0,"06/22/2024, 10:00",Pool C,Scheduled
-Trash Trout,Yacht Club,0,0,"06/22/2024, 12:00",Pool C,Scheduled
+Shipwreck,Yacht Club,12,6,"06/22/2024, 08:00",Pool C,Final
+Shipwreck,Trash Trout,11,10,"06/22/2024, 10:00",Pool C,Final
+Trash Trout,Yacht Club,11,3,"06/22/2024, 12:00",Pool C,Final
 pool,Pool D
-Cleveland Croaks,Old People Exercising,0,0,"06/22/2024, 08:00",Pool D,Scheduled
-Cleveland Croaks,Crown,0,0,"06/22/2024, 10:00",Pool D,Scheduled
-Crown,Old People Exercising,0,0,"06/22/2024, 12:00",Pool D,Scheduled
+Cleveland Croaks,Old People Exercising,13,2,"06/22/2024, 08:00",Pool D,Final
+Cleveland Croaks,Crown,3,13,"06/22/2024, 10:00",Pool D,Final
+Crown,Old People Exercising,13,3,"06/22/2024, 12:00",Pool D,Final
 b,r,e,a,k
 brackets,Championships
 bracket,1st Place
+Atlanta Fawkes,Shipwreck,0,0,"06/23/2024, 11:00",1st Place,Scheduled
+Atlanta Fawkes,Crown,11,5,"06/22/2024, 14:00",1st Place Semis,Final
+Shipwreck,Day Shift,9,8,"06/22/2024, 14:00",1st Place Semis,Final
 bracket,2nd/3rd Place
+Crown,Trash Trout,0,0,"06/22/2024, 16:00",2/3 Round 2,Scheduled
+Stale Pretzels,Day Shift,0,0,"06/22/2024, 16:00",2/3 Round 2,Scheduled
+Trash Trout,Upwinded,11,6,"06/22/2024, 14:00",2/3 Round 1,Final
+Stale Pretzels,Cleveland Croaks,11,8,"06/22/2024, 14:00",2/3 Round 1,Final
 bracket,4th/5th Place
+Upwinded,IL Advised,0,0,"06/22/2024, 16:00",4/5 Round 2,Scheduled
+Yacht Club,Cleveland Croaks,0,0,"06/22/2024, 16:00",4/5 Round 2,Scheduled
+IL Advised,Old People Exercising,12,4,"06/22/2024, 14:00",4/5 Round 1,Final
+Yacht Club,edad,9,8,"06/22/2024, 14:00",4/5 Round 1,Final
 bracket,6th/7th Place
 bracket,9th/10th Place
 bracket,11th/12th Place

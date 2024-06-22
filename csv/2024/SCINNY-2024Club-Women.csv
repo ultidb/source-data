@@ -158,18 +158,20 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
-Indy Rogue,Y'all,0,0,"06/22/2024, 08:00",Pool A,Scheduled
-Indy Rogue,Sureshot,0,0,"06/22/2024, 10:00",Pool A,Scheduled
-Sureshot,Y'all,0,0,"06/22/2024, 12:00",Pool A,Scheduled
+Indy Rogue,Y'all,13,3,"06/22/2024, 08:00",Pool A,Final
+Indy Rogue,Sureshot,12,9,"06/22/2024, 10:00",Pool A,Final
+Sureshot,Y'all,9,7,"06/22/2024, 12:00",Pool A,Final
 pool,Pool B
-Toronto Incognito,Bullseye,0,0,"06/22/2024, 10:00",Pool B,Scheduled
-Lake Erie Walleye,Solstice,0,0,"06/22/2024, 10:00",Pool B,Scheduled
-Toronto Incognito,Solstice,0,0,"06/22/2024, 12:00",Pool B,Scheduled
-Lake Erie Walleye,Bullseye,0,0,"06/22/2024, 12:00",Pool B,Scheduled
-Toronto Incognito,Lake Erie Walleye,0,0,"06/22/2024, 12:00",Pool B,Scheduled
-Solstice,Bullseye,0,0,"06/22/2024, 12:00",Pool B,Scheduled
+Toronto Incognito,Bullseye,13,3,"06/22/2024, 10:00",Pool B,Final
+Lake Erie Walleye,Solstice,10,3,"06/22/2024, 10:00",Pool B,Final
+Toronto Incognito,Lake Erie Walleye,13,1,"06/22/2024, 12:00",Pool B,Final
+Solstice,Bullseye,12,7,"06/22/2024, 12:00",Pool B,Final
 b,r,e,a,k
 clusters,Crossover
+cluster,Crossover
+Indy Rogue,Toronto Incognito,8,7,"06/22/2024, 14:00",,Final
+Sureshot,Lake Erie Walleye,5,8,"06/22/2024, 14:00",,Final
+Y'all,Solstice,9,4,"06/22/2024, 14:00",,Scheduled
 b,r,e,a,k
 brackets,Championships
 bracket,1st Place
