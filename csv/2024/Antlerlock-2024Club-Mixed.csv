@@ -268,6 +268,31 @@ teamInfo,,"Providence, Rhode Island",,,
 28,Courtney Cooke
 88,Qianchen Zeng
 b,r,e,a,k
+Buffalo Brain Freeze,19
+teamInfo,,"Buffalo, New York",,,https://twitter.com/BuffBrainFreeze?s=09
+0,Amber Woelfel
+0,Andreea Merzianu
+0,Emma Roberts
+0,Greg Burganowski
+0,Isaiah Welch
+0,James Erb
+0,Jessica Losel
+0,Julia Bembenista
+0,Lea Kyle
+0,Michael Warsaw
+0,Olivia  Dramer
+0,Zachary Flint
+1,Jeffrey Harvey
+5,Anthony Ceddia
+6,Hannah Wilcox
+7,Avery Nutting-Hartman
+8,Joshua Seale
+9,Michael Kanaby
+13,Maddie Beale
+20,Dakota Cross
+21,Justin Seale
+21,Sarah Johnson
+b,r,e,a,k
 Sugar Shack,14
 teamInfo,,"Burlington, Vermont",,,
 0,Astro Larsen
@@ -293,31 +318,6 @@ teamInfo,,"Burlington, Vermont",,,
 47,Cam Angwin
 72,Joseph Pasquence
 88,Andrew Gervia
-b,r,e,a,k
-Buffalo Brain Freeze,19
-teamInfo,,"Buffalo, New York",,,https://twitter.com/BuffBrainFreeze?s=09
-0,Amber Woelfel
-0,Andreea Merzianu
-0,Emma Roberts
-0,Greg Burganowski
-0,Isaiah Welch
-0,James Erb
-0,Jessica Losel
-0,Julia Bembenista
-0,Lea Kyle
-0,Michael Warsaw
-0,Olivia  Dramer
-0,Zachary Flint
-1,Jeffrey Harvey
-5,Anthony Ceddia
-6,Hannah Wilcox
-7,Avery Nutting-Hartman
-8,Joshua Seale
-9,Michael Kanaby
-13,Maddie Beale
-20,Dakota Cross
-21,Justin Seale
-21,Sarah Johnson
 b,r,e,a,k
 Zero Strategy,7
 teamInfo,,"Burlington, Vermont",,,
@@ -525,12 +525,12 @@ UV Rays,Equinox,0,0,"06/29/2024, 12:15",Pool B,Scheduled
 Big Rig,UV Rays,13,3,"06/29/2024, 15:45",Pool B,Final
 Equinox,Taproot,0,0,"06/29/2024, 15:45",Pool B,Scheduled
 pool,Pool C
-T Party,Sugar Shack,0,0,"06/29/2024, 10:30",Pool C,Scheduled
-Quahogs,Buffalo Brain Freeze,0,0,"06/29/2024, 10:30",Pool C,Scheduled
-T Party,Buffalo Brain Freeze,0,0,"06/29/2024, 14:00",Pool C,Scheduled
-Quahogs,Sugar Shack,0,0,"06/29/2024, 14:00",Pool C,Scheduled
-T Party,Quahogs,0,0,"06/29/2024, 15:45",Pool C,Scheduled
-Sugar Shack,Buffalo Brain Freeze,0,0,"06/29/2024, 15:45",Pool C,Scheduled
+T Party,Sugar Shack,13,2,"06/29/2024, 10:30",Pool C,Final
+Quahogs,Buffalo Brain Freeze,13,7,"06/29/2024, 10:30",Pool C,Final
+T Party,Buffalo Brain Freeze,12,4,"06/29/2024, 14:00",Pool C,Final
+Quahogs,Sugar Shack,13,3,"06/29/2024, 14:00",Pool C,Final
+T Party,Quahogs,9,8,"06/29/2024, 15:45",Pool C,Final
+Sugar Shack,Buffalo Brain Freeze,5,7,"06/29/2024, 15:45",Pool C,Final
 pool,Pool D
 Zero Strategy,Lobster Disque,13,4,"06/29/2024, 10:30",Pool D,Final
 Rainbow,Replay,10,9,"06/29/2024, 10:30",Pool D,Final
@@ -542,9 +542,9 @@ pool,Pool E
 Mashed,WHUF,13,7,"06/29/2024, 12:15",Pool E,Final
 Default,Hartford Current,13,5,"06/29/2024, 12:15",Pool E,Final
 Mashed,Hartford Current,13,6,"06/29/2024, 14:00",Pool E,Final
-Default,WHUF,0,0,"06/29/2024, 14:00",Pool E,Scheduled
-Mashed,Default,0,0,"06/29/2024, 15:45",Pool E,Scheduled
-WHUF,Hartford Current,0,0,"06/29/2024, 15:45",Pool E,Scheduled
+Default,WHUF,13,11,"06/29/2024, 14:00",Pool E,Final
+Mashed,Default,13,9,"06/29/2024, 15:45",Pool E,Final
+WHUF,Hartford Current,13,2,"06/29/2024, 15:45",Pool E,Final
 b,r,e,a,k
 brackets,Sunday Playoffs
 bracket,Championship
@@ -554,10 +554,15 @@ bracket,7th Place
 b,r,e,a,k
 brackets,Sunday Consolation Bracket
 bracket,9th Place
+Quahogs,Rainbow,0,0,"06/30/2024, 09:00",Quarters 9,Scheduled
+Replay,Buffalo Brain Freeze,0,0,"06/30/2024, 09:00",Quarters 9,Scheduled
 bracket,11th Place
 bracket,13th Place
 bracket,15th Place
 b,r,e,a,k
 pools,Sunday Pool
 pool,Pool F
+Sugar Shack,Hartford Current,0,0,"06/30/2024, 09:00",Pool F,Scheduled
+Sugar Shack,Lobster Disque,0,0,"06/30/2024, 10:45",Pool F,Scheduled
+Lobster Disque,Hartford Current,0,0,"06/30/2024, 12:30",Pool F,Scheduled
 b,r,e,a,k
