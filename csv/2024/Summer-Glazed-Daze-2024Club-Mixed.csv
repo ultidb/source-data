@@ -165,31 +165,6 @@ teamInfo,,"Winston-Salem, North Carolina",,,
 50,Ryan Ernst
 52,John Wolff
 b,r,e,a,k
-Too Much Fun,3
-teamInfo,,"Asheville, North Carolina",,,
-coaches,Andrew Mouw
-0,Daniel Gray
-0,Walker Sanders
-2,Lucy Murray
-3,Henry Holland
-5,Benjamin Gladstone
-04,Dean Merritt
-07,Garrett Baringer
-08,Claire Meyer
-10,Hannah Moore
-11,Kathryn Olds
-13,Isabela Galeano
-16,Audrey Brown
-18,Franchesca Cassanese
-28,Hailey Wunder
-29,Mark Stumpf
-30,Aidan Todd
-44,Henry Hill
-72,Brandon Bass
-81,Allison Bashford
-88,Hunter Gibbs
-99,Taylor Dale
-b,r,e,a,k
 FlyTrap,6
 teamInfo,,"Wilmington, North Carolina",,https://www.facebook.com/FlyTrap-Ultimate-599420990399270/,
 0,Allyn Holcomb
@@ -242,6 +217,31 @@ teamInfo,,"Savannah, Georgia",,,
 89,Eric Martin
 91,Mark Schimmel
 92,Jacob Markward
+b,r,e,a,k
+Too Much Fun,3
+teamInfo,,"Asheville, North Carolina",,,
+coaches,Andrew Mouw
+0,Daniel Gray
+0,Walker Sanders
+2,Lucy Murray
+3,Henry Holland
+5,Benjamin Gladstone
+04,Dean Merritt
+07,Garrett Baringer
+08,Claire Meyer
+10,Hannah Moore
+11,Kathryn Olds
+13,Isabela Galeano
+16,Audrey Brown
+18,Franchesca Cassanese
+28,Hailey Wunder
+29,Mark Stumpf
+30,Aidan Todd
+44,Henry Hill
+72,Brandon Bass
+81,Allison Bashford
+88,Hunter Gibbs
+99,Taylor Dale
 b,r,e,a,k
 Brunch Club,4
 teamInfo,,"Durham, North Carolina",,,
@@ -323,33 +323,35 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,POOL PLAY
 pool,Pool Apple Fritter
-Verdant,Rampage,13,4,"06/29/2024, 09:00",Pool Apple Fritter,Scheduled
-Storm,Rampage,13,1,"06/29/2024, 10:45",Pool Apple Fritter,Scheduled
-Storm,Verdant,13,5,"06/29/2024, 12:30",Pool Apple Fritter,Scheduled
+Verdant,Rampage,13,4,"06/29/2024, 09:00",Pool Apple Fritter,Final
+Storm,Rampage,13,1,"06/29/2024, 10:45",Pool Apple Fritter,Final
+Storm,Verdant,13,5,"06/29/2024, 12:30",Pool Apple Fritter,Final
 pool,Pool Beignet
-Catalyst,Carolina Reapers,13,8,"06/29/2024, 09:00",Pool Beignet,Scheduled
-Roma Ultima,Carolina Reapers,13,3,"06/29/2024, 10:45",Pool Beignet,Scheduled
-Roma Ultima,Catalyst,12,10,"06/29/2024, 12:30",Pool Beignet,Scheduled
+Catalyst,Carolina Reapers,13,8,"06/29/2024, 09:00",Pool Beignet,Final
+Roma Ultima,Carolina Reapers,13,3,"06/29/2024, 10:45",Pool Beignet,Final
+Roma Ultima,Catalyst,12,10,"06/29/2024, 12:30",Pool Beignet,Final
 pool,Pool Cannoli
-FlyTrap,Conspiracy,13,10,"06/29/2024, 09:00",Pool Cannoli,Scheduled
-Too Much Fun,Conspiracy,7,13,"06/29/2024, 10:45",Pool Cannoli,Scheduled
-Too Much Fun,FlyTrap,9,13,"06/29/2024, 12:30",Pool Cannoli,Scheduled
+FlyTrap,Conspiracy,13,10,"06/29/2024, 09:00",Pool Cannoli,Final
+Too Much Fun,Conspiracy,7,13,"06/29/2024, 10:45",Pool Cannoli,Final
+Too Much Fun,FlyTrap,9,13,"06/29/2024, 12:30",Pool Cannoli,Final
 pool,Pool Doughnut
-Trex Mix,Spice,13,7,"06/29/2024, 09:00",Pool Doughnut,Scheduled
+Trex Mix,Spice,13,7,"06/29/2024, 09:00",Pool Doughnut,Final
 Brunch Club,Spice,13,2,"06/29/2024, 10:45",Pool Doughnut,Final
 Brunch Club,Trex Mix,13,6,"06/29/2024, 12:30",Pool Doughnut,Final
 b,r,e,a,k
 clusters,CROSS OVER
 cluster,Cross over game
-Storm,FlyTrap,13,8,"06/29/2024, 14:15",,Scheduled
+Storm,FlyTrap,13,8,"06/29/2024, 14:15",,Final
 Roma Ultima,Brunch Club,0,0,"06/29/2024, 14:15",,Scheduled
-Trex Mix,Carolina Reapers,12,6,"06/29/2024, 14:15",,Scheduled
-Conspiracy,Rampage,13,3,"06/29/2024, 14:15",,Scheduled
-Catalyst,Spice,12,6,"06/29/2024, 14:15",,Scheduled
-Verdant,Too Much Fun,8,12,"06/29/2024, 14:15",,Scheduled
+Trex Mix,Carolina Reapers,12,6,"06/29/2024, 14:15",,Final
+Conspiracy,Rampage,13,3,"06/29/2024, 14:15",,Final
+Catalyst,Spice,12,6,"06/29/2024, 14:15",,Final
+Verdant,Too Much Fun,8,12,"06/29/2024, 14:15",,Final
 b,r,e,a,k
 brackets,BRACKET PLAY
 bracket,BRACKET PLAY
+Storm,Catalyst,0,0,"06/30/2024, 09:00",QUARTERS,Scheduled
+FlyTrap,Trex Mix,0,0,"06/30/2024, 09:00",QUARTERS,Scheduled
 b,r,e,a,k
 brackets,5th Place
 bracket,5th Place
@@ -359,6 +361,12 @@ bracket,7th Place
 b,r,e,a,k
 pools,Pool Eclair
 pool,Pool A
+Rampage,Carolina Reapers,0,0,"06/23/2024, 09:00",Pool A,Scheduled
+Spice,Verdant,0,0,"06/23/2024, 09:00",Pool A,Scheduled
+Rampage,Verdant,0,0,"06/23/2024, 11:00",Pool A,Scheduled
+Spice,Carolina Reapers,0,0,"06/23/2024, 11:00",Pool A,Scheduled
+Rampage,Spice,0,0,"06/23/2024, 13:00",Pool A,Scheduled
+Carolina Reapers,Verdant,0,0,"06/23/2024, 13:00",Pool A,Scheduled
 b,r,e,a,k
 brackets,3rd Place
 bracket,3rd Place
