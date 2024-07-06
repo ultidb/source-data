@@ -102,6 +102,34 @@ teamInfo,,"San Francisco, California",www.abbq.org,www.facebook.com/ABBQfamily/,
 23,Trevor Aquino
 36,Jenna Weiner
 b,r,e,a,k
+California Burrito,2
+teamInfo,,"San Diego, California",https://www.instagram.com/california_burrito_ultimate/,,
+0,Aaron Coble
+0,Abe Shklar
+0,Anders Ruden
+0,Catherine Trevino
+0,Christina Debowski 
+0,Deanna Abrams
+0,Elliott Eve
+0,Erin Goldman
+0,Jake Coleman
+0,Julia McIntyre
+0,Kaya Phillips
+0,Lauren Hanna
+0,Sydney Horanic
+0,Tim Klacik
+0,Vincent Liang
+0,Wesley Bowen
+0,Peter Osseward
+12,Liana Michaud
+12,Neha Vaingankar
+23,Zoe Tessler
+25,Ian Ladner
+27,Sam Weaver
+29,Nolan Schmalenberger
+37,Hannah Walter
+94,Zachary Spidell
+b,r,e,a,k
 Donuts,3
 teamInfo,,"Bay Area, California",http://www.instagram.com/donutsultimate,https://www.facebook.com/DonutsUltimate/?pnref=story,https://twitter.com/donuts_ultimate
 0,Chris Yan
@@ -130,34 +158,6 @@ teamInfo,,"Bay Area, California",http://www.instagram.com/donutsultimate,https:/
 77,Alec Surmani
 88,Isabelle Deputy
 91,Anna Sciaruto
-b,r,e,a,k
-California Burrito,2
-teamInfo,,"San Diego, California",https://www.instagram.com/california_burrito_ultimate/,,
-0,Aaron Coble
-0,Abe Shklar
-0,Anders Ruden
-0,Catherine Trevino
-0,Christina Debowski 
-0,Deanna Abrams
-0,Elliott Eve
-0,Erin Goldman
-0,Jake Coleman
-0,Julia McIntyre
-0,Kaya Phillips
-0,Lauren Hanna
-0,Sydney Horanic
-0,Tim Klacik
-0,Vincent Liang
-0,Wesley Bowen
-0,Peter Osseward
-12,Liana Michaud
-12,Neha Vaingankar
-23,Zoe Tessler
-25,Ian Ladner
-27,Sam Weaver
-29,Nolan Schmalenberger
-37,Hannah Walter
-94,Zachary Spidell
 b,r,e,a,k
 Mango,7
 teamInfo,,"San Francisco, California",https://www.instagram.com/mangoultimate/,,
@@ -477,14 +477,14 @@ BW Ultimate,Robot,12,10,"07/06/2024, 10:35",Pool A,Final
 American Barbecue,Sego,8,10,"07/06/2024, 10:35",Pool A,Final
 BW Ultimate,Sego,10,8,"07/06/2024, 12:10",Pool A,Final
 American Barbecue,Robot,6,9,"07/06/2024, 12:10",Pool A,Final
-BW Ultimate,American Barbecue,0,0,"07/06/2024, 13:45",Pool A,Scheduled
-Robot,Sego,10,7,"07/06/2024, 13:45",Pool A,Scheduled
+BW Ultimate,American Barbecue,8,7,"07/06/2024, 13:45",Pool A,Final
+Robot,Sego,10,7,"07/06/2024, 13:45",Pool A,Final
 pool,Pool B
 California Burrito,Cutthroat,12,7,"07/06/2024, 10:35",Pool B,Final
 Donuts,Mango,13,0,"07/06/2024, 10:35",Pool B,Final
 California Burrito,Mango,12,6,"07/06/2024, 12:10",Pool B,Final
 Donuts,Cutthroat,11,6,"07/06/2024, 12:10",Pool B,Final
-California Burrito,Donuts,0,0,"07/06/2024, 13:45",Pool B,Scheduled
+California Burrito,Donuts,8,5,"07/06/2024, 13:45",Pool B,Final
 Cutthroat,Mango,5,8,"07/06/2024, 13:45",Pool B,Final
 pool,Pool C
 Igneous Ultimate,VU,9,7,"07/06/2024, 09:00",Pool C,Final
@@ -499,14 +499,19 @@ Spoiler Alert,Quails,13,4,"07/06/2024, 10:35",Pool E,Final
 Firefly,Birds of Paradise,13,6,"07/06/2024, 10:35",Pool E,Final
 Spoiler Alert,Birds of Paradise,12,4,"07/06/2024, 12:10",Pool E,Final
 Firefly,Quails,13,2,"07/06/2024, 12:10",Pool E,Final
-Spoiler Alert,Firefly,5,13,"07/06/2024, 13:45",Pool E,Final
+Spoiler Alert,Firefly,6,12,"07/06/2024, 13:45",Pool E,Final
 Quails,Birds of Paradise,8,9,"07/06/2024, 13:45",Pool E,Final
 b,r,e,a,k
 clusters,Crossovers
 cluster,Pool C & D Crossover
 Igneous Ultimate,DR,9,11,"07/06/2024, 13:45",,Final
 VU,Octonauts,6,8,"07/06/2024, 13:45",,Final
-Air Throwmads,Moonlight Ultimate,0,0,"07/06/2024, 13:45",,Scheduled
+Air Throwmads,Moonlight Ultimate,12,6,"07/06/2024, 13:45",,Final
+cluster,Championship Crossover
+Sego,Octonauts,0,0,"07/06/2024, 15:20",,Scheduled
+American Barbecue,DR,0,0,"07/06/2024, 15:20",,Scheduled
+Mango,Firefly,0,0,"07/06/2024, 15:20",,Scheduled
+Cutthroat,Igneous Ultimate,0,0,"07/06/2024, 15:20",,Scheduled
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,Championship Bracket
@@ -516,6 +521,8 @@ bracket,7th Place
 b,r,e,a,k
 brackets,9th Place Bracket
 bracket,9th Place
+Quails,Air Throwmads,0,0,"07/06/2024, 15:20",Pre-QF 9,Scheduled
+Birds of Paradise,Moonlight Ultimate,0,0,"07/06/2024, 15:20",Pre-QF 9,Scheduled
 bracket,11th Place 
 bracket,13th Place 
 bracket,15th Place 
