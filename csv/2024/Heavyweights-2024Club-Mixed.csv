@@ -184,30 +184,6 @@ teamInfo,,"Wichita, Kansas",,https://www.facebook.com/ImpactUltimate/,https://tw
 88,Abigail Ned
 91,Joselyne Hernandez
 b,r,e,a,k
-Mastodon,23
-teamInfo,,"Madison, Wisconsin",,https://www.facebook.com/MastodonUltimate/?ref=aymt_homepage_panel,https://www.twitter.com/MastodonUlti
-0,Bee Rickenbach
-0,Dominic Ottens
-0,James Alvin
-0,Justin Marshall
-0,Kara Vogel
-0,Kate McKay
-0,Lai Jiang
-0,Noah Webster
-0,Ryan Wenger
-0,Sarah Fahlberg
-0,Veiga Goethel
-0,Edward Moy
-0,Emma Larson
-2,Dylan Petersen
-5,Alex Huml
-7,Amzie Yurko
-9,Erik Nuenninghoff
-11,Amanda Roesch
-16,Alec Li
-18,Brooke Lewis
-53,Erik Stewart
-b,r,e,a,k
 Skyhawks,15
 teamInfo,,"South Bend, Indiana",,https://www.facebook.com/Skyhawks-427022961197953/,@SkyhawksUlti
 0,Allison Kielhold
@@ -292,6 +268,30 @@ teamInfo,,"Chicago, Illinois",,https://www.facebook.com/ELevateUltimate,https://
 81,Jake Smith
 91,Liz Biggane
 b,r,e,a,k
+Mastodon,23
+teamInfo,,"Madison, Wisconsin",,https://www.facebook.com/MastodonUltimate/?ref=aymt_homepage_panel,https://www.twitter.com/MastodonUlti
+0,Bee Rickenbach
+0,Dominic Ottens
+0,James Alvin
+0,Justin Marshall
+0,Kara Vogel
+0,Kate McKay
+0,Lai Jiang
+0,Noah Webster
+0,Ryan Wenger
+0,Sarah Fahlberg
+0,Veiga Goethel
+0,Edward Moy
+0,Emma Larson
+2,Dylan Petersen
+5,Alex Huml
+7,Amzie Yurko
+9,Erik Nuenninghoff
+11,Amanda Roesch
+16,Alec Li
+18,Brooke Lewis
+53,Erik Stewart
+b,r,e,a,k
 Steamboat,3
 teamInfo,,"Cincinnati, Ohio",http://www.steamboatultimate.com/,https://www.facebook.com/steamboatultimate,https://twitter.com/cincysfb
 02,Trevor Russell
@@ -316,33 +316,6 @@ teamInfo,,"Cincinnati, Ohio",http://www.steamboatultimate.com/,https://www.faceb
 72,Jake Montgomery
 78,Aidan Stevens
 88,Samantha Montgomery
-b,r,e,a,k
-Three Rivers Ultimate Club,6
-teamInfo,,"Fort Wayne, Indiana",,,
-0,Adam Saylor
-0,Annika Oliver
-0,Ashlynn Meyer
-0,Carmelina Pestritto
-0,Collin Marshall
-0,Deeleiloh Allie
-0,Emily Mosher
-0,Grace  Lare 
-0,Mae Gimre
-0,Sarah Heindel
-8,Justin Hess
-02,Jessica Sink
-04,Jacob Wunderlich
-11,Thomas Yaste
-12,Peter Heneveld
-13,Garrett Voss
-14,Lydia Yaste
-24,Adam Hess
-28,Jacob Felton
-29,Emily Schloneger
-47,Alexander Graham
-55,Rachel Heneveld
-73,Caleb Patterson
-84,Andrew Warren
 b,r,e,a,k
 Karma,14
 teamInfo,,"Tucson, Arizona",,,
@@ -387,6 +360,33 @@ teamInfo,,"Iowa City, Iowa",,,
 31,Piper Seals
 44,Anna Lane
 55,Kaleb Owens
+b,r,e,a,k
+Three Rivers Ultimate Club,6
+teamInfo,,"Fort Wayne, Indiana",,,
+0,Adam Saylor
+0,Annika Oliver
+0,Ashlynn Meyer
+0,Carmelina Pestritto
+0,Collin Marshall
+0,Deeleiloh Allie
+0,Emily Mosher
+0,Grace  Lare 
+0,Mae Gimre
+0,Sarah Heindel
+8,Justin Hess
+02,Jessica Sink
+04,Jacob Wunderlich
+11,Thomas Yaste
+12,Peter Heneveld
+13,Garrett Voss
+14,Lydia Yaste
+24,Adam Hess
+28,Jacob Felton
+29,Emily Schloneger
+47,Alexander Graham
+55,Rachel Heneveld
+73,Caleb Patterson
+84,Andrew Warren
 b,r,e,a,k
 The Force,19
 teamInfo,,"Minneapolis, Minnesota",,,
@@ -616,9 +616,9 @@ ELevate,Mastodon,11,10,"07/06/2024, 11:00",Pool B,Final
 Impact,Skyhawks,13,4,"07/06/2024, 12:30",Pool B,Final
 Bird,Mastodon,13,5,"07/06/2024, 12:30",Pool B,Final
 Mousetrap,ELevate,13,6,"07/06/2024, 12:30",Pool B,Final
-Impact,Mastodon,0,0,"07/06/2024, 14:00",Pool B,Scheduled
-Bird,Mousetrap,0,0,"07/06/2024, 14:00",Pool B,Scheduled
-Skyhawks,ELevate,0,0,"07/06/2024, 14:00",Pool B,Scheduled
+Impact,Mastodon,13,5,"07/06/2024, 14:00",Pool B,Final
+Bird,Mousetrap,11,8,"07/06/2024, 14:00",Pool B,Final
+Skyhawks,ELevate,12,10,"07/06/2024, 14:00",Pool B,Final
 Impact,ELevate,0,0,"07/07/2024, 09:00",Pool B,Scheduled
 Bird,Skyhawks,0,0,"07/07/2024, 09:00",Pool B,Scheduled
 Mousetrap,Mastodon,0,0,"07/07/2024, 09:00",Pool B,Scheduled
@@ -633,8 +633,8 @@ Steamboat,Karma,13,6,"07/06/2024, 12:30",Pool C,Final
 Three Rivers Ultimate Club,Mad City Vibes,13,7,"07/06/2024, 12:30",Pool C,Final
 Arms Race,The Force,12,6,"07/06/2024, 12:30",Pool C,Final
 Steamboat,Mad City Vibes,13,4,"07/06/2024, 14:00",Pool C,Final
-Three Rivers Ultimate Club,Arms Race,0,0,"07/06/2024, 14:00",Pool C,Scheduled
-Karma,The Force,0,0,"07/06/2024, 14:00",Pool C,Scheduled
+Three Rivers Ultimate Club,Arms Race,5,13,"07/06/2024, 14:00",Pool C,Final
+Karma,The Force,13,6,"07/06/2024, 14:00",Pool C,Final
 Steamboat,The Force,0,0,"07/07/2024, 09:00",Pool C,Scheduled
 Three Rivers Ultimate Club,Karma,0,0,"07/07/2024, 09:00",Pool C,Scheduled
 Arms Race,Mad City Vibes,0,0,"07/07/2024, 09:00",Pool C,Scheduled
@@ -649,8 +649,8 @@ Mad Udderburn,Point of No Return,13,8,"07/06/2024, 12:30",Pool D,Final
 Spectre,ConSTLation,13,5,"07/06/2024, 12:30",Pool D,Final
 Stackcats,Toast!,12,7,"07/06/2024, 12:30",Pool D,Final
 Mad Udderburn,ConSTLation,12,9,"07/06/2024, 14:00",Pool D,Final
-Spectre,Stackcats,0,0,"07/06/2024, 14:00",Pool D,Scheduled
-Point of No Return,Toast!,0,0,"07/06/2024, 14:00",Pool D,Scheduled
+Spectre,Stackcats,13,5,"07/06/2024, 14:00",Pool D,Final
+Point of No Return,Toast!,10,9,"07/06/2024, 14:00",Pool D,Final
 Mad Udderburn,Toast!,0,0,"07/07/2024, 09:00",Pool D,Scheduled
 Spectre,Point of No Return,0,0,"07/07/2024, 09:00",Pool D,Scheduled
 Stackcats,ConSTLation,0,0,"07/07/2024, 09:00",Pool D,Scheduled
