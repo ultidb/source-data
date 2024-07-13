@@ -187,32 +187,6 @@ coaches,Trent Tolley,Andy Routzahn
 81,Colin Doescher
 99,Antonio Sumler
 b,r,e,a,k
-Psychedelic,14
-teamInfo,,"Jacksonville, Florida",,,
-0,Michael Shore
-1,Austin Aldrich
-1,Matthew Seibler
-2,Ian Gray
-2,Steven Seibler
-3,Joshua Hostetler
-5,Brian Seibler
-6,Jordan Bumpers
-7,Todd Parfitt
-8,Troy Bogle
-10,Chris Seibler
-11,Robert Lewis
-12,Adam Wellentin
-14,Robert Lovelace
-16,Mathew Johnson
-17,Daniel Seibler
-20,Marc Rosenfeld
-22,Daniel Pickens
-33,Caleb Vargo
-42,Chase Kennedy
-51,Nicholas Kessler
-64,Gabriel Weigel
-69,James Burkett
-b,r,e,a,k
 Charleston Heat Stroke,7
 teamInfo,,"Charleston, South Carolina",,https://www.facebook.com/CharlestonHeatStroke,https://twitter.com/HeatStrokeCHS
 0,Blake Paulson
@@ -240,6 +214,32 @@ teamInfo,,"Charleston, South Carolina",,https://www.facebook.com/CharlestonHeatS
 37,Wes Copenhaver
 77,Lewis Sisler
 95,Tyler Myers
+b,r,e,a,k
+Psychedelic,14
+teamInfo,,"Jacksonville, Florida",,,
+0,Michael Shore
+1,Austin Aldrich
+1,Matthew Seibler
+2,Ian Gray
+2,Steven Seibler
+3,Joshua Hostetler
+5,Brian Seibler
+6,Jordan Bumpers
+7,Todd Parfitt
+8,Troy Bogle
+10,Chris Seibler
+11,Robert Lewis
+12,Adam Wellentin
+14,Robert Lovelace
+16,Mathew Johnson
+17,Daniel Seibler
+20,Marc Rosenfeld
+22,Daniel Pickens
+33,Caleb Vargo
+42,Chase Kennedy
+51,Nicholas Kessler
+64,Gabriel Weigel
+69,James Burkett
 b,r,e,a,k
 Hydra,18
 teamInfo,,"Winston-Salem, North Carolina",,,
@@ -531,7 +531,7 @@ baNC,Psychedelic,13,8,"07/13/2024, 11:30",Pool B,Final
 baNC,Charleston Heat Stroke,13,6,"07/13/2024, 13:15",Pool B,Final
 Crypt,Hydra,13,6,"07/13/2024, 13:15",Pool B,Final
 baNC,Hydra,13,5,"07/13/2024, 15:00",Pool B,Final
-Charleston Heat Stroke,Psychedelic,0,0,"07/13/2024, 15:00",Pool B,Scheduled
+Charleston Heat Stroke,Psychedelic,13,9,"07/13/2024, 15:00",Pool B,Final
 pool,Pool C
 Triumph,Tennessee Folklore,13,6,"07/13/2024, 08:00",Pool C,Final
 Florida Untied,PARLAY,13,0,"07/13/2024, 08:00",Pool C,Final
@@ -541,7 +541,7 @@ Florida Untied,Triumph,13,4,"07/13/2024, 11:30",Pool C,Final
 Black Lung,Tennessee Folklore,13,3,"07/13/2024, 11:30",Pool C,Final
 Black Lung,Florida Untied,5,13,"07/13/2024, 13:15",Pool C,Final
 Triumph,PARLAY,13,3,"07/13/2024, 13:15",Pool C,Final
-Black Lung,PARLAY,0,0,"07/13/2024, 15:00",Pool C,Scheduled
+Black Lung,PARLAY,11,4,"07/13/2024, 15:00",Pool C,Final
 Florida Untied,Tennessee Folklore,13,0,"07/13/2024, 15:00",Pool C,Final
 pool,Pool D
 Queen City Kings,Oakay,13,5,"07/13/2024, 08:00",Pool D,Final
@@ -557,16 +557,23 @@ Tanasi,Oakay,13,2,"07/13/2024, 15:00",Pool D,Final
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,Championship Bracket
+Florida Untied,Crypt,0,0,"07/14/2024, 08:00",Quarters,Scheduled
+baNC,Black Lung,0,0,"07/14/2024, 08:00",Quarters,Scheduled
 bracket,3rd Place Game
 bracket,5th Place Bracket
 bracket,7th Place Game
 b,r,e,a,k
 brackets,9th Place Bracket
 bracket,9th Place Bracket
+Triumph,Psychedelic,0,0,"07/14/2024, 08:00",9th Place Quarters,Scheduled
+Charleston Heat Stroke,PARLAY,0,0,"07/14/2024, 08:00",9th Place Quarters,Scheduled
 bracket,11th Place Game
 bracket,13th Place Bracket
 bracket,15th Place Game
 b,r,e,a,k
 pools,17th Place Consolation Pool
 pool,Pool E
+Hydra,Oakay,0,0,"07/14/2024, 08:00",Pool E,Scheduled
+Hydra,Tennessee Folklore,0,0,"07/14/2024, 10:00",Pool E,Scheduled
+Tennessee Folklore,Oakay,0,0,"07/14/2024, 12:00",Pool E,Scheduled
 b,r,e,a,k
