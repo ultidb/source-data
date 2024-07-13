@@ -117,35 +117,6 @@ coaches,Jonathan He,Alexander Lam
 88,Devon Bringeland-Powell
 93,Mika Kurahashi
 b,r,e,a,k
-Polar Bears,7
-teamInfo,,"San Francisco Bay Area, California",http://www.pbrawr.com,https://www.facebook.com/pbrawr/,https://twitter.com/pbrawr
-0,Devin Drewry
-02,Molly Munson
-03,Joel Miller
-04,Gabriel Edwards
-05,Aaron Shi
-06,Courtney Greenley
-07,Brooke Nishida
-08,Emma Ressler
-10,Tucker Donahue
-12,Visakha Hoang
-13,Robert Yeagle
-14,Henry Lawton
-15,Marissa Lerner
-16,Vincenzo Vitiello
-22,Andrew Ouyang
-25,Jonah Malenfant
-30,Viola Deszily
-32,Margo Donahue
-33,Aviva Weinbaum
-36,Sara Nolan
-38,Jessica Wu
-51,Jesse Song
-78,Juleon Robinson
-90,Saul Wildavsky
-92,Seamus Shogren
-97,Ryan Hoffman
-b,r,e,a,k
 MOONDOG,12
 teamInfo,,"Montana, Montana",,,https://twitter.com/MoondogUltimate
 0,Briana Morales
@@ -175,33 +146,34 @@ teamInfo,,"Montana, Montana",,,https://twitter.com/MoondogUltimate
 34,Ben Perkel
 34,Davis Mossman
 b,r,e,a,k
-Drag'n Thrust,3
-teamInfo,,"Minneapolis, Minnesota",http://www.dragnthrust.com,https://www.facebook.com/dragnthrust,https://twitter.com/dragNthrust
-coaches,Carlos Lopez
-0,Bret Bergmeier
-02,Emma Peaslee
-03,Bryan Vohnoutka
-04,Erica Baken
-05,Chelsea Semper
-06,Audrey Parrott
-07,Danielle Byers
-09,Kyle Suelflow
-10,Jane Koch
-11,Rachel Johnson
-12,Marty Adams
-14,Tanner Barcus
-17,James Pollard
-19,Chagall Gelfand
-20,Neal Hanke
-21,Sarah Mondschein
-23,Ian Mccosky
-25,Clare Frantz
-35,Ryan Pesch
-44,Sarah Meckstroth
-49,Caleb Denecour
-53,Emma Piorier
-66,Jason Tschida
-77,Owen Suelflow
+Polar Bears,7
+teamInfo,,"San Francisco Bay Area, California",http://www.pbrawr.com,https://www.facebook.com/pbrawr/,https://twitter.com/pbrawr
+0,Devin Drewry
+02,Molly Munson
+03,Joel Miller
+04,Gabriel Edwards
+05,Aaron Shi
+06,Courtney Greenley
+07,Brooke Nishida
+08,Emma Ressler
+10,Tucker Donahue
+12,Visakha Hoang
+13,Robert Yeagle
+14,Henry Lawton
+15,Marissa Lerner
+16,Vincenzo Vitiello
+22,Andrew Ouyang
+25,Jonah Malenfant
+30,Viola Deszily
+32,Margo Donahue
+33,Aviva Weinbaum
+36,Sara Nolan
+38,Jessica Wu
+51,Jesse Song
+78,Juleon Robinson
+90,Saul Wildavsky
+92,Seamus Shogren
+97,Ryan Hoffman
 b,r,e,a,k
 Mischief,6
 teamInfo,,"San Francisco Bay Area, California",,https://www.facebook.com/MischiefUltimate/,https://twitter.com/mischief_nation
@@ -232,6 +204,34 @@ coaches,Andrew Berry,Nathan Young
 71,Liam Jay
 98,Wyatt Berreman
 99,Dylan Burns
+b,r,e,a,k
+Drag'n Thrust,3
+teamInfo,,"Minneapolis, Minnesota",http://www.dragnthrust.com,https://www.facebook.com/dragnthrust,https://twitter.com/dragNthrust
+coaches,Carlos Lopez
+0,Bret Bergmeier
+02,Emma Peaslee
+03,Bryan Vohnoutka
+04,Erica Baken
+05,Chelsea Semper
+06,Audrey Parrott
+07,Danielle Byers
+09,Kyle Suelflow
+10,Jane Koch
+11,Rachel Johnson
+12,Marty Adams
+14,Tanner Barcus
+17,James Pollard
+19,Chagall Gelfand
+20,Neal Hanke
+21,Sarah Mondschein
+23,Ian Mccosky
+25,Clare Frantz
+35,Ryan Pesch
+44,Sarah Meckstroth
+49,Caleb Denecour
+53,Emma Piorier
+66,Jason Tschida
+77,Owen Suelflow
 b,r,e,a,k
 Oregon Scorch,9
 teamInfo,,"Oregon, Oregon",,,
@@ -354,24 +354,28 @@ pools,Saturday Pool Play
 pool,Pool A
 BFG,Tower,14,13,"07/13/2024, 08:30",Pool A,Final
 BFG,Love Tractor,15,8,"07/13/2024, 10:15",Pool A,Final
-Love Tractor,Tower,0,0,"07/13/2024, 12:00",Pool A,Scheduled
+Love Tractor,Tower,7,15,"07/13/2024, 12:00",Pool A,Final
 pool,Pool B
 Red Flag,MOONDOG,15,7,"07/13/2024, 08:30",Pool B,Final
 Red Flag,Polar Bears,13,10,"07/13/2024, 10:15",Pool B,Final
-Polar Bears,MOONDOG,0,0,"07/13/2024, 12:00",Pool B,Scheduled
+Polar Bears,MOONDOG,11,15,"07/13/2024, 12:00",Pool B,Final
 pool,Pool C
 Drag'n Thrust,Oregon Scorch,15,9,"07/13/2024, 08:30",Pool C,Final
 Drag'n Thrust,Mischief,9,11,"07/13/2024, 10:15",Pool C,Final
-Mischief,Oregon Scorch,0,0,"07/13/2024, 12:00",Pool C,Scheduled
+Mischief,Oregon Scorch,15,8,"07/13/2024, 12:00",Pool C,Final
 pool,Pool D
 Lawless,Sunshine,15,11,"07/13/2024, 08:30",Pool D,Final
 Lawless,Seattle Mixtape,11,15,"07/13/2024, 10:15",Pool D,Final
 Seattle Mixtape,Sunshine,0,0,"07/13/2024, 12:00",Pool D,Scheduled
 b,r,e,a,k
 clusters,Seeding Crossover Games
+cluster,Seeding Crossover
+BFG,Mischief,0,0,"07/13/2024, 13:45",,Scheduled
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,Championship Final
+Drag'n Thrust,Love Tractor,0,0,"07/13/2024, 15:30",Pre-Quarterfinals,Scheduled
+Tower,Oregon Scorch,0,0,"07/13/2024, 15:30",Pre-Quarterfinals,Scheduled
 b,r,e,a,k
 brackets,Placement Brackets
 bracket,Third Place
