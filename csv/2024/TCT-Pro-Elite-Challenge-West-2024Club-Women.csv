@@ -30,32 +30,6 @@ coaches,Bob Krier,Andrew Lovseth
 77,Emma Williamson
 88,Veronica Eder
 b,r,e,a,k
-Pop,8
-teamInfo,,"Minneapolis, Minnesota",http://popultimate.wordpress.com/,https://www.facebook.com/popultimate,https://twitter.com/PopUltimate
-coaches,Donald Wood
-0,Emily Mulhern
-0,Erin McFadden
-0,Eugenia Garza
-0,Frankie Saraniti
-0,Josie Fenske
-0,Lisa Qiu
-0,Madelyn Lander
-0,Makella Daley
-0,Marin Ryan
-0,Rachel Gage
-0,Shelby Meyer
-0,Stephanie Wood
-0,Allegra Johnson McKee
-0,Anik Regan
-0,Anna Mulhern
-0,Clara Gale
-0,Elise Gallup
-0,Zella Sahar
-0,Carly Eckstrom
-9,Sara  Helm
-13,Elly Fireside-Ostergaard
-16,Lisa Barnes
-b,r,e,a,k
 Underground,11
 teamInfo,,"Seattle, Washington",,https://www.facebook.com/SeattleUnderground,https://twitter.com/UG_Seattle
 coaches,Jillian Goodreau
@@ -85,6 +59,32 @@ coaches,Jillian Goodreau
 20,Caitlin Durston
 27,Gabbie Campbell
 31,Ava Day
+b,r,e,a,k
+Pop,8
+teamInfo,,"Minneapolis, Minnesota",http://popultimate.wordpress.com/,https://www.facebook.com/popultimate,https://twitter.com/PopUltimate
+coaches,Donald Wood
+0,Emily Mulhern
+0,Erin McFadden
+0,Eugenia Garza
+0,Frankie Saraniti
+0,Josie Fenske
+0,Lisa Qiu
+0,Madelyn Lander
+0,Makella Daley
+0,Marin Ryan
+0,Rachel Gage
+0,Shelby Meyer
+0,Stephanie Wood
+0,Allegra Johnson McKee
+0,Anik Regan
+0,Anna Mulhern
+0,Clara Gale
+0,Elise Gallup
+0,Zella Sahar
+0,Carly Eckstrom
+9,Sara  Helm
+13,Elly Fireside-Ostergaard
+16,Lisa Barnes
 b,r,e,a,k
 Fury,2
 teamInfo,,"San Francisco, California",http://furyultimate.com/,https://www.facebook.com/furyultimate/,https://twitter.com/furyultimate
@@ -332,7 +332,7 @@ pools,Saturday Pool Play
 pool,Pool A
 Molly Brown,Underground,15,1,"07/13/2024, 08:30",Pool A,Final
 Molly Brown,Pop,15,7,"07/13/2024, 10:15",Pool A,Final
-Pop,Underground,0,0,"07/13/2024, 12:00",Pool A,Scheduled
+Pop,Underground,12,13,"07/13/2024, 12:00",Pool A,Final
 pool,Pool B
 Fury,Colorado Kelp,15,3,"07/13/2024, 08:30",Pool B,Final
 Fury,Nightlock,15,4,"07/13/2024, 10:15",Pool B,Final
@@ -347,9 +347,13 @@ Traffic,Seattle Riot,14,9,"07/13/2024, 10:15",Pool D,Final
 Seattle Riot,FAB,15,2,"07/13/2024, 12:00",Pool D,Final
 b,r,e,a,k
 clusters,Seeding Crossover Games
+cluster,Seeding Crossover
+Molly Brown,Flipside,0,0,"07/13/2024, 13:45",,Scheduled
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,Championship Final
+Schwa,Pop,0,0,"07/13/2024, 15:30",Pre-Quarterfinals,Scheduled
+Underground,Colorado Small Batch,0,0,"07/13/2024, 15:30",Pre-Quarterfinals,Scheduled
 b,r,e,a,k
 brackets,Placement Brackets
 bracket,Third Place
