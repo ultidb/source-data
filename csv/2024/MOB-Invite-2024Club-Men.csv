@@ -30,19 +30,6 @@ teamInfo,,"College Park, Maryland",,,
 41,Zachary Yang
 84,Jacob Zucker
 b,r,e,a,k
-SUPA FC,4
-teamInfo,,"Stewartstown , Pennsylvania",https://centralpaultimate.com/supa-ultimate-league,@stewartstownupa,@stewartstownupa
-0,Eric Grosh
-0,Jesse Heindel
-0,Jordan Winey
-0,Josh Miller
-0,Charles Hoppes
-0,Steven Whiteford
-8,Silas Angelino
-10,Derek Rabold
-33,David Lincoln 
-40,Sean Hermanns
-b,r,e,a,k
 Bomb Squad,1
 teamInfo,,"Baltimore, Maryland",,,
 0,Alexander Vasserman
@@ -67,6 +54,19 @@ teamInfo,,"Baltimore, Maryland",,,
 22,Lemuel Sun
 77,Grady Riley
 96,Zachary Cousino
+b,r,e,a,k
+SUPA FC,4
+teamInfo,,"Stewartstown , Pennsylvania",https://centralpaultimate.com/supa-ultimate-league,@stewartstownupa,@stewartstownupa
+0,Eric Grosh
+0,Jesse Heindel
+0,Jordan Winey
+0,Josh Miller
+0,Charles Hoppes
+0,Steven Whiteford
+8,Silas Angelino
+10,Derek Rabold
+33,David Lincoln 
+40,Sean Hermanns
 b,r,e,a,k
 Virginia Vortex,8
 teamInfo,,"Falls Church, Virginia",fairfaxultimate.org,,
@@ -197,10 +197,10 @@ pools,Pool Play
 pool,Pool A
 Bomb Squad,Town Hall Stars,12,14,"07/13/2024, 09:00",Pool A,Final
 SUPA FC,Virginia Vortex,15,3,"07/13/2024, 09:00",Pool A,Final
-Bomb Squad,Virginia Vortex,0,0,"07/13/2024, 10:30",Pool A,Scheduled
+Bomb Squad,Virginia Vortex,1,0,"07/13/2024, 10:30",Pool A,Final
 SUPA FC,Town Hall Stars,9,12,"07/13/2024, 10:30",Pool A,Final
 Bomb Squad,SUPA FC,12,7,"07/13/2024, 12:00",Pool A,Final
-Town Hall Stars,Virginia Vortex,0,0,"07/13/2024, 12:00",Pool A,Scheduled
+Town Hall Stars,Virginia Vortex,1,0,"07/13/2024, 12:00",Pool A,Final
 pool,Pool B
 Winc City Fog,EZ,13,10,"07/13/2024, 09:00",Pool B,Final
 MOB Ultimate,Beef Depot,15,6,"07/13/2024, 09:00",Pool B,Final
@@ -211,7 +211,11 @@ EZ,Beef Depot,6,8,"07/13/2024, 12:00",Pool B,Final
 b,r,e,a,k
 brackets,Placement Games
 bracket,1st Place Game
+Town Hall Stars,Winc City Fog,0,0,"07/13/2024, 13:30",MOB Invite Championship,Scheduled
 bracket,Consolation Game
+Bomb Squad,MOB Ultimate,10,9,"07/13/2024, 13:30",3rd Place Game,Final
 bracket,Consolation Game
+SUPA FC,Beef Depot,0,0,"07/13/2024, 13:30",5th Place Game,Scheduled
 bracket,Consolation Game
+Virginia Vortex,EZ,0,0,"07/13/2024, 13:30",7th Place Game,Scheduled
 b,r,e,a,k
