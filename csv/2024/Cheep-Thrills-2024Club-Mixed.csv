@@ -1,33 +1,6 @@
 Cheep Thrills 2024,Club - Mixed ,13,7,2024
 Eden Prairie,MN,2024-07-13,2024-07-14
 https://play.usaultimate.org/events/Cheep-Thrills-2024/schedule/Mixed/Club-Mixed
-Great Minnesota Get Together,8
-teamInfo,,"Falcon Heights, Minnesota",,,
-0,Dan Distad
-0,Daniel Herrera
-0,David McNeil
-0,David Palo
-0,David Collom
-0,Andrew Zumbusch
-0,Brandon Woody
-0,Jennifer Degen
-0,Katie Pace
-0,Lauren McPherson
-0,Matthew Bailey
-0,Michelle Keohane
-0,Randy Gage
-0,Riley Gage
-0,Ryan Reding
-0,Seija Stratton
-2,Kyle Crawford
-4,Kelsey Mork
-6,Kathy Young
-7,Jennie Zumbusch (Akerstrom)
-17,Ellie Clarin
-20,Paul Westin
-38,Alexis Wood
-50,Carl Aanestad
-b,r,e,a,k
 Pushovers,1
 teamInfo,,"Lake Elmo, Minnesota",,,
 0,Alexander Kucich
@@ -56,6 +29,33 @@ teamInfo,,"Lake Elmo, Minnesota",,,
 62,Marcus Cannon
 94,Sylvie Mercil
 95,Eric Volkmeier
+b,r,e,a,k
+Great Minnesota Get Together,8
+teamInfo,,"Falcon Heights, Minnesota",,,
+0,Dan Distad
+0,Daniel Herrera
+0,David McNeil
+0,David Palo
+0,David Collom
+0,Andrew Zumbusch
+0,Brandon Woody
+0,Jennifer Degen
+0,Katie Pace
+0,Lauren McPherson
+0,Matthew Bailey
+0,Michelle Keohane
+0,Randy Gage
+0,Riley Gage
+0,Ryan Reding
+0,Seija Stratton
+2,Kyle Crawford
+4,Kelsey Mork
+6,Kathy Young
+7,Jennie Zumbusch (Akerstrom)
+17,Ellie Clarin
+20,Paul Westin
+38,Alexis Wood
+50,Carl Aanestad
 b,r,e,a,k
 Limbo,9
 teamInfo,,"St. Paul, Minnesota",,,
@@ -228,28 +228,6 @@ teamInfo,,"Saint Paul, Minnesota",,https://www.facebook.com/MeltUltimateMN/,http
 73,Charlie Enders
 85,Christian Conway
 b,r,e,a,k
-Giant Six Pack,14
-teamInfo,,"La Crosse, Wisconsin",,,
-0,Zoe Hoornbeek
-03,Sarah Appelen
-05,Melissa Weaver
-06,Brandon Gaethke
-09,Arik Waldinger
-10,Justin Mangan
-11,Lance Barnewitz 
-12,Anna Bowes
-16,Andrew Ericson
-17,Marite Olmstead
-22,Cody Suchla
-23,William Stafford
-25,Traci Otto
-27,Conner Dopp
-30,Kelly Hewitt
-32,Annie Waniger
-36,Sophia Theiss
-44,Jenna Hausman
-88,Chris Rogers
-b,r,e,a,k
 Lake Superior Disc,11
 teamInfo,,"Duluth, Minnesota",,,
 0,Cole Carignan
@@ -275,6 +253,28 @@ teamInfo,,"Duluth, Minnesota",,,
 88,Elena Bantle
 89,Julia Record
 93,Ann Farley
+b,r,e,a,k
+Giant Six Pack,14
+teamInfo,,"La Crosse, Wisconsin",,,
+0,Zoe Hoornbeek
+03,Sarah Appelen
+05,Melissa Weaver
+06,Brandon Gaethke
+09,Arik Waldinger
+10,Justin Mangan
+11,Lance Barnewitz 
+12,Anna Bowes
+16,Andrew Ericson
+17,Marite Olmstead
+22,Cody Suchla
+23,William Stafford
+25,Traci Otto
+27,Conner Dopp
+30,Kelly Hewitt
+32,Annie Waniger
+36,Sophia Theiss
+44,Jenna Hausman
+88,Chris Rogers
 b,r,e,a,k
 Fatal Attraction,12
 teamInfo,,"Omaha, Nebraska",,,
@@ -389,7 +389,7 @@ pools,Pool Play
 pool,Pool A
 Great Minnesota Get Together,Limbo,13,6,"07/13/2024, 09:30",Pool A,Final
 Pushovers,Limbo,13,7,"07/13/2024, 11:15",Pool A,Final
-Pushovers,Great Minnesota Get Together,0,0,"07/14/2024, 08:30",Pool A,Scheduled
+Pushovers,Great Minnesota Get Together,13,4,"07/14/2024, 08:30",Pool A,Final
 pool,Pool B
 Boomtown Pandas,Geri-Mander,13,8,"07/13/2024, 09:30",Pool B,Final
 Pandamonium,Geri-Mander,13,5,"07/13/2024, 11:15",Pool B,Final
@@ -399,8 +399,8 @@ Bird,Lake Superior Disc,13,0,"07/13/2024, 09:30",Pool C,Final
 Melt,Giant Six Pack,11,7,"07/13/2024, 09:30",Pool C,Final
 Bird,Giant Six Pack,13,2,"07/13/2024, 11:15",Pool C,Final
 Melt,Lake Superior Disc,13,6,"07/13/2024, 11:15",Pool C,Final
-Bird,Melt,0,0,"07/14/2024, 08:30",Pool C,Scheduled
-Lake Superior Disc,Giant Six Pack,0,0,"07/14/2024, 08:30",Pool C,Scheduled
+Bird,Melt,13,3,"07/14/2024, 08:30",Pool C,Final
+Lake Superior Disc,Giant Six Pack,13,12,"07/14/2024, 08:30",Pool C,Final
 pool,Pool D
 No Touching!,Fatal Attraction,12,11,"07/13/2024, 09:30",Pool D,Final
 MN Superior,Lemonade Ultimate,13,4,"07/13/2024, 09:30",Pool D,Final
@@ -414,11 +414,14 @@ Limbo,Geri-Mander,0,0,"07/14/2024, 08:30",,Scheduled
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,1st Place
+Pushovers,MN Superior,0,0,"07/14/2024, 10:00",Quarters,Scheduled
+Fatal Attraction,Great Minnesota Get Together,0,0,"07/14/2024, 10:00",Quarters,Scheduled
 bracket,3rd Place
 bracket,5th Place
 bracket,7th Place
 b,r,e,a,k
 brackets,Consolation Bracket
 bracket,Consolation Bracket
+Giant Six Pack,Lemonade Ultimate,0,0,"07/14/2024, 10:00",9th Quarter,Scheduled
 bracket,Consolation Game
 b,r,e,a,k
