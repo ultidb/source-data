@@ -39,4 +39,11 @@ def updateCSVs(csv_list, needsUpdate):
     conn.commit()
     conn.close()
 
+def listFailedCSVs():
+    conn = sqlite3.connect('scraper.db')
+    c = conn.cursor()
 
+    res = c.execute("SELECT csvPath from Tournaments WHERE needsUpdate = 1")
+    out = [i[0] for i in res.fetchall()]
+    conn.close()
+    return out
