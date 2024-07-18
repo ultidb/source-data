@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup, NavigableString, Tag, element
 import logging as log
 import csv
 from datetime import datetime, timedelta
-from models import Team, TeamInfo, Tournament, Game, Pools, Cluster, Clusters, Stage, Brackets, Bracket, Pool
+from models import *
 
 DIVISIONS = {
     "College - Men": "Men/CollegeMen/",

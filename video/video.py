@@ -171,6 +171,9 @@ def scrapeUltiworld():
         "https://ultiworld.com/video/?years=2024&divisions=usau-college-d-i-womens&packages=&event=&tags=#filtered",
         "https://ultiworld.com/video/?years=2024&divisions=usau-college-d-iii-mens&packages=&event=&tags=#filtered",
         "https://ultiworld.com/video/?years=2024&divisions=usau-college-d-iii-womens&packages=&event=&tags=#filtered",
+        "https://ultiworld.com/video/?years=2024&divisions=usau-club-mens&packages=&event=&tags=#filtered",
+        "https://ultiworld.com/video/?years=2024&divisions=usau-club-mixed&packages=&event=&tags=#filtered",
+        "https://ultiworld.com/video/?years=2024&divisions=usau-club-womens&packages=&event=&tags=#filtered",
     ]
 
     years = {

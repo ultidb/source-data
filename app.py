@@ -181,6 +181,9 @@ def listUpdatedFiles(path):
             output.append(filename)
     return output
 
+def resendFailedCSVs():
+    postUpdatedCsvListToAPI(db.listFailedCSVs())
+
 
 def postUpdatedCsvListToAPI(
     csvs, UpdatePlayers=True, checkExisting=True, DryRun=False
@@ -261,6 +264,7 @@ def add_cors_header(response):
 
 if __name__ == "__main__":
     # Setup default config (init schedule, tor, and scrape calendar for year)
+    # resendFailedCSVs()
     prodSetup()
     # scrapeAndPushVideos()
     # Optional calls for testing/development
