@@ -47,6 +47,29 @@ coaches,August Schwartz
 32,Hal Robinson
 91,Little Dipper
 b,r,e,a,k
+Surf,6
+teamInfo,,"Victoria, British Columbia CA",,,
+0,Benjamin Savage
+0,Charlie Kassissieh
+0,Geoff Urton
+0,Alex Longe
+0,Ian McLaren
+0,Lochlan Margison
+0,Matthew Kadota
+0,Nathan Lam
+0,Patrick Frisby
+0,Serwan Sahin
+0,Toby Sherriff
+0,Yohan Laffitte
+12,Markus Hernandez
+14,Ian Robinson
+27,Wesley Fraser
+33,Pascal Begin-Nose
+54,Shayne Pfeifer
+55,Ben Baird
+79,Ian Hamilton
+96,Mikhail Pozin
+b,r,e,a,k
 Battery,15
 teamInfo,,"San Francisco, California",,https://www.facebook.com/batteryultimate/,https://twitter.com/SF_Battery
 coaches,Andrew Riggs
@@ -71,29 +94,6 @@ coaches,Andrew Riggs
 55,Kosuke Hasegawa
 86,Jordan Seaberg
 99,Brendan Mackel
-b,r,e,a,k
-Surf,6
-teamInfo,,"Victoria, British Columbia CA",,,
-0,Benjamin Savage
-0,Charlie Kassissieh
-0,Geoff Urton
-0,Alex Longe
-0,Ian McLaren
-0,Lochlan Margison
-0,Matthew Kadota
-0,Nathan Lam
-0,Patrick Frisby
-0,Serwan Sahin
-0,Toby Sherriff
-0,Yohan Laffitte
-12,Markus Hernandez
-14,Ian Robinson
-27,Wesley Fraser
-33,Pascal Begin-Nose
-54,Shayne Pfeifer
-55,Ben Baird
-79,Ian Hamilton
-96,Mikhail Pozin
 b,r,e,a,k
 ISO Atmo,2
 teamInfo,,"Boulder, Colorado",,,
@@ -369,11 +369,11 @@ pool,Pool A
 Fungi,Battery,13,6,"07/27/2024, 10:45",Pool A,Final
 Surf,Junco,8,15,"07/27/2024, 10:45",Pool A,Final
 Fungi,Junco,15,8,"07/27/2024, 12:30",Pool A,Final
-Surf,Battery,0,0,"07/27/2024, 12:30",Pool A,Scheduled
+Surf,Battery,11,10,"07/27/2024, 12:30",Pool A,Final
 pool,Pool B
 ISO Atmo,Make it Rain,15,11,"07/27/2024, 09:00",Pool B,Final
 ISO Atmo,Drought,15,8,"07/27/2024, 10:45",Pool B,Final
-Drought,Make it Rain,0,0,"07/27/2024, 12:30",Pool B,Scheduled
+Drought,Make it Rain,8,12,"07/27/2024, 12:30",Pool B,Final
 pool,Pool C
 Switchback,Sawtooth,15,8,"07/27/2024, 09:00",Pool C,Final
 SOUF,Green River Swordfish,13,10,"07/27/2024, 09:00",Pool C,Final
@@ -387,15 +387,19 @@ Texas Duffy,Seven Gills,14,11,"07/27/2024, 10:45",Pool D,Final
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,Championship
-Texas Duffy,Switchback,13,12,"07/27/2024, 12:30",Pre-Quarterfinal,Final
+Fungi,Switchback,0,0,"07/28/2024, 10:15",Quarterfinal,Scheduled
+Texas Duffy,Switchback,12,13,"07/27/2024, 12:30",Pre-Quarterfinal,Final
+Make it Rain,Surf,0,0,"07/27/2024, 14:15",Pre-Quarterfinal,Scheduled
 Green River Swordfish,Bux,9,10,"07/27/2024, 12:30",Pre-Quarterfinal,Final
 SOUF,Seven Gills,0,0,"07/27/2024, 14:15",Pre-Quarterfinal,Scheduled
+Drought,Junco,0,0,"07/27/2024, 14:15",Pre-Quarterfinal,Scheduled
 OAT,Sawtooth,0,0,"07/27/2024, 14:15",Pre-Quarterfinal,Scheduled
+Battery,ISO Atmo,0,0,"07/27/2024, 14:15",Pre-Quarterfinal,Scheduled
 b,r,e,a,k
 pools,Sunday Ninth Place Placement Pools
 pool,Pool E
 pool,Pool F
-Switchback,Green River Swordfish,0,0,"07/28/2024, 12:00",Pool F,Scheduled
+Texas Duffy,Green River Swordfish,0,0,"07/28/2024, 12:00",Pool F,Scheduled
 b,r,e,a,k
 brackets,Placement Brackets
 bracket,Third Place
