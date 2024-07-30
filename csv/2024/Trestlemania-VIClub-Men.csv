@@ -30,10 +30,25 @@ teamInfo,,"Atlanta, Georgia",,,https://twitter.com/atlantaarson
 66,Jaylon Boone
 69,John Broling
 b,r,e,a,k
-Watchmen,3
-teamInfo,,"Nashville, Tennessee",,,https://x.com/NashWatchmen?s=20
+PARLAY,4
+teamInfo,,"Charlotte, North Carolina",,,
+0,Alex Fischer
+0,Davian Rhodes
+0,Harry Ohlhaut
+2,Josh Holder
+3,Rashaad Saunders
+5,Michael Gentry
+6,Andy Jiang
+7,Allen Meese
+12,Andy Dinh
+14,Matthew Lundstrom
+23,Taylor Crotts
+26,Joshua Lich
+44,Dong Lam
+69,Cliff Totherow
+80,Michael Farnham
 b,r,e,a,k
-Harvest Moon,6
+Harvest Moon,5
 teamInfo,,"Cumming, Georgia",,,
 coaches,Madison Head
 0,Andrew Primiano
@@ -61,8 +76,8 @@ coaches,Madison Head
 77,Angel Villeda-Gracia
 90,Ben Llena
 b,r,e,a,k
-Power Point Ultimate,7
-teamInfo,,"Augusta, Georgia",,,
+ATL B,8
+teamInfo,,"Atlanta, Georgia",,,
 b,r,e,a,k
 Hooch,2
 teamInfo,,"Atlanta, Georgia",,,https://twitter.com/HoochUltimate
@@ -92,19 +107,20 @@ teamInfo,,"Atlanta, Georgia",,,https://twitter.com/HoochUltimate
 52,Kevin Halprin
 58,Jon Ross Ingley
 b,r,e,a,k
-Dyno,4
+Dyno,3
 teamInfo,,"Atlanta, Georgia",,,
 0,Adam Granade
 0,Aidan Pietruszka
 0,Austin Thomas
 0,Charles Huff
 0,Chase Miller
+0,Ethan Niedzwiedz
+0,Evan Burnley
+0,Grady Freeman
 0,Joshua Ngotiaoco
 0,Kishan Patel
 0,Kody Cotton
 0,Lucas Maurer
-0,Ethan Niedzwiedz
-0,Grady Freeman
 0,sam granade
 10,Nicholas Andrews
 14,Matthew Greenberg
@@ -113,20 +129,24 @@ teamInfo,,"Atlanta, Georgia",,,
 35,Josh Breeden
 62,Ross Barnes
 b,r,e,a,k
-PARLAY,5
-teamInfo,,"Charlotte, North Carolina",,,
-0,Alex Fischer
-0,Davian Rhodes
-0,Harry Ohlhaut
-3,Rashaad Saunders
-5,Michael Gentry
-6,Andy Jiang
-7,Allen Meese
-14,Matthew Lundstrom
-69,Cliff Totherow
-80,Michael Farnham
+Power Point Ultimate,6
+teamInfo,,"Augusta, Georgia",,,
+0,George Fegert
+1,Gustavo Capo
+3,Dante Tollefson
+4,Ashton Tucker
+5,Josh Warner
+7,Richard Murphy
+20,Simon Austin
+22,Logan Eidell
+23,Hiren Patel
+24,Patrick Thompson
+34,Taylor  Austin 
+68,Aaron Tafoya
+91,Gerald Renato
+98,Noah Ayers
 b,r,e,a,k
-Atlanta Outlaws,8
+Atlanta Outlaws,7
 teamInfo,,"Atlanta, Georgia",,,
 0,Ben Campion
 0,Cade Jones
@@ -148,35 +168,26 @@ teamInfo,,"Atlanta, Georgia",,,
 27,Abenezer Diribssa
 69,Michael Catucci
 b,r,e,a,k
-ATL B,9
-teamInfo,,"Atlanta, Georgia",,,
-b,r,e,a,k
 s,t,a,g,e,s
-pools,Sat Pool Play
+pools,Pool Play
 pool,Pool A
 Atlanta Arson,Harvest Moon,0,0,"08/03/2024, 09:00",Pool A,Scheduled
-Watchmen,Power Point Ultimate,0,0,"08/03/2024, 09:00",Pool A,Scheduled
-Atlanta Arson,Power Point Ultimate,0,0,"08/03/2024, 11:00",Pool A,Scheduled
-Watchmen,Harvest Moon,0,0,"08/03/2024, 11:00",Pool A,Scheduled
-Atlanta Arson,Watchmen,0,0,"08/03/2024, 13:00",Pool A,Scheduled
-Harvest Moon,Power Point Ultimate,0,0,"08/03/2024, 13:00",Pool A,Scheduled
+PARLAY,ATL B,0,0,"08/03/2024, 09:00",Pool A,Scheduled
+Atlanta Arson,ATL B,0,0,"08/03/2024, 10:45",Pool A,Scheduled
+PARLAY,Harvest Moon,0,0,"08/03/2024, 10:45",Pool A,Scheduled
+Atlanta Arson,PARLAY,0,0,"08/03/2024, 12:30",Pool A,Scheduled
+Harvest Moon,ATL B,0,0,"08/03/2024, 12:30",Pool A,Scheduled
 pool,Pool B
-Hooch,ATL B,0,0,"08/03/2024, 09:00",Pool B,Scheduled
-PARLAY,Atlanta Outlaws,0,0,"08/03/2024, 09:00",Pool B,Scheduled
-Hooch,PARLAY,0,0,"08/03/2024, 10:30",Pool B,Scheduled
-Dyno,Atlanta Outlaws,0,0,"08/03/2024, 10:30",Pool B,Scheduled
-Atlanta Outlaws,ATL B,0,0,"08/03/2024, 12:00",Pool B,Scheduled
-Dyno,PARLAY,0,0,"08/03/2024, 12:00",Pool B,Scheduled
-Hooch,Atlanta Outlaws,0,0,"08/03/2024, 13:30",Pool B,Scheduled
-Dyno,ATL B,0,0,"08/03/2024, 13:30",Pool B,Scheduled
-Hooch,Dyno,0,0,"08/03/2024, 15:00",Pool B,Scheduled
-PARLAY,ATL B,0,0,"08/03/2024, 15:00",Pool B,Scheduled
+Hooch,Power Point Ultimate,0,0,"08/03/2024, 09:00",Pool B,Scheduled
+Dyno,Atlanta Outlaws,0,0,"08/03/2024, 09:00",Pool B,Scheduled
+Hooch,Atlanta Outlaws,0,0,"08/03/2024, 10:45",Pool B,Scheduled
+Dyno,Power Point Ultimate,0,0,"08/03/2024, 10:45",Pool B,Scheduled
+Hooch,Dyno,0,0,"08/03/2024, 12:30",Pool B,Scheduled
+Power Point Ultimate,Atlanta Outlaws,0,0,"08/03/2024, 12:30",Pool B,Scheduled
 b,r,e,a,k
-brackets,Sunday Brackets
+brackets,Bracket Play
 bracket,1st Place Bracket
 bracket,3rd Place
 bracket,5th Place
-b,r,e,a,k
-pools,Sun 7/8/9
-pool,7/8/9th Place
+bracket,7th Place
 b,r,e,a,k
