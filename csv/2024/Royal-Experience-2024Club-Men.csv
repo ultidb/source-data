@@ -28,30 +28,6 @@ teamInfo,,"Des Moines, Iowa",,,https://twitter.com/demoultimate
 45,Devon Lord
 69,Isaac Timm
 b,r,e,a,k
-Nomads,9
-teamInfo,,"Sioux Falls, South Dakota",,,
-0,Brayden Johnson
-0,Carter Hodkinson
-0,Connor Hodkinson
-0,Cullen Belisle
-0,Ira (Field) Mitchell VI
-0,Jacob Whempner
-0,Joe Higgins
-0,Kalen Pegeder
-0,Kyle Murphy
-0,Matthew Georgesen
-0,Michael Schwaderer
-0,Owen Schweitzer
-0,Seth Harris
-0,Tye Klinnert
-0,Zach Andersen
-6,Daniel Cabrera
-17,Anthony Lesnar
-20,Carter Whalen
-25,Kyle Orians
-84,Aaron Bauer
-99,Grant Dunbar
-b,r,e,a,k
 Red Lotus,1
 teamInfo,,"Boulder, Colorado",,,
 0,Andrew Swanson
@@ -78,6 +54,30 @@ teamInfo,,"Boulder, Colorado",,,
 40,Abram Yehle
 41,Spencer Rebman
 91,Elliot Frank
+b,r,e,a,k
+Nomads,9
+teamInfo,,"Sioux Falls, South Dakota",,,
+0,Brayden Johnson
+0,Carter Hodkinson
+0,Connor Hodkinson
+0,Cullen Belisle
+0,Ira (Field) Mitchell VI
+0,Jacob Whempner
+0,Joe Higgins
+0,Kalen Pegeder
+0,Kyle Murphy
+0,Matthew Georgesen
+0,Michael Schwaderer
+0,Owen Schweitzer
+0,Seth Harris
+0,Tye Klinnert
+0,Zach Andersen
+6,Daniel Cabrera
+17,Anthony Lesnar
+20,Carter Whalen
+25,Kyle Orians
+84,Aaron Bauer
+99,Grant Dunbar
 b,r,e,a,k
 STL Goonar,16
 teamInfo,,"Saint Louis, Missouri",,,
@@ -325,27 +325,6 @@ teamInfo,,"St. Louis, Missouri",,,
 77,Kevin Asaro
 81,Zachary Szatkowski
 b,r,e,a,k
-Scythe,12
-teamInfo,,"Omaha, Nebraska",http://www.bonehorn.com,https://www.facebook.com/scytheultimate/?ref=aymt_homepage_panel&eid=ARBvN0gED3WPXSN3wd5-QYuW_bTwDmgrDEb19ZeuZ2OAuYE13vdyfwSQASticEyPyGjIcpYB9Q0sfBVB,@ScytheUltimate
-0,Dylan Kuehn
-0,Isaiah  Bray-Johnson
-0,Josh Lickteig
-0,Kingdon Hawes
-0,Zachary Lin
-4,Philip Samuels
-10,David Zheng
-13,Dennis Pederson
-15,Nich Rush
-24,Kobe  Bray
-28,Josh Kryzer
-35,Kyle Carson
-39,Thomas Sitorius
-42,Chas Busch
-54,Eamon  Sughroue
-72,John Bevans
-77,Michael Swanger
-85,Peyton Thurman
-b,r,e,a,k
 NOx,4
 teamInfo,,"Kansas City, Missouri",,,
 0,Brett Dare
@@ -369,6 +348,27 @@ teamInfo,,"Kansas City, Missouri",,,
 69,Tyler Kalm
 98,Garret Heiberger
 99,Jordan Becquer
+b,r,e,a,k
+Scythe,12
+teamInfo,,"Omaha, Nebraska",http://www.bonehorn.com,https://www.facebook.com/scytheultimate/?ref=aymt_homepage_panel&eid=ARBvN0gED3WPXSN3wd5-QYuW_bTwDmgrDEb19ZeuZ2OAuYE13vdyfwSQASticEyPyGjIcpYB9Q0sfBVB,@ScytheUltimate
+0,Dylan Kuehn
+0,Isaiah  Bray-Johnson
+0,Josh Lickteig
+0,Kingdon Hawes
+0,Zachary Lin
+4,Philip Samuels
+10,David Zheng
+13,Dennis Pederson
+15,Nich Rush
+24,Kobe  Bray
+28,Josh Kryzer
+35,Kyle Carson
+39,Thomas Sitorius
+42,Chas Busch
+54,Eamon  Sughroue
+72,John Bevans
+77,Michael Swanger
+85,Peyton Thurman
 b,r,e,a,k
 Dreadnought,5
 teamInfo,,"Fayetteville, Arkansas",,,https://twitter.com/DreadnoughtUlti
@@ -402,17 +402,17 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Pools
 pool,Pool A
-Red Lotus,Nomads,13,10,"08/03/2024, 09:00",Pool A,Scheduled
+Red Lotus,Nomads,13,10,"08/03/2024, 09:00",Pool A,Final
 DeMo,STL Goonar,13,6,"08/03/2024, 09:00",Pool A,Final
 Red Lotus,STL Goonar,13,11,"08/03/2024, 11:00",Pool A,Final
 DeMo,Nomads,13,8,"08/03/2024, 11:00",Pool A,Final
 Red Lotus,DeMo,10,13,"08/03/2024, 13:00",Pool A,Final
 Nomads,STL Goonar,13,8,"08/03/2024, 13:00",Pool A,Final
 pool,Pool B
-Kansas City Smokestack,Choice City Hops,13,3,"08/03/2024, 09:00",Pool B,Scheduled
+Kansas City Smokestack,Choice City Hops,13,3,"08/03/2024, 09:00",Pool B,Final
 Clutch,Loaded Panda,13,4,"08/03/2024, 09:00",Pool B,Final
 Kansas City Smokestack,Loaded Panda,13,2,"08/03/2024, 11:00",Pool B,Final
-Clutch,Choice City Hops,0,0,"08/03/2024, 11:00",Pool B,Scheduled
+Clutch,Choice City Hops,13,3,"08/03/2024, 11:00",Pool B,Final
 Kansas City Smokestack,Clutch,11,10,"08/03/2024, 13:00",Pool B,Final
 Choice City Hops,Loaded Panda,13,12,"08/03/2024, 13:00",Pool B,Final
 pool,Pool C
@@ -423,7 +423,7 @@ Knights of Ni,Sprawl,13,10,"08/03/2024, 11:00",Pool C,Final
 Carbon,Knights of Ni,5,13,"08/03/2024, 13:00",Pool C,Final
 Sprawl,Friendly Fire,13,6,"08/03/2024, 13:00",Pool C,Final
 pool,Pool D
-NOx,Scythe,0,0,"08/03/2024, 09:00",Pool D,Scheduled
+NOx,Scythe,13,11,"08/03/2024, 09:00",Pool D,Final
 Dreadnought,STL Moonar,9,13,"08/03/2024, 09:00",Pool D,Final
 NOx,STL Moonar,9,13,"08/03/2024, 11:00",Pool D,Final
 Dreadnought,Scythe,0,0,"08/03/2024, 11:00",Pool D,Scheduled
@@ -432,6 +432,10 @@ Scythe,STL Moonar,13,11,"08/03/2024, 13:00",Pool D,Final
 b,r,e,a,k
 brackets,Brackets
 bracket,Championship
+Choice City Hops,Sprawl,0,0,"08/03/2024, 15:00",Pre-Pre-Semis,Scheduled
+Clutch,Carbon,0,0,"08/03/2024, 15:00",Pre-Pre-Semis,Scheduled
+Knights of Ni,Loaded Panda,0,0,"08/03/2024, 15:00",Pre-Pre-Semis,Scheduled
+Friendly Fire,Kansas City Smokestack,0,0,"08/03/2024, 15:00",Pre-Pre-Semis,Scheduled
 bracket,9th Place
 bracket,5th Place
 bracket,13th Place
