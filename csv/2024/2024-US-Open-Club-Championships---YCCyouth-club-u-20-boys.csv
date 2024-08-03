@@ -316,6 +316,35 @@ coaches,Kurt Kuelz,Wesley Dudas,Briana Campbell
 77,Nathaniel Humphrey
 99,Jonas Hefner
 b,r,e,a,k
+Seven Hills U20 Open,12
+teamInfo,,"Seattle, Washington",,,
+coaches,Jordan Smith,Samir Nguyen,Zeppelin Raunig
+0,Benjamin Lewis
+02,Nolan Muongchan
+03,Naldo robancho
+06,Aage Bonnell
+08,Rami Rifaat
+09,Tanner Monohan
+10,Filip Icev
+11,Lucas Terzic
+12,Harrison Schaw
+13,Owen Sprague
+14,Jared Tellez
+15,Arya Dhuvoor
+16,James Dailey
+17,Noah Malla
+18,Jude Small
+22,Jordan  Lazer
+25,Bison McCotter-Hulett
+26,Emanuel Berson
+28,Josue Ostos
+31,Ethan Murray
+32,Clay Kuran
+35,Daniel Chickering
+42,Phoenix  Laliberte
+79,Nathan Williams
+99,David Andrew Isom
+b,r,e,a,k
 SmOAK (U20),5
 teamInfo,U20,"Oakland, California",https://oakultimate.com/,https://www.instagram.com/oakultimate/,https://twitter.com/oak_ultimate
 coaches,Colby Chuck,Chris Garcia,Michael Peng,Robin Anthony-Petersen
@@ -346,35 +375,6 @@ coaches,Colby Chuck,Chris Garcia,Michael Peng,Robin Anthony-Petersen
 94,Jonah Marquart
 97,Theo Kojan
 99,Lawrence James Dixon 
-b,r,e,a,k
-Seven Hills U20 Open,12
-teamInfo,,"Seattle, Washington",,,
-coaches,Jordan Smith,Samir Nguyen,Zeppelin Raunig
-0,Benjamin Lewis
-02,Nolan Muongchan
-03,Naldo robancho
-06,Aage Bonnell
-08,Rami Rifaat
-09,Tanner Monohan
-10,Filip Icev
-11,Lucas Terzic
-12,Harrison Schaw
-13,Owen Sprague
-14,Jared Tellez
-15,Arya Dhuvoor
-16,James Dailey
-17,Noah Malla
-18,Jude Small
-22,Jordan  Lazer
-25,Bison McCotter-Hulett
-26,Emanuel Berson
-28,Josue Ostos
-31,Ethan Murray
-32,Clay Kuran
-35,Daniel Chickering
-42,Phoenix  Laliberte
-79,Nathan Williams
-99,David Andrew Isom
 b,r,e,a,k
 Madison MUFAbots U20B,24
 teamInfo,,"Madison, Wisconsin",,,
@@ -636,7 +636,7 @@ pools,Pool Play
 pool,Pool A
 ATLiens,Moon Pigs,14,7,"08/03/2024, 08:30",Pool A,Final
 Utah Swarm U20 Boys,Moon Pigs,15,5,"08/03/2024, 10:45",Pool A,Final
-Utah Swarm U20 Boys,ATLiens,12,10,"08/03/2024, 15:15",Pool A,Scheduled
+Utah Swarm U20 Boys,ATLiens,12,10,"08/03/2024, 15:15",Pool A,Final
 pool,Pool B
 Texas United,Impulse,10,11,"08/03/2024, 08:30",Pool B,Final
 Foggy Bottom Boys,Impulse,14,5,"08/03/2024, 10:45",Pool B,Final
@@ -644,7 +644,7 @@ Foggy Bottom Boys,Texas United,8,11,"08/03/2024, 15:15",Pool B,Final
 pool,Pool C
 BUDA U20B,Third Rail U20B,15,3,"08/03/2024, 08:30",Pool C,Final
 Triforce,Third Rail U20B,15,2,"08/03/2024, 10:45",Pool C,Final
-Triforce,BUDA U20B,14,13,"08/03/2024, 15:15",Pool C,Scheduled
+Triforce,BUDA U20B,14,13,"08/03/2024, 15:15",Pool C,Final
 pool,Pool D
 Rising Tide U20B,Charlotte Flight,15,7,"08/03/2024, 08:30",Pool D,Final
 Philadelphia SEPDA (Boys),Charlotte Flight,13,8,"08/03/2024, 10:45",Pool D,Final
@@ -652,7 +652,7 @@ Philadelphia SEPDA (Boys),Rising Tide U20B,12,8,"08/03/2024, 15:15",Pool D,Final
 pool,Pool E
 Seven Hills U20 Open,Madison MUFAbots U20B,15,3,"08/03/2024, 08:30",Pool E,Final
 SmOAK (U20),Madison MUFAbots U20B,15,1,"08/03/2024, 10:45",Pool E,Final
-SmOAK (U20),Seven Hills U20 Open,8,10,"08/03/2024, 15:15",Pool E,Scheduled
+SmOAK (U20),Seven Hills U20 Open,8,11,"08/03/2024, 15:15",Pool E,Final
 pool,Pool F
 DEVYL U-20 Open,Connecticut Harpoon,15,5,"08/03/2024, 08:30",Pool F,Final
 Oregon Trainwreck,Connecticut Harpoon,15,3,"08/03/2024, 10:45",Pool F,Final
@@ -664,10 +664,14 @@ Minnesota Superior U20B,COSmic U-20 Boys,9,12,"08/03/2024, 15:15",Pool G,Schedul
 pool,Pool H
 Colorado Cutthroat U-20 Boys,Virginia Vortex,15,4,"08/03/2024, 08:30",Pool H,Final
 Kentucky Khaos,Virginia Vortex,13,8,"08/03/2024, 13:00",Pool H,Final
-Kentucky Khaos,Colorado Cutthroat U-20 Boys,9,16,"08/03/2024, 15:15",Pool H,Final
+Kentucky Khaos,Colorado Cutthroat U-20 Boys,9,15,"08/03/2024, 15:15",Pool H,Final
 b,r,e,a,k
 clusters,Crossover Play Into Championship Bracket
 cluster,2nd vs 3rd Pool Place Finishers
+ATLiens,Charlotte Flight,0,0,"08/04/2024, 08:30",,Scheduled
+Texas United,Third Rail U20B,0,0,"08/04/2024, 08:30",,Scheduled
+BUDA U20B,Impulse,0,0,"08/04/2024, 08:30",,Scheduled
+Rising Tide U20B,Moon Pigs,0,0,"08/04/2024, 08:30",,Scheduled
 SmOAK (U20),Virginia Vortex,0,0,"08/04/2024, 08:30",,Scheduled
 Kentucky Khaos,Madison MUFAbots U20B,0,0,"08/04/2024, 08:30",,Scheduled
 b,r,e,a,k
