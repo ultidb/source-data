@@ -102,6 +102,33 @@ teamInfo,,"northampton, Massachusetts",,,
 18,Sam Frieze
 21,Marika Faytell Grimm
 b,r,e,a,k
+Deadweight,7
+teamInfo,,"Hartford, Connecticut",,,
+0,Colin Dunn
+01,Adam D'Antonio
+02,Nadya Ponthempilly
+03,Barb Banz
+06,Christopher Cox
+07,Ricky Lewandowski
+08,Bryan Bausinger
+09,Ellie Jose
+10,Ashley Wright
+11,Kayla Olson
+12,Kenny Harvey
+13,Ben Chaimberg
+15,Katherine Overstrum
+17,Ellie Mamantov
+22,Miranda Moore
+26,Anthony Havens
+27,Jake Kovalic
+31,Marissa Aldieri
+34,Abigail Baer
+41,Bobby Elston
+47,Ian Kreciglowa
+52,Ryan Strobel
+74,Jenna Gall
+80,Joseph Kane
+b,r,e,a,k
 The Buoy Association,2
 teamInfo,,"Portland, Maine",,,
 0,Allyson Fenton
@@ -130,33 +157,6 @@ teamInfo,,"Portland, Maine",,,
 47,Alex Rowell
 56,Landis Hackett
 99,Jared Jandreau
-b,r,e,a,k
-Deadweight,7
-teamInfo,,"Hartford, Connecticut",,,
-0,Colin Dunn
-01,Adam D'Antonio
-02,Nadya Ponthempilly
-03,Barb Banz
-06,Christopher Cox
-07,Ricky Lewandowski
-08,Bryan Bausinger
-09,Ellie Jose
-10,Ashley Wright
-11,Kayla Olson
-12,Kenny Harvey
-13,Ben Chaimberg
-15,Katherine Overstrum
-17,Ellie Mamantov
-22,Miranda Moore
-26,Anthony Havens
-27,Jake Kovalic
-31,Marissa Aldieri
-34,Abigail Baer
-41,Bobby Elston
-47,Ian Kreciglowa
-52,Ryan Strobel
-74,Jenna Gall
-80,Joseph Kane
 b,r,e,a,k
 Rainbow,11
 teamInfo,,"Somerville, Massachusetts",https://www.rainbowultimate.com,https://www.instagram.com/rainbowultimate/,
@@ -208,18 +208,6 @@ teamInfo,,"Hartford, Connecticut",,,
 60,Connor Wozniak
 63,Matt Nelson
 b,r,e,a,k
-Red Fox Ultimate,3
-teamInfo,,"Sherbrooke, Québec CA",,https://www.facebook.com/profile.php?id=100057325845287,
-0,Alexandre Beaulieu
-0,Audrey Dionne
-0,Charles Lambert
-0,Jonathan Dubé
-0,Marianne Fortier
-0,Marie-Lee Giroux
-0,Philippe Lacombe
-0,Simon Lambert
-7,William Morin
-b,r,e,a,k
 Scarecrow,6
 teamInfo,,"Manchester, New Hampshire",,www.facebook.com/ScarecrowUltimate/,www.twitter.com/ScarecrowMixed
 0,Trent Linker
@@ -249,6 +237,36 @@ teamInfo,,"Manchester, New Hampshire",,www.facebook.com/ScarecrowUltimate/,www.t
 88,Danielle Chancey
 99,Ryan Benincase
 b,r,e,a,k
+Red Fox Ultimate,3
+teamInfo,,"Sherbrooke, Québec CA",,https://www.facebook.com/profile.php?id=100057325845287,
+0,Alexandre Beaulieu
+0,Audrey Dionne
+0,Charles Lambert
+0,Jonathan Dubé
+0,Marianne Fortier
+0,Marie-Lee Giroux
+0,Philippe Lacombe
+0,Simon Lambert
+7,William Morin
+b,r,e,a,k
+Lobster Disque,15
+teamInfo,,"Portland, Maine",,,
+0,Alex Ecker
+0,Delaney Cox
+0,Kay Anderson
+0,Laddy DeLuca Lowell
+0,Matthew Chouinard
+0,Nathan Buck
+0,Nathaniel Baca
+0,Nicholas Nelsonwood
+0,Reid Temple
+0,Sarah Gleeson
+9,Cyrus Fenderson
+11,Drew Cairns
+12,Owen Jacobsen
+20,Owen Mayer
+90,Hayley SooHoo
+b,r,e,a,k
 Replay,10
 teamInfo,,"Boston, Massachusetts",,,
 02,Michael Richards
@@ -273,24 +291,6 @@ teamInfo,,"Boston, Massachusetts",,,
 63,Colin Willoughby
 88,Franklin Mejia
 96,Sarah Rumrill
-b,r,e,a,k
-Lobster Disque,15
-teamInfo,,"Portland, Maine",,,
-0,Alex Ecker
-0,Delaney Cox
-0,Kay Anderson
-0,Laddy DeLuca Lowell
-0,Matthew Chouinard
-0,Nathan Buck
-0,Nathaniel Baca
-0,Nicholas Nelsonwood
-0,Reid Temple
-0,Sarah Gleeson
-9,Cyrus Fenderson
-11,Drew Cairns
-12,Owen Jacobsen
-20,Owen Mayer
-90,Hayley SooHoo
 b,r,e,a,k
 Zero Strategy,4
 teamInfo,,"Burlington, Vermont",,,
@@ -371,39 +371,51 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
-Big Rig,UV Rays,0,0,"08/03/2024, 09:00",Pool A,Scheduled
-Quahogs,Taproot,0,0,"08/03/2024, 09:00",Pool A,Scheduled
-Big Rig,Taproot,0,0,"08/03/2024, 11:00",Pool A,Scheduled
-Quahogs,UV Rays,0,0,"08/03/2024, 11:00",Pool A,Scheduled
-Big Rig,Quahogs,0,0,"08/03/2024, 13:00",Pool A,Scheduled
-UV Rays,Taproot,0,0,"08/03/2024, 13:00",Pool A,Scheduled
+Big Rig,UV Rays,13,4,"08/03/2024, 09:00",Pool A,Final
+Quahogs,Taproot,15,6,"08/03/2024, 09:00",Pool A,Final
+Big Rig,Taproot,15,3,"08/03/2024, 11:00",Pool A,Final
+Quahogs,UV Rays,15,7,"08/03/2024, 11:00",Pool A,Final
+Big Rig,Quahogs,15,6,"08/03/2024, 13:00",Pool A,Final
+UV Rays,Taproot,15,11,"08/03/2024, 13:00",Pool A,Final
 pool,Pool B
-The Buoy Association,Rainbow,0,0,"08/03/2024, 09:00",Pool B,Scheduled
-Deadweight,Hartford Current,0,0,"08/03/2024, 09:00",Pool B,Scheduled
-The Buoy Association,Hartford Current,0,0,"08/03/2024, 11:00",Pool B,Scheduled
-Deadweight,Rainbow,0,0,"08/03/2024, 11:00",Pool B,Scheduled
-The Buoy Association,Deadweight,0,0,"08/03/2024, 13:00",Pool B,Scheduled
-Rainbow,Hartford Current,0,0,"08/03/2024, 13:00",Pool B,Scheduled
+The Buoy Association,Rainbow,15,7,"08/03/2024, 09:00",Pool B,Final
+Deadweight,Hartford Current,15,1,"08/03/2024, 09:00",Pool B,Final
+The Buoy Association,Hartford Current,15,2,"08/03/2024, 11:00",Pool B,Final
+Deadweight,Rainbow,15,4,"08/03/2024, 11:00",Pool B,Final
+The Buoy Association,Deadweight,11,15,"08/03/2024, 13:00",Pool B,Final
+Rainbow,Hartford Current,15,11,"08/03/2024, 13:00",Pool B,Final
 pool,Pool C
-Red Fox Ultimate,Replay,0,0,"08/03/2024, 09:00",Pool C,Scheduled
-Scarecrow,Lobster Disque,0,0,"08/03/2024, 09:00",Pool C,Scheduled
-Red Fox Ultimate,Lobster Disque,0,0,"08/03/2024, 11:00",Pool C,Scheduled
-Scarecrow,Replay,0,0,"08/03/2024, 11:00",Pool C,Scheduled
-Red Fox Ultimate,Scarecrow,0,0,"08/03/2024, 13:00",Pool C,Scheduled
-Replay,Lobster Disque,0,0,"08/03/2024, 13:00",Pool C,Scheduled
+Red Fox Ultimate,Replay,13,5,"08/03/2024, 09:00",Pool C,Final
+Scarecrow,Lobster Disque,15,5,"08/03/2024, 09:00",Pool C,Final
+Red Fox Ultimate,Lobster Disque,15,11,"08/03/2024, 11:00",Pool C,Final
+Scarecrow,Replay,15,5,"08/03/2024, 11:00",Pool C,Final
+Red Fox Ultimate,Scarecrow,5,15,"08/03/2024, 13:00",Pool C,Final
+Replay,Lobster Disque,13,14,"08/03/2024, 13:00",Pool C,Final
 pool,Pool D
-Obscure,T Party,0,0,"08/03/2024, 09:00",Pool D,Scheduled
-Zero Strategy,T Party,0,0,"08/03/2024, 11:00",Pool D,Scheduled
-Zero Strategy,Obscure,0,0,"08/03/2024, 13:00",Pool D,Scheduled
+Obscure,T Party,13,10,"08/03/2024, 09:00",Pool D,Final
+Zero Strategy,T Party,15,6,"08/03/2024, 11:00",Pool D,Final
+Zero Strategy,Obscure,15,13,"08/03/2024, 13:00",Pool D,Final
 b,r,e,a,k
 clusters,Crossover Play
+cluster,Crossover
+Quahogs,T Party,15,14,"08/03/2024, 15:00",,Final
+Obscure,UV Rays,15,4,"08/03/2024, 15:00",,Final
+The Buoy Association,Lobster Disque,15,7,"08/03/2024, 15:00",,Final
+Red Fox Ultimate,Rainbow,11,10,"08/03/2024, 15:00",,Final
 b,r,e,a,k
 brackets,Bracket Play
 bracket,Championship Bracket
+Big Rig,The Buoy Association,0,0,"08/04/2024, 09:00",Quarter Finals,Scheduled
+Zero Strategy,Red Fox Ultimate,0,0,"08/04/2024, 09:00",Quarter Finals,Scheduled
+Scarecrow,Obscure,0,0,"08/04/2024, 09:00",Quarter Finals,Scheduled
+Deadweight,Quahogs,0,0,"08/04/2024, 09:00",Quarter Finals,Scheduled
 bracket,3rd Place
 bracket,5th Place
 bracket,7th Place
 bracket,9th Place Bracket
+Lobster Disque,Taproot,0,0,"08/04/2024, 09:00",9th Quarter,Scheduled
+UV Rays,Replay,0,0,"08/04/2024, 09:00",9th Quarter,Scheduled
+T Party,Hartford Current,0,0,"08/04/2024, 09:00",9th Quarter,Scheduled
 bracket,11th Place
 bracket,13th Place
 b,r,e,a,k

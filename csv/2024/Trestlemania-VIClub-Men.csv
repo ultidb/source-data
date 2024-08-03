@@ -30,24 +30,6 @@ teamInfo,,"Atlanta, Georgia",,,https://twitter.com/atlantaarson
 66,Jaylon Boone
 69,John Broling
 b,r,e,a,k
-PARLAY,4
-teamInfo,,"Charlotte, North Carolina",,,
-0,Alex Fischer
-0,Davian Rhodes
-0,Harry Ohlhaut
-2,Josh Holder
-3,Rashaad Saunders
-5,Michael Gentry
-6,Andy Jiang
-7,Allen Meese
-12,Andy Dinh
-14,Matthew Lundstrom
-23,Taylor Crotts
-26,Joshua Lich
-44,Dong Lam
-69,Cliff Totherow
-80,Michael Farnham
-b,r,e,a,k
 Harvest Moon,5
 teamInfo,,"Cumming, Georgia",,,
 coaches,Madison Head
@@ -76,6 +58,24 @@ coaches,Madison Head
 60,David William Petmecky
 77,Angel Villeda-Gracia
 90,Ben Llena
+b,r,e,a,k
+PARLAY,4
+teamInfo,,"Charlotte, North Carolina",,,
+0,Alex Fischer
+0,Davian Rhodes
+0,Harry Ohlhaut
+2,Josh Holder
+3,Rashaad Saunders
+5,Michael Gentry
+6,Andy Jiang
+7,Allen Meese
+12,Andy Dinh
+14,Matthew Lundstrom
+23,Taylor Crotts
+26,Joshua Lich
+44,Dong Lam
+69,Cliff Totherow
+80,Michael Farnham
 b,r,e,a,k
 ATL B,8
 teamInfo,,"Atlanta, Georgia",,,
@@ -150,23 +150,6 @@ teamInfo,,"Atlanta, Georgia",,,
 35,Josh Breeden
 62,Ross Barnes
 b,r,e,a,k
-Power Point Ultimate,6
-teamInfo,,"Augusta, Georgia",,,
-0,George Fegert
-1,Gustavo Capo
-3,Dante Tollefson
-4,Ashton Tucker
-5,Josh Warner
-7,Richard Murphy
-20,Simon Austin
-22,Logan Eidell
-23,Hiren Patel
-24,Patrick Thompson
-34,Taylor  Austin 
-68,Aaron Tafoya
-91,Gerald Renato
-98,Noah Ayers
-b,r,e,a,k
 Atlanta Outlaws,7
 teamInfo,,"Atlanta, Georgia",,,
 0,Ben Campion
@@ -189,25 +172,46 @@ teamInfo,,"Atlanta, Georgia",,,
 27,Abenezer Diribssa
 69,Michael Catucci
 b,r,e,a,k
+Power Point Ultimate,6
+teamInfo,,"Augusta, Georgia",,,
+0,George Fegert
+1,Gustavo Capo
+3,Dante Tollefson
+4,Ashton Tucker
+5,Josh Warner
+7,Richard Murphy
+20,Simon Austin
+22,Logan Eidell
+23,Hiren Patel
+24,Patrick Thompson
+34,Taylor  Austin 
+68,Aaron Tafoya
+91,Gerald Renato
+98,Noah Ayers
+b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
-Atlanta Arson,Harvest Moon,0,0,"08/03/2024, 09:00",Pool A,Scheduled
-PARLAY,ATL B,0,0,"08/03/2024, 09:00",Pool A,Scheduled
-Atlanta Arson,ATL B,0,0,"08/03/2024, 10:45",Pool A,Scheduled
-PARLAY,Harvest Moon,0,0,"08/03/2024, 10:45",Pool A,Scheduled
-Atlanta Arson,PARLAY,0,0,"08/03/2024, 12:30",Pool A,Scheduled
-Harvest Moon,ATL B,0,0,"08/03/2024, 12:30",Pool A,Scheduled
+Atlanta Arson,Harvest Moon,13,5,"08/03/2024, 09:00",Pool A,Final
+PARLAY,ATL B,13,6,"08/03/2024, 09:00",Pool A,Final
+Atlanta Arson,ATL B,13,3,"08/03/2024, 10:45",Pool A,Final
+PARLAY,Harvest Moon,6,13,"08/03/2024, 10:45",Pool A,Final
+Atlanta Arson,PARLAY,13,6,"08/03/2024, 12:30",Pool A,Final
+Harvest Moon,ATL B,13,4,"08/03/2024, 12:30",Pool A,Final
 pool,Pool B
-Hooch,Power Point Ultimate,0,0,"08/03/2024, 09:00",Pool B,Scheduled
-Dyno,Atlanta Outlaws,0,0,"08/03/2024, 09:00",Pool B,Scheduled
-Hooch,Atlanta Outlaws,0,0,"08/03/2024, 10:45",Pool B,Scheduled
-Dyno,Power Point Ultimate,0,0,"08/03/2024, 10:45",Pool B,Scheduled
-Hooch,Dyno,0,0,"08/03/2024, 12:30",Pool B,Scheduled
-Power Point Ultimate,Atlanta Outlaws,0,0,"08/03/2024, 12:30",Pool B,Scheduled
+Hooch,Power Point Ultimate,13,0,"08/03/2024, 09:00",Pool B,Final
+Dyno,Atlanta Outlaws,13,5,"08/03/2024, 09:00",Pool B,Final
+Hooch,Atlanta Outlaws,13,3,"08/03/2024, 10:45",Pool B,Final
+Dyno,Power Point Ultimate,13,4,"08/03/2024, 10:45",Pool B,Final
+Hooch,Dyno,13,5,"08/03/2024, 12:30",Pool B,Final
+Power Point Ultimate,Atlanta Outlaws,5,13,"08/03/2024, 12:30",Pool B,Final
 b,r,e,a,k
 brackets,Bracket Play
 bracket,1st Place Bracket
+Atlanta Arson,Power Point Ultimate,0,0,"08/04/2024, 09:00",1st Quarters,Scheduled
+Dyno,PARLAY,0,0,"08/04/2024, 09:00",1st Quarters,Scheduled
+Harvest Moon,Atlanta Outlaws,0,0,"08/04/2024, 09:00",1st Quarters,Scheduled
+Hooch,ATL B,0,0,"08/04/2024, 09:00",1st Quarters,Scheduled
 bracket,3rd Place
 bracket,5th Place
 bracket,7th Place
