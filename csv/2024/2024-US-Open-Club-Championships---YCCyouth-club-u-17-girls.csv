@@ -50,6 +50,30 @@ coaches,Michael Avila,Sarah McKee,Claudia Dare,Ken Rehder,Tim Brooks
 42,Claire Skinner
 66,Merrick DeWitt
 b,r,e,a,k
+rATLers,1
+teamInfo,,"Atlanta, Georgia",http://www.afdc.com/,,rATLersYCC
+coaches,Charles Bliss,Hayley Cotton,Juan Camilo Castrillon Davis
+ ,Elizabeth
+ ,Hana
+05,Katharine  Cardwell
+06,Adele Issa
+07,Eva Gartland
+08,Kenzie Leonard
+10,Penelope Keenan
+15,Liliana Dalmy
+18,Norah Reeves
+19,Georgia Thrasher
+21,Dru Jeckewicz
+22,Ellie Benson
+23,Isla Murphy
+24,Juniper Yood
+25,Celeste Reber-Vinas
+28,Eilie Depenbrok
+29,June Setser
+34,Calla Lockwood
+42,Ryan Butler
+99,Eloise Young
+b,r,e,a,k
 DC Force,4
 teamInfo,,"Washington, District of Columbia",,,
 coaches,Jared Seyler,Nicole Getter,Emma Salafsky
@@ -74,30 +98,6 @@ coaches,Jared Seyler,Nicole Getter,Emma Salafsky
 55,Kari Manzo
 87,Hana Kinnard
 99,Kaya Spitzak
-b,r,e,a,k
-rATLers,1
-teamInfo,,"Atlanta, Georgia",http://www.afdc.com/,,rATLersYCC
-coaches,Charles Bliss,Hayley Cotton,Juan Camilo Castrillon Davis
- ,Elizabeth
- ,Hana
-05,Katharine  Cardwell
-06,Adele Issa
-07,Eva Gartland
-08,Kenzie Leonard
-10,Penelope Keenan
-15,Liliana Dalmy
-18,Norah Reeves
-19,Georgia Thrasher
-21,Dru Jeckewicz
-22,Ellie Benson
-23,Isla Murphy
-24,Juniper Yood
-25,Celeste Reber-Vinas
-28,Eilie Depenbrok
-29,June Setser
-34,Calla Lockwood
-42,Ryan Butler
-99,Eloise Young
 b,r,e,a,k
 Colorado Cutthroat,8
 teamInfo,,"Denver, Colorado",,,
@@ -219,7 +219,7 @@ rATLers,DC Force,7,3,"08/04/2024, 08:30",Pool A,Final
 Kitty Hawks,Minnesota Superior U17G,9,10,"08/04/2024, 08:30",Pool A,Final
 Colorado Cutthroat,Minnesota Superior U17G,1,15,"08/04/2024, 10:45",Pool A,Final
 DC Force,Kitty Hawks,7,10,"08/04/2024, 10:45",Pool A,Final
-rATLers,Colorado Cutthroat,13,3,"08/04/2024, 13:30",Pool A,Scheduled
+rATLers,Colorado Cutthroat,13,3,"08/04/2024, 13:30",Pool A,Final
 pool,Pool B
 Seven Hills U17 Gx,Philadelphia Pythons,15,3,"08/03/2024, 08:30",Pool B,Final
 Belly of the Beast!,Oregon Tide,15,3,"08/03/2024, 08:30",Pool B,Final
@@ -230,6 +230,10 @@ Philadelphia Pythons,Oregon Tide,7,9,"08/04/2024, 10:45",Pool B,Final
 b,r,e,a,k
 brackets,1st-6th Place Brackets
 bracket,Championship
+Minnesota Superior U17G,Philadelphia Pythons,0,0,"08/04/2024, 15:45",Quarterfinals,Scheduled
+Seven Hills U17 Gx,rATLers,0,0,"08/04/2024, 15:45",Quarterfinals,Scheduled
+Kitty Hawks,Oregon Tide,0,0,"08/04/2024, 15:45",Quarterfinals,Scheduled
+Belly of the Beast!,DC Force,0,0,"08/04/2024, 15:45",Quarterfinals,Scheduled
 bracket,3rd Place
 bracket,5th Place
 b,r,e,a,k
