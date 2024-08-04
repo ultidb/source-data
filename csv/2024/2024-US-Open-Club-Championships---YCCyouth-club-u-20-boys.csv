@@ -243,32 +243,6 @@ coaches,Cameron Albert-Deitch,Bernard Wang,Matt Norden,Sam Harris,Leo Jordan
 71,Nate Alberto
 81,Ethan Leonard
 b,r,e,a,k
-Philadelphia SEPDA (Boys),4
-teamInfo,Boys,"Philadelphia, Pennsylvania",,,
-coaches,Thomas Nye
-0,Samuel Jenkins
-02,Tanner Norpel
-03,Colin Jarvis
-05,Ethan Smith
-06,James Bray
-09,Sam Beh
-10,Ezra Beidler-Shenk
-11,Jack Gallen
-12,Jonah Labovitz
-13,Sam Grossberg
-14,Landon Gasper
-15,Javier Gonzalez-Recober
-18,Ryan Dowdy
-20,Joel Simon
-21,Nolan McClintic
-23,Michael  Maroon
-24,William Fath
-25,Cameron  Fusto
-27,Nathan Casselli
-52,Becker Joseph
-55,Owen Erdman
-66,Nolan McCloskey
-b,r,e,a,k
 Rising Tide U20B,13
 teamInfo,,"Portland, Maine",www.maineultimate.org,https://www.facebook.com/groups/229767653726266/,
 coaches,Michael Leding,Henry Babcock,Olivia Hampton
@@ -295,6 +269,32 @@ coaches,Michael Leding,Henry Babcock,Olivia Hampton
 35,Levi Pelletier
 88,Fen deNiord
 99,Philip Nelson
+b,r,e,a,k
+Philadelphia SEPDA (Boys),4
+teamInfo,Boys,"Philadelphia, Pennsylvania",,,
+coaches,Thomas Nye
+0,Samuel Jenkins
+02,Tanner Norpel
+03,Colin Jarvis
+05,Ethan Smith
+06,James Bray
+09,Sam Beh
+10,Ezra Beidler-Shenk
+11,Jack Gallen
+12,Jonah Labovitz
+13,Sam Grossberg
+14,Landon Gasper
+15,Javier Gonzalez-Recober
+18,Ryan Dowdy
+20,Joel Simon
+21,Nolan McClintic
+23,Michael  Maroon
+24,William Fath
+25,Cameron  Fusto
+27,Nathan Casselli
+52,Becker Joseph
+55,Owen Erdman
+66,Nolan McCloskey
 b,r,e,a,k
 Charlotte Flight,17
 teamInfo,,"Charlotte, North Carolina",,,@cltycc
@@ -648,7 +648,7 @@ Triforce,BUDA U20B,14,13,"08/03/2024, 15:15",Pool C,Final
 pool,Pool D
 Rising Tide U20B,Charlotte Flight,15,7,"08/03/2024, 08:30",Pool D,Final
 Philadelphia SEPDA (Boys),Charlotte Flight,13,8,"08/03/2024, 10:45",Pool D,Final
-Philadelphia SEPDA (Boys),Rising Tide U20B,12,8,"08/03/2024, 15:15",Pool D,Final
+Philadelphia SEPDA (Boys),Rising Tide U20B,12,8,"08/03/2024, 15:15",Pool D,Scheduled
 pool,Pool E
 Seven Hills U20 Open,Madison MUFAbots U20B,15,3,"08/03/2024, 08:30",Pool E,Final
 SmOAK (U20),Madison MUFAbots U20B,15,1,"08/03/2024, 10:45",Pool E,Final
@@ -668,16 +668,22 @@ Kentucky Khaos,Colorado Cutthroat U-20 Boys,9,15,"08/03/2024, 15:15",Pool H,Fina
 b,r,e,a,k
 brackets,1st-16th Place Brackets
 bracket,Championship
+Utah Swarm U20 Boys,Texas United,0,0,"08/04/2024, 10:45",Octafinals,Scheduled
+Colorado Cutthroat U-20 Boys,Minnesota Superior U20B,0,0,"08/04/2024, 10:45",Octafinals,Scheduled
+Seven Hills U20 Open,Oregon Trainwreck,0,0,"08/04/2024, 10:45",Octafinals,Scheduled
+Philadelphia SEPDA (Boys),BUDA U20B,0,0,"08/04/2024, 10:45",Octafinals,Scheduled
 Triforce,Rising Tide U20B,0,0,"08/04/2024, 10:45",Octafinals,Scheduled
 DEVYL U-20 Open,SmOAK (U20),0,0,"08/04/2024, 10:45",Octafinals,Scheduled
-Texas United,Third Rail U20B,12,9,"08/04/2024, 08:30",Pre-Octafinals,Scheduled
-Minnesota Superior U20B,Connecticut Harpoon,13,6,"08/04/2024, 08:30",Pre-Octafinals,Scheduled
-Oregon Trainwreck,Flying Pig,15,6,"08/04/2024, 08:30",Pre-Octafinals,Scheduled
-BUDA U20B,Impulse,15,6,"08/04/2024, 08:30",Pre-Octafinals,Scheduled
+COSmic U-20 Boys,Kentucky Khaos,0,0,"08/04/2024, 10:45",Octafinals,Scheduled
+Foggy Bottom Boys,Charlotte Flight,0,0,"08/04/2024, 10:45",Octafinals,Scheduled
+Texas United,Third Rail U20B,12,9,"08/04/2024, 08:30",Pre-Octafinals,Final
+Minnesota Superior U20B,Connecticut Harpoon,14,6,"08/04/2024, 08:30",Pre-Octafinals,Final
+Oregon Trainwreck,Flying Pig,15,6,"08/04/2024, 08:30",Pre-Octafinals,Final
+BUDA U20B,Impulse,15,6,"08/04/2024, 08:30",Pre-Octafinals,Final
 Rising Tide U20B,Moon Pigs,15,4,"08/04/2024, 08:30",Pre-Octafinals,Final
 SmOAK (U20),Virginia Vortex,15,5,"08/04/2024, 08:30",Pre-Octafinals,Final
-Kentucky Khaos,Madison MUFAbots U20B,11,6,"08/04/2024, 08:30",Pre-Octafinals,Scheduled
-ATLiens,Charlotte Flight,12,13,"08/04/2024, 08:30",Pre-Octafinals,Scheduled
+Kentucky Khaos,Madison MUFAbots U20B,13,7,"08/04/2024, 08:30",Pre-Octafinals,Final
+ATLiens,Charlotte Flight,12,13,"08/04/2024, 08:30",Pre-Octafinals,Final
 bracket,3rd Place
 bracket,5th Place
 bracket,7th Place
@@ -688,7 +694,10 @@ bracket,15th Place
 b,r,e,a,k
 brackets,17th-24th Place Brackets
 bracket,17th Place
+ATLiens,Madison MUFAbots U20B,0,0,"08/04/2024, 13:30",17th Place Quarterfinals,Scheduled
 Moon Pigs,Virginia Vortex,0,0,"08/04/2024, 13:30",17th Place Quarterfinals,Scheduled
+Impulse,Flying Pig,0,0,"08/04/2024, 13:30",17th Place Quarterfinals,Scheduled
+Third Rail U20B,Connecticut Harpoon,0,0,"08/04/2024, 13:30",17th Place Quarterfinals,Scheduled
 bracket,19th Place
 bracket,21st Place
 bracket,23rd Place
