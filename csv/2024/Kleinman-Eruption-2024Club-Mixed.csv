@@ -222,6 +222,34 @@ teamInfo,,"Corvallis, Oregon",https://instagram.com/corvallisdrip?igshid=M2RkZGJ
 74,Matthew Baccary
 81,Lena Freebury
 b,r,e,a,k
+American Barbecue,4
+teamInfo,,"San Francisco, California",www.abbq.org,www.facebook.com/ABBQfamily/,@ABBQfamily
+0,Conrad Walsh
+0,Elise Bruguera
+0,Georgia  Van der Linden
+0,Isabel Clayter
+0,Kai Agueros
+0,Karen Reyes
+0,Kayla Hickey
+0,Liam Kreiss
+0,Molica Anderson
+0,Myron Liu
+0,Nicholas Murphy
+0,Nicholas Weiss
+0,Noel Arsenault
+0,Samuel Du
+0,Simone Ong
+0,Thalia  Tzetos
+0,Caela Brazelton
+6,Jackson Knox
+8,Chenxi Sun
+8,Adam Wulkan
+16,Jason Seidler
+18,Zack Seidler
+23,Trevor Aquino
+26,Liam Kilbridge
+36,Jenna Weiner
+b,r,e,a,k
 Grit City,3
 teamInfo,,"Tacoma, Washington",www.gritcityultimate.com,https://www.facebook.com/profile.php?id=100090202771262,https://twitter.com/GritCityUlti?s=20
 2,Hunter Hill
@@ -251,59 +279,6 @@ teamInfo,,"Tacoma, Washington",www.gritcityultimate.com,https://www.facebook.com
 88,Eleanor Hoekman
 99,Rebecca Dorety
 b,r,e,a,k
-American Barbecue,4
-teamInfo,,"San Francisco, California",www.abbq.org,www.facebook.com/ABBQfamily/,@ABBQfamily
-0,Conrad Walsh
-0,Elise Bruguera
-0,Georgia  Van der Linden
-0,Isabel Clayter
-0,Kai Agueros
-0,Karen Reyes
-0,Kayla Hickey
-0,Liam Kreiss
-0,Molica Anderson
-0,Myron Liu
-0,Nicholas Murphy
-0,Nicholas Weiss
-0,Noel Arsenault
-0,Samuel Du
-0,Simone Ong
-0,Thalia  Tzetos
-0,Caela Brazelton
-6,Jackson Knox
-8,Chenxi Sun
-8,Adam Wulkan
-16,Jason Seidler
-18,Zack Seidler
-23,Trevor Aquino
-26,Liam Kilbridge
-36,Jenna Weiner
-b,r,e,a,k
-Garbage,10
-teamInfo,,"Seattle, Washington",,,
-0,Adlai Felser
-0,Alexander Whiting
-0,Cal (Christopher) Lee
-0,Carson Mailler
-0,Ellen Mesnik
-0,Isaac Davis
-0,Lauren Louderback
-0,Nathan Ashcraft
-0,Noah Webster
-0,Ryan Haddeland
-0,Sam Schumer
-0,Samuel Hart
-0,Steven Kwan
-0,Taylor Kanemori
-0,Tom Elliott
-3,Kenny Lane III
-4,Christopher Batty
-7,Benjamin Canade
-9,Kaitlin Webster
-12,Nathan Merz
-52,Solomon Golden
-69,Taylor Martin
-b,r,e,a,k
 Choco Ghost House,9
 teamInfo,,"Portland, Oregon",,,
 0,Emily Cebron
@@ -331,6 +306,31 @@ teamInfo,,"Portland, Oregon",,,
 83,Matthew Wilensky
 99,Kiarra Ko-Madden
 b,r,e,a,k
+Garbage,10
+teamInfo,,"Seattle, Washington",,,
+0,Adlai Felser
+0,Alexander Whiting
+0,Cal (Christopher) Lee
+0,Carson Mailler
+0,Ellen Mesnik
+0,Isaac Davis
+0,Lauren Louderback
+0,Nathan Ashcraft
+0,Noah Webster
+0,Ryan Haddeland
+0,Sam Schumer
+0,Samuel Hart
+0,Steven Kwan
+0,Taylor Kanemori
+0,Tom Elliott
+3,Kenny Lane III
+4,Christopher Batty
+7,Benjamin Canade
+9,Kaitlin Webster
+12,Nathan Merz
+52,Solomon Golden
+69,Taylor Martin
+b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool play
 pool,Pool A
@@ -350,19 +350,24 @@ Porch Bears,Drip,13,5,"08/10/2024, 10:15",Pool B,Final
 Porch Bears,Seattle Soft Serve,9,12,"08/10/2024, 12:00",Pool B,Final
 Smack!,Drip,13,2,"08/10/2024, 12:00",Pool B,Final
 Seattle Soft Serve,Drip,13,9,"08/10/2024, 13:45",Pool B,Final
-Smack!,Porch Bears,0,0,"08/10/2024, 13:45",Pool B,Scheduled
+Smack!,Porch Bears,14,13,"08/10/2024, 13:45",Pool B,Final
 pool,Pool C
 Grit City,Choco Ghost House,13,7,"08/10/2024, 10:15",Pool C,Final
 American Barbecue,Garbage,11,9,"08/10/2024, 10:15",Pool C,Final
 American Barbecue,Choco Ghost House,13,2,"08/10/2024, 12:00",Pool C,Final
 Grit City,Garbage,13,4,"08/10/2024, 12:00",Pool C,Final
-Choco Ghost House,Garbage,0,0,"08/10/2024, 13:45",Pool C,Scheduled
-Grit City,American Barbecue,0,0,"08/10/2024, 13:45",Pool C,Scheduled
+Choco Ghost House,Garbage,11,8,"08/10/2024, 13:45",Pool C,Final
+Grit City,American Barbecue,10,11,"08/10/2024, 13:45",Pool C,Final
 b,r,e,a,k
 clusters,Crossovers
+cluster,Play-ins
+Porch Bears,Choco Ghost House,0,0,"08/10/2024, 15:30",,Scheduled
+cluster,4th place crossover
+Drip,Garbage,0,0,"08/10/2024, 15:30",,Scheduled
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,Finals
+Grit City,Seattle Soft Serve,0,0,"08/11/2024, 09:00",Quarters,Scheduled
 bracket,5th place bracket
 bracket,3rd place
 bracket,7th place
