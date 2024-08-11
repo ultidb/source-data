@@ -48,22 +48,6 @@ teamInfo,,"Seattle, Washington",http://bullettrainultimate.com,,https://twitter.
 47,Juliana Williams
 66,Ziqi Zhao
 b,r,e,a,k
-Heat Wave,13
-teamInfo,,"Richland , Washington",,,
-0,Cora Wessman
-0,Jacob Cmelik
-0,Kevin Fiedler
-0,Matt Bode
-0,Megan  Wasson
-0,Jeremy Tucknies
-0,Sarah Leichty
-0,Trevor Kilgannon
-6,Josh Zylstra
-8,Sierra Wallace
-9,Jasmine Woo
-27,Erol Cromwell
-64,Samantha Jo Johnson
-b,r,e,a,k
 Squid Inc.,7
 teamInfo,,"Bellingham, Washington",,,
 00,Anna Nakae
@@ -89,6 +73,22 @@ teamInfo,,"Bellingham, Washington",,,
 71,Christopher Penuelas
 73,Ruby Volker
 89,James Kozanitis
+b,r,e,a,k
+Heat Wave,13
+teamInfo,,"Richland , Washington",,,
+0,Cora Wessman
+0,Jacob Cmelik
+0,Kevin Fiedler
+0,Matt Bode
+0,Megan  Wasson
+0,Jeremy Tucknies
+0,Sarah Leichty
+0,Trevor Kilgannon
+6,Josh Zylstra
+8,Sierra Wallace
+9,Jasmine Woo
+27,Erol Cromwell
+64,Samantha Jo Johnson
 b,r,e,a,k
 SkyLab,12
 teamInfo,,"Portland, Oregon",,,
@@ -343,7 +343,7 @@ Squid Inc.,SkyLab,13,5,"08/10/2024, 12:00",Pool A,Final
 Spoke,SkyLab,13,1,"08/10/2024, 13:45",Pool A,Final
 Bullet Train,Heat Wave,8,7,"08/10/2024, 13:45",Pool A,Final
 Spoke,Bullet Train,13,2,"08/10/2024, 15:30",Pool A,Final
-Squid Inc.,Heat Wave,0,0,"08/10/2024, 15:30",Pool A,Scheduled
+Squid Inc.,Heat Wave,10,9,"08/10/2024, 15:30",Pool A,Final
 pool,Pool B
 Smack!,Seattle Soft Serve,13,6,"08/10/2024, 10:15",Pool B,Final
 Porch Bears,Drip,13,5,"08/10/2024, 10:15",Pool B,Final
@@ -363,16 +363,21 @@ clusters,Crossovers
 cluster,Play-ins
 Porch Bears,Choco Ghost House,12,10,"08/10/2024, 15:30",,Final
 cluster,4th place crossover
-Drip,Garbage,7,13,"08/10/2024, 15:30",,Scheduled
+Drip,Garbage,7,13,"08/10/2024, 15:30",,Final
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,Finals
+Spoke,Porch Bears,0,0,"08/11/2024, 09:00",Quarters,Scheduled
 Grit City,Seattle Soft Serve,0,0,"08/11/2024, 09:00",Quarters,Scheduled
+American Barbecue,Bullet Train,0,0,"08/11/2024, 09:00",Quarters,Scheduled
+Smack!,Squid Inc.,0,0,"08/11/2024, 09:00",Quarters,Scheduled
 bracket,5th place bracket
 bracket,3rd place
 bracket,7th place
 b,r,e,a,k
 brackets,Ninals
 bracket,Ninals
+Garbage,Heat Wave,0,0,"08/11/2024, 11:00",9th semis,Scheduled
+SkyLab,Drip,0,0,"08/11/2024, 09:00",9th quarter,Scheduled
 bracket,11th place
 b,r,e,a,k
