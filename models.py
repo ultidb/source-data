@@ -30,6 +30,20 @@ class Team:
             s.append(player.to_csv())
         return s
 
+class TeamNameOnly:
+    def __init__(self, name):
+        self.name = name
+
+    def to_string(self):
+        return ("Team: " + self.name)
+
+    def isSameTeam(self, other):
+        return self.name == other.name
+
+    def csvFormat(self):
+        return [[self.name]]
+
+
 # game class stores both participating teams, both their scores, and the date of the game
 
 
@@ -114,7 +128,6 @@ class Tournament:
         s = self.name + "\n" + self.division + "\n\n"
         for team in self.teams:
             s += team.name + ":\n"
-            s += team.roster_to_string() + "\n"
         return s
 
 

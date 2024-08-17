@@ -112,7 +112,7 @@ def loadPage(config, url, pageType, tournamentName=None, teamName=None):
 
 
 def writeTournamentToCSV(config, tournament, tournamentFilePath):
-    path = f"csv/{config.year}/"
+    path = tournamentFilePath.rsplit("/", 1)[0] + "/"
     Path(path).mkdir(parents=True, exist_ok=True)
 
     with open(tournamentFilePath, "w", newline="") as f:
