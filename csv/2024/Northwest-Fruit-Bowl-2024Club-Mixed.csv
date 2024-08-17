@@ -59,35 +59,6 @@ teamInfo,,"Bay Area, California",,,https://twitter.com/sunshineult
 90,Markham Shofner
 94,Justine Martinez
 b,r,e,a,k
-Wild Card,8
-teamInfo,,"Boston, Massachusetts",http://www.wildcardultimate.com/,https://www.facebook.com/wildcardult,https://twitter.com/WildCardult
-coaches,Eliot Fenton,Kristi Huang
-0,Charlie Bushman
-0,Christopher Layden
-0,Emma Bushman
-0,Fernanda Brena
-0,Hannah Marr
-0,Iris Rukshin
-0,Katherine Connelly
-0,Lucas Lytel
-0,Matthew Yee
-0,Nadine Meister
-0,Natalie Wheeler
-0,Scott Dollen
-0,Tamar Austin
-4,Hannah Crowley
-4,Alexander Curreri
-8,Connor Fortin
-8,Jason Freedman
-13,Carolina Brager
-16,Jacob Arons
-22,Jack Simmons
-22,Gina Pryciak
-24,Claire Slattery
-24,Pablo Reimers
-42,Anthony Lamanna
-78,Tiffany Lim
-b,r,e,a,k
 Lights Out,9
 teamInfo,,"Seattle, Washington",,https://www.facebook.com/Lights-Out-Ultimate-982520691925825/,https://twitter.com/LightsOutUlti
 0,Bridget Wipfler
@@ -146,6 +117,35 @@ coaches,Steve Sullivan
 90,Saul Wildavsky
 92,Seamus Shogren
 97,Ryan Hoffman
+b,r,e,a,k
+Wild Card,8
+teamInfo,,"Boston, Massachusetts",http://www.wildcardultimate.com/,https://www.facebook.com/wildcardult,https://twitter.com/WildCardult
+coaches,Eliot Fenton,Kristi Huang
+0,Charlie Bushman
+0,Christopher Layden
+0,Emma Bushman
+0,Fernanda Brena
+0,Hannah Marr
+0,Iris Rukshin
+0,Katherine Connelly
+0,Lucas Lytel
+0,Matthew Yee
+0,Nadine Meister
+0,Natalie Wheeler
+0,Scott Dollen
+0,Tamar Austin
+4,Hannah Crowley
+4,Alexander Curreri
+8,Connor Fortin
+8,Jason Freedman
+13,Carolina Brager
+16,Jacob Arons
+22,Jack Simmons
+22,Gina Pryciak
+24,Claire Slattery
+24,Pablo Reimers
+42,Anthony Lamanna
+78,Tiffany Lim
 b,r,e,a,k
 BFG,1
 teamInfo,,"Seattle, Washington",,,https://twitter.com/SeattleBFG
@@ -228,6 +228,35 @@ teamInfo,,"Bay Area, California",,https://www.facebook.com/BW.Ultimate,https://w
 27,Aaron Hom
 40,Anthony Davis
 b,r,e,a,k
+Oregon Scorch,5
+teamInfo,,"Oregon, Oregon",,,
+00,Amanda Ullrick
+00,Amir Kaghazwala
+00,Andrew Richter
+00,Avery Laliberte
+00,Avi Taylor
+00,Benjamin Whitenack
+00,Caeden Newby
+00,Carol  Newton 
+00,Daniela Florez
+00,Jason Christian
+00,Kaitlyn Baker
+00,Kelsey Salvo
+00,Kevin Christian
+00,Leo Farley
+00,Max Zwerin
+00,Morgan Wilbur
+00,Nicholas Redmond
+00,Raina Kamrat
+00,Rebecca Hamilton
+00,Sofie Netteberg
+00,Zoey Hughes
+00,Eric Zimmerman
+00,Holly Gibson
+11,Jackie Matonis
+12,Danielle Lindberg
+13,Erik Lindberg
+b,r,e,a,k
 Lotus,3
 teamInfo,,"Los Angeles, California",,,https://twitter.com/LALotusUltimate
 coaches,Sophie Havranek
@@ -257,35 +286,6 @@ coaches,Sophie Havranek
 84,Jesse Cohen
 93,Naomi Guzman
 99,Brandon Van Deusen
-b,r,e,a,k
-Oregon Scorch,5
-teamInfo,,"Oregon, Oregon",,,
-00,Amanda Ullrick
-00,Amir Kaghazwala
-00,Andrew Richter
-00,Avery Laliberte
-00,Avi Taylor
-00,Benjamin Whitenack
-00,Caeden Newby
-00,Carol  Newton 
-00,Daniela Florez
-00,Jason Christian
-00,Kaitlyn Baker
-00,Kelsey Salvo
-00,Kevin Christian
-00,Leo Farley
-00,Max Zwerin
-00,Morgan Wilbur
-00,Nicholas Redmond
-00,Raina Kamrat
-00,Rebecca Hamilton
-00,Sofie Netteberg
-00,Zoey Hughes
-00,Eric Zimmerman
-00,Holly Gibson
-11,Jackie Matonis
-12,Danielle Lindberg
-13,Erik Lindberg
 b,r,e,a,k
 RAMP,11
 teamInfo,,"Chicago, Illinois",http://rampultimate.com/,,https://twitter.com/RAMP_ultimate
@@ -321,7 +321,7 @@ MOONDOG,Polar Bears,13,7,"08/17/2024, 09:00",Pool C,Final
 Sunshine,Wild Card,13,10,"08/17/2024, 09:00",Pool C,Final
 MOONDOG,Lights Out,13,10,"08/17/2024, 10:50",Pool C,Final
 Polar Bears,Wild Card,0,0,"08/17/2024, 10:50",Pool C,Scheduled
-MOONDOG,Wild Card,0,0,"08/17/2024, 12:40",Pool C,Scheduled
+MOONDOG,Wild Card,13,8,"08/17/2024, 12:40",Pool C,Final
 Sunshine,Lights Out,0,0,"08/17/2024, 12:40",Pool C,Scheduled
 MOONDOG,Sunshine,0,0,"08/17/2024, 14:30",Pool C,Scheduled
 Polar Bears,Lights Out,0,0,"08/17/2024, 14:30",Pool C,Scheduled
@@ -330,11 +330,11 @@ Sunshine,Polar Bears,0,0,"08/17/2024, 16:20",Pool C,Scheduled
 pool,Pool A
 Flight Club,BW Ultimate,13,11,"08/17/2024, 09:00",Pool A,Final
 BFG,BW Ultimate,13,8,"08/17/2024, 10:50",Pool A,Final
-BFG,Flight Club,0,0,"08/17/2024, 12:40",Pool A,Scheduled
+BFG,Flight Club,13,8,"08/17/2024, 12:40",Pool A,Final
 pool,Pool B
 Oregon Scorch,RAMP,13,5,"08/17/2024, 09:00",Pool B,Final
 Lotus,RAMP,13,4,"08/17/2024, 10:50",Pool B,Final
-Lotus,Oregon Scorch,0,0,"08/17/2024, 12:40",Pool B,Scheduled
+Lotus,Oregon Scorch,11,12,"08/17/2024, 12:40",Pool B,Final
 b,r,e,a,k
 clusters,Saturday Crossover
 b,r,e,a,k
