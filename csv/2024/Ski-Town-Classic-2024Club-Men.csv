@@ -112,35 +112,6 @@ teamInfo,,"Davis, California",,,
 86,Daniel Speer
 95,Brandon Widner
 b,r,e,a,k
-Hazard,6
-teamInfo,,"Los Angeles, California",https://www.instagram.com/hazardultimate/,,
-coaches,Julia Johnson
-02,Louis Gosart
-06,Royce Grundy
-07,Andrew Padula
-09,Thomas Anderson
-11,Cy Toriello
-12,Akilesh Swamy
-13,James Ivey
-16,David Gardiner
-19,Garrett Yung
-20,Adam Paicely
-21,Connor Dowd
-22,Ryan Van Hook
-23,Everest Shapiro
-24,Mateo Dominguez
-25,Francesco Russo
-27,Cory Oskardmay
-33,Tucker Lemos
-42,Edwin Finley
-43,Kevin Goldberg
-44,Remy Smith
-46,Eric Owens
-54,Jack Carmichael
-61,Timothy Predmore
-66,Garrett Santi
-77,Hudson Stuck
-b,r,e,a,k
 Fungi,2
 teamInfo,,"Denver, Colorado",,,
 0,Dexter Luecke
@@ -169,6 +140,35 @@ teamInfo,,"Denver, Colorado",,,
 34,Cody Spicer
 45,Nick Banks
 80,Cade Colston
+b,r,e,a,k
+Hazard,6
+teamInfo,,"Los Angeles, California",https://www.instagram.com/hazardultimate/,,
+coaches,Julia Johnson
+02,Louis Gosart
+06,Royce Grundy
+07,Andrew Padula
+09,Thomas Anderson
+11,Cy Toriello
+12,Akilesh Swamy
+13,James Ivey
+16,David Gardiner
+19,Garrett Yung
+20,Adam Paicely
+21,Connor Dowd
+22,Ryan Van Hook
+23,Everest Shapiro
+24,Mateo Dominguez
+25,Francesco Russo
+27,Cory Oskardmay
+33,Tucker Lemos
+42,Edwin Finley
+43,Kevin Goldberg
+44,Remy Smith
+46,Eric Owens
+54,Jack Carmichael
+61,Timothy Predmore
+66,Garrett Santi
+77,Hudson Stuck
 b,r,e,a,k
 Switchback,3
 teamInfo,,"Seattle, Washington",https://switchbackultimate.com/,,https://twitter.com/Switchback_Ulti
@@ -526,11 +526,11 @@ pool,Pool A
 Shrimp,Green River Swordfish,12,3,"08/17/2024, 10:45",Pool A,Final
 ISO Atmo,OAT,6,8,"08/17/2024, 10:45",Pool A,Final
 Shrimp,OAT,13,6,"08/17/2024, 16:15",Pool A,Final
-ISO Atmo,Green River Swordfish,0,0,"08/17/2024, 16:15",Pool A,Scheduled
+ISO Atmo,Green River Swordfish,12,8,"08/17/2024, 16:15",Pool A,Final
 pool,Pool B
 Fungi,Brawl,11,5,"08/17/2024, 10:45",Pool B,Final
 Switchback,Hazard,4,7,"08/17/2024, 10:45",Pool B,Final
-Fungi,Hazard,11,13,"08/17/2024, 16:15",Pool B,Final
+Fungi,Hazard,13,11,"08/17/2024, 16:15",Pool B,Final
 Switchback,Brawl,13,9,"08/17/2024, 16:15",Pool B,Final
 pool,Pool C
 Fat Stacks,Nighthawk,11,13,"08/17/2024, 09:00",Pool C,Final
@@ -553,6 +553,8 @@ clusters,Crossover
 b,r,e,a,k
 brackets,Brackets
 bracket,Championship
+Shrimp,Nighthawk,0,0,"08/17/2024, 18:00",Pre-Quarters,Scheduled
+Green River Swordfish,Riverside,0,0,"08/17/2024, 18:00",Pre-Quarters,Scheduled
 bracket,Third
 bracket,Fifth
 bracket,Seventh
