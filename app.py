@@ -218,7 +218,7 @@ def setupTor():
 
 def setupSchedule():
     scheduler = BackgroundScheduler()
-    scheduler.add_job(func=scrapeCalendar, trigger="interval", days=1)
+    scheduler.add_job(func=scrapeCalendar, trigger="interval", hours=8)
     scheduler.add_job(func=scrapeOngoingTournaments, trigger="interval", minutes=10)
     scheduler.add_job(func=scrapeUpcomingTournaments, trigger="interval", hours=12)
     scheduler.add_job(func=scrapeRecentlyEndedTournaments, trigger="interval", hours=4)
