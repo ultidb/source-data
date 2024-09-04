@@ -89,8 +89,10 @@ teamInfo,,"Fort Worth, Texas",,,
 b,r,e,a,k
 Shrimp Discs,16
 teamInfo,,"San Antonio, Texas",,,
+0,Ashwin Raman
 0,Cade Snyder
 0,Emilio Benavente
+0,Jared Schettler
 0,Preston Jones
 0,Ryan Wisnoski 
 8,Damian Pena
@@ -191,6 +193,7 @@ Riverside Messengers,15
 teamInfo,,"Austin, Texas",https://www.riversideultimate.org/,,https://twitter.com/MessengersUlti
 0,Alex Hughes
 0,Andrew Anderson
+0,Avery Brennen
 0,Evan Garces
 0,Eyal Refaeli
 0,Jacky Feng
@@ -199,12 +202,12 @@ teamInfo,,"Austin, Texas",https://www.riversideultimate.org/,,https://twitter.co
 0,Jonathan Gardner
 0,Keshav Ananth
 0,Maxx Speller
+0,David Chavez
 0,William Bolduc
 2,Aidan Beam
 15,Rohan Patel
 16,Brock Davis
 27,Jake Ridenbaugh
-33,Agustin Barajas
 50,David Piersall
 b,r,e,a,k
 H.I.P,3
@@ -221,6 +224,7 @@ teamInfo,,"Texas City, Texas",,,https://twitter.com/hip_flatball/
 0,Peter Ngo
 0,Robert McDonald
 0,Robert Lewis
+0,Robert Hausmann
 0,Steven Kelly
 2,Matthew Bennett
 7,Jordan Taylor
@@ -275,6 +279,7 @@ teamInfo,,"Houston, Texas",,,
 09,Daniel Ferenc
 10,Gino Fongaro
 11,Marshall Penn
+12,Shawn  Hubler
 13,Jeremy Waters
 14,Graeme Holland
 20,Austin Herriott
@@ -429,25 +434,35 @@ teamInfo,,"Dallas, Texas",,,
 88,Reid Pannell
 b,r,e,a,k
 s,t,a,g,e,s
-pools,Clipped Pool First Game 
+pools,Clipped Pools
 pool,Pool A
-Alamode,Shrimp Discs,0,0,"09/07/2024, 08:00",Pool A,Scheduled
-Sprawl,Cowtown Cannons,0,0,"09/07/2024, 08:00",Pool A,Scheduled
+Alamode,Shrimp Discs,0,0,"09/07/2024, 08:30",Pool A,Scheduled
+Sprawl,Cowtown Cannons,0,0,"09/07/2024, 08:30",Pool A,Scheduled
+Alamode,Cowtown Cannons,0,0,"09/07/2024, 10:30",Pool A,Scheduled
+Sprawl,Shrimp Discs,0,0,"09/07/2024, 10:30",Pool A,Scheduled
+Alamode,Sprawl,0,0,"09/07/2024, 10:30",Pool A,Scheduled
+Cowtown Cannons,Shrimp Discs,0,0,"09/07/2024, 10:30",Pool A,Scheduled
 pool,Pool B
-Riverside,Riverside Messengers,0,0,"09/07/2024, 08:00",Pool B,Scheduled
-Harvey Cats,Riptide,0,0,"09/07/2024, 08:00",Pool B,Scheduled
+Riverside,Riverside Messengers,0,0,"09/07/2024, 08:30",Pool B,Scheduled
+Harvey Cats,Riptide,0,0,"09/07/2024, 08:30",Pool B,Scheduled
+Riverside,Riptide,0,0,"09/07/2024, 10:30",Pool B,Scheduled
+Harvey Cats,Riverside Messengers,0,0,"09/07/2024, 10:30",Pool B,Scheduled
+Riverside,Harvey Cats,0,0,"09/07/2024, 10:30",Pool B,Scheduled
+Riptide,Riverside Messengers,0,0,"09/07/2024, 10:30",Pool B,Scheduled
 pool,Pool C
-H.I.P,San Antonio Warhawks,0,0,"09/07/2024, 08:00",Pool C,Scheduled
-Clutch,Firefly TX,0,0,"09/07/2024, 08:00",Pool C,Scheduled
+H.I.P,San Antonio Warhawks,0,0,"09/07/2024, 08:30",Pool C,Scheduled
+Clutch,Firefly TX,0,0,"09/07/2024, 08:30",Pool C,Scheduled
+H.I.P,Firefly TX,0,0,"09/07/2024, 10:30",Pool C,Scheduled
+Clutch,San Antonio Warhawks,0,0,"09/07/2024, 10:30",Pool C,Scheduled
+H.I.P,Clutch,0,0,"09/07/2024, 10:30",Pool C,Scheduled
+Firefly TX,San Antonio Warhawks,0,0,"09/07/2024, 10:30",Pool C,Scheduled
 pool,Pool D
-Texas Duffy,Dallas Delinquents,0,0,"09/07/2024, 08:00",Pool D,Scheduled
-Brawl,Forge,0,0,"09/07/2024, 08:00",Pool D,Scheduled
-b,r,e,a,k
-pools,Clipped Pool 2nd Game
-pool,Pool E
-pool,Pool F
-pool,Pool G
-pool,Pool H
+Texas Duffy,Dallas Delinquents,0,0,"09/07/2024, 08:30",Pool D,Scheduled
+Brawl,Forge,0,0,"09/07/2024, 08:30",Pool D,Scheduled
+Texas Duffy,Forge,0,0,"09/07/2024, 10:30",Pool D,Scheduled
+Brawl,Dallas Delinquents,0,0,"09/07/2024, 10:30",Pool D,Scheduled
+Texas Duffy,Brawl,0,0,"09/07/2024, 10:30",Pool D,Scheduled
+Forge,Dallas Delinquents,0,0,"09/07/2024, 10:30",Pool D,Scheduled
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,1st Place
@@ -456,4 +471,8 @@ bracket,4th and 5th Place
 b,r,e,a,k
 brackets,Consolation Bracket
 bracket,6th and 7th Place
+bracket,8th Place
+bracket,10th place
+bracket,13th Place
+bracket,15th Place
 b,r,e,a,k
