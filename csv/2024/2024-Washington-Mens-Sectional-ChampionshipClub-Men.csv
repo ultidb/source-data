@@ -113,34 +113,6 @@ teamInfo,,"Seattle , Washington",,,
 63,Victor Ramirez
 77,Austin Hasbrook
 b,r,e,a,k
-AVE,10
-teamInfo,,"Seattle, Washington",,,
-0,Benjamin Lewis
-9,Paul Dinh
-03,Juerell Pascua
-06,Nolan Muongchan
-07,jacob mulugeta
-08,Martin Le
-10,Adam Jemal
-12,Arni Hoang
-13,Owen Sprague
-13,Thien Hoang
-14,Jared Tellez
-16,Roy Amazona
-17,Noah Malla
-19,Josue Ostos
-19,Aage Bonnell
-20,Andrew Phillips
-22,Naldo robancho
-23,Edwin Ramirez Aquino
-24,Nobi (Masao) Lorenz
-24,Kenji Lorenz
-27,Nathaniel Kilayko
-27,Charlie Lewis
-29,Eric Soria-Patrick
-30,Daniel Nan
-45,Luciano Falzone
-b,r,e,a,k
 Surf,7
 teamInfo,,"Victoria, British Columbia CA",,,
 0,Alex Longe
@@ -169,6 +141,34 @@ teamInfo,,"Victoria, British Columbia CA",,,
 81,Theo Davis
 95,Clayton Howlett
 96,Mikhail Pozin
+b,r,e,a,k
+AVE,10
+teamInfo,,"Seattle, Washington",,,
+0,Benjamin Lewis
+9,Paul Dinh
+03,Juerell Pascua
+06,Nolan Muongchan
+07,jacob mulugeta
+08,Martin Le
+10,Adam Jemal
+12,Arni Hoang
+13,Owen Sprague
+13,Thien Hoang
+14,Jared Tellez
+16,Roy Amazona
+17,Noah Malla
+19,Josue Ostos
+19,Aage Bonnell
+20,Andrew Phillips
+22,Naldo robancho
+23,Edwin Ramirez Aquino
+24,Nobi (Masao) Lorenz
+24,Kenji Lorenz
+27,Nathaniel Kilayko
+27,Charlie Lewis
+29,Eric Soria-Patrick
+30,Daniel Nan
+45,Luciano Falzone
 b,r,e,a,k
 Switchback,3
 teamInfo,,"Seattle, Washington",https://switchbackultimate.com/,,https://twitter.com/Switchback_Ulti
@@ -335,7 +335,7 @@ Blackfish,Kalakala Wiffleball Club,15,10,"09/07/2024, 14:00",Pool A,Final
 pool,Pool B
 SOUF,AVE,15,10,"09/07/2024, 10:00",Pool B,Final
 SOUF,Surf,15,5,"09/07/2024, 12:00",Pool B,Final
-Surf,AVE,0,0,"09/07/2024, 14:00",Pool B,Scheduled
+Surf,AVE,15,12,"09/07/2024, 14:00",Pool B,Final
 pool,Pool C
 Switchback,ONI,15,4,"09/07/2024, 10:00",Pool C,Final
 Switchback,Heartbreak,15,4,"09/07/2024, 12:00",Pool C,Final
@@ -348,10 +348,13 @@ b,r,e,a,k
 brackets,Bracket Play
 bracket,1st Place Bracket
 Sockeye,Seven Gills,0,0,"09/07/2024, 16:00",1st Place Semis,Scheduled
+SOUF,Switchback,0,0,"09/07/2024, 16:00",1st Place Semis,Scheduled
 bracket,2nd Place Bracket
 Blackfish,Make it Rain,0,0,"09/07/2024, 16:00",2nd Place PreQuarters,Scheduled
+Surf,Heartbreak,0,0,"09/07/2024, 16:00",2nd Place PreQuarters,Scheduled
 bracket,5th Place Bracket
 Kalakala Wiffleball Club,Joe Fisher,0,0,"09/07/2024, 16:00",5th Place PreQuarters,Scheduled
+AVE,ONI,0,0,"09/07/2024, 16:00",5th Place PreQuarters,Scheduled
 bracket,7th Place Game
 b,r,e,a,k
 brackets,Consolation
