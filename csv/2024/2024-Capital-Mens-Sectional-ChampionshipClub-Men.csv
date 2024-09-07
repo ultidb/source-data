@@ -86,75 +86,6 @@ teamInfo,,"Winchester, Virginia",,,@TheRealWincCity
 77,Goutham Kommanaboyina
 96,Benjamin Corrigan
 b,r,e,a,k
-Puzzles,2
-teamInfo,,"DC, District of Columbia",,,
-0,Casey Hepburn
-0,John McGrath
-0,Keith Mellendorf
-0,Patrick Liu
-0,Robert (Robbie) Gillies
-0,Russell Scrivens
-0,Travis Ward
-0,Xavier Maxstadt
-1,Zachary Hall
-1,John Kerr
-2,Bradley Tinney
-3,Jeremiah Leblanc
-3,Keven Moldenhauer
-10,Paul Froeschle
-11,Adam Bronstein
-14,Dylan Lederle-Ensign
-17,Jacob Shade
-21,Nick Rinehart
-27,Joe Spaeth
-44,Cole Snavely
-81,Mike Randow
-b,r,e,a,k
-Jolly Roger,10
-teamInfo,,"Newport News, Virginia",,,
-0,Clyde Gray
-0,Corey Beeler
-0,Harold Catano
-0,Jackson DeHoust
-0,Anselm Yededji
-0,Nick DeHoust
-0,Palmer Bogdan
-0,Joshua Pribe
-0,Kent Grantz
-0,Stephen Kimmel
-0,Tyler Skeen
-1,Patrick O'Neil
-11,Mathew Martins
-12,Jonathan Estes
-16,Steven Glatt
-17,Chris Haley
-18,James White
-19,Stephen Harding
-21,Sohail Syed
-42,Abhishek Komandur
-95,Jake Carosi Primes
-b,r,e,a,k
-MORT,15
-teamInfo,,"Washington, District of Columbia",,,
-0,Aaron  Magtoto
-0,Aidan Williams
-0,Andreas Moeller
-0,Benjamin Portner
-0,Bilal Nizamani
-0,Braden Laidlaw
-0,Brooks Clifford
-0,Jacob Graybow
-0,Lucas Suarez
-0,Matt O'Connor
-0,Nikolai Seferian
-0,Sassan Fiske
-0,David Song
-0,Will Thomas
-0,William Riley
-03,Simon Mulrooney
-10,Erik Anaya
-69,Chris Strawn
-b,r,e,a,k
 Bomb Squad,7
 teamInfo,,"Baltimore, Maryland",,,
 0,Collin Stokes
@@ -183,6 +114,75 @@ teamInfo,,"Baltimore, Maryland",,,
 22,Lemuel Sun
 77,Grady Riley
 96,Zachary Cousino
+b,r,e,a,k
+Puzzles,2
+teamInfo,,"DC, District of Columbia",,,
+0,Casey Hepburn
+0,John McGrath
+0,Keith Mellendorf
+0,Patrick Liu
+0,Robert (Robbie) Gillies
+0,Russell Scrivens
+0,Travis Ward
+0,Xavier Maxstadt
+1,Zachary Hall
+1,John Kerr
+2,Bradley Tinney
+3,Jeremiah Leblanc
+3,Keven Moldenhauer
+10,Paul Froeschle
+11,Adam Bronstein
+14,Dylan Lederle-Ensign
+17,Jacob Shade
+21,Nick Rinehart
+27,Joe Spaeth
+44,Cole Snavely
+81,Mike Randow
+b,r,e,a,k
+MORT,15
+teamInfo,,"Washington, District of Columbia",,,
+0,Aaron  Magtoto
+0,Aidan Williams
+0,Andreas Moeller
+0,Benjamin Portner
+0,Bilal Nizamani
+0,Braden Laidlaw
+0,Brooks Clifford
+0,Jacob Graybow
+0,Lucas Suarez
+0,Matt O'Connor
+0,Nikolai Seferian
+0,Sassan Fiske
+0,David Song
+0,Will Thomas
+0,William Riley
+03,Simon Mulrooney
+10,Erik Anaya
+69,Chris Strawn
+b,r,e,a,k
+Jolly Roger,10
+teamInfo,,"Newport News, Virginia",,,
+0,Clyde Gray
+0,Corey Beeler
+0,Harold Catano
+0,Jackson DeHoust
+0,Anselm Yededji
+0,Nick DeHoust
+0,Palmer Bogdan
+0,Joshua Pribe
+0,Kent Grantz
+0,Stephen Kimmel
+0,Tyler Skeen
+1,Patrick O'Neil
+11,Mathew Martins
+12,Jonathan Estes
+16,Steven Glatt
+17,Chris Haley
+18,James White
+19,Stephen Harding
+21,Sohail Syed
+42,Abhishek Komandur
+95,Jake Carosi Primes
 b,r,e,a,k
 Town Hall Stars,3
 teamInfo,,"College Park, Maryland",,,
@@ -421,21 +421,21 @@ b,r,e,a,k
 pools,"Pools B, C, D"
 pool,Pool B
 Puzzles,MORT,15,6,"09/07/2024, 10:45",Pool B,Final
-Bomb Squad,Jolly Roger,0,0,"09/07/2024, 10:45",Pool B,Scheduled
-Puzzles,Jolly Roger,15,6,"09/07/2024, 12:30",Pool B,Final
+Bomb Squad,Jolly Roger,15,5,"09/07/2024, 10:45",Pool B,Final
+Puzzles,Jolly Roger,0,0,"09/07/2024, 12:30",Pool B,Scheduled
 Bomb Squad,MORT,0,0,"09/07/2024, 12:30",Pool B,Scheduled
 Puzzles,Bomb Squad,0,0,"09/07/2024, 12:30",Pool B,Scheduled
 Jolly Roger,MORT,0,0,"09/07/2024, 12:30",Pool B,Scheduled
 pool,Pool C
 Town Hall Stars,Haze,15,5,"09/07/2024, 10:45",Pool C,Final
-Bryce Whitney Fan Club,BDC,0,0,"09/07/2024, 10:45",Pool C,Scheduled
+Bryce Whitney Fan Club,BDC,12,8,"09/07/2024, 10:45",Pool C,Final
 Town Hall Stars,BDC,0,0,"09/07/2024, 12:30",Pool C,Scheduled
 Bryce Whitney Fan Club,Haze,0,0,"09/07/2024, 12:30",Pool C,Scheduled
 Town Hall Stars,Bryce Whitney Fan Club,0,0,"09/07/2024, 12:30",Pool C,Scheduled
 BDC,Haze,0,0,"09/07/2024, 12:30",Pool C,Scheduled
 pool,Pool D
-John Doe,L.U.T $ack,0,0,"09/07/2024, 10:45",Pool D,Scheduled
-Crypt,Beef Depot,0,0,"09/07/2024, 10:45",Pool D,Scheduled
+John Doe,L.U.T $ack,15,3,"09/07/2024, 10:45",Pool D,Final
+Crypt,Beef Depot,15,8,"09/07/2024, 10:45",Pool D,Final
 John Doe,Beef Depot,0,0,"09/07/2024, 12:30",Pool D,Scheduled
 Crypt,L.U.T $ack,0,0,"09/07/2024, 12:30",Pool D,Scheduled
 John Doe,Crypt,0,0,"09/07/2024, 12:30",Pool D,Scheduled
