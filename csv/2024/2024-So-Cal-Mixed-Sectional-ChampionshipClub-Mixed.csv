@@ -31,26 +31,6 @@ coaches,Sophie Havranek
 93,Naomi Guzman
 99,Brandon Van Deusen
 b,r,e,a,k
-Party Wave,8
-teamInfo,,"Honolulu, Hawaii",,,https://twitter.com/PartyWaveUlti
-0,Annamarie Ellazar
-0,Bryan Bowles
-0,Kainoa Hottendorf
-0,Kauanoe Greene
-0,Megan Onuma
-0,Nikhil Khurana
-0,Robert Parke
-0,Sofia Murtaugh
-0,Daisy Har
-1,Michael Palmer
-13,Jared Backhus
-14,Cedric Petty Jr
-26,Amber Yonamine
-51,Andrew Ryan
-85,Michael Stephen
-89,Grace Relf
-99,Wei Shen Lim
-b,r,e,a,k
 Family Style,9
 teamInfo,,"Los Angeles, California",https://www.instagram.com/playfamilystyle/,,https://twitter.com/playfamilystyle
 00,Bryan DeVore
@@ -77,6 +57,26 @@ teamInfo,,"Los Angeles, California",https://www.instagram.com/playfamilystyle/,,
 26,Clarissa Guy
 32,Konrad Antoniuk
 46,Sarah Kibler
+b,r,e,a,k
+Party Wave,8
+teamInfo,,"Honolulu, Hawaii",,,https://twitter.com/PartyWaveUlti
+0,Annamarie Ellazar
+0,Bryan Bowles
+0,Kainoa Hottendorf
+0,Kauanoe Greene
+0,Megan Onuma
+0,Nikhil Khurana
+0,Robert Parke
+0,Sofia Murtaugh
+0,Daisy Har
+1,Michael Palmer
+13,Jared Backhus
+14,Cedric Petty Jr
+26,Amber Yonamine
+51,Andrew Ryan
+85,Michael Stephen
+89,Grace Relf
+99,Wei Shen Lim
 b,r,e,a,k
 California Burrito,2
 teamInfo,,"San Diego, California",https://www.instagram.com/california_burrito_ultimate/,,
@@ -209,6 +209,34 @@ teamInfo,,"San Diego , California",,,https://www.instagram.com/sdshipwreckultima
 28,Sonya Haupt
 48,Mikhail Stal
 b,r,e,a,k
+Spoiler Alert,11
+teamInfo,,"Los Angeles, California",,https://www.facebook.com/SpoilerAlertUltimate/,@Spoileralertult
+0,Alexandra Scholefield
+0,Alison Yoho
+0,Andrew Whittle
+0,Crystal Au
+0,Cynthia Love
+0,DEREK LAY
+0,Jackson Winter
+0,Josiah Gamble
+0,Megan  Stock
+0,Megan Lannert
+0,Molly Winter
+0,Samantha Huddleston
+0,Theodore Lannert
+0,Tyler Kenney
+7,Kyle Stinson
+11,Carley Blayney
+14,Anthony Paoli
+17,Benjamin Aiga
+18,Patrick Miller
+23,Sara Herta
+27,Mei-Lien Converse
+31,Eddie Scott
+81,Joanna Bree
+87,Brandon Cooper
+88,Jason Paul
+b,r,e,a,k
 Robot,3
 teamInfo,,"Santa Barbara, California",,,
 0,Catrina Sada
@@ -237,34 +265,6 @@ teamInfo,,"Santa Barbara, California",,,
 54,Andrew Lorentson
 71,Jonathan Wong
 74,Andrew Kirchhoff
-b,r,e,a,k
-Spoiler Alert,11
-teamInfo,,"Los Angeles, California",,https://www.facebook.com/SpoilerAlertUltimate/,@Spoileralertult
-0,Alexandra Scholefield
-0,Alison Yoho
-0,Andrew Whittle
-0,Crystal Au
-0,Cynthia Love
-0,DEREK LAY
-0,Jackson Winter
-0,Josiah Gamble
-0,Megan  Stock
-0,Megan Lannert
-0,Molly Winter
-0,Samantha Huddleston
-0,Theodore Lannert
-0,Tyler Kenney
-7,Kyle Stinson
-11,Carley Blayney
-14,Anthony Paoli
-17,Benjamin Aiga
-18,Patrick Miller
-23,Sara Herta
-27,Mei-Lien Converse
-31,Eddie Scott
-81,Joanna Bree
-87,Brandon Cooper
-88,Jason Paul
 b,r,e,a,k
 Erosion,14
 teamInfo,,"Costa Mesa, California",,,
@@ -406,7 +406,7 @@ s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
 Lotus,Family Style,11,8,"09/07/2024, 07:15",Pool A,Final
-Party Wave,Family Style,0,0,"09/07/2024, 08:45",Pool A,Scheduled
+Party Wave,Family Style,6,11,"09/07/2024, 08:45",Pool A,Final
 Lotus,Party Wave,0,0,"09/07/2024, 10:15",Pool A,Scheduled
 pool,Pool B
 California Burrito,Taco Truck,11,5,"09/07/2024, 07:15",Pool B,Final
@@ -417,7 +417,7 @@ pool,Pool C
 Robot,Erosion,11,7,"09/07/2024, 07:15",Pool C,Final
 Shipwreck,Spoiler Alert,11,9,"09/07/2024, 07:15",Pool C,Final
 Robot,Shipwreck,8,9,"09/07/2024, 08:45",Pool C,Final
-Spoiler Alert,Erosion,0,0,"09/07/2024, 08:45",Pool C,Scheduled
+Spoiler Alert,Erosion,11,4,"09/07/2024, 08:45",Pool C,Final
 pool,Pool D
 Karma,Kraken,11,4,"09/07/2024, 07:15",Pool D,Final
 Flagstaff Ultimate,Birds of Paradise,11,6,"09/07/2024, 07:15",Pool D,Final
