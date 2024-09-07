@@ -187,6 +187,29 @@ teamInfo,,"Somerville, Massachusetts",http://bigwrenchultimate.com,https://www.f
 84,Sam Farnsworth
 92,Tobey Chang
 b,r,e,a,k
+Jerk Factory,11
+teamInfo,,"Fredericton, New Brunswick CA",,,
+03,Alex Brewster
+04,Calvin O’Neill
+06,Alex Downing
+07,Alex Scott
+10,Jonathan Murray
+11,Calvin Drost
+13,Ethan Drost 
+14,Joshua Christiansen
+16,Devin Patterson
+17,John Brown
+19,Darren Clark
+20,Mark O'Connor
+22,Leland Morehouse
+26,Yannick Castonguay Page
+27,Seth Porter
+31,Malachi Winter
+61,Pierre Daigle
+69,Djordje Lepir
+74,Blake Archibald
+99,Jacob Savoie
+b,r,e,a,k
 BAG,6
 teamInfo,,"Somerville, Massachusetts",,,
 0,Angus Fuori
@@ -215,29 +238,6 @@ teamInfo,,"Somerville, Massachusetts",,,
 44,Ethan Less
 47,Adam Rogers
 50,Carl Saba
-b,r,e,a,k
-Jerk Factory,11
-teamInfo,,"Fredericton, New Brunswick CA",,,
-03,Alex Brewster
-04,Calvin O’Neill
-06,Alex Downing
-07,Alex Scott
-10,Jonathan Murray
-11,Calvin Drost
-13,Ethan Drost 
-14,Joshua Christiansen
-16,Devin Patterson
-17,John Brown
-19,Darren Clark
-20,Mark O'Connor
-22,Leland Morehouse
-26,Yannick Castonguay Page
-27,Seth Porter
-31,Malachi Winter
-61,Pierre Daigle
-69,Djordje Lepir
-74,Blake Archibald
-99,Jacob Savoie
 b,r,e,a,k
 Pineapple,14
 teamInfo,,"Cambridge, Massachusetts",,,
@@ -362,7 +362,7 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
-Red Tide,MBTA,0,0,"09/07/2024, 09:00",Pool A,Scheduled
+Red Tide,MBTA,13,2,"09/07/2024, 09:00",Pool A,Final
 Red Tide,Odyssey,0,0,"09/07/2024, 10:45",Pool A,Scheduled
 Odyssey,MBTA,0,0,"09/07/2024, 12:30",Pool A,Scheduled
 pool,Pool B
@@ -371,18 +371,18 @@ Scoop,Skeleton Squad,0,0,"09/07/2024, 10:45",Pool B,Scheduled
 Skeleton Squad,Crossfire,0,0,"09/07/2024, 12:30",Pool B,Scheduled
 pool,Pool C
 Big Wrench,Pineapple,13,4,"09/07/2024, 09:00",Pool C,Final
-BAG,Jerk Factory,0,0,"09/07/2024, 09:00",Pool C,Scheduled
+BAG,Jerk Factory,12,13,"09/07/2024, 09:00",Pool C,Final
 Big Wrench,Jerk Factory,0,0,"09/07/2024, 10:45",Pool C,Scheduled
 BAG,Pineapple,0,0,"09/07/2024, 10:45",Pool C,Scheduled
-Big Wrench,BAG,0,0,"09/07/2024, 12:30",Pool C,Scheduled
-Jerk Factory,Pineapple,0,0,"09/07/2024, 12:30",Pool C,Scheduled
+Big Wrench,BAG,0,0,"09/07/2024, 10:45",Pool C,Scheduled
+Jerk Factory,Pineapple,0,0,"09/07/2024, 10:45",Pool C,Scheduled
 pool,Pool D
 Red Circus,Providence Poultry,13,5,"09/07/2024, 09:00",Pool D,Final
 Lantern,Amherst Orlando Magic,13,7,"09/07/2024, 09:00",Pool D,Scheduled
 Red Circus,Amherst Orlando Magic,0,0,"09/07/2024, 10:45",Pool D,Scheduled
 Lantern,Providence Poultry,0,0,"09/07/2024, 10:45",Pool D,Scheduled
-Red Circus,Lantern,0,0,"09/07/2024, 12:30",Pool D,Scheduled
-Amherst Orlando Magic,Providence Poultry,0,0,"09/07/2024, 12:30",Pool D,Scheduled
+Red Circus,Lantern,0,0,"09/07/2024, 10:45",Pool D,Scheduled
+Amherst Orlando Magic,Providence Poultry,0,0,"09/07/2024, 10:45",Pool D,Scheduled
 b,r,e,a,k
 brackets,Bracket Play
 bracket,1st Place Bracket
