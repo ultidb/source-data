@@ -31,35 +31,6 @@ coaches,Bill Everhart
 88,Mac Weber
 99,Eric Blais
 b,r,e,a,k
-NOMAD,9
-teamInfo,,"Edina / St. Louis Park , Minnesota",https://www.nomadultimate.com/home,,
-0,Charlie Hoch
-0,Dillon Riebe
-0,George Lefkowicz
-0,James (Jac) Cullen
-0,Jasper Priest
-0,Kason Olson
-0,Luke Gnatkowski
-0,Nicholas Quast
-0,Quinn Lander
-1,James Harvey
-2,Luke Rubin
-8,Eli Schmelzer
-9,Andrew Yakes
-11,Eli Lessin Burris
-13,Nathan Parker
-14,Will Hager
-17,Aaron Casey-Fix
-21,Mikey  Wagner
-22,Boden Oelhafen
-33,Brett Duncan
-34,James Briscoe
-44,Graham Imholte
-55,Jack McIntyre
-66,Clayton Rabe
-95,Derek Krueger
-99,Jim Shope
-b,r,e,a,k
 HouSE,8
 teamInfo,,"Kenosha, Wisconsin",,https://www.facebook.com/HouSEultimate/,
 0,Daniel Plutchak
@@ -88,6 +59,35 @@ teamInfo,,"Kenosha, Wisconsin",,https://www.facebook.com/HouSEultimate/,
 69,Neal Patel
 76,Jeffrey Lefkovitz
 99,Aiden Gorman
+b,r,e,a,k
+NOMAD,9
+teamInfo,,"Edina / St. Louis Park , Minnesota",https://www.nomadultimate.com/home,,
+0,Charlie Hoch
+0,Dillon Riebe
+0,George Lefkowicz
+0,James (Jac) Cullen
+0,Jasper Priest
+0,Kason Olson
+0,Luke Gnatkowski
+0,Nicholas Quast
+0,Quinn Lander
+1,James Harvey
+2,Luke Rubin
+8,Eli Schmelzer
+9,Andrew Yakes
+11,Eli Lessin Burris
+13,Nathan Parker
+14,Will Hager
+17,Aaron Casey-Fix
+21,Mikey  Wagner
+22,Boden Oelhafen
+33,Brett Duncan
+34,James Briscoe
+44,Graham Imholte
+55,Jack McIntyre
+66,Clayton Rabe
+95,Derek Krueger
+99,Jim Shope
 b,r,e,a,k
 KFC,16
 teamInfo,,"Stevens Point & Fox Cities, Wisconsin",,,
@@ -282,35 +282,6 @@ teamInfo,,"Duluth, Minnesota",,https://www.facebook.com/DingwopUltimate,
 87,Trent Brunner
 99,Kyle DeJesus
 b,r,e,a,k
-DCVIII,14
-teamInfo,,"Madison , Wisconsin",,,
-0,Malek Champion
-00,William Noguera
-02,Hayden West
-04,Jonathan Pizzo
-07,Griffin Glassel
-09,Zachary Schuyler
-09,Ronaldo Lopez Vega
-10,Logan Derheimer
-11,Kian Dilweg
-13,Aaron Fandel
-14,Simi Fadiran
-15,Nehemiah Senger
-16,Jay Lonetree
-17,Lue Yang
-18,Zachary Cestkowski
-19,James Quinn
-21,Henry Lyne
-22,Aaron Stettner
-24,Ardian Yudawan
-25,Kyle West
-42,Tyler Grim
-44,Kendrick Koehler
-44,Frederick Grimm
-71,Zachary Kaufman
-77,Nicholas Gueldner
-88,Calvin Walters-Medaris
-b,r,e,a,k
 Nomads,11
 teamInfo,,"Sioux Falls, South Dakota",,,
 0,Brayden Johnson
@@ -339,6 +310,35 @@ teamInfo,,"Sioux Falls, South Dakota",,,
 25,Kyle Orians
 84,Aaron Bauer
 99,Grant Dunbar
+b,r,e,a,k
+DCVIII,14
+teamInfo,,"Madison , Wisconsin",,,
+0,Malek Champion
+00,William Noguera
+02,Hayden West
+04,Jonathan Pizzo
+07,Griffin Glassel
+09,Zachary Schuyler
+09,Ronaldo Lopez Vega
+10,Logan Derheimer
+11,Kian Dilweg
+13,Aaron Fandel
+14,Simi Fadiran
+15,Nehemiah Senger
+16,Jay Lonetree
+17,Lue Yang
+18,Zachary Cestkowski
+19,James Quinn
+21,Henry Lyne
+22,Aaron Stettner
+24,Ardian Yudawan
+25,Kyle West
+42,Tyler Grim
+44,Kendrick Koehler
+44,Frederick Grimm
+71,Zachary Kaufman
+77,Nicholas Gueldner
+88,Calvin Walters-Medaris
 b,r,e,a,k
 Knights of Ni,4
 teamInfo,,"Golden Valley, Minnesota",,,https://twitter.com/ulti_ni
@@ -449,9 +449,9 @@ s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
 Mad Men,NOMAD,13,5,"09/07/2024, 08:30",Pool A,Final
-HouSE,KFC,0,0,"09/07/2024, 08:30",Pool A,Scheduled
+HouSE,KFC,13,0,"09/07/2024, 08:30",Pool A,Final
 Mad Men,KFC,13,2,"09/07/2024, 10:30",Pool A,Final
-HouSE,NOMAD,0,0,"09/07/2024, 10:30",Pool A,Scheduled
+HouSE,NOMAD,13,12,"09/07/2024, 10:30",Pool A,Final
 Mad Men,HouSE,13,4,"09/07/2024, 12:30",Pool A,Final
 NOMAD,KFC,0,0,"09/07/2024, 12:30",Pool A,Scheduled
 pool,Pool B
@@ -467,7 +467,7 @@ DINGWOP,DCVIII,13,12,"09/07/2024, 08:30",Pool C,Final
 Mallard,DCVIII,13,3,"09/07/2024, 10:30",Pool C,Final
 DINGWOP,Nomads,13,10,"09/07/2024, 10:30",Pool C,Final
 Mallard,DINGWOP,13,3,"09/07/2024, 12:30",Pool C,Final
-Nomads,DCVIII,0,0,"09/07/2024, 12:30",Pool C,Scheduled
+Nomads,DCVIII,13,9,"09/07/2024, 12:30",Pool C,Final
 pool,Pool D
 Knights of Ni,Void,13,5,"09/07/2024, 08:30",Pool D,Final
 Zoboomafoo,Timber,10,13,"09/07/2024, 08:30",Pool D,Final
