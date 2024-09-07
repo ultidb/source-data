@@ -383,11 +383,11 @@ Seattle Soft Serve,Squid Inc.,0,0,"09/07/2024, 14:00",Pool A,Scheduled
 pool,Pool B
 Smack!,Garbage,15,9,"09/07/2024, 10:00",Pool B,Final
 Smack!,Bullet Train,12,10,"09/07/2024, 12:00",Pool B,Final
-Bullet Train,Garbage,0,0,"09/07/2024, 14:00",Pool B,Scheduled
+Bullet Train,Garbage,14,11,"09/07/2024, 14:00",Pool B,Scheduled
 pool,Pool C
 Lights Out,BOP,13,6,"09/07/2024, 10:00",Pool C,Final
 Lights Out,Pegasus,15,8,"09/07/2024, 12:00",Pool C,Final
-Pegasus,BOP,0,0,"09/07/2024, 14:00",Pool C,Scheduled
+Pegasus,BOP,13,8,"09/07/2024, 14:00",Pool C,Final
 pool,Pool D
 Grit City,Heat Wave,15,9,"09/07/2024, 10:00",Pool D,Final
 TT,Mola Mola,15,7,"09/07/2024, 10:00",Pool D,Final
@@ -396,8 +396,11 @@ Mola Mola,Heat Wave,10,11,"09/07/2024, 12:00",Pool D,Final
 b,r,e,a,k
 brackets,Bracket Play
 bracket,1st Place
+Pegasus,Grit City,0,0,"09/07/2024, 16:00",Quarters,Scheduled
+Lights Out,TT,0,0,"09/07/2024, 16:00",Quarters,Scheduled
 bracket,2nd Place
 bracket,5th Place
+Mola Mola,BOP,0,0,"09/07/2024, 16:00",5th Play-In,Scheduled
 bracket,7th Place
 bracket,9th Place
 b,r,e,a,k
