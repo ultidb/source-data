@@ -86,6 +86,30 @@ teamInfo,,"Winchester, Virginia",,,@TheRealWincCity
 77,Goutham Kommanaboyina
 96,Benjamin Corrigan
 b,r,e,a,k
+Puzzles,2
+teamInfo,,"DC, District of Columbia",,,
+0,Casey Hepburn
+0,John McGrath
+0,Keith Mellendorf
+0,Patrick Liu
+0,Robert (Robbie) Gillies
+0,Russell Scrivens
+0,Travis Ward
+0,Xavier Maxstadt
+1,Zachary Hall
+1,John Kerr
+2,Bradley Tinney
+3,Jeremiah Leblanc
+3,Keven Moldenhauer
+10,Paul Froeschle
+11,Adam Bronstein
+14,Dylan Lederle-Ensign
+17,Jacob Shade
+21,Nick Rinehart
+27,Joe Spaeth
+44,Cole Snavely
+81,Mike Randow
+b,r,e,a,k
 Bomb Squad,7
 teamInfo,,"Baltimore, Maryland",,,
 0,Collin Stokes
@@ -114,30 +138,6 @@ teamInfo,,"Baltimore, Maryland",,,
 22,Lemuel Sun
 77,Grady Riley
 96,Zachary Cousino
-b,r,e,a,k
-Puzzles,2
-teamInfo,,"DC, District of Columbia",,,
-0,Casey Hepburn
-0,John McGrath
-0,Keith Mellendorf
-0,Patrick Liu
-0,Robert (Robbie) Gillies
-0,Russell Scrivens
-0,Travis Ward
-0,Xavier Maxstadt
-1,Zachary Hall
-1,John Kerr
-2,Bradley Tinney
-3,Jeremiah Leblanc
-3,Keven Moldenhauer
-10,Paul Froeschle
-11,Adam Bronstein
-14,Dylan Lederle-Ensign
-17,Jacob Shade
-21,Nick Rinehart
-27,Joe Spaeth
-44,Cole Snavely
-81,Mike Randow
 b,r,e,a,k
 MORT,15
 teamInfo,,"Washington, District of Columbia",,,
@@ -241,6 +241,32 @@ teamInfo,,"Williamsburg, Virginia",,,
 66,Charles Tai
 88,Liam Dunn
 b,r,e,a,k
+Haze,14
+teamInfo,,"Leesburg, Virginia",,,
+00,Adam Young
+00,Benjamin Zhu
+00,Boris Li
+00,Brett Coulter
+00,Carl Chan
+00,Carter Anderson
+00,Connor Matheson
+00,Daniel Son
+00,Eli Lehrer
+00,Eric Yoon
+00,Erik Hayes
+00,Greg Brower
+00,Hunter Howery
+00,Joseph  Duthie
+00,Joshua Narum
+00,Joshua Willis-Jones
+00,Khyle Eastin
+00,Lucas Winch
+00,Matthew Jazrawi
+00,Nicholas Skacel
+00,Patrick O'Brien
+00,Sean McClarnon
+33,Adam Pomeranz
+b,r,e,a,k
 BDC,11
 teamInfo,,"Washington , District of Columbia",,,
 0,Diego Soto
@@ -269,32 +295,6 @@ teamInfo,,"Washington , District of Columbia",,,
 65,Connor Walsh
 67,Aidan Mitchell
 87,Thomas Dillon
-b,r,e,a,k
-Haze,14
-teamInfo,,"Leesburg, Virginia",,,
-00,Adam Young
-00,Benjamin Zhu
-00,Boris Li
-00,Brett Coulter
-00,Carl Chan
-00,Carter Anderson
-00,Connor Matheson
-00,Daniel Son
-00,Eli Lehrer
-00,Eric Yoon
-00,Erik Hayes
-00,Greg Brower
-00,Hunter Howery
-00,Joseph  Duthie
-00,Joshua Narum
-00,Joshua Willis-Jones
-00,Khyle Eastin
-00,Lucas Winch
-00,Matthew Jazrawi
-00,Nicholas Skacel
-00,Patrick O'Brien
-00,Sean McClarnon
-33,Adam Pomeranz
 b,r,e,a,k
 Crypt,5
 teamInfo,,"Richmond, Virginia",https://linktr.ee/rvacrypt,https://www.instagram.com/rvacrypt/,https://twitter.com/rvacrypt
@@ -416,19 +416,19 @@ pools,Pool A
 pool,Pool A
 Oak Grove Boys,Winc City Fog,15,6,"09/07/2024, 09:00",Pool A,Final
 Oak Grove Boys,MOB Ultimate,15,6,"09/07/2024, 10:45",Pool A,Final
-MOB Ultimate,Winc City Fog,0,0,"09/07/2024, 12:30",Pool A,Scheduled
+MOB Ultimate,Winc City Fog,11,10,"09/07/2024, 12:30",Pool A,Final
 b,r,e,a,k
 pools,"Pools B, C, D"
 pool,Pool B
 Puzzles,MORT,15,6,"09/07/2024, 10:45",Pool B,Final
 Bomb Squad,Jolly Roger,15,5,"09/07/2024, 10:45",Pool B,Final
-Puzzles,Bomb Squad,0,0,"09/07/2024, 12:30",Pool B,Scheduled
-Jolly Roger,MORT,0,0,"09/07/2024, 12:30",Pool B,Scheduled
+Puzzles,Bomb Squad,11,8,"09/07/2024, 12:30",Pool B,Final
+Jolly Roger,MORT,7,10,"09/07/2024, 12:30",Pool B,Final
 pool,Pool C
 Town Hall Stars,Haze,15,5,"09/07/2024, 10:45",Pool C,Final
 Bryce Whitney Fan Club,BDC,12,8,"09/07/2024, 10:45",Pool C,Final
 Town Hall Stars,Bryce Whitney Fan Club,15,8,"09/07/2024, 12:30",Pool C,Final
-BDC,Haze,0,0,"09/07/2024, 12:30",Pool C,Scheduled
+BDC,Haze,11,15,"09/07/2024, 12:30",Pool C,Final
 pool,Pool D
 John Doe,L.U.T $ack,15,3,"09/07/2024, 10:45",Pool D,Final
 Crypt,Beef Depot,15,8,"09/07/2024, 10:45",Pool D,Final
@@ -437,9 +437,16 @@ Beef Depot,L.U.T $ack,10,12,"09/07/2024, 12:30",Pool D,Final
 b,r,e,a,k
 brackets,Bracket Play
 bracket,1st Place 
+Oak Grove Boys,Bomb Squad,0,0,"09/07/2024, 14:15",1st Place Quarters,Scheduled
+Crypt,Bryce Whitney Fan Club,0,0,"09/07/2024, 14:15",1st Place Quarters,Scheduled
+Town Hall Stars,John Doe,0,0,"09/07/2024, 14:15",1st Place Quarters,Scheduled
+Puzzles,MOB Ultimate,0,0,"09/07/2024, 14:15",1st Place Quarters,Scheduled
 bracket,2nd Place
 bracket,4th Place
 bracket,6th Place
+Winc City Fog,Jolly Roger,0,0,"09/07/2024, 14:15",6th Place R1,Scheduled
+L.U.T $ack,BDC,0,0,"09/07/2024, 14:15",6th Place R1,Scheduled
+Haze,Beef Depot,0,0,"09/07/2024, 14:15",6th Place R1,Scheduled
 b,r,e,a,k
 brackets,Consolation
 bracket,9th Place

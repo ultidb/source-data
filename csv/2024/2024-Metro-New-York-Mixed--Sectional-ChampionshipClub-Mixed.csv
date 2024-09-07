@@ -337,7 +337,7 @@ pools,Saturday Pool Play
 pool,Pool A
 Funk,Domino Effect,15,0,"09/07/2024, 09:00",Pool A,Final
 Funk,Starfire,13,4,"09/07/2024, 10:45",Pool A,Final
-Starfire,Domino Effect,0,0,"09/07/2024, 12:30",Pool A,Scheduled
+Starfire,Domino Effect,15,4,"09/07/2024, 12:30",Pool A,Final
 pool,Pool B
 Grand Army,Hot Honey,15,4,"09/07/2024, 09:00",Pool B,Final
 Grand Army,Brooklyn Hive,13,5,"09/07/2024, 10:45",Pool B,Final
@@ -345,13 +345,17 @@ Brooklyn Hive,Hot Honey,0,0,"09/07/2024, 12:30",Pool B,Scheduled
 pool,Pool C
 FLI,Champignons,14,6,"09/07/2024, 09:00",Pool C,Final
 FLI,NY Swipes,9,6,"09/07/2024, 10:45",Pool C,Final
-NY Swipes,Champignons,0,0,"09/07/2024, 12:30",Pool C,Scheduled
+NY Swipes,Champignons,12,9,"09/07/2024, 12:30",Pool C,Final
 pool,Pool D
 Deadweight,Hartford Current,15,2,"09/07/2024, 09:00",Pool D,Final
 Deadweight,Heat Wave,12,7,"09/07/2024, 10:45",Pool D,Final
-Heat Wave,Hartford Current,0,0,"09/07/2024, 12:30",Pool D,Scheduled
+Heat Wave,Hartford Current,13,6,"09/07/2024, 12:30",Pool D,Final
 b,r,e,a,k
 clusters,Crossover Games
+cluster,Re-Seed Crossover
+Funk,FLI,0,0,"09/07/2024, 14:15",,Scheduled
+NY Swipes,Domino Effect,0,0,"09/07/2024, 14:15",,Scheduled
+Starfire,Champignons,0,0,"09/07/2024, 14:15",,Scheduled
 b,r,e,a,k
 brackets,Bracket
 bracket,1st Place Bracket
