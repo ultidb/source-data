@@ -74,6 +74,28 @@ teamInfo,,"West Lebanon, New Hampshire",,,
 24,Colby Clarkson
 46,Michael Ferrante
 b,r,e,a,k
+LAX,3
+teamInfo,,"Montréal, Québec CA",,,
+0,Alex Grignon
+0,Ben Powlay
+0,Janick St-Cyr
+0,Joseph Charbonneau Genest
+0,Marie Tremblay-Paradis
+0,Zakarie Massi
+7,Charlotte Whyte
+08,Christian Mathieu
+10,Jean-Levy Champagne
+13,Julie Landry
+19,Bryce Ring
+21,Marianne Pilon
+22,Eric Preseault
+23,Marie-Eve Robert
+23,Julie Tremblay-Mons
+26,Caroline Cadotte
+77,Julie Blais
+81,Kevin Quinlan
+86,Jean-Philippe Riopel
+b,r,e,a,k
 Zero Strategy,2
 teamInfo,,"Burlington, Vermont",,,
 coaches,Daron Byerly
@@ -103,28 +125,6 @@ coaches,Daron Byerly
 44,Matthew NK Smith
 93,Evan Maynard
 99,Nora Jacobsen
-b,r,e,a,k
-LAX,3
-teamInfo,,"Montréal, Québec CA",,,
-0,Alex Grignon
-0,Ben Powlay
-0,Janick St-Cyr
-0,Joseph Charbonneau Genest
-0,Marie Tremblay-Paradis
-0,Zakarie Massi
-7,Charlotte Whyte
-08,Christian Mathieu
-10,Jean-Levy Champagne
-13,Julie Landry
-19,Bryce Ring
-21,Marianne Pilon
-22,Eric Preseault
-23,Marie-Eve Robert
-23,Julie Tremblay-Mons
-26,Caroline Cadotte
-77,Julie Blais
-81,Kevin Quinlan
-86,Jean-Philippe Riopel
 b,r,e,a,k
 Taproot,6
 teamInfo,,"northampton, Massachusetts",,,
@@ -174,26 +174,29 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Saturday Pool A
 pool,Pool A
-Big Rig,UV Rays,0,0,"09/07/2024, 10:00",Pool A,Scheduled
-Harfang ultimate,UV Rays,0,0,"09/07/2024, 12:00",Pool A,Scheduled
-Big Rig,Harfang ultimate,0,0,"09/07/2024, 14:00",Pool A,Scheduled
+Big Rig,UV Rays,15,2,"09/07/2024, 10:00",Pool A,Final
+Harfang ultimate,UV Rays,W,L,"09/07/2024, 12:00",Pool A,Final
+Big Rig,Harfang ultimate,W,L,"09/07/2024, 14:00",Pool A,Final
 b,r,e,a,k
 pools,Saturday Pool B
 pool,Pool B
-Zero Strategy,Sugar Shack,0,0,"09/07/2024, 12:00",Pool B,Scheduled
-LAX,Taproot,0,0,"09/07/2024, 12:00",Pool B,Scheduled
-Zero Strategy,Taproot,0,0,"09/07/2024, 14:00",Pool B,Scheduled
-LAX,Sugar Shack,0,0,"09/07/2024, 14:00",Pool B,Scheduled
-Zero Strategy,LAX,0,0,"09/07/2024, 14:00",Pool B,Scheduled
-Taproot,Sugar Shack,0,0,"09/07/2024, 14:00",Pool B,Scheduled
+Zero Strategy,Sugar Shack,15,6,"09/07/2024, 12:00",Pool B,Final
+LAX,Taproot,W,L,"09/07/2024, 12:00",Pool B,Final
+Zero Strategy,LAX,14,15,"09/07/2024, 14:00",Pool B,Final
+Taproot,Sugar Shack,W,L,"09/07/2024, 14:00",Pool B,Final
 b,r,e,a,k
 clusters,Saturday Crossover Playoffs
+cluster,Quarterfinals
+Harfang ultimate,Taproot,W,L,"09/07/2024, 16:00",,Final
+Zero Strategy,UV Rays,15,4,"09/07/2024, 16:00",,Final
 b,r,e,a,k
 brackets,Sunday Finals
 bracket,1st Place
+Big Rig,LAX,0,0,"09/08/2024, 10:00",1st Place,Scheduled
 b,r,e,a,k
 brackets,Sunday Championship
 bracket,2nd Place
+Harfang ultimate,Zero Strategy,0,0,"09/08/2024, 10:00",Elimintation Round,Scheduled
 b,r,e,a,k
 clusters,Consolation
 b,r,e,a,k
