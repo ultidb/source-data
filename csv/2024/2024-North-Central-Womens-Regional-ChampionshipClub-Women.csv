@@ -194,15 +194,17 @@ pools,Pool Play
 pool,Pool A
 Pop,Medusa,15,3,"09/21/2024, 09:00",Pool A,Final
 Pop,Stellar,15,5,"09/21/2024, 11:00",Pool A,Final
-Stellar,Medusa,0,0,"09/21/2024, 13:00",Pool A,Scheduled
+Stellar,Medusa,15,12,"09/21/2024, 13:00",Pool A,Final
 pool,Pool B
 Heist,Charm,15,3,"09/21/2024, 11:00",Pool B,Final
 Wicked,Freshwater Ultimate,15,3,"09/21/2024, 11:00",Pool B,Final
-Heist,Wicked,0,0,"09/21/2024, 13:00",Pool B,Scheduled
-Freshwater Ultimate,Charm,0,0,"09/21/2024, 13:00",Pool B,Scheduled
+Heist,Wicked,13,12,"09/21/2024, 13:00",Pool B,Final
+Freshwater Ultimate,Charm,10,8,"09/21/2024, 13:00",Pool B,Final
 b,r,e,a,k
 brackets,Bracket Play
 bracket,Championship Bracket
+Medusa,Wicked,0,0,"09/21/2024, 15:00",Quarters,Scheduled
+Freshwater Ultimate,Stellar,0,0,"09/21/2024, 15:00",Quarters,Scheduled
 b,r,e,a,k
 brackets,3rd Place Bracket
 bracket,3rd Place Bracket
