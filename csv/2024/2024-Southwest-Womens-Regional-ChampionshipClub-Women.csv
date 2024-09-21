@@ -304,7 +304,7 @@ pools,Saturday Pool Play
 pool,Pool A
 Fury,Just Add Water,11,0,"09/21/2024, 09:00",Pool A,Final
 Fury,Void Cat Rewind,11,3,"09/21/2024, 10:45",Pool A,Final
-Void Cat Rewind,Just Add Water,0,0,"09/21/2024, 12:30",Pool A,Scheduled
+Void Cat Rewind,Just Add Water,11,3,"09/21/2024, 12:30",Pool A,Final
 pool,Pool B
 Nightlock,Haboob,11,1,"09/21/2024, 09:00",Pool B,Final
 Nightlock,Wildfire,11,8,"09/21/2024, 10:45",Pool B,Final
@@ -322,6 +322,10 @@ Flipside,LOL,0,0,"09/21/2024, 16:00",Pool C,Scheduled
 FAB,Tempo,0,0,"09/21/2024, 16:00",Pool C,Scheduled
 b,r,e,a,k
 clusters,Pool A/B Crossovers
+cluster,Re-Seeding Crossovers
+Fury,Nightlock,0,0,"09/21/2024, 14:15",,Scheduled
+Void Cat Rewind,Haboob,0,0,"09/21/2024, 14:15",,Scheduled
+Wildfire,Just Add Water,0,0,"09/21/2024, 14:15",,Scheduled
 b,r,e,a,k
 brackets,Bracket Play
 bracket,Championship
