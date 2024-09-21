@@ -352,6 +352,34 @@ teamInfo,,"Boston, Massachusetts",,,
 17,Cici Wang
 82,Alyson Steinfeld
 b,r,e,a,k
+UNION,5
+teamInfo,,"Toronto, Ontario CA",,https://www.facebook.com/pages/Union-Ultimate/190712307636599,@unionultimate
+0,Daiana Spataru
+0,Noah Nishizaki
+6,Sarah Burke
+01,Harry Norris
+05,Erich Phang-Lyn
+07,Andrew Kay
+08,Jan Dick
+09,Emily Zhang
+10,Hugo Lynch
+11,Nelson Le
+12,Thomas Panayiotopoulos
+13,Kelsi Mallany
+19,Tasha McFarland
+21,Isabelle Pacleb
+22,Samantha Mok
+24,Jamee Nepom
+25,Jordan Atchison
+26,Kelsey Priestman
+28,Emilija Rudzitis
+66,Mackinley Szumlanski
+71,Bryan Yue
+88,Janice Lui
+90,Ian Hanson
+91,Lindsay Musalem
+96,Oren Binnun
+b,r,e,a,k
 Big Rig,4
 teamInfo,,"Burlington, Vermont",,,
 coaches,Ari Weitzman
@@ -382,33 +410,34 @@ coaches,Ari Weitzman
 33,Parker Lin-Butler
 44,Emily Pozzy
 b,r,e,a,k
-UNION,5
-teamInfo,,"Toronto, Ontario CA",,https://www.facebook.com/pages/Union-Ultimate/190712307636599,@unionultimate
-0,Daiana Spataru
-0,Noah Nishizaki
-6,Sarah Burke
-01,Harry Norris
-05,Erich Phang-Lyn
-07,Andrew Kay
-08,Jan Dick
-09,Emily Zhang
-10,Hugo Lynch
-11,Nelson Le
-12,Thomas Panayiotopoulos
-13,Kelsi Mallany
-19,Tasha McFarland
-21,Isabelle Pacleb
-22,Samantha Mok
-24,Jamee Nepom
-25,Jordan Atchison
-26,Kelsey Priestman
-28,Emilija Rudzitis
-66,Mackinley Szumlanski
-71,Bryan Yue
-88,Janice Lui
-90,Ian Hanson
-91,Lindsay Musalem
-96,Oren Binnun
+Grand Army,15
+teamInfo,,"Brooklyn, New York",https://linktr.ee/grandarmyultimate,https://www.facebook.com/GrandArmyUltimate,https://www.twitter.com/grandarmymixed
+0,Connor Chin
+0,David Hwang
+0,Ella Park-Chan
+0,Emily Harris
+0,Kayla Seeger
+0,Kerry Chang
+0,Lily Gould
+0,Jae Lee
+0,John Watters
+0,Tomaso Mukai
+5,Marianna Malin
+5,Emily Wang
+7,Dena Behar
+9,Yvonne Tang
+12,WillIam Altschul
+12,Casey Banta-Ryan
+12,Antonio Brewer
+13,Sonia Amaya O
+14,Dylan Leitner
+21,Bayle Smith-Salzberg
+28,Mark Gazzerro
+35,Alex Rafkin
+44,Katia Krupa
+73,Alex Baroody
+87,Emma Chin
+88,Martin Bustamante
 b,r,e,a,k
 Bench,10
 teamInfo,,"albany, New York",,,
@@ -439,35 +468,6 @@ teamInfo,,"albany, New York",,,
 36,Billy Daniels
 74,Ian Daughton
 b,r,e,a,k
-Grand Army,15
-teamInfo,,"Brooklyn, New York",https://linktr.ee/grandarmyultimate,https://www.facebook.com/GrandArmyUltimate,https://www.twitter.com/grandarmymixed
-0,Connor Chin
-0,David Hwang
-0,Ella Park-Chan
-0,Emily Harris
-0,Kayla Seeger
-0,Kerry Chang
-0,Lily Gould
-0,Jae Lee
-0,John Watters
-0,Tomaso Mukai
-5,Marianna Malin
-5,Emily Wang
-7,Dena Behar
-9,Yvonne Tang
-12,WillIam Altschul
-12,Casey Banta-Ryan
-12,Antonio Brewer
-13,Sonia Amaya O
-14,Dylan Leitner
-21,Bayle Smith-Salzberg
-28,Mark Gazzerro
-35,Alex Rafkin
-44,Katia Krupa
-73,Alex Baroody
-87,Emma Chin
-88,Martin Bustamante
-b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
@@ -478,7 +478,7 @@ Darkwing,FLI,0,0,"09/21/2024, 10:45",Pool A,Scheduled
 XIST,Darkwing,0,0,"09/21/2024, 10:45",Pool A,Scheduled
 Garbage Plates,FLI,0,0,"09/21/2024, 10:45",Pool A,Scheduled
 pool,Pool B
-Sprocket,The Buoy Association,13,5,"09/21/2024, 09:00",Pool B,Final
+Sprocket,The Buoy Association,13,5,"09/21/2024, 09:00",Pool B,Scheduled
 Funk,Zero Strategy,0,0,"09/21/2024, 09:00",Pool B,Scheduled
 Sprocket,Zero Strategy,0,0,"09/21/2024, 10:45",Pool B,Scheduled
 Funk,The Buoy Association,0,0,"09/21/2024, 10:45",Pool B,Scheduled
@@ -493,7 +493,7 @@ Slow,Townies,0,0,"09/21/2024, 10:45",Pool C,Scheduled
 Wild Card,Obscure,0,0,"09/21/2024, 10:45",Pool C,Scheduled
 pool,Pool D
 Big Rig,Grand Army,0,0,"09/21/2024, 09:00",Pool D,Scheduled
-UNION,Bench,0,0,"09/21/2024, 09:00",Pool D,Scheduled
+UNION,Bench,13,7,"09/21/2024, 09:00",Pool D,Final
 Big Rig,Bench,0,0,"09/21/2024, 10:45",Pool D,Scheduled
 UNION,Grand Army,0,0,"09/21/2024, 10:45",Pool D,Scheduled
 Big Rig,UNION,0,0,"09/21/2024, 10:45",Pool D,Scheduled
