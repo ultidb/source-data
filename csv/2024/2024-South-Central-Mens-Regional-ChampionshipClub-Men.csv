@@ -59,6 +59,64 @@ teamInfo,washed,"Denver, Colorado",,,
 69,Liam Rawson
 69,Mark Rauls
 b,r,e,a,k
+Fungi,3
+teamInfo,,"Denver, Colorado",,,
+0,Dexter Luecke
+0,Flynn Nyman
+0,Greg Olson
+0,James Miller
+0,Jonathon Morris
+0,Joshua Morris
+0,Mason Kiefer
+0,Morgan Scott
+0,Oliver Cunningham
+0,Rory Lenny
+0,Shaan Narayan
+0,Spencer Hawkins
+0,Will Wallace
+5,Sam Keller
+7,Sam Ruiz Harding
+8,Matthew McLean
+11,Colton Steiner
+13,Theodore Watkins
+15,Abe Gambert
+21,Jasper Pearcy-Kahn
+22,Daniel Sponaugle
+24,Jorge Delgado
+30,Sten Larson
+33,Adam Federbusch
+34,Cody Spicer
+80,Cade Colston
+b,r,e,a,k
+Doublewide,2
+teamInfo,,"Austin, Texas",https://wellnasty.com/,https://www.facebook.com/DoublewideTX/,https://twitter.com/doublewidetx
+0,Evan Swiatek
+0,Gavin Babbitt
+0,Hayden Stone
+0,Jake Worthington
+0,Jason Hustad
+0,John (Jack) Dowling
+0,Mason Zetsch
+0,Matt Chambers
+0,Noah Powell
+0,Saaketh Palchuru
+1,Kolbe Bauer
+2,Jacob Kaplan
+2,Emmanuel Bilolo
+4,Samuel Morrall
+5,Jacob Radack
+9,Jackson Potts
+10,Alec Wilson Holliday
+10,Owen Smith
+10,Xavier Fuzat
+16,Timothy Mosher
+20,Chase Cunningham
+22,Taylor Masterson
+33,Aaron Barcio
+45,Kade Morris
+50,Matthew Armour
+88,Duncan Fitzgerald
+b,r,e,a,k
 Alamode,9
 teamInfo,,"San Antonio, Texas",,,
 0,Drew Gullahorn
@@ -115,35 +173,6 @@ teamInfo,,"Dallas, Texas",,,@dallasbrawl
 89,Jack Wooldridge
 98,Tanner Roberts
 99,Benjamin Price
-b,r,e,a,k
-Fungi,3
-teamInfo,,"Denver, Colorado",,,
-0,Dexter Luecke
-0,Flynn Nyman
-0,Greg Olson
-0,James Miller
-0,Jonathon Morris
-0,Joshua Morris
-0,Mason Kiefer
-0,Morgan Scott
-0,Oliver Cunningham
-0,Rory Lenny
-0,Shaan Narayan
-0,Spencer Hawkins
-0,Will Wallace
-5,Sam Keller
-7,Sam Ruiz Harding
-8,Matthew McLean
-11,Colton Steiner
-13,Theodore Watkins
-15,Abe Gambert
-21,Jasper Pearcy-Kahn
-22,Daniel Sponaugle
-24,Jorge Delgado
-30,Sten Larson
-33,Adam Federbusch
-34,Cody Spicer
-80,Cade Colston
 b,r,e,a,k
 H.I.P,6
 teamInfo,,"Texas City, Texas",,,https://twitter.com/hip_flatball/
@@ -202,35 +231,6 @@ teamInfo,,"Boulder, Colorado",,,
 59,George Abuhamad
 64,Eric Gillwald
 86,Noah Sullivan
-b,r,e,a,k
-Doublewide,2
-teamInfo,,"Austin, Texas",https://wellnasty.com/,https://www.facebook.com/DoublewideTX/,https://twitter.com/doublewidetx
-0,Evan Swiatek
-0,Gavin Babbitt
-0,Hayden Stone
-0,Jake Worthington
-0,Jason Hustad
-0,John (Jack) Dowling
-0,Mason Zetsch
-0,Matt Chambers
-0,Noah Powell
-0,Saaketh Palchuru
-1,Kolbe Bauer
-2,Jacob Kaplan
-2,Emmanuel Bilolo
-4,Samuel Morrall
-5,Jacob Radack
-9,Jackson Potts
-10,Alec Wilson Holliday
-10,Owen Smith
-10,Xavier Fuzat
-16,Timothy Mosher
-20,Chase Cunningham
-22,Taylor Masterson
-33,Aaron Barcio
-45,Kade Morris
-50,Matthew Armour
-88,Duncan Fitzgerald
 b,r,e,a,k
 Texas Duffy,16
 teamInfo,,"College Station, Texas",,,
@@ -466,10 +466,11 @@ s,t,a,g,e,s
 brackets,Bracket Play
 bracket,Championship Bracket
 Johnny Bravo,(washed),0,0,"09/21/2024, 12:30",Semis,Scheduled
+Fungi,Doublewide,0,0,"09/21/2024, 12:30",Semis,Scheduled
 Johnny Bravo,Alamode,15,3,"09/21/2024, 10:00",Quarters,Final
 Brawl,(washed),10,15,"09/21/2024, 10:00",Quarters,Final
-Fungi,H.I.P,0,0,"09/21/2024, 10:00",Quarters,Scheduled
-ISO Atmo,Doublewide,0,0,"09/21/2024, 10:00",Quarters,Scheduled
+Fungi,H.I.P,15,9,"09/21/2024, 10:00",Quarters,Final
+ISO Atmo,Doublewide,13,15,"09/21/2024, 10:00",Quarters,Final
 Johnny Bravo,Texas Duffy,15,6,"09/21/2024, 08:00",Pre-Quarters,Final
 Alamode,Riverside,14,11,"09/21/2024, 08:00",Pre-Quarters,Final
 Brawl,Cowtown Cannons,11,10,"09/21/2024, 08:00",Pre-Quarters,Final
@@ -479,10 +480,12 @@ Dreadnought,H.I.P,8,12,"09/21/2024, 08:00",Pre-Quarters,Final
 ISO Atmo,BARNSTORM,15,10,"09/21/2024, 08:00",Pre-Quarters,Final
 Sprawl,Doublewide,6,15,"09/21/2024, 08:00",Pre-Quarters,Final
 bracket,2nd Place Bracket
+ISO Atmo,Texas Duffy,0,0,"09/21/2024, 12:00",2nd Rd 2,Scheduled
+Brawl,Dreadnought,0,0,"09/21/2024, 12:00",2nd Rd 2,Scheduled
 Alamode,Sprawl,0,0,"09/21/2024, 12:00",2nd Rd 2,Scheduled
 Texas Duffy,Riverside,15,14,"09/21/2024, 10:00",2nd Rd 1,Final
 Cowtown Cannons,Red Lotus,0,0,"09/21/2024, 10:00",2nd Rd 1,Scheduled
-Harvey Cats,Dreadnought,0,0,"09/21/2024, 10:00",2nd Rd 1,Scheduled
+Harvey Cats,Dreadnought,11,12,"09/21/2024, 10:00",2nd Rd 1,Final
 BARNSTORM,Sprawl,12,14,"09/21/2024, 10:00",2nd Rd 1,Final
 b,r,e,a,k
 brackets,5th-8th Place
@@ -494,5 +497,7 @@ pool,Pool A
 b,r,e,a,k
 pools,13th-16th Place
 pool,Pool B
+Harvey Cats,Riverside,0,0,"09/21/2024, 12:00",Pool B,Scheduled
+Harvey Cats,BARNSTORM,0,0,"09/21/2024, 14:00",Pool B,Scheduled
 BARNSTORM,Riverside,0,0,"09/22/2024, 08:00",Pool B,Scheduled
 b,r,e,a,k
