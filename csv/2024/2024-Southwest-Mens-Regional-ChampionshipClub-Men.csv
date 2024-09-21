@@ -60,6 +60,29 @@ teamInfo,,"Davis, California",,,
 86,Daniel Speer
 95,Brandon Widner
 b,r,e,a,k
+Bay Dog,12
+teamInfo,,"Albany, California",,,
+0,Adil Ali
+0,Alex Poy
+0,Ben Brochard
+0,Camden Mah
+0,Dakarai  Palen
+0,Evan Weinstein
+0,Hugo Tsai
+0,Janeil Guada
+0,Jasen Bartek
+0,Joseph Wolfman
+0,Josh Hall
+0,Martin  Doherty
+0,Matteo Bowman
+0,Matthew Wong
+0,Nicholas McGlashan
+1,Muhammad  Awais 
+4,Oliver Scharer
+16,Ryan Weng
+19,Jackson Friday
+45,Tyler Weng
+b,r,e,a,k
 Sonoran Dog,13
 teamInfo,,"Tucson, Arizona",,,
 0,Chris Salazar
@@ -86,29 +109,6 @@ teamInfo,,"Tucson, Arizona",,,
 25,Nate Bloomer
 38,Nathaniel Cabrera
 92,Ted Glenn
-b,r,e,a,k
-Bay Dog,12
-teamInfo,,"Albany, California",,,
-0,Adil Ali
-0,Alex Poy
-0,Ben Brochard
-0,Camden Mah
-0,Dakarai  Palen
-0,Evan Weinstein
-0,Hugo Tsai
-0,Janeil Guada
-0,Jasen Bartek
-0,Joseph Wolfman
-0,Josh Hall
-0,Martin  Doherty
-0,Matteo Bowman
-0,Matthew Wong
-0,Nicholas McGlashan
-1,Muhammad  Awais 
-4,Oliver Scharer
-16,Ryan Weng
-19,Jackson Friday
-45,Tyler Weng
 b,r,e,a,k
 OAT,7
 teamInfo,,"East Bay , California",,instagram.com/OatUltimate,
@@ -225,6 +225,32 @@ teamInfo,,"Santa Barbara, California",https://linktr.ee/offshoreulti,,OffshoreUl
 85,Tyler Winsborrow
 96,Conner Propst
 b,r,e,a,k
+Zyzzyva,3
+teamInfo,,"Berkeley, California",,https://instagram.com/berkeleyzyzzyva,https://twitter.com/BerkeleyZyzzyva
+0,Aditya  Vunnum
+0,Anish Shrestha
+0,Erich Woo
+0,Evan Magsig
+0,Ghenki Okumoto
+0,James Pollard
+0,Julian Baxandall
+0,Patrick Xu
+0,Philip Chang
+0,Robert McCabe
+0,Sarek Mallareddy
+0,Tristan You
+4,Aidan Rogers
+6,Raymond Jia
+8,Drew Palmer
+13,Matt Burke
+18,Alvin Leung
+20,Owen Zuidema
+27,Pavel Shering
+44,Stephen Dolan
+44,Aidin Terris
+47,Rafael Castro
+87,Max Williams
+b,r,e,a,k
 Wavestorms,6
 teamInfo,,"Santa Cruz, California",,,
 0,Connor McGinley
@@ -253,32 +279,6 @@ teamInfo,,"Santa Cruz, California",,,
 75,Bodie Shargel
 77,Mario Ambrose
 88,Alex Herman
-b,r,e,a,k
-Zyzzyva,3
-teamInfo,,"Berkeley, California",,https://instagram.com/berkeleyzyzzyva,https://twitter.com/BerkeleyZyzzyva
-0,Aditya  Vunnum
-0,Anish Shrestha
-0,Erich Woo
-0,Evan Magsig
-0,Ghenki Okumoto
-0,James Pollard
-0,Julian Baxandall
-0,Patrick Xu
-0,Philip Chang
-0,Robert McCabe
-0,Sarek Mallareddy
-0,Tristan You
-4,Aidan Rogers
-6,Raymond Jia
-8,Drew Palmer
-13,Matt Burke
-18,Alvin Leung
-20,Owen Zuidema
-27,Pavel Shering
-44,Stephen Dolan
-44,Aidin Terris
-47,Rafael Castro
-87,Max Williams
 b,r,e,a,k
 Drought,10
 teamInfo,,"Phoenix, Arizona",,,https://twitter.com/DroughtUltimate
@@ -452,7 +452,7 @@ pools,Pool Play
 pool,Pool A
 Revolver,Bay Dog,13,2,"09/21/2024, 09:00",Pool A,Final
 Green River Swordfish,Sonoran Dog,13,8,"09/21/2024, 09:00",Pool A,Final
-Revolver,Sonoran Dog,0,0,"09/21/2024, 11:00",Pool A,Scheduled
+Revolver,Sonoran Dog,13,1,"09/21/2024, 11:00",Pool A,Final
 Green River Swordfish,Bay Dog,0,0,"09/21/2024, 11:00",Pool A,Scheduled
 Revolver,Green River Swordfish,0,0,"09/21/2024, 13:00",Pool A,Scheduled
 Bay Dog,Sonoran Dog,0,0,"09/21/2024, 13:00",Pool A,Scheduled
@@ -466,7 +466,7 @@ Skipjack,Offshore,0,0,"09/21/2024, 13:00",Pool B,Scheduled
 pool,Pool C
 Zyzzyva,Drought,13,7,"09/21/2024, 09:00",Pool C,Final
 Wavestorms,Monsoon,13,3,"09/21/2024, 09:00",Pool C,Final
-Zyzzyva,Monsoon,0,0,"09/21/2024, 11:00",Pool C,Scheduled
+Zyzzyva,Monsoon,13,4,"09/21/2024, 11:00",Pool C,Final
 Wavestorms,Drought,0,0,"09/21/2024, 11:00",Pool C,Scheduled
 Zyzzyva,Wavestorms,0,0,"09/21/2024, 13:00",Pool C,Scheduled
 Drought,Monsoon,0,0,"09/21/2024, 13:00",Pool C,Scheduled
