@@ -228,35 +228,6 @@ teamInfo,,"Livonia, Michigan",,,
 86,Nick Akers
 88,Mekhi PhillipsRincher
 b,r,e,a,k
-Flying Dutchmen,3
-teamInfo,,"Columbus, Ohio",,,
-0,Camron Chambers
-0,Ephraim Connor
-1,Lloyd Furuta
-2,Sion Agami Contreras
-3,David Braden
-4,Joe Spofforth
-5,Eliot Alexander
-8,Michael Kromer
-9,Austin Riegel
-11,Jason Wherry
-12,Alec Mathena
-16,Anthony Sanderell
-17,Nicholas Ondrejko
-18,Andrew DePuy
-20,Zachary Wigington
-21,Alex Rudy
-23,Kyle Murray
-24,Tanion Misawayee
-25,Nick Sophocleous
-31,Lucas Nestor
-50,Kenton Lawson
-55,Eric Coglianese
-81,Eric Wright
-91,Tyler McCarthy
-96,Aaron Lott
-99,Alex Warrington
-b,r,e,a,k
 Chimney,6
 teamInfo,,"Cleveland, Ohio",,,
 0,Anil Driehuys
@@ -285,6 +256,35 @@ teamInfo,,"Cleveland, Ohio",,,
 22,TJ Kalvas
 66,Tom Duellman
 82,Dutch Kirkman
+b,r,e,a,k
+Flying Dutchmen,3
+teamInfo,,"Columbus, Ohio",,,
+0,Camron Chambers
+0,Ephraim Connor
+1,Lloyd Furuta
+2,Sion Agami Contreras
+3,David Braden
+4,Joe Spofforth
+5,Eliot Alexander
+8,Michael Kromer
+9,Austin Riegel
+11,Jason Wherry
+12,Alec Mathena
+16,Anthony Sanderell
+17,Nicholas Ondrejko
+18,Andrew DePuy
+20,Zachary Wigington
+21,Alex Rudy
+23,Kyle Murray
+24,Tanion Misawayee
+25,Nick Sophocleous
+31,Lucas Nestor
+50,Kenton Lawson
+55,Eric Coglianese
+81,Eric Wright
+91,Tyler McCarthy
+96,Aaron Lott
+99,Alex Warrington
 b,r,e,a,k
 Black Lung,10
 teamInfo,,"Lexington, Kentucky",,,https://twitter.com/blacklungulti?lang=en
@@ -444,14 +444,14 @@ Beacon,Enigma,15,12,"09/21/2024, 09:00",Pool B,Final
 Omen,Mischief,15,2,"09/21/2024, 09:00",Pool B,Final
 Beacon,Mischief,15,1,"09/21/2024, 11:00",Pool B,Final
 Omen,Enigma,15,8,"09/21/2024, 11:00",Pool B,Final
-Beacon,Omen,5,6,"09/21/2024, 13:00",Pool B,In Progress
-Enigma,Mischief,8,5,"09/21/2024, 13:00",Pool B,In Progress
+Beacon,Omen,12,13,"09/21/2024, 13:00",Pool B,Final
+Enigma,Mischief,14,9,"09/21/2024, 13:00",Pool B,Final
 pool,Pool C
 Flying Dutchmen,Black Lung,15,8,"09/21/2024, 09:00",Pool C,Final
 Chimney,Trident II,15,5,"09/21/2024, 09:00",Pool C,Final
 Flying Dutchmen,Trident II,15,2,"09/21/2024, 11:00",Pool C,Final
 Chimney,Black Lung,15,10,"09/21/2024, 11:00",Pool C,Final
-Flying Dutchmen,Chimney,5,5,"09/21/2024, 13:00",Pool C,In Progress
+Flying Dutchmen,Chimney,12,13,"09/21/2024, 13:00",Pool C,Final
 Black Lung,Trident II,15,9,"09/21/2024, 13:00",Pool C,Final
 pool,Pool D
 Trident,Haymaker,12,13,"09/21/2024, 09:00",Pool D,Final
@@ -462,6 +462,10 @@ Trident,Colonels,9,15,"09/21/2024, 13:00",Pool D,Final
 Haymaker,On Ramp,15,10,"09/21/2024, 13:00",Pool D,Final
 b,r,e,a,k
 clusters,Pre Quarters
+cluster,Crossover
+I-69,Trident,0,0,"09/21/2024, 15:00",,Scheduled
+Beacon,Black Lung,0,0,"09/21/2024, 15:00",,Scheduled
+Flying Dutchmen,Enigma,0,0,"09/21/2024, 15:00",,Scheduled
 b,r,e,a,k
 brackets,Bracket Play
 bracket,1st Place

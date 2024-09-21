@@ -353,15 +353,15 @@ pools,Pool Play
 pool,Pool A
 Hybrid,Prion,15,4,"09/21/2024, 09:00",Pool A,Final
 Hybrid,Trex Mix,15,5,"09/21/2024, 11:00",Pool A,Final
-Trex Mix,Prion,0,0,"09/21/2024, 13:00",Pool A,Scheduled
+Trex Mix,Prion,15,10,"09/21/2024, 13:00",Pool A,Final
 pool,Pool B
 Steamboat,Skyhawks,15,9,"09/21/2024, 09:00",Pool B,Final
 Steamboat,Twist,15,14,"09/21/2024, 11:00",Pool B,Final
-Twist,Skyhawks,0,0,"09/21/2024, 13:00",Pool B,Scheduled
+Twist,Skyhawks,15,8,"09/21/2024, 13:00",Pool B,Final
 pool,Pool C
 Three Rivers Ultimate Club,Toast!,14,11,"09/21/2024, 09:00",Pool C,Final
 Three Rivers Ultimate Club,Queen City Gambit,15,11,"09/21/2024, 11:00",Pool C,Final
-Queen City Gambit,Toast!,0,0,"09/21/2024, 13:00",Pool C,Scheduled
+Queen City Gambit,Toast!,8,10,"09/21/2024, 13:00",Pool C,Final
 pool,Pool D
 Chicago Parlay,Columbus Chaos,13,15,"09/21/2024, 09:00",Pool D,Final
 Chicago Parlay,RAMP,12,14,"09/21/2024, 11:00",Pool D,Final
@@ -369,6 +369,8 @@ RAMP,Columbus Chaos,0,0,"09/21/2024, 13:00",Pool D,Scheduled
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,Championship Bracket
+Twist,Queen City Gambit,0,0,"09/21/2024, 15:00",1st Prequarters,Scheduled
+Toast!,Skyhawks,0,0,"09/21/2024, 15:00",1st Prequarters,Scheduled
 b,r,e,a,k
 brackets,Placement Games
 bracket,3rd Place
