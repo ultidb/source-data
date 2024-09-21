@@ -434,7 +434,7 @@ s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
 Chicago Machine,Scoop,0,0,"09/21/2024, 09:00",Pool A,Scheduled
-I-69,Diesel,0,0,"09/21/2024, 09:00",Pool A,Scheduled
+I-69,Diesel,1,0,"09/21/2024, 09:00",Pool A,In Progress
 Chicago Machine,Diesel,0,0,"09/21/2024, 11:00",Pool A,Scheduled
 I-69,Scoop,0,0,"09/21/2024, 11:00",Pool A,Scheduled
 Chicago Machine,I-69,0,0,"09/21/2024, 13:00",Pool A,Scheduled
@@ -447,15 +447,15 @@ Omen,Enigma,0,0,"09/21/2024, 11:00",Pool B,Scheduled
 Beacon,Omen,0,0,"09/21/2024, 13:00",Pool B,Scheduled
 Enigma,Mischief,0,0,"09/21/2024, 13:00",Pool B,Scheduled
 pool,Pool C
-Flying Dutchmen,Black Lung,0,0,"09/21/2024, 09:00",Pool C,Scheduled
-Chimney,Trident II,0,0,"09/21/2024, 09:00",Pool C,Scheduled
+Flying Dutchmen,Black Lung,1,1,"09/21/2024, 09:00",Pool C,In Progress
+Chimney,Trident II,1,2,"09/21/2024, 09:00",Pool C,In Progress
 Flying Dutchmen,Trident II,0,0,"09/21/2024, 11:00",Pool C,Scheduled
 Chimney,Black Lung,0,0,"09/21/2024, 11:00",Pool C,Scheduled
 Flying Dutchmen,Chimney,0,0,"09/21/2024, 13:00",Pool C,Scheduled
 Black Lung,Trident II,0,0,"09/21/2024, 13:00",Pool C,Scheduled
 pool,Pool D
-Trident,Haymaker,0,0,"09/21/2024, 09:00",Pool D,Scheduled
-Colonels,On Ramp,0,0,"09/21/2024, 09:00",Pool D,Scheduled
+Trident,Haymaker,1,1,"09/21/2024, 09:00",Pool D,In Progress
+Colonels,On Ramp,3,1,"09/21/2024, 09:00",Pool D,In Progress
 Trident,On Ramp,0,0,"09/21/2024, 11:00",Pool D,Scheduled
 Colonels,Haymaker,0,0,"09/21/2024, 11:00",Pool D,Scheduled
 Trident,Colonels,0,0,"09/21/2024, 13:00",Pool D,Scheduled
