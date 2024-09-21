@@ -59,35 +59,6 @@ teamInfo,,"Seattle, Washington",,,
 29,Max Sevier
 44,Grace Young
 b,r,e,a,k
-Hive,16
-teamInfo,,"Portland, Oregon",,https://www.facebook.com/HiveUltimate,https://twitter.com/Hive_Ultimate
-0,Abby Dunn
-0,Cameron Lamont
-0,Dane Miller
-0,Jeremy Randolph-Flagg
-0,Katherine Schauer
-0,Marissa Bertuccio
-0,Mira Larrance
-0,Pete Overright
-0,Sierra Gray
-2,Colleen Nakanishi
-4,Abby VanLeuven
-7,Devon Graham
-9,Andrew Akins
-11,Connor Klitgaard
-11,Jonah Goldberg
-13,Katelyn Osborne
-14,Haley Bartolomei
-14,Ava Peterson
-22,Timothy Wood
-22,Raju Roleru
-29,Dean Romine
-66,Matt Primovic
-77,Mikah Keetch
-80,Liam Bateman
-80,Nathan Braun
-90,Samuel Perreth
-b,r,e,a,k
 Porch Bears,9
 teamInfo,,"Portland, Oregon",,,
 0,Andrew Schwartz
@@ -116,6 +87,35 @@ teamInfo,,"Portland, Oregon",,,
 28,Tahlia Hodes
 56,Valerie Peacock
 69,Helen Mead
+b,r,e,a,k
+Hive,16
+teamInfo,,"Portland, Oregon",,https://www.facebook.com/HiveUltimate,https://twitter.com/Hive_Ultimate
+0,Abby Dunn
+0,Cameron Lamont
+0,Dane Miller
+0,Jeremy Randolph-Flagg
+0,Katherine Schauer
+0,Marissa Bertuccio
+0,Mira Larrance
+0,Pete Overright
+0,Sierra Gray
+2,Colleen Nakanishi
+4,Abby VanLeuven
+7,Devon Graham
+9,Andrew Akins
+11,Connor Klitgaard
+11,Jonah Goldberg
+13,Katelyn Osborne
+14,Haley Bartolomei
+14,Ava Peterson
+22,Timothy Wood
+22,Raju Roleru
+29,Dean Romine
+66,Matt Primovic
+77,Mikah Keetch
+80,Liam Bateman
+80,Nathan Braun
+90,Samuel Perreth
 b,r,e,a,k
 BFG,2
 teamInfo,,"Seattle, Washington",,,https://twitter.com/SeattleBFG
@@ -465,31 +465,39 @@ pool,Pool A
 Red Flag,Hive,15,9,"09/21/2024, 08:30",Pool A,Final
 Spoke,Porch Bears,15,8,"09/21/2024, 08:30",Pool A,Final
 Red Flag,Spoke,15,8,"09/21/2024, 10:30",Pool A,Final
-Porch Bears,Hive,0,0,"09/21/2024, 10:30",Pool A,Scheduled
+Porch Bears,Hive,12,10,"09/21/2024, 10:30",Pool A,Final
 pool,Pool B
 BFG,Igneous Ultimate,15,5,"09/21/2024, 08:30",Pool B,Final
 TT,Grit City,14,10,"09/21/2024, 08:30",Pool B,Final
-BFG,TT,0,0,"09/21/2024, 10:30",Pool B,Scheduled
-Grit City,Igneous Ultimate,0,0,"09/21/2024, 10:30",Pool B,Scheduled
+BFG,TT,15,4,"09/21/2024, 10:30",Pool B,Final
+Grit City,Igneous Ultimate,15,12,"09/21/2024, 10:30",Pool B,Final
 pool,Pool C
 Seattle Mixtape,Seattle Soft Serve,15,7,"09/21/2024, 08:30",Pool C,Final
 MOONDOG,Smack!,15,8,"09/21/2024, 08:30",Pool C,Final
 Seattle Mixtape,MOONDOG,15,10,"09/21/2024, 10:30",Pool C,Final
-Smack!,Seattle Soft Serve,0,0,"09/21/2024, 10:30",Pool C,Scheduled
+Smack!,Seattle Soft Serve,15,11,"09/21/2024, 10:30",Pool C,Final
 pool,Pool D
 Oregon Scorch,Pegasus,15,7,"09/21/2024, 08:30",Pool D,Final
 Sego,Lights Out,10,13,"09/21/2024, 08:30",Pool D,Final
 Oregon Scorch,Lights Out,15,10,"09/21/2024, 10:30",Pool D,Final
-Sego,Pegasus,0,0,"09/21/2024, 10:30",Pool D,Scheduled
+Sego,Pegasus,14,9,"09/21/2024, 10:30",Pool D,Final
 b,r,e,a,k
 brackets,Finals
 bracket,Finals
+Red Flag,Oregon Scorch,0,0,"09/21/2024, 12:30",Semis,Scheduled
+BFG,Seattle Mixtape,0,0,"09/21/2024, 12:30",Semis,Scheduled
 bracket,2nd Place
+MOONDOG,TT,0,0,"09/21/2024, 12:30",2/3 Bracket R1,Scheduled
+Spoke,Lights Out,0,0,"09/21/2024, 12:30",2/3 Bracket R1,Scheduled
 bracket,G2G
+Porch Bears,Sego,0,0,"09/21/2024, 12:30",4th/5th R1,Scheduled
+Grit City,Smack!,0,0,"09/21/2024, 12:30",4th/5th R1,Scheduled
 bracket,6th Place
 b,r,e,a,k
 brackets,8th Place
 bracket,8th Place
+Seattle Soft Serve,Igneous Ultimate,0,0,"09/21/2024, 12:30",8th Place R1,Scheduled
+Hive,Pegasus,0,0,"09/21/2024, 12:30",8th Place R1,Scheduled
 bracket,15th Place
 bracket,13th Place
 b,r,e,a,k

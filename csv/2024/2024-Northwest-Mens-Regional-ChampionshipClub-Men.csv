@@ -182,36 +182,6 @@ b,r,e,a,k
 Heartbreak,15
 teamInfo,,"Spokane, Washington",https://cdaultimate.wixsite.com/frisbee/heartbreak,https://www.facebook.com/Heartbreakultimate,
 b,r,e,a,k
-Bonneville Flatball Club,6
-teamInfo,,"Shoreline Trail, Utah",,,
-coaches,Abbie Davis
-0,Lorenzo  Davis
-01,Elijah Huber
-02,Luke Yorgason
-03,Blake Holt
-05,Jensen Wells
-06,David Hazlebeck
-07,Sean Connole
-08,Chad Yorgason
-09,Trevor Kelley
-10,Paul Hazlebeck
-11,Sean McDonald
-12,Justin Mecham
-14,Zachary Burnside
-16,Jeron Dastrup
-19,John Hanni
-21,Mckay Yorgason
-22,Evan Miller
-23,Anthony Mounga
-24,Merick Moar
-31,Jamey Kleinhenz
-32,Matt Jamison
-33,Ian Sweeney
-61,Simon Dastrup
-66,Jordan Kerr
-88,Dallin Opperman
-95,Brock Hyatt
-b,r,e,a,k
 Furious George,3
 teamInfo,,"Vancouver, British Columbia CA",,https://www.facebook.com/FuriousGeorgeUltimate,https://twitter.com/FuriousUltimate
 coaches,Matthew Berezan,Alexander Bellemare-Davis
@@ -241,6 +211,36 @@ coaches,Matthew Berezan,Alexander Bellemare-Davis
 89,Kevin Underhill
 98,Quinn Snider
 99,Vincent Bulloch
+b,r,e,a,k
+Bonneville Flatball Club,6
+teamInfo,,"Shoreline Trail, Utah",,,
+coaches,Abbie Davis
+0,Lorenzo  Davis
+01,Elijah Huber
+02,Luke Yorgason
+03,Blake Holt
+05,Jensen Wells
+06,David Hazlebeck
+07,Sean Connole
+08,Chad Yorgason
+09,Trevor Kelley
+10,Paul Hazlebeck
+11,Sean McDonald
+12,Justin Mecham
+14,Zachary Burnside
+16,Jeron Dastrup
+19,John Hanni
+21,Mckay Yorgason
+22,Evan Miller
+23,Anthony Mounga
+24,Merick Moar
+31,Jamey Kleinhenz
+32,Matt Jamison
+33,Ian Sweeney
+61,Simon Dastrup
+66,Jordan Kerr
+88,Dallin Opperman
+95,Brock Hyatt
 b,r,e,a,k
 Seven Gills,14
 teamInfo,,"Kirkland, Washington",,,
@@ -415,7 +415,7 @@ pool,Pool A
 Sockeye,Make it Rain,15,2,"09/21/2024, 08:30",Pool A,Final
 SOUF,Portland TremOR,15,13,"09/21/2024, 08:30",Pool A,Final
 Sockeye,SOUF,15,8,"09/21/2024, 10:30",Pool A,Final
-Portland TremOR,Make it Rain,0,0,"09/21/2024, 10:30",Pool A,Scheduled
+Portland TremOR,Make it Rain,15,14,"09/21/2024, 10:30",Pool A,Final
 pool,Pool B
 Rhino Slam!,Heartbreak,15,5,"09/21/2024, 08:30",Pool B,Final
 Switchback,Junco,13,15,"09/21/2024, 08:30",Pool B,Final
@@ -424,22 +424,30 @@ Switchback,Heartbreak,15,5,"09/21/2024, 10:31",Pool B,Final
 pool,Pool C
 Furious George,Seven Gills,15,7,"09/21/2024, 08:30",Pool C,Final
 Bonneville Flatball Club,Surf,15,7,"09/21/2024, 08:30",Pool C,Final
-Furious George,Bonneville Flatball Club,0,0,"09/21/2024, 10:30",Pool C,Scheduled
-Surf,Seven Gills,0,0,"09/21/2024, 10:30",Pool C,Scheduled
+Furious George,Bonneville Flatball Club,15,13,"09/21/2024, 10:30",Pool C,Final
+Surf,Seven Gills,13,14,"09/21/2024, 10:30",Pool C,Final
 pool,Pool D
 Shrimp,Sawtooth,15,9,"09/21/2024, 08:30",Pool D,Final
 Dark Star,PowderHogs,15,2,"09/21/2024, 08:30",Pool D,Final
-Shrimp,Dark Star,0,0,"09/21/2024, 10:30",Pool D,Scheduled
+Shrimp,Dark Star,12,13,"09/21/2024, 10:30",Pool D,Final
 PowderHogs,Sawtooth,7,15,"09/21/2024, 10:30",Pool D,Final
 b,r,e,a,k
 brackets,Bracket Play
 bracket,Finals
+Sockeye,Shrimp,0,0,"09/21/2024, 12:30",Semis,Scheduled
+Rhino Slam!,Furious George,0,0,"09/21/2024, 12:30",Semis,Scheduled
 bracket,Backdoor
+Bonneville Flatball Club,Junco,0,0,"09/21/2024, 12:30",3rd Place Qtr,Scheduled
+SOUF,Dark Star,0,0,"09/22/2024, 12:30",3rd Place Qtr,Scheduled
 bracket,G2G
+Portland TremOR,Sawtooth,0,0,"09/21/2024, 12:30",5th Pl Pre-Qtr,Scheduled
+Switchback,Seven Gills,0,0,"09/21/2024, 12:30",5th Pl Pre-Qtr,Scheduled
 bracket,6th Place
 b,r,e,a,k
 brackets,8th Place
 bracket,8th Place
+Surf,Heartbreak,0,0,"09/21/2024, 12:30",Round Name,Scheduled
+Make it Rain,PowderHogs,0,0,"09/22/2024, 12:30",Round Name,Scheduled
 bracket,15th Place
 bracket,13th Place
 b,r,e,a,k
