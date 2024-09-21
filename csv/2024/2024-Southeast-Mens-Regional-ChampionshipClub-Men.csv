@@ -347,35 +347,6 @@ teamInfo,,"Orlando, Florida",,,
 88,Matt Chandler
 99,Christopher Patrick
 b,r,e,a,k
-Cash Crop 2,5
-teamInfo,,"Chapel Hill, North Carolina",,,
-0,Daniel Zhang
-2,Samuel Redinbo
-4,Alex Fiordalisi
-6,Seth Fried
-7,Eli Fried
-8,Aiden Fields
-9,Nathan Ludington
-10,Watkins Parker
-11,Reed Burkert
-12,Bailey Roberts
-13,Jack McCleary
-14,Bodhi Harmony
-15,John Laney
-16,Brian Trowbridge
-17,Wesley Britt
-18,Jake Schwartz
-19,Matthew Barcellos
-22,Matti Lee
-23,Ramzi Cope-Musleh
-24,Kalen Morrison
-25,Jayden Feagans
-27,Jason Manning
-34,Noah Bush
-77,Daniel Zhu
-87,Aaron Wei
-88,Henry Chen
-b,r,e,a,k
 Florida Untied,4
 teamInfo,,"Ocala, Florida",https://www.instagram.com/untiedultimate?igsh=MWVmYTJtcDJ2YjB4cQ==,,https://twitter.com/UntiedUltimate
 0,David Witte
@@ -405,34 +376,34 @@ teamInfo,,"Ocala, Florida",https://www.instagram.com/untiedultimate?igsh=MWVmYTJ
 91,Garrett Knobel
 99,Samson Bienstock
 b,r,e,a,k
-Atlanta Arson,15
-teamInfo,,"Atlanta, Georgia",,,https://twitter.com/atlantaarson
-0,Caleb Yu
-0,Carlo Vanni
-0,Christian  Montufar
-0,Elias Heanue
-0,Evan Amon
-0,Galen Ramsey
-0,Garrett Pellan
-0,Hamilton Mebius
-0,Jaden Medley-Fowlkes
-0,Lucas Kim
-0,Maxwell Lopez
-0,Samuel Diquattro
-2,Krishan Chib
-3,Harrison  Briggs 
-4,Vinny Nguyen
-4,Zephren Collinson
-9,Foster Boales
-11,Lee Phan
-16,Tanjid Mitul
-20,Dacree Harden
-24,Elliott Park
-29,Kai Diez
-30,Austin Hegmon
-66,Jaylon Boone
-69,John Broling
-73,Gabe Borda
+Cash Crop 2,5
+teamInfo,,"Chapel Hill, North Carolina",,,
+0,Daniel Zhang
+2,Samuel Redinbo
+4,Alex Fiordalisi
+6,Seth Fried
+7,Eli Fried
+8,Aiden Fields
+9,Nathan Ludington
+10,Watkins Parker
+11,Reed Burkert
+12,Bailey Roberts
+13,Jack McCleary
+14,Bodhi Harmony
+15,John Laney
+16,Brian Trowbridge
+17,Wesley Britt
+18,Jake Schwartz
+19,Matthew Barcellos
+22,Matti Lee
+23,Ramzi Cope-Musleh
+24,Kalen Morrison
+25,Jayden Feagans
+27,Jason Manning
+34,Noah Bush
+77,Daniel Zhu
+87,Aaron Wei
+88,Henry Chen
 b,r,e,a,k
 Little Red Wagon,10
 teamInfo,,"Atlanta, Georgia",,,
@@ -463,6 +434,35 @@ teamInfo,,"Atlanta, Georgia",,,
 81,Joseph Burns
 91,Matthew Allan
 b,r,e,a,k
+Atlanta Arson,15
+teamInfo,,"Atlanta, Georgia",,,https://twitter.com/atlantaarson
+0,Caleb Yu
+0,Carlo Vanni
+0,Christian  Montufar
+0,Elias Heanue
+0,Evan Amon
+0,Galen Ramsey
+0,Garrett Pellan
+0,Hamilton Mebius
+0,Jaden Medley-Fowlkes
+0,Lucas Kim
+0,Maxwell Lopez
+0,Samuel Diquattro
+2,Krishan Chib
+3,Harrison  Briggs 
+4,Vinny Nguyen
+4,Zephren Collinson
+9,Foster Boales
+11,Lee Phan
+16,Tanjid Mitul
+20,Dacree Harden
+24,Elliott Park
+29,Kai Diez
+30,Austin Hegmon
+66,Jaylon Boone
+69,John Broling
+73,Gabe Borda
+b,r,e,a,k
 s,t,a,g,e,s
 pools,Clipped Pools
 pool,Pool A
@@ -472,9 +472,9 @@ Ring of Fire,baNC,0,0,"09/21/2024, 11:00",Pool A,Scheduled
 Lost Boys,Hooch,6,13,"09/21/2024, 11:00",Pool A,Final
 pool,Pool B
 Chain Lightning,Second Nature,13,4,"09/21/2024, 09:00",Pool B,Final
-Boneyard,Cookie Mon$terz,13,5,"09/21/2024, 09:00",Pool B,Final
+Boneyard,Cookie Mon$terz,13,6,"09/21/2024, 09:00",Pool B,Final
 Chain Lightning,Boneyard,13,11,"09/21/2024, 11:00",Pool B,Final
-Cookie Mon$terz,Second Nature,0,0,"09/21/2024, 11:00",Pool B,Scheduled
+Cookie Mon$terz,Second Nature,13,11,"09/21/2024, 11:00",Pool B,Final
 pool,Pool C
 Raleigh-Durham United,Bloom,13,4,"09/21/2024, 09:00",Pool C,Final
 Alliance,Tanasi,8,13,"09/21/2024, 09:00",Pool C,Final
@@ -483,10 +483,15 @@ Alliance,Bloom,13,11,"09/21/2024, 11:00",Pool C,Final
 pool,Pool D
 Florida Untied,Atlanta Arson,13,11,"09/21/2024, 09:00",Pool D,Final
 Cash Crop 2,Little Red Wagon,13,8,"09/21/2024, 09:00",Pool D,Final
-Florida Untied,Cash Crop 2,0,0,"09/21/2024, 11:00",Pool D,Scheduled
-Little Red Wagon,Atlanta Arson,0,0,"09/21/2024, 11:00",Pool D,Scheduled
+Florida Untied,Cash Crop 2,13,11,"09/21/2024, 11:00",Pool D,Final
+Little Red Wagon,Atlanta Arson,12,11,"09/21/2024, 11:00",Pool D,Final
 b,r,e,a,k
 clusters,Saturday CrossOvers
+cluster,Pool Reseeds
+Chain Lightning,Florida Untied,0,0,"09/21/2024, 13:00",,Scheduled
+Boneyard,Little Red Wagon,0,0,"09/21/2024, 13:00",,Scheduled
+Cash Crop 2,Cookie Mon$terz,0,0,"09/21/2024, 13:00",,Scheduled
+Second Nature,Atlanta Arson,0,0,"09/21/2024, 15:00",,Scheduled
 b,r,e,a,k
 brackets,Brackets
 bracket,Championship
