@@ -478,13 +478,13 @@ Garbage Plates,FLI,10,11,"09/21/2024, 10:45",Pool A,Final
 pool,Pool B
 Sprocket,The Buoy Association,13,5,"09/21/2024, 09:00",Pool B,Final
 Funk,Zero Strategy,7,12,"09/21/2024, 09:00",Pool B,Final
-Sprocket,Zero Strategy,13,2,"09/21/2024, 10:45",Pool B,Scheduled
-Funk,The Buoy Association,0,0,"09/21/2024, 10:45",Pool B,Scheduled
+Sprocket,Zero Strategy,13,2,"09/21/2024, 10:45",Pool B,Final
+Funk,The Buoy Association,10,9,"09/21/2024, 10:45",Pool B,Final
 pool,Pool C
 Slow,Obscure,13,7,"09/21/2024, 09:00",Pool C,Final
 Townies,Wild Card,13,7,"09/21/2024, 09:00",Pool C,Final
 Slow,Townies,13,9,"09/21/2024, 10:45",Pool C,Final
-Wild Card,Obscure,0,0,"09/21/2024, 10:45",Pool C,Scheduled
+Wild Card,Obscure,13,8,"09/21/2024, 10:45",Pool C,Final
 pool,Pool D
 Big Rig,Grand Army,13,8,"09/21/2024, 09:00",Pool D,Final
 UNION,Bench,13,7,"09/21/2024, 09:00",Pool D,Final
@@ -492,6 +492,10 @@ Big Rig,UNION,13,11,"09/21/2024, 10:45",Pool D,Final
 Bench,Grand Army,0,0,"09/21/2024, 10:45",Pool D,Scheduled
 b,r,e,a,k
 clusters,Crossovers
+cluster,Crossovers
+XIST,Slow,0,0,"09/21/2024, 12:45",,Scheduled
+Darkwing,Wild Card,0,0,"09/21/2024, 12:45",,Scheduled
+Townies,FLI,0,0,"09/21/2024, 12:45",,Scheduled
 b,r,e,a,k
 brackets,Bracket Play
 bracket,Championship of Northeast Mixed Regionals
@@ -503,4 +507,7 @@ bracket,11th Place
 b,r,e,a,k
 pools,Consolation
 pool,Pool E
+Garbage Plates,Obscure,0,0,"09/21/2024, 14:45",Pool E,Scheduled
+The Buoy Association,Obscure,0,0,"09/22/2024, 09:00",Pool E,Scheduled
+The Buoy Association,Garbage Plates,0,0,"09/22/2024, 11:00",Pool E,Scheduled
 b,r,e,a,k
