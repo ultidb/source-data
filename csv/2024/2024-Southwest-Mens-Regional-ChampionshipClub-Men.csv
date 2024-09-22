@@ -453,7 +453,7 @@ pool,Pool A
 Revolver,Bay Dog,13,2,"09/21/2024, 09:00",Pool A,Final
 Green River Swordfish,Sonoran Dog,13,8,"09/21/2024, 09:00",Pool A,Final
 Revolver,Sonoran Dog,13,1,"09/21/2024, 11:00",Pool A,Final
-Green River Swordfish,Bay Dog,0,0,"09/21/2024, 11:00",Pool A,Scheduled
+Green River Swordfish,Bay Dog,13,6,"09/21/2024, 11:00",Pool A,Final
 Revolver,Green River Swordfish,13,4,"09/21/2024, 13:00",Pool A,Final
 Bay Dog,Sonoran Dog,13,11,"09/21/2024, 13:00",Pool A,Final
 pool,Pool B
@@ -480,12 +480,18 @@ OC Crows,Bonsoon,13,8,"09/21/2024, 13:00",Pool D,Final
 b,r,e,a,k
 brackets,Game-to-Go Bracket Play
 bracket,1st Place Bracket
+Revolver,Drought,0,0,"09/22/2024, 09:00",1st Place Quarters,Scheduled
 Skipjack,Hazard,0,0,"09/22/2024, 09:00",1st Place Quarters,Scheduled
+Wavestorms,Nighthawk,0,0,"09/22/2024, 09:00",1st Place Quarters,Scheduled
+OC Crows,SoCal Condors,0,0,"09/22/2024, 09:00",1st Place Quarters,Scheduled
 OAT,Drought,13,15,"09/21/2024, 15:00",1st Place Pre-Quarters,Final
 Zyzzyva,Skipjack,14,15,"09/21/2024, 15:00",1st Place Pre-Quarters,Final
+Nighthawk,Bay Dog,15,9,"09/21/2024, 15:00",1st Place Pre-Quarters,Final
+Green River Swordfish,OC Crows,6,11,"09/21/2024, 15:00",1st Place Pre-Quarters,Final
 b,r,e,a,k
 clusters,Placement Crossover Play
 cluster,Placement Crossover
+Sonoran Dog,Bonsoon,0,0,"09/21/2024, 15:00",,Scheduled
 Offshore,Monsoon,15,7,"09/21/2024, 15:00",,Final
 b,r,e,a,k
 brackets,Placement Bracket Play
@@ -493,6 +499,7 @@ bracket,3rd Place Bracket
 bracket,5th Place Bracket
 bracket,7th Place Bracket
 bracket,9th Place Bracket
+Bay Dog,Offshore,0,0,"09/22/2024, 09:00",9th Place Quarters,Scheduled
 OAT,Monsoon,0,0,"09/22/2024, 09:00",9th Place Quarters,Scheduled
 bracket,11th Place Bracket
 bracket,13th Place Bracket
