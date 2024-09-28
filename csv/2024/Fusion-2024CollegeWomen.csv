@@ -24,48 +24,6 @@ teamInfo,Cypress,"Williamsburg, Virginia",,,https://twitter.com/WMultimateW
 53,Kate Marston
 99,Stella Shan
 b,r,e,a,k
-George Washington,8
-teamInfo,GDUB A,"Washington, District of Columbia",https://gdubladyhippos.wixsite.com/gdubladyhippos,https://www.facebook.com/GDubWomensUltimateFrisbee/,https://twitter.com/gdub_hippos
-coaches,Scott Hetu
-0,Evelina Naumovich
-0,Jacqueline  Rivers
-0,Karina Bar
-0,Keely Scott
-0,Liza McDonough
-0,Morgan Miller
-0,Rachel Barglow
-0,Sara Mitchell
-0,Trinity Ihekwoaba
-0,Vivien Williams
-0,Anika Kashyap
-0,Arizona Weinstein
-0,Chimwemwe Doran
-11,Emily Andre
-27,Eleni Zabaneh
-b,r,e,a,k
-Mary Washington,9
-teamInfo,Mary Massacre,"Fredericksburg, Virginia",,,https://twitter.com/GetDirtyGoWash
-coaches,Kai Jensen
-0,Grace Butcher
-0,Isidora  Guzman 
-0,Kaley Dix
-0,Kole Fertel
-0,Kyla Bolton
-0,Lian Johnston
-0,Lillian Ajima
-0,madison bayliff
-1,Kat Donovan
-4,Katherine Davis
-6,Miley Farley
-13,Anna Swann
-17,Veda Salazar
-22,Rachel Bowman
-24,Ainsley Lord
-44,Sophia Pedroza
-57,Katie Heyn
-72,Sydney  Emmert 
-95,Miriam  Gorbach
-b,r,e,a,k
 Virginia,4
 teamInfo,Hydra,"Charlottesville, Virginia",https://sites.google.com/a/virginia.edu/womens-ultimate-frisbee-club-at-the-university-of-virginia/,https://www.facebook.com/HydraNFriends/,https://twitter.com/HydraNFriends
 0,Ava Foulk
@@ -94,6 +52,48 @@ teamInfo,Hydra,"Charlottesville, Virginia",https://sites.google.com/a/virginia.e
 17,Gabriella  Everett
 27,Irene Chen
 33,Emma Cole
+b,r,e,a,k
+Mary Washington,9
+teamInfo,Mary Massacre,"Fredericksburg, Virginia",,,https://twitter.com/GetDirtyGoWash
+coaches,Kai Jensen
+0,Grace Butcher
+0,Isidora  Guzman 
+0,Kaley Dix
+0,Kole Fertel
+0,Kyla Bolton
+0,Lian Johnston
+0,Lillian Ajima
+0,madison bayliff
+1,Kat Donovan
+4,Katherine Davis
+6,Miley Farley
+13,Anna Swann
+17,Veda Salazar
+22,Rachel Bowman
+24,Ainsley Lord
+44,Sophia Pedroza
+57,Katie Heyn
+72,Sydney  Emmert 
+95,Miriam  Gorbach
+b,r,e,a,k
+George Washington,8
+teamInfo,GDUB A,"Washington, District of Columbia",https://gdubladyhippos.wixsite.com/gdubladyhippos,https://www.facebook.com/GDubWomensUltimateFrisbee/,https://twitter.com/gdub_hippos
+coaches,Scott Hetu
+0,Evelina Naumovich
+0,Jacqueline  Rivers
+0,Karina Bar
+0,Keely Scott
+0,Liza McDonough
+0,Morgan Miller
+0,Rachel Barglow
+0,Sara Mitchell
+0,Trinity Ihekwoaba
+0,Vivien Williams
+0,Anika Kashyap
+0,Arizona Weinstein
+0,Chimwemwe Doran
+11,Emily Andre
+27,Eleni Zabaneh
 b,r,e,a,k
 North Carolina (B),5
 teamInfo,Electra,"Chapel Hill, North Carolina",,,https://twitter.com/uncelectra
@@ -150,6 +150,23 @@ teamInfo,Bitchmonkeys,"Harrisonburg, Virginia",http://jmuwomensultimate.wordpres
 20,Elliott Haney
 69,Iliana Gardner
 b,r,e,a,k
+Triangle Tourists Girls,6
+teamInfo,,"Triangle, North Carolina",http://www.triangletourists.com,,
+coaches,Dwayne Purper,Mike Shyu
+ ,Maya
+0,Merrick DeWitt
+0,Molly Selleck
+0,Riley Richards
+0,Stella Boshoff
+0,Swift Simmons
+0,Claire Skinner
+0,Lily Brooks
+0,Lyran Handel
+0,Marlowe Herget
+0,Alina Handel
+0,Anna Holland
+19,Caroleen DeWolf
+b,r,e,a,k
 Duke,3
 teamInfo,Swerve,"Durham, North Carolina",https://sites.duke.edu/wultimate/,https://www.facebook.com/DukeSwerve/,https://twitter.com/dukeswerve
 coaches,Alan Hoyle
@@ -179,23 +196,6 @@ coaches,Alan Hoyle
 0,Angelina Huang
 6,Ashley Talwar
 11,Lindsey Hua
-b,r,e,a,k
-Triangle Tourists Girls,6
-teamInfo,,"Triangle, North Carolina",http://www.triangletourists.com,,
-coaches,Dwayne Purper,Mike Shyu
- ,Maya
-0,Merrick DeWitt
-0,Molly Selleck
-0,Riley Richards
-0,Stella Boshoff
-0,Swift Simmons
-0,Claire Skinner
-0,Lily Brooks
-0,Lyran Handel
-0,Marlowe Herget
-0,Alina Handel
-0,Anna Holland
-19,Caroleen DeWolf
 b,r,e,a,k
 Liberty,7
 teamInfo,Liberty Flames,"Lynchburg, Virginia",http://www.liberty.edu/campusrec/clubsports/index.cfm?PID=25959&TeamID=25,https://www.facebook.com/pages/Liberty-University-Womens-Ultimate/248293925227091/,
@@ -258,8 +258,8 @@ William & Mary,Virginia,9,8,"09/28/2024, 09:30",Pool A,Final
 North Carolina (B),Mary Washington,6,10,"09/28/2024, 09:30",Pool A,Final
 William & Mary,Mary Washington,12,2,"09/28/2024, 11:15",Pool A,Final
 North Carolina (B),George Washington,5,9,"09/28/2024, 11:15",Pool A,Final
-William & Mary,North Carolina (B),0,0,"09/28/2024, 13:00",Pool A,Scheduled
-Virginia,George Washington,0,0,"09/28/2024, 13:00",Pool A,Scheduled
+William & Mary,North Carolina (B),13,2,"09/28/2024, 13:00",Pool A,Final
+Virginia,George Washington,13,1,"09/28/2024, 13:00",Pool A,Final
 George Washington,Mary Washington,0,0,"09/28/2024, 14:45",Pool A,Scheduled
 Virginia,North Carolina (B),0,0,"09/28/2024, 14:45",Pool A,Scheduled
 William & Mary,George Washington,0,0,"09/29/2024, 09:00",Pool A,Scheduled
@@ -271,9 +271,9 @@ Liberty,Elon,13,5,"09/28/2024, 09:30",Pool B,Final
 James Madison,Duke,13,8,"09/28/2024, 11:15",Pool B,Final
 Triangle Tourists Girls,Liberty,9,2,"09/28/2024, 11:15",Pool B,Final
 VCU Vendetta Ultimate,Elon,13,3,"09/28/2024, 11:15",Pool B,Final
-James Madison,Liberty,0,0,"09/28/2024, 13:00",Pool B,Scheduled
+James Madison,Liberty,10,3,"09/28/2024, 13:00",Pool B,Final
 Duke,Elon,0,0,"09/28/2024, 13:00",Pool B,Scheduled
-Triangle Tourists Girls,VCU Vendetta Ultimate,0,0,"09/28/2024, 13:00",Pool B,Scheduled
+Triangle Tourists Girls,VCU Vendetta Ultimate,8,4,"09/28/2024, 13:00",Pool B,Final
 James Madison,Elon,0,0,"09/28/2024, 14:45",Pool B,Scheduled
 Duke,Triangle Tourists Girls,0,0,"09/28/2024, 14:45",Pool B,Scheduled
 Liberty,VCU Vendetta Ultimate,0,0,"09/28/2024, 14:45",Pool B,Scheduled
