@@ -183,31 +183,6 @@ teamInfo,Scoundrels,"Radford, Virginia",,,
 67,Meredith Miller
 69,Brady Hunt
 b,r,e,a,k
-James Madison University,3
-teamInfo,Hellfish,"Harrisonburg, Virginia",jmu.edu,,
-0,Alex Ricci
-0,Alexander Roman
-0,Brett Marchant
-0,Jack McFarlin
-0,Jeffrey Gale
-0,John Maxwell
-0,Max Eisenman
-0,Thomas Edwards
-0,Ty Buermeyer
-0,Wes Bowers
-0,Quinn Redick
-0,Ryan Lowe
-1,Benjamin Scott
-5,Charles Gaylord
-7,Ryan McGowan
-9,George Liacouras
-12,Zachary Harrington
-16,Luke Barry
-22,Patrick Vorathiankul
-34,Benjamin Barnett
-42,Evan Moss
-84,Dylan Wallace
-b,r,e,a,k
 George Mason,4
 teamInfo,Meteors,"Fairfax, Virginia",,https://www.instagram.com/georgemasonultimate/,https://twitter.com/MasonUltimate
 01,David Thornton
@@ -234,6 +209,31 @@ teamInfo,Meteors,"Fairfax, Virginia",,https://www.instagram.com/georgemasonultim
 36,Alonzo Mendoza
 69,Gavin  Buckowski
 77,Gabriel Fulwood
+b,r,e,a,k
+James Madison University,3
+teamInfo,Hellfish,"Harrisonburg, Virginia",jmu.edu,,
+0,Alex Ricci
+0,Alexander Roman
+0,Brett Marchant
+0,Jack McFarlin
+0,Jeffrey Gale
+0,John Maxwell
+0,Max Eisenman
+0,Thomas Edwards
+0,Ty Buermeyer
+0,Wes Bowers
+0,Quinn Redick
+0,Ryan Lowe
+1,Benjamin Scott
+5,Charles Gaylord
+7,Ryan McGowan
+9,George Liacouras
+12,Zachary Harrington
+16,Luke Barry
+22,Patrick Vorathiankul
+34,Benjamin Barnett
+42,Evan Moss
+84,Dylan Wallace
 b,r,e,a,k
 Virginia Commonwealth,9
 teamInfo,Biscuit Villains,"Richmond, Virginia",,,https://twitter.com/vcu_villains
@@ -292,27 +292,31 @@ pools,Pool Play
 pool,Pool A
 Virginia,DC Recruits,10,9,"10/19/2024, 10:00",Pool A,Final
 Charlottesville Clownies,Delaware (B),15,3,"10/19/2024, 10:00",Pool A,Final
-Virginia,Delaware (B),0,0,"10/19/2024, 11:40",Pool A,Scheduled
-Charlottesville Clownies,DC Recruits,0,0,"10/19/2024, 11:40",Pool A,Scheduled
-Virginia,Charlottesville Clownies,0,0,"10/19/2024, 13:20",Pool A,Scheduled
-DC Recruits,Delaware (B),0,0,"10/19/2024, 13:20",Pool A,Scheduled
+Virginia,Delaware (B),15,1,"10/19/2024, 11:40",Pool A,Final
+Charlottesville Clownies,DC Recruits,15,8,"10/19/2024, 11:40",Pool A,Final
+Virginia,Charlottesville Clownies,11,15,"10/19/2024, 13:20",Pool A,Final
+DC Recruits,Delaware (B),15,2,"10/19/2024, 13:20",Pool A,Final
 pool,Pool B
 Maryland,Pittsburgh (B),15,12,"10/19/2024, 10:00",Pool B,Final
 Richmond,Radford,13,5,"10/19/2024, 10:00",Pool B,Final
-Maryland,Radford,0,0,"10/19/2024, 11:40",Pool B,Scheduled
+Maryland,Radford,15,5,"10/19/2024, 11:40",Pool B,Final
 Richmond,Pittsburgh (B),9,15,"10/19/2024, 11:40",Pool B,Final
-Maryland,Richmond,0,0,"10/19/2024, 13:20",Pool B,Scheduled
-Pittsburgh (B),Radford,0,0,"10/19/2024, 13:20",Pool B,Scheduled
+Maryland,Richmond,15,9,"10/19/2024, 13:20",Pool B,Final
+Pittsburgh (B),Radford,15,5,"10/19/2024, 13:20",Pool B,Final
 pool,Pool C
 James Madison University,Virginia Commonwealth,15,5,"10/19/2024, 10:00",Pool C,Final
 George Mason,Virginia (B),15,7,"10/19/2024, 10:00",Pool C,Final
 James Madison University,Virginia (B),15,2,"10/19/2024, 11:40",Pool C,Final
 George Mason,Virginia Commonwealth,15,7,"10/19/2024, 11:40",Pool C,Final
-James Madison University,George Mason,0,0,"10/19/2024, 13:20",Pool C,Scheduled
-Virginia Commonwealth,Virginia (B),0,0,"10/19/2024, 13:20",Pool C,Scheduled
+James Madison University,George Mason,10,15,"10/19/2024, 13:20",Pool C,Final
+Virginia Commonwealth,Virginia (B),15,7,"10/19/2024, 13:20",Pool C,Final
 b,r,e,a,k
 brackets,1st Place Bracket
 bracket,Championship
+Charlottesville Clownies,Richmond,0,0,"10/20/2024, 09:00",Quarters,Scheduled
+Pittsburgh (B),James Madison University,0,0,"10/20/2024, 09:00",Quarters,Scheduled
+George Mason,Virginia,0,0,"10/20/2024, 09:00",Quarters,Scheduled
+DC Recruits,Maryland,0,0,"10/20/2024, 09:00",Quarters,Scheduled
 b,r,e,a,k
 brackets,Placement Brackets
 bracket,Third Place
@@ -321,4 +325,10 @@ bracket,Seventh Place
 b,r,e,a,k
 pools,9th Place Round Robin
 pool,Pool G
+Virginia Commonwealth,Radford,0,0,"10/20/2024, 09:00",Pool G,Scheduled
+Virginia (B),Delaware (B),0,0,"10/20/2024, 09:00",Pool G,Scheduled
+Virginia Commonwealth,Delaware (B),0,0,"10/20/2024, 10:40",Pool G,Scheduled
+Virginia (B),Radford,0,0,"10/20/2024, 10:40",Pool G,Scheduled
+Virginia Commonwealth,Virginia (B),0,0,"10/20/2024, 12:20",Pool G,Scheduled
+Radford,Delaware (B),0,0,"10/20/2024, 12:20",Pool G,Scheduled
 b,r,e,a,k
