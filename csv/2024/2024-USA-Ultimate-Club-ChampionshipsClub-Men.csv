@@ -31,36 +31,6 @@ coaches,Cody Mills,Isaac Saul
 81,Sean Mott
 82,Marques Brownlee
 b,r,e,a,k
-Sockeye,8
-teamInfo,,"Seattle, Washington",https://www.seattlesockeye.org/,https://www.facebook.com/SeattleSockeye/,https://twitter.com/SeattleSockeye/
-coaches,Zack Smith,Benjamin Wiggins,Craig Harkey
-01,Manuel Eckert
-02,Brice Dixon
-03,Mitch  Kulczak
-05,Elijah Diamond
-06,Ryan Shigley
-08,Max Ramstad
-09,Spencer Lofink
-10,Dongyang Chen
-12,Garrett Martin
-13,Phil Murray
-15,Geoffrey Tucker Kalmus
-16,Trent Dillon
-18,Chackgarin Brown
-19,Stanley Birdsong
-20,Jasper Dean
-21,Lucas Chen
-22,Declan Miller
-23,Xander Cuizon Tice
-24,Daniel Chen
-28,Grant Harris
-32,Cedar Hines
-41,Max Gade
-55,Parker Howard
-66,Ocean Hines
-90,Shane Worthington
-96,Asher Lantz
-b,r,e,a,k
 Chicago Machine,1
 teamInfo,,"Chicago, Illinois",http://www.chicago-machine.com,https://www.facebook.com/machineultimate,https://twitter.com/MachineUltimate
 coaches,James Highsmith,Alex Champe,Dan Donovan
@@ -90,6 +60,36 @@ coaches,James Highsmith,Alex Champe,Dan Donovan
 77,William Wettengel
 88,Tim Schoch
 91,Joe White
+b,r,e,a,k
+Sockeye,8
+teamInfo,,"Seattle, Washington",https://www.seattlesockeye.org/,https://www.facebook.com/SeattleSockeye/,https://twitter.com/SeattleSockeye/
+coaches,Zack Smith,Benjamin Wiggins,Craig Harkey
+01,Manuel Eckert
+02,Brice Dixon
+03,Mitch  Kulczak
+05,Elijah Diamond
+06,Ryan Shigley
+08,Max Ramstad
+09,Spencer Lofink
+10,Dongyang Chen
+12,Garrett Martin
+13,Phil Murray
+15,Geoffrey Tucker Kalmus
+16,Trent Dillon
+18,Chackgarin Brown
+19,Stanley Birdsong
+20,Jasper Dean
+21,Lucas Chen
+22,Declan Miller
+23,Xander Cuizon Tice
+24,Daniel Chen
+28,Grant Harris
+32,Cedar Hines
+41,Max Gade
+55,Parker Howard
+66,Ocean Hines
+90,Shane Worthington
+96,Asher Lantz
 b,r,e,a,k
 Raleigh-Durham United,14
 teamInfo,,"Raleigh, North Carolina",https://www.instagram.com/rduultimate/,,https://twitter.com/rduultimate
@@ -238,36 +238,6 @@ coaches,Tyler Smith
 88,Evan Ellis
 95,Ellis Newhouse
 b,r,e,a,k
-Chain Lightning,9
-teamInfo,,"Atlanta, Georgia",,https://www.facebook.com/pages/Chain-Lightning-Ultimate/188026257831,https://twitter.com/ATLchain
-coaches,William Arnold,Miranda Knowles
-01,Brett Hulsmeyer
-02,Andrew Thai
-03,Patrick Earles
-04,Austin Taylor
-05,Michael Fairley
-06,Aidan Downey
-07,Parker Bray
-08,Lukas McClamrock
-09,Kenni Taylor
-10,Max Thorne
-11,Tyler Randall
-16,Edward Ramsey
-17,Hayden Austin-Knab
-18,Adam Miller
-19,Tannon Hedges
-21,Coleman Tappero
-22,Tanner Robinson
-23,Francisco Fernandez
-24,Nikos Verlenden
-25,Jeremy Langdon
-34,Bradley Fleming
-36,Nick Spiva
-44,Mike Kobyra
-55,Chris Youngblood
-83,Michael-Angelo Humm
-87,Trenton Spinks
-b,r,e,a,k
 Rhino Slam!,7
 teamInfo,,"Portland, Oregon",http://www.rhinoultimate.com/,https://www.facebook.com/pages/Portland-Rhino/406995056021898,https://twitter.com/RhinoUltimate
 coaches,Timmy Perston
@@ -297,6 +267,36 @@ coaches,Timmy Perston
 44,Owen Murphy
 69,Adam McNichols
 70,Christopher Strub
+b,r,e,a,k
+Chain Lightning,9
+teamInfo,,"Atlanta, Georgia",,https://www.facebook.com/pages/Chain-Lightning-Ultimate/188026257831,https://twitter.com/ATLchain
+coaches,William Arnold,Miranda Knowles
+01,Brett Hulsmeyer
+02,Andrew Thai
+03,Patrick Earles
+04,Austin Taylor
+05,Michael Fairley
+06,Aidan Downey
+07,Parker Bray
+08,Lukas McClamrock
+09,Kenni Taylor
+10,Max Thorne
+11,Tyler Randall
+16,Edward Ramsey
+17,Hayden Austin-Knab
+18,Adam Miller
+19,Tannon Hedges
+21,Coleman Tappero
+22,Tanner Robinson
+23,Francisco Fernandez
+24,Nikos Verlenden
+25,Jeremy Langdon
+34,Bradley Fleming
+36,Nick Spiva
+44,Mike Kobyra
+55,Chris Youngblood
+83,Michael-Angelo Humm
+87,Trenton Spinks
 b,r,e,a,k
 Furious George,13
 teamInfo,,"Vancouver, British Columbia CA",,https://www.facebook.com/FuriousGeorgeUltimate,https://twitter.com/FuriousUltimate
@@ -484,7 +484,7 @@ Chicago Machine,PoNY,9,15,"10/24/2024, 09:00",Pool A,Final
 Sockeye,Raleigh-Durham United,15,12,"10/24/2024, 09:00",Pool A,Final
 Chicago Machine,Raleigh-Durham United,15,10,"10/24/2024, 11:15",Pool A,Final
 Sockeye,PoNY,12,15,"10/24/2024, 11:15",Pool A,Final
-Chicago Machine,Sockeye,14,13,"10/24/2024, 13:30",Pool A,In Progress
+Chicago Machine,Sockeye,15,14,"10/24/2024, 13:30",Pool A,Final
 PoNY,Raleigh-Durham United,15,6,"10/24/2024, 13:30",Pool A,Final
 pool,Pool B
 DiG,GOAT,15,13,"10/24/2024, 11:15",Pool B,Final
@@ -496,8 +496,8 @@ GOAT,Mallard,0,0,"10/24/2024, 15:45",Pool B,In Progress
 pool,Pool C
 Johnny Bravo,Chain Lightning,9,15,"10/24/2024, 09:00",Pool C,Final
 Rhino Slam!,Furious George,14,13,"10/24/2024, 09:00",Pool C,Final
-Johnny Bravo,Furious George,12,13,"10/24/2024, 13:30",Pool C,Scheduled
-Rhino Slam!,Chain Lightning,13,13,"10/24/2024, 13:30",Pool C,In Progress
+Johnny Bravo,Furious George,14,13,"10/24/2024, 13:30",Pool C,Scheduled
+Rhino Slam!,Chain Lightning,14,13,"10/24/2024, 13:30",Pool C,Final
 Johnny Bravo,Rhino Slam!,0,0,"10/24/2024, 15:45",Pool C,In Progress
 Chain Lightning,Furious George,0,0,"10/24/2024, 15:45",Pool C,In Progress
 pool,Pool D
