@@ -196,8 +196,8 @@ pool,Pool A
 SUNY-Binghamton,Hofstra,12,6,"11/09/2024, 09:00",Pool A,Final
 SUNY-Stony Brook,Adelphi University,10,9,"11/09/2024, 09:00",Pool A,Final
 SUNY-Binghamton,Adelphi University,13,1,"11/09/2024, 10:30",Pool A,Final
-SUNY-Stony Brook,Hofstra,3,8,"11/09/2024, 10:30",Pool A,Final
-SUNY-Binghamton,SUNY-Stony Brook,4,5,"11/09/2024, 12:00",Pool A,Final
+SUNY-Stony Brook,Hofstra,5,8,"11/09/2024, 10:30",Pool A,Final
+SUNY-Binghamton,SUNY-Stony Brook,12,2,"11/09/2024, 12:00",Pool A,Final
 Hofstra,Adelphi University,13,2,"11/09/2024, 12:00",Pool A,Final
 pool,Pool B
 SUNY-Binghamton (B),Uptown Local Y,5,11,"11/09/2024, 09:00",Pool B,Final
@@ -206,7 +206,7 @@ Pennsylvania,SUNY-Binghamton (B),13,1,"11/09/2024, 12:00",Pool B,Final
 pool,Pool C
 Columbia,Vassar,7,10,"11/09/2024, 09:00",Pool C,Final
 NYU,Vassar,5,10,"11/09/2024, 10:30",Pool C,Final
-NYU,Columbia,0,0,"11/09/2024, 12:00",Pool C,Scheduled
+NYU,Columbia,9,12,"11/09/2024, 12:00",Pool C,Final
 b,r,e,a,k
 clusters,Pool Play Crossovers
 cluster,B/C Crossover
@@ -216,9 +216,14 @@ Uptown Local Y,Vassar,4,8,"11/09/2024, 12:00",,Final
 b,r,e,a,k
 brackets,Bracket Play
 bracket,Championship
+SUNY-Binghamton,Columbia,0,0,"11/09/2024, 13:30",Quarterfinals,Scheduled
+Vassar,Uptown Local Y,0,0,"11/10/2024, 08:00",Quarterfinals,Scheduled
+Pennsylvania,NYU,0,0,"11/10/2024, 08:00",Quarterfinals,Scheduled
+Hofstra,SUNY-Stony Brook,0,0,"11/09/2024, 13:30",Quarterfinals,Scheduled
 bracket,5th Place
 bracket,3rd Place
 b,r,e,a,k
 pools,Consolation Pool
 pool,Pool A
+Adelphi University,SUNY-Binghamton (B),0,0,"11/09/2024, 13:30",Pool A,Scheduled
 b,r,e,a,k
