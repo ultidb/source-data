@@ -265,6 +265,7 @@ def add_cors_header(response):
 if __name__ == "__main__":
     # Setup default config (init schedule, tor, and scrape calendar for year)
     # resendFailedCSVs()
+    # postUpdatedCsvListToAPI(["csv/2024/2024-Southeast-Mens-Regional-ChampionshipClub-Men.csv"])
     prodSetup()
     # scrapeAndPushVideos()
     # Optional calls for testing/development
