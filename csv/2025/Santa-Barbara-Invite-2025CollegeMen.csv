@@ -246,34 +246,6 @@ teamInfo,Hibida,"Fort Collins, Colorado",,,https://twitter.com/csuhibida
 46,Axel Williams
 80,Cade Colston
 b,r,e,a,k
-Victoria,10
-teamInfo,Vikes,"Victoria, British Columbia CA",www.uvicultimate.com,https://www.facebook.com/UVictimUltimate,https://twitter.com/uvictimultimate
-0,Alex Longe
-0,Benjamin Grieser
-0,Dylan Cochrane
-0,Hunter Cochrane
-0,James Edgell
-0,Kane Harper Tubbs
-0,Lochlan Margison
-0,Marcel Studer
-0,Max Kapuscinski
-0,Nathan Dailly
-0,Ryan  Loui-Ying
-0,Taishi Fukuda
-0,Taiyo Forsyth
-0,Tyler  Jones
-1,Nyle Lebbell
-1,Desmond Burns
-8,Gregory Bian
-12,Markus Hernandez
-14,Ian Robinson
-19,Tasman Millen
-27,Ian McLaren
-53,Benjamin Savage
-55,Ben Baird
-69,Max Pettenuzzo
-88,Ben Lefevre
-b,r,e,a,k
 British Columbia,3
 teamInfo,Thunderbirds,"Vancouver, British Columbia CA",,,
 coaches,Alexander Lam
@@ -303,6 +275,34 @@ coaches,Alexander Lam
 72,Wesley  Wong
 73,Angus Chan
 97,Colin Wu
+b,r,e,a,k
+Victoria,10
+teamInfo,Vikes,"Victoria, British Columbia CA",www.uvicultimate.com,https://www.facebook.com/UVictimUltimate,https://twitter.com/uvictimultimate
+0,Alex Longe
+0,Benjamin Grieser
+0,Dylan Cochrane
+0,Hunter Cochrane
+0,James Edgell
+0,Kane Harper Tubbs
+0,Lochlan Margison
+0,Marcel Studer
+0,Max Kapuscinski
+0,Nathan Dailly
+0,Ryan  Loui-Ying
+0,Taishi Fukuda
+0,Taiyo Forsyth
+0,Tyler  Jones
+1,Nyle Lebbell
+1,Desmond Burns
+8,Gregory Bian
+12,Markus Hernandez
+14,Ian Robinson
+19,Tasman Millen
+27,Ian McLaren
+53,Benjamin Savage
+55,Ben Baird
+69,Max Pettenuzzo
+88,Ben Lefevre
 b,r,e,a,k
 UCLA,6
 teamInfo,Smaug,"Los Angeles, California",https://instagram.com/smaugultimate,,https://twitter.com/smaugultimate
@@ -461,14 +461,12 @@ California-San Diego,California-Santa Barbara,12,11,"01/25/2025, 10:40",Pool E,F
 pool,Pool F
 California,Stanford,12,7,"01/25/2025, 12:20",Pool F,Final
 Utah,Colorado State,12,8,"01/25/2025, 12:20",Pool F,Final
-California,Colorado State,0,0,"01/25/2025, 14:00",Pool F,Scheduled
-Utah,Stanford,0,0,"01/25/2025, 14:00",Pool F,Scheduled
 California,Utah,13,9,"01/25/2025, 14:00",Pool F,Final
 Colorado State,Stanford,10,11,"01/25/2025, 14:00",Pool F,Final
 pool,Pool G
 British Columbia,Cal Poly-SLO (B),13,2,"01/25/2025, 12:20",Pool G,Final
 UCLA,Victoria,3,12,"01/25/2025, 12:20",Pool G,Final
-British Columbia,Victoria,0,0,"01/25/2025, 14:00",Pool G,Scheduled
+British Columbia,Victoria,11,7,"01/25/2025, 14:00",Pool G,Final
 UCLA,Cal Poly-SLO (B),13,5,"01/25/2025, 14:00",Pool G,Final
 pool,Pool H
 Brigham Young,Illinois,13,8,"01/25/2025, 09:00",Pool H,Final
@@ -480,6 +478,8 @@ brackets,Bracket
 bracket,Championship Bracket
 Utah Valley,Illinois,0,0,"01/25/2025, 15:40",Pre-Quarters,Scheduled
 California-San Diego,California-Santa Cruz,0,0,"01/25/2025, 15:40",Pre-Quarters,Scheduled
+Utah,UCLA,0,0,"01/25/2025, 15:40",Pre-Quarters,Scheduled
+Stanford,Victoria,0,0,"01/25/2025, 15:40",Pre-Quarters,Scheduled
 bracket,3rd place 
 bracket,5th place
 bracket,7th place
@@ -489,4 +489,8 @@ b,r,e,a,k
 pools,Consolation
 pool,Pool I
 California-Santa Barbara,Brigham Young,7,13,"01/25/2025, 12:20",Pool I,Final
+Colorado State,Brigham Young,0,0,"01/25/2025, 15:40",Pool I,Scheduled
+California-Santa Barbara,Cal Poly-SLO (B),0,0,"01/26/2025, 09:00",Pool I,Scheduled
+California-Santa Barbara,Colorado State,0,0,"01/26/2025, 10:40",Pool I,Scheduled
+Colorado State,Cal Poly-SLO (B),0,0,"01/26/2025, 12:20",Pool I,Scheduled
 b,r,e,a,k
