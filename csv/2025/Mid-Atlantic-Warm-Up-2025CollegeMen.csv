@@ -269,51 +269,6 @@ teamInfo,Poseidon,"Annapolis, Maryland",,facebook.com/navyultimate,twitter.com/n
 40,Darian Bentivegna
 93,Jack Osborne
 b,r,e,a,k
-Yale,11
-teamInfo,Süperfly,"New Haven, Connecticut",http://superfly.sites.yale.edu,https://www.facebook.com/SuperflyUltimate,https://twitter.com/yalesuperfly
-0,Alec Brainard
-0,George Bruce
-0,Hanson Qin
-0,Manuel Bosteels
-0,Nic Spangler
-0,Rishabh Garg
-3,Owen Hathaway Hacker
-4,Jack Griffin
-5,Javier Pardo
-8,John Kiely
-13,Ben Chaimberg
-15,John Timmers
-18,Micah Derringer
-19,Thomas Venarde
-28,Eric Bormann
-36,Henry Berger
-47,Zaki Siraj
-99,Carson Punt
-b,r,e,a,k
-James Madison,3
-teamInfo,Hellfish,"Harrisonburg, Virginia",jmu.edu,,
-0,Alex Ricci
-0,Gray Middleton
-0,Jack McFarlin
-0,John Maxwell
-0,Max Eisenman
-0,Ryan Lowe
-0,Thomas Edwards
-0,Ty Buermeyer
-0,Quinn Redick
-0,Robert Karas
-1,Benjamin Scott
-5,Charles Gaylord
-7,Ryan McGowan
-9,George Liacouras
-12,Zachary Harrington
-16,Luke Barry
-22,Patrick Vorathiankul
-34,Benjamin Barnett
-42,Evan Moss
-43,Michael Servidio
-84,Dylan Wallace
-b,r,e,a,k
 Carnegie Mellon,6
 teamInfo,Mr. Yuk,"Pittsburgh, Pennsylvania",https://www.andrew.cmu.edu/user/ultimate/yuk/,,https://twitter.com/mryukultimate
 00,Joe Dosch
@@ -341,6 +296,51 @@ teamInfo,Mr. Yuk,"Pittsburgh, Pennsylvania",https://www.andrew.cmu.edu/user/ulti
 01,Jackson Trone
 01,James Alzona
 01,Jing Lin
+b,r,e,a,k
+James Madison,3
+teamInfo,Hellfish,"Harrisonburg, Virginia",jmu.edu,,
+0,Alex Ricci
+0,Gray Middleton
+0,Jack McFarlin
+0,John Maxwell
+0,Max Eisenman
+0,Ryan Lowe
+0,Thomas Edwards
+0,Ty Buermeyer
+0,Quinn Redick
+0,Robert Karas
+1,Benjamin Scott
+5,Charles Gaylord
+7,Ryan McGowan
+9,George Liacouras
+12,Zachary Harrington
+16,Luke Barry
+22,Patrick Vorathiankul
+34,Benjamin Barnett
+42,Evan Moss
+43,Michael Servidio
+84,Dylan Wallace
+b,r,e,a,k
+Yale,11
+teamInfo,Süperfly,"New Haven, Connecticut",http://superfly.sites.yale.edu,https://www.facebook.com/SuperflyUltimate,https://twitter.com/yalesuperfly
+0,Alec Brainard
+0,George Bruce
+0,Hanson Qin
+0,Manuel Bosteels
+0,Nic Spangler
+0,Rishabh Garg
+3,Owen Hathaway Hacker
+4,Jack Griffin
+5,Javier Pardo
+8,John Kiely
+13,Ben Chaimberg
+15,John Timmers
+18,Micah Derringer
+19,Thomas Venarde
+28,Eric Bormann
+36,Henry Berger
+47,Zaki Siraj
+99,Carson Punt
 b,r,e,a,k
 East Carolina,14
 teamInfo,Irates,"Greenville, North Carolina",,https://www.facebook.com/ECUUltimateFrisbee,https://twitter.com/ECUUltimate
@@ -522,7 +522,7 @@ Carnegie Mellon,East Carolina,9,7,"01/25/2025, 10:35",Pool C,Final
 East Carolina,American,10,9,"01/25/2025, 12:10",Pool C,Final
 Carnegie Mellon,Yale,12,9,"01/25/2025, 12:10",Pool C,Final
 James Madison,East Carolina,11,6,"01/25/2025, 13:45",Pool C,Final
-Carnegie Mellon,American,0,0,"01/25/2025, 13:45",Pool C,Scheduled
+Carnegie Mellon,American,12,6,"01/25/2025, 13:45",Pool C,Final
 James Madison,Carnegie Mellon,11,9,"01/25/2025, 15:20",Pool C,Final
 Yale,American,12,8,"01/25/2025, 15:20",Pool C,Final
 pool,Pool D
@@ -535,6 +535,8 @@ Cincinnati,Dartmouth,11,10,"01/25/2025, 13:45",Pool D,Final
 b,r,e,a,k
 brackets,Bracket Play
 bracket,Championship
+Vermont (B),Yale,0,0,"01/26/2025, 09:00",Pre-Quarters,Scheduled
+James Madison,Christopher Newport,0,0,"01/26/2025, 09:00",Pre-Quarters,Scheduled
 Richmond,George Mason,0,0,"01/26/2025, 09:00",Pre-Quarters,Scheduled
 Dartmouth,RIT,0,0,"01/26/2025, 09:00",Pre-Quarters,Scheduled
 bracket,9th Place
@@ -546,8 +548,14 @@ b,r,e,a,k
 clusters,13th - 19th
 cluster,13th - 19th
 Boston University,Pennsylvania,0,0,"01/26/2025, 09:00",,Scheduled
+East Carolina,Johns Hopkins,0,0,"01/26/2025, 09:00",,Scheduled
+Virginia Commonwealth,American,0,0,"01/26/2025, 09:00",,Scheduled
+Boston University,East Carolina,0,0,"01/26/2025, 10:45",,Scheduled
 Pennsylvania,Johns Hopkins,0,0,"01/26/2025, 10:45",,Scheduled
 Virginia Commonwealth,Navy,0,0,"01/26/2025, 12:30",,Scheduled
+American,Johns Hopkins,0,0,"01/26/2025, 12:30",,Scheduled
+Pennsylvania,East Carolina,0,0,"01/26/2025, 12:30",,Scheduled
 Boston University,Johns Hopkins,0,0,"01/26/2025, 14:15",,Scheduled
+Navy,American,0,0,"01/26/2025, 14:15",,Scheduled
 Virginia Commonwealth,Pennsylvania,0,0,"01/26/2025, 14:15",,Scheduled
 b,r,e,a,k
