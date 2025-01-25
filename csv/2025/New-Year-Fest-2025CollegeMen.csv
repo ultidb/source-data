@@ -29,30 +29,6 @@ teamInfo,CUCU,"Denver, Colorado",,,
 62,Leo Gold
 91,Elliot Frank
 b,r,e,a,k
-Brigham Young (B),6
-teamInfo,CHI B,"Provo, Utah",www.byuchiultimate.com,facebook.com/byumensultimate,
-0,Adam Rose
-0,Alexander Edwards
-0,Booker Comin
-0,Dallin Barlow
-0,Indiana Ivie
-0,Isaac Teichert
-0,Jared Allison
-0,Kyler Bloxham
-0,Mark Allen
-0,RJ Christensen
-0,Russell Ridd
-0,Siler Weaver
-0,Abraham Alton
-0,Spencer Morgan
-0,Tyler Anderson
-0,Tyson Richards
-0,Zane Pew
-8,Joshua Nielsen
-11,Adam Simpson
-27,Trevor Wai
-62,Spencer Boyer
-b,r,e,a,k
 San Diego State,3
 teamInfo,Federales,"San Diego, California",,,https://twitter.com/SDSUFederales?s=20
 02,Camden Lunceford
@@ -77,6 +53,30 @@ teamInfo,Federales,"San Diego, California",,,https://twitter.com/SDSUFederales?s
 88,Ethan DeForest
 94,Braeden Langell
 99,Kyle Loutzenhiser
+b,r,e,a,k
+Brigham Young (B),6
+teamInfo,CHI B,"Provo, Utah",www.byuchiultimate.com,facebook.com/byumensultimate,
+0,Adam Rose
+0,Alexander Edwards
+0,Booker Comin
+0,Dallin Barlow
+0,Indiana Ivie
+0,Isaac Teichert
+0,Jared Allison
+0,Kyler Bloxham
+0,Mark Allen
+0,RJ Christensen
+0,Russell Ridd
+0,Siler Weaver
+0,Abraham Alton
+0,Spencer Morgan
+0,Tyler Anderson
+0,Tyson Richards
+0,Zane Pew
+8,Joshua Nielsen
+11,Adam Simpson
+27,Trevor Wai
+62,Spencer Boyer
 b,r,e,a,k
 Grand Canyon (B),8
 teamInfo,G-Force,"Phoenix, Arizona",,,
@@ -133,23 +133,6 @@ teamInfo,Sunburn,"Tucson, Arizona",,,
 0,Zeke DeLaughter
 41,Zachary Yang
 b,r,e,a,k
-Northern Arizona,5
-teamInfo,El Ponderoso,"Flagstaff, Arizona",,,https://twitter.com/ElPonderosoNAU
-01,Alec Pier
-02,Tyler Hanson
-04,Angelo Paffumi
-08,Zach Hoerl
-16,Ryan Fletcher
-18,Beck Gutjahr
-19,Joel Linde
-42,Maxwell Sewell
-55,Gabriel Sensibar
-57,Tyler Prough
-69,Angelo Stavros Chechopoulos
-87,Michael Kiricoples
-90,Joaquin Huerta
-99,Atticus Abraham
-b,r,e,a,k
 Denver,2
 teamInfo,Sourdough,"Denver, Colorado",https://denversourdough.wixsite.com/du-sourdough,,
 0,Andrew Lukasewycz
@@ -170,6 +153,23 @@ teamInfo,Sourdough,"Denver, Colorado",https://denversourdough.wixsite.com/du-sou
 52,Alexander Fleming
 95,Noah Alleman
 b,r,e,a,k
+Northern Arizona,5
+teamInfo,El Ponderoso,"Flagstaff, Arizona",,,https://twitter.com/ElPonderosoNAU
+01,Alec Pier
+02,Tyler Hanson
+04,Angelo Paffumi
+08,Zach Hoerl
+16,Ryan Fletcher
+18,Beck Gutjahr
+19,Joel Linde
+42,Maxwell Sewell
+55,Gabriel Sensibar
+57,Tyler Prough
+69,Angelo Stavros Chechopoulos
+87,Michael Kiricoples
+90,Joaquin Huerta
+99,Atticus Abraham
+b,r,e,a,k
 Arizona State (B),7
 teamInfo,Pleasure,"Tempe, Arizona",https://arizonastateultimate.wordpress.com/,,https://twitter.com/AsuPleasure
 0,Alejandro Ortiz Olivas
@@ -188,7 +188,7 @@ pools,Saturday Pool Play
 pool,Roadrunner
 Brigham Young (B),Grand Canyon (B),13,3,"01/25/2025, 10:00",Roadrunner,Final
 Colorado (B),San Diego State,12,11,"01/25/2025, 10:00",Roadrunner,Final
-Colorado (B),Brigham Young (B),13,5,"01/25/2025, 11:45",Roadrunner,Scheduled
+Colorado (B),Brigham Young (B),13,5,"01/25/2025, 11:45",Roadrunner,Final
 San Diego State,Denver (B),13,2,"01/25/2025, 11:45",Roadrunner,Final
 Colorado (B),Grand Canyon (B),0,0,"01/25/2025, 13:30",Roadrunner,Scheduled
 Brigham Young (B),Denver (B),0,0,"01/25/2025, 13:30",Roadrunner,Scheduled
@@ -197,7 +197,7 @@ San Diego State,Brigham Young (B),0,0,"01/25/2025, 15:15",Roadrunner,Scheduled
 Colorado (B),Denver (B),0,0,"01/25/2025, 17:00",Roadrunner,Scheduled
 San Diego State,Grand Canyon (B),0,0,"01/25/2025, 17:00",Roadrunner,Scheduled
 pool,Coyote
-Denver,Northern Arizona,0,0,"01/25/2025, 11:00",Coyote,Scheduled
+Denver,Northern Arizona,17,5,"01/25/2025, 11:00",Coyote,Final
 Arizona,Arizona State (B),16,3,"01/25/2025, 11:00",Coyote,Final
 Denver,Arizona State (B),0,0,"01/25/2025, 13:00",Coyote,Scheduled
 Arizona,Northern Arizona,0,0,"01/25/2025, 13:00",Coyote,Scheduled
