@@ -29,6 +29,33 @@ teamInfo,Bucks,"Berry, Georgia",,,https://twitter.com/berry_bucks
 51,Ryan Perry
 52,Ian VanOrder
 b,r,e,a,k
+Alabama,1
+teamInfo,Yellow Hammer,"Tuscaloosa, Alabama",alabamaultimate.wordpress.com,https://www.facebook.com/AlabamaUltimate/,twitter.com/bama_ultimate
+0,Arden Markin
+0,Benjamin Forton
+0,Brady Grogan
+0,Christopher Sullivan
+0,David Hunt
+0,Drew Anderson
+0,Jackson Whitlow
+0,Justin Weaver
+0,Lachlan Campbell
+0,Thomas Cagle
+0,Thomas Reed
+0,Timothy Sullivan IV
+0,John Prendergast
+0,Joshua Scheuer Haeker
+0,William Nash
+3,William Hagan
+7,Jacob Ham
+8,Logan Ashwell
+8,Alex Brown
+9,Sam Pilgreen
+14,Jack Libby
+64,Conley Brooks
+84,Joshua Lewis
+95,Zachary Powers
+b,r,e,a,k
 LSU,5
 teamInfo,Purple Haze,"Baton Rouge, Louisiana",,,https://twitter.com/LSUUltimateM
 coaches,Chas Legge
@@ -88,33 +115,6 @@ teamInfo,Harding Apocalypse,"Searcy, Arkansas",,,
 13,Elijah Duke
 25,Denver Mitchell
 66,Luke Bensinger
-b,r,e,a,k
-Alabama,1
-teamInfo,Yellow Hammer,"Tuscaloosa, Alabama",alabamaultimate.wordpress.com,https://www.facebook.com/AlabamaUltimate/,twitter.com/bama_ultimate
-0,Arden Markin
-0,Benjamin Forton
-0,Brady Grogan
-0,Christopher Sullivan
-0,David Hunt
-0,Drew Anderson
-0,Jackson Whitlow
-0,Justin Weaver
-0,Lachlan Campbell
-0,Thomas Cagle
-0,Thomas Reed
-0,Timothy Sullivan IV
-0,John Prendergast
-0,Joshua Scheuer Haeker
-0,William Nash
-3,William Hagan
-7,Jacob Ham
-8,Logan Ashwell
-8,Alex Brown
-9,Sam Pilgreen
-14,Jack Libby
-64,Conley Brooks
-84,Joshua Lewis
-95,Zachary Powers
 b,r,e,a,k
 Tennessee-Chattanooga  (B),12
 teamInfo,Tennessee-Chattanooga B,"Chattanooga , Tennessee",,,https://twitter.com/UTCSwamp
@@ -206,24 +206,6 @@ teamInfo,Inferno,"Birmingham, Alabama",,,
 22,Jalen McDade
 49,Joseph Rubin 
 b,r,e,a,k
-Alabama (B),11
-teamInfo,Yellow Hammer,"Tuscaloosa, Alabama",alabamaultimate.wordpress.com,https://www.facebook.com/AlabamaUltimate/,twitter.com/bama_ultimate
-0,Aiden Holt
-0,Connor Reagan
-0,Eli Melnick
-0,Ethan Timmer
-0,Jason Mbana
-0,Jonathan Dufour
-0,Keaton Kirkpatrick
-0,Liam Tucker
-0,Matthew Ritz
-0,Paul White
-0,Walter Pope
-00,Preston Herring
-00,Taylor Caswell
-16,Thomas Orchanian
-40,Nathaniel Graf
-b,r,e,a,k
 Union (Tennessee),6
 teamInfo,Tennessee) (Union Jaxx,"Jackson, Tennessee",,https://www.facebook.com/jaxxclubultimate,https://twitter.com/jaxxultimate
 0,Josiah Salazar
@@ -249,6 +231,24 @@ teamInfo,Tennessee) (Union Jaxx,"Jackson, Tennessee",,https://www.facebook.com/j
 44,Joel Salazar
 81,Daniel Lancaster
 b,r,e,a,k
+Alabama (B),11
+teamInfo,Yellow Hammer,"Tuscaloosa, Alabama",alabamaultimate.wordpress.com,https://www.facebook.com/AlabamaUltimate/,twitter.com/bama_ultimate
+0,Aiden Holt
+0,Connor Reagan
+0,Eli Melnick
+0,Ethan Timmer
+0,Jason Mbana
+0,Jonathan Dufour
+0,Keaton Kirkpatrick
+0,Liam Tucker
+0,Matthew Ritz
+0,Paul White
+0,Walter Pope
+00,Preston Herring
+00,Taylor Caswell
+16,Thomas Orchanian
+40,Nathaniel Graf
+b,r,e,a,k
 Jacksonville State,10
 teamInfo,Firebird,"Jacksonville, Alabama",https://jsuultimate.com/,,https://twitter.com/jsufirebird
 02,Drake Carver
@@ -269,16 +269,16 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Pools
 pool,Pool A
-Alabama,LSU,0,0,"01/25/2025, 09:00",Pool A,Scheduled
+Alabama,LSU,13,6,"01/25/2025, 09:00",Pool A,Final
 Berry,Illinois State,13,7,"01/25/2025, 09:00",Pool A,Final
 Harding,Tennessee-Chattanooga  (B),13,9,"01/25/2025, 09:00",Pool A,Final
 Alabama,Berry,12,13,"01/25/2025, 10:50",Pool A,Final
 LSU,Harding,13,0,"01/25/2025, 10:50",Pool A,Final
 Illinois State,Tennessee-Chattanooga  (B),13,1,"01/25/2025, 10:50",Pool A,Final
-Alabama,Harding,0,0,"01/25/2025, 12:40",Pool A,Scheduled
+Alabama,Harding,13,0,"01/25/2025, 12:40",Pool A,Final
 Berry,Tennessee-Chattanooga  (B),13,1,"01/25/2025, 12:40",Pool A,Final
 LSU,Illinois State,13,5,"01/25/2025, 12:40",Pool A,Final
-Alabama,Tennessee-Chattanooga  (B),0,0,"01/25/2025, 14:30",Pool A,Scheduled
+Alabama,Tennessee-Chattanooga  (B),13,0,"01/25/2025, 14:30",Pool A,Final
 Berry,LSU,13,9,"01/25/2025, 14:30",Pool A,Final
 Harding,Illinois State,6,13,"01/25/2025, 14:30",Pool A,Final
 Alabama,Illinois State,0,0,"01/26/2025, 09:00",Pool A,Scheduled
@@ -292,11 +292,11 @@ Mississippi State,Tennessee-Chattanooga (A),11,9,"01/25/2025, 10:50",Pool B,Fina
 Union (Tennessee),Alabama-Birmingham,12,13,"01/25/2025, 10:50",Pool B,Final
 Jacksonville State,Alabama (B),12,13,"01/25/2025, 10:50",Pool B,Final
 Mississippi State,Alabama-Birmingham,9,7,"01/25/2025, 12:40",Pool B,Final
-Tennessee-Chattanooga (A),Alabama (B),13,3,"01/25/2025, 12:40",Pool B,Scheduled
-Union (Tennessee),Jacksonville State,0,0,"01/25/2025, 12:40",Pool B,Scheduled
+Tennessee-Chattanooga (A),Alabama (B),13,3,"01/25/2025, 12:40",Pool B,Final
+Union (Tennessee),Jacksonville State,13,6,"01/25/2025, 12:40",Pool B,Final
 Mississippi State,Alabama (B),13,6,"01/25/2025, 14:30",Pool B,Final
 Tennessee-Chattanooga (A),Union (Tennessee),13,10,"01/25/2025, 14:30",Pool B,Final
-Alabama-Birmingham,Jacksonville State,0,0,"01/25/2025, 14:30",Pool B,Scheduled
+Alabama-Birmingham,Jacksonville State,13,8,"01/25/2025, 14:30",Pool B,Final
 Mississippi State,Jacksonville State,0,0,"01/26/2025, 09:00",Pool B,Scheduled
 Tennessee-Chattanooga (A),Alabama-Birmingham,0,0,"01/26/2025, 09:00",Pool B,Scheduled
 Union (Tennessee),Alabama (B),0,0,"01/26/2025, 09:00",Pool B,Scheduled
