@@ -246,36 +246,6 @@ teamInfo,Justice,"Washington, District of Columbia",https://www.georgetownultima
 84,Isaac Hawkins
 88,David Song
 b,r,e,a,k
-North Carolina-Wilmington,3
-teamInfo,Seamen,"Wilmington, North Carolina",http://seamenultimate.com/,https://www.facebook.com/seamenultimate,https://twitter.com/seamenultimate
-coaches,Colin Hines
-0,Caleb Wilson
-0,Cam Spong
-0,Charlie  Mosner
-0,Christian Belus
-0,Cole Carter
-0,Grant Barbour
-0,Ian Cobb
-0,Isaac Abelson
-0,Isaac Castiglione
-0,Jackson Walser 
-0,James Thomas
-0,Jared Tomasetti
-0,John Synowsky
-0,Justin Silver
-0,Karsten Heimel
-0,Logan Beane
-0,Mustafa Hamed
-0,Alexander Woodall
-0,Benjamin Kinnaird
-0,Sawyer Williamson
-0,Ty Yandle
-8,Ryan Manuel
-11,Stewart Kelley
-11,Atharv Patil
-16,Busbee Pace
-97,Pablo Velosa
-b,r,e,a,k
 South Carolina,10
 teamInfo,Gamecock Ultimate,"Columbia, South Carolina",https://garnetgate.sa.sc.edu/organization/ufrisb,https://facebook.com/GamecockUltimate/,https://twitter.com/CocksUltimate
 0,Jack Wilson
@@ -305,6 +275,36 @@ teamInfo,Gamecock Ultimate,"Columbia, South Carolina",https://garnetgate.sa.sc.e
 73,Ethan Ho 
 83,Nate Reiss
 86,Brad Thomson
+b,r,e,a,k
+North Carolina-Wilmington,3
+teamInfo,Seamen,"Wilmington, North Carolina",http://seamenultimate.com/,https://www.facebook.com/seamenultimate,https://twitter.com/seamenultimate
+coaches,Colin Hines
+0,Caleb Wilson
+0,Cam Spong
+0,Charlie  Mosner
+0,Christian Belus
+0,Cole Carter
+0,Grant Barbour
+0,Ian Cobb
+0,Isaac Abelson
+0,Isaac Castiglione
+0,Jackson Walser 
+0,James Thomas
+0,Jared Tomasetti
+0,John Synowsky
+0,Justin Silver
+0,Karsten Heimel
+0,Logan Beane
+0,Mustafa Hamed
+0,Alexander Woodall
+0,Benjamin Kinnaird
+0,Sawyer Williamson
+0,Ty Yandle
+8,Ryan Manuel
+11,Stewart Kelley
+11,Atharv Patil
+16,Busbee Pace
+97,Pablo Velosa
 b,r,e,a,k
 Ohio State,6
 teamInfo,Leadbelly,"Columbus, Ohio",,,
@@ -477,7 +477,7 @@ Case Western Reserve,Maryland,10,13,"02/01/2025, 08:00",Pool A,Final
 Duke,Case Western Reserve,13,11,"02/01/2025, 09:45",Pool A,Final
 Duke,Maryland,8,13,"02/01/2025, 11:30",Pool A,Final
 North Carolina,Maryland,13,2,"02/01/2025, 13:15",Pool A,Final
-North Carolina,Case Western Reserve,0,0,"02/01/2025, 15:00",Pool A,Scheduled
+North Carolina,Case Western Reserve,13,8,"02/01/2025, 15:00",Pool A,Final
 pool,Pool B
 Georgia Tech,Virginia,10,13,"02/01/2025, 08:00",Pool B,Final
 Elon,Georgetown,13,10,"02/01/2025, 08:00",Pool B,Final
@@ -491,7 +491,7 @@ North Carolina-Wilmington,Appalachian State,13,7,"02/01/2025, 09:45",Pool C,Fina
 Ohio State,South Carolina,10,13,"02/01/2025, 09:45",Pool C,Final
 North Carolina-Wilmington,Ohio State,13,8,"02/01/2025, 11:30",Pool C,Final
 North Carolina-Wilmington,South Carolina,10,13,"02/01/2025, 13:15",Pool C,Final
-South Carolina,Appalachian State,13,10,"02/01/2025, 15:00",Pool C,Scheduled
+South Carolina,Appalachian State,13,10,"02/01/2025, 15:00",Pool C,Final
 pool,Pool D
 North Carolina-Charlotte,Carleton College,13,11,"02/01/2025, 08:00",Pool D,Final
 North Carolina State,Temple,13,9,"02/01/2025, 09:45",Pool D,Final
@@ -502,12 +502,20 @@ Temple,Carleton College,9,13,"02/01/2025, 15:00",Pool D,Final
 b,r,e,a,k
 brackets,1st Place Bracket
 bracket,1st Place Bracket
+North Carolina,Georgia Tech,0,0,"02/02/2025, 11:30",Quarterfinals,Scheduled
+North Carolina State,North Carolina-Wilmington,0,0,"02/02/2025, 09:45",Quarterfinals,Scheduled
+South Carolina,North Carolina-Charlotte,0,0,"02/02/2025, 09:45",Quarterfinals,Scheduled
+Virginia,Maryland,0,0,"02/02/2025, 11:30",Quarterfinals,Scheduled
 bracket,3rd Place Bracket
 bracket,5th Place Brakcet
 bracket,7th Place Bracket
 b,r,e,a,k
 brackets,9th Place Bracket
 bracket,9th Place Bracket
+Duke,Georgetown,0,0,"02/02/2025, 08:00",9th Place Quarterfinals,Scheduled
+Ohio State,Temple,0,0,"02/02/2025, 08:00",9th Place Quarterfinals,Scheduled
+Case Western Reserve,Elon,0,0,"02/02/2025, 08:00",9th Place Quarterfinals,Scheduled
+Appalachian State,Carleton College,0,0,"02/02/2025, 08:00",9th Place Quarterfinals,Scheduled
 bracket,11th Place Bracket
 bracket,13th Place Bracket
 bracket,15th Place Bracket
