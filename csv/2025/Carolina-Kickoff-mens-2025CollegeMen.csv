@@ -246,36 +246,6 @@ teamInfo,Justice,"Washington, District of Columbia",https://www.georgetownultima
 84,Isaac Hawkins
 88,David Song
 b,r,e,a,k
-South Carolina,10
-teamInfo,Gamecock Ultimate,"Columbia, South Carolina",https://garnetgate.sa.sc.edu/organization/ufrisb,https://facebook.com/GamecockUltimate/,https://twitter.com/CocksUltimate
-0,Jack Wilson
-1,Caspar Tarr
-2,Michael Ziehl
-3,Gavin Russell
-4,Nicholas Lopez
-5,Jacob McClary
-6,Thomas Atkinson
-7,Colin Schmidt
-9,Thomas Davidson
-11,Aidan Sauls
-11,Ethan Johnson
-15,Koen Reiter
-16,Josiah Hartman
-21,Michael Cote
-22,Evan Pellegrino
-23,Allen Meese
-25,Connor Kitley
-26,Owen Pellegrino
-28,David Olsen
-31,Aidan Tomsik
-38,Evan Sanderson
-45,Benjamin Kaiser
-48,Charlie Lewin
-52,Tyler Catton
-73,Ethan Ho 
-83,Nate Reiss
-86,Brad Thomson
-b,r,e,a,k
 North Carolina-Wilmington,3
 teamInfo,Seamen,"Wilmington, North Carolina",http://seamenultimate.com/,https://www.facebook.com/seamenultimate,https://twitter.com/seamenultimate
 coaches,Colin Hines
@@ -305,6 +275,36 @@ coaches,Colin Hines
 11,Atharv Patil
 16,Busbee Pace
 97,Pablo Velosa
+b,r,e,a,k
+South Carolina,10
+teamInfo,Gamecock Ultimate,"Columbia, South Carolina",https://garnetgate.sa.sc.edu/organization/ufrisb,https://facebook.com/GamecockUltimate/,https://twitter.com/CocksUltimate
+0,Jack Wilson
+1,Caspar Tarr
+2,Michael Ziehl
+3,Gavin Russell
+4,Nicholas Lopez
+5,Jacob McClary
+6,Thomas Atkinson
+7,Colin Schmidt
+9,Thomas Davidson
+11,Aidan Sauls
+11,Ethan Johnson
+15,Koen Reiter
+16,Josiah Hartman
+21,Michael Cote
+22,Evan Pellegrino
+23,Allen Meese
+25,Connor Kitley
+26,Owen Pellegrino
+28,David Olsen
+31,Aidan Tomsik
+38,Evan Sanderson
+45,Benjamin Kaiser
+48,Charlie Lewin
+52,Tyler Catton
+73,Ethan Ho 
+83,Nate Reiss
+86,Brad Thomson
 b,r,e,a,k
 Ohio State,6
 teamInfo,Leadbelly,"Columbus, Ohio",,,
@@ -418,26 +418,6 @@ teamInfo,Charlotte Skyrise,"Charlotte, North Carolina",,https://www.facebook.com
 88,Griffin Thomas
 92,Sean Kiser
 b,r,e,a,k
-Temple,9
-teamInfo,Alert,"Philadelphia, Pennsylvania",,,https://twitter.com/templeultimatem
-0,Ben Bruzek
-0,Colin Clapper
-0,Daniel Zimmer
-0,Faron Connelly
-0,Jack Monte
-0,John Currie
-0,Joseph Meixler
-0,Joseph Pimble
-0,Kye Haniph
-0,Nicholas Railey
-8,Jackson Duncan
-12,Nicholas Alexander
-15,Eli Greenstein
-27,Miguel Romero-Stevenson
-43,Lucas Oberholtzer Hess
-44,Massin Larbi
-96,Jacob Prunes
-b,r,e,a,k
 Carleton College,16
 teamInfo,Carleton House of Pancakes,"Northfield, Minnesota",https://apps.carleton.edu/student/orgs/gop/,,https://twitter.com/chop_rocks
 coaches,Matt Forster,Michael Massad
@@ -469,6 +449,26 @@ coaches,Matt Forster,Michael Massad
 88,Brendan Banfield
 96,Isaiah Irwin
 b,r,e,a,k
+Temple,9
+teamInfo,Alert,"Philadelphia, Pennsylvania",,,https://twitter.com/templeultimatem
+0,Ben Bruzek
+0,Colin Clapper
+0,Daniel Zimmer
+0,Faron Connelly
+0,Jack Monte
+0,John Currie
+0,Joseph Meixler
+0,Joseph Pimble
+0,Kye Haniph
+0,Nicholas Railey
+8,Jackson Duncan
+12,Nicholas Alexander
+15,Eli Greenstein
+27,Miguel Romero-Stevenson
+43,Lucas Oberholtzer Hess
+44,Massin Larbi
+96,Jacob Prunes
+b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
@@ -489,15 +489,15 @@ pool,Pool C
 Ohio State,Appalachian State,13,10,"02/01/2025, 08:00",Pool C,Final
 North Carolina-Wilmington,Appalachian State,13,7,"02/01/2025, 09:45",Pool C,Final
 Ohio State,South Carolina,10,13,"02/01/2025, 09:45",Pool C,Final
-North Carolina-Wilmington,Ohio State,0,0,"02/01/2025, 11:30",Pool C,Scheduled
-North Carolina-Wilmington,South Carolina,10,13,"02/01/2025, 13:15",Pool C,Scheduled
+North Carolina-Wilmington,Ohio State,13,8,"02/01/2025, 11:30",Pool C,Final
+North Carolina-Wilmington,South Carolina,10,13,"02/01/2025, 13:15",Pool C,Final
 South Carolina,Appalachian State,0,0,"02/01/2025, 15:00",Pool C,Scheduled
 pool,Pool D
 North Carolina-Charlotte,Carleton College,13,11,"02/01/2025, 08:00",Pool D,Final
 North Carolina State,Temple,13,9,"02/01/2025, 09:45",Pool D,Final
 North Carolina State,Carleton College,13,11,"02/01/2025, 11:30",Pool D,Final
-North Carolina-Charlotte,Temple,13,8,"02/01/2025, 11:30",Pool D,Scheduled
-North Carolina State,North Carolina-Charlotte,0,0,"02/01/2025, 13:15",Pool D,Scheduled
+North Carolina-Charlotte,Temple,13,8,"02/01/2025, 11:30",Pool D,Final
+North Carolina State,North Carolina-Charlotte,13,11,"02/01/2025, 13:15",Pool D,Final
 Temple,Carleton College,0,0,"02/01/2025, 15:00",Pool D,Scheduled
 b,r,e,a,k
 brackets,1st Place Bracket
