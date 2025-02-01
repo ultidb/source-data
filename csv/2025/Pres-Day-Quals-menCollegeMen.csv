@@ -27,24 +27,6 @@ coaches,Christian Cortes
 40,Alex Storrer
 88,Shiley Einav
 b,r,e,a,k
-Cal Poly-CCWR,16
-teamInfo,CCWR,"San Luis Obispo, California",,,
-00,Ari Pincus
-00,Benson Cady
-00,Cody  Leveau 
-00,Dakota Chou
-00,Hayden King
-00,Ian Ang
-00,Ian Spick
-00,Kole Ketner
-00,Malachi Merriam
-00,Marley Sussman
-00,Martin  Doherty
-00,Micah Fong
-00,Nico Laurenson
-00,Oliver Faase
-00,Owen Gresko
-b,r,e,a,k
 California (B),8
 teamInfo,Ursa Minor,"Berkeley, California",,,
 0,Aarush Panda
@@ -71,6 +53,24 @@ teamInfo,Ursa Minor,"Berkeley, California",,,
 81,Dylan Miller
 96,Sriram Sridhar
 99,William Tang
+b,r,e,a,k
+Cal Poly-CCWR,16
+teamInfo,CCWR,"San Luis Obispo, California",,,
+00,Ari Pincus
+00,Benson Cady
+00,Cody  Leveau 
+00,Dakota Chou
+00,Hayden King
+00,Ian Ang
+00,Ian Spick
+00,Kole Ketner
+00,Malachi Merriam
+00,Marley Sussman
+00,Martin  Doherty
+00,Micah Fong
+00,Nico Laurenson
+00,Oliver Faase
+00,Owen Gresko
 b,r,e,a,k
 California-Davis,9
 teamInfo,Davis Dogs,"Davis, California",https://davisdogsultimate.weebly.com/,,https://www.instagram.com/davisdogsultimate/
@@ -192,39 +192,6 @@ teamInfo,Air Squids LITE,"San Diego, California",,,
 24,Eric Tran
 68,Vivek Gadicherla
 b,r,e,a,k
-Santa Clara,6
-teamInfo,SCAB,"Santa Clara, California",,,https://twitter.com/SCABUltiFris
-0,Alexander Von Banck
-0,Andrew Kimball
-0,Daniel Gerregano
-0,Eli Filner-Hutchison
-0,Jacob Salazar
-0,Johnathon Dickey
-0,Jordan Wong
-0,Kyle Forrest
-0,Liam Reese
-0,Lucas Woodman
-0,Luis Zamudio
-0,Michael Cooper
-0,Nick Grace
-0,Owen Duffy
-0,Pablo Jonsson
-0,Peter Sandberg
-0,Joshua Colleran
-2,Kieran Greeley
-13,Andrew Minocha
-17,James Freeman
-18,Agustin Pace
-22,Rowan Olds
-24,Daniel Flores
-27,Josh Spagnola
-27,Jonah Engelmann
-31,Will DeGasparis
-33,Ambrose Vellequette
-37,Holden Abramonte
-44,Brendan Jones
-88,Declan Lavery
-b,r,e,a,k
 Southern California,3
 teamInfo,USC Lockdown,"Los Angeles, California",https://www.uscmensultimate.org/,https://www.facebook.com/uscmensultimate/,https://www.twitter.com/uscmensultimate/
 0,Akilesh Swamy
@@ -259,6 +226,39 @@ teamInfo,USC Lockdown,"Los Angeles, California",https://www.uscmensultimate.org/
 28,Quinn Booth
 30,Daniel Li
 77,Clay Kaufman
+b,r,e,a,k
+Santa Clara,6
+teamInfo,SCAB,"Santa Clara, California",,,https://twitter.com/SCABUltiFris
+0,Alexander Von Banck
+0,Andrew Kimball
+0,Daniel Gerregano
+0,Eli Filner-Hutchison
+0,Jacob Salazar
+0,Johnathon Dickey
+0,Jordan Wong
+0,Kyle Forrest
+0,Liam Reese
+0,Lucas Woodman
+0,Luis Zamudio
+0,Michael Cooper
+0,Nick Grace
+0,Owen Duffy
+0,Pablo Jonsson
+0,Peter Sandberg
+0,Joshua Colleran
+2,Kieran Greeley
+13,Andrew Minocha
+17,James Freeman
+18,Agustin Pace
+22,Rowan Olds
+24,Daniel Flores
+27,Josh Spagnola
+27,Jonah Engelmann
+31,Will DeGasparis
+33,Ambrose Vellequette
+37,Holden Abramonte
+44,Brendan Jones
+88,Declan Lavery
 b,r,e,a,k
 California-Santa Barbara (B),11
 teamInfo,Black Out,"Santa Barbara, California",,https://www.facebook.com/black.tide.50?fref=ts,https://twitter.com/UCSB_Ultimate
@@ -378,9 +378,9 @@ pools,Pool Play
 pool,Pool A
 Stanford,Cal Poly-CCWR,13,12,"02/01/2025, 09:00",Pool A,Final
 Stanford,California-Davis,13,7,"02/01/2025, 10:40",Pool A,Final
-California (B),Cal Poly-CCWR,0,0,"02/01/2025, 10:40",Pool A,Scheduled
-Stanford,California (B),0,0,"02/01/2025, 12:20",Pool A,Scheduled
-California-Davis,Cal Poly-CCWR,2,13,"02/01/2025, 12:20",Pool A,Final
+California (B),Cal Poly-CCWR,13,2,"02/01/2025, 10:40",Pool A,Final
+Stanford,California (B),13,4,"02/01/2025, 12:20",Pool A,Final
+California-Davis,Cal Poly-CCWR,1,13,"02/01/2025, 12:20",Pool A,Final
 California (B),California-Davis,0,0,"02/01/2025, 14:00",Pool A,Scheduled
 pool,Pool B
 Grand Canyon,Cal Poly-SLO (C),13,4,"02/01/2025, 09:00",Pool B,Final
@@ -394,7 +394,7 @@ Southern California,Cal Poly-Pomona,13,5,"02/01/2025, 09:00",Pool C,Final
 Santa Clara,California-Santa Barbara (B),12,5,"02/01/2025, 09:00",Pool C,Final
 Southern California,California-Santa Barbara (B),0,0,"02/01/2025, 10:40",Pool C,Scheduled
 Santa Clara,Cal Poly-Pomona,13,7,"02/01/2025, 10:40",Pool C,Final
-Southern California,Santa Clara,0,0,"02/01/2025, 12:20",Pool C,Scheduled
+Southern California,Santa Clara,13,5,"02/01/2025, 12:20",Pool C,Final
 California-Santa Barbara (B),Cal Poly-Pomona,0,0,"02/01/2025, 12:20",Pool C,Scheduled
 pool,Pool D
 Cal Poly-SLO (B),San Diego State (B),13,2,"02/01/2025, 09:00",Pool D,Final
