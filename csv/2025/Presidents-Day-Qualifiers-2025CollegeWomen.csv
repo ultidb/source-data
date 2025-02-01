@@ -27,6 +27,28 @@ coaches,Malia Smith
 48,Anneliese Phillips
 95,Isabelle Germain
 b,r,e,a,k
+Arizona,4
+teamInfo,Scorch,"Tucson, Arizona",http://scorchultimate.weebly.com,https://www.facebook.com/ArizonaScorchUltimate,https://twitter.com/Scorchapolis
+0,Ava Haines
+0,Chaucer Langbert
+0,Claire Cipolla
+0,Elysia Bottcher
+0,Heather Broyles
+0,Mackenzie Gist
+0,Mariel Howe
+0,Ruby Baldwin
+0,Scarlet Becker
+0,Sydney Wooldridge
+0,Tayler John
+0,Kelsie Wallace
+1,Jade Mayo
+4,Anna Ruprecht
+7,Brittany Grantham
+12,Delaney Chenevert
+16,Lauren Anderson
+22,Katelynn Carroll
+42,Violet Letendre
+b,r,e,a,k
 California-San Diego (B),5
 teamInfo,UC San Diego Berserk Coalition,"La Jolla, California",https://recreation.ucsd.edu/competitive-sports/teams/w-ultimate/,,
 0,Alison Lin
@@ -61,44 +83,6 @@ teamInfo,UC San Diego Berserk Coalition,"La Jolla, California",https://recreatio
 91,Skye Baesen
 93,MaryClare Kinsella
 b,r,e,a,k
-Arizona,4
-teamInfo,Scorch,"Tucson, Arizona",http://scorchultimate.weebly.com,https://www.facebook.com/ArizonaScorchUltimate,https://twitter.com/Scorchapolis
-0,Ava Haines
-0,Chaucer Langbert
-0,Claire Cipolla
-0,Elysia Bottcher
-0,Heather Broyles
-0,Mackenzie Gist
-0,Mariel Howe
-0,Ruby Baldwin
-0,Scarlet Becker
-0,Sydney Wooldridge
-0,Tayler John
-0,Kelsie Wallace
-1,Jade Mayo
-4,Anna Ruprecht
-7,Brittany Grantham
-12,Delaney Chenevert
-16,Lauren Anderson
-22,Katelynn Carroll
-42,Violet Letendre
-b,r,e,a,k
-Cal State-Long Beach,8
-teamInfo,No Regrets,"Long Beach, California",,,
-03,Ella Stiger
-04,Amy Kim
-06,Melani Garcia Macias 
-08,Clarissa Hoffas
-11,Molly Goheen
-12,Petrina GIlardi
-13,Yvonne Hughes
-17,Summer Phillips
-20,Serra Arensdorf
-22,Kendall Miller
-26,Rory Ferrara
-30,Gwen Ysabelle Briones
-33,Isabella Story
-b,r,e,a,k
 UCLA (B),9
 teamInfo,UCLA Midas,"Los Angeles, California",,,https://twitter.com/uclamidas
 0,Ashley Posch
@@ -125,6 +109,22 @@ teamInfo,UCLA Midas,"Los Angeles, California",,,https://twitter.com/uclamidas
 19,Alissa Pfeffer
 29,Georgia Salcau
 80,Andrea Zayas Conner
+b,r,e,a,k
+Cal State-Long Beach,8
+teamInfo,No Regrets,"Long Beach, California",,,
+03,Ella Stiger
+04,Amy Kim
+06,Melani Garcia Macias 
+08,Clarissa Hoffas
+11,Molly Goheen
+12,Petrina GIlardi
+13,Yvonne Hughes
+17,Summer Phillips
+20,Serra Arensdorf
+22,Kendall Miller
+26,Rory Ferrara
+30,Gwen Ysabelle Briones
+33,Isabella Story
 b,r,e,a,k
 California,2
 teamInfo,Pie Queens,"Berkeley, California",http://www.piequeens.org,https://www.facebook.com/piequeensultimate,https://www.twitter.com/piequeens
@@ -254,7 +254,7 @@ pool,Pool A
 UCLA,UCLA (B),13,2,"02/01/2025, 09:00",Pool A,Final
 California-San Diego (B),Cal State-Long Beach,10,2,"02/01/2025, 09:00",Pool A,Final
 UCLA,California-San Diego (B),13,0,"02/01/2025, 10:20",Pool A,Final
-Arizona,Cal State-Long Beach,0,0,"02/01/2025, 10:20",Pool A,Scheduled
+Arizona,Cal State-Long Beach,8,4,"02/01/2025, 10:20",Pool A,Final
 Cal State-Long Beach,UCLA (B),0,0,"02/01/2025, 11:40",Pool A,Scheduled
 Arizona,California-San Diego (B),0,0,"02/01/2025, 11:40",Pool A,Scheduled
 UCLA,Cal State-Long Beach,0,0,"02/01/2025, 13:00",Pool A,Scheduled
@@ -264,7 +264,7 @@ California-San Diego (B),UCLA (B),0,0,"02/01/2025, 14:20",Pool A,Scheduled
 pool,Pool B
 California,California-San Diego (C),13,0,"02/01/2025, 09:00",Pool B,Final
 California-Irvine,Arizona State,11,3,"02/01/2025, 09:00",Pool B,Final
-California,California-Irvine,0,0,"02/01/2025, 10:20",Pool B,Scheduled
+California,California-Irvine,7,6,"02/01/2025, 10:20",Pool B,Final
 Cal Poly-SLO,Arizona State,0,0,"02/01/2025, 10:20",Pool B,Scheduled
 Arizona State,California-San Diego (C),0,0,"02/01/2025, 11:40",Pool B,Scheduled
 Cal Poly-SLO,California-Irvine,0,0,"02/01/2025, 11:40",Pool B,Scheduled
