@@ -100,27 +100,6 @@ teamInfo,Davis Dogs,"Davis, California",https://davisdogsultimate.weebly.com/,,h
 85,Kaden Brownie
 92,Naveed Jones
 b,r,e,a,k
-UCLA (B),7
-teamInfo,UCLA Smoke,"Los Angeles, California",http://www.uclaclubsports.com/index.aspx?path=muf,https://www.facebook.com/UclaSmaugUltimate,https://x.com/UltimateSmoke
-0,Joshua Jin
-0,Kyle Ouyang
-0,Luca De angelis
-0,Nathan Rifkin
-0,Oliver Pan
-0,Porfirio Mendes
-0,Ronan Ereneta
-0,Vaughn Culler
-0,Aidan Levy
-0,Chengyuan Li
-0,Danyang Wang
-0,Jacob Wallis
-7,Zi Wang
-10,Vivek Punn
-13,Chanakya Gidipally
-18,Billy Peir
-40,Jonas Holdaway
-84,Henrik Zhang
-b,r,e,a,k
 Grand Canyon,2
 teamInfo,Lopes,"Phoenix, Arizona",https://clubsports.gcu.edu/club-sports/ultimate-frisbee/,https://www.facebook.com/gculopesultimate/,https://twitter.com/GCUUltimate
 0,Admiral O’Reilly
@@ -143,6 +122,50 @@ teamInfo,Lopes,"Phoenix, Arizona",https://clubsports.gcu.edu/club-sports/ultimat
 20,Cael Kubly
 29,Everitt Meer
 33,Jonah  Rominski
+b,r,e,a,k
+UCLA (B),7
+teamInfo,UCLA Smoke,"Los Angeles, California",http://www.uclaclubsports.com/index.aspx?path=muf,https://www.facebook.com/UclaSmaugUltimate,https://x.com/UltimateSmoke
+0,Joshua Jin
+0,Kyle Ouyang
+0,Luca De angelis
+0,Nathan Rifkin
+0,Oliver Pan
+0,Porfirio Mendes
+0,Ronan Ereneta
+0,Vaughn Culler
+0,Aidan Levy
+0,Chengyuan Li
+0,Danyang Wang
+0,Jacob Wallis
+7,Zi Wang
+10,Vivek Punn
+13,Chanakya Gidipally
+18,Billy Peir
+40,Jonas Holdaway
+84,Henrik Zhang
+b,r,e,a,k
+Cal Poly-SLO (C),15
+teamInfo,SLOC,"San Luis Obispo, California",,,
+0,Aum Shah
+0,Beau Usry
+0,Caleb Rosen
+0,Erik Swanson
+0,Henry Frierson
+0,Jay Tugend
+0,Luca Perri
+0,Mackenzie Stogner
+0,Mason Mikeska
+0,Mason James
+0,Matthew Cromaz
+0,Matthew Chak
+0,Miles Stoddard
+0,Owen  Lutz
+0,Parker Long
+0,Paul Nassar
+0,Philippe Bakhirev
+0,Zach Kwast
+88,Alex Herman
+90,Ty Soria
 b,r,e,a,k
 California-San Diego (B),10
 teamInfo,Air Squids LITE,"San Diego, California",,,
@@ -168,29 +191,6 @@ teamInfo,Air Squids LITE,"San Diego, California",,,
 16,Akhil Subbarao
 24,Eric Tran
 68,Vivek Gadicherla
-b,r,e,a,k
-Cal Poly-SLO (C),15
-teamInfo,SLOC,"San Luis Obispo, California",,,
-0,Aum Shah
-0,Beau Usry
-0,Caleb Rosen
-0,Erik Swanson
-0,Henry Frierson
-0,Jay Tugend
-0,Luca Perri
-0,Mackenzie Stogner
-0,Mason Mikeska
-0,Mason James
-0,Matthew Cromaz
-0,Matthew Chak
-0,Miles Stoddard
-0,Owen  Lutz
-0,Parker Long
-0,Paul Nassar
-0,Philippe Bakhirev
-0,Zach Kwast
-88,Alex Herman
-90,Ty Soria
 b,r,e,a,k
 Southern California,3
 teamInfo,USC Lockdown,"Los Angeles, California",https://www.uscmensultimate.org/,https://www.facebook.com/uscmensultimate/,https://www.twitter.com/uscmensultimate/
@@ -288,6 +288,24 @@ teamInfo,Cow Ultimate,"Pomona, California",,https://www.facebook.com/CPPUltimate
 14,Quentin Van Landeghem
 15,Alexander Lewis
 b,r,e,a,k
+California-Irvine,5
+teamInfo,Nightlife,"Irvine, California",https://www.instagram.com/nightlife_ultimate/,,
+coaches,Jacob Walsh
+4,Zachary Tanabe
+9,Pranav Thurgam
+01,Kyle Wong
+02,Cory Yonemura
+04,Sam Kennedy
+08,Alan Yuen
+10,Cameron Horne
+14,Trevor Walker
+20,Brady Cason
+23,Ben Schroeder
+28,Nathan Leslie
+36,Cheng-Yu Liu
+66,Kanle Yao
+77,Tristan Pederson
+b,r,e,a,k
 Cal Poly-SLO (B),4
 teamInfo,SLOB,"San Luis Obispo, California",,,
 0,Ari Dean
@@ -307,24 +325,6 @@ teamInfo,SLOB,"San Luis Obispo, California",,,
 28,Wyatt Barnes
 30,Joe Chiappetta
 99,Owen Peay
-b,r,e,a,k
-California-Irvine,5
-teamInfo,Nightlife,"Irvine, California",https://www.instagram.com/nightlife_ultimate/,,
-coaches,Jacob Walsh
-4,Zachary Tanabe
-9,Pranav Thurgam
-01,Kyle Wong
-02,Cory Yonemura
-04,Sam Kennedy
-08,Alan Yuen
-10,Cameron Horne
-14,Trevor Walker
-20,Brady Cason
-23,Ben Schroeder
-28,Nathan Leslie
-36,Cheng-Yu Liu
-66,Kanle Yao
-77,Tristan Pederson
 b,r,e,a,k
 California-Santa Cruz (B),12
 teamInfo,Ooze,"Santa Cruz, California",,,
@@ -385,7 +385,7 @@ California (B),California-Davis,0,0,"02/01/2025, 14:00",Pool A,Scheduled
 pool,Pool B
 Grand Canyon,Cal Poly-SLO (C),13,4,"02/01/2025, 09:00",Pool B,Final
 UCLA (B),California-San Diego (B),13,8,"02/01/2025, 09:00",Pool B,Final
-Grand Canyon,California-San Diego (B),0,0,"02/01/2025, 10:40",Pool B,Scheduled
+Grand Canyon,California-San Diego (B),13,2,"02/01/2025, 10:40",Pool B,Final
 UCLA (B),Cal Poly-SLO (C),13,7,"02/01/2025, 10:40",Pool B,Final
 Grand Canyon,UCLA (B),0,0,"02/01/2025, 12:20",Pool B,Scheduled
 California-San Diego (B),Cal Poly-SLO (C),0,0,"02/01/2025, 12:20",Pool B,Scheduled
@@ -399,8 +399,8 @@ California-Santa Barbara (B),Cal Poly-Pomona,0,0,"02/01/2025, 12:20",Pool C,Sche
 pool,Pool D
 Cal Poly-SLO (B),San Diego State (B),13,2,"02/01/2025, 09:00",Pool D,Final
 California-Irvine,California-Santa Cruz (B),13,8,"02/01/2025, 09:00",Pool D,Final
-Cal Poly-SLO (B),California-Santa Cruz (B),0,0,"02/01/2025, 10:40",Pool D,Scheduled
-California-Irvine,San Diego State (B),0,0,"02/01/2025, 10:40",Pool D,Scheduled
+Cal Poly-SLO (B),California-Santa Cruz (B),10,8,"02/01/2025, 10:40",Pool D,Final
+California-Irvine,San Diego State (B),13,2,"02/01/2025, 10:40",Pool D,Final
 Cal Poly-SLO (B),California-Irvine,0,0,"02/01/2025, 14:00",Pool D,Scheduled
 California-Santa Cruz (B),San Diego State (B),0,0,"02/01/2025, 14:00",Pool D,Scheduled
 b,r,e,a,k
