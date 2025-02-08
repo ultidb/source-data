@@ -269,6 +269,31 @@ teamInfo,SIEGE,"Edwardsville, Illinois",,,
 30,Jesse Zawitkowski
 88,Sam Dawson
 b,r,e,a,k
+Kennesaw State,9
+teamInfo,Parliament,"Kennesaw, Georgia",,,
+0,Bobby Burns
+0,Chase Miller
+0,Chester  Gregg 
+0,Christian Thomas
+0,Evan Burnley
+0,George Bennett Clark
+0,Grady Freeman
+0,Holden Brookshire
+0,Jack Stark
+0,Jamie Gruwell
+0,Andrew Giacalone
+0,Kishan Patel
+0,Nathaniel O'Neill
+0,Ryan Dees
+0,Sage Good
+0,Will Roberts
+2,Michael Faress
+17,Alec Whitaker
+19,Jonathan Bell
+22,Benjamin Burchett
+27,Mason Myler
+44,Deuce Bridges
+b,r,e,a,k
 Vanderbilt,4
 teamInfo,Armada,"Nashville, Tennessee",https://vanderbiltultimate.github.io/,,https://twitter.com/VUarmada
 01,Brinnan Smith
@@ -298,31 +323,6 @@ teamInfo,Armada,"Nashville, Tennessee",https://vanderbiltultimate.github.io/,,ht
 98,YuXiang Lu
 99,Andrew Overdeck
 b,r,e,a,k
-Kennesaw State,9
-teamInfo,Parliament,"Kennesaw, Georgia",,,
-0,Bobby Burns
-0,Chase Miller
-0,Chester  Gregg 
-0,Christian Thomas
-0,Evan Burnley
-0,George Bennett Clark
-0,Grady Freeman
-0,Holden Brookshire
-0,Jack Stark
-0,Jamie Gruwell
-0,Andrew Giacalone
-0,Kishan Patel
-0,Nathaniel O'Neill
-0,Ryan Dees
-0,Sage Good
-0,Will Roberts
-2,Michael Faress
-17,Alec Whitaker
-19,Jonathan Bell
-22,Benjamin Burchett
-27,Mason Myler
-44,Deuce Bridges
-b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
@@ -331,7 +331,7 @@ Missouri S&T,Mississippi State (B),13,2,"02/08/2025, 09:00",Pool A,Final
 Berry,Mississippi State (B),13,2,"02/08/2025, 10:45",Pool A,Final
 Missouri S&T,Tennessee Tech,13,2,"02/08/2025, 10:45",Pool A,Final
 Berry,Missouri S&T,11,13,"02/08/2025, 12:30",Pool A,Final
-Tennessee Tech,Mississippi State (B),0,0,"02/08/2025, 12:30",Pool A,Scheduled
+Tennessee Tech,Mississippi State (B),10,9,"02/08/2025, 12:30",Pool A,Final
 pool,Pool B
 Mississippi State,Lipscomb University,13,11,"02/08/2025, 09:00",Pool B,Final
 Saint Louis,Harding,13,7,"02/08/2025, 09:00",Pool B,Final
@@ -342,9 +342,9 @@ Lipscomb University,Harding,13,5,"02/08/2025, 12:30",Pool B,Final
 pool,Pool C
 Clemson,Union (Tennessee),13,12,"02/08/2025, 09:00",Pool C,Final
 Indiana,Union (Tennessee),12,9,"02/08/2025, 10:45",Pool C,Final
-Indiana,Clemson,0,0,"02/08/2025, 12:30",Pool C,Scheduled
+Indiana,Clemson,13,7,"02/08/2025, 12:30",Pool C,Final
 pool,Pool D
-Vanderbilt,Kennesaw State,0,0,"02/08/2025, 09:00",Pool D,Scheduled
+Vanderbilt,Kennesaw State,7,12,"02/08/2025, 09:00",Pool D,Final
 Southern Illinois-Edwardsville,Kennesaw State,13,8,"02/08/2025, 10:45",Pool D,Final
 Vanderbilt,Southern Illinois-Edwardsville,9,13,"02/08/2025, 12:30",Pool D,Final
 b,r,e,a,k
@@ -352,9 +352,14 @@ clusters,Crossover Pool
 cluster,Crossover 1
 Indiana,Southern Illinois-Edwardsville,13,11,"02/08/2025, 09:00",,Final
 Vanderbilt,Clemson,0,0,"02/08/2025, 10:45",,Scheduled
-Union (Tennessee),Kennesaw State,0,0,"02/08/2025, 12:30",,Scheduled
+Union (Tennessee),Kennesaw State,11,9,"02/08/2025, 12:30",,Final
 b,r,e,a,k
 clusters,Pre-Quarters Crossover
+cluster,Pre-Quarters Crossover
+Berry,Vanderbilt,0,0,"02/08/2025, 14:15",,Scheduled
+Lipscomb University,Union (Tennessee),0,0,"02/08/2025, 14:15",,Scheduled
+Clemson,Saint Louis,0,0,"02/08/2025, 14:15",,Scheduled
+Kennesaw State,Tennessee Tech,0,0,"02/08/2025, 14:15",,Scheduled
 b,r,e,a,k
 brackets,Bracket Play
 bracket,Championship Bracket
@@ -364,4 +369,5 @@ bracket,7th Place Bracket
 b,r,e,a,k
 pools,Consolation Pool
 pool,Pool E
+Mississippi State (B),Harding,0,0,"02/09/2025, 10:00",Pool E,Scheduled
 b,r,e,a,k
