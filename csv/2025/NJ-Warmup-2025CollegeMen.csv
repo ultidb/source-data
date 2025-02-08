@@ -28,6 +28,31 @@ teamInfo,UConn Huskies,"Storrs, Connecticut",https://www.instagram.com/uconnulti
 6,Ryan Miller
 20,Joshua Kaplan
 b,r,e,a,k
+Pennsylvania,1
+teamInfo,Void,"Philadelphia, Pennsylvania",https://groups.universitylife.upenn.edu/ultimate/,https://www.facebook.com/groups/2200077065/,https://twitter.com/VoidUltimate
+0,Benjamin Bergerson
+0,Cole Woodward
+0,Conner Meidt
+0,David Arroyo
+0,Ethan Dong
+0,Evan Jones
+0,Gregory Gabelus
+0,Jonathan Melitski
+0,Junyi Xin
+0,Luke Meyer
+0,Ajay Sheth
+0,Max Gombiner
+0,Maxwell Tran
+0,Nikhil Grobes
+0,Ricky Wang-Polendo
+0,Robert Spinnler
+0,Zach Wang
+0,Zachary Leong
+2,Max Chen
+25,Alan Wu
+91,Luke Neale
+99,Max Chen Huang
+b,r,e,a,k
 Syracuse,5
 teamInfo,Doom,"Syracuse, New York",,,
 0,John Vanderwege
@@ -55,31 +80,6 @@ teamInfo,Doom,"Syracuse, New York",,,
 00,Grady Bosch
 00,Griffin Spear
 07,James Tibolla
-b,r,e,a,k
-Pennsylvania,1
-teamInfo,Void,"Philadelphia, Pennsylvania",https://groups.universitylife.upenn.edu/ultimate/,https://www.facebook.com/groups/2200077065/,https://twitter.com/VoidUltimate
-0,Benjamin Bergerson
-0,Cole Woodward
-0,Conner Meidt
-0,David Arroyo
-0,Ethan Dong
-0,Evan Jones
-0,Gregory Gabelus
-0,Jonathan Melitski
-0,Junyi Xin
-0,Luke Meyer
-0,Ajay Sheth
-0,Max Gombiner
-0,Maxwell Tran
-0,Nikhil Grobes
-0,Ricky Wang-Polendo
-0,Robert Spinnler
-0,Zach Wang
-0,Zachary Leong
-2,Max Chen
-25,Alan Wu
-91,Luke Neale
-99,Max Chen Huang
 b,r,e,a,k
 NYU,8
 teamInfo,New York University,"New York, New York",,https://www.facebook.com/nyuhaze,https://twitter.com/NYUpurplehaze
@@ -193,12 +193,12 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
-Pennsylvania,Syracuse,0,0,"02/08/2025, 09:00",Pool A,Scheduled
+Pennsylvania,Syracuse,11,12,"02/08/2025, 09:00",Pool A,Final
 Connecticut,NYU,11,5,"02/08/2025, 09:00",Pool A,Final
-Pennsylvania,NYU,0,0,"02/08/2025, 10:40",Pool A,Scheduled
+Pennsylvania,NYU,13,4,"02/08/2025, 10:40",Pool A,Final
 Connecticut,Syracuse,11,10,"02/08/2025, 10:40",Pool A,Final
 Pennsylvania,Connecticut,8,9,"02/08/2025, 12:20",Pool A,Final
-Syracuse,NYU,0,0,"02/08/2025, 12:20",Pool A,Scheduled
+Syracuse,NYU,9,11,"02/08/2025, 12:20",Pool A,Final
 pool,Pool B
 Princeton,Rutgers,12,11,"02/08/2025, 09:00",Pool B,Final
 Lehigh,Columbia,10,11,"02/08/2025, 09:00",Pool B,Final
@@ -209,6 +209,10 @@ Rutgers,Columbia,8,11,"02/08/2025, 12:20",Pool B,Final
 b,r,e,a,k
 brackets,Bracket
 bracket,1st Place
+Connecticut,Columbia,0,0,"02/08/2025, 14:00",Quarters,Scheduled
+Syracuse,Lehigh,0,0,"02/08/2025, 14:00",Quarters,Scheduled
+NYU,Princeton,0,0,"02/08/2025, 14:00",Quarters,Scheduled
+Syracuse,Rutgers,0,0,"02/08/2025, 14:00",Quarters,Scheduled
 bracket,3rd Place
 bracket,5th Place
 bracket,7th Place
