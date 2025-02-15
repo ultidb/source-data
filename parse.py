@@ -533,10 +533,13 @@ def parseTournamentCalendar(html):
 
     #find specific tournament divison pages that should have teams
     for t in calendar:
-        cells = t.findAll("td")
-        city = cells[2].contents[0].strip()
-        state = cells[3].contents[0].strip()
-        dateString = cells[5].contents[0].strip()
+        try:
+            cells = t.findAll("td")
+            city = cells[2].contents[0].strip()
+            state = cells[3].contents[0].strip()
+            dateString = cells[5].contents[0].strip()
+        except Exception as e:
+            continue
 
         dates = dateString.split(" - ")
         startDate = ""
