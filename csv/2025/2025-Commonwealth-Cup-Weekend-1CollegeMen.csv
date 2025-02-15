@@ -449,9 +449,9 @@ Denver,North Carolina (B),9,6,"02/15/2025, 09:15",M POOL B,Final
 North Carolina (B),Illinois (B),9,6,"02/15/2025, 10:30",M POOL B,Final
 Denver,Ohio,7,4,"02/15/2025, 10:30",M POOL B,Final
 Elon,North Carolina (B),11,0,"02/15/2025, 11:45",M POOL B,Final
-Denver,Illinois (B),0,0,"02/15/2025, 11:45",M POOL B,Scheduled
+Denver,Illinois (B),9,3,"02/15/2025, 11:45",M POOL B,Final
 Elon,Denver,11,1,"02/15/2025, 13:00",M POOL B,Final
-Ohio,Illinois (B),0,0,"02/15/2025, 13:00",M POOL B,Scheduled
+Ohio,Illinois (B),10,3,"02/15/2025, 13:00",M POOL B,Final
 pool,M POOL C
 Davidson,Wake Forest,13,4,"02/15/2025, 08:30",M POOL C,Final
 Pittsburgh (B),Michigan (B),13,8,"02/15/2025, 08:30",M POOL C,Final
@@ -462,7 +462,16 @@ Wake Forest,Michigan (B),8,7,"02/15/2025, 11:30",M POOL C,Final
 b,r,e,a,k
 brackets,M SMITH RIVER BRACKET PLAY
 bracket,M CHAMPIONSHIP BRACKET
+Elon,Davidson,0,0,"02/16/2025, 10:30",M SEMIS,Scheduled
+Pittsburgh (B),Denver,0,0,"02/16/2025, 10:30",M SEMIS,Scheduled
 bracket,M 3RD PLACE GAME
 b,r,e,a,k
 clusters,M SMITH RIVER CONSOLATION GAMES
+cluster,M CONSOLATION GAMES
+Michigan (B),Ohio,0,0,"02/16/2025, 08:00",,Scheduled
+Wake Forest,Ohio,0,0,"02/16/2025, 09:15",,Scheduled
+Michigan (B),North Carolina (B),0,0,"02/16/2025, 10:30",,Scheduled
+Michigan (B),Illinois (B),0,0,"02/16/2025, 11:45",,Scheduled
+Wake Forest,North Carolina (B),0,0,"02/16/2025, 11:45",,Scheduled
+Wake Forest,Illinois (B),0,0,"02/16/2025, 13:00",,Scheduled
 b,r,e,a,k
