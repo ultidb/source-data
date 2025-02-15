@@ -61,6 +61,35 @@ coaches,Dan Hourigan,Timothy Bobrowski,Angela Zhu
 47,Landon Schopp
 91,Kalten Toone
 b,r,e,a,k
+California-Santa Barbara,13
+teamInfo,Black Tide,"Santa Barbara, California",,https://www.facebook.com/black.tide.50?fref=ts,https://twitter.com/UCSB_Ultimate
+0,Kaden Nguyen
+2,Derek Rojas
+4,Everett Grass
+5,Tyler Janous
+6,Colin Baylis
+9,Finn Marti
+10,Daniel Hwang
+11,Brendan McGuinness
+14,Maxwell Fong
+15,Michael Demonteverde
+17,Dakota Bonilla
+20,Lennon Brandt
+21,Steven Olson
+22,Luke Weaver
+23,Alex Cheng
+24,Austin Thornburgh
+26,Rowan King
+27,Phillip Loo
+30,Elijah Geduldig
+36,Joah Siegel
+38,Ryan Grossklaus
+42,Nathan Johnson
+55,Cameron Lay
+69,Sam Nosler
+88,John Harllee
+99,Wyatt Dunn
+b,r,e,a,k
 California-San Diego,12
 teamInfo,Air Squids,"San Diego, California",,,
 0,Aidan Reedy-Schneider
@@ -91,35 +120,6 @@ teamInfo,Air Squids,"San Diego, California",,,
 64,Nikhil Banwar
 69,Max Gibson
 69,Nadeem Kamel
-b,r,e,a,k
-California-Santa Barbara,13
-teamInfo,Black Tide,"Santa Barbara, California",,https://www.facebook.com/black.tide.50?fref=ts,https://twitter.com/UCSB_Ultimate
-0,Kaden Nguyen
-2,Derek Rojas
-4,Everett Grass
-5,Tyler Janous
-6,Colin Baylis
-9,Finn Marti
-10,Daniel Hwang
-11,Brendan McGuinness
-14,Maxwell Fong
-15,Michael Demonteverde
-17,Dakota Bonilla
-20,Lennon Brandt
-21,Steven Olson
-22,Luke Weaver
-23,Alex Cheng
-24,Austin Thornburgh
-26,Rowan King
-27,Phillip Loo
-30,Elijah Geduldig
-36,Joah Siegel
-38,Ryan Grossklaus
-42,Nathan Johnson
-55,Cameron Lay
-69,Sam Nosler
-88,John Harllee
-99,Wyatt Dunn
 b,r,e,a,k
 Colorado,2
 teamInfo,Mamabird,"Boulder, Colorado",http://www.mamabird.com/,https://www.facebook.com/University-of-Colorado-Mamabird-361160030582581,https://twitter.com/CUMamabird
@@ -470,10 +470,8 @@ pools,Saturday Pool Play
 pool,Pool A
 Oregon,California-Santa Barbara,11,6,"02/15/2025, 12:00",Pool A,Final
 Northeastern,California-San Diego,13,11,"02/15/2025, 12:00",Pool A,Final
-Oregon,California-San Diego,0,0,"02/15/2025, 13:20",Pool A,Scheduled
-Northeastern,California-Santa Barbara,0,0,"02/15/2025, 13:20",Pool A,Scheduled
 Oregon,Northeastern,10,9,"02/15/2025, 13:20",Pool A,Final
-California-San Diego,California-Santa Barbara,0,0,"02/15/2025, 13:20",Pool A,Scheduled
+California-San Diego,California-Santa Barbara,5,7,"02/15/2025, 13:20",Pool A,Final
 pool,Pool B
 Colorado,Stanford,0,0,"02/15/2025, 16:00",Pool B,Scheduled
 Victoria,UCLA,0,0,"02/15/2025, 16:00",Pool B,Scheduled
@@ -495,6 +493,9 @@ Oregon State,California-Santa Cruz,9,10,"02/15/2025, 10:40",Pool D,Final
 California,Colorado State,12,8,"02/15/2025, 10:40",Pool D,Final
 b,r,e,a,k
 clusters,Saturday Crossovers
+cluster,Saturday Crossovers
+Northeastern,California,0,0,"02/15/2025, 14:40",,Scheduled
+California-Santa Barbara,Oregon State,0,0,"02/15/2025, 14:40",,Scheduled
 b,r,e,a,k
 pools,Sunday Reshuffle 
 pool,Pool E
