@@ -432,8 +432,6 @@ California-Santa Barbara,Southern California,13,6,"02/15/2025, 09:20",Pool B,Fin
 pool,Pool C
 Stanford,Brigham Young,12,10,"02/15/2025, 08:00",Pool C,Final
 Colorado,UCLA,13,8,"02/15/2025, 09:20",Pool C,Final
-Colorado,Brigham Young,0,0,"02/15/2025, 10:40",Pool C,Scheduled
-Stanford,UCLA,0,0,"02/15/2025, 10:40",Pool C,Scheduled
 Colorado,Stanford,8,7,"02/15/2025, 10:40",Pool C,Final
 Brigham Young,UCLA,12,8,"02/15/2025, 10:40",Pool C,Final
 pool,Pool D
@@ -445,12 +443,17 @@ California-San Diego,Western Washington,0,0,"02/15/2025, 13:20",Pool D,Scheduled
 California-Santa Cruz,Texas,0,0,"02/15/2025, 13:20",Pool D,Scheduled
 b,r,e,a,k
 clusters,Saturday Crossovers
+cluster,Crossovers
+Victoria,Brigham Young,9,7,"02/15/2025, 12:00",,Final
+California-Santa Barbara,Stanford,0,0,"02/15/2025, 12:00",,Scheduled
 b,r,e,a,k
 pools,Sunday Reshuffle
 pool,Pool E
+Brigham Young,UCLA,0,0,"02/16/2025, 11:00",Pool E,Scheduled
 pool,Pool F
 pool,Pool G
 pool,Pool H
+Oregon,Victoria,0,0,"02/16/2025, 12:30",Pool H,Scheduled
 b,r,e,a,k
 brackets,Bracket Play
 bracket,Championship Bracket
