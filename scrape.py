@@ -187,6 +187,7 @@ def scrapeListOfTournamentUrls(config, tournaments):
     total = len(tournaments)
     for i in range(len(tournaments)):
         try:
+            print(f"scraping {tournaments[i]['url']}")
             scrapeTournament(config, tournaments[i], i, total)
         except Exception as e:
             log.error(e)

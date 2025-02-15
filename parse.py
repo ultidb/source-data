@@ -569,6 +569,9 @@ def parseTournamentCalendar(html):
                 try:
                     url = link + "/schedule/" + DIVISIONS[num.contents[0].strip()]
                     lower = url.lower()
+                    if not url.startswith("https://play.usaultimate.org"):
+                        url = "https://play.usaultimate.org" + url
+                       
                     if not ("high-school" in lower or "middle-school" in lower):
                         d = {
                             "city": city,
