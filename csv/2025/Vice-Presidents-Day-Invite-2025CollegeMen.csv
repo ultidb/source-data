@@ -25,26 +25,6 @@ teamInfo,Federales,"San Diego, California",,,https://twitter.com/SDSUFederales?s
 94,Braeden Langell
 99,Kyle Loutzenhiser
 b,r,e,a,k
-California-Irvine,8
-teamInfo,Nightlife,"Irvine, California",https://www.instagram.com/nightlife_ultimate/,,
-coaches,Jacob Walsh
-0,Oscar Harth
-1,Kyle Wong
-2,Cory Yonemura
-3,Sam Kennedy
-4,Zachary Tanabe
-9,Pranav Thurgam
-10,Cameron Horne
-14,Trevor Walker
-20,Brady Cason
-23,Ben Schroeder
-26,Joseph Quibrantar
-28,Nathan Leslie
-36,Cheng-Yu Liu
-66,Kanle Yao
-77,Tristan Pederson
-89,Kellen Maciejewski
-b,r,e,a,k
 Grand Canyon,2
 teamInfo,Lopes,"Phoenix, Arizona",https://clubsports.gcu.edu/club-sports/ultimate-frisbee/,https://www.facebook.com/gculopesultimate/,https://twitter.com/GCUUltimate
 0,Admiral O’Reilly
@@ -68,6 +48,26 @@ teamInfo,Lopes,"Phoenix, Arizona",https://clubsports.gcu.edu/club-sports/ultimat
 20,Cael Kubly
 29,Everitt Meer
 33,Jonah  Rominski
+b,r,e,a,k
+California-Irvine,8
+teamInfo,Nightlife,"Irvine, California",https://www.instagram.com/nightlife_ultimate/,,
+coaches,Jacob Walsh
+0,Oscar Harth
+1,Kyle Wong
+2,Cory Yonemura
+3,Sam Kennedy
+4,Zachary Tanabe
+9,Pranav Thurgam
+10,Cameron Horne
+14,Trevor Walker
+20,Brady Cason
+23,Ben Schroeder
+26,Joseph Quibrantar
+28,Nathan Leslie
+36,Cheng-Yu Liu
+66,Kanle Yao
+77,Tristan Pederson
+89,Kellen Maciejewski
 b,r,e,a,k
 Southern California,4
 teamInfo,USC Lockdown,"Los Angeles, California",https://www.uscmensultimate.org/,https://www.facebook.com/uscmensultimate/,https://www.twitter.com/uscmensultimate/
@@ -203,9 +203,11 @@ b,r,e,a,k
 s,t,a,g,e,s
 brackets,Sunday Brackets
 bracket,Finals
-San Diego State,California-Irvine,0,0,"02/16/2025, 10:30",Semis,Scheduled
-Grand Canyon,Southern California,0,0,"02/16/2025, 10:30",Semis,Scheduled
+San Diego State,Grand Canyon,0,0,"02/16/2025, 13:30",Finals,Scheduled
+San Diego State,California-Irvine,9,7,"02/16/2025, 10:30",Semis,Final
+Grand Canyon,Southern California,12,11,"02/16/2025, 10:30",Semis,Final
 bracket,3rd Place
+California-Irvine,Southern California,0,0,"02/16/2025, 12:00",3rd Place,Scheduled
 bracket,5th Place
 San Jose State,Arizona State,0,0,"02/16/2025, 12:00",5th Place,Scheduled
 b,r,e,a,k
@@ -239,7 +241,7 @@ Arizona,San Jose State,7,11,"02/16/2025, 09:00",Pool F,Final
 b,r,e,a,k
 pools,Consolation Round Robin
 pool,Pool G
-Loyola Marymount,Arizona,0,0,"02/16/2025, 10:30",Pool G,Scheduled
+Loyola Marymount,Arizona,7,9,"02/16/2025, 10:30",Pool G,Final
 Cal Poly-Pomona,Arizona,0,0,"02/16/2025, 12:00",Pool G,Scheduled
 Cal Poly-Pomona,Loyola Marymount,0,0,"02/16/2025, 13:30",Pool G,Scheduled
 b,r,e,a,k
