@@ -185,33 +185,6 @@ teamInfo,Vikes,"Victoria, British Columbia CA",www.uvicultimate.com,https://www.
 69,Max Pettenuzzo
 88,Ben Lefevre
 b,r,e,a,k
-UCLA,11
-teamInfo,Smaug,"Los Angeles, California",https://instagram.com/smaugultimate,,https://twitter.com/smaugultimate
-coaches,Felicia Yang,William Brotman
-0,Ashton Jin
-9,Luca Adams
-03,Loic Billaut
-05,Jacob Snodgress
-08,Ethan Klein
-11,Luke Davis
-12,Jackson Kim
-15,Clayton Entrekin
-20,Mateo Nacusi
-21,Isaiah Hernandez
-25,Marshall Wildmann
-26,Calvin Wicks
-29,Theo Conroy
-30,TOMASSO ABRAMSONWARD
-31,Alden Reals
-33,Micah Thomas
-34,Daniel Lai
-35,Samuel Torres
-44,Kieran Fain
-55,Marcos Young-Bowers
-56,Ian Tsai
-78,Zachary Rosen
-88,Alexander Clare
-b,r,e,a,k
 Stanford,14
 teamInfo,Stanford Men's Ultimate Team,"Stanford, California",,,
 coaches,Christian Cortes
@@ -239,6 +212,33 @@ coaches,Christian Cortes
 40,Alex Storrer
 88,Shiley Einav
 89,Jerred Smith
+b,r,e,a,k
+UCLA,11
+teamInfo,Smaug,"Los Angeles, California",https://instagram.com/smaugultimate,,https://twitter.com/smaugultimate
+coaches,Felicia Yang,William Brotman
+0,Ashton Jin
+9,Luca Adams
+03,Loic Billaut
+05,Jacob Snodgress
+08,Ethan Klein
+11,Luke Davis
+12,Jackson Kim
+15,Clayton Entrekin
+20,Mateo Nacusi
+21,Isaiah Hernandez
+25,Marshall Wildmann
+26,Calvin Wicks
+29,Theo Conroy
+30,TOMASSO ABRAMSONWARD
+31,Alden Reals
+33,Micah Thomas
+34,Daniel Lai
+35,Samuel Torres
+44,Kieran Fain
+55,Marcos Young-Bowers
+56,Ian Tsai
+78,Zachary Rosen
+88,Alexander Clare
 b,r,e,a,k
 Cal Poly-SLO,3
 teamInfo,SLOCORE,"San Luis Obispo, California",http://slocore.com,https://www.facebook.com/slocoreultimate/,https://twitter.com/CORE_ultimate
@@ -475,10 +475,8 @@ California-San Diego,California-Santa Barbara,5,7,"02/15/2025, 13:20",Pool A,Fin
 pool,Pool B
 Colorado,Stanford,13,6,"02/15/2025, 16:00",Pool B,Final
 Victoria,UCLA,9,6,"02/15/2025, 16:00",Pool B,Final
-Colorado,UCLA,0,0,"02/15/2025, 17:20",Pool B,Scheduled
-Victoria,Stanford,0,0,"02/15/2025, 17:20",Pool B,Scheduled
 Colorado,Victoria,13,11,"02/15/2025, 17:20",Pool B,Final
-UCLA,Stanford,0,0,"02/15/2025, 17:20",Pool B,Scheduled
+UCLA,Stanford,7,11,"02/15/2025, 17:20",Pool B,Final
 pool,Pool C
 Cal Poly-SLO,California-Davis,13,6,"02/15/2025, 14:40",Pool C,Final
 Washington,Utah,13,5,"02/15/2025, 14:40",Pool C,Final
@@ -494,20 +492,38 @@ clusters,Saturday Crossovers
 cluster,Saturday Crossovers
 Northeastern,California,8,9,"02/15/2025, 14:40",,Final
 California-Santa Barbara,Oregon State,6,11,"02/15/2025, 14:40",,Final
+Victoria,Utah,7,11,"02/15/2025, 18:40",,Final
+Stanford,Washington,8,12,"02/15/2025, 18:40",,Final
 b,r,e,a,k
 pools,Sunday Reshuffle 
 pool,Pool E
 Oregon,California-Davis,0,0,"02/16/2025, 08:00",Pool E,Scheduled
+Utah,Northeastern,0,0,"02/16/2025, 08:00",Pool E,Scheduled
 Oregon,Northeastern,0,0,"02/16/2025, 09:30",Pool E,Scheduled
+Utah,California-Davis,0,0,"02/16/2025, 09:30",Pool E,Scheduled
+Oregon,Utah,0,0,"02/16/2025, 12:30",Pool E,Scheduled
 Northeastern,California-Davis,0,0,"02/16/2025, 12:30",Pool E,Scheduled
 pool,Pool F
+California-Santa Cruz,UCLA,0,0,"02/16/2025, 08:00",Pool F,Scheduled
+Washington,California-Santa Barbara,0,0,"02/16/2025, 08:00",Pool F,Scheduled
 California-Santa Cruz,California-Santa Barbara,0,0,"02/16/2025, 09:30",Pool F,Scheduled
+Washington,UCLA,0,0,"02/16/2025, 09:30",Pool F,Scheduled
+California-Santa Cruz,Washington,0,0,"02/16/2025, 12:30",Pool F,Scheduled
+California-Santa Barbara,UCLA,0,0,"02/16/2025, 12:30",Pool F,Scheduled
 pool,Pool G
 Cal Poly-SLO,California-San Diego,0,0,"02/16/2025, 08:00",Pool G,Scheduled
+Oregon State,Stanford,0,0,"02/16/2025, 08:00",Pool G,Scheduled
+Cal Poly-SLO,Stanford,0,0,"02/16/2025, 11:00",Pool G,Scheduled
 Oregon State,California-San Diego,0,0,"02/16/2025, 11:00",Pool G,Scheduled
 Cal Poly-SLO,Oregon State,0,0,"02/16/2025, 12:30",Pool G,Scheduled
+Stanford,California-San Diego,0,0,"02/16/2025, 12:30",Pool G,Scheduled
 pool,Pool H
+Colorado,Colorado State,0,0,"02/16/2025, 08:00",Pool H,Scheduled
+California,Utah,0,0,"02/16/2025, 08:00",Pool H,Scheduled
+Colorado,Utah,0,0,"02/16/2025, 11:00",Pool H,Scheduled
 California,Colorado State,0,0,"02/16/2025, 11:00",Pool H,Scheduled
+Colorado,California,0,0,"02/16/2025, 12:30",Pool H,Scheduled
+Utah,Colorado State,0,0,"02/16/2025, 12:30",Pool H,Scheduled
 b,r,e,a,k
 brackets,Bracket Play
 bracket,Championship Bracket
