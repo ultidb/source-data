@@ -234,37 +234,6 @@ teamInfo,Nightmares,"Huntsville, Alabama",,https://www.facebook.com/UAHultimatef
 38,William Cox
 99,Colby Bong
 b,r,e,a,k
-North Carolina State,8
-teamInfo,NC State Alpha,"Raleigh, North Carolina",,https://www.facebook.com/NCSUalpha/,https://twitter.com/ncsualpha
-0,Graham Allen-Schindler
-1,Ethan Dadolf
-2,Tate Wilson
-3,Peter Xu
-5,Andrew Schultz
-6,Henri Lessard
-7,Marco Butera
-9,Walker Sanders
-12,Lucas Cardoso Correa
-13,Aiden Fields
-14,Srikara Prithvi
-15,Matti Lee
-17,Keaton Barish
-18,Sebastian Boccieri
-20,Husam Salem
-21,John Rickel
-23,Tejas Sivarajakumar
-25,Allen MacMillan
-27,Leonardo Tapia
-32,Warren Kinnaman
-37,Vincent Zhang
-39,Feliks Ciesielski
-52,Aanand Yu
-59,Sathvik Avulapati
-77,Milo Ciccone
-87,Ari Izzo
-88,Sam Prochnau
-95,Jack Hartingh
-b,r,e,a,k
 Penn State,3
 teamInfo,Spank,"University Park, Pennsylvania",http://clubs.psu.edu/up/ultimate/,,https://twitter.com/spank_ultimate
 0,Aaron Crothers
@@ -300,6 +269,37 @@ teamInfo,Spank,"University Park, Pennsylvania",http://clubs.psu.edu/up/ultimate/
 69,John Williams
 75,Luke Gochis
 81,Nicholas Marinelli
+b,r,e,a,k
+North Carolina State,8
+teamInfo,NC State Alpha,"Raleigh, North Carolina",,https://www.facebook.com/NCSUalpha/,https://twitter.com/ncsualpha
+0,Graham Allen-Schindler
+1,Ethan Dadolf
+2,Tate Wilson
+3,Peter Xu
+5,Andrew Schultz
+6,Henri Lessard
+7,Marco Butera
+9,Walker Sanders
+12,Lucas Cardoso Correa
+13,Aiden Fields
+14,Srikara Prithvi
+15,Matti Lee
+17,Keaton Barish
+18,Sebastian Boccieri
+20,Husam Salem
+21,John Rickel
+23,Tejas Sivarajakumar
+25,Allen MacMillan
+27,Leonardo Tapia
+32,Warren Kinnaman
+37,Vincent Zhang
+39,Feliks Ciesielski
+52,Aanand Yu
+59,Sathvik Avulapati
+77,Milo Ciccone
+87,Ari Izzo
+88,Sam Prochnau
+95,Jack Hartingh
 b,r,e,a,k
 Purdue,13
 teamInfo,Undue Ultimate,"West Lafayette, Indiana",https://purduemensultimate.wordpress.com/2016/05/28/about-undue-ultimate/,https://www.facebook.com/pages/Purdue-Ultimate-Frisbee/128269583915564,https://twitter.com/UndueUltimate
@@ -601,7 +601,7 @@ pools,Pool Play
 pool,Pool A
 North Carolina,North Carolina-Charlotte,13,2,"02/15/2025, 17:30",Pool A,Final
 Auburn,Yale,0,0,"02/15/2025, 17:30",Pool A,Scheduled
-North Carolina,Yale,0,0,"02/15/2025, 19:10",Pool A,Scheduled
+North Carolina,Yale,13,6,"02/15/2025, 19:10",Pool A,Final
 Auburn,North Carolina-Charlotte,0,0,"02/15/2025, 19:10",Pool A,Scheduled
 North Carolina,Auburn,0,0,"02/15/2025, 20:50",Pool A,Scheduled
 North Carolina-Charlotte,Yale,0,0,"02/15/2025, 20:50",Pool A,Scheduled
@@ -615,7 +615,7 @@ Alabama-Huntsville,Tennessee,0,0,"02/15/2025, 20:50",Pool B,Scheduled
 pool,Pool C
 Penn State,Purdue,13,9,"02/15/2025, 17:30",Pool C,Final
 North Carolina State,James Madison,13,6,"02/15/2025, 17:30",Pool C,Final
-Penn State,James Madison,0,0,"02/15/2025, 19:10",Pool C,Scheduled
+Penn State,James Madison,13,5,"02/15/2025, 19:10",Pool C,Final
 North Carolina State,Purdue,0,0,"02/15/2025, 19:10",Pool C,Scheduled
 Penn State,North Carolina State,0,0,"02/15/2025, 20:50",Pool C,Scheduled
 Purdue,James Madison,0,0,"02/15/2025, 20:50",Pool C,Scheduled
@@ -631,7 +631,7 @@ Maryland,William & Mary,13,12,"02/15/2025, 14:00",Pool E,Final
 Tufts,Chicago,12,13,"02/15/2025, 14:00",Pool E,Final
 Maryland,Chicago,7,13,"02/15/2025, 15:45",Pool E,Final
 Tufts,William & Mary,13,12,"02/15/2025, 15:45",Pool E,Final
-Maryland,Tufts,0,0,"02/15/2025, 17:30",Pool E,Scheduled
+Maryland,Tufts,8,13,"02/15/2025, 17:30",Pool E,Final
 William & Mary,Chicago,12,13,"02/15/2025, 17:30",Pool E,Final
 b,r,e,a,k
 brackets,Bracket Play
