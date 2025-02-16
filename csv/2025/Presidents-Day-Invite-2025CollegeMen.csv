@@ -240,35 +240,6 @@ coaches,Christian Cortes
 88,Shiley Einav
 89,Jerred Smith
 b,r,e,a,k
-Washington,6
-teamInfo,Sundodgers,"Seattle, Washington",,https://www.facebook.com/uwultimate,https://twitter.com/sundodgers
-coaches,Dongyang Chen
-0,Andrew Phillips
-0,Benjamin Lewis
-0,Carter Bayer
-0,Harrison Prow
-0,Matthew Wyatt
-0,Micah Glickman-Flora
-0,Nathan Siegel
-0,Jesse Chatwin
-0,Owen Kuwayti
-0,Vaughn Dillender-Kinast
-0,Willie Saxen
-1,Isaac Woldemariam
-2,David Zhou
-12,Akash Shrestha
-13,Nicholas Yin
-14,Jared Tellez
-15,Assaf Golan
-17,Syon Rao
-19,Jak Lin
-21,Benjamin Bolan
-21,Keishin Lam
-32,Souma Yabuki
-33,Leonardo Kruse
-44,Delano Muongchan
-95,Griffin Lo
-b,r,e,a,k
 Cal Poly-SLO,3
 teamInfo,SLOCORE,"San Luis Obispo, California",http://slocore.com,https://www.facebook.com/slocoreultimate/,https://twitter.com/CORE_ultimate
 0,Ari Pincus
@@ -298,6 +269,35 @@ teamInfo,SLOCORE,"San Luis Obispo, California",http://slocore.com,https://www.fa
 45,Alex Nelson
 50,Kyle Lew
 64,Micah Fong
+b,r,e,a,k
+Washington,6
+teamInfo,Sundodgers,"Seattle, Washington",,https://www.facebook.com/uwultimate,https://twitter.com/sundodgers
+coaches,Dongyang Chen
+0,Andrew Phillips
+0,Benjamin Lewis
+0,Carter Bayer
+0,Harrison Prow
+0,Matthew Wyatt
+0,Micah Glickman-Flora
+0,Nathan Siegel
+0,Jesse Chatwin
+0,Owen Kuwayti
+0,Vaughn Dillender-Kinast
+0,Willie Saxen
+1,Isaac Woldemariam
+2,David Zhou
+12,Akash Shrestha
+13,Nicholas Yin
+14,Jared Tellez
+15,Assaf Golan
+17,Syon Rao
+19,Jak Lin
+21,Benjamin Bolan
+21,Keishin Lam
+32,Souma Yabuki
+33,Leonardo Kruse
+44,Delano Muongchan
+95,Griffin Lo
 b,r,e,a,k
 Utah,10
 teamInfo,Zion Curtain,"Salt Lake City, Utah",https://www.zioncurtainultimate.com/,https://www.facebook.com/pages/ZCU-Zion-Curtain-Ultimate/162698807137761,https://twitter.com/zioncurtainulti
@@ -482,9 +482,7 @@ UCLA,Stanford,0,0,"02/15/2025, 17:20",Pool B,Scheduled
 pool,Pool C
 Cal Poly-SLO,California-Davis,13,6,"02/15/2025, 14:40",Pool C,Final
 Washington,Utah,13,5,"02/15/2025, 14:40",Pool C,Final
-Cal Poly-SLO,Utah,0,0,"02/15/2025, 17:20",Pool C,Scheduled
-Washington,California-Davis,0,0,"02/15/2025, 17:20",Pool C,Scheduled
-Cal Poly-SLO,Washington,0,0,"02/15/2025, 17:20",Pool C,Scheduled
+Cal Poly-SLO,Washington,12,10,"02/15/2025, 17:20",Pool C,Final
 Utah,California-Davis,13,0,"02/15/2025, 17:20",Pool C,Final
 pool,Pool D
 Oregon State,Colorado State,13,9,"02/15/2025, 09:20",Pool D,Final
@@ -499,11 +497,15 @@ California-Santa Barbara,Oregon State,6,11,"02/15/2025, 14:40",,Final
 b,r,e,a,k
 pools,Sunday Reshuffle 
 pool,Pool E
+Oregon,California-Davis,0,0,"02/16/2025, 08:00",Pool E,Scheduled
 Oregon,Northeastern,0,0,"02/16/2025, 09:30",Pool E,Scheduled
+Northeastern,California-Davis,0,0,"02/16/2025, 12:30",Pool E,Scheduled
 pool,Pool F
 California-Santa Cruz,California-Santa Barbara,0,0,"02/16/2025, 09:30",Pool F,Scheduled
 pool,Pool G
+Cal Poly-SLO,California-San Diego,0,0,"02/16/2025, 08:00",Pool G,Scheduled
 Oregon State,California-San Diego,0,0,"02/16/2025, 11:00",Pool G,Scheduled
+Cal Poly-SLO,Oregon State,0,0,"02/16/2025, 12:30",Pool G,Scheduled
 pool,Pool H
 California,Colorado State,0,0,"02/16/2025, 11:00",Pool H,Scheduled
 b,r,e,a,k
