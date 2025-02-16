@@ -68,6 +68,31 @@ teamInfo,Aetos,"Auburn, Alabama",,https://www.facebook.com/auburnultimate,https:
 50,Matthew Melton
 89,Joshua Reed
 b,r,e,a,k
+Yale,20
+teamInfo,Süperfly,"New Haven, Connecticut",http://superfly.sites.yale.edu,https://www.facebook.com/SuperflyUltimate,https://twitter.com/yalesuperfly
+0,Alec Brainard
+0,Manuel Bosteels
+0,Nic Spangler
+0,Rishabh Garg
+3,Owen Hathaway Hacker
+4,Jack Griffin
+5,Javier Pardo
+7,Zubin Birnbach
+8,John Kiely
+9,Nayan Birnbach
+13,Ben Chaimberg
+15,John Timmers
+18,Micah Derringer
+19,Thomas Venarde
+26,George Cheung
+27,Jack Cloherty
+28,Eric Bormann
+31,Aman Jain
+33,Ayden Lee
+36,Henry Berger
+47,Zaki Siraj
+99,Carson Punt
+b,r,e,a,k
 North Carolina-Charlotte,11
 teamInfo,Charlotte Skyrise,"Charlotte, North Carolina",,https://www.facebook.com/groups/UNCCfrisbee/,
 0,Andrew Rogers
@@ -96,31 +121,6 @@ teamInfo,Charlotte Skyrise,"Charlotte, North Carolina",,https://www.facebook.com
 66,Gautam Das
 88,Griffin Thomas
 92,Sean Kiser
-b,r,e,a,k
-Yale,20
-teamInfo,Süperfly,"New Haven, Connecticut",http://superfly.sites.yale.edu,https://www.facebook.com/SuperflyUltimate,https://twitter.com/yalesuperfly
-0,Alec Brainard
-0,Manuel Bosteels
-0,Nic Spangler
-0,Rishabh Garg
-3,Owen Hathaway Hacker
-4,Jack Griffin
-5,Javier Pardo
-7,Zubin Birnbach
-8,John Kiely
-9,Nayan Birnbach
-13,Ben Chaimberg
-15,John Timmers
-18,Micah Derringer
-19,Thomas Venarde
-26,George Cheung
-27,Jack Cloherty
-28,Eric Bormann
-31,Aman Jain
-33,Ayden Lee
-36,Henry Berger
-47,Zaki Siraj
-99,Carson Punt
 b,r,e,a,k
 Washington University,2
 teamInfo,Contra,"St. Louis, Missouri",contra.wustl.edu,,twitter.com/wucontra
@@ -234,37 +234,6 @@ teamInfo,ARC,"East Lansing, Michigan",,https://www.facebook.com/michiganstateult
 44,Matthew Chamberlain
 58,Samuel Pierson
 b,r,e,a,k
-North Carolina State,8
-teamInfo,NC State Alpha,"Raleigh, North Carolina",,https://www.facebook.com/NCSUalpha/,https://twitter.com/ncsualpha
-0,Graham Allen-Schindler
-1,Ethan Dadolf
-2,Tate Wilson
-3,Peter Xu
-5,Andrew Schultz
-6,Henri Lessard
-7,Marco Butera
-9,Walker Sanders
-12,Lucas Cardoso Correa
-13,Aiden Fields
-14,Srikara Prithvi
-15,Matti Lee
-17,Keaton Barish
-18,Sebastian Boccieri
-20,Husam Salem
-21,John Rickel
-23,Tejas Sivarajakumar
-25,Allen MacMillan
-27,Leonardo Tapia
-32,Warren Kinnaman
-37,Vincent Zhang
-39,Feliks Ciesielski
-52,Aanand Yu
-59,Sathvik Avulapati
-77,Milo Ciccone
-87,Ari Izzo
-88,Sam Prochnau
-95,Jack Hartingh
-b,r,e,a,k
 Penn State,3
 teamInfo,Spank,"University Park, Pennsylvania",http://clubs.psu.edu/up/ultimate/,,https://twitter.com/spank_ultimate
 0,Aaron Crothers
@@ -300,6 +269,37 @@ teamInfo,Spank,"University Park, Pennsylvania",http://clubs.psu.edu/up/ultimate/
 69,John Williams
 75,Luke Gochis
 81,Nicholas Marinelli
+b,r,e,a,k
+North Carolina State,8
+teamInfo,NC State Alpha,"Raleigh, North Carolina",,https://www.facebook.com/NCSUalpha/,https://twitter.com/ncsualpha
+0,Graham Allen-Schindler
+1,Ethan Dadolf
+2,Tate Wilson
+3,Peter Xu
+5,Andrew Schultz
+6,Henri Lessard
+7,Marco Butera
+9,Walker Sanders
+12,Lucas Cardoso Correa
+13,Aiden Fields
+14,Srikara Prithvi
+15,Matti Lee
+17,Keaton Barish
+18,Sebastian Boccieri
+20,Husam Salem
+21,John Rickel
+23,Tejas Sivarajakumar
+25,Allen MacMillan
+27,Leonardo Tapia
+32,Warren Kinnaman
+37,Vincent Zhang
+39,Feliks Ciesielski
+52,Aanand Yu
+59,Sathvik Avulapati
+77,Milo Ciccone
+87,Ari Izzo
+88,Sam Prochnau
+95,Jack Hartingh
 b,r,e,a,k
 Purdue,13
 teamInfo,Undue Ultimate,"West Lafayette, Indiana",https://purduemensultimate.wordpress.com/2016/05/28/about-undue-ultimate/,https://www.facebook.com/pages/Purdue-Ultimate-Frisbee/128269583915564,https://twitter.com/UndueUltimate
@@ -600,9 +600,9 @@ s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
 North Carolina,North Carolina-Charlotte,13,2,"02/15/2025, 17:30",Pool A,Final
-Auburn,Yale,0,0,"02/15/2025, 17:30",Pool A,Scheduled
+Auburn,Yale,13,7,"02/15/2025, 17:30",Pool A,Final
 North Carolina,Yale,13,6,"02/15/2025, 19:10",Pool A,Final
-Auburn,North Carolina-Charlotte,0,0,"02/15/2025, 19:10",Pool A,Scheduled
+Auburn,North Carolina-Charlotte,12,9,"02/15/2025, 19:10",Pool A,Final
 North Carolina,Auburn,13,2,"02/15/2025, 20:50",Pool A,Final
 North Carolina-Charlotte,Yale,0,0,"02/15/2025, 20:50",Pool A,Scheduled
 pool,Pool B
@@ -611,13 +611,13 @@ Michigan State,Tennessee,9,12,"02/15/2025, 17:30",Pool B,Final
 Washington University,Tennessee,13,5,"02/15/2025, 19:10",Pool B,Final
 Michigan State,Alabama-Huntsville,10,13,"02/15/2025, 19:10",Pool B,Final
 Washington University,Michigan State,13,6,"02/15/2025, 20:50",Pool B,Final
-Alabama-Huntsville,Tennessee,0,0,"02/15/2025, 20:50",Pool B,Scheduled
+Alabama-Huntsville,Tennessee,12,7,"02/15/2025, 20:50",Pool B,Final
 pool,Pool C
 Penn State,Purdue,13,9,"02/15/2025, 17:30",Pool C,Final
 North Carolina State,James Madison,13,6,"02/15/2025, 17:30",Pool C,Final
 Penn State,James Madison,13,5,"02/15/2025, 19:10",Pool C,Final
 North Carolina State,Purdue,13,8,"02/15/2025, 19:10",Pool C,Final
-Penn State,North Carolina State,0,0,"02/15/2025, 20:50",Pool C,Scheduled
+Penn State,North Carolina State,13,12,"02/15/2025, 20:50",Pool C,Final
 Purdue,James Madison,0,0,"02/15/2025, 20:50",Pool C,Scheduled
 pool,Pool D
 South Carolina,Alabama,13,9,"02/15/2025, 14:00",Pool D,Final
