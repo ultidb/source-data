@@ -133,44 +133,6 @@ teamInfo,Escargot,"Geneseo, New York",,,
 42,Addisyn Gangai
 54,Maya Healey
 b,r,e,a,k
-George Washington,6
-teamInfo,George Washington Women's Club Ultimate,"Washington, District of Columbia",https://gdubladyhippos.wixsite.com/gdubladyhippos,https://www.facebook.com/GDubWomensUltimateFrisbee/,https://twitter.com/gdub_hippos
-coaches,Scott Hetu
-0,Annika Hedlund
-0,Malika Kashyap
-2,Trinity Ihekwoaba
-03,Anika Kashyap
-04,Karina Bar
-05,Keely Scott
-08,Liza McDonough
-09,Lauren Thomas
-11,Emily Andre
-13,Morgan Miller
-15,Sara Mitchell
-23,Vivien Williams
-24,Daniella Meza
-26,Tatiana Bird
-27,Rita Seidl
-72,Chimwemwe Doran
-b,r,e,a,k
-Skidmore,7
-teamInfo,Skidmore College Thoroughbears,"Saratoga Springs, New York",https://sites.google.com/view/skidmorewombatsultimate/home?authuser=0,,https://twitter.com/skidmorewombats
-0,Alison Riker
-0,Anna Paul
-0,Catie Hamilton
-0,Ella Stuccio
-0,Emma Crespi
-0,Grace Okeefe
-0,Jane Grove
-0,Jane Schmucki
-0,Kate Silagi
-0,Liza Schnauck
-0,Stella Hulbert
-0,Willa Punches
-2,Sadie Bromberg
-16,Peyton Moseley
-56,Jenna Werchen
-b,r,e,a,k
 Syracuse,8
 teamInfo,Fox Force Seven,"Syracuse , New York",,https://www.facebook.com/FoxForceSeven,https://twitter.com/FoxForceSeven
 0,Grace Daly
@@ -192,6 +154,57 @@ teamInfo,Fox Force Seven,"Syracuse , New York",,https://www.facebook.com/FoxForc
 20,Gili Heyman
 27,Adelaide Sprague
 b,r,e,a,k
+George Washington,6
+teamInfo,George Washington Women's Club Ultimate,"Washington, District of Columbia",https://gdubladyhippos.wixsite.com/gdubladyhippos,https://www.facebook.com/GDubWomensUltimateFrisbee/,https://twitter.com/gdub_hippos
+coaches,Scott Hetu
+0,Annika Hedlund
+0,Malika Kashyap
+2,Trinity Ihekwoaba
+03,Anika Kashyap
+04,Karina Bar
+05,Keely Scott
+08,Liza McDonough
+09,Lauren Thomas
+11,Emily Andre
+13,Morgan Miller
+15,Sara Mitchell
+23,Vivien Williams
+24,Daniella Meza
+26,Tatiana Bird
+27,Rita Seidl
+72,Chimwemwe Doran
+b,r,e,a,k
+Swarthmore,10
+teamInfo,Warmothers,"Swarthmore, Pennsylvania",,,https://twitter.com/SwatWarmothers
+0,Elizabeth Bugayev
+0,Emily Kerimian
+0,Eva Murillo
+0,Juna Saito
+0,Lemuel L’Oiseau
+0,Nora Jiang
+0,Sofia Perez Barrios
+0,Violet Garibaldi
+0,Violet Hart
+0,Yi-Mei Liu
+b,r,e,a,k
+Skidmore,7
+teamInfo,Skidmore College Thoroughbears,"Saratoga Springs, New York",https://sites.google.com/view/skidmorewombatsultimate/home?authuser=0,,https://twitter.com/skidmorewombats
+0,Alison Riker
+0,Anna Paul
+0,Catie Hamilton
+0,Ella Stuccio
+0,Emma Crespi
+0,Grace Okeefe
+0,Jane Grove
+0,Jane Schmucki
+0,Kate Silagi
+0,Liza Schnauck
+0,Stella Hulbert
+0,Willa Punches
+2,Sadie Bromberg
+16,Peyton Moseley
+56,Jenna Werchen
+b,r,e,a,k
 Dickinson,9
 teamInfo,Dumptrucks,"Carlisle, Pennsylvania",,,
 0,Becky Carey
@@ -207,19 +220,6 @@ teamInfo,Dumptrucks,"Carlisle, Pennsylvania",,,
 27,Maya Shelton
 77,Amelia Scarborough-Scharf
 b,r,e,a,k
-Swarthmore,10
-teamInfo,Warmothers,"Swarthmore, Pennsylvania",,,https://twitter.com/SwatWarmothers
-0,Elizabeth Bugayev
-0,Emily Kerimian
-0,Eva Murillo
-0,Juna Saito
-0,Lemuel L’Oiseau
-0,Nora Jiang
-0,Sofia Perez Barrios
-0,Violet Garibaldi
-0,Violet Hart
-0,Yi-Mei Liu
-b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool
 pool,Pool A
@@ -234,12 +234,12 @@ Ithaca,SUNY-Geneseo,0,0,"02/22/2025, 13:30",Pool A,Scheduled
 Haverford-Bryn Mawr,Lehigh,0,0,"02/22/2025, 15:00",Pool A,Scheduled
 Wesleyan,SUNY-Geneseo,0,0,"02/22/2025, 15:00",Pool A,Scheduled
 pool,Pool B
-George Washington,Swarthmore,0,0,"02/22/2025, 09:00",Pool B,Scheduled
-Syracuse,Dickinson,0,0,"02/22/2025, 09:00",Pool B,Scheduled
-George Washington,Syracuse,0,0,"02/22/2025, 10:30",Pool B,Scheduled
+George Washington,Swarthmore,8,4,"02/22/2025, 09:00",Pool B,Final
+Syracuse,Dickinson,10,1,"02/22/2025, 09:00",Pool B,Final
+George Washington,Syracuse,5,4,"02/22/2025, 10:30",Pool B,Final
 Skidmore,Dickinson,0,0,"02/22/2025, 10:30",Pool B,Scheduled
-Dickinson,Swarthmore,0,0,"02/22/2025, 12:00",Pool B,Scheduled
-Skidmore,Syracuse,0,0,"02/22/2025, 12:00",Pool B,Scheduled
+Dickinson,Swarthmore,2,9,"02/22/2025, 12:00",Pool B,Final
+Skidmore,Syracuse,0,10,"02/22/2025, 12:00",Pool B,Final
 George Washington,Dickinson,0,0,"02/22/2025, 13:30",Pool B,Scheduled
 Skidmore,Swarthmore,0,0,"02/22/2025, 13:30",Pool B,Scheduled
 George Washington,Skidmore,0,0,"02/22/2025, 15:00",Pool B,Scheduled
