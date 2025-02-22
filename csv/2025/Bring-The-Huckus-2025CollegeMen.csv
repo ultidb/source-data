@@ -23,31 +23,6 @@ teamInfo,Nawshus Ultimate,"Ithaca, New York",,,
 50,Christopher Saam
 77,Cyrus Edlund-Farsad
 b,r,e,a,k
-Delaware,1
-teamInfo,Sideshow,"Newark, Delaware",,,
-0,Adam Ryder
-0,Albert Capodanno
-0,Bastian Perry
-0,Charlie Giannone
-0,Clayton Conklin
-0,Collin Beaman
-0,Dan Kelner
-0,Joseph Lenzo
-0,Josh Rudy
-0,Joshua Geddes
-0,Mark Polin
-0,Milan Patel
-0,Nate DeFeo
-0,Ryan Robison
-0,Trajan Kump
-0,Tucker Stevens
-0,William  Everett
-0,Zachary Villamor
-0,Dylan  Mooney
-0,Gabriel Resto
-5,David Ellis
-24,John Cleaver
-b,r,e,a,k
 Haverford,5
 teamInfo,Big Donkey Ultimate,"Haverford, Pennsylvania",,,https://twitter.com/donkeyultimate
 0,Aedan Shiffman
@@ -76,6 +51,31 @@ teamInfo,Big Donkey Ultimate,"Haverford, Pennsylvania",,,https://twitter.com/don
 50,Isaac Rivera
 80,Arno Harden
 99,Isaac Roth
+b,r,e,a,k
+Delaware,1
+teamInfo,Sideshow,"Newark, Delaware",,,
+0,Adam Ryder
+0,Albert Capodanno
+0,Bastian Perry
+0,Charlie Giannone
+0,Clayton Conklin
+0,Collin Beaman
+0,Dan Kelner
+0,Joseph Lenzo
+0,Josh Rudy
+0,Joshua Geddes
+0,Mark Polin
+0,Milan Patel
+0,Nate DeFeo
+0,Ryan Robison
+0,Trajan Kump
+0,Tucker Stevens
+0,William  Everett
+0,Zachary Villamor
+0,Dylan  Mooney
+0,Gabriel Resto
+5,David Ellis
+24,John Cleaver
 b,r,e,a,k
 Hofstra,8
 teamInfo,Flying Dutchmen,"Hempstead, New York",,,@HUFDUltimate
@@ -270,34 +270,6 @@ teamInfo,Lehigh-B,"Bethlehem, Pennsylvania",,,https://twitter.com/BehighUnited
 79,Ryan Cleary
 88,Nate Goren
 b,r,e,a,k
-SUNY-Geneseo,11
-teamInfo,Snail,"Geneseo, New York",,,@geneseoultimate
-00,Bryan Armpriest
-00,Jake Park
-00,Kyle Fitzpatrick
-00,Lyndon Lowenstein-Niu
-00,Mason  Luskoff 
-00,Nathaniel Perez
-00,Ross Pentz
-00,Yared Kebede
-01,Brian Gonzalez
-02,John McKiernan
-03,Benjamin Campbell
-04,Noah Ofri-Akman
-06,Danny Fox
-07,Ben Michlinski
-08,Samuel Bonesteel
-12,George Privitera
-13,Donovan Grey
-14,David Sweeney
-19,Spencer Wagner
-25,Jason Strickland
-26,Colby Drechsler
-29,Mason Michel
-35,Lucas Rosa
-47,Bradley Casto
-62,John Marple
-b,r,e,a,k
 Drexel,10
 teamInfo,Spitfire,"Philadelphia, Pennsylvania",,,
 0,Austin Smith
@@ -326,6 +298,34 @@ teamInfo,Spitfire,"Philadelphia, Pennsylvania",,,
 77,Phillip Phan
 81,Sophie Kujawski
 91,Chris Senf
+b,r,e,a,k
+SUNY-Geneseo,11
+teamInfo,Snail,"Geneseo, New York",,,@geneseoultimate
+00,Bryan Armpriest
+00,Jake Park
+00,Kyle Fitzpatrick
+00,Lyndon Lowenstein-Niu
+00,Mason  Luskoff 
+00,Nathaniel Perez
+00,Ross Pentz
+00,Yared Kebede
+01,Brian Gonzalez
+02,John McKiernan
+03,Benjamin Campbell
+04,Noah Ofri-Akman
+06,Danny Fox
+07,Ben Michlinski
+08,Samuel Bonesteel
+12,George Privitera
+13,Donovan Grey
+14,David Sweeney
+19,Spencer Wagner
+25,Jason Strickland
+26,Colby Drechsler
+29,Mason Michel
+35,Lucas Rosa
+47,Bradley Casto
+62,John Marple
 b,r,e,a,k
 Connecticut (B),14
 teamInfo,Grind,"Storrs, Connecticut",,,https://twitter.com/UConnUltimateB
@@ -386,13 +386,13 @@ Ithaca,Hofstra,13,1,"02/22/2025, 09:00",Pool A,Final
 Delaware,Hofstra,10,3,"02/22/2025, 10:30",Pool A,Final
 Ithaca,Haverford,12,5,"02/22/2025, 10:30",Pool A,Final
 Delaware,Ithaca,9,11,"02/22/2025, 12:00",Pool A,Final
-Haverford,Hofstra,0,0,"02/22/2025, 13:30",Pool A,Scheduled
+Haverford,Hofstra,13,3,"02/22/2025, 13:30",Pool A,Final
 pool,Pool B
 West Chester,Dickinson,9,8,"02/22/2025, 09:00",Pool B,Final
-Colby,MIT,0,0,"02/22/2025, 10:30",Pool B,Scheduled
+Colby,MIT,6,8,"02/22/2025, 10:30",Pool B,Final
 West Chester,Colby,0,0,"02/22/2025, 12:00",Pool B,Scheduled
 Dickinson,MIT,9,6,"02/22/2025, 12:00",Pool B,Final
-West Chester,MIT,0,0,"02/22/2025, 13:30",Pool B,Scheduled
+West Chester,MIT,8,7,"02/22/2025, 13:30",Pool B,Final
 Colby,Dickinson,5,13,"02/22/2025, 13:30",Pool B,Final
 pool,Pool C
 Skidmore,Delaware (B),9,6,"02/22/2025, 09:00",Pool C,Final
@@ -402,15 +402,17 @@ Rowan,Delaware (B),13,5,"02/22/2025, 10:30",Pool C,Final
 Skidmore,Rowan,9,8,"02/22/2025, 12:00",Pool C,Final
 Delaware (B),Lehigh (B),13,3,"02/22/2025, 13:30",Pool C,Final
 pool,Pool D
-Drexel,Connecticut (B),0,0,"02/22/2025, 09:00",Pool D,Scheduled
+Drexel,Connecticut (B),8,6,"02/22/2025, 09:00",Pool D,Final
 SUNY-Geneseo,West Chester (B),13,3,"02/22/2025, 10:30",Pool D,Final
 Drexel,SUNY-Geneseo,8,6,"02/22/2025, 12:00",Pool D,Final
 Connecticut (B),West Chester (B),0,0,"02/22/2025, 12:00",Pool D,Scheduled
-Drexel,West Chester (B),0,0,"02/22/2025, 13:30",Pool D,Scheduled
+Drexel,West Chester (B),12,4,"02/22/2025, 13:30",Pool D,Final
 SUNY-Geneseo,Connecticut (B),9,7,"02/22/2025, 13:30",Pool D,Final
 b,r,e,a,k
 brackets,Bracket
 bracket,Championship
+Delaware,Rowan,0,0,"02/22/2025, 15:10",Play In,Scheduled
+Hofstra,Skidmore,0,0,"02/22/2025, 15:10",Play In,Scheduled
 bracket,9th Place
 bracket,5th
 bracket,13th 
