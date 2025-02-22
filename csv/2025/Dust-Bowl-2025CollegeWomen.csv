@@ -127,20 +127,6 @@ coaches,Anat Gross,Anne Underwood
 85,Julia Victor
 94,Anja Seifert
 b,r,e,a,k
-Missouri State,8
-teamInfo,Bearly Lethal,"Springfield, Missouri",,,
-0,Ayden Pennington
-0,Izzy wrisberg
-0,Megan  Mueller
-5,Kylie Robertson
-7,Megan Simpson
-10,Virginia Steck
-12,Layla Lunsford
-15,Caroline Linberger
-18,Parker Bryant 
-33,Ada Laury
-77,Cynthia Jimenez
-b,r,e,a,k
 Harding,10
 teamInfo,Sky Bisons,"Searcy, Arkansas",,,
 02,Haley  Sachau 
@@ -155,6 +141,20 @@ teamInfo,Sky Bisons,"Searcy, Arkansas",,,
 31,Alyn Cole
 35,Judy Johnston
 86,Elaina Stephens
+b,r,e,a,k
+Missouri State,8
+teamInfo,Bearly Lethal,"Springfield, Missouri",,,
+0,Ayden Pennington
+0,Izzy wrisberg
+0,Megan  Mueller
+5,Kylie Robertson
+7,Megan Simpson
+10,Virginia Steck
+12,Layla Lunsford
+15,Caroline Linberger
+18,Parker Bryant 
+33,Ada Laury
+77,Cynthia Jimenez
 b,r,e,a,k
 Missouri,3
 teamInfo,Terror Mizzou,"Columbia, Missouri",https://engage.missouri.edu/mizzouwomensclubultimatefrisbee/home/,http://www.facebook.com/MuWomensUltimate/,http://www.twitter.com/TerrorMizzou
@@ -230,7 +230,7 @@ Truman State,Colorado Mines,7,6,"02/22/2025, 10:45",Pool A,Final
 Kansas,John Brown,10,3,"02/22/2025, 10:45",Pool A,Final
 St Olaf,John Brown,12,2,"02/22/2025, 12:10",Pool A,Final
 Kansas,Truman State,0,0,"02/22/2025, 12:10",Pool A,Scheduled
-St Olaf,Colorado Mines,0,0,"02/22/2025, 13:35",Pool A,Scheduled
+St Olaf,Colorado Mines,12,3,"02/22/2025, 13:35",Pool A,Final
 John Brown,Truman State,0,0,"02/22/2025, 13:35",Pool A,Scheduled
 St Olaf,Kansas,0,0,"02/22/2025, 15:00",Pool A,Scheduled
 John Brown,Colorado Mines,0,0,"02/22/2025, 15:00",Pool A,Scheduled
@@ -239,15 +239,18 @@ Kansas,Colorado Mines,0,0,"02/23/2025, 09:00",Pool A,Scheduled
 pool,Pool B
 Washington University,Harding,11,3,"02/22/2025, 10:45",Pool B,Final
 Washington University,Missouri State,9,5,"02/22/2025, 12:10",Pool B,Final
-Missouri State,Harding,0,0,"02/22/2025, 13:35",Pool B,Scheduled
+Missouri State,Harding,5,10,"02/22/2025, 13:35",Pool B,Final
 pool,Pool C
 Missouri,St Olaf (B),13,1,"02/22/2025, 10:45",Pool C,Final
 Missouri,Iowa State,12,3,"02/22/2025, 12:10",Pool C,Final
-Iowa State,St Olaf (B),0,0,"02/22/2025, 13:35",Pool C,Scheduled
+Iowa State,St Olaf (B),10,2,"02/22/2025, 13:35",Pool C,Final
 b,r,e,a,k
 brackets,Cross Over Bracket
 bracket,BvC Crossover Games
+Harding,St Olaf (B),0,0,"02/22/2025, 15:00",Round 1,Scheduled
+Iowa State,Missouri State,0,0,"02/22/2025, 15:00",Round 1,Scheduled
 bracket,2nd Place Seeding
+Washington University,Missouri,0,0,"02/22/2025, 15:00",2nd Place Seed,Scheduled
 bracket,Cross Over Lower
 b,r,e,a,k
 brackets,Sunday Bracket
