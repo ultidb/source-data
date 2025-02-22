@@ -90,6 +90,27 @@ teamInfo,Flying Dutchmen,"Hempstead, New York",,,@HUFDUltimate
 5,Eevie Silvia
 57,Joseph Cicione
 b,r,e,a,k
+West Chester,2
+teamInfo,A,"West Chester , Pennsylvania",,,
+0,Aidan Neff
+0,Cole Beck-Campbell
+0,Graham Laub
+0,Levi Lewis
+0,Nathan Casselli
+2,Ryan Cornelius
+6,Patrick Joyce
+10,Nathaniel Thorne
+11,Connor Cook
+22,Robert Cicchinelli
+26,Ryan Foster
+32,Evan Parker
+33,Brandon  Smith 
+38,Jacob Taylor
+48,Shawn Lanzillo
+51,Joseph Colodonato
+80,Lucas Schiff
+99,Anthony Farina
+b,r,e,a,k
 Dickinson,6
 teamInfo,Dumptrucks,"Carlisle, Pennsylvania",,,
 0,Chris Marcil
@@ -117,27 +138,6 @@ teamInfo,Dumptrucks,"Carlisle, Pennsylvania",,,
 33,Tobey Patton
 50,Warner Brockman
 69,Caleb Riener
-b,r,e,a,k
-West Chester,2
-teamInfo,A,"West Chester , Pennsylvania",,,
-0,Aidan Neff
-0,Cole Beck-Campbell
-0,Graham Laub
-0,Levi Lewis
-0,Nathan Casselli
-2,Ryan Cornelius
-6,Patrick Joyce
-10,Nathaniel Thorne
-11,Connor Cook
-22,Robert Cicchinelli
-26,Ryan Foster
-32,Evan Parker
-33,Brandon  Smith 
-38,Jacob Taylor
-48,Shawn Lanzillo
-51,Joseph Colodonato
-80,Lucas Schiff
-99,Anthony Farina
 b,r,e,a,k
 MIT,7
 teamInfo,Grim Beaver,"Cambridge, Massachusetts",http://mens-ult.mit.edu,https://www.facebook.com/pages/MIT-Mens-Ultimate/129768873797702,https://twitter.com/MITultimate
@@ -327,31 +327,6 @@ teamInfo,Snail,"Geneseo, New York",,,@geneseoultimate
 47,Bradley Casto
 62,John Marple
 b,r,e,a,k
-Connecticut (B),14
-teamInfo,Grind,"Storrs, Connecticut",,,https://twitter.com/UConnUltimateB
-0,Abhinav Chandrasekhar
-0,Andrew Ungar
-0,Ari Sobel-Pressman
-0,Brian Kinasewitz
-0,Charles Pinchera
-0,Charles Pollard
-0,Daniel Drlik
-0,David Kallberg
-0,Gabriel Jackson
-0,Hao Wang
-0,Jack Lange
-0,Joel Harris
-0,John Byrne
-0,John Womelsdorf
-0,John Sylvain
-0,Matthew Caro
-0,Neev Maru
-0,Ryan Matan
-0,Thomas Maxwell
-0,Trevor Jones
-0,Von Lindenthal
-3,William Turgeon
-b,r,e,a,k
 West Chester (B),15
 teamInfo,B,"West Chester, Pennsylvania",,,
 0,Aidan Duffy
@@ -378,6 +353,31 @@ teamInfo,B,"West Chester, Pennsylvania",,,
 88,Michael Garcia
 91,Thomas Burke
 b,r,e,a,k
+Connecticut (B),14
+teamInfo,Grind,"Storrs, Connecticut",,,https://twitter.com/UConnUltimateB
+0,Abhinav Chandrasekhar
+0,Andrew Ungar
+0,Ari Sobel-Pressman
+0,Brian Kinasewitz
+0,Charles Pinchera
+0,Charles Pollard
+0,Daniel Drlik
+0,David Kallberg
+0,Gabriel Jackson
+0,Hao Wang
+0,Jack Lange
+0,Joel Harris
+0,John Byrne
+0,John Womelsdorf
+0,John Sylvain
+0,Matthew Caro
+0,Neev Maru
+0,Ryan Matan
+0,Thomas Maxwell
+0,Trevor Jones
+0,Von Lindenthal
+3,William Turgeon
+b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool
 pool,Pool A
@@ -390,7 +390,7 @@ Haverford,Hofstra,13,3,"02/22/2025, 13:30",Pool A,Final
 pool,Pool B
 West Chester,Dickinson,9,8,"02/22/2025, 09:00",Pool B,Final
 Colby,MIT,6,8,"02/22/2025, 10:30",Pool B,Final
-West Chester,Colby,0,0,"02/22/2025, 12:00",Pool B,Scheduled
+West Chester,Colby,9,5,"02/22/2025, 12:00",Pool B,Final
 Dickinson,MIT,9,6,"02/22/2025, 12:00",Pool B,Final
 West Chester,MIT,8,7,"02/22/2025, 13:30",Pool B,Final
 Colby,Dickinson,5,13,"02/22/2025, 13:30",Pool B,Final
@@ -405,13 +405,15 @@ pool,Pool D
 Drexel,Connecticut (B),8,6,"02/22/2025, 09:00",Pool D,Final
 SUNY-Geneseo,West Chester (B),13,3,"02/22/2025, 10:30",Pool D,Final
 Drexel,SUNY-Geneseo,8,6,"02/22/2025, 12:00",Pool D,Final
-Connecticut (B),West Chester (B),0,0,"02/22/2025, 12:00",Pool D,Scheduled
+Connecticut (B),West Chester (B),8,10,"02/22/2025, 12:00",Pool D,Final
 Drexel,West Chester (B),12,4,"02/22/2025, 13:30",Pool D,Final
 SUNY-Geneseo,Connecticut (B),9,7,"02/22/2025, 13:30",Pool D,Final
 b,r,e,a,k
 brackets,Bracket
 bracket,Championship
+Drexel,Colby,0,0,"02/22/2025, 15:10",Play In,Scheduled
 Delaware,Rowan,0,0,"02/22/2025, 15:10",Play In,Scheduled
+SUNY-Geneseo,MIT,0,0,"02/22/2025, 15:10",Play In,Scheduled
 Hofstra,Skidmore,0,0,"02/22/2025, 15:10",Play In,Scheduled
 bracket,9th Place
 bracket,5th
