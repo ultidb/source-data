@@ -409,8 +409,8 @@ Oklahoma Christian,Kansas State,13,0,"02/22/2025, 13:35",Pool A,Final
 Northern Iowa,Washington University (B),13,7,"02/22/2025, 13:35",Pool A,Final
 Oklahoma Christian,Texas-Dallas,9,7,"02/22/2025, 15:00",Pool A,Final
 Northern Iowa,Kansas State,13,8,"02/22/2025, 15:00",Pool A,Final
-Oklahoma Christian,Washington University (B),0,0,"02/23/2025, 09:30",Pool A,Scheduled
-Texas-Dallas,Kansas State,0,0,"02/23/2025, 09:30",Pool A,Scheduled
+Oklahoma Christian,Washington University (B),1,1,"02/23/2025, 09:30",Pool A,Cancelled
+Texas-Dallas,Kansas State,1,1,"02/23/2025, 09:30",Pool A,Final
 pool,Pool B
 Texas Tech,Wichita State,6,9,"02/22/2025, 10:45",Pool B,Final
 Grinnell,Harding,9,5,"02/22/2025, 10:45",Pool B,Final
@@ -420,8 +420,8 @@ Kansas,Wichita State,8,12,"02/22/2025, 13:35",Pool B,Final
 Harding,Texas Tech,7,8,"02/22/2025, 13:35",Pool B,Final
 Kansas,Grinnell,8,10,"02/22/2025, 15:00",Pool B,Final
 Harding,Wichita State,7,12,"02/22/2025, 15:00",Pool B,Final
-Kansas,Texas Tech,0,0,"02/23/2025, 09:30",Pool B,Scheduled
-Grinnell,Wichita State,0,0,"02/23/2025, 09:30",Pool B,Scheduled
+Kansas,Texas Tech,1,1,"02/23/2025, 09:30",Pool B,Final
+Grinnell,Wichita State,1,1,"02/23/2025, 09:30",Pool B,Final
 pool,Pool C
 North Texas,Dallas,13,1,"02/22/2025, 10:45",Pool C,Final
 Missouri S&T,Oklahoma State,10,8,"02/22/2025, 10:45",Pool C,Final
@@ -431,7 +431,7 @@ Truman State,Dallas,13,4,"02/22/2025, 13:35",Pool C,Final
 Oklahoma State,North Texas,4,8,"02/22/2025, 13:35",Pool C,Final
 Truman State,Missouri S&T,8,13,"02/22/2025, 15:00",Pool C,Final
 Oklahoma State,Dallas,12,7,"02/22/2025, 15:00",Pool C,Final
-Truman State,North Texas,0,0,"02/23/2025, 09:30",Pool C,Scheduled
+Truman State,North Texas,1,1,"02/23/2025, 09:30",Pool C,Final
 Missouri S&T,Dallas,13,2,"02/23/2025, 09:30",Pool C,Final
 pool,Pool D
 John Brown,Nebraska,7,6,"02/22/2025, 10:45",Pool D,Final
@@ -443,7 +443,11 @@ Saint Louis,John Brown,8,9,"02/22/2025, 13:35",Pool D,Final
 b,r,e,a,k
 brackets,Sunday Bracket
 bracket,Championship Bracket
+John Brown,North Texas,0,0,"02/23/2025, 10:45",Quarters,Scheduled
+Missouri S&T,Saint Louis,0,0,"02/23/2025, 10:45",Quarters,Scheduled
 bracket,9th Place Bracket
+Nebraska,Oklahoma State,0,0,"02/22/2025, 10:45",Round 1,Scheduled
+Truman State,Oklahoma,0,0,"02/22/2025, 10:45",Round 1,Scheduled
 bracket,3rd Place
 bracket,5th Place
 bracket,7th Place
@@ -453,4 +457,5 @@ bracket,15th Place
 b,r,e,a,k
 pools,Sunday Consolation Pool
 pool,Pool E
+Harding,Dallas,0,0,"02/23/2025, 10:30",Pool E,Scheduled
 b,r,e,a,k
