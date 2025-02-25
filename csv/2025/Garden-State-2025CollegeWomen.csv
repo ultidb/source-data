@@ -20,7 +20,26 @@ coaches,Shane Skriletz,Joshua (Slater) Levey,Maryann Platt
 56,Ella Moran
 90,Caroline Sun
 b,r,e,a,k
-Massachusetts,2
+Wellesley,2
+teamInfo,Whiptails,"Wellesley, Massachusetts",https://sites.google.com/wellesley.edu/wellesleywhiptails/home,,https://twitter.com/thewholedamnbus
+b,r,e,a,k
+Rochester,3
+teamInfo,EZ Women,"Rochester, New York",https://rochesterezs.wixsite.com/home,https://www.facebook.com/RochesterEZs,https://twitter.com/RochesterEZs
+b,r,e,a,k
+New Hampshire,4
+teamInfo,Oriza Women's Ultimate,"Durham, New Hampshire",https://campusrec.unh.edu/programs/sport-clubs/ultimate-frisbee-women,https://www.facebook.com/unhorizaultimate/,https://twitter.com/unhorizaulti?lang=en
+0,Elizabeth Roberge
+0,Haley Faucher
+0,Izzy Moffitt
+0,Kathleen Sheridan
+0,Kathleen Hanson
+0,Marguerite Rice
+0,Samantha McIsaac
+0,Acadia Gafford
+12,Acadia Spear
+24,Julia Edgar
+b,r,e,a,k
+Massachusetts,5
 teamInfo,Zoola A,"Amherst, Massachusetts",,https://www.facebook.com/pages/Lady-Zoo-Ultimate-Frisbee/124773454891,https://twitter.com/ladyzooultimate
 0,Abigail Freeman
 0,Gianna Elie
@@ -41,13 +60,7 @@ teamInfo,Zoola A,"Amherst, Massachusetts",,https://www.facebook.com/pages/Lady-Z
 8,Elsbeth Wendell
 21,Chloé Misiak
 b,r,e,a,k
-Wellesley,3
-teamInfo,Whiptails,"Wellesley, Massachusetts",https://sites.google.com/wellesley.edu/wellesleywhiptails/home,,https://twitter.com/thewholedamnbus
-b,r,e,a,k
-Rochester,4
-teamInfo,EZ Women,"Rochester, New York",https://rochesterezs.wixsite.com/home,https://www.facebook.com/RochesterEZs,https://twitter.com/RochesterEZs
-b,r,e,a,k
-Colby,5
+Colby,6
 teamInfo,Women's,"Waterville, Maine",http://web.colby.edu/ultimate,,
 0,Annika Bjorklund
 0,Caroline Thornton
@@ -56,19 +69,6 @@ teamInfo,Women's,"Waterville, Maine",http://web.colby.edu/ultimate,,
 0,Piper Ullmann
 0,Sierra Rothman-Haji
 0,Stacy Kim
-b,r,e,a,k
-New Hampshire,6
-teamInfo,Oriza Women's Ultimate,"Durham, New Hampshire",https://campusrec.unh.edu/programs/sport-clubs/ultimate-frisbee-women,https://www.facebook.com/unhorizaultimate/,https://twitter.com/unhorizaulti?lang=en
-0,Elizabeth Roberge
-0,Haley Faucher
-0,Izzy Moffitt
-0,Kathleen Sheridan
-0,Kathleen Hanson
-0,Marguerite Rice
-0,Samantha McIsaac
-0,Acadia Gafford
-12,Acadia Spear
-24,Julia Edgar
 b,r,e,a,k
 NYU,7
 teamInfo,NYU Purple Reign,"New York, New York",,,
@@ -92,17 +92,23 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool
 pool,Pool A
-Yale,Wellesley,0,0,"03/01/2025, 09:30",Pool A,Scheduled
-Massachusetts,Rochester,0,0,"03/01/2025, 09:30",Pool A,Scheduled
-Yale,Rochester,0,0,"03/01/2025, 11:30",Pool A,Scheduled
-Massachusetts,Wellesley,0,0,"03/01/2025, 11:30",Pool A,Scheduled
-Yale,Massachusetts,0,0,"03/01/2025, 13:30",Pool A,Scheduled
-Wellesley,Rochester,0,0,"03/01/2025, 13:30",Pool A,Scheduled
+Yale,Rochester,0,0,"03/01/2025, 10:00",Pool A,Scheduled
+Wellesley,New Hampshire,0,0,"03/01/2025, 10:00",Pool A,Scheduled
+Yale,Wellesley,0,0,"03/01/2025, 12:00",Pool A,Scheduled
+Rochester,New Hampshire,0,0,"03/01/2025, 12:00",Pool A,Scheduled
+Yale,New Hampshire,0,0,"03/01/2025, 14:00",Pool A,Scheduled
+Wellesley,Rochester,0,0,"03/01/2025, 14:00",Pool A,Scheduled
 pool,Pool B
-Colby,NYU,0,0,"03/01/2025, 09:30",Pool B,Scheduled
-New Hampshire,Cornell (B),0,0,"03/01/2025, 09:30",Pool B,Scheduled
-Colby,Cornell (B),0,0,"03/01/2025, 11:30",Pool B,Scheduled
-New Hampshire,NYU,0,0,"03/01/2025, 11:30",Pool B,Scheduled
-Colby,New Hampshire,0,0,"03/01/2025, 13:30",Pool B,Scheduled
-NYU,Cornell (B),0,0,"03/01/2025, 13:30",Pool B,Scheduled
+Massachusetts,NYU,0,0,"03/01/2025, 10:00",Pool B,Scheduled
+Colby,Cornell (B),0,0,"03/01/2025, 10:00",Pool B,Scheduled
+Massachusetts,Cornell (B),0,0,"03/01/2025, 12:00",Pool B,Scheduled
+Colby,NYU,0,0,"03/01/2025, 12:00",Pool B,Scheduled
+Massachusetts,Colby,0,0,"03/01/2025, 14:00",Pool B,Scheduled
+NYU,Cornell (B),0,0,"03/01/2025, 14:00",Pool B,Scheduled
+b,r,e,a,k
+brackets,Bracket
+bracket,Championship
+bracket,5th
+bracket,7th
+bracket,3rd
 b,r,e,a,k
