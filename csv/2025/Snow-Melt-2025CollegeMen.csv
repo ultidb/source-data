@@ -290,13 +290,17 @@ Denver,Montana State,0,0,"03/01/2025, 15:20",Pool A,Scheduled
 pool,Pool B
 Colorado College,Denver (B),13,4,"03/01/2025, 09:00",Pool B,Final
 Colorado College,California (B),13,5,"03/01/2025, 10:35",Pool B,Final
-California (B),Denver (B),0,0,"03/01/2025, 12:10",Pool B,Scheduled
+California (B),Denver (B),12,5,"03/01/2025, 12:10",Pool B,Final
 pool,Pool C
 Colorado Mines,Colorado State (B),13,5,"03/01/2025, 09:00",Pool C,Final
 Colorado Mines,Brigham Young (B),11,9,"03/01/2025, 10:35",Pool C,Final
 Brigham Young (B),Colorado State (B),13,9,"03/01/2025, 12:10",Pool C,Final
 b,r,e,a,k
 clusters,Pool B/C Crossovers
+cluster,Pools B & C Crossovers
+Colorado College,Colorado Mines,0,0,"03/01/2025, 13:45",,Scheduled
+California (B),Colorado State (B),0,0,"03/01/2025, 13:45",,Scheduled
+Brigham Young (B),Denver (B),0,0,"03/01/2025, 13:45",,Scheduled
 b,r,e,a,k
 brackets,Bracket Play
 bracket,Championship Bracket
