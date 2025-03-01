@@ -159,6 +159,25 @@ coaches,Kevin Habermas
 16,Micah Moore
 58,Ian Rankin
 b,r,e,a,k
+SUNY-Albany,11
+teamInfo,SCAM,"Albany, New York",https://www.instagram.com/ualbanyultimate/,,
+0,Brandon  Patanjo
+0,Justin Ault
+0,Owen Castor
+0,Pierce O'Connell
+1,Ian Johnson
+4,Daniel Bishop
+6,Miguel Leal
+10,Abdulraouf Kablaoui
+11,Jacob Buono
+13,Ryan Deveraux
+14,Luke Lohrfink
+16,Luke Youngmann
+17,Tyler Stack
+24,Nathaniel Wheeler
+88,Evan Gorthy
+99,Chris Cooney
+b,r,e,a,k
 West Chester,8
 teamInfo,A,"West Chester , Pennsylvania",,,
 0,Cole Beck-Campbell
@@ -181,24 +200,57 @@ teamInfo,A,"West Chester , Pennsylvania",,,
 51,Joseph Colodonato
 99,Anthony Farina
 b,r,e,a,k
-SUNY-Albany,11
-teamInfo,SCAM,"Albany, New York",https://www.instagram.com/ualbanyultimate/,,
-0,Brandon  Patanjo
-0,Justin Ault
-0,Owen Castor
-0,Pierce O'Connell
-1,Ian Johnson
-4,Daniel Bishop
-6,Miguel Leal
-10,Abdulraouf Kablaoui
-11,Jacob Buono
-13,Ryan Deveraux
-14,Luke Lohrfink
-16,Luke Youngmann
-17,Tyler Stack
-24,Nathaniel Wheeler
-88,Evan Gorthy
-99,Chris Cooney
+Johns Hopkins,10
+teamInfo,Dangerzone,"Baltimore, Maryland",http://jhudangerzone.com,https://www.facebook.com/Dangerzone-Johns-Hopkins-University-Ultimate-180573762009844,https://twitter.com/dangerzoneulti
+01,Abel Widiss
+03,David Sullivan
+04,Jed Cohen
+07,Daniel Naiman
+08,William Song
+10,Tyler Lehrfeld
+11,Ishmeal Lee
+14,Collin Gonzales-Tapley
+18,Julian Ching Hei Chow
+22,Alan Chen
+23,Travis Tran
+24,Rui do Rosario
+26,Gene Weng
+31,Josiah Power
+33,Mathieu Willems
+34,Jackson Guo
+42,Andy Wang
+45,Colin Salisbury
+50,Caleb Mahle
+77,Jayvik Joshi
+99,Patrick Li
+b,r,e,a,k
+Rutgers,9
+teamInfo,Machine,"New Brunswick, New Jersey",rutgersultimate.com,,
+coaches,Dmitry Suvorov
+0,Avi Torres
+0,Brian Barry
+0,Charles Conner
+0,Ammar Danish
+0,Joseph Alfarano
+0,Matthew Jean
+0,Perry Chu
+0,Ryan  Jawor 
+3,Tyler Mackey
+7,Vishal Anand
+9,Gerard Bryson
+13,Arthur Liaw
+14,Gianluca Pagano
+17,Daniel Han
+18,Shiloh Duan
+20,Jakob Lehmann
+24,Mohammed Danish
+25,Tiancheng Dong
+27,Jinhu Chung
+30,Yongqin Feng
+37,Patrick Zong
+45,Michael Supple
+82,Evan Ragone
+86,Jason Furbee
 b,r,e,a,k
 Lehigh,3
 teamInfo,Lehigh,"Bethlehem, Pennsylvania",,,https://twitter.com/lehighultimate
@@ -245,58 +297,6 @@ teamInfo,Green Eggs and Ham,"Buffalo, New York",,https://www.facebook.com/buffal
 7,Nicolas Angulo Stevenson
 9,Devin Hendricks
 b,r,e,a,k
-Rutgers,9
-teamInfo,Machine,"New Brunswick, New Jersey",rutgersultimate.com,,
-coaches,Dmitry Suvorov
-0,Avi Torres
-0,Brian Barry
-0,Charles Conner
-0,Ammar Danish
-0,Joseph Alfarano
-0,Matthew Jean
-0,Perry Chu
-0,Ryan  Jawor 
-3,Tyler Mackey
-7,Vishal Anand
-9,Gerard Bryson
-13,Arthur Liaw
-14,Gianluca Pagano
-17,Daniel Han
-18,Shiloh Duan
-20,Jakob Lehmann
-24,Mohammed Danish
-25,Tiancheng Dong
-27,Jinhu Chung
-30,Yongqin Feng
-37,Patrick Zong
-45,Michael Supple
-82,Evan Ragone
-86,Jason Furbee
-b,r,e,a,k
-Johns Hopkins,10
-teamInfo,Dangerzone,"Baltimore, Maryland",http://jhudangerzone.com,https://www.facebook.com/Dangerzone-Johns-Hopkins-University-Ultimate-180573762009844,https://twitter.com/dangerzoneulti
-01,Abel Widiss
-03,David Sullivan
-04,Jed Cohen
-07,Daniel Naiman
-08,William Song
-10,Tyler Lehrfeld
-11,Ishmeal Lee
-14,Collin Gonzales-Tapley
-18,Julian Ching Hei Chow
-22,Alan Chen
-23,Travis Tran
-24,Rui do Rosario
-26,Gene Weng
-31,Josiah Power
-33,Mathieu Willems
-34,Jackson Guo
-42,Andy Wang
-45,Colin Salisbury
-50,Caleb Mahle
-77,Jayvik Joshi
-99,Patrick Li
-b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
@@ -307,15 +307,15 @@ Towson,RIT,0,0,"03/01/2025, 14:00",Pool A,Scheduled
 Case Western Reserve,Towson,0,0,"03/01/2025, 15:45",Pool A,Scheduled
 RIT,SUNY-Cortland,0,0,"03/01/2025, 15:45",Pool A,Scheduled
 pool,Pool B
-Cornell,West Chester,0,0,"03/01/2025, 08:45",Pool B,Scheduled
-Liberty,SUNY-Albany,0,0,"03/01/2025, 08:45",Pool B,Scheduled
+Cornell,West Chester,11,7,"03/01/2025, 08:45",Pool B,Final
+Liberty,SUNY-Albany,10,7,"03/01/2025, 08:45",Pool B,Final
 Cornell,SUNY-Albany,0,0,"03/01/2025, 10:30",Pool B,Scheduled
 Liberty,West Chester,0,0,"03/01/2025, 10:30",Pool B,Scheduled
 Cornell,Liberty,0,0,"03/01/2025, 12:15",Pool B,Scheduled
 West Chester,SUNY-Albany,0,0,"03/01/2025, 12:15",Pool B,Scheduled
 pool,Pool C
 Lehigh,Rutgers,0,0,"03/01/2025, 08:45",Pool C,Scheduled
-SUNY-Buffalo,Johns Hopkins,0,0,"03/01/2025, 08:45",Pool C,Scheduled
+SUNY-Buffalo,Johns Hopkins,5,9,"03/01/2025, 08:45",Pool C,Final
 Lehigh,Johns Hopkins,0,0,"03/01/2025, 10:30",Pool C,Scheduled
 SUNY-Buffalo,Rutgers,0,0,"03/01/2025, 10:30",Pool C,Scheduled
 Lehigh,SUNY-Buffalo,0,0,"03/01/2025, 14:00",Pool C,Scheduled
