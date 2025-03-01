@@ -232,9 +232,9 @@ pool,Pool A
 Ohio,Drexel,8,6,"03/01/2025, 09:00",Pool A,Final
 Penn State-Behrend,Denison,13,1,"03/01/2025, 09:00",Pool A,Final
 Penn State-Behrend,Drexel,3,8,"03/01/2025, 10:30",Pool A,Final
-Ohio,Denison,0,0,"03/01/2025, 12:00",Pool A,Scheduled
+Ohio,Denison,13,1,"03/01/2025, 12:00",Pool A,Final
 Ohio,Penn State-Behrend,13,6,"03/01/2025, 13:30",Pool A,Final
-Drexel,Denison,0,0,"03/01/2025, 13:30",Pool A,Scheduled
+Drexel,Denison,13,0,"03/01/2025, 13:30",Pool A,Final
 pool,Pool B
 West Virginia,Maryland (B),13,1,"03/01/2025, 09:00",Pool B,Final
 Akron,Ohio (B),12,2,"03/01/2025, 09:00",Pool B,Final
@@ -248,6 +248,9 @@ Kent State,Cleveland State,5,4,"03/01/2025, 12:00",Pool C,Final
 Butler,Kent State,13,1,"03/01/2025, 13:30",Pool C,Final
 b,r,e,a,k
 clusters,Crossover
+cluster,Crossover
+Penn State-Behrend,Ohio (B),0,0,"03/02/2025, 10:00",,Scheduled
+Maryland (B),Denison,0,0,"03/02/2025, 10:00",,Scheduled
 b,r,e,a,k
 pools,7th Place
 pool,Pool D
@@ -255,6 +258,7 @@ b,r,e,a,k
 brackets,Bracket Play
 bracket,Championship
 Kent State,West Virginia,0,0,"03/02/2025, 10:00",Quarter Finals,Scheduled
+Butler,Drexel,0,0,"03/02/2025, 10:00",Quarter Finals,Scheduled
 bracket,3rd Place
 bracket,5th Place
 bracket,10th Place
