@@ -22,6 +22,27 @@ teamInfo,the Lorax,"Buffalo, New York",,,
 24,Julia Bembenista
 27,Elizabeth Lai
 b,r,e,a,k
+SUNY-Binghamton,1
+teamInfo,Big Bear,"Binghamton , New York",https://bigbearultimate.wordpress.com/,https://www.facebook.com/binghamtonultimate/,
+03,Cianna Burr
+04,Katherine Romero
+06,Toniann Guerreiro
+07,Anastasia  Mamkin
+08,Sofia Sinta
+10,Chaya Spokony
+13,Livia O'Connell
+16,Samantha Coulton
+17,Madeline Carter
+18,Megan Moran
+19,Iris Wiedmann
+23,Emily Cook
+30,Dasha Ydel Aguila
+31,Jaine Paradis
+32,Rebecca Lodespoto
+35,Jadyn  Schoenberg 
+44,Chloe Gillant-Hanusa
+77,Ella Orbach
+b,r,e,a,k
 Lehigh,5
 teamInfo,Gravity,"Bethlehem, Pennsylvania",https://lehighultimate.com,,https://twitter.com/LUgravity
 0,Abigail Vogel
@@ -48,27 +69,6 @@ teamInfo,Gravity,"Bethlehem, Pennsylvania",https://lehighultimate.com,,https://t
 0,Taylor Stanley
 0,Vicki Ma
 4,Mackenzie Wardlow
-b,r,e,a,k
-SUNY-Binghamton,1
-teamInfo,Big Bear,"Binghamton , New York",https://bigbearultimate.wordpress.com/,https://www.facebook.com/binghamtonultimate/,
-03,Cianna Burr
-04,Katherine Romero
-06,Toniann Guerreiro
-07,Anastasia  Mamkin
-08,Sofia Sinta
-10,Chaya Spokony
-13,Livia O'Connell
-16,Samantha Coulton
-17,Madeline Carter
-18,Megan Moran
-19,Iris Wiedmann
-23,Emily Cook
-30,Dasha Ydel Aguila
-31,Jaine Paradis
-32,Rebecca Lodespoto
-35,Jadyn  Schoenberg 
-44,Chloe Gillant-Hanusa
-77,Ella Orbach
 b,r,e,a,k
 Delaware,9
 teamInfo,Sideshow Ultimate,"Newark, Delaware",,,
@@ -268,6 +268,21 @@ teamInfo,Florida) (Southern Tropical Depressions,"Coral Gables, Florida",,https:
 14,Cadence Kelly
 88,Lauren Prenaveau
 b,r,e,a,k
+Towson,11
+teamInfo,Hammertime,"Towson, Maryland",,,
+0,Annelise Riordan
+0,Audrey Madden
+0,Brooke Davidson
+0,Camille  Evans
+0,Felicija Klein-Chesonis
+0,Joan-Alice Gadsden
+0,Jocelyn Cather
+0,Kayla Polk
+0,Kristina Watson
+0,shana Gittleson
+0,Teodora Consoli
+8,Cate Ness
+b,r,e,a,k
 American (B),19
 teamInfo,Dirty Ladies,"Washington DC, District of Columbia",,,
 0,Elena Zimmerman
@@ -286,21 +301,6 @@ teamInfo,Dirty Ladies,"Washington DC, District of Columbia",,,
 28,Dominique Dillard
 34,Allie Weisser
 83,Caroline Voccio
-b,r,e,a,k
-Towson,11
-teamInfo,Hammertime,"Towson, Maryland",,,
-0,Annelise Riordan
-0,Audrey Madden
-0,Brooke Davidson
-0,Camille  Evans
-0,Felicija Klein-Chesonis
-0,Joan-Alice Gadsden
-0,Jocelyn Cather
-0,Kayla Polk
-0,Kristina Watson
-0,shana Gittleson
-0,Teodora Consoli
-8,Cate Ness
 b,r,e,a,k
 Penn State,4
 teamInfo,Crisis,"University Park, Pennsylvania",https://psuwomensultimate.weebly.com/,,https://twitter.com/crisisultimate
@@ -397,7 +397,7 @@ Lehigh,Delaware,3,4,"03/01/2025, 12:00",Pool A,Final
 SUNY-Binghamton,SUNY-Buffalo,6,9,"03/01/2025, 13:45",Pool A,Final
 Lehigh,George Mason,5,3,"03/01/2025, 13:45",Pool A,Final
 SUNY-Binghamton,Lehigh,5,6,"03/01/2025, 15:30",Pool A,Final
-Delaware,George Mason,W,F,"03/01/2025, 15:30",Pool A,Scheduled
+Delaware,George Mason,W,F,"03/01/2025, 15:30",Pool A,Final
 pool,Pool B
 American,Pennsylvania (B),13,0,"03/01/2025, 08:30",Pool B,Final
 George Washington,Brown (B),8,7,"03/01/2025, 08:30",Pool B,Final
@@ -418,8 +418,8 @@ Miami (Florida),American (B),7,4,"03/01/2025, 12:00",Pool C,Final
 East Carolina,Towson,7,3,"03/01/2025, 12:00",Pool C,Final
 Haverford-Bryn Mawr,Miami (Florida),13,0,"03/01/2025, 13:45",Pool C,Final
 East Carolina,American (B),4,1,"03/01/2025, 13:45",Pool C,Final
-Haverford-Bryn Mawr,East Carolina,W,F,"03/01/2025, 15:30",Pool C,Scheduled
-Towson,American (B),0,0,"03/01/2025, 15:30",Pool C,Scheduled
+Haverford-Bryn Mawr,East Carolina,W,F,"03/01/2025, 15:30",Pool C,Final
+Towson,American (B),5,2,"03/01/2025, 15:30",Pool C,Final
 pool,Pool D
 Penn State,Catholic,6,2,"03/01/2025, 10:15",Pool D,Final
 Johns Hopkins,William & Mary (B),8,7,"03/01/2025, 10:15",Pool D,Final
@@ -430,6 +430,10 @@ Catholic,William & Mary (B),7,1,"03/01/2025, 13:45",Pool D,Final
 b,r,e,a,k
 brackets,Bracket Play
 bracket,Championship
+Maryland,Miami (Florida),0,0,"03/02/2025, 09:00",Pre-Quarters,Scheduled
+East Carolina,George Washington,0,0,"03/02/2025, 09:00",Pre-Quarters,Scheduled
+SUNY-Binghamton,Johns Hopkins,0,0,"03/02/2025, 09:00",Pre-Quarters,Scheduled
+Catholic,Lehigh,0,0,"03/02/2025, 09:00",Pre-Quarters,Scheduled
 bracket,3rd Place 
 bracket,5th Place
 bracket,7th Place 
@@ -438,6 +442,15 @@ bracket,11th Place
 b,r,e,a,k
 pools,Consolation Pool
 pool,Pool E
+Towson,American (B),0,0,"03/02/2025, 09:00",Pool E,Scheduled
+Delaware,William & Mary (B),0,0,"03/02/2025, 09:00",Pool E,Scheduled
 Brown (B),Pennsylvania (B),0,0,"03/02/2025, 09:00",Pool E,Scheduled
+Delaware,Pennsylvania (B),0,0,"03/02/2025, 10:45",Pool E,Scheduled
+George Mason,American (B),0,0,"03/02/2025, 10:45",Pool E,Scheduled
 Brown (B),William & Mary (B),0,0,"03/02/2025, 12:30",Pool E,Scheduled
+Delaware,George Mason,0,0,"03/02/2025, 12:30",Pool E,Scheduled
+Towson,William & Mary (B),0,0,"03/02/2025, 12:30",Pool E,Scheduled
+Brown (B),American (B),0,0,"03/02/2025, 14:15",Pool E,Scheduled
+Delaware,Towson,0,0,"03/02/2025, 14:15",Pool E,Scheduled
+Pennsylvania (B),American (B),0,0,"03/02/2025, 14:15",Pool E,Scheduled
 b,r,e,a,k
