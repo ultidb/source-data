@@ -100,33 +100,6 @@ teamInfo,Extinction,"Fairfax, Virginia",http://masonextinction.wordpress.com,htt
 32,Phoebe Nichols
 91,Megan Kurisky
 b,r,e,a,k
-Maryland,6
-teamInfo,Helpful Corn,"College Park, Maryland",https://sites.google.com/site/umdwomensultimate/,https://www.instagram.com/umdwultimate/,https://twitter.com/UMD_HelpfulCorn
-coaches,Daniel Hartsoe
-5,Alys Shah
-7,Larissa Sakaria
-8,Maya Dubensky
-9,Liliana Daugherty
-10,Vanessa Fan
-11,Isabella Wahl
-12,Jade LeSchack
-13,Charlotte Krisetya
-14,Zoe Barbour
-17,Macy Donahoe
-18,Avery DeOcampo
-22,Ellen Rauck
-23,Charlotte Milner
-24,Jeanette Meek
-26,Christina Lee
-31,Sabine May
-33,Eva Shudt
-35,Ella Kesler
-36,Druscilla Darkwa
-39,Christina Pannullo
-66,Sarah Joffrion
-72,Kianna Davis
-77,Erin Nicolson
-b,r,e,a,k
 American,2
 teamInfo,Dirty Ladies,"Washington, District of Columbia",http://audirtyladies.weebly.com/,https://www.facebook.com/AUDirtyLadies,https://twitter.com/AUDirtyLadies
 0,Casey Hiss
@@ -154,21 +127,32 @@ teamInfo,Dirty Ladies,"Washington, District of Columbia",http://audirtyladies.we
 69,Fiona Harris
 78,Clara Watson
 b,r,e,a,k
-Brown (B),14
-teamInfo,Cosmic Rays,"Providence, Rhode Island",,,https://twitter.com/BrownCorays
-0,Bella Pitman
-0,Catherine Latimer
-0,Elina Coutlakis-Hixson
-0,Lorena Calderon
-0,Maya Wadhwani
-0,Nanami Hasegawa
-0,Rosalie Saffer-Meng
-0,Una Dorr 
-5,Erin Epstein
-6,Laura Romig
-7,Fiona Harrington
-10,Hannah Saiger
-21,Julia Dubnoff
+Maryland,6
+teamInfo,Helpful Corn,"College Park, Maryland",https://sites.google.com/site/umdwomensultimate/,https://www.instagram.com/umdwultimate/,https://twitter.com/UMD_HelpfulCorn
+coaches,Daniel Hartsoe
+5,Alys Shah
+7,Larissa Sakaria
+8,Maya Dubensky
+9,Liliana Daugherty
+10,Vanessa Fan
+11,Isabella Wahl
+12,Jade LeSchack
+13,Charlotte Krisetya
+14,Zoe Barbour
+17,Macy Donahoe
+18,Avery DeOcampo
+22,Ellen Rauck
+23,Charlotte Milner
+24,Jeanette Meek
+26,Christina Lee
+31,Sabine May
+33,Eva Shudt
+35,Ella Kesler
+36,Druscilla Darkwa
+39,Christina Pannullo
+66,Sarah Joffrion
+72,Kianna Davis
+77,Erin Nicolson
 b,r,e,a,k
 George Washington,10
 teamInfo,George Washington Women's Club Ultimate,"Washington, District of Columbia",https://gdubladyhippos.wixsite.com/gdubladyhippos,https://www.facebook.com/GDubWomensUltimateFrisbee/,https://twitter.com/gdub_hippos
@@ -191,6 +175,22 @@ teamInfo,George Washington Women's Club Ultimate,"Washington, District of Columb
 26,Tatiana Bird
 27,Rita Seidl
 72,Chimwemwe Doran
+b,r,e,a,k
+Brown (B),14
+teamInfo,Cosmic Rays,"Providence, Rhode Island",,,https://twitter.com/BrownCorays
+0,Bella Pitman
+0,Catherine Latimer
+0,Elina Coutlakis-Hixson
+0,Lorena Calderon
+0,Maya Wadhwani
+0,Nanami Hasegawa
+0,Rosalie Saffer-Meng
+0,Una Dorr 
+5,Erin Epstein
+6,Laura Romig
+7,Fiona Harrington
+10,Hannah Saiger
+21,Julia Dubnoff
 b,r,e,a,k
 Pennsylvania (B),18
 teamInfo,Venus,"Philadelphia, Pennsylvania",https://sites.google.com/view/venus-penn-ultimate/home?authuser=1,https://www.facebook.com/VenusUltimate/,https://twitter.com/venusultimate
@@ -407,8 +407,8 @@ Brown (B),Pennsylvania (B),6,2,"03/01/2025, 12:00",Pool B,Final
 Maryland,George Washington,8,0,"03/01/2025, 12:00",Pool B,Final
 American,Brown (B),6,8,"03/01/2025, 13:45",Pool B,Final
 Maryland,Pennsylvania (B),5,2,"03/01/2025, 13:45",Pool B,Final
-American,Maryland,0,0,"03/01/2025, 15:30",Pool B,Scheduled
-George Washington,Pennsylvania (B),0,0,"03/01/2025, 15:30",Pool B,Scheduled
+American,Maryland,5,2,"03/01/2025, 15:30",Pool B,Final
+George Washington,Pennsylvania (B),3,1,"03/01/2025, 15:30",Pool B,Final
 pool,Pool C
 Haverford-Bryn Mawr,American (B),13,0,"03/01/2025, 08:30",Pool C,Final
 Towson,Miami (Florida),4,7,"03/01/2025, 08:30",Pool C,Final
@@ -438,4 +438,6 @@ bracket,11th Place
 b,r,e,a,k
 pools,Consolation Pool
 pool,Pool E
+Brown (B),Pennsylvania (B),0,0,"03/02/2025, 09:00",Pool E,Scheduled
+Brown (B),William & Mary (B),0,0,"03/02/2025, 12:30",Pool E,Scheduled
 b,r,e,a,k
