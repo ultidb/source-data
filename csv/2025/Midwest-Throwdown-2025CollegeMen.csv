@@ -294,55 +294,6 @@ teamInfo,Breauzone,"Eau Claire, Wisconsin",,,
 0,Max Grosland
 0,Miles Zimmerman
 b,r,e,a,k
-Wisconsin-Eau Claire,4
-teamInfo,EauZone,"Eau Claire, Wisconsin",https://www.instagram.com/eauzoneultimate/,https://www.facebook.com/pages/Eauzone/123562074416368,https://twitter.com/eauzoneultimate
-0,Alex Theriot
-0,Braeden Murphy
-0,Carter Klug
-0,Evan Carter
-0,Gabriel Smerillo
-0,Jon Caravella
-0,Maximilian  Petitjean 
-0,Michael Dick
-0,Mino Whitley Mott
-0,Torrian Samuels
-1,Brett Duncan
-2,John Stevenson
-3,James Harvey
-7,Max Muench
-13,Haakon Neske
-16,Jay Lonetree
-17,James Briscoe
-18,Reed Selvey
-20,Adrian Haugee
-23,Benjamin Anderson
-55,Liam Lamb
-88,Dylan Schohn
-b,r,e,a,k
-Marquette,7
-teamInfo,Birdhouse,"Milwaukee, Wisconsin",https://www.birdhouseultimate.com/home,https://www.facebook.com/marquetteultimate,https://twitter.com/BirdhouseMU
-0,Myles Boehm
-1,Isaac  Shimek
-9,Jonathan Snell
-12,Evan Frias
-13,Cade Neubauer
-14,Jackson Seltzer
-24,Adam Bauman
-27,Ben Hanson
-28,Kyle Reader
-30,Sean Habash
-33,nathan shannon
-34,William Halm
-35,Robert Sedlack
-39,Francis Nuguid
-50,Kaden Christiansen
-51,Tom Budka
-56,Ryan Laughlin
-66,Noah Anders
-75,Joshua Hubble
-80,Reid Lancaster
-89,Noah Kaye
-b,r,e,a,k
 DePaul,14
 teamInfo,DUC,"Chicago, Illinois",http://www.instagram.com/depaulultimate,,https://twitter.com/depaultimate
 0,Evan Lutz
@@ -371,6 +322,55 @@ teamInfo,DUC,"Chicago, Illinois",http://www.instagram.com/depaulultimate,,https:
 51,Aiden Rathmann
 80,William Hollis
 99,Giri Peters
+b,r,e,a,k
+Marquette,7
+teamInfo,Birdhouse,"Milwaukee, Wisconsin",https://www.birdhouseultimate.com/home,https://www.facebook.com/marquetteultimate,https://twitter.com/BirdhouseMU
+0,Myles Boehm
+1,Isaac  Shimek
+9,Jonathan Snell
+12,Evan Frias
+13,Cade Neubauer
+14,Jackson Seltzer
+24,Adam Bauman
+27,Ben Hanson
+28,Kyle Reader
+30,Sean Habash
+33,nathan shannon
+34,William Halm
+35,Robert Sedlack
+39,Francis Nuguid
+50,Kaden Christiansen
+51,Tom Budka
+56,Ryan Laughlin
+66,Noah Anders
+75,Joshua Hubble
+80,Reid Lancaster
+89,Noah Kaye
+b,r,e,a,k
+Wisconsin-Eau Claire,4
+teamInfo,EauZone,"Eau Claire, Wisconsin",https://www.instagram.com/eauzoneultimate/,https://www.facebook.com/pages/Eauzone/123562074416368,https://twitter.com/eauzoneultimate
+0,Alex Theriot
+0,Braeden Murphy
+0,Carter Klug
+0,Evan Carter
+0,Gabriel Smerillo
+0,Jon Caravella
+0,Maximilian  Petitjean 
+0,Michael Dick
+0,Mino Whitley Mott
+0,Torrian Samuels
+1,Brett Duncan
+2,John Stevenson
+3,James Harvey
+7,Max Muench
+13,Haakon Neske
+16,Jay Lonetree
+17,James Briscoe
+18,Reed Selvey
+20,Adrian Haugee
+23,Benjamin Anderson
+55,Liam Lamb
+88,Dylan Schohn
 b,r,e,a,k
 Knox,17
 teamInfo,River Rats,"Galesburg, Illinois",,,
@@ -509,12 +509,12 @@ pool,Pool C
 Iowa,Wisconsin-Eau Claire (B),13,2,"03/01/2025, 08:00",Pool C,Final
 Southern Illinois-Edwardsville,Illinois State,9,5,"03/01/2025, 09:30",Pool C,Final
 Iowa,Southern Illinois-Edwardsville,6,9,"03/01/2025, 11:00",Pool C,Final
-Illinois State,Wisconsin-Eau Claire (B),0,0,"03/01/2025, 11:00",Pool C,Scheduled
+Illinois State,Wisconsin-Eau Claire (B),10,3,"03/01/2025, 11:00",Pool C,Final
 Iowa,Illinois State,13,4,"03/01/2025, 12:30",Pool C,Final
 Southern Illinois-Edwardsville,Wisconsin-Eau Claire (B),13,1,"03/01/2025, 12:30",Pool C,Final
 pool,Pool D
-Wisconsin-Eau Claire,Marquette,0,0,"03/01/2025, 14:00",Pool D,Scheduled
-DePaul,Knox,0,0,"03/01/2025, 14:00",Pool D,Scheduled
+Wisconsin-Eau Claire,Marquette,7,8,"03/01/2025, 14:00",Pool D,Final
+DePaul,Knox,12,9,"03/01/2025, 14:00",Pool D,Final
 Wisconsin-Eau Claire,Knox,0,0,"03/01/2025, 15:30",Pool D,Scheduled
 Marquette,DePaul,0,0,"03/01/2025, 15:30",Pool D,Scheduled
 Wisconsin-Eau Claire,DePaul,0,0,"03/01/2025, 17:00",Pool D,Scheduled
@@ -539,4 +539,5 @@ bracket,15th Place
 b,r,e,a,k
 pools,Consolation Round Robin
 pool,Pool F
+Carleton College (C),Wisconsin-Eau Claire (B),0,0,"03/02/2025, 08:00",Pool F,Scheduled
 b,r,e,a,k
