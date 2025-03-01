@@ -30,6 +30,27 @@ coaches,Meriden Estes
 88,Kate Gearing
 99,Lia Schwartz
 b,r,e,a,k
+Brigham Young,17
+teamInfo,CHI,"Provo, Utah",,,
+0,Becky Stevens
+0,Brooke Hammond
+0,Carly Nash
+0,Chrissy Lochhead
+0,Emma Reeves
+0,Errolyn Slaugh
+0,Karinn Sharp
+0,Lindsey Barlow
+0,Mahalie Barlow
+0,Margaret Davis
+0,Michelle Haddock
+0,Olivia Munns
+12,Tami Lee
+13,Kate Barry
+16,Nicole Merrill
+46,Sadie Flanary Denney
+49,Tara McBride
+81,Autumn Porter
+b,r,e,a,k
 California-Santa Barbara,8
 teamInfo,Burning Skirts,"Goleta, California",,https://www.facebook.com/BSkirts/,https://twitter.com/BSkirts?lang=en
 0,Aya Smoot
@@ -58,27 +79,6 @@ teamInfo,Burning Skirts,"Goleta, California",,https://www.facebook.com/BSkirts/,
 44,Daisy Cuthbert
 45,Amelia Whitacre
 82,Helen Sweeney
-b,r,e,a,k
-Brigham Young,17
-teamInfo,CHI,"Provo, Utah",,,
-0,Becky Stevens
-0,Brooke Hammond
-0,Carly Nash
-0,Chrissy Lochhead
-0,Emma Reeves
-0,Errolyn Slaugh
-0,Karinn Sharp
-0,Lindsey Barlow
-0,Mahalie Barlow
-0,Margaret Davis
-0,Michelle Haddock
-0,Olivia Munns
-12,Tami Lee
-13,Kate Barry
-16,Nicole Merrill
-46,Sadie Flanary Denney
-49,Tara McBride
-81,Autumn Porter
 b,r,e,a,k
 UCLA,9
 teamInfo,BLU,"Los Angeles, California",http://uclaclubsports.com/index.aspx?path=wuf,https://www.facebook.com/UCLABLU,https://www.twitter.com/blultimate
@@ -457,11 +457,11 @@ Tufts,Texas-Dallas,13,2,"03/01/2025, 08:00",Pool A,Final
 California-Santa Barbara,Brigham Young,11,12,"03/01/2025, 08:00",Pool A,Final
 Tufts,Brigham Young,13,7,"03/01/2025, 09:30",Pool A,Final
 California-Santa Barbara,UCLA,12,11,"03/01/2025, 09:30",Pool A,Final
-Texas-Dallas,Brigham Young,0,0,"03/01/2025, 11:00",Pool A,Scheduled
+Texas-Dallas,Brigham Young,8,11,"03/01/2025, 11:00",Pool A,Scheduled
 Tufts,California-Santa Barbara,12,8,"03/01/2025, 11:00",Pool A,Final
 Tufts,UCLA,0,0,"03/01/2025, 11:00",Pool A,Scheduled
 Texas-Dallas,California-Santa Barbara,0,0,"03/01/2025, 12:30",Pool A,Scheduled
-Texas-Dallas,UCLA,0,0,"03/01/2025, 12:30",Pool A,Scheduled
+Texas-Dallas,UCLA,8,12,"03/01/2025, 12:30",Pool A,Final
 UCLA,Brigham Young,0,0,"03/01/2025, 14:00",Pool A,Scheduled
 pool,Pool B
 California-Davis,Northeastern,9,11,"03/01/2025, 08:00",Pool B,Final
@@ -475,8 +475,8 @@ Cal Poly-SLO,Wisconsin,12,9,"03/01/2025, 08:00",Pool C,Final
 Stanford,Brown,13,4,"03/01/2025, 09:30",Pool C,Final
 Cal Poly-SLO,Brown,13,4,"03/01/2025, 11:00",Pool C,Final
 Stanford,Wisconsin,13,5,"03/01/2025, 11:00",Pool C,Final
-Brown,Wisconsin,0,0,"03/01/2025, 12:30",Pool C,Scheduled
-Cal Poly-SLO,Stanford,0,0,"03/01/2025, 12:30",Pool C,Scheduled
+Brown,Wisconsin,6,8,"03/01/2025, 12:30",Pool C,Final
+Cal Poly-SLO,Stanford,7,12,"03/01/2025, 12:30",Pool C,Final
 pool,Pool D
 Washington,Pittsburgh,12,6,"03/01/2025, 08:00",Pool D,Final
 California-San Diego,California,11,6,"03/01/2025, 08:00",Pool D,Final
@@ -487,11 +487,14 @@ Pittsburgh,California,0,0,"03/01/2025, 12:30",Pool D,Scheduled
 b,r,e,a,k
 brackets,Bracket
 bracket,Championship
+California-Santa Cruz,Wisconsin,0,0,"03/01/2025, 15:30",Prequarter,Scheduled
+Cal Poly-SLO,California-Davis,0,0,"03/01/2025, 15:30",Prequarter,Scheduled
 bracket,Third Place
 bracket,Fifth Place
 bracket,Seventh Place
 bracket,Ninth Place
 bracket,Eleventh Place
 bracket,Thirteenth Place
+Brown,Santa Clara,0,0,"03/02/2025, 09:30",13th Semifinal,Scheduled
 bracket,Fifteenth Place
 b,r,e,a,k
