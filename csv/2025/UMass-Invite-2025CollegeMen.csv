@@ -30,6 +30,33 @@ teamInfo,Pranksters,"Middlebury, Vermont",https://go.middlebury.edu/prankstersul
 81,Geir Hartl
 83,Gavin Rice
 b,r,e,a,k
+Tufts (B),8
+teamInfo,Tufts B,"Medford, Massachusetts",www.tuftsmensultimate.org,,
+00,Connor Nightingale
+00,Dylan Prudente
+00,Eli Lipman
+00,Forest Gill
+00,Joshua Fleegler
+00,Joshua Kessler
+00,Justin Hudson
+00,Kimon Krastev
+00,Lev Barnett
+00,Musashi Kuramoto
+00,Nicholas Thorsen
+00,Peter Impink
+00,Ray Feinleib
+00,Ryan Kadet
+00,Stuart  Baybutt
+00,Zach Snyder
+09,Sammy Muench
+12,Charlie Bielawa
+14,Mark Martirosian
+26,Christopher Holden
+30,John Aslanian
+38,Pierce Clark
+41,Maddox Weisz
+47,Suyogya Acharya
+b,r,e,a,k
 Vermont (B),4
 teamInfo,Chill Dev,"Burlington, Vermont",,https://www.facebook.com/Team.Chill.33/,https://twitter.com/team_chill?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
 0,Bryce Lublin
@@ -86,33 +113,6 @@ teamInfo,UConn Huskies,"Storrs, Connecticut",https://www.instagram.com/uconnulti
 12,Alexander Manos
 20,Joshua Kaplan
 b,r,e,a,k
-Tufts (B),8
-teamInfo,Tufts B,"Medford, Massachusetts",www.tuftsmensultimate.org,,
-00,Connor Nightingale
-00,Dylan Prudente
-00,Eli Lipman
-00,Forest Gill
-00,Joshua Fleegler
-00,Joshua Kessler
-00,Justin Hudson
-00,Kimon Krastev
-00,Lev Barnett
-00,Musashi Kuramoto
-00,Nicholas Thorsen
-00,Peter Impink
-00,Ray Feinleib
-00,Ryan Kadet
-00,Stuart  Baybutt
-00,Zach Snyder
-09,Sammy Muench
-12,Charlie Bielawa
-14,Mark Martirosian
-26,Christopher Holden
-30,John Aslanian
-38,Pierce Clark
-41,Maddox Weisz
-47,Suyogya Acharya
-b,r,e,a,k
 Wesleyan,9
 teamInfo,Nietzsch Factor,"Middletown, Connecticut",,https://www.facebook.com/nietzschfactor/,https://twitter.com/nietzschfactor
 0,Denis Cha
@@ -153,6 +153,37 @@ teamInfo,Nietzsch Factor,"Middletown, Connecticut",,https://www.facebook.com/nie
 86,Jackson Barber-Just
 88,Will Clemans
 99,Sam Korenbaum
+b,r,e,a,k
+Williams,2
+teamInfo,WUFO,"Williamstown, Massachusetts",http://williamsultimate.com,,https://www.twitter.com/wufoultimate
+coaches,Michael MacKenzie
+0,Theo Aborn
+2,Kawika Tu
+3,Killian Reilly
+5,Eric Zhou
+6,Innes Asher
+9,Luca Scirica
+01,Sebastian  Espinal
+08,Charles Tantum
+10,Presley Smith
+12,Nathaniel Snow
+13,Timothy Kim
+14,Leo Gentile
+17,James Osborn
+18,Nathaniel Rose
+19,Amir Jeudy
+22,Aidan Slovinski
+24,Kjellen MacBain
+27,David Kimberly
+29,Wade Buchheit
+32,Nicholas Bollman
+35,Orr Teva
+42,Ezra Joffe-Hancock
+52,Fisher Irwin
+55,Joshua Bruns
+76,Kai LaMothe
+88,Kiva Zimmerman
+91,Adam Kohn
 b,r,e,a,k
 Maine,10
 teamInfo,Snositi,"Orono, Maine",https://www.instagram.com/umosnositi/,,
@@ -195,37 +226,6 @@ coaches,Emma Chin
 18,Ezra Gordon
 41,Luke Holtzman
 96,Ziming Yi
-b,r,e,a,k
-Williams,2
-teamInfo,WUFO,"Williamstown, Massachusetts",http://williamsultimate.com,,https://www.twitter.com/wufoultimate
-coaches,Michael MacKenzie
-0,Theo Aborn
-2,Kawika Tu
-3,Killian Reilly
-5,Eric Zhou
-6,Innes Asher
-9,Luca Scirica
-01,Sebastian  Espinal
-08,Charles Tantum
-10,Presley Smith
-12,Nathaniel Snow
-13,Timothy Kim
-14,Leo Gentile
-17,James Osborn
-18,Nathaniel Rose
-19,Amir Jeudy
-22,Aidan Slovinski
-24,Kjellen MacBain
-27,David Kimberly
-29,Wade Buchheit
-32,Nicholas Bollman
-35,Orr Teva
-42,Ezra Joffe-Hancock
-52,Fisher Irwin
-55,Joshua Bruns
-76,Kai LaMothe
-88,Kiva Zimmerman
-91,Adam Kohn
 b,r,e,a,k
 Boston University,7
 teamInfo,Boston University,"Boston, Massachusetts",https://www.facebook.com/BU.Ultimate,https://www.facebook.com/BU.Ultimate,https://twitter.com/ozonepilots
@@ -291,8 +291,8 @@ pool,Pool A
 Middlebury,Wesleyan,12,9,"03/01/2025, 09:00",Pool A,Final
 Connecticut,Tufts (B),11,8,"03/01/2025, 09:00",Pool A,Final
 Middlebury,Connecticut,10,7,"03/01/2025, 10:30",Pool A,Final
-Vermont (B),Tufts (B),9,10,"03/01/2025, 10:30",Pool A,Scheduled
-Tufts (B),Wesleyan,0,0,"03/01/2025, 12:00",Pool A,Scheduled
+Vermont (B),Tufts (B),9,10,"03/01/2025, 10:30",Pool A,Final
+Tufts (B),Wesleyan,9,6,"03/01/2025, 12:00",Pool A,Final
 Vermont (B),Connecticut,9,7,"03/01/2025, 12:00",Pool A,Final
 Middlebury,Tufts (B),0,0,"03/01/2025, 13:30",Pool A,Scheduled
 Vermont (B),Wesleyan,0,0,"03/01/2025, 13:30",Pool A,Scheduled
@@ -303,7 +303,7 @@ Williams,Maine,12,5,"03/01/2025, 09:00",Pool B,Final
 Massachusetts  (B),Boston University,6,9,"03/01/2025, 09:00",Pool B,Final
 Columbia,Boston University,10,7,"03/01/2025, 10:30",Pool B,Final
 Massachusetts  (B),Maine,8,9,"03/01/2025, 10:30",Pool B,Final
-Williams,Columbia,0,0,"03/01/2025, 12:00",Pool B,Scheduled
+Williams,Columbia,10,9,"03/01/2025, 12:00",Pool B,Final
 Boston University,Maine,7,9,"03/01/2025, 12:00",Pool B,Final
 Massachusetts  (B),Columbia,0,0,"03/01/2025, 13:30",Pool B,Scheduled
 Williams,Boston University,0,0,"03/01/2025, 13:30",Pool B,Scheduled
