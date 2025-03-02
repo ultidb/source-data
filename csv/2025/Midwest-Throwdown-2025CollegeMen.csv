@@ -390,6 +390,32 @@ teamInfo,River Rats,"Galesburg, Illinois",,,
 46,Ethan Lundblad
 78,Colton Degen
 b,r,e,a,k
+Illinois (B),15
+teamInfo,Boomland,"Champaign, Illinois",,,https://twitter.com/boomlandulti?lang=en
+6,Matthew Conroy
+7,Ronin Banerjee
+8,Sujay Subramanian
+9,JT DeLongchamp
+10,Sam Dong
+11,Ryan Hof
+13,Jackson Kiedaisch
+15,Samuel Wleklinski
+16,Michael Hu
+19,Declan Delgado
+21,Kevin Tanner
+23,Erik Rothenberger
+24,Rohil Saxena
+25,Arnav Poddar
+29,Jeff Gao
+36,Jeff Burda
+38,Nick Owen
+41,Abbey Mullen
+67,Robert Skrentny
+78,Patrick Huang
+84,Ben Lareau
+87,Elliot Weisfeld
+88,Eric Ho
+b,r,e,a,k
 Iowa State,5
 teamInfo,ISUC,"Ames, Iowa",https://www.stuorg.iastate.edu/isuc,https://www.facebook.com/IowaStateUltimate,https://twitter.com/ISUltimate
 coaches,Dayton Wright
@@ -448,32 +474,6 @@ coaches,Sean Prichard,Elizabeth Curtiss
 69,Dylan Lian
 77,Owen Suelflow
 b,r,e,a,k
-Illinois (B),15
-teamInfo,Boomland,"Champaign, Illinois",,,https://twitter.com/boomlandulti?lang=en
-6,Matthew Conroy
-7,Ronin Banerjee
-8,Sujay Subramanian
-9,JT DeLongchamp
-10,Sam Dong
-11,Ryan Hof
-13,Jackson Kiedaisch
-15,Samuel Wleklinski
-16,Michael Hu
-19,Declan Delgado
-21,Kevin Tanner
-23,Erik Rothenberger
-24,Rohil Saxena
-25,Arnav Poddar
-29,Jeff Gao
-36,Jeff Burda
-38,Nick Owen
-41,Abbey Mullen
-67,Robert Skrentny
-78,Patrick Huang
-84,Ben Lareau
-87,Elliot Weisfeld
-88,Eric Ho
-b,r,e,a,k
 Washington University (B),16
 teamInfo,Contraband,"St. Louis, Missouri",https://sites.wustl.edu/contraband/,,https://www.twitter.com/wucontraband
 0,Andre Leger
@@ -502,7 +502,7 @@ pool,Pool B
 Missouri,St John's (Minnesota),13,3,"03/01/2025, 08:00",Pool B,Final
 Minnesota (B),Purdue (B),13,2,"03/01/2025, 09:30",Pool B,Final
 Missouri,Minnesota (B),12,7,"03/01/2025, 13:00",Pool B,Final
-St John's (Minnesota),Purdue (B),10,5,"03/01/2025, 13:00",Pool B,Final
+St John's (Minnesota),Purdue (B),10,6,"03/01/2025, 13:00",Pool B,Final
 Missouri,Purdue (B),13,1,"03/01/2025, 14:30",Pool B,Final
 Minnesota (B),St John's (Minnesota),11,7,"03/01/2025, 14:30",Pool B,Final
 pool,Pool C
@@ -517,11 +517,11 @@ Wisconsin-Eau Claire,Marquette,7,8,"03/01/2025, 14:00",Pool D,Final
 DePaul,Knox,12,9,"03/01/2025, 14:00",Pool D,Final
 Wisconsin-Eau Claire,Knox,12,7,"03/01/2025, 15:30",Pool D,Final
 Marquette,DePaul,13,4,"03/01/2025, 15:30",Pool D,Final
-Wisconsin-Eau Claire,DePaul,0,0,"03/01/2025, 17:00",Pool D,Scheduled
+Wisconsin-Eau Claire,DePaul,10,5,"03/01/2025, 17:00",Pool D,Final
 Marquette,Knox,13,4,"03/01/2025, 17:00",Pool D,Final
 pool,Pool E
-Iowa State,Macalester,0,0,"03/01/2025, 18:30",Pool E,Scheduled
-Illinois (B),Washington University (B),0,0,"03/01/2025, 18:30",Pool E,Scheduled
+Iowa State,Macalester,13,10,"03/01/2025, 18:30",Pool E,Final
+Illinois (B),Washington University (B),12,7,"03/01/2025, 18:30",Pool E,Final
 Iowa State,Illinois (B),0,0,"03/01/2025, 20:00",Pool E,Scheduled
 Macalester,Washington University (B),0,0,"03/01/2025, 20:00",Pool E,Scheduled
 Iowa State,Washington University (B),0,0,"03/01/2025, 21:30",Pool E,Scheduled
@@ -530,6 +530,9 @@ b,r,e,a,k
 brackets,Bracket Play
 bracket,Championship
 Iowa,Minnesota (B),0,0,"03/02/2025, 09:30",Prequarterfinals,Scheduled
+Marquette,Illinois State,0,0,"03/02/2025, 09:30",Prequarterfinals,Scheduled
+Wisconsin-Eau Claire,Wisconsin-La Crosse,0,0,"03/02/2025, 09:30",Prequarterfinals,Scheduled
+Southern Illinois-Edwardsville,DePaul,0,0,"03/02/2025, 09:30",Prequarterfinals,Scheduled
 bracket,3rd Place
 bracket,5th Place
 bracket,7th Place
@@ -541,6 +544,9 @@ b,r,e,a,k
 pools,Consolation Round Robin
 pool,Pool F
 Carleton College (C),Wisconsin-Eau Claire (B),0,0,"03/02/2025, 08:00",Pool F,Scheduled
+Purdue (B),Knox,0,0,"03/02/2025, 08:00",Pool F,Scheduled
+Carleton College (C),Knox,0,0,"03/02/2025, 09:30",Pool F,Scheduled
 Purdue (B),Wisconsin-Eau Claire (B),0,0,"03/02/2025, 09:30",Pool F,Scheduled
 Carleton College (C),Purdue (B),0,0,"03/02/2025, 15:30",Pool F,Scheduled
+Wisconsin-Eau Claire (B),Knox,0,0,"03/02/2025, 15:30",Pool F,Scheduled
 b,r,e,a,k
