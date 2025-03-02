@@ -58,6 +58,35 @@ coaches,Michael Pistrang
 66,Felipe Perez
 88,Benjamin Halperin
 b,r,e,a,k
+Haverford,4
+teamInfo,Big Donkey Ultimate,"Haverford, Pennsylvania",,,https://twitter.com/donkeyultimate
+0,Aedan Shiffman
+0,Caleb Nelson
+0,Edwin Luebke
+0,Max Negbaur
+0,Jonathan Lee
+0,Timothy Leon
+0,William Snyder
+0,Wyatt Staley-Bischoff
+0,Xilong Tie
+0,Zack Goldstein
+2,Ethan Furman
+3,Darren Belanger
+4,Emile Roth
+5,Will Murdock
+6,Gavin Crowell
+9,Mihir Patel
+19,Milan Arado
+23,Mateo Kietzman
+26,Robert Betts Cope
+27,Benjamin Norris
+29,Carter Rostron
+37,Clay Stoltenberg
+42,Billy Broker
+50,Isaac Rivera
+80,Arno Harden
+99,Isaac Roth
+b,r,e,a,k
 Penn State (B),3
 teamInfo,LoveTap,"University Park, Pennsylvania",,,https://twitter.com/LovetapDisc
 0,Brayden Kovanda
@@ -102,35 +131,6 @@ teamInfo,Brown - B,"Providence, Rhode Island",,,https://twitter.com/PFunkUltimat
 05,Bryce Jacobs
 34,Muyu Ye
 b,r,e,a,k
-Haverford,4
-teamInfo,Big Donkey Ultimate,"Haverford, Pennsylvania",,,https://twitter.com/donkeyultimate
-0,Aedan Shiffman
-0,Caleb Nelson
-0,Edwin Luebke
-0,Max Negbaur
-0,Jonathan Lee
-0,Timothy Leon
-0,William Snyder
-0,Wyatt Staley-Bischoff
-0,Xilong Tie
-0,Zack Goldstein
-2,Ethan Furman
-3,Darren Belanger
-4,Emile Roth
-5,Will Murdock
-6,Gavin Crowell
-9,Mihir Patel
-19,Milan Arado
-23,Mateo Kietzman
-26,Robert Betts Cope
-27,Benjamin Norris
-29,Carter Rostron
-37,Clay Stoltenberg
-42,Billy Broker
-50,Isaac Rivera
-80,Arno Harden
-99,Isaac Roth
-b,r,e,a,k
 Salisbury,6
 teamInfo,Buzz,"Salisbury, Maryland",,,
 0,Christian Neuheisel
@@ -144,27 +144,6 @@ teamInfo,Buzz,"Salisbury, Maryland",,,
 1,Tyler Hummer
 5,Zack Jarrell
 43,Charlie Mueller
-b,r,e,a,k
-Massachusetts-Lowell,10
-teamInfo,Riverhawks,"Lowell, Massachusetts",,,
-0,Alex Kelly
-0,Andrew Halloran
-0,Caleb Gennell
-0,Davin Fountain
-0,Isaac Devers
-0,Jonathan Tu
-0,Jordan DellOva
-0,Logan Casasanta
-0,Samuel Guada
-0,Sawyer MacPherson
-0,Siddhant Trivedi 
-0,Thomas Boyle
-0,William Janes
-0,Michael Patrizio
-05,Ava Argento
-06,Evan Casasanta
-10,Logan Madeiros
-82,Samuel Speciale
 b,r,e,a,k
 Swarthmore,13
 teamInfo,Earthworms,"Swarthmore, Pennsylvania",,,https://twitter.com/WormsUltimate?s=20
@@ -203,6 +182,27 @@ teamInfo,Yetis,"New Britain , Connecticut",,,
 03,Ricky McBride
 13,Harrison Silverman
 71,Patrick Paules-Harrold
+b,r,e,a,k
+Massachusetts-Lowell,10
+teamInfo,Riverhawks,"Lowell, Massachusetts",,,
+0,Alex Kelly
+0,Andrew Halloran
+0,Caleb Gennell
+0,Davin Fountain
+0,Isaac Devers
+0,Jonathan Tu
+0,Jordan DellOva
+0,Logan Casasanta
+0,Samuel Guada
+0,Sawyer MacPherson
+0,Siddhant Trivedi 
+0,Thomas Boyle
+0,William Janes
+0,Michael Patrizio
+05,Ava Argento
+06,Evan Casasanta
+10,Logan Madeiros
+82,Samuel Speciale
 b,r,e,a,k
 Pennsylvania Western,14
 teamInfo,Haggis,"Edinboro, Pennsylvania",,https://www.facebook.com/HaggisUltimate/,https://twitter.com/haggisultimate
@@ -306,36 +306,39 @@ s,t,a,g,e,s
 pools,Pool
 pool,Pool A
 Bowdoin,Rhode Island,8,9,"03/01/2025, 08:30",Pool A,Final
-Penn State (B),Haverford,0,0,"03/01/2025, 08:30",Pool A,Scheduled
+Penn State (B),Haverford,7,8,"03/01/2025, 08:30",Pool A,Final
 Bowdoin,Penn State (B),12,8,"03/01/2025, 09:55",Pool A,Final
-Brown (B),Haverford,0,0,"03/01/2025, 09:55",Pool A,Scheduled
+Brown (B),Haverford,7,10,"03/01/2025, 09:55",Pool A,Final
 Haverford,Rhode Island,4,9,"03/01/2025, 11:20",Pool A,Final
-Brown (B),Penn State (B),0,0,"03/01/2025, 11:20",Pool A,Scheduled
+Brown (B),Penn State (B),5,7,"03/01/2025, 11:20",Pool A,Final
 Bowdoin,Haverford,10,5,"03/01/2025, 12:45",Pool A,Final
 Brown (B),Rhode Island,4,9,"03/01/2025, 12:45",Pool A,Final
 Bowdoin,Brown (B),4,1,"03/01/2025, 14:10",Pool A,Final
 Penn State (B),Rhode Island,2,5,"03/01/2025, 14:10",Pool A,Final
 pool,Pool B
 Salisbury,Pennsylvania Western,8,6,"03/01/2025, 08:30",Pool B,Final
-Massachusetts-Lowell,Swarthmore,0,0,"03/01/2025, 08:30",Pool B,Scheduled
+Massachusetts-Lowell,Swarthmore,6,11,"03/01/2025, 08:30",Pool B,Final
 Salisbury,Massachusetts-Lowell,9,6,"03/01/2025, 09:55",Pool B,Final
 Central Connecticut State,Swarthmore,0,0,"03/01/2025, 09:55",Pool B,Scheduled
-Swarthmore,Pennsylvania Western,0,0,"03/01/2025, 11:20",Pool B,Scheduled
-Central Connecticut State,Massachusetts-Lowell,0,0,"03/01/2025, 11:20",Pool B,Scheduled
+Swarthmore,Pennsylvania Western,10,5,"03/01/2025, 11:20",Pool B,Final
+Central Connecticut State,Massachusetts-Lowell,7,6,"03/01/2025, 11:20",Pool B,Final
 Salisbury,Swarthmore,7,4,"03/01/2025, 12:45",Pool B,Final
-Central Connecticut State,Pennsylvania Western,0,0,"03/01/2025, 12:45",Pool B,Scheduled
+Central Connecticut State,Pennsylvania Western,8,7,"03/01/2025, 12:45",Pool B,Final
 Salisbury,Central Connecticut State,8,7,"03/01/2025, 14:10",Pool B,Final
-Massachusetts-Lowell,Pennsylvania Western,0,0,"03/01/2025, 14:10",Pool B,Scheduled
+Massachusetts-Lowell,Pennsylvania Western,6,3,"03/01/2025, 14:10",Pool B,Final
 pool,Pool C
 Cornell (B),Stevens Tech,15,3,"03/01/2025, 09:30",Pool C,Final
 Army,Connecticut College,4,12,"03/01/2025, 09:30",Pool C,Final
 Cornell (B),Connecticut College,4,14,"03/01/2025, 11:30",Pool C,Final
 Army,Stevens Tech,15,2,"03/01/2025, 11:30",Pool C,Final
-Cornell (B),Army,2,15,"03/01/2025, 13:30",Pool C,Final
+Cornell (B),Army,3,5,"03/01/2025, 13:30",Pool C,Final
 Stevens Tech,Connecticut College,5,15,"03/01/2025, 13:30",Pool C,Final
 b,r,e,a,k
 brackets,Bracket
 bracket,Championship
+Army,Rhode Island,0,0,"03/02/2025, 13:00",Quarters,Scheduled
+Penn State (B),Brown (B),0,0,"03/02/2025, 13:00",Quarters,Scheduled
+Bowdoin,Connecticut College,0,0,"03/02/2025, 13:00",Quarters,Scheduled
 bracket,9th
 bracket,5th
 bracket,7th
