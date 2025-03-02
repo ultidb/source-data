@@ -14,6 +14,20 @@ teamInfo,,"Parkland, Washington",,,
 17,Josiah Colby
 21,Jake Dunoyer
 b,r,e,a,k
+Oregon  (B),2
+teamInfo,Bucks,"Eugene, Oregon",,,
+0,Asher Clark
+0,Dakarai  Palen
+0,Ethan Ebbers
+0,Jack Steinman
+0,Kyle Pilarski
+0,Toby Platt
+2,Maximus Melner
+9,Samuel Williams
+11,Zach  Mckee
+22,Kieran Wagner
+28,Dylan Morrissette
+b,r,e,a,k
 Gonzaga,4
 teamInfo,GURU,"Spokane, Washington",,https://www.facebook.com/GonzagaMensUltimate,
 0,Brennan  Bennett
@@ -36,20 +50,6 @@ teamInfo,GURU,"Spokane, Washington",,https://www.facebook.com/GonzagaMensUltimat
 56,Casey Prindiville
 57,Owen Gagne
 96,Nate Carpenter
-b,r,e,a,k
-Oregon  (B),2
-teamInfo,Bucks,"Eugene, Oregon",,,
-0,Asher Clark
-0,Dakarai  Palen
-0,Ethan Ebbers
-0,Jack Steinman
-0,Kyle Pilarski
-0,Toby Platt
-2,Maximus Melner
-9,Samuel Williams
-11,Zach  Mckee
-22,Kieran Wagner
-28,Dylan Morrissette
 b,r,e,a,k
 Oregon State (B),3
 teamInfo,Oregon State B,"Corvallis, Oregon",https://www.instagram.com/osu_mens_ultimate_b/,,
@@ -157,29 +157,6 @@ teamInfo,Hoot,"Portland, Oregon",,,
 51,Rhys Lewis
 74,Michael Hubbard
 b,r,e,a,k
-Pacific Lutheran,11
-teamInfo,Reign Men,"Parkland, Washington",https://www.plu.edu/recreations/club-sports-teams/mens-ultimate-frisbee/,,https://twitter.com/ReignMenPLU
-00,Denny Corson
-01,Elijah Singleton
-02,Aaron Phillips
-03,John Weldon
-04,Joshua Sandoval
-05,Luke Van Tassel
-11,Luke Sunderman
-13,Henry Clark
-14,Kai Kindem
-16,Max Minjares
-17,Riley Judd
-18,David Collier
-21,Kellen Gonsalves
-25,Jaden Lash
-31,Casey Rittenhouse
-35,Micah Roschke
-39,Joseph Middleton
-42,Ej Carei
-69,Ryan Lelli
-99,Nicholas Minch
-b,r,e,a,k
 Portland,7
 teamInfo,Uprise,"Portland, Oregon",,,
 0,Brian Parks
@@ -203,6 +180,29 @@ teamInfo,Uprise,"Portland, Oregon",,,
 12,Luke Sage
 42,Troy Carpenter
 51,Charlie DeKlotz
+b,r,e,a,k
+Pacific Lutheran,11
+teamInfo,Reign Men,"Parkland, Washington",https://www.plu.edu/recreations/club-sports-teams/mens-ultimate-frisbee/,,https://twitter.com/ReignMenPLU
+00,Denny Corson
+01,Elijah Singleton
+02,Aaron Phillips
+03,John Weldon
+04,Joshua Sandoval
+05,Luke Van Tassel
+11,Luke Sunderman
+13,Henry Clark
+14,Kai Kindem
+16,Max Minjares
+17,Riley Judd
+18,David Collier
+21,Kellen Gonsalves
+25,Jaden Lash
+31,Casey Rittenhouse
+35,Micah Roschke
+39,Joseph Middleton
+42,Ej Carei
+69,Ryan Lelli
+99,Nicholas Minch
 b,r,e,a,k
 Portland State,10
 teamInfo,Vitruvious,"Portland, Oregon",https://www.instagram.com/portlandstateultimate/?hl=en,https://www.instagram.com/portlandstateultimate/?hl=en,https://twitter.com/psujuicy
@@ -229,7 +229,7 @@ Parkland - PLU Alumni,Oregon State (B),13,4,"03/01/2025, 09:00",Pool A,Final
 Gonzaga,Parkland - PLU Alumni,2,13,"03/01/2025, 10:50",Pool A,Final
 Gonzaga,Oregon State (B),13,8,"03/01/2025, 12:40",Pool A,Final
 Parkland - PLU Alumni,Oregon  (B),11,13,"03/01/2025, 12:40",Pool A,Final
-Oregon  (B),Oregon State (B),0,0,"03/01/2025, 14:30",Pool A,Scheduled
+Oregon  (B),Oregon State (B),13,12,"03/01/2025, 14:30",Pool A,Final
 pool,Pool B
 Washington State,Whitworth,7,13,"03/01/2025, 09:00",Pool B,Final
 Seattle,Willamette,13,11,"03/01/2025, 09:00",Pool B,Final
@@ -243,15 +243,24 @@ Reed,Portland State,13,4,"03/01/2025, 09:00",Pool C,Final
 Portland,Reed,5,13,"03/01/2025, 10:50",Pool C,Final
 Pacific Lutheran,Portland State,13,8,"03/01/2025, 10:50",Pool C,Final
 Reed,Pacific Lutheran,13,9,"03/01/2025, 12:40",Pool C,Final
-Portland,Portland State,0,0,"03/01/2025, 14:30",Pool C,Scheduled
+Portland,Portland State,13,6,"03/01/2025, 14:30",Pool C,Final
 b,r,e,a,k
 brackets,Sunday Bracket
 bracket,Championship Bracket
+Parkland - PLU Alumni,Whitworth,0,0,"03/02/2025, 09:00",9:00 AM,Scheduled
+Oregon State (B),Seattle,0,0,"03/02/2025, 09:00",9:00 AM,Scheduled
+Gonzaga,Reed,0,0,"03/02/2025, 09:00",9:00 AM,Scheduled
+Oregon  (B),Portland,0,0,"03/02/2025, 09:00",9:00 AM,Scheduled
 bracket,Game for 5th
 bracket,Game for 3rd 
 bracket,Game for 7th
 b,r,e,a,k
 pools,Day 2 Round Robin
 pool,Pool F
+Washington State,Pacific Lutheran,0,0,"03/02/2025, 09:00",Pool F,Scheduled
+Willamette,Portland State,0,0,"03/02/2025, 09:00",Pool F,Scheduled
+Washington State,Portland State,0,0,"03/02/2025, 11:10",Pool F,Scheduled
+Willamette,Pacific Lutheran,0,0,"03/02/2025, 11:10",Pool F,Scheduled
 Washington State,Willamette,0,0,"03/02/2025, 13:20",Pool F,Scheduled
+Pacific Lutheran,Portland State,0,0,"03/02/2025, 13:20",Pool F,Scheduled
 b,r,e,a,k
