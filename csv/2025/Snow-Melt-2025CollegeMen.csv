@@ -26,26 +26,6 @@ coaches,Benjamin Whitenack,Sam Franer
 71,William Ahlstrom
 83,Jericho Stern
 b,r,e,a,k
-Denver,4
-teamInfo,Sourdough,"Denver, Colorado",https://denversourdough.wixsite.com/du-sourdough,,
-0,Andrew Lukasewycz
-3,Zach Braunstein
-5,Jason Kaplan
-7,Tobias Holme
-9,Jack Sanda
-01,Justin Blake
-10,Gavin Stevens 
-11,Mason Charney
-12,Cooper Antin
-13,Avery Fowler
-14,Dalton Ward
-16,Noam Halpern
-21,Carver Ward
-22,Egan Doherty
-45,Zac Wise
-52,Alexander Fleming
-95,Noah Alleman
-b,r,e,a,k
 Montana State,5
 teamInfo,Rum Runners,"Bozeman, Montana",,https://www.facebook.com/MSUultimate/,https://twitter.com/RumRunnersMT
 0,Aiden Killeen
@@ -69,6 +49,26 @@ teamInfo,Rum Runners,"Bozeman, Montana",,https://www.facebook.com/MSUultimate/,h
 44,Gus Downey
 69,Hudson Garrigan
 99,Jasper Goldman
+b,r,e,a,k
+Denver,4
+teamInfo,Sourdough,"Denver, Colorado",https://denversourdough.wixsite.com/du-sourdough,,
+0,Andrew Lukasewycz
+3,Zach Braunstein
+5,Jason Kaplan
+7,Tobias Holme
+9,Jack Sanda
+01,Justin Blake
+10,Gavin Stevens 
+11,Mason Charney
+12,Cooper Antin
+13,Avery Fowler
+14,Dalton Ward
+16,Noam Halpern
+21,Carver Ward
+22,Egan Doherty
+45,Zac Wise
+52,Alexander Fleming
+95,Noah Alleman
 b,r,e,a,k
 Colorado Mesa,8
 teamInfo,Colorado Mesa Mavericks,"Grand Junction, Colorado",,https://www.instagram.com/cmuultimate/,
@@ -285,8 +285,8 @@ Lewis & Clark,Colorado Mines (B),13,1,"03/01/2025, 12:10",Pool A,Final
 Montana State,Colorado Mesa,13,6,"03/01/2025, 12:10",Pool A,Final
 Lewis & Clark,Denver,13,4,"03/01/2025, 13:45",Pool A,Final
 Montana State,Colorado Mines (B),13,1,"03/01/2025, 13:45",Pool A,Final
-Colorado Mesa,Colorado Mines (B),0,0,"03/01/2025, 15:20",Pool A,Scheduled
-Denver,Montana State,7,8,"03/01/2025, 15:20",Pool A,Scheduled
+Colorado Mesa,Colorado Mines (B),7,6,"03/01/2025, 15:20",Pool A,Final
+Denver,Montana State,7,8,"03/01/2025, 15:20",Pool A,Final
 pool,Pool B
 Colorado College,Denver (B),13,4,"03/01/2025, 09:00",Pool B,Final
 Colorado College,California (B),13,5,"03/01/2025, 10:35",Pool B,Final
@@ -306,6 +306,8 @@ California (B),Denver (B),0,0,"03/01/2025, 15:20",,Scheduled
 b,r,e,a,k
 brackets,Bracket Play
 bracket,Championship Bracket
+Colorado College,Denver,0,0,"03/02/2025, 09:00",Quarters,Scheduled
+Colorado Mines,Colorado Mesa,0,0,"03/02/2025, 09:00",Quarters,Scheduled
 bracket,3rd Place
 bracket,5th Place Bracket
 bracket,Consolation Placement Game
