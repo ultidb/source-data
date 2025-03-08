@@ -357,56 +357,6 @@ teamInfo,Slugs,"Santa Cruz, California",https://www.instagram.com/slugultimate/,
 75,Bodie Shargel
 77,Mario Ambrose
 b,r,e,a,k
-UCLA,12
-teamInfo,Smaug,"Los Angeles, California",https://instagram.com/smaugultimate,,https://twitter.com/smaugultimate
-0,Ashton Jin
-03,Loic Billaut
-05,Jacob Snodgress
-08,Ethan Klein
-09,Luca Adams
-11,Luke Davis
-12,Jackson Kim
-15,Clayton Entrekin
-20,Mateo Nacusi
-21,Isaiah Hernandez
-25,Marshall Wildmann
-26,Calvin Wicks
-29,Theo Conroy
-30,TOMASSO ABRAMSONWARD
-31,Alden Reals
-33,Micah Thomas
-34,Daniel Lai
-35,Samuel Torres
-44,Kieran Fain
-55,Marcos Young-Bowers
-56,Ian Tsai
-78,Zachary Rosen
-88,Alexander Clare
-b,r,e,a,k
-Virginia Tech,5
-teamInfo,Burn,"Blacksburg, Virginia",http://vtultimate.wix.com/virginiatechultimate,,https://twitter.com/VTBurn?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
-0,Alex Winsness
-0,Alper Kutlug
-0,Brandon Behrens
-0,Christopher Parinella
-0,Ethan Harris
-0,Garrett Lash
-0,Jacob Slade
-0,John Durham
-0,Micah Craine
-0,Spencer Paragas
-0,Will Meyer
-6,Ryan Greenfield
-11,Aiden  Reed
-15,Daniel Bredehorst
-17,Christopher Lopez
-19,Piyush Komali
-23,Jacob Loveranes
-25,Andrew Holladay
-33,Kennon Arnold
-52,Erik Graulich
-69,Jack Sinsheimer
-b,r,e,a,k
 Southern California,13
 teamInfo,USC Lockdown,"Los Angeles, California",https://www.uscmensultimate.org/,https://www.facebook.com/uscmensultimate/,https://www.twitter.com/uscmensultimate/
 0,Akilesh Swamy
@@ -443,6 +393,56 @@ teamInfo,USC Lockdown,"Los Angeles, California",https://www.uscmensultimate.org/
 77,Clay Kaufman
 99,Kethan Kalra
 b,r,e,a,k
+Virginia Tech,5
+teamInfo,Burn,"Blacksburg, Virginia",http://vtultimate.wix.com/virginiatechultimate,,https://twitter.com/VTBurn?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+0,Alex Winsness
+0,Alper Kutlug
+0,Brandon Behrens
+0,Christopher Parinella
+0,Ethan Harris
+0,Garrett Lash
+0,Jacob Slade
+0,John Durham
+0,Micah Craine
+0,Spencer Paragas
+0,Will Meyer
+6,Ryan Greenfield
+11,Aiden  Reed
+15,Daniel Bredehorst
+17,Christopher Lopez
+19,Piyush Komali
+23,Jacob Loveranes
+25,Andrew Holladay
+33,Kennon Arnold
+52,Erik Graulich
+69,Jack Sinsheimer
+b,r,e,a,k
+UCLA,12
+teamInfo,Smaug,"Los Angeles, California",https://instagram.com/smaugultimate,,https://twitter.com/smaugultimate
+0,Ashton Jin
+03,Loic Billaut
+05,Jacob Snodgress
+08,Ethan Klein
+09,Luca Adams
+11,Luke Davis
+12,Jackson Kim
+15,Clayton Entrekin
+20,Mateo Nacusi
+21,Isaiah Hernandez
+25,Marshall Wildmann
+26,Calvin Wicks
+29,Theo Conroy
+30,TOMASSO ABRAMSONWARD
+31,Alden Reals
+33,Micah Thomas
+34,Daniel Lai
+35,Samuel Torres
+44,Kieran Fain
+55,Marcos Young-Bowers
+56,Ian Tsai
+78,Zachary Rosen
+88,Alexander Clare
+b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
@@ -450,7 +450,7 @@ Cal Poly-SLO,British Columbia  (B),13,5,"03/08/2025, 08:00",Pool A,Final
 California-San Diego,Whitman,9,13,"03/08/2025, 08:00",Pool A,Final
 Cal Poly-SLO,Whitman,13,11,"03/08/2025, 11:00",Pool A,Final
 California-San Diego,British Columbia  (B),13,9,"03/08/2025, 11:00",Pool A,Final
-Cal Poly-SLO,California-San Diego,0,0,"03/08/2025, 12:30",Pool A,Scheduled
+Cal Poly-SLO,California-San Diego,13,9,"03/08/2025, 12:30",Pool A,Final
 Whitman,British Columbia  (B),13,10,"03/08/2025, 12:30",Pool A,Final
 pool,Pool B
 California,Wisconsin-Milwaukee,13,5,"03/08/2025, 08:00",Pool B,Final
@@ -458,7 +458,7 @@ Western Washington,California-Santa Barbara,11,10,"03/08/2025, 08:00",Pool B,Fin
 California,California-Santa Barbara,13,8,"03/08/2025, 09:30",Pool B,Final
 Western Washington,Wisconsin-Milwaukee,13,4,"03/08/2025, 09:30",Pool B,Final
 California,Western Washington,10,11,"03/08/2025, 14:00",Pool B,Final
-California-Santa Barbara,Wisconsin-Milwaukee,0,0,"03/08/2025, 14:00",Pool B,Scheduled
+California-Santa Barbara,Wisconsin-Milwaukee,13,5,"03/08/2025, 14:00",Pool B,Final
 pool,Pool C
 British Columbia,Northwestern,13,3,"03/08/2025, 09:30",Pool C,Final
 Stanford,Santa Clara,13,6,"03/08/2025, 09:30",Pool C,Final
@@ -469,18 +469,24 @@ Northwestern,Santa Clara,9,10,"03/08/2025, 14:00",Pool C,Final
 pool,Pool D
 Virginia Tech,Southern California,12,11,"03/08/2025, 09:30",Pool D,Final
 California-Santa Cruz,UCLA,13,7,"03/08/2025, 11:00",Pool D,Final
-California-Santa Cruz,Southern California,0,0,"03/08/2025, 12:30",Pool D,Scheduled
+California-Santa Cruz,Southern California,13,6,"03/08/2025, 12:30",Pool D,Final
 Virginia Tech,UCLA,9,10,"03/08/2025, 12:30",Pool D,Final
 California-Santa Cruz,Virginia Tech,13,7,"03/08/2025, 14:00",Pool D,Final
-UCLA,Southern California,0,0,"03/08/2025, 14:00",Pool D,Scheduled
+UCLA,Southern California,7,13,"03/08/2025, 14:00",Pool D,Final
 b,r,e,a,k
 brackets,Bracket
 bracket,Championship
+California,Santa Clara,0,0,"03/08/2025, 15:30",Pre-Quarters,Scheduled
+Stanford,California-Santa Barbara,0,0,"03/08/2025, 15:30",Pre-Quarters,Scheduled
+California-San Diego,Southern California,0,0,"03/08/2025, 15:30",Pre-Quarters,Scheduled
+Virginia Tech,Whitman,0,0,"03/08/2025, 15:30",Pre-Quarters,Scheduled
 bracket,Third Place
 bracket,Fifth Place
 bracket,Seventh Place
 bracket,Ninth Place
 bracket,Eleventh Place
 bracket,Thirteenth Place
+UCLA,British Columbia  (B),0,0,"03/09/2025, 09:30",Thirteenth Place Semifinals,Scheduled
+Wisconsin-Milwaukee,Northwestern,0,0,"03/09/2025, 09:30",Thirteenth Place Semifinals,Scheduled
 bracket,Fifteenth Place
 b,r,e,a,k
