@@ -267,6 +267,33 @@ teamInfo,Stanford Men's Ultimate Team,"Stanford, California",,,
 88,Shiley Einav
 89,Jerred Smith
 b,r,e,a,k
+Northwestern,11
+teamInfo,Lake Effect,"Evanston, Illinois",https://www.nutultimate.com,,
+coaches,Abby Shure,Kyle Rutledge,Seokhee Burningham,Anthony Colucci
+0,Ethan Weiss
+0,Hari Maheswaran
+0,Jesse Hart
+0,Keuyrbel Zewedu
+0,Mintesinot Sturm
+0,Nathan Rachwalski
+0,Taye Bradford
+0,Tony Cheng
+0,Truman Margolies
+1,Isidore Donnelly
+2,Bernie Waldman
+4,Tyler Zarybnisky
+5,Gabriel Bassin
+8,Ian Falck
+20,Kevin Ji
+21,Benjamin  Fried
+22,Charlie Geci
+24,Ayush Gaggar
+29,Mateo Liguori
+37,Ezra Danzig
+51,Miki Ling
+61,Jett House
+68,Emmett Broustis 
+b,r,e,a,k
 Santa Clara,14
 teamInfo,SCAB,"Santa Clara, California",,,https://twitter.com/SCABUltiFris
 coaches,Ryan Lam
@@ -300,33 +327,6 @@ coaches,Ryan Lam
 44,Brendan Jones
 88,Declan Lavery
 b,r,e,a,k
-Northwestern,11
-teamInfo,Lake Effect,"Evanston, Illinois",https://www.nutultimate.com,,
-coaches,Abby Shure,Kyle Rutledge,Seokhee Burningham,Anthony Colucci
-0,Ethan Weiss
-0,Hari Maheswaran
-0,Jesse Hart
-0,Keuyrbel Zewedu
-0,Mintesinot Sturm
-0,Nathan Rachwalski
-0,Taye Bradford
-0,Tony Cheng
-0,Truman Margolies
-1,Isidore Donnelly
-2,Bernie Waldman
-4,Tyler Zarybnisky
-5,Gabriel Bassin
-8,Ian Falck
-20,Kevin Ji
-21,Benjamin  Fried
-22,Charlie Geci
-24,Ayush Gaggar
-29,Mateo Liguori
-37,Ezra Danzig
-51,Miki Ling
-61,Jett House
-68,Emmett Broustis 
-b,r,e,a,k
 California-Santa Cruz,4
 teamInfo,Slugs,"Santa Cruz, California",https://www.instagram.com/slugultimate/,https://www.facebook.com/slugultimate,https://twitter.com/slugultimate
 0,Cole Mires
@@ -356,6 +356,32 @@ teamInfo,Slugs,"Santa Cruz, California",https://www.instagram.com/slugultimate/,
 72,Sam Jo
 75,Bodie Shargel
 77,Mario Ambrose
+b,r,e,a,k
+UCLA,12
+teamInfo,Smaug,"Los Angeles, California",https://instagram.com/smaugultimate,,https://twitter.com/smaugultimate
+0,Ashton Jin
+03,Loic Billaut
+05,Jacob Snodgress
+08,Ethan Klein
+09,Luca Adams
+11,Luke Davis
+12,Jackson Kim
+15,Clayton Entrekin
+20,Mateo Nacusi
+21,Isaiah Hernandez
+25,Marshall Wildmann
+26,Calvin Wicks
+29,Theo Conroy
+30,TOMASSO ABRAMSONWARD
+31,Alden Reals
+33,Micah Thomas
+34,Daniel Lai
+35,Samuel Torres
+44,Kieran Fain
+55,Marcos Young-Bowers
+56,Ian Tsai
+78,Zachary Rosen
+88,Alexander Clare
 b,r,e,a,k
 Virginia Tech,5
 teamInfo,Burn,"Blacksburg, Virginia",http://vtultimate.wix.com/virginiatechultimate,,https://twitter.com/VTBurn?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
@@ -417,32 +443,6 @@ teamInfo,USC Lockdown,"Los Angeles, California",https://www.uscmensultimate.org/
 77,Clay Kaufman
 99,Kethan Kalra
 b,r,e,a,k
-UCLA,12
-teamInfo,Smaug,"Los Angeles, California",https://instagram.com/smaugultimate,,https://twitter.com/smaugultimate
-0,Ashton Jin
-03,Loic Billaut
-05,Jacob Snodgress
-08,Ethan Klein
-09,Luca Adams
-11,Luke Davis
-12,Jackson Kim
-15,Clayton Entrekin
-20,Mateo Nacusi
-21,Isaiah Hernandez
-25,Marshall Wildmann
-26,Calvin Wicks
-29,Theo Conroy
-30,TOMASSO ABRAMSONWARD
-31,Alden Reals
-33,Micah Thomas
-34,Daniel Lai
-35,Samuel Torres
-44,Kieran Fain
-55,Marcos Young-Bowers
-56,Ian Tsai
-78,Zachary Rosen
-88,Alexander Clare
-b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
@@ -451,7 +451,7 @@ California-San Diego,Whitman,9,13,"03/08/2025, 08:00",Pool A,Final
 Cal Poly-SLO,Whitman,13,11,"03/08/2025, 11:00",Pool A,Final
 California-San Diego,British Columbia  (B),13,9,"03/08/2025, 11:00",Pool A,Scheduled
 Cal Poly-SLO,California-San Diego,0,0,"03/08/2025, 12:30",Pool A,Scheduled
-Whitman,British Columbia  (B),0,0,"03/08/2025, 12:30",Pool A,Scheduled
+Whitman,British Columbia  (B),13,9,"03/08/2025, 12:30",Pool A,Final
 pool,Pool B
 California,Wisconsin-Milwaukee,13,5,"03/08/2025, 08:00",Pool B,Final
 Western Washington,California-Santa Barbara,11,10,"03/08/2025, 08:00",Pool B,Final
@@ -461,16 +461,16 @@ California,Western Washington,0,0,"03/08/2025, 14:00",Pool B,Scheduled
 California-Santa Barbara,Wisconsin-Milwaukee,0,0,"03/08/2025, 14:00",Pool B,Scheduled
 pool,Pool C
 British Columbia,Northwestern,13,3,"03/08/2025, 09:30",Pool C,Final
-Stanford,Santa Clara,0,0,"03/08/2025, 09:30",Pool C,Scheduled
+Stanford,Santa Clara,13,6,"03/08/2025, 09:30",Pool C,Final
 British Columbia,Santa Clara,13,2,"03/08/2025, 11:00",Pool C,Final
 Stanford,Northwestern,13,8,"03/08/2025, 11:00",Pool C,Final
-British Columbia,Stanford,0,0,"03/08/2025, 12:30",Pool C,Scheduled
+British Columbia,Stanford,12,9,"03/08/2025, 12:30",Pool C,Final
 Northwestern,Santa Clara,0,0,"03/08/2025, 14:00",Pool C,Scheduled
 pool,Pool D
 Virginia Tech,Southern California,12,11,"03/08/2025, 09:30",Pool D,Final
 California-Santa Cruz,UCLA,13,7,"03/08/2025, 11:00",Pool D,Final
 California-Santa Cruz,Southern California,0,0,"03/08/2025, 12:30",Pool D,Scheduled
-Virginia Tech,UCLA,0,0,"03/08/2025, 12:30",Pool D,Scheduled
+Virginia Tech,UCLA,9,10,"03/08/2025, 12:30",Pool D,Final
 California-Santa Cruz,Virginia Tech,0,0,"03/08/2025, 14:00",Pool D,Scheduled
 UCLA,Southern California,0,0,"03/08/2025, 14:00",Pool D,Scheduled
 b,r,e,a,k
