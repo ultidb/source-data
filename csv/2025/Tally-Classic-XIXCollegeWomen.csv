@@ -71,6 +71,7 @@ coaches,Joseph Tilley
 b,r,e,a,k
 Tulane,4
 teamInfo,Muses,"New Orleans, Louisiana",,,@TUmuses
+coaches,Jacob Baxter
 0,Charlotte Miller
 0,Elianna Hart
 0,Ella Boodin
@@ -82,25 +83,6 @@ teamInfo,Muses,"New Orleans, Louisiana",,,@TUmuses
 0,Sophie Ohtake
 19,Cecilia Pardo
 23,Sivan Ornstein-Luks
-b,r,e,a,k
-Jacksonville State,5
-teamInfo,Fuego,"Jacksonville, Alabama",,,https://twitter.com/jsufuego
-02,Mary Tracy
-03,Autumn Daniel
-06,Celeste Owens
-06,Tricia Elden
-12,Stephanie Byron
-13,Tara McCallion
-14,Zara Thornhill
-18,Breanna Daniel
-19,Holly Davenport
-23,Tattum Denham
-26,Chloe Bell
-27,Emma Hudson
-29,Susie Landis
-34,Riley Thornhill
-42,Elizabeth O'Donnell
-77,Hannah Mayhew
 b,r,e,a,k
 Florida State,7
 teamInfo,Seminole Ladies,"Tallahassee, Florida",,https://www.facebook.com/SeminoleLadies,https://twitter.com/seminoleladies
@@ -126,7 +108,20 @@ teamInfo,Seminole Ladies,"Tallahassee, Florida",,https://www.facebook.com/Semino
 0,Zaria Walker
 0,Zoe Ford
 b,r,e,a,k
-Minnesota-Duluth,11
+Florida Tech,9
+teamInfo,Flux,"Melbourne, Florida",,,Flux_ultimate
+0,Charlize  Stone
+0,Eva Shealy
+0,Genie Springer 
+0,Ginger Chen
+0,Jodi-Ann Carberry
+0,Sophia Zubieta
+0,Taylor Mooney
+2,Valeria Lopez
+3,Ruth White
+8,Katherine Boyd
+b,r,e,a,k
+Minnesota-Duluth,12
 teamInfo,LakEffect,"Duluth, Minnesota",,https://www.facebook.com/groups/401771953206863/,https://twitter.com/UMDLakEffect
 0,Ellie Bartholomay
 03,Elizabeth Drake
@@ -141,6 +136,25 @@ teamInfo,LakEffect,"Duluth, Minnesota",,https://www.facebook.com/groups/40177195
 30,nora rowan
 42,Ava Strong
 50,Tiffany Urman
+b,r,e,a,k
+Jacksonville State,5
+teamInfo,Fuego,"Jacksonville, Alabama",,,https://twitter.com/jsufuego
+02,Mary Tracy
+03,Autumn Daniel
+06,Celeste Owens
+06,Tricia Elden
+12,Stephanie Byron
+13,Tara McCallion
+14,Zara Thornhill
+18,Breanna Daniel
+19,Holly Davenport
+23,Tattum Denham
+26,Chloe Bell
+27,Emma Hudson
+29,Susie Landis
+34,Riley Thornhill
+42,Elizabeth O'Donnell
+77,Hannah Mayhew
 b,r,e,a,k
 Harvard,6
 teamInfo,Quasar,"Cambridge, Massachusetts",https://sites.google.com/view/harvard-womens-ultimate-team/home?pli=1,,
@@ -158,7 +172,7 @@ teamInfo,Quasar,"Cambridge, Massachusetts",https://sites.google.com/view/harvard
 33,Kidron Martin
 34,Aidia Steen
 b,r,e,a,k
-LSU,9
+LSU,10
 teamInfo,LSU Women's Ultimate,"Baton Rouge, Louisiana",http://lsuuniversityrec.com/lsuurec/,,
 0,Abigail Roscoe 
 0,Amelia Fredericks
@@ -177,7 +191,7 @@ teamInfo,LSU Women's Ultimate,"Baton Rouge, Louisiana",http://lsuuniversityrec.c
 35,Kendryx Periban
 49,Taylor Davis
 b,r,e,a,k
-South Florida,10
+South Florida,11
 teamInfo,Scallywenches,"Tampa, Florida",,,@scallywenches
 0,Abigail Gullett
 0,Addie Hannapel
@@ -198,15 +212,18 @@ Middlebury,Central Florida,0,0,"03/15/2025, 08:00",Pool A,Scheduled
 Florida,Central Florida,0,0,"03/15/2025, 09:30",Pool A,Scheduled
 Florida,Middlebury,0,0,"03/15/2025, 23:00",Pool A,Scheduled
 pool,Pool B
-Tulane,Jacksonville State,0,0,"03/15/2025, 08:00",Pool B,Scheduled
-Florida State,Minnesota-Duluth,0,0,"03/15/2025, 08:00",Pool B,Scheduled
+Tulane,Florida State,0,0,"03/15/2025, 08:00",Pool B,Scheduled
+Florida Tech,Minnesota-Duluth,0,0,"03/15/2025, 08:00",Pool B,Scheduled
 Tulane,Minnesota-Duluth,0,0,"03/15/2025, 09:30",Pool B,Scheduled
-Florida State,Jacksonville State,0,0,"03/15/2025, 09:30",Pool B,Scheduled
-Tulane,Florida State,0,0,"03/15/2025, 11:00",Pool B,Scheduled
-Jacksonville State,Minnesota-Duluth,0,0,"03/15/2025, 11:00",Pool B,Scheduled
+Florida Tech,Florida State,0,0,"03/15/2025, 09:30",Pool B,Scheduled
+Tulane,Florida Tech,0,0,"03/15/2025, 11:00",Pool B,Scheduled
+Florida State,Minnesota-Duluth,0,0,"03/15/2025, 11:00",Pool B,Scheduled
 pool,Pool C
+Jacksonville State,LSU,0,0,"03/15/2025, 08:00",Pool C,Scheduled
 Harvard,South Florida,0,0,"03/15/2025, 08:00",Pool C,Scheduled
+Jacksonville State,South Florida,0,0,"03/15/2025, 09:30",Pool C,Scheduled
 Harvard,LSU,0,0,"03/15/2025, 09:30",Pool C,Scheduled
+Jacksonville State,Harvard,0,0,"03/15/2025, 11:00",Pool C,Scheduled
 LSU,South Florida,0,0,"03/15/2025, 11:00",Pool C,Scheduled
 b,r,e,a,k
 clusters,Crossover
