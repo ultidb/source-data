@@ -23,55 +23,6 @@ teamInfo,Gyrenes,"Naples, Florida",,,
 0,Vincent Morlino
 22,John Durand
 b,r,e,a,k
-LSU,8
-teamInfo,Purple Haze,"Baton Rouge, Louisiana",,,https://twitter.com/LSUUltimateM
-coaches,Chas Legge
-0,Ahmari Collins
-0,Andrew Reviere
-0,Andrew Modenbach
-0,Chase Thompson
-0,Dylan Duhamel
-0,Ethan Vu
-0,Grant Rebowe
-0,Connor Ventola
-0,Jonah Stagg
-0,Macailen Davis
-0,Nick Nola
-0,Scott Kline
-0,Stephen Abel
-0,Travis Haworth
-0,Tristan Thompson
-1,Ryan Ripley
-3,Saif Ahmed
-4,Hobbs McAllister
-8,kade cannizaro
-11,Collin Casseri
-12,Daniel Carter
-18,Christian Bourgeois
-20,Charles Gordon
-66,Jaylon Boone
-99,Caleb Franklin
-b,r,e,a,k
-Georgia State,13
-teamInfo,Underground,"Atlanta, Georgia",,www.facebook.com/gsuultimate,https://twitter.com/GSUnderground
-coaches,Krishan Chib
-0,Conner Crenshaw
-0,DeAngelo Williams
-0,Lennox Whitaker
-0,Maverick Earle
-0,Maxwell Lopez
-0,Mohit Kokane
-0,Parker Saetang
-0,Farez Parmar
-0,James Ejiwale
-0,William Sales
-1,Spencer Pennington
-4,Shaheer Khan
-11,Lee Phan
-16,Bryan Alanis Perez
-21,Andrew Frazer
-36,Eric Frega
-b,r,e,a,k
 Central Florida,5
 teamInfo,Dogs of War,"Orlando, Florida",,https://www.facebook.com/CentralFloridaUltimate,https://twitter.com/PupsofConflict
 0,Caden Wild
@@ -131,6 +82,81 @@ teamInfo,Aetos,"Auburn, Alabama",,https://www.facebook.com/auburnultimate,https:
 50,Matthew Melton
 89,Joshua Reed
 b,r,e,a,k
+Clemson,10
+teamInfo,Joint Chiefs of Waft,"Greenville, South Carolina",http://www.clemson.edu/ultimate/,,
+0,Aaron Baymiller
+0,Adam Monn
+0,Adam Britt
+0,Andrew May
+0,Brady Ferguson
+0,Charlie Withington
+0,Colin Sauls
+0,Gray Fisher
+0,Logan McMillen
+0,Quinn Dennie
+0,Riley Bittman
+0,Thompson Sasser
+0,William Magen
+0,William Smolka
+0,Nathaniel Bieling
+4,Ethan Phillips
+12,Quentin Fossing
+13,Nicolas Smith
+19,Jaxon Wilkins-Graham
+21,Anthony Gibson
+28,Michael McCall
+40,Brendan Blackburn
+98,Preston  Frantz 
+b,r,e,a,k
+LSU,8
+teamInfo,Purple Haze,"Baton Rouge, Louisiana",,,https://twitter.com/LSUUltimateM
+coaches,Chas Legge
+0,Ahmari Collins
+0,Andrew Reviere
+0,Andrew Modenbach
+0,Chase Thompson
+0,Dylan Duhamel
+0,Ethan Vu
+0,Grant Rebowe
+0,Connor Ventola
+0,Jonah Stagg
+0,Macailen Davis
+0,Nick Nola
+0,Scott Kline
+0,Stephen Abel
+0,Travis Haworth
+0,Tristan Thompson
+1,Ryan Ripley
+3,Saif Ahmed
+4,Hobbs McAllister
+8,kade cannizaro
+11,Collin Casseri
+12,Daniel Carter
+18,Christian Bourgeois
+20,Charles Gordon
+66,Jaylon Boone
+99,Caleb Franklin
+b,r,e,a,k
+Georgia State,13
+teamInfo,Underground,"Atlanta, Georgia",,www.facebook.com/gsuultimate,https://twitter.com/GSUnderground
+coaches,Krishan Chib
+0,Conner Crenshaw
+0,DeAngelo Williams
+0,Lennox Whitaker
+0,Maverick Earle
+0,Maxwell Lopez
+0,Mohit Kokane
+0,Parker Saetang
+0,Farez Parmar
+0,James Ejiwale
+0,William Sales
+1,Spencer Pennington
+4,Shaheer Khan
+11,Lee Phan
+16,Bryan Alanis Perez
+21,Andrew Frazer
+36,Eric Frega
+b,r,e,a,k
 Florida State,6
 teamInfo,DUF,"Tallahassee, Florida",,https://www.facebook.com/FSUltimate,https://twitter.com/DUFtrainroll
 0,Evan Thompson
@@ -157,32 +183,6 @@ teamInfo,DUF,"Tallahassee, Florida",,https://www.facebook.com/FSUltimate,https:/
 26,Scott Sakow
 37,Daniel Siegel
 88,Benjamin Watson
-b,r,e,a,k
-Clemson,10
-teamInfo,Joint Chiefs of Waft,"Greenville, South Carolina",http://www.clemson.edu/ultimate/,,
-0,Aaron Baymiller
-0,Adam Monn
-0,Adam Britt
-0,Andrew May
-0,Brady Ferguson
-0,Charlie Withington
-0,Colin Sauls
-0,Gray Fisher
-0,Logan McMillen
-0,Quinn Dennie
-0,Riley Bittman
-0,Thompson Sasser
-0,William Magen
-0,William Smolka
-0,Nathaniel Bieling
-4,Ethan Phillips
-12,Quentin Fossing
-13,Nicolas Smith
-19,Jaxon Wilkins-Graham
-21,Anthony Gibson
-28,Michael McCall
-40,Brendan Blackburn
-98,Preston  Frantz 
 b,r,e,a,k
 Florida,2
 teamInfo,Florida,"Gainesville, Florida",ufmclubultimate.com,https://www.facebook.com/floridaultimate,https://twitter.com/floridaclubult
@@ -363,10 +363,12 @@ b,r,e,a,k
 s,t,a,g,e,s
 brackets,Bracket Play
 bracket,1st Place Bracket
-Ave Maria,LSU,0,0,"03/15/2025, 10:00",1st Place Quarters,Scheduled
+Ave Maria,Central Florida,0,0,"03/15/2025, 12:00",1st Place Semis,Scheduled
+Auburn,Clemson,0,0,"03/15/2025, 12:00",1st Place Semis,Scheduled
+Ave Maria,LSU,15,3,"03/15/2025, 10:00",1st Place Quarters,Final
 Georgia State,Central Florida,8,13,"03/15/2025, 10:00",1st Place Quarters,Final
 Auburn,Florida State,14,8,"03/15/2025, 10:00",1st Place Quarters,Final
-Clemson,Florida,0,0,"03/15/2025, 10:00",1st Place Quarters,Scheduled
+Clemson,Florida,11,10,"03/15/2025, 10:00",1st Place Quarters,Final
 LSU,Kennesaw State,15,8,"03/15/2025, 08:00",1st Place Pre-Quarters,Final
 Berry,Georgia State,14,15,"03/15/2025, 08:00",1st Place Pre-Quarters,Final
 Central Florida,Minnesota-Duluth,15,13,"03/15/2025, 08:00",1st Place Pre-Quarters,Final
@@ -375,6 +377,7 @@ Florida State,Harvard,15,11,"03/15/2025, 08:00",1st Place Pre-Quarters,Final
 South Florida,Clemson,10,13,"03/15/2025, 08:00",1st Place Pre-Quarters,Final
 bracket,3rd Place Game
 bracket,5th Place Bracket
+LSU,Florida,0,0,"03/15/2025, 12:00",5th Place Semis,Scheduled
 Florida State,Georgia State,0,0,"03/15/2025, 12:00",5th Place Semis,Scheduled
 bracket,7th Place Game
 b,r,e,a,k
