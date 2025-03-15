@@ -30,6 +30,33 @@ coaches,Gene Buonaccorsi,Jerry  Wang
 90,Dorsey Strasburger
 99,Eliav Malone
 b,r,e,a,k
+Wisconsin,5
+teamInfo,Hodags,"Madison, Wisconsin",http://www.hodaglove.org/,https://www.facebook.com/Wisconsin-Hodags-118125241585256/,https://twitter.com/hodaglove
+0,Zach Morton
+01,Aidan Obregon
+02,Isaac Gamble
+03,Graeme Alexander
+06,Nicholas Tangwall
+08,Carson Batchelor
+11,Mark Nelson
+12,Jack Dipaolo
+13,Max Heirigs
+14,Simi Fadiran
+18,Jacob Sak
+20,Samatv Iyer
+22,Yiran Li
+23,Seth Flikke
+24,Jude Ogden
+25,Kyle West
+26,Saul Diaz
+32,Aiden Martinsen
+33,Caleb Sanders
+34,Aaron Stettner
+38,Noah Petersen
+47,Matteo Meyer
+60,Joshua Ho
+62,Jacob Ho
+b,r,e,a,k
 Middlebury,4
 teamInfo,Pranksters,"Middlebury, Vermont",https://go.middlebury.edu/prankstersultimate,https://www.facebook.com/MiddleburyPranksters,https://twitter.com/pranksters69
 0,Anders Weber
@@ -57,33 +84,6 @@ teamInfo,Pranksters,"Middlebury, Vermont",https://go.middlebury.edu/prankstersul
 53,Jorre Dahl
 81,Geir Hartl
 83,Gavin Rice
-b,r,e,a,k
-Wisconsin,5
-teamInfo,Hodags,"Madison, Wisconsin",http://www.hodaglove.org/,https://www.facebook.com/Wisconsin-Hodags-118125241585256/,https://twitter.com/hodaglove
-0,Zach Morton
-01,Aidan Obregon
-02,Isaac Gamble
-03,Graeme Alexander
-06,Nicholas Tangwall
-08,Carson Batchelor
-11,Mark Nelson
-12,Jack Dipaolo
-13,Max Heirigs
-14,Simi Fadiran
-18,Jacob Sak
-20,Samatv Iyer
-22,Yiran Li
-23,Seth Flikke
-24,Jude Ogden
-25,Kyle West
-26,Saul Diaz
-32,Aiden Martinsen
-33,Caleb Sanders
-34,Aaron Stettner
-38,Noah Petersen
-47,Matteo Meyer
-60,Joshua Ho
-62,Jacob Ho
 b,r,e,a,k
 Dartmouth,8
 teamInfo,Pain Train,"Hanover, New Hampshire",https://sites.dartmouth.edu/ultimatefrisbee/paintrain/,,https://twitter.com/DMouthPainTrain
@@ -426,34 +426,6 @@ teamInfo,Eagles,"Edmond, Oklahoma",https://oceagles.com/sports/ultimate,,
 60,Emmanuel Kameri
 69,Couper Kerns
 b,r,e,a,k
-Colorado (B),17
-teamInfo,CUCU,"Denver, Colorado",,,
-0,Andrew Swanson
-0,Daniel Lepsch
-0,Danny Nguyen
-0,Evan Callahan
-0,Felix Feiger
-0,Jakub Micko
-0,Kaeden Batz
-0,Loïc Masters
-0,Noah Sentnor
-0,Oscar Lechner
-0,Owen Wolford
-0,Paul Masters
-0,Quincy Roy
-0,Simon Alaimo
-2,Schuyler Houston
-5,Henry Wattson
-10,Blake Musfeldt
-11,Chris Doan
-13,Beck Buskirk
-17,Justyn Bunkley
-26,Creighton Tisdale
-27,Tate Voeller
-40,Abram Yehle
-62,Leo Gold
-91,Elliot Frank
-b,r,e,a,k
 Oklahoma State,23
 teamInfo,Ultimato,"Stillwater, Oklahoma",,,
 0,Christian Fair
@@ -509,6 +481,34 @@ teamInfo,Woof,"Richardson, Texas",,,https://twitter.com/utd_ultimate
 37,Andy Flathmann
 87,Connor Harris
 88,Ethan Hughes
+b,r,e,a,k
+Colorado (B),17
+teamInfo,CUCU,"Denver, Colorado",,,
+0,Andrew Swanson
+0,Daniel Lepsch
+0,Danny Nguyen
+0,Evan Callahan
+0,Felix Feiger
+0,Jakub Micko
+0,Kaeden Batz
+0,Loïc Masters
+0,Noah Sentnor
+0,Oscar Lechner
+0,Owen Wolford
+0,Paul Masters
+0,Quincy Roy
+0,Simon Alaimo
+2,Schuyler Houston
+5,Henry Wattson
+10,Blake Musfeldt
+11,Chris Doan
+13,Beck Buskirk
+17,Justyn Bunkley
+26,Creighton Tisdale
+27,Tate Voeller
+40,Abram Yehle
+62,Leo Gold
+91,Elliot Frank
 b,r,e,a,k
 Texas A&M (B),30
 teamInfo,Dozen Matter,"College Station, Texas",,,https://twitter.com/dozenmatterulti
@@ -758,8 +758,8 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play (Tier 1)
 pool,Pool A (Tier 1)
-Tufts,Dartmouth,0,0,"03/15/2025, 09:00",Pool A (Tier 1),Scheduled
-Middlebury,Wisconsin,0,0,"03/15/2025, 09:00",Pool A (Tier 1),Scheduled
+Tufts,Dartmouth,13,5,"03/15/2025, 09:00",Pool A (Tier 1),Final
+Middlebury,Wisconsin,9,13,"03/15/2025, 09:00",Pool A (Tier 1),Final
 Tufts,Wisconsin,0,0,"03/15/2025, 10:45",Pool A (Tier 1),Scheduled
 Dartmouth,Middlebury,0,0,"03/15/2025, 10:45",Pool A (Tier 1),Scheduled
 Tufts,Middlebury,0,0,"03/15/2025, 12:30",Pool A (Tier 1),Scheduled
@@ -789,7 +789,7 @@ b,r,e,a,k
 pools,Pool Play (Tier 2)
 pool,Pool A (Tier 2)
 Colorado (B),Texas-Dallas,0,0,"03/15/2025, 09:00",Pool A (Tier 2),Scheduled
-Oklahoma State,Texas A&M (B),0,0,"03/15/2025, 09:00",Pool A (Tier 2),Scheduled
+Oklahoma State,Texas A&M (B),13,7,"03/15/2025, 09:00",Pool A (Tier 2),Final
 Colorado (B),Texas A&M (B),0,0,"03/15/2025, 10:45",Pool A (Tier 2),Scheduled
 Oklahoma State,Texas-Dallas,0,0,"03/15/2025, 10:45",Pool A (Tier 2),Scheduled
 Colorado (B),Oklahoma State,0,0,"03/15/2025, 12:30",Pool A (Tier 2),Scheduled
