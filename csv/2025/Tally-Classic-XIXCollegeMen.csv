@@ -23,35 +23,6 @@ teamInfo,Gyrenes,"Naples, Florida",,,
 0,Vincent Morlino
 22,John Durand
 b,r,e,a,k
-Central Florida,5
-teamInfo,Dogs of War,"Orlando, Florida",,https://www.facebook.com/CentralFloridaUltimate,https://twitter.com/PupsofConflict
-0,Caden Wild
-0,Carson  Wright
-0,Cole Koffarnus
-0,David Miguel
-0,Dylan Genest
-0,Gabe DelHagen
-0,Garen Lamb
-0,Jordan Varghese
-0,Josh Pisani
-0,Justin Spence
-0,Angel Garcia Silva
-0,Bobby Talerico 
-0,Miguel Romer
-0,Ryan Kawa
-0,Thomas Steeves
-0,Ty Lim
-0,Yaseen El Ghandour
-0,Zach Vernon
-5,Wazan Hoshino
-7,Sean Chaney
-23,Aidan Earnest
-27,Noah Kamens
-28,Ryan Rodriguez
-31,Michael Kemp
-43,Jake Repperger
-55,Bradley  Paul
-b,r,e,a,k
 Auburn,3
 teamInfo,Aetos,"Auburn, Alabama",,https://www.facebook.com/auburnultimate,https://twitter.com/AuburnUltimate
 0,Ethan Polk
@@ -81,6 +52,35 @@ teamInfo,Aetos,"Auburn, Alabama",,https://www.facebook.com/auburnultimate,https:
 27,Aaron Reeves
 50,Matthew Melton
 89,Joshua Reed
+b,r,e,a,k
+Central Florida,5
+teamInfo,Dogs of War,"Orlando, Florida",,https://www.facebook.com/CentralFloridaUltimate,https://twitter.com/PupsofConflict
+0,Caden Wild
+0,Carson  Wright
+0,Cole Koffarnus
+0,David Miguel
+0,Dylan Genest
+0,Gabe DelHagen
+0,Garen Lamb
+0,Jordan Varghese
+0,Josh Pisani
+0,Justin Spence
+0,Angel Garcia Silva
+0,Bobby Talerico 
+0,Miguel Romer
+0,Ryan Kawa
+0,Thomas Steeves
+0,Ty Lim
+0,Yaseen El Ghandour
+0,Zach Vernon
+5,Wazan Hoshino
+7,Sean Chaney
+23,Aidan Earnest
+27,Noah Kamens
+28,Ryan Rodriguez
+31,Michael Kemp
+43,Jake Repperger
+55,Bradley  Paul
 b,r,e,a,k
 Clemson,10
 teamInfo,Joint Chiefs of Waft,"Greenville, South Carolina",http://www.clemson.edu/ultimate/,,
@@ -363,7 +363,8 @@ b,r,e,a,k
 s,t,a,g,e,s
 brackets,Bracket Play
 bracket,1st Place Bracket
-Ave Maria,Central Florida,0,0,"03/15/2025, 12:00",1st Place Semis,Scheduled
+Ave Maria,Auburn,0,0,"03/15/2025, 14:00",1st Place Finals,Scheduled
+Ave Maria,Central Florida,15,6,"03/15/2025, 12:00",1st Place Semis,Final
 Auburn,Clemson,11,4,"03/15/2025, 12:00",1st Place Semis,Final
 Ave Maria,LSU,15,3,"03/15/2025, 10:00",1st Place Quarters,Final
 Georgia State,Central Florida,8,13,"03/15/2025, 10:00",1st Place Quarters,Final
@@ -376,10 +377,13 @@ Auburn,North Florida,15,7,"03/15/2025, 08:00",1st Place Pre-Quarters,Final
 Florida State,Harvard,15,11,"03/15/2025, 08:00",1st Place Pre-Quarters,Final
 South Florida,Clemson,10,13,"03/15/2025, 08:00",1st Place Pre-Quarters,Final
 bracket,3rd Place Game
+Central Florida,Clemson,0,0,"03/15/2025, 14:00",3rd Place Game,Scheduled
 bracket,5th Place Bracket
-LSU,Florida,0,0,"03/15/2025, 12:00",5th Place Semis,Scheduled
+Florida,Georgia State,0,0,"03/15/2025, 14:00",5th Place Finals,Scheduled
+LSU,Florida,9,14,"03/15/2025, 12:00",5th Place Semis,Final
 Florida State,Georgia State,9,10,"03/15/2025, 12:00",5th Place Semis,Final
 bracket,7th Place Game
+LSU,Florida State,0,0,"03/15/2025, 02:00",7th Place Game,Scheduled
 b,r,e,a,k
 pools,Consolation Pools
 pool,Pool A
@@ -388,6 +392,6 @@ Kennesaw State,South Florida,0,0,"03/15/2025, 12:00",Pool A,Scheduled
 Kennesaw State,North Florida,0,0,"03/15/2025, 14:00",Pool A,Scheduled
 pool,Pool B
 Minnesota-Duluth,Harvard,10,12,"03/15/2025, 10:00",Pool B,Final
-Berry,Harvard,0,0,"03/15/2025, 12:00",Pool B,Scheduled
+Berry,Harvard,15,9,"03/15/2025, 12:00",Pool B,Final
 Berry,Minnesota-Duluth,0,0,"03/15/2025, 14:00",Pool B,Scheduled
 b,r,e,a,k
