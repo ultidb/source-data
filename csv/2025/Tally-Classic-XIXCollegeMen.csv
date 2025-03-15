@@ -52,6 +52,55 @@ coaches,Chas Legge
 66,Jaylon Boone
 99,Caleb Franklin
 b,r,e,a,k
+Georgia State,13
+teamInfo,Underground,"Atlanta, Georgia",,www.facebook.com/gsuultimate,https://twitter.com/GSUnderground
+coaches,Krishan Chib
+0,Conner Crenshaw
+0,DeAngelo Williams
+0,Lennox Whitaker
+0,Maverick Earle
+0,Maxwell Lopez
+0,Mohit Kokane
+0,Parker Saetang
+0,Farez Parmar
+0,James Ejiwale
+0,William Sales
+1,Spencer Pennington
+4,Shaheer Khan
+11,Lee Phan
+16,Bryan Alanis Perez
+21,Andrew Frazer
+36,Eric Frega
+b,r,e,a,k
+Central Florida,5
+teamInfo,Dogs of War,"Orlando, Florida",,https://www.facebook.com/CentralFloridaUltimate,https://twitter.com/PupsofConflict
+0,Caden Wild
+0,Carson  Wright
+0,Cole Koffarnus
+0,David Miguel
+0,Dylan Genest
+0,Gabe DelHagen
+0,Garen Lamb
+0,Jordan Varghese
+0,Josh Pisani
+0,Justin Spence
+0,Angel Garcia Silva
+0,Bobby Talerico 
+0,Miguel Romer
+0,Ryan Kawa
+0,Thomas Steeves
+0,Ty Lim
+0,Yaseen El Ghandour
+0,Zach Vernon
+5,Wazan Hoshino
+7,Sean Chaney
+23,Aidan Earnest
+27,Noah Kamens
+28,Ryan Rodriguez
+31,Michael Kemp
+43,Jake Repperger
+55,Bradley  Paul
+b,r,e,a,k
 Auburn,3
 teamInfo,Aetos,"Auburn, Alabama",,https://www.facebook.com/auburnultimate,https://twitter.com/AuburnUltimate
 0,Ethan Polk
@@ -210,55 +259,6 @@ teamInfo,Bucks,"Berry, Georgia",,,https://twitter.com/berry_bucks
 52,Ian VanOrder
 55,Ben Rooke
 b,r,e,a,k
-Georgia State,13
-teamInfo,Underground,"Atlanta, Georgia",,www.facebook.com/gsuultimate,https://twitter.com/GSUnderground
-coaches,Krishan Chib
-0,Conner Crenshaw
-0,DeAngelo Williams
-0,Lennox Whitaker
-0,Maverick Earle
-0,Maxwell Lopez
-0,Mohit Kokane
-0,Parker Saetang
-0,Farez Parmar
-0,James Ejiwale
-0,William Sales
-1,Spencer Pennington
-4,Shaheer Khan
-11,Lee Phan
-16,Bryan Alanis Perez
-21,Andrew Frazer
-36,Eric Frega
-b,r,e,a,k
-Central Florida,5
-teamInfo,Dogs of War,"Orlando, Florida",,https://www.facebook.com/CentralFloridaUltimate,https://twitter.com/PupsofConflict
-0,Caden Wild
-0,Carson  Wright
-0,Cole Koffarnus
-0,David Miguel
-0,Dylan Genest
-0,Gabe DelHagen
-0,Garen Lamb
-0,Jordan Varghese
-0,Josh Pisani
-0,Justin Spence
-0,Angel Garcia Silva
-0,Bobby Talerico 
-0,Miguel Romer
-0,Ryan Kawa
-0,Thomas Steeves
-0,Ty Lim
-0,Yaseen El Ghandour
-0,Zach Vernon
-5,Wazan Hoshino
-7,Sean Chaney
-23,Aidan Earnest
-27,Noah Kamens
-28,Ryan Rodriguez
-31,Michael Kemp
-43,Jake Repperger
-55,Bradley  Paul
-b,r,e,a,k
 Minnesota-Duluth,12
 teamInfo,Northern Lights,"Duluth, Minnesota",,https://www.facebook.com/lights33,https://twitter.com/UMD_Lights
 0,Ben Donahue
@@ -364,10 +364,11 @@ s,t,a,g,e,s
 brackets,Bracket Play
 bracket,1st Place Bracket
 Ave Maria,LSU,0,0,"03/15/2025, 10:00",1st Place Quarters,Scheduled
+Georgia State,Central Florida,0,0,"03/15/2025, 10:00",1st Place Quarters,Scheduled
 Auburn,Florida State,0,0,"03/15/2025, 10:00",1st Place Quarters,Scheduled
 Clemson,Florida,0,0,"03/15/2025, 10:00",1st Place Quarters,Scheduled
 LSU,Kennesaw State,15,8,"03/15/2025, 08:00",1st Place Pre-Quarters,Final
-Berry,Georgia State,0,0,"03/15/2025, 08:00",1st Place Pre-Quarters,Scheduled
+Berry,Georgia State,14,15,"03/15/2025, 08:00",1st Place Pre-Quarters,Final
 Central Florida,Minnesota-Duluth,15,13,"03/15/2025, 08:00",1st Place Pre-Quarters,Final
 Auburn,North Florida,15,7,"03/15/2025, 08:00",1st Place Pre-Quarters,Final
 Florida State,Harvard,15,11,"03/15/2025, 08:00",1st Place Pre-Quarters,Final
@@ -383,4 +384,6 @@ Kennesaw State,South Florida,0,0,"03/15/2025, 12:00",Pool A,Scheduled
 Kennesaw State,North Florida,0,0,"03/15/2025, 14:00",Pool A,Scheduled
 pool,Pool B
 Minnesota-Duluth,Harvard,0,0,"03/15/2025, 10:00",Pool B,Scheduled
+Berry,Harvard,0,0,"03/15/2025, 12:00",Pool B,Scheduled
+Berry,Minnesota-Duluth,0,0,"03/15/2025, 14:00",Pool B,Scheduled
 b,r,e,a,k
