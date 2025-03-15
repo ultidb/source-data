@@ -110,37 +110,6 @@ teamInfo,Pain Train,"Hanover, New Hampshire",https://sites.dartmouth.edu/ultimat
 33,Drew Loughnane
 59,Benjamin Jenkins
 b,r,e,a,k
-Chicago,3
-teamInfo,Fission,"Chicago, Illinois",http://junkultimate.weebly.com/,https://www.facebook.com/UChicagoUltimate/,https://twitter.com/UChi_Fission
-0,Han Zhang
-0,Joseph Sifakis
-0,Joseph Kaplan
-0,Josh Edington
-0,Kevin Yuan
-0,Leon Tan
-0,Mason Wright
-0,Maxwell Devine
-0,Michael Hlavaty
-0,Nathaniel Alden
-0,Nicholas Rose
-0,Quinn Hauck
-0,Suhaas Katikaneni
-0,Tom Dupor
-0,Trevor Ung
-0,Tuhin Ghosh
-0,Aiden Tandiono
-0,Ben Brink
-0,Benjamin O'Donnell
-0,Caleb Friedman
-0,Christopher Nowak
-0,Cory McCormack
-0,Derek Hsu
-0,Duncan Fuehne
-0,Emmanuel Abayev
-0,Garrett White
-0,Gavin Kelly
-28,Grant Harris
-b,r,e,a,k
 Texas,2
 teamInfo,TUFF,"Austin, Texas",https://texasultimatefrisbee.weebly.com/,https://www.facebook.com/TexasUltimate,https://twitter.com/texas__tuff/
 coaches,Calvin Lin
@@ -172,6 +141,37 @@ coaches,Calvin Lin
 33,Huy Nguyen
 81,Jake Worthington
 96,Talon Balcom
+b,r,e,a,k
+Chicago,3
+teamInfo,Fission,"Chicago, Illinois",http://junkultimate.weebly.com/,https://www.facebook.com/UChicagoUltimate/,https://twitter.com/UChi_Fission
+0,Han Zhang
+0,Joseph Sifakis
+0,Joseph Kaplan
+0,Josh Edington
+0,Kevin Yuan
+0,Leon Tan
+0,Mason Wright
+0,Maxwell Devine
+0,Michael Hlavaty
+0,Nathaniel Alden
+0,Nicholas Rose
+0,Quinn Hauck
+0,Suhaas Katikaneni
+0,Tom Dupor
+0,Trevor Ung
+0,Tuhin Ghosh
+0,Aiden Tandiono
+0,Ben Brink
+0,Benjamin O'Donnell
+0,Caleb Friedman
+0,Christopher Nowak
+0,Cory McCormack
+0,Derek Hsu
+0,Duncan Fuehne
+0,Emmanuel Abayev
+0,Garrett White
+0,Gavin Kelly
+28,Grant Harris
 b,r,e,a,k
 Utah Valley,6
 teamInfo,Utah Valley Ultimate,"Orem, Utah",,,
@@ -760,28 +760,28 @@ pools,Pool Play (Tier 1)
 pool,Pool A (Tier 1)
 Tufts,Dartmouth,13,5,"03/15/2025, 09:00",Pool A (Tier 1),Final
 Middlebury,Wisconsin,9,13,"03/15/2025, 09:00",Pool A (Tier 1),Final
-Tufts,Wisconsin,0,0,"03/15/2025, 10:45",Pool A (Tier 1),Scheduled
-Dartmouth,Middlebury,0,0,"03/15/2025, 10:45",Pool A (Tier 1),Scheduled
+Tufts,Wisconsin,11,8,"03/15/2025, 10:45",Pool A (Tier 1),Final
+Dartmouth,Middlebury,6,11,"03/15/2025, 10:45",Pool A (Tier 1),Final
 Tufts,Middlebury,0,0,"03/15/2025, 12:30",Pool A (Tier 1),Scheduled
 Dartmouth,Wisconsin,0,0,"03/15/2025, 12:30",Pool A (Tier 1),Scheduled
 pool,Pool B (Tier 1)
 Texas,Utah Valley,13,12,"03/07/2025, 19:30",Pool B (Tier 1),Final
 Tulane,Chicago,8,12,"03/15/2025, 09:00",Pool B (Tier 1),Final
-Texas,Tulane,0,0,"03/15/2025, 10:45",Pool B (Tier 1),Scheduled
+Texas,Tulane,13,3,"03/15/2025, 10:45",Pool B (Tier 1),Final
 Chicago,Utah Valley,0,0,"03/15/2025, 10:45",Pool B (Tier 1),Scheduled
 Texas,Chicago,0,0,"03/15/2025, 12:30",Pool B (Tier 1),Scheduled
 Tulane,Utah Valley,0,0,"03/15/2025, 12:30",Pool B (Tier 1),Scheduled
 pool,Pool C (Tier 1)
 Illinois,Mississippi State,11,10,"03/15/2025, 09:00",Pool C (Tier 1),Final
 Colorado College,Arizona State,9,8,"03/15/2025, 09:00",Pool C (Tier 1),Final
-Illinois,Arizona State,0,0,"03/15/2025, 10:45",Pool C (Tier 1),Scheduled
+Illinois,Arizona State,9,7,"03/15/2025, 10:45",Pool C (Tier 1),Final
 Colorado College,Mississippi State,0,0,"03/15/2025, 10:45",Pool C (Tier 1),Scheduled
 Illinois,Colorado College,0,0,"03/15/2025, 12:30",Pool C (Tier 1),Scheduled
 Mississippi State,Arizona State,0,0,"03/15/2025, 12:30",Pool C (Tier 1),Scheduled
 pool,Pool D (Tier 1)
 Missouri,Iowa,11,10,"03/15/2025, 09:00",Pool D (Tier 1),Final
 Texas A&M,Oklahoma Christian,10,12,"03/15/2025, 09:00",Pool D (Tier 1),Final
-Missouri,Oklahoma Christian,0,0,"03/15/2025, 10:45",Pool D (Tier 1),Scheduled
+Missouri,Oklahoma Christian,10,12,"03/15/2025, 10:45",Pool D (Tier 1),Final
 Texas A&M,Iowa,0,0,"03/15/2025, 10:45",Pool D (Tier 1),Scheduled
 Missouri,Texas A&M,0,0,"03/15/2025, 12:30",Pool D (Tier 1),Scheduled
 Iowa,Oklahoma Christian,0,0,"03/15/2025, 12:30",Pool D (Tier 1),Scheduled
@@ -791,7 +791,7 @@ pool,Pool A (Tier 2)
 Colorado (B),Texas-Dallas,11,10,"03/15/2025, 09:00",Pool A (Tier 2),Final
 Oklahoma State,Texas A&M (B),13,7,"03/15/2025, 09:00",Pool A (Tier 2),Final
 Colorado (B),Texas A&M (B),13,6,"03/15/2025, 10:45",Pool A (Tier 2),Final
-Oklahoma State,Texas-Dallas,0,0,"03/15/2025, 10:45",Pool A (Tier 2),Scheduled
+Oklahoma State,Texas-Dallas,10,9,"03/15/2025, 10:45",Pool A (Tier 2),Final
 Colorado (B),Oklahoma State,0,0,"03/15/2025, 12:30",Pool A (Tier 2),Scheduled
 Texas-Dallas,Texas A&M (B),0,0,"03/15/2025, 12:30",Pool A (Tier 2),Scheduled
 pool,Pool B (Tier 2)
