@@ -1,6 +1,48 @@
 Tally Classic XIX,College - Women ,15,3,2025
 Tallahassee,FL,2025-03-15,2025-03-16
 https://play.usaultimate.org/events/Tally-Classic-XIX/schedule/Women/CollegeWomen/
+Florida,1
+teamInfo,FUEL,"Gainesville, Florida",http://gvilleultimate.com/FUEL/#!/,https://www.facebook.com/FUELenfuego,https://twitter.com/FUELenfuego
+0,Annika York
+0,Chihyu Kang
+0,Hailey Rohlfing
+0,Hayley Rouadi 
+0,Isabella Katz
+0,Kelly Ganner
+0,Kira Schwartzberg
+0,Madeline O'Sullivan
+0,Rachel Stewart
+0,Sarah Duckett
+0,Semaj Butler-Drinks
+2,Jordan Harrow
+3,Hannah Amaya
+6,Jemima Tolentino
+7,Delena Nguyen
+11,Kaylen Chiang
+18,Hannah Palka
+19,Jia Johnson
+19,Hannah Waite
+21,Amanda Manausa
+b,r,e,a,k
+Jacksonville State,5
+teamInfo,Fuego,"Jacksonville, Alabama",,,https://twitter.com/jsufuego
+02,Mary Tracy
+03,Autumn Daniel
+06,Celeste Owens
+06,Tricia Elden
+12,Stephanie Byron
+13,Tara McCallion
+14,Zara Thornhill
+18,Breanna Daniel
+19,Holly Davenport
+23,Tattum Denham
+26,Chloe Bell
+27,Emma Hudson
+29,Susie Landis
+34,Riley Thornhill
+42,Elizabeth O'Donnell
+77,Hannah Mayhew
+b,r,e,a,k
 Central Florida,3
 teamInfo,Sirens,"Orlando, Florida",https://www.instagram.com/sirens_ultimate/,https://www.facebook.com/UCFWultimate/,https://twitter.com/UCFWUltimate
 coaches,Joseph Tilley
@@ -46,29 +88,6 @@ teamInfo,Middlebury Pranksters,"Middlebury, Vermont",http://sites.middlebury.edu
 69,Makenna Bachman
 99,Molly Kaplan
 b,r,e,a,k
-Florida,1
-teamInfo,FUEL,"Gainesville, Florida",http://gvilleultimate.com/FUEL/#!/,https://www.facebook.com/FUELenfuego,https://twitter.com/FUELenfuego
-0,Annika York
-0,Chihyu Kang
-0,Hailey Rohlfing
-0,Hayley Rouadi 
-0,Isabella Katz
-0,Kelly Ganner
-0,Kira Schwartzberg
-0,Madeline O'Sullivan
-0,Rachel Stewart
-0,Sarah Duckett
-0,Semaj Butler-Drinks
-2,Jordan Harrow
-3,Hannah Amaya
-6,Jemima Tolentino
-7,Delena Nguyen
-11,Kaylen Chiang
-18,Hannah Palka
-19,Jia Johnson
-19,Hannah Waite
-21,Amanda Manausa
-b,r,e,a,k
 LSU,10
 teamInfo,LSU Women's Ultimate,"Baton Rouge, Louisiana",http://lsuuniversityrec.com/lsuurec/,,
 0,Abigail Roscoe 
@@ -87,25 +106,6 @@ teamInfo,LSU Women's Ultimate,"Baton Rouge, Louisiana",http://lsuuniversityrec.c
 6,Caroline Meserve
 35,Kendryx Periban
 49,Taylor Davis
-b,r,e,a,k
-Jacksonville State,5
-teamInfo,Fuego,"Jacksonville, Alabama",,,https://twitter.com/jsufuego
-02,Mary Tracy
-03,Autumn Daniel
-06,Celeste Owens
-06,Tricia Elden
-12,Stephanie Byron
-13,Tara McCallion
-14,Zara Thornhill
-18,Breanna Daniel
-19,Holly Davenport
-23,Tattum Denham
-26,Chloe Bell
-27,Emma Hudson
-29,Susie Landis
-34,Riley Thornhill
-42,Elizabeth O'Donnell
-77,Hannah Mayhew
 b,r,e,a,k
 Tulane,4
 teamInfo,Muses,"New Orleans, Louisiana",,,@TUmuses
@@ -195,22 +195,28 @@ b,r,e,a,k
 s,t,a,g,e,s
 brackets,Saturday Bracket
 bracket,Finals
+Florida,Jacksonville State,0,0,"03/15/2025, 12:00",Semifinals,Scheduled
 Central Florida,Middlebury,0,0,"03/15/2025, 12:00",Semifinals,Scheduled
-Florida,LSU,0,0,"03/15/2025, 10:00",Quarterfinals,Scheduled
-Jacksonville State,Tulane,0,0,"03/15/2025, 10:00",Quarterfinals,Scheduled
+Florida,LSU,12,3,"03/15/2025, 10:00",Quarterfinals,Final
+Jacksonville State,Tulane,9,8,"03/15/2025, 10:00",Quarterfinals,Final
 Central Florida,Harvard,15,1,"03/15/2025, 10:00",Quarterfinals,Final
 Florida State,Middlebury,4,14,"03/15/2025, 10:00",Quarterfinals,Final
 LSU,Florida Tech,8,5,"03/15/2025, 08:00",Prequarters,Final
 Florida State,Minnesota-Duluth,15,2,"03/15/2025, 08:00",Prequarters,Final
 bracket,3rd Place Game
 bracket,5th Place Seeding
-Florida Tech,Minnesota-Duluth,0,0,"03/15/2025, 10:00",Seeding Game,Scheduled
+Florida Tech,Minnesota-Duluth,10,5,"03/15/2025, 10:00",Seeding Game,Final
 b,r,e,a,k
 pools,5th Place Pool
 pool,Pool B
+Tulane,Florida Tech,0,0,"03/15/2025, 12:00",Pool B,Scheduled
 Florida State,Florida Tech,0,0,"03/15/2025, 14:00",Pool B,Scheduled
 pool,Pool C
-Harvard,Minnesota-Duluth,0,0,"03/15/2025, 12:00",Pool C,Scheduled
+Harvard,Minnesota-Duluth,0,0,"03/15/2025, 12:00",Pool C,Final
+LSU,Minnesota-Duluth,0,0,"03/15/2025, 14:00",Pool C,Scheduled
 b,r,e,a,k
 clusters,5th Place Crossovers
+cluster,5th Place Crossovers
+LSU,Florida State,0,0,"03/15/2025, 12:00",,Scheduled
+Tulane,Harvard,0,0,"03/15/2025, 14:00",,Scheduled
 b,r,e,a,k
