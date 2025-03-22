@@ -33,31 +33,6 @@ teamInfo,Burn,"Blacksburg, Virginia",http://vtultimate.wix.com/virginiatechultim
 69,Luke Kenney
 89,Jacob Sigeti
 b,r,e,a,k
-Lehigh,8
-teamInfo,Lehigh,"Bethlehem, Pennsylvania",,,https://twitter.com/lehighultimate
-0,Brett Clinton
-0,Cal Heathman
-0,Chase Roth-Wells
-0,Elijah Daly
-0,Elliott Kimball
-0,Ethan Meron
-0,Andrew Yu-Hwang
-0,Harry Germain
-0,Jake Schachter
-0,Lewen Xiang
-0,Matthias Culbertson
-0,Robert Wilson
-0,Vaughn Clark
-2,Danny Dilsheimer
-4,Brandon Reith
-12,Aaron Lam
-20,Zachary Weiser
-25,Dominic Policarpo
-52,Owen Lambinus 
-55,Henry Winter
-58,Gregory Dardaris
-85,Thomas Dyett
-b,r,e,a,k
 RIT,9
 teamInfo,RIT Spudheds,"Rochester, New York",,http://www.facebook.com/ritspudheds,http://www.twitter.com/spudheds
 0,Adam Rigdon
@@ -93,6 +68,31 @@ teamInfo,RIT Spudheds,"Rochester, New York",,http://www.facebook.com/ritspudheds
 48,Alden Birkett
 57,Bryce Roman
 67,Cooper Pinaud
+b,r,e,a,k
+Lehigh,8
+teamInfo,Lehigh,"Bethlehem, Pennsylvania",,,https://twitter.com/lehighultimate
+0,Brett Clinton
+0,Cal Heathman
+0,Chase Roth-Wells
+0,Elijah Daly
+0,Elliott Kimball
+0,Ethan Meron
+0,Andrew Yu-Hwang
+0,Harry Germain
+0,Jake Schachter
+0,Lewen Xiang
+0,Matthias Culbertson
+0,Robert Wilson
+0,Vaughn Clark
+2,Danny Dilsheimer
+4,Brandon Reith
+12,Aaron Lam
+20,Zachary Weiser
+25,Dominic Policarpo
+52,Owen Lambinus 
+55,Henry Winter
+58,Gregory Dardaris
+85,Thomas Dyett
 b,r,e,a,k
 George Washington,16
 teamInfo,George Washington Men’s Club Ultimate,"Washington, District of Columbia",,,https://twitter.com/Gdub_Ultimate
@@ -332,6 +332,33 @@ teamInfo,Chill Dev,"Burlington, Vermont",,https://www.facebook.com/Team.Chill.33
 72,Krane Davis
 95,Asher Levy
 b,r,e,a,k
+Florida State,11
+teamInfo,DUF,"Tallahassee, Florida",,https://www.facebook.com/FSUltimate,https://twitter.com/DUFtrainroll
+0,Edward Bou
+0,Emilio  Torres 
+0,Evan Thompson
+0,Fabrizio Gowdy
+0,Jack Kelly
+0,Jacob Bou
+0,Justin Wright
+0,London Williams
+0,Pierce Toupin
+0,Robert Frost
+0,Thomas Lewis
+0,Ulysses Ellis
+4,Evan Baker
+5,Dominic Pawlusiak
+7,Owen Peronto
+8,Nicolai Riekerk
+10,Trevor Janik
+11,Colton Turner 
+12,Michael Berg
+17,Sam Swartz
+19,Bodie Cole
+26,Scott Sakow
+37,Daniel Siegel
+88,Benjamin Watson
+b,r,e,a,k
 Appalachian State,6
 teamInfo,Nomads,"Boone, North Carolina",,,https://twitter.com/Nomads_Ultimate
 0,Andrew Patry
@@ -359,33 +386,6 @@ teamInfo,Nomads,"Boone, North Carolina",,,https://twitter.com/Nomads_Ultimate
 28,Caleb Sizemore
 33,Evan Miller
 99,Zachary Abbott
-b,r,e,a,k
-Florida State,11
-teamInfo,DUF,"Tallahassee, Florida",,https://www.facebook.com/FSUltimate,https://twitter.com/DUFtrainroll
-0,Edward Bou
-0,Emilio  Torres 
-0,Evan Thompson
-0,Fabrizio Gowdy
-0,Jack Kelly
-0,Jacob Bou
-0,Justin Wright
-0,London Williams
-0,Pierce Toupin
-0,Robert Frost
-0,Thomas Lewis
-0,Ulysses Ellis
-4,Evan Baker
-5,Dominic Pawlusiak
-7,Owen Peronto
-8,Nicolai Riekerk
-10,Trevor Janik
-11,Colton Turner 
-12,Michael Berg
-17,Sam Swartz
-19,Bodie Cole
-26,Scott Sakow
-37,Daniel Siegel
-88,Benjamin Watson
 b,r,e,a,k
 Messiah,14
 teamInfo,Falcons,"Mechanicsburg, Pennsylvania",messiah.edu,https://www.facebook.com/messiahultimate,https://www.twitter.com/messiahultimate
@@ -567,7 +567,7 @@ s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
 Virginia Tech,Wake Forest,15,1,"03/22/2025, 09:30",Pool A,Final
-RIT,George Washington,0,0,"03/22/2025, 09:30",Pool A,Scheduled
+RIT,George Washington,15,4,"03/22/2025, 09:30",Pool A,Final
 Virginia Tech,RIT,0,0,"03/22/2025, 11:15",Pool A,Scheduled
 Lehigh,George Washington,0,0,"03/22/2025, 11:15",Pool A,Scheduled
 George Washington,Wake Forest,0,0,"03/22/2025, 13:00",Pool A,Scheduled
@@ -589,7 +589,7 @@ Duke,George Mason,0,0,"03/22/2025, 16:30",Pool B,Scheduled
 Massachusetts  (B),Virginia Tech (B),0,0,"03/22/2025, 16:30",Pool B,Scheduled
 pool,Pool C
 Vermont (B),American (B),15,1,"03/22/2025, 09:30",Pool C,Final
-Florida State,Messiah,0,0,"03/22/2025, 09:30",Pool C,Scheduled
+Florida State,Messiah,15,11,"03/22/2025, 09:30",Pool C,Final
 Vermont (B),Florida State,0,0,"03/22/2025, 11:15",Pool C,Scheduled
 Appalachian State,Messiah,0,0,"03/22/2025, 11:15",Pool C,Scheduled
 Messiah,American (B),0,0,"03/22/2025, 13:00",Pool C,Scheduled
