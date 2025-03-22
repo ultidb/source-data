@@ -280,33 +280,6 @@ teamInfo,Air Squids,"San Diego, California",,,
 64,Nikhil Banwar
 69,Max Gibson
 b,r,e,a,k
-UCLA,15
-teamInfo,Smaug,"Los Angeles, California",https://instagram.com/smaugultimate,,https://twitter.com/smaugultimate
-coaches,William Brotman
-0,Ashton Jin
-3,Loic Billaut
-5,Jacob Snodgress
-8,Ethan Klein
-9,Luca Adams
-11,Luke Davis
-12,Jackson Kim
-15,Clayton Entrekin
-20,Mateo Nacusi
-21,Isaiah Hernandez
-25,Marshall Wildmann
-26,Calvin Wicks
-29,Theo Conroy
-30,TOMASSO ABRAMSONWARD
-31,Alden Reals
-33,Micah Thomas
-34,Daniel Lai
-35,Samuel Torres
-44,Kieran Fain
-55,Marcos Young-Bowers
-56,Ian Tsai
-78,Zachary Rosen
-88,Alexander Clare
-b,r,e,a,k
 Victoria,10
 teamInfo,Vikes,"Victoria, British Columbia CA",www.uvicultimate.com,https://www.facebook.com/UVictimUltimate,https://twitter.com/uvictimultimate
 0,Alex Longe
@@ -337,33 +310,32 @@ teamInfo,Vikes,"Victoria, British Columbia CA",www.uvicultimate.com,https://www.
 69,Max Pettenuzzo
 88,Ben Lefevre
 b,r,e,a,k
-British Columbia,5
-teamInfo,Thunderbirds,"Vancouver, British Columbia CA",,,
-coaches,Alexander Lam,William Tang
-0,Joshua Jang
-01,Shahaan Oshidary
-04,Ryan Chen
-05,James Lehmann
-06,Matthew Wood
-08,Zachary Wong
-09,Ian Holzman
-10,Rex Yuen
-11,Justin Podnar
-13,Sunny Wong
-14,Davis Toth
-15,Duncan Nichols
-16,Justin Luna
-17,Ryan Graves
-19,Jake Yuen
-24,Elvin Ng-Young-Lim
-25,Bryn McColl
-31,Graeme Hanks
-32,Miles Wong
-37,Eli Bryan
-71,Edward Ross-Zhu
-72,Wesley  Wong
-73,Angus Chan
-95,Colin Wu
+UCLA,15
+teamInfo,Smaug,"Los Angeles, California",https://instagram.com/smaugultimate,,https://twitter.com/smaugultimate
+coaches,William Brotman
+0,Ashton Jin
+3,Loic Billaut
+5,Jacob Snodgress
+8,Ethan Klein
+9,Luca Adams
+11,Luke Davis
+12,Jackson Kim
+15,Clayton Entrekin
+20,Mateo Nacusi
+21,Isaiah Hernandez
+25,Marshall Wildmann
+26,Calvin Wicks
+29,Theo Conroy
+30,TOMASSO ABRAMSONWARD
+31,Alden Reals
+33,Micah Thomas
+34,Daniel Lai
+35,Samuel Torres
+44,Kieran Fain
+55,Marcos Young-Bowers
+56,Ian Tsai
+78,Zachary Rosen
+88,Alexander Clare
 b,r,e,a,k
 California-Santa Cruz,4
 teamInfo,Slugs,"Santa Cruz, California",https://www.instagram.com/slugultimate/,https://www.facebook.com/slugultimate,https://twitter.com/slugultimate
@@ -394,6 +366,34 @@ teamInfo,Slugs,"Santa Cruz, California",https://www.instagram.com/slugultimate/,
 72,Sam Jo
 75,Bodie Shargel
 77,Mario Ambrose
+b,r,e,a,k
+British Columbia,5
+teamInfo,Thunderbirds,"Vancouver, British Columbia CA",,,
+coaches,Alexander Lam,William Tang
+0,Joshua Jang
+01,Shahaan Oshidary
+04,Ryan Chen
+05,James Lehmann
+06,Matthew Wood
+08,Zachary Wong
+09,Ian Holzman
+10,Rex Yuen
+11,Justin Podnar
+13,Sunny Wong
+14,Davis Toth
+15,Duncan Nichols
+16,Justin Luna
+17,Ryan Graves
+19,Jake Yuen
+24,Elvin Ng-Young-Lim
+25,Bryn McColl
+31,Graeme Hanks
+32,Miles Wong
+37,Eli Bryan
+71,Edward Ross-Zhu
+72,Wesley  Wong
+73,Angus Chan
+95,Colin Wu
 b,r,e,a,k
 Utah State,9
 teamInfo,Scotsmen,"Logan, Utah",,https://www.facebook.com/profile.php?id=100089442176571,https://twitter.com/USUMensUltimate
@@ -434,7 +434,7 @@ Wisconsin,Gonzaga,15,11,"03/22/2025, 09:30",Pool A,Final
 Brigham Young,Gonzaga,15,11,"03/22/2025, 11:30",Pool A,Final
 Wisconsin,California-Santa Barbara,10,14,"03/22/2025, 11:30",Pool A,Final
 Brigham Young,Wisconsin,0,0,"03/22/2025, 13:30",Pool A,Scheduled
-California-Santa Barbara,Gonzaga,0,0,"03/22/2025, 13:30",Pool A,Scheduled
+California-Santa Barbara,Gonzaga,15,6,"03/22/2025, 13:30",Pool A,Final
 pool,Pool B
 Washington,Virginia,14,15,"03/22/2025, 09:30",Pool B,Final
 Utah,California-San Diego,13,15,"03/22/2025, 09:30",Pool B,Scheduled
@@ -443,16 +443,16 @@ Utah,Virginia,0,0,"03/22/2025, 11:30",Pool B,Scheduled
 Washington,Utah,8,7,"03/22/2025, 13:30",Pool B,In Progress
 Virginia,California-San Diego,0,0,"03/22/2025, 13:30",Pool B,Scheduled
 pool,Pool C
-Oregon State,Victoria,14,13,"03/22/2025, 09:30",Pool C,Scheduled
+Oregon State,Victoria,14,13,"03/22/2025, 09:30",Pool C,Final
 Western Washington,UCLA,15,13,"03/22/2025, 09:30",Pool C,Final
 Oregon State,UCLA,14,15,"03/22/2025, 11:30",Pool C,Final
-Western Washington,Victoria,13,15,"03/22/2025, 11:30",Pool C,Scheduled
-Oregon State,Western Washington,0,0,"03/22/2025, 13:30",Pool C,Scheduled
-Victoria,UCLA,0,0,"03/22/2025, 13:30",Pool C,Scheduled
+Western Washington,Victoria,13,15,"03/22/2025, 11:30",Pool C,Final
+Oregon State,Western Washington,15,14,"03/22/2025, 13:30",Pool C,Final
+Victoria,UCLA,15,4,"03/22/2025, 13:30",Pool C,Final
 pool,Pool D (Games to 17)
 California-Santa Cruz,Utah State,15,12,"03/22/2025, 09:30",Pool D (Games to 17),Final
 British Columbia,Utah State,16,9,"03/22/2025, 11:30",Pool D (Games to 17),Final
-California-Santa Cruz,British Columbia,0,0,"03/22/2025, 13:30",Pool D (Games to 17),Scheduled
+California-Santa Cruz,British Columbia,17,14,"03/22/2025, 13:30",Pool D (Games to 17),Final
 b,r,e,a,k
 brackets,Brackets
 bracket,1st Place
