@@ -198,35 +198,6 @@ teamInfo,GURU,"Spokane, Washington",,https://www.facebook.com/GonzagaMensUltimat
 69,Breslin Nichols
 96,Nate Carpenter
 b,r,e,a,k
-Virginia,11
-teamInfo,Night Train,"Charlottesville, Virginia",,,https://twitter.com/nighttrainatuva
-0,Connor McCartney
-0,Corey Furukawa
-0,Francesco  Caruccio
-0,Guy Cardwell
-0,Jaxon Boudreau
-0,Keegan Bohnenberger
-0,Phillip Johnson
-0,Sammy Calhoun
-1,Farhan Khan
-2,Nicolas West
-6,Tyler Husband
-12,Joseph Burton
-18,Jack Vietmeyer 
-19,Akiva Dienstfrey
-20,Josh Rosenberg
-23,Calvin Roe
-25,Joseph Dokken
-27,Joshua Huddleston
-29,Matthew Callen
-34,Ganesh Nanduru
-40,Benjamin Tnaib
-42,Patrick Fox
-43,Kian Thomasbeer
-52,Zeya Min-Fink
-81,Will Girard
-99,Christopher Messmore
-b,r,e,a,k
 California-San Diego,14
 teamInfo,Air Squids,"San Diego, California",,,
 0,Ari Mendel
@@ -279,6 +250,35 @@ teamInfo,Zion Curtain,"Salt Lake City, Utah",https://www.zioncurtainultimate.com
 82,Andrew Elliott
 96,Dane Miller
 99,Grayson Rettberg
+b,r,e,a,k
+Virginia,11
+teamInfo,Night Train,"Charlottesville, Virginia",,,https://twitter.com/nighttrainatuva
+0,Connor McCartney
+0,Corey Furukawa
+0,Francesco  Caruccio
+0,Guy Cardwell
+0,Jaxon Boudreau
+0,Keegan Bohnenberger
+0,Phillip Johnson
+0,Sammy Calhoun
+1,Farhan Khan
+2,Nicolas West
+6,Tyler Husband
+12,Joseph Burton
+18,Jack Vietmeyer 
+19,Akiva Dienstfrey
+20,Josh Rosenberg
+23,Calvin Roe
+25,Joseph Dokken
+27,Joshua Huddleston
+29,Matthew Callen
+34,Ganesh Nanduru
+40,Benjamin Tnaib
+42,Patrick Fox
+43,Kian Thomasbeer
+52,Zeya Min-Fink
+81,Will Girard
+99,Christopher Messmore
 b,r,e,a,k
 Victoria,10
 teamInfo,Vikes,"Victoria, British Columbia CA",www.uvicultimate.com,https://www.facebook.com/UVictimUltimate,https://twitter.com/uvictimultimate
@@ -433,15 +433,15 @@ Brigham Young,California-Santa Barbara,15,11,"03/22/2025, 09:30",Pool A,Final
 Wisconsin,Gonzaga,15,11,"03/22/2025, 09:30",Pool A,Final
 Brigham Young,Gonzaga,15,11,"03/22/2025, 11:30",Pool A,Final
 Wisconsin,California-Santa Barbara,10,14,"03/22/2025, 11:30",Pool A,Final
-Brigham Young,Wisconsin,0,0,"03/22/2025, 13:30",Pool A,Scheduled
+Brigham Young,Wisconsin,15,9,"03/22/2025, 13:30",Pool A,Final
 California-Santa Barbara,Gonzaga,15,6,"03/22/2025, 13:30",Pool A,Final
 pool,Pool B
 Washington,Virginia,14,15,"03/22/2025, 09:30",Pool B,Final
 Utah,California-San Diego,13,15,"03/22/2025, 09:30",Pool B,Final
 Washington,California-San Diego,15,7,"03/22/2025, 11:30",Pool B,Final
-Utah,Virginia,0,0,"03/22/2025, 11:30",Pool B,Scheduled
+Utah,Virginia,15,11,"03/22/2025, 11:30",Pool B,Final
 Washington,Utah,15,11,"03/22/2025, 13:30",Pool B,Final
-Virginia,California-San Diego,0,0,"03/22/2025, 13:30",Pool B,Scheduled
+Virginia,California-San Diego,11,13,"03/22/2025, 13:30",Pool B,Final
 pool,Pool C
 Oregon State,Victoria,14,13,"03/22/2025, 09:30",Pool C,Final
 Western Washington,UCLA,15,13,"03/22/2025, 09:30",Pool C,Final
@@ -456,6 +456,10 @@ California-Santa Cruz,British Columbia,17,14,"03/22/2025, 13:30",Pool D (Games t
 b,r,e,a,k
 brackets,Brackets
 bracket,1st Place
+California-San Diego,Western Washington,0,0,"03/22/2025, 16:00",PreQuarters,Scheduled
+Victoria,Utah,0,0,"03/22/2025, 16:00",PreQuarters,Scheduled
+Wisconsin,British Columbia,0,0,"03/22/2025, 16:00",PreQuarters,Scheduled
+California-Santa Barbara,Utah State,0,0,"03/22/2025, 16:00",PreQuarters,Scheduled
 bracket,3rd Place
 bracket,5th Place
 bracket,7th Place
