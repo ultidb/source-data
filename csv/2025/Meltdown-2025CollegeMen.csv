@@ -1,23 +1,6 @@
 Meltdown 2025,College - Men ,22,3,2025
 Rockford,IL,2025-03-22,2025-03-23
 https://play.usaultimate.org/events/Meltdown-2025/schedule/Men/CollegeMen/
-Winona State,1
-teamInfo,Experience,"Winona, Minnesota",,https://www.facebook.com/WinonaSateExperience,https://twitter.com/WSUExperience
-0,Colin Pence
-0,Corbin Olson
-0,David Gerfast
-0,James Watkins
-0,Leo Pederson
-0,Nolan Menz
-0,Zachary Frederick
-9,Conner Dopp
-11,Nate John
-13,Jonathan Schlaefer
-18,Gavin Opper
-29,Liam Fretland
-42,Lorenz Shih
-88,Samuel Whempner
-b,r,e,a,k
 St Thomas,6
 teamInfo,Purple Reign,"Saint Paul, Minnesota",,,
 0,Charlie Gilbert
@@ -35,6 +18,23 @@ teamInfo,Purple Reign,"Saint Paul, Minnesota",,,
 46,Nathan Kostynick
 69,Albert Dohrer
 b,r,e,a,k
+Winona State,1
+teamInfo,Experience,"Winona, Minnesota",,https://www.facebook.com/WinonaSateExperience,https://twitter.com/WSUExperience
+0,Colin Pence
+0,Corbin Olson
+0,David Gerfast
+0,James Watkins
+0,Leo Pederson
+0,Nolan Menz
+0,Zachary Frederick
+9,Conner Dopp
+11,Nate John
+13,Jonathan Schlaefer
+18,Gavin Opper
+29,Liam Fretland
+42,Lorenz Shih
+88,Samuel Whempner
+b,r,e,a,k
 Northern Iowa,7
 teamInfo,AmmUNItion,"Cedar Falls, Iowa",https://sites.google.com/site/ammunitionultimate/home,https://www.facebook.com/UNI.ultimate,https://twitter.com/UNIUltimate
 0,Jordan Mills
@@ -51,6 +51,23 @@ teamInfo,AmmUNItion,"Cedar Falls, Iowa",https://sites.google.com/site/ammunition
 69,Isaac Timm
 91,Phillip Hanlon
 96,Dan Eades
+b,r,e,a,k
+Wisconsin-Whitewater,13
+teamInfo,Sub*Par,"Whitewater, Wisconsin",,,@subparUWW
+0,Caid  Nawrocki 
+0,Colin Rieder
+0,Eli Vogrinc
+0,Ethan Winkelman
+0,Isaac Hulbert
+0,Andrew Hartzell
+0,Kevin Chang
+0,Ryan Baker
+0,Sam Wolfe
+0,Zach Deininger
+3,Benjamin Romnek
+11,Kendrick Koehler
+47,Nathaniel Schaal
+66,Anthony Gutowsky
 b,r,e,a,k
 Rose-Hulman,12
 teamInfo,Elephantitis,"Terre Haute, Indiana",,,@rhitultimate
@@ -74,23 +91,6 @@ teamInfo,Elephantitis,"Terre Haute, Indiana",,,@rhitultimate
 77,Grant Ruschak
 81,Samuel Geelhood
 83,Austin Daly
-b,r,e,a,k
-Wisconsin-Whitewater,13
-teamInfo,Sub*Par,"Whitewater, Wisconsin",,,@subparUWW
-0,Caid  Nawrocki 
-0,Colin Rieder
-0,Eli Vogrinc
-0,Ethan Winkelman
-0,Isaac Hulbert
-0,Andrew Hartzell
-0,Kevin Chang
-0,Ryan Baker
-0,Sam Wolfe
-0,Zach Deininger
-3,Benjamin Romnek
-11,Kendrick Koehler
-47,Nathaniel Schaal
-66,Anthony Gutowsky
 b,r,e,a,k
 Kenyon,5
 teamInfo,SERF,"Gambier, Ohio",,,https://twitter.com/kenyonserf
@@ -219,20 +219,6 @@ teamInfo,Homegrown,"stevens point, Wisconsin",,,
 27,Edwin Moore
 29,Jack Vail
 b,r,e,a,k
-Concordia-Wisconsin,15
-teamInfo,Concordia-Wisconsin,"Mequon, Wisconsin",,https://www.instagram.com/cuwfrisbee/,
-coaches,Samuel Boehlke
-0,Bethany Carrington
-0,Brennen Bunyea
-0,Mason Markham
-0,Matthew Diercks
-0,Stryker Traska
-0,Tristan May
-12,Mikiah Poock
-15,Benjamin  Wrenn
-17,Aaron Huntley
-44,Luke Witte
-b,r,e,a,k
 Truman State,3
 teamInfo,JujiTSU,"Kirksville, Missouri",https://ultimate.truman.edu,https://facebook.com/pages/JujiTSU-Ultimate/159311880755819,https://twitter.com/JujiTSUltimate
 1,Levon Muradyan
@@ -278,6 +264,20 @@ coaches,Alaister McFarren
 21,Ana Gomora
 74,Caleb Cochran 
 b,r,e,a,k
+Concordia-Wisconsin,15
+teamInfo,Concordia-Wisconsin,"Mequon, Wisconsin",,https://www.instagram.com/cuwfrisbee/,
+coaches,Samuel Boehlke
+0,Bethany Carrington
+0,Brennen Bunyea
+0,Mason Markham
+0,Matthew Diercks
+0,Stryker Traska
+0,Tristan May
+12,Mikiah Poock
+15,Benjamin  Wrenn
+17,Aaron Huntley
+44,Luke Witte
+b,r,e,a,k
 Loyola-Chicago,9
 teamInfo,Darkwing,"Chicago, Illinois",http://loyolaultimate.wixsite.com/darkwing,,
 0,Aidan Chapman
@@ -310,8 +310,8 @@ pools,Pool Play
 pool,Pool A
 Winona State,Wisconsin-Whitewater,9,5,"03/22/2025, 09:30",Pool A,Final
 Northern Iowa,Rose-Hulman,11,5,"03/22/2025, 09:30",Pool A,Scheduled
-Winona State,Northern Iowa,0,0,"03/22/2025, 11:00",Pool A,Scheduled
-St Thomas,Rose-Hulman,0,0,"03/22/2025, 11:00",Pool A,Scheduled
+Winona State,Northern Iowa,11,10,"03/22/2025, 11:00",Pool A,Scheduled
+St Thomas,Rose-Hulman,11,6,"03/22/2025, 11:00",Pool A,Final
 Rose-Hulman,Wisconsin-Whitewater,0,0,"03/22/2025, 12:30",Pool A,Scheduled
 St Thomas,Northern Iowa,0,0,"03/22/2025, 12:30",Pool A,Scheduled
 Winona State,Rose-Hulman,0,0,"03/22/2025, 14:00",Pool A,Scheduled
@@ -332,7 +332,7 @@ Carthage,Minnesota State-Mankato,0,0,"03/22/2025, 15:30",Pool B,Scheduled
 pool,Pool C
 Truman State,Concordia-Wisconsin,0,0,"03/22/2025, 09:30",Pool C,Scheduled
 Loyola-Chicago,Wisconsin-Stevens Point,6,10,"03/22/2025, 09:30",Pool C,Final
-Truman State,Loyola-Chicago,0,0,"03/22/2025, 11:00",Pool C,Scheduled
+Truman State,Loyola-Chicago,8,7,"03/22/2025, 11:00",Pool C,Final
 Grace,Wisconsin-Stevens Point,0,0,"03/22/2025, 11:00",Pool C,Scheduled
 Wisconsin-Stevens Point,Concordia-Wisconsin,0,0,"03/22/2025, 12:30",Pool C,Scheduled
 Grace,Loyola-Chicago,0,0,"03/22/2025, 12:30",Pool C,Scheduled
