@@ -201,13 +201,13 @@ teamInfo,Armada,"Nashville, Tennessee",https://vanderbiltultimate.github.io/,,ht
 b,r,e,a,k
 Ball State,16
 teamInfo,Wizardz,"Muncie, Indiana",,,
-2,Alex Konz
-3,Trey  Koch 
-4,Sebastian Glass
-5,Adam Boesen
-6,Harper Dotas
-7,Parker Smith
-9,Ethan Elliott-Halinski
+02,Alex Konz
+03,Trey  Koch 
+04,Sebastian Glass
+05,Adam Boesen
+06,Harper Dotas
+07,Parker Smith
+09,Ethan Elliott-Halinski
 10,Deeleiloh Allie
 11,Cody Adkins
 14,Landon Weller
@@ -215,19 +215,45 @@ teamInfo,Wizardz,"Muncie, Indiana",,,
 17,William Sullivan
 21,Elijah Whitman
 22,dylan barkey
+24,Connor Russell
 25,Conner Newby
 27,Jarrett Puma
+30,Nolan Stout
 32,Tyler Robertson
+33,Jack Eads
 36,Trenton Southern
 69,Matilyn Rhoades
 72,Gavin Grossman
+73,Liam Robertson
 88,Jakob Orth
+99,Steven Hankins
 b,r,e,a,k
 Illinois-Chicago,17
 teamInfo,Juice,"Chicago, Illinois",,https://www.facebook.com/UICUltimateFrisbee/,
+0,Megh Patel
+0,Nishant Ragate
+0,Pavan Kannan
+0,Sam Mueller
+2,Jeffrin Johnson
+11,J'Mani Fenderson
+17,Daniel Grosch
+25,Jake Swalec
+37,Varun Karpagavinayagam
+47,Eli Stellwagen
 b,r,e,a,k
 Illinois (C),24
 teamInfo,Cornland,"Urbana, Illinois",,,
+0,Eric Zheng
+12,Cesar Espinoza
+15,Samuel Wleklinski
+17,Kent Kampa
+22,Alexander Zielinski
+32,Shovan Jagadev
+40,Maxwell Hong
+42,Jonathan Kang
+54,John Smolen
+77,Nicholas Burns
+96,Kyle Goetting
 b,r,e,a,k
 Illinois (B),10
 teamInfo,Boomland,"Champaign, Illinois",,,https://twitter.com/boomlandulti?lang=en
@@ -259,6 +285,19 @@ teamInfo,River Rats,"Galesburg, Illinois",,,
 b,r,e,a,k
 Purdue (C),23
 teamInfo,CTRL X,"West Lafayette, Indiana",,,
+0,Atlas Lehoczky Escobar
+0,Austin Roach
+0,Evan Washo
+0,Jake Broy
+0,Justin Tate
+0,Michael Martin
+0,Miles Cohen
+0,Nolan Matthews
+0,Owen  Hastings
+0,Samuel Zipes
+0,Tyler Schmitt
+4,Milo Chrudimsky
+69,Joseph  McLoughlin
 b,r,e,a,k
 Eastern Michigan,11
 teamInfo,Fighting Hellfish,"Ypsilanti, Michigan",,,
@@ -343,13 +382,15 @@ teamInfo,CTRL-Z,"West Lafayette, Indiana",,,
 0,Caden Jarausch
 0,Charles Behrman
 0,Chengen Tsan
+0,Daniel Kelley
+0,Finley Bray
 0,Jason Yi
 0,Jeremy Moon
 0,Nickolas Azanov
 0,Noah Burkhardt
 0,Sam Singh
-0,Finley Bray
 0,Ty Banks
+7,Nathan Lee
 12,Samuel Yager
 14,Diego Morales
 21,Jake Altom
@@ -359,6 +400,16 @@ teamInfo,Missouri State Ultimate,"Springfield, Missouri",,,
 b,r,e,a,k
 North Park,21
 teamInfo,Lost Boys,"Chicago, Illinois",,https://www.facebook.com/nplostboys,https://twitter.com/NPLostBoys
+0,Adrian  Martinez-Jones
+0,Calum Draper
+0,chenghao li
+0,Daniel Baker
+0,Kyama Webb
+0,Markos Mamalakis
+0,Matthew Crozier
+0,Roswell Omandam
+0,Seamus Smith
+0,Ty Hawkinson
 b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
@@ -384,12 +435,12 @@ Ball State,Illinois-Chicago,0,0,"03/29/2025, 09:30",Pool C,Scheduled
 Vanderbilt,Ball State,0,0,"03/29/2025, 11:00",Pool C,Scheduled
 Illinois-Chicago,Illinois (C),0,0,"03/29/2025, 11:00",Pool C,Scheduled
 pool,Pool D
-Illinois (B),Knox,0,0,"03/29/2025, 08:00",Pool D,Scheduled
-Wright State,Purdue (C),0,0,"03/29/2025, 08:00",Pool D,Scheduled
-Illinois (B),Purdue (C),0,0,"03/29/2025, 12:30",Pool D,Scheduled
-Wright State,Knox,0,0,"03/29/2025, 12:30",Pool D,Scheduled
-Illinois (B),Wright State,0,0,"03/29/2025, 14:00",Pool D,Scheduled
-Knox,Purdue (C),0,0,"03/29/2025, 14:00",Pool D,Scheduled
+Illinois (B),Knox,0,0,"03/29/2025, 09:30",Pool D,Scheduled
+Wright State,Purdue (C),0,0,"03/29/2025, 09:30",Pool D,Scheduled
+Illinois (B),Purdue (C),0,0,"03/29/2025, 11:00",Pool D,Scheduled
+Wright State,Knox,0,0,"03/29/2025, 11:00",Pool D,Scheduled
+Illinois (B),Wright State,0,0,"03/29/2025, 12:30",Pool D,Scheduled
+Knox,Purdue (C),0,0,"03/29/2025, 12:30",Pool D,Scheduled
 pool,Pool E
 Eastern Michigan,Ohio (B),0,0,"03/29/2025, 08:00",Pool E,Scheduled
 Toledo,Notre Dame (B),0,0,"03/29/2025, 08:00",Pool E,Scheduled
@@ -398,14 +449,16 @@ Toledo,Ohio (B),0,0,"03/29/2025, 12:30",Pool E,Scheduled
 Eastern Michigan,Toledo,0,0,"03/29/2025, 14:00",Pool E,Scheduled
 Ohio (B),Notre Dame (B),0,0,"03/29/2025, 14:00",Pool E,Scheduled
 pool,Pool F
-Loyola-Chicago,Missouri State,0,0,"03/29/2025, 09:30",Pool F,Scheduled
-Purdue (B),North Park,0,0,"03/29/2025, 11:00",Pool F,Scheduled
+Loyola-Chicago,Missouri State,0,0,"03/29/2025, 08:00",Pool F,Scheduled
+Purdue (B),North Park,0,0,"03/29/2025, 08:00",Pool F,Scheduled
 Loyola-Chicago,North Park,0,0,"03/29/2025, 12:30",Pool F,Scheduled
 Purdue (B),Missouri State,0,0,"03/29/2025, 12:30",Pool F,Scheduled
 Loyola-Chicago,Purdue (B),0,0,"03/29/2025, 14:00",Pool F,Scheduled
 Missouri State,North Park,0,0,"03/29/2025, 14:00",Pool F,Scheduled
 b,r,e,a,k
 clusters,Crossover
+b,r,e,a,k
+clusters,Power Crossover
 b,r,e,a,k
 brackets,Sunday Bracket
 bracket,Championship Bracket
