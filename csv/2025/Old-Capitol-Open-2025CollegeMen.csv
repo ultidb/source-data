@@ -475,6 +475,23 @@ teamInfo,BSUC,"Ames, Iowa",,,
 76,Brayden Schmitz
 95,Mitchell Wood
 b,r,e,a,k
+Nebraska,13
+teamInfo,Cornfed Ultimate,"Lincoln, Nebraska",https://unl.campuslabs.com/engage/organization/men-s-ultimate-club,,https://twitter.com/cornfedultimate
+0,Austin Phinney
+0,Jack Drobny
+0,James Head
+0,Nathan McCoy
+0,Riley Bry
+0,Samuel Malick
+0,Zane Mrozla-Mindrup
+5,Ian Tuck
+19,Bryce Endecott
+24,Kobe  Bray
+27,Myles Wedic
+32,Luke Walsdorf
+69,Jordan Johnson
+85,Peyton Thurman
+b,r,e,a,k
 Minnesota (C),20
 teamInfo,Minnesota C,"Minneapolis, Minnesota",,,
 coaches,Samuel Raths,Bela Konkoly,Michael Schnall
@@ -512,23 +529,6 @@ coaches,Samuel Raths,Bela Konkoly,Michael Schnall
 24,Jonathan Ip
 37,Dev Patel
 96,Gavriel Olson
-b,r,e,a,k
-Nebraska,13
-teamInfo,Cornfed Ultimate,"Lincoln, Nebraska",https://unl.campuslabs.com/engage/organization/men-s-ultimate-club,,https://twitter.com/cornfedultimate
-0,Austin Phinney
-0,Jack Drobny
-0,James Head
-0,Nathan McCoy
-0,Riley Bry
-0,Samuel Malick
-0,Zane Mrozla-Mindrup
-5,Ian Tuck
-19,Bryce Endecott
-24,Kobe  Bray
-27,Myles Wedic
-32,Luke Walsdorf
-69,Jordan Johnson
-85,Peyton Thurman
 b,r,e,a,k
 Grinnell (B),24
 teamInfo,Gphants,"Grinnell, Iowa",,,
@@ -576,7 +576,7 @@ Wisconsin-Platteville,Carthage,13,3,"03/29/2025, 12:20",Pool G,Final
 pool,Pool H
 Minnesota (C),Grinnell (B),13,0,"03/29/2025, 09:00",Pool H,Final
 Nebraska,Grinnell (B),13,0,"03/29/2025, 10:40",Pool H,Final
-Nebraska,Minnesota (C),0,0,"03/29/2025, 12:20",Pool H,Scheduled
+Nebraska,Minnesota (C),13,5,"03/29/2025, 12:20",Pool H,Final
 b,r,e,a,k
 brackets,Bracket
 bracket,Championship Bracket
@@ -593,4 +593,7 @@ bracket,21st Place Bracket
 bracket,23rd Place
 b,r,e,a,k
 clusters,Crossover
+cluster,Crossover
+Carthage,Minnesota (C),0,0,"03/29/2025, 14:00",,Scheduled
+Iowa State (B),Grinnell (B),0,0,"03/29/2025, 14:00",,Scheduled
 b,r,e,a,k
