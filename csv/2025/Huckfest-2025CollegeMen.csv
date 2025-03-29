@@ -40,6 +40,24 @@ teamInfo,Apes of Wrath,"NORMAN, Oklahoma",oklahomaultimate.com,https://www.faceb
 44,Gregory Allen
 47,Sebastian Puerta
 b,r,e,a,k
+Sam Houston,9
+teamInfo,Prison Break,"Huntsville, Texas",,,
+00,Jonathan Rasefske
+01,Jackson  Resurreccion 
+04,Owen Farmer
+07,Charles Cook
+10,Justin Woodley
+11,Christian Ekpenike
+12,Luke Lightfoot
+13,Mason Rodriguez
+13,David Duncan
+20,Sean Carsten
+21,Vincent Albertoni
+25,Sebastian Ferman 
+35,Braedan Sulzbach
+41,Hunter Wells
+90,Clayton Oaks
+b,r,e,a,k
 Texas A&M (B),5
 teamInfo,Dozen Matter,"College Station, Texas",,,https://twitter.com/dozenmatterulti
 0,Asher Watson
@@ -72,37 +90,6 @@ teamInfo,Frontier,"Nacogdoches, Texas",,,
 62,Drew Hector
 77,Collin Jones 
 b,r,e,a,k
-Sam Houston,9
-teamInfo,Prison Break,"Huntsville, Texas",,,
-00,Jonathan Rasefske
-01,Jackson  Resurreccion 
-04,Owen Farmer
-07,Charles Cook
-10,Justin Woodley
-11,Christian Ekpenike
-12,Luke Lightfoot
-13,Mason Rodriguez
-13,David Duncan
-20,Sean Carsten
-21,Vincent Albertoni
-25,Sebastian Ferman 
-35,Braedan Sulzbach
-41,Hunter Wells
-90,Clayton Oaks
-b,r,e,a,k
-Texas (B),2
-teamInfo,Graze,"Austin, Texas",,,
-0,David Lau
-0,Jeremy Boyle
-0,Nat Hsu
-0,Peter Chacko
-0,Vivaan Rupani
-0,William Bolduc
-0,William DiCarlo
-0,Avery Brennen
-10,Daniel Ramirez
-24,David Wu
-b,r,e,a,k
 Tarleton State,3
 teamInfo,Texan Ultimate,"Stephenville, Texas",,,
 0,Clayton Parker
@@ -120,6 +107,38 @@ teamInfo,Texan Ultimate,"Stephenville, Texas",,,
 10,Preston Jones
 17,Brannon Hawkins
 17,Cade Snyder
+b,r,e,a,k
+Texas (B),2
+teamInfo,Graze,"Austin, Texas",,,
+0,David Lau
+0,Jeremy Boyle
+0,Nat Hsu
+0,Peter Chacko
+0,Vivaan Rupani
+0,William Bolduc
+0,William DiCarlo
+0,Avery Brennen
+10,Daniel Ramirez
+24,David Wu
+b,r,e,a,k
+Rice,7
+teamInfo,Cloud 9,"Houston, Texas",cloud9.rice.edu,,@RiceMensUlti
+0,Benjamin Otting
+0,Carson Wright
+0,Christian Saldana
+0,Cirdan Vonnahme
+0,David Nyari
+0,Jack Guan
+0,Jeffrey  Zhou
+0,Matthew  Bischoff
+0,Micah Werner
+0,Patrick Shukis
+0,Viktor Mishkin
+2,Gavin Mason
+3,Ethan Quach
+26,Alex Kornblum
+42,Max Kuhlman
+44,Alex Sansom
 b,r,e,a,k
 Dallas,6
 teamInfo,Vortex,"Irving, Texas",,https://www.facebook.com/University-of-Dallas-Ultimate-UDU-1659704877590309/,@udallasultimate
@@ -146,25 +165,6 @@ teamInfo,Vortex,"Irving, Texas",,https://www.facebook.com/University-of-Dallas-U
 95,William Spaeder
 99,Michael Dougherty
 b,r,e,a,k
-Rice,7
-teamInfo,Cloud 9,"Houston, Texas",cloud9.rice.edu,,@RiceMensUlti
-0,Benjamin Otting
-0,Carson Wright
-0,Christian Saldana
-0,Cirdan Vonnahme
-0,David Nyari
-0,Jack Guan
-0,Jeffrey  Zhou
-0,Matthew  Bischoff
-0,Micah Werner
-0,Patrick Shukis
-0,Viktor Mishkin
-2,Gavin Mason
-3,Ethan Quach
-26,Alex Kornblum
-42,Max Kuhlman
-44,Alex Sansom
-b,r,e,a,k
 Angelo State,10
 teamInfo,Ramz Ultimate Frisbee,"San Angelo, Texas",,,
 02,Justin Lovell
@@ -182,33 +182,41 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
-Baylor,Sam Houston,0,0,"03/29/2025, 09:00",Pool A,Scheduled
-Texas A&M (B),Stephen F Austin,0,0,"03/29/2025, 09:00",Pool A,Scheduled
-Baylor,Texas A&M (B),0,0,"03/29/2025, 10:30",Pool A,Scheduled
-Oklahoma,Stephen F Austin,0,0,"03/29/2025, 10:30",Pool A,Scheduled
-Stephen F Austin,Sam Houston,0,0,"03/29/2025, 12:00",Pool A,Scheduled
-Oklahoma,Texas A&M (B),0,0,"03/29/2025, 12:00",Pool A,Scheduled
-Baylor,Stephen F Austin,0,0,"03/29/2025, 13:30",Pool A,Scheduled
-Oklahoma,Sam Houston,0,0,"03/29/2025, 13:30",Pool A,Scheduled
-Baylor,Oklahoma,0,0,"03/29/2025, 15:00",Pool A,Scheduled
-Texas A&M (B),Sam Houston,0,0,"03/29/2025, 15:00",Pool A,Scheduled
+Baylor,Sam Houston,13,1,"03/29/2025, 09:00",Pool A,Final
+Texas A&M (B),Stephen F Austin,12,11,"03/29/2025, 09:00",Pool A,Final
+Baylor,Texas A&M (B),13,3,"03/29/2025, 10:30",Pool A,Final
+Oklahoma,Stephen F Austin,13,5,"03/29/2025, 10:30",Pool A,Final
+Stephen F Austin,Sam Houston,2,13,"03/29/2025, 12:00",Pool A,Final
+Oklahoma,Texas A&M (B),13,6,"03/29/2025, 12:00",Pool A,Final
+Baylor,Stephen F Austin,13,2,"03/29/2025, 13:30",Pool A,Final
+Oklahoma,Sam Houston,9,10,"03/29/2025, 13:30",Pool A,Final
+Baylor,Oklahoma,13,6,"03/29/2025, 15:00",Pool A,Final
+Texas A&M (B),Sam Houston,9,6,"03/29/2025, 15:00",Pool A,Final
 pool,Pool B
-Texas (B),Angelo State,0,0,"03/29/2025, 09:00",Pool B,Scheduled
-Dallas,Rice,0,0,"03/29/2025, 09:00",Pool B,Scheduled
-Texas (B),Dallas,0,0,"03/29/2025, 10:30",Pool B,Scheduled
-Tarleton State,Rice,0,0,"03/29/2025, 10:30",Pool B,Scheduled
-Rice,Angelo State,0,0,"03/29/2025, 12:00",Pool B,Scheduled
-Tarleton State,Dallas,0,0,"03/29/2025, 12:00",Pool B,Scheduled
-Texas (B),Rice,0,0,"03/29/2025, 13:30",Pool B,Scheduled
-Tarleton State,Angelo State,0,0,"03/29/2025, 13:30",Pool B,Scheduled
-Texas (B),Tarleton State,0,0,"03/29/2025, 15:00",Pool B,Scheduled
-Dallas,Angelo State,0,0,"03/29/2025, 15:00",Pool B,Scheduled
+Texas (B),Angelo State,13,1,"03/29/2025, 09:00",Pool B,Final
+Dallas,Rice,9,13,"03/29/2025, 09:00",Pool B,Final
+Texas (B),Dallas,13,4,"03/29/2025, 10:30",Pool B,Final
+Tarleton State,Rice,13,8,"03/29/2025, 10:30",Pool B,Final
+Rice,Angelo State,13,6,"03/29/2025, 12:00",Pool B,Final
+Tarleton State,Dallas,13,3,"03/29/2025, 12:00",Pool B,Final
+Texas (B),Rice,13,1,"03/29/2025, 13:30",Pool B,Final
+Tarleton State,Angelo State,13,0,"03/29/2025, 13:30",Pool B,Final
+Texas (B),Tarleton State,10,13,"03/29/2025, 15:00",Pool B,Final
+Dallas,Angelo State,13,10,"03/29/2025, 15:00",Pool B,Final
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,First Place
+Texas (B),Sam Houston,0,0,"03/30/2025, 12:00",Quarterfinals,Scheduled
+Oklahoma,Rice,0,0,"03/30/2025, 12:00",Quarterfinals,Scheduled
 bracket,Third Place
 bracket,Fifth Place
 b,r,e,a,k
 pools,Consolation Pool
 pool,Pool C
+Texas A&M (B),Dallas,0,0,"03/30/2025, 12:00",Pool C,Scheduled
+Stephen F Austin,Angelo State,0,0,"03/30/2025, 12:00",Pool C,Scheduled
+Texas A&M (B),Angelo State,0,0,"03/30/2025, 13:40",Pool C,Scheduled
+Stephen F Austin,Dallas,0,0,"03/30/2025, 13:40",Pool C,Scheduled
+Texas A&M (B),Stephen F Austin,0,0,"03/30/2025, 15:20",Pool C,Scheduled
+Dallas,Angelo State,0,0,"03/30/2025, 15:20",Pool C,Scheduled
 b,r,e,a,k
