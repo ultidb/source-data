@@ -27,6 +27,23 @@ coaches,Garrett Clay
 0,Tahlia Gerger
 3,Skylar Yarter
 b,r,e,a,k
+Georgia College,10
+teamInfo,Lynx rufus,"Milledgeville, Georgia",https://www.gcultimate.org/women.html,https://www.facebook.com/groups/1394114984201151/,https://www.twitter.com/gc_lynx_rufus
+coaches,Lindsey Newell
+0,Paige Sandidge
+01,Celia McDaniel
+06,Peyton Miller
+10,Gabriella Wetmore
+11,Bridget Mainor
+13,Lauren Grashof
+19,Drennan Barnes
+23,Milana Peta
+24,Megan Baggs
+26,Katie Hitt
+29,Madilyn Fessenden
+36,SophieMarie Morgan
+69,Breanna Bender
+b,r,e,a,k
 Davidson,7
 teamInfo,People's DUFF,"Davidson, North Carolina",,,
 0,Aimee Ding
@@ -49,23 +66,6 @@ teamInfo,People's DUFF,"Davidson, North Carolina",,,
 16,Alice  Whisnant
 19,Alejandra  Marron
 20,Lillian Dyslin
-b,r,e,a,k
-Georgia College,10
-teamInfo,Lynx rufus,"Milledgeville, Georgia",https://www.gcultimate.org/women.html,https://www.facebook.com/groups/1394114984201151/,https://www.twitter.com/gc_lynx_rufus
-coaches,Lindsey Newell
-0,Paige Sandidge
-01,Celia McDaniel
-06,Peyton Miller
-10,Gabriella Wetmore
-11,Bridget Mainor
-13,Lauren Grashof
-19,Drennan Barnes
-23,Milana Peta
-24,Megan Baggs
-26,Katie Hitt
-29,Madilyn Fessenden
-36,SophieMarie Morgan
-69,Breanna Bender
 b,r,e,a,k
 Charleston,15
 teamInfo,Charleston,"Charleston, South Carolina",,https://www.facebook.com/cofcwomensultimate/,
@@ -415,7 +415,7 @@ Davidson,Georgia College,6,9,"03/29/2025, 11:40",Pool B,Final
 Williams,Charleston,13,2,"03/29/2025, 13:15",Pool B,Final
 Davidson,Elon,7,2,"03/29/2025, 13:15",Pool B,Final
 Williams,Davidson,10,6,"03/29/2025, 14:50",Pool B,Final
-Georgia College,Elon,0,0,"03/29/2025, 14:50",Pool B,Scheduled
+Georgia College,Elon,13,3,"03/29/2025, 14:50",Pool B,Final
 pool,Pool C
 Case Western Reserve,Georgia (B),13,1,"03/29/2025, 08:30",Pool C,Final
 Emory,North Carolina-Wilmington,11,4,"03/29/2025, 08:30",Pool C,Final
@@ -437,7 +437,7 @@ Tennessee,Berry,12,3,"03/29/2025, 11:40",Pool D,Final
 Appalachian State,Florida Tech,13,0,"03/29/2025, 13:15",Pool D,Final
 Tennessee,Emory (B),13,0,"03/29/2025, 13:15",Pool D,Final
 Appalachian State,Tennessee,0,0,"03/29/2025, 14:50",Pool D,Scheduled
-Berry,Emory (B),0,0,"03/29/2025, 14:50",Pool D,Scheduled
+Berry,Emory (B),13,1,"03/29/2025, 14:50",Pool D,Final
 pool,Pool A
 Georgia Tech,Virginia Tech,13,5,"03/29/2025, 10:05",Pool A,Final
 Cedarville,South Carolina (B),12,5,"03/29/2025, 10:05",Pool A,Final
@@ -448,10 +448,14 @@ Virginia Tech,South Carolina (B),10,2,"03/29/2025, 13:15",Pool A,Final
 b,r,e,a,k
 brackets,Bracket Play
 bracket,Championship
+Georgia Tech,Georgia College,0,0,"03/30/2025, 08:30",Quarters,Scheduled
+Williams,Virginia Tech,0,0,"03/30/2025, 08:30",Quarters,Scheduled
 bracket,3rd Place
 bracket,5th Place
 bracket,7th Place
 bracket,9th Place
+Cedarville,Charleston,0,0,"03/30/2025, 08:30",9th Quarters,Scheduled
+Davidson,South Carolina (B),0,0,"03/30/2025, 08:30",9th Quarters,Scheduled
 bracket,11th Place
 bracket,13th Place
 bracket,15th Place
