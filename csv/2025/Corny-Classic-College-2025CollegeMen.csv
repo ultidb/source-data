@@ -500,7 +500,7 @@ clusters,Pool C Clipped
 cluster,Pool C Clipped
 Vanderbilt,Purdue (B),13,6,"03/29/2025, 11:00",,Final
 Illinois (B),Loyola-Chicago,4,6,"03/29/2025, 11:00",,Final
-Vanderbilt,Loyola-Chicago,0,0,"03/29/2025, 12:30",,Scheduled
+Vanderbilt,Loyola-Chicago,10,6,"03/29/2025, 12:30",,Final
 Purdue (B),Illinois (B),7,9,"03/29/2025, 12:30",,Final
 b,r,e,a,k
 clusters,Clipped Pool D
@@ -515,16 +515,20 @@ cluster,Clipped Pool E
 Wright State,Illinois (C),13,3,"03/29/2025, 08:00",,Final
 Ohio (B),Bradley,3,13,"03/29/2025, 08:00",,Final
 Wright State,Bradley,10,6,"03/29/2025, 09:30",,Final
-Illinois (C),Ohio (B),1,10,"03/29/2025, 09:30",,Scheduled
+Illinois (C),Ohio (B),1,10,"03/29/2025, 09:30",,Final
 b,r,e,a,k
 pools,Pool F
 pool,Pool F
-Knox,Notre Dame (B),13,2,"03/29/2025, 08:00",Pool F,Scheduled
+Knox,Notre Dame (B),13,2,"03/29/2025, 08:00",Pool F,Final
 Ball State,Notre Dame (B),13,6,"03/29/2025, 09:30",Pool F,Final
 Ball State,Knox,10,7,"03/29/2025, 11:00",Pool F,Final
 b,r,e,a,k
 clusters,Consolation Pool 
 cluster,Consolation 17-23
+Notre Dame (B),Purdue (C),0,0,"03/29/2025, 12:30",,Scheduled
+Illinois (C),Purdue (C),0,0,"03/29/2025, 14:00",,Scheduled
+Notre Dame (B),Illinois (C),0,0,"03/29/2025, 15:30",,Scheduled
+Bradley,Notre Dame (B),0,0,"03/30/2025, 12:30",,Scheduled
 Bradley,Purdue (C),0,0,"03/30/2025, 14:00",,Scheduled
 b,r,e,a,k
 clusters,Power Crossover
@@ -534,6 +538,7 @@ Dayton,Ohio,0,0,"03/30/2025, 08:00",,Scheduled
 b,r,e,a,k
 brackets,Sunday Bracket
 bracket,Championship Bracket
+Vanderbilt,Butler,0,0,"03/29/2025, 15:30",Pre Quarters,Scheduled
 Purdue (B),Toledo,0,0,"03/29/2025, 14:00",Playins to Championship,Scheduled
 Illinois (B),Wright State,0,0,"03/29/2025, 14:00",Playins to Championship,Scheduled
 Loyola-Chicago,Ball State,0,0,"03/29/2025, 14:00",Playins to Championship,Scheduled
