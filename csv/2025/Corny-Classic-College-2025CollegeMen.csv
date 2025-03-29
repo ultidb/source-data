@@ -31,6 +31,26 @@ coaches,Eric Badger
 76,Jeffrey Lefkovitz
 85,Hunter Latson
 b,r,e,a,k
+Dayton,5
+teamInfo,FLUD,"Dayton, Ohio",,https://instagram.com/flud_ultimate,https://twitter.com/UDUltimate
+0,Ben Manion
+0,Caden Labbe
+0,Alex Burkhardt
+0,Kellen Finan
+0,Paul Lachcik
+0,Sam Parlett
+0,Stephen Danek
+0,Thomas Carroll
+0,Thomas Kilbane
+4,Nicholas Schulz
+15,Callan Daenzer
+20,Colsten Spelman
+27,Aaron Ginsburg
+28,Cannon Spelman
+49,Andrew Mosler
+73,Kale Kessler
+97,Jacob Szafranski
+b,r,e,a,k
 Grand Valley,8
 teamInfo,Lakers,"Allendale, Michigan",,,
 coaches,Alex Bertoia
@@ -78,26 +98,6 @@ coaches,Arthur Small
 70,David Tuohy
 86,John Borgerding
 98,Parker Hirschle
-b,r,e,a,k
-Dayton,5
-teamInfo,FLUD,"Dayton, Ohio",,https://instagram.com/flud_ultimate,https://twitter.com/UDUltimate
-0,Ben Manion
-0,Caden Labbe
-0,Alex Burkhardt
-0,Kellen Finan
-0,Paul Lachcik
-0,Sam Parlett
-0,Stephen Danek
-0,Thomas Carroll
-0,Thomas Kilbane
-4,Nicholas Schulz
-15,Callan Daenzer
-20,Colsten Spelman
-27,Aaron Ginsburg
-28,Cannon Spelman
-49,Andrew Mosler
-73,Kale Kessler
-97,Jacob Szafranski
 b,r,e,a,k
 Asbury,2
 teamInfo,Asbury Ultimate,"Wilmore, Kentucky",,,
@@ -484,9 +484,9 @@ pools,Saturday Pool Play
 pool,Pool A
 Illinois,Dayton,12,11,"03/29/2025, 09:30",Pool A,Final
 Butler,Grand Valley,12,11,"03/29/2025, 09:30",Pool A,Final
-Illinois,Grand Valley,10,8,"03/29/2025, 11:00",Pool A,Scheduled
+Illinois,Grand Valley,10,8,"03/29/2025, 11:00",Pool A,Final
 Butler,Dayton,7,11,"03/29/2025, 11:00",Pool A,Final
-Illinois,Butler,0,0,"03/29/2025, 12:30",Pool A,Scheduled
+Illinois,Butler,13,5,"03/29/2025, 12:30",Pool A,Final
 Dayton,Grand Valley,9,10,"03/29/2025, 12:30",Pool A,Final
 pool,Pool B
 Asbury,Michigan Tech,13,8,"03/29/2025, 08:00",Pool B,Final
@@ -528,6 +528,9 @@ cluster,Consolation 17-23
 Bradley,Purdue (C),0,0,"03/30/2025, 14:00",,Scheduled
 b,r,e,a,k
 clusters,Power Crossover
+cluster,Power Crossover
+Illinois,Asbury,0,0,"03/29/2025, 14:00",,Scheduled
+Dayton,Ohio,0,0,"03/29/2025, 14:00",,Scheduled
 b,r,e,a,k
 brackets,Sunday Bracket
 bracket,Championship Bracket
