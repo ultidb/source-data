@@ -140,6 +140,25 @@ teamInfo,Luna,"Atlanta, Georgia",,,https://twitter.com/lunaultimate
 32,Rashmi Raveendran
 46,Rachel Warhaftig
 b,r,e,a,k
+Clemson,6
+teamInfo,Tiger Lilies,"Clemson, South Carolina",,,
+0,Abigail Barrett
+0,Alexa Ivnik
+0,Alexis Schubert
+0,Amanda Lam
+0,Cassandra Connelly
+0,Catalina Infante
+0,Disney Medeiros
+0,Kendall Rees
+0,Maura Korte
+0,Rachel Parrish
+0,Ragan Broussard
+0,Riana Patel
+0,Sabrina Fernandez
+1,Eliza Haines
+9,Eleanor Bolick
+10,Isabella Solov
+b,r,e,a,k
 Case Western Reserve,3
 teamInfo,Fighting Gobies,"Cleveland, Ohio",ultimate.case.edu,https://www.facebook.com/GobyWarriors/,https://twitter.com/FightingGobiesW
 2,Emily Cichocki
@@ -161,25 +180,6 @@ teamInfo,Fighting Gobies,"Cleveland, Ohio",ultimate.case.edu,https://www.faceboo
 42,Isabelle Deputy
 47,Angela Li
 88,Fiona Lyon
-b,r,e,a,k
-Clemson,6
-teamInfo,Tiger Lilies,"Clemson, South Carolina",,,
-0,Abigail Barrett
-0,Alexa Ivnik
-0,Alexis Schubert
-0,Amanda Lam
-0,Cassandra Connelly
-0,Catalina Infante
-0,Disney Medeiros
-0,Kendall Rees
-0,Maura Korte
-0,Rachel Parrish
-0,Ragan Broussard
-0,Riana Patel
-0,Sabrina Fernandez
-1,Eliza Haines
-9,Eleanor Bolick
-10,Isabella Solov
 b,r,e,a,k
 North Carolina-Wilmington,14
 teamInfo,Seaweed,"Wilmington, North Carolina",,https://www.facebook.com/Seaweed-Ultimate-112707882088022/?fref=ts,https://twitter.com/SeaweedUltimate
@@ -336,25 +336,6 @@ teamInfo,Wreck,"Atlanta, Georgia",https://wreckultimate.wordpress.com/,https://w
 66,Mary Smith
 70,Caitlin Aycock
 b,r,e,a,k
-Cedarville,8
-teamInfo,Queen Bee,"Cedarville, Ohio",,,@queenbeeuf
-0,Bryn Marshall
-0,Charis Marshal
-0,Eden Ogren
-0,Alaina Lowery
-0,Fiona Glessner
-0,Jessica Carr
-0,Lauren Crider
-0,Leah Twarog
-0,Meghan Exline
-7,Hana Ross
-14,Elizabeth Hieter
-15,Anna Armani
-17,Grace Hawk
-24,Rachel Powers
-44,Asia Stanton
-82,Stephanie LaFountain
-b,r,e,a,k
 Virginia Tech,9
 teamInfo,Burnettes,"Blacksburg, Virginia",https://vtburnettes.wordpress.com/,,https://twitter.com/vtburnettes
 0,Anna Thomas
@@ -385,6 +366,25 @@ teamInfo,Burnettes,"Blacksburg, Virginia",https://vtburnettes.wordpress.com/,,ht
 26,Helen Burch
 69,Amanda Thrasher
 b,r,e,a,k
+Cedarville,8
+teamInfo,Queen Bee,"Cedarville, Ohio",,,@queenbeeuf
+0,Bryn Marshall
+0,Charis Marshal
+0,Eden Ogren
+0,Alaina Lowery
+0,Fiona Glessner
+0,Jessica Carr
+0,Lauren Crider
+0,Leah Twarog
+0,Meghan Exline
+7,Hana Ross
+14,Elizabeth Hieter
+15,Anna Armani
+17,Grace Hawk
+24,Rachel Powers
+44,Asia Stanton
+82,Stephanie LaFountain
+b,r,e,a,k
 South Carolina (B),17
 teamInfo,Pyro,"Columbia, South Carolina",,,
 0,Ada Hylton
@@ -410,7 +410,7 @@ Williams,Elon,13,2,"03/29/2025, 08:30",Pool B,Final
 Georgia College,Charleston,9,8,"03/29/2025, 08:30",Pool B,Final
 Williams,Georgia College,8,5,"03/29/2025, 10:05",Pool B,Final
 Davidson,Charleston,8,5,"03/29/2025, 10:05",Pool B,Final
-Charleston,Elon,0,0,"03/29/2025, 11:40",Pool B,Scheduled
+Charleston,Elon,8,6,"03/29/2025, 11:40",Pool B,Final
 Davidson,Georgia College,0,0,"03/29/2025, 11:40",Pool B,Scheduled
 Williams,Charleston,0,0,"03/29/2025, 13:15",Pool B,Scheduled
 Davidson,Elon,0,0,"03/29/2025, 13:15",Pool B,Scheduled
@@ -422,7 +422,7 @@ Emory,North Carolina-Wilmington,11,4,"03/29/2025, 08:30",Pool C,Final
 Case Western Reserve,Emory,6,9,"03/29/2025, 10:05",Pool C,Final
 Clemson,North Carolina-Wilmington,7,6,"03/29/2025, 10:05",Pool C,Final
 North Carolina-Wilmington,Georgia (B),8,6,"03/29/2025, 11:40",Pool C,Final
-Clemson,Emory,0,0,"03/29/2025, 11:40",Pool C,Scheduled
+Clemson,Emory,8,9,"03/29/2025, 11:40",Pool C,Final
 Case Western Reserve,North Carolina-Wilmington,0,0,"03/29/2025, 13:15",Pool C,Scheduled
 Clemson,Georgia (B),0,0,"03/29/2025, 13:15",Pool C,Scheduled
 Case Western Reserve,Clemson,0,0,"03/29/2025, 14:50",Pool C,Scheduled
@@ -432,8 +432,8 @@ Appalachian State,Emory (B),13,0,"03/29/2025, 08:30",Pool D,Final
 Berry,Florida Tech,9,6,"03/29/2025, 08:30",Pool D,Final
 Appalachian State,Berry,10,2,"03/29/2025, 10:05",Pool D,Final
 Tennessee,Florida Tech,13,3,"03/29/2025, 10:05",Pool D,Final
-Florida Tech,Emory (B),0,0,"03/29/2025, 11:40",Pool D,Scheduled
-Tennessee,Berry,0,0,"03/29/2025, 11:40",Pool D,Scheduled
+Florida Tech,Emory (B),9,1,"03/29/2025, 11:40",Pool D,Final
+Tennessee,Berry,12,3,"03/29/2025, 11:40",Pool D,Final
 Appalachian State,Florida Tech,0,0,"03/29/2025, 13:15",Pool D,Scheduled
 Tennessee,Emory (B),0,0,"03/29/2025, 13:15",Pool D,Scheduled
 Appalachian State,Tennessee,0,0,"03/29/2025, 14:50",Pool D,Scheduled
@@ -442,7 +442,7 @@ pool,Pool A
 Georgia Tech,Virginia Tech,13,5,"03/29/2025, 10:05",Pool A,Final
 Cedarville,South Carolina (B),12,5,"03/29/2025, 10:05",Pool A,Final
 Georgia Tech,South Carolina (B),13,0,"03/29/2025, 11:40",Pool A,Final
-Cedarville,Virginia Tech,0,0,"03/29/2025, 11:40",Pool A,Scheduled
+Cedarville,Virginia Tech,7,9,"03/29/2025, 11:40",Pool A,Final
 Georgia Tech,Cedarville,0,0,"03/29/2025, 13:15",Pool A,Scheduled
 Virginia Tech,South Carolina (B),0,0,"03/29/2025, 13:15",Pool A,Scheduled
 b,r,e,a,k
