@@ -466,15 +466,15 @@ s,t,a,g,e,s
 pools,Pool
 pool,Pool A
 Penn State (B),College of New Jersey,11,10,"03/29/2025, 09:00",Pool A,Final
-SUNY-Cortland,Army,0,0,"03/29/2025, 09:00",Pool A,Scheduled
+SUNY-Cortland,Army,9,7,"03/29/2025, 09:00",Pool A,Final
 Penn State (B),Army,13,3,"03/29/2025, 10:30",Pool A,Final
-Haverford,College of New Jersey,0,0,"03/29/2025, 10:30",Pool A,Scheduled
-College of New Jersey,Army,0,0,"03/29/2025, 12:00",Pool A,Scheduled
-SUNY-Cortland,Haverford,0,0,"03/29/2025, 12:00",Pool A,Scheduled
+Haverford,College of New Jersey,9,11,"03/29/2025, 10:30",Pool A,Final
+College of New Jersey,Army,13,4,"03/29/2025, 12:00",Pool A,Final
+SUNY-Cortland,Haverford,6,13,"03/29/2025, 12:00",Pool A,Final
 Penn State (B),SUNY-Cortland,13,4,"03/29/2025, 13:30",Pool A,Final
-Haverford,Army,0,0,"03/29/2025, 13:30",Pool A,Scheduled
+Haverford,Army,11,6,"03/29/2025, 13:30",Pool A,Final
 Penn State (B),Haverford,10,8,"03/29/2025, 15:00",Pool A,Final
-SUNY-Cortland,College of New Jersey,0,0,"03/29/2025, 15:00",Pool A,Scheduled
+SUNY-Cortland,College of New Jersey,4,13,"03/29/2025, 15:00",Pool A,Final
 pool,Pool B
 SUNY-Albany,SUNY-Geneseo,11,8,"03/29/2025, 09:00",Pool B,Final
 Vassar,Skidmore,9,10,"03/29/2025, 09:00",Pool B,Final
@@ -493,7 +493,7 @@ West Chester (B),SUNY-Binghamton (B),6,13,"03/29/2025, 10:30",Pool C,Final
 Rowan,Siena,13,4,"03/29/2025, 10:30",Pool C,Final
 Siena,Pennsylvania Western,2,13,"03/29/2025, 12:00",Pool C,Final
 Rowan,SUNY-Binghamton (B),13,3,"03/29/2025, 12:00",Pool C,Final
-West Chester (B),Siena,0,0,"03/29/2025, 13:30",Pool C,Scheduled
+West Chester (B),Siena,10,4,"03/29/2025, 13:30",Pool C,Final
 Rowan,Pennsylvania Western,5,10,"03/29/2025, 13:30",Pool C,Final
 West Chester (B),Rowan,8,9,"03/29/2025, 15:00",Pool C,Final
 SUNY-Binghamton (B),Pennsylvania Western,6,10,"03/29/2025, 15:00",Pool C,Final
@@ -511,6 +511,10 @@ Stevens Tech,SUNY-Albany (B),13,2,"03/29/2025, 15:00",Pool D,Final
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,Championship
+SUNY-Geneseo,Army,0,0,"03/30/2025, 09:00",Play In,Scheduled
+Haverford,Vermont (C),0,0,"03/30/2025, 09:00",Play In,Scheduled
+Vassar,Pennsylvania Western,0,0,"03/30/2025, 09:00",Play In,Scheduled
+SUNY-Cortland,Skidmore,0,0,"03/30/2025, 09:00",Play In,Scheduled
 bracket,9th
 bracket,5th
 bracket,7th
@@ -518,6 +522,10 @@ bracket,3rd
 b,r,e,a,k
 brackets,13th Bracket
 bracket,13th
+Rowan,SUNY-Albany (B),0,0,"03/30/2025, 09:00",13th Quarters,Scheduled
+Cornell (B),West Chester (B),0,0,"03/30/2025, 09:00",13th Quarters,Scheduled
+SUNY-Binghamton (B),Stevens Tech,0,0,"03/30/2025, 09:00",13th Quarters,Scheduled
+Siena,Hofstra,0,0,"03/30/2025, 09:00",13th Quarters,Scheduled
 bracket,17th
 bracket,15th
 b,r,e,a,k
