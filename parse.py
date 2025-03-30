@@ -526,7 +526,8 @@ def parseTournamentCalendar(html):
     soup = BeautifulSoup(html, 'html.parser')
 
     #access table of tournmanets
-    calendar = soup.find("table", {"class": "global_table"}).findAll("tr")[1:]
+    # calendar = soup.find("table", {"class": "global_table"}).findAll("tr")[1:]
+    calendar = soup.find("table", {"id": "global_tableCT_HP_Mid_1_gvCurrentUpcomingEvents"}).findAll("tr")[1:]
 
     #list of links to specific divisons within tournaments
     page_links = []

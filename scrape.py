@@ -205,6 +205,7 @@ def scrapeYear(config):
         return
 
     calendarUrl = f"https://play.usaultimate.org/events/tournament/?ViewAll=true&IsLeagueType=false&IsClinic=false&FilterByCategory=AE&SeasonId={seasonId}"
+    print(calendarUrl)
 
     pages = parseTournamentCalendar(
         loadPage(config, calendarUrl, PageType.YEAR_CALENDAR)
