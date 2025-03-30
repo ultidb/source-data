@@ -517,18 +517,8 @@ def parseTournament(html, info, fileName, year):
 
 
     return Tournament(tournamentName, info["url"], info["city"], info["state"], info["startDate"], info["endDate"], teams, dt, division, stages)
- 
 
-def parseTournamentCalendar(html):
-    """scrape tournament data for entire usau tournament calendar webpage"""
-
-    #create html parser for specfici url
-    soup = BeautifulSoup(html, 'html.parser')
-
-    #access table of tournmanets
-    # calendar = soup.find("table", {"class": "global_table"}).findAll("tr")[1:]
-    calendar = soup.find("table", {"id": "global_tableCT_HP_Mid_1_gvCurrentUpcomingEvents"}).findAll("tr")[1:]
-
+def pullLinksFromCalendar(cal):
     #list of links to specific divisons within tournaments
     page_links = []
 
@@ -589,3 +579,19 @@ def parseTournamentCalendar(html):
     log.info(f"Found {len(page_links)} tournament pages to scrape")
 
     return page_links
+ 
+
+def parseTournamentCalendar(html):
+    """scrape tournament data for entire usau tournament calendar webpage"""
+
+    #create html parser for specfici url
+    soup = BeautifulSoup(html, 'html.parser')
+
+    #access table of tournmanets
+    # calendar = soup.find("table", {"class": "global_table"}).findAll("tr")[1:]
+    upcoming_calendar = soup.find("table", {"id": "CT_HP_Mid_1_gvCurrentUpcomingEvents"}).findAll("tr")[1:]
+    past_events_calendar = soup.find("table", {"id": "CT_HP_Mid_1_gvPastEvents"}).findAll("tr")[1:]
+    #list of links to specific divisons within tournaments
+    upcoming_links = pullLinksFromCalendar(upcoming_calendar)
+    past_links = pullLinksFromCalendar(past_events_calendar)
+    
