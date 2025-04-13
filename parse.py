@@ -518,7 +518,7 @@ def parseTournament(html, info, fileName, year):
 
     return Tournament(tournamentName, info["url"], info["city"], info["state"], info["startDate"], info["endDate"], teams, dt, division, stages)
 
-def pullLinksFromCalendar(cal):
+def pullLinksFromCalendar(calendar):
     #list of links to specific divisons within tournaments
     page_links = []
 
@@ -594,4 +594,5 @@ def parseTournamentCalendar(html):
     #list of links to specific divisons within tournaments
     upcoming_links = pullLinksFromCalendar(upcoming_calendar)
     past_links = pullLinksFromCalendar(past_events_calendar)
-    
+
+    return upcoming_links + past_links
