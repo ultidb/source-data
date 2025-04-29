@@ -1,22 +1,6 @@
 Northwest Challenge D3,College - Men ,29,3,2025
 Burlington,WA,2025-03-29,2025-03-30
 https://play.usaultimate.org/events/Northwest-Challenge-D3/schedule/Men/CollegeMen/
-Whitworth,1
-teamInfo,Bangarang,"Spokane, Washington",,https://www.facebook.com/groups/163382877053175/,https://twitter.com/Whitworth_Ulti?lang=en
-0,Isaac Paxton
-4,tommy chase
-7,Dakota Bair
-03,Jacob  Robblee
-12,Calvin Bailey
-16,Kavika Faagau
-21,Morgan Perron
-21,Isaac Simmons
-22,Jackson Schmekel
-24,Eli Erickson
-25,Joshua Everest
-67,Gabe  Smith
-88,Bryce Brubaker
-b,r,e,a,k
 Puget Sound,4
 teamInfo,Postmen,"Tacoma, Washington",http://www.upsultimate.com/,https://www.facebook.com/PugetSoundPostmen,https://twitter.com/upsultimate
 0,Aaron Donovan
@@ -72,6 +56,22 @@ teamInfo,Washington B,"Seattle, Washington",,,https://twitter.com/undodgers
 28,Sangbeom Yang
 54,Max Gillespie
 b,r,e,a,k
+Whitworth,1
+teamInfo,Bangarang,"Spokane, Washington",,https://www.facebook.com/groups/163382877053175/,https://twitter.com/Whitworth_Ulti?lang=en
+0,Isaac Paxton
+4,tommy chase
+7,Dakota Bair
+03,Jacob  Robblee
+12,Calvin Bailey
+16,Kavika Faagau
+21,Morgan Perron
+21,Isaac Simmons
+22,Jackson Schmekel
+24,Eli Erickson
+25,Joshua Everest
+67,Gabe  Smith
+88,Bryce Brubaker
+b,r,e,a,k
 Central Washington,2
 teamInfo,CWU Ultimate,"Ellensburg, Washington",,,
 0,Kramdon Shaffer
@@ -86,6 +86,31 @@ teamInfo,CWU Ultimate,"Ellensburg, Washington",,,
 12,Aiden Aho
 13,Kaelen Powell
 14,Dylan Davis
+b,r,e,a,k
+Simon Fraser,7
+teamInfo,SFU Red Leafs,"Burnaby, British Columbia CA",,,
+0,Charles Zhang
+0,Joshua Fok
+3,Tristan Lee
+4,Theo McBain
+5,Calvin  Nguyen
+6,Grayson  Dakis
+7,Quan Huynh
+9,Jordan Macdonald
+10,Ethan Train
+12,Caleb Chua
+14,Jakob Kryworuchko
+15,John Santos
+17,Ryan Hargrave
+22,Lukas Baldus
+23,Ethan Fung
+24,Jadon Ng
+27,Andrew van den Driesen
+35,Anantjot Aneja
+41,Anthony Lee
+46,Colton Chan
+51,Saurav  Sarpal
+54,Mattia Altomare
 b,r,e,a,k
 British Columbia  (B),6
 teamInfo,B-Birds,"Vancouver, British Columbia CA",,,
@@ -113,31 +138,6 @@ coaches,Shintaro Tsukamoto
 42,Maxim Chouinard
 43,Tyler Yue
 87,Ethan  Low
-b,r,e,a,k
-Simon Fraser,7
-teamInfo,SFU Red Leafs,"Burnaby, British Columbia CA",,,
-0,Charles Zhang
-0,Joshua Fok
-3,Tristan Lee
-4,Theo McBain
-5,Calvin  Nguyen
-6,Grayson  Dakis
-7,Quan Huynh
-9,Jordan Macdonald
-10,Ethan Train
-12,Caleb Chua
-14,Jakob Kryworuchko
-15,John Santos
-17,Ryan Hargrave
-22,Lukas Baldus
-23,Ethan Fung
-24,Jadon Ng
-27,Andrew van den Driesen
-35,Anantjot Aneja
-41,Anthony Lee
-46,Colton Chan
-51,Saurav  Sarpal
-54,Mattia Altomare
 b,r,e,a,k
 Portland,5
 teamInfo,Uprise,"Portland, Oregon",,,
@@ -167,13 +167,25 @@ s,t,a,g,e,s
 pools,NWC D3 Pool Play
 pool,Pool A
 Whitworth,Central Washington,15,6,"03/29/2025, 09:00",Pool A,Final
-Washington (B),Puget Sound,0,0,"03/29/2025, 09:00",Pool A,Scheduled
+Washington (B),Puget Sound,11,15,"03/29/2025, 09:00",Pool A,Final
 Whitworth,Puget Sound,11,12,"03/29/2025, 11:00",Pool A,Final
-Whitworth,Washington (B),8,13,"03/29/2025, 13:00",Pool A,Scheduled
-Central Washington,Puget Sound,0,0,"03/29/2025, 15:00",Pool A,Scheduled
-Central Washington,Washington (B),0,0,"03/29/2025, 17:00",Pool A,Scheduled
+Whitworth,Washington (B),8,13,"03/29/2025, 13:00",Pool A,Final
+Central Washington,Puget Sound,8,15,"03/29/2025, 15:00",Pool A,Final
+Central Washington,Washington (B),5,15,"03/29/2025, 17:00",Pool A,Final
 pool,Pool B
 Portland,British Columbia  (B),3,15,"03/29/2025, 09:00",Pool B,Final
-British Columbia  (B),Simon Fraser,0,0,"03/29/2025, 13:00",Pool B,Scheduled
-Portland,Simon Fraser,0,0,"03/29/2025, 15:00",Pool B,Scheduled
+British Columbia  (B),Simon Fraser,12,14,"03/29/2025, 13:00",Pool B,Final
+Portland,Simon Fraser,6,15,"03/29/2025, 15:00",Pool B,Final
+b,r,e,a,k
+brackets,Brackets
+bracket,Round 1 Game 1
+Puget Sound,Portland,15,8,"03/30/2025, 09:00",Game 1,Final
+bracket,Round 1 Game 2
+British Columbia  (B),Washington (B),15,7,"03/30/2025, 09:00",Game 2,Final
+bracket,Round 2 Game 1
+Puget Sound,Simon Fraser,11,15,"03/30/2025, 11:00",Game 1,Final
+bracket,Round 2 Game 2
+Washington (B),Portland,12,10,"03/30/2025, 11:00",Game 2,Final
+bracket,Finals
+Simon Fraser,British Columbia  (B),12,10,"03/30/2025, 13:00",1st Place,Final
 b,r,e,a,k

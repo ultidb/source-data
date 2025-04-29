@@ -28,24 +28,6 @@ b,r,e,a,k
 Arizona,1
 teamInfo,Sunburn,"Tucson, Arizona",,,
 b,r,e,a,k
-Northern Arizona,3
-teamInfo,El Ponderoso,"Flagstaff, Arizona",,,https://twitter.com/ElPonderosoNAU
-02,Tyler Hanson
-04,Angelo Paffumi
-08,Zach Hoerl
-16,Ryan Fletcher
-18,Beck Gutjahr
-19,Joel Linde
-42,Maxwell Sewell
-55,Gabriel Sensibar
-57,Tyler Prough
-66,Colby Coryell
-69,Angelo Stavros Chechopoulos
-87,Michael Kiricoples
-90,Joaquin Huerta
-99,Atticus Abraham
-99,Alec Pier
-b,r,e,a,k
 Southern California (B),6
 teamInfo,USC Blockdown,"Los Angeles, California",https://www.facebook.com/uscmensultimate/,https://www.facebook.com/uscmensultimate/,https://twitter.com/USCBlockdown
 0,Brandyn Gonzaga
@@ -65,21 +47,23 @@ teamInfo,USC Blockdown,"Los Angeles, California",https://www.facebook.com/uscmen
 0,Vincent Alcantara
 0,Yongzhi Si
 b,r,e,a,k
-San Diego State (B),4
-teamInfo,Bomberos,"San Diego, California",,,
-0,Andrew Sweis
-0,Caden Duff
-0,Liav Bar
-0,Robert Hitchcock
-0,Vincent Dinh
-0,William Meyer
-3,Jake Copus
-4,Maximus Doepking
-37,Richard Rico
-45,Harrison Iwafuchi
-66,Enzo Martinucci
-81,Seth Adelman
-97,Charles Phelps
+Northern Arizona,3
+teamInfo,El Ponderoso,"Flagstaff, Arizona",,,https://twitter.com/ElPonderosoNAU
+02,Tyler Hanson
+04,Angelo Paffumi
+08,Zach Hoerl
+16,Ryan Fletcher
+18,Beck Gutjahr
+19,Joel Linde
+42,Maxwell Sewell
+55,Gabriel Sensibar
+57,Tyler Prough
+66,Colby Coryell
+69,Angelo Stavros Chechopoulos
+87,Michael Kiricoples
+90,Joaquin Huerta
+99,Atticus Abraham
+99,Alec Pier
 b,r,e,a,k
 California-San Diego (B),5
 teamInfo,Air Squids LITE,"San Diego, California",,,
@@ -102,6 +86,22 @@ teamInfo,Air Squids LITE,"San Diego, California",,,
 38,Kit Bailey
 68,Vivek Gadicherla
 b,r,e,a,k
+San Diego State (B),4
+teamInfo,Bomberos,"San Diego, California",,,
+0,Andrew Sweis
+0,Caden Duff
+0,Liav Bar
+0,Robert Hitchcock
+0,Vincent Dinh
+0,William Meyer
+3,Jake Copus
+4,Maximus Doepking
+37,Richard Rico
+45,Harrison Iwafuchi
+66,Enzo Martinucci
+81,Seth Adelman
+97,Charles Phelps
+b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
@@ -110,18 +110,22 @@ Brigham Young (B),California-San Diego (B),13,1,"03/29/2025, 09:45",Pool A,Final
 San Diego State (B),Southern California (B),6,7,"03/29/2025, 09:45",Pool A,Final
 Arizona,Southern California (B),12,4,"03/29/2025, 11:30",Pool A,Final
 Brigham Young (B),Northern Arizona,13,3,"03/29/2025, 11:30",Pool A,Final
-San Diego State (B),California-San Diego (B),0,0,"03/29/2025, 11:30",Pool A,Scheduled
+San Diego State (B),California-San Diego (B),6,8,"03/29/2025, 11:30",Pool A,Final
 Arizona,San Diego State (B),12,5,"03/29/2025, 13:15",Pool A,Final
 Brigham Young (B),Southern California (B),13,2,"03/29/2025, 13:15",Pool A,Final
 Northern Arizona,California-San Diego (B),13,7,"03/29/2025, 13:15",Pool A,Final
 Arizona,Brigham Young (B),10,11,"03/29/2025, 15:00",Pool A,Final
 Northern Arizona,San Diego State (B),7,4,"03/29/2025, 15:00",Pool A,Final
 California-San Diego (B),Southern California (B),8,13,"03/29/2025, 15:00",Pool A,Final
-Arizona,California-San Diego (B),0,0,"03/30/2025, 09:30",Pool A,Scheduled
+Arizona,California-San Diego (B),10,4,"03/30/2025, 09:30",Pool A,Final
 Brigham Young (B),San Diego State (B),F,W,"03/30/2025, 09:30",Pool A,Final
-Northern Arizona,Southern California (B),0,0,"03/30/2025, 09:30",Pool A,Scheduled
+Northern Arizona,Southern California (B),9,10,"03/30/2025, 09:30",Pool A,Final
 b,r,e,a,k
 brackets,Sinvite Championship
 bracket,Championship
+Southern California (B),Arizona,10,11,"03/30/2025, 13:15",Finals,Final
+Northern Arizona,Southern California (B),9,10,"03/30/2025, 11:15",Semis,Final
 bracket,3rd Place
+San Diego State (B),Northern Arizona,1,0,"03/30/2025, 13:15",3rd Finals,Final
+San Diego State (B),California-San Diego (B),7,5,"03/30/2025, 11:15",3rd Semis,Final
 b,r,e,a,k

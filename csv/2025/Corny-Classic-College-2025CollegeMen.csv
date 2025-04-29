@@ -528,25 +528,30 @@ cluster,Consolation 17-23
 Notre Dame (B),Purdue (C),4,13,"03/29/2025, 12:30",,Final
 Illinois (C),Purdue (C),3,13,"03/29/2025, 14:00",,Final
 Notre Dame (B),Illinois (C),F,W,"03/29/2025, 15:30",,Final
-Purdue (B),Notre Dame (B),0,0,"03/30/2025, 08:00",,Scheduled
-North Park,Bradley,0,0,"03/30/2025, 09:30",,Scheduled
-Wright State,Purdue (C),0,0,"03/30/2025, 11:00",,Scheduled
-North Park,Wright State,0,0,"03/30/2025, 12:30",,Scheduled
-Purdue (B),Illinois (C),0,0,"03/30/2025, 12:30",,Scheduled
-Bradley,Notre Dame (B),0,0,"03/30/2025, 12:30",,Scheduled
-North Park,Purdue (B),0,0,"03/30/2025, 14:00",,Scheduled
-Wright State,Illinois (C),0,0,"03/30/2025, 14:00",,Scheduled
-Bradley,Purdue (C),0,0,"03/30/2025, 14:00",,Scheduled
+Purdue (B),Notre Dame (B),5,6,"03/30/2025, 08:00",,Final
+North Park,Bradley,6,5,"03/30/2025, 09:30",,Final
+Wright State,Purdue (C),5,4,"03/30/2025, 11:00",,Final
+North Park,Wright State,3,2,"03/30/2025, 12:30",,Final
+Purdue (B),Illinois (C),7,6,"03/30/2025, 12:30",,Final
+Bradley,Notre Dame (B),6,5,"03/30/2025, 12:30",,Final
+North Park,Purdue (B),0,0,"03/30/2025, 14:00",,Cancelled
+Wright State,Illinois (C),0,0,"03/30/2025, 14:00",,Cancelled
+Bradley,Purdue (C),0,0,"03/30/2025, 14:00",,Cancelled
 b,r,e,a,k
 clusters,Power Crossover
 cluster,Power Crossover
-Illinois,Asbury,0,0,"03/30/2025, 08:00",,Scheduled
+Illinois,Asbury,8,7,"03/30/2025, 08:00",,Final
 Dayton,Ohio,8,11,"03/30/2025, 08:00",,Final
 b,r,e,a,k
 brackets,Sunday Bracket
 bracket,Championship Bracket
-Grand Valley,Dayton,0,0,"03/30/2025, 09:30",Quarters,Scheduled
-Lipscomb,Ohio,0,0,"03/30/2025, 09:30",Quarters,Scheduled
+Illinois,Asbury,7,6,"03/30/2025, 12:30",Championship,Final
+Illinois,Grand Valley,13,8,"03/30/2025, 11:00",Semi,Final
+Lipscomb,Asbury,7,8,"03/30/2025, 11:00",Semi,Final
+Vanderbilt,Illinois,7,9,"03/30/2025, 09:30",Quarters,Final
+Grand Valley,Dayton,10,7,"03/30/2025, 09:30",Quarters,Final
+Lipscomb,Ohio,9,8,"03/30/2025, 09:30",Quarters,Final
+Michigan Tech,Asbury,6,8,"03/30/2025, 09:30",Quarters,Final
 Vanderbilt,Butler,13,10,"03/29/2025, 15:30",Pre Quarters,Final
 Grand Valley,Toledo,13,7,"03/29/2025, 15:30",Pre Quarters,Final
 Lipscomb,Illinois (B),13,4,"03/29/2025, 15:30",Pre Quarters,Final
@@ -555,20 +560,33 @@ Purdue (B),Toledo,3,12,"03/29/2025, 14:00",Playins to Championship,Final
 Illinois (B),Wright State,9,5,"03/29/2025, 14:00",Playins to Championship,Final
 Loyola-Chicago,Ball State,9,10,"03/29/2025, 14:00",Playins to Championship,Final
 bracket,3rd Place
+Grand Valley,Lipscomb,8,7,"03/30/2025, 12:30",3rd place,Final
 bracket,5th Place
+Vanderbilt,Michigan Tech,6,5,"03/30/2025, 12:30",5th,Final
+Vanderbilt,Dayton,10,9,"03/30/2025, 11:00",5th-8th,Final
+Ohio,Michigan Tech,7,10,"03/30/2025, 11:00",5th-8th,Final
 bracket,7th Place
+Dayton,Ohio,7,6,"03/30/2025, 12:30",7th,Final
 b,r,e,a,k
 brackets,9-16 Bracket
 bracket,9th place Bracket
-Butler,Loyola-Chicago,0,1,"03/30/2025, 08:00",9th Quarters,Scheduled
-Toledo,Knox,11,6,"03/30/2025, 08:00",9th Quarters,Scheduled
-Illinois (B),Ohio (B),0,0,"03/30/2025, 08:00",9th Quarters,Scheduled
+Toledo,Illinois (B),6,7,"03/30/2025, 11:00",9th Place,Final
+Loyola-Chicago,Toledo,4,11,"03/30/2025, 09:30",9th Semis,Final
+Illinois (B),Missouri State,8,7,"03/30/2025, 09:30",9th Semis,Final
+Butler,Loyola-Chicago,0,1,"03/30/2025, 08:00",9th Quarters,Final
+Toledo,Knox,11,6,"03/30/2025, 08:00",9th Quarters,Final
+Illinois (B),Ohio (B),9,4,"03/30/2025, 08:00",9th Quarters,Final
 Ball State,Missouri State,3,12,"03/30/2025, 08:00",9th Quarters,Final
 North Park,Loyola-Chicago,9,10,"03/29/2025, 15:30",Play-Ins 9-16,Final
 Knox,Wright State,11,7,"03/29/2025, 15:30",Play-Ins 9-16,Final
 Ohio (B),Purdue (B),1,0,"03/29/2025, 15:30",Play-Ins 9-16,Final
 Missouri State,Bradley,1,0,"03/29/2025, 15:30",Play-Ins 9-16,Final
 bracket,11th Place
+Loyola-Chicago,Missouri State,4,8,"03/30/2025, 11:00",11th Place,Final
 bracket,13th-16th Place
+Knox,Ball State,0,0,"03/30/2025, 14:00",13th Place,Cancelled
+Butler,Knox,0,1,"03/30/2025, 12:30",13-16,Final
+Ohio (B),Ball State,4,5,"03/30/2025, 12:30",13-16,Final
 bracket,15th Place
+Butler,Ohio (B),0,1,"03/30/2025, 14:00",15th Place,Cancelled
 b,r,e,a,k

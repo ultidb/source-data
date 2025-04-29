@@ -72,6 +72,29 @@ teamInfo,Thorny Roses,"Ithaca, New York",,https://m.facebook.com/Cornell-Thorny-
 21,Chloe Kaufman
 24,Angela Voo
 b,r,e,a,k
+Wellesley,2
+teamInfo,Whiptails,"Wellesley, Massachusetts",https://sites.google.com/wellesley.edu/wellesleywhiptails/home,,https://twitter.com/thewholedamnbus
+coaches,Marshall Goff
+0,Ella McHugh
+0,Jaya Magavi
+0,Jimena Padilla
+0,June Wolbach
+0,Magdalena Johnson
+0,Phoebe Calero
+0,Ruth Frederick
+0,Solveig Unteroberdoerster
+0,Sophie McIntosh
+0,Sylva` Das
+0,Tess Porter
+2,Bella Kim-LaTona
+9,Owen Romberg
+18,Kali Bate
+21,Erin  Fina 
+26,Lauren Wu
+28,EmmaChaya Lipton-Praver
+38,Annika Wolberg
+53,Krishangi Dandapure
+b,r,e,a,k
 Rochester,3
 teamInfo,EZ Women,"Rochester, New York",https://rochesterezs.wixsite.com/home,https://www.facebook.com/RochesterEZs,https://twitter.com/RochesterEZs
 0,Elizabeth Voorhees
@@ -95,29 +118,6 @@ teamInfo,EZ Women,"Rochester, New York",https://rochesterezs.wixsite.com/home,ht
 45,April Loy
 59,Juliana Cabarcos
 72,Anna Spak
-b,r,e,a,k
-Wellesley,2
-teamInfo,Whiptails,"Wellesley, Massachusetts",https://sites.google.com/wellesley.edu/wellesleywhiptails/home,,https://twitter.com/thewholedamnbus
-coaches,Marshall Goff
-0,Ella McHugh
-0,Jaya Magavi
-0,Jimena Padilla
-0,June Wolbach
-0,Magdalena Johnson
-0,Phoebe Calero
-0,Ruth Frederick
-0,Solveig Unteroberdoerster
-0,Sophie McIntosh
-0,Sylva` Das
-0,Tess Porter
-2,Bella Kim-LaTona
-9,Owen Romberg
-18,Kali Bate
-21,Erin  Fina 
-26,Lauren Wu
-28,EmmaChaya Lipton-Praver
-38,Annika Wolberg
-53,Krishangi Dandapure
 b,r,e,a,k
 Yale,1
 teamInfo,Ramona,"New Haven, Connecticut",http://www.yale.edu/ramona,https://www.facebook.com/yaleramona,https://twitter.com/yaleramona
@@ -160,22 +160,34 @@ s,t,a,g,e,s
 pools,Pool
 pool,Pool B
 Massachusetts,NYU,4,6,"03/01/2025, 15:30",Pool B,Final
-Colby,Cornell (B),0,0,"03/01/2025, 15:30",Pool B,Scheduled
+Colby,Cornell (B),6,2,"03/01/2025, 15:30",Pool B,Final
 Massachusetts,Cornell (B),5,1,"03/01/2025, 16:40",Pool B,Final
 Colby,NYU,2,5,"03/01/2025, 16:40",Pool B,Final
 NYU,Cornell (B),6,0,"03/01/2025, 17:50",Pool B,Final
-Massachusetts,Colby,0,0,"03/02/2025, 08:30",Pool B,Scheduled
+Massachusetts,Colby,5,3,"03/02/2025, 08:30",Pool B,Final
 pool,Pool A
 Yale,Rochester,1,5,"03/01/2025, 15:30",Pool A,Final
 Wellesley,New Hampshire,6,3,"03/01/2025, 15:30",Pool A,Final
 Yale,New Hampshire,4,2,"03/01/2025, 16:40",Pool A,Final
-Wellesley,Rochester,2,3,"03/01/2025, 16:40",Pool A,Final
-Yale,Wellesley,0,0,"03/02/2025, 08:30",Pool A,Scheduled
-Rochester,New Hampshire,0,0,"03/02/2025, 08:30",Pool A,Scheduled
+Wellesley,Rochester,5,4,"03/01/2025, 16:40",Pool A,Final
+Yale,Wellesley,2,3,"03/02/2025, 08:30",Pool A,Final
+Rochester,New Hampshire,4,2,"03/02/2025, 08:30",Pool A,Final
 b,r,e,a,k
 brackets,Bracket
 bracket,Championship
+Wellesley,Rochester,3,4,"03/02/2025, 12:20",Championship,Final
+Wellesley,NYU,6,4,"03/02/2025, 10:50",Semis,Final
+Massachusetts,Rochester,2,6,"03/02/2025, 10:50",Semis,Final
+Wellesley,Cornell (B),3,0,"03/02/2025, 09:40",Quarters,Final
+New Hampshire,NYU,3,6,"03/02/2025, 09:40",Quarters,Final
+Yale,Massachusetts,3,4,"03/02/2025, 09:40",Quarters,Final
+Rochester,Colby,8,1,"03/02/2025, 09:40",Quarters,Final
 bracket,5th
+Cornell (B),Yale,1,5,"03/01/2025, 11:30",5th,Final
+Cornell (B),New Hampshire,3,2,"03/01/2025, 10:00",5th Semis,Final
+Yale,Colby,5,2,"03/01/2025, 10:00",5th Semis,Final
 bracket,7th
+New Hampshire,Colby,4,3,"03/02/2025, 11:30",7th,Final
 bracket,3rd
+NYU,Massachusetts,4,2,"03/02/2025, 11:30",3rd,Final
 b,r,e,a,k
