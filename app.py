@@ -43,7 +43,7 @@ def isRecentlyEnded(endDate):
     end = endDate.date()
     today = datetime.today().date()
 
-    return end < today and end >= (today - timedelta(days=2))
+    return end < today and end >= (today - timedelta(days=60))
 
 
 def scrapeCalendar(disableCache=True):
@@ -121,7 +121,7 @@ def scrapeUpcomingTournaments():
 def scrapeRecentlyEndedTournaments():
     config = Config(int(year), False, True, True, False)
     scrapeListOfTournamentUrls(config, recentlyEndedTournaments)
-    commitAndPush()
+    # commitAndPush()
 
 
 def scrapeAndPushVideos():
@@ -181,13 +181,12 @@ def listUpdatedFiles(path):
             output.append(filename)
     return output
 
+
 def resendFailedCSVs():
     postUpdatedCsvListToAPI(db.listFailedCSVs())
 
 
-def postUpdatedCsvListToAPI(
-    csvs, UpdatePlayers=True, checkExisting=True, DryRun=False
-):
+def postUpdatedCsvListToAPI(csvs, UpdatePlayers=True, checkExisting=True, DryRun=False):
     payload = {
         "paths": csvs,
         "updatePlayers": UpdatePlayers,
@@ -272,7 +271,8 @@ if __name__ == "__main__":
     # setupTor()
     # setupSchedule()
     scrapeCalendar(True)
-    # scrapeRecentlyEndedTournaments()
+
+    scrapeRecentlyEndedTournaments()
     # scrapeOngoingTournaments()
     # scrapeUpcomingTournaments()
     # csvs = listUpdatedCsvs()

@@ -11,19 +11,21 @@ from models import *
 DIVISIONS = {
     "College - Men": "Men/CollegeMen/",
     "College - Men's": "Men/CollegeMen/",
-    "D-I Men": "Men/CollegeMen/d_i_men/",
-    "D-III Men": "Men/CollegeMen/d_iii_men/",
-    "Men's Lower Division": "Men/CollegeMen/men_s_lower_division/",
-    "Men's Developmental Division": "Men/CollegeMen/men_s_developmental_division/",
+    "D-I Men": "Men/CollegeMen/",
+    "D-III Men": "Men/CollegeMen/",
+    "Men's Lower Division": "Men/CollegeMen/",
+    "Men's Developmental Division": "Men/CollegeMen/",
+    "Dev Men": "Men/CollegeMen/",
+    "Dev Women": "Women/CollegeWomen/",
     "College Women": "Women/CollegeWomen/",
     "College - Women": "Women/CollegeWomen/",
     "College - Women's": "Women/CollegeWomen/",
-    "College Women's  (Division I)": "Women/CollegeWomen/division_i/",
+    "College Women's  (Division I)": "Women/CollegeWomen/",
     "College - Mixed": "mixed/College-Mixed/",
-    "D-I Women": "Women/CollegeWomen/d_i_women/",
-    "D-III Women": "Women/CollegeWomen/d_iii_women/",
-    "Womxn's Lower Division": "Women/CollegeWomen/womxn_s_lower_division/",
-    "Womxn's Upper Division": "Men/CollegeMen/men_s_upper_division/",
+    "D-I Women": "Women/CollegeWomen/",
+    "D-III Women": "Women/CollegeWomen/",
+    "Womxn's Lower Division": "Women/CollegeWomen/",
+    "Womxn's Upper Division": "Men/CollegeMen/",
     "Club - Men": "Men/Club-Men/",
     "College - Open": "Men/Club-Men",
     "Club - Men's": "Men/Club-Men/",
@@ -109,6 +111,7 @@ statusOptions = [
 class NoValidGamesException(Exception):
     pass
 
+
 # exception for when scraping of a tournamnet fails while scraping team page
 
 
@@ -118,28 +121,29 @@ class InternetConnectionFailedException(Exception):
 
 # NEW CODE STARTS HERE
 def convertTeamLinkToTeam(link, teams):
-    id = link['href'].split("=")[1]
+    id = link["href"].split("=")[1]
     if id in teams:
         return teams[id]
 
     stripped = link.contents[0].strip()
     seed = 0
-    name = ''
+    name = ""
 
     if stripped[-1] == ")":
         index = 2
         while stripped[-index].isdigit():
             index += 1
 
-        seed = int(stripped[-(index-1):-1])
+        seed = int(stripped[-(index - 1) : -1])
         name = stripped[:-index].strip()
 
-    name = name.replace('/', '-')
+    name = name.replace("/", "-")
     if name == "":
         name = "TEAM_NAME_NOT_FOUND"
-    url = f'https://play.usaultimate.org{link["href"]}'
+    url = f"https://play.usaultimate.org{link['href']}"
     teams[id] = Team(name, seed, url, id)
     return teams[id]
+
 
 def extract_nickname(team_name):
     opening_index = team_name.find("(")
@@ -160,11 +164,11 @@ def extract_nickname(team_name):
     else:
         return ""
 
+
 def addRosterToTeam(soup, team):
     roster = []
     try:
-        tableRows = soup.find(
-            "table").findAll("tr")[1:]
+        tableRows = soup.find("table").findAll("tr")[1:]
     except:
         log.error(f"Failed to parse roster for team {team.name} at {team.url}")
         return
@@ -175,6 +179,7 @@ def addRosterToTeam(soup, team):
         name = cells[1].contents[0]
         roster.append(Player(number, name))
     team.roster = roster
+
 
 def addInfoToTeam(soup, team):
     info = soup.find("div", {"class": "profile_info"})
@@ -197,47 +202,54 @@ def addInfoToTeam(soup, team):
     website = ""
     facebook = ""
     twitter = ""
-    coaches = ['coaches']
+    coaches = ["coaches"]
     for entry in entries:
         if entry.find("dt").contents[0] == "Coaches:":
             coaches += parseCoaches(entry.find("dd").contents)
         elif entry.find("dt").contents[0] == "Website:":
-            website = entry.find("a")['href']
-            if website.startswith('modules/common/'):
+            website = entry.find("a")["href"]
+            if website.startswith("modules/common/"):
                 website = website[15:]
         elif entry.find("dt").contents[0] == "Facebook:":
-            facebook = entry.find("a")['href']
-            if facebook.startswith('modules/common/'):
+            facebook = entry.find("a")["href"]
+            if facebook.startswith("modules/common/"):
                 facebook = facebook[15:]
         elif entry.find("dt").contents[0] == "Twitter:":
-            twitter = entry.find("a")['href']
-            if twitter.startswith('modules/common/'):
+            twitter = entry.find("a")["href"]
+            if twitter.startswith("modules/common/"):
                 twitter = twitter[15:]
-    
-    team.info = TeamInfo(nickname, location.strip(), coaches, website.strip(), facebook.strip(), twitter.strip())
 
-def parseCoaches(items): # passing in list of tags with coach info
+    team.info = TeamInfo(
+        nickname,
+        location.strip(),
+        coaches,
+        website.strip(),
+        facebook.strip(),
+        twitter.strip(),
+    )
+
+
+def parseCoaches(items):  # passing in list of tags with coach info
     output = []
     for item in items:
         if type(item) != element.NavigableString:
             continue
-        inner = item.strip() # remove whitespace
+        inner = item.strip()  # remove whitespace
         if inner == "":
             continue
-            
+
         if inner[-1] == ")":
             index = 2
             while inner[-index] != "(":
                 index += 1
-            inner = inner[:-index].strip()            
+            inner = inner[:-index].strip()
         output.append(inner)
 
     return output
 
 
 def parseClustersStage(soup, teams, year, startDate):
-    clusterTables = soup.find_all(
-        "table", {"class": "global_table scores_table"})
+    clusterTables = soup.find_all("table", {"class": "global_table scores_table"})
     clusters = []
     for clusterTable in clusterTables:
         clusterName = clusterTable.find("th").contents[0]
@@ -267,10 +279,18 @@ def parseGameTable(soup, teams, year, startDate):
     games = []
     for row in soup.find("tbody").find_all("tr"):
         if row.has_attr("data-game"):
-            teamA_score = row.find_all("td")[5].find_all(
-                "span", {"class": "isScore"})[0].find("span").contents[0]
-            teamB_score = row.find_all("td")[5].find_all(
-                "span", {"class": "isScore"})[1].find("span").contents[0]
+            teamA_score = (
+                row.find_all("td")[5]
+                .find_all("span", {"class": "isScore"})[0]
+                .find("span")
+                .contents[0]
+            )
+            teamB_score = (
+                row.find_all("td")[5]
+                .find_all("span", {"class": "isScore"})[1]
+                .find("span")
+                .contents[0]
+            )
 
             # error checker to eliminate forfits and unplayed games
             # if not teamA_score.isdigit() or not teamB_score.isdigit() or (int(teamA_score) <= 1 and int(teamB_score) <= 1):
@@ -281,7 +301,7 @@ def parseGameTable(soup, teams, year, startDate):
 
             # errorr checking to make sure td did not forget to update teams
             if gameInfo[0].contents[0] == "TBD" or gameInfo[1].contents[0] == "TBD":
-                continue 
+                continue
 
             if not gameInfo[0].find("a") or not gameInfo[1].find("a"):
                 continue
@@ -292,15 +312,15 @@ def parseGameTable(soup, teams, year, startDate):
             try:
                 date = row.find_all("td")[0].find("span").contents[0]
                 time = row.find_all("td")[1].find("span").contents[0]
-                month = int(date[4:date.find('/')])
-                day = int(date[date.find('/')+1:len(date)])
-                hour = time[0:time.find(":")]
+                month = int(date[4 : date.find("/")])
+                day = int(date[date.find("/") + 1 : len(date)])
+                hour = time[0 : time.find(":")]
 
                 # handle invalid times
                 if hour.isdigit():
                     hour = int(hour)
-                    minute = int(time[time.find(":")+1:time.find(":")+3])
-                    if (time[len(time)-2:len(time)] == "PM" and hour != 12):
+                    minute = int(time[time.find(":") + 1 : time.find(":") + 3])
+                    if time[len(time) - 2 : len(time)] == "PM" and hour != 12:
                         hour += 12
                 else:
                     hour = 0
@@ -313,7 +333,7 @@ def parseGameTable(soup, teams, year, startDate):
 
             status = row.find_all("td")[6].find("span")
             if len(status.contents):
-                status = status.contents[0]           
+                status = status.contents[0]
 
             # commit games to objects
             game = Game(teamA, teamB, teamA_score, teamB_score, game_datetime, status)
@@ -324,8 +344,7 @@ def parseGameTable(soup, teams, year, startDate):
 
 def parsePoolsStage(soup, teams, year, startDate):
     pools = parsePoolTables(soup, teams)
-    poolGameTables = soup.find_all(
-        "table", {"class": "global_table scores_table"})
+    poolGameTables = soup.find_all("table", {"class": "global_table scores_table"})
 
     if len(pools) == 0 and len(poolGameTables) == 0:
         return
@@ -383,7 +402,7 @@ def parseBracketGame(game, teams, year, startDate, roundName):
         if hour.isdigit():
             hour = int(hour)
             minute = int(game_date[1].split(":")[1])
-            if (game_date[2] == "PM" and hour != 12):
+            if game_date[2] == "PM" and hour != 12:
                 hour += 12
         else:
             hour = 0
@@ -401,14 +420,17 @@ def parseBracketGame(game, teams, year, startDate, roundName):
         status = "Scheduled"
     else:
         # game ended and one team has a score
-        if game_datetime > (datetime.now() + timedelta(hours=2)) and (teamA_score > 0 or teamB_score > 0):
+        if game_datetime > (datetime.now() + timedelta(hours=2)) and (
+            teamA_score > 0 or teamB_score > 0
+        ):
             status = "Final"
         else:
             status = "Scheduled"
 
     # adding game to games list
-    game = Game(teamA, teamB, teamA_score,
-                teamB_score, game_datetime, status, roundName)
+    game = Game(
+        teamA, teamB, teamA_score, teamB_score, game_datetime, status, roundName
+    )
 
     return game
 
@@ -459,11 +481,13 @@ def stagesHaveGames(stages):
 def parseTournament(html, info, fileName, year):
     teams = {}
     # opening html parser
-    soup = BeautifulSoup(html, 'html.parser')
+    soup = BeautifulSoup(html, "html.parser")
 
     # finding tournament name
     try:
-        tournamentName = str(soup.find("div", {"class": "breadcrumbs"}).find_all("a")[1].contents[0])
+        tournamentName = str(
+            soup.find("div", {"class": "breadcrumbs"}).find_all("a")[1].contents[0]
+        )
     except:
         url = info["url"]
         log.error(f"Error parsing tournament name from {url}")
@@ -496,7 +520,7 @@ def parseTournament(html, info, fileName, year):
         if isinstance(slide, NavigableString):
             continue
         if isinstance(slide, Tag):
-            slideId = slide.get('id')
+            slideId = slide.get("id")
             name = stageNames[stageNameIndex]
             stageNameIndex += 1
             if slideId == "poolSlide":
@@ -506,23 +530,36 @@ def parseTournament(html, info, fileName, year):
             elif slideId == "bracketSlide":
                 stages.append(Brackets(name, parseBracketStage(slide, teams, year, dt)))
             elif slideId == "clusterSlide":
-                stages.append(Clusters(name, parseClustersStage(slide, teams, year, dt)))
+                stages.append(
+                    Clusters(name, parseClustersStage(slide, teams, year, dt))
+                )
 
-    teams = list(teams.values()) 
+    teams = list(teams.values())
     division = soup.find("h1", {"class": "title"}).contents[0]
 
     if not stagesHaveGames(stages):
         log.debug(f"No games found for {tournamentName}")
         return None
 
+    return Tournament(
+        tournamentName,
+        info["url"],
+        info["city"],
+        info["state"],
+        info["startDate"],
+        info["endDate"],
+        teams,
+        dt,
+        division,
+        stages,
+    )
 
-    return Tournament(tournamentName, info["url"], info["city"], info["state"], info["startDate"], info["endDate"], teams, dt, division, stages)
 
 def pullLinksFromCalendar(calendar):
-    #list of links to specific divisons within tournaments
+    # list of links to specific divisons within tournaments
     page_links = []
 
-    #find specific tournament divison pages that should have teams
+    # find specific tournament divison pages that should have teams
     for t in calendar:
         try:
             cells = t.findAll("td")
@@ -547,22 +584,20 @@ def pullLinksFromCalendar(calendar):
         if endDate != "":
             endDate = datetime.strptime(endDate, "%b %d, %Y").strftime("%Y-%m-%d")
 
-        #iterate through each divison of a tournament
+        # iterate through each divison of a tournament
         for num in t.findAll("li"):
-
-            #link to overall tournament page
+            # link to overall tournament page
             link = t.find("a").get("href")
 
-            #check to see if a division has more than 1 team in the division
+            # check to see if a division has more than 1 team in the division
             if int(num.contents[1].contents[0][1:-1]) > 1:
-
                 # add link of specific divison page to list
                 try:
                     url = link + "/schedule/" + DIVISIONS[num.contents[0].strip()]
                     lower = url.lower()
                     if not url.startswith("https://play.usaultimate.org"):
                         url = "https://play.usaultimate.org" + url
-                       
+
                     if not ("high-school" in lower or "middle-school" in lower):
                         d = {
                             "city": city,
@@ -574,25 +609,123 @@ def pullLinksFromCalendar(calendar):
 
                         page_links.append(d)
                 except:
-                    log.debug("Unknown division: " + num.contents[0].strip() + " from " + link) 
+                    log.debug(
+                        "Unknown division: " + num.contents[0].strip() + " from " + link
+                    )
 
     log.info(f"Found {len(page_links)} tournament pages to scrape")
 
     return page_links
- 
+
 
 def parseTournamentCalendar(html):
     """scrape tournament data for entire usau tournament calendar webpage"""
 
-    #create html parser for specfici url
-    soup = BeautifulSoup(html, 'html.parser')
+    # create html parser for specfici url
+    soup = BeautifulSoup(html, "html.parser")
 
-    #access table of tournmanets
+    # access table of tournmanets
     # calendar = soup.find("table", {"class": "global_table"}).findAll("tr")[1:]
-    upcoming_calendar = soup.find("table", {"id": "CT_HP_Mid_1_gvCurrentUpcomingEvents"}).findAll("tr")[1:]
-    past_events_calendar = soup.find("table", {"id": "CT_HP_Mid_1_gvPastEvents"}).findAll("tr")[1:]
-    #list of links to specific divisons within tournaments
+    upcoming_calendar = soup.find(
+        "table", {"id": "CT_HP_Mid_1_gvCurrentUpcomingEvents"}
+    ).findAll("tr")[1:]
+    past_events_calendar = soup.find(
+        "table", {"id": "CT_HP_Mid_1_gvPastEvents"}
+    ).findAll("tr")[1:]
+    # list of links to specific divisons within tournaments
     upcoming_links = pullLinksFromCalendar(upcoming_calendar)
     past_links = pullLinksFromCalendar(past_events_calendar)
 
     return upcoming_links + past_links
+
+
+def parseNewSchedule(html, isCollege=False):
+    soup = BeautifulSoup(html, "html.parser")
+    page_links = []
+
+    # Find all tournament rows
+    tournament_rows = soup.find_all("tr", class_="tournament")
+
+    for row in tournament_rows:
+        try:
+            # Extract date
+            date_cell = row.find("td", class_="date")
+            date_text = date_cell.find("span", class_="label").next_sibling.strip()
+            dates = date_text.split("-")
+            if len(dates) == 2:
+                start_date = dates[0].strip()
+                end_date = dates[1].strip()
+            else:
+                start_date = dates[0].strip()
+                end_date = dates[0].strip()
+
+            # Convert dates to YYYY-MM-DD format
+            year = 2025  # Since this is the 2025 schedule
+            start_month, start_day = start_date.split("/")
+            end_month, end_day = end_date.split("/")
+
+            start_date = datetime(year, int(start_month), int(start_day)).strftime(
+                "%Y-%m-%d"
+            )
+            end_date = datetime(year, int(end_month), int(end_day)).strftime("%Y-%m-%d")
+
+            # Extract location
+            location_cell = row.find("td", class_="location")
+            location = location_cell.find("span", class_="label").next_sibling.strip()
+
+            # Handle location parsing - try comma first, then last space
+            try:
+                city, state = location.split(",")
+            except ValueError:
+                # If no comma, split on last space
+                last_space = location.rfind(" ")
+                if last_space != -1:
+                    city = location[:last_space]
+                    state = location[last_space + 1 :]
+                else:
+                    # If no space found, treat entire string as city
+                    city = location
+                    state = ""
+
+            city = city.strip()
+            state = state.strip()
+
+            # Extract division
+            division_cell = row.find("td", class_="division")
+            division = division_cell.find("span", class_="label").next_sibling.strip()
+
+            # Extract base URL from results link
+            results_cell = row.find("td", class_="results")
+            base_url = results_cell.find("a")["href"]
+
+            if division == "Men" or division == "Women" or division == "Mixed":
+                if isCollege:
+                    division = "College - " + division
+                else:
+                    division = "Club - " + division
+
+            # Construct proper URL using DIVISIONS map
+            if division in DIVISIONS:
+                url = base_url + "schedule/" + DIVISIONS[division]
+            else:
+                log.error(f"Unknown division: {division} from {base_url}")
+                continue
+
+            # Add to page links
+            page_links.append(
+                {
+                    "city": city,
+                    "state": state,
+                    "startDate": start_date,
+                    "endDate": end_date,
+                    "url": url,
+                }
+            )
+
+        except Exception as e:
+            print(row)
+            log.error(f"Error parsing tournament row: {e}")
+            continue
+
+    log.info(f"Found {len(page_links)} tournament pages to scrape")
+    return page_links
