@@ -271,7 +271,6 @@ if __name__ == "__main__":
     # setupTor()
     # setupSchedule()
     # scrapeCalendar(True)
-
     # scrapeRecentlyEndedTournaments()
     # scrapeOngoingTournaments()
     # scrapeUpcomingTournaments()
