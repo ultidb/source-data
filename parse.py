@@ -723,7 +723,6 @@ def parseNewSchedule(html, isCollege=False):
             )
 
         except Exception as e:
-            print(row)
             log.error(f"Error parsing tournament row: {e}")
             continue
 

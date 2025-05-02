@@ -13,7 +13,6 @@ from dotenv import load_dotenv
 from parse import (
     addRosterToTeam,
     addInfoToTeam,
-    parseClubSchedule,
     parseNewSchedule,
     parseTournament,
     parseTournamentCalendar,

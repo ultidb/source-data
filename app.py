@@ -265,14 +265,14 @@ if __name__ == "__main__":
     # Setup default config (init schedule, tor, and scrape calendar for year)
     # resendFailedCSVs()
     # postUpdatedCsvListToAPI(["csv/2024/2024-Southeast-Mens-Regional-ChampionshipClub-Men.csv"])
-    # prodSetup()
+    prodSetup()
     # scrapeAndPushVideos()
     # Optional calls for testing/development
     # setupTor()
     # setupSchedule()
-    scrapeCalendar(True)
+    # scrapeCalendar(True)
 
-    scrapeRecentlyEndedTournaments()
+    # scrapeRecentlyEndedTournaments()
     # scrapeOngoingTournaments()
     # scrapeUpcomingTournaments()
     # csvs = listUpdatedCsvs()
