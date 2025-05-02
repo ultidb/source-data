@@ -13,6 +13,7 @@ from dotenv import load_dotenv
 from parse import (
     addRosterToTeam,
     addInfoToTeam,
+    parseNewSchedule,
     parseTournament,
     parseTournamentCalendar,
 )
@@ -34,6 +35,7 @@ seasonIdMap = {
     2022: 17,
     2023: 18,
     2024: 19,
+    2025: 20,
 }
 
 
@@ -50,6 +52,8 @@ class PageType(Enum):
     YEAR_CALENDAR = 1
     TOURNAMENT = 2
     TEAM = 3
+    NEW_COLLEGE_SCHEDULE = 4
+    NEW_CLUB_SCHEDULE = 5
 
 
 def writeContentToFile(path, file, content):
@@ -92,6 +96,10 @@ def loadPage(config, url, pageType, tournamentName=None, teamName=None):
 
     if pageType == PageType.YEAR_CALENDAR:
         file = "calendar.html"
+    elif pageType == PageType.NEW_COLLEGE_SCHEDULE:
+        file = "college_schedule.html"
+    elif pageType == PageType.NEW_CLUB_SCHEDULE:
+        file = "club_schedule.html"
     elif pageType == PageType.TOURNAMENT:
         if config.live:
             disableCache = True
@@ -186,6 +194,7 @@ def scrapeListOfTournamentUrls(config, tournaments):
     total = len(tournaments)
     for i in range(len(tournaments)):
         try:
+            print(f"scraping {tournaments[i]['url']}")
             scrapeTournament(config, tournaments[i], i, total)
         except Exception as e:
             log.error(e)
@@ -203,10 +212,42 @@ def scrapeYear(config):
         return
 
     calendarUrl = f"https://play.usaultimate.org/events/tournament/?ViewAll=true&IsLeagueType=false&IsClinic=false&FilterByCategory=AE&SeasonId={seasonId}"
+    print(calendarUrl)
 
     pages = parseTournamentCalendar(
         loadPage(config, calendarUrl, PageType.YEAR_CALENDAR)
     )
+
+    path = f"csv/{config.year}/"
+    Path(path).mkdir(parents=True, exist_ok=True)
+    with open(path + "_calendar.csv", "w", newline="") as f:
+        writer = csv.writer(f)
+        for pageInfo in pages:
+            writer.writerow(
+                [
+                    pageInfo["url"],
+                    pageInfo["city"],
+                    pageInfo["state"],
+                    pageInfo["startDate"],
+                    pageInfo["endDate"],
+                ]
+            )
+    if not config.calendarOnly:
+        scrapeListOfTournamentUrls(config, pages)
+
+
+def scrapeCurrentYear(config):
+    collegeScheduleUrl = "https://usaultimate.org/college/schedule/"
+    clubScheduleUrl = "https://usaultimate.org/club/schedule/"
+
+    collegeScheduleContent = loadPage(
+        config, collegeScheduleUrl, PageType.NEW_COLLEGE_SCHEDULE
+    )
+    clubScheduleContent = loadPage(config, clubScheduleUrl, PageType.NEW_CLUB_SCHEDULE)
+
+    collegeSchedule = parseNewSchedule(collegeScheduleContent, True)
+    clubSchedule = parseNewSchedule(clubScheduleContent, False)
+    pages = collegeSchedule + clubSchedule
 
     path = f"csv/{config.year}/"
     Path(path).mkdir(parents=True, exist_ok=True)
@@ -348,7 +389,8 @@ def main(argv):
         scrapeTournament(config, tournamentInfo, 0, 1)
     else:
         log.info("Scraping year: " + year)
-        scrapeYear(config)
+        # scrapeYear(config)
+        scrapeCurrentYear(config)
 
 
 if __name__ == "__main__":

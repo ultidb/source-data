@@ -43,7 +43,7 @@ def isRecentlyEnded(endDate):
     end = endDate.date()
     today = datetime.today().date()
 
-    return end < today and end >= (today - timedelta(days=2))
+    return end < today and end >= (today - timedelta(days=60))
 
 
 def scrapeCalendar(disableCache=True):
@@ -121,7 +121,7 @@ def scrapeUpcomingTournaments():
 def scrapeRecentlyEndedTournaments():
     config = Config(int(year), False, True, True, False)
     scrapeListOfTournamentUrls(config, recentlyEndedTournaments)
-    commitAndPush()
+    # commitAndPush()
 
 
 def scrapeAndPushVideos():
@@ -181,13 +181,12 @@ def listUpdatedFiles(path):
             output.append(filename)
     return output
 
+
 def resendFailedCSVs():
     postUpdatedCsvListToAPI(db.listFailedCSVs())
 
 
-def postUpdatedCsvListToAPI(
-    csvs, UpdatePlayers=True, checkExisting=True, DryRun=False
-):
+def postUpdatedCsvListToAPI(csvs, UpdatePlayers=True, checkExisting=True, DryRun=False):
     payload = {
         "paths": csvs,
         "updatePlayers": UpdatePlayers,
@@ -218,7 +217,7 @@ def setupTor():
 
 def setupSchedule():
     scheduler = BackgroundScheduler()
-    scheduler.add_job(func=scrapeCalendar, trigger="interval", days=1)
+    scheduler.add_job(func=scrapeCalendar, trigger="interval", hours=8)
     scheduler.add_job(func=scrapeOngoingTournaments, trigger="interval", minutes=10)
     scheduler.add_job(func=scrapeUpcomingTournaments, trigger="interval", hours=12)
     scheduler.add_job(func=scrapeRecentlyEndedTournaments, trigger="interval", hours=4)
@@ -265,12 +264,14 @@ def add_cors_header(response):
 if __name__ == "__main__":
     # Setup default config (init schedule, tor, and scrape calendar for year)
     # resendFailedCSVs()
+    # postUpdatedCsvListToAPI(["csv/2024/2024-Southeast-Mens-Regional-ChampionshipClub-Men.csv"])
     prodSetup()
     # scrapeAndPushVideos()
     # Optional calls for testing/development
     # setupTor()
     # setupSchedule()
-    # scrapeCalendar(LOAD_CALENDAR_ON_START)
+    # scrapeCalendar(True)
+
     # scrapeRecentlyEndedTournaments()
     # scrapeOngoingTournaments()
     # scrapeUpcomingTournaments()
