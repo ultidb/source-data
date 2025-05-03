@@ -30,24 +30,6 @@ teamInfo,Pranksters,"Middlebury, Vermont",https://go.middlebury.edu/prankstersul
 53,Jorre Dahl
 83,Gavin Rice
 b,r,e,a,k
-Bryant,8
-teamInfo,Bryant Craze,"Smithfield, Rhode Island",,,https://twitter.com/BryantUltimate
-00,Ben Adelson
-00,Daniel Belmuth
-00,Jacob Dorego
-00,Joshua Clifford
-00,Michael Dadddario
-00,Noah Kahn
-05,Will Desautels
-08,Matthew Coviello
-09,Liam Hickey
-14,Denver Tetreault
-15,Wyatt Thomas
-17,Jack Hagerty
-22,Riley Bishop
-24,Kyle Scherpa
-39,Keenan Wetherbee
-b,r,e,a,k
 Amherst,10
 teamInfo,Army of Darkness,"Amherst, Massachusetts",,,
 00,Brandon Um
@@ -77,6 +59,24 @@ teamInfo,Army of Darkness,"Amherst, Massachusetts",,,
 32,Harrison Lundy
 44,Dylan Tucker
 64,Anthony Saldana Valle
+b,r,e,a,k
+Bryant,8
+teamInfo,Bryant Craze,"Smithfield, Rhode Island",,,https://twitter.com/BryantUltimate
+00,Ben Adelson
+00,Daniel Belmuth
+00,Jacob Dorego
+00,Joshua Clifford
+00,Michael Dadddario
+00,Noah Kahn
+05,Will Desautels
+08,Matthew Coviello
+09,Liam Hickey
+14,Denver Tetreault
+15,Wyatt Thomas
+17,Jack Hagerty
+22,Riley Bishop
+24,Kyle Scherpa
+39,Keenan Wetherbee
 b,r,e,a,k
 Williams,2
 teamInfo,WUFO,"Williamstown, Massachusetts",http://williamsultimate.com,,https://www.twitter.com/wufoultimate
@@ -255,6 +255,29 @@ teamInfo,Men's,"Waterville, Maine",http://web.colby.edu/ultimate/,,https://twitt
 00,Tucker Reinhard
 00,Tyler Hudgins
 b,r,e,a,k
+Bates,5
+teamInfo,Orange Whip,"Lewiston, Maine",https://sites.google.com/bates.edu/batescollegeorangewhip/home,,https://twitter.com/bateso_whip?lang=en
+00,Aidan Stark-Chessa
+00,Benjamin Sparks
+00,Daniel Snider
+00,Eno Little
+00,Eric Treyz
+00,Finn Sheehy
+00,Joaquin Torres
+00,Levi Lux
+00,Luca Norquist
+00,Marco Willen
+00,Mark Steinnagel Taylor
+00,Matt Riseman
+00,Miles Miller
+00,Noah Edmonds-Estes
+00,Owen Haddad
+00,Quinn Frank
+00,Sam Debush
+00,Thomas Davis
+00,Wade Intrator
+00,Zach Van Dusen
+b,r,e,a,k
 Brandeis,4
 teamInfo,TRON,"Waltham, Massachusetts",,https://www.facebook.com/brandeistron,https://twitter.com/brandeistron
 00,Jingyuan Shi
@@ -278,29 +301,6 @@ teamInfo,TRON,"Waltham, Massachusetts",,https://www.facebook.com/brandeistron,ht
 13,Jesse Levisohn
 22,Adam Dickstein
 49,Jihai Wang
-b,r,e,a,k
-Bates,5
-teamInfo,Orange Whip,"Lewiston, Maine",https://sites.google.com/bates.edu/batescollegeorangewhip/home,,https://twitter.com/bateso_whip?lang=en
-00,Aidan Stark-Chessa
-00,Benjamin Sparks
-00,Daniel Snider
-00,Eno Little
-00,Eric Treyz
-00,Finn Sheehy
-00,Joaquin Torres
-00,Levi Lux
-00,Luca Norquist
-00,Marco Willen
-00,Mark Steinnagel Taylor
-00,Matt Riseman
-00,Miles Miller
-00,Noah Edmonds-Estes
-00,Owen Haddad
-00,Quinn Frank
-00,Sam Debush
-00,Thomas Davis
-00,Wade Intrator
-00,Zach Van Dusen
 b,r,e,a,k
 Holy Cross,11
 teamInfo,Purple Heys,"Worcester, Massachusetts",,,https://x.com/i/flow/login?redirect_after_login=%2Fpurpleheysulti
@@ -329,7 +329,7 @@ s,t,a,g,e,s
 pools,Saturday Pool Play
 pool,Pool A
 Middlebury,Amherst,13,7,"05/03/2025, 09:00",Pool A,Final
-Middlebury,Bryant,0,0,"05/03/2025, 10:45",Pool A,Scheduled
+Middlebury,Bryant,13,3,"05/03/2025, 10:45",Pool A,Final
 Bryant,Amherst,0,0,"05/03/2025, 12:30",Pool A,Scheduled
 pool,Pool B
 Williams,Roger Williams,13,4,"05/03/2025, 09:00",Pool B,Final
@@ -341,7 +341,7 @@ Bowdoin,Colby,13,6,"05/03/2025, 10:45",Pool C,Final
 Colby,Bentley,0,0,"05/03/2025, 12:30",Pool C,Scheduled
 pool,Pool D
 Brandeis,Holy Cross,13,6,"05/03/2025, 09:00",Pool D,Final
-Brandeis,Bates,0,0,"05/03/2025, 10:45",Pool D,Scheduled
+Brandeis,Bates,7,13,"05/03/2025, 10:45",Pool D,Final
 Bates,Holy Cross,0,0,"05/03/2025, 12:30",Pool D,Scheduled
 b,r,e,a,k
 brackets,Bracket Games
