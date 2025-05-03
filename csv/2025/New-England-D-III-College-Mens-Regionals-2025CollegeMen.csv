@@ -30,6 +30,24 @@ teamInfo,Pranksters,"Middlebury, Vermont",https://go.middlebury.edu/prankstersul
 53,Jorre Dahl
 83,Gavin Rice
 b,r,e,a,k
+Bryant,8
+teamInfo,Bryant Craze,"Smithfield, Rhode Island",,,https://twitter.com/BryantUltimate
+00,Ben Adelson
+00,Daniel Belmuth
+00,Jacob Dorego
+00,Joshua Clifford
+00,Michael Dadddario
+00,Noah Kahn
+05,Will Desautels
+08,Matthew Coviello
+09,Liam Hickey
+14,Denver Tetreault
+15,Wyatt Thomas
+17,Jack Hagerty
+22,Riley Bishop
+24,Kyle Scherpa
+39,Keenan Wetherbee
+b,r,e,a,k
 Amherst,10
 teamInfo,Army of Darkness,"Amherst, Massachusetts",,,
 00,Brandon Um
@@ -59,24 +77,6 @@ teamInfo,Army of Darkness,"Amherst, Massachusetts",,,
 32,Harrison Lundy
 44,Dylan Tucker
 64,Anthony Saldana Valle
-b,r,e,a,k
-Bryant,8
-teamInfo,Bryant Craze,"Smithfield, Rhode Island",,,https://twitter.com/BryantUltimate
-00,Ben Adelson
-00,Daniel Belmuth
-00,Jacob Dorego
-00,Joshua Clifford
-00,Michael Dadddario
-00,Noah Kahn
-05,Will Desautels
-08,Matthew Coviello
-09,Liam Hickey
-14,Denver Tetreault
-15,Wyatt Thomas
-17,Jack Hagerty
-22,Riley Bishop
-24,Kyle Scherpa
-39,Keenan Wetherbee
 b,r,e,a,k
 Williams,2
 teamInfo,WUFO,"Williamstown, Massachusetts",http://williamsultimate.com,,https://www.twitter.com/wufoultimate
@@ -330,11 +330,11 @@ pools,Saturday Pool Play
 pool,Pool A
 Middlebury,Amherst,13,7,"05/03/2025, 09:00",Pool A,Final
 Middlebury,Bryant,13,3,"05/03/2025, 10:45",Pool A,Final
-Bryant,Amherst,0,0,"05/03/2025, 12:30",Pool A,Scheduled
+Bryant,Amherst,11,10,"05/03/2025, 12:30",Pool A,Final
 pool,Pool B
 Williams,Roger Williams,13,4,"05/03/2025, 09:00",Pool B,Final
 Williams,Worcester Polytechnic,13,7,"05/03/2025, 10:45",Pool B,Final
-Worcester Polytechnic,Roger Williams,0,0,"05/03/2025, 12:30",Pool B,Scheduled
+Worcester Polytechnic,Roger Williams,13,6,"05/03/2025, 12:30",Pool B,Final
 pool,Pool C
 Bowdoin,Bentley,13,7,"05/03/2025, 09:00",Pool C,Final
 Bowdoin,Colby,13,6,"05/03/2025, 10:45",Pool C,Final
@@ -342,11 +342,14 @@ Colby,Bentley,0,0,"05/03/2025, 12:30",Pool C,Scheduled
 pool,Pool D
 Brandeis,Holy Cross,13,6,"05/03/2025, 09:00",Pool D,Final
 Brandeis,Bates,7,13,"05/03/2025, 10:45",Pool D,Final
-Bates,Holy Cross,0,0,"05/03/2025, 12:30",Pool D,Scheduled
+Bates,Holy Cross,13,5,"05/03/2025, 12:30",Pool D,Final
 b,r,e,a,k
 brackets,Bracket Games
 bracket,Championship Bracket
+Middlebury,Bates,0,0,"05/03/2025, 14:30",Semifinals,Scheduled
 bracket,2nd Place Bracket
+Amherst,Worcester Polytechnic,0,0,"05/04/2025, 14:30",2 Place PrePreQ,Scheduled
+Bryant,Roger Williams,0,0,"05/04/2025, 14:30",2 Place PrePreQ,Scheduled
 bracket,7th Place Game
 bracket,9th Place Bracket
 bracket,11th Place Game
