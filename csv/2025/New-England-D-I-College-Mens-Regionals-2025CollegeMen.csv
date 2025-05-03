@@ -136,6 +136,31 @@ teamInfo,Huskies,"Boston, Massachusetts",http://www.ultimate.neu.edu/men,https:/
 47,Landon Schopp
 83,Samuel Freedman
 b,r,e,a,k
+Maine,12
+teamInfo,Snositi,"Orono, Maine",https://www.instagram.com/umosnositi/,,
+00,Justin Strout
+01,Danny Curran
+02,Rylan Siegel
+04,Joe Jacobson
+06,Ryan O'Sullivan
+07,Brendan Stone
+08,Oscar Gustafson
+10,Nathaniel Smith
+11,Joe Brod
+13,Ryan Thompson
+15,Matisse Moser
+16,Porter Towne
+17,Dylan Ralph
+18,Ryan Cain
+21,Quinn Chessa
+22,Jesse Lower
+22,Tyler Moore
+25,Gordon Foye
+35,Levi Pelletier
+44,Jack Dunning
+66,Jackson Dubois
+86,Nial Rigas
+b,r,e,a,k
 Dartmouth,7
 teamInfo,Pain Train,"Hanover, New Hampshire",https://sites.dartmouth.edu/ultimatefrisbee/paintrain/,,https://twitter.com/DMouthPainTrain
 0,Jackson Gerard
@@ -166,31 +191,6 @@ teamInfo,Pain Train,"Hanover, New Hampshire",https://sites.dartmouth.edu/ultimat
 00,Eben DeSilva
 00,Henry Moore
 00,Isaiah Bradner
-b,r,e,a,k
-Maine,12
-teamInfo,Snositi,"Orono, Maine",https://www.instagram.com/umosnositi/,,
-00,Justin Strout
-01,Danny Curran
-02,Rylan Siegel
-04,Joe Jacobson
-06,Ryan O'Sullivan
-07,Brendan Stone
-08,Oscar Gustafson
-10,Nathaniel Smith
-11,Joe Brod
-13,Ryan Thompson
-15,Matisse Moser
-16,Porter Towne
-17,Dylan Ralph
-18,Ryan Cain
-21,Quinn Chessa
-22,Jesse Lower
-22,Tyler Moore
-25,Gordon Foye
-35,Levi Pelletier
-44,Jack Dunning
-66,Jackson Dubois
-86,Nial Rigas
 b,r,e,a,k
 Massachusetts  (B),13
 teamInfo,Umass Amherst Developmental,"Amherst, Massachusetts",,,https://twitter.com/ZoodiscD
@@ -478,17 +478,17 @@ pools,Saturday Pool Play
 pool,Pool A
 Massachusetts,MIT,15,0,"05/03/2025, 09:00",Pool A,Final
 Vermont (B),Rhode Island,15,10,"05/03/2025, 09:00",Pool A,Final
-Massachusetts,Rhode Island,0,0,"05/03/2025, 11:00",Pool A,Scheduled
-Vermont (B),MIT,0,0,"05/03/2025, 11:00",Pool A,Scheduled
+Massachusetts,Rhode Island,0,0,"05/03/2025, 11:00",Pool A,Cancelled
+Vermont (B),MIT,0,0,"05/03/2025, 11:00",Pool A,Cancelled
 Massachusetts,Vermont (B),0,0,"05/03/2025, 11:00",Pool A,Scheduled
 Rhode Island,MIT,0,0,"05/03/2025, 11:00",Pool A,Scheduled
 pool,Pool B
 Northeastern,Massachusetts  (B),15,3,"05/03/2025, 09:00",Pool B,Final
-Dartmouth,Maine,0,0,"05/03/2025, 09:00",Pool B,Scheduled
+Dartmouth,Maine,12,13,"05/03/2025, 09:00",Pool B,Final
 Northeastern,Maine,0,0,"05/03/2025, 11:00",Pool B,Scheduled
 Dartmouth,Massachusetts  (B),0,0,"05/03/2025, 11:00",Pool B,Scheduled
-Northeastern,Dartmouth,0,0,"05/03/2025, 11:00",Pool B,Scheduled
-Maine,Massachusetts  (B),0,0,"05/03/2025, 11:00",Pool B,Scheduled
+Northeastern,Dartmouth,0,0,"05/03/2025, 11:00",Pool B,Cancelled
+Maine,Massachusetts  (B),0,0,"05/03/2025, 11:00",Pool B,Cancelled
 pool,Pool C
 Tufts,Northeastern (B),15,8,"05/03/2025, 09:00",Pool C,Final
 McGill,Boston University,15,2,"05/03/2025, 09:00",Pool C,Final
