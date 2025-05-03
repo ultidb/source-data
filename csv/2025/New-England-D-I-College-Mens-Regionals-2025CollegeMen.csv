@@ -478,8 +478,6 @@ pools,Saturday Pool Play
 pool,Pool A
 Massachusetts,MIT,15,0,"05/03/2025, 09:00",Pool A,Final
 Vermont (B),Rhode Island,15,10,"05/03/2025, 09:00",Pool A,Final
-Massachusetts,Rhode Island,0,0,"05/03/2025, 11:00",Pool A,Cancelled
-Vermont (B),MIT,0,0,"05/03/2025, 11:00",Pool A,Cancelled
 Massachusetts,Vermont (B),15,9,"05/03/2025, 11:00",Pool A,Final
 Rhode Island,MIT,14,10,"05/03/2025, 11:00",Pool A,Final
 pool,Pool B
@@ -487,20 +485,14 @@ Northeastern,Massachusetts  (B),15,3,"05/03/2025, 09:00",Pool B,Final
 Dartmouth,Maine,12,13,"05/03/2025, 09:00",Pool B,Final
 Northeastern,Maine,15,4,"05/03/2025, 11:00",Pool B,Final
 Dartmouth,Massachusetts  (B),12,9,"05/03/2025, 11:00",Pool B,Final
-Northeastern,Dartmouth,0,0,"05/03/2025, 11:00",Pool B,Cancelled
-Maine,Massachusetts  (B),0,0,"05/03/2025, 11:00",Pool B,Cancelled
 pool,Pool C
 Tufts,Northeastern (B),15,8,"05/03/2025, 09:00",Pool C,Final
 McGill,Boston University,15,2,"05/03/2025, 09:00",Pool C,Final
-Tufts,Boston University,0,0,"05/03/2025, 11:00",Pool C,Cancelled
-McGill,Northeastern (B),0,0,"05/03/2025, 11:00",Pool C,Cancelled
 Tufts,McGill,13,11,"05/03/2025, 11:00",Pool C,Final
 Boston University,Northeastern (B),12,8,"05/03/2025, 11:00",Pool C,Final
 pool,Pool D
 Vermont,Northeastern (C),15,5,"05/03/2025, 09:00",Pool D,Final
 Brown,Boston College,15,4,"05/03/2025, 09:00",Pool D,Final
-Vermont,Boston College,0,0,"05/03/2025, 11:00",Pool D,Cancelled
-Brown,Northeastern (C),0,0,"05/03/2025, 11:00",Pool D,Cancelled
 Vermont,Brown,12,15,"05/03/2025, 11:00",Pool D,Final
 Boston College,Northeastern (C),15,8,"05/03/2025, 11:00",Pool D,Final
 b,r,e,a,k
@@ -525,4 +517,10 @@ bracket,11th Place Game
 b,r,e,a,k
 pools,13th-16th Place Round Robin
 pool,Pool E
+Massachusetts  (B),Northeastern (C),0,0,"05/03/2025, 13:00",Pool E,Scheduled
+MIT,Northeastern (B),0,0,"05/03/2025, 13:00",Pool E,Scheduled
+Massachusetts  (B),Northeastern (B),0,0,"05/04/2025, 09:00",Pool E,Scheduled
+MIT,Northeastern (C),0,0,"05/04/2025, 09:00",Pool E,Scheduled
+Massachusetts  (B),MIT,0,0,"05/04/2025, 11:00",Pool E,Scheduled
+Northeastern (C),Northeastern (B),0,0,"05/04/2025, 11:00",Pool E,Scheduled
 b,r,e,a,k
