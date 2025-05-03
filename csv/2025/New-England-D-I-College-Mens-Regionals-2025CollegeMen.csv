@@ -280,6 +280,34 @@ teamInfo,MUT,"Montreal, Quebec CA",https://mcgillultimate.com/,https://www.faceb
 77,Jaden Verlaan
 99,Fritz Rehmus
 b,r,e,a,k
+Boston University,9
+teamInfo,Boston University,"Boston, Massachusetts",https://www.facebook.com/BU.Ultimate,https://www.facebook.com/BU.Ultimate,https://twitter.com/ozonepilots
+00,Aiden Hirsch
+00,Austin Chee
+00,Avery Smith
+00,Bailey Scott
+00,Charles Johnson
+00,Colin Porter
+00,David Zhong
+00,Eli Reisman
+00,Elliot Albright
+00,Harry Lenicheck
+00,He Quan
+00,Jeremy Gay
+00,Joshua Pinto
+00,Keller Rentz-Baker
+00,Leo  Yuan
+00,Matson Heeney
+00,Matt De Vlieghere
+00,Matthew Kweon
+00,Michael Guo
+00,Qiancheng Ni
+00,Seamus McDonough
+00,Simon Cafiero
+00,Victor  Jiang
+11,Wes Yan
+14,William Maharry
+b,r,e,a,k
 Northeastern (B),16
 teamInfo,Beastern,"Boston, Massachusetts",http://www.ultimate.neu.edu,https://www.facebook.com/NUMensUltimate,https://twitter.com/NUMensUltimate
 coaches,Benjamin Centracchio
@@ -309,34 +337,6 @@ coaches,Benjamin Centracchio
 00,Brady Horgan
 00,Chris Zhang
 00,David Eckland II
-b,r,e,a,k
-Boston University,9
-teamInfo,Boston University,"Boston, Massachusetts",https://www.facebook.com/BU.Ultimate,https://www.facebook.com/BU.Ultimate,https://twitter.com/ozonepilots
-00,Aiden Hirsch
-00,Austin Chee
-00,Avery Smith
-00,Bailey Scott
-00,Charles Johnson
-00,Colin Porter
-00,David Zhong
-00,Eli Reisman
-00,Elliot Albright
-00,Harry Lenicheck
-00,He Quan
-00,Jeremy Gay
-00,Joshua Pinto
-00,Keller Rentz-Baker
-00,Leo  Yuan
-00,Matson Heeney
-00,Matt De Vlieghere
-00,Matthew Kweon
-00,Michael Guo
-00,Qiancheng Ni
-00,Seamus McDonough
-00,Simon Cafiero
-00,Victor  Jiang
-11,Wes Yan
-14,William Maharry
 b,r,e,a,k
 Brown,5
 teamInfo,Brownian Motion,"Providence, Rhode Island",http://www.brown.edu/Athletics/Mens_Ultimate/,https://www.facebook.com/brownultimatefrisbee,https://twitter.com/BMoUltimate
@@ -486,7 +486,7 @@ pool,Pool B
 Northeastern,Massachusetts  (B),15,3,"05/03/2025, 09:00",Pool B,Final
 Dartmouth,Maine,12,13,"05/03/2025, 09:00",Pool B,Final
 Northeastern,Maine,15,4,"05/03/2025, 11:00",Pool B,Final
-Dartmouth,Massachusetts  (B),12,9,"05/03/2025, 11:00",Pool B,Scheduled
+Dartmouth,Massachusetts  (B),12,9,"05/03/2025, 11:00",Pool B,Final
 Northeastern,Dartmouth,0,0,"05/03/2025, 11:00",Pool B,Cancelled
 Maine,Massachusetts  (B),0,0,"05/03/2025, 11:00",Pool B,Cancelled
 pool,Pool C
@@ -495,7 +495,7 @@ McGill,Boston University,15,2,"05/03/2025, 09:00",Pool C,Final
 Tufts,Boston University,0,0,"05/03/2025, 11:00",Pool C,Cancelled
 McGill,Northeastern (B),0,0,"05/03/2025, 11:00",Pool C,Cancelled
 Tufts,McGill,13,11,"05/03/2025, 11:00",Pool C,Final
-Boston University,Northeastern (B),0,0,"05/03/2025, 11:00",Pool C,Scheduled
+Boston University,Northeastern (B),12,8,"05/03/2025, 11:00",Pool C,Final
 pool,Pool D
 Vermont,Northeastern (C),15,5,"05/03/2025, 09:00",Pool D,Final
 Brown,Boston College,15,4,"05/03/2025, 09:00",Pool D,Final
@@ -505,6 +505,13 @@ Vermont,Brown,12,15,"05/03/2025, 11:00",Pool D,Final
 Boston College,Northeastern (C),15,8,"05/03/2025, 11:00",Pool D,Final
 b,r,e,a,k
 clusters,Saturday Crossovers
+cluster,Saturday Crossovers
+Massachusetts,Tufts,0,0,"05/03/2025, 13:00",,Scheduled
+Northeastern,Brown,0,0,"05/03/2025, 13:00",,Scheduled
+Vermont,Dartmouth,0,0,"05/03/2025, 13:00",,Scheduled
+McGill,Rhode Island,0,0,"05/03/2025, 13:00",,Scheduled
+Maine,Boston College,0,0,"05/03/2025, 13:00",,Scheduled
+Vermont (B),Boston University,0,0,"05/03/2025, 13:00",,Scheduled
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,Championship Bracket
