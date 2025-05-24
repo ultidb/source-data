@@ -292,64 +292,6 @@ coaches,Johnny Ortberg
 88,Devin Acuna
 92,Seamus Shogren
 b,r,e,a,k
-Cal Poly-SLO,6
-teamInfo,SLOCORE,"San Luis Obispo, California",http://slocore.com,https://www.facebook.com/slocoreultimate/,https://twitter.com/CORE_ultimate
-coaches,Caleb Merriam,Cody Mills
-00,Joseph Thachet
-04,Marley Sussman
-05,Alex Yannelli
-06,Keaton Orser
-07,James Whealan
-08,Max Gade
-09,Dodger Middlebrook
-10,Cody  Leveau 
-11,Ari Pincus
-12,Martin  Doherty
-14,Rafael Castillo
-15,Anton Orme
-16,Dakota Chou
-17,Nico Laurenson
-22,Ian Spick
-24,Jamieson Rear
-25,Hayden King
-26,Benson Cady
-27,Wyatt Colburn
-30,Oliver Faase
-32,Kole Ketner
-34,Owen Gresko
-36,Malachi Merriam
-45,Alex Nelson
-50,Kyle Lew
-64,Micah Fong
-72,Ian Ang
-b,r,e,a,k
-California,10
-teamInfo,Ursa Major,"Berkeley, California",https://www.youtube.com/@calmensultimate6634,https://www.facebook.com/CalMensUltimate/,https://twitter.com/calmensultimate
-coaches,Joshua Yuan
-03,Kainoa Hottendorf
-05,Robert McCabe
-08,Jack Dinsmore
-09,Dylan Pearson
-11,Bernard Wang
-14,Dexter Clyburn
-16,Jonah Gensler
-17,Lukas Tien
-18,Nathan Levy
-21,Ridge Huang
-23,Kyle Riley
-24,Carter Lankford
-25,Cameron Taleghani
-26,Aditya  Vunnum
-27,Mitchell Gibson
-28,Nolan Emis
-32,Anish Shrestha
-35,Brayden Ye
-41,Declan Bernal
-42,Raymond Li
-81,Drew Vetteth
-87,Matthew Yang
-97,Eric Johnson
-b,r,e,a,k
 Colorado,3
 teamInfo,Mamabird,"Boulder, Colorado",http://www.mamabird.com/,https://www.facebook.com/University-of-Colorado-Mamabird-361160030582581,https://twitter.com/CUMamabird
 coaches,Jonathan Nethercutt,Akane Kleinkopf,Nathan Buchholz
@@ -417,6 +359,64 @@ coaches,Michael Dagher-Margosian
 89,Stanley Jian
 92,Tobey Chang
 99,Daniel Marlin
+b,r,e,a,k
+Cal Poly-SLO,6
+teamInfo,SLOCORE,"San Luis Obispo, California",http://slocore.com,https://www.facebook.com/slocoreultimate/,https://twitter.com/CORE_ultimate
+coaches,Caleb Merriam,Cody Mills
+00,Joseph Thachet
+04,Marley Sussman
+05,Alex Yannelli
+06,Keaton Orser
+07,James Whealan
+08,Max Gade
+09,Dodger Middlebrook
+10,Cody  Leveau 
+11,Ari Pincus
+12,Martin  Doherty
+14,Rafael Castillo
+15,Anton Orme
+16,Dakota Chou
+17,Nico Laurenson
+22,Ian Spick
+24,Jamieson Rear
+25,Hayden King
+26,Benson Cady
+27,Wyatt Colburn
+30,Oliver Faase
+32,Kole Ketner
+34,Owen Gresko
+36,Malachi Merriam
+45,Alex Nelson
+50,Kyle Lew
+64,Micah Fong
+72,Ian Ang
+b,r,e,a,k
+California,10
+teamInfo,Ursa Major,"Berkeley, California",https://www.youtube.com/@calmensultimate6634,https://www.facebook.com/CalMensUltimate/,https://twitter.com/calmensultimate
+coaches,Joshua Yuan
+03,Kainoa Hottendorf
+05,Robert McCabe
+08,Jack Dinsmore
+09,Dylan Pearson
+11,Bernard Wang
+14,Dexter Clyburn
+16,Jonah Gensler
+17,Lukas Tien
+18,Nathan Levy
+21,Ridge Huang
+23,Kyle Riley
+24,Carter Lankford
+25,Cameron Taleghani
+26,Aditya  Vunnum
+27,Mitchell Gibson
+28,Nolan Emis
+32,Anish Shrestha
+35,Brayden Ye
+41,Declan Bernal
+42,Raymond Li
+81,Drew Vetteth
+87,Matthew Yang
+97,Eric Johnson
 b,r,e,a,k
 British Columbia,15
 teamInfo,Thunderbirds,"Vancouver, British Columbia CA",,,
@@ -615,7 +615,7 @@ Texas,Vermont,15,13,"05/23/2025, 10:30",Pool A,Final
 Massachusetts,Oregon State,15,13,"05/23/2025, 10:30",Pool A,Final
 Oregon State,Vermont,11,15,"05/23/2025, 15:00",Pool A,Final
 Texas,Utah,14,15,"05/23/2025, 15:00",Pool A,Final
-Massachusetts,Utah,12,8,"05/23/2025, 17:00",Pool A,Scheduled
+Massachusetts,Utah,14,10,"05/23/2025, 17:00",Pool A,Scheduled
 Oregon State,Texas,0,0,"05/24/2025, 08:30",Pool A,Scheduled
 Massachusetts,Vermont,0,0,"05/24/2025, 08:30",Pool A,Scheduled
 Vermont,Utah,0,0,"05/24/2025, 10:30",Pool A,Scheduled
@@ -626,7 +626,7 @@ Oregon,Western Washington,15,10,"05/23/2025, 08:30",Pool B,Final
 California-Santa Cruz,Georgia,13,14,"05/23/2025, 08:30",Pool B,Final
 Northeastern,Georgia,13,11,"05/23/2025, 13:00",Pool B,Final
 Oregon,California-Santa Cruz,15,10,"05/23/2025, 13:00",Pool B,Final
-Northeastern,Western Washington,10,11,"05/23/2025, 17:00",Pool B,Scheduled
+Northeastern,Western Washington,10,12,"05/23/2025, 17:00",Pool B,Scheduled
 Georgia,Western Washington,0,0,"05/24/2025, 08:30",Pool B,Scheduled
 California-Santa Cruz,Northeastern,0,0,"05/24/2025, 10:30",Pool B,Scheduled
 Oregon,Georgia,0,0,"05/24/2025, 10:30",Pool B,Scheduled
@@ -637,7 +637,7 @@ Cal Poly-SLO,British Columbia,15,11,"05/23/2025, 10:30",Pool C,Final
 California,Michigan,12,15,"05/23/2025, 10:30",Pool C,Final
 California,British Columbia,15,9,"05/23/2025, 15:00",Pool C,Final
 Colorado,Cal Poly-SLO,15,12,"05/23/2025, 15:00",Pool C,Final
-Colorado,Michigan,15,6,"05/23/2025, 17:00",Pool C,Scheduled
+Colorado,Michigan,15,6,"05/23/2025, 17:00",Pool C,Final
 Cal Poly-SLO,California,0,0,"05/24/2025, 10:30",Pool C,Scheduled
 Colorado,British Columbia,0,0,"05/24/2025, 10:30",Pool C,Scheduled
 British Columbia,Michigan,0,0,"05/24/2025, 13:00",Pool C,Scheduled
@@ -648,7 +648,7 @@ North Carolina,Penn State,15,11,"05/23/2025, 08:30",Pool D,Final
 Washington University,Ottawa,13,10,"05/23/2025, 08:30",Pool D,Final
 Carleton College,Ottawa,15,6,"05/23/2025, 13:00",Pool D,Final
 Washington University,Penn State,10,15,"05/23/2025, 13:00",Pool D,Final
-Carleton College,North Carolina,10,10,"05/23/2025, 17:00",Pool D,Scheduled
+Carleton College,North Carolina,12,12,"05/23/2025, 17:00",Pool D,Scheduled
 North Carolina,Washington University,0,0,"05/24/2025, 08:30",Pool D,Scheduled
 Carleton College,Penn State,0,0,"05/24/2025, 08:30",Pool D,Scheduled
 Carleton College,Washington University,0,0,"05/24/2025, 13:00",Pool D,Scheduled
