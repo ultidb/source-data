@@ -207,37 +207,6 @@ coaches,Craig Harkey
 74,Ethan Kelley
 95,Zach Sadow-Hasenberg
 b,r,e,a,k
-California-Santa Cruz,7
-teamInfo,Slugs,"Santa Cruz, California",https://www.instagram.com/slugultimate/,https://www.facebook.com/slugultimate,https://twitter.com/slugultimate
-coaches,Johnny Ortberg
-01,Charlie Jia
-03,Finnegan Barr
-05,William Snyder
-07,Cyrus Isaacs
-11,Weston Collard
-12,Davin Sieu
-13,Kien Warren
-14,Gabriel Schwartz-Ketchner
-15,Milan Moslehi
-16,Ryan Weng
-19,Jackson Friday
-21,Cole Mires
-28,Thai Villaluna
-31,Toby Warren
-36,Selim Jones
-42,Benjamin Pratt
-43,Declan Fee
-44,Aidin Terris
-45,Tyler Weng
-50,Samuel Kaplan
-69,Ethan Rogers
-72,Sam Jo
-74,Nirel Barthelom
-75,Bodie Shargel
-77,Mario Ambrose
-88,Devin Acuna
-92,Seamus Shogren
-b,r,e,a,k
 Northeastern,11
 teamInfo,Huskies,"Boston, Massachusetts",http://www.ultimate.neu.edu/men,https://www.facebook.com/NUMensUltimate,https://twitter.com/NUMensUltimate
 coaches,Dan Goldstein,Dan Hourigan,Angela Zhu,Timothy Bobrowski,Benjamin Centracchio
@@ -291,6 +260,37 @@ coaches,Sam Batson,Ishaan Dave
 73,Gabe Borda
 88,Luke Cranor
 96,Dane Lynch 
+b,r,e,a,k
+California-Santa Cruz,7
+teamInfo,Slugs,"Santa Cruz, California",https://www.instagram.com/slugultimate/,https://www.facebook.com/slugultimate,https://twitter.com/slugultimate
+coaches,Johnny Ortberg
+01,Charlie Jia
+03,Finnegan Barr
+05,William Snyder
+07,Cyrus Isaacs
+11,Weston Collard
+12,Davin Sieu
+13,Kien Warren
+14,Gabriel Schwartz-Ketchner
+15,Milan Moslehi
+16,Ryan Weng
+19,Jackson Friday
+21,Cole Mires
+28,Thai Villaluna
+31,Toby Warren
+36,Selim Jones
+42,Benjamin Pratt
+43,Declan Fee
+44,Aidin Terris
+45,Tyler Weng
+50,Samuel Kaplan
+69,Ethan Rogers
+72,Sam Jo
+74,Nirel Barthelom
+75,Bodie Shargel
+77,Mario Ambrose
+88,Devin Acuna
+92,Seamus Shogren
 b,r,e,a,k
 Colorado,3
 teamInfo,Mamabird,"Boulder, Colorado",http://www.mamabird.com/,https://www.facebook.com/University-of-Colorado-Mamabird-361160030582581,https://twitter.com/CUMamabird
@@ -630,8 +630,8 @@ Northeastern,Western Washington,11,15,"05/23/2025, 17:00",Pool B,Final
 Georgia,Western Washington,13,15,"05/24/2025, 08:30",Pool B,Final
 California-Santa Cruz,Northeastern,14,11,"05/24/2025, 10:30",Pool B,Final
 Oregon,Georgia,15,10,"05/24/2025, 10:30",Pool B,Final
-Oregon,Northeastern,11,14,"05/24/2025, 15:00",Pool B,Scheduled
-California-Santa Cruz,Western Washington,14,14,"05/24/2025, 15:00",Pool B,Scheduled
+Oregon,Northeastern,12,15,"05/24/2025, 15:00",Pool B,Final
+California-Santa Cruz,Western Washington,14,15,"05/24/2025, 15:00",Pool B,Final
 pool,Pool C
 Cal Poly-SLO,British Columbia,15,11,"05/23/2025, 10:30",Pool C,Final
 California,Michigan,12,15,"05/23/2025, 10:30",Pool C,Final
@@ -641,7 +641,7 @@ Colorado,Michigan,15,6,"05/23/2025, 17:00",Pool C,Final
 Cal Poly-SLO,California,15,13,"05/24/2025, 10:30",Pool C,Final
 Colorado,British Columbia,15,9,"05/24/2025, 10:30",Pool C,Final
 British Columbia,Michigan,12,14,"05/24/2025, 13:00",Pool C,Final
-Colorado,California,13,12,"05/24/2025, 15:00",Pool C,Scheduled
+Colorado,California,13,14,"05/24/2025, 15:00",Pool C,Final
 Cal Poly-SLO,Michigan,15,4,"05/24/2025, 15:00",Pool C,Final
 pool,Pool D
 North Carolina,Penn State,15,11,"05/23/2025, 08:30",Pool D,Final
@@ -657,6 +657,8 @@ Penn State,Ottawa,15,8,"05/24/2025, 15:00",Pool D,Final
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,1st Place
+Western Washington,Michigan,0,0,"05/24/2025, 17:30",Prequarterfinals,Scheduled
+Cal Poly-SLO,Northeastern,0,0,"05/24/2025, 17:30",Prequarterfinals,Scheduled
 North Carolina,Vermont,0,0,"05/24/2025, 17:30",Prequarterfinals,Scheduled
 Utah,Penn State,0,0,"05/24/2025, 17:30",Prequarterfinals,Scheduled
 b,r,e,a,k
@@ -664,9 +666,11 @@ brackets,13th Place
 bracket,13th Place (tie)
 Texas,Washington University,0,0,"05/25/2025, 08:30",Final,Scheduled
 bracket,13th Place (tie)
+Georgia,California,0,0,"05/25/2025, 08:30",Final,Scheduled
 b,r,e,a,k
 brackets,17th Place
 bracket,17th Place (final)
 Oregon State,Ottawa,0,0,"05/25/2025, 08:30",Final,Scheduled
 bracket,17th Place (tie)
+California-Santa Cruz,British Columbia,0,0,"05/25/2025, 08:30",Final,Scheduled
 b,r,e,a,k
