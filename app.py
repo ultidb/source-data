@@ -273,7 +273,7 @@ if __name__ == "__main__":
     # scrapeCalendar(True)
     # scrapeRecentlyEndedTournaments()
     # scrapeOngoingTournaments()
-    # scrapeUpcomingTournaments()
+    scrapeUpcomingTournaments()
     # csvs = listUpdatedCsvs()
     # postUpdatedCsvsToReceiver(csvs)
     # print(COMMIT_AND_PUSH)

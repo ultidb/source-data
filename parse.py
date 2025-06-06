@@ -639,7 +639,7 @@ def parseTournamentCalendar(html):
     return upcoming_links + past_links
 
 
-def parseNewSchedule(html, isCollege=False):
+def parseNewSchedule(html, year, isCollege=False):
     soup = BeautifulSoup(html, "html.parser")
     page_links = []
 
@@ -660,9 +660,13 @@ def parseNewSchedule(html, isCollege=False):
                 end_date = dates[0].strip()
 
             # Convert dates to YYYY-MM-DD format
-            year = 2025  # Since this is the 2025 schedule
             start_month, start_day = start_date.split("/")
-            end_month, end_day = end_date.split("/")
+
+            try:
+                end_month, end_day = end_date.split("/")
+            except:
+                end_month = start_month
+                end_day = end_date
 
             start_date = datetime(year, int(start_month), int(start_day)).strftime(
                 "%Y-%m-%d"
@@ -696,7 +700,12 @@ def parseNewSchedule(html, isCollege=False):
 
             # Extract base URL from results link
             results_cell = row.find("td", class_="results")
-            base_url = results_cell.find("a")["href"]
+            if not results_cell:
+                results_cell = row.find("td", class_="link")
+            base_url = results_cell.find("a")
+            if not base_url:
+                continue
+            base_url = base_url.get("href")
 
             if division == "Men" or division == "Women" or division == "Mixed":
                 if isCollege:

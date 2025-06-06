@@ -245,8 +245,8 @@ def scrapeCurrentYear(config):
     )
     clubScheduleContent = loadPage(config, clubScheduleUrl, PageType.NEW_CLUB_SCHEDULE)
 
-    collegeSchedule = parseNewSchedule(collegeScheduleContent, True)
-    clubSchedule = parseNewSchedule(clubScheduleContent, False)
+    collegeSchedule = parseNewSchedule(collegeScheduleContent, config.year, True)
+    clubSchedule = parseNewSchedule(clubScheduleContent, config.year, False)
     pages = collegeSchedule + clubSchedule
 
     path = f"csv/{config.year}/"
