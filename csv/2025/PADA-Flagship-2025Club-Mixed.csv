@@ -283,6 +283,23 @@ teamInfo,,"New York, New York",http://www.swipesultimate.com,https://www.faceboo
 54,Anna West
 69,David Wingate
 b,r,e,a,k
+Skooks,12
+teamInfo,,"Philadelphia, Pennsylvania",,https://www.facebook.com/SkooksUlti,https://www.instagram.com/skooksulti/
+00,Sylvia Erdely
+01,Ren Yagawara
+04,Ryan Bukovsky
+05,Will Murdock
+11,Elizabeth Bugayev
+12,Brandon Daniel-Morales
+13,Gina Adams
+14,Cadence Kelly
+18,Eli Steiker-Ginzberg
+41,Joseph Oswald
+52,Abigail Obuchowski
+55,Timothy Brubaker
+66,Leo Rothenberg
+87,Christian Obuchowski
+b,r,e,a,k
 Heavy Flow,4
 teamInfo,,"Columbia, Maryland",,https://www.facebook.com/heavyflowulti/,https://twitter.com/heavyflowulti
 0,Dani Haverkamp
@@ -338,29 +355,12 @@ teamInfo,,"Washington, District of Columbia",https://www.instagram.com/obeliskul
 65,Christopher Grenier
 72,ANDREW ROUSE
 b,r,e,a,k
-Skooks,12
-teamInfo,,"Philadelphia, Pennsylvania",,https://www.facebook.com/SkooksUlti,https://www.instagram.com/skooksulti/
-00,Sylvia Erdely
-01,Ren Yagawara
-04,Ryan Bukovsky
-05,Will Murdock
-11,Elizabeth Bugayev
-12,Brandon Daniel-Morales
-13,Gina Adams
-14,Cadence Kelly
-18,Eli Steiker-Ginzberg
-41,Joseph Oswald
-52,Abigail Obuchowski
-55,Timothy Brubaker
-66,Leo Rothenberg
-87,Christian Obuchowski
-b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
 Heat Wave,Voltage,15,4,"06/21/2025, 09:30",Pool A,Final
 Starfire,Voltage,8,10,"06/21/2025, 11:30",Pool A,Final
-Heat Wave,Starfire,15,4,"06/21/2025, 13:30",Pool A,Scheduled
+Heat Wave,Starfire,15,4,"06/21/2025, 13:30",Pool A,Final
 pool,Pool B
 Axolotls,JAWN,14,10,"06/21/2025, 09:30",Pool B,Final
 Philly Twist,JAWN,12,11,"06/21/2025, 11:30",Pool B,Final
@@ -373,8 +373,8 @@ Brooklyn Hive,Domino Effect,15,5,"06/21/2025, 11:30",Pool C,Final
 Delabear,Brooklyn Hive,15,5,"06/21/2025, 13:30",Pool C,Final
 Domino Effect,DISCoordination,8,13,"06/21/2025, 13:30",Pool C,Final
 pool,Pool D
-Heavy Flow,Skooks,0,0,"06/21/2025, 09:30",Pool D,Scheduled
-NY Swipes,Obelisk,14,7,"06/21/2025, 09:30",Pool D,Scheduled
+Heavy Flow,Skooks,12,14,"06/21/2025, 09:30",Pool D,Final
+NY Swipes,Obelisk,14,7,"06/21/2025, 09:30",Pool D,Final
 Heavy Flow,Obelisk,12,8,"06/21/2025, 11:30",Pool D,Final
 NY Swipes,Skooks,13,7,"06/21/2025, 11:30",Pool D,Final
 Heavy Flow,NY Swipes,10,13,"06/21/2025, 13:30",Pool D,Scheduled
@@ -382,7 +382,7 @@ Skooks,Obelisk,0,0,"06/21/2025, 13:30",Pool D,Scheduled
 b,r,e,a,k
 clusters,Crossover
 cluster,Crossover AB
-Philly Twist,Starfire,0,0,"06/21/2025, 09:30",,Scheduled
+Philly Twist,Starfire,15,6,"06/21/2025, 09:30",,Final
 Heat Wave,Axolotls,12,11,"06/21/2025, 11:30",,Final
 Voltage,JAWN,9,13,"06/21/2025, 13:30",,Final
 b,r,e,a,k
@@ -399,4 +399,5 @@ bracket,13th
 b,r,e,a,k
 brackets,Optional Match
 bracket,Optional Match
+Starfire,JAWN,0,0,"06/22/2025, 09:00",Optional Match,Scheduled
 b,r,e,a,k
