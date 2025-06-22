@@ -216,8 +216,8 @@ b,r,e,a,k
 pools,Pool Set 2
 pool,Pool D
 Indy Rogue,Incline,10,3,"06/21/2025, 14:15",Pool D,Final
-Medusa,Incline,8,13,"06/22/2025, 08:30",Pool D,Scheduled
-Indy Rogue,Medusa,0,0,"06/22/2025, 10:15",Pool D,Scheduled
+Medusa,Incline,8,13,"06/22/2025, 08:30",Pool D,Final
+Indy Rogue,Medusa,13,5,"06/22/2025, 10:15",Pool D,Final
 pool,Pool E
 Lake Erie Walleye,Solstice,13,3,"06/21/2025, 14:15",Pool E,Final
 Sureshot,Solstice,W,F,"06/22/2025, 08:30",Pool E,Final
@@ -228,4 +228,6 @@ St. Louis Storm,Illinois Lucid,3,12,"06/22/2025, 08:30",Pool F,Final
 Bullseye,St. Louis Storm,0,0,"06/22/2025, 10:15",Pool F,Scheduled
 b,r,e,a,k
 clusters,Championship Crossovers
+cluster,Crossovers
+Indy Rogue,Lake Erie Walleye,0,0,"06/22/2025, 12:00",,Scheduled
 b,r,e,a,k
