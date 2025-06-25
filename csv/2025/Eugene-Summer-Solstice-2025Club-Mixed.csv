@@ -81,8 +81,52 @@ teamInfo,,"Seattle, Washington",http://bullettrainultimate.com,,https://twitter.
 86,Jessica Zhang
 97,Vincent Chase
 b,r,e,a,k
+Drip,10
+teamInfo,,"Corvallis, Oregon",https://instagram.com/corvallisdrip?igshid=M2RkZGJiMzhjOQ==,,
+0,Baker Celis
+0,Adael Scatena
+0,Sydney Gould
+0,Trisha Rajesh
+01,Jack Weinberg
+03,Jacob VanGerpen
+04,Joshua Wright
+05,Nicholas Borninski
+08,Cecilia Seldera-Bahnson
+09,Gerald Aggrey
+11,Malen Cheung
+14,Katie Horsley
+15,TJ Lee
+16,Amelia Davis
+17,Cyrus Dupuy
+19,Whitney Mount-Rubenfeld
+22,Ethan Fodor
+26,Anna Odewald
+27,Ethan Quesada
+41,Savanah Espinosa
+44,Wyatt Schrumpf
+64,Dharma Prime
+66,Katherine Quillin
+74,Matthew Baccary
+81,Lena Freebury
+b,r,e,a,k
 Oregon Wildfire,13
 teamInfo,,"Monmouth, Oregon",,,
+coaches,Arianna Munro,Tyler MacMaster
+01,Maya Melner
+02,Taylor Melner
+03,Danika Melner
+11,Will Sinkford
+13,Jonas Welter
+15,Everett O'Leary
+18,Ian Kramer
+20,Justin Yasukawa
+21,Angus Grant
+30,Solène Curren
+78,Wyatt Cook
+95,Thomas Riedl
+96,Cassidy Miller
+98,Elliot Brandt
+99,Julian Soper
 b,r,e,a,k
 Lights Out,2
 teamInfo,,"Seattle, Washington",,https://www.facebook.com/Lights-Out-Ultimate-982520691925825/,https://twitter.com/LightsOutUlti
@@ -102,6 +146,8 @@ teamInfo,,"Seattle, Washington",,https://www.facebook.com/Lights-Out-Ultimate-98
 0,Sonya Morris
 0,Wiona  Tan
 1,Jessica Spaulding
+9,John Mattes
+9,Asuka Li
 12,Leo Kitchell
 13,Niko Butt
 14,Knox Borges
@@ -205,21 +251,23 @@ teamInfo,,"Tacoma, Washington",www.gritcityultimate.com,https://www.facebook.com
 b,r,e,a,k
 Porch Bears,4
 teamInfo,,"Portland, Oregon",,,
-0,Danielle Runzo
-0,David Marble
+0,Agnes Lee
+0,Casey Clapp
 0,Eric Laughlin
 0,Eric Rosenfeld
 0,Eric Zimmerman
 0,Jacob Artz
 0,Joseph Leo Pepper
-0,Agnes Lee
-0,Caitlin Winterbottom
+0,Kristin Moore
 0,Makenzi Zent
+0,Danielle Runzo
+0,David Marble
 2,Clea Poklemba
 6,Justin Carter
 6,Dana (Zuul) Nelson
 7,Stanley Barnes
 8,Colin Donald
+11,Christine Beaulieu
 12,Kevin Christian
 15,Alice White-Cyr
 21,Audree Hsu
@@ -228,17 +276,20 @@ teamInfo,,"Portland, Oregon",,,
 26,Austin Kelly
 26,Arianna Munro
 28,Tahlia Hodes
+64,Dillon Roberts
 b,r,e,a,k
 Heat Wave,9
 teamInfo,,"Richland , Washington",,,
+0,Ashley Hoffer
 0,Catalin Harabagiu
 0,Emily Inatsu
 0,Jake Kotzman
-0,Jeremy Tucknies
+0,Janelle Banister
 0,Kate Wasson
 0,Kaylynn Jay
 0,Kevin Baar
 0,Kira Murray
+0,Jeremy Tucknies
 0,Trevor Kilgannon
 0,Zacary Carter
 3,Justin Knight
@@ -285,23 +336,27 @@ pool,Pool A
 Oregon Scorch,Bullet Train,0,0,"06/28/2025, 09:00",Pool A,Scheduled
 Oregon Wildfire,Pegasus,0,0,"06/28/2025, 09:00",Pool A,Scheduled
 Oregon Scorch,Oregon Wildfire,0,0,"06/28/2025, 10:30",Pool A,Scheduled
+Drip,Pegasus,0,0,"06/28/2025, 10:30",Pool A,Scheduled
+Oregon Scorch,Drip,0,0,"06/28/2025, 12:00",Pool A,Scheduled
 Oregon Wildfire,Bullet Train,0,0,"06/28/2025, 12:00",Pool A,Scheduled
 Oregon Scorch,Pegasus,0,0,"06/28/2025, 13:30",Pool A,Scheduled
+Drip,Bullet Train,0,0,"06/28/2025, 13:30",Pool A,Scheduled
 Pegasus,Bullet Train,0,0,"06/28/2025, 15:00",Pool A,Scheduled
+Drip,Oregon Wildfire,0,0,"06/28/2025, 15:00",Pool A,Scheduled
 pool,Pool B
-Lights Out,Choco Ghost House,0,0,"06/28/2025, 09:00",Pool B,Scheduled
-Hive,Cutthroat,0,0,"06/28/2025, 09:00",Pool B,Scheduled
-Lights Out,Cutthroat,0,0,"06/28/2025, 10:45",Pool B,Scheduled
-Hive,Choco Ghost House,0,0,"06/28/2025, 10:45",Pool B,Scheduled
-Lights Out,Hive,0,0,"06/28/2025, 12:30",Pool B,Scheduled
-Choco Ghost House,Cutthroat,0,0,"06/28/2025, 12:30",Pool B,Scheduled
+Lights Out,Choco Ghost House,0,0,"06/28/2025, 09:30",Pool B,Scheduled
+Hive,Cutthroat,0,0,"06/28/2025, 09:30",Pool B,Scheduled
+Lights Out,Cutthroat,0,0,"06/28/2025, 11:15",Pool B,Scheduled
+Hive,Choco Ghost House,0,0,"06/28/2025, 11:15",Pool B,Scheduled
+Lights Out,Hive,0,0,"06/28/2025, 13:00",Pool B,Scheduled
+Choco Ghost House,Cutthroat,0,0,"06/28/2025, 13:00",Pool B,Scheduled
 pool,Pool C
-Grit City,Heat Wave,0,0,"06/28/2025, 09:00",Pool C,Scheduled
-Porch Bears,Nebula,0,0,"06/28/2025, 09:00",Pool C,Scheduled
-Grit City,Nebula,0,0,"06/28/2025, 10:45",Pool C,Scheduled
-Porch Bears,Heat Wave,0,0,"06/28/2025, 10:45",Pool C,Scheduled
-Grit City,Porch Bears,0,0,"06/28/2025, 12:30",Pool C,Scheduled
-Heat Wave,Nebula,0,0,"06/28/2025, 12:30",Pool C,Scheduled
+Grit City,Heat Wave,0,0,"06/28/2025, 09:30",Pool C,Scheduled
+Porch Bears,Nebula,0,0,"06/28/2025, 09:30",Pool C,Scheduled
+Grit City,Nebula,0,0,"06/28/2025, 11:15",Pool C,Scheduled
+Porch Bears,Heat Wave,0,0,"06/28/2025, 11:15",Pool C,Scheduled
+Grit City,Porch Bears,0,0,"06/28/2025, 13:00",Pool C,Scheduled
+Heat Wave,Nebula,0,0,"06/28/2025, 13:00",Pool C,Scheduled
 b,r,e,a,k
 clusters,Crossover Game
 b,r,e,a,k
