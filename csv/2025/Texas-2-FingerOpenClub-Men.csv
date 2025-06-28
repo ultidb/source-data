@@ -26,6 +26,28 @@ teamInfo,,"Texas City, Texas",,,https://twitter.com/hip_flatball/
 43,Peter Rangel
 69,Evan Parizot
 b,r,e,a,k
+Black Gold,12
+teamInfo,,"Houston, Texas",,,
+03,Austin Herriott
+04,Bernard Barcio
+10,Conner Bingham
+11,Patrick OHara
+12,Tom Gwaltney
+13,Jeremy Waters
+16,Jeffrey Byrd
+17,Michael Conlin
+18,Michael O'Shea
+19,Nathan Turnbaugh
+21,Jacky Feng
+23,Vance Dicken
+24,Brandon Ngo
+28,Eron Ware
+30,Reese Lee
+44,Julian Huen
+52,Caleb Johnson
+61,Aaron Villarreal
+66,Aaron Rahman
+b,r,e,a,k
 Riverside,8
 teamInfo,,"Austin, Texas",http://riversideultimate.org,https://www.facebook.com/RiversideUltimate/,https://twitter.com/riversideulti
 0,Adam Bell
@@ -52,28 +74,6 @@ teamInfo,,"Austin, Texas",http://riversideultimate.org,https://www.facebook.com/
 23,Ben Thollander
 44,Aidan Wilson
 86,Jordan Richter
-b,r,e,a,k
-Black Gold,12
-teamInfo,,"Houston, Texas",,,
-03,Austin Herriott
-04,Bernard Barcio
-10,Conner Bingham
-11,Patrick OHara
-12,Tom Gwaltney
-13,Jeremy Waters
-16,Jeffrey Byrd
-17,Michael Conlin
-18,Michael O'Shea
-19,Nathan Turnbaugh
-21,Jacky Feng
-23,Vance Dicken
-24,Brandon Ngo
-28,Eron Ware
-30,Reese Lee
-44,Julian Huen
-52,Caleb Johnson
-61,Aaron Villarreal
-66,Aaron Rahman
 b,r,e,a,k
 Dallas Delinquents,13
 teamInfo,,"Dallas, Texas",,,
@@ -293,34 +293,6 @@ teamInfo,,"Oklahoma City, Oklahoma",,,@SuperCellOKC
 89,Kenneth Boyd
 99,Nathan Nordbrock
 b,r,e,a,k
-Sprawl,4
-teamInfo,,"Dallas, Texas",https://www.instagram.com/dallassprawl/,,
-0,Cerdic Atwood
-0,Suneet Patel
-01,Kyle Kwezani
-02,Gavin Davis
-05,Joshua Fambro
-07,Reid Pannell
-08,Kent Mastroianni
-10,George Neely
-11,Joseph Fambro
-12,Daniel Spillane
-13,Thomas Abel
-17,Joe Berni
-21,Harold Hubbard
-24,Nicholas Stambo
-25,Alexander Skerbitz
-34,Kristoff Boor
-35,Jackson Thomas
-40,Nathan Nohr
-42,Tryston McGuyre
-43,Nicholas Stipanovic
-44,Riley Scanlan
-48,Akul Kadyan
-51,Jordyn Armstrong
-69,Lamar Seger
-77,Ian Ambrose
-b,r,e,a,k
 Texas Tea,9
 teamInfo,,"Houston, Texas",,,
 0,Darrel  Francis III
@@ -348,6 +320,34 @@ teamInfo,,"Houston, Texas",,,
 57,Corey Tolbert
 80,Michael Strack
 88,Javier Flores
+b,r,e,a,k
+Sprawl,4
+teamInfo,,"Dallas, Texas",https://www.instagram.com/dallassprawl/,,
+0,Cerdic Atwood
+0,Suneet Patel
+01,Kyle Kwezani
+02,Gavin Davis
+05,Joshua Fambro
+07,Reid Pannell
+08,Kent Mastroianni
+10,George Neely
+11,Joseph Fambro
+12,Daniel Spillane
+13,Thomas Abel
+17,Joe Berni
+21,Harold Hubbard
+24,Nicholas Stambo
+25,Alexander Skerbitz
+34,Kristoff Boor
+35,Jackson Thomas
+40,Nathan Nohr
+42,Tryston McGuyre
+43,Nicholas Stipanovic
+44,Riley Scanlan
+48,Akul Kadyan
+51,Jordyn Armstrong
+69,Lamar Seger
+77,Ian Ambrose
 b,r,e,a,k
 Texas Duffy,5
 teamInfo,,"College Station, Texas",,,
@@ -388,15 +388,15 @@ pool,Pool A
 H.I.P,Black Gold,13,7,"06/28/2025, 08:00",Pool A,Final
 Riverside,Dallas Delinquents,13,4,"06/28/2025, 08:00",Pool A,Final
 H.I.P,Dallas Delinquents,13,1,"06/28/2025, 09:40",Pool A,Final
-Riverside,Black Gold,0,0,"06/28/2025, 09:40",Pool A,Scheduled
+Riverside,Black Gold,11,12,"06/28/2025, 09:40",Pool A,Final
 H.I.P,Riverside,13,5,"06/28/2025, 11:20",Pool A,Final
-Black Gold,Dallas Delinquents,0,0,"06/28/2025, 11:20",Pool A,Scheduled
+Black Gold,Dallas Delinquents,12,3,"06/28/2025, 11:20",Pool A,Final
 pool,Pool B
 Alamode,El Niño,13,7,"06/28/2025, 08:00",Pool B,Final
 Cowtown Cannons,Forge,13,4,"06/28/2025, 08:00",Pool B,Final
 Alamode,Forge,13,4,"06/28/2025, 09:40",Pool B,Final
 Cowtown Cannons,El Niño,0,0,"06/28/2025, 09:40",Pool B,Scheduled
-Alamode,Cowtown Cannons,0,0,"06/28/2025, 11:20",Pool B,Scheduled
+Alamode,Cowtown Cannons,13,6,"06/28/2025, 11:20",Pool B,Final
 El Niño,Forge,0,0,"06/28/2025, 11:20",Pool B,Scheduled
 pool,Pool C
 Brawl,NOx,11,6,"06/28/2025, 08:00",Pool C,Final
@@ -411,7 +411,7 @@ Texas Duffy,Vintage Velocity,12,10,"06/28/2025, 08:00",Pool D,Final
 Sprawl,Vintage Velocity,13,7,"06/28/2025, 09:40",Pool D,Final
 Texas Duffy,Texas Tea,5,13,"06/28/2025, 09:40",Pool D,Final
 Sprawl,Texas Duffy,0,0,"06/28/2025, 11:20",Pool D,Scheduled
-Texas Tea,Vintage Velocity,0,0,"06/28/2025, 11:20",Pool D,Scheduled
+Texas Tea,Vintage Velocity,13,5,"06/28/2025, 11:20",Pool D,Final
 b,r,e,a,k
 clusters,Crossover
 b,r,e,a,k
