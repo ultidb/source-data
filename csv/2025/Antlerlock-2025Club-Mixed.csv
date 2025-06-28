@@ -26,30 +26,6 @@ teamInfo,,"Burlington, Vermont",,,
 19,Beorn Morrow-Caron
 99,Kalei Foley-Rutherfurd
 b,r,e,a,k
-Lampshade,8
-teamInfo,,"Cambridge, Massachusetts",,,
-coaches,Abijith Krishnan,Axis Sivitz
-0,Bobby Lovitch
-0,Corinna Rhum
-0,Emily Wanzer
-0,Abe Kielar
-0,Jennifer Fiore
-0,Molly Rockwood
-0,Rachel Swindell
-0,Robert Shapiro
-0,Liz Anusauskas
-0,Varun Shah
-0,Walden Ng
-6,Justinne Guarin
-20,Kevin Murphy
-24,Sajani Clerk
-26,Jackson Gillenwaters
-33,Rossi Wang
-37,Anna Shorb
-39,Victoria Zhang
-44,Eric Freitag
-69,Man Nguyen
-b,r,e,a,k
 Hartford Current,16
 teamInfo,,"Hartford, Connecticut",,,
 0,Anika Alschuler
@@ -76,6 +52,30 @@ teamInfo,,"Hartford, Connecticut",,,
 14,Dominic D'Aurio
 26,Joshua Kennedy
 43,Joshua Kish
+b,r,e,a,k
+Lampshade,8
+teamInfo,,"Cambridge, Massachusetts",,,
+coaches,Abijith Krishnan,Axis Sivitz
+0,Bobby Lovitch
+0,Corinna Rhum
+0,Emily Wanzer
+0,Abe Kielar
+0,Jennifer Fiore
+0,Molly Rockwood
+0,Rachel Swindell
+0,Robert Shapiro
+0,Liz Anusauskas
+0,Varun Shah
+0,Walden Ng
+6,Justinne Guarin
+20,Kevin Murphy
+24,Sajani Clerk
+26,Jackson Gillenwaters
+33,Rossi Wang
+37,Anna Shorb
+39,Victoria Zhang
+44,Eric Freitag
+69,Man Nguyen
 b,r,e,a,k
 T Party,9
 teamInfo,,"Boston, Massachusetts",www.instagram.com/tpartyultimate,,www.twitter.com/tpartyultimate
@@ -184,25 +184,6 @@ teamInfo,,"Syracuse, New York",,,
 69,Joey Marzocchi
 95,Jessica Marinelli
 b,r,e,a,k
-Equinox,10
-teamInfo,,"Montpelier, Vermont",,,
-coaches,Nolan Benoit
-0,Eliza Gray
-0,Ella O'Neil
-0,Embry Ericson
-0,Evan Benoit
-0,Forrest Holloway
-0,Ioan Austin
-0,Jasper Ecklund
-0,John Beaumier
-0,Katie Lahiri
-0,McMillan Caldwell
-0,Tully Dubé
-0,Vera Finkenzeller
-0,Amelia  LaPorte
-54,Gardner Rea
-55,Campbell Rea
-b,r,e,a,k
 Rainbow,15
 teamInfo,,"Somerville, Massachusetts",https://www.rainbowultimate.com,https://www.instagram.com/rainbowultimate/,
 0,Alison Collins
@@ -247,6 +228,25 @@ teamInfo,,"Woods Hole, Massachusetts",,,
 47,Patrick McGrath
 61,Olivia Nicol
 77,Maggie Emerick
+b,r,e,a,k
+Equinox,10
+teamInfo,,"Montpelier, Vermont",,,
+coaches,Nolan Benoit
+0,Eliza Gray
+0,Ella O'Neil
+0,Embry Ericson
+0,Evan Benoit
+0,Forrest Holloway
+0,Ioan Austin
+0,Jasper Ecklund
+0,John Beaumier
+0,Katie Lahiri
+0,McMillan Caldwell
+0,Tully Dubé
+0,Vera Finkenzeller
+0,Amelia  LaPorte
+54,Gardner Rea
+55,Campbell Rea
 b,r,e,a,k
 Quahogs,6
 teamInfo,,"Providence, Rhode Island",,,
@@ -466,20 +466,20 @@ s,t,a,g,e,s
 pools,Saturday Pools
 pool,Pool A
 Big Rig,Sugar Shack,15,0,"06/28/2025, 10:30",Pool A,Final
-T Party,Hartford Current,0,0,"06/28/2025, 10:30",Pool A,Scheduled
+T Party,Hartford Current,9,11,"06/28/2025, 10:30",Pool A,Final
 Big Rig,T Party,15,8,"06/28/2025, 12:15",Pool A,Final
-Lampshade,Hartford Current,0,0,"06/28/2025, 12:15",Pool A,Scheduled
+Lampshade,Hartford Current,8,10,"06/28/2025, 12:15",Pool A,Final
 Hartford Current,Sugar Shack,0,0,"06/28/2025, 14:00",Pool A,Scheduled
 Lampshade,T Party,0,0,"06/28/2025, 14:00",Pool A,Scheduled
 Big Rig,Lampshade,0,0,"06/28/2025, 15:45",Pool A,Scheduled
 T Party,Sugar Shack,0,0,"06/28/2025, 15:45",Pool A,Scheduled
 pool,Pool B
-Zero Strategy,Shipwreck,0,0,"06/28/2025, 10:30",Pool B,Scheduled
+Zero Strategy,Shipwreck,15,7,"06/28/2025, 10:30",Pool B,Final
 Equinox,Rainbow,0,0,"06/28/2025, 10:30",Pool B,Scheduled
-Zero Strategy,Equinox,0,0,"06/28/2025, 12:15",Pool B,Scheduled
-Mashed,Rainbow,0,0,"06/28/2025, 12:15",Pool B,Scheduled
+Zero Strategy,Equinox,15,3,"06/28/2025, 12:15",Pool B,Final
+Mashed,Rainbow,15,11,"06/28/2025, 12:15",Pool B,Final
 Rainbow,Shipwreck,0,0,"06/28/2025, 14:00",Pool B,Scheduled
-Mashed,Equinox,0,0,"06/28/2025, 14:00",Pool B,Scheduled
+Mashed,Equinox,15,3,"06/28/2025, 14:00",Pool B,Final
 Zero Strategy,Mashed,0,0,"06/28/2025, 15:45",Pool B,Scheduled
 Equinox,Shipwreck,0,0,"06/28/2025, 15:45",Pool B,Scheduled
 pool,Pool C
@@ -490,10 +490,10 @@ Bench,Buffalo Brain Freeze,13,5,"06/28/2025, 12:15",Pool C,Final
 Aged Cheddar,Buffalo Brain Freeze,0,0,"06/28/2025, 15:45",Pool C,Scheduled
 Bench,Quahogs,0,0,"06/28/2025, 15:45",Pool C,Scheduled
 pool,Pool D
-Buffalo Lake Effect,Taproot,12,8,"06/28/2025, 12:15",Pool D,Scheduled
-Scarecrow,UV Rays,0,0,"06/28/2025, 12:15",Pool D,Scheduled
+Buffalo Lake Effect,Taproot,12,8,"06/28/2025, 12:15",Pool D,Final
+Scarecrow,UV Rays,13,6,"06/28/2025, 12:15",Pool D,Final
 Scarecrow,Taproot,0,0,"06/28/2025, 14:00",Pool D,Scheduled
-Buffalo Lake Effect,UV Rays,0,0,"06/28/2025, 14:00",Pool D,Scheduled
+Buffalo Lake Effect,UV Rays,15,4,"06/28/2025, 14:00",Pool D,Final
 Taproot,UV Rays,0,0,"06/28/2025, 15:45",Pool D,Scheduled
 Buffalo Lake Effect,Scarecrow,0,0,"06/28/2025, 15:45",Pool D,Scheduled
 b,r,e,a,k
