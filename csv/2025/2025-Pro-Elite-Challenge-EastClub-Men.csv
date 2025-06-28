@@ -112,31 +112,6 @@ coaches,Ben Nelson
 42,Liam Gallinagh
 72,Dylan Frank
 b,r,e,a,k
-Raleigh-Durham United,8
-teamInfo,,"Raleigh, North Carolina",https://www.instagram.com/rduultimate/,,https://twitter.com/rduultimate
-01,Reed Burkert
-02,Bailey Laberteaux
-04,Houston Parks
-05,Samuel Good
-08,Cam Bellando
-10,Jacob Louie
-13,John Wellers
-22,Luke Duan
-22,Angelo Olcese
-23,Myles Grady
-25,Min Lim
-26,Colin Zeng
-30,Ethan Baughman
-34,Noah Bush
-42,Christopher Nelson
-44,Dillon Bruer
-45,Nathan Lyle
-49,Daniel Ferriter
-58,Arthur Feller
-71,Clint McSherry
-72,Nathaniel Donaher
-73,Andrew Vande Berg
-b,r,e,a,k
 DiG,2
 teamInfo,,"Boston, Massachusetts",https://instagram.com/digultimate/,https://www.facebook.com/digultimate,https://twitter.com/digultimate
 0,Calvin Stoughton
@@ -190,6 +165,31 @@ coaches,Kevin Lee
 51,Adam O'Donnell
 69,Luc Comire
 b,r,e,a,k
+Raleigh-Durham United,8
+teamInfo,,"Raleigh, North Carolina",https://www.instagram.com/rduultimate/,,https://twitter.com/rduultimate
+01,Reed Burkert
+02,Bailey Laberteaux
+04,Houston Parks
+05,Samuel Good
+08,Cam Bellando
+10,Jacob Louie
+13,John Wellers
+22,Luke Duan
+22,Angelo Olcese
+23,Myles Grady
+25,Min Lim
+26,Colin Zeng
+30,Ethan Baughman
+34,Noah Bush
+42,Christopher Nelson
+44,Dillon Bruer
+45,Nathan Lyle
+49,Daniel Ferriter
+58,Arthur Feller
+71,Clint McSherry
+72,Nathaniel Donaher
+73,Andrew Vande Berg
+b,r,e,a,k
 Flying Dutchmen,15
 teamInfo,,"Columbus, Ohio",,,
 0,Andrew  Hissong
@@ -219,6 +219,29 @@ teamInfo,,"Columbus, Ohio",,,
 99,Alex Warrington
 99,Joshua Venegas
 b,r,e,a,k
+Chain Lightning,5
+teamInfo,,"Atlanta, Georgia",,https://www.facebook.com/pages/Chain-Lightning-Ultimate/188026257831,https://twitter.com/ATLchain
+0,Jeremy Langdon
+02,Andrew Thai
+06,Brett Hulsmeyer
+07,Samuel Munnis
+09,Kenni Taylor
+10,Adam Burgess
+11,Tyler Randall
+14,Jakeem Polk
+15,Ryan Flick
+16,Edward Ramsey
+17,Hayden Austin-Knab
+18,Adam Miller
+23,Jack Krugler
+25,Collin Hill
+35,Drew Wentworth
+36,Nick Spiva
+56,Ethan Niedzwiedz
+61,Simon Dastrup
+77,Ki Greene
+83,Michael-Angelo Humm
+b,r,e,a,k
 Truck Stop,3
 teamInfo,,"Washington, District of Columbia",,https://www.facebook.com/TruckStopUltimate/,https://twitter.com/truckstopulti
 03,Alexandre Fall
@@ -245,29 +268,6 @@ teamInfo,,"Washington, District of Columbia",,https://www.facebook.com/TruckStop
 73,Frederick Farah
 81,Sean Mott
 92,Jace Dean
-b,r,e,a,k
-Chain Lightning,5
-teamInfo,,"Atlanta, Georgia",,https://www.facebook.com/pages/Chain-Lightning-Ultimate/188026257831,https://twitter.com/ATLchain
-0,Jeremy Langdon
-02,Andrew Thai
-06,Brett Hulsmeyer
-07,Samuel Munnis
-09,Kenni Taylor
-10,Adam Burgess
-11,Tyler Randall
-14,Jakeem Polk
-15,Ryan Flick
-16,Edward Ramsey
-17,Hayden Austin-Knab
-18,Adam Miller
-23,Jack Krugler
-25,Collin Hill
-35,Drew Wentworth
-36,Nick Spiva
-56,Ethan Niedzwiedz
-61,Simon Dastrup
-77,Ki Greene
-83,Michael-Angelo Humm
 b,r,e,a,k
 Sub Zero,12
 teamInfo,,"Minneapolis, Minnesota",,https://www.facebook.com/Sub-Zero-Ultimate-105463586149513/,
@@ -431,20 +431,20 @@ pools,Saturday Pool Play
 pool,Pool A
 PoNY,Sprout,15,6,"06/28/2025, 09:30",Pool A,Final
 Mallard,Florida Untied,10,14,"06/28/2025, 09:30",Pool A,Final
-PoNY,Florida Untied,9,6,"06/28/2025, 11:15",Pool A,In Progress
-Mallard,Sprout,10,7,"06/28/2025, 11:15",Pool A,In Progress
+PoNY,Florida Untied,12,8,"06/28/2025, 11:15",Pool A,Final
+Mallard,Sprout,15,10,"06/28/2025, 11:15",Pool A,Final
 PoNY,Mallard,0,0,"06/28/2025, 13:00",Pool A,Scheduled
 Sprout,Florida Untied,0,0,"06/28/2025, 13:00",Pool A,Scheduled
 pool,Pool B
 DiG,GOAT,11,9,"06/28/2025, 09:30",Pool B,Final
 Raleigh-Durham United,Flying Dutchmen,15,10,"06/28/2025, 09:30",Pool B,Final
-DiG,Flying Dutchmen,8,6,"06/28/2025, 11:15",Pool B,In Progress
-Raleigh-Durham United,GOAT,6,9,"06/28/2025, 11:15",Pool B,In Progress
+DiG,Flying Dutchmen,14,9,"06/28/2025, 11:15",Pool B,Final
+Raleigh-Durham United,GOAT,10,14,"06/28/2025, 11:15",Pool B,Final
 DiG,Raleigh-Durham United,0,0,"06/28/2025, 14:45",Pool B,Scheduled
 GOAT,Flying Dutchmen,0,0,"06/28/2025, 14:45",Pool B,Scheduled
 pool,Pool C
-Truck Stop,Sub Zero,0,0,"06/28/2025, 11:15",Pool C,Scheduled
-Chain Lightning,Garden State Ultimate,0,0,"06/28/2025, 11:15",Pool C,Scheduled
+Truck Stop,Sub Zero,15,13,"06/28/2025, 11:15",Pool C,Final
+Chain Lightning,Garden State Ultimate,15,7,"06/28/2025, 11:15",Pool C,Final
 Truck Stop,Garden State Ultimate,0,0,"06/28/2025, 13:00",Pool C,Scheduled
 Chain Lightning,Sub Zero,0,0,"06/28/2025, 13:00",Pool C,Scheduled
 Truck Stop,Chain Lightning,0,0,"06/28/2025, 14:45",Pool C,Scheduled
