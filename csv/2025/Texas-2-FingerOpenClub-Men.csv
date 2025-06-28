@@ -99,6 +99,31 @@ teamInfo,,"Dallas, Texas",,,
 81,Justin Sullins
 99,Nathan Ashworth
 b,r,e,a,k
+Alamode,2
+teamInfo,,"San Antonio, Texas",,,
+0,Andres Rivera
+0,Beau Fournet
+0,Ben Stone
+0,Drew Gullahorn
+0,Jacob Rosen
+0,Josh Banks
+0,Joshua Gammon
+0,Patrick Zertuche
+0,Paul Jackson
+0,Silas Paterka
+0,Soren Watterson
+0,Tat Whitley
+1,Skye Knight
+1,Ryan Smith
+8,James Crosnoe
+9,Kevin McGloin
+10,Chase Stegall
+12,Nicholas Ortiz
+13,Jaedron Mueller
+23,Christian Paterka
+28,Axel Anderson
+43,Brandon Chow
+b,r,e,a,k
 Cowtown Cannons,7
 teamInfo,,"Fort Worth, Texas",,,
 0,Alex Wang
@@ -127,31 +152,6 @@ teamInfo,,"Fort Worth, Texas",,,
 32,Luke Sheppard
 32,Justin Holt
 87,Joshua Rainey
-b,r,e,a,k
-Alamode,2
-teamInfo,,"San Antonio, Texas",,,
-0,Andres Rivera
-0,Beau Fournet
-0,Ben Stone
-0,Drew Gullahorn
-0,Jacob Rosen
-0,Josh Banks
-0,Joshua Gammon
-0,Patrick Zertuche
-0,Paul Jackson
-0,Silas Paterka
-0,Soren Watterson
-0,Tat Whitley
-1,Skye Knight
-1,Ryan Smith
-8,James Crosnoe
-9,Kevin McGloin
-10,Chase Stegall
-12,Nicholas Ortiz
-13,Jaedron Mueller
-23,Christian Paterka
-28,Axel Anderson
-43,Brandon Chow
 b,r,e,a,k
 El Niño,11
 teamInfo,,"Fort Lauderdale, Florida",http://elninoultimate.com,,https://twitter.com/ElNinoUltimate
@@ -293,28 +293,6 @@ teamInfo,,"Oklahoma City, Oklahoma",,,@SuperCellOKC
 89,Kenneth Boyd
 99,Nathan Nordbrock
 b,r,e,a,k
-Texas Duffy,5
-teamInfo,,"College Station, Texas",,,
-0,Andres Chesnut
-0,Declan Jackson
-0,Edgar Alvarado
-0,Gino Fongaro
-0,Justin Petre
-0,Luke Jackson
-0,Mathias Weeks
-0,Peter Saudale
-0,Scott Cricks
-0,SEAN BROOKS
-0,William Fairhurst
-4,Kyle Sculley
-9,Gareth May
-17,Todd Schrader
-37,Taylor Neigut
-44,Greg Muth
-65,Samuel Bondurant
-69,Joshua Romani
-80,Jason Wehring
-b,r,e,a,k
 Sprawl,4
 teamInfo,,"Dallas, Texas",https://www.instagram.com/dallassprawl/,,
 0,Cerdic Atwood
@@ -371,6 +349,28 @@ teamInfo,,"Houston, Texas",,,
 80,Michael Strack
 88,Javier Flores
 b,r,e,a,k
+Texas Duffy,5
+teamInfo,,"College Station, Texas",,,
+0,Andres Chesnut
+0,Declan Jackson
+0,Edgar Alvarado
+0,Gino Fongaro
+0,Justin Petre
+0,Luke Jackson
+0,Mathias Weeks
+0,Peter Saudale
+0,Scott Cricks
+0,SEAN BROOKS
+0,William Fairhurst
+4,Kyle Sculley
+9,Gareth May
+17,Todd Schrader
+37,Taylor Neigut
+44,Greg Muth
+65,Samuel Bondurant
+69,Joshua Romani
+80,Jason Wehring
+b,r,e,a,k
 Vintage Velocity,16
 teamInfo,,"Dallas, Texas",,,
 0,Greg Howe
@@ -394,7 +394,7 @@ Black Gold,Dallas Delinquents,0,0,"06/28/2025, 11:20",Pool A,Scheduled
 pool,Pool B
 Alamode,El Niño,13,7,"06/28/2025, 08:00",Pool B,Final
 Cowtown Cannons,Forge,13,4,"06/28/2025, 08:00",Pool B,Final
-Alamode,Forge,0,0,"06/28/2025, 09:40",Pool B,Scheduled
+Alamode,Forge,13,4,"06/28/2025, 09:40",Pool B,Final
 Cowtown Cannons,El Niño,0,0,"06/28/2025, 09:40",Pool B,Scheduled
 Alamode,Cowtown Cannons,0,0,"06/28/2025, 11:20",Pool B,Scheduled
 El Niño,Forge,0,0,"06/28/2025, 11:20",Pool B,Scheduled
@@ -408,8 +408,8 @@ NOx,Supercell,0,0,"06/28/2025, 11:20",Pool C,Scheduled
 pool,Pool D
 Sprawl,Texas Tea,11,10,"06/28/2025, 08:00",Pool D,Final
 Texas Duffy,Vintage Velocity,12,10,"06/28/2025, 08:00",Pool D,Final
-Sprawl,Vintage Velocity,0,0,"06/28/2025, 09:40",Pool D,Scheduled
-Texas Duffy,Texas Tea,0,0,"06/28/2025, 09:40",Pool D,Scheduled
+Sprawl,Vintage Velocity,13,7,"06/28/2025, 09:40",Pool D,Final
+Texas Duffy,Texas Tea,5,13,"06/28/2025, 09:40",Pool D,Final
 Sprawl,Texas Duffy,0,0,"06/28/2025, 11:20",Pool D,Scheduled
 Texas Tea,Vintage Velocity,0,0,"06/28/2025, 11:20",Pool D,Scheduled
 b,r,e,a,k
