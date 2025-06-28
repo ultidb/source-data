@@ -293,34 +293,6 @@ teamInfo,,"Oklahoma City, Oklahoma",,,@SuperCellOKC
 89,Kenneth Boyd
 99,Nathan Nordbrock
 b,r,e,a,k
-Texas Tea,9
-teamInfo,,"Houston, Texas",,,
-0,Darrel  Francis III
-01,Isaac Fuzat
-02,Jeffrey  Zhou
-03,Brandon  Odell
-03,Cameron Guillen
-04,Xavier  Daniel 
-05,Andrew Hipskind
-07,Isaac Baker
-09,Trey Wong
-10,Ibrahim El-sayed
-11,Jalal Sylvester
-11,Rhyan Miller
-12,Ismail Kassim
-13,Tyler Loer
-19,Stephen Strack
-20,Andy Wang
-22,Piercen Hoekstra
-25,Toya Chukwumerije
-28,Nathan Machak
-30,Ryan Salters
-33,Huy Nguyen
-35,Jesse Hill
-57,Corey Tolbert
-80,Michael Strack
-88,Javier Flores
-b,r,e,a,k
 Sprawl,4
 teamInfo,,"Dallas, Texas",https://www.instagram.com/dallassprawl/,,
 0,Cerdic Atwood
@@ -348,6 +320,34 @@ teamInfo,,"Dallas, Texas",https://www.instagram.com/dallassprawl/,,
 51,Jordyn Armstrong
 69,Lamar Seger
 77,Ian Ambrose
+b,r,e,a,k
+Texas Tea,9
+teamInfo,,"Houston, Texas",,,
+0,Darrel  Francis III
+01,Isaac Fuzat
+02,Jeffrey  Zhou
+03,Brandon  Odell
+03,Cameron Guillen
+04,Xavier  Daniel 
+05,Andrew Hipskind
+07,Isaac Baker
+09,Trey Wong
+10,Ibrahim El-sayed
+11,Jalal Sylvester
+11,Rhyan Miller
+12,Ismail Kassim
+13,Tyler Loer
+19,Stephen Strack
+20,Andy Wang
+22,Piercen Hoekstra
+25,Toya Chukwumerije
+28,Nathan Machak
+30,Ryan Salters
+33,Huy Nguyen
+35,Jesse Hill
+57,Corey Tolbert
+80,Michael Strack
+88,Javier Flores
 b,r,e,a,k
 Texas Duffy,5
 teamInfo,,"College Station, Texas",,,
@@ -395,25 +395,30 @@ pool,Pool B
 Alamode,El Niño,13,7,"06/28/2025, 08:00",Pool B,Final
 Cowtown Cannons,Forge,13,4,"06/28/2025, 08:00",Pool B,Final
 Alamode,Forge,13,4,"06/28/2025, 09:40",Pool B,Final
-Cowtown Cannons,El Niño,0,0,"06/28/2025, 09:40",Pool B,Scheduled
-Alamode,Cowtown Cannons,13,6,"06/28/2025, 11:20",Pool B,Final
-El Niño,Forge,0,0,"06/28/2025, 11:20",Pool B,Scheduled
+Cowtown Cannons,El Niño,12,10,"06/28/2025, 09:40",Pool B,Final
+Alamode,Cowtown Cannons,13,7,"06/28/2025, 11:20",Pool B,Final
+El Niño,Forge,12,8,"06/28/2025, 11:20",Pool B,Final
 pool,Pool C
 Brawl,NOx,11,6,"06/28/2025, 08:00",Pool C,Final
 BARNSTORM,Supercell,13,9,"06/28/2025, 08:00",Pool C,Final
 Brawl,Supercell,13,3,"06/28/2025, 09:40",Pool C,Final
 BARNSTORM,NOx,11,7,"06/28/2025, 09:40",Pool C,Final
-Brawl,BARNSTORM,0,0,"06/28/2025, 11:20",Pool C,Scheduled
-NOx,Supercell,0,0,"06/28/2025, 11:20",Pool C,Scheduled
+Brawl,BARNSTORM,12,11,"06/28/2025, 11:20",Pool C,Final
+NOx,Supercell,12,8,"06/28/2025, 11:20",Pool C,Final
 pool,Pool D
 Sprawl,Texas Tea,11,10,"06/28/2025, 08:00",Pool D,Final
 Texas Duffy,Vintage Velocity,12,10,"06/28/2025, 08:00",Pool D,Final
 Sprawl,Vintage Velocity,13,7,"06/28/2025, 09:40",Pool D,Final
 Texas Duffy,Texas Tea,5,13,"06/28/2025, 09:40",Pool D,Final
-Sprawl,Texas Duffy,0,0,"06/28/2025, 11:20",Pool D,Scheduled
+Sprawl,Texas Duffy,11,10,"06/28/2025, 11:20",Pool D,Final
 Texas Tea,Vintage Velocity,13,5,"06/28/2025, 11:20",Pool D,Final
 b,r,e,a,k
 clusters,Crossover
+cluster,Crossover
+Black Gold,Texas Duffy,0,0,"06/14/2025, 13:00",,Scheduled
+Texas Tea,Riverside,0,0,"06/14/2025, 13:00",,Scheduled
+Cowtown Cannons,NOx,0,0,"06/14/2025, 13:00",,Scheduled
+BARNSTORM,El Niño,0,0,"06/14/2025, 13:00",,Scheduled
 b,r,e,a,k
 brackets,Sunday Championship
 bracket,Championship
