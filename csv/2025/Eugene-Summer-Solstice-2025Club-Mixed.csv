@@ -77,6 +77,33 @@ teamInfo,,"Seattle, Washington",https://www.instagram.com/pegasus.seaulti/,https
 41,Kiran Devine
 50,Lauren Pichard
 b,r,e,a,k
+Bullet Train,7
+teamInfo,,"Seattle, Washington",http://bullettrainultimate.com,,https://twitter.com/BulletTrainUlti
+01,Eleanor Davis
+03,Yonatan Tadesse
+04,Jack Baba
+07,Allen Rishel
+08,Amanda Loh
+11,Xin Shu
+14,Brian Wandrei
+17,Max Larkin
+18,Chris Roach
+20,Sofia Geislinger
+21,Ryan Shin
+22,Sarah Teichman
+24,Alex Strong
+25,Yenni Lee
+27,Megan Baunsgard
+33,Alexander Capestany
+48,Elsa Semroc
+53,Rachel Beaton
+56,Max Goglia
+64,Zifei Feng
+72,Luke Garrison
+79,Nathan Williams
+86,Jessica Zhang
+97,Vincent Chase
+b,r,e,a,k
 Drip,10
 teamInfo,,"Corvallis, Oregon",https://instagram.com/corvallisdrip?igshid=M2RkZGJiMzhjOQ==,,
 0,Adael Scatena
@@ -105,33 +132,6 @@ teamInfo,,"Corvallis, Oregon",https://instagram.com/corvallisdrip?igshid=M2RkZGJ
 66,Katherine Quillin
 74,Matthew Baccary
 81,Lena Freebury
-b,r,e,a,k
-Bullet Train,7
-teamInfo,,"Seattle, Washington",http://bullettrainultimate.com,,https://twitter.com/BulletTrainUlti
-01,Eleanor Davis
-03,Yonatan Tadesse
-04,Jack Baba
-07,Allen Rishel
-08,Amanda Loh
-11,Xin Shu
-14,Brian Wandrei
-17,Max Larkin
-18,Chris Roach
-20,Sofia Geislinger
-21,Ryan Shin
-22,Sarah Teichman
-24,Alex Strong
-25,Yenni Lee
-27,Megan Baunsgard
-33,Alexander Capestany
-48,Elsa Semroc
-53,Rachel Beaton
-56,Max Goglia
-64,Zifei Feng
-72,Luke Garrison
-79,Nathan Williams
-86,Jessica Zhang
-97,Vincent Chase
 b,r,e,a,k
 Lights Out,2
 teamInfo,,"Seattle, Washington",,https://www.facebook.com/Lights-Out-Ultimate-982520691925825/,https://twitter.com/LightsOutUlti
@@ -353,8 +353,8 @@ Oregon Scorch,Bullet Train,13,7,"06/28/2025, 09:00",Pool A,Final
 Oregon Wildfire,Pegasus,13,8,"06/28/2025, 09:00",Pool A,Final
 Oregon Scorch,Oregon Wildfire,13,1,"06/28/2025, 10:30",Pool A,Final
 Drip,Pegasus,5,10,"06/28/2025, 10:30",Pool A,Final
-Oregon Scorch,Drip,0,0,"06/28/2025, 12:00",Pool A,Scheduled
-Oregon Wildfire,Bullet Train,0,0,"06/28/2025, 12:00",Pool A,Scheduled
+Oregon Scorch,Drip,13,1,"06/28/2025, 12:00",Pool A,Final
+Oregon Wildfire,Bullet Train,11,9,"06/28/2025, 12:00",Pool A,Final
 Oregon Scorch,Pegasus,0,0,"06/28/2025, 13:30",Pool A,Scheduled
 Drip,Bullet Train,0,0,"06/28/2025, 13:30",Pool A,Scheduled
 Pegasus,Bullet Train,0,0,"06/28/2025, 15:00",Pool A,Scheduled
@@ -365,23 +365,27 @@ Hive,Cutthroat,15,3,"06/28/2025, 09:30",Pool B,Final
 Lights Out,Cutthroat,14,4,"06/28/2025, 11:15",Pool B,Final
 Hive,Choco Ghost House,12,10,"06/28/2025, 11:15",Pool B,Final
 Lights Out,Hive,13,6,"06/28/2025, 13:00",Pool B,Final
-Choco Ghost House,Cutthroat,11,7,"06/28/2025, 13:00",Pool B,Scheduled
+Choco Ghost House,Cutthroat,11,7,"06/28/2025, 13:00",Pool B,Final
 pool,Pool C
 Grit City,Heat Wave,11,5,"06/28/2025, 09:30",Pool C,Final
 Porch Bears,Nebula,15,1,"06/28/2025, 09:30",Pool C,Final
 Grit City,Nebula,14,5,"06/28/2025, 11:15",Pool C,Final
 Porch Bears,Heat Wave,15,4,"06/28/2025, 11:15",Pool C,Final
 Grit City,Porch Bears,8,13,"06/28/2025, 13:00",Pool C,Final
-Heat Wave,Nebula,0,0,"06/28/2025, 13:00",Pool C,Scheduled
+Heat Wave,Nebula,12,5,"06/28/2025, 13:00",Pool C,Final
 b,r,e,a,k
 clusters,Crossover Game
+cluster,Crossover Game
+Choco Ghost House,Heat Wave,0,0,"06/28/2025, 14:45",,Scheduled
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,Championship Bracket
+Grit City,Hive,0,0,"06/29/2025, 09:00",Quarterfinals,Scheduled
 bracket,3rd Place
 bracket,Fivals
 bracket,7th Place Game
 b,r,e,a,k
 pools,Consolation Pool
 pool,Pool D
+Nebula,Cutthroat,0,0,"06/28/2025, 14:45",Pool D,Scheduled
 b,r,e,a,k
