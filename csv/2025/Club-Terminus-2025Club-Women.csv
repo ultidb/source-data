@@ -30,28 +30,6 @@ teamInfo,,"Atlanta, Georgia",https://tinyurl.com/ynybaa3z,https://www.facebook.c
 44,Sagan Yarborough
 99,Anna Gustafson
 b,r,e,a,k
-Shiver,4
-teamInfo,,"Durham, North Carolina",,https://www.facebook.com/ShiverUltimate,https://twitter.com/shiverultimate
-coaches,Ken Rehder
-0,Melissa Gronske
-2,Lucy Murray
-4,Sofia Canoutas-Nadel
-6,Katherine Li
-7,Allyson Fion
-13,Anna Routh
-14,Madelyn Morrison
-16,Lauren Cao
-17,Sabrina Talley
-22,Emma Gautier
-24,Grace Xiang
-25,Lauren Wyatt
-26,Georgia Paulig
-27,Tree Konvalinka
-45,Jennifer Lin
-47,Madeline Steinmetz
-61,Nubia Robles Santiago
-74,Sydney Merrell
-b,r,e,a,k
 Juice Box,5
 teamInfo,,"Charlotte and Asheville, North Carolina",,,
 0,Ashley King
@@ -75,6 +53,28 @@ teamInfo,,"Charlotte and Asheville, North Carolina",,,
 19,Andrea Shaw
 23,Amanda Aversa
 42,Alexandra Harvey
+b,r,e,a,k
+Shiver,4
+teamInfo,,"Durham, North Carolina",,https://www.facebook.com/ShiverUltimate,https://twitter.com/shiverultimate
+coaches,Ken Rehder
+0,Melissa Gronske
+2,Lucy Murray
+4,Sofia Canoutas-Nadel
+6,Katherine Li
+7,Allyson Fion
+13,Anna Routh
+14,Madelyn Morrison
+16,Lauren Cao
+17,Sabrina Talley
+22,Emma Gautier
+24,Grace Xiang
+25,Lauren Wyatt
+26,Georgia Paulig
+27,Tree Konvalinka
+45,Jennifer Lin
+47,Madeline Steinmetz
+61,Nubia Robles Santiago
+74,Sydney Merrell
 b,r,e,a,k
 Fiasco,8
 teamInfo,,"Miami, Florida",https://www.instagram.com/fiascoultimate,https://www.facebook.com/fiascoultimate/,https://twitter.com/fiascoultimate
@@ -219,8 +219,8 @@ Fiasco,cATLanta,9,7,"06/28/2025, 11:30",Pool A,Final
 Shiver,Fiasco,10,4,"06/28/2025, 13:15",Pool A,Final
 Juice Box,cATLanta,10,3,"06/28/2025, 13:15",Pool A,Final
 Ozone,cATLanta,W,L,"06/28/2025, 15:00",Pool A,Final
-Shiver,Juice Box,0,0,"06/28/2025, 15:00",Pool A,Scheduled
-Juice Box,Fiasco,0,0,"06/28/2025, 16:45",Pool A,Scheduled
+Shiver,Juice Box,4,11,"06/28/2025, 15:00",Pool A,Final
+Juice Box,Fiasco,W,L,"06/28/2025, 16:45",Pool A,Final
 pool,Pool B
 Tabby Rosa,Calypso,7,8,"06/28/2025, 08:00",Pool B,Final
 CHAOS,Magma,11,7,"06/28/2025, 08:00",Pool B,Final
@@ -231,9 +231,13 @@ Calypso,Magma,8,9,"06/28/2025, 11:30",Pool B,Final
 b,r,e,a,k
 brackets,Sunday Bracket
 bracket,Sunday Bracket
+Ozone,CHAOS,0,0,"06/29/2025, 08:00",Quarters,Scheduled
+Calypso,Shiver,0,0,"06/29/2025, 08:00",Quarters,Scheduled
+Juice Box,Tabby Rosa,0,0,"06/29/2025, 08:00",Quarters,Scheduled
+Magma,Fiasco,0,0,"06/29/2025, 08:00",Quarters,Scheduled
 b,r,e,a,k
-brackets,Sunday 3rd Place
-bracket,3rd Place
+brackets,5th Place Bracket
+bracket,5th Place
 b,r,e,a,k
 brackets,7-9th Place
 bracket,Sunday Placements
