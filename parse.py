@@ -707,6 +707,9 @@ def parseNewSchedule(html, year, isCollege=False):
                 continue
             base_url = base_url.get("href")
 
+            if not base_url.endswith("/"):
+                base_url = base_url + "/"
+
             if division == "Men" or division == "Women" or division == "Mixed":
                 if isCollege:
                     division = "College - " + division
