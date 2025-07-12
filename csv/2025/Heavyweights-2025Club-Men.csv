@@ -87,33 +87,6 @@ teamInfo,,"Carol Stream, Illinois",,,
 79,Charles Cooper
 88,Andrew Roth
 b,r,e,a,k
-Scythe,10
-teamInfo,,"Omaha, Nebraska",,https://www.facebook.com/scytheultimate/?ref=aymt_homepage_panel&eid=ARBvN0gED3WPXSN3wd5-QYuW_bTwDmgrDEb19ZeuZ2OAuYE13vdyfwSQASticEyPyGjIcpYB9Q0sfBVB,@ScytheUltimate
-0,Caleb Williams
-0,Kingdon Hawes
-0,MeKota Fogg
-4,Samuel Thomas
-03,Matt Leigh
-06,Zane Mrozla-Mindrup
-08,Joshua Sender
-10,David Zheng
-11,Matthew Georgesen
-13,Josh Sherer
-15,Nich Rush
-17,DYLAN REGAN
-22,Adam Meyer
-24,Kobe  Bray
-34,Andrew Tupper
-35,Kyle Carson
-36,Owen Weiche
-38,Ian Tuck
-42,Chas Busch
-44,Isaiah  Bray-Johnson
-54,Eamon  Sughroue
-69,Jordan Johnson
-72,John Bevans
-85,Peyton Thurman
-b,r,e,a,k
 OPE,11
 teamInfo,,"Minneapolis, Minnesota",,,
 0,Jonathan Edwards
@@ -142,6 +115,33 @@ teamInfo,,"Minneapolis, Minnesota",,,
 88,Seth Johnson
 90,Ishan Sodhi
 95,Owen Dam
+b,r,e,a,k
+Scythe,10
+teamInfo,,"Omaha, Nebraska",,https://www.facebook.com/scytheultimate/?ref=aymt_homepage_panel&eid=ARBvN0gED3WPXSN3wd5-QYuW_bTwDmgrDEb19ZeuZ2OAuYE13vdyfwSQASticEyPyGjIcpYB9Q0sfBVB,@ScytheUltimate
+0,Caleb Williams
+0,Kingdon Hawes
+0,MeKota Fogg
+4,Samuel Thomas
+03,Matt Leigh
+06,Zane Mrozla-Mindrup
+08,Joshua Sender
+10,David Zheng
+11,Matthew Georgesen
+13,Josh Sherer
+15,Nich Rush
+17,DYLAN REGAN
+22,Adam Meyer
+24,Kobe  Bray
+34,Andrew Tupper
+35,Kyle Carson
+36,Owen Weiche
+38,Ian Tuck
+42,Chas Busch
+44,Isaiah  Bray-Johnson
+54,Eamon  Sughroue
+69,Jordan Johnson
+72,John Bevans
+85,Peyton Thurman
 b,r,e,a,k
 Trident,2
 teamInfo,,"Chicago, Illinois",,,https://twitter.com/tridentulti
@@ -653,7 +653,7 @@ Scythe,OPE,12,11,"07/12/2025, 12:30",Pool A,Final
 Colonels,Timber,13,12,"07/12/2025, 14:15",Pool A,Final
 Scythe,Shift,10,13,"07/12/2025, 14:15",Pool A,Final
 Colonels,Scythe,15,7,"07/12/2025, 16:00",Pool A,Final
-OPE,Shift,0,0,"07/12/2025, 16:00",Pool A,Scheduled
+OPE,Shift,12,11,"07/12/2025, 16:00",Pool A,Final
 pool,Pool B
 Trident,Conspiracy Theory,15,4,"07/12/2025, 09:00",Pool B,Final
 Fuse,Mischief,15,5,"07/12/2025, 09:00",Pool B,Final
@@ -696,19 +696,22 @@ Roundhouse,Minnesota Superior U20B,14,11,"07/12/2025, 12:30",Pool E,Final
 Zoboomafoo,Diesel,15,8,"07/12/2025, 12:30",Pool E,Final
 Tanasi,Roundhouse,15,5,"07/12/2025, 14:15",Pool E,Final
 Zoboomafoo,Minnesota Superior U20B,15,10,"07/12/2025, 14:15",Pool E,Final
-Tanasi,Zoboomafoo,0,0,"07/12/2025, 16:00",Pool E,Scheduled
+Tanasi,Zoboomafoo,15,8,"07/12/2025, 16:00",Pool E,Final
 Diesel,Minnesota Superior U20B,0,0,"07/12/2025, 16:00",Pool E,Scheduled
 b,r,e,a,k
 brackets,M BP
 bracket,M CHAMPIONSHIP BRACKET
+Colonels,Knights of Ni,0,0,"07/13/2025, 09:00",M QUARTERS,Scheduled
 Trident,WOMP,0,0,"07/13/2025, 09:00",M QUARTERS,Scheduled
 bracket,M 3RD PLACE GAME
 bracket,M 5TH PLACE BRACKET
 bracket,M 7TH PLACE GAME
 bracket,M UPPERCUT BRACKET
 Fuse,DeMo,0,0,"07/13/2025, 10:45",M UPPERCUT SEMIS,Scheduled
+Timber,Rubicon Rapids,0,0,"07/13/2025, 10:45",M UPPERCUT SEMIS,Scheduled
 bracket,X UPPERCUT 3RD PLACE GAME
 bracket,M SOUTHPAW BRACKET
+Shift,Zoo Animals,0,0,"07/13/2025, 09:00",M SOUTHPAW SEMIS,Scheduled
 bracket,M SOUTHPAW 3RD PLACE GAME
 b,r,e,a,k
 pools,M CONS PP
@@ -716,5 +719,8 @@ pool,X HOOK
 STL Moonar,Conspiracy Theory,0,0,"07/13/2025, 09:00",X HOOK,Scheduled
 pool,X JAB
 Mischief,Scoop,0,0,"07/13/2025, 09:00",X JAB,Scheduled
+OPE,Scoop,0,0,"07/13/2025, 10:45",X JAB,Scheduled
+OPE,Mischief,0,0,"07/13/2025, 12:30",X JAB,Scheduled
 pool,X KNOCKOUT
+Scythe,NOMAD,0,0,"07/13/2025, 12:30",X KNOCKOUT,Scheduled
 b,r,e,a,k
