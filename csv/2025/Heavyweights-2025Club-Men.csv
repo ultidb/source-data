@@ -324,6 +324,29 @@ teamInfo,,"Golden Valley, Minnesota",,,https://twitter.com/ulti_ni
 41,Samuel Bumsted
 57,Bif Reiser
 b,r,e,a,k
+Rubicon Rapids,23
+teamInfo,,"Hartford, Wisconsin",,,
+02,Aidan Garvey
+08,Jeremiah Cantrall
+09,Brian Peller
+11,Elijah Rickenbach
+13,Frank Kulaszewicz
+15,Daniel Pietz
+17,Spencer Pischke
+18,Samuel Pietz
+20,William Noguera
+22,Zachary Cook
+24,Taylor Muth
+25,Kyle West
+30,Stephen Cantrall
+31,Caleb Hummel
+32,Isaac Gamble
+37,DANIEL SHELDON
+42,Joshua Hummel
+50,Kevin Lui
+66,Malachi Hummel
+99,Lucas Frede
+b,r,e,a,k
 STL Moonar,18
 teamInfo,,"St. Louis, Missouri",,,
 0,Arik Screnchuk
@@ -350,29 +373,6 @@ teamInfo,,"St. Louis, Missouri",,,
 42,John Markiewicz
 43,JP Torack
 81,Zachary Szatkowski
-b,r,e,a,k
-Rubicon Rapids,23
-teamInfo,,"Hartford, Wisconsin",,,
-02,Aidan Garvey
-08,Jeremiah Cantrall
-09,Brian Peller
-11,Elijah Rickenbach
-13,Frank Kulaszewicz
-15,Daniel Pietz
-17,Spencer Pischke
-18,Samuel Pietz
-20,William Noguera
-22,Zachary Cook
-24,Taylor Muth
-25,Kyle West
-30,Stephen Cantrall
-31,Caleb Hummel
-32,Isaac Gamble
-37,DANIEL SHELDON
-42,Joshua Hummel
-50,Kevin Lui
-66,Malachi Hummel
-99,Lucas Frede
 b,r,e,a,k
 Scoop,13
 teamInfo,,"Cleveland, Ohio",,,
@@ -445,25 +445,6 @@ teamInfo,,"Cleveland, Ohio",,,
 51,Andrew Thompson
 77,Ian Knaus
 b,r,e,a,k
-Zoo Animals,24
-teamInfo,,"Kalamazoo, Michigan",,,
-1,John Peterson
-02,Ben Resar
-10,James Pekel
-11,Joshua Kozlowski
-11,Ryan Schwartz
-12,Alex Dugas
-16,David LaDuke
-17,Michael Huang
-22,Austin Chapin
-23,Isaac Hannewald
-25,Dallas Fisher
-33,Quinten Burlew
-64,Tomokai Timmer
-77,Grant Ruschak
-82,Isaac Van Doornik
-96,Daniel Laritz
-b,r,e,a,k
 DeMo,14
 teamInfo,,"Des Moines, Iowa",,,https://twitter.com/demoultimate
 0,Adam Levine
@@ -491,6 +472,25 @@ teamInfo,,"Des Moines, Iowa",,,https://twitter.com/demoultimate
 45,Devon Lord
 69,Neal Patel
 87,Nicholas Wood
+b,r,e,a,k
+Zoo Animals,24
+teamInfo,,"Kalamazoo, Michigan",,,
+1,John Peterson
+02,Ben Resar
+10,James Pekel
+11,Joshua Kozlowski
+11,Ryan Schwartz
+12,Alex Dugas
+16,David LaDuke
+17,Michael Huang
+22,Austin Chapin
+23,Isaac Hannewald
+25,Dallas Fisher
+33,Quinten Burlew
+64,Tomokai Timmer
+77,Grant Ruschak
+82,Isaac Van Doornik
+96,Daniel Laritz
 b,r,e,a,k
 NOMAD,17
 teamInfo,,"Edina / St. Louis Park , Minnesota",https://www.nomadultimate.com/home,,
@@ -661,7 +661,7 @@ Trident,Fuse,15,12,"07/12/2025, 10:45",Pool B,Final
 Cozy Boys,Mischief,15,8,"07/12/2025, 10:45",Pool B,Final
 Mischief,Conspiracy Theory,9,13,"07/12/2025, 12:30",Pool B,Final
 Cozy Boys,Fuse,10,15,"07/12/2025, 12:30",Pool B,Final
-Trident,Mischief,15,7,"07/12/2025, 14:15",Pool B,Scheduled
+Trident,Mischief,15,7,"07/12/2025, 14:15",Pool B,Final
 Cozy Boys,Conspiracy Theory,0,0,"07/12/2025, 14:15",Pool B,Scheduled
 Trident,Cozy Boys,0,0,"07/12/2025, 16:00",Pool B,Scheduled
 Fuse,Conspiracy Theory,0,0,"07/12/2025, 16:00",Pool B,Scheduled
@@ -672,7 +672,7 @@ ISO Atmo,Scoop,15,7,"07/12/2025, 10:45",Pool C,Final
 Knights of Ni,STL Moonar,15,7,"07/12/2025, 10:45",Pool C,Final
 STL Moonar,Rubicon Rapids,11,12,"07/12/2025, 12:30",Pool C,Final
 Knights of Ni,Scoop,12,6,"07/12/2025, 12:30",Pool C,Final
-ISO Atmo,STL Moonar,0,0,"07/12/2025, 14:15",Pool C,Scheduled
+ISO Atmo,STL Moonar,15,6,"07/12/2025, 14:15",Pool C,Final
 Knights of Ni,Rubicon Rapids,0,0,"07/12/2025, 14:15",Pool C,Scheduled
 ISO Atmo,Knights of Ni,0,0,"07/12/2025, 16:00",Pool C,Scheduled
 Scoop,Rubicon Rapids,0,0,"07/12/2025, 16:00",Pool C,Scheduled
@@ -683,8 +683,8 @@ Chimney,DeMo,15,9,"07/12/2025, 10:45",Pool D,Final
 WOMP,NOMAD,15,4,"07/12/2025, 10:45",Pool D,Final
 NOMAD,Zoo Animals,11,15,"07/12/2025, 12:30",Pool D,Final
 WOMP,DeMo,15,6,"07/12/2025, 12:30",Pool D,Final
-Chimney,NOMAD,0,0,"07/12/2025, 14:15",Pool D,Scheduled
-WOMP,Zoo Animals,0,0,"07/12/2025, 14:15",Pool D,Scheduled
+Chimney,NOMAD,15,2,"07/12/2025, 14:15",Pool D,Final
+WOMP,Zoo Animals,15,3,"07/12/2025, 14:15",Pool D,Final
 Chimney,WOMP,0,0,"07/12/2025, 16:00",Pool D,Scheduled
 DeMo,Zoo Animals,0,0,"07/12/2025, 16:00",Pool D,Scheduled
 pool,Pool E
