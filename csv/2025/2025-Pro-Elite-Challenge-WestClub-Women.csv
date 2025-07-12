@@ -113,33 +113,6 @@ coaches,Amy Schlabach
 93,Anna Sivinski
 96,Julia Peden
 b,r,e,a,k
-Underground,12
-teamInfo,,"Seattle, Washington",,https://www.facebook.com/SeattleUnderground,https://twitter.com/UG_Seattle
-coaches,Nina Janjic
-0,Hannah DeVault
-0,Hannah Scott
-0,Hazel Brown
-0,Julia Hanson
-0,Koume Matsutori
-0,Lena Millard-Kish
-0,Lilliana Werner
-0,Lily Moline
-0,Lindsay Frederick
-0,Megan Yang
-0,Meghan Gannon
-0,Sally Calengor
-0,Sandrine Girard
-0,Stella Biehl
-0,Devon Chapman
-0,Anika Burrell
-0,Caroline Passalacqua
-4,Joline Chang
-12,Courtney Cash
-13,Shanti Chier
-14,Elsa Lindenmeyr
-20,Caitlin Durston
-33,Sonja Lee
-b,r,e,a,k
 Pop,7
 teamInfo,,"Minneapolis, Minnesota",http://popultimate.wordpress.com/,https://www.facebook.com/popultimate,https://twitter.com/PopUltimate
 coaches,Donald Wood
@@ -166,6 +139,33 @@ coaches,Donald Wood
 16,Lisa Barnes
 19,Isabel Demo
 19,Juliana Jordan
+b,r,e,a,k
+Underground,12
+teamInfo,,"Seattle, Washington",,https://www.facebook.com/SeattleUnderground,https://twitter.com/UG_Seattle
+coaches,Nina Janjic
+0,Hannah DeVault
+0,Hannah Scott
+0,Hazel Brown
+0,Julia Hanson
+0,Koume Matsutori
+0,Lena Millard-Kish
+0,Lilliana Werner
+0,Lily Moline
+0,Lindsay Frederick
+0,Megan Yang
+0,Meghan Gannon
+0,Sally Calengor
+0,Sandrine Girard
+0,Stella Biehl
+0,Devon Chapman
+0,Anika Burrell
+0,Caroline Passalacqua
+4,Joline Chang
+12,Courtney Cash
+13,Shanti Chier
+14,Elsa Lindenmeyr
+20,Caitlin Durston
+33,Sonja Lee
 b,r,e,a,k
 Seattle Riot,3
 teamInfo,,"Seattle, Washington",http://seattleriot.org/,https://www.facebook.com/SeattleRiot,https://twitter.com/SeattleRiot
@@ -252,32 +252,6 @@ teamInfo,,"Chicago, Illinois",http://www.chicago-nemesis.com/,https://www.facebo
 82,Claire Schmitt
 88,Catherine Chen
 b,r,e,a,k
-Traffic,4
-teamInfo,,"Vancouver, British Columbia CA",,https://www.facebook.com/TrafficUltimate,https://twitter.com/traffic_ulti/
-coaches,Robbie Brennan,Derek Cheng
-0,Alicia Brolly
-0,Andrea Moir
-0,Breanna Roussin
-0,Brianne Wager
-0,Catherine Menzies
-0,Daisy Lin
-0,Grace Liu
-0,Jada Lim
-0,Jessica Rockliff
-0,Jessie Tai
-0,Lucy Robertson
-0,Marie-Ève Beauchemin
-0,Sarah Norton
-0,Selina Liang 
-0,Sophia  Chan
-0,Stephanie Siu
-0,Zee He
-2,Laurel Jay
-10,Jessie Chen
-19,Brynn Freeland
-33,Laura Mason
-70,Maude Roy
-b,r,e,a,k
 Schwa,5
 teamInfo,,"Portland, Oregon",https://www.oregonschwa.com/,https://www.facebook.com/schwaultimate,https://twitter.com/SchwaUltimate
 0,Anna Reed
@@ -306,6 +280,32 @@ teamInfo,,"Portland, Oregon",https://www.oregonschwa.com/,https://www.facebook.c
 72,Ezra Weybright
 92,Michiko Ishii-Magnant
 99,Noelle Takahashi
+b,r,e,a,k
+Traffic,4
+teamInfo,,"Vancouver, British Columbia CA",,https://www.facebook.com/TrafficUltimate,https://twitter.com/traffic_ulti/
+coaches,Robbie Brennan,Derek Cheng
+0,Alicia Brolly
+0,Andrea Moir
+0,Breanna Roussin
+0,Brianne Wager
+0,Catherine Menzies
+0,Daisy Lin
+0,Grace Liu
+0,Jada Lim
+0,Jessica Rockliff
+0,Jessie Tai
+0,Lucy Robertson
+0,Marie-Ève Beauchemin
+0,Sarah Norton
+0,Selina Liang 
+0,Sophia  Chan
+0,Stephanie Siu
+0,Zee He
+2,Laurel Jay
+10,Jessie Chen
+19,Brynn Freeland
+33,Laura Mason
+70,Maude Roy
 b,r,e,a,k
 FAB,10
 teamInfo,,"Bay Area, California",,https://www.facebook.com/FABultimate/,https://twitter.com/FABultimate
@@ -341,20 +341,27 @@ Dark Sky,Vengeance,12,7,"07/12/2025, 12:00",Pool A,Final
 pool,Pool B
 Flipside,Underground,15,7,"07/12/2025, 08:30",Pool B,Final
 Flipside,Pop,15,6,"07/12/2025, 10:15",Pool B,Final
-Pop,Underground,0,0,"07/12/2025, 12:00",Pool B,Scheduled
+Pop,Underground,15,7,"07/12/2025, 12:00",Pool B,Final
 pool,Pool C
 Seattle Riot,Nightlock,15,10,"07/12/2025, 08:30",Pool C,Final
 Seattle Riot,Nemesis,15,9,"07/12/2025, 10:15",Pool C,Final
-Nemesis,Nightlock,0,0,"07/12/2025, 12:00",Pool C,Scheduled
+Nemesis,Nightlock,10,12,"07/12/2025, 12:00",Pool C,Final
 pool,Pool D
 Traffic,FAB,15,3,"07/12/2025, 08:30",Pool D,Final
 Traffic,Schwa,10,15,"07/12/2025, 10:15",Pool D,Final
-Schwa,FAB,0,0,"07/12/2025, 12:00",Pool D,Scheduled
+Schwa,FAB,14,6,"07/12/2025, 12:00",Pool D,Final
 b,r,e,a,k
 clusters,Bracket Seeding Crossovers
+cluster,Seeding Crossover
+Fury,Seattle Riot,0,0,"07/12/2025, 13:45",,Scheduled
+Flipside,Schwa,0,0,"07/12/2025, 15:30",,Scheduled
 b,r,e,a,k
 brackets,Pro-Elite Challenge West Championship
 bracket,Championship
+Pop,FAB,0,0,"07/12/2025, 13:45",Pre-Quarterfinals,Scheduled
+Nightlock,Vengeance,0,0,"07/12/2025, 15:30",Pre-Quarterfinals,Scheduled
+Traffic,Underground,0,0,"07/12/2025, 13:45",Pre-Quarterfinals,Scheduled
+Dark Sky,Nemesis,0,0,"07/12/2025, 15:30",Pre-Quarterfinals,Scheduled
 b,r,e,a,k
 brackets,Placement Brackets
 bracket,Third Place
