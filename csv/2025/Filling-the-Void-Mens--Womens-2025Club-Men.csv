@@ -57,6 +57,26 @@ teamInfo,,"Greenville, South Carolina",https://www.instagram.com/gvl_trout_ultim
 34,Drew Flesch
 99,Michael Hayes
 b,r,e,a,k
+Pittsburgh Stealers,12
+teamInfo,,"Pittsburgh, Pennsylvania",,,@stealerspitt
+0,Aarush Panda
+0,Benjamin Farmer
+0,Brandon Zhou
+0,Campbell Tucker-Hill
+0,Colin Daines
+0,Daniel Tometich
+0,Paul Michael Healy
+0,William Litchholt
+4,Joshua Morton
+9,Joe Dosch
+12,Max Sprigg-Dudley
+17,Chris Chang
+18,Elliot Hare
+25,Graham Barton
+29,Everitt Meer
+56,James Alzona
+72,Jake Sperry
+b,r,e,a,k
 Hooch,8
 teamInfo,,"Atlanta, Georgia",,,https://twitter.com/HoochUltimate
 0,Joseph Cicione
@@ -82,26 +102,6 @@ teamInfo,,"Atlanta, Georgia",,,https://twitter.com/HoochUltimate
 52,Phillip Clifford
 69,Michael Catucci
 71,Héctor  Segovia 
-b,r,e,a,k
-Pittsburgh Stealers,12
-teamInfo,,"Pittsburgh, Pennsylvania",,,@stealerspitt
-0,Aarush Panda
-0,Benjamin Farmer
-0,Brandon Zhou
-0,Campbell Tucker-Hill
-0,Colin Daines
-0,Daniel Tometich
-0,Paul Michael Healy
-0,William Litchholt
-4,Joshua Morton
-9,Joe Dosch
-12,Max Sprigg-Dudley
-17,Chris Chang
-18,Elliot Hare
-25,Graham Barton
-29,Everitt Meer
-56,James Alzona
-72,Jake Sperry
 b,r,e,a,k
 Town Hall Stars,7
 teamInfo,,"College Park, Maryland",,,
@@ -205,32 +205,6 @@ teamInfo,,"Charlotte, North Carolina",,,
 77,Sean Kiser
 92,John Colyer
 b,r,e,a,k
-Black Lung,6
-teamInfo,,"Lexington, Kentucky",,,https://twitter.com/blacklungulti?lang=en
-0,Cole Bernstein
-0,Daniel Swastek
-0,Garrett Hamilton
-0,Jack DeLong
-0,Jackson Hollander
-0,Joseph Neuzel
-0,Mason Montgomery
-0,Nathan Riffell
-0,Nicholas Riffell
-0,Sifaan Amanu
-0,Isaac Madill
-0,Christopher Padgett
-0,David Diddle
-1,Adam Houk
-8,Nathan Meade
-10,Larry Farmer Jr
-23,Reid Gouge
-27,Wyatt Driskell
-42,Josiah Cutts
-45,Nate Knowles
-53,Jacob Gowan
-61,Chris Bauer
-63,Ezekiel Miller
-b,r,e,a,k
 Little Red Wagon,3
 teamInfo,,"Atlanta, Georgia",,,
 coaches,Frederic Perivier
@@ -256,6 +230,32 @@ coaches,Frederic Perivier
 69,Garrett Anderson
 85,Conner Gabriel
 87,Trenton Spinks
+b,r,e,a,k
+Black Lung,6
+teamInfo,,"Lexington, Kentucky",,,https://twitter.com/blacklungulti?lang=en
+0,Cole Bernstein
+0,Daniel Swastek
+0,Garrett Hamilton
+0,Jack DeLong
+0,Jackson Hollander
+0,Joseph Neuzel
+0,Mason Montgomery
+0,Nathan Riffell
+0,Nicholas Riffell
+0,Sifaan Amanu
+0,Isaac Madill
+0,Christopher Padgett
+0,David Diddle
+1,Adam Houk
+8,Nathan Meade
+10,Larry Farmer Jr
+23,Reid Gouge
+27,Wyatt Driskell
+42,Josiah Cutts
+45,Nate Knowles
+53,Jacob Gowan
+61,Chris Bauer
+63,Ezekiel Miller
 b,r,e,a,k
 NC Brickhouse,10
 teamInfo,,"Raleigh, North Carolina",,,
@@ -409,7 +409,7 @@ pools,Pool Play
 pool,Pool A
 baNC,Pittsburgh Stealers,13,4,"07/12/2025, 08:30",Pool A,Final
 Hooch,GVL Trout,8,13,"07/12/2025, 08:30",Pool A,Final
-baNC,Hooch,0,0,"07/12/2025, 10:25",Pool A,Scheduled
+baNC,Hooch,13,8,"07/12/2025, 10:25",Pool A,Final
 Pittsburgh Stealers,GVL Trout,0,0,"07/12/2025, 10:25",Pool A,Scheduled
 baNC,GVL Trout,0,0,"07/12/2025, 12:20",Pool A,Scheduled
 Hooch,Pittsburgh Stealers,0,0,"07/12/2025, 12:20",Pool A,Scheduled
@@ -417,20 +417,20 @@ pool,Pool B
 Lost Boys,Queen City Kings,13,6,"07/12/2025, 08:30",Pool B,Final
 Town Hall Stars,Tennessee Folklore,13,6,"07/12/2025, 08:30",Pool B,Final
 Lost Boys,Town Hall Stars,0,0,"07/12/2025, 10:25",Pool B,Scheduled
-Queen City Kings,Tennessee Folklore,0,0,"07/12/2025, 10:25",Pool B,Scheduled
+Queen City Kings,Tennessee Folklore,12,13,"07/12/2025, 10:25",Pool B,Final
 Lost Boys,Tennessee Folklore,0,0,"07/12/2025, 12:20",Pool B,Scheduled
 Town Hall Stars,Queen City Kings,0,0,"07/12/2025, 12:20",Pool B,Scheduled
 pool,Pool C
 Little Red Wagon,NC Brickhouse,13,6,"07/12/2025, 08:30",Pool C,Final
 Black Lung,PARLAY,13,4,"07/12/2025, 08:30",Pool C,Final
 Little Red Wagon,Black Lung,0,0,"07/12/2025, 10:25",Pool C,Scheduled
-NC Brickhouse,PARLAY,0,0,"07/12/2025, 10:25",Pool C,Scheduled
+NC Brickhouse,PARLAY,13,5,"07/12/2025, 10:25",Pool C,Final
 Little Red Wagon,PARLAY,0,0,"07/12/2025, 12:20",Pool C,Scheduled
 Black Lung,NC Brickhouse,0,0,"07/12/2025, 12:20",Pool C,Scheduled
 pool,Pool D
 John Doe,UpRoar,13,11,"07/12/2025, 08:30",Pool D,Final
 Triumph,Gambit,13,1,"07/12/2025, 08:30",Pool D,Final
-John Doe,Triumph,0,0,"07/12/2025, 10:25",Pool D,Scheduled
+John Doe,Triumph,10,13,"07/12/2025, 10:25",Pool D,Final
 UpRoar,Gambit,0,0,"07/12/2025, 10:25",Pool D,Scheduled
 John Doe,Gambit,0,0,"07/12/2025, 12:20",Pool D,Scheduled
 Triumph,UpRoar,0,0,"07/12/2025, 12:20",Pool D,Scheduled
