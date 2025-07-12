@@ -425,7 +425,7 @@ Pittsburgh Temper,Shade,0,0,"07/12/2025, 10:15",Pool A,Scheduled
 GOAT,Pittsburgh Temper,0,0,"07/12/2025, 12:00",Pool A,Scheduled
 Shade,Drought,0,0,"07/12/2025, 12:00",Pool A,Scheduled
 pool,Pool B
-Vault,Scoop,0,0,"07/12/2025, 08:30",Pool B,Scheduled
+Vault,Scoop,15,10,"07/12/2025, 08:30",Pool B,Scheduled
 Flying Dutchmen,Nighthawk,15,11,"07/12/2025, 08:30",Pool B,Final
 Vault,Nighthawk,0,0,"07/12/2025, 10:15",Pool B,Scheduled
 Flying Dutchmen,Scoop,0,0,"07/12/2025, 10:15",Pool B,Scheduled
@@ -435,7 +435,7 @@ pool,Pool C
 Fungi,Alamode,0,0,"07/12/2025, 08:30",Pool C,Scheduled
 Oak Grove Boys,Alliance,12,14,"07/12/2025, 08:30",Pool C,Final
 Fungi,Alliance,0,0,"07/12/2025, 10:15",Pool C,Scheduled
-Oak Grove Boys,Alamode,0,1,"07/12/2025, 10:15",Pool C,In Progress
+Oak Grove Boys,Alamode,1,1,"07/12/2025, 10:15",Pool C,In Progress
 Fungi,Oak Grove Boys,0,0,"07/12/2025, 12:00",Pool C,Scheduled
 Alamode,Alliance,0,0,"07/12/2025, 12:00",Pool C,Scheduled
 pool,Pool D
