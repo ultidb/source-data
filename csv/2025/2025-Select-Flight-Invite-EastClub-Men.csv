@@ -1,30 +1,6 @@
 2025 Select Flight Invite East,Club - Men ,12,7,2025
 Fredericksburg,VA,2025-07-12,2025-07-13
 https://play.usaultimate.org/events/2025-Select-Flight-Invite-East/schedule/Men/Club-Men/
-GOAT,1
-teamInfo,,"Toronto, Ontario CA",http://goatultimate.wix.com/main,https://www.facebook.com/GOATultimate,https://twitter.com/GOATultimate
-coaches,Kevin Lee
-0,Harry Norris
-0,James McClean
-0,Keith McRae
-0,Kelvin Huang
-0,Kevin Jay
-0,Nam Ho
-0,Araav Sehgal
-0,David Petsinis
-0,Noah Nishizaki
-0,Owen Robinson
-0,Toms Abeltins
-0,Adam Turcotte
-1,Tom Blasman
-2,Eric Zhuang
-3,Andrew Carroll
-9,Jaret Meron
-12,Nathan Hsieh
-12,Remi Ojo
-13,Kai Huang
-69,Luc Comire
-b,r,e,a,k
 Pittsburgh Temper,7
 teamInfo,,"Pittsburgh, Pennsylvania",,https://www.facebook.com/pghtemper/,https://twitter.com/pghtemper
 coaches,David Berg
@@ -81,6 +57,30 @@ teamInfo,,"Brooklyn, New York",https://instagram.com/shadeulti,http://gagopakara
 84,Brian Moore
 85,Jacob Coonin
 95,Colin Kochenash
+b,r,e,a,k
+GOAT,1
+teamInfo,,"Toronto, Ontario CA",http://goatultimate.wix.com/main,https://www.facebook.com/GOATultimate,https://twitter.com/GOATultimate
+coaches,Kevin Lee
+0,Harry Norris
+0,James McClean
+0,Keith McRae
+0,Kelvin Huang
+0,Kevin Jay
+0,Nam Ho
+0,Araav Sehgal
+0,David Petsinis
+0,Noah Nishizaki
+0,Owen Robinson
+0,Toms Abeltins
+0,Adam Turcotte
+1,Tom Blasman
+2,Eric Zhuang
+3,Andrew Carroll
+9,Jaret Meron
+12,Nathan Hsieh
+12,Remi Ojo
+13,Kai Huang
+69,Luc Comire
 b,r,e,a,k
 Drought,16
 teamInfo,,"Phoenix, Arizona",https://www.instagram.com/drought.ultimate?igsh=MXJ6c3pxenhuMmQzcw==,,https://twitter.com/DroughtUltimate
@@ -206,6 +206,56 @@ teamInfo,,"Phoenix, Arizona",,,
 81,Caden Sigerud
 89,Adam Whitton
 b,r,e,a,k
+Alliance,14
+teamInfo,,"Alabama, Alabama",,,
+01,Shane  Denman 
+02,Caleb Byers
+03,Tyler  Menix
+04,Jacob Lipford
+05,Cam Copeland
+07,Benjamin Forton
+09,James  Poe
+11,Joseph Sucgang
+12,Jeffrey Martin
+12,Josh Bowers
+20,Mitchell Parker
+21,Matthew Green
+23,Luke Thomas
+25,Blake Stratton
+26,Isaiah Rutledge
+27,Cross Jenkins
+33,Drew Laird
+42,Fletcher Hare
+49,Grayson Smith
+59,Brandon Beers
+71,Justin Weaver
+78,Thomas Langloh
+89,Joshua Reed
+b,r,e,a,k
+Alamode,12
+teamInfo,,"San Antonio, Texas",,,
+0,Drew Gullahorn
+0,Gavin Hart
+0,Jacob Rosen
+0,Josh Banks
+0,Joshua Gammon
+0,Justin Shelby
+0,Silas Paterka
+0,Soren Watterson
+0,Tat Whitley
+0,Beau Fournet
+0,Patrick Zertuche
+1,Ryan Smith
+1,Skye Knight
+8,James Crosnoe
+9,Kevin McGloin
+10,Chase Stegall
+11,Nicholas Ortiz
+13,Jaedron Mueller
+23,Christian Paterka
+25,Paul Jackson
+28,Axel Anderson
+b,r,e,a,k
 Fungi,3
 teamInfo,,"Denver, Colorado",,,
 01,Will Wallace
@@ -261,56 +311,6 @@ teamInfo,,"ARLINGTON, Virginia",,https://www.facebook.com/OakgroveBoys/,https://
 69,Couper Kerns
 90,Charles Baird
 99,Alex Pistolesi
-b,r,e,a,k
-Alamode,12
-teamInfo,,"San Antonio, Texas",,,
-0,Drew Gullahorn
-0,Gavin Hart
-0,Jacob Rosen
-0,Josh Banks
-0,Joshua Gammon
-0,Justin Shelby
-0,Silas Paterka
-0,Soren Watterson
-0,Tat Whitley
-0,Beau Fournet
-0,Patrick Zertuche
-1,Ryan Smith
-1,Skye Knight
-8,James Crosnoe
-9,Kevin McGloin
-10,Chase Stegall
-11,Nicholas Ortiz
-13,Jaedron Mueller
-23,Christian Paterka
-25,Paul Jackson
-28,Axel Anderson
-b,r,e,a,k
-Alliance,14
-teamInfo,,"Alabama, Alabama",,,
-01,Shane  Denman 
-02,Caleb Byers
-03,Tyler  Menix
-04,Jacob Lipford
-05,Cam Copeland
-07,Benjamin Forton
-09,James  Poe
-11,Joseph Sucgang
-12,Jeffrey Martin
-12,Josh Bowers
-20,Mitchell Parker
-21,Matthew Green
-23,Luke Thomas
-25,Blake Stratton
-26,Isaiah Rutledge
-27,Cross Jenkins
-33,Drew Laird
-42,Fletcher Hare
-49,Grayson Smith
-59,Brandon Beers
-71,Justin Weaver
-78,Thomas Langloh
-89,Joshua Reed
 b,r,e,a,k
 Lounar,4
 teamInfo,,"St. Louis, Missouri",,https://www.facebook.com/STL-Lounar-109283871717037,https://twitter.com/STLlounar
@@ -419,7 +419,7 @@ s,t,a,g,e,s
 pools,Saturday Pool Play
 pool,Pool A
 GOAT,Shade,3,8,"07/12/2025, 08:30",Pool A,In Progress
-Pittsburgh Temper,Drought,0,0,"07/12/2025, 08:30",Pool A,Scheduled
+Pittsburgh Temper,Drought,15,8,"07/12/2025, 08:30",Pool A,Final
 GOAT,Drought,0,0,"07/12/2025, 10:15",Pool A,Scheduled
 Pittsburgh Temper,Shade,0,0,"07/12/2025, 10:15",Pool A,Scheduled
 GOAT,Pittsburgh Temper,0,0,"07/12/2025, 12:00",Pool A,Scheduled
@@ -433,7 +433,7 @@ Vault,Flying Dutchmen,0,0,"07/12/2025, 12:00",Pool B,Scheduled
 Scoop,Nighthawk,0,0,"07/12/2025, 12:00",Pool B,Scheduled
 pool,Pool C
 Fungi,Alamode,0,0,"07/12/2025, 08:30",Pool C,Scheduled
-Oak Grove Boys,Alliance,10,13,"07/12/2025, 08:30",Pool C,In Progress
+Oak Grove Boys,Alliance,12,14,"07/12/2025, 08:30",Pool C,Final
 Fungi,Alliance,0,0,"07/12/2025, 10:15",Pool C,Scheduled
 Oak Grove Boys,Alamode,0,0,"07/12/2025, 10:15",Pool C,Scheduled
 Fungi,Oak Grove Boys,0,0,"07/12/2025, 12:00",Pool C,Scheduled
