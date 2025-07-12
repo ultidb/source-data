@@ -324,6 +324,29 @@ teamInfo,,"Golden Valley, Minnesota",,,https://twitter.com/ulti_ni
 41,Samuel Bumsted
 57,Bif Reiser
 b,r,e,a,k
+Rubicon Rapids,23
+teamInfo,,"Hartford, Wisconsin",,,
+02,Aidan Garvey
+08,Jeremiah Cantrall
+09,Brian Peller
+11,Elijah Rickenbach
+13,Frank Kulaszewicz
+15,Daniel Pietz
+17,Spencer Pischke
+18,Samuel Pietz
+20,William Noguera
+22,Zachary Cook
+24,Taylor Muth
+25,Kyle West
+30,Stephen Cantrall
+31,Caleb Hummel
+32,Isaac Gamble
+37,DANIEL SHELDON
+42,Joshua Hummel
+50,Kevin Lui
+66,Malachi Hummel
+99,Lucas Frede
+b,r,e,a,k
 STL Moonar,18
 teamInfo,,"St. Louis, Missouri",,,
 0,Arik Screnchuk
@@ -350,29 +373,6 @@ teamInfo,,"St. Louis, Missouri",,,
 42,John Markiewicz
 43,JP Torack
 81,Zachary Szatkowski
-b,r,e,a,k
-Rubicon Rapids,23
-teamInfo,,"Hartford, Wisconsin",,,
-02,Aidan Garvey
-08,Jeremiah Cantrall
-09,Brian Peller
-11,Elijah Rickenbach
-13,Frank Kulaszewicz
-15,Daniel Pietz
-17,Spencer Pischke
-18,Samuel Pietz
-20,William Noguera
-22,Zachary Cook
-24,Taylor Muth
-25,Kyle West
-30,Stephen Cantrall
-31,Caleb Hummel
-32,Isaac Gamble
-37,DANIEL SHELDON
-42,Joshua Hummel
-50,Kevin Lui
-66,Malachi Hummel
-99,Lucas Frede
 b,r,e,a,k
 Scoop,13
 teamInfo,,"Cleveland, Ohio",,,
@@ -402,6 +402,27 @@ teamInfo,,"Cleveland, Ohio",,,
 76,Logan Heck
 77,Vonterio Duncan
 b,r,e,a,k
+Chimney,4
+teamInfo,,"Cleveland, Ohio",,,
+0,Benjamin March
+0,David Picone
+0,Evan Howey
+0,Jacob Rollins
+0,Sam King
+0,Vlad Estrin
+4,Jacob Bultman
+9,Christopher Auman
+02,Malachi Marshall
+11,Matthew Sullivan
+12,Simon Korotzer-Mariani
+22,John  Iannetta 
+23,Chris Graber
+28,Ryan Ward
+29,Daniel Shen
+41,Noah Saidel
+51,Andrew Thompson
+77,Ian Knaus
+b,r,e,a,k
 WOMP,7
 teamInfo,,"Centennial Park, Tennessee",,,
 01,Daniel Gerregano
@@ -423,27 +444,6 @@ teamInfo,,"Centennial Park, Tennessee",,,
 34,Daniel Lynch
 85,Aaron Wilder
 99,Giri Peters
-b,r,e,a,k
-Chimney,4
-teamInfo,,"Cleveland, Ohio",,,
-0,Benjamin March
-0,David Picone
-0,Evan Howey
-0,Jacob Rollins
-0,Sam King
-0,Vlad Estrin
-4,Jacob Bultman
-9,Christopher Auman
-02,Malachi Marshall
-11,Matthew Sullivan
-12,Simon Korotzer-Mariani
-22,John  Iannetta 
-23,Chris Graber
-28,Ryan Ward
-29,Daniel Shen
-41,Noah Saidel
-51,Andrew Thompson
-77,Ian Knaus
 b,r,e,a,k
 DeMo,14
 teamInfo,,"Des Moines, Iowa",,,https://twitter.com/demoultimate
@@ -652,7 +652,7 @@ Timber,Shift,14,11,"07/12/2025, 12:30",Pool A,Final
 Scythe,OPE,12,11,"07/12/2025, 12:30",Pool A,Final
 Colonels,Timber,13,12,"07/12/2025, 14:15",Pool A,Final
 Scythe,Shift,10,13,"07/12/2025, 14:15",Pool A,Final
-Colonels,Scythe,0,0,"07/12/2025, 16:00",Pool A,Scheduled
+Colonels,Scythe,15,7,"07/12/2025, 16:00",Pool A,Final
 OPE,Shift,0,0,"07/12/2025, 16:00",Pool A,Scheduled
 pool,Pool B
 Trident,Conspiracy Theory,15,4,"07/12/2025, 09:00",Pool B,Final
@@ -675,7 +675,7 @@ Knights of Ni,Scoop,12,6,"07/12/2025, 12:30",Pool C,Final
 ISO Atmo,STL Moonar,15,6,"07/12/2025, 14:15",Pool C,Final
 Knights of Ni,Rubicon Rapids,15,7,"07/12/2025, 14:15",Pool C,Final
 ISO Atmo,Knights of Ni,15,9,"07/12/2025, 16:00",Pool C,Final
-Scoop,Rubicon Rapids,0,0,"07/12/2025, 16:00",Pool C,Scheduled
+Scoop,Rubicon Rapids,10,15,"07/12/2025, 16:00",Pool C,Final
 pool,Pool D
 Chimney,Zoo Animals,15,6,"07/12/2025, 09:00",Pool D,Final
 DeMo,NOMAD,12,10,"07/12/2025, 09:00",Pool D,Final
@@ -685,8 +685,8 @@ NOMAD,Zoo Animals,11,15,"07/12/2025, 12:30",Pool D,Final
 WOMP,DeMo,15,6,"07/12/2025, 12:30",Pool D,Final
 Chimney,NOMAD,15,2,"07/12/2025, 14:15",Pool D,Final
 WOMP,Zoo Animals,15,3,"07/12/2025, 14:15",Pool D,Final
-Chimney,WOMP,0,0,"07/12/2025, 16:00",Pool D,Scheduled
-DeMo,Zoo Animals,0,0,"07/12/2025, 16:00",Pool D,Scheduled
+Chimney,WOMP,15,9,"07/12/2025, 16:00",Pool D,Final
+DeMo,Zoo Animals,15,3,"07/12/2025, 16:00",Pool D,Final
 pool,Pool E
 Tanasi,Minnesota Superior U20B,15,5,"07/12/2025, 09:00",Pool E,Final
 Diesel,Roundhouse,10,15,"07/12/2025, 09:00",Pool E,Final
@@ -701,16 +701,20 @@ Diesel,Minnesota Superior U20B,0,0,"07/12/2025, 16:00",Pool E,Scheduled
 b,r,e,a,k
 brackets,M BP
 bracket,M CHAMPIONSHIP BRACKET
+Trident,WOMP,0,0,"07/13/2025, 09:00",M QUARTERS,Scheduled
 bracket,M 3RD PLACE GAME
 bracket,M 5TH PLACE BRACKET
 bracket,M 7TH PLACE GAME
 bracket,M UPPERCUT BRACKET
+Fuse,DeMo,0,0,"07/13/2025, 10:45",M UPPERCUT SEMIS,Scheduled
 bracket,X UPPERCUT 3RD PLACE GAME
 bracket,M SOUTHPAW BRACKET
 bracket,M SOUTHPAW 3RD PLACE GAME
 b,r,e,a,k
 pools,M CONS PP
 pool,X HOOK
+STL Moonar,Conspiracy Theory,0,0,"07/13/2025, 09:00",X HOOK,Scheduled
 pool,X JAB
+Mischief,Scoop,0,0,"07/13/2025, 09:00",X JAB,Scheduled
 pool,X KNOCKOUT
 b,r,e,a,k
