@@ -125,33 +125,6 @@ teamInfo,,"Boston, Massachusetts",,,https://twitter.com/MbtaUltimate
 82,JP Collins
 87,Austin Weiss
 b,r,e,a,k
-Lantern,7
-teamInfo,,"Boston, Massachusetts",https://www.instagram.com/lanternultimate/?hl=en,,https://twitter.com/lanternultimate
-0,Alan Yi
-0,Brendan Blaney
-0,Calvin Jungreis
-0,Cody Karjadi
-0,Devan Hernandez
-0,Igor Smola
-0,John Repucci
-0,JT Kirages
-0,Marc Gleason
-0,Matt Kolk
-0,Eliot Fenton
-0,Nathaniel Cramer
-0,Pierre Fabris
-0,Sean Timmons
-0,Siddharth Yende
-4,William  Ullmann
-5,Cameron Park
-11,Alexander Fick
-12,Michael Carando
-35,Russell Katz
-37,Dylan Baroody
-47,Bryce Markel
-63,Griffin Smith
-73,Eric Peters
-b,r,e,a,k
 Sprout,2
 teamInfo,,"Amherst, Massachusetts",,,
 0,Ben Ayres
@@ -179,6 +152,33 @@ teamInfo,,"Amherst, Massachusetts",,,
 42,Liam Gallinagh
 72,Dylan Frank
 81,Geir Hartl
+b,r,e,a,k
+Lantern,7
+teamInfo,,"Boston, Massachusetts",https://www.instagram.com/lanternultimate/?hl=en,,https://twitter.com/lanternultimate
+0,Alan Yi
+0,Brendan Blaney
+0,Calvin Jungreis
+0,Cody Karjadi
+0,Devan Hernandez
+0,Igor Smola
+0,John Repucci
+0,JT Kirages
+0,Marc Gleason
+0,Matt Kolk
+0,Eliot Fenton
+0,Nathaniel Cramer
+0,Pierre Fabris
+0,Sean Timmons
+0,Siddharth Yende
+4,William  Ullmann
+5,Cameron Park
+11,Alexander Fick
+12,Michael Carando
+35,Russell Katz
+37,Dylan Baroody
+47,Bryce Markel
+63,Griffin Smith
+73,Eric Peters
 b,r,e,a,k
 BAG,13
 teamInfo,,"Somerville, Massachusetts",,,
@@ -387,34 +387,6 @@ teamInfo,,"Lexington, Massachusetts",,,
 1,Zakariya Gdihi
 25,Davide Bussone
 b,r,e,a,k
-Big Wrench,5
-teamInfo,,"Somerville, Massachusetts",,https://www.facebook.com/BigWrenchUlt,https://twitter.com/BigWrenchUlt
-0,Alex Kapinos
-0,Charles Marokhovsky
-0,Chris Yang
-0,Christopher Richmond
-0,Christopher Layden
-0,Conor McManamy
-0,Jack Facey
-0,Jacob Taylor
-0,Mike Voelpel
-0,Noah Baumann
-0,Nolan Prince
-0,Patrick Ó Súilleabháin 
-0,Samuel Whitney
-0,Sanjeev Sridhar
-0,Stephen Abel
-1,Evan Karson
-3,Henry Laseter
-3,Colin Mclaughlin
-11,William Burke
-23,Ethan Cardi
-30,Lucas Johnson
-33,Vincent Fan
-44,Matt Sehgal
-84,Sam Farnsworth
-99,Jordan Kaufman
-b,r,e,a,k
 Magma Bears,4
 teamInfo,,"ALL OF NEW YORK, New York",,https://www.facebook.com/WestchesterMagmaBears,https://twitter.com/MagmaBearUlti
 0,Adam Newman
@@ -443,6 +415,34 @@ teamInfo,,"ALL OF NEW YORK, New York",,https://www.facebook.com/WestchesterMagma
 77,Kevin Asaro
 83,Raymond Feng
 87,Brandon Chan
+b,r,e,a,k
+Big Wrench,5
+teamInfo,,"Somerville, Massachusetts",,https://www.facebook.com/BigWrenchUlt,https://twitter.com/BigWrenchUlt
+0,Alex Kapinos
+0,Charles Marokhovsky
+0,Chris Yang
+0,Christopher Richmond
+0,Christopher Layden
+0,Conor McManamy
+0,Jack Facey
+0,Jacob Taylor
+0,Mike Voelpel
+0,Noah Baumann
+0,Nolan Prince
+0,Patrick Ó Súilleabháin 
+0,Samuel Whitney
+0,Sanjeev Sridhar
+0,Stephen Abel
+1,Evan Karson
+3,Henry Laseter
+3,Colin Mclaughlin
+11,William Burke
+23,Ethan Cardi
+30,Lucas Johnson
+33,Vincent Fan
+44,Matt Sehgal
+84,Sam Farnsworth
+99,Jordan Kaufman
 b,r,e,a,k
 Resurgam Ultimate,15
 teamInfo,,"North Yarmouth, Maine",,,
@@ -486,8 +486,8 @@ Houndd,MBTA,13,4,"07/12/2025, 09:00",Pool A,Final
 Skeleton Squad,Alibi,10,12,"07/12/2025, 09:00",Pool A,Final
 Houndd,Skeleton Squad,13,9,"07/12/2025, 10:30",Pool A,Final
 Crypt,Alibi,11,10,"07/12/2025, 10:30",Pool A,Final
-Alibi,MBTA,13,7,"07/12/2025, 12:00",Pool A,Final
-Crypt,Skeleton Squad,9,10,"07/12/2025, 12:00",Pool A,Final
+Alibi,MBTA,13,7,"07/12/2025, 12:00",Pool A,Scheduled
+Crypt,Skeleton Squad,9,10,"07/12/2025, 12:00",Pool A,Scheduled
 Houndd,Alibi,0,0,"07/12/2025, 13:30",Pool A,Scheduled
 Crypt,MBTA,0,0,"07/12/2025, 13:30",Pool A,Scheduled
 Houndd,Crypt,0,0,"07/12/2025, 15:00",Pool A,Scheduled
@@ -497,9 +497,9 @@ Sprout,BUDA U20B,13,11,"07/12/2025, 09:00",Pool B,Final
 Ascension,BAG,10,11,"07/12/2025, 09:00",Pool B,Final
 Sprout,Ascension,13,6,"07/12/2025, 10:30",Pool B,Final
 Lantern,BAG,13,6,"07/12/2025, 10:30",Pool B,Final
-BAG,BUDA U20B,9,8,"07/12/2025, 12:00",Pool B,Final
-Lantern,Ascension,13,6,"07/12/2025, 12:00",Pool B,Final
-Sprout,BAG,0,0,"07/12/2025, 13:30",Pool B,Scheduled
+BAG,BUDA U20B,9,8,"07/12/2025, 12:00",Pool B,Scheduled
+Lantern,Ascension,13,6,"07/12/2025, 12:00",Pool B,Scheduled
+Sprout,BAG,13,2,"07/12/2025, 13:30",Pool B,Final
 Lantern,BUDA U20B,0,0,"07/12/2025, 13:30",Pool B,Scheduled
 Sprout,Lantern,0,0,"07/12/2025, 15:00",Pool B,Scheduled
 Ascension,BUDA U20B,0,0,"07/12/2025, 15:00",Pool B,Scheduled
@@ -507,20 +507,20 @@ pool,Pool C
 Red Tide,BUDA Regional CUT,13,2,"07/12/2025, 09:00",Pool C,Final
 Odyssey,Crossfire,13,5,"07/12/2025, 09:00",Pool C,Final
 Red Tide,Odyssey,13,5,"07/12/2025, 10:30",Pool C,Final
-Colt,Crossfire,13,3,"07/12/2025, 10:30",Pool C,Final
-Crossfire,BUDA Regional CUT,13,8,"07/12/2025, 12:00",Pool C,Final
-Colt,Odyssey,13,6,"07/12/2025, 12:00",Pool C,Final
+Colt,Crossfire,13,3,"07/12/2025, 10:30",Pool C,Scheduled
+Crossfire,BUDA Regional CUT,13,8,"07/12/2025, 12:00",Pool C,Scheduled
+Colt,Odyssey,13,6,"07/12/2025, 12:00",Pool C,Scheduled
 Red Tide,Crossfire,0,0,"07/12/2025, 13:30",Pool C,Scheduled
-Colt,BUDA Regional CUT,0,0,"07/12/2025, 13:30",Pool C,Scheduled
+Colt,BUDA Regional CUT,13,0,"07/12/2025, 13:30",Pool C,Final
 Red Tide,Colt,0,0,"07/12/2025, 15:00",Pool C,Scheduled
 Odyssey,BUDA Regional CUT,0,0,"07/12/2025, 15:00",Pool C,Scheduled
 pool,Pool D
 Big Wrench,Charleston Heat Stroke,13,5,"07/12/2025, 09:00",Pool D,Final
 Magma Bears,Resurgam Ultimate,13,9,"07/12/2025, 09:00",Pool D,Final
 Magma Bears,Charleston Heat Stroke,13,3,"07/12/2025, 10:30",Pool D,Final
-Big Wrench,Resurgam Ultimate,13,12,"07/12/2025, 10:30",Pool D,Final
+Big Wrench,Resurgam Ultimate,13,12,"07/12/2025, 10:30",Pool D,Scheduled
 Charleston Heat Stroke,Resurgam Ultimate,0,0,"07/12/2025, 12:00",Pool D,Scheduled
-Magma Bears,Big Wrench,8,11,"07/12/2025, 12:00",Pool D,Final
+Magma Bears,Big Wrench,8,11,"07/12/2025, 12:00",Pool D,Scheduled
 b,r,e,a,k
 brackets,1st place bracket
 bracket,1st
