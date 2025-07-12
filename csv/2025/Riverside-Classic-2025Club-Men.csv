@@ -287,15 +287,19 @@ pools,Pool B
 pool,Pool B
 Gamble,A La Carte,13,0,"07/12/2025, 08:00",Pool B,Final
 Gamble,San Antonio Warhawks,13,2,"07/12/2025, 09:30",Pool B,Final
-San Antonio Warhawks,A La Carte,0,0,"07/12/2025, 11:00",Pool B,Scheduled
+San Antonio Warhawks,A La Carte,10,8,"07/12/2025, 11:00",Pool B,Final
 b,r,e,a,k
 pools,Pool C
 pool,Pool C
 Cowtown Cannons,Dallas Delinquents,13,2,"07/12/2025, 08:00",Pool C,Final
 Cowtown Cannons,Heatwave,13,6,"07/12/2025, 09:30",Pool C,Final
-Heatwave,Dallas Delinquents,0,0,"07/12/2025, 11:00",Pool C,Scheduled
+Heatwave,Dallas Delinquents,13,5,"07/12/2025, 11:00",Pool C,Final
 b,r,e,a,k
 clusters,Pool B/C Crossover
+cluster,Pool B/C Crossover
+Gamble,Cowtown Cannons,0,0,"07/12/2025, 12:30",,Scheduled
+Heatwave,A La Carte,0,0,"07/12/2025, 12:30",,Scheduled
+San Antonio Warhawks,Dallas Delinquents,0,0,"07/12/2025, 12:30",,Scheduled
 b,r,e,a,k
 brackets,Bracket
 bracket,Championship Bracket
