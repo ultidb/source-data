@@ -189,35 +189,6 @@ coaches,Matthew Berezan
 98,Quinn Snider
 99,Vincent Bulloch
 b,r,e,a,k
-Mephisto,6
-teamInfo,,"Montreal, Quebec CA",,https://www.facebook.com/mephistoultimate,
-coaches,Cédric Aubut Boucher,Charles Bariteau
-0,Malik Auger-Semmar
-0,Olivier Bastien
-0,Antoine Dubé
-0,Charles Guay
-0,Raphaël Lalonde-Landry
-0,Vincent Lemieux
-0,Zachary Armstrong
-6,Paul Hooley
-10,William St-Pierre
-12,Thomas Lalonde-Landry
-15,Raphael Salvas
-16,Vincent Genest
-20,Julien Bernat
-21,Gabriel Monfette
-22,Ywan Cohonner
-29,Jacob Duquette
-35,Eliott Heloir
-38,Antoine Rousseau
-42,Christophe Tremblay Joncas
-42,Tynan Peterson
-43,Thomas Duplaix
-62,Jérémie Giard
-69,Ruari McEwan
-84,Dylan Lacombe Burgoyne
-86,Jakob Brissette
-b,r,e,a,k
 Dark Star,9
 teamInfo,,"Eugene, Oregon",http://www.darkstarultimate.com,,https://twitter.com/eugenedarkstar
 0,David Barram
@@ -246,6 +217,35 @@ teamInfo,,"Eugene, Oregon",http://www.darkstarultimate.com,,https://twitter.com/
 18,Zac Scheuerman
 28,Kyle Hancock
 62,Quinn Buermeyer
+b,r,e,a,k
+Mephisto,6
+teamInfo,,"Montreal, Quebec CA",,https://www.facebook.com/mephistoultimate,
+coaches,Cédric Aubut Boucher,Charles Bariteau
+0,Malik Auger-Semmar
+0,Olivier Bastien
+0,Antoine Dubé
+0,Charles Guay
+0,Raphaël Lalonde-Landry
+0,Vincent Lemieux
+0,Zachary Armstrong
+6,Paul Hooley
+10,William St-Pierre
+12,Thomas Lalonde-Landry
+15,Raphael Salvas
+16,Vincent Genest
+20,Julien Bernat
+21,Gabriel Monfette
+22,Ywan Cohonner
+29,Jacob Duquette
+35,Eliott Heloir
+38,Antoine Rousseau
+42,Christophe Tremblay Joncas
+42,Tynan Peterson
+43,Thomas Duplaix
+62,Jérémie Giard
+69,Ruari McEwan
+84,Dylan Lacombe Burgoyne
+86,Jakob Brissette
 b,r,e,a,k
 Sockeye,5
 teamInfo,,"Seattle, Washington",instagram.com/seattlesockeye,https://www.facebook.com/SeattleSockeye/,https://twitter.com/SeattleSockeye/
@@ -332,7 +332,7 @@ pools,Saturday Pool Play
 pool,Pool A
 Rhino Slam!,Switchback,15,4,"07/12/2025, 08:30",Pool A,Final
 Rhino Slam!,SoCal Condors,13,12,"07/12/2025, 10:15",Pool A,Final
-SoCal Condors,Switchback,0,0,"07/12/2025, 12:00",Pool A,Scheduled
+SoCal Condors,Switchback,15,5,"07/12/2025, 12:00",Pool A,Final
 pool,Pool B
 Revolver,Haymaker,15,6,"07/12/2025, 08:30",Pool B,Final
 Revolver,Shrimp,15,9,"07/12/2025, 10:15",Pool B,Final
@@ -340,16 +340,20 @@ Shrimp,Haymaker,0,0,"07/12/2025, 12:00",Pool B,Scheduled
 pool,Pool C
 Furious George,Dark Star,15,13,"07/12/2025, 08:30",Pool C,Final
 Furious George,Mephisto,11,12,"07/12/2025, 10:15",Pool C,Final
-Mephisto,Dark Star,0,0,"07/12/2025, 12:00",Pool C,Scheduled
+Mephisto,Dark Star,12,14,"07/12/2025, 12:00",Pool C,Final
 pool,Pool D
 Doublewide,General Strike,11,13,"07/12/2025, 08:30",Pool D,Final
-Doublewide,Sockeye,0,0,"07/12/2025, 10:15",Pool D,Scheduled
+Doublewide,Sockeye,6,15,"07/12/2025, 10:15",Pool D,Final
 Sockeye,General Strike,15,7,"07/12/2025, 12:00",Pool D,Final
 b,r,e,a,k
 clusters,Bracket Seeding Crossovers
+cluster,Crossovers
+Rhino Slam!,Furious George,0,0,"07/12/2025, 13:45",,Scheduled
 b,r,e,a,k
 brackets,Pro-Elite Challenge West Championship
 bracket,Championship
+Dark Star,Switchback,0,0,"07/12/2025, 15:30",Pre-Quarterfinals,Scheduled
+SoCal Condors,Mephisto,0,0,"07/13/2025, 15:30",Pre-Quarterfinals,Scheduled
 b,r,e,a,k
 brackets,Placement Brackets
 bracket,Third Place
