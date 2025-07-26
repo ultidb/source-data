@@ -211,28 +211,6 @@ coaches,Natalie Powell
 00,Hannah Newcombe
 00,Harley Mueller
 b,r,e,a,k
-Colorado Small Batch,4
-teamInfo,,"Denver, Colorado",https://www.instagram.com/smallbatchulti/,https://www.facebook.com/SmallBatchUltimate/,https://twitter.com/SmallBatchUlti
-0,Annie Geoghegan
-0,Camille Goo
-0,Carrie Nickel
-0,Chelsea Gerleit
-0,Clarissa Guy
-0,Emily Kraus
-0,Emma Boyd
-0,Gabrielle Doran
-0,Harper Ellsworth
-0,Katherine Macri
-0,Kelsey Bennett
-0,Natalie Fan
-0,Sarah Abruzzo
-2,Jada Abdalati
-5,Leilani Nelson
-13,Jasmine Anand
-37,Molly Clay
-44,Aelish Aoki
-45,Katie Ciaglo
-b,r,e,a,k
 FAB,5
 teamInfo,,"Bay Area, California",,https://www.facebook.com/FABultimate/,https://twitter.com/FABultimate
 0,Feiyang Lin
@@ -256,6 +234,28 @@ teamInfo,,"Bay Area, California",,https://www.facebook.com/FABultimate/,https://
 22,Elena Good
 64,Sophie Nadler
 b,r,e,a,k
+Colorado Small Batch,4
+teamInfo,,"Denver, Colorado",https://www.instagram.com/smallbatchulti/,https://www.facebook.com/SmallBatchUltimate/,https://twitter.com/SmallBatchUlti
+0,Annie Geoghegan
+0,Camille Goo
+0,Carrie Nickel
+0,Chelsea Gerleit
+0,Clarissa Guy
+0,Emily Kraus
+0,Emma Boyd
+0,Gabrielle Doran
+0,Harper Ellsworth
+0,Katherine Macri
+0,Kelsey Bennett
+0,Natalie Fan
+0,Sarah Abruzzo
+2,Jada Abdalati
+5,Leilani Nelson
+13,Jasmine Anand
+37,Molly Clay
+44,Aelish Aoki
+45,Katie Ciaglo
+b,r,e,a,k
 Gila Monster,10
 teamInfo,,"Tucson, Arizona",,,
 0,Darrien Dorr
@@ -277,26 +277,35 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Saturday Pool Play
 pool,Pool A
-Traffic,Dogfish,0,0,"07/26/2025, 09:00",Pool A,Scheduled
-Traffic,Drift,0,0,"07/26/2025, 10:45",Pool A,Scheduled
-Drift,Dogfish,0,0,"07/26/2025, 12:30",Pool A,Scheduled
+Traffic,Dogfish,15,0,"07/26/2025, 09:00",Pool A,Final
+Traffic,Drift,14,5,"07/26/2025, 10:45",Pool A,Final
+Drift,Dogfish,15,7,"07/26/2025, 12:30",Pool A,Final
 pool,Pool B
-Wildfire,Ace,0,0,"07/26/2025, 09:00",Pool B,Scheduled
-Wildfire,Void Cat Rewind,0,0,"07/26/2025, 10:45",Pool B,Scheduled
-Void Cat Rewind,Ace,0,0,"07/26/2025, 12:30",Pool B,Scheduled
+Wildfire,Ace,14,5,"07/26/2025, 09:00",Pool B,Final
+Wildfire,Void Cat Rewind,12,10,"07/26/2025, 10:45",Pool B,Final
+Void Cat Rewind,Ace,12,4,"07/26/2025, 12:30",Pool B,Final
 pool,Pool C
-Seattle END,Seattle Soul,0,0,"07/26/2025, 09:00",Pool C,Scheduled
-Seattle END,Rampage,0,0,"07/26/2025, 10:45",Pool C,Scheduled
-Rampage,Seattle Soul,0,0,"07/26/2025, 12:30",Pool C,Scheduled
+Seattle END,Seattle Soul,15,4,"07/26/2025, 09:00",Pool C,Final
+Seattle END,Rampage,13,8,"07/26/2025, 10:45",Pool C,Final
+Rampage,Seattle Soul,13,5,"07/26/2025, 12:30",Pool C,Final
 pool,Pool D
-Colorado Small Batch,Gila Monster,0,0,"07/26/2025, 09:00",Pool D,Scheduled
-Colorado Small Batch,FAB,0,0,"07/26/2025, 10:45",Pool D,Scheduled
-FAB,Gila Monster,0,0,"07/26/2025, 12:30",Pool D,Scheduled
+Colorado Small Batch,Gila Monster,15,6,"07/26/2025, 09:00",Pool D,Final
+Colorado Small Batch,FAB,9,15,"07/26/2025, 10:45",Pool D,Final
+FAB,Gila Monster,9,6,"07/26/2025, 12:30",Pool D,Final
 b,r,e,a,k
 clusters,Seeding Crossover Games
+cluster,Seeding Crossover
+Traffic,Seattle END,15,6,"07/26/2025, 14:15",,Final
+Wildfire,FAB,9,15,"07/26/2025, 14:15",,Final
 b,r,e,a,k
 brackets,Select Flight Invite West Championship
 bracket,Championship
+Traffic,Gila Monster,0,0,"07/27/2025, 08:30",Quarterfinals,Scheduled
+Seattle END,Colorado Small Batch,0,0,"07/27/2025, 08:30",Quarterfinals,Scheduled
+Void Cat Rewind,Gila Monster,8,9,"07/26/2025, 14:15",Prequarterfinals,Final
+Rampage,Dogfish,0,0,"07/26/2025, 14:15",Prequarterfinals,Scheduled
+Ace,Colorado Small Batch,4,15,"07/26/2025, 14:15",Prequarterfinals,Final
+Drift,Seattle Soul,0,0,"07/26/2025, 14:15",Prequarterfinals,Scheduled
 b,r,e,a,k
 brackets,Placement Brackets
 bracket,Third Place
@@ -305,4 +314,5 @@ bracket,Seventh Place
 b,r,e,a,k
 pools,Ninth Place Pool
 pool,Pool E
+Void Cat Rewind,Ace,0,0,"07/27/2025, 10:15",Pool E,Scheduled
 b,r,e,a,k
