@@ -7,6 +7,13 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
+# Try to import virtual display for headless server environments
+try:
+    from pyvirtualdisplay import Display
+    VIRTUAL_DISPLAY_AVAILABLE = True
+except ImportError:
+    VIRTUAL_DISPLAY_AVAILABLE = False
+
 load_dotenv(override=True)
 API_URL = os.getenv("API_URL")
 YOUTUBE_API_KEY = os.getenv("YOUTUBE_API_KEY")
@@ -154,6 +161,13 @@ def scrapeUltiworldAndSave():
 
 
 def scrapeUltiworld():
+    # Start virtual display for server environments
+    display = None
+    if VIRTUAL_DISPLAY_AVAILABLE and os.getenv('DISPLAY') is None:
+        display = Display(visible=0, size=(1920, 1080))
+        display.start()
+        print("Started virtual display for server environment")
+    
     urls = [
         # "https://ultiworld.com/video/?years=2014&divisions=&packages=&event=&tags=#filtered",
         # "https://ultiworld.com/video/?years=2015&divisions=&packages=&event=&tags=#filtered",
@@ -203,7 +217,10 @@ def scrapeUltiworld():
     chrome_options.add_argument("--disable-gpu")
     chrome_options.add_argument("--window-size=1920,1080")
     chrome_options.add_argument("--disable-blink-features=AutomationControlled")
-    chrome_options.add_argument("--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
+    chrome_options.add_argument("--user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
+    # Fix for server environments - specify unique user data directory
+    chrome_options.add_argument(f"--user-data-dir=/tmp/chrome-selenium-{os.getpid()}")
+    chrome_options.add_argument("--remote-debugging-port=0")  # Use random port
     chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
     chrome_options.add_experimental_option('useAutomationExtension', False)
     
@@ -312,6 +329,10 @@ def scrapeUltiworld():
             
     finally:
         driver.quit()
+        # Stop virtual display if we started it
+        if display:
+            display.stop()
+            print("Stopped virtual display")
     
     print(f"Scraped {len(output)} videos total")
     for year, count in years.items():
