@@ -11,10 +11,11 @@ python-dotenv = "*"
 stem = "*"
 pysocks = "*"
 toripchanger = "*"
-flask = "2.0.3"
+flask = "2.3.3"
 apscheduler = "*"
 psutil = "*"
 pyvimeo = "*"
+selenium = "*"
 
 [dev-packages]
 autopep8 = "*"
