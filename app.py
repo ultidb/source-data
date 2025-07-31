@@ -221,7 +221,7 @@ def setupSchedule():
     scheduler.add_job(func=scrapeOngoingTournaments, trigger="interval", minutes=10)
     scheduler.add_job(func=scrapeUpcomingTournaments, trigger="interval", hours=12)
     scheduler.add_job(func=scrapeRecentlyEndedTournaments, trigger="interval", hours=4)
-    scheduler.add_job(func=scrapeAndPushVideos, trigger="interval", hours=12)
+    scheduler.add_job(func=scrapeAndPushVideos, trigger="interval", hours=24)
     scheduler.start()
     scheduler.print_jobs()
 
@@ -265,9 +265,9 @@ if __name__ == "__main__":
     # Setup default config (init schedule, tor, and scrape calendar for year)
     # resendFailedCSVs()
     # postUpdatedCsvListToAPI(["csv/2024/2024-Southeast-Mens-Regional-ChampionshipClub-Men.csv"])
-    # prodSetup()
-    print(scrapeUltiworldAndSave())
-    # scrapeAndPushVideos()
+    prodSetup()
+    # print(scrapeUltiworldAndSave())
+    scrapeAndPushVideos()
     # Optional calls for testing/development
     # setupTor()
     # setupSchedule()
