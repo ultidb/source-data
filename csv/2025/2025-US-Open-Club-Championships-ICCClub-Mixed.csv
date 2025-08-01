@@ -347,7 +347,7 @@ pools,Friday Pool Play
 pool,Pool A
 BFG,Voltaje U.C,15,5,"08/01/2025, 08:30",Pool A,Final
 BFG,Sprocket,15,9,"08/01/2025, 10:45",Pool A,Final
-Sprocket,Voltaje U.C,14,11,"08/01/2025, 13:00",Pool A,Scheduled
+Sprocket,Voltaje U.C,15,11,"08/01/2025, 13:00",Pool A,Final
 pool,Pool B
 Drag'n Thrust,Makawua,15,5,"08/01/2025, 08:30",Pool B,Final
 Drag'n Thrust,Hybrid,12,15,"08/01/2025, 10:45",Pool B,Final
@@ -355,7 +355,7 @@ Hybrid,Makawua,15,3,"08/01/2025, 13:00",Pool B,Final
 pool,Pool C
 shame.,Rally,11,15,"08/01/2025, 08:30",Pool C,Final
 shame.,XIST,15,12,"08/01/2025, 10:45",Pool C,Final
-XIST,Rally,14,14,"08/01/2025, 13:00",Pool C,Scheduled
+XIST,Rally,15,14,"08/01/2025, 13:00",Pool C,Final
 pool,Pool D
 Lawless,Austin Disco Club,13,15,"08/01/2025, 08:30",Pool D,Final
 Lawless,Slow,10,15,"08/01/2025, 10:45",Pool D,Final
@@ -363,12 +363,15 @@ Slow,Austin Disco Club,11,15,"08/01/2025, 13:00",Pool D,Final
 b,r,e,a,k
 clusters,Seeding Crossover Games
 cluster,Seeding Crossover
+BFG,Rally,0,0,"08/01/2025, 15:15",,Scheduled
 Hybrid,Austin Disco Club,0,0,"08/01/2025, 15:15",,Scheduled
 b,r,e,a,k
 brackets,2025 International Club Championship
 bracket,Championship
 Drag'n Thrust,Lawless,0,0,"08/01/2025, 15:15",Prequarterfinals,Scheduled
+shame.,Voltaje U.C,0,0,"08/01/2025, 15:15",Prequarterfinals,Scheduled
 Makawua,Slow,0,0,"08/01/2025, 15:15",Prequarterfinals,Scheduled
+Sprocket,XIST,0,0,"08/01/2025, 15:15",Prequarterfinals,Scheduled
 b,r,e,a,k
 brackets,Placement Brackets
 bracket,Third Place
