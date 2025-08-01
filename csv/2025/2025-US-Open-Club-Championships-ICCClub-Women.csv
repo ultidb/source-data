@@ -26,34 +26,6 @@ coaches,Meeri Chang,Idris Nolan,Matt Tsang
 55,Sonja Johanson
 71,Margot Stert
 b,r,e,a,k
-Parcha,8
-teamInfo,,"Pittsburgh, Pennsylvania",https://pittsburghclubw.wixsite.com/pghclubw,https://facebook.com/PghClubW/,https://twitter.com/pghparcha
-coaches,Edward Peters,Sam Schurer
-02,Makenzie Priest
-03,Domenica Sutherland
-04,Emily Heyman
-05,Celina Zhao
-07,Maria Stang
-08,Rachel Hidek
-09,Claire Stout
-11,Sara Liang
-16,Jessie Chan
-17,Annelise Peters
-18,Molly Moore
-19,Kayla Emrick
-21,Allison Milligan
-22,Madison Pisone
-23,Hannah Boyd
-24,Morgan Johnson
-27,Shannon Haupt
-33,Abby Thompson
-36,Carolyn Normile
-42,Stephanie Le
-48,Yara El-Khatib
-60,Miya Liang
-71,Linn Bjanes
-77,Taylor Conroy
-b,r,e,a,k
 Colorado Kelp,11
 teamInfo,,"Boulder, Colorado",,,
 coaches,Emma Massey
@@ -81,6 +53,34 @@ coaches,Emma Massey
 66,Akane Kleinkopf
 77,Charlotte Sue
 89,Zane Bird Smith
+b,r,e,a,k
+Parcha,8
+teamInfo,,"Pittsburgh, Pennsylvania",https://pittsburghclubw.wixsite.com/pghclubw,https://facebook.com/PghClubW/,https://twitter.com/pghparcha
+coaches,Edward Peters,Sam Schurer
+02,Makenzie Priest
+03,Domenica Sutherland
+04,Emily Heyman
+05,Celina Zhao
+07,Maria Stang
+08,Rachel Hidek
+09,Claire Stout
+11,Sara Liang
+16,Jessie Chan
+17,Annelise Peters
+18,Molly Moore
+19,Kayla Emrick
+21,Allison Milligan
+22,Madison Pisone
+23,Hannah Boyd
+24,Morgan Johnson
+27,Shannon Haupt
+33,Abby Thompson
+36,Carolyn Normile
+42,Stephanie Le
+48,Yara El-Khatib
+60,Miya Liang
+71,Linn Bjanes
+77,Taylor Conroy
 b,r,e,a,k
 Molly Brown,2
 teamInfo,,"Denver/Boulder, Colorado",http://www.mollybrownultimate.com/,https://www.facebook.com/MollyBrownTown,https://twitter.com/MollyBrownTown
@@ -237,6 +237,32 @@ coaches,Samantha Broaddus,Kristine Gill,Sarah Lord,Jordan Tippitt
 91,Jin-Mi Matsunaga
 93,Kate Trenerry
 b,r,e,a,k
+Scandal,4
+teamInfo,,"Washington, District of Columbia",,https://www.facebook.com/scandalultimate,https://twitter.com/ScandalUltimate
+coaches,Michael Aderhold,Kathleen Ratcliff,Carlos Lopez
+01,Ashleigh Jentilet
+04,Allison Wallace
+05,Marie Perivier
+06,Lauren Johnson
+08,Kathryn Ritzmann
+13,Tyler Smith
+16,Margaret Walker
+18,Avery DeOcampo
+19,Verena Woloson
+20,Kira Flores
+23,Malisa Dang
+24,Sarah Combs
+27,Jessica Sourbeer
+33,Amanda Murphy
+36,Maddy Boyle
+42,Lisi Lohre
+46,Graham Cunningham
+59,Audrey Lyman
+64,Becca Arbacher
+66,Jackie Wang
+77,Marika Korpinen
+81,Sumi Onoe
+b,r,e,a,k
 BFD Shout,10
 teamInfo,,"Bologna, Bologna IT",,,
 coaches,Federico Caraceni
@@ -291,41 +317,15 @@ coaches,Seth Reinhardt,Dmitry Suvorov,Wei Gao
 93,Chris Nelson
 99,Cassie Brown
 b,r,e,a,k
-Scandal,4
-teamInfo,,"Washington, District of Columbia",,https://www.facebook.com/scandalultimate,https://twitter.com/ScandalUltimate
-coaches,Michael Aderhold,Kathleen Ratcliff,Carlos Lopez
-01,Ashleigh Jentilet
-04,Allison Wallace
-05,Marie Perivier
-06,Lauren Johnson
-08,Kathryn Ritzmann
-13,Tyler Smith
-16,Margaret Walker
-18,Avery DeOcampo
-19,Verena Woloson
-20,Kira Flores
-23,Malisa Dang
-24,Sarah Combs
-27,Jessica Sourbeer
-33,Amanda Murphy
-36,Maddy Boyle
-42,Lisi Lohre
-46,Graham Cunningham
-59,Audrey Lyman
-64,Becca Arbacher
-66,Jackie Wang
-77,Marika Korpinen
-81,Sumi Onoe
-b,r,e,a,k
 s,t,a,g,e,s
 pools,Friday Pool Play
 pool,Pool A
 Fury,Colorado Kelp,15,7,"08/01/2025, 08:30",Pool A,Final
-Fury,Parcha,8,2,"08/01/2025, 10:45",Pool A,In Progress
+Fury,Parcha,15,4,"08/01/2025, 10:45",Pool A,Final
 Parcha,Colorado Kelp,0,0,"08/01/2025, 13:00",Pool A,Scheduled
 pool,Pool B
 Molly Brown,Vice,15,3,"08/01/2025, 08:30",Pool B,Final
-Molly Brown,Seattle Riot,9,7,"08/01/2025, 10:45",Pool B,Scheduled
+Molly Brown,Seattle Riot,12,13,"08/01/2025, 10:45",Pool B,Scheduled
 Seattle Riot,Vice,0,0,"08/01/2025, 13:00",Pool B,Scheduled
 pool,Pool C
 Brute Squad,Grit,15,7,"08/01/2025, 08:30",Pool C,Final
@@ -333,7 +333,7 @@ Brute Squad,Flipside,15,7,"08/01/2025, 10:45",Pool C,Final
 Flipside,Grit,0,0,"08/01/2025, 13:00",Pool C,Scheduled
 pool,Pool D
 Scandal,BFD Shout,14,15,"08/01/2025, 08:30",Pool D,Final
-Scandal,BENT,14,9,"08/01/2025, 10:45",Pool D,Scheduled
+Scandal,BENT,15,11,"08/01/2025, 10:45",Pool D,Final
 BENT,BFD Shout,0,0,"08/01/2025, 13:00",Pool D,Scheduled
 b,r,e,a,k
 clusters,Seeding Crossovers
