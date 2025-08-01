@@ -254,35 +254,6 @@ coaches,Anne Worth,Kevin Lai
 88,Nicole Hair
 99,Jeff Zhao
 b,r,e,a,k
-Slow,5
-teamInfo,,"Boston, Massachusetts",,,https://twitter.com/SlowWhite_
-coaches,Sophia Herscu,Marshall Lian
-02,Josh Markette
-04,Davis Whitehead
-05,Jaelee Cruz
-09,Raymond Tetreault
-11,Alex Kapiamba
-12,Caitlin Fitzgerald
-13,Langston Lee
-14,Chloe de Campos
-16,Erin Rea
-17,Kat Brock
-19,Olivia Hampton
-21,Luca  Harwood
-22,Owen Cordes
-24,Wes Yan
-25,Louis Douville Beaudoin
-26,Elana Schwam
-27,Caroline Collis
-33,Yuge Xiao
-45,Sarah Jeung
-57,Ellie Jose
-65,Topher Davis
-66,Jac Carreiro
-81,Ram Sundaram
-89,Emma Palacio
-98,Ryan Cardinal
-b,r,e,a,k
 Austin Disco Club,10
 teamInfo,,"Austin, Texas",,,
 coaches,Elizabeth Carbajal
@@ -311,6 +282,35 @@ coaches,Elizabeth Carbajal
 69,Jaime Estes
 73,Clara Stewart
 89,Trevor Elam
+b,r,e,a,k
+Slow,5
+teamInfo,,"Boston, Massachusetts",,,https://twitter.com/SlowWhite_
+coaches,Sophia Herscu,Marshall Lian
+02,Josh Markette
+04,Davis Whitehead
+05,Jaelee Cruz
+09,Raymond Tetreault
+11,Alex Kapiamba
+12,Caitlin Fitzgerald
+13,Langston Lee
+14,Chloe de Campos
+16,Erin Rea
+17,Kat Brock
+19,Olivia Hampton
+21,Luca  Harwood
+22,Owen Cordes
+24,Wes Yan
+25,Louis Douville Beaudoin
+26,Elana Schwam
+27,Caroline Collis
+33,Yuge Xiao
+45,Sarah Jeung
+57,Ellie Jose
+65,Topher Davis
+66,Jac Carreiro
+81,Ram Sundaram
+89,Emma Palacio
+98,Ryan Cardinal
 b,r,e,a,k
 Lawless,4
 teamInfo,,"Phoenix, Arizona",,,https://twitter.com/ArizonaLawless
@@ -347,7 +347,7 @@ pools,Friday Pool Play
 pool,Pool A
 BFG,Voltaje U.C,15,5,"08/01/2025, 08:30",Pool A,Final
 BFG,Sprocket,15,9,"08/01/2025, 10:45",Pool A,Final
-Sprocket,Voltaje U.C,11,10,"08/01/2025, 13:00",Pool A,Scheduled
+Sprocket,Voltaje U.C,13,10,"08/01/2025, 13:00",Pool A,Scheduled
 pool,Pool B
 Drag'n Thrust,Makawua,15,5,"08/01/2025, 08:30",Pool B,Final
 Drag'n Thrust,Hybrid,12,15,"08/01/2025, 10:45",Pool B,Final
@@ -355,16 +355,20 @@ Hybrid,Makawua,15,3,"08/01/2025, 13:00",Pool B,Final
 pool,Pool C
 shame.,Rally,11,15,"08/01/2025, 08:30",Pool C,Final
 shame.,XIST,15,12,"08/01/2025, 10:45",Pool C,Final
-XIST,Rally,13,11,"08/01/2025, 13:00",Pool C,Scheduled
+XIST,Rally,14,12,"08/01/2025, 13:00",Pool C,Scheduled
 pool,Pool D
 Lawless,Austin Disco Club,13,15,"08/01/2025, 08:30",Pool D,Final
 Lawless,Slow,10,15,"08/01/2025, 10:45",Pool D,Final
-Slow,Austin Disco Club,11,14,"08/01/2025, 13:00",Pool D,Scheduled
+Slow,Austin Disco Club,11,15,"08/01/2025, 13:00",Pool D,Final
 b,r,e,a,k
 clusters,Seeding Crossover Games
+cluster,Seeding Crossover
+Hybrid,Austin Disco Club,0,0,"08/01/2025, 15:15",,Scheduled
 b,r,e,a,k
 brackets,2025 International Club Championship
 bracket,Championship
+Drag'n Thrust,Lawless,0,0,"08/01/2025, 15:15",Prequarterfinals,Scheduled
+Makawua,Slow,0,0,"08/02/2025, 15:15",Prequarterfinals,Scheduled
 b,r,e,a,k
 brackets,Placement Brackets
 bracket,Third Place

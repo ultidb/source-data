@@ -339,7 +339,7 @@ pools,Friday Pool Play
 pool,Pool A
 Rhino,Bunka Shutter Buzz Bullets,14,15,"08/01/2025, 08:30",Pool A,Final
 Rhino,DiG,12,15,"08/01/2025, 10:45",Pool A,Final
-DiG,Bunka Shutter Buzz Bullets,14,10,"08/01/2025, 13:00",Pool A,Scheduled
+DiG,Bunka Shutter Buzz Bullets,15,10,"08/01/2025, 13:00",Pool A,Final
 pool,Pool B
 PoNY,Johnny Bravo,15,14,"08/01/2025, 08:30",Pool B,Final
 PoNY,BFD LaFotta,14,13,"08/01/2025, 10:45",Pool B,Final
@@ -347,16 +347,23 @@ BFD LaFotta,Johnny Bravo,9,15,"08/01/2025, 13:00",Pool B,Final
 pool,Pool C
 Revolver,Clapham Ultimate,15,13,"08/01/2025, 08:30",Pool C,Final
 Revolver,Truck Stop,13,15,"08/01/2025, 10:45",Pool C,Final
-Truck Stop,Clapham Ultimate,13,13,"08/01/2025, 13:00",Pool C,Scheduled
+Truck Stop,Clapham Ultimate,15,14,"08/01/2025, 13:00",Pool C,Final
 pool,Pool D
 Chicago Machine,Chain Lightning,12,15,"08/01/2025, 08:30",Pool D,Final
 Chicago Machine,Mooncatchers,12,15,"08/01/2025, 10:45",Pool D,Final
-Mooncatchers,Chain Lightning,13,13,"08/01/2025, 13:00",Pool D,Scheduled
+Mooncatchers,Chain Lightning,15,13,"08/01/2025, 13:00",Pool D,Final
 b,r,e,a,k
 clusters,Seeding Crossover Games
+cluster,Seeding Crossover
+DiG,Truck Stop,0,0,"08/01/2025, 15:15",,Scheduled
+PoNY,Mooncatchers,0,0,"08/01/2025, 15:15",,Scheduled
 b,r,e,a,k
 brackets,2025 International Club Championship
 bracket,Championship
+Johnny Bravo,Chicago Machine,0,0,"08/01/2025, 15:15",Prequarterfinals,Scheduled
+Revolver,Rhino,0,0,"08/01/2025, 15:15",Prequarterfinals,Scheduled
+Chain Lightning,BFD LaFotta,0,0,"08/01/2025, 15:15",Prequarterfinals,Scheduled
+Bunka Shutter Buzz Bullets,Clapham Ultimate,0,0,"08/01/2025, 15:15",Prequarterfinals,Scheduled
 b,r,e,a,k
 brackets,Placement Brackets
 bracket,Third Place
