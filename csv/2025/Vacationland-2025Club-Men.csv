@@ -391,6 +391,24 @@ teamInfo,,"Burlington, Vermont",,,
 19,Ryan Gallagher
 99,Jasper Goldman
 b,r,e,a,k
+Skeleton Squad,14
+teamInfo,,"Needham, Massachusetts",,,https://twitter.com/Squad_Ult
+0,Alec Jacobson
+0,Ari Carp
+0,Blake Read
+0,Lars Kovamees
+0,Matt Brown
+0,Michael van der Loo
+0,Mitch Giroux
+0,Thomas Dyett
+0,Timothy Lambert
+0,Walker Mayerchak
+13,James Flaggert
+13,Patrick Leach
+42,Finn Cole
+50,Carl Saba
+99,Griffin Majer
+b,r,e,a,k
 Odyssey,12
 teamInfo,,"Medford , Massachusetts",https://www.instagram.com/odyssey_ult?igsh=czI4a2ZyM2xseG4y&utm_source=qr,,
 coaches,Andrew  Polcari
@@ -419,24 +437,6 @@ coaches,Andrew  Polcari
 23,Isaiah Irwin
 38,Nicholas  Dell'Amore
 52,Gabriel Rhodes
-b,r,e,a,k
-Skeleton Squad,14
-teamInfo,,"Needham, Massachusetts",,,https://twitter.com/Squad_Ult
-0,Alec Jacobson
-0,Ari Carp
-0,Blake Read
-0,Lars Kovamees
-0,Matt Brown
-0,Michael van der Loo
-0,Mitch Giroux
-0,Thomas Dyett
-0,Timothy Lambert
-0,Walker Mayerchak
-13,James Flaggert
-13,Patrick Leach
-42,Finn Cole
-50,Carl Saba
-99,Griffin Majer
 b,r,e,a,k
 Crossfire,17
 teamInfo,,"Boston , Massachusetts",,,
@@ -484,7 +484,7 @@ Phoenix,Big Wrench,13,4,"08/02/2025, 09:00",Pool A,Final
 Club M - Manic,Big Wrench,13,5,"08/02/2025, 10:50",Pool A,Final
 Phoenix,Scoop,11,13,"08/02/2025, 10:50",Pool A,Final
 Big Wrench,Lantern,8,13,"08/02/2025, 12:40",Pool A,Final
-Scoop,Club M - Manic,9,13,"08/02/2025, 12:40",Pool A,Scheduled
+Scoop,Club M - Manic,9,13,"08/02/2025, 12:40",Pool A,Final
 Phoenix,Club M - Manic,13,6,"08/02/2025, 14:30",Pool A,Final
 Scoop,Lantern,13,7,"08/02/2025, 14:30",Pool A,Final
 pool,Pool B
@@ -508,8 +508,8 @@ Skeleton Squad,Crossfire,13,8,"08/02/2025, 09:00",Pool D,Final
 Skeleton Squad,Green Mountain Boys,13,4,"08/02/2025, 10:50",Pool D,Final
 Odyssey,Crossfire,13,6,"08/02/2025, 10:50",Pool D,Final
 Odyssey,Green Mountain Boys,13,4,"08/02/2025, 12:40",Pool D,Final
-Green Mountain Boys,Crossfire,0,0,"08/02/2025, 14:30",Pool D,Scheduled
-Odyssey,Skeleton Squad,0,0,"08/02/2025, 14:30",Pool D,Scheduled
+Green Mountain Boys,Crossfire,L,W,"08/02/2025, 14:30",Pool D,Scheduled
+Odyssey,Skeleton Squad,11,13,"08/02/2025, 14:30",Pool D,Final
 b,r,e,a,k
 clusters,Crossovers
 cluster,Crossovers
@@ -518,6 +518,7 @@ Scoop,Red Tide,0,0,"08/02/2025, 16:20",,Scheduled
 Club M - Manic,Shade,0,0,"08/02/2025, 16:20",,Scheduled
 Lantern,BAG,0,0,"08/02/2025, 16:20",,Scheduled
 Big Wrench,Alibi,0,0,"08/02/2025, 16:20",,Scheduled
+Resurgam Ultimate,Crossfire,0,0,"08/02/2025, 16:20",,Scheduled
 b,r,e,a,k
 brackets,Bracket Play
 bracket,Championship Bracket
