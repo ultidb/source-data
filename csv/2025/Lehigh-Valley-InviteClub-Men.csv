@@ -53,6 +53,26 @@ coaches,David Berg
 63,Jude Schmiesing
 99,Matthew Viscido
 b,r,e,a,k
+Chimney,8
+teamInfo,,"Cleveland, Ohio",,,
+0,Benjamin March
+0,David Picone
+0,Evan Howey
+0,Jacob Rollins
+0,Richard Klena
+0,Sam King
+0,Tristan Greiner
+2,Malachi Marshall
+4,Jacob Bultman
+9,Christopher Auman
+11,Matthew Sullivan
+23,Chris Graber
+29,Daniel Shen
+34,Garret Heiberger
+35,Jarrell Imamura
+51,Andrew Thompson
+77,Ian Knaus
+b,r,e,a,k
 Garden State Ultimate,5
 teamInfo,,"New Brunswick, New Jersey",http://gardenstateultimate.com/,,https://twitter.com/gardenstateulti
 coaches,Akshat Rajan
@@ -82,26 +102,6 @@ coaches,Akshat Rajan
 37,Evan Sapirman 
 39,Christopher Arevalo
 41,Aidan Magee
-b,r,e,a,k
-Chimney,8
-teamInfo,,"Cleveland, Ohio",,,
-0,Benjamin March
-0,David Picone
-0,Evan Howey
-0,Jacob Rollins
-0,Richard Klena
-0,Sam King
-0,Tristan Greiner
-2,Malachi Marshall
-4,Jacob Bultman
-9,Christopher Auman
-11,Matthew Sullivan
-23,Chris Graber
-29,Daniel Shen
-34,Garret Heiberger
-35,Jarrell Imamura
-51,Andrew Thompson
-77,Ian Knaus
 b,r,e,a,k
 Blueprint,3
 teamInfo,,"New York, New York",,,https://twitter.com/nyc_blueprint
@@ -307,33 +307,6 @@ teamInfo,,"State College, Pennsylvania",,,
 21,Raymond Wright
 26,Daniel Nipper
 b,r,e,a,k
-John Doe,10
-teamInfo,,"Washington, District of Columbia",,https://www.facebook.com/johndoeultimate,@JohnDoeUlti
-0,Connor McCartney
-0,Cooper Glavin
-0,Dylan Deshler
-0,Emmett Brosowsky
-0,Evan Moss
-0,Marius Orentas
-0,Micah Craine
-0,Nicholas Roller
-0,Niko Paulson
-0,Owen Edwards
-0,Travis Tiller
-0,William Caspino
-1,Gunnar Biebighauser
-2,Justin Fang
-3,Elijah Scherz
-4,Jonah Golder
-8,Jonathan Phillips
-10,Erik Anaya
-17,Patrick  Walsh
-21,Ethan Moore
-22,Ethan Heiss
-26,Joshua Datz
-51,Thomas Schmitt
-88,Thomas Richards
-b,r,e,a,k
 DAPPER,11
 teamInfo,,"Rochester, New York",,,
 coaches,Jessica Brunner
@@ -360,6 +333,33 @@ coaches,Jessica Brunner
 24,Justin Badgett
 28,Jack Lowrey
 99,Alex Python
+b,r,e,a,k
+John Doe,10
+teamInfo,,"Washington, District of Columbia",,https://www.facebook.com/johndoeultimate,@JohnDoeUlti
+0,Connor McCartney
+0,Cooper Glavin
+0,Dylan Deshler
+0,Emmett Brosowsky
+0,Evan Moss
+0,Marius Orentas
+0,Micah Craine
+0,Nicholas Roller
+0,Niko Paulson
+0,Owen Edwards
+0,Travis Tiller
+0,William Caspino
+1,Gunnar Biebighauser
+2,Justin Fang
+3,Elijah Scherz
+4,Jonah Golder
+8,Jonathan Phillips
+10,Erik Anaya
+17,Patrick  Walsh
+21,Ethan Moore
+22,Ethan Heiss
+26,Joshua Datz
+51,Thomas Schmitt
+88,Thomas Richards
 b,r,e,a,k
 Hazard,15
 teamInfo,,"Pittsburgh, Pennsylvania",https://www.instagram.com/hazard_pgh,,https://twitter.com/HazzyUltimate
@@ -546,14 +546,14 @@ pool,Pool A
 Pittsburgh Temper,Garden State Ultimate,13,9,"08/02/2025, 13:15",Pool A,Final
 Florida Untied,Chimney,15,10,"08/02/2025, 13:15",Pool A,Final
 Pittsburgh Temper,Chimney,0,0,"08/02/2025, 15:00",Pool A,Scheduled
-Florida Untied,Garden State Ultimate,0,0,"08/02/2025, 15:00",Pool A,Scheduled
+Florida Untied,Garden State Ultimate,15,9,"08/02/2025, 15:00",Pool A,Final
 Pittsburgh Temper,Florida Untied,0,0,"08/02/2025, 16:45",Pool A,Scheduled
 Garden State Ultimate,Chimney,0,0,"08/02/2025, 16:45",Pool A,Scheduled
 pool,Pool B
 Mad Men,Oak Grove Boys,15,10,"08/02/2025, 13:15",Pool B,Final
 Blueprint,Town Hall Stars,15,5,"08/02/2025, 13:15",Pool B,Final
 Mad Men,Town Hall Stars,0,0,"08/02/2025, 15:00",Pool B,Scheduled
-Blueprint,Oak Grove Boys,0,0,"08/02/2025, 15:00",Pool B,Scheduled
+Blueprint,Oak Grove Boys,14,13,"08/02/2025, 15:00",Pool B,Final
 Mad Men,Blueprint,0,0,"08/02/2025, 16:45",Pool B,Scheduled
 Oak Grove Boys,Town Hall Stars,0,0,"08/02/2025, 16:45",Pool B,Scheduled
 b,r,e,a,k
@@ -569,7 +569,7 @@ pool,Pool D
 John Doe,MOB Ultimate,14,8,"08/02/2025, 13:15",Pool D,Final
 DAPPER,Hazard,12,10,"08/02/2025, 13:15",Pool D,Final
 John Doe,Hazard,0,0,"08/02/2025, 15:00",Pool D,Scheduled
-DAPPER,MOB Ultimate,0,0,"08/02/2025, 15:00",Pool D,Scheduled
+DAPPER,MOB Ultimate,12,7,"08/02/2025, 15:00",Pool D,Final
 John Doe,DAPPER,0,0,"08/02/2025, 16:45",Pool D,Scheduled
 MOB Ultimate,Hazard,0,0,"08/02/2025, 16:45",Pool D,Scheduled
 b,r,e,a,k
