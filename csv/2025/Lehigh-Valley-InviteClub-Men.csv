@@ -133,6 +133,9 @@ coaches,Bill Everhart
 b,r,e,a,k
 Blueprint,3
 teamInfo,,"New York, New York",,,https://twitter.com/nyc_blueprint
+0,Samuel Ross
+00,Samuel Lee
+00,Walter Roosa
 00,Andrés Rodríguez Hernández
 00,Andrew Edelman
 00,Benjamin Levy
@@ -155,9 +158,7 @@ teamInfo,,"New York, New York",,,https://twitter.com/nyc_blueprint
 00,Patrick Stegemoeller
 00,Robert Breyer
 00,Ruozhou Ye
-00,Samuel Lee
-00,Samuel Pollack
-00,Walter Roosa
+01,Sam Alston
 b,r,e,a,k
 Oak Grove Boys,6
 teamInfo,,"ARLINGTON, Virginia",,https://www.facebook.com/OakgroveBoys/,https://twitter.com/OakGroveBoyz
@@ -542,15 +543,15 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Group 1 Pool Play
 pool,Pool A
-Pittsburgh Temper,Garden State Ultimate,0,0,"08/02/2025, 11:30",Pool A,Scheduled
-Florida Untied,Chimney,0,0,"08/02/2025, 11:30",Pool A,Scheduled
+Pittsburgh Temper,Garden State Ultimate,0,0,"08/02/2025, 13:15",Pool A,Scheduled
+Florida Untied,Chimney,0,0,"08/02/2025, 13:15",Pool A,Scheduled
 Pittsburgh Temper,Chimney,0,0,"08/02/2025, 15:00",Pool A,Scheduled
 Florida Untied,Garden State Ultimate,0,0,"08/02/2025, 15:00",Pool A,Scheduled
 Pittsburgh Temper,Florida Untied,0,0,"08/02/2025, 16:45",Pool A,Scheduled
 Garden State Ultimate,Chimney,0,0,"08/02/2025, 16:45",Pool A,Scheduled
 pool,Pool B
-Mad Men,Oak Grove Boys,0,0,"08/02/2025, 11:30",Pool B,Scheduled
-Blueprint,Town Hall Stars,0,0,"08/02/2025, 11:30",Pool B,Scheduled
+Mad Men,Oak Grove Boys,0,0,"08/02/2025, 13:15",Pool B,Scheduled
+Blueprint,Town Hall Stars,0,0,"08/02/2025, 13:15",Pool B,Scheduled
 Mad Men,Town Hall Stars,0,0,"08/02/2025, 15:00",Pool B,Scheduled
 Blueprint,Oak Grove Boys,0,0,"08/02/2025, 15:00",Pool B,Scheduled
 Mad Men,Blueprint,0,0,"08/02/2025, 16:45",Pool B,Scheduled
@@ -558,15 +559,15 @@ Oak Grove Boys,Town Hall Stars,0,0,"08/02/2025, 16:45",Pool B,Scheduled
 b,r,e,a,k
 pools,Group 2 Pool Play
 pool,Pool C
-Magma Bears,SUPA FC,0,0,"08/02/2025, 11:30",Pool C,Scheduled
-Rumspringa,Happy Valley Roofing and Mustache Supply,0,0,"08/02/2025, 11:30",Pool C,Scheduled
+Magma Bears,SUPA FC,0,0,"08/02/2025, 13:15",Pool C,Scheduled
+Rumspringa,Happy Valley Roofing and Mustache Supply,0,0,"08/02/2025, 13:15",Pool C,Scheduled
 Magma Bears,Happy Valley Roofing and Mustache Supply,0,0,"08/02/2025, 15:00",Pool C,Scheduled
 Rumspringa,SUPA FC,0,0,"08/02/2025, 15:00",Pool C,Scheduled
 Magma Bears,Rumspringa,0,0,"08/02/2025, 16:45",Pool C,Scheduled
 SUPA FC,Happy Valley Roofing and Mustache Supply,0,0,"08/02/2025, 16:45",Pool C,Scheduled
 pool,Pool D
-John Doe,MOB Ultimate,0,0,"08/02/2025, 11:30",Pool D,Scheduled
-DAPPER,Hazard,0,0,"08/02/2025, 11:30",Pool D,Scheduled
+John Doe,MOB Ultimate,0,0,"08/02/2025, 13:15",Pool D,Scheduled
+DAPPER,Hazard,0,0,"08/02/2025, 13:15",Pool D,Scheduled
 John Doe,Hazard,0,0,"08/02/2025, 15:00",Pool D,Scheduled
 DAPPER,MOB Ultimate,0,0,"08/02/2025, 15:00",Pool D,Scheduled
 John Doe,DAPPER,0,0,"08/02/2025, 16:45",Pool D,Scheduled
@@ -589,4 +590,14 @@ clusters,Crossover
 b,r,e,a,k
 pools,Sunday RR
 pool,Pool F
+b,r,e,a,k
+brackets,Championship
+bracket,Championship
+bracket,3rd Place Bracket
+bracket,5th Place Bracket
+b,r,e,a,k
+brackets,9th Place Bracket
+bracket,9th Place
+bracket,11th Place Bracket
+bracket,13th Place Bracket
 b,r,e,a,k
