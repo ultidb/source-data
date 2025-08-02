@@ -268,35 +268,6 @@ teamInfo,,"Sioux Falls, South Dakota",,,
 84,Aaron Bauer
 99,Grant Dunbar
 b,r,e,a,k
-Dreadnought,5
-teamInfo,,"Fayetteville, Arkansas",,,https://twitter.com/DreadnoughtUlti
-0,Cole Peterson
-0,David Belvardi
-0,David Pojunas
-0,Adam Donaldson
-0,Gabriel Sanchez
-0,Jake Nielesen
-0,Justin Li
-0,Travis Duwe
-1,Alex Fialon
-2,Thomas Dockery
-5,Sheldon Shinn
-6,Gavin Walker
-7,Mason Keeling
-8,Clayton Adams
-9,Kai Tang
-10,Ethan Tolley
-11,Jake Mitchell
-12,Drew Taylor
-14,Matthew Ball
-15,Abe Gambert
-31,Dylan Custer
-36,Justin MIlls
-38,Nathaniel Moffatt
-50,Jacob Wakefield
-66,Mark Belvardi
-67,Spencer Patterson
-b,r,e,a,k
 BARNSTORM,8
 teamInfo,,"Oklahoma City, Oklahoma",,,
 0,Cameron White
@@ -341,6 +312,35 @@ teamInfo,,"Dallas, Texas",,,
 81,Justin Sullins
 99,Nathan Ashworth
 b,r,e,a,k
+Dreadnought,5
+teamInfo,,"Fayetteville, Arkansas",,,https://twitter.com/DreadnoughtUlti
+0,Cole Peterson
+0,David Belvardi
+0,David Pojunas
+0,Adam Donaldson
+0,Gabriel Sanchez
+0,Jake Nielesen
+0,Justin Li
+0,Travis Duwe
+1,Alex Fialon
+2,Thomas Dockery
+5,Sheldon Shinn
+6,Gavin Walker
+7,Mason Keeling
+8,Clayton Adams
+9,Kai Tang
+10,Ethan Tolley
+11,Jake Mitchell
+12,Drew Taylor
+14,Matthew Ball
+15,Abe Gambert
+31,Dylan Custer
+36,Justin MIlls
+38,Nathaniel Moffatt
+50,Jacob Wakefield
+66,Mark Belvardi
+67,Spencer Patterson
+b,r,e,a,k
 Kansas City Northern Lines,16
 teamInfo,,"Gladstone, Missouri",,,
 0,Benjamin Goehrung
@@ -382,8 +382,8 @@ Supercell,Friendly Fire,0,0,"08/02/2025, 13:00",Pool A,Scheduled
 pool,Pool B
 Sprawl,Rawhide,13,11,"08/02/2025, 09:00",Pool B,Final
 NOx,Loaded Panda,0,0,"08/02/2025, 09:00",Pool B,Scheduled
-Sprawl,Loaded Panda,0,0,"08/02/2025, 11:00",Pool B,Scheduled
-NOx,Rawhide,0,0,"08/02/2025, 11:00",Pool B,Scheduled
+Sprawl,Loaded Panda,15,7,"08/02/2025, 11:00",Pool B,Final
+NOx,Rawhide,15,6,"08/02/2025, 11:00",Pool B,Final
 Sprawl,NOx,0,0,"08/02/2025, 13:00",Pool B,Scheduled
 Rawhide,Loaded Panda,0,0,"08/02/2025, 13:00",Pool B,Scheduled
 pool,Pool D
@@ -392,7 +392,7 @@ DeMo,STL Moonar,0,0,"08/02/2025, 11:00",Pool D,Scheduled
 DeMo,Nomads,0,0,"08/02/2025, 13:00",Pool D,Scheduled
 pool,Pool C
 Dreadnought,Dallas Delinquents,0,0,"08/02/2025, 09:00",Pool C,Scheduled
-BARNSTORM,Kansas City Northern Lines,0,0,"08/02/2025, 09:00",Pool C,Scheduled
+BARNSTORM,Kansas City Northern Lines,15,8,"08/02/2025, 09:00",Pool C,Final
 Dreadnought,Kansas City Northern Lines,0,0,"08/02/2025, 11:00",Pool C,Scheduled
 BARNSTORM,Dallas Delinquents,0,0,"08/02/2025, 11:00",Pool C,Scheduled
 Dreadnought,BARNSTORM,0,0,"08/02/2025, 13:00",Pool C,Scheduled

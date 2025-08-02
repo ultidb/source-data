@@ -247,32 +247,33 @@ teamInfo,,"Princeton, New Jersey",,,https://twitter.com/TeamJughandle
 41,Kalea Dodge
 97,Kelly Skewis
 b,r,e,a,k
-Spice,11
-teamInfo,,"Charlottesville, Virginia",,,https://twitter.com/SpiceUltimateVA
-0,Chloe Schueman
-0,Christopher Messmore
-0,Andrew Kennedy
-0,Elisabeth Doty
-0,Emma Colavincenzo
-0,LeeAnn Dempsey
-0,Lynn Mandeltort
-0,Nicolas West
-0,Olivia Bearman
-0,Parham Ghassemi
-0,Phillip Johnson
-0,Ray Varner
-0,Jaxon Boudreau
-0,Josh Rosenberg
-0,Ryann Boudreau
-0,Sabrina Combs
-0,Tristan Shafer
-3,Franklin Ahrens
-7,Joseph Terrana
-24,Christopher Letai
-25,Katelyn Birchfield
-31,Ben Aunins
-40,Dyon Vega
-47,Rhiannon Begley
+Delabear,14
+teamInfo,,"Wilmington, Delaware",,,
+0,Andrea Anger
+0,Chor In Lam
+0,Dan Graham
+01,Angela Campanella
+02,Jillian Cohen
+03,Eric Hoover
+04,Dustin Damiano
+05,Rory Smith
+06,Jessica Brand
+07,Caitlin Gleason
+09,Steven Broome
+10,Ryan Dealy
+12,Rachel Owrutsky
+13,Hunter Weibley
+14,Matt Reenstra
+15,Graham Coughlin
+16,Jonathan Cohen
+17,Elise Colomb
+20,Andrew Klarner
+22,Hailey Braunstein
+24,Alice Laughlin
+26,Suzanne Sirianni
+27,Patrick Shannon
+32,Jeffrey Andrews
+42,Catherine Mollmann
 b,r,e,a,k
 FLI,6
 teamInfo,,"Long Island, New York",https://discny.org/t/fli-1,https://www.facebook.com/FLIultimate,https://twitter.com/fliultimate
@@ -301,33 +302,32 @@ teamInfo,,"Long Island, New York",https://discny.org/t/fli-1,https://www.faceboo
 54,Daniel Stern
 67,May Patino
 b,r,e,a,k
-Delabear,14
-teamInfo,,"Wilmington, Delaware",,,
-0,Andrea Anger
-0,Chor In Lam
-0,Dan Graham
-01,Angela Campanella
-02,Jillian Cohen
-03,Eric Hoover
-04,Dustin Damiano
-05,Rory Smith
-06,Jessica Brand
-07,Caitlin Gleason
-09,Steven Broome
-10,Ryan Dealy
-12,Rachel Owrutsky
-13,Hunter Weibley
-14,Matt Reenstra
-15,Graham Coughlin
-16,Jonathan Cohen
-17,Elise Colomb
-20,Andrew Klarner
-22,Hailey Braunstein
-24,Alice Laughlin
-26,Suzanne Sirianni
-27,Patrick Shannon
-32,Jeffrey Andrews
-42,Catherine Mollmann
+Spice,11
+teamInfo,,"Charlottesville, Virginia",,,https://twitter.com/SpiceUltimateVA
+0,Chloe Schueman
+0,Christopher Messmore
+0,Andrew Kennedy
+0,Elisabeth Doty
+0,Emma Colavincenzo
+0,LeeAnn Dempsey
+0,Lynn Mandeltort
+0,Nicolas West
+0,Olivia Bearman
+0,Parham Ghassemi
+0,Phillip Johnson
+0,Ray Varner
+0,Jaxon Boudreau
+0,Josh Rosenberg
+0,Ryann Boudreau
+0,Sabrina Combs
+0,Tristan Shafer
+3,Franklin Ahrens
+7,Joseph Terrana
+24,Christopher Letai
+25,Katelyn Birchfield
+31,Ben Aunins
+40,Dyon Vega
+47,Rhiannon Begley
 b,r,e,a,k
 Buffalo Lake Effect,4
 teamInfo,,"Buffalo, New York",www.nickelcityultimate.com,https://www.facebook.com/groups/50331329455/,
@@ -657,8 +657,8 @@ UNION,Mashed,15,2,"08/02/2025, 08:00",Pool A,Final
 Farm Show,Heavy Flow,15,7,"08/02/2025, 08:00",Pool A,Final
 UNION,Heavy Flow,15,1,"08/02/2025, 09:45",Pool A,Final
 Farm Show,Mashed,14,12,"08/02/2025, 09:45",Pool A,Final
-UNION,Farm Show,0,0,"08/02/2025, 11:30",Pool A,Scheduled
-Mashed,Heavy Flow,14,7,"08/02/2025, 11:30",Pool A,Scheduled
+UNION,Farm Show,15,3,"08/02/2025, 11:30",Pool A,Final
+Mashed,Heavy Flow,14,7,"08/02/2025, 11:30",Pool A,Final
 pool,Pool B
 Funk,Jumbo Slice,10,13,"08/02/2025, 08:00",Pool B,Final
 HVAC,NY Swipes,13,11,"08/02/2025, 08:00",Pool B,Final
@@ -671,8 +671,8 @@ Jughandle,Spice,12,7,"08/02/2025, 08:00",Pool C,Final
 FLI,Delabear,13,12,"08/02/2025, 08:00",Pool C,Final
 Jughandle,Delabear,12,10,"08/02/2025, 09:45",Pool C,Final
 FLI,Spice,9,10,"08/02/2025, 09:45",Pool C,Final
-Jughandle,FLI,0,0,"08/02/2025, 11:30",Pool C,Scheduled
-Spice,Delabear,0,0,"08/02/2025, 11:30",Pool C,Scheduled
+Jughandle,FLI,10,7,"08/02/2025, 11:30",Pool C,Final
+Spice,Delabear,11,12,"08/02/2025, 11:30",Pool C,Final
 pool,Pool D
 Buffalo Lake Effect,Goosebumps,15,4,"08/02/2025, 08:00",Pool D,Final
 PS,District Cocktails,11,7,"08/02/2025, 08:00",Pool D,Final
@@ -698,9 +698,13 @@ Brooklyn Hive,Buffalo Brain Freeze,13,8,"08/02/2025, 11:30",Pool F,Final
 JAWN,Voltage,14,5,"08/02/2025, 11:30",Pool F,Final
 b,r,e,a,k
 clusters,Group Crossover
+cluster,1 and 2 Crossover
+Spice,Brooklyn Hive,0,0,"08/02/2025, 13:15",,Scheduled
+Heavy Flow,Obelisk,0,0,"08/02/2025, 15:00",,Scheduled
 b,r,e,a,k
 brackets,1st Place Bracket
 bracket,Championship Bracket
+Jughandle,Farm Show,0,0,"08/03/2025, 08:00",1st Place Quarterfinals,Scheduled
 bracket,3rd Place
 bracket,5th Place Bracket
 bracket,7th Place Bracket
