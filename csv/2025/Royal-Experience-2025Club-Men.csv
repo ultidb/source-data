@@ -190,30 +190,6 @@ teamInfo,,"Tulsa, Oklahoma",,,
 33,Marcus Smith
 37,Daniel Searcy
 b,r,e,a,k
-STL Moonar,10
-teamInfo,,"St. Louis, Missouri",,,
-0,Dalton Steinkamp
-0,Eric Peake
-0,Nathaniel Fischer
-0,Nicholas Giannotti
-0,Owen Thoms
-0,Siddanth Kuchangi
-0,Victor Chaidez
-0,Nate Clancy
-2,Kelly Mauntel
-5,Michael McCormick
-6,Brandon Skoba
-9,David Zilkie
-15,Zack Smith
-22,Aidan Byrne
-22,Jared Thornberry
-25,Nathan Kamp
-27,Samuel Boehlke
-30,Will Sanders
-41,Austin Yuan
-42,John Markiewicz
-81,Zachary Szatkowski
-b,r,e,a,k
 DeMo,4
 teamInfo,,"Des Moines, Iowa",,,https://twitter.com/demoultimate
 0,Adam Levine
@@ -239,6 +215,30 @@ teamInfo,,"Des Moines, Iowa",,,https://twitter.com/demoultimate
 33,Austin DeHoogh
 35,Caleb Lundeen
 45,Devon Lord
+b,r,e,a,k
+STL Moonar,10
+teamInfo,,"St. Louis, Missouri",,,
+0,Dalton Steinkamp
+0,Eric Peake
+0,Nathaniel Fischer
+0,Nicholas Giannotti
+0,Owen Thoms
+0,Siddanth Kuchangi
+0,Victor Chaidez
+0,Nate Clancy
+2,Kelly Mauntel
+5,Michael McCormick
+6,Brandon Skoba
+9,David Zilkie
+15,Zack Smith
+22,Aidan Byrne
+22,Jared Thornberry
+25,Nathan Kamp
+27,Samuel Boehlke
+30,Will Sanders
+41,Austin Yuan
+42,John Markiewicz
+81,Zachary Szatkowski
 b,r,e,a,k
 Nomads,6
 teamInfo,,"Sioux Falls, South Dakota",,,
@@ -377,7 +377,7 @@ Cowtown Cannons,Supercell,15,3,"08/02/2025, 09:00",Pool A,Final
 Scythe,Friendly Fire,15,9,"08/02/2025, 09:00",Pool A,Final
 Cowtown Cannons,Friendly Fire,15,8,"08/02/2025, 11:00",Pool A,Final
 Scythe,Supercell,15,7,"08/02/2025, 11:00",Pool A,Final
-Cowtown Cannons,Scythe,0,0,"08/02/2025, 13:00",Pool A,Scheduled
+Cowtown Cannons,Scythe,15,9,"08/02/2025, 13:00",Pool A,Final
 Supercell,Friendly Fire,3,15,"08/02/2025, 13:00",Pool A,Final
 pool,Pool B
 Sprawl,Rawhide,13,11,"08/02/2025, 09:00",Pool B,Final
@@ -389,7 +389,7 @@ Rawhide,Loaded Panda,0,0,"08/02/2025, 13:00",Pool B,Scheduled
 pool,Pool D
 Nomads,STL Moonar,7,15,"08/02/2025, 09:00",Pool D,Final
 DeMo,STL Moonar,15,14,"08/02/2025, 11:00",Pool D,Final
-DeMo,Nomads,0,0,"08/02/2025, 13:00",Pool D,Scheduled
+DeMo,Nomads,15,8,"08/02/2025, 13:00",Pool D,Final
 pool,Pool C
 Dreadnought,Dallas Delinquents,15,2,"08/02/2025, 09:00",Pool C,Final
 BARNSTORM,Kansas City Northern Lines,15,8,"08/02/2025, 09:00",Pool C,Final
@@ -402,6 +402,10 @@ brackets,Championship Bracket
 bracket,Championship Bracket
 b,r,e,a,k
 clusters,Crossovers
+cluster,Crossovers
+DeMo,Scythe,0,0,"08/02/2025, 15:00",,Scheduled
+STL Moonar,Friendly Fire,0,0,"08/02/2025, 15:00",,Scheduled
+Nomads,Supercell,0,0,"08/02/2025, 15:00",,Scheduled
 b,r,e,a,k
 brackets,9th Place Bracket
 bracket,9th Place Bracket
