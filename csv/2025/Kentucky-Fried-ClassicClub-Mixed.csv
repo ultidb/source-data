@@ -75,32 +75,6 @@ teamInfo,,"ST Louis , Missouri",,,
 88,Sam Dawson
 92,John Dames
 b,r,e,a,k
-BUMS,3
-teamInfo,,"Birmingham, Alabama",,,
-0,Abraham Sun
-0,Bria Poe
-0,David Campbell
-0,Kathryn Haynes 
-0,Stephanie Byron
-2,Madison  Brown 
-3,Maria Suarez
-4,Lee Miller Jr
-10,Emily Simon
-11,Kelvin Williams
-12,William McBride
-13,Karly Casey
-17,Joshua Scheuer Haeker
-19,Tyler Jacobson
-22,Patrick Silva
-23,Tricia Phillips
-29,Susie Landis
-40,Ariana Howell
-44,Lia Puzzo
-47,Annie Kelley
-88,Andy Marsch
-88,Graham Smith
-99,Thomas Suarez
-b,r,e,a,k
 Mousetrap,5
 teamInfo,,"Madison, Wisconsin",,https://www.facebook.com/mousetrapulti,https://twitter.com/MouseTrapUlti
 2,Cameron Heeren
@@ -127,6 +101,32 @@ teamInfo,,"Madison, Wisconsin",,https://www.facebook.com/mousetrapulti,https://t
 42,Lily Shu
 51,Kevin Chung
 99,Grace Bao
+b,r,e,a,k
+BUMS,3
+teamInfo,,"Birmingham, Alabama",,,
+0,Abraham Sun
+0,Bria Poe
+0,David Campbell
+0,Kathryn Haynes 
+0,Stephanie Byron
+2,Madison  Brown 
+3,Maria Suarez
+4,Lee Miller Jr
+10,Emily Simon
+11,Kelvin Williams
+12,William McBride
+13,Karly Casey
+17,Joshua Scheuer Haeker
+19,Tyler Jacobson
+22,Patrick Silva
+23,Tricia Phillips
+29,Susie Landis
+40,Ariana Howell
+44,Lia Puzzo
+47,Annie Kelley
+88,Andy Marsch
+88,Graham Smith
+99,Thomas Suarez
 b,r,e,a,k
 QCO,11
 teamInfo,,"Springfield, Missouri",,,
@@ -294,11 +294,11 @@ pools,Saturday Pools
 pool,Pool A
 Arms Race,STL CELESTIAL,12,7,"08/02/2025, 09:00",Pool A,Final
 Madison United Mixed Ultimate,STL CELESTIAL,13,8,"08/02/2025, 10:40",Pool A,Final
-Madison United Mixed Ultimate,Arms Race,0,0,"08/02/2025, 12:20",Pool A,Scheduled
+Madison United Mixed Ultimate,Arms Race,12,10,"08/02/2025, 12:20",Pool A,Final
 pool,Pool B
 Mousetrap,QCO,12,10,"08/02/2025, 09:00",Pool B,Final
 BUMS,QCO,13,6,"08/02/2025, 10:40",Pool B,Final
-BUMS,Mousetrap,0,0,"08/02/2025, 12:20",Pool B,Scheduled
+BUMS,Mousetrap,8,10,"08/02/2025, 12:20",Pool B,Final
 pool,Pool C
 Indiana Pterodactyl Attack (IPA),Tempo,13,8,"08/02/2025, 09:00",Pool C,Final
 Memphis STAX,Lightning,13,9,"08/02/2025, 09:00",Pool C,Final
@@ -328,4 +328,5 @@ bracket,7th Place
 b,r,e,a,k
 pools,Sunday Consolidation Pool
 pool,Pool F
+STL CELESTIAL,QCO,0,0,"08/03/2025, 12:20",Pool F,Scheduled
 b,r,e,a,k
