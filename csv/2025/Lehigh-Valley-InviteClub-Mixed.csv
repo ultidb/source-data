@@ -658,14 +658,14 @@ Farm Show,Heavy Flow,15,7,"08/02/2025, 08:00",Pool A,Final
 UNION,Heavy Flow,15,1,"08/02/2025, 09:45",Pool A,Final
 Farm Show,Mashed,14,12,"08/02/2025, 09:45",Pool A,Final
 UNION,Farm Show,0,0,"08/02/2025, 11:30",Pool A,Scheduled
-Mashed,Heavy Flow,0,0,"08/02/2025, 11:30",Pool A,Scheduled
+Mashed,Heavy Flow,14,7,"08/02/2025, 11:30",Pool A,Scheduled
 pool,Pool B
 Funk,Jumbo Slice,10,13,"08/02/2025, 08:00",Pool B,Final
 HVAC,NY Swipes,13,11,"08/02/2025, 08:00",Pool B,Final
 Funk,NY Swipes,14,6,"08/02/2025, 09:45",Pool B,Final
 HVAC,Jumbo Slice,8,9,"08/02/2025, 09:45",Pool B,Final
 Funk,HVAC,0,0,"08/02/2025, 11:30",Pool B,Scheduled
-Jumbo Slice,NY Swipes,0,0,"08/02/2025, 11:30",Pool B,Scheduled
+Jumbo Slice,NY Swipes,10,8,"08/02/2025, 11:30",Pool B,Final
 pool,Pool C
 Jughandle,Spice,12,7,"08/02/2025, 08:00",Pool C,Final
 FLI,Delabear,13,12,"08/02/2025, 08:00",Pool C,Final
@@ -678,7 +678,7 @@ Buffalo Lake Effect,Goosebumps,15,4,"08/02/2025, 08:00",Pool D,Final
 PS,District Cocktails,11,7,"08/02/2025, 08:00",Pool D,Final
 Buffalo Lake Effect,District Cocktails,13,7,"08/02/2025, 09:45",Pool D,Final
 PS,Goosebumps,13,4,"08/02/2025, 09:45",Pool D,Final
-Buffalo Lake Effect,PS,0,0,"08/02/2025, 11:30",Pool D,Scheduled
+Buffalo Lake Effect,PS,12,11,"08/02/2025, 11:30",Pool D,Final
 Goosebumps,District Cocktails,0,0,"08/02/2025, 11:30",Pool D,Scheduled
 b,r,e,a,k
 pools,Pool Play Group 2
@@ -687,15 +687,15 @@ Philly Twist,LORD,10,7,"08/02/2025, 08:00",Pool E,Final
 Obelisk,Domino Effect,15,2,"08/02/2025, 08:00",Pool E,Final
 Philly Twist,Domino Effect,14,3,"08/02/2025, 09:45",Pool E,Final
 Obelisk,LORD,11,10,"08/02/2025, 09:45",Pool E,Final
-Philly Twist,Obelisk,0,0,"08/02/2025, 11:30",Pool E,Scheduled
-LORD,Domino Effect,11,4,"08/02/2025, 11:30",Pool E,Scheduled
+Philly Twist,Obelisk,9,12,"08/02/2025, 11:30",Pool E,Final
+LORD,Domino Effect,11,4,"08/02/2025, 11:30",Pool E,Final
 pool,Pool F
 Brooklyn Hive,JAWN,11,9,"08/02/2025, 08:00",Pool F,Final
 Buffalo Brain Freeze,Voltage,15,9,"08/02/2025, 08:00",Pool F,Final
 Brooklyn Hive,Voltage,14,5,"08/02/2025, 09:45",Pool F,Final
 Buffalo Brain Freeze,JAWN,10,12,"08/02/2025, 09:45",Pool F,Final
-Brooklyn Hive,Buffalo Brain Freeze,0,0,"08/02/2025, 11:30",Pool F,Scheduled
-JAWN,Voltage,0,0,"08/02/2025, 11:30",Pool F,Scheduled
+Brooklyn Hive,Buffalo Brain Freeze,13,8,"08/02/2025, 11:30",Pool F,Final
+JAWN,Voltage,14,5,"08/02/2025, 11:30",Pool F,Final
 b,r,e,a,k
 clusters,Group Crossover
 b,r,e,a,k
