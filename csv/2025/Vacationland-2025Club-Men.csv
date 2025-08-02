@@ -54,6 +54,29 @@ coaches,Nathaniel Wicks
 79,Matthew Xia
 92,Tobey Chang
 b,r,e,a,k
+Phoenix,1
+teamInfo,,"Ottawa, ON, Ontario CA",ottawaopenultimate%20AT%20gmail%20DOT%20com,https://www.facebook.com/ottawa.phoenix,https://twitter.com/phoenixultimate
+coaches,Luke Phelan
+0,Brandon Adibe
+0,Cam Sommerville
+0,Felix Leonard
+0,Jordan Dauz
+0,Mark Fischer 
+0,Mike Lee
+0,Noah Berube
+0,Owen Daigeler
+0,Philip Acimovic
+0,Roth Mohring
+0,Samuel Tremblay-Larochelle
+0,Theo Gobeil
+10,Geoff Bevan
+24,Jonah Munoz
+77,Kayle Campbell
+83,Maxime Ayad
+94,Logan Keillor
+95,Jeremy Hill
+96,Patrick Mapp
+b,r,e,a,k
 Lantern,9
 teamInfo,,"Boston, Massachusetts",https://www.instagram.com/lanternultimate/?hl=en,,https://twitter.com/lanternultimate
 0,Alan Yi
@@ -79,29 +102,6 @@ teamInfo,,"Boston, Massachusetts",https://www.instagram.com/lanternultimate/?hl=
 63,Griffin Smith
 73,Eric Peters
 75,Benjamin Ma
-b,r,e,a,k
-Phoenix,1
-teamInfo,,"Ottawa, ON, Ontario CA",ottawaopenultimate%20AT%20gmail%20DOT%20com,https://www.facebook.com/ottawa.phoenix,https://twitter.com/phoenixultimate
-coaches,Luke Phelan
-0,Brandon Adibe
-0,Cam Sommerville
-0,Felix Leonard
-0,Jordan Dauz
-0,Mark Fischer 
-0,Mike Lee
-0,Noah Berube
-0,Owen Daigeler
-0,Philip Acimovic
-0,Roth Mohring
-0,Samuel Tremblay-Larochelle
-0,Theo Gobeil
-10,Geoff Bevan
-24,Jonah Munoz
-77,Kayle Campbell
-83,Maxime Ayad
-94,Logan Keillor
-95,Jeremy Hill
-96,Patrick Mapp
 b,r,e,a,k
 Big Wrench,8
 teamInfo,,"Somerville, Massachusetts",,https://www.facebook.com/BigWrenchUlt,https://twitter.com/BigWrenchUlt
@@ -391,24 +391,6 @@ teamInfo,,"Burlington, Vermont",,,
 19,Ryan Gallagher
 99,Jasper Goldman
 b,r,e,a,k
-Skeleton Squad,14
-teamInfo,,"Needham, Massachusetts",,,https://twitter.com/Squad_Ult
-0,Alec Jacobson
-0,Ari Carp
-0,Blake Read
-0,Lars Kovamees
-0,Matt Brown
-0,Michael van der Loo
-0,Mitch Giroux
-0,Thomas Dyett
-0,Timothy Lambert
-0,Walker Mayerchak
-13,James Flaggert
-13,Patrick Leach
-42,Finn Cole
-50,Carl Saba
-99,Griffin Majer
-b,r,e,a,k
 Odyssey,12
 teamInfo,,"Medford , Massachusetts",https://www.instagram.com/odyssey_ult?igsh=czI4a2ZyM2xseG4y&utm_source=qr,,
 coaches,Andrew  Polcari
@@ -438,20 +420,23 @@ coaches,Andrew  Polcari
 38,Nicholas  Dell'Amore
 52,Gabriel Rhodes
 b,r,e,a,k
-Green Mountain Boys,15
-teamInfo,,"South Burlington, Vermont",https://jackovincent.wixsite.com/nemesis-ultimate/green-mountain-boys,,
-0,Brendan Fellows
-0,Charles Garavelli
-0,Gavin Wilczynski
-0,Isaac Margulius
-0,Sawyer Falkenbush
-0,Ted Connery
-7,Jacob Russell
-15,Jack Savas
-16,Jacob Lepple
-26,Ian Rock-Jones
-88,Andrew Gervia
-98,Samuel Yager
+Skeleton Squad,14
+teamInfo,,"Needham, Massachusetts",,,https://twitter.com/Squad_Ult
+0,Alec Jacobson
+0,Ari Carp
+0,Blake Read
+0,Lars Kovamees
+0,Matt Brown
+0,Michael van der Loo
+0,Mitch Giroux
+0,Thomas Dyett
+0,Timothy Lambert
+0,Walker Mayerchak
+13,James Flaggert
+13,Patrick Leach
+42,Finn Cole
+50,Carl Saba
+99,Griffin Majer
 b,r,e,a,k
 Crossfire,17
 teamInfo,,"Boston , Massachusetts",,,
@@ -477,6 +462,21 @@ teamInfo,,"Boston , Massachusetts",,,
 84,Andrew Rogers
 88,Franklin Mejia
 b,r,e,a,k
+Green Mountain Boys,15
+teamInfo,,"South Burlington, Vermont",https://jackovincent.wixsite.com/nemesis-ultimate/green-mountain-boys,,
+0,Brendan Fellows
+0,Charles Garavelli
+0,Gavin Wilczynski
+0,Isaac Margulius
+0,Sawyer Falkenbush
+0,Ted Connery
+7,Jacob Russell
+15,Jack Savas
+16,Jacob Lepple
+26,Ian Rock-Jones
+88,Andrew Gervia
+98,Samuel Yager
+b,r,e,a,k
 s,t,a,g,e,s
 pools,Saturday Pool Play
 pool,Pool A
@@ -486,7 +486,7 @@ Phoenix,Scoop,11,13,"08/02/2025, 10:50",Pool A,Final
 Big Wrench,Lantern,8,13,"08/02/2025, 12:40",Pool A,Final
 Scoop,Club M - Manic,9,13,"08/02/2025, 12:40",Pool A,Final
 Phoenix,Club M - Manic,0,0,"08/02/2025, 14:30",Pool A,Scheduled
-Scoop,Lantern,0,0,"08/02/2025, 14:30",Pool A,Scheduled
+Scoop,Lantern,13,7,"08/02/2025, 14:30",Pool A,Final
 pool,Pool B
 Red Tide,Colt,12,13,"08/02/2025, 09:00",Pool B,Final
 Shade,Magnitude (Quake),9,12,"08/02/2025, 10:50",Pool B,Final
@@ -507,11 +507,13 @@ pool,Pool D
 Skeleton Squad,Crossfire,13,8,"08/02/2025, 09:00",Pool D,Final
 Skeleton Squad,Green Mountain Boys,13,4,"08/02/2025, 10:50",Pool D,Final
 Odyssey,Crossfire,13,6,"08/02/2025, 10:50",Pool D,Final
-Odyssey,Green Mountain Boys,0,0,"08/02/2025, 12:40",Pool D,Scheduled
+Odyssey,Green Mountain Boys,13,4,"08/02/2025, 12:40",Pool D,Final
 Green Mountain Boys,Crossfire,0,0,"08/02/2025, 14:30",Pool D,Scheduled
 Odyssey,Skeleton Squad,0,0,"08/02/2025, 14:30",Pool D,Scheduled
 b,r,e,a,k
 clusters,Crossovers
+cluster,Crossovers
+Magnitude (Quake),Magnitude (Quake),0,0,"08/02/2025, 16:20",,Scheduled
 b,r,e,a,k
 brackets,Bracket Play
 bracket,Championship Bracket
