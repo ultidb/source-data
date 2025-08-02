@@ -656,12 +656,12 @@ pool,Pool A
 UNION,Mashed,15,2,"08/02/2025, 08:00",Pool A,Final
 Farm Show,Heavy Flow,15,7,"08/02/2025, 08:00",Pool A,Final
 UNION,Heavy Flow,15,1,"08/02/2025, 09:45",Pool A,Final
-Farm Show,Mashed,0,0,"08/02/2025, 09:45",Pool A,Scheduled
+Farm Show,Mashed,14,12,"08/02/2025, 09:45",Pool A,Final
 UNION,Farm Show,0,0,"08/02/2025, 11:30",Pool A,Scheduled
 Mashed,Heavy Flow,0,0,"08/02/2025, 11:30",Pool A,Scheduled
 pool,Pool B
 Funk,Jumbo Slice,10,13,"08/02/2025, 08:00",Pool B,Final
-HVAC,NY Swipes,0,0,"08/02/2025, 08:00",Pool B,Scheduled
+HVAC,NY Swipes,13,11,"08/02/2025, 08:00",Pool B,Final
 Funk,NY Swipes,14,6,"08/02/2025, 09:45",Pool B,Final
 HVAC,Jumbo Slice,8,9,"08/02/2025, 09:45",Pool B,Final
 Funk,HVAC,0,0,"08/02/2025, 11:30",Pool B,Scheduled
@@ -669,7 +669,7 @@ Jumbo Slice,NY Swipes,0,0,"08/02/2025, 11:30",Pool B,Scheduled
 pool,Pool C
 Jughandle,Spice,12,7,"08/02/2025, 08:00",Pool C,Final
 FLI,Delabear,13,12,"08/02/2025, 08:00",Pool C,Final
-Jughandle,Delabear,0,0,"08/02/2025, 09:45",Pool C,Scheduled
+Jughandle,Delabear,12,10,"08/02/2025, 09:45",Pool C,Final
 FLI,Spice,9,10,"08/02/2025, 09:45",Pool C,Final
 Jughandle,FLI,0,0,"08/02/2025, 11:30",Pool C,Scheduled
 Spice,Delabear,0,0,"08/02/2025, 11:30",Pool C,Scheduled
