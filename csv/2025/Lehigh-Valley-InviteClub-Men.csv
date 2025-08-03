@@ -53,26 +53,6 @@ teamInfo,,"Ocala, Florida",https://www.instagram.com/untiedultimate?igsh=MWVmYTJ
 85,Cody Coates
 91,Garrett Knobel
 b,r,e,a,k
-Chimney,8
-teamInfo,,"Cleveland, Ohio",,,
-0,Benjamin March
-0,David Picone
-0,Evan Howey
-0,Jacob Rollins
-0,Richard Klena
-0,Sam King
-0,Tristan Greiner
-2,Malachi Marshall
-4,Jacob Bultman
-9,Christopher Auman
-11,Matthew Sullivan
-23,Chris Graber
-29,Daniel Shen
-34,Garret Heiberger
-35,Jarrell Imamura
-51,Andrew Thompson
-77,Ian Knaus
-b,r,e,a,k
 Garden State Ultimate,5
 teamInfo,,"New Brunswick, New Jersey",http://gardenstateultimate.com/,,https://twitter.com/gardenstateulti
 coaches,Akshat Rajan
@@ -102,6 +82,26 @@ coaches,Akshat Rajan
 37,Evan Sapirman 
 39,Christopher Arevalo
 41,Aidan Magee
+b,r,e,a,k
+Chimney,8
+teamInfo,,"Cleveland, Ohio",,,
+0,Benjamin March
+0,David Picone
+0,Evan Howey
+0,Jacob Rollins
+0,Richard Klena
+0,Sam King
+0,Tristan Greiner
+2,Malachi Marshall
+4,Jacob Bultman
+9,Christopher Auman
+11,Matthew Sullivan
+23,Chris Graber
+29,Daniel Shen
+34,Garret Heiberger
+35,Jarrell Imamura
+51,Andrew Thompson
+77,Ian Knaus
 b,r,e,a,k
 Mad Men,2
 teamInfo,,"Madison, Wisconsin",https://sites.google.com/view/madmenultimate,https://www.facebook.com/madmenultimate/,https://twitter.com/MadMenUltimate
@@ -548,7 +548,7 @@ Florida Untied,Chimney,15,10,"08/02/2025, 13:15",Pool A,Final
 Pittsburgh Temper,Chimney,15,11,"08/02/2025, 15:00",Pool A,Final
 Florida Untied,Garden State Ultimate,15,9,"08/02/2025, 15:00",Pool A,Final
 Pittsburgh Temper,Florida Untied,15,10,"08/02/2025, 16:45",Pool A,Final
-Garden State Ultimate,Chimney,15,8,"08/02/2025, 16:45",Pool A,Scheduled
+Garden State Ultimate,Chimney,15,8,"08/02/2025, 16:45",Pool A,Final
 pool,Pool B
 Mad Men,Oak Grove Boys,15,10,"08/02/2025, 13:15",Pool B,Final
 Blueprint,Town Hall Stars,15,5,"08/02/2025, 13:15",Pool B,Final
@@ -588,24 +588,43 @@ Beef Depot,Motive,15,7,"08/02/2025, 15:00",Pool E,Final
 b,r,e,a,k
 clusters,Crossover
 cluster,Crossover
-Oak Grove Boys,DAPPER,0,0,"08/03/2025, 08:00",,Scheduled
-Town Hall Stars,John Doe,0,0,"08/03/2025, 08:00",,Scheduled
-Winc City Fog,Happy Valley Roofing and Mustache Supply,0,0,"08/03/2025, 08:00",,Scheduled
-CITYWIDE Special,Hazard,0,0,"08/03/2025, 08:00",,Scheduled
-Beef Depot,SUPA FC,0,0,"08/03/2025, 08:00",,Scheduled
-Buffalo Frostbite,MOB Ultimate,0,0,"08/03/2025, 08:00",,Scheduled
+Garden State Ultimate,Magma Bears,15,7,"08/03/2025, 08:00",,Final
+Oak Grove Boys,DAPPER,15,12,"08/03/2025, 08:00",,Final
+Chimney,Rumspringa,15,13,"08/03/2025, 08:00",,Final
+Town Hall Stars,John Doe,14,9,"08/03/2025, 08:00",,Final
+Winc City Fog,Happy Valley Roofing and Mustache Supply,14,12,"08/03/2025, 08:00",,Final
+CITYWIDE Special,Hazard,7,14,"08/03/2025, 08:00",,Final
+Beef Depot,SUPA FC,8,13,"08/03/2025, 08:00",,Final
+Buffalo Frostbite,MOB Ultimate,5,15,"08/03/2025, 08:00",,Final
 b,r,e,a,k
 pools,Sunday RR
 pool,Pool F
+Happy Valley Roofing and Mustache Supply,Buffalo Frostbite,15,8,"08/03/2025, 09:45",Pool F,Final
+CITYWIDE Special,Motive,0,0,"08/03/2025, 09:45",Pool F,Scheduled
+Happy Valley Roofing and Mustache Supply,CITYWIDE Special,0,0,"08/03/2025, 11:30",Pool F,Scheduled
+Beef Depot,Motive,0,0,"08/03/2025, 11:30",Pool F,Scheduled
+Motive,Buffalo Frostbite,0,0,"08/03/2025, 13:15",Pool F,Scheduled
+Beef Depot,CITYWIDE Special,0,0,"08/03/2025, 13:15",Pool F,Scheduled
+Happy Valley Roofing and Mustache Supply,Motive,0,0,"08/03/2025, 15:00",Pool F,Scheduled
+Beef Depot,Buffalo Frostbite,0,0,"08/03/2025, 15:00",Pool F,Scheduled
 b,r,e,a,k
 brackets,Championship
 bracket,Championship
+Pittsburgh Temper,Oak Grove Boys,0,0,"08/03/2025, 11:30",Quarterfinals,Scheduled
+Blueprint,Garden State Ultimate,0,0,"08/03/2025, 11:30",Quarterfinals,Scheduled
+Mad Men,Town Hall Stars,0,0,"08/03/2025, 11:30",Quarterfinals,Scheduled
+Florida Untied,Chimney,0,0,"08/03/2025, 11:30",Quarterfinals,Scheduled
 bracket,3rd Place Bracket
 bracket,5th Place Bracket
 bracket,7th Place
 b,r,e,a,k
 brackets,9th Place Bracket
 bracket,9th Place
+Magma Bears,Hazard,0,0,"08/03/2025, 13:15",Quarterninals,Scheduled
+DAPPER,Winc City Fog,0,0,"08/03/2025, 13:15",Quarterninals,Scheduled
+Rumspringa,MOB Ultimate,0,0,"08/03/2025, 13:15",Quarterninals,Scheduled
+John Doe,SUPA FC,0,0,"08/03/2025, 13:15",Quarterninals,Scheduled
 bracket,11th Place Bracket
 bracket,13th Place Bracket
+bracket,15th Place
 b,r,e,a,k
