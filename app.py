@@ -128,6 +128,22 @@ def scrapeAndPushVideos():
     scrapeVideos()
     commitAndPushVideos()
 
+def scrapeOneTournamentByUrl(url):
+    with open(f"csv/{year}/_calendar.csv", newline="") as csvfile:
+        reader = csv.reader(csvfile, delimiter=",", quotechar='"')
+        tournaments = []
+        for row in reader:
+            if row[0] == url:
+                tournaments.append({
+                            "city": row[1],
+                            "state": row[2],
+                            "startDate": row[3],
+                            "endDate": row[4],
+                            "url": row[0],
+                        })
+        config = Config(int(year), True, True, False, False)
+        scrapeListOfTournamentUrls(config, tournaments)
+
 
 def commitAndPushVideos():
     csvs = listUpdatedVideos()
@@ -267,9 +283,10 @@ if __name__ == "__main__":
     # postUpdatedCsvListToAPI(["csv/2024/2024-Southeast-Mens-Regional-ChampionshipClub-Men.csv"])
     prodSetup()
     # print(scrapeUltiworldAndSave())
-    scrapeAndPushVideos()
+    # scrapeAndPushVideos()
     # Optional calls for testing/development
     # setupTor()
+    # scrapeOneTournamentByUrl("https://play.usaultimate.org/events/2025-US-Open-Youth-Club-Championships-YCC/schedule/Boys/youth-club-u-20-boys/di/")
     # setupSchedule()
     # scrapeCalendar(True)
     # scrapeRecentlyEndedTournaments()
