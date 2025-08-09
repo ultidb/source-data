@@ -31,35 +31,6 @@ coaches,Andy Routzahn,Trent Tolley
 81,Colin Doescher
 95,Ryan Lowe
 b,r,e,a,k
-GVL Trout,7
-teamInfo,,"Greenville, South Carolina",https://www.instagram.com/gvl_trout_ultimate/,,
-0,Brian Carbon
-0,Bryn Barton
-0,Daniel Sargent
-0,David Wingo
-0,Drew Ficarotta
-0,Isaac Esuary
-0,Andrew Sentell
-0,Jay BRIGGS
-0,Michael Preus
-0,Nathan Donaldson
-0,Nathaniel Bieling
-0,Nicholas Borchich
-0,Nick Ellison
-0,Patrick Kuzbary
-0,Logan Piercy
-0,Samuel Graham
-0,Thomas Loar
-3,Jackson Sudermann
-12,Quentin Fossing
-12,Brandon Creasap
-16,Jon Thomas Williams
-21,Anthony Gibson
-27,Jacob Goyne
-34,Drew Flesch
-77,Michael Hultquist
-99,Michael Hayes
-b,r,e,a,k
 baNC,1
 teamInfo,,"Charlotte, North Carolina",,,
 0,Addison Carnow
@@ -88,6 +59,35 @@ teamInfo,,"Charlotte, North Carolina",,,
 51,Damian Delgado
 81,Dylan Lipps
 88,Samuel Dunlap
+b,r,e,a,k
+GVL Trout,7
+teamInfo,,"Greenville, South Carolina",https://www.instagram.com/gvl_trout_ultimate/,,
+0,Brian Carbon
+0,Bryn Barton
+0,Daniel Sargent
+0,David Wingo
+0,Drew Ficarotta
+0,Isaac Esuary
+0,Andrew Sentell
+0,Jay BRIGGS
+0,Michael Preus
+0,Nathan Donaldson
+0,Nathaniel Bieling
+0,Nicholas Borchich
+0,Nick Ellison
+0,Patrick Kuzbary
+0,Logan Piercy
+0,Samuel Graham
+0,Thomas Loar
+3,Jackson Sudermann
+12,Quentin Fossing
+12,Brandon Creasap
+16,Jon Thomas Williams
+21,Anthony Gibson
+27,Jacob Goyne
+34,Drew Flesch
+77,Michael Hultquist
+99,Michael Hayes
 b,r,e,a,k
 PARLAY,13
 teamInfo,,"Charlotte, North Carolina",,,
@@ -300,6 +300,29 @@ teamInfo,,"Morrisville, North Carolina",https://rb.gy/6knme4,,
 86,Connor Norris
 87,Benj Thomsen
 b,r,e,a,k
+Charleston Heat Stroke,10
+teamInfo,,"Charleston, South Carolina",charlestonopenulty@gmail.com,https://www.instagram.com/heatstroke_ultimate,
+0,Blake Paulson
+0,Cannon Yarborough
+0,Chai Kirshtein
+0,Jett Kirshtein
+0,Joseph DiPaula
+0,Justin Morrison
+0,Aaron Baymiller
+0,Logan Johnston
+0,Ryan Saffa
+0,Shane Kearney
+0,Tanner Martin
+1,Robert OBrien
+3,Adam Bailey
+4,Lane Hudson
+11,Hunter Poe
+13,Ryan Wartenberg
+18,Oddom Vong
+25,Andrew Zavada
+25,Sambath Vong
+95,Tyler Myers
+b,r,e,a,k
 Little Red Wagon,3
 teamInfo,,"Atlanta, Georgia",,,
 coaches,Frederic Perivier
@@ -329,29 +352,6 @@ coaches,Frederic Perivier
 72,Rylan Gordon
 81,Joseph Burns
 87,Trenton Spinks
-b,r,e,a,k
-Charleston Heat Stroke,10
-teamInfo,,"Charleston, South Carolina",charlestonopenulty@gmail.com,https://www.instagram.com/heatstroke_ultimate,
-0,Blake Paulson
-0,Cannon Yarborough
-0,Chai Kirshtein
-0,Jett Kirshtein
-0,Joseph DiPaula
-0,Justin Morrison
-0,Aaron Baymiller
-0,Logan Johnston
-0,Ryan Saffa
-0,Shane Kearney
-0,Tanner Martin
-1,Robert OBrien
-3,Adam Bailey
-4,Lane Hudson
-11,Hunter Poe
-13,Ryan Wartenberg
-18,Oddom Vong
-25,Andrew Zavada
-25,Sambath Vong
-95,Tyler Myers
 b,r,e,a,k
 Gambit,15
 teamInfo,,"Charlotte, North Carolina",https://www.instagram.com/cltgambit/,,
@@ -407,10 +407,10 @@ pools,Pool Play
 pool,Pool A
 baNC,PARLAY,W,F,"08/09/2025, 09:00",Pool A,Final
 GVL Trout,Tennessee Folklore,13,8,"08/09/2025, 09:00",Pool A,Final
-baNC,GVL Trout,13,7,"08/09/2025, 10:40",Pool A,Scheduled
+baNC,GVL Trout,13,7,"08/09/2025, 10:40",Pool A,Final
 Crypt,Tennessee Folklore,13,4,"08/09/2025, 10:40",Pool A,Final
 Tennessee Folklore,PARLAY,0,0,"08/09/2025, 12:20",Pool A,Scheduled
-Crypt,GVL Trout,0,0,"08/09/2025, 12:20",Pool A,Scheduled
+Crypt,GVL Trout,13,7,"08/09/2025, 12:20",Pool A,Final
 baNC,Tennessee Folklore,0,0,"08/09/2025, 14:00",Pool A,Scheduled
 Crypt,PARLAY,0,0,"08/09/2025, 14:00",Pool A,Scheduled
 baNC,Crypt,0,0,"08/09/2025, 15:40",Pool A,Scheduled
@@ -431,7 +431,7 @@ Little Red Wagon,Gambit,0,0,"08/09/2025, 09:00",Pool C,Scheduled
 Queen City Kings,Charleston Heat Stroke,8,12,"08/09/2025, 09:00",Pool C,Final
 Little Red Wagon,Queen City Kings,13,5,"08/09/2025, 10:40",Pool C,Final
 Triumph,Charleston Heat Stroke,13,9,"08/09/2025, 10:40",Pool C,Final
-Charleston Heat Stroke,Gambit,12,5,"08/09/2025, 12:20",Pool C,In Progress
+Charleston Heat Stroke,Gambit,13,5,"08/09/2025, 12:20",Pool C,Final
 Triumph,Queen City Kings,13,5,"08/09/2025, 12:20",Pool C,Final
 Little Red Wagon,Charleston Heat Stroke,0,0,"08/09/2025, 14:00",Pool C,Scheduled
 Triumph,Gambit,0,0,"08/09/2025, 14:00",Pool C,Scheduled
