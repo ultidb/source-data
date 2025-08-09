@@ -222,22 +222,6 @@ teamInfo,,"Dayton, Ohio",,,
 88,Simon Reiter
 98,Jarod Garel
 b,r,e,a,k
-Eclipse,7
-teamInfo,,"Pittsburgh, Pennsylvania",,,
-coaches,Ayuna Uemura
-0,Anthony  Libby
-0,Caleb Stites
-0,Damian Moore
-0,Jacob Freshly
-0,Jimmy Yin
-0,Joshua Freshly
-0,Juliette Barth
-0,Lily Stites
-0,Marco Butera
-0,Abigail Ziegenfuss
-10,Reika Nyunoya
-16,Angela Ngo
-b,r,e,a,k
 STL CELESTIAL,9
 teamInfo,,"ST Louis , Missouri",,,
 0,Angelina Pitt
@@ -266,22 +250,38 @@ teamInfo,,"ST Louis , Missouri",,,
 87,Julia Bernat
 88,Sam Dawson
 b,r,e,a,k
+Eclipse,7
+teamInfo,,"Pittsburgh, Pennsylvania",,,
+coaches,Ayuna Uemura
+0,Anthony  Libby
+0,Caleb Stites
+0,Damian Moore
+0,Jacob Freshly
+0,Jimmy Yin
+0,Joshua Freshly
+0,Juliette Barth
+0,Lily Stites
+0,Marco Butera
+0,Abigail Ziegenfuss
+10,Reika Nyunoya
+16,Angela Ngo
+b,r,e,a,k
 s,t,a,g,e,s
 pools,Saturday Pools
 pool,Pool A
 Skyhawks,Columbus Cohesion,10,8,"08/09/2025, 09:00",Pool A,Final
 Trex Mix,Columbus Cohesion,13,5,"08/09/2025, 10:40",Pool A,Final
-Trex Mix,Skyhawks,0,0,"08/09/2025, 12:20",Pool A,Scheduled
+Trex Mix,Skyhawks,11,8,"08/09/2025, 12:20",Pool A,Final
 pool,Pool B
 Crash,Pixel,13,3,"08/09/2025, 09:00",Pool B,Final
 Stackcats,Pixel,10,5,"08/09/2025, 10:40",Pool B,Final
-Stackcats,Crash,0,0,"08/09/2025, 12:20",Pool B,Scheduled
+Stackcats,Crash,9,10,"08/09/2025, 12:20",Pool B,Final
 pool,Pool C
 Twist,STL CELESTIAL,13,1,"08/09/2025, 09:00",Pool C,Final
 Thunderpants the Magic Dragon,Eclipse,13,5,"08/09/2025, 09:00",Pool C,Final
 Twist,Thunderpants the Magic Dragon,13,6,"08/09/2025, 10:40",Pool C,Final
 Crucible,Eclipse,8,7,"08/09/2025, 10:40",Pool C,Final
-Eclipse,STL CELESTIAL,0,0,"08/09/2025, 12:20",Pool C,Scheduled
+Eclipse,STL CELESTIAL,8,9,"08/09/2025, 12:20",Pool C,Final
 Crucible,Thunderpants the Magic Dragon,9,8,"08/09/2025, 12:20",Pool C,Final
 Twist,Eclipse,0,0,"08/09/2025, 14:00",Pool C,Scheduled
 Crucible,STL CELESTIAL,0,0,"08/09/2025, 14:00",Pool C,Scheduled
@@ -289,6 +289,10 @@ Twist,Crucible,0,0,"08/09/2025, 15:40",Pool C,Scheduled
 Thunderpants the Magic Dragon,STL CELESTIAL,0,0,"08/09/2025, 15:40",Pool C,Scheduled
 b,r,e,a,k
 clusters,A/B Crossover 2:00PM Games
+cluster,Pool A/B Crossover
+Trex Mix,Stackcats,0,0,"08/09/2025, 14:00",,Scheduled
+Crash,Skyhawks,0,0,"08/09/2025, 14:00",,Scheduled
+Columbus Cohesion,Pixel,0,0,"08/09/2025, 14:00",,Scheduled
 b,r,e,a,k
 brackets,Sunday Brackets
 bracket,Championship
@@ -301,6 +305,9 @@ pool,Pool D
 b,r,e,a,k
 brackets,Quarters Play-In Games
 bracket,Quarters Play-In #1
+Skyhawks,Pixel,0,0,"08/09/2025, 15:40",Play-In #1,Scheduled
 bracket,Quarters Play-In #2
+Stackcats,Columbus Cohesion,0,0,"08/09/2025, 15:40",Play-In #2,Scheduled
 bracket,Quarters Seeding - A1 vs B1
+Trex Mix,Crash,0,0,"08/09/2025, 15:40",A1 vs B1,Scheduled
 b,r,e,a,k
