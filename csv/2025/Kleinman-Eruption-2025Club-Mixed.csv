@@ -353,7 +353,7 @@ Porch Bears,Squid Inc.,15,9,"08/09/2025, 09:00",Pool A,Final
 Porch Bears,Choco Ghost House,0,0,"08/09/2025, 11:00",Pool A,Scheduled
 Choco Ghost House,Squid Inc.,0,0,"08/09/2025, 13:00",Pool A,Scheduled
 pool,Pool B
-American Barbecue,Heat Wave,0,0,"08/09/2025, 09:00",Pool B,Scheduled
+American Barbecue,Heat Wave,15,6,"08/09/2025, 09:00",Pool B,Scheduled
 American Barbecue,Seattle Soft Serve,0,0,"08/09/2025, 11:00",Pool B,Scheduled
 Seattle Soft Serve,Heat Wave,0,0,"08/09/2025, 13:00",Pool B,Scheduled
 pool,Pool C
@@ -363,8 +363,6 @@ Igneous Ultimate,Drip,0,0,"08/09/2025, 13:00",Pool C,Scheduled
 pool,Pool D
 Bullet Train,Nebula,15,5,"08/09/2025, 09:00",Pool D,Final
 Pegasus,SkyLab,15,2,"08/09/2025, 09:00",Pool D,Final
-Bullet Train,SkyLab,0,0,"08/09/2025, 11:00",Pool D,Scheduled
-Pegasus,Nebula,0,0,"08/09/2025, 11:00",Pool D,Scheduled
 Bullet Train,Pegasus,0,0,"08/09/2025, 11:00",Pool D,Scheduled
 SkyLab,Nebula,0,0,"08/09/2025, 11:00",Pool D,Scheduled
 b,r,e,a,k
