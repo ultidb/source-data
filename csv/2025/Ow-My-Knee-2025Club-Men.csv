@@ -1,6 +1,34 @@
 Ow My Knee! 2025,Club - Men ,16,8,2025
 Schenectady,NY,2025-08-16,2025-08-17
 https://play.usaultimate.org/events/Ow-My-Knee-2025/schedule/Men/Club-Men/
+Rebels,4
+teamInfo,,"Haddonfield, New Jersey",,,
+0,Scott Pleban
+0,Walker Steven
+1,David Brewster
+2,Stephen Rivera-Lau
+3,Tyler Camp
+5,Brian Rivera-Lau
+7,Macy Desmond
+8,Brenden Hershman
+13,Nick Piotti
+18,Cameron Rabinowitz
+21,Brennan Appleman
+26,Mark Butler
+36,Chris Kelly
+37,Brent Schroeder
+39,Mitchel Bie
+41,Ryan McManus
+46,Matthew Berdel
+52,Lewin Levine
+56,Zachary Hunt
+76,Daniel Endres
+77,Alexander Haynes
+78,Bryant Hall
+80,Kevin  Koelsch
+81,Troy Zirkel
+99,Jeff Zeng
+b,r,e,a,k
 Magma Bears,1
 teamInfo,,"ALL OF NEW YORK, New York",,https://www.facebook.com/WestchesterMagmaBears,https://twitter.com/MagmaBearUlti
 0,Adam Newman
@@ -29,34 +57,6 @@ teamInfo,,"ALL OF NEW YORK, New York",,https://www.facebook.com/WestchesterMagma
 35,Adam Wright
 77,Kevin Asaro
 87,Brandon Chan
-b,r,e,a,k
-Rebels,4
-teamInfo,,"Haddonfield, New Jersey",,,
-0,Scott Pleban
-0,Walker Steven
-1,David Brewster
-2,Stephen Rivera-Lau
-3,Tyler Camp
-5,Brian Rivera-Lau
-7,Macy Desmond
-8,Brenden Hershman
-13,Nick Piotti
-18,Cameron Rabinowitz
-21,Brennan Appleman
-26,Mark Butler
-36,Chris Kelly
-37,Brent Schroeder
-39,Mitchel Bie
-41,Ryan McManus
-46,Matthew Berdel
-52,Lewin Levine
-56,Zachary Hunt
-76,Daniel Endres
-77,Alexander Haynes
-78,Bryant Hall
-80,Kevin  Koelsch
-81,Troy Zirkel
-99,Jeff Zeng
 b,r,e,a,k
 Beef Depot,8
 teamInfo,,"Washington, District of Columbia",https://forms.gle/tRpswR1Fi6ewLu1x8,,
@@ -325,6 +325,22 @@ teamInfo,,"Toronto, Ontario CA",https://linktr.ee/suspectultimate,,
 0,John Xia
 13,Justin Kim
 b,r,e,a,k
+Green Mountain Boys,10
+teamInfo,,"South Burlington, Vermont",https://jackovincent.wixsite.com/nemesis-ultimate/green-mountain-boys,,
+0,Brendan Fellows
+0,Charles Garavelli
+0,Gavin Wilczynski
+0,Isaac Margulius
+0,Sawyer Falkenbush
+0,Ted Connery
+7,Jacob Russell
+13,Simon Cafiero
+15,Jack Savas
+16,Jacob Lepple
+26,Ian Rock-Jones
+88,Andrew Gervia
+98,Samuel Yager
+b,r,e,a,k
 Long Island Riff Raff,15
 teamInfo,,"Dix Hills, New York",https://www.instagram.com/longislandriffraff/,,
 0,Alex Pereira
@@ -368,22 +384,6 @@ teamInfo,,"State College, Pennsylvania",,,
 21,Nathan Hunt
 32,Joseph  Carreras
 b,r,e,a,k
-Green Mountain Boys,10
-teamInfo,,"South Burlington, Vermont",https://jackovincent.wixsite.com/nemesis-ultimate/green-mountain-boys,,
-0,Brendan Fellows
-0,Charles Garavelli
-0,Gavin Wilczynski
-0,Isaac Margulius
-0,Sawyer Falkenbush
-0,Ted Connery
-7,Jacob Russell
-13,Simon Cafiero
-15,Jack Savas
-16,Jacob Lepple
-26,Ian Rock-Jones
-88,Andrew Gervia
-98,Samuel Yager
-b,r,e,a,k
 Buffalo Frostbite,14
 teamInfo,,"Buffalo, New York",,,
 0,Bradley Casto
@@ -411,9 +411,9 @@ s,t,a,g,e,s
 pools,Power Pools
 pool,Pool A
 Magma Bears,Texas Tea,13,12,"08/16/2025, 09:00",Pool A,Final
-Rebels,Beef Depot,0,0,"08/16/2025, 09:00",Pool A,Scheduled
+Rebels,Beef Depot,13,9,"08/16/2025, 09:00",Pool A,Final
 Magma Bears,Beef Depot,0,0,"08/16/2025, 10:45",Pool A,Scheduled
-Rebels,Texas Tea,0,0,"08/16/2025, 10:45",Pool A,Scheduled
+Rebels,Texas Tea,13,8,"08/16/2025, 10:45",Pool A,Final
 Magma Bears,Rebels,0,0,"08/16/2025, 12:30",Pool A,Scheduled
 Texas Tea,Beef Depot,0,0,"08/16/2025, 12:30",Pool A,Scheduled
 pool,Pool B
@@ -429,7 +429,7 @@ pool,Pool C
 Crossfire,Smogborn,13,7,"08/16/2025, 09:00",Pool C,Scheduled
 Spring Break '93,Motive,0,0,"08/16/2025, 09:00",Pool C,Scheduled
 Crossfire,Motive,0,0,"08/16/2025, 10:45",Pool C,Scheduled
-Spring Break '93,Smogborn,0,0,"08/16/2025, 10:45",Pool C,Scheduled
+Spring Break '93,Smogborn,13,11,"08/16/2025, 10:45",Pool C,Scheduled
 Crossfire,Spring Break '93,0,0,"08/16/2025, 12:30",Pool C,Scheduled
 Smogborn,Motive,0,0,"08/16/2025, 12:30",Pool C,Scheduled
 b,r,e,a,k
@@ -437,7 +437,7 @@ pools,Regular Pool D
 pool,Pool D
 Green Mountain Boys,Chemical X,11,6,"08/16/2025, 09:00",Pool D,Scheduled
 Buffalo Frostbite,Long Island Riff Raff,8,11,"08/16/2025, 09:00",Pool D,Final
-Green Mountain Boys,Buffalo Frostbite,0,0,"08/16/2025, 10:30",Pool D,Scheduled
+Green Mountain Boys,Buffalo Frostbite,11,6,"08/16/2025, 10:30",Pool D,Final
 Suspect,Long Island Riff Raff,11,6,"08/16/2025, 10:30",Pool D,Final
 Long Island Riff Raff,Chemical X,0,0,"08/16/2025, 12:00",Pool D,Scheduled
 Suspect,Buffalo Frostbite,0,0,"08/16/2025, 12:00",Pool D,Scheduled
