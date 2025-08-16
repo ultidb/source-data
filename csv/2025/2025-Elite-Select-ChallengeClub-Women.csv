@@ -57,6 +57,29 @@ coaches,Donald Wood
 19,Juliana Jordan
 19,Isabel Demo
 b,r,e,a,k
+Outrage,10
+teamInfo,,"Ann Arbor, Michigan",,,
+coaches,Maya Grumeretz
+0,Anna Kilbourn
+0,Clare Abdallah
+0,Constanza Capriles
+0,Jennifer Perry
+0,Jocelyn Richison
+0,Lucie Roy
+0,Megan Lee
+0,Riley Dickson
+0,Sophia Keins
+0,Yewande Taiwo
+4,Lauren Quiroga
+16,Alex Barton
+18,Sydney Miller
+19,Amy Turner
+19,Aiva Zoldan
+22,Julia Richardson
+24,Julia Weinert
+24,Charlotte Wilson
+91,Samantha Phillips
+b,r,e,a,k
 LOL,16
 teamInfo,,"Oakland, California",,,
 69,Alexandra Stambaugh
@@ -81,29 +104,6 @@ teamInfo,,"Oakland, California",,,
 69,Sally Mimms
 69,Sarah Carnahan
 69,Julia Johnson
-b,r,e,a,k
-Outrage,10
-teamInfo,,"Ann Arbor, Michigan",,,
-coaches,Maya Grumeretz
-0,Anna Kilbourn
-0,Clare Abdallah
-0,Constanza Capriles
-0,Jennifer Perry
-0,Jocelyn Richison
-0,Lucie Roy
-0,Megan Lee
-0,Riley Dickson
-0,Sophia Keins
-0,Yewande Taiwo
-4,Lauren Quiroga
-16,Alex Barton
-18,Sydney Miller
-19,Amy Turner
-19,Aiva Zoldan
-22,Julia Richardson
-24,Julia Weinert
-24,Charlotte Wilson
-91,Samantha Phillips
 b,r,e,a,k
 Dark Sky,8
 teamInfo,,"Utah, Utah",,,
@@ -216,6 +216,34 @@ teamInfo,,"San Diego, California",,https://www.facebook.com/WildfireUltimate,htt
 42,Terra Dressler
 44,Daisy Cuthbert
 b,r,e,a,k
+Nightlock,3
+teamInfo,,"Bay Area, California",http://www.nightlockult.com/,https://www.facebook.com/NightlockUlt/,https://twitter.com/nightlockult/
+0,Reeve Grobecker
+5,Anne Gordon
+6,Amy Lu
+8,Angela Aie
+9,Betsy Siegal
+11,Elizabeth Pugh
+12,Ziyue Chen
+15,Audrey  Sheehy
+16,Thalia Ward
+18,Jessalyn Siu
+21,Nicole Canning
+22,Kaitlin Swinnerton
+23,Lauren Byrne
+24,Jackelyne Nguyen
+25,Carmen Resnick
+27,Cassidy Gilmore
+30,Nami Sumida
+31,Lauren Yamasaki-Liske
+32,Viola Deszily
+34,Maya Roma
+36,Mars Bau
+44,Kara Hammer
+48,Macy Vollbrecht
+98,Janelle Lee
+99,Xinzhi Zou
+b,r,e,a,k
 Grit,5
 teamInfo,,"Washington, District of Columbia",https://gritultimate.wordpress.com/,https://www.facebook.com/GritUltimate,https://www.twitter.com/GritUltimate
 coaches,Samantha Broaddus,Kristine Gill,Sarah Lord,Jordan Tippitt
@@ -245,34 +273,6 @@ coaches,Samantha Broaddus,Kristine Gill,Sarah Lord,Jordan Tippitt
 66,Chloe Wade
 91,Jin-Mi Matsunaga
 93,Kate Trenerry
-b,r,e,a,k
-Nightlock,3
-teamInfo,,"Bay Area, California",http://www.nightlockult.com/,https://www.facebook.com/NightlockUlt/,https://twitter.com/nightlockult/
-0,Reeve Grobecker
-5,Anne Gordon
-6,Amy Lu
-8,Angela Aie
-9,Betsy Siegal
-11,Elizabeth Pugh
-12,Ziyue Chen
-15,Audrey  Sheehy
-16,Thalia Ward
-18,Jessalyn Siu
-21,Nicole Canning
-22,Kaitlin Swinnerton
-23,Lauren Byrne
-24,Jackelyne Nguyen
-25,Carmen Resnick
-27,Cassidy Gilmore
-30,Nami Sumida
-31,Lauren Yamasaki-Liske
-32,Viola Deszily
-34,Maya Roma
-36,Mars Bau
-44,Kara Hammer
-48,Macy Vollbrecht
-98,Janelle Lee
-99,Xinzhi Zou
 b,r,e,a,k
 Heist,12
 teamInfo,,"Madison, Wisconsin",http://heistultimate.com/,https://www.facebook.com/heistultimate,https://twitter.com/HeistUltimate
@@ -446,20 +446,20 @@ Schwa,Outrage,14,3,"08/16/2025, 09:00",Pool A,Final
 Pop,LOL,15,9,"08/16/2025, 09:00",Pool A,Final
 Schwa,LOL,14,8,"08/16/2025, 10:50",Pool A,Final
 Pop,Outrage,9,2,"08/16/2025, 10:50",Pool A,Final
-Schwa,Pop,12,7,"08/16/2025, 12:40",Pool A,In Progress
-Outrage,LOL,9,8,"08/16/2025, 12:40",Pool A,In Progress
+Schwa,Pop,13,8,"08/16/2025, 12:40",Pool A,Final
+Outrage,LOL,10,9,"08/16/2025, 12:40",Pool A,Final
 pool,Pool B
 Parcha,Ozone,13,8,"08/16/2025, 10:50",Pool B,Final
 Dark Sky,Wildfire,15,5,"08/16/2025, 10:50",Pool B,Final
-Parcha,Wildfire,8,6,"08/16/2025, 12:40",Pool B,In Progress
-Dark Sky,Ozone,9,8,"08/16/2025, 12:40",Pool B,In Progress
+Parcha,Wildfire,15,9,"08/16/2025, 12:40",Pool B,Final
+Dark Sky,Ozone,11,8,"08/16/2025, 12:40",Pool B,Final
 Parcha,Dark Sky,0,0,"08/16/2025, 14:30",Pool B,Scheduled
 Ozone,Wildfire,0,0,"08/16/2025, 14:30",Pool B,Scheduled
 pool,Pool C
 Nightlock,Heist,15,11,"08/16/2025, 09:00",Pool C,Final
 Grit,Underground,15,8,"08/16/2025, 09:00",Pool C,Final
-Nightlock,Underground,13,5,"08/16/2025, 12:40",Pool C,In Progress
-Grit,Heist,10,6,"08/16/2025, 12:40",Pool C,In Progress
+Nightlock,Underground,15,5,"08/16/2025, 12:40",Pool C,Final
+Grit,Heist,15,9,"08/16/2025, 12:40",Pool C,Final
 Nightlock,Grit,0,0,"08/16/2025, 14:30",Pool C,Scheduled
 Heist,Underground,0,0,"08/16/2025, 14:30",Pool C,Scheduled
 pool,Pool D
