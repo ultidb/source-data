@@ -118,35 +118,6 @@ coaches,Jordan Lange
 96,George Irving
 99,Benjamin Zhang
 b,r,e,a,k
-Toro,2
-teamInfo,,"Durham, North Carolina",,https://www.facebook.com/ToroUltimate/,https://twitter.com/ToroUltimate
-coaches,Matthew Raskind
-01,Jinny Riedel
-02,Claire Bidigare-Curtis
-04,Zac Byrnes
-07,Grayson Sanner
-09,Jacob Mouw
-11,Player Pierce
-12,Katie Backus
-14,Dayla Woller
-15,Carmen Tormey
-17,Tatiana Proksch
-18,Jacob McGoogan
-21,Julia Hoffmann
-23,Caitlin Gross
-28,Claire Revere
-29,Elijah Long
-30,Andrew McKelvey
-32,Annie Bocko
-34,Matthew Wilson
-37,William Coffin
-43,Marcus Rovner
-45,Brett Matzuka
-49,Jamie Bryson
-85,Owen Stout
-88,Madeleine Pletzke
-99,Georgia Tse
-b,r,e,a,k
 Space Force,8
 teamInfo,,"Huntsville, Alabama",http://linktr.ee/spaceforceulti,,
 0,Jonathan Sillivant
@@ -175,6 +146,35 @@ teamInfo,,"Huntsville, Alabama",http://linktr.ee/spaceforceulti,,
 69,Michael Mobley
 70,Nick Loughran
 91,Evelyn Williams
+b,r,e,a,k
+Toro,2
+teamInfo,,"Durham, North Carolina",,https://www.facebook.com/ToroUltimate/,https://twitter.com/ToroUltimate
+coaches,Matthew Raskind
+01,Jinny Riedel
+02,Claire Bidigare-Curtis
+04,Zac Byrnes
+07,Grayson Sanner
+09,Jacob Mouw
+11,Player Pierce
+12,Katie Backus
+14,Dayla Woller
+15,Carmen Tormey
+17,Tatiana Proksch
+18,Jacob McGoogan
+21,Julia Hoffmann
+23,Caitlin Gross
+28,Claire Revere
+29,Elijah Long
+30,Andrew McKelvey
+32,Annie Bocko
+34,Matthew Wilson
+37,William Coffin
+43,Marcus Rovner
+45,Brett Matzuka
+49,Jamie Bryson
+85,Owen Stout
+88,Madeleine Pletzke
+99,Georgia Tse
 b,r,e,a,k
 Seattle Mixtape,9
 teamInfo,,"Seattle, Washington",https://shop.beultimate.com/collections/seattle-mixtape,https://www.instagram.com/seattlemixtape,https://twitter.com/SeattleMIXtape
@@ -340,6 +340,35 @@ teamInfo,,"Seattle, Washington",,https://www.facebook.com/Lights-Out-Ultimate-98
 25,Spencer Land
 57,Sola Truong
 b,r,e,a,k
+'Shine,4
+teamInfo,,"Nashville, Tennessee",https://www.nashvilleultimate.com/nashville-shine-mixed,https://www.facebook.com/nashvilleshineultimate,https://twitter.com/nashvilleshine
+0,Adam Carr
+0,Avi Ghitterman
+0,Elena Rubino
+0,Katharine Gilbert
+0,Kelsea LeBeau
+0,Margaret Quinn
+0,Mia Letterie
+0,Nadine Rowen
+0,Rachel Kramer
+0,Rebecca Henley
+0,Tori Taylor
+0,Grace Castro
+0,Leah Shorb
+9,JohnThomas Atema
+12,Nicholas Farren
+12,Nicolas Lanas
+12,Phillip Dougherty
+17,Rachel Barr
+17,Eli Motycka
+18,Jacob Flowers
+21,Christopher Calhoun
+22,Paul Lally
+44,Levi Branan
+78,Grace Robinson
+95,Trip Adams
+98,Matt Ractliffe
+b,r,e,a,k
 AMP,6
 teamInfo,,"Philadelphia, Pennsylvania",http://www.phillyamp.com,https://www.facebook.com/PhillyAMP,https://www.twitter.com/phillyamp
 coaches,David Baer
@@ -369,35 +398,6 @@ coaches,David Baer
 73,Katie Stack
 91,Ethan Sarles
 99,Eric Nardelli
-b,r,e,a,k
-'Shine,4
-teamInfo,,"Nashville, Tennessee",https://www.nashvilleultimate.com/nashville-shine-mixed,https://www.facebook.com/nashvilleshineultimate,https://twitter.com/nashvilleshine
-0,Adam Carr
-0,Avi Ghitterman
-0,Elena Rubino
-0,Katharine Gilbert
-0,Kelsea LeBeau
-0,Margaret Quinn
-0,Mia Letterie
-0,Nadine Rowen
-0,Rachel Kramer
-0,Rebecca Henley
-0,Tori Taylor
-0,Grace Castro
-0,Leah Shorb
-9,JohnThomas Atema
-12,Nicholas Farren
-12,Nicolas Lanas
-12,Phillip Dougherty
-17,Rachel Barr
-17,Eli Motycka
-18,Jacob Flowers
-21,Christopher Calhoun
-22,Paul Lally
-44,Levi Branan
-78,Grace Robinson
-95,Trip Adams
-98,Matt Ractliffe
 b,r,e,a,k
 MOONDOG,13
 teamInfo,,"Montana, Montana",,,https://twitter.com/MoondogUltimate
@@ -470,8 +470,8 @@ Toro,Seattle Mixtape,15,10,"08/16/2025, 10:50",Pool B,Final
 Space Force,Revival,13,11,"08/16/2025, 10:50",Pool B,Final
 Toro,Revival,14,7,"08/16/2025, 12:40",Pool B,Final
 Space Force,Seattle Mixtape,13,9,"08/16/2025, 12:40",Pool B,Final
-Toro,Space Force,7,8,"08/16/2025, 14:30",Pool B,In Progress
-Seattle Mixtape,Revival,7,7,"08/16/2025, 14:30",Pool B,In Progress
+Toro,Space Force,8,10,"08/16/2025, 14:30",Pool B,Final
+Seattle Mixtape,Revival,10,7,"08/16/2025, 14:30",Pool B,Final
 pool,Pool C
 Tower,Lights Out,14,10,"08/16/2025, 09:00",Pool C,Final
 Mile High Trash,Townies,15,6,"08/16/2025, 09:00",Pool C,Final
@@ -484,17 +484,21 @@ pool,Pool D
 AMP,MOONDOG,14,6,"08/16/2025, 09:00",Pool D,Final
 'Shine,MOONDOG,12,10,"08/16/2025, 10:50",Pool D,Final
 AMP,Polar Bears,15,10,"08/16/2025, 10:50",Pool D,Final
-'Shine,AMP,9,7,"08/16/2025, 14:30",Pool D,In Progress
-Polar Bears,MOONDOG,11,8,"08/16/2025, 14:30",Pool D,In Progress
+'Shine,AMP,10,7,"08/16/2025, 14:30",Pool D,Final
+Polar Bears,MOONDOG,11,11,"08/16/2025, 14:30",Pool D,In Progress
 b,r,e,a,k
 brackets,2025 Elite Select Challenge Championship
 bracket,Championship
+Rally,Toro,0,0,"08/17/2025, 08:00",Quarterfinals,Scheduled
+Austin Disco Club,Space Force,0,0,"08/17/2025, 08:00",Quarterfinals,Scheduled
 b,r,e,a,k
 brackets,Placement Brackets
 bracket,Third Place
 bracket,Fifth Place Bracket
 bracket,Seventh Place
 bracket,Ninth Place Bracket
+Seattle Mixtape,Chicago Parlay,0,0,"08/17/2025, 09:50",Ninth Place Quarterfinals,Scheduled
+Revival,NOISE,0,0,"08/17/2025, 09:50",Ninth Place Quarterfinals,Scheduled
 bracket,Eleventh Place
 bracket,Thirteenth Place Bracket
 bracket,Fifteenth Place
