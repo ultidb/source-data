@@ -58,25 +58,6 @@ teamInfo,,"Tucson, Arizona",,,
 43,Paul Carmichael
 60,Joe Sobansky
 b,r,e,a,k
-Sky-90,16
-teamInfo,,"Missoula, Montana",https://www.instagram.com/missoula_sky90?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==,,
-0,Ellie Burger
-0,Joel Martinez
-0,Justin Harrington
-0,Phillip Tillman
-0,Susan Truong
-9,Aspen Nord
-11,Timmy Glanville
-13,Ashley Sinclair
-16,Will Mottram
-23,Owen Gauthier
-29,James Meyer
-33,Cian McGinn
-37,Shelbie White
-42,Aren Jorgensen
-47,Nina Vermolen
-81,Ty Lynch
-b,r,e,a,k
 "All Jeeps, All Night.",9
 teamInfo,,"Boulder, Colorado",alljeepsallnight.com,,
 0,Christopher Akers
@@ -101,6 +82,25 @@ teamInfo,,"Boulder, Colorado",alljeepsallnight.com,,
 13,Hill Balliet
 33,Ollie Peterson
 35,Britta Bergstrom
+b,r,e,a,k
+Sky-90,16
+teamInfo,,"Missoula, Montana",https://www.instagram.com/missoula_sky90?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==,,
+0,Ellie Burger
+0,Joel Martinez
+0,Justin Harrington
+0,Phillip Tillman
+0,Susan Truong
+9,Aspen Nord
+11,Timmy Glanville
+13,Ashley Sinclair
+16,Will Mottram
+23,Owen Gauthier
+29,James Meyer
+33,Cian McGinn
+37,Shelbie White
+42,Aren Jorgensen
+47,Nina Vermolen
+81,Ty Lynch
 b,r,e,a,k
 Moontower,2
 teamInfo,,"Austin, Texas",https://www.instagram.com/moontowerultimate/,https://www.facebook.com/moontowerultimate/,https://twitter.com/moontowerulti
@@ -357,6 +357,27 @@ teamInfo,,"Fort Collins, Colorado",,,
 55,Char Bokhof
 66,Klaudia Poplawski
 b,r,e,a,k
+Cutthroat,13
+teamInfo,,"Reno, Nevada",,,https://twitter.com/cutthroatulti
+0,Donovan Davis
+0,Emily Zedek
+1,Marcus Fredrickson
+2,R. Miguel Gonzales
+2,John Whiting
+4,Pete Marshall
+9,Thomas Fiock
+13,Donne Lenard Lomugdang
+15,Ruth Seipel
+15,Nicolas Olson
+16,Zachary Wallpe
+18,Lauren Edwards
+20,Lindsey Wolterbeek 
+24,Samantha  Embleton
+28,Rodney Wolfgang
+33,Jeremiah Haumeder
+56,Mary Clingerman
+69,Rebecca Mills
+b,r,e,a,k
 The Strangers,12
 teamInfo,,"Westminster, Colorado",,https://www.facebook.com/TheStrangersUltimate,
 0,April Kocherhans
@@ -383,35 +404,14 @@ teamInfo,,"Westminster, Colorado",,https://www.facebook.com/TheStrangersUltimate
 00,Don Nguyen
 31,Abby Hyde
 b,r,e,a,k
-Cutthroat,13
-teamInfo,,"Reno, Nevada",,,https://twitter.com/cutthroatulti
-0,Donovan Davis
-0,Emily Zedek
-1,Marcus Fredrickson
-2,R. Miguel Gonzales
-2,John Whiting
-4,Pete Marshall
-9,Thomas Fiock
-13,Donne Lenard Lomugdang
-15,Ruth Seipel
-15,Nicolas Olson
-16,Zachary Wallpe
-18,Lauren Edwards
-20,Lindsey Wolterbeek 
-24,Samantha  Embleton
-28,Rodney Wolfgang
-33,Jeremiah Haumeder
-56,Mary Clingerman
-69,Rebecca Mills
-b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
 Sego,"All Jeeps, All Night.",13,5,"08/16/2025, 09:00",Pool A,Final
 Karma,Sky-90,11,8,"08/16/2025, 09:00",Pool A,Scheduled
-Sego,Sky-90,0,0,"08/16/2025, 10:45",Pool A,Scheduled
+Sego,Sky-90,13,0,"08/16/2025, 10:45",Pool A,Final
 Karma,"All Jeeps, All Night.",8,7,"08/16/2025, 10:45",Pool A,Final
-Sego,Karma,0,0,"08/16/2025, 12:30",Pool A,Scheduled
+Sego,Karma,13,2,"08/16/2025, 12:30",Pool A,Final
 "All Jeeps, All Night.",Sky-90,0,0,"08/16/2025, 12:30",Pool A,Scheduled
 pool,Pool B
 Moontower,Mango,10,7,"08/16/2025, 09:00",Pool B,Final
@@ -433,7 +433,7 @@ Cowpoke,Cutthroat,11,9,"08/16/2025, 09:00",Pool D,Final
 Classy,Cutthroat,11,8,"08/16/2025, 10:45",Pool D,Final
 Cowpoke,The Strangers,10,9,"08/16/2025, 10:45",Pool D,Final
 Classy,Cowpoke,12,6,"08/16/2025, 12:30",Pool D,Final
-The Strangers,Cutthroat,0,0,"08/16/2025, 12:30",Pool D,Scheduled
+The Strangers,Cutthroat,9,11,"08/16/2025, 12:30",Pool D,Final
 b,r,e,a,k
 brackets,Bracket Play
 bracket,Championship Bracket
