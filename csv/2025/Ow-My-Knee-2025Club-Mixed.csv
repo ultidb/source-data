@@ -82,31 +82,26 @@ teamInfo,,"Hoboken, New Jersey",https://www.instagram.com/theaxolotlsultimate/,,
 88,Moi Li
 98,Kyle Dew
 b,r,e,a,k
-Brooklyn Hive,5
-teamInfo,,"New York, New York",https://www.instagram.com/brooklyn_hive_ultimate/,,
-0,Jeremy Doll
-0,Laura Kidder
-0,Marguerite Maloney
-0,Maria Duke
-0,Miche McCall
-0,Renee Heller
-0,Sonia Bloom
-0,Andy Shi
-0,Callie Zane
-0,Candela de Amorrortu
-0,Carter Hartmann
-0,Christian Duffoo
-0,Adam Cusner
-3,Brooke Meinhart
-6,Alex Schlegel
-7,Grace Knight
-9,Ferrick Robertson
-10,Jonathan Lao
-11,Harrison Kaish
-15,Hakeem Adeyemi
-19,Hallie Schaeffer
-31,Wayne Smart
-77,Alexander Drogin
+Compost Plates,9
+teamInfo,,"Rochester, New York",,,
+0,Addisyn Gangai
+0,Anna Stohs
+0,Benjamin Goldstein
+0,Eva Pacheco
+0,Ian Oxman
+0,Joseph  Carney
+0,Lila Brown
+0,Maggie Smith
+0,Mary  MacAdam
+0,Sam Myers
+0,Sumedh Anantha Krishna 
+0,Tarra Lindsay
+0,Teddy Schwartz
+1,James Jordan
+7,Yabnel Coss-Torres
+57,Bryce Roman
+67,Cooper Pinaud
+69,Julia Oberlin
 b,r,e,a,k
 Domino Effect,12
 teamInfo,,"New York, New York",https://www.instagram.com/dominoeffect_ultimate,,
@@ -137,26 +132,31 @@ teamInfo,,"New York, New York",https://www.instagram.com/dominoeffect_ultimate,,
 98,Grainne Casey
 99,Ashley Wong
 b,r,e,a,k
-Compost Plates,9
-teamInfo,,"Rochester, New York",,,
-0,Addisyn Gangai
-0,Anna Stohs
-0,Benjamin Goldstein
-0,Eva Pacheco
-0,Ian Oxman
-0,Joseph  Carney
-0,Lila Brown
-0,Maggie Smith
-0,Mary  MacAdam
-0,Sam Myers
-0,Sumedh Anantha Krishna 
-0,Tarra Lindsay
-0,Teddy Schwartz
-1,James Jordan
-7,Yabnel Coss-Torres
-57,Bryce Roman
-67,Cooper Pinaud
-69,Julia Oberlin
+Brooklyn Hive,5
+teamInfo,,"New York, New York",https://www.instagram.com/brooklyn_hive_ultimate/,,
+0,Jeremy Doll
+0,Laura Kidder
+0,Marguerite Maloney
+0,Maria Duke
+0,Miche McCall
+0,Renee Heller
+0,Sonia Bloom
+0,Andy Shi
+0,Callie Zane
+0,Candela de Amorrortu
+0,Carter Hartmann
+0,Christian Duffoo
+0,Adam Cusner
+3,Brooke Meinhart
+6,Alex Schlegel
+7,Grace Knight
+9,Ferrick Robertson
+10,Jonathan Lao
+11,Harrison Kaish
+15,Hakeem Adeyemi
+19,Hallie Schaeffer
+31,Wayne Smart
+77,Alexander Drogin
 b,r,e,a,k
 Quahogs,3
 teamInfo,,"Providence, Rhode Island",,,
@@ -180,30 +180,6 @@ teamInfo,,"Providence, Rhode Island",,,
 26,Nick Love
 35,Pierre-Yves Lavertu
 36,Eric Hurd
-b,r,e,a,k
-PterodaCTyl,6
-teamInfo,,"New Rochelle, New York",,,
-0,Alicia Menduni
-0,Dan Hilton
-0,David Rothman
-0,Elizabeth Nowlin
-0,Elle Marcus
-0,Felicia Zheng
-0,Han Pimentel-Hayes
-0,Hunter Sagendorph
-0,James McIntyre
-0,Kfir Shoham
-0,Nadine Tong
-0,Ran Huo
-0,Ryan Grabijas
-0,Sungshil Johnson
-5,Tianzhe Wang
-5,Michael Valdez
-7,Alexander DeLalla
-12,Kathleen Brussell
-14,Joseph Ouellette
-16,Robert Hsu
-28,Matthew Bartell
 b,r,e,a,k
 Garbage Pla(C)e,7
 teamInfo,C,"ROCHESTER, New York",,,
@@ -230,6 +206,30 @@ teamInfo,C,"ROCHESTER, New York",,,
 32,Max Kesselring
 69,Wilson Gardner
 87,Thomas Benati
+b,r,e,a,k
+PterodaCTyl,6
+teamInfo,,"New Rochelle, New York",,,
+0,Alicia Menduni
+0,Dan Hilton
+0,David Rothman
+0,Elizabeth Nowlin
+0,Elle Marcus
+0,Felicia Zheng
+0,Han Pimentel-Hayes
+0,Hunter Sagendorph
+0,James McIntyre
+0,Kfir Shoham
+0,Nadine Tong
+0,Ran Huo
+0,Ryan Grabijas
+0,Sungshil Johnson
+5,Tianzhe Wang
+5,Michael Valdez
+7,Alexander DeLalla
+12,Kathleen Brussell
+14,Joseph Ouellette
+16,Robert Hsu
+28,Matthew Bartell
 b,r,e,a,k
 Starfire,11
 teamInfo,,"Westbury, New York",,,
@@ -310,7 +310,7 @@ Big Rig,Brooklyn Hive,13,6,"08/16/2025, 09:00",Pool A,Final
 Axolotls,Compost Plates,13,9,"08/16/2025, 09:00",Pool A,Final
 Buffalo Brain Freeze,Domino Effect,13,6,"08/16/2025, 09:00",Pool A,Final
 Big Rig,Axolotls,13,10,"08/16/2025, 10:45",Pool A,Final
-Brooklyn Hive,Buffalo Brain Freeze,0,0,"08/16/2025, 10:45",Pool A,Scheduled
+Brooklyn Hive,Buffalo Brain Freeze,10,12,"08/16/2025, 10:45",Pool A,Final
 Compost Plates,Domino Effect,13,9,"08/16/2025, 10:45",Pool A,Scheduled
 Big Rig,Buffalo Brain Freeze,0,0,"08/16/2025, 12:30",Pool A,Scheduled
 Axolotls,Domino Effect,0,0,"08/16/2025, 12:30",Pool A,Scheduled
@@ -324,10 +324,10 @@ Brooklyn Hive,Domino Effect,0,0,"08/17/2025, 08:30",Pool A,Scheduled
 pool,Pool B
 Mashed,PterodaCTyl,12,13,"08/16/2025, 09:00",Pool B,Final
 Quahogs,UFO Ultimate,13,5,"08/16/2025, 09:00",Pool B,Final
-Garbage Pla(C)e,Starfire,10,8,"08/16/2025, 09:00",Pool B,Scheduled
-Mashed,Quahogs,0,0,"08/16/2025, 10:45",Pool B,Scheduled
-PterodaCTyl,Garbage Pla(C)e,0,0,"08/16/2025, 10:45",Pool B,Scheduled
-UFO Ultimate,Starfire,0,0,"08/16/2025, 10:45",Pool B,Scheduled
+Garbage Pla(C)e,Starfire,10,8,"08/16/2025, 09:00",Pool B,Final
+Mashed,Quahogs,8,13,"08/16/2025, 10:45",Pool B,Final
+PterodaCTyl,Garbage Pla(C)e,12,13,"08/16/2025, 10:45",Pool B,Scheduled
+UFO Ultimate,Starfire,10,13,"08/16/2025, 10:45",Pool B,Final
 Mashed,Garbage Pla(C)e,0,0,"08/16/2025, 12:30",Pool B,Scheduled
 Quahogs,Starfire,0,0,"08/16/2025, 12:30",Pool B,Scheduled
 PterodaCTyl,UFO Ultimate,0,0,"08/16/2025, 12:30",Pool B,Scheduled
