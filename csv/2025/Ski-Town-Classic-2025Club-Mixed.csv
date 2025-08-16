@@ -102,34 +102,6 @@ teamInfo,,"Boulder, Colorado",alljeepsallnight.com,,
 33,Ollie Peterson
 35,Britta Bergstrom
 b,r,e,a,k
-Green Chiles,7
-teamInfo,,"Denver, Colorado",https://www.instagram.com/greenchilesultimate/,,
-0,Gretchen Mathiason
-0,Sydney Pomish
-0,Wren Vogel
-02,Thomas Parry
-03,Hannah Dryke
-05,Stephen Lin
-07,Kelly Moses
-10,Nico Cappella
-11,Augy Cohn
-12,Patrick  Morgan
-13,Maggie Graves
-14,Pope Rauch
-17,Will Eckert
-20,Matt Cornish
-24,Grayson  Anderson
-27,Ginie Eckert
-27,Allison  Qualls
-30,Mark Kharakh
-31,Matt Slowinski
-39,Arden Randazzo
-41,Mary Kurzweil
-51,Sarah Fee
-55,Max Cormier
-71,Kriselle Tubongbanua
-85,Elena Miyasato
-b,r,e,a,k
 Moontower,2
 teamInfo,,"Austin, Texas",https://www.instagram.com/moontowerultimate/,https://www.facebook.com/moontowerultimate/,https://twitter.com/moontowerulti
 0,Danielle Rowe
@@ -184,6 +156,34 @@ teamInfo,,"San Francisco, California",https://www.instagram.com/mangoultimate/,,
 34,Tessa Cortez
 41,Declan Bernal
 87,Charlie Capron
+b,r,e,a,k
+Green Chiles,7
+teamInfo,,"Denver, Colorado",https://www.instagram.com/greenchilesultimate/,,
+0,Gretchen Mathiason
+0,Sydney Pomish
+0,Wren Vogel
+02,Thomas Parry
+03,Hannah Dryke
+05,Stephen Lin
+07,Kelly Moses
+10,Nico Cappella
+11,Augy Cohn
+12,Patrick  Morgan
+13,Maggie Graves
+14,Pope Rauch
+17,Will Eckert
+20,Matt Cornish
+24,Grayson  Anderson
+27,Ginie Eckert
+27,Allison  Qualls
+30,Mark Kharakh
+31,Matt Slowinski
+39,Arden Randazzo
+41,Mary Kurzweil
+51,Sarah Fee
+55,Max Cormier
+71,Kriselle Tubongbanua
+85,Elena Miyasato
 b,r,e,a,k
 Phlagstaff Ultimate,15
 teamInfo,,"Phoenix , Arizona",,,
@@ -357,27 +357,6 @@ teamInfo,,"Fort Collins, Colorado",,,
 55,Char Bokhof
 66,Klaudia Poplawski
 b,r,e,a,k
-Cutthroat,13
-teamInfo,,"Reno, Nevada",,,https://twitter.com/cutthroatulti
-0,Donovan Davis
-0,Emily Zedek
-1,Marcus Fredrickson
-2,R. Miguel Gonzales
-2,John Whiting
-4,Pete Marshall
-9,Thomas Fiock
-13,Donne Lenard Lomugdang
-15,Ruth Seipel
-15,Nicolas Olson
-16,Zachary Wallpe
-18,Lauren Edwards
-20,Lindsey Wolterbeek 
-24,Samantha  Embleton
-28,Rodney Wolfgang
-33,Jeremiah Haumeder
-56,Mary Clingerman
-69,Rebecca Mills
-b,r,e,a,k
 The Strangers,12
 teamInfo,,"Westminster, Colorado",,https://www.facebook.com/TheStrangersUltimate,
 0,April Kocherhans
@@ -404,6 +383,27 @@ teamInfo,,"Westminster, Colorado",,https://www.facebook.com/TheStrangersUltimate
 00,Don Nguyen
 31,Abby Hyde
 b,r,e,a,k
+Cutthroat,13
+teamInfo,,"Reno, Nevada",,,https://twitter.com/cutthroatulti
+0,Donovan Davis
+0,Emily Zedek
+1,Marcus Fredrickson
+2,R. Miguel Gonzales
+2,John Whiting
+4,Pete Marshall
+9,Thomas Fiock
+13,Donne Lenard Lomugdang
+15,Ruth Seipel
+15,Nicolas Olson
+16,Zachary Wallpe
+18,Lauren Edwards
+20,Lindsey Wolterbeek 
+24,Samantha  Embleton
+28,Rodney Wolfgang
+33,Jeremiah Haumeder
+56,Mary Clingerman
+69,Rebecca Mills
+b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
@@ -414,10 +414,10 @@ Karma,"All Jeeps, All Night.",0,0,"08/16/2025, 10:45",Pool A,Scheduled
 Sego,Karma,0,0,"08/16/2025, 12:30",Pool A,Scheduled
 "All Jeeps, All Night.",Sky-90,0,0,"08/16/2025, 12:30",Pool A,Scheduled
 pool,Pool B
-Moontower,Mango,0,0,"08/16/2025, 09:00",Pool B,Scheduled
+Moontower,Mango,10,6,"08/16/2025, 09:00",Pool B,Final
 Green Chiles,Phlagstaff Ultimate,13,8,"08/16/2025, 09:00",Pool B,Final
 Moontower,Phlagstaff Ultimate,11,6,"08/16/2025, 10:45",Pool B,Final
-Green Chiles,Mango,0,0,"08/16/2025, 10:45",Pool B,Scheduled
+Green Chiles,Mango,8,9,"08/16/2025, 10:45",Pool B,Final
 Moontower,Green Chiles,0,0,"08/16/2025, 12:30",Pool B,Scheduled
 Mango,Phlagstaff Ultimate,0,0,"08/16/2025, 12:30",Pool B,Scheduled
 pool,Pool C
@@ -430,7 +430,7 @@ Firefly,Bozos,0,0,"08/16/2025, 12:30",Pool C,Scheduled
 pool,Pool D
 Classy,The Strangers,12,8,"08/16/2025, 09:00",Pool D,Final
 Cowpoke,Cutthroat,11,9,"08/16/2025, 09:00",Pool D,Final
-Classy,Cutthroat,0,0,"08/16/2025, 10:45",Pool D,Scheduled
+Classy,Cutthroat,11,8,"08/16/2025, 10:45",Pool D,Final
 Cowpoke,The Strangers,10,9,"08/16/2025, 10:45",Pool D,Scheduled
 Classy,Cowpoke,0,0,"08/16/2025, 12:30",Pool D,Scheduled
 The Strangers,Cutthroat,0,0,"08/16/2025, 12:30",Pool D,Scheduled
