@@ -207,6 +207,27 @@ teamInfo,,"Lehi, Utah",,,
 15,Lincoln Petersen
 99,Dan Doxey
 b,r,e,a,k
+Skipjack,17
+teamInfo,,"San Diego, California",,https://www.facebook.com/sdstreetgang,https://twitter.com/SDskipjack
+0,Brendan McGuinness
+02,Alejandro Reyes
+11,Graham Gerhart
+12,Zac Goldberg
+16,Landon  McDowell
+19,Joe Roberts
+24,Javid Aceil
+27,Landon Block
+33,John Loftus
+33,Wesley Groth
+41,Spencer Rebman
+48,Jonathan Aycock
+68,Vivek Gadicherla
+76,Daniel Bonkowsky
+78,Zachary Rosen
+82,Jeff Taylor
+91,Nico Nonemaker
+99,Steven Brooks
+b,r,e,a,k
 Drought,9
 teamInfo,,"Phoenix, Arizona",https://www.instagram.com/drought.ultimate?igsh=MXJ6c3pxenhuMmQzcw==,,https://twitter.com/DroughtUltimate
 02,Steven Niemczynski
@@ -256,27 +277,6 @@ teamInfo,,"St George, Utah",,,
 69,Zachary Johnson
 88,Jonner Steck
 98,Dan Boston
-b,r,e,a,k
-Skipjack,17
-teamInfo,,"San Diego, California",,https://www.facebook.com/sdstreetgang,https://twitter.com/SDskipjack
-0,Brendan McGuinness
-02,Alejandro Reyes
-11,Graham Gerhart
-12,Zac Goldberg
-16,Landon  McDowell
-19,Joe Roberts
-24,Javid Aceil
-27,Landon Block
-33,John Loftus
-33,Wesley Groth
-41,Spencer Rebman
-48,Jonathan Aycock
-68,Vivek Gadicherla
-76,Daniel Bonkowsky
-78,Zachary Rosen
-82,Jeff Taylor
-91,Nico Nonemaker
-99,Steven Brooks
 b,r,e,a,k
 X Wives,10
 teamInfo,,"Salt Lake City, Utah",,,
@@ -499,10 +499,8 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Power Pool Play
 pool,Pool A
-Nighthawk,Hazard,0,0,"08/16/2025, 09:00",Pool A,Scheduled
-Wavestorms,Cache Valley High Ground,0,0,"08/16/2025, 09:00",Pool A,Scheduled
-Nighthawk,Cache Valley High Ground,0,0,"08/16/2025, 10:45",Pool A,Scheduled
-Wavestorms,Hazard,0,0,"08/16/2025, 10:45",Pool A,Scheduled
+Nighthawk,Hazard,11,8,"08/16/2025, 09:00",Pool A,Final
+Wavestorms,Cache Valley High Ground,11,10,"08/16/2025, 09:00",Pool A,Final
 Nighthawk,Wavestorms,0,0,"08/16/2025, 10:45",Pool A,Scheduled
 Cache Valley High Ground,Hazard,0,0,"08/16/2025, 10:45",Pool A,Scheduled
 pool,Pool B
@@ -515,7 +513,7 @@ Gamble,Wretched Refuse,0,0,"08/16/2025, 10:45",Pool B,Scheduled
 b,r,e,a,k
 pools,Pool Play
 pool,Pool C
-Fat Stacks,Skipjack,0,0,"08/16/2025, 09:00",Pool C,Scheduled
+Fat Stacks,Skipjack,10,12,"08/16/2025, 09:00",Pool C,Final
 Drought,Skipjack,0,0,"08/16/2025, 10:45",Pool C,Scheduled
 Drought,Fat Stacks,0,0,"08/16/2025, 12:30",Pool C,Scheduled
 pool,Pool D
