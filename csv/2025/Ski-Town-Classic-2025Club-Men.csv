@@ -128,29 +128,6 @@ teamInfo,,"East Bay , California",,instagram.com/OatUltimate,
 18,Thomas Page
 42,Alvin Feng
 b,r,e,a,k
-Switchback,3
-teamInfo,,"Seattle, Washington",https://switchbackultimate.com/,,https://twitter.com/Switchback_Ulti
-02,Phoenix  Laliberte
-03,Jacob Richey
-06,Maxwell Sheffield
-08,Samuel Hinson
-14,Michael Fielden
-17,Max Bommarito
-18,Daman Mulye
-19,Jonas Golden
-20,Calvin Dodge
-24,Steven Benaloh
-26,Arthur Abbate
-28,Connor Hanify
-36,Louie Bertoncin
-37,Jack Landrigan
-42,Nolan Stoppel
-48,Elias Hinson
-53,Jorre Dahl
-71,Sahaj Olivar
-92,Jacob Keister
-95,Brendan Bogel
-b,r,e,a,k
 Gamble,6
 teamInfo,,"San Marcos, Texas",,,
 0,Alexander Janelle
@@ -177,6 +154,29 @@ teamInfo,,"San Marcos, Texas",,,
 55,Brock Thibodeaux
 57,Samuel Roberts
 66,Ryan Stomp
+b,r,e,a,k
+Switchback,3
+teamInfo,,"Seattle, Washington",https://switchbackultimate.com/,,https://twitter.com/Switchback_Ulti
+02,Phoenix  Laliberte
+03,Jacob Richey
+06,Maxwell Sheffield
+08,Samuel Hinson
+14,Michael Fielden
+17,Max Bommarito
+18,Daman Mulye
+19,Jonas Golden
+20,Calvin Dodge
+24,Steven Benaloh
+26,Arthur Abbate
+28,Connor Hanify
+36,Louie Bertoncin
+37,Jack Landrigan
+42,Nolan Stoppel
+48,Elias Hinson
+53,Jorre Dahl
+71,Sahaj Olivar
+92,Jacob Keister
+95,Brendan Bogel
 b,r,e,a,k
 Wretched Refuse,7
 teamInfo,,"Lehi, Utah",,,
@@ -337,6 +337,32 @@ teamInfo,,"Irvine, California",https://www.instagram.com/crowsultimate/,,
 40,Jonas Holdaway
 49,Zibi Braniecki
 b,r,e,a,k
+Battery,14
+teamInfo,,"San Francisco, California",,https://www.facebook.com/batteryultimate/,https://twitter.com/SF_Battery
+coaches,Andrew Riggs
+0,Arden Markin
+0,Arya Goutam
+0,Garrett Silski
+0,Hayden Mans
+0,Cole Wilkinson
+0,Kieran Wagner
+0,Kyle Marquis
+0,Kyran Buggy
+0,Theo Lee
+0,Thomas Gerard
+4,Kanishk KS
+6,Ido Ofek
+7,Theo Gonzales-Tapley
+11,Eugene Chong
+19,Joe McMinn
+22,Ricardo Rosas
+30,Austin Doucette
+31,JB Smith
+42,Manasven Grover
+86,Jordan Seaberg
+97,Zachary Murez
+99,Brendan Mackel
+b,r,e,a,k
 Brawl,11
 teamInfo,,"Dallas, Texas",,,@dallasbrawl
 0,Suneet Patel
@@ -363,32 +389,6 @@ teamInfo,,"Dallas, Texas",,,@dallasbrawl
 77,Willy Goal
 89,Jack Wooldridge
 98,Luiz Astorga
-b,r,e,a,k
-Battery,14
-teamInfo,,"San Francisco, California",,https://www.facebook.com/batteryultimate/,https://twitter.com/SF_Battery
-coaches,Andrew Riggs
-0,Arden Markin
-0,Arya Goutam
-0,Garrett Silski
-0,Hayden Mans
-0,Cole Wilkinson
-0,Kieran Wagner
-0,Kyle Marquis
-0,Kyran Buggy
-0,Theo Lee
-0,Thomas Gerard
-4,Kanishk KS
-6,Ido Ofek
-7,Theo Gonzales-Tapley
-11,Eugene Chong
-19,Joe McMinn
-22,Ricardo Rosas
-30,Austin Doucette
-31,JB Smith
-42,Manasven Grover
-86,Jordan Seaberg
-97,Zachary Murez
-99,Brendan Mackel
 b,r,e,a,k
 Carbon,19
 teamInfo,,"Broomfield, Colorado",,,
@@ -505,11 +505,9 @@ Nighthawk,Wavestorms,0,0,"08/16/2025, 10:45",Pool A,Scheduled
 Cache Valley High Ground,Hazard,0,0,"08/16/2025, 10:45",Pool A,Scheduled
 pool,Pool B
 OAT,Wretched Refuse,13,8,"08/16/2025, 09:00",Pool B,Final
-Switchback,Gamble,0,0,"08/16/2025, 09:00",Pool B,Scheduled
+Switchback,Gamble,9,12,"08/16/2025, 09:00",Pool B,Final
 OAT,Gamble,0,0,"08/16/2025, 10:45",Pool B,Scheduled
 Switchback,Wretched Refuse,0,0,"08/16/2025, 10:45",Pool B,Scheduled
-OAT,Switchback,0,0,"08/16/2025, 10:45",Pool B,Scheduled
-Gamble,Wretched Refuse,0,0,"08/16/2025, 10:45",Pool B,Scheduled
 b,r,e,a,k
 pools,Pool Play
 pool,Pool C
@@ -521,7 +519,7 @@ The Incline,OC Crows,0,0,"08/16/2025, 09:00",Pool D,Scheduled
 X Wives,OC Crows,0,0,"08/16/2025, 10:45",Pool D,Scheduled
 X Wives,The Incline,0,0,"08/16/2025, 12:30",Pool D,Scheduled
 pool,Pool E
-Battery,Carbon,0,0,"08/16/2025, 09:00",Pool E,Scheduled
+Battery,Carbon,12,5,"08/16/2025, 09:00",Pool E,Final
 Brawl,Carbon,0,0,"08/16/2025, 10:45",Pool E,Scheduled
 Brawl,Battery,0,0,"08/16/2025, 12:30",Pool E,Scheduled
 pool,Pool F
