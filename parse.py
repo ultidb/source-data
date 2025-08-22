@@ -651,7 +651,7 @@ def parseNewSchedule(html, year, isCollege=False):
             # Extract date
             date_cell = row.find("td", class_="date")
             date_text = date_cell.find("span", class_="label").next_sibling.strip()
-            dates = date_text.split("-")
+            dates = date_text.replace("–", "-").split("-")
             if len(dates) == 2:
                 start_date = dates[0].strip()
                 end_date = dates[1].strip()
