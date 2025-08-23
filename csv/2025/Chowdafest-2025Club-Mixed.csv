@@ -95,29 +95,6 @@ teamInfo,,"Providence, Rhode Island",,,
 20,Donnelly Roberts
 28,Courtney Cooke
 b,r,e,a,k
-Lampshade,2
-teamInfo,,"Cambridge, Massachusetts",,,
-coaches,Abijith Krishnan
-0,Axis Sivitz
-0,Bobby Lovitch
-0,Corinna Rhum
-0,Emily Wanzer
-0,Kyle Roke
-0,Liz Anusauskas
-0,Molly Rockwood
-0,Rachel Swindell
-0,Robert Shapiro
-0,Varun Shah
-0,Walden Ng
-6,Abigail Skerker
-33,Rossi Wang
-37,Anna Shorb
-39,Victoria Zhang
-44,Eric Freitag
-69,Man Nguyen
-72,Joseph Sadok
-81,Alexander Velberg
-b,r,e,a,k
 Quahogs,3
 teamInfo,,"Providence, Rhode Island",,,
 0,Aaron Wida
@@ -140,6 +117,29 @@ teamInfo,,"Providence, Rhode Island",,,
 33,Chase Flint
 35,Pierre-Yves Lavertu
 36,Eric Hurd
+b,r,e,a,k
+Lampshade,2
+teamInfo,,"Cambridge, Massachusetts",,,
+coaches,Abijith Krishnan
+0,Axis Sivitz
+0,Bobby Lovitch
+0,Corinna Rhum
+0,Emily Wanzer
+0,Kyle Roke
+0,Liz Anusauskas
+0,Molly Rockwood
+0,Rachel Swindell
+0,Robert Shapiro
+0,Varun Shah
+0,Walden Ng
+6,Abigail Skerker
+33,Rossi Wang
+37,Anna Shorb
+39,Victoria Zhang
+44,Eric Freitag
+69,Man Nguyen
+72,Joseph Sadok
+81,Alexander Velberg
 b,r,e,a,k
 Rainbow,6
 teamInfo,,"Somerville, Massachusetts",https://www.rainbowultimate.com,https://www.instagram.com/rainbowultimate/,
@@ -188,23 +188,27 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
-Obscure,Taproot,0,0,"08/23/2025, 09:00",Pool A,Scheduled
-T Party,Hogs Co.,0,0,"08/23/2025, 09:00",Pool A,Scheduled
-Obscure,Hogs Co.,0,0,"08/23/2025, 10:30",Pool A,Scheduled
-T Party,Taproot,0,0,"08/23/2025, 10:30",Pool A,Scheduled
-Obscure,T Party,0,0,"08/23/2025, 12:00",Pool A,Scheduled
-Taproot,Hogs Co.,0,0,"08/23/2025, 12:00",Pool A,Scheduled
+Obscure,Taproot,11,2,"08/23/2025, 09:00",Pool A,Final
+T Party,Hogs Co.,11,4,"08/23/2025, 09:00",Pool A,Final
+Obscure,Hogs Co.,11,4,"08/23/2025, 10:30",Pool A,Final
+T Party,Taproot,11,10,"08/23/2025, 10:30",Pool A,Final
+Obscure,T Party,10,9,"08/23/2025, 12:00",Pool A,Final
+Taproot,Hogs Co.,11,5,"08/23/2025, 12:00",Pool A,Final
 pool,Pool B
-Lampshade,Rainbow,0,0,"08/23/2025, 09:00",Pool B,Scheduled
-Quahogs,Hartford Current,0,0,"08/23/2025, 09:00",Pool B,Scheduled
-Lampshade,Hartford Current,0,0,"08/23/2025, 10:30",Pool B,Scheduled
-Quahogs,Rainbow,0,0,"08/23/2025, 10:30",Pool B,Scheduled
-Lampshade,Quahogs,0,0,"08/23/2025, 12:00",Pool B,Scheduled
-Rainbow,Hartford Current,0,0,"08/23/2025, 12:00",Pool B,Scheduled
+Lampshade,Rainbow,10,6,"08/23/2025, 09:00",Pool B,Final
+Quahogs,Hartford Current,11,3,"08/23/2025, 09:00",Pool B,Final
+Lampshade,Hartford Current,11,4,"08/23/2025, 10:30",Pool B,Final
+Quahogs,Rainbow,11,3,"08/23/2025, 10:30",Pool B,Final
+Lampshade,Quahogs,8,10,"08/23/2025, 12:00",Pool B,Final
+Rainbow,Hartford Current,9,7,"08/23/2025, 12:00",Pool B,Final
 b,r,e,a,k
 brackets,Crossover Games
 bracket,1st Place
+Obscure,Quahogs,0,0,"08/23/2025, 13:30",1st Place,Scheduled
 bracket,3rd Place
+T Party,Lampshade,0,0,"08/23/2025, 13:30",3rd Place,Scheduled
 bracket,5th Place
+Taproot,Rainbow,0,0,"08/23/2025, 13:30",5th Place,Scheduled
 bracket,7th Place
+Hogs Co.,Hartford Current,0,0,"08/23/2025, 13:30",7th Place,Scheduled
 b,r,e,a,k
