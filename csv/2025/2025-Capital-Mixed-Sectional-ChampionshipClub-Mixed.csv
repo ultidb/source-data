@@ -59,32 +59,6 @@ teamInfo,,"Fairfax, Virginia",,,
 78,Leo Pierson
 88,Jack Chisenhall
 b,r,e,a,k
-Swing Vote,17
-teamInfo,,"Washington, District of Columbia",,,@SwingVoteDC
-coaches,Gabriella  Everett
-0,Alice Debevoise
-0,Austin Wolf
-0,Brendan Hamlin
-0,Eleanor Brosowsky
-0,Evan Brown
-0,Filipe Limao
-0,Hana Kinnard
-0,Ian Kilpatrick
-0,Khai Matsudaira
-0,Lucas Young
-0,Penny Nussbaum
-0,Sarah Minicozzi
-0,Sarah Reich
-0,Sean Stephens
-0,Simon Hahs-Tenny
-0,Thomas Thernstrom
-0,Zachary Parente
-0,Clara Doyle
-0,Dahlia  Anderson 
-8,Caden Mitchell
-22,Eddy Drake
-38,Georgia Murphy
-b,r,e,a,k
 Ant Madness,5
 teamInfo,,"Washington, District of Columbia",,,https://twitter.com/antmadness
 2,Joanna Greenberg
@@ -113,6 +87,32 @@ teamInfo,,"Washington, District of Columbia",,,https://twitter.com/antmadness
 66,George Hoak
 84,Andrew Hardy
 90,Brendan Selby
+b,r,e,a,k
+Swing Vote,17
+teamInfo,,"Washington, District of Columbia",,,@SwingVoteDC
+coaches,Gabriella  Everett
+0,Alice Debevoise
+0,Austin Wolf
+0,Brendan Hamlin
+0,Eleanor Brosowsky
+0,Evan Brown
+0,Filipe Limao
+0,Hana Kinnard
+0,Ian Kilpatrick
+0,Khai Matsudaira
+0,Lucas Young
+0,Penny Nussbaum
+0,Sarah Minicozzi
+0,Sarah Reich
+0,Sean Stephens
+0,Simon Hahs-Tenny
+0,Thomas Thernstrom
+0,Zachary Parente
+0,Clara Doyle
+0,Dahlia  Anderson 
+8,Caden Mitchell
+22,Eddy Drake
+38,Georgia Murphy
 b,r,e,a,k
 Grounded,14
 teamInfo,,"Arlington, Virginia",,,
@@ -277,35 +277,6 @@ teamInfo,,"Washington, District of Columbia",,https://www.facebook.com/Cocktails
 27,Steven Whelan
 28,Alec Marks
 b,r,e,a,k
-HVAC,2
-teamInfo,,"Washington DC, District of Columbia",,https://www.facebook.com/hvacultimate,https://twitter.com/hvacultimate
-0,Ayla Volante
-0,Ben Frattini
-0,Ellie Ngo
-0,Erica Yee
-0,Josh Levin
-0,Karen Shim
-0,Krista Woodward
-0,Helen Turvene
-0,Levi Crossan
-0,Patrick Kenney
-0,Rosemary Ventura
-0,Malcom Fox
-0,Maya Collins
-0,William Strang
-1,Christian Daniel
-10,Lydia Schaar
-11,Emily Andre
-17,Landrum Beard 
-18,Has Bhatti
-20,Sean Mizoguchi
-23,Jonathan Tiernan
-27,Tyler Coleman
-27,Wallis Grant
-27,Nora Wagner
-28,Kyle Duffy
-29,David Leibert
-b,r,e,a,k
 Legion,7
 teamInfo,,"Lynchburg, Virginia",,https://www.facebook.com/VALegionUltimate/,
 0,Kali Grayson
@@ -356,6 +327,35 @@ teamInfo,,"Washington, District of Columbia",,,
 27,Tristan Stevens
 84,Tram Nguyen
 88,Zane Pennella
+b,r,e,a,k
+HVAC,2
+teamInfo,,"Washington DC, District of Columbia",,https://www.facebook.com/hvacultimate,https://twitter.com/hvacultimate
+0,Ayla Volante
+0,Ben Frattini
+0,Ellie Ngo
+0,Erica Yee
+0,Josh Levin
+0,Karen Shim
+0,Krista Woodward
+0,Helen Turvene
+0,Levi Crossan
+0,Patrick Kenney
+0,Rosemary Ventura
+0,Malcom Fox
+0,Maya Collins
+0,William Strang
+1,Christian Daniel
+10,Lydia Schaar
+11,Emily Andre
+17,Landrum Beard 
+18,Has Bhatti
+20,Sean Mizoguchi
+23,Jonathan Tiernan
+27,Tyler Coleman
+27,Wallis Grant
+27,Nora Wagner
+28,Kyle Duffy
+29,David Leibert
 b,r,e,a,k
 Washington MyXtics,16
 teamInfo,,"Rockville, Maryland",,,
@@ -497,7 +497,7 @@ pool,Pool A
 LORD,Grounded,13,6,"09/06/2025, 09:00",Pool A,Final
 Revival,Ant Madness,13,7,"09/06/2025, 09:00",Pool A,Final
 Revival,Grounded,13,3,"09/06/2025, 10:45",Pool A,Final
-Ant Madness,Swing Vote,0,0,"09/06/2025, 10:45",Pool A,Scheduled
+Ant Madness,Swing Vote,13,3,"09/06/2025, 10:45",Pool A,Final
 Revival,LORD,0,0,"09/06/2025, 12:30",Pool A,Scheduled
 Grounded,Swing Vote,0,0,"09/06/2025, 12:30",Pool A,Scheduled
 Ant Madness,Grounded,0,0,"09/06/2025, 14:15",Pool A,Scheduled
@@ -519,7 +519,7 @@ b,r,e,a,k
 pools,Subsection B Pool Play
 pool,Pool C
 HVAC,DISCoordination,0,0,"09/06/2025, 10:45",Pool C,Scheduled
-Legion,Washington MyXtics,0,0,"09/06/2025, 10:45",Pool C,Scheduled
+Legion,Washington MyXtics,13,7,"09/06/2025, 10:45",Pool C,Final
 HVAC,Washington MyXtics,0,0,"09/06/2025, 12:30",Pool C,Scheduled
 Legion,DISCoordination,0,0,"09/06/2025, 12:30",Pool C,Scheduled
 HVAC,Legion,0,0,"09/06/2025, 14:15",Pool C,Scheduled
