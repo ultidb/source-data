@@ -140,21 +140,6 @@ teamInfo,,"Lexington, Kentucky",,,https://twitter.com/blacklungulti?lang=en
 87,Mason Montgomery
 88,Sifaan Amanu
 b,r,e,a,k
-Rotisserie Chicken,15
-teamInfo,,"Cincinnati, Ohio",,,
-0,Andrew Schmidt 
-0,Anthony  Caccavari 
-0,Colin Bruggeman
-0,Cooper Varone
-0,Emery Tullis
-0,Jack Micucci
-0,Jonas Dargis
-0,Josh Spacagna
-0,Leo Holcomb
-0,Nick Walro
-0,Stephen Klayer
-27,Aidan Foley
-b,r,e,a,k
 Mischief,10
 teamInfo,,"Livonia, Michigan",,,
 0,Eseosa Aguebor
@@ -183,6 +168,21 @@ teamInfo,,"Livonia, Michigan",,,
 81,Camden Hayden
 86,Nick Akers
 88,Mekhi PhillipsRincher
+b,r,e,a,k
+Rotisserie Chicken,15
+teamInfo,,"Cincinnati, Ohio",,,
+0,Andrew Schmidt 
+0,Anthony  Caccavari 
+0,Colin Bruggeman
+0,Cooper Varone
+0,Emery Tullis
+0,Jack Micucci
+0,Jonas Dargis
+0,Josh Spacagna
+0,Leo Holcomb
+0,Nick Walro
+0,Stephen Klayer
+27,Aidan Foley
 b,r,e,a,k
 ELDL,3
 teamInfo,,"Lansing, Michigan",,,
@@ -349,6 +349,27 @@ teamInfo,,"Cleveland, Ohio",,,
 66,Tom Duellman
 77,Ian Knaus
 b,r,e,a,k
+Diesel,12
+teamInfo,,"Ann Arbor, Michigan",,,https://twitter.com/DieselUlti
+0,Benjamin Clark
+0,Brendan Parzynski
+0,Brendan Moore
+0,Darwin Chen
+0,Finn Weinstein
+0,Julia Danci
+0,Landon Gardella
+0,Matteo Capodivacca
+0,Matthew Ciaravino
+0,Robert Cann
+0,Ruggero Soto-Ricci
+3,Whitney Gertlar
+9,Alexander Nessel
+12,Andrew Vieregge
+23,Joey Fishkind
+24,Jon Jamison
+42,Noah Schwalb
+44,David Hubbard
+b,r,e,a,k
 Enigma,13
 teamInfo,,"Dayton, Ohio",,https://www.facebook.com/pages/Enigma/112703698822469?ref=hl,
 0,Gregory Von Eiff
@@ -375,27 +396,6 @@ teamInfo,,"Dayton, Ohio",,https://www.facebook.com/pages/Enigma/112703698822469?
 95,Zach Fowler
 99,Calum Ridenour
 b,r,e,a,k
-Diesel,12
-teamInfo,,"Ann Arbor, Michigan",,,https://twitter.com/DieselUlti
-0,Benjamin Clark
-0,Brendan Parzynski
-0,Brendan Moore
-0,Darwin Chen
-0,Finn Weinstein
-0,Julia Danci
-0,Landon Gardella
-0,Matteo Capodivacca
-0,Matthew Ciaravino
-0,Robert Cann
-0,Ruggero Soto-Ricci
-3,Whitney Gertlar
-9,Alexander Nessel
-12,Andrew Vieregge
-23,Joey Fishkind
-24,Jon Jamison
-42,Noah Schwalb
-44,David Hubbard
-b,r,e,a,k
 s,t,a,g,e,s
 pools,Saturday Pool Play
 pool,Pool A
@@ -405,8 +405,8 @@ Houndd,Mango Tree,0,0,"09/06/2025, 13:00",Pool A,Scheduled
 pool,Pool B
 Flying Dutchmen,Mischief,13,3,"09/06/2025, 09:00",Pool B,Final
 Black Lung,Rotisserie Chicken,13,4,"09/06/2025, 09:00",Pool B,Final
-Flying Dutchmen,Rotisserie Chicken,0,0,"09/06/2025, 11:00",Pool B,Scheduled
-Black Lung,Mischief,0,0,"09/06/2025, 11:00",Pool B,Scheduled
+Flying Dutchmen,Rotisserie Chicken,13,2,"09/06/2025, 11:00",Pool B,Final
+Black Lung,Mischief,13,3,"09/06/2025, 11:00",Pool B,Final
 Flying Dutchmen,Black Lung,0,0,"09/06/2025, 13:00",Pool B,Scheduled
 Mischief,Rotisserie Chicken,0,0,"09/06/2025, 13:00",Pool B,Scheduled
 pool,Pool C
@@ -419,7 +419,7 @@ Scoop,Suspect,0,0,"09/06/2025, 13:00",Pool C,Scheduled
 pool,Pool D
 Colonels,Diesel,13,4,"09/06/2025, 09:00",Pool D,Final
 Chimney,Enigma,13,5,"09/06/2025, 09:00",Pool D,Final
-Colonels,Enigma,0,0,"09/06/2025, 11:00",Pool D,Scheduled
+Colonels,Enigma,13,3,"09/06/2025, 11:00",Pool D,Final
 Chimney,Diesel,0,0,"09/06/2025, 11:00",Pool D,Scheduled
 Colonels,Chimney,0,0,"09/06/2025, 13:00",Pool D,Scheduled
 Diesel,Enigma,0,0,"09/06/2025, 13:00",Pool D,Scheduled
