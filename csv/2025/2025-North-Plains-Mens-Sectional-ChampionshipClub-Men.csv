@@ -31,6 +31,28 @@ coaches,Bill Everhart
 71,Dylan Power
 77,Jack Walters-Medaris
 b,r,e,a,k
+happyBOISE,5
+teamInfo,,"Madison, Wisconsin",,,
+0,Benjy Keren
+0,Gunnar Thompson
+0,Isaac  Shimek
+0,Jake Leutenegger
+0,Charlie Benforado
+0,Matthew Grinde
+0,Ryan Baker
+0,Tom Budka
+9,Greg Maddox
+10,Benjamin Gagne-Maynard
+12,Brian Benge
+16,Jake Johnson
+19,Austin Johnson
+34,Matthew Becker
+41,Maxwell Sample
+80,Reid Lancaster
+93,Kainoa Chun-Moy
+97,Kai Marcus
+99,Zane Stein
+b,r,e,a,k
 Timber,4
 teamInfo,,"Stevens Point & Fox Cities, Wisconsin",,https://www.facebook.com/TimberUltimate/,https://twitter.com/TimberUltimate
 0,Thomas McKenna
@@ -56,28 +78,6 @@ teamInfo,,"Stevens Point & Fox Cities, Wisconsin",,https://www.facebook.com/Timb
 85,Christian Conway
 88,Cameron Junion
 98,Mark Fieweger
-b,r,e,a,k
-happyBOISE,5
-teamInfo,,"Madison, Wisconsin",,,
-0,Benjy Keren
-0,Gunnar Thompson
-0,Isaac  Shimek
-0,Jake Leutenegger
-0,Charlie Benforado
-0,Matthew Grinde
-0,Ryan Baker
-0,Tom Budka
-9,Greg Maddox
-10,Benjamin Gagne-Maynard
-12,Brian Benge
-16,Jake Johnson
-19,Austin Johnson
-34,Matthew Becker
-41,Maxwell Sample
-80,Reid Lancaster
-93,Kainoa Chun-Moy
-97,Kai Marcus
-99,Zane Stein
 b,r,e,a,k
 Conspiracy Theory,7
 teamInfo,,"Madison, Wisconsin",,,
@@ -232,20 +232,20 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
-Mad Men,happyBOISE,0,0,"09/06/2025, 10:30",Pool A,Scheduled
+Mad Men,happyBOISE,15,6,"09/06/2025, 10:30",Pool A,Final
 Timber,Conspiracy Theory,15,8,"09/06/2025, 10:30",Pool A,Final
 Mad Men,Conspiracy Theory,15,3,"09/06/2025, 12:30",Pool A,Final
-Timber,happyBOISE,0,0,"09/06/2025, 12:30",Pool A,Scheduled
-Mad Men,Timber,0,0,"09/06/2025, 14:30",Pool A,Scheduled
-happyBOISE,Conspiracy Theory,0,0,"09/06/2025, 14:30",Pool A,Scheduled
+Timber,happyBOISE,7,15,"09/06/2025, 12:30",Pool A,Final
+Mad Men,Timber,15,7,"09/06/2025, 14:30",Pool A,Final
+happyBOISE,Conspiracy Theory,15,4,"09/06/2025, 14:30",Pool A,Final
 pool,Pool B
 Zoboomafoo,Milwaukee Breaker,13,6,"09/06/2025, 08:30",Pool B,Final
-Dangerous Unidentified Mystical Beast,Rubicon Rapids,0,0,"09/06/2025, 08:30",Pool B,Scheduled
+Dangerous Unidentified Mystical Beast,Rubicon Rapids,11,12,"09/06/2025, 08:30",Pool B,Final
 Zoboomafoo,Dangerous Unidentified Mystical Beast,13,9,"09/06/2025, 10:15",Pool B,Final
 Fuse,Rubicon Rapids,12,9,"09/06/2025, 10:15",Pool B,Final
-Rubicon Rapids,Milwaukee Breaker,0,0,"09/06/2025, 12:00",Pool B,Scheduled
+Rubicon Rapids,Milwaukee Breaker,8,7,"09/06/2025, 12:00",Pool B,Final
 Fuse,Dangerous Unidentified Mystical Beast,13,9,"09/06/2025, 12:00",Pool B,Final
-Zoboomafoo,Rubicon Rapids,0,0,"09/06/2025, 13:45",Pool B,Scheduled
+Zoboomafoo,Rubicon Rapids,13,2,"09/06/2025, 13:45",Pool B,Final
 Fuse,Milwaukee Breaker,0,0,"09/06/2025, 13:45",Pool B,Scheduled
 Zoboomafoo,Fuse,0,0,"09/06/2025, 15:30",Pool B,Scheduled
 Dangerous Unidentified Mystical Beast,Milwaukee Breaker,0,0,"09/06/2025, 15:30",Pool B,Scheduled

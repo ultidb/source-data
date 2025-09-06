@@ -287,35 +287,6 @@ teamInfo,,"San Francisco, California",http://www.instagram.com/donutsultimate,ht
 97,Jeremie Gabor
 99,David Hwang
 b,r,e,a,k
-Moonlight Ultimate,14
-teamInfo,,"San Jose, California",https://discord.com/invite/8swKNEGjpt,https://www.facebook.com/MoonlightUltimate,
-0,Di Qian
-0,Dillon Einck
-0,Ethan Davis
-0,Ethan Chen
-0,Evan Zou
-0,Felix Liu
-0,Francisco Echavarria
-0,Freeman Cherng
-0,James Talbot
-0,Ophir Klein
-0,Semona Igama
-0,Sophie Paul
-0,Stephen Holman
-0,Tarun Thokala
-0,Tess King
-0,Thomas Watts
-0,Xingchen  Zhou
-0,Xinyi Yang
-0,Zhiqing Liang
-0,Zinnia Cooperrider
-0,Achinthya Poduval
-0,Chi Zhang
-0,Deepta Gupta
-9,Angela Ho
-30,Desiree Minkler
-73,Matthew Luu
-b,r,e,a,k
 VU,11
 teamInfo,,"San Francisco, California",https://www.instagram.com/vampireultimatefrisbee?igsh=MzRlODBiNWFlZA==,https://www.facebook.com/VampireUltimate/,
 coaches,Chris Brown
@@ -345,6 +316,35 @@ coaches,Chris Brown
 51,Anthony McCahill
 77,Andres Barnola
 97,Julian Baldwin
+b,r,e,a,k
+Moonlight Ultimate,14
+teamInfo,,"San Jose, California",https://discord.com/invite/8swKNEGjpt,https://www.facebook.com/MoonlightUltimate,
+0,Di Qian
+0,Dillon Einck
+0,Ethan Davis
+0,Ethan Chen
+0,Evan Zou
+0,Felix Liu
+0,Francisco Echavarria
+0,Freeman Cherng
+0,James Talbot
+0,Ophir Klein
+0,Semona Igama
+0,Sophie Paul
+0,Stephen Holman
+0,Tarun Thokala
+0,Tess King
+0,Thomas Watts
+0,Xingchen  Zhou
+0,Xinyi Yang
+0,Zhiqing Liang
+0,Zinnia Cooperrider
+0,Achinthya Poduval
+0,Chi Zhang
+0,Deepta Gupta
+9,Angela Ho
+30,Desiree Minkler
+73,Matthew Luu
 b,r,e,a,k
 Polar Bears,4
 teamInfo,,"San Francisco Bay Area, California",http://www.pbrawr.com,https://www.facebook.com/pbrawr/,https://twitter.com/pbrawr
@@ -461,10 +461,10 @@ s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
 Mischief,DR,15,1,"09/06/2025, 09:00",Pool A,Final
-Classy,TTT,0,0,"09/06/2025, 09:00",Pool A,Scheduled
-Mischief,TTT,0,0,"09/06/2025, 11:00",Pool A,Scheduled
-Classy,DR,0,0,"09/06/2025, 11:00",Pool A,Scheduled
-Mischief,Classy,0,0,"09/06/2025, 13:00",Pool A,Scheduled
+Classy,TTT,15,8,"09/06/2025, 09:00",Pool A,Final
+Mischief,TTT,15,3,"09/06/2025, 11:00",Pool A,Final
+Classy,DR,15,6,"09/06/2025, 11:00",Pool A,Final
+Mischief,Classy,15,2,"09/06/2025, 13:00",Pool A,Final
 DR,TTT,0,0,"09/06/2025, 13:00",Pool A,Scheduled
 pool,Pool B
 Tower,Mango,0,0,"09/06/2025, 09:00",Pool B,Scheduled
@@ -476,16 +476,16 @@ Mango,BOBA,0,0,"09/06/2025, 13:00",Pool B,Scheduled
 pool,Pool C
 LIT Ultimate,VU,15,3,"09/06/2025, 09:00",Pool C,Final
 Donuts,Moonlight Ultimate,0,0,"09/06/2025, 09:00",Pool C,Scheduled
-LIT Ultimate,Moonlight Ultimate,0,0,"09/06/2025, 11:00",Pool C,Scheduled
+LIT Ultimate,Moonlight Ultimate,15,1,"09/06/2025, 11:00",Pool C,Final
 Donuts,VU,0,0,"09/06/2025, 11:00",Pool C,Scheduled
-LIT Ultimate,Donuts,0,0,"09/06/2025, 13:00",Pool C,Scheduled
+LIT Ultimate,Donuts,15,11,"09/06/2025, 13:00",Pool C,Final
 VU,Moonlight Ultimate,0,0,"09/06/2025, 13:00",Pool C,Scheduled
 pool,Pool D
 Polar Bears,Firefly,15,3,"09/06/2025, 09:00",Pool D,Final
 BW Ultimate,Cutthroat,14,9,"09/06/2025, 09:00",Pool D,Final
-Polar Bears,Cutthroat,0,0,"09/06/2025, 11:00",Pool D,Scheduled
-BW Ultimate,Firefly,0,0,"09/06/2025, 11:00",Pool D,Scheduled
-Polar Bears,BW Ultimate,0,0,"09/06/2025, 13:00",Pool D,Scheduled
+Polar Bears,Cutthroat,15,1,"09/06/2025, 11:00",Pool D,Final
+BW Ultimate,Firefly,15,4,"09/06/2025, 11:00",Pool D,Final
+Polar Bears,BW Ultimate,15,8,"09/06/2025, 13:00",Pool D,Final
 Firefly,Cutthroat,0,0,"09/06/2025, 13:00",Pool D,Scheduled
 b,r,e,a,k
 brackets,Bracket Play

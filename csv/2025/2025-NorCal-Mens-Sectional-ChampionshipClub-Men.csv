@@ -101,23 +101,6 @@ teamInfo,,"Berkeley, California",,https://instagram.com/berkeleyzyzzyva,https://
 13,Gavin  Dyce
 15,Jashan Shetty
 b,r,e,a,k
-Float,7
-teamInfo,,"Chico, California",https://www.instagram.com/chicofloat/profilecard/?igsh=NTc4MTIwNjQ2YQ==,,
-0,Kaleb Paige
-0,Reilly Bernal
-0,Stephen Kodur
-1,Elliott Schwarz
-4,James Ross
-12,Ryan Branca
-13,Colby Downs
-19,Gabriel Fry
-20,Michael Wissig
-21,Benjamin Laplante
-22,John Anthony
-32,Alexander Vina
-52,forrest lefebvre
-88,Owen Onatanian
-b,r,e,a,k
 Scooby Coupy COUP,10
 teamInfo,,"Berkeley, California",,,
 0,Connor Stuart-Paul
@@ -145,6 +128,23 @@ teamInfo,,"Berkeley, California",,,
 27,Pavel Shering
 80,Joseph Ricks
 96,Charlie Holler
+b,r,e,a,k
+Float,7
+teamInfo,,"Chico, California",https://www.instagram.com/chicofloat/profilecard/?igsh=NTc4MTIwNjQ2YQ==,,
+0,Kaleb Paige
+0,Reilly Bernal
+0,Stephen Kodur
+1,Elliott Schwarz
+4,James Ross
+12,Ryan Branca
+13,Colby Downs
+19,Gabriel Fry
+20,Michael Wissig
+21,Benjamin Laplante
+22,John Anthony
+32,Alexander Vina
+52,forrest lefebvre
+88,Owen Onatanian
 b,r,e,a,k
 Swordfish,3
 teamInfo,,"Sacramento, California",,,
@@ -279,18 +279,18 @@ pools,Pool Play
 pool,Pool A
 OAT,East Bay Earthworms,15,4,"09/06/2025, 09:00",Pool A,Final
 OAT,Bay Dog,15,8,"09/06/2025, 10:45",Pool A,Final
-Bay Dog,East Bay Earthworms,0,0,"09/06/2025, 12:30",Pool A,Scheduled
+Bay Dog,East Bay Earthworms,14,10,"09/06/2025, 12:30",Pool A,Final
 pool,Pool B
-Zyzzyva,Scooby Coupy COUP,0,0,"09/06/2025, 09:00",Pool B,Scheduled
-Zyzzyva,Float,0,0,"09/06/2025, 10:45",Pool B,Scheduled
-Float,Scooby Coupy COUP,0,0,"09/06/2025, 12:30",Pool B,Scheduled
+Zyzzyva,Scooby Coupy COUP,15,7,"09/06/2025, 09:00",Pool B,Final
+Zyzzyva,Float,15,5,"09/06/2025, 10:45",Pool B,Final
+Float,Scooby Coupy COUP,8,15,"09/06/2025, 12:30",Pool B,Final
 pool,Pool C
 Swordfish,Bobcats,15,0,"09/06/2025, 09:00",Pool C,Final
 Swordfish,Fresno Firefall,13,7,"09/06/2025, 10:45",Pool C,Final
 Fresno Firefall,Bobcats,0,0,"09/06/2025, 12:30",Pool C,Scheduled
 pool,Pool D
 Shadows,BART,15,6,"09/06/2025, 09:00",Pool D,Final
-Shadows,Sauce,15,8,"09/06/2025, 10:45",Pool D,In Progress
+Shadows,Sauce,15,8,"09/06/2025, 10:45",Pool D,Final
 Sauce,BART,0,0,"09/06/2025, 12:30",Pool D,Scheduled
 b,r,e,a,k
 brackets,Bracket Play
