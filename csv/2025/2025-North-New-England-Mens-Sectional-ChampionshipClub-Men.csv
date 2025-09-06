@@ -31,34 +31,6 @@ coaches,Charles Bariteau,Alexandre Lemieux
 84,Dylan Lacombe Burgoyne
 86,Jakob Brissette
 b,r,e,a,k
-Ascension,5
-teamInfo,,"Sherbrooke, Quebec CA",,,
-0,Adam Leonard
-0,Adam Meloche
-0,Alexis Roy
-0,Charles Lambert
-0,David Vigneau-Lecomte
-0,David Letourneau
-0,David Deschambault
-0,Edan Chicoine
-0,Francis Lacombe
-0,Frédéric Lapierre
-0,Jean-Francois Peloquin
-0,Jérôme Bisson
-0,Karl Thibault
-0,Louis-Simon Fournier
-0,Maxime Lapointe-Major
-0,Simon Gagné
-0,Tommy Dion
-0,Tristan Roy
-0,William Morin
-0,Nathaniel Leonard
-0,Olivier Drouin Gagne
-3,Xavier Blanchette
-5,Mikael Lacombe
-10,Étienne Pilon
-31,Simon Trepanier
-b,r,e,a,k
 Club M - Manic,4
 teamInfo,,"Montreal, Quebec CA",https://clubmultimate.ca,,
 coaches,Simon Charette
@@ -87,6 +59,34 @@ coaches,Simon Charette
 39,Owen Kolinski
 50,Mathieu Joanis
 72,Timothy Friesen
+b,r,e,a,k
+Ascension,5
+teamInfo,,"Sherbrooke, Quebec CA",,,
+0,Adam Leonard
+0,Adam Meloche
+0,Alexis Roy
+0,Charles Lambert
+0,David Vigneau-Lecomte
+0,David Letourneau
+0,David Deschambault
+0,Edan Chicoine
+0,Francis Lacombe
+0,Frédéric Lapierre
+0,Jean-Francois Peloquin
+0,Jérôme Bisson
+0,Karl Thibault
+0,Louis-Simon Fournier
+0,Maxime Lapointe-Major
+0,Simon Gagné
+0,Tommy Dion
+0,Tristan Roy
+0,William Morin
+0,Nathaniel Leonard
+0,Olivier Drouin Gagne
+3,Xavier Blanchette
+5,Mikael Lacombe
+10,Étienne Pilon
+31,Simon Trepanier
 b,r,e,a,k
 Red Tide,2
 teamInfo,,"Portland, Maine",https://maineultimate.org/p/red-tide?fbclid=IwAR0bDNru2gankJXHGP3ETZUI78rng5ue4-aPUdGmhDgjlY6sqcg5lmuNHkg,https://www.facebook.com/RedTideUltimate,
@@ -207,7 +207,7 @@ pools,Pool Pay
 pool,Pool A
 Mephisto,Ascension,15,5,"09/06/2025, 11:00",Pool A,Final
 Mephisto,Club M - Manic,15,3,"09/06/2025, 13:00",Pool A,Final
-Club M - Manic,Ascension,0,0,"09/06/2025, 15:00",Pool A,Scheduled
+Club M - Manic,Ascension,15,6,"09/06/2025, 15:00",Pool A,Final
 pool,Pool B
 Red Tide,BANG,15,1,"09/06/2025, 11:00",Pool B,Final
 Sprout,Resurgam Ultimate,15,5,"09/06/2025, 11:00",Pool B,Final
@@ -220,4 +220,10 @@ Mephisto,Red Tide,14,12,"09/07/2025, 09:00",1st / 2nd place,Final
 b,r,e,a,k
 pools,3-7 Bid Pool Play
 pool,3-7 placement
+Club M - Manic,Sprout,0,0,"09/07/2025, 09:00",3-7 placement,Scheduled
+Ascension,Resurgam Ultimate,0,0,"09/07/2025, 09:00",3-7 placement,Scheduled
+Club M - Manic,BANG,0,0,"09/07/2025, 11:00",3-7 placement,Scheduled
+Ascension,Sprout,0,0,"09/07/2025, 11:00",3-7 placement,Scheduled
+Club M - Manic,Resurgam Ultimate,0,0,"09/07/2025, 13:00",3-7 placement,Scheduled
+Ascension,BANG,0,0,"09/07/2025, 13:00",3-7 placement,Scheduled
 b,r,e,a,k

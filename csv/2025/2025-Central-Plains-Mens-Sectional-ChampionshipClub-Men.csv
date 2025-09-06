@@ -308,7 +308,7 @@ Shift,U54,13,6,"09/06/2025, 13:30",Pool A,Final
 Haymaker,Shift,15,3,"09/06/2025, 15:00",Pool A,Final
 Roundhouse,U54,15,4,"09/06/2025, 15:00",Pool A,Final
 U54,Shenanigans,0,0,"09/06/2025, 16:30",Pool A,Scheduled
-Roundhouse,Shift,0,0,"09/06/2025, 16:30",Pool A,Scheduled
+Roundhouse,Shift,13,8,"09/06/2025, 16:30",Pool A,Final
 Haymaker,U54,0,0,"09/06/2025, 18:00",Pool A,Scheduled
 Roundhouse,Shenanigans,0,0,"09/06/2025, 18:00",Pool A,Scheduled
 Haymaker,Roundhouse,0,0,"09/06/2025, 19:30",Pool A,Scheduled
@@ -320,9 +320,13 @@ I-69,Maumee Boys,15,6,"09/06/2025, 16:30",Pool B,Final
 pool,Pool C
 On Ramp,Riptide,8,6,"09/06/2025, 13:30",Pool C,Final
 Trident,Riptide,15,3,"09/06/2025, 15:00",Pool C,Final
-Trident,On Ramp,0,0,"09/06/2025, 16:30",Pool C,Scheduled
+Trident,On Ramp,15,5,"09/06/2025, 16:30",Pool C,Final
 b,r,e,a,k
 clusters,B/C Crossover
+cluster,Pools B/C Crossover
+Maumee Boys,Riptide,0,0,"09/06/2025, 18:00",,Scheduled
+On Ramp,Blink,0,0,"09/06/2025, 18:00",,Scheduled
+I-69,Trident,0,0,"09/06/2025, 18:30",,Scheduled
 b,r,e,a,k
 brackets,Bracket
 bracket,Championship Bracket

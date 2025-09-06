@@ -30,30 +30,6 @@ teamInfo,,"Burlington, Vermont",,,
 79,Keziah Wilde
 99,Nora Jacobsen
 b,r,e,a,k
-Taproot,6
-teamInfo,,"Northampton, Massachusetts",,,
-0,Avery Koloszyc
-1,Ashley Benz
-2,Aidan McGovern
-3,Katherine Aidala
-3,Jason Cooper
-4,Sadie Bromberg
-9,Saige Lloyd
-10,Reese Laviolette
-11,Kyle Taylor
-14,Alysha Parshall-Matylas
-17,Adam Sussbauer
-18,Sam Frieze
-19,Sage Campbell
-20,Dylan Hannaford
-25,Jade Rousseau
-26,Karleen Schaffer 
-27,Lucas Verrastro
-28,Edward (Teddy) Schaffer
-40,Noam Perlmutter
-41,Yotam Tubul
-45,Elijah Nathman
-b,r,e,a,k
 Odyssée,4
 teamInfo,,"Montréal, Quebec CA",,https://www.facebook.com/profile.php?id=100064273916081,
 04,Melissa Poulin-Cadovius
@@ -101,6 +77,30 @@ teamInfo,,"West Lebanon, New Hampshire",,,
 14,Matthew Christie
 25,Cori Hirai
 46,Michael Ferrante
+b,r,e,a,k
+Taproot,6
+teamInfo,,"Northampton, Massachusetts",,,
+0,Avery Koloszyc
+1,Ashley Benz
+2,Aidan McGovern
+3,Katherine Aidala
+3,Jason Cooper
+4,Sadie Bromberg
+9,Saige Lloyd
+10,Reese Laviolette
+11,Kyle Taylor
+14,Alysha Parshall-Matylas
+17,Adam Sussbauer
+18,Sam Frieze
+19,Sage Campbell
+20,Dylan Hannaford
+25,Jade Rousseau
+26,Karleen Schaffer 
+27,Lucas Verrastro
+28,Edward (Teddy) Schaffer
+40,Noam Perlmutter
+41,Yotam Tubul
+45,Elijah Nathman
 b,r,e,a,k
 The Buoy Association,2
 teamInfo,,"Portland, Maine",,,
@@ -212,11 +212,11 @@ s,t,a,g,e,s
 pools,Saturday Pools
 pool,Pool A
 Zero Strategy,Taproot,13,9,"09/06/2025, 09:00",Pool A,Final
-Odyssée,UV Rays,0,0,"09/06/2025, 09:00",Pool A,Scheduled
+Odyssée,UV Rays,13,8,"09/06/2025, 09:00",Pool A,Final
 Zero Strategy,UV Rays,13,2,"09/06/2025, 11:00",Pool A,Final
-Odyssée,Taproot,0,0,"09/06/2025, 11:00",Pool A,Scheduled
+Odyssée,Taproot,13,1,"09/06/2025, 11:00",Pool A,Final
 Zero Strategy,Odyssée,13,8,"09/06/2025, 13:00",Pool A,Final
-Taproot,UV Rays,0,0,"09/06/2025, 13:00",Pool A,Scheduled
+Taproot,UV Rays,L,W,"09/06/2025, 13:00",Pool A,Final
 pool,Pool B
 The Buoy Association,Aged Cheddar,13,5,"09/06/2025, 09:00",Pool B,Final
 Big Rig,Sugar Shack,13,3,"09/06/2025, 09:00",Pool B,Final
@@ -226,10 +226,17 @@ The Buoy Association,Big Rig,13,10,"09/06/2025, 13:00",Pool B,Final
 Aged Cheddar,Sugar Shack,13,8,"09/06/2025, 13:00",Pool B,Final
 b,r,e,a,k
 clusters,Saturday Crossover
+cluster,Saturday Crossover
+Odyssée,Aged Cheddar,W,L,"09/06/2025, 15:00",,Final
+Big Rig,UV Rays,W,L,"09/06/2025, 15:00",,Final
 b,r,e,a,k
 brackets,Sunday Bracket
 bracket,1st Place
+Zero Strategy,Big Rig,0,0,"09/07/2025, 11:00",Front Door Semis,Scheduled
+The Buoy Association,Odyssée,0,0,"09/07/2025, 11:00",Front Door Semis,Scheduled
 bracket,3rd Place - Game to Go
+Aged Cheddar,Taproot,0,0,"09/07/2025, 11:00",Back Door Qtrs,Scheduled
+UV Rays,Sugar Shack,0,0,"09/07/2025, 11:00",Back Door Qtrs,Scheduled
 bracket,Placement: 5th
 bracket,Placement 7th
 b,r,e,a,k
