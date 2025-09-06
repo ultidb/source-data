@@ -60,6 +60,19 @@ coaches,Nicholas Granados-Kramer,Logan Stone
 56,Charles Labarge
 89,Jonathan Dono
 b,r,e,a,k
+Arcane Edge,8
+teamInfo,,"Sherman, New York",,,
+0,Arya Vadnere
+0,Chris Ritchie
+0,Rohn Parylo
+7,Ian Clingerman
+7,Aiden Weisgerber
+00,Ethan  Snyderman
+21,Lucas Seeley
+24,John Mc Guinness
+51,Nate Sciara 
+80,Jef Gallagher
+b,r,e,a,k
 Buffalo Frostbite,6
 teamInfo,,"Buffalo, New York",,,
 0,Bradley Casto
@@ -86,18 +99,29 @@ teamInfo,,"Buffalo, New York",,,
 69,Jaden  Gorozabel 
 69,Zane Roth
 b,r,e,a,k
-Arcane Edge,8
-teamInfo,,"Sherman, New York",,,
-0,Arya Vadnere
-0,Chris Ritchie
-0,Rohn Parylo
-7,Ian Clingerman
-7,Aiden Weisgerber
-00,Ethan  Snyderman
-21,Lucas Seeley
-24,John Mc Guinness
-51,Nate Sciara 
-80,Jef Gallagher
+Los Buds,4
+teamInfo,,"Ithaca, New York",,,
+0,Benjamin Packard
+0,Bobby Henkelmann
+0,Ethan Roitman
+0,Ethan Zhao
+0,Jaden Zou
+0,Kazim Hall
+0,Nate Haris
+0,Ren Kondo
+0,Maxwell Majersik
+0,Meris Goldfarb
+1,Sam Karmarkar
+10,Mason Raffo
+13,Alexander Schatzberg
+15,Dylan Kenniff
+17,Ian Olenich
+25,Christopher Chan
+66,Elijah Sheridan
+78,William Canlis
+88,Iram Liu
+94,Ka Lok Ethan Lau
+99,Milo Rappoport
 b,r,e,a,k
 DAPPER,2
 teamInfo,,"Rochester, New York",,,
@@ -127,30 +151,6 @@ teamInfo,,"Rochester, New York",,,
 28,Jack Lowrey
 89,Brice Moncada
 99,Alex Python
-b,r,e,a,k
-Los Buds,4
-teamInfo,,"Ithaca, New York",,,
-0,Benjamin Packard
-0,Bobby Henkelmann
-0,Ethan Roitman
-0,Ethan Zhao
-0,Jaden Zou
-0,Kazim Hall
-0,Nate Haris
-0,Ren Kondo
-0,Maxwell Majersik
-0,Meris Goldfarb
-1,Sam Karmarkar
-10,Mason Raffo
-13,Alexander Schatzberg
-15,Dylan Kenniff
-17,Ian Olenich
-25,Christopher Chan
-66,Elijah Sheridan
-78,William Canlis
-88,Iram Liu
-94,Ka Lok Ethan Lau
-99,Milo Rappoport
 b,r,e,a,k
 DAP LAB,5
 teamInfo,,"Rochester, New York",,,
@@ -207,15 +207,15 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Pools
 pool,Pool A
-Phoenix,Buffalo Frostbite,0,0,"09/06/2025, 09:00",Pool A,Scheduled
-Alibi,Arcane Edge,0,0,"09/06/2025, 09:00",Pool A,Scheduled
+Phoenix,Buffalo Frostbite,13,0,"09/06/2025, 09:00",Pool A,Final
+Alibi,Arcane Edge,13,2,"09/06/2025, 09:00",Pool A,Final
 Phoenix,Arcane Edge,0,0,"09/06/2025, 10:45",Pool A,Scheduled
 Alibi,Buffalo Frostbite,0,0,"09/06/2025, 10:45",Pool A,Scheduled
 Phoenix,Alibi,0,0,"09/06/2025, 12:30",Pool A,Scheduled
 Buffalo Frostbite,Arcane Edge,0,0,"09/06/2025, 12:30",Pool A,Scheduled
 pool,Pool B
-DAPPER,DAP LAB,0,0,"09/06/2025, 09:00",Pool B,Scheduled
-Los Buds,Motive,0,0,"09/06/2025, 09:00",Pool B,Scheduled
+DAPPER,DAP LAB,13,7,"09/06/2025, 09:00",Pool B,Final
+Los Buds,Motive,13,5,"09/06/2025, 09:00",Pool B,Final
 DAPPER,Motive,0,0,"09/06/2025, 10:45",Pool B,Scheduled
 Los Buds,DAP LAB,0,0,"09/06/2025, 10:45",Pool B,Scheduled
 DAPPER,Los Buds,0,0,"09/06/2025, 12:30",Pool B,Scheduled
