@@ -392,12 +392,12 @@ Spoke,Squid Inc.,13,3,"09/06/2025, 09:00",Pool A,Final
 Pegasus,Squid Inc.,0,0,"09/06/2025, 10:45",Pool A,Scheduled
 Spoke,Pegasus,0,0,"09/06/2025, 12:30",Pool A,Scheduled
 pool,Pool B
-Smack!,BOP,0,0,"09/06/2025, 09:00",Pool B,Scheduled
+Smack!,BOP,12,7,"09/06/2025, 09:00",Pool B,Final
 Seattle Soft Serve,BOP,0,0,"09/06/2025, 10:45",Pool B,Scheduled
 Smack!,Seattle Soft Serve,0,0,"09/06/2025, 12:30",Pool B,Scheduled
 pool,Pool C
 Lights Out,UFO,13,3,"09/06/2025, 09:00",Pool C,Final
-Grit City,Heat Wave,0,0,"09/06/2025, 09:00",Pool C,Scheduled
+Grit City,Heat Wave,13,7,"09/06/2025, 09:00",Pool C,Final
 Lights Out,Heat Wave,0,0,"09/06/2025, 10:45",Pool C,Scheduled
 Grit City,UFO,0,0,"09/06/2025, 10:45",Pool C,Scheduled
 Lights Out,Grit City,0,0,"09/06/2025, 10:45",Pool C,Scheduled
@@ -407,7 +407,7 @@ Bullet Train,Mola Mola,13,5,"09/06/2025, 09:00",Pool D,Scheduled
 TT,Garbage,13,4,"09/06/2025, 09:00",Pool D,Final
 Bullet Train,Garbage,0,0,"09/06/2025, 10:45",Pool D,Scheduled
 TT,Mola Mola,0,0,"09/06/2025, 10:45",Pool D,Scheduled
-Bullet Train,TT,0,0,"09/06/2025, 10:45",Pool D,Scheduled
+Bullet Train,TT,5,7,"09/06/2025, 10:45",Pool D,Scheduled
 Garbage,Mola Mola,0,0,"09/06/2025, 10:45",Pool D,Scheduled
 b,r,e,a,k
 brackets,Bracket Play

@@ -109,6 +109,29 @@ teamInfo,,"San Antonio, Texas",,,
 13,Jaedron Mueller
 25,Paul Jackson
 b,r,e,a,k
+Bonzaiiiii!!,10
+teamInfo,,"Austin, Texas",,,
+1,Johnny Chang
+3,Chris Mihalyi
+6,Graham Hazlewood
+9,David Street
+10,Jonathan Gardner
+11,Guadalupe Garcia
+12,Rick Artus
+13,Jack Hornbuckle
+14,Keith Larsen
+16,Patrick Christmas
+17,Jose Tamez Durandeau
+18,Agustin Barajas
+20,Chris Stone
+28,Joseph (Joe) Stokes
+36,Calvin Lin
+38,Johnathan Roniger
+39,Matt (Jonathan) Hull
+48,Garrett Davis
+83,Christopher Griego
+99,Ronan Lin
+b,r,e,a,k
 Texas Duffy,7
 teamInfo,,"College Station, Texas",,,
 0,Peter Saudale
@@ -132,29 +155,6 @@ teamInfo,,"College Station, Texas",,,
 73,Justin Petre
 77,Edgar Alvarado
 80,Jason Wehring
-b,r,e,a,k
-Bonzaiiiii!!,10
-teamInfo,,"Austin, Texas",,,
-1,Johnny Chang
-3,Chris Mihalyi
-6,Graham Hazlewood
-9,David Street
-10,Jonathan Gardner
-11,Guadalupe Garcia
-12,Rick Artus
-13,Jack Hornbuckle
-14,Keith Larsen
-16,Patrick Christmas
-17,Jose Tamez Durandeau
-18,Agustin Barajas
-20,Chris Stone
-28,Joseph (Joe) Stokes
-36,Calvin Lin
-38,Johnathan Roniger
-39,Matt (Jonathan) Hull
-48,Garrett Davis
-83,Christopher Griego
-99,Ronan Lin
 b,r,e,a,k
 H.I.P,3
 teamInfo,,"Texas City, Texas",,,https://twitter.com/hip_flatball/
@@ -237,6 +237,31 @@ teamInfo,,"Austin, Texas",,,https://twitter.com/ForgeATX
 50,David Piersall
 71,Grant Dzurenko
 b,r,e,a,k
+Riverside,5
+teamInfo,,"Austin, Texas",http://riversideultimate.org,https://www.facebook.com/RiversideUltimate/,https://twitter.com/riversideulti
+0,Adam Bell
+0,James Lund
+0,Jason Li
+0,John Woldum
+0,Jonah Jimenez
+0,Decker Padgett
+0,Gerardo Martinez Flores
+0,Josiah Padgett
+0,Matthew Bianchi
+0,Michael Clark
+0,Nat Hsu
+0,Robert Credeur
+0,Thomas Hannie
+4,Andres Rodriguez
+6,Jacob Warmath
+7,Troy Abbott
+7,Marcelo Gonzalez
+11,Gus Serff-Roberts
+17,Sean Hall
+23,Ben Thollander
+44,Aidan Wilson
+86,Jordan Richter
+b,r,e,a,k
 Texas Tea,4
 teamInfo,,"Houston, Texas",,,
 0,Isaac Baker
@@ -264,31 +289,6 @@ teamInfo,,"Houston, Texas",,,
 21,Javier Flores
 22,Piercen Hoekstra
 25,Toya Chukwumerije
-b,r,e,a,k
-Riverside,5
-teamInfo,,"Austin, Texas",http://riversideultimate.org,https://www.facebook.com/RiversideUltimate/,https://twitter.com/riversideulti
-0,Adam Bell
-0,James Lund
-0,Jason Li
-0,John Woldum
-0,Jonah Jimenez
-0,Decker Padgett
-0,Gerardo Martinez Flores
-0,Josiah Padgett
-0,Matthew Bianchi
-0,Michael Clark
-0,Nat Hsu
-0,Robert Credeur
-0,Thomas Hannie
-4,Andres Rodriguez
-6,Jacob Warmath
-7,Troy Abbott
-7,Marcelo Gonzalez
-11,Gus Serff-Roberts
-17,Sean Hall
-23,Ben Thollander
-44,Aidan Wilson
-86,Jordan Richter
 b,r,e,a,k
 San Antonio Warhawks,12
 teamInfo,,"San Antonio, Texas",,,
@@ -353,11 +353,11 @@ pools,Pool Play
 pool,Pool A
 Gamble,Heatwave,13,3,"09/06/2025, 08:00",Pool A,Final
 Gamble,Black Gold,13,5,"09/06/2025, 09:45",Pool A,Final
-Black Gold,Heatwave,0,0,"09/06/2025, 11:30",Pool A,Scheduled
+Black Gold,Heatwave,11,8,"09/06/2025, 11:30",Pool A,Final
 pool,Pool B
 Alamode,Bonzaiiiii!!,13,0,"09/06/2025, 08:00",Pool B,Final
 Alamode,Texas Duffy,13,12,"09/06/2025, 09:45",Pool B,Final
-Texas Duffy,Bonzaiiiii!!,0,0,"09/06/2025, 11:30",Pool B,Scheduled
+Texas Duffy,Bonzaiiiii!!,9,12,"09/06/2025, 11:30",Pool B,Final
 pool,Pool C
 H.I.P,Forge,13,8,"09/06/2025, 08:00",Pool C,Final
 H.I.P,Cozy Boys,13,10,"09/06/2025, 09:45",Pool C,Final
@@ -365,13 +365,16 @@ Cozy Boys,Forge,0,0,"09/06/2025, 11:30",Pool C,Scheduled
 pool,Pool D
 Texas Tea,A La Carte,13,2,"09/06/2025, 09:45",Pool D,Final
 Riverside,San Antonio Warhawks,13,3,"09/06/2025, 09:45",Pool D,Final
-Texas Tea,Riverside,0,0,"09/06/2025, 11:30",Pool D,Scheduled
-San Antonio Warhawks,A La Carte,0,0,"09/06/2025, 11:30",Pool D,Scheduled
+Texas Tea,Riverside,10,11,"09/06/2025, 11:30",Pool D,Final
+San Antonio Warhawks,A La Carte,13,8,"09/06/2025, 11:30",Pool D,Final
 b,r,e,a,k
 brackets,Bracket Play
 bracket,1st Place Bracket
+Gamble,Riverside,0,0,"09/06/2025, 13:15",Semi-Finals,Scheduled
 bracket,2nd Place Bracket
+Black Gold,Texas Tea,0,0,"09/06/2025, 13:15",Round 1,Scheduled
 bracket,4th Place Bracket
+Heatwave,San Antonio Warhawks,0,0,"09/06/2025, 13:15",Round 1,Scheduled
 bracket,7th Place
 bracket,9th place
 b,r,e,a,k

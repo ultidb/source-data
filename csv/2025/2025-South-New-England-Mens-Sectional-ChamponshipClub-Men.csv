@@ -85,6 +85,25 @@ coaches,Andrew  Polcari
 38,Nicholas  Dell'Amore
 52,Gabriel Rhodes
 b,r,e,a,k
+MBTA,8
+teamInfo,,"Boston, Massachusetts",,,https://twitter.com/MbtaUltimate
+0,Aidan Hwang
+0,Austin Philp
+0,Jonathan Edelman
+0,Justin Galin
+0,Kevin Donohue
+0,Michael Gold
+0,Santiago Hernandez
+0,Tucker Zakon-Anderson
+0,Tyler Goldner
+0,Will Boozang
+7,James Hopkins
+31,Matthew Rock
+33,Bennett Hartley
+69,Tyler Smithtro
+82,JP Collins
+87,Austin Weiss
+b,r,e,a,k
 Pineapple,9
 teamInfo,,"Cambridge, Massachusetts",,,
 0,Andy Zheng
@@ -107,24 +126,34 @@ teamInfo,,"Cambridge, Massachusetts",,,
 31,Junhyung Park
 83,Raymond Feng
 b,r,e,a,k
-MBTA,8
-teamInfo,,"Boston, Massachusetts",,,https://twitter.com/MbtaUltimate
-0,Aidan Hwang
-0,Austin Philp
-0,Jonathan Edelman
-0,Justin Galin
-0,Kevin Donohue
-0,Michael Gold
-0,Santiago Hernandez
-0,Tucker Zakon-Anderson
-0,Tyler Goldner
-0,Will Boozang
-7,James Hopkins
-31,Matthew Rock
-33,Bennett Hartley
-69,Tyler Smithtro
-82,JP Collins
-87,Austin Weiss
+BAG,4
+teamInfo,,"Somerville, Massachusetts",,,
+0,Andrew Halloran
+0,Angus Fuori
+0,Benjamin Rowland
+0,Daniil Koval
+0,Gunnar Heckler
+0,Jacob Frasu
+0,Jayden Amirault
+0,Jonathan (JP) Webel
+0,Samuel Speciale
+0,Sunay Patel
+0,Naoya Miyamoto
+0,Toshihiro Nagase
+2,Kieran Egan
+3,Adam Dahlquist
+6,Cooper Nissenbaum
+7,Brian Strothman
+7,Sam Greenberg
+10,Cedar Noonan
+13,John Buchanan
+15,Jesse Strod
+34,Tanner Cohen
+38,Matt Caswell
+40,Holden Cookson
+47,Adam Rogers
+57,James Berliner
+59,Thomas Yoxsimer
 b,r,e,a,k
 Lantern,2
 teamInfo,,"Boston, Massachusetts",https://www.instagram.com/lanternultimate/?hl=en,,https://twitter.com/lanternultimate
@@ -184,35 +213,6 @@ teamInfo,,"Needham, Massachusetts",,,https://twitter.com/Squad_Ult
 50,Carl Saba
 99,Griffin Majer
 b,r,e,a,k
-BAG,4
-teamInfo,,"Somerville, Massachusetts",,,
-0,Andrew Halloran
-0,Angus Fuori
-0,Benjamin Rowland
-0,Daniil Koval
-0,Gunnar Heckler
-0,Jacob Frasu
-0,Jayden Amirault
-0,Jonathan (JP) Webel
-0,Samuel Speciale
-0,Sunay Patel
-0,Naoya Miyamoto
-0,Toshihiro Nagase
-2,Kieran Egan
-3,Adam Dahlquist
-6,Cooper Nissenbaum
-7,Brian Strothman
-7,Sam Greenberg
-10,Cedar Noonan
-13,John Buchanan
-15,Jesse Strod
-34,Tanner Cohen
-38,Matt Caswell
-40,Holden Cookson
-47,Adam Rogers
-57,James Berliner
-59,Thomas Yoxsimer
-b,r,e,a,k
 Crossfire,7
 teamInfo,,"Boston , Massachusetts",,,
 0,Benjamin Whidden
@@ -262,8 +262,8 @@ Scoop,Pineapple,13,1,"09/06/2025, 08:00",Pool A,Final
 Odyssey,MBTA,13,3,"09/06/2025, 08:00",Pool A,Final
 Scoop,Odyssey,13,4,"09/06/2025, 09:30",Pool A,Final
 Big Wrench,MBTA,13,4,"09/06/2025, 09:30",Pool A,Final
-MBTA,Pineapple,0,0,"09/06/2025, 11:00",Pool A,Scheduled
-Big Wrench,Odyssey,0,0,"09/06/2025, 11:00",Pool A,Scheduled
+MBTA,Pineapple,13,3,"09/06/2025, 11:00",Pool A,Final
+Big Wrench,Odyssey,11,7,"09/06/2025, 11:00",Pool A,Final
 Scoop,MBTA,0,0,"09/06/2025, 12:30",Pool A,Scheduled
 Big Wrench,Pineapple,0,0,"09/06/2025, 12:30",Pool A,Scheduled
 Scoop,Big Wrench,0,0,"09/06/2025, 14:00",Pool A,Scheduled
@@ -272,11 +272,11 @@ pool,Pool B
 Lantern,Riverside Riptide,13,8,"09/06/2025, 08:00",Pool B,Final
 Skeleton Squad,Crossfire,13,2,"09/06/2025, 08:00",Pool B,Final
 Lantern,Skeleton Squad,12,10,"09/06/2025, 09:30",Pool B,Final
-BAG,Crossfire,0,0,"09/06/2025, 09:30",Pool B,Scheduled
+BAG,Crossfire,13,8,"09/06/2025, 09:30",Pool B,Final
 Crossfire,Riverside Riptide,10,9,"09/06/2025, 11:00",Pool B,Final
 BAG,Skeleton Squad,11,10,"09/06/2025, 11:00",Pool B,Final
 Lantern,Crossfire,0,0,"09/06/2025, 12:30",Pool B,Scheduled
-BAG,Riverside Riptide,0,0,"09/06/2025, 12:30",Pool B,Scheduled
+BAG,Riverside Riptide,13,6,"09/06/2025, 12:30",Pool B,Final
 Lantern,BAG,0,0,"09/06/2025, 14:00",Pool B,Scheduled
 Skeleton Squad,Riverside Riptide,0,0,"09/06/2025, 14:00",Pool B,Scheduled
 b,r,e,a,k
