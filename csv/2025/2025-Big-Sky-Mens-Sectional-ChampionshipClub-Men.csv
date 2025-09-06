@@ -1,33 +1,6 @@
 2025 Big Sky Men's Sectional Championship,Club - Men ,6,9,2025
 Salt Lake City,UT,2025-09-06,2025-09-07
 http://play.usaultimate.org/events/2025-Big-Sky-Mens-Sectional-Championship/schedule/Men/Club-Men/
-Cache Valley High Ground,2
-teamInfo,,"Logan, Utah",,,
-0,Zach Larsen
-01,Elijah Huber
-02,Zach Balls
-03,Kysen Lyons
-04,Boston Musgrave
-06,Tucker Jewkes
-08,Benjamin Hoffman
-09,Dallin Opperman
-10,Cullen Landry
-12,Ryan Martin
-14,Skyler Jones
-16,Truman Phillips
-17,Jackson Egbert
-20,Ryan Beck
-21,Scott Jackson
-27,Jacob Hoffman
-43,Spencer Seedall
-45,Alan Poulsen
-48,Thomas Newton
-69,Brad Ellis
-77,Aidan Vogel
-88,Christian Berger
-95,Brock Hyatt
-99,Jared Waite
-b,r,e,a,k
 Wretched Refuse,4
 teamInfo,,"Lehi, Utah",,,
 0,Aleksei Felt
@@ -57,6 +30,33 @@ teamInfo,,"Lehi, Utah",,,
 27,Trevor Wai
 99,Dan Doxey
 b,r,e,a,k
+Cache Valley High Ground,2
+teamInfo,,"Logan, Utah",,,
+0,Zach Larsen
+01,Elijah Huber
+02,Zach Balls
+03,Kysen Lyons
+04,Boston Musgrave
+06,Tucker Jewkes
+08,Benjamin Hoffman
+09,Dallin Opperman
+10,Cullen Landry
+12,Ryan Martin
+14,Skyler Jones
+16,Truman Phillips
+17,Jackson Egbert
+20,Ryan Beck
+21,Scott Jackson
+27,Jacob Hoffman
+43,Spencer Seedall
+45,Alan Poulsen
+48,Thomas Newton
+69,Brad Ellis
+77,Aidan Vogel
+88,Christian Berger
+95,Brock Hyatt
+99,Jared Waite
+b,r,e,a,k
 X Wives,6
 teamInfo,,"Salt Lake City, Utah",,,
 0,Cooper Bost
@@ -82,28 +82,6 @@ teamInfo,,"Salt Lake City, Utah",,,
 55,Bryce Rundell
 77,Jackson Hammond
 99,Eli Bloch
-b,r,e,a,k
-Zombie Tidal Wave,9
-teamInfo,,"Provo, UT, Utah",,,
-0,Dylan Greenleaf
-0,Grant Johnson
-0,Jeremy Sellers
-0,Mark Frame
-0,Nathan Jones
-0,Stuart Card
-0,Taylor Bentley
-05,Devan Biggs
-07,Jeremy Teela
-10,Tyson Richards
-12,Sheldon Mills
-18,Ian Robertson
-20,Kody Crockett
-24,Vincent Schlosser
-31,Nathaniel Shirts
-31,Jacob Jespersen
-42,Adam Rose
-44,Joshua Fassett
-73,Jamison Orton
 b,r,e,a,k
 Reál Hogs FC,8
 teamInfo,,"North Salt Lake, Utah",,,
@@ -131,6 +109,28 @@ teamInfo,,"North Salt Lake, Utah",,,
 10,Collin Nichol
 10,Juan Acosta
 72,Aaron Coleman
+b,r,e,a,k
+Zombie Tidal Wave,9
+teamInfo,,"Provo, UT, Utah",,,
+0,Dylan Greenleaf
+0,Grant Johnson
+0,Jeremy Sellers
+0,Mark Frame
+0,Nathan Jones
+0,Stuart Card
+0,Taylor Bentley
+05,Devan Biggs
+07,Jeremy Teela
+10,Tyson Richards
+12,Sheldon Mills
+18,Ian Robertson
+20,Kody Crockett
+24,Vincent Schlosser
+31,Nathaniel Shirts
+31,Jacob Jespersen
+42,Adam Rose
+44,Joshua Fassett
+73,Jamison Orton
 b,r,e,a,k
 Sawtooth,1
 teamInfo,,"Boise, Idaho",https://boiseultimatescene.com/sawtooth,https://www.facebook.com/Sawtooth-Boise-Ultimate-619500648417608/,https://twitter.com/SawtoothUlti
@@ -283,10 +283,10 @@ Cache Valley High Ground,Zombie Tidal Wave,15,9,"09/06/2025, 09:00",Pool A,Final
 X Wives,Reál Hogs FC,11,9,"09/06/2025, 09:00",Pool A,Final
 Cache Valley High Ground,X Wives,14,12,"09/06/2025, 10:45",Pool A,Final
 Wretched Refuse,Reál Hogs FC,15,5,"09/06/2025, 10:45",Pool A,Final
-Reál Hogs FC,Zombie Tidal Wave,0,0,"09/06/2025, 12:30",Pool A,Scheduled
-Wretched Refuse,X Wives,0,0,"09/06/2025, 12:30",Pool A,Scheduled
-Cache Valley High Ground,Reál Hogs FC,0,0,"09/06/2025, 14:15",Pool A,Scheduled
-Wretched Refuse,Zombie Tidal Wave,0,0,"09/06/2025, 14:15",Pool A,Scheduled
+Reál Hogs FC,Zombie Tidal Wave,15,12,"09/06/2025, 12:30",Pool A,Final
+Wretched Refuse,X Wives,14,13,"09/06/2025, 12:30",Pool A,Final
+Cache Valley High Ground,Reál Hogs FC,15,7,"09/06/2025, 14:15",Pool A,Final
+Wretched Refuse,Zombie Tidal Wave,15,7,"09/06/2025, 14:15",Pool A,Final
 Cache Valley High Ground,Wretched Refuse,0,0,"09/06/2025, 16:00",Pool A,Scheduled
 X Wives,Zombie Tidal Wave,0,0,"09/06/2025, 16:00",Pool A,Scheduled
 pool,Pool B
@@ -301,8 +301,10 @@ b,r,e,a,k
 clusters,Crossover
 cluster,BC Crossovers
 Sawtooth,PowderHogs,7,15,"09/06/2025, 14:15",,Final
-AFC Rumble,R&D,15,4,"09/06/2025, 14:15",,Scheduled
-Lil’ Huckers,Lake City Inversion,0,0,"09/06/2025, 14:15",,Scheduled
+AFC Rumble,R&D,15,4,"09/06/2025, 14:15",,Final
+Lil’ Huckers,Lake City Inversion,15,8,"09/06/2025, 14:15",,Final
+AFC Rumble,Lil’ Huckers,0,0,"09/06/2025, 16:00",,Scheduled
+Lake City Inversion,R&D,4,7,"09/06/2025, 16:00",,Final
 b,r,e,a,k
 brackets,Sunday Brackets
 bracket,Finals
@@ -312,4 +314,5 @@ bracket,Seventh
 b,r,e,a,k
 pools,Sunday Placement Pool
 pool,Pool D
+R&D,Lake City Inversion,0,0,"09/07/2025, 09:00",Pool D,Scheduled
 b,r,e,a,k

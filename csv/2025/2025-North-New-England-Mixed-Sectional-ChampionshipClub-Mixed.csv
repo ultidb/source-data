@@ -30,6 +30,30 @@ teamInfo,,"Burlington, Vermont",,,
 79,Keziah Wilde
 99,Nora Jacobsen
 b,r,e,a,k
+Taproot,6
+teamInfo,,"Northampton, Massachusetts",,,
+0,Avery Koloszyc
+1,Ashley Benz
+2,Aidan McGovern
+3,Katherine Aidala
+3,Jason Cooper
+4,Sadie Bromberg
+9,Saige Lloyd
+10,Reese Laviolette
+11,Kyle Taylor
+14,Alysha Parshall-Matylas
+17,Adam Sussbauer
+18,Sam Frieze
+19,Sage Campbell
+20,Dylan Hannaford
+25,Jade Rousseau
+26,Karleen Schaffer 
+27,Lucas Verrastro
+28,Edward (Teddy) Schaffer
+40,Noam Perlmutter
+41,Yotam Tubul
+45,Elijah Nathman
+b,r,e,a,k
 Odyssée,4
 teamInfo,,"Montréal, Quebec CA",,https://www.facebook.com/profile.php?id=100064273916081,
 04,Melissa Poulin-Cadovius
@@ -55,30 +79,6 @@ teamInfo,,"Montréal, Quebec CA",,https://www.facebook.com/profile.php?id=100064
 69,Ben Powlay
 84,Jean-Philippe Riopel
 88,Zakarie Massi
-b,r,e,a,k
-Taproot,6
-teamInfo,,"Northampton, Massachusetts",,,
-0,Avery Koloszyc
-1,Ashley Benz
-2,Aidan McGovern
-3,Katherine Aidala
-3,Jason Cooper
-4,Sadie Bromberg
-9,Saige Lloyd
-10,Reese Laviolette
-11,Kyle Taylor
-14,Alysha Parshall-Matylas
-17,Adam Sussbauer
-18,Sam Frieze
-19,Sage Campbell
-20,Dylan Hannaford
-25,Jade Rousseau
-26,Karleen Schaffer 
-27,Lucas Verrastro
-28,Edward (Teddy) Schaffer
-40,Noam Perlmutter
-41,Yotam Tubul
-45,Elijah Nathman
 b,r,e,a,k
 UV Rays,7
 teamInfo,,"West Lebanon, New Hampshire",,,
@@ -211,19 +211,19 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Saturday Pools
 pool,Pool A
-Zero Strategy,Taproot,0,0,"09/06/2025, 09:00",Pool A,Scheduled
+Zero Strategy,Taproot,13,9,"09/06/2025, 09:00",Pool A,Final
 Odyssée,UV Rays,0,0,"09/06/2025, 09:00",Pool A,Scheduled
-Zero Strategy,UV Rays,0,0,"09/06/2025, 11:00",Pool A,Scheduled
+Zero Strategy,UV Rays,13,2,"09/06/2025, 11:00",Pool A,Final
 Odyssée,Taproot,0,0,"09/06/2025, 11:00",Pool A,Scheduled
-Zero Strategy,Odyssée,0,0,"09/06/2025, 13:00",Pool A,Scheduled
+Zero Strategy,Odyssée,13,8,"09/06/2025, 13:00",Pool A,Final
 Taproot,UV Rays,0,0,"09/06/2025, 13:00",Pool A,Scheduled
 pool,Pool B
-The Buoy Association,Aged Cheddar,0,0,"09/06/2025, 09:00",Pool B,Scheduled
-Big Rig,Sugar Shack,0,0,"09/06/2025, 09:00",Pool B,Scheduled
-The Buoy Association,Sugar Shack,0,0,"09/06/2025, 11:00",Pool B,Scheduled
-Big Rig,Aged Cheddar,0,0,"09/06/2025, 11:00",Pool B,Scheduled
-The Buoy Association,Big Rig,0,0,"09/06/2025, 13:00",Pool B,Scheduled
-Aged Cheddar,Sugar Shack,0,0,"09/06/2025, 13:00",Pool B,Scheduled
+The Buoy Association,Aged Cheddar,13,5,"09/06/2025, 09:00",Pool B,Final
+Big Rig,Sugar Shack,13,3,"09/06/2025, 09:00",Pool B,Final
+The Buoy Association,Sugar Shack,13,3,"09/06/2025, 11:00",Pool B,Final
+Big Rig,Aged Cheddar,13,6,"09/06/2025, 11:00",Pool B,Final
+The Buoy Association,Big Rig,13,10,"09/06/2025, 13:00",Pool B,Final
+Aged Cheddar,Sugar Shack,13,8,"09/06/2025, 13:00",Pool B,Final
 b,r,e,a,k
 clusters,Saturday Crossover
 b,r,e,a,k
