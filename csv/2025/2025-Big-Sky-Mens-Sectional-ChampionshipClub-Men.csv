@@ -28,32 +28,6 @@ teamInfo,,"Logan, Utah",,,
 95,Brock Hyatt
 99,Jared Waite
 b,r,e,a,k
-X Wives,6
-teamInfo,,"Salt Lake City, Utah",,,
-0,Cooper Bost
-0,Max DeBroux
-01,Daniel Watson
-04,Henri de St. Germain
-05,Rainor Alin
-06,Ian Cunningham-Ward
-09,Ethan Hilding
-11,Gerry McManus
-13,Bimi Prewitt
-13,Maxwell White
-17,Connor Lund
-19,Dustin Schrader
-22,Isaiah Klepfer
-24,George Shelby
-26,Asher Iacob
-27,Bridger Everette
-30,Solan Honore-Jones
-33,Owen Pieper
-40,Grant Newkirk
-46,Lorenzo  Davis
-55,Bryce Rundell
-77,Jackson Hammond
-99,Eli Bloch
-b,r,e,a,k
 Wretched Refuse,4
 teamInfo,,"Lehi, Utah",,,
 0,Aleksei Felt
@@ -82,6 +56,32 @@ teamInfo,,"Lehi, Utah",,,
 27,Brandon Jordan
 27,Trevor Wai
 99,Dan Doxey
+b,r,e,a,k
+X Wives,6
+teamInfo,,"Salt Lake City, Utah",,,
+0,Cooper Bost
+0,Max DeBroux
+01,Daniel Watson
+04,Henri de St. Germain
+05,Rainor Alin
+06,Ian Cunningham-Ward
+09,Ethan Hilding
+11,Gerry McManus
+13,Bimi Prewitt
+13,Maxwell White
+17,Connor Lund
+19,Dustin Schrader
+22,Isaiah Klepfer
+24,George Shelby
+26,Asher Iacob
+27,Bridger Everette
+30,Solan Honore-Jones
+33,Owen Pieper
+40,Grant Newkirk
+46,Lorenzo  Davis
+55,Bryce Rundell
+77,Jackson Hammond
+99,Eli Bloch
 b,r,e,a,k
 Zombie Tidal Wave,9
 teamInfo,,"Provo, UT, Utah",,,
@@ -279,10 +279,10 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Saturday Pool Play
 pool,Pool A
-Cache Valley High Ground,Zombie Tidal Wave,0,0,"09/06/2025, 09:00",Pool A,Scheduled
+Cache Valley High Ground,Zombie Tidal Wave,15,9,"09/06/2025, 09:00",Pool A,Final
 X Wives,Reál Hogs FC,11,9,"09/06/2025, 09:00",Pool A,Final
 Cache Valley High Ground,X Wives,14,12,"09/06/2025, 10:45",Pool A,Final
-Wretched Refuse,Reál Hogs FC,0,0,"09/06/2025, 10:45",Pool A,Scheduled
+Wretched Refuse,Reál Hogs FC,15,5,"09/06/2025, 10:45",Pool A,Final
 Reál Hogs FC,Zombie Tidal Wave,0,0,"09/06/2025, 12:30",Pool A,Scheduled
 Wretched Refuse,X Wives,0,0,"09/06/2025, 12:30",Pool A,Scheduled
 Cache Valley High Ground,Reál Hogs FC,0,0,"09/06/2025, 14:15",Pool A,Scheduled
@@ -300,8 +300,8 @@ PowderHogs,Lake City Inversion,15,4,"09/06/2025, 12:30",Pool C,Final
 b,r,e,a,k
 clusters,Crossover
 cluster,BC Crossovers
-Sawtooth,PowderHogs,0,0,"09/06/2025, 14:15",,Scheduled
-AFC Rumble,R&D,0,0,"09/06/2025, 14:15",,Scheduled
+Sawtooth,PowderHogs,7,15,"09/06/2025, 14:15",,Final
+AFC Rumble,R&D,15,4,"09/06/2025, 14:15",,Scheduled
 Lil’ Huckers,Lake City Inversion,0,0,"09/06/2025, 14:15",,Scheduled
 b,r,e,a,k
 brackets,Sunday Brackets
