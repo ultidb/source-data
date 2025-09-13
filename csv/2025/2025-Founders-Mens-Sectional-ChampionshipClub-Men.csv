@@ -60,6 +60,33 @@ teamInfo,,"Philadelphia, Pennsylvania",,https://www.facebook.com/citywidespecial
 80,Christopher Cruz
 93,Christopher Hranj
 b,r,e,a,k
+EZ,5
+teamInfo,,"Wilmington, Delaware",,,
+0,Angus Yocum
+0,Ben Helpin
+0,Ben Tokarz
+0,Brad Hobbs
+0,Cameron Ogden
+0,Chris Senf
+0,CJ Puia
+0,Izidor Peterson
+0,Jonathan Neifert
+0,Joseph Wheeler
+0,Ross Gunther
+0,Samuel Barnett
+0,Tremont Moore
+3,Nathaniel Hodges
+7,Brian Healy
+11,Jeremy Long
+14,Mike Alexander
+16,Aiden Kempf
+24,Matt Norden
+28,Adam Blum
+33,Leo Gao
+34,Riley Dagon
+55,Benji Feidler
+66,Stephen Cockerill
+b,r,e,a,k
 Rebels,4
 teamInfo,,"Haddonfield, New Jersey",https://www.instagram.com/rebels.ultimate?igsh=MTJoNzF1MDNiOXVyYw==,,
 0,Scott Pleban
@@ -88,33 +115,6 @@ teamInfo,,"Haddonfield, New Jersey",https://www.instagram.com/rebels.ultimate?ig
 80,Kevin  Koelsch
 81,Troy Zirkel
 99,Jeff Zeng
-b,r,e,a,k
-EZ,5
-teamInfo,,"Wilmington, Delaware",,,
-0,Angus Yocum
-0,Ben Helpin
-0,Ben Tokarz
-0,Brad Hobbs
-0,Cameron Ogden
-0,Chris Senf
-0,CJ Puia
-0,Izidor Peterson
-0,Jonathan Neifert
-0,Joseph Wheeler
-0,Ross Gunther
-0,Samuel Barnett
-0,Tremont Moore
-3,Nathaniel Hodges
-7,Brian Healy
-11,Jeremy Long
-14,Mike Alexander
-16,Aiden Kempf
-24,Matt Norden
-28,Adam Blum
-33,Leo Gao
-34,Riley Dagon
-55,Benji Feidler
-66,Stephen Cockerill
 b,r,e,a,k
 Wooder,10
 teamInfo,,"Wallingford, Pennsylvania",,,
@@ -282,8 +282,8 @@ CITYWIDE Special,Wooder,13,8,"09/06/2025, 12:30",Pool A,Final
 Rebels,EZ,7,12,"09/06/2025, 12:30",Pool A,Final
 Rebels,Wooder,0,0,"09/06/2025, 14:15",Pool A,Cancelled
 EZ,Wooder,0,0,"09/06/2025, 16:00",Pool A,Cancelled
-Philadelphia Pacmen,CITYWIDE Special,0,0,"09/13/2025, 09:00",Pool A,In Progress
-Philadelphia Pacmen,Rebels,0,0,"09/13/2025, 10:45",Pool A,Scheduled
+Philadelphia Pacmen,CITYWIDE Special,13,3,"09/13/2025, 09:00",Pool A,Final
+Philadelphia Pacmen,Rebels,13,7,"09/13/2025, 10:45",Pool A,Final
 pool,Pool B
 Garden State Ultimate,Revolt,13,1,"09/06/2025, 09:00",Pool B,Final
 New Jersey Gemini,Rugrat Knights,13,10,"09/06/2025, 09:00",Pool B,Final
@@ -294,11 +294,15 @@ Rumspringa,New Jersey Gemini,13,7,"09/06/2025, 12:30",Pool B,Final
 Garden State Ultimate,Rugrat Knights,0,0,"09/06/2025, 14:15",Pool B,Cancelled
 Rumspringa,Revolt,0,0,"09/06/2025, 14:15",Pool B,Cancelled
 New Jersey Gemini,Revolt,0,0,"09/06/2025, 16:00",Pool B,Cancelled
-Garden State Ultimate,Rumspringa,0,0,"09/13/2025, 10:45",Pool B,Scheduled
+Garden State Ultimate,Rumspringa,13,11,"09/13/2025, 10:45",Pool B,Final
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,Championship
+Philadelphia Pacmen,Rumspringa,0,0,"09/13/2025, 12:30",Semis,Scheduled
+Garden State Ultimate,EZ,0,0,"09/13/2025, 12:30",Semis,Scheduled
 bracket,3rd Place
 bracket,4th Place
+Rebels,CITYWIDE Special,0,0,"09/13/2025, 14:15",4th Semis,Scheduled
+Rebels,New Jersey Gemini,13,7,"09/13/2025, 12:30",4th Quarters,Final
 bracket,6th Place (Optional)
 b,r,e,a,k
