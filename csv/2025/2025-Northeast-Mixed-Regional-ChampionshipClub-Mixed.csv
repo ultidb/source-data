@@ -413,35 +413,6 @@ teamInfo,,"Burlington, Vermont",,,
 79,Keziah Wilde
 99,Nora Jacobsen
 b,r,e,a,k
-Quahogs,15
-teamInfo,,"Providence, Rhode Island",,,
-0,Joshua Remington
-00,Kim Soto
-00,Lucia Paul
-00,Marc Gleason
-00,Matthew Pacenka
-00,Miranda Kramer
-00,Nick Love
-00,Paul Warmington
-00,Pierre-Yves Lavertu
-00,Riley Tuttle
-00,Samantha Bertherman
-00,Sarah Heavren
-00,Xiulie  Perry
-00,Aaron Wida
-00,Aidan Campolettano
-00,Allison Pereira
-00,Angelica Mirandou
-00,Anna Carr
-00,Brandon DiGiulio
-00,Catarina Braz-Rocha
-00,Courtney Cooke
-00,Delaney Whitaker
-00,Elizabeth Perry
-00,Eric Hurd
-00,Garrett Bowen
-03,Jeremy Maltz
-b,r,e,a,k
 Darkwing,5
 teamInfo,,"Mansfield, Massachusetts",http://www.darkwingultimate.com,,https://twitter.com/Darkwing_Mixed
 0,Adrian Staples
@@ -471,6 +442,35 @@ teamInfo,,"Mansfield, Massachusetts",http://www.darkwingultimate.com,,https://tw
 87,Prosser Friedman
 99,Kunzang Namgyal
 b,r,e,a,k
+Quahogs,15
+teamInfo,,"Providence, Rhode Island",,,
+0,Joshua Remington
+00,Kim Soto
+00,Lucia Paul
+00,Marc Gleason
+00,Matthew Pacenka
+00,Miranda Kramer
+00,Nick Love
+00,Paul Warmington
+00,Pierre-Yves Lavertu
+00,Riley Tuttle
+00,Samantha Bertherman
+00,Sarah Heavren
+00,Xiulie  Perry
+00,Aaron Wida
+00,Aidan Campolettano
+00,Allison Pereira
+00,Angelica Mirandou
+00,Anna Carr
+00,Brandon DiGiulio
+00,Catarina Braz-Rocha
+00,Courtney Cooke
+00,Delaney Whitaker
+00,Elizabeth Perry
+00,Eric Hurd
+00,Garrett Bowen
+03,Jeremy Maltz
+b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
@@ -482,7 +482,7 @@ pool,Pool B
 Slow,Funk,13,3,"09/20/2025, 09:00",Pool B,Final
 The Buoy Association,Townies,11,13,"09/20/2025, 09:00",Pool B,Final
 Slow,Townies,13,6,"09/20/2025, 10:45",Pool B,Final
-The Buoy Association,Funk,0,0,"09/20/2025, 10:45",Pool B,Scheduled
+The Buoy Association,Funk,12,11,"09/20/2025, 10:45",Pool B,Final
 pool,Pool C
 Sprocket,Young and the Restless,13,6,"09/20/2025, 09:00",Pool C,Final
 Grand Army,Garbage Plates,9,13,"09/20/2025, 09:00",Pool C,Final
@@ -492,9 +492,13 @@ pool,Pool D
 Wild Card,Quahogs,13,7,"09/20/2025, 09:00",Pool D,Final
 Darkwing,Zero Strategy,6,13,"09/20/2025, 09:00",Pool D,Final
 Wild Card,Zero Strategy,13,11,"09/20/2025, 10:45",Pool D,Final
-Darkwing,Quahogs,13,9,"09/20/2025, 10:45",Pool D,Scheduled
+Darkwing,Quahogs,13,9,"09/20/2025, 10:45",Pool D,Final
 b,r,e,a,k
 clusters,The Crossovers
+cluster,Crossovers
+Slow,Wild Card,0,0,"09/20/2025, 13:00",,Scheduled
+Zero Strategy,The Buoy Association,0,0,"09/20/2025, 13:00",,Scheduled
+Townies,Darkwing,0,0,"09/20/2025, 13:00",,Scheduled
 b,r,e,a,k
 brackets,Bracket Time
 bracket,Championship
@@ -506,4 +510,7 @@ bracket,11th
 b,r,e,a,k
 pools,Consolation
 pool,Pool E
+Funk,Quahogs,0,0,"09/20/2025, 15:00",Pool E,Scheduled
+Bench,Quahogs,0,0,"09/21/2025, 09:00",Pool E,Scheduled
+Bench,Funk,0,0,"09/21/2025, 11:00",Pool E,Scheduled
 b,r,e,a,k

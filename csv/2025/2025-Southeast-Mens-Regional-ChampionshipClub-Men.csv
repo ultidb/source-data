@@ -288,35 +288,6 @@ teamInfo,,"Charlotte, North Carolina",,,
 81,Dylan Lipps
 88,Samuel Dunlap
 b,r,e,a,k
-Little Red Wagon,6
-teamInfo,,"Atlanta, Georgia",,,
-coaches,Frederic Perivier
-0,Alex Liu
-0,Andrew Chung
-0,Caleb Myatt
-0,Jackson Knox
-0,Jacques Perivier
-0,Ethan Niedzwiedz
-0,José  Caetano
-0,Kolbie Carrell
-2,Grover Grendzinski
-3,Matthew Knowles
-5,David Baker
-5,Ethan Austin-Cruse
-7,Christopher Zuo
-10,Adam Burgess
-10,Mikey Curtis
-17,Nicholas Huffman
-18,Patrick Ufer
-20,Bryce Jackson
-33,Devon Rogers
-39,Jarrett Swanson
-42,Jon Fey
-69,Garrett Anderson
-72,Rylan Gordon
-81,Joseph Burns
-87,Trenton Spinks
-b,r,e,a,k
 Gang Of Disc,16
 teamInfo,,"New Orleans, Louisiana",,,
 0,Daniel Veneracion
@@ -346,34 +317,34 @@ teamInfo,,"New Orleans, Louisiana",,,
 76,Matthew Burris
 77,Destin Tate
 b,r,e,a,k
-Florida Untied,4
-teamInfo,,"Ocala, Florida",https://www.instagram.com/untiedultimate?igsh=MWVmYTJtcDJ2YjB4cQ==,,https://twitter.com/UntiedUltimate
-01,Brendan Keith
-02,William OBryan
-03,Ricardo DeLeon
-04,August Specht
-05,Justin Montalbano
-06,Daniel McNamara
-07,Ryan Hiser
-08,Jaime Perez
-09,Clayton Partlow
-10,Michael Arbutine
-12,Bradley  Paul
-13,Bhagya Patel
-15,Dustin Travaglini
-18,Jacob Gaines
-19,Bodie Cole
-20,Joshua Webb
-24,Stephen Krajeski
-25,Unmil Patel
-26,Scott Sakow
-28,Ryan Thomas
-29,Andy Chiang
-32,Jonathan Holladay
-53,Wazan Hoshino
-55,Moses Jaffa
-85,Cody Coates
-91,Garrett Knobel
+Little Red Wagon,6
+teamInfo,,"Atlanta, Georgia",,,
+coaches,Frederic Perivier
+0,Alex Liu
+0,Andrew Chung
+0,Caleb Myatt
+0,Jackson Knox
+0,Jacques Perivier
+0,Ethan Niedzwiedz
+0,José  Caetano
+0,Kolbie Carrell
+2,Grover Grendzinski
+3,Matthew Knowles
+5,David Baker
+5,Ethan Austin-Cruse
+7,Christopher Zuo
+10,Adam Burgess
+10,Mikey Curtis
+17,Nicholas Huffman
+18,Patrick Ufer
+20,Bryce Jackson
+33,Devon Rogers
+39,Jarrett Swanson
+42,Jon Fey
+69,Garrett Anderson
+72,Rylan Gordon
+81,Joseph Burns
+87,Trenton Spinks
 b,r,e,a,k
 Alliance,5
 teamInfo,,"Alabama, Alabama",,,
@@ -403,6 +374,35 @@ teamInfo,,"Alabama, Alabama",,,
 71,Justin Weaver
 83,Ryan Landry
 89,Joshua Reed
+b,r,e,a,k
+Florida Untied,4
+teamInfo,,"Ocala, Florida",https://www.instagram.com/untiedultimate?igsh=MWVmYTJtcDJ2YjB4cQ==,,https://twitter.com/UntiedUltimate
+01,Brendan Keith
+02,William OBryan
+03,Ricardo DeLeon
+04,August Specht
+05,Justin Montalbano
+06,Daniel McNamara
+07,Ryan Hiser
+08,Jaime Perez
+09,Clayton Partlow
+10,Michael Arbutine
+12,Bradley  Paul
+13,Bhagya Patel
+15,Dustin Travaglini
+18,Jacob Gaines
+19,Bodie Cole
+20,Joshua Webb
+24,Stephen Krajeski
+25,Unmil Patel
+26,Scott Sakow
+28,Ryan Thomas
+29,Andy Chiang
+32,Jonathan Holladay
+53,Wazan Hoshino
+55,Moses Jaffa
+85,Cody Coates
+91,Garrett Knobel
 b,r,e,a,k
 Atlanta Arson,10
 teamInfo,,"Atlanta, Georgia",,,https://twitter.com/atlantaarson
@@ -478,14 +478,23 @@ pool,Pool C
 Raleigh-Durham United,Gang Of Disc,13,6,"09/20/2025, 09:00",Pool C,Final
 Little Red Wagon,baNC,12,13,"09/20/2025, 09:00",Pool C,Final
 Raleigh-Durham United,baNC,13,8,"09/20/2025, 11:00",Pool C,Final
-Little Red Wagon,Gang Of Disc,0,0,"09/20/2025, 11:00",Pool C,Scheduled
+Little Red Wagon,Gang Of Disc,12,13,"09/20/2025, 11:00",Pool C,Final
 pool,Pool D
-Florida Untied,Psychedelic,13,5,"09/20/2025, 09:00",Pool D,Scheduled
-Alliance,Atlanta Arson,13,8,"09/20/2025, 09:00",Pool D,Scheduled
-Florida Untied,Alliance,6,7,"09/20/2025, 11:00",Pool D,In Progress
-Atlanta Arson,Psychedelic,0,0,"09/20/2025, 11:00",Pool D,Scheduled
+Florida Untied,Psychedelic,13,5,"09/20/2025, 09:00",Pool D,Final
+Alliance,Atlanta Arson,13,8,"09/20/2025, 09:00",Pool D,Final
+Florida Untied,Alliance,9,10,"09/20/2025, 11:00",Pool D,Final
+Atlanta Arson,Psychedelic,13,10,"09/20/2025, 11:00",Pool D,Final
 b,r,e,a,k
 clusters,Saturday Crossovers
+cluster,Pool Crossovers
+Chain Lightning,Raleigh-Durham United,0,0,"09/20/2025, 13:00",,Scheduled
+Ring of Fire,Alliance,0,0,"09/20/2025, 13:00",,Scheduled
+Triumph,Gang Of Disc,0,0,"09/20/2025, 13:00",,Scheduled
+Tanasi,Atlanta Arson,0,0,"09/20/2025, 13:00",,Scheduled
+baNC,Elysium,0,0,"09/20/2025, 13:00",,Scheduled
+Florida Untied,Lost Boys,0,0,"09/20/2025, 13:00",,Scheduled
+El Niño,Little Red Wagon,0,0,"09/20/2025, 13:00",,Scheduled
+WOMP,Psychedelic,0,0,"09/20/2025, 13:00",,Scheduled
 b,r,e,a,k
 brackets,Brackets
 bracket,Championship
