@@ -440,22 +440,22 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Clipped Pools
 pool,Pool A
-Chicago Machine,Shift,0,0,"09/20/2025, 09:00",Pool A,Scheduled
-Colonels,Black Lung,5,3,"09/20/2025, 09:00",Pool A,In Progress
+Chicago Machine,Shift,8,0,"09/20/2025, 09:00",Pool A,In Progress
+Colonels,Black Lung,5,4,"09/20/2025, 09:00",Pool A,In Progress
 Chicago Machine,Black Lung,0,0,"09/20/2025, 11:00",Pool A,Scheduled
 Colonels,Shift,0,0,"09/20/2025, 11:00",Pool A,Scheduled
 Chicago Machine,Colonels,0,0,"09/20/2025, 11:00",Pool A,Scheduled
 Black Lung,Shift,0,0,"09/20/2025, 11:00",Pool A,Scheduled
 pool,Pool C
-I-69,Roundhouse,0,0,"09/20/2025, 09:00",Pool C,Scheduled
-Haymaker,Chimney,0,0,"09/20/2025, 09:00",Pool C,Scheduled
+I-69,Roundhouse,6,1,"09/20/2025, 09:00",Pool C,In Progress
+Haymaker,Chimney,5,3,"09/20/2025, 09:00",Pool C,In Progress
 I-69,Chimney,0,0,"09/20/2025, 11:00",Pool C,Scheduled
 Haymaker,Roundhouse,0,0,"09/20/2025, 11:00",Pool C,Scheduled
 I-69,Haymaker,0,0,"09/20/2025, 11:00",Pool C,Scheduled
 Chimney,Roundhouse,0,0,"09/20/2025, 11:00",Pool C,Scheduled
 pool,Pool D
-Flying Dutchmen,Mischief,6,2,"09/20/2025, 09:00",Pool D,In Progress
-Houndd,Endgame,4,2,"09/20/2025, 09:00",Pool D,In Progress
+Flying Dutchmen,Mischief,8,2,"09/20/2025, 09:00",Pool D,In Progress
+Houndd,Endgame,7,4,"09/20/2025, 09:00",Pool D,In Progress
 Flying Dutchmen,Endgame,0,0,"09/20/2025, 11:00",Pool D,Scheduled
 Houndd,Mischief,0,0,"09/20/2025, 11:00",Pool D,Scheduled
 Flying Dutchmen,Houndd,0,0,"09/20/2025, 11:00",Pool D,Scheduled
@@ -463,7 +463,7 @@ Endgame,Mischief,0,0,"09/20/2025, 11:00",Pool D,Scheduled
 b,r,e,a,k
 pools,Pool B
 pool,Pool B
-GOAT,Trident,0,0,"09/20/2025, 09:00",Pool B,Scheduled
+GOAT,Trident,5,4,"09/20/2025, 09:00",Pool B,In Progress
 GOAT,ELDL,0,0,"09/20/2025, 11:00",Pool B,Scheduled
 ELDL,Trident,0,0,"09/20/2025, 13:00",Pool B,Scheduled
 b,r,e,a,k
