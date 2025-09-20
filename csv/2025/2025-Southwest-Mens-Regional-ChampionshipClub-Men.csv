@@ -31,6 +31,34 @@ coaches,Molica Anderson,Adrian King
 88,Byron Liu
 94,Jason  Vallee
 b,r,e,a,k
+SoCal Condors,2
+teamInfo,,"Calico, California",,https://www.facebook.com/SantaBarbaraCondors,https://twitter.com/CondorsUltimate
+coaches,Jonathan Helton,Kevin Stuart
+0,Callum Sambridge
+0,George Robert Halvorsen Jr.
+0,Isamu Kawaguchi
+0,Jeff Silverman
+0,Jonathan McGurrin
+0,Kenrick Koo
+0,Kobi McCracken
+0,Max Combs
+0,Rhys Gretsch
+0,Ricky Brokaw
+0,Ryan Carmichael
+0,Shun Iwata
+0,Tomas Fong
+0,Tynan Sander
+2,Matt Miller
+5,Bryce Lozinski
+9,Dodger Middlebrook
+11,Steven Olson
+14,Keaton Viadro
+14,William Turner
+19,Clark Wang
+25,Marshall Wildmann
+69,Max Gibson
+99,Max de Visser
+b,r,e,a,k
 Nighthawk,4
 teamInfo,,"Phoenix, Arizona",,,
 00,Andrew Kohl
@@ -88,34 +116,6 @@ teamInfo,,"Santa Cruz, California",,,
 71,Aidan Curry
 72,Sam Jo
 75,Bodie Shargel
-b,r,e,a,k
-SoCal Condors,2
-teamInfo,,"Calico, California",,https://www.facebook.com/SantaBarbaraCondors,https://twitter.com/CondorsUltimate
-coaches,Jonathan Helton,Kevin Stuart
-0,Callum Sambridge
-0,George Robert Halvorsen Jr.
-0,Isamu Kawaguchi
-0,Jeff Silverman
-0,Jonathan McGurrin
-0,Kenrick Koo
-0,Kobi McCracken
-0,Max Combs
-0,Rhys Gretsch
-0,Ricky Brokaw
-0,Ryan Carmichael
-0,Shun Iwata
-0,Tomas Fong
-0,Tynan Sander
-2,Matt Miller
-5,Bryce Lozinski
-9,Dodger Middlebrook
-11,Steven Olson
-14,Keaton Viadro
-14,William Turner
-19,Clark Wang
-25,Marshall Wildmann
-69,Max Gibson
-99,Max de Visser
 b,r,e,a,k
 Zyzzyva,9
 teamInfo,,"Berkeley, California",,https://instagram.com/berkeleyzyzzyva,https://twitter.com/BerkeleyZyzzyva
@@ -455,8 +455,9 @@ b,r,e,a,k
 s,t,a,g,e,s
 brackets,Bracket Play
 bracket,Championship Bracket
+Revolver,SoCal Condors,0,0,"09/21/2025, 10:00",Final,Scheduled
 Revolver,Nighthawk,15,3,"09/20/2025, 14:30",Semifinals,Final
-Wavestorms,SoCal Condors,0,0,"09/20/2025, 14:30",Semifinals,Scheduled
+Wavestorms,SoCal Condors,9,14,"09/20/2025, 14:30",Semifinals,Final
 Revolver,Zyzzyva,15,2,"09/20/2025, 10:00",Quarterfinals,Final
 OAT,Nighthawk,10,11,"09/20/2025, 10:00",Quarterfinals,Final
 Hazard,Wavestorms,11,13,"09/20/2025, 10:00",Quarterfinals,Final
@@ -470,8 +471,9 @@ OC Crows,Wavestorms,10,14,"09/20/2025, 08:00",First Round,Final
 Skipjack,Battery,15,5,"09/20/2025, 08:00",First Round,Final
 Tempe Tantrum,SoCal Condors,4,15,"09/20/2025, 08:00",First Round,Final
 bracket,Second Place Bracket
+OAT,Wavestorms,0,0,"09/21/2025, 08:00",Second Place Quarterfinals,Scheduled
 Skipjack,Hazard,8,5,"09/20/2025, 14:30",Second Place Round 3,In Progress
-OAT,Zyzzyva,0,0,"09/20/2025, 14:30",Second Place Round 3,Scheduled
+OAT,Zyzzyva,15,9,"09/20/2025, 14:30",Second Place Round 3,Final
 Skipjack,Swordfish,12,10,"09/20/2025, 12:30",Second Place Round 2,Final
 Hazard,Drought,11,7,"09/20/2025, 12:30",Second Place Round 2,Final
 OAT,OC Crows,15,11,"09/20/2025, 12:30",Second Place Round 2,Final
