@@ -482,12 +482,12 @@ pool,Pool B
 Slow,Funk,13,3,"09/20/2025, 09:00",Pool B,Final
 The Buoy Association,Townies,11,13,"09/20/2025, 09:00",Pool B,Final
 Slow,Townies,13,6,"09/20/2025, 10:45",Pool B,Final
-The Buoy Association,Funk,12,11,"09/20/2025, 10:45",Pool B,Final
+The Buoy Association,Funk,12,11,"09/20/2025, 10:45",Pool B,Scheduled
 pool,Pool C
 Sprocket,Young and the Restless,13,6,"09/20/2025, 09:00",Pool C,Final
 Grand Army,Garbage Plates,9,13,"09/20/2025, 09:00",Pool C,Final
 Sprocket,Garbage Plates,13,6,"09/20/2025, 10:45",Pool C,Final
-Grand Army,Young and the Restless,0,0,"09/20/2025, 10:45",Pool C,Scheduled
+Grand Army,Young and the Restless,13,9,"09/20/2025, 10:45",Pool C,Final
 pool,Pool D
 Wild Card,Quahogs,13,7,"09/20/2025, 09:00",Pool D,Final
 Darkwing,Zero Strategy,6,13,"09/20/2025, 09:00",Pool D,Final
@@ -496,9 +496,9 @@ Darkwing,Quahogs,13,9,"09/20/2025, 10:45",Pool D,Final
 b,r,e,a,k
 clusters,The Crossovers
 cluster,Crossovers
-Slow,Wild Card,0,0,"09/20/2025, 13:00",,Scheduled
-Zero Strategy,The Buoy Association,0,0,"09/20/2025, 13:00",,Scheduled
-Townies,Darkwing,0,0,"09/20/2025, 13:00",,Scheduled
+XIST,Sprocket,0,0,"09/20/2025, 13:00",,Scheduled
+Garbage Plates,Big Rig,0,0,"09/20/2025, 13:00",,Scheduled
+Obscure,Grand Army,0,0,"09/20/2025, 13:00",,Scheduled
 b,r,e,a,k
 brackets,Bracket Time
 bracket,Championship
@@ -510,7 +510,7 @@ bracket,11th
 b,r,e,a,k
 pools,Consolation
 pool,Pool E
-Funk,Quahogs,0,0,"09/20/2025, 15:00",Pool E,Scheduled
+Bench,Young and the Restless,0,0,"09/20/2025, 15:00",Pool E,Scheduled
 Bench,Quahogs,0,0,"09/21/2025, 09:00",Pool E,Scheduled
-Bench,Funk,0,0,"09/21/2025, 11:00",Pool E,Scheduled
+Young and the Restless,Quahogs,0,0,"09/21/2025, 11:00",Pool E,Scheduled
 b,r,e,a,k

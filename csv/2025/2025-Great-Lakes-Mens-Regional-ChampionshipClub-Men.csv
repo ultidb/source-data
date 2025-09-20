@@ -234,35 +234,6 @@ teamInfo,,"Chicago, Illinois",,,
 24,Anthony Scibelli
 74,Anthony Ruzzo
 b,r,e,a,k
-Houndd,5
-teamInfo,,"Durham Region, Ontario CA",,,
-0,Holden Watson
-0,Jackson McKee
-0,James Gough
-0,Jason Lin
-0,Joseph  Hill
-0,Joshua Turner
-0,Justin Cheung
-0,Justin Luo
-0,Kaleb Schakelaar
-0,Kevin Chao
-0,Aujin Li
-0,Blake Harriott
-0,Christopher Chan
-0,Curtis Campbell
-0,Logan Dufour
-0,Matthew Lam
-0,Max Tolmachev
-0,Max Squires
-0,Oliver Porter
-0,Rui Carvalho
-0,Travis Puckrin
-0,Will Turner
-3,Kevin Shen
-12,Rowan Jamieson
-47,Spencer Dillon
-83,Garrett Jung
-b,r,e,a,k
 Flying Dutchmen,4
 teamInfo,,"Columbus, Ohio",,,
 2,Sion Agami Contreras
@@ -291,6 +262,35 @@ teamInfo,,"Columbus, Ohio",,,
 96,Aaron Lott
 99,Alex Warrington
 99,Joshua Venegas
+b,r,e,a,k
+Houndd,5
+teamInfo,,"Durham Region, Ontario CA",,,
+0,Holden Watson
+0,Jackson McKee
+0,James Gough
+0,Jason Lin
+0,Joseph  Hill
+0,Joshua Turner
+0,Justin Cheung
+0,Justin Luo
+0,Kaleb Schakelaar
+0,Kevin Chao
+0,Aujin Li
+0,Blake Harriott
+0,Christopher Chan
+0,Curtis Campbell
+0,Logan Dufour
+0,Matthew Lam
+0,Max Tolmachev
+0,Max Squires
+0,Oliver Porter
+0,Rui Carvalho
+0,Travis Puckrin
+0,Will Turner
+3,Kevin Shen
+12,Rowan Jamieson
+47,Spencer Dillon
+83,Garrett Jung
 b,r,e,a,k
 Endgame,11
 teamInfo,,"Cincinnati, Ohio",,,
@@ -443,16 +443,16 @@ pool,Pool A
 Chicago Machine,Shift,15,1,"09/20/2025, 09:00",Pool A,Final
 Colonels,Black Lung,15,13,"09/20/2025, 09:00",Pool A,Final
 Chicago Machine,Colonels,15,6,"09/20/2025, 11:00",Pool A,Final
-Black Lung,Shift,13,7,"09/20/2025, 11:00",Pool A,In Progress
+Black Lung,Shift,15,8,"09/20/2025, 11:00",Pool A,Final
 pool,Pool C
 I-69,Roundhouse,15,5,"09/20/2025, 09:00",Pool C,Final
 Haymaker,Chimney,15,7,"09/20/2025, 09:00",Pool C,Final
-I-69,Haymaker,12,12,"09/20/2025, 11:00",Pool C,In Progress
+I-69,Haymaker,12,13,"09/20/2025, 11:00",Pool C,Final
 Chimney,Roundhouse,15,7,"09/20/2025, 11:00",Pool C,Final
 pool,Pool D
 Flying Dutchmen,Mischief,15,4,"09/20/2025, 09:00",Pool D,Final
 Houndd,Endgame,15,14,"09/20/2025, 09:00",Pool D,Final
-Flying Dutchmen,Houndd,14,14,"09/20/2025, 11:00",Pool D,In Progress
+Flying Dutchmen,Houndd,15,14,"09/20/2025, 11:00",Pool D,Final
 Endgame,Mischief,15,8,"09/20/2025, 11:00",Pool D,Final
 b,r,e,a,k
 pools,Pool B
@@ -463,7 +463,10 @@ ELDL,Trident,0,0,"09/20/2025, 13:00",Pool B,Scheduled
 b,r,e,a,k
 brackets,Brackets
 bracket,1st Place
+Chicago Machine,Flying Dutchmen,0,0,"09/20/2025, 15:00",Semi Finals,Scheduled
 bracket,2nd Place
+I-69,Endgame,0,0,"09/20/2025, 15:00",2nd - 1st Round,Scheduled
+Chimney,Houndd,0,0,"09/20/2025, 15:00",2nd - 1st Round,Scheduled
 bracket,5th Place
 bracket,7th Place
 bracket,9th Place
