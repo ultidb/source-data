@@ -118,6 +118,64 @@ teamInfo,,"Phoenix, Arizona",,,
 89,Adam Whitton
 99,Martin Mason
 b,r,e,a,k
+Hazard,3
+teamInfo,,"Los Angeles, California",https://www.instagram.com/hazardultimate/,,
+00,Josiah Gamble
+01,Andrew Shen
+02,Liam Bestian
+04,Lukmanafis Babajide
+06,Royce Grundy
+07,Andrew Padula
+09,Thomas Anderson
+11,Cy Toriello
+13,James Ivey
+15,Clayton Entrekin
+16,David Gardiner
+19,Garrett Yung
+20,Adam Paicely
+23,Kevin Sparacino
+24,Mateo Dominguez
+25,Francesco Russo
+31,Ethan Falat
+33,Tucker Lemos
+43,Kevin Goldberg
+44,Remy Smith
+52,Billy Si
+63,Victor Zhivich
+77,Hudson Stuck
+87,Ryan Trinh
+88,Jason Paul
+93,Andrew Laeuger
+b,r,e,a,k
+Wavestorms,6
+teamInfo,,"Santa Cruz, California",,,
+0,Colin Baylis
+0,Jackson Waite-Himmelwright
+0,Joseph Donovan
+0,Nathaniel Goodwin
+0,Nirel Barthelom
+0,Noah Chang-Linenberg
+0,Raymond Mendoza
+0,Ryan Weng
+0,Son Mai-Clark
+0,Thomas McCrone
+7,Lincoln Grench
+9,Dylan Burns
+9,Ben McAuliffe
+12,Bailey Prochaska
+12,Davin Sieu
+16,Xavier Prochaska
+19,Jackson Friday
+22,Cullen Keefe
+22,Ethan McLaughlin
+24,Ronan Mai
+29,Caleb Mok
+42,Benjamin Pratt
+45,Tyler Weng
+71,Aidan Curry
+72,Sam Jo
+75,Bodie Shargel
+b,r,e,a,k
 Skipjack,7
 teamInfo,,"San Diego, California",,https://www.facebook.com/sdstreetgang,https://twitter.com/SDskipjack
 0,Brendan McGuinness
@@ -285,35 +343,6 @@ teamInfo,,"San Luis Obispo, California",,,https://x.com/SLO_UFA
 72,Carson Crouch
 77,Curtis Kinz
 b,r,e,a,k
-Hazard,3
-teamInfo,,"Los Angeles, California",https://www.instagram.com/hazardultimate/,,
-00,Josiah Gamble
-01,Andrew Shen
-02,Liam Bestian
-04,Lukmanafis Babajide
-06,Royce Grundy
-07,Andrew Padula
-09,Thomas Anderson
-11,Cy Toriello
-13,James Ivey
-15,Clayton Entrekin
-16,David Gardiner
-19,Garrett Yung
-20,Adam Paicely
-23,Kevin Sparacino
-24,Mateo Dominguez
-25,Francesco Russo
-31,Ethan Falat
-33,Tucker Lemos
-43,Kevin Goldberg
-44,Remy Smith
-52,Billy Si
-63,Victor Zhivich
-77,Hudson Stuck
-87,Ryan Trinh
-88,Jason Paul
-93,Andrew Laeuger
-b,r,e,a,k
 Sonoran Dog,14
 teamInfo,,"Tucson, Arizona",,,
 0,Benjamin Hutchens
@@ -364,35 +393,6 @@ teamInfo,,"Irvine, California",https://www.instagram.com/crowsultimate/,,
 24,Kevin Tien
 42,Mark Slader
 49,Zibi Braniecki
-b,r,e,a,k
-Wavestorms,6
-teamInfo,,"Santa Cruz, California",,,
-0,Colin Baylis
-0,Jackson Waite-Himmelwright
-0,Joseph Donovan
-0,Nathaniel Goodwin
-0,Nirel Barthelom
-0,Noah Chang-Linenberg
-0,Raymond Mendoza
-0,Ryan Weng
-0,Son Mai-Clark
-0,Thomas McCrone
-7,Lincoln Grench
-9,Dylan Burns
-9,Ben McAuliffe
-12,Bailey Prochaska
-12,Davin Sieu
-16,Xavier Prochaska
-19,Jackson Friday
-22,Cullen Keefe
-22,Ethan McLaughlin
-24,Ronan Mai
-29,Caleb Mok
-42,Benjamin Pratt
-45,Tyler Weng
-71,Aidan Curry
-72,Sam Jo
-75,Bodie Shargel
 b,r,e,a,k
 Battery,10
 teamInfo,,"San Francisco, California",,https://www.facebook.com/batteryultimate/,https://twitter.com/SF_Battery
@@ -457,18 +457,20 @@ brackets,Bracket Play
 bracket,Championship Bracket
 Revolver,Zyzzyva,0,0,"09/20/2025, 10:00",Quarterfinals,Scheduled
 OAT,Nighthawk,0,0,"09/20/2025, 10:00",Quarterfinals,Scheduled
+Hazard,Wavestorms,0,0,"09/20/2025, 10:00",Quarterfinals,Scheduled
 Skipjack,SoCal Condors,0,0,"09/20/2025, 10:00",Quarterfinals,Scheduled
 Revolver,Monsoon,15,1,"09/20/2025, 08:00",First Round,Final
 Zyzzyva,Swordfish,13,12,"09/20/2025, 08:00",First Round,Final
 OAT,Drought,15,12,"09/20/2025, 08:00",First Round,Final
 Unrestricted Free Agents,Nighthawk,10,15,"09/20/2025, 08:00",First Round,Final
 Hazard,Sonoran Dog,15,4,"09/20/2025, 08:00",First Round,Final
-OC Crows,Wavestorms,0,0,"09/20/2025, 08:00",First Round,Scheduled
+OC Crows,Wavestorms,10,14,"09/20/2025, 08:00",First Round,Final
 Skipjack,Battery,15,5,"09/20/2025, 08:00",First Round,Final
 Tempe Tantrum,SoCal Condors,4,15,"09/20/2025, 08:00",First Round,Final
 bracket,Second Place Bracket
 Monsoon,Swordfish,0,0,"09/20/2025, 10:00",Second Place Round 1,Scheduled
 Drought,Unrestricted Free Agents,0,0,"09/20/2025, 10:00",Second Place Round 1,Scheduled
+Sonoran Dog,OC Crows,0,0,"09/20/2025, 10:00",Second Place Round 1,Scheduled
 Battery,Tempe Tantrum,0,0,"09/20/2025, 10:00",Second Place Round 1,Scheduled
 bracket,Fifth Place Bracket
 bracket,Seventh Place Bracket
