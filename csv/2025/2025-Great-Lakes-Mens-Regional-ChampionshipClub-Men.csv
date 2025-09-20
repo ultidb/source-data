@@ -441,7 +441,7 @@ s,t,a,g,e,s
 pools,Clipped Pools
 pool,Pool A
 Chicago Machine,Shift,0,0,"09/20/2025, 09:00",Pool A,Scheduled
-Colonels,Black Lung,0,0,"09/20/2025, 09:00",Pool A,Scheduled
+Colonels,Black Lung,5,3,"09/20/2025, 09:00",Pool A,In Progress
 Chicago Machine,Black Lung,0,0,"09/20/2025, 11:00",Pool A,Scheduled
 Colonels,Shift,0,0,"09/20/2025, 11:00",Pool A,Scheduled
 Chicago Machine,Colonels,0,0,"09/20/2025, 11:00",Pool A,Scheduled
@@ -454,8 +454,8 @@ Haymaker,Roundhouse,0,0,"09/20/2025, 11:00",Pool C,Scheduled
 I-69,Haymaker,0,0,"09/20/2025, 11:00",Pool C,Scheduled
 Chimney,Roundhouse,0,0,"09/20/2025, 11:00",Pool C,Scheduled
 pool,Pool D
-Flying Dutchmen,Mischief,0,0,"09/20/2025, 09:00",Pool D,Scheduled
-Houndd,Endgame,0,0,"09/20/2025, 09:00",Pool D,Scheduled
+Flying Dutchmen,Mischief,6,2,"09/20/2025, 09:00",Pool D,In Progress
+Houndd,Endgame,4,2,"09/20/2025, 09:00",Pool D,In Progress
 Flying Dutchmen,Endgame,0,0,"09/20/2025, 11:00",Pool D,Scheduled
 Houndd,Mischief,0,0,"09/20/2025, 11:00",Pool D,Scheduled
 Flying Dutchmen,Houndd,0,0,"09/20/2025, 11:00",Pool D,Scheduled
