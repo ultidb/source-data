@@ -31,6 +31,36 @@ coaches,Timmy Perston,Leo Micklem
 53,Eli Friedman
 72,Aaron Kaplan
 b,r,e,a,k
+Sockeye,2
+teamInfo,,"Seattle, Washington",instagram.com/seattlesockeye,https://www.facebook.com/SeattleSockeye/,https://twitter.com/SeattleSockeye/
+coaches,Craig Harkey
+0,Asher Lantz
+0,Assaf Golan
+0,Ben Snell
+0,Brice Dixon
+0,Carter Bayer
+0,Cedar Hines
+0,Daniel Chen
+0,Dongyang Chen
+0,Geoffrey Tucker Kalmus
+0,Max Ramstad
+0,Ocean Hines
+0,Parker Howard
+0,Shane Worthington
+0,Stanley Birdsong
+3,Mitch  Kulczak
+5,Elijah Diamond
+6,Ryan Shigley
+8,Max Gade
+12,Garrett Martin
+15,Derek Mourad
+16,Trent Dillon
+22,Declan Miller
+38,Manuel Eckert
+53,Jonny Malks
+73,Chackgarin Brown
+91,Troy Holland
+b,r,e,a,k
 Shrimp,4
 teamInfo,,"Salt Lake, Utah",,https://www.instagram.com/slcshrimpulti/,https://twitter.com/saltlakeshrimp
 coaches,Alex Walker
@@ -90,36 +120,6 @@ coaches,Matthew Berezan,Alexander Bellemare-Davis,Jacky Hau
 89,Kevin Underhill
 98,Quinn Snider
 99,Vincent Bulloch
-b,r,e,a,k
-Sockeye,2
-teamInfo,,"Seattle, Washington",instagram.com/seattlesockeye,https://www.facebook.com/SeattleSockeye/,https://twitter.com/SeattleSockeye/
-coaches,Craig Harkey
-0,Asher Lantz
-0,Assaf Golan
-0,Ben Snell
-0,Brice Dixon
-0,Carter Bayer
-0,Cedar Hines
-0,Daniel Chen
-0,Dongyang Chen
-0,Geoffrey Tucker Kalmus
-0,Max Ramstad
-0,Ocean Hines
-0,Parker Howard
-0,Shane Worthington
-0,Stanley Birdsong
-3,Mitch  Kulczak
-5,Elijah Diamond
-6,Ryan Shigley
-8,Max Gade
-12,Garrett Martin
-15,Derek Mourad
-16,Trent Dillon
-22,Declan Miller
-38,Manuel Eckert
-53,Jonny Malks
-73,Chackgarin Brown
-91,Troy Holland
 b,r,e,a,k
 Portland TremOR,8
 teamInfo,,"Portland, Oregon",,,
@@ -461,8 +461,9 @@ b,r,e,a,k
 s,t,a,g,e,s
 brackets,1st Place
 bracket,1st Place
+Rhino,Sockeye,0,0,"09/21/2025, 11:00",1st Place,Scheduled
 Rhino,Shrimp,15,7,"09/20/2025, 15:00",Semis,Final
-Furious George,Sockeye,0,0,"09/20/2025, 15:00",Semis,Scheduled
+Furious George,Sockeye,7,15,"09/20/2025, 15:00",Semis,Final
 Rhino,Portland TremOR,15,8,"09/20/2025, 11:00",Quarters,Final
 Dark Star,Shrimp,11,15,"09/20/2025, 11:00",Quarters,Final
 Furious George,SOUF,15,5,"09/20/2025, 11:00",Quarters,Final
@@ -479,8 +480,9 @@ b,r,e,a,k
 brackets,2nd Place
 bracket,2nd Place
 Shrimp,AFC Rumble,0,0,"09/21/2025, 09:00",Round 4,Scheduled
+Dark Star,Furious George,0,0,"09/21/2025, 09:00",Round 4,Scheduled
 Cache Valley High Ground,AFC Rumble,11,15,"09/20/2025, 15:00",Round 3,Final
-Dark Star,Switchback,0,0,"09/20/2025, 15:00",Round 3,Scheduled
+Dark Star,Switchback,15,10,"09/20/2025, 15:00",Round 3,Final
 Cache Valley High Ground,Lil’ Huckers,15,9,"09/20/2025, 13:00",Round 2,Final
 AFC Rumble,SOUF,15,11,"09/20/2025, 13:00",Round 2,Final
 Sawtooth,Dark Star,7,15,"09/20/2025, 13:00",Round 2,Final
@@ -500,6 +502,7 @@ bracket,5th Place
 b,r,e,a,k
 brackets,7th Place
 bracket,7th Place
+Cache Valley High Ground,Switchback,0,0,"09/21/2025, 11:00",7th Place,Scheduled
 b,r,e,a,k
 brackets,9th-12th Place
 bracket,9th-12th Place
