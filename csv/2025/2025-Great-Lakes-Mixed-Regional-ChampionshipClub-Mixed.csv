@@ -31,35 +31,6 @@ coaches,Michael Dagher-Margosian
 77,Katrina McGuire
 88,Mark Whitton
 b,r,e,a,k
-Queen City Gambit,8
-teamInfo,,"Cincinnati, Ohio",,,
-0,Aaron Ho
-0,Aislinn DeSieghardt
-0,Camilo Barrera
-0,Cori LaMere
-0,Kimberly Cooper
-0,Maddie Clark
-0,Mallory Clark
-0,Ryan Hummel
-0,Travis Lynch
-0,Wesley  Sexton
-3,Connor Shirley
-4,Sam Moushey
-9,Jake Blue
-14,Adele McCune
-18,Adam Tardio
-18,Lydia Riddell
-19,Nate Montgomery
-20,Dave Richmond
-21,Morgan Novean
-25,Josh Keyser
-25,Nick Siegert
-27,Jacob Royster
-32,Lexi Yearout
-37,Grace Heldwein
-63,Katherine Fry
-80,Jason Haehl
-b,r,e,a,k
 Nothing's Great Again (aka Babymaker),12
 teamInfo,aka Babymaker,"Chicago, Illinois",,,@NOTHINGuc
 0,Amy Burna
@@ -88,6 +59,35 @@ teamInfo,aka Babymaker,"Chicago, Illinois",,,@NOTHINGuc
 54,Andrew Delorenzo
 80,Valentina Shiel (Ngai)
 95,Maggie Lindsley
+b,r,e,a,k
+Queen City Gambit,8
+teamInfo,,"Cincinnati, Ohio",,,
+0,Aaron Ho
+0,Aislinn DeSieghardt
+0,Camilo Barrera
+0,Cori LaMere
+0,Kimberly Cooper
+0,Maddie Clark
+0,Mallory Clark
+0,Ryan Hummel
+0,Travis Lynch
+0,Wesley  Sexton
+3,Connor Shirley
+4,Sam Moushey
+9,Jake Blue
+14,Adele McCune
+18,Adam Tardio
+18,Lydia Riddell
+19,Nate Montgomery
+20,Dave Richmond
+21,Morgan Novean
+25,Josh Keyser
+25,Nick Siegert
+27,Jacob Royster
+32,Lexi Yearout
+37,Grace Heldwein
+63,Katherine Fry
+80,Jason Haehl
 b,r,e,a,k
 Lightning,13
 teamInfo,,"Lexington, Kentucky",,,https://x.com/LightningUlti?t=iCn2aTeaSMvxoy8xR_o3SA&s=09
@@ -291,34 +291,6 @@ teamInfo,,"Champaign, Illinois",www.prionultimate.com,,
 47,Artemis Andsager
 69,Eric Badger
 b,r,e,a,k
-Indiana Pterodactyl Attack (IPA),15
-teamInfo,IPA,"Clarksville, Indiana",,https://www.facebook.com/IPA.Ultimate/,
-0,Christopher Reynolds
-0,Elizabeth Schaaf
-0,Emery Jonas
-0,Jessica Neal
-0,Joel Norfleet
-0,Manuel Urquilla
-0,Nathan Stippler
-0,Jack Dellinger
-0,Rachel Huster
-0,Rebecca Dyer
-1,Nick Galbreath
-2,Nathan Huster
-05,Brandon Jerrell
-12,Abby Jerrell
-14,Wyatt Edwards
-17,Atticus  Baumgartle 
-18,Isaac Baumgartle
-26,Indigo Jonas
-44,Greyden Jonas
-44,Trenton Schroeder
-70,Anthony Johnson
-72,Ava Moseley
-75,Colter Jonas
-77,Jade Jonas
-88,Caleb Combs
-b,r,e,a,k
 Skyhawks,10
 teamInfo,,"South Bend, Indiana",,https://www.facebook.com/Skyhawks-427022961197953/,@SkyhawksUlti
 0,Anjali Pant
@@ -347,6 +319,34 @@ teamInfo,,"South Bend, Indiana",,https://www.facebook.com/Skyhawks-4270229611979
 42,Sean McGuinness
 47,Bradley Vaal
 90,Jory Cole
+b,r,e,a,k
+Indiana Pterodactyl Attack (IPA),15
+teamInfo,IPA,"Clarksville, Indiana",,https://www.facebook.com/IPA.Ultimate/,
+0,Christopher Reynolds
+0,Elizabeth Schaaf
+0,Emery Jonas
+0,Jessica Neal
+0,Joel Norfleet
+0,Manuel Urquilla
+0,Nathan Stippler
+0,Jack Dellinger
+0,Rachel Huster
+0,Rebecca Dyer
+1,Nick Galbreath
+2,Nathan Huster
+05,Brandon Jerrell
+12,Abby Jerrell
+14,Wyatt Edwards
+17,Atticus  Baumgartle 
+18,Isaac Baumgartle
+26,Indigo Jonas
+44,Greyden Jonas
+44,Trenton Schroeder
+70,Anthony Johnson
+72,Ava Moseley
+75,Colter Jonas
+77,Jade Jonas
+88,Caleb Combs
 b,r,e,a,k
 Chicago Parlay,4
 teamInfo,,"Chicago, Illinois",https://www.notion.so/parlay-ultimate/Parlay-Ultimate-2025-96484c11d649494e9142e1933b28fce2,https://www.instagram.com/parlayultimate/,https://twitter.com/ParlayUltimate
@@ -471,8 +471,8 @@ Hybrid,Nothing's Great Again (aka Babymaker),15,4,"09/20/2025, 09:00",Pool A,Fin
 Queen City Gambit,Lightning,15,12,"09/20/2025, 09:00",Pool A,Final
 Hybrid,Lightning,15,3,"09/20/2025, 11:00",Pool A,Final
 Queen City Gambit,Nothing's Great Again (aka Babymaker),10,8,"09/20/2025, 11:00",Pool A,In Progress
-Hybrid,Queen City Gambit,7,0,"09/20/2025, 13:00",Pool A,In Progress
-Nothing's Great Again (aka Babymaker),Lightning,4,4,"09/20/2025, 13:00",Pool A,In Progress
+Hybrid,Queen City Gambit,15,1,"09/20/2025, 13:00",Pool A,Final
+Nothing's Great Again (aka Babymaker),Lightning,14,12,"09/20/2025, 13:00",Pool A,Final
 pool,Pool B
 UNION,Spectre,15,8,"09/20/2025, 09:00",Pool B,Final
 Toast!,Trex Mix,14,15,"09/20/2025, 09:00",Pool B,Final
@@ -486,17 +486,19 @@ Prion,Indiana Pterodactyl Attack (IPA),14,10,"09/20/2025, 09:00",Pool C,Final
 Steamboat,Indiana Pterodactyl Attack (IPA),15,6,"09/20/2025, 11:00",Pool C,Final
 Prion,Skyhawks,15,8,"09/20/2025, 11:00",Pool C,Final
 Steamboat,Prion,15,8,"09/20/2025, 13:00",Pool C,Final
-Skyhawks,Indiana Pterodactyl Attack (IPA),12,11,"09/20/2025, 13:00",Pool C,In Progress
+Skyhawks,Indiana Pterodactyl Attack (IPA),13,12,"09/20/2025, 13:00",Pool C,Final
 pool,Pool D
 Chicago Parlay,Twist,15,9,"09/20/2025, 09:00",Pool D,Final
 RAMP,Melonheads,15,6,"09/20/2025, 09:00",Pool D,Final
 Chicago Parlay,Melonheads,15,3,"09/20/2025, 11:00",Pool D,Final
 RAMP,Twist,11,12,"09/20/2025, 11:00",Pool D,Final
-Chicago Parlay,RAMP,12,9,"09/20/2025, 13:00",Pool D,In Progress
+Chicago Parlay,RAMP,15,11,"09/20/2025, 13:00",Pool D,Final
 Twist,Melonheads,15,6,"09/20/2025, 13:00",Pool D,Final
 b,r,e,a,k
 brackets,Championship
 bracket,Championship
+Spectre,Skyhawks,0,0,"09/20/2025, 15:00",1st Pre Quarters,Scheduled
+Prion,Toast!,0,0,"09/20/2025, 15:00",1st Pre Quarters,Scheduled
 b,r,e,a,k
 brackets,Placement
 bracket,3rd Place

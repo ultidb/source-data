@@ -31,6 +31,92 @@ coaches,Molica Anderson,Adrian King
 88,Byron Liu
 94,Jason  Vallee
 b,r,e,a,k
+Nighthawk,4
+teamInfo,,"Phoenix, Arizona",,,
+00,Andrew Kohl
+01,Dylan Irwin
+02,Micah Gross
+05,Brandon Watabe
+06,Tucker Olson
+07,Jake Hageman
+08,Elijah Salmon
+09,Jake Paulson
+10,Brayden Beeman
+11,Shane Davidson
+13,Walker Johnson
+18,Leonardo Echeverria
+19,Joshua Walsh
+23,Ryan Williams
+25,Jake Thomason
+30,Steven Akerson
+33,Mario Verdugo
+34,Nathan Paauw
+42,Cael Kubly
+45,Rudy Jimenez
+51,Nathan Page
+67,Ezekiel Taylor
+77,Christian Saralegui
+81,Caden Sigerud
+89,Adam Whitton
+99,Martin Mason
+b,r,e,a,k
+Wavestorms,6
+teamInfo,,"Santa Cruz, California",,,
+0,Colin Baylis
+0,Jackson Waite-Himmelwright
+0,Joseph Donovan
+0,Nathaniel Goodwin
+0,Nirel Barthelom
+0,Noah Chang-Linenberg
+0,Raymond Mendoza
+0,Ryan Weng
+0,Son Mai-Clark
+0,Thomas McCrone
+7,Lincoln Grench
+9,Dylan Burns
+9,Ben McAuliffe
+12,Bailey Prochaska
+12,Davin Sieu
+16,Xavier Prochaska
+19,Jackson Friday
+22,Cullen Keefe
+22,Ethan McLaughlin
+24,Ronan Mai
+29,Caleb Mok
+42,Benjamin Pratt
+45,Tyler Weng
+71,Aidan Curry
+72,Sam Jo
+75,Bodie Shargel
+b,r,e,a,k
+SoCal Condors,2
+teamInfo,,"Calico, California",,https://www.facebook.com/SantaBarbaraCondors,https://twitter.com/CondorsUltimate
+coaches,Jonathan Helton,Kevin Stuart
+0,Callum Sambridge
+0,George Robert Halvorsen Jr.
+0,Isamu Kawaguchi
+0,Jeff Silverman
+0,Jonathan McGurrin
+0,Kenrick Koo
+0,Kobi McCracken
+0,Max Combs
+0,Rhys Gretsch
+0,Ricky Brokaw
+0,Ryan Carmichael
+0,Shun Iwata
+0,Tomas Fong
+0,Tynan Sander
+2,Matt Miller
+5,Bryce Lozinski
+9,Dodger Middlebrook
+11,Steven Olson
+14,Keaton Viadro
+14,William Turner
+19,Clark Wang
+25,Marshall Wildmann
+69,Max Gibson
+99,Max de Visser
+b,r,e,a,k
 Zyzzyva,9
 teamInfo,,"Berkeley, California",,https://instagram.com/berkeleyzyzzyva,https://twitter.com/BerkeleyZyzzyva
 0,Jonas Kra-Caskey
@@ -89,35 +175,6 @@ teamInfo,,"East Bay , California",,instagram.com/OatUltimate,
 42,Alvin Feng
 98,Wyatt Berreman
 b,r,e,a,k
-Nighthawk,4
-teamInfo,,"Phoenix, Arizona",,,
-00,Andrew Kohl
-01,Dylan Irwin
-02,Micah Gross
-05,Brandon Watabe
-06,Tucker Olson
-07,Jake Hageman
-08,Elijah Salmon
-09,Jake Paulson
-10,Brayden Beeman
-11,Shane Davidson
-13,Walker Johnson
-18,Leonardo Echeverria
-19,Joshua Walsh
-23,Ryan Williams
-25,Jake Thomason
-30,Steven Akerson
-33,Mario Verdugo
-34,Nathan Paauw
-42,Cael Kubly
-45,Rudy Jimenez
-51,Nathan Page
-67,Ezekiel Taylor
-77,Christian Saralegui
-81,Caden Sigerud
-89,Adam Whitton
-99,Martin Mason
-b,r,e,a,k
 Hazard,3
 teamInfo,,"Los Angeles, California",https://www.instagram.com/hazardultimate/,,
 00,Josiah Gamble
@@ -147,35 +204,6 @@ teamInfo,,"Los Angeles, California",https://www.instagram.com/hazardultimate/,,
 88,Jason Paul
 93,Andrew Laeuger
 b,r,e,a,k
-Wavestorms,6
-teamInfo,,"Santa Cruz, California",,,
-0,Colin Baylis
-0,Jackson Waite-Himmelwright
-0,Joseph Donovan
-0,Nathaniel Goodwin
-0,Nirel Barthelom
-0,Noah Chang-Linenberg
-0,Raymond Mendoza
-0,Ryan Weng
-0,Son Mai-Clark
-0,Thomas McCrone
-7,Lincoln Grench
-9,Dylan Burns
-9,Ben McAuliffe
-12,Bailey Prochaska
-12,Davin Sieu
-16,Xavier Prochaska
-19,Jackson Friday
-22,Cullen Keefe
-22,Ethan McLaughlin
-24,Ronan Mai
-29,Caleb Mok
-42,Benjamin Pratt
-45,Tyler Weng
-71,Aidan Curry
-72,Sam Jo
-75,Bodie Shargel
-b,r,e,a,k
 Skipjack,7
 teamInfo,,"San Diego, California",,https://www.facebook.com/sdstreetgang,https://twitter.com/SDskipjack
 0,Brendan McGuinness
@@ -203,34 +231,6 @@ teamInfo,,"San Diego, California",,https://www.facebook.com/sdstreetgang,https:/
 91,Nico Nonemaker
 99,Steven Brooks
 99,Brandon Yee
-b,r,e,a,k
-SoCal Condors,2
-teamInfo,,"Calico, California",,https://www.facebook.com/SantaBarbaraCondors,https://twitter.com/CondorsUltimate
-coaches,Jonathan Helton,Kevin Stuart
-0,Callum Sambridge
-0,George Robert Halvorsen Jr.
-0,Isamu Kawaguchi
-0,Jeff Silverman
-0,Jonathan McGurrin
-0,Kenrick Koo
-0,Kobi McCracken
-0,Max Combs
-0,Rhys Gretsch
-0,Ricky Brokaw
-0,Ryan Carmichael
-0,Shun Iwata
-0,Tomas Fong
-0,Tynan Sander
-2,Matt Miller
-5,Bryce Lozinski
-9,Dodger Middlebrook
-11,Steven Olson
-14,Keaton Viadro
-14,William Turner
-19,Clark Wang
-25,Marshall Wildmann
-69,Max Gibson
-99,Max de Visser
 b,r,e,a,k
 Monsoon,16
 teamInfo,,"Phoenix, Arizona",,,
@@ -455,9 +455,11 @@ b,r,e,a,k
 s,t,a,g,e,s
 brackets,Bracket Play
 bracket,Championship Bracket
+Revolver,Nighthawk,0,0,"09/20/2025, 14:30",Semifinals,Scheduled
+Wavestorms,SoCal Condors,0,0,"09/20/2025, 14:30",Semifinals,Scheduled
 Revolver,Zyzzyva,15,2,"09/20/2025, 10:00",Quarterfinals,Final
-OAT,Nighthawk,0,0,"09/20/2025, 10:00",Quarterfinals,Scheduled
-Hazard,Wavestorms,0,0,"09/20/2025, 10:00",Quarterfinals,Scheduled
+OAT,Nighthawk,10,11,"09/20/2025, 10:00",Quarterfinals,Final
+Hazard,Wavestorms,11,13,"09/20/2025, 10:00",Quarterfinals,Final
 Skipjack,SoCal Condors,8,15,"09/20/2025, 10:00",Quarterfinals,Final
 Revolver,Monsoon,15,1,"09/20/2025, 08:00",First Round,Final
 Zyzzyva,Swordfish,13,12,"09/20/2025, 08:00",First Round,Final
@@ -468,7 +470,9 @@ OC Crows,Wavestorms,10,14,"09/20/2025, 08:00",First Round,Final
 Skipjack,Battery,15,5,"09/20/2025, 08:00",First Round,Final
 Tempe Tantrum,SoCal Condors,4,15,"09/20/2025, 08:00",First Round,Final
 bracket,Second Place Bracket
-Monsoon,Swordfish,0,0,"09/20/2025, 10:00",Second Place Round 1,Scheduled
+Skipjack,Swordfish,0,0,"09/20/2025, 12:30",Second Place Round 2,Scheduled
+OAT,OC Crows,0,0,"09/20/2025, 12:30",Second Place Round 2,Scheduled
+Monsoon,Swordfish,8,15,"09/20/2025, 10:00",Second Place Round 1,Final
 Drought,Unrestricted Free Agents,0,0,"09/20/2025, 10:00",Second Place Round 1,Scheduled
 Sonoran Dog,OC Crows,12,15,"09/20/2025, 10:00",Second Place Round 1,Final
 Battery,Tempe Tantrum,0,0,"09/20/2025, 10:00",Second Place Round 1,Scheduled
@@ -479,4 +483,5 @@ bracket,Eleventh Place Bracket
 b,r,e,a,k
 pools,Consolation Pool Play
 pool,Thirteenth Place Pool
+Sonoran Dog,Monsoon,0,0,"09/21/2025, 08:30",Thirteenth Place Pool,Scheduled
 b,r,e,a,k
