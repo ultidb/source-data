@@ -60,35 +60,6 @@ teamInfo,,"Madison, Wisconsin",,,
 96,Andrew Taber
 99,Emma Cosby
 b,r,e,a,k
-Frostbite,13
-teamInfo,,"Milwaukee, Wisconsin",https://linktr.ee/frostbiteult,https://www.facebook.com/FrostbiteUlt/,https://twitter.com/FrostbiteUlt
-0,Joseph Blankenheim
-02,Oliver Rytman
-03,Carly Serketich
-04,Jason Moens
-05,Andrew Sheehan
-07,Jared Peyer
-08,Charlette Peyer
-09,Hayes Barry
-10,Elle Smith
-11,Alix Raymond
-13,Taylor Jacobsen
-14,Jeff Schubert
-15,Aubrey Motherwell
-16,Claire Lo
-18,Belle Vining
-22,Alicia Sprecher
-27,Kensington Naze
-28,Kristin Pelzel
-30,Tyler Ignatowski
-31,Lauren Gilmartin
-34,Grant Wagner
-42,Daniel Burss
-82,Peter Kuenzle
-83,Noah Katz
-85,Lilliana Ruggini
-99,Riley Johnson
-b,r,e,a,k
 ConSTLation,12
 teamInfo,,"St. Louis, Missouri",https://www.instagram.com/constlationultimate/,,
 0,Ian Soderlund
@@ -117,6 +88,35 @@ teamInfo,,"St. Louis, Missouri",https://www.instagram.com/constlationultimate/,,
 44,Nathan Gibbons
 54,David Storey
 73,Dustin Tierney
+b,r,e,a,k
+Frostbite,13
+teamInfo,,"Milwaukee, Wisconsin",https://linktr.ee/frostbiteult,https://www.facebook.com/FrostbiteUlt/,https://twitter.com/FrostbiteUlt
+0,Joseph Blankenheim
+02,Oliver Rytman
+03,Carly Serketich
+04,Jason Moens
+05,Andrew Sheehan
+07,Jared Peyer
+08,Charlette Peyer
+09,Hayes Barry
+10,Elle Smith
+11,Alix Raymond
+13,Taylor Jacobsen
+14,Jeff Schubert
+15,Aubrey Motherwell
+16,Claire Lo
+18,Belle Vining
+22,Alicia Sprecher
+27,Kensington Naze
+28,Kristin Pelzel
+30,Tyler Ignatowski
+31,Lauren Gilmartin
+34,Grant Wagner
+42,Daniel Burss
+82,Peter Kuenzle
+83,Noah Katz
+85,Lilliana Ruggini
+99,Riley Johnson
 b,r,e,a,k
 Northern Comfort,7
 teamInfo,,"Milwaukee, Wisconsin",,https://www.facebook.com/northerncomfortultimate/,https://www.twitter.com/nocoultimate
@@ -291,34 +291,6 @@ teamInfo,,"Minneapolis/ St. Paul, Minnesota",http://minnesotastarpower.weebly.co
 72,Meg Lake
 97,Steven Anderson
 b,r,e,a,k
-Pushovers,10
-teamInfo,,"Lake Elmo, Minnesota",,,
-0,Alexander Kucich
-0,Tom Hobday
-1,Derek Anderson
-2,Sydney Mier
-3,Carly Rasmussen
-4,Hannah Hackenmueller
-7,Michael Scharlau
-8,Lilly Mendoza
-8,Erin Marshall
-9,Kendra Anderson
-10,Kyra Anderson
-12,Joseph Ling
-24,Anna Benishek
-29,Russell Smith
-31,Ross Screaton
-33,Erick Knudson
-37,Elizabeth Curtiss
-42,Sam Baker
-43,Nathan Wang
-57,Christopher O'Mara
-62,Marcus Cannon
-78,Sophia Vaccaro
-86,Josie Fenske
-95,Eric Volkmeier
-95,Charlotte Gingo
-b,r,e,a,k
 Boomtown Pandas,15
 teamInfo,,"Madison, Wisconsin",,https://www.facebook.com/BoomtownPandas/,https://twitter.com/boomtownpandas
 0,Anna  Goforth
@@ -347,6 +319,34 @@ teamInfo,,"Madison, Wisconsin",,https://www.facebook.com/BoomtownPandas/,https:/
 52,Harsh Zaver
 53,Thomas Hotvedt
 94,Derek Weisberg
+b,r,e,a,k
+Pushovers,10
+teamInfo,,"Lake Elmo, Minnesota",,,
+0,Alexander Kucich
+0,Tom Hobday
+1,Derek Anderson
+2,Sydney Mier
+3,Carly Rasmussen
+4,Hannah Hackenmueller
+7,Michael Scharlau
+8,Lilly Mendoza
+8,Erin Marshall
+9,Kendra Anderson
+10,Kyra Anderson
+12,Joseph Ling
+24,Anna Benishek
+29,Russell Smith
+31,Ross Screaton
+33,Erick Knudson
+37,Elizabeth Curtiss
+42,Sam Baker
+43,Nathan Wang
+57,Christopher O'Mara
+62,Marcus Cannon
+78,Sophia Vaccaro
+86,Josie Fenske
+95,Eric Volkmeier
+95,Charlotte Gingo
 b,r,e,a,k
 Fatal Attraction,5
 teamInfo,,"Omaha, Nebraska",,,
@@ -467,7 +467,7 @@ pools,Pool Play
 pool,Pool A
 Drag'n Thrust,ConSTLation,13,4,"09/20/2025, 08:30",Pool A,Final
 Madison United Mixed Ultimate,Frostbite,13,9,"09/20/2025, 08:30",Pool A,Final
-Drag'n Thrust,Frostbite,0,0,"09/20/2025, 10:15",Pool A,Scheduled
+Drag'n Thrust,Frostbite,13,3,"09/20/2025, 10:15",Pool A,Final
 Madison United Mixed Ultimate,ConSTLation,0,0,"09/20/2025, 10:15",Pool A,Scheduled
 Drag'n Thrust,Madison United Mixed Ultimate,0,0,"09/20/2025, 12:00",Pool A,Scheduled
 ConSTLation,Frostbite,0,0,"09/20/2025, 12:00",Pool A,Scheduled
@@ -482,7 +482,7 @@ pool,Pool C
 Minnesota Star Power,Pushovers,13,9,"09/20/2025, 08:30",Pool C,Final
 Good Company,Boomtown Pandas,13,5,"09/20/2025, 08:30",Pool C,Final
 Minnesota Star Power,Boomtown Pandas,0,0,"09/20/2025, 10:15",Pool C,Scheduled
-Good Company,Pushovers,0,0,"09/20/2025, 10:15",Pool C,Scheduled
+Good Company,Pushovers,13,6,"09/20/2025, 10:15",Pool C,Final
 Minnesota Star Power,Good Company,0,0,"09/20/2025, 12:00",Pool C,Scheduled
 Pushovers,Boomtown Pandas,0,0,"09/20/2025, 12:00",Pool C,Scheduled
 pool,Pool D
