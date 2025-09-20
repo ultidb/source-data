@@ -31,6 +31,35 @@ coaches,Geoff Horsfield,David Maniloff,Layne Scherer
 90,Sydney Rehder
 99,Alan Kolick
 b,r,e,a,k
+AMP,2
+teamInfo,,"Philadelphia, Pennsylvania",http://www.phillyamp.com,https://www.facebook.com/PhillyAMP,https://www.twitter.com/phillyamp
+0,Chris Zaleski
+01,Robert Roos
+02,Ryan Cornelius
+03,Rachel Alfano
+05,Lindsay McKenna
+06,Thomas Nye
+09,Erica Collin
+10,Neena Kashyap
+11,Leo Warren
+15,Marta Lynch
+18,Emily Shields
+21,Linda Morse
+23,Allan Michel
+24,Danielle Walsh
+25,Sabrina Bonaci
+27,Luke Greenley
+33,Will Zamsky
+34,Olivia Steinberg
+45,Zoe Costanza
+66,Nolan McCloskey
+70,Jake Butrica
+73,Katie Stack
+73,Chelsea Semper
+91,Ethan Sarles
+98,David Snead
+99,Eric Nardelli
+b,r,e,a,k
 Anthem,4
 teamInfo,,"Baltimore, Maryland",,https://www.facebook.com/profile.php?id=100090895539227&mibextid=LQQJ4d,https://twitter.com/AnthemUltimate/status/1617652961299279872?s=20&t=gFOPhZpWzglqQWxTQUxcTA
 0,Alexis Faccone
@@ -59,6 +88,35 @@ teamInfo,,"Baltimore, Maryland",,https://www.facebook.com/profile.php?id=1000908
 33,Isabella Wahl
 42,Tanner Lee Gesell
 73,Mark Flores
+b,r,e,a,k
+Spice,11
+teamInfo,,"Charlottesville, Virginia",,,https://twitter.com/SpiceUltimateVA
+0,Anarae howe-flint
+0,Andrew Kennedy
+0,Brian Walter
+0,Chloe Schueman
+0,Christopher Messmore
+0,Elisabeth Doty
+0,Emma Colavincenzo
+0,Jaxon Boudreau
+0,LeeAnn Dempsey
+0,Lynn Mandeltort
+0,Malia Gardner
+0,Matthew Callen
+0,Olivia Bearman
+0,Parham Ghassemi
+0,Phillip Johnson
+0,Ray Varner
+0,Josh Rosenberg
+0,Ryann Boudreau
+0,Sabrina Combs
+0,Tristan Shafer
+3,Franklin Ahrens
+5,Rita Feder
+7,Joseph Terrana
+25,Katelyn Birchfield
+40,Dyon Vega
+47,Rhiannon Begley
 b,r,e,a,k
 Cupcakes,9
 teamInfo,,"Philadelphia, Pennsylvania",https://www.instagram.com/cupcakesulti/,,
@@ -144,35 +202,6 @@ teamInfo,,"Pittsburgh, Pennsylvania",https://tinyurl.com/xteamvalues,,https://tw
 32,Shani Rosenthal
 84,Nicholas Blair
 b,r,e,a,k
-Spice,11
-teamInfo,,"Charlottesville, Virginia",,,https://twitter.com/SpiceUltimateVA
-0,Anarae howe-flint
-0,Andrew Kennedy
-0,Brian Walter
-0,Chloe Schueman
-0,Christopher Messmore
-0,Elisabeth Doty
-0,Emma Colavincenzo
-0,Jaxon Boudreau
-0,LeeAnn Dempsey
-0,Lynn Mandeltort
-0,Malia Gardner
-0,Matthew Callen
-0,Olivia Bearman
-0,Parham Ghassemi
-0,Phillip Johnson
-0,Ray Varner
-0,Josh Rosenberg
-0,Ryann Boudreau
-0,Sabrina Combs
-0,Tristan Shafer
-3,Franklin Ahrens
-5,Rita Feder
-7,Joseph Terrana
-25,Katelyn Birchfield
-40,Dyon Vega
-47,Rhiannon Begley
-b,r,e,a,k
 HVAC,10
 teamInfo,,"Washington DC, District of Columbia",,https://www.facebook.com/hvacultimate,https://twitter.com/hvacultimate
 0,Ayla Volante
@@ -201,35 +230,6 @@ teamInfo,,"Washington DC, District of Columbia",,https://www.facebook.com/hvacul
 27,Nora Wagner
 28,Kyle Duffy
 29,David Leibert
-b,r,e,a,k
-AMP,2
-teamInfo,,"Philadelphia, Pennsylvania",http://www.phillyamp.com,https://www.facebook.com/PhillyAMP,https://www.twitter.com/phillyamp
-0,Chris Zaleski
-01,Robert Roos
-02,Ryan Cornelius
-03,Rachel Alfano
-05,Lindsay McKenna
-06,Thomas Nye
-09,Erica Collin
-10,Neena Kashyap
-11,Leo Warren
-15,Marta Lynch
-18,Emily Shields
-21,Linda Morse
-23,Allan Michel
-24,Danielle Walsh
-25,Sabrina Bonaci
-27,Luke Greenley
-33,Will Zamsky
-34,Olivia Steinberg
-45,Zoe Costanza
-66,Nolan McCloskey
-70,Jake Butrica
-73,Katie Stack
-73,Chelsea Semper
-91,Ethan Sarles
-98,David Snead
-99,Eric Nardelli
 b,r,e,a,k
 Philly Twist,16
 teamInfo,,"Philadelphia, Pennsylvania",,https://www.facebook.com/TwistUltimate/,https://twitter.com/philly_twist
@@ -459,10 +459,12 @@ b,r,e,a,k
 s,t,a,g,e,s
 brackets,1st-12th Brackets
 bracket,1st Place
+Rally,AMP,0,0,"09/21/2025, 12:00",Finals,Scheduled
 Rally,Anthem,13,12,"09/20/2025, 14:45",Semis,Final
+Spice,AMP,6,13,"09/20/2025, 14:45",Semis,Final
 Rally,Cupcakes,13,6,"09/20/2025, 13:00",Quarters,Final
 Revival,Anthem,11,12,"09/20/2025, 13:00",Quarters,Final
-Pittsburgh Port Authority,Spice,10,13,"09/20/2025, 13:00",Quarters,Scheduled
+Pittsburgh Port Authority,Spice,10,13,"09/20/2025, 13:00",Quarters,Final
 HVAC,AMP,2,13,"09/20/2025, 13:00",Quarters,Final
 Rally,Philly Twist,13,2,"09/20/2025, 11:15",1st Round,Final
 Delabear,Cupcakes,9,13,"09/20/2025, 11:15",1st Round,Final
@@ -473,20 +475,26 @@ Spice,Fireball,12,9,"09/20/2025, 09:30",1st Round,Final
 Jumbo Slice,HVAC,10,13,"09/20/2025, 09:30",1st Round,Final
 Axolotls,AMP,4,13,"09/20/2025, 09:30",1st Round,Final
 bracket,2nd Place
-HVAC,Delabear,0,0,"09/20/2025, 14:45",2nd - Second Round,Scheduled
-Revival,Fireball,0,0,"09/20/2025, 14:45",2nd - Second Round,Scheduled
+HVAC,Delabear,12,11,"09/20/2025, 14:45",2nd - Second Round,Final
+Pittsburgh Port Authority,Jughandle,0,6,"09/20/2025, 14:45",2nd - Second Round,Final
+Revival,Fireball,13,12,"09/20/2025, 14:45",2nd - Second Round,Final
+Cupcakes,Jumbo Slice,13,9,"09/20/2025, 14:45",2nd - Second Round,Final
 Philly Twist,Delabear,8,13,"09/20/2025, 13:00",2nd - First Round,Final
 Jughandle,Farm Show,13,8,"09/20/2025, 13:00",2nd - First Round,Final
 Skooks,Fireball,6,13,"09/20/2025, 13:00",2nd - First Round,Final
-Jumbo Slice,Axolotls,10,7,"09/20/2025, 13:00",2nd - First Round,Scheduled
+Jumbo Slice,Axolotls,10,7,"09/20/2025, 13:00",2nd - First Round,Final
 bracket,5th Place
 bracket,7th Place
 bracket,9th Place
+Delabear,Jughandle,0,0,"09/21/2025, 10:00",9th Semis,Scheduled
 bracket,11th Place
 b,r,e,a,k
 pools,13th-16th Consolation Pool
 pool,Pool A
+Skooks,Axolotls,0,0,"09/20/2025, 16:30",Pool A,Scheduled
 Farm Show,Philly Twist,0,0,"09/20/2025, 16:30",Pool A,Scheduled
 Skooks,Philly Twist,0,0,"09/21/2025, 10:00",Pool A,Scheduled
+Farm Show,Axolotls,0,0,"09/21/2025, 10:00",Pool A,Scheduled
 Skooks,Farm Show,0,0,"09/21/2025, 12:00",Pool A,Scheduled
+Axolotls,Philly Twist,0,0,"09/21/2025, 12:00",Pool A,Scheduled
 b,r,e,a,k
