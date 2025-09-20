@@ -339,7 +339,7 @@ Scandal,Virginia Rebellion,13,1,"09/20/2025, 13:00",Pool A,Final
 pool,Pool B
 Parcha,Dissent,13,0,"09/20/2025, 09:30",Pool B,Final
 Zephyr,Dissent,10,1,"09/20/2025, 11:15",Pool B,Final
-Parcha,Zephyr,0,0,"09/20/2025, 13:00",Pool B,Scheduled
+Parcha,Zephyr,11,7,"09/20/2025, 13:00",Pool B,Final
 pool,Pool C
 Grit,Pine Baroness,13,1,"09/20/2025, 09:30",Pool C,Final
 Wave,Pine Baroness,11,10,"09/20/2025, 11:15",Pool C,Final
@@ -350,6 +350,10 @@ Agency,Incline,12,6,"09/20/2025, 11:15",Pool D,Final
 Flight,Agency,13,6,"09/20/2025, 13:00",Pool D,Final
 b,r,e,a,k
 clusters,Crossovers
+cluster,Crossovers
+Parcha,Flight,0,0,"09/20/2025, 14:45",,Scheduled
+Agency,Dissent,0,0,"09/20/2025, 14:45",,Scheduled
+Zephyr,Incline,0,0,"09/20/2025, 14:45",,Scheduled
 b,r,e,a,k
 brackets,Brackets
 bracket,1st Place
