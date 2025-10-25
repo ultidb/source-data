@@ -252,34 +252,6 @@ coaches,Michael Aderhold,Kathleen Ratcliff,Carlos Lopez
 66,Jackie Wang
 81,Sumi Onoe
 b,r,e,a,k
-Phoenix,7
-teamInfo,,"Raleigh, North Carolina",http://phoenixultimate.com,https://www.facebook.com/PhxUltimate,https://twitter.com/PhxUltimate
-coaches,David Allison,Jack McCleary
-0,Allison Reilly
-01,Lindsay Soo
-02,Claudia Dare
-03,Emily Przykucki
-06,Qing (Jenny) Wei
-07,Caroline Spencer
-08,Mary Rippe
-10,Alyssa Ehrhardt
-11,Dawn Culton
-13,Naomi Anderson
-14,Lyla Stanland
-17,Karen Ehrhardt
-18,Sarah McKee
-19,Sydney Kelley
-20,Bridget Mizener
-21,Theresa Yu
-23,Nicole Patterson
-25,Ellen Yu
-34,Alexandra Barnett
-38,Jessica Wu
-43,Claire Hackl
-44,Sarah Meckstroth
-48,Natalie Baumgarten
-99,Macy Hudson
-b,r,e,a,k
 Molly Brown,9
 teamInfo,,"Denver/Boulder, Colorado",http://www.mollybrownultimate.com/,https://www.facebook.com/MollyBrownTown,https://twitter.com/MollyBrownTown
 coaches,Bob Krier
@@ -308,6 +280,34 @@ coaches,Bob Krier
 73,Faye Burdick
 88,Veronica Eder
 b,r,e,a,k
+Phoenix,7
+teamInfo,,"Raleigh, North Carolina",http://phoenixultimate.com,https://www.facebook.com/PhxUltimate,https://twitter.com/PhxUltimate
+coaches,David Allison,Jack McCleary
+0,Allison Reilly
+01,Lindsay Soo
+02,Claudia Dare
+03,Emily Przykucki
+06,Qing (Jenny) Wei
+07,Caroline Spencer
+08,Mary Rippe
+10,Alyssa Ehrhardt
+11,Dawn Culton
+13,Naomi Anderson
+14,Lyla Stanland
+17,Karen Ehrhardt
+18,Sarah McKee
+19,Sydney Kelley
+20,Bridget Mizener
+21,Theresa Yu
+23,Nicole Patterson
+25,Ellen Yu
+34,Alexandra Barnett
+38,Jessica Wu
+43,Claire Hackl
+44,Sarah Meckstroth
+48,Natalie Baumgarten
+99,Macy Hudson
+b,r,e,a,k
 Heist,16
 teamInfo,,"Madison, Wisconsin",http://heistultimate.com/,https://www.facebook.com/heistultimate,https://twitter.com/HeistUltimate
 coaches,Georgia Shriwise,Aman Ahuja
@@ -335,36 +335,6 @@ coaches,Georgia Shriwise,Aman Ahuja
 52,Erynn Schroeder
 84,Sara Stuedemann
 97,Eileen Bequette
-b,r,e,a,k
-Seattle Riot,4
-teamInfo,,"Seattle, Washington",http://seattleriot.org/,https://www.facebook.com/SeattleRiot,https://twitter.com/SeattleRiot
-coaches,Alyssa Weatherford
-0,Ikran Elmi
-01,Chloe Hakimi
-02,Alexa Yadama
-03,Hana Kawai
-04,Sharon Tsao
-05,Lauren Goddu
-06,Ella Widmyer
-07,Taylor Hartman
-08,Rachel Bradshaw
-09,Emily Decker
-10,Shira Stern
-12,Nora Landri
-14,Stephanie Phillips
-15,Nora Luloff
-18,Yeh-Sun Lee
-19,Josie Gillett
-20,Savanna Tucker
-24,Jamie Eriksson
-25,Margaret Manning
-27,Julia Snyder
-31,Anna Pettee
-32,Lauren Page
-34,Kate Lanier
-43,Carly Campana
-44,Abbie Abramovich
-81,Lani Nguyen
 b,r,e,a,k
 BENT,6
 teamInfo,,"New York, New York",https://www.instagram.com/bentstagram_/,https://www.facebook.com/bentultimate,https://www.twitter.com/BentUltimateNYC
@@ -395,6 +365,36 @@ coaches,Seth Reinhardt,Dmitry Suvorov
 83,Zoe Hecht
 93,Chris Nelson
 99,Cassie Brown
+b,r,e,a,k
+Seattle Riot,4
+teamInfo,,"Seattle, Washington",http://seattleriot.org/,https://www.facebook.com/SeattleRiot,https://twitter.com/SeattleRiot
+coaches,Alyssa Weatherford
+0,Ikran Elmi
+01,Chloe Hakimi
+02,Alexa Yadama
+03,Hana Kawai
+04,Sharon Tsao
+05,Lauren Goddu
+06,Ella Widmyer
+07,Taylor Hartman
+08,Rachel Bradshaw
+09,Emily Decker
+10,Shira Stern
+12,Nora Landri
+14,Stephanie Phillips
+15,Nora Luloff
+18,Yeh-Sun Lee
+19,Josie Gillett
+20,Savanna Tucker
+24,Jamie Eriksson
+25,Margaret Manning
+27,Julia Snyder
+31,Anna Pettee
+32,Lauren Page
+34,Kate Lanier
+43,Carly Campana
+44,Abbie Abramovich
+81,Lani Nguyen
 b,r,e,a,k
 Traffic,11
 teamInfo,,"Vancouver, British Columbia CA",,https://www.facebook.com/TrafficUltimate,https://twitter.com/traffic_ulti/
@@ -458,47 +458,76 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
-Fury,Parcha,0,0,"10/23/2025, 09:00",Pool A,Scheduled
-Schwa,Nightlock,0,0,"10/23/2025, 09:00",Pool A,Scheduled
-Fury,Nightlock,0,0,"10/23/2025, 11:15",Pool A,Scheduled
-Schwa,Parcha,0,0,"10/23/2025, 11:15",Pool A,Scheduled
-Fury,Schwa,0,0,"10/23/2025, 13:30",Pool A,Scheduled
-Parcha,Nightlock,0,0,"10/23/2025, 13:30",Pool A,Scheduled
+Fury,Parcha,15,5,"10/23/2025, 09:00",Pool A,Final
+Schwa,Nightlock,15,9,"10/23/2025, 09:00",Pool A,Final
+Fury,Nightlock,15,4,"10/23/2025, 11:15",Pool A,Final
+Schwa,Parcha,14,9,"10/23/2025, 11:15",Pool A,Final
+Fury,Schwa,15,4,"10/23/2025, 13:30",Pool A,Final
+Parcha,Nightlock,15,13,"10/23/2025, 13:30",Pool A,Final
 pool,Pool B
-Brute Squad,6ixers,0,0,"10/23/2025, 11:15",Pool B,Scheduled
-Flipside,Iris,0,0,"10/23/2025, 11:15",Pool B,Scheduled
-Brute Squad,Iris,0,0,"10/23/2025, 13:30",Pool B,Scheduled
-Flipside,6ixers,0,0,"10/23/2025, 13:30",Pool B,Scheduled
-Brute Squad,Flipside,0,0,"10/23/2025, 15:45",Pool B,Scheduled
-6ixers,Iris,0,0,"10/23/2025, 15:45",Pool B,Scheduled
+Brute Squad,6ixers,15,10,"10/23/2025, 11:15",Pool B,Final
+Flipside,Iris,14,13,"10/23/2025, 11:15",Pool B,Final
+Brute Squad,Iris,15,4,"10/23/2025, 13:30",Pool B,Final
+Flipside,6ixers,15,7,"10/23/2025, 13:30",Pool B,Final
+Brute Squad,Flipside,15,12,"10/23/2025, 15:45",Pool B,Final
+6ixers,Iris,15,8,"10/23/2025, 15:45",Pool B,Final
 pool,Pool C
-Scandal,Molly Brown,0,0,"10/23/2025, 09:00",Pool C,Scheduled
-Phoenix,Heist,0,0,"10/23/2025, 09:00",Pool C,Scheduled
-Scandal,Heist,0,0,"10/23/2025, 13:30",Pool C,Scheduled
-Phoenix,Molly Brown,0,0,"10/23/2025, 13:30",Pool C,Scheduled
-Scandal,Phoenix,0,0,"10/23/2025, 15:45",Pool C,Scheduled
-Molly Brown,Heist,0,0,"10/23/2025, 15:45",Pool C,Scheduled
+Scandal,Molly Brown,14,15,"10/23/2025, 09:00",Pool C,Final
+Phoenix,Heist,15,2,"10/23/2025, 09:00",Pool C,Final
+Scandal,Heist,15,3,"10/23/2025, 13:30",Pool C,Final
+Phoenix,Molly Brown,15,14,"10/23/2025, 13:30",Pool C,Final
+Scandal,Phoenix,15,9,"10/23/2025, 15:45",Pool C,Final
+Molly Brown,Heist,15,6,"10/23/2025, 15:45",Pool C,Final
 pool,Pool D
-Seattle Riot,Traffic,0,0,"10/23/2025, 09:00",Pool D,Scheduled
-BENT,Grit,0,0,"10/23/2025, 09:00",Pool D,Scheduled
-Seattle Riot,Grit,0,0,"10/23/2025, 11:15",Pool D,Scheduled
-BENT,Traffic,0,0,"10/23/2025, 11:15",Pool D,Scheduled
-Seattle Riot,BENT,0,0,"10/23/2025, 15:45",Pool D,Scheduled
-Traffic,Grit,0,0,"10/23/2025, 15:45",Pool D,Scheduled
+Seattle Riot,Traffic,13,15,"10/23/2025, 09:00",Pool D,Final
+BENT,Grit,15,10,"10/23/2025, 09:00",Pool D,Final
+Seattle Riot,Grit,15,4,"10/23/2025, 11:15",Pool D,Final
+BENT,Traffic,15,13,"10/23/2025, 11:15",Pool D,Final
+Seattle Riot,BENT,9,15,"10/23/2025, 15:45",Pool D,Final
+Traffic,Grit,12,13,"10/23/2025, 15:45",Pool D,Final
 b,r,e,a,k
 brackets,2025 Women's National Championship
 bracket,National Championship
+Fury,Molly Brown,0,0,"10/25/2025, 09:00",Semifinals,Scheduled
+Scandal,Brute Squad,0,0,"10/25/2025, 11:15",Semifinals,Scheduled
+Fury,Phoenix,15,6,"10/24/2025, 11:45",Quarterfinals,Final
+Molly Brown,BENT,15,14,"10/24/2025, 11:45",Quarterfinals,Final
+Scandal,Seattle Riot,15,11,"10/24/2025, 11:45",Quarterfinals,Final
+Schwa,Brute Squad,2,15,"10/24/2025, 11:45",Quarterfinals,Final
+Flipside,Phoenix,14,15,"10/24/2025, 09:00",Pre-quarterfinals,Final
+6ixers,Molly Brown,14,15,"10/24/2025, 09:00",Pre-quarterfinals,Final
+Seattle Riot,Parcha,15,11,"10/24/2025, 09:00",Pre-quarterfinals,Final
+Traffic,Schwa,11,15,"10/24/2025, 09:00",Pre-quarterfinals,Final
 b,r,e,a,k
 clusters,Fourth Place Crossovers
+cluster,Crossovers
+Nightlock,Iris,11,15,"10/24/2025, 09:00",,Final
+Grit,Heist,15,9,"10/24/2025, 09:00",,Final
 b,r,e,a,k
 brackets,Pro Flight Placement Games
 bracket,WUCC Qualification
 bracket,Fifth Place Bracket
+Seattle Riot,BENT,0,0,"10/25/2025, 09:00",Fifth Place,Scheduled
+Seattle Riot,Phoenix,15,14,"10/24/2025, 16:15",Fifth Place Semifinals,Final
+Schwa,BENT,11,15,"10/24/2025, 16:15",Fifth Place Semifinals,Final
 bracket,Pro Flight Play- In (A)
+Phoenix,6ixers,0,0,"10/25/2025, 09:00",Pro Flight Berth - Seventh Place,Scheduled
+Flipside,6ixers,12,15,"10/24/2025, 14:00",Seventh Place Semifinal,Final
+Flipside,Heist,15,8,"10/24/2025, 11:45",Seventh Place Quarterfinals,Final
+Iris,6ixers,9,14,"10/24/2025, 11:45",Seventh Place Quarterfinals,Final
 bracket,Pro Flight Play-In (B)
+Parcha,Schwa,0,0,"10/25/2025, 09:00",Pro Flight Berth - Seventh Place,Scheduled
+Traffic,Parcha,10,12,"10/24/2025, 14:00",Seventh Place Semifinal,Final
+Traffic,Grit,12,9,"10/24/2025, 11:45",Seventh Place Quarterfinals,Final
+Nightlock,Parcha,7,11,"10/24/2025, 11:45",Seventh Place Quarterfinals,Final
 b,r,e,a,k
 brackets,Elite Flight Placement Games
 bracket,Eleventh Place
+Flipside,Traffic,0,0,"10/25/2025, 09:00",Eleventh Place,Scheduled
 bracket,Thirteenth Place Bracket
+Iris,Grit,0,0,"10/25/2025, 09:00",Thirteenth Place,Scheduled
+Heist,Iris,9,15,"10/24/2025, 14:00",Thirteenth Place Semifinals,Final
+Grit,Nightlock,13,10,"10/24/2025, 14:00",Thirteenth Place Semifinals,Final
 bracket,Fifteenth Place
+Heist,Nightlock,0,0,"10/25/2025, 09:00",Fifteenth Place,Scheduled
 b,r,e,a,k
