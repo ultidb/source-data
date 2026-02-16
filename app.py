@@ -4,7 +4,7 @@ from flask import Flask
 from datetime import datetime, date, timedelta
 from apscheduler.schedulers.background import BackgroundScheduler
 import subprocess, time, atexit, csv
-from tor import startTorServer
+from tor import startTorServer, torIsRunning
 from scrape import scrapeListOfTournamentUrls, Config
 import logging as log
 import requests, os
@@ -228,8 +228,10 @@ def postUpdatedCsvListToAPI(csvs, UpdatePlayers=True, checkExisting=True, DryRun
 
 
 def setupTor():
-    tor_process = startTorServer()
-    atexit.register(tor_process.kill)
+    if not torIsRunning():
+        log.info("Starting Tor server...")
+        tor_process = startTorServer()
+        atexit.register(tor_process.kill)
 
 
 def setupSchedule():
