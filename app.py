@@ -160,6 +160,7 @@ def commitAndPush(isOngoing=False):
         if COMMIT_AND_PUSH:
             commitToGit("csv")
         if POST_TO_API:
+            time.sleep(5)
             if isOngoing:
                 postUpdatedCsvListToAPI(csvs, False, True, False)
             else:

@@ -648,6 +648,15 @@ def parseNewSchedule(html, year, isCollege=False):
 
     for row in tournament_rows:
         try:
+            # Extract base URL from results link first (for error reporting)
+            results_cell = row.find("td", class_="results")
+            if not results_cell:
+                results_cell = row.find("td", class_="link")
+            base_url = results_cell.find("a") if results_cell else None
+            if not base_url:
+                continue
+            base_url = base_url.get("href")
+
             # Extract date
             date_cell = row.find("td", class_="date")
             date_text = date_cell.find("span", class_="label").next_sibling.strip()
@@ -698,15 +707,6 @@ def parseNewSchedule(html, year, isCollege=False):
             division_cell = row.find("td", class_="division")
             division = division_cell.find("span", class_="label").next_sibling.strip()
 
-            # Extract base URL from results link
-            results_cell = row.find("td", class_="results")
-            if not results_cell:
-                results_cell = row.find("td", class_="link")
-            base_url = results_cell.find("a")
-            if not base_url:
-                continue
-            base_url = base_url.get("href")
-
             if not base_url.endswith("/"):
                 base_url = base_url + "/"
 
@@ -735,7 +735,8 @@ def parseNewSchedule(html, year, isCollege=False):
             )
 
         except Exception as e:
-            log.error(f"Error parsing tournament row: {e}")
+            url_info = f" for {base_url}" if 'base_url' in locals() and base_url else ""
+            log.error(f"Error parsing tournament row{url_info}: {e}")
             continue
 
     log.info(f"Found {len(page_links)} tournament pages to scrape")
