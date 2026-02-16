@@ -32,7 +32,6 @@ b,r,e,a,k
 Vermont,38
 teamInfo,Chill,"Burlington, Vermont",,https://www.facebook.com/Team.Chill.33/,https://twitter.com/team_chill
 0,Bryce Lublin
-0,Angus Grant
 0,Elias Baldwin
 0,Jackson Leding
 0,James Bell
@@ -53,6 +52,7 @@ teamInfo,Chill,"Burlington, Vermont",,https://www.facebook.com/Team.Chill.33/,ht
 16,Seamus Dailey
 18,Casey Thornton
 19,Beorn Morrow-Caron
+21,Angus Grant
 23,Kristof Rohaly-Medved
 28,Leo Sarandos
 43,Vance Mader
@@ -486,7 +486,7 @@ coaches,Matthew Shu
 8,Gabriel Hall
 14,Toby Fuller
 14,Zeyi Liu
-16,Richard Davis
+16,Ricky Davis
 19,Krish Patel
 20,Ammon Longenecker
 21,Reece Davidman
@@ -1100,7 +1100,7 @@ teamInfo,Eagles,"Edmond, Oklahoma",https://oceagles.com/sports/ultimate,,
 11,Ian Hammersmith
 12,Isaiah Platt
 13,Ian Vallier
-14,jose cantero
+14,Jose Cantero
 15,TJ Lee
 17,Logan Krehbiel
 18,Augustus  Reed
@@ -1306,77 +1306,95 @@ Michigan,South Florida,13,2,"01/31/2026, 14:30",Pool A,Final
 b,r,e,a,k
 brackets,1st - 8th
 bracket,1st Place
-Carleton College,Vermont,0,0,"02/01/2026, 10:50",1st Place Semifinals,Scheduled
-Massachusetts,Michigan,0,0,"02/01/2026, 10:50",1st Place Semifinals,Scheduled
+Carleton College,Massachusetts,13,10,"02/01/2026, 12:40",1st Place,Final
+Carleton College,Vermont,13,7,"02/01/2026, 10:50",1st Place Semifinals,Final
+Massachusetts,Michigan,13,8,"02/01/2026, 10:50",1st Place Semifinals,Final
 Carleton College,Texas,13,5,"01/31/2026, 17:00",1st Place Quarterfinals,Final
 Vermont,Pittsburgh,13,5,"01/31/2026, 17:00",1st Place Quarterfinals,Final
 Massachusetts,McGill,13,3,"01/31/2026, 18:50",1st Place Quarterfinals,Final
 Brown,Michigan,7,8,"01/31/2026, 18:50",1st Place Quarterfinals,Final
 bracket,3rd Place
+Vermont,Michigan,13,8,"02/01/2026, 12:40",3rd Place,Final
 bracket,5th Place
-Texas,Pittsburgh,0,0,"02/01/2026, 10:50",5th Place Semifinals,Scheduled
-McGill,Brown,0,0,"02/01/2026, 10:50",5th Place Semifinals,Scheduled
+Texas,Brown,9,13,"02/01/2026, 12:40",5th Place,Final
+Texas,Pittsburgh,12,11,"02/01/2026, 10:50",5th Place Semifinals,Final
+McGill,Brown,6,13,"02/01/2026, 10:50",5th Place Semifinals,Final
 bracket,7th Place
+Pittsburgh,McGill,13,8,"02/01/2026, 12:40",7th Place,Final
 b,r,e,a,k
 brackets,9th - 16th
 bracket,9th Place
-Wisconsin,Middlebury,0,0,"02/01/2026, 09:00",9th Place Semifinals,Scheduled
-Minnesota,Tufts,0,0,"02/01/2026, 09:00",9th Place Semifinals,Scheduled
+Middlebury,Minnesota,11,13,"02/01/2026, 10:50",9th Place,Final
+Wisconsin,Middlebury,10,13,"02/01/2026, 09:00",9th Place Semifinals,Final
+Minnesota,Tufts,13,10,"02/01/2026, 09:00",9th Place Semifinals,Final
 Wisconsin,Northeastern,12,8,"01/31/2026, 17:00",9th Place Quarterfinals,Final
 Virginia,Middlebury,8,13,"01/31/2026, 17:00",9th Place Quarterfinals,Final
 Minnesota,Maryland,13,11,"01/31/2026, 17:00",9th Place Quarterfinals,Final
 Virginia Tech,Tufts,8,9,"01/31/2026, 17:00",9th Place Quarterfinals,Final
 bracket,11th Place
+Wisconsin,Tufts,11,9,"02/01/2026, 10:50",11th Place,Final
 bracket,13th Place
-Northeastern,Virginia,0,0,"02/01/2026, 09:00",13th Place Semifinals,Scheduled
-Maryland,Virginia Tech,0,0,"02/01/2026, 09:00",13th Place Semifinals,Scheduled
+Virginia,Maryland,12,8,"02/01/2026, 10:50",13th Place,Final
+Northeastern,Virginia,8,11,"02/01/2026, 09:00",13th Place Semifinals,Final
+Maryland,Virginia Tech,11,8,"02/01/2026, 09:00",13th Place Semifinals,Final
 bracket,15th Place
+Northeastern,Virginia Tech,13,10,"02/01/2026, 10:50",15th Place,Final
 b,r,e,a,k
 brackets,17th - 24th
 bracket,17th Place
-Tulane,Illinois,0,0,"02/01/2026, 09:00",17th Place Semifinals,Scheduled
-Georgia Tech,Georgetown,0,0,"02/01/2026, 09:00",17th Place Semifinals,Scheduled
+Illinois,Georgetown,11,12,"02/01/2026, 12:40",17th Place,Final
+Tulane,Illinois,9,11,"02/01/2026, 09:00",17th Place Semifinals,Final
+Georgia Tech,Georgetown,7,9,"02/01/2026, 09:00",17th Place Semifinals,Final
 Tennessee,Tulane,11,12,"01/31/2026, 17:00",17th Place Quarterfinals,Final
 Emory,Illinois,9,11,"01/31/2026, 17:00",17th Place Quarterfinals,Final
 Utah State,Georgia Tech,9,13,"01/31/2026, 17:00",17th Place Quarterfinals,Final
 Georgetown,Cincinnati,13,3,"01/31/2026, 17:00",17th Place Quarterfinals,Final
 bracket,19th Place
+Tulane,Georgia Tech,0,0,"02/01/2026, 12:40",19th Place,Cancelled
 bracket,21st Place
-Tennessee,Emory,0,0,"02/01/2026, 09:00",21st Place Semifinals,Scheduled
-Utah State,Cincinnati,0,0,"02/01/2026, 09:00",21st Place Semifinals,Scheduled
+Cincinnati,Utah State,11,12,"02/01/2026, 10:50",21st Place,Final
+Tennessee,Cincinnati,8,10,"02/01/2026, 09:00",21st Place Semifinals,Final
+Utah State,Emory,12,7,"02/01/2026, 09:00",21st Place Semifinals,Final
 bracket,23rd Place
+Tennessee,Emory,12,9,"02/01/2026, 10:50",23rd Place,Final
 b,r,e,a,k
 brackets,25th - 32nd
 bracket,25th Place
-Chicago,Washington University,0,0,"02/01/2026, 09:00",25th Place Semifinals,Scheduled
-Ave Maria,Florida,0,0,"02/01/2026, 09:00",25th Place Semifinals,Scheduled
+Chicago,Ave Maria,11,5,"02/01/2026, 12:40",25th Place,Final
+Chicago,Washington University,13,5,"02/01/2026, 09:00",25th Place Semifinals,Final
+Ave Maria,Florida,13,7,"02/01/2026, 09:00",25th Place Semifinals,Final
 Chicago,Alabama-Huntsville,11,7,"01/31/2026, 17:00",25th Place Quarterfinals,Final
 Washington University,Purdue,13,12,"01/31/2026, 17:00",25th Place Quarterfinals,Final
 Cornell,Ave Maria,6,11,"01/31/2026, 17:00",25th Place Quarterfinals,Final
 North Carolina-Charlotte,Florida,8,10,"01/31/2026, 17:00",25th Place Quarterfinals,Final
 bracket,27th Place
+Washington University,Florida,10,9,"02/01/2026, 12:40",27th Place,Final
 bracket,29th Place
-Purdue,Cornell,0,0,"02/01/2026, 09:00",29th Place Semifinals,Scheduled
-Alabama-Huntsville,North Carolina-Charlotte,0,0,"02/01/2026, 09:00",29th Place Semifinals,Scheduled
+Purdue,North Carolina-Charlotte,10,8,"02/01/2026, 12:40",29th Place,Final
+Purdue,Cornell,10,9,"02/01/2026, 09:00",29th Place Semifinals,Final
+Alabama-Huntsville,North Carolina-Charlotte,7,9,"02/01/2026, 09:00",29th Place Semifinals,Final
 bracket,31st Place
+Cornell,Alabama-Huntsville,10,7,"02/01/2026, 12:40",31st Place,Final
 b,r,e,a,k
 brackets,33rd - 36th
 bracket,33rd Place
-Northwestern,Florida State,0,0,"02/01/2026, 10:50",33rd Place Semifinals,Scheduled
-Oklahoma Christian,Georgia,0,0,"02/01/2026, 10:50",33rd Place Semifinals,Scheduled
+Florida State,Oklahoma Christian,9,12,"02/01/2026, 12:40",33rd Place,Final
+Northwestern,Florida State,9,11,"02/01/2026, 10:50",33rd Place Semifinals,Final
+Oklahoma Christian,Georgia,11,9,"02/01/2026, 10:50",33rd Place Semifinals,Final
 Auburn,Northwestern,5,6,"01/31/2026, 18:50",33rd Place Quarterfinals,Final
 Florida State,Texas A&M,7,2,"01/31/2026, 18:50",33rd Place Quarterfinals,Final
 Yale,Oklahoma Christian,3,13,"01/31/2026, 18:50",33rd Place Quarterfinals,Final
 Berry,Georgia,6,7,"01/31/2026, 18:50",33rd Place Quarterfinals,Final
 bracket,35th Place
+Northwestern,Georgia,4,11,"02/01/2026, 12:40",35th Place,Final
 b,r,e,a,k
 clusters,37th - 42nd Consolation
 cluster,Consolation
 Central Florida,South Florida,5,13,"01/31/2026, 17:00",,Final
-South Florida,Yale,0,0,"02/01/2026, 09:00",,Scheduled
-Central Florida,Texas A&M,0,0,"02/01/2026, 09:00",,Scheduled
-Auburn,Yale,0,0,"02/01/2026, 10:50",,Scheduled
-Berry,Texas A&M,0,0,"02/01/2026, 10:50",,Scheduled
-South Florida,Berry,10,9,"02/01/2026, 12:40",,Final
-Central Florida,Auburn,0,0,"02/01/2026, 12:40",,Scheduled
+South Florida,Yale,6,12,"02/01/2026, 09:00",,Final
+Central Florida,Texas A&M,2,13,"02/01/2026, 09:00",,Final
+Auburn,Yale,10,12,"02/01/2026, 10:50",,Final
+Berry,Texas A&M,13,12,"02/01/2026, 10:50",,Final
+South Florida,Berry,11,10,"02/01/2026, 12:40",,Final
+Central Florida,Auburn,3,13,"02/01/2026, 12:40",,Final
 b,r,e,a,k
