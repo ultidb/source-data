@@ -10,6 +10,10 @@ import logging as log
 from pathlib import Path
 from os.path import exists
 from dotenv import load_dotenv
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+import time
+import uuid
 from parse import (
     addRosterToTeam,
     addInfoToTeam,
@@ -22,6 +26,9 @@ from tor import torIsRunning, startTorServer
 
 load_dotenv()
 config = None
+
+# Singleton Chrome driver for Selenium requests
+_selenium_driver = None
 
 seasonIdMap = {
     2014: 4,
@@ -66,24 +73,90 @@ def writeContentToFile(path, file, content):
 
 
 def makeProxiedRequest(url):
-    log.debug(f"Making proxied request to {url}")
+    return makeProxiedRequestSelenium(url)
+    # log.debug(f"Making proxied request to {url}")
 
-    if not torIsRunning():
-        tor_process = startTorServer()
-        atexit.register(tor_process.kill)
+    # if not torIsRunning():
+    #     tor_process = startTorServer()
+    #     atexit.register(tor_process.kill)
 
-    response = requests.get(
-        url,
-        proxies={"http": "socks5://127.0.0.1:9050", "https": "socks5://127.0.0.1:9050"},
-        timeout=600,
-    )
+    # response = requests.get(
+    #     url,
+    #     proxies={"http": "socks5://127.0.0.1:9050", "https": "socks5://127.0.0.1:9050"},
+    #     timeout=600,
+    # )
 
-    if response.status_code != 200:
-        log.error(f"Request to {url} failed with status code {response.status_code}")
-        log.error(json.dumps(response, indent=2))
+    # if response.status_code != 200:
+    #     log.error(f"Request to {url} failed with status code {response.status_code}")
+    #     log.error(json.dumps(response, indent=2))
+    #     sys.exit(1)
+
+    # return response.content
+
+
+def getSeleniumDriver():
+    """Get or create the singleton Chrome driver instance"""
+    global _selenium_driver
+
+    if _selenium_driver is None:
+        log.debug("Initializing Chrome driver")
+
+        if not torIsRunning():
+            tor_process = startTorServer()
+            atexit.register(tor_process.kill)
+
+        chrome_options = Options()
+        # Configure Tor SOCKS5 proxy
+        chrome_options.add_argument("--proxy-server=socks5://127.0.0.1:9050")
+        # Additional options for headless Chrome
+        chrome_options.add_argument("--headless=new")
+        chrome_options.add_argument("--no-sandbox")
+        chrome_options.add_argument("--disable-dev-shm-usage")
+        chrome_options.add_argument("--disable-gpu")
+        chrome_options.add_argument("--window-size=1920,1080")
+        chrome_options.add_argument("--disable-blink-features=AutomationControlled")
+        chrome_options.add_argument("--user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
+        chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
+        chrome_options.add_experimental_option('useAutomationExtension', False)
+
+        _selenium_driver = webdriver.Chrome(options=chrome_options)
+        _selenium_driver.execute_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
+
+        # Register cleanup on exit
+        atexit.register(cleanupSeleniumDriver)
+
+    return _selenium_driver
+
+
+def cleanupSeleniumDriver():
+    """Cleanup the singleton Chrome driver on exit"""
+    global _selenium_driver
+    if _selenium_driver is not None:
+        log.debug("Cleaning up Chrome driver")
+        try:
+            _selenium_driver.quit()
+        except:
+            pass
+        _selenium_driver = None
+
+
+def makeProxiedRequestSelenium(url):
+    log.debug(f"Making proxied Selenium request to {url}")
+
+    driver = getSeleniumDriver()
+
+    try:
+        driver.get(url)
+
+        # Get the page source
+        page_source = driver.page_source
+
+        # Convert to bytes to match the return type of makeProxiedRequest
+        return page_source.encode('utf-8')
+    except Exception as e:
+        log.error(f"Selenium request to {url} failed with error: {e}")
+        cleanupSeleniumDriver()
         sys.exit(1)
-
-    return response.content
 
 
 def loadPage(config, url, pageType, tournamentName=None, teamName=None):
