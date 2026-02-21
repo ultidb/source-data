@@ -17,9 +17,15 @@ psutil = "*"
 pyvimeo = "*"
 selenium = "*"
 pyvirtualdisplay = "*"
+pydantic = "*"
+pydantic-settings = "*"
+pyyaml = "*"
+click = "*"
 
 [dev-packages]
 autopep8 = "*"
+pytest = "*"
+pytest-cov = "*"
 
 [requires]
 python_version = "3.9"

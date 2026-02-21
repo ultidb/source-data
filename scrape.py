@@ -1,5 +1,3 @@
-import sys
-import getopt
 import csv
 from enum import Enum
 from bs4 import BeautifulSoup
@@ -22,6 +20,7 @@ from parse import (
     parseTournamentCalendar,
 )
 from tor import torIsRunning, startTorServer
+from config import get_season_id
 
 
 load_dotenv()
@@ -30,23 +29,8 @@ config = None
 # Singleton Chrome driver for Selenium requests
 _selenium_driver = None
 
-seasonIdMap = {
-    2014: 4,
-    2015: 5,
-    2016: 6,
-    2017: 7,
-    2018: 8,
-    2019: 14,
-    2020: 15,
-    2021: 16,
-    2022: 17,
-    2023: 18,
-    2024: 19,
-    2025: 20,
-}
 
-
-class Config:
+class ScrapeOptions:
     def __init__(self, year, disableCache, overwriteCSVs, live, calendarOnly):
         self.disableCache = disableCache
         self.overwriteCSVs = overwriteCSVs
@@ -278,9 +262,8 @@ def scrapeListOfTournamentUrls(config, tournaments):
 
 
 def scrapeYear(config):
-    try:
-        seasonId = seasonIdMap[config.year]
-    except KeyError:
+    seasonId = get_season_id(config.year)
+    if seasonId is None:
         log.error(f"Invalid year: {config.year}")
         return
 
@@ -384,87 +367,3 @@ def readInfoFromCalendarCSV(year, url):
                 }
 
 
-def main(argv):
-    disableCache = False
-    overwrite = False
-    retry = False
-    year = None
-    tournament = None
-    debug = False
-    live = False
-    calendarOnly = False
-    tournamentInfo = {}
-    opts, args = getopt.getopt(
-        argv,
-        "lhdory:t:",
-        [
-            "live",
-            "help",
-            "disableCache",
-            "overwrite",
-            "retry",
-            "year=",
-            "tournament=",
-            "debug",
-            "calendarOnly",
-        ],
-    )
-    for opt, arg in opts:
-        if opt in ("-h", "--help"):
-            print("-h --help | view help options")
-            print("-l", "--live | scrape live data (used by app.py)")
-            print("-d", "--disableCache | ignore cached html files")
-            print("-o", "--overwrite | overwrite existing csv files")
-            print("-r", "--retry | retry failed tournaments from errors.txt")
-            print("-y", "--year | specify year to scrape")
-            print("--debug | enable debug logging")
-            sys.exit()
-        elif opt in ("-d", "--disableCache"):
-            disableCache = True
-            print("disableCache: " + str(disableCache))
-        elif opt in ("-o", "--overwrite"):
-            overwrite = True
-            print("overwriting existing csv files: " + str(overwrite))
-        elif opt in ("-r", "--retry"):
-            retry = True
-            print("retrying failed tournaments")
-        elif opt in ("-y", "--year"):
-            year = arg
-        elif opt in ("-t", "--tournament"):
-            tournament = arg
-        elif opt in ("--debug"):
-            debug = True
-        elif opt in ("-l", "--live"):
-            live = True
-        elif opt in ("--calendarOnly"):
-            calendarOnly = True
-
-    level = log.INFO
-    if debug:
-        level = log.DEBUG
-    log.basicConfig(
-        level=level,
-        format="[%(asctime)s] {%(filename)s:%(lineno)d} %(levelname)s - %(message)s",
-        datefmt="%H:%M:%S",
-    )
-
-    if year == None:
-        print("Please specify a to scrape!")
-        print("Use --year (-y)")
-        sys.exit()
-
-    config = Config(int(year), disableCache, overwrite, live, calendarOnly)
-
-    if retry:
-        retryErrors(config)
-    elif tournament != None:
-        tournamentInfo = readInfoFromCalendarCSV(year, tournament)
-        scrapeTournament(config, tournamentInfo, 0, 1)
-    else:
-        log.info("Scraping year: " + year)
-        # scrapeYear(config)
-        scrapeCurrentYear(config)
-
-
-if __name__ == "__main__":
-    main(sys.argv[1:])

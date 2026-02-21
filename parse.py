@@ -7,93 +7,7 @@ import logging as log
 import csv
 from datetime import datetime, timedelta
 from models import *
-
-DIVISIONS = {
-    "College - Men": "Men/CollegeMen/",
-    "College - Men's": "Men/CollegeMen/",
-    "D-I Men": "Men/CollegeMen/",
-    "D-III Men": "Men/CollegeMen/",
-    "Men's Lower Division": "Men/CollegeMen/",
-    "Men's Developmental Division": "Men/CollegeMen/",
-    "Dev Men": "Men/CollegeMen/",
-    "Dev Women": "Women/CollegeWomen/",
-    "College Women": "Women/CollegeWomen/",
-    "College - Women": "Women/CollegeWomen/",
-    "College - Women's": "Women/CollegeWomen/",
-    "College Women's  (Division I)": "Women/CollegeWomen/",
-    "College - Mixed": "mixed/College-Mixed/",
-    "D-I Women": "Women/CollegeWomen/",
-    "D-III Women": "Women/CollegeWomen/",
-    "Womxn's Lower Division": "Women/CollegeWomen/",
-    "Womxn's Upper Division": "Men/CollegeMen/",
-    "Club - Men": "Men/Club-Men/",
-    "College - Open": "Men/Club-Men",
-    "Club - Men's": "Men/Club-Men/",
-    "Club - Men Elite": "Men/Club-Men/elite/",
-    "Club - Men Classic": "Men/Club-Men/classic",
-    "College D-I Men": "Men/CollegeMen/college_d_i_men/",
-    "College D-III Men": "Men/CollegeMen/college_d_iii_men/",
-    "College - Men DIII (Division III)": "Men/CollegeMen/division_iii/",
-    "Men's Upper Division": "Men/CollegeMen/men_s_upper_division/",
-    "Mixed": "mixed/College-Mixed/",
-    "Club - Women": "Women/Club-Women/",
-    "Club - Women's": "Women/Club-Women/",
-    "Club - Women  (Classic)": "Women/Club-Women/classic/",
-    "Club - Women Elite": "Women/Club-Women/elite/",
-    "Club Mixed": "Mixed/Club-mixed/",
-    "Club - Mixed Elite": "mixed/Club-mixed/elite/",
-    "Club - Mixed Classic": "mixed/Club-mixed/classic/",
-    "Club - Mixed": "Mixed/Club-Mixed",
-    "Club - Mixed's": "Mixed/Club-Mixed",
-    "High School - Boys": "Boys/High-School-Boys/",
-    "High School - Boys Varsity": "Boys/High-School-Boys/high_school_boys_varsity/",
-    "High School - Boys 2 JV (High School - Boys JV)": "Boys/High-School-Boys/high_school_boys_jv/",
-    "High School - Boys Elk Ridge Park": "Boys/High-School-Boys/boys_elk_ridge_park/",
-    "High School - Boys Sky View": "Boys/High-School-Boys/boys_sky_view/",
-    "High School - Boys  (HS Boys)": "Boys/High-School-Boys/hs_boys/",
-    "High School - Boys B (HS Boys B)": "Boys/High-School-Boys/hs_boys_b/",
-    "HS Open - Div I": "Boys/High-School-Boys/",
-    "High School - Girls Green Canyon High School": "Girls/High-School-Girls/",
-    "High School - Girls": "Girls/High-School-Girls/",
-    "High School - Mixed": "Mixed/High-School-Mixed/",
-    "Masters - Men": "Men/Masters-Men/",
-    "Masters - Mixed": "Mixed/Masters-Mixed/",
-    "Masters - Women": "Women/Masters-Women/",
-    "Grand Masters - Men": "Men/grand-masters-men/",
-    "Grand Masters - Women": "Women/grand-masters-women/",
-    "Grand Masters - Mixed": "mixed/grand-masters-mixed/",
-    "Great Grand Masters - Men": "Men/great-grand-masters-men/",
-    "Great Grand Masters - Women": "Women/great-grand-masters-women/",
-    "Men's Division": "Men/CollegeMen/",
-    "Men A Division": "Men/Club-Men/a_division/",
-    "Men B Division": "Men/Club-Men/b_division",
-    "U20 - Boys": "Boys/High-School-Boys/",
-    "U20 - Girls": "Girls/High-School-Girls/",
-    "Youth Club U-20 - Boys": "Boys/youth-club-u-20-boys/",
-    "U20 Boys Youth Club": "Boys/youth-club-u-20-boys/",
-    "Youth Club U19 - Boys": "Boys/youth-club-u-20-boys/",
-    "Youth Club U-20 - Girls": "Girls/youth-club-u-20-girls/",
-    "U20 Girls Youth Club": "Girls/youth-club-u-20-girls/",
-    "Youth Club U19 - Girls": "Girls/youth-club-u-20-girls/",
-    "Youth Club U-20 - Mixed": "Mixed/youth-club-u-20-mixed/",
-    "U20 Mixed Youth Club": "Mixed/youth-club-u-20-mixed/",
-    "Youth Club U19 - Mixed": "Mixed/youth-club-u-20-mixed/",
-    "Youth Club U-17 - Boys": "Boys/youth-club-u-17-boys/",
-    "Youth Club U16 - Boys": "Boys/youth-club-u-17-boys/",
-    "Youth Club U-17 - Girls": "Girls/youth-club-u-17-girls/",
-    "Youth Club U16 - Girls": "Girls/youth-club-u-17-girls/",
-    "Youth Club Girls - U20 & U17": "Girls/youth-club-u-20-girls/",
-    "Middle School - Mixed": "mixed/Middle-School-Mixed/",
-    "Middle School - Boys": "Boys/Middle-School-Boys/",
-    "Beach - Men": "Men/Beach-Mens/",
-    "Beach - Women": "Women/Beach-Womens/",
-    "Beach - Mixed": "mixed/Beach-Mixed",
-    "Beach Masters - Mixed": "mixed/Beach-Masters-Mixed/",
-    "Beach Grand Masters - Men": "Men/Beach-Grand-Masters-Men/",
-    "Beach Great Grand Masters - Men": "Men/beach-great-grand-masters-men/",
-    "Tally Classic - Women": "Women/CollegeWomen/",
-    "Tally Classic - Men": "Men/CollegeMen/",
-}
+from config import get_division_path
 
 # Team class, allows storage of name and roster
 
@@ -592,26 +506,26 @@ def pullLinksFromCalendar(calendar):
             # check to see if a division has more than 1 team in the division
             if int(num.contents[1].contents[0][1:-1]) > 1:
                 # add link of specific divison page to list
-                try:
-                    url = link + "/schedule/" + DIVISIONS[num.contents[0].strip()]
-                    lower = url.lower()
-                    if not url.startswith("https://play.usaultimate.org"):
-                        url = "https://play.usaultimate.org" + url
+                division_name = num.contents[0].strip()
+                division_path = get_division_path(division_name)
+                if division_path is None:
+                    log.debug(f"Unknown division: {division_name} from {link}")
+                    continue
 
-                    if not ("high-school" in lower or "middle-school" in lower):
-                        d = {
-                            "city": city,
-                            "state": state,
-                            "startDate": startDate,
-                            "endDate": endDate,
-                            "url": url,
-                        }
+                url = link + "/schedule/" + division_path
+                lower = url.lower()
+                if not url.startswith("https://play.usaultimate.org"):
+                    url = "https://play.usaultimate.org" + url
 
-                        page_links.append(d)
-                except:
-                    log.debug(
-                        "Unknown division: " + num.contents[0].strip() + " from " + link
-                    )
+                if not ("high-school" in lower or "middle-school" in lower):
+                    d = {
+                        "city": city,
+                        "state": state,
+                        "startDate": startDate,
+                        "endDate": endDate,
+                        "url": url,
+                    }
+                    page_links.append(d)
 
     log.info(f"Found {len(page_links)} tournament pages to scrape")
 
@@ -716,12 +630,12 @@ def parseNewSchedule(html, year, isCollege=False):
                 else:
                     division = "Club - " + division
 
-            # Construct proper URL using DIVISIONS map
-            if division in DIVISIONS:
-                url = base_url + "schedule/" + DIVISIONS[division]
-            else:
+            # Construct proper URL using config divisions
+            division_path = get_division_path(division)
+            if division_path is None:
                 log.error(f"Unknown division: {division} from {base_url}")
                 continue
+            url = base_url + "schedule/" + division_path
 
             # Add to page links
             page_links.append(

@@ -1,0 +1,16 @@
+[project]
+name = "usau-scraper"
+version = "1.0.0"
+description = "USAU Tournament Scraper"
+requires-python = ">=3.9"
+
+[project.scripts]
+scraper = "cli:cli"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+py-modules = ["cli", "config", "scrape", "parse", "models", "db", "tor", "receiver", "app"]
+packages = ["video", "tests"]
