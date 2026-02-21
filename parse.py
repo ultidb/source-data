@@ -81,17 +81,42 @@ def extract_nickname(team_name):
 
 def addRosterToTeam(soup, team):
     roster = []
-    try:
-        tableRows = soup.find("table").findAll("tr")[1:]
-    except:
-        log.error(f"Failed to parse roster for team {team.name} at {team.url}")
+
+    # Find the roster table by looking for one with "No." and "Player" headers
+    roster_table = None
+    for table in soup.find_all("table"):
+        header_row = table.find("tr")
+        if header_row:
+            headers = [th.get_text(strip=True) for th in header_row.find_all("th")]
+            if "No." in headers and "Player" in headers:
+                roster_table = table
+                break
+
+    if roster_table is None:
+        log.debug(f"No roster table found for team {team.name} at {team.url}")
         return
 
-    for row in tableRows:  # adding roster info to teams
+    tableRows = roster_table.findAll("tr")[1:]  # skip header row
+
+    for row in tableRows:
         cells = row.findAll("td")
-        number = cells[0].contents[0]
-        name = cells[1].contents[0]
+        if len(cells) < 2:
+            continue
+
+        # Skip rows that contain team links (standings data, not roster)
+        if cells[0].find("a", href=lambda h: h and "/events/teams/" in h):
+            log.debug(f"Skipping standings row for team {team.name}")
+            continue
+
+        number = cells[0].get_text(strip=True)
+        name = cells[1].get_text(strip=True)
+
+        # Skip if name looks like a record (e.g., "5 - 0")
+        if " - " in name and name.replace(" - ", "").replace(" ", "").isdigit():
+            continue
+
         roster.append(Player(number, name))
+
     team.roster = roster
 
 
