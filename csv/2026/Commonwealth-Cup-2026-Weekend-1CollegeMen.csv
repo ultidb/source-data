@@ -21,6 +21,9 @@ b,r,e,a,k
 Pittsburgh (B),1
 teamInfo,,,,,
 b,r,e,a,k
+Wake Forest,5
+teamInfo,,,,,
+b,r,e,a,k
 Cedarville,8
 teamInfo,Swarm,"Cedarville, Ohio",,,https://twitter.com/cedarvilleuf
 03,Austin Hubble
@@ -49,9 +52,6 @@ teamInfo,Swarm,"Cedarville, Ohio",,,https://twitter.com/cedarvilleuf
 52,Joshua Shearer
 88,Owen Ball
 b,r,e,a,k
-Wake Forest,5
-teamInfo,,,,,
-b,r,e,a,k
 Virginia Tech (B),9
 teamInfo,Virginia Tech B,"Blacksburg, Virginia",,,
 0,Adam Stitt
@@ -79,6 +79,31 @@ teamInfo,Virginia Tech B,"Blacksburg, Virginia",,,
 39,Thomas Basile
 52,Erik Graulich
 66,Shivansh Shah
+b,r,e,a,k
+Ohio,2
+teamInfo,Trout,"Athens, Ohio",,https://www.facebook.com/ohioultimate/,https://twitter.com/OUultimate
+0,Benjamin Bishop
+0,Brogen Kapela
+0,Cale Culicerto
+0,Declan Haas
+0,Evan Schrader
+0,Henry Wollerman
+0,Jack Meermans
+0,Jackson Yeager
+0,james brennan
+0,Jeff Shultz
+0,Justin Clement
+0,Kyle Gromen
+0,Luke McKenrick
+0,Nathaniel Polk
+3,Dalton Muck
+4,Carter Limbert
+7,Ian Knaus
+9,Jack Thompson
+10,Marcus Berger
+11,Wynn Yoder
+14,Ryan  Baxley
+34,Aidan Valentine
 b,r,e,a,k
 North Carolina (B),7
 teamInfo,BatCH,"CHAPEL HILL, North Carolina",,https://www.facebook.com/uncbatch,https://www.twitter.com/unc_batch
@@ -109,31 +134,6 @@ teamInfo,BatCH,"CHAPEL HILL, North Carolina",,https://www.facebook.com/uncbatch,
 9,Daniel Rabinovich
 17,Dax Welborn
 21,Drake Parker
-b,r,e,a,k
-Ohio,2
-teamInfo,Trout,"Athens, Ohio",,https://www.facebook.com/ohioultimate/,https://twitter.com/OUultimate
-0,Benjamin Bishop
-0,Brogen Kapela
-0,Cale Culicerto
-0,Declan Haas
-0,Evan Schrader
-0,Henry Wollerman
-0,Jack Meermans
-0,Jackson Yeager
-0,james brennan
-0,Jeff Shultz
-0,Justin Clement
-0,Kyle Gromen
-0,Luke McKenrick
-0,Nathaniel Polk
-3,Dalton Muck
-4,Carter Limbert
-7,Ian Knaus
-9,Jack Thompson
-10,Marcus Berger
-11,Wynn Yoder
-14,Ryan  Baxley
-34,Aidan Valentine
 b,r,e,a,k
 Miami (Florida),6
 teamInfo,Florida) (UMiami Vice,"Coral Gables, Florida",https://miami.campuslabs.com/engage/organization/ultimate-frisbee-club,,
@@ -204,7 +204,7 @@ Harvard,Wake Forest,13,8,"02/21/2026, 12:30",Pool A,Final
 Pittsburgh (B),Cedarville,13,12,"02/21/2026, 14:15",Pool A,Final
 Harvard,Virginia Tech (B),13,11,"02/21/2026, 14:15",Pool A,Final
 Pittsburgh (B),Harvard,9,12,"02/21/2026, 16:00",Pool A,Final
-Wake Forest,Virginia Tech (B),0,0,"02/21/2026, 16:00",Pool A,Scheduled
+Wake Forest,Virginia Tech (B),12,10,"02/21/2026, 16:00",Pool A,Final
 pool,Pool B
 Ohio,Maryland (B),13,1,"02/21/2026, 09:00",Pool B,Final
 Miami (Florida),North Carolina (B),9,13,"02/21/2026, 09:00",Pool B,Final
@@ -214,13 +214,17 @@ North Carolina (B),Maryland (B),13,4,"02/21/2026, 12:30",Pool B,Final
 Akron,Miami (Florida),7,13,"02/21/2026, 12:30",Pool B,Final
 Ohio,North Carolina (B),13,12,"02/21/2026, 14:15",Pool B,Final
 Akron,Maryland (B),13,1,"02/21/2026, 14:15",Pool B,Final
-Ohio,Akron,0,0,"02/21/2026, 16:00",Pool B,Scheduled
+Ohio,Akron,13,7,"02/21/2026, 16:00",Pool B,Final
 Miami (Florida),Maryland (B),13,3,"02/21/2026, 16:00",Pool B,Final
 b,r,e,a,k
 brackets,M BP
 bracket,M CHAMPIONSHIP BRACKET
+North Carolina (B),Wake Forest,0,0,"02/22/2026, 08:00",M PLAY-IN,Scheduled
+Pittsburgh (B),Miami (Florida),0,0,"02/22/2026, 08:00",M PLAY-IN,Scheduled
 bracket,M 3RD PLACE GAME
 bracket,M 5TH PLACE GAME
 bracket,M 7TH PLACE BRACKET
+Akron,Virginia Tech (B),0,0,"02/22/2026, 08:00",M 7TH SEMIS,Scheduled
+Cedarville,Maryland (B),0,0,"02/22/2026, 08:00",M 7TH SEMIS,Scheduled
 bracket,M 9TH PLACE GAME
 b,r,e,a,k
