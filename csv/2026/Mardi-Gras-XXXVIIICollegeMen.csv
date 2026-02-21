@@ -191,23 +191,6 @@ teamInfo,,,,,
 "<a href=""/events/teams/?EventTeamId=H%2fmJaXEi%2fxO59Fv56QwbCL%2fW7lOBUe7Hxbm7b18RnHE%3d"">Case Western Reserve (16)</a>",1 - 3
 "<a href=""/events/teams/?EventTeamId=A0Bjm9yNTvhk1HTvKcCORS4AjzajoD85QWr5ApcWL7g%3d"">Appalachian State (17)</a>",0 - 4
 b,r,e,a,k
-Sam Houston,15
-teamInfo,Prison Break,"Huntsville, Texas",,,
-4,Owen Farmer
-6,Ellis Penate 
-7,Grant Sides
-9,Christian Ekpenike
-10,Justin Woodley
-13,Mason Rodriguez
-20,Sean Carsten
-21,Zaider James Ompad
-25,Sebastian Ferman 
-30,Bryce Sanchez
-35,Braedan Sulzbach
-41,Hunter Wells
-69,Ty White
-90,Clayton Oaks
-b,r,e,a,k
 South Florida,10
 teamInfo,Scallywags,"Tampa, Florida",,https://facebook.com/usfultimate,https://twitter.com/MUltClubUSF
 0,Aidyn Rosochowicz
@@ -235,6 +218,23 @@ teamInfo,Scallywags,"Tampa, Florida",,https://facebook.com/usfultimate,https://t
 77,Adam Costello
 87,Aidan Carroll
 88,Ian James
+b,r,e,a,k
+Sam Houston,15
+teamInfo,Prison Break,"Huntsville, Texas",,,
+4,Owen Farmer
+6,Ellis Penate 
+7,Grant Sides
+9,Christian Ekpenike
+10,Justin Woodley
+13,Mason Rodriguez
+20,Sean Carsten
+21,Zaider James Ompad
+25,Sebastian Ferman 
+30,Bryce Sanchez
+35,Braedan Sulzbach
+41,Hunter Wells
+69,Ty White
+90,Clayton Oaks
 b,r,e,a,k
 Alabama,4
 teamInfo,Yellow Hammer,"Tuscaloosa, Alabama",alabamaultimate.wordpress.com,https://www.facebook.com/AlabamaUltimate/,twitter.com/bama_ultimate
@@ -348,7 +348,7 @@ pools,Pool Play
 pool,Pool A
 Jacksonville State,Rice,5,13,"02/21/2026, 08:30",Pool A,Final
 Florida State,Texas-San Antonio,13,7,"02/21/2026, 08:30",Pool A,Final
-Emory,Texas-San Antonio,0,0,"02/21/2026, 10:15",Pool A,Scheduled
+Emory,Texas-San Antonio,13,5,"02/21/2026, 10:15",Pool A,Final
 Florida State,Jacksonville State,13,5,"02/21/2026, 10:15",Pool A,Final
 Emory,Rice,0,0,"02/21/2026, 12:15",Pool A,Scheduled
 Texas-San Antonio,Jacksonville State,0,0,"02/21/2026, 12:15",Pool A,Scheduled
@@ -366,7 +366,7 @@ Arkansas,Texas State,0,0,"02/21/2026, 15:45",Pool B,Scheduled
 pool,Pool C
 Missouri,South Florida,14,3,"02/21/2026, 08:30",Pool C,Final
 LSU,Sam Houston,15,5,"02/21/2026, 08:30",Pool C,Final
-Missouri,Sam Houston,0,0,"02/21/2026, 10:15",Pool C,Scheduled
+Missouri,Sam Houston,15,3,"02/21/2026, 10:15",Pool C,Final
 LSU,South Florida,0,0,"02/21/2026, 10:15",Pool C,Scheduled
 Missouri,LSU,0,0,"02/21/2026, 14:00",Pool C,Scheduled
 South Florida,Sam Houston,0,0,"02/21/2026, 14:00",Pool C,Scheduled
