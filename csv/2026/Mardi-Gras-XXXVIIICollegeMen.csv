@@ -128,23 +128,6 @@ teamInfo,,,,,
 "<a href=""/events/teams/?EventTeamId=A9pkqwz6UAqUR2%2bzhhbny4iAzY%2bgpSbnI9Mx8duV5pg%3d"">UCLA (9)</a>",1 - 2
 "<a href=""/events/teams/?EventTeamId=F7oUryvb3E32F2vFE7A%2b4Zp%2f5E9YIFwFXDtZI%2bNcD%2bg%3d"">California (16)</a>",0 - 3
 b,r,e,a,k
-Arkansas,11
-teamInfo,Ludicrous Speed,"Fayetteville, Arkansas",,,https://twitter.com/uofaultimate?lang=en
-coaches,Jody Ayers
-0,Adam Donaldson
-0,Carter Horton
-0,Cole Peterson
-0,Jackson VanSyckle
-0,Juan Herrera
-0,Kirin Agnihotri
-0,Riley Gilliland
-0,Tyson Brown
-6,Matt Markiewicz
-8,Kele Estes-Beard
-14,Mason Cooper
-23,Cooper Fulton
-42,Jayden Morfin
-b,r,e,a,k
 Texas State,14
 teamInfo,Texas State Buckets,"San Marcos, Texas",,,
 coaches,Joe Feeney
@@ -168,6 +151,23 @@ coaches,Joe Feeney
 0,Evan Walsh
 0,Harris Ewald
 19,Jackson Mead
+b,r,e,a,k
+Arkansas,11
+teamInfo,Ludicrous Speed,"Fayetteville, Arkansas",,,https://twitter.com/uofaultimate?lang=en
+coaches,Jody Ayers
+0,Adam Donaldson
+0,Carter Horton
+0,Cole Peterson
+0,Jackson VanSyckle
+0,Juan Herrera
+0,Kirin Agnihotri
+0,Riley Gilliland
+0,Tyson Brown
+6,Matt Markiewicz
+8,Kele Estes-Beard
+14,Mason Cooper
+23,Cooper Fulton
+42,Jayden Morfin
 b,r,e,a,k
 Missouri,3
 teamInfo,,,,,
@@ -289,33 +289,6 @@ teamInfo,Dark Horse,"Starkville, Mississippi",https://instagram.com/msudarkhorse
 55,Jacob Estel
 77,Jackson Thomas
 b,r,e,a,k
-Texas A&M,9
-teamInfo,Dozen,"COLLEGE STATION, Texas",dozenultimate.com,https://www.facebook.com/tamuultimate/,https://twitter.com/DozenUltimate/
-0,Corey Chrudimsky
-0,Jaeden Powell
-0,John Tebbetts
-0,Jonathan Jin
-0,Justin Kutrybala
-0,Michael Besancon
-0,Noah Loy
-0,Peter Saudale
-0,Scott Cricks
-0,Tanner Hawkins
-0,Thomas Rzasnicki
-0,Aidan Forsythe
-0,Beau Sherrill
-0,William DiCarlo
-3,Mark Henke
-4,Decker Padgett
-8,Ethan Horng
-9,Gareth May
-9,Will Zarrouk
-22,Tony Cao
-23,Garrison Abide
-24,Ryan Mohammadian
-35,Richard Pena
-42,Connor  Wester 
-b,r,e,a,k
 Trinity,16
 teamInfo,Turbulence,"San Antonio, Texas",,,
 0,Andrew Kroft
@@ -343,6 +316,33 @@ teamInfo,Turbulence,"San Antonio, Texas",,,
 66,Nicholas  Chen
 99,Evatt Howerton
 b,r,e,a,k
+Texas A&M,9
+teamInfo,Dozen,"COLLEGE STATION, Texas",dozenultimate.com,https://www.facebook.com/tamuultimate/,https://twitter.com/DozenUltimate/
+0,Corey Chrudimsky
+0,Jaeden Powell
+0,John Tebbetts
+0,Jonathan Jin
+0,Justin Kutrybala
+0,Michael Besancon
+0,Noah Loy
+0,Peter Saudale
+0,Scott Cricks
+0,Tanner Hawkins
+0,Thomas Rzasnicki
+0,Aidan Forsythe
+0,Beau Sherrill
+0,William DiCarlo
+3,Mark Henke
+4,Decker Padgett
+8,Ethan Horng
+9,Gareth May
+9,Will Zarrouk
+22,Tony Cao
+23,Garrison Abide
+24,Ryan Mohammadian
+35,Richard Pena
+42,Connor  Wester 
+b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
@@ -357,8 +357,8 @@ Florida State,Rice,0,0,"02/21/2026, 14:00",Pool A,Scheduled
 Emory,Florida State,0,0,"02/21/2026, 15:45",Pool A,Scheduled
 Texas-San Antonio,Rice,0,0,"02/21/2026, 15:45",Pool A,Scheduled
 pool,Pool B
-Auburn,Arkansas,0,0,"02/21/2026, 10:15",Pool B,Scheduled
-Tennessee-Chattanooga,Texas State,0,0,"02/21/2026, 10:15",Pool B,Scheduled
+Auburn,Arkansas,12,8,"02/21/2026, 10:15",Pool B,Final
+Tennessee-Chattanooga,Texas State,10,7,"02/21/2026, 10:15",Pool B,Final
 Auburn,Texas State,0,0,"02/21/2026, 12:15",Pool B,Scheduled
 Tennessee-Chattanooga,Arkansas,0,0,"02/21/2026, 12:15",Pool B,Scheduled
 Auburn,Tennessee-Chattanooga,0,0,"02/21/2026, 15:45",Pool B,Scheduled
@@ -367,11 +367,11 @@ pool,Pool C
 Missouri,South Florida,14,3,"02/21/2026, 08:30",Pool C,Final
 LSU,Sam Houston,15,5,"02/21/2026, 08:30",Pool C,Final
 Missouri,Sam Houston,15,3,"02/21/2026, 10:15",Pool C,Final
-LSU,South Florida,0,0,"02/21/2026, 10:15",Pool C,Scheduled
+LSU,South Florida,13,6,"02/21/2026, 10:15",Pool C,Final
 Missouri,LSU,0,0,"02/21/2026, 14:00",Pool C,Scheduled
 South Florida,Sam Houston,0,0,"02/21/2026, 14:00",Pool C,Scheduled
 pool,Pool D
-Alabama,Texas A&M,0,0,"02/21/2026, 10:15",Pool D,Scheduled
+Alabama,Texas A&M,11,9,"02/21/2026, 10:15",Pool D,Final
 Mississippi State,Trinity,0,0,"02/21/2026, 10:15",Pool D,Scheduled
 Alabama,Trinity,0,0,"02/21/2026, 12:15",Pool D,Scheduled
 Mississippi State,Texas A&M,0,0,"02/21/2026, 12:15",Pool D,Scheduled
