@@ -1,6 +1,45 @@
 Mardi Gras XXXVIII,College - Men ,21,2,2026
 Baton Rouge,LA,2026-02-21,2026-02-22
 https://play.usaultimate.org/events/Mardi-Gras-XXXVIII/schedule/Men/CollegeMen/
+Rice,17
+teamInfo,Cloud 9,"Houston, Texas",cloud9.rice.edu,,@RiceMensUlti
+0,Jack Guan
+0,Jack Frangos
+0,Kyle Szekeres
+0,Matthew  Bischoff
+0,Adam Dubelman
+0,Patrick Shukis
+0,Rayhan Roy
+0,Zarius Gazder
+2,Gavin Mason
+42,Max Kuhlman
+44,Alex Sansom
+b,r,e,a,k
+Florida State,8
+teamInfo,DUF,"Tallahassee, Florida",,https://www.facebook.com/FSUltimate,https://twitter.com/DUFtrainroll
+0,Evan Thompson
+0,Jack Kelly
+0,Justin Wright
+0,London Williams
+0,Thomas Lewis
+0,Ulysses Ellis
+3,Edward Bou
+4,Evan Baker
+5,Dominic Pawlusiak
+7,Owen Peronto
+8,Nicolai Riekerk
+10,Trevor Janik
+11,Colton Turner 
+12,Michael Berg
+13,Robert Frost
+16,Julian St Esprit
+17,Sam Swartz
+19,Bodie Cole
+25,Keaton Van Nostrand
+29,Ransom Staszak
+45,Isaac Stuart
+88,Benjamin Watson
+b,r,e,a,k
 Emory,1
 teamInfo,Emory Juice,"Atlanta, Georgia",,,https://twitter.com/EmoryJuice
 coaches,Matthew Shu
@@ -29,31 +68,6 @@ coaches,Matthew Shu
 26,Jesse Rider
 28,Daniel Nickas
 29,Kai Diez
-b,r,e,a,k
-Florida State,8
-teamInfo,DUF,"Tallahassee, Florida",,https://www.facebook.com/FSUltimate,https://twitter.com/DUFtrainroll
-0,Evan Thompson
-0,Jack Kelly
-0,Justin Wright
-0,London Williams
-0,Thomas Lewis
-0,Ulysses Ellis
-3,Edward Bou
-4,Evan Baker
-5,Dominic Pawlusiak
-7,Owen Peronto
-8,Nicolai Riekerk
-10,Trevor Janik
-11,Colton Turner 
-12,Michael Berg
-13,Robert Frost
-16,Julian St Esprit
-17,Sam Swartz
-19,Bodie Cole
-25,Keaton Van Nostrand
-29,Ransom Staszak
-45,Isaac Stuart
-88,Benjamin Watson
 b,r,e,a,k
 Texas-San Antonio,12
 teamInfo,Siesta,"San Antonio, Texas",,,
@@ -92,20 +106,6 @@ teamInfo,Firebird,"Jacksonville, Alabama",https://jsuultimate.com/,,https://twit
 29,Grant LaVercombe
 68,George Jackson
 69,Mike Zheng 
-b,r,e,a,k
-Rice,17
-teamInfo,Cloud 9,"Houston, Texas",cloud9.rice.edu,,@RiceMensUlti
-0,Jack Guan
-0,Jack Frangos
-0,Kyle Szekeres
-0,Matthew  Bischoff
-0,Adam Dubelman
-0,Patrick Shukis
-0,Rayhan Roy
-0,Zarius Gazder
-2,Gavin Mason
-42,Max Kuhlman
-44,Alex Sansom
 b,r,e,a,k
 Auburn,2
 teamInfo,Aetos,"Auburn, Alabama",,https://www.facebook.com/auburnultimate,https://twitter.com/AuburnUltimate
@@ -191,6 +191,23 @@ teamInfo,,,,,
 "<a href=""/events/teams/?EventTeamId=H%2fmJaXEi%2fxO59Fv56QwbCL%2fW7lOBUe7Hxbm7b18RnHE%3d"">Case Western Reserve (16)</a>",1 - 3
 "<a href=""/events/teams/?EventTeamId=A0Bjm9yNTvhk1HTvKcCORS4AjzajoD85QWr5ApcWL7g%3d"">Appalachian State (17)</a>",0 - 4
 b,r,e,a,k
+Sam Houston,15
+teamInfo,Prison Break,"Huntsville, Texas",,,
+4,Owen Farmer
+6,Ellis Penate 
+7,Grant Sides
+9,Christian Ekpenike
+10,Justin Woodley
+13,Mason Rodriguez
+20,Sean Carsten
+21,Zaider James Ompad
+25,Sebastian Ferman 
+30,Bryce Sanchez
+35,Braedan Sulzbach
+41,Hunter Wells
+69,Ty White
+90,Clayton Oaks
+b,r,e,a,k
 South Florida,10
 teamInfo,Scallywags,"Tampa, Florida",,https://facebook.com/usfultimate,https://twitter.com/MUltClubUSF
 0,Aidyn Rosochowicz
@@ -218,23 +235,6 @@ teamInfo,Scallywags,"Tampa, Florida",,https://facebook.com/usfultimate,https://t
 77,Adam Costello
 87,Aidan Carroll
 88,Ian James
-b,r,e,a,k
-Sam Houston,15
-teamInfo,Prison Break,"Huntsville, Texas",,,
-4,Owen Farmer
-6,Ellis Penate 
-7,Grant Sides
-9,Christian Ekpenike
-10,Justin Woodley
-13,Mason Rodriguez
-20,Sean Carsten
-21,Zaider James Ompad
-25,Sebastian Ferman 
-30,Bryce Sanchez
-35,Braedan Sulzbach
-41,Hunter Wells
-69,Ty White
-90,Clayton Oaks
 b,r,e,a,k
 Alabama,4
 teamInfo,Yellow Hammer,"Tuscaloosa, Alabama",alabamaultimate.wordpress.com,https://www.facebook.com/AlabamaUltimate/,twitter.com/bama_ultimate
@@ -346,8 +346,8 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
-Jacksonville State,Rice,0,0,"02/21/2026, 08:30",Pool A,Scheduled
-Florida State,Texas-San Antonio,0,0,"02/21/2026, 08:30",Pool A,Scheduled
+Jacksonville State,Rice,5,13,"02/21/2026, 08:30",Pool A,Final
+Florida State,Texas-San Antonio,13,7,"02/21/2026, 08:30",Pool A,Final
 Emory,Texas-San Antonio,0,0,"02/21/2026, 10:15",Pool A,Scheduled
 Florida State,Jacksonville State,0,0,"02/21/2026, 10:15",Pool A,Scheduled
 Emory,Rice,0,0,"02/21/2026, 12:15",Pool A,Scheduled
@@ -364,8 +364,8 @@ Tennessee-Chattanooga,Arkansas,0,0,"02/21/2026, 12:15",Pool B,Scheduled
 Auburn,Tennessee-Chattanooga,0,0,"02/21/2026, 15:45",Pool B,Scheduled
 Arkansas,Texas State,0,0,"02/21/2026, 15:45",Pool B,Scheduled
 pool,Pool C
-Missouri,South Florida,0,0,"02/21/2026, 08:30",Pool C,Scheduled
-LSU,Sam Houston,0,0,"02/21/2026, 08:30",Pool C,Scheduled
+Missouri,South Florida,14,3,"02/21/2026, 08:30",Pool C,Final
+LSU,Sam Houston,15,5,"02/21/2026, 08:30",Pool C,Final
 Missouri,Sam Houston,0,0,"02/21/2026, 10:15",Pool C,Scheduled
 LSU,South Florida,0,0,"02/21/2026, 10:15",Pool C,Scheduled
 Missouri,LSU,0,0,"02/21/2026, 14:00",Pool C,Scheduled
