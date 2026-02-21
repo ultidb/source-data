@@ -127,32 +127,6 @@ teamInfo,Flying Horsecows,"Oberlin, Ohio",https://sites.google.com/oberlin.edu/f
 71,Sebastien Kline
 99,Gabe Kiron
 b,r,e,a,k
-Brandeis,11
-teamInfo,TRON,"Waltham, Massachusetts",,https://www.facebook.com/brandeistron,https://twitter.com/brandeistron
-coaches,Cameron Park
-0,Eytan Sieger
-0,Jeremy Sun
-4,Noah Baumann
-5,Nathaniel Pazos
-00,Judah Goldman
-02,Ezekiel Bloom
-06,Jacob Budner
-07,Arthur Winkelmann
-08,Sihoc-Adam Ho
-09,Max Klein
-12,Nathaniel Friedman
-13,Lars Kovamees
-15,Noah Zall
-18,Seth Rosenfeld
-21,Aaron Gold
-31,Lior Schifrin
-36,Ethan Rosenfeld
-42,Evan Reif
-66,Jonah Grantz
-77,Ryan Carmichael
-88,Aaron Klein
-99,Yaxin Jiao
-b,r,e,a,k
 Wesleyan,2
 teamInfo,Nietzsch Factor,"Middletown, Connecticut",,https://www.facebook.com/nietzschfactor/,https://twitter.com/nietzschfactor
 0,Alexander Baneat
@@ -188,6 +162,32 @@ teamInfo,Nietzsch Factor,"Middletown, Connecticut",,https://www.facebook.com/nie
 77,Dylan McCaleb
 86,Jackson Barber-Just
 99,Sam Korenbaum
+b,r,e,a,k
+Brandeis,11
+teamInfo,TRON,"Waltham, Massachusetts",,https://www.facebook.com/brandeistron,https://twitter.com/brandeistron
+coaches,Cameron Park
+0,Eytan Sieger
+0,Jeremy Sun
+4,Noah Baumann
+5,Nathaniel Pazos
+00,Judah Goldman
+02,Ezekiel Bloom
+06,Jacob Budner
+07,Arthur Winkelmann
+08,Sihoc-Adam Ho
+09,Max Klein
+12,Nathaniel Friedman
+13,Lars Kovamees
+15,Noah Zall
+18,Seth Rosenfeld
+21,Aaron Gold
+31,Lior Schifrin
+36,Ethan Rosenfeld
+42,Evan Reif
+66,Jonah Grantz
+77,Ryan Carmichael
+88,Aaron Klein
+99,Yaxin Jiao
 b,r,e,a,k
 Mary Washington,14
 teamInfo,Mother of George,"Fredericksburg, Virginia",,,
@@ -280,28 +280,6 @@ teamInfo,Dumptrucks,"Carlisle, Pennsylvania",,,
 20,Elio Baez-Estersohn
 21,Hollin Barth
 b,r,e,a,k
-SUNY-Cortland,15
-teamInfo,Team Rocket,"Cortland, New York",,,https://twitter.com/cortlandulti?s=21
-coaches,Kevin O'Connor
-0,Jackson Gillespie
-0,Kurt Plattel
-1,Drew Jashembowski
-5,Sullivan Eager
-07,Alexander Cammarata
-08,Matthew Prendergast
-10,Nicholas Staco
-11,Ethan Rafuse
-14,Connor McNeill
-15,Andrew  Saam
-17,Michael Coomes III
-19,Benjamin Canino
-20,Michael Levy
-23,John Piszczatowski
-24,James  Prendergast
-32,James Weilert
-55,Tim Connolly 
-87,Caden Miata
-b,r,e,a,k
 Davidson,6
 teamInfo,DUFF,"Davidson, North Carolina",,https://www.facebook.com/DavidsonUltimate/,https://mobile.twitter.com/DUFF_Cats?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
 0,Andre Phillips
@@ -337,6 +315,28 @@ teamInfo,DUFF,"Davidson, North Carolina",,https://www.facebook.com/DavidsonUltim
 33,John Ready
 35,Beckett Ledahl
 77,Josh Matushak
+b,r,e,a,k
+SUNY-Cortland,15
+teamInfo,Team Rocket,"Cortland, New York",,,https://twitter.com/cortlandulti?s=21
+coaches,Kevin O'Connor
+0,Jackson Gillespie
+0,Kurt Plattel
+1,Drew Jashembowski
+5,Sullivan Eager
+07,Alexander Cammarata
+08,Matthew Prendergast
+10,Nicholas Staco
+11,Ethan Rafuse
+14,Connor McNeill
+15,Andrew  Saam
+17,Michael Coomes III
+19,Benjamin Canino
+20,Michael Levy
+23,John Piszczatowski
+24,James  Prendergast
+32,James Weilert
+55,Tim Connolly 
+87,Caden Miata
 b,r,e,a,k
 North Carolina-Asheville,5
 teamInfo,Mudpuppy,"Asheville, North Carolina",,,
@@ -444,7 +444,7 @@ Berry,Haverford,0,0,"02/21/2026, 12:00",Pool A,Scheduled
 Franciscan,Berry,0,0,"02/21/2026, 15:00",Pool A,Scheduled
 Haverford,Christopher Newport,0,0,"02/21/2026, 15:00",Pool A,Scheduled
 pool,Pool B
-Wesleyan,Brandeis,0,0,"02/21/2026, 09:00",Pool B,Scheduled
+Wesleyan,Brandeis,13,12,"02/21/2026, 09:00",Pool B,Final
 Oberlin,Mary Washington,13,5,"02/21/2026, 09:00",Pool B,Final
 Wesleyan,Mary Washington,0,0,"02/21/2026, 10:30",Pool B,Scheduled
 Oberlin,Brandeis,0,0,"02/21/2026, 10:30",Pool B,Scheduled
@@ -452,7 +452,7 @@ Wesleyan,Oberlin,0,0,"02/21/2026, 13:30",Pool B,Scheduled
 Brandeis,Mary Washington,0,0,"02/21/2026, 13:30",Pool B,Scheduled
 pool,Pool C
 Richmond,Davidson,13,11,"02/20/2026, 20:00",Pool C,Final
-Richmond,SUNY-Cortland,0,0,"02/21/2026, 09:00",Pool C,Scheduled
+Richmond,SUNY-Cortland,13,8,"02/21/2026, 09:00",Pool C,Final
 Richmond,Dickinson,0,0,"02/21/2026, 10:30",Pool C,Scheduled
 Davidson,SUNY-Cortland,0,0,"02/21/2026, 10:30",Pool C,Scheduled
 Davidson,Dickinson,0,0,"02/21/2026, 12:00",Pool C,Scheduled
