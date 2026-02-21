@@ -194,23 +194,6 @@ teamInfo,Leadbelly,"Columbus, Ohio",,,
 23,Camron Chambers
 99,Christian Colon
 b,r,e,a,k
-East Carolina,18
-teamInfo,Irates,"Greenville, North Carolina",,https://www.facebook.com/ECUUltimateFrisbee,https://twitter.com/ECUUltimate
-0,Gabriel Blanche
-00,Tanner Plentl
-01,Elliot Meyer
-05,Terrence Johnson
-06,Connor Rowand 
-07,Abdel al Karim Amra
-13,Ethan Mollica
-14,Isaiah  Faulkner
-15,Wade Watson
-19,Quinn Scott
-29,Joseph Laliberte 
-44,Preston Davis
-45,Colton Atkinson
-80,Bryan Cox
-b,r,e,a,k
 Florida,7
 teamInfo,Florida,"Gainesville, Florida",,https://www.facebook.com/floridaultimate,https://twitter.com/floridaclubult
 01,Benjamin Adair
@@ -241,6 +224,23 @@ teamInfo,Florida,"Gainesville, Florida",,https://www.facebook.com/floridaultimat
 81,Brayden Przekwas
 83,Jack Roberts
 b,r,e,a,k
+East Carolina,18
+teamInfo,Irates,"Greenville, North Carolina",,https://www.facebook.com/ECUUltimateFrisbee,https://twitter.com/ECUUltimate
+0,Gabriel Blanche
+00,Tanner Plentl
+01,Elliot Meyer
+05,Terrence Johnson
+06,Connor Rowand 
+07,Abdel al Karim Amra
+13,Ethan Mollica
+14,Isaiah  Faulkner
+15,Wade Watson
+19,Quinn Scott
+29,Joseph Laliberte 
+44,Preston Davis
+45,Colton Atkinson
+80,Bryan Cox
+b,r,e,a,k
 James Madison,15
 teamInfo,Hellfish,"Harrisonburg, Virginia",jmu.edu,,
 0,Alex Ricci
@@ -269,31 +269,6 @@ teamInfo,Hellfish,"Harrisonburg, Virginia",jmu.edu,,
 84,Gray Middleton
 95,Ryan Lowe
 96,John Pullen
-b,r,e,a,k
-Ottawa,6
-teamInfo,Gee-Gees,"Ottawa, Ontario CA",,https://www.facebook.com/GeeGeeMensFrisbee,
-coaches,Luke Phelan,Desmond Staples
-0,Félix Desrosiers
-0,Grady Avarell
-0,Grant Hui
-0,Ilusha Andreev
-0,Jack Beech
-0,Jackson Heard
-0,Jaden Fielding
-0,Kaeden Ireland
-0,Kaleb Schakelaar
-0,Marc-Antoine Larouche
-0,Nathan Griezic
-0,Nicholas Gohar
-0,Noah Berube
-0,Roth Mohring
-0,Ryan Burns
-0,Theo Gobeil
-0,Vijuut Giritharan
-0,Alexis Plourde
-0,Andreas Carneiro
-4,Ennio Ciambella
-83,Maxime Ayad
 b,r,e,a,k
 Maryland,3
 teamInfo,Maryland Ultimate,"College Park, Maryland",https://terplink.umd.edu/organization/maryland-ultimate,,https://twitter.com/umdmensultimate
@@ -329,6 +304,31 @@ teamInfo,Maryland Ultimate,"College Park, Maryland",https://terplink.umd.edu/org
 44,Austin Paynter
 66,Samuel MacDonald
 71,Jeremy Allen
+b,r,e,a,k
+Ottawa,6
+teamInfo,Gee-Gees,"Ottawa, Ontario CA",,https://www.facebook.com/GeeGeeMensFrisbee,
+coaches,Luke Phelan,Desmond Staples
+0,Félix Desrosiers
+0,Grady Avarell
+0,Grant Hui
+0,Ilusha Andreev
+0,Jack Beech
+0,Jackson Heard
+0,Jaden Fielding
+0,Kaeden Ireland
+0,Kaleb Schakelaar
+0,Marc-Antoine Larouche
+0,Nathan Griezic
+0,Nicholas Gohar
+0,Noah Berube
+0,Roth Mohring
+0,Ryan Burns
+0,Theo Gobeil
+0,Vijuut Giritharan
+0,Alexis Plourde
+0,Andreas Carneiro
+4,Ennio Ciambella
+83,Maxime Ayad
 b,r,e,a,k
 Cincinnati,11
 teamInfo,Bearcats,"Cincinnati, Ohio",,,https://twitter.com/UCUltimate
@@ -569,7 +569,7 @@ Florida,James Madison,10,9,"02/21/2026, 10:45",Pool B,Final
 James Madison,East Carolina,7,13,"02/21/2026, 12:30",Pool B,Final
 Florida,Ohio State,10,13,"02/21/2026, 12:30",Pool B,Final
 McGill,James Madison,13,4,"02/21/2026, 14:15",Pool B,Final
-Florida,East Carolina,0,0,"02/21/2026, 14:15",Pool B,Scheduled
+Florida,East Carolina,12,8,"02/21/2026, 14:15",Pool B,Final
 McGill,Florida,0,0,"02/21/2026, 16:00",Pool B,Scheduled
 Ohio State,East Carolina,0,0,"02/21/2026, 16:00",Pool B,Scheduled
 pool,Pool C
@@ -579,7 +579,7 @@ Maryland,Cincinnati,13,11,"02/21/2026, 10:45",Pool C,Final
 Ottawa,North Carolina-Charlotte,13,5,"02/21/2026, 10:45",Pool C,Final
 North Carolina-Charlotte,Vanderbilt,12,11,"02/21/2026, 12:30",Pool C,Final
 Ottawa,Cincinnati,13,8,"02/21/2026, 12:30",Pool C,Final
-Maryland,North Carolina-Charlotte,0,0,"02/21/2026, 14:15",Pool C,Scheduled
+Maryland,North Carolina-Charlotte,13,5,"02/21/2026, 14:15",Pool C,Final
 Ottawa,Vanderbilt,13,5,"02/21/2026, 14:15",Pool C,Final
 Maryland,Ottawa,0,0,"02/21/2026, 16:00",Pool C,Scheduled
 Cincinnati,Vanderbilt,0,0,"02/21/2026, 16:00",Pool C,Scheduled
@@ -587,10 +587,10 @@ pool,Pool D
 Georgetown,Syracuse,13,6,"02/21/2026, 09:00",Pool D,Final
 Indiana,Carnegie Mellon,11,13,"02/21/2026, 09:00",Pool D,Final
 Georgetown,Indiana,13,5,"02/21/2026, 10:45",Pool D,Final
-Virginia Tech,Carnegie Mellon,13,6,"02/21/2026, 10:45",Pool D,Final
+Virginia Tech,Carnegie Mellon,13,7,"02/21/2026, 10:45",Pool D,Final
 Carnegie Mellon,Syracuse,10,13,"02/21/2026, 12:30",Pool D,Final
 Virginia Tech,Indiana,13,8,"02/21/2026, 12:30",Pool D,Final
-Georgetown,Carnegie Mellon,8,8,"02/21/2026, 14:15",Pool D,In Progress
+Georgetown,Carnegie Mellon,12,11,"02/21/2026, 14:15",Pool D,Final
 Virginia Tech,Syracuse,0,0,"02/21/2026, 14:15",Pool D,Scheduled
 Georgetown,Virginia Tech,0,0,"02/21/2026, 16:00",Pool D,Scheduled
 Indiana,Syracuse,0,0,"02/21/2026, 16:00",Pool D,Scheduled
