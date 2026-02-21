@@ -164,36 +164,6 @@ teamInfo,MUT,"Montreal, Quebec CA",https://mcgillultimate.com/,https://www.faceb
 70,Colin Chan
 77,Jaden Verlaan
 b,r,e,a,k
-Florida,7
-teamInfo,Florida,"Gainesville, Florida",,https://www.facebook.com/floridaultimate,https://twitter.com/floridaclubult
-01,Benjamin Adair
-03,Moses Jaffa
-04,Caio Rudloff
-07,Lucas Rudloff
-09,Charles Overdevest
-10,Tristan  Carron
-11,David Brainard
-12,Thomas Chase
-13,Davis Orr
-15,Ian Goldwire
-16,Ayden Moran
-18,Alec Belteau
-19,Bhagya Patel
-23,Emerson Van Soest
-26,Nevin Legare
-27,Yuxuan Tao
-29,Dheeraj Pedada
-37,Samuel Fong
-38,William Le
-42,Harin Patel
-43,Benjamin Burke
-47,Ethan Dagostino
-48,Rafael Casellas
-61,Chase Kennedy
-67,Justin Gordon
-81,Brayden Przekwas
-83,Jack Roberts
-b,r,e,a,k
 Ohio State,10
 teamInfo,Leadbelly,"Columbus, Ohio",,,
 0,Aaron Mogilner
@@ -223,6 +193,36 @@ teamInfo,Leadbelly,"Columbus, Ohio",,,
 22,Rea Hederman
 23,Camron Chambers
 99,Christian Colon
+b,r,e,a,k
+Florida,7
+teamInfo,Florida,"Gainesville, Florida",,https://www.facebook.com/floridaultimate,https://twitter.com/floridaclubult
+01,Benjamin Adair
+03,Moses Jaffa
+04,Caio Rudloff
+07,Lucas Rudloff
+09,Charles Overdevest
+10,Tristan  Carron
+11,David Brainard
+12,Thomas Chase
+13,Davis Orr
+15,Ian Goldwire
+16,Ayden Moran
+18,Alec Belteau
+19,Bhagya Patel
+23,Emerson Van Soest
+26,Nevin Legare
+27,Yuxuan Tao
+29,Dheeraj Pedada
+37,Samuel Fong
+38,William Le
+42,Harin Patel
+43,Benjamin Burke
+47,Ethan Dagostino
+48,Rafael Casellas
+61,Chase Kennedy
+67,Justin Gordon
+81,Brayden Przekwas
+83,Jack Roberts
 b,r,e,a,k
 East Carolina,18
 teamInfo,Irates,"Greenville, North Carolina",,https://www.facebook.com/ECUUltimateFrisbee,https://twitter.com/ECUUltimate
@@ -465,6 +465,30 @@ teamInfo,Burn,"Blacksburg, Virginia",http://vtultimate.wix.com/virginiatechultim
 69,Luke Kenney
 89,Jacob Sigeti
 b,r,e,a,k
+Syracuse,20
+teamInfo,Doom,"Syracuse, New York",,,
+0,Cedar Conly
+0,Charles Aubitz
+0,Christopher Kilbridge
+0,Austin Chang
+0,Grady Bosch
+0,Joseph Chura
+0,Julian  Bosco
+0,Kfir Shoham
+0,Nathan Greenwald
+0,Nicholas Rubino
+0,Quinn Daly
+0,Risen Zhang
+0,Ross DiOrio
+0,Sawyer Falkenbush
+0,Zane Levy
+7,James Tibolla
+7,Dean Lourenco
+10,Casey Kelley
+11,Eamon Conneely
+30,Silas  Johnson
+42,Micah Scheinkman
+b,r,e,a,k
 Carnegie Mellon,13
 teamInfo,Mr. Yuk,"Pittsburgh, Pennsylvania",https://www.andrew.cmu.edu/user/ultimate/yuk/,,https://twitter.com/mryukultimate
 0,Abhishek Varadarajan
@@ -492,30 +516,6 @@ teamInfo,Mr. Yuk,"Pittsburgh, Pennsylvania",https://www.andrew.cmu.edu/user/ulti
 49,Luke Cogswell
 56,James Alzona
 84,Nicholas Blair
-b,r,e,a,k
-Syracuse,20
-teamInfo,Doom,"Syracuse, New York",,,
-0,Cedar Conly
-0,Charles Aubitz
-0,Christopher Kilbridge
-0,Austin Chang
-0,Grady Bosch
-0,Joseph Chura
-0,Julian  Bosco
-0,Kfir Shoham
-0,Nathan Greenwald
-0,Nicholas Rubino
-0,Quinn Daly
-0,Risen Zhang
-0,Ross DiOrio
-0,Sawyer Falkenbush
-0,Zane Levy
-7,James Tibolla
-7,Dean Lourenco
-10,Casey Kelley
-11,Eamon Conneely
-30,Silas  Johnson
-42,Micah Scheinkman
 b,r,e,a,k
 Indiana,12
 teamInfo,HoosierMama?s,"Bloomington, Indiana",hoosiermamas.org,https://www.facebook.com/HoosierMamas/,https://twitter.com/Hoosier_Mamas?lang=en
@@ -567,7 +567,7 @@ Ohio State,James Madison,13,7,"02/21/2026, 09:00",Pool B,Final
 McGill,Ohio State,13,7,"02/21/2026, 10:45",Pool B,Final
 Florida,James Madison,10,9,"02/21/2026, 10:45",Pool B,Final
 James Madison,East Carolina,0,0,"02/21/2026, 12:30",Pool B,Scheduled
-Florida,Ohio State,0,0,"02/21/2026, 12:30",Pool B,Scheduled
+Florida,Ohio State,10,13,"02/21/2026, 12:30",Pool B,Final
 McGill,James Madison,0,0,"02/21/2026, 14:15",Pool B,Scheduled
 Florida,East Carolina,0,0,"02/21/2026, 14:15",Pool B,Scheduled
 McGill,Florida,0,0,"02/21/2026, 16:00",Pool B,Scheduled
@@ -578,7 +578,7 @@ Cincinnati,North Carolina-Charlotte,13,12,"02/21/2026, 09:00",Pool C,Final
 Maryland,Cincinnati,13,11,"02/21/2026, 10:45",Pool C,Final
 Ottawa,North Carolina-Charlotte,13,5,"02/21/2026, 10:45",Pool C,Final
 North Carolina-Charlotte,Vanderbilt,0,0,"02/21/2026, 12:30",Pool C,Scheduled
-Ottawa,Cincinnati,9,5,"02/21/2026, 12:30",Pool C,In Progress
+Ottawa,Cincinnati,13,8,"02/21/2026, 12:30",Pool C,Final
 Maryland,North Carolina-Charlotte,0,0,"02/21/2026, 14:15",Pool C,Scheduled
 Ottawa,Vanderbilt,0,0,"02/21/2026, 14:15",Pool C,Scheduled
 Maryland,Ottawa,0,0,"02/21/2026, 16:00",Pool C,Scheduled
@@ -588,8 +588,8 @@ Georgetown,Syracuse,13,6,"02/21/2026, 09:00",Pool D,Final
 Indiana,Carnegie Mellon,11,13,"02/21/2026, 09:00",Pool D,Final
 Georgetown,Indiana,13,5,"02/21/2026, 10:45",Pool D,Final
 Virginia Tech,Carnegie Mellon,13,7,"02/21/2026, 10:45",Pool D,Final
-Carnegie Mellon,Syracuse,0,0,"02/21/2026, 12:30",Pool D,Scheduled
-Virginia Tech,Indiana,0,0,"02/21/2026, 12:30",Pool D,Scheduled
+Carnegie Mellon,Syracuse,10,13,"02/21/2026, 12:30",Pool D,Final
+Virginia Tech,Indiana,13,8,"02/21/2026, 12:30",Pool D,Final
 Georgetown,Carnegie Mellon,0,0,"02/21/2026, 14:15",Pool D,Scheduled
 Virginia Tech,Syracuse,0,0,"02/21/2026, 14:15",Pool D,Scheduled
 Georgetown,Virginia Tech,0,0,"02/21/2026, 16:00",Pool D,Scheduled
