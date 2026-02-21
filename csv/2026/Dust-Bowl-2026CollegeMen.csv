@@ -34,28 +34,6 @@ teamInfo,Ultimato,"Stillwater, Oklahoma",,,
 42,William Faust
 99,Charlie Cutts
 b,r,e,a,k
-Harding,8
-teamInfo,Harding Apocalypse,"Searcy, Arkansas",,,
-coaches,Justin MIlls
-0,Benjamin  Nance
-0,Cameron Hembree
-0,Chase Regester
-0,Matthew Kendall
-0,Stephen Mitchell
-0,Thomas Hardy
-2,Joshua Cloer
-3,Noah Sears
-4,Charles Cooper
-8,Ezra Duckworth
-9,Nicholas  Martin 
-13,Elijah Duke
-14,Caleb Toye
-24,Jack Gisel
-25,Denver Mitchell
-34,Nathanael Weber
-66,Luke Bensinger
-92,Landon Brajnik
-b,r,e,a,k
 Washington University (B),9
 teamInfo,Contraband,"St. Louis, Missouri",https://sites.wustl.edu/contraband/,,https://www.twitter.com/wucontraband
 0,Brian Fan
@@ -87,6 +65,28 @@ teamInfo,Tumbleweed,"Lubbock, Texas",www.Tumbleweedultimate.com,https://www.face
 0,Tyler Brooks
 0,Annie Benson
 26,Chris Young
+b,r,e,a,k
+Harding,8
+teamInfo,Harding Apocalypse,"Searcy, Arkansas",,,
+coaches,Justin MIlls
+0,Benjamin  Nance
+0,Cameron Hembree
+0,Chase Regester
+0,Matthew Kendall
+0,Stephen Mitchell
+0,Thomas Hardy
+2,Joshua Cloer
+3,Noah Sears
+4,Charles Cooper
+8,Ezra Duckworth
+9,Nicholas  Martin 
+13,Elijah Duke
+14,Caleb Toye
+24,Jack Gisel
+25,Denver Mitchell
+34,Nathanael Weber
+66,Luke Bensinger
+92,Landon Brajnik
 b,r,e,a,k
 Texas-Dallas,5
 teamInfo,Woof,"Richardson, Texas",,,https://twitter.com/utd_ultimate
@@ -191,9 +191,9 @@ pool,Pool A
 Northern Iowa,Texas Tech,10,4,"02/21/2026, 10:00",Pool A,Final
 Oklahoma State,Washington University (B),8,6,"02/21/2026, 10:00",Pool A,Final
 Northern Iowa,Oklahoma State,10,8,"02/21/2026, 11:30",Pool A,Final
-Texas Tech,Harding,0,0,"02/21/2026, 11:30",Pool A,Scheduled
-Northern Iowa,Harding,0,0,"02/21/2026, 13:00",Pool A,Scheduled
-Texas Tech,Washington University (B),0,0,"02/21/2026, 13:00",Pool A,Scheduled
+Texas Tech,Harding,7,6,"02/21/2026, 11:30",Pool A,Final
+Northern Iowa,Harding,10,7,"02/21/2026, 13:00",Pool A,Final
+Texas Tech,Washington University (B),7,9,"02/21/2026, 13:00",Pool A,Final
 Oklahoma State,Texas Tech,0,0,"02/21/2026, 14:30",Pool A,Scheduled
 Harding,Washington University (B),0,0,"02/21/2026, 14:30",Pool A,Scheduled
 Northern Iowa,Washington University (B),0,0,"02/22/2026, 09:00",Pool A,Scheduled
@@ -205,7 +205,7 @@ Oklahoma,Dallas,8,5,"02/21/2026, 10:00",Pool B,Final
 North Texas,John Brown,10,5,"02/21/2026, 11:30",Pool B,Final
 Texas-Dallas,Oklahoma,9,5,"02/21/2026, 11:30",Pool B,Final
 Kansas State,Dallas,8,6,"02/21/2026, 11:30",Pool B,Final
-North Texas,Oklahoma,0,0,"02/21/2026, 13:00",Pool B,Scheduled
+North Texas,Oklahoma,11,4,"02/21/2026, 13:00",Pool B,Final
 John Brown,Dallas,0,0,"02/21/2026, 13:00",Pool B,Scheduled
 Texas-Dallas,Kansas State,0,0,"02/21/2026, 13:00",Pool B,Scheduled
 North Texas,Dallas,0,0,"02/21/2026, 14:30",Pool B,Scheduled
