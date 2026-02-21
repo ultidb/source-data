@@ -114,33 +114,6 @@ teamInfo,,,,,
 "<a href=""/events/teams/?EventTeamId=zhUZWnqr13LJq66opE0MRQLW5VpUdrKQIYOsVNaLwlg%3d"">Florida (B) (5)</a>",1 - 3
 "<a href=""/events/teams/?EventTeamId=HtcDhALZQqZwMdy3M1br%2fcp5O1W6ayQC7kGxDRsJp8U%3d"">South Florida (11)</a>",0 - 4
 b,r,e,a,k
-Temple,2
-teamInfo,TUF,"Philadelphia, Pennsylvania",,,
-0,Emma Corso
-03,Bay Hill
-05,Minnie Li
-07,Ellis Measley
-08,Jasmine Phou
-10,Adaora Ike
-11,Maria  Maza Rion
-12,Samantha Thomas
-20,Melody Smeltzer
-21,Annabelle Dugan
-24,Layla  Monte
-26,Ava Houser
-27,Barron Strouse
-33,Abigail Sullivan
-34,Adelle Pope
-44,Beverley Yap
-77,Hollie Wolfenden
-b,r,e,a,k
-Virginia Tech,3
-teamInfo,,,,,
-"<a href=""/events/teams/?EventTeamId=VkBCZQkuRQm84XSLlxtx4oLLtFylyPAq%2fD6ZMZe2hVQ%3d"">North Carolina (1)</a>",2 - 0
-"<a href=""/events/teams/?EventTeamId=blygB%2bSLcVOFahjzSw3RoXCij3e9c6wBFsW6Wo%2bWScU%3d"">Elon (8)</a>",1 - 1
-"<a href=""/events/teams/?EventTeamId=XXDn67xIkGx8Z4%2fsYqQ1TYVwMWl2J52GxcBEmGLw8%2bw%3d"">Duke (9)</a>",1 - 1
-"<a href=""/events/teams/?EventTeamId=qUUfhzm91KY0c4BkypYXEKooDAff9D66OpECf%2bnTFgU%3d"">North Carolina (B) (16)</a>",0 - 2
-b,r,e,a,k
 Cedarville,6
 teamInfo,Queen Bee,"Cedarville, Ohio",,,@queenbeeuf
 0,Alaina Lowery
@@ -163,6 +136,13 @@ teamInfo,Queen Bee,"Cedarville, Ohio",,,@queenbeeuf
 43,Kathleen DeJong
 82,Stephanie LaFountain
 b,r,e,a,k
+Virginia Tech,3
+teamInfo,,,,,
+"<a href=""/events/teams/?EventTeamId=VkBCZQkuRQm84XSLlxtx4oLLtFylyPAq%2fD6ZMZe2hVQ%3d"">North Carolina (1)</a>",2 - 0
+"<a href=""/events/teams/?EventTeamId=blygB%2bSLcVOFahjzSw3RoXCij3e9c6wBFsW6Wo%2bWScU%3d"">Elon (8)</a>",1 - 1
+"<a href=""/events/teams/?EventTeamId=XXDn67xIkGx8Z4%2fsYqQ1TYVwMWl2J52GxcBEmGLw8%2bw%3d"">Duke (9)</a>",1 - 1
+"<a href=""/events/teams/?EventTeamId=qUUfhzm91KY0c4BkypYXEKooDAff9D66OpECf%2bnTFgU%3d"">North Carolina (B) (16)</a>",0 - 2
+b,r,e,a,k
 Wake Forest,7
 teamInfo,,,,,
 "<a href=""/events/teams/?EventTeamId=%2bJyuREHOLAm5Iq3CM9iwdqHbaz3llKpyP4julWsyLhs%3d"">Embry-Riddle (3)</a>",6 - 0
@@ -172,6 +152,26 @@ teamInfo,,,,,
 "<a href=""/events/teams/?EventTeamId=WmxmCIdXJDU6pCGmfCHJ3Ex3rSEWGH1%2fqnJIkB8CXHM%3d"">North Florida (4)</a>",3 - 3
 "<a href=""/events/teams/?EventTeamId=hMndXm4n%2fgT5F6eDkRwRHuutn2xTwiR8%2f%2bYGB3eU7Es%3d"">Ave Maria (B) (1)</a>",1 - 5
 "<a href=""/events/teams/?EventTeamId=ivK3qIda36tZN2mX%2ffHcF4Np3AskITBByt3%2baIze0PA%3d"">Florida Polytechnic (6)</a>",0 - 6
+b,r,e,a,k
+Temple,2
+teamInfo,TUF,"Philadelphia, Pennsylvania",,,
+0,Emma Corso
+03,Bay Hill
+05,Minnie Li
+07,Ellis Measley
+08,Jasmine Phou
+10,Adaora Ike
+11,Maria  Maza Rion
+12,Samantha Thomas
+20,Melody Smeltzer
+21,Annabelle Dugan
+24,Layla  Monte
+26,Ava Houser
+27,Barron Strouse
+33,Abigail Sullivan
+34,Adelle Pope
+44,Beverley Yap
+77,Hollie Wolfenden
 b,r,e,a,k
 s,t,a,g,e,s
 pools,W PP
@@ -187,8 +187,8 @@ Boston University,Georgetown (B),0,0,"02/21/2026, 14:15",Pool A,Scheduled
 James Madison,Boston University,0,0,"02/21/2026, 16:00",Pool A,Scheduled
 Davidson,Georgetown (B),0,0,"02/21/2026, 16:00",Pool A,Scheduled
 pool,Pool B
-Temple,Cedarville,0,0,"02/21/2026, 10:00",Pool B,Scheduled
-Virginia Tech,Wake Forest,0,0,"02/21/2026, 10:00",Pool B,Scheduled
+Temple,Cedarville,8,15,"02/21/2026, 10:00",Pool B,Final
+Virginia Tech,Wake Forest,15,9,"02/21/2026, 10:00",Pool B,Final
 Temple,Wake Forest,0,0,"02/21/2026, 12:00",Pool B,Scheduled
 Virginia Tech,Cedarville,0,0,"02/21/2026, 12:00",Pool B,Scheduled
 Temple,Virginia Tech,0,0,"02/21/2026, 14:00",Pool B,Scheduled

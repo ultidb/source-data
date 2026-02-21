@@ -51,31 +51,6 @@ teamInfo,Bucks,"Mount Berry, Georgia",https://berryultimate.github.io/index.html
 55,Ben Rooke
 67,Jonathan Blake
 b,r,e,a,k
-Haverford,12
-teamInfo,Big Donkey Ultimate,"Haverford, Pennsylvania",,,https://twitter.com/donkeyultimate
-01,Leo Wellmann
-02,Ethan Furman
-03,Darren Belanger
-04,Emile Roth
-05,Will Murdock
-08,Arno Harden
-10,Charlie Harris
-11,Edwin Luebke
-12,Aedan Shiffman
-19,Milan Arado
-22,Xilong Tie
-23,Mateo Kietzman
-25,Timothy Leon
-29,Carter Rostron
-32,Alexander Henry
-38,Wyatt Staley-Bischoff
-42,Billy Broker
-48,Dylan Winning
-50,Isaac Rivera
-55,Isaac Roth
-64,William Snyder
-68,Caleb Nelson
-b,r,e,a,k
 Christopher Newport,13
 teamInfo,Skymaul,"Newport News, Virginia",,,https://twitter.com/CNUultimate
 0,Ben Buchanan
@@ -101,31 +76,30 @@ teamInfo,Skymaul,"Newport News, Virginia",,,https://twitter.com/CNUultimate
 90,Esteban Olivares
 95,Palmer Bogdan
 b,r,e,a,k
-Oberlin,7
-teamInfo,Flying Horsecows,"Oberlin, Ohio",https://sites.google.com/oberlin.edu/flyinghorsecows/home,https://www.facebook.com/OberlinUltimate,https://x.com/horsecows
-02,Zubin Ghoshal
-07,Issei Robinson
-08,Jack Ryan
-09,Saul Chambers
-10,Benjamin Eichner
-12,Simon Korotzer-Mariani
-13,Saxon Egge
-16,Toby Fleischer
-17,Mateo Gonzales
-18,Carlos Sofge-Osorio
-22,Luke Bennett
-24,Shaswat Gajurel
-25,Alexander Hunkins
-27,Jonah Feinstein
-28,Ryan Ward
-33,Cooper Umbaugh
-35,Adam Wright
-41,Bruno Becker
-44,Stevin Wallace
-52,Aaron Bedi
-66,Jackson Penney
-71,Sebastien Kline
-99,Gabe Kiron
+Haverford,12
+teamInfo,Big Donkey Ultimate,"Haverford, Pennsylvania",,,https://twitter.com/donkeyultimate
+01,Leo Wellmann
+02,Ethan Furman
+03,Darren Belanger
+04,Emile Roth
+05,Will Murdock
+08,Arno Harden
+10,Charlie Harris
+11,Edwin Luebke
+12,Aedan Shiffman
+19,Milan Arado
+22,Xilong Tie
+23,Mateo Kietzman
+25,Timothy Leon
+29,Carter Rostron
+32,Alexander Henry
+38,Wyatt Staley-Bischoff
+42,Billy Broker
+48,Dylan Winning
+50,Isaac Rivera
+55,Isaac Roth
+64,William Snyder
+68,Caleb Nelson
 b,r,e,a,k
 Wesleyan,2
 teamInfo,Nietzsch Factor,"Middletown, Connecticut",,https://www.facebook.com/nietzschfactor/,https://twitter.com/nietzschfactor
@@ -188,6 +162,32 @@ coaches,Cameron Park
 77,Ryan Carmichael
 88,Aaron Klein
 99,Yaxin Jiao
+b,r,e,a,k
+Oberlin,7
+teamInfo,Flying Horsecows,"Oberlin, Ohio",https://sites.google.com/oberlin.edu/flyinghorsecows/home,https://www.facebook.com/OberlinUltimate,https://x.com/horsecows
+02,Zubin Ghoshal
+07,Issei Robinson
+08,Jack Ryan
+09,Saul Chambers
+10,Benjamin Eichner
+12,Simon Korotzer-Mariani
+13,Saxon Egge
+16,Toby Fleischer
+17,Mateo Gonzales
+18,Carlos Sofge-Osorio
+22,Luke Bennett
+24,Shaswat Gajurel
+25,Alexander Hunkins
+27,Jonah Feinstein
+28,Ryan Ward
+33,Cooper Umbaugh
+35,Adam Wright
+41,Bruno Becker
+44,Stevin Wallace
+52,Aaron Bedi
+66,Jackson Penney
+71,Sebastien Kline
+99,Gabe Kiron
 b,r,e,a,k
 Mary Washington,14
 teamInfo,Mother of George,"Fredericksburg, Virginia",,,
@@ -437,8 +437,8 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
-Franciscan,Haverford,0,0,"02/21/2026, 10:30",Pool A,Scheduled
-Berry,Christopher Newport,0,0,"02/21/2026, 10:30",Pool A,Scheduled
+Franciscan,Haverford,13,5,"02/21/2026, 10:30",Pool A,Final
+Berry,Christopher Newport,13,6,"02/21/2026, 10:30",Pool A,Final
 Franciscan,Christopher Newport,0,0,"02/21/2026, 12:00",Pool A,Scheduled
 Berry,Haverford,0,0,"02/21/2026, 12:00",Pool A,Scheduled
 Franciscan,Berry,0,0,"02/21/2026, 15:00",Pool A,Scheduled
@@ -446,8 +446,8 @@ Haverford,Christopher Newport,0,0,"02/21/2026, 15:00",Pool A,Scheduled
 pool,Pool B
 Wesleyan,Brandeis,13,12,"02/21/2026, 09:00",Pool B,Final
 Oberlin,Mary Washington,13,5,"02/21/2026, 09:00",Pool B,Final
-Wesleyan,Mary Washington,0,0,"02/21/2026, 10:30",Pool B,Scheduled
-Oberlin,Brandeis,0,0,"02/21/2026, 10:30",Pool B,Scheduled
+Wesleyan,Mary Washington,13,2,"02/21/2026, 10:30",Pool B,Final
+Oberlin,Brandeis,10,11,"02/21/2026, 10:30",Pool B,Final
 Wesleyan,Oberlin,0,0,"02/21/2026, 13:30",Pool B,Scheduled
 Brandeis,Mary Washington,0,0,"02/21/2026, 13:30",Pool B,Scheduled
 pool,Pool C
