@@ -10,6 +10,9 @@ from os.path import exists
 from dotenv import load_dotenv
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.by import By
 import time
 import uuid
 from parse import (
@@ -131,6 +134,25 @@ def makeProxiedRequestSelenium(url):
 
     try:
         driver.get(url)
+
+        # Wait for page content to fully load before reading page_source.
+        # Without this wait, the driver may return stale content from the
+        # previous page, causing tournament data to be written to wrong files.
+        try:
+            WebDriverWait(driver, 10).until(
+                EC.presence_of_element_located((By.CLASS_NAME, "breadcrumbs"))
+            )
+        except Exception:
+            # If breadcrumbs not found, wait for any content indicator
+            try:
+                WebDriverWait(driver, 10).until(
+                    EC.presence_of_element_located((By.TAG_NAME, "body"))
+                )
+            except Exception:
+                pass
+
+        # Small delay to ensure dynamic content has loaded
+        time.sleep(0.5)
 
         # Get the page source
         page_source = driver.page_source

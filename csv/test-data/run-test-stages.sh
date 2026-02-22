@@ -12,14 +12,14 @@ post_stage() {
     local paths=("$@")
 
     # Build JSON array of paths
-    local json_paths=$(printf '"%s",' "${paths[@]}")
+    local json_paths=$(printf '"%s",' "csv/${paths[@]}")
     json_paths="[${json_paths%,}]"
 
     local payload=$(cat <<EOF
 {
     "paths": ${json_paths},
     "updatePlayers": true,
-    "checkExisting": false,
+    "checkExisting": true,
     "dryRun": false
 }
 EOF
