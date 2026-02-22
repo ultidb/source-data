@@ -3,7 +3,7 @@
 # Test data ingestion script
 # Posts tournament CSVs to the receiver in stages to simulate tournament progression
 
-RECEIVER_URL="http://127.0.0.1:3031/ingest"
+RECEIVER_URL="http://localhost:3030/v1/ingest"
 SLEEP_SECONDS=2
 
 post_stage() {
