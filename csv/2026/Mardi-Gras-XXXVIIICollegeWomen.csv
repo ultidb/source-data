@@ -151,9 +151,9 @@ pool,Pool B
 Jacksonville State,Mississippi State,13,4,"02/21/2026, 08:30",Pool B,Final
 Florida State,LSU,8,5,"02/21/2026, 08:30",Pool B,Final
 Jacksonville State,Florida State,10,3,"02/21/2026, 10:15",Pool B,Final
-Boston College,LSU,0,1,"02/21/2026, 10:15",Pool B,Final
+Boston College,LSU,F,W,"02/21/2026, 10:15",Pool B,Final
 LSU,Mississippi State,13,2,"02/21/2026, 12:15",Pool B,Final
-Boston College,Florida State,0,1,"02/21/2026, 12:15",Pool B,Final
+Boston College,Florida State,F,W,"02/21/2026, 12:15",Pool B,Final
 Jacksonville State,LSU,10,3,"02/21/2026, 14:00",Pool B,Final
 Boston College,Mississippi State,3,7,"02/21/2026, 14:00",Pool B,Final
 Jacksonville State,Boston College,11,10,"02/21/2026, 15:45",Pool B,Final
@@ -166,11 +166,15 @@ Central Florida,Jacksonville State,0,0,"02/22/2026, 08:30",1st Place Semis,Sched
 bracket,2nd Place Bracket
 b,r,e,a,k
 pools,Crossover Pool Play
-pool,5th Place Pool
-LSU,Alabama,0,0,"02/22/2026, 08:30",5th Place Pool,Scheduled
-Tulane,Mississippi State,0,0,"02/22/2026, 08:30",5th Place Pool,Scheduled
-LSU,Tulane,0,0,"02/22/2026, 10:15",5th Place Pool,Scheduled
-Alabama,Boston College,0,0,"02/22/2026, 10:15",5th Place Pool,Scheduled
-Tulane,Boston College,0,0,"02/22/2026, 12:00",5th Place Pool,Scheduled
-Alabama,Mississippi State,0,0,"02/22/2026, 13:45",5th Place Pool,Scheduled
+pool,Pool C
+Central Florida,Florida State,0,0,"02/22/2026, 08:30",Pool C,Scheduled
+Trinity,Boston College,0,0,"02/22/2026, 08:30",Pool C,Scheduled
+Central Florida,Trinity,0,0,"02/22/2026, 10:15",Pool C,Scheduled
+Jacksonville State,Boston College,0,0,"02/22/2026, 10:15",Pool C,Scheduled
+Boston College,Florida State,0,0,"02/22/2026, 12:00",Pool C,Scheduled
+Jacksonville State,Trinity,0,0,"02/22/2026, 12:00",Pool C,Scheduled
+Central Florida,Boston College,0,0,"02/22/2026, 13:45",Pool C,Scheduled
+Jacksonville State,Florida State,0,0,"02/22/2026, 13:45",Pool C,Scheduled
+Central Florida,Jacksonville State,0,0,"02/22/2026, 15:30",Pool C,Scheduled
+Trinity,Florida State,0,0,"02/22/2026, 15:30",Pool C,Scheduled
 b,r,e,a,k
