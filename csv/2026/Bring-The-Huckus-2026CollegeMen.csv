@@ -28,8 +28,28 @@ b,r,e,a,k
 Colby,8
 teamInfo,Men's,"Waterville, Maine",http://web.colby.edu/ultimate/,,https://twitter.com/cdc_ultimate
 b,r,e,a,k
-Salisbury,9
-teamInfo,Buzz,"Salisbury, Maryland",,,
+George Washington,9
+teamInfo,George Washington Men’s Club Ultimate,"Washington, District of Columbia",,,https://twitter.com/Gdub_Ultimate
+coaches,Bridgette Heine
+0,Alejandro Plata
+0,Alexander Winnett
+0,Alexander Lagrant
+0,Archer Martin
+0,Daniel Sabados
+0,Robert Welles
+1,Levi Crossan
+3,Connor Walsh
+4,Joshua Lench
+11,Mark Loeffler
+13,Diego Asencio
+23,Charles Walters
+24,Daniel Davis
+27,Travis Lee
+28,Benjamin Wood
+32,Chris Briggs
+37,Dill Eisendrath
+78,Eytan Carolan
+83,Thomas Dillon
 b,r,e,a,k
 Lehigh,2
 teamInfo,Lehigh,"Bethlehem, Pennsylvania",,,https://twitter.com/lehighultimate
@@ -68,11 +88,24 @@ b,r,e,a,k
 Penn State (B),7
 teamInfo,LoveTap,"University Park, Pennsylvania",,,https://twitter.com/LovetapDisc
 b,r,e,a,k
-Skidmore,10
-teamInfo,Wombats,"Saratoga Springs, New York",,,
+Princeton,10
+teamInfo,Clockwork,"Princeton, New Jersey",http://www.princeton.edu/~clockwrk/,https://www.facebook.com/ClockworkUltimate,https://twitter.com/clockworkultima
+0,Alexander Khoretonenko
+0,Andrew Oliver
+0,Benjamin Gitai
+0,Christian Ganter
+0,Isaiah Fletcher
+0,Jack Noymer
+0,Jason Chinitz-Mital
+0,Kushaan Bahl
+0,Nedim Begovic
+0,Peter Calone
+0,Roni Shaham
+0,Sean Hession
+5,Samuel Hilbert
 b,r,e,a,k
-Villanova,11
-teamInfo,Main Line Ultimate,"Villanova, Pennsylvania",http://villanovaultimate.weebly.com,,https://twitter.com/VUMainLine
+Skidmore,11
+teamInfo,Wombats,"Saratoga Springs, New York",,,
 b,r,e,a,k
 Central Connecticut State,14
 teamInfo,Yetis,"New Britain , Connecticut",,,
@@ -135,6 +168,7 @@ teamInfo,Shake,"Ithaca, New York",https://cornell.campusgroups.com/shake/home/,,
 17,Kyle Wang
 51,Jake Gitner
 71,Andrew Ahn
+95,Benjamin Lambert
 b,r,e,a,k
 West Chester (B),17
 teamInfo,West Chester B,"West Chester, Pennsylvania",,,
@@ -158,40 +192,46 @@ teamInfo,Lehigh-B,"Bethlehem, Pennsylvania",,,https://twitter.com/BehighUnited
 88,Nate Goren
 92,Jacob Cole
 b,r,e,a,k
+Villanova,21
+teamInfo,Main Line Ultimate,"Villanova, Pennsylvania",http://villanovaultimate.weebly.com,,https://twitter.com/VUMainLine
+b,r,e,a,k
+Salisbury,22
+teamInfo,Buzz,"Salisbury, Maryland",,,
+b,r,e,a,k
 s,t,a,g,e,s
 pools,Saturday
 pool,Pool A
-Rhode Island,Salisbury,0,0,"02/28/2026, 09:00",Pool A,Scheduled
+Rhode Island,George Washington,0,0,"02/28/2026, 09:00",Pool A,Scheduled
 Delaware,Colby,0,0,"02/28/2026, 09:00",Pool A,Scheduled
 Rhode Island,Delaware,0,0,"02/28/2026, 10:30",Pool A,Scheduled
 Ithaca,Colby,0,0,"02/28/2026, 10:30",Pool A,Scheduled
-Colby,Salisbury,0,0,"02/28/2026, 12:00",Pool A,Scheduled
+Colby,George Washington,0,0,"02/28/2026, 12:00",Pool A,Scheduled
 Ithaca,Delaware,0,0,"02/28/2026, 12:00",Pool A,Scheduled
 Rhode Island,Colby,0,0,"02/28/2026, 13:30",Pool A,Scheduled
-Ithaca,Salisbury,0,0,"02/28/2026, 13:30",Pool A,Scheduled
+Ithaca,George Washington,0,0,"02/28/2026, 13:30",Pool A,Scheduled
 Rhode Island,Ithaca,0,0,"02/28/2026, 15:00",Pool A,Scheduled
-Delaware,Salisbury,0,0,"02/28/2026, 15:00",Pool A,Scheduled
+Delaware,George Washington,0,0,"02/28/2026, 15:00",Pool A,Scheduled
 pool,Pool B
 Lehigh,Penn State (B),0,0,"02/28/2026, 09:00",Pool B,Scheduled
-Vassar College,Skidmore,0,0,"02/28/2026, 09:00",Pool B,Scheduled
+Vassar College,Princeton,0,0,"02/28/2026, 09:00",Pool B,Scheduled
 Lehigh,Johns Hopkins,0,0,"02/28/2026, 10:30",Pool B,Scheduled
 Vassar College,Penn State (B),0,0,"02/28/2026, 10:30",Pool B,Scheduled
-Penn State (B),Skidmore,0,0,"02/28/2026, 12:00",Pool B,Scheduled
+Penn State (B),Princeton,0,0,"02/28/2026, 12:00",Pool B,Scheduled
 Vassar College,Johns Hopkins,0,0,"02/28/2026, 12:00",Pool B,Scheduled
-Lehigh,Skidmore,0,0,"02/28/2026, 13:30",Pool B,Scheduled
+Lehigh,Princeton,0,0,"02/28/2026, 13:30",Pool B,Scheduled
 Johns Hopkins,Penn State (B),0,0,"02/28/2026, 13:30",Pool B,Scheduled
 Lehigh,Vassar College,0,0,"02/28/2026, 15:00",Pool B,Scheduled
-Johns Hopkins,Skidmore,0,0,"02/28/2026, 15:00",Pool B,Scheduled
+Johns Hopkins,Princeton,0,0,"02/28/2026, 15:00",Pool B,Scheduled
 pool,Pool C
-Villanova,Delaware (B),0,0,"02/28/2026, 09:00",Pool C,Scheduled
+Skidmore,Delaware (B),0,0,"02/28/2026, 09:00",Pool C,Scheduled
 Stevens Tech,Connecticut (B),0,0,"02/28/2026, 09:00",Pool C,Scheduled
-Villanova,Stevens Tech,0,0,"02/28/2026, 10:30",Pool C,Scheduled
+Skidmore,Stevens Tech,0,0,"02/28/2026, 10:30",Pool C,Scheduled
 Central Connecticut State,Connecticut (B),0,0,"02/28/2026, 10:30",Pool C,Scheduled
 Connecticut (B),Delaware (B),0,0,"02/28/2026, 12:00",Pool C,Scheduled
 Central Connecticut State,Stevens Tech,0,0,"02/28/2026, 12:00",Pool C,Scheduled
-Villanova,Connecticut (B),0,0,"02/28/2026, 13:30",Pool C,Scheduled
+Skidmore,Connecticut (B),0,0,"02/28/2026, 13:30",Pool C,Scheduled
 Central Connecticut State,Delaware (B),0,0,"02/28/2026, 13:30",Pool C,Scheduled
-Villanova,Central Connecticut State,0,0,"02/28/2026, 15:00",Pool C,Scheduled
+Skidmore,Central Connecticut State,0,0,"02/28/2026, 15:00",Pool C,Scheduled
 Stevens Tech,Delaware (B),0,0,"02/28/2026, 15:00",Pool C,Scheduled
 pool,Pool D
 Swarthmore,Lehigh (B),0,0,"02/28/2026, 09:00",Pool D,Scheduled
@@ -204,4 +244,6 @@ Swarthmore,West Chester (B),0,0,"02/28/2026, 13:30",Pool D,Scheduled
 Rowan,Lehigh (B),0,0,"02/28/2026, 13:30",Pool D,Scheduled
 Swarthmore,Rowan,0,0,"02/28/2026, 15:00",Pool D,Scheduled
 Cornell (B),Lehigh (B),0,0,"02/28/2026, 15:00",Pool D,Scheduled
+pool,Pool E
+Villanova,Salisbury,0,0,"02/28/2026, 15:00",Pool E,Scheduled
 b,r,e,a,k
