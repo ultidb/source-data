@@ -50,26 +50,6 @@ teamInfo,Meteors,"Fairfax, Virginia",https://www.youtube.com/@masonultimate450/v
 46,Tyler Beecham
 69,Aidan Fant
 b,r,e,a,k
-East Carolina,7
-teamInfo,Irates,"Greenville, North Carolina",,https://www.facebook.com/ECUUltimateFrisbee,https://twitter.com/ECUUltimate
-0,Gabriel Blanche
-0,Tanner Plentl
-1,Elliot Meyer
-5,Terrence Johnson
-6,Connor Rowand
-7,Abdel al Karim Amra
-8,Connor Wood
-13,Ethan Mollica
-14,Isaiah  Faulkner
-15,Wade Watson
-19,Quinn Scott
-23,Kaden Labor
-24,James Knight
-29,Joseph Laliberte
-45,Colton Atkinson
-69,Nathan Hecht
-80,Bryan Cox
-b,r,e,a,k
 Pennsylvania,12
 teamInfo,Void,"Philadelphia, Pennsylvania",https://groups.universitylife.upenn.edu/ultimate/,https://www.facebook.com/groups/2200077065/,https://twitter.com/VoidUltimate
 0,Luke Oh
@@ -89,6 +69,26 @@ teamInfo,Void,"Philadelphia, Pennsylvania",https://groups.universitylife.upenn.e
 30,Yongqin Feng
 69,Alan Wu
 91,Luke Neale
+b,r,e,a,k
+East Carolina,7
+teamInfo,Irates,"Greenville, North Carolina",,https://www.facebook.com/ECUUltimateFrisbee,https://twitter.com/ECUUltimate
+0,Gabriel Blanche
+0,Tanner Plentl
+1,Elliot Meyer
+5,Terrence Johnson
+6,Connor Rowand
+7,Abdel al Karim Amra
+8,Connor Wood
+13,Ethan Mollica
+14,Isaiah  Faulkner
+15,Wade Watson
+19,Quinn Scott
+23,Kaden Labor
+24,James Knight
+29,Joseph Laliberte
+45,Colton Atkinson
+69,Nathan Hecht
+80,Bryan Cox
 b,r,e,a,k
 Duke,2
 teamInfo,Brimstone,"Durham, North Carolina",,https://www.facebook.com/dukeBrimstoneUltimate/,https://twitter.com/Duke_Brimstone
@@ -128,6 +128,31 @@ coaches,Noah Krumme
 88,Alec Hutchinson
 99,Sam Stayn
 b,r,e,a,k
+Kenyon,5
+teamInfo,SERF,"Gambier, Ohio",,,https://twitter.com/kenyonserf
+0,Aidan Martin-Weinbaum
+0,Elias Kradel
+0,Miles Ford
+0,Milo Goldmark
+0,Travis Smith
+3,William Margeson
+4,Griffin Meyer
+05,Max Fishman
+06,Aidan Cullen
+11,Henry Wopschall
+12,August Greer
+13,Paul Snyder
+14,Henry Markwardt
+15,Tobias Hughes
+22,Loic Poirier
+23,Nicholas Forsyth
+52,Nolan Iurino
+64,Samuel VanderWeele
+77,Bryce Moretti
+88,Zayd Curtis
+95,Conor Kennealy
+99,Micah Arenstein
+b,r,e,a,k
 RIT,8
 teamInfo,RIT Spudheds,"Rochester, New York",,http://www.facebook.com/ritspudheds,http://www.twitter.com/spudheds
 0,Aarav Patel
@@ -163,31 +188,6 @@ teamInfo,RIT Spudheds,"Rochester, New York",,http://www.facebook.com/ritspudheds
 47,Anthony Patti
 48,Alden Birkett
 77,Desmond Longsmith
-b,r,e,a,k
-Kenyon,5
-teamInfo,SERF,"Gambier, Ohio",,,https://twitter.com/kenyonserf
-0,Aidan Martin-Weinbaum
-0,Elias Kradel
-0,Miles Ford
-0,Milo Goldmark
-0,Travis Smith
-3,William Margeson
-4,Griffin Meyer
-05,Max Fishman
-06,Aidan Cullen
-11,Henry Wopschall
-12,August Greer
-13,Paul Snyder
-14,Henry Markwardt
-15,Tobias Hughes
-22,Loic Poirier
-23,Nicholas Forsyth
-52,Nolan Iurino
-64,Samuel VanderWeele
-77,Bryce Moretti
-88,Zayd Curtis
-95,Conor Kennealy
-99,Micah Arenstein
 b,r,e,a,k
 West Virginia,11
 teamInfo,WV Wild,"Morgantown, West Virginia",https://www.instagram.com/wvu.ultimate/?hl=en,https://www.facebook.com/WVUltimate,https://twitter.com/WVUltimate
@@ -319,7 +319,7 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
-SUNY-Buffalo,East Carolina,13,7,"02/28/2026, 12:30",Pool A,Scheduled
+SUNY-Buffalo,East Carolina,13,7,"02/28/2026, 12:30",Pool A,Final
 George Mason,Pennsylvania,0,0,"02/28/2026, 12:30",Pool A,Scheduled
 SUNY-Buffalo,Pennsylvania,0,0,"02/28/2026, 14:15",Pool A,Scheduled
 George Mason,East Carolina,0,0,"02/28/2026, 14:15",Pool A,Scheduled
@@ -330,8 +330,8 @@ Duke,RIT,11,9,"02/28/2026, 09:00",Pool B,Final
 Kenyon,West Virginia,12,10,"02/28/2026, 09:00",Pool B,Final
 Duke,West Virginia,11,10,"02/28/2026, 10:45",Pool B,Final
 Kenyon,RIT,8,9,"02/28/2026, 10:45",Pool B,Final
-Duke,Kenyon,0,0,"02/28/2026, 12:30",Pool B,Scheduled
-RIT,West Virginia,0,0,"02/28/2026, 12:30",Pool B,Scheduled
+Duke,Kenyon,11,12,"02/28/2026, 12:30",Pool B,Final
+RIT,West Virginia,13,10,"02/28/2026, 12:30",Pool B,Final
 pool,Pool C
 Liberty,Rutgers,13,9,"02/28/2026, 09:00",Pool C,Final
 West Chester,North Carolina State (B),13,7,"02/28/2026, 09:00",Pool C,Final
