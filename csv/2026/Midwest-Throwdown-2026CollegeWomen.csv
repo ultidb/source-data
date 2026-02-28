@@ -614,14 +614,14 @@ St Olaf,Wisconsin-Eau Claire,10,3,"02/28/2026, 08:30",Pool C,Final
 Illinois,Winona State,4,10,"02/28/2026, 08:30",Pool C,Final
 St Olaf,Illinois,11,6,"02/28/2026, 10:00",Pool C,Final
 Wisconsin-Eau Claire,Winona State,8,10,"02/28/2026, 10:00",Pool C,Final
-St Olaf,Winona State,0,0,"02/28/2026, 13:00",Pool C,Scheduled
+St Olaf,Winona State,7,6,"02/28/2026, 13:00",Pool C,Final
 Illinois,Wisconsin-Eau Claire,9,4,"02/28/2026, 13:00",Pool C,Final
 pool,Pool D
 Missouri,Northwestern,7,4,"02/28/2026, 08:30",Pool D,Final
 Macalester,Kansas,7,5,"02/28/2026, 10:00",Pool D,Final
 Missouri,Kansas,10,6,"02/28/2026, 11:30",Pool D,Final
 Macalester,Northwestern,7,5,"02/28/2026, 11:30",Pool D,Final
-Missouri,Macalester,0,0,"02/28/2026, 13:00",Pool D,Scheduled
+Missouri,Macalester,4,10,"02/28/2026, 13:00",Pool D,Scheduled
 Kansas,Northwestern,10,3,"02/28/2026, 13:00",Pool D,Final
 b,r,e,a,k
 clusters,Tier 2 Crossovers
@@ -663,6 +663,8 @@ Carleton College (C),Missouri State,2,13,"02/28/2026, 13:00",Pool H,Scheduled
 Truman State,Wisconsin (B),10,7,"02/28/2026, 13:00",Pool H,Final
 b,r,e,a,k
 clusters,Tier 1 Sunday Round Robin
+cluster,Round Robin
+Iowa State,Wisconsin-Eau Claire,0,0,"03/01/2026, 11:00",,Scheduled
 b,r,e,a,k
 brackets,Tier 2 Bracket Play
 bracket,Championship
