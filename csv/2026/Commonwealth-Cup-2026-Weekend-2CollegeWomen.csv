@@ -124,6 +124,9 @@ b,r,e,a,k
 Georgia Tech,13
 teamInfo,,,,,
 b,r,e,a,k
+North Carolina State,20
+teamInfo,,,,,
+b,r,e,a,k
 Oberlin,28
 teamInfo,Preying Manti A,"Oberlin, Ohio",https://ocmanti.weebly.com,https://www.facebook.com/OberlinUltimate,https://twitter.com/OberlinManti
 0,Eleanor Richards
@@ -148,9 +151,6 @@ teamInfo,Preying Manti A,"Oberlin, Ohio",https://ocmanti.weebly.com,https://www.
 49,Yixuan Ma
 60,Miya Liang
 95,Catherine Williams
-b,r,e,a,k
-North Carolina State,20
-teamInfo,,,,,
 b,r,e,a,k
 MIT,12
 teamInfo,sMITe,"Cambridge, Massachusetts",http://scripts.mit.edu/~womens-ult/,https://www.facebook.com/ultismite,https://twitter.com/ultismite
@@ -211,7 +211,7 @@ Liberty,South Carolina,9,8,"02/28/2026, 12:30",Pool D,Final
 Brown,Carnegie Mellon,13,4,"02/28/2026, 14:15",Pool D,Final
 Liberty,Case Western Reserve,13,7,"02/28/2026, 14:15",Pool D,Final
 Brown,Liberty,8,13,"02/28/2026, 16:00",Pool D,Final
-South Carolina,Case Western Reserve,0,0,"02/28/2026, 16:00",Pool D,Scheduled
+South Carolina,Case Western Reserve,11,10,"02/28/2026, 16:00",Pool D,Final
 pool,Pool E
 Florida,Cincinnati,13,2,"02/28/2026, 09:00",Pool E,Final
 Maryland,SUNY-Binghamton,7,12,"02/28/2026, 09:00",Pool E,Final
@@ -222,7 +222,7 @@ Duke,Maryland,9,7,"02/28/2026, 12:30",Pool E,Final
 Florida,SUNY-Binghamton,13,4,"02/28/2026, 14:15",Pool E,Final
 Duke,Cincinnati,11,7,"02/28/2026, 14:15",Pool E,Final
 Florida,Duke,12,3,"02/28/2026, 16:00",Pool E,Final
-Maryland,Cincinnati,0,0,"02/28/2026, 16:00",Pool E,Scheduled
+Maryland,Cincinnati,12,7,"02/28/2026, 16:00",Pool E,Final
 pool,Pool F
 MIT,Oberlin,9,10,"02/28/2026, 09:00",Pool F,Final
 North Carolina State,Pittsburgh,10,12,"02/28/2026, 09:00",Pool F,Final
@@ -233,12 +233,18 @@ Georgia Tech,North Carolina State,11,3,"02/28/2026, 12:30",Pool F,Final
 MIT,Pittsburgh,5,13,"02/28/2026, 14:15",Pool F,Final
 Georgia Tech,Oberlin,11,8,"02/28/2026, 14:15",Pool F,Final
 MIT,Georgia Tech,9,7,"02/28/2026, 16:00",Pool F,Final
-North Carolina State,Oberlin,0,0,"02/28/2026, 16:00",Pool F,Scheduled
+North Carolina State,Oberlin,11,8,"02/28/2026, 16:00",Pool F,Final
 b,r,e,a,k
 brackets,W BP
 bracket,W CHAMPIONSHIP BRACKET
+North Carolina,South Carolina,0,0,"03/01/2026, 08:00",W PQ,Scheduled
 Georgia,William & Mary,0,0,"03/01/2026, 08:00",W PQ,Scheduled
+Notre Dame,Duke,0,0,"03/01/2026, 08:00",W PQ,Scheduled
+Michigan,Pittsburgh,0,0,"03/01/2026, 08:00",W PQ,Scheduled
 Pennsylvania,Penn State,0,0,"03/01/2026, 08:00",W PQ,Scheduled
+Cornell,Liberty,0,0,"03/01/2026, 08:00",W PQ,Scheduled
+Ohio State,Georgia Tech,0,0,"03/01/2026, 08:00",W PQ,Scheduled
+Ohio,Florida,0,0,"03/01/2026, 08:00",W PQ,Scheduled
 bracket,3RD PLACE GAME
 bracket,5TH PLACE BRACKET
 bracket,W 7TH PLACE GAME
@@ -247,9 +253,15 @@ bracket,W 11TH PLACE GAME COFFEE
 bracket,W 9TH PLACE BRACKET TEA
 bracket,W 11TH PLACE GAME TEA
 bracket,W 17TH PLACE BRACKET
+North Carolina-Wilmington,Brown,0,0,"03/01/2026, 08:00",W 17TH QUARTERS,Scheduled
+North Carolina State,Maryland,0,0,"03/01/2026, 08:00",W 17TH QUARTERS,Scheduled
+Case Western Reserve,Columbia,0,0,"03/01/2026, 08:00",W 17TH QUARTERS,Scheduled
+SUNY-Binghamton,Oberlin,0,0,"03/01/2026, 08:00",W 17TH QUARTERS,Scheduled
 bracket,W 19TH PLACE GAME
 bracket,W 21ST PLACE BRACKET
 bracket,W 23RD PLACE GAME
 bracket,W 25TH PLACE BRACKET
+Chicago,MIT,0,0,"03/01/2026, 09:45",W 25TH SEMIS,Scheduled
+Carnegie Mellon,Cincinnati,0,0,"03/01/2026, 09:45",W 25TH SEMIS,Scheduled
 bracket,W 27TH PLACE GAME
 b,r,e,a,k

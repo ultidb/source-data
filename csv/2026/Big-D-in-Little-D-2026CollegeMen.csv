@@ -15,6 +15,41 @@ teamInfo,UNT,"Denton, Texas",,,https://twitter.com/UltimateUnt
 34,Kristoff Boor
 66,James Novinski
 b,r,e,a,k
+Tarleton State,3
+teamInfo,Texan Ultimate,"Stephenville, Texas",,,
+0,Addison Elliott
+0,Clayton Parker
+0,Conner King
+0,Evan Underwood
+0,Gabriel Johnson
+0,Hunter James
+0,Kasenia Hipsh
+0,Levi Patterson
+0,Quinn Sullivan
+0,Reagan Morrissey
+0,Riley Shellenberger
+8,Bradley Mabry
+00,Mason Deckard
+04,Eric Pizana
+b,r,e,a,k
+Texas (B),6
+teamInfo,Graze,"Austin, Texas",,,
+0,Aidan Pulido
+0,Andrew Ryan
+0,Benjamin Prince
+0,Bryant Wu
+0,Colin Law
+0,Dean  Quevedo
+0,Henry Maynard
+0,Jacob Zeiter
+0,Jose Gomez-Napolitano
+0,Julian Wong
+0,Moname  Nawiini
+0,Nick Fooshee
+0,Randell Anderson
+0,Sawyer Austin
+5,Zyon Pérez
+b,r,e,a,k
 Baylor,2
 teamInfo,Stonewall,"Waco, Texas",https://linktr.ee/baylorultimatefrisbee,,
 1,Matthew Eubanks
@@ -34,23 +69,6 @@ teamInfo,Stonewall,"Waco, Texas",https://linktr.ee/baylorultimatefrisbee,,
 42,Tryston McGuyre
 65,Remington Gamblin
 88,Brennan Ellis
-b,r,e,a,k
-Tarleton State,3
-teamInfo,Texan Ultimate,"Stephenville, Texas",,,
-0,Addison Elliott
-0,Clayton Parker
-0,Conner King
-0,Evan Underwood
-0,Gabriel Johnson
-0,Hunter James
-0,Kasenia Hipsh
-0,Levi Patterson
-0,Quinn Sullivan
-0,Reagan Morrissey
-0,Riley Shellenberger
-8,Bradley Mabry
-00,Mason Deckard
-04,Eric Pizana
 b,r,e,a,k
 Harding,4
 teamInfo,Harding Apocalypse,"Searcy, Arkansas",,,
@@ -88,24 +106,6 @@ teamInfo,Apes of Wrath,"NORMAN, Oklahoma",oklahomaultimate.com,https://www.faceb
 39,Grey Lashbrook
 44,Gregory Allen
 b,r,e,a,k
-Texas (B),6
-teamInfo,Graze,"Austin, Texas",,,
-0,Aidan Pulido
-0,Andrew Ryan
-0,Benjamin Prince
-0,Bryant Wu
-0,Colin Law
-0,Dean  Quevedo
-0,Henry Maynard
-0,Jacob Zeiter
-0,Jose Gomez-Napolitano
-0,Julian Wong
-0,Moname  Nawiini
-0,Nick Fooshee
-0,Randell Anderson
-0,Sawyer Austin
-5,Zyon Pérez
-b,r,e,a,k
 Dallas,7
 teamInfo,Vortex,"Irving, Texas",,https://www.facebook.com/University-of-Dallas-Ultimate-UDU-1659704877590309/,@udallasultimate
 0,Dominic Le
@@ -127,16 +127,16 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Saturday Pool Play
 pool,Pool A
-North Texas,Tarleton State,0,0,"02/28/2026, 09:00",Pool A,Scheduled
-Baylor,Harding,0,0,"02/28/2026, 09:00",Pool A,Scheduled
-North Texas,Harding,0,0,"02/28/2026, 11:00",Pool A,Scheduled
-Baylor,Tarleton State,0,0,"02/28/2026, 11:00",Pool A,Scheduled
-North Texas,Baylor,0,0,"02/28/2026, 13:00",Pool A,Scheduled
-Tarleton State,Harding,0,0,"02/28/2026, 13:00",Pool A,Scheduled
+North Texas,Tarleton State,15,6,"02/28/2026, 09:00",Pool A,Scheduled
+Texas (B),Tarleton State,6,13,"02/28/2026, 11:00",Pool A,Scheduled
+North Texas,Texas (B),13,5,"02/28/2026, 13:00",Pool A,Scheduled
 pool,Pool B
-Oklahoma,Dallas,0,0,"02/28/2026, 09:00",Pool B,Scheduled
-Texas (B),Dallas,0,0,"02/28/2026, 11:00",Pool B,Scheduled
-Oklahoma,Texas (B),0,0,"02/28/2026, 13:00",Pool B,Scheduled
+Oklahoma,Harding,0,0,"02/28/2026, 09:00",Pool B,Scheduled
+Baylor,Dallas,15,6,"02/28/2026, 09:00",Pool B,Scheduled
+Oklahoma,Baylor,3,15,"02/28/2026, 11:00",Pool B,Scheduled
+Dallas,Harding,8,12,"02/28/2026, 11:00",Pool B,Scheduled
+Oklahoma,Dallas,0,0,"02/28/2026, 13:00",Pool B,Scheduled
+Baylor,Harding,15,2,"02/28/2026, 13:00",Pool B,Scheduled
 b,r,e,a,k
 brackets,Sunday Bracket Play
 bracket,First Place Bracket
