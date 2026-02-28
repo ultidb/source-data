@@ -65,26 +65,6 @@ coaches,Desmond Hanson
 24,Cole  Schantz
 99,Bryant Smith
 b,r,e,a,k
-Dayton (B),9
-teamInfo,UD FLUD B,"Dayton, Ohio",,https://instagram.com/flud_ultimate,https://twitter.com/UDUltimate
-0,Adin Stoller
-0,Aidan Cloos
-0,Alex Spring
-0,Benjamin Carini
-0,Caden Labbe
-0,Cody Woodruff
-0,Evan Carry
-0,Kahlil Knick
-0,Lawrence Ringwald
-0,Nathan Green
-0,Nicholas Heavilin
-0,Patrick Keller
-10,Colsten Spelman
-19,Brycen Prock
-24,Matthew Carpenter
-27,Aaron Ginsburg
-49,Andrew Mosler
-b,r,e,a,k
 Case Western Reserve (B),5
 teamInfo,Fighting Gobies,"Cleveland, Ohio",ultimate.case.edu,https://www.facebook.com/GobyWarriors,https://twitter.com/FightingGobies
 0,Alex Flores
@@ -109,6 +89,46 @@ teamInfo,Fighting Gobies,"Cleveland, Ohio",ultimate.case.edu,https://www.faceboo
 73,Henry Koyner
 85,Ryan Gilmore
 87,Bryce Harrington
+b,r,e,a,k
+Dayton (B),9
+teamInfo,UD FLUD B,"Dayton, Ohio",,https://instagram.com/flud_ultimate,https://twitter.com/UDUltimate
+0,Adin Stoller
+0,Aidan Cloos
+0,Alex Spring
+0,Benjamin Carini
+0,Caden Labbe
+0,Cody Woodruff
+0,Evan Carry
+0,Kahlil Knick
+0,Lawrence Ringwald
+0,Nathan Green
+0,Nicholas Heavilin
+0,Patrick Keller
+10,Colsten Spelman
+19,Brycen Prock
+24,Matthew Carpenter
+27,Aaron Ginsburg
+49,Andrew Mosler
+b,r,e,a,k
+Dayton,2
+teamInfo,FLUD,"Dayton, Ohio",,https://instagram.com/flud_ultimate,https://twitter.com/UDUltimate
+0,Alex Burkhardt
+0,Ben Manion
+0,Bram Long
+0,Connor Spriggs
+0,Dillon Calcagno
+0,Jonathan Wheeler
+0,Kellen Finan
+0,Nicholas Carle
+0,Paul Lachcik
+0,Ryan Wcislek
+0,Thomas Carroll
+0,Zoltan Kapin
+13,Stephen Danek
+15,Callan Daenzer
+18,Evan Pollock
+18,Quinn Kelly
+73,Kale Kessler
 b,r,e,a,k
 Purdue (B),7
 teamInfo,CTRL-Z,"West Lafayette, Indiana",,,
@@ -138,26 +158,6 @@ teamInfo,CTRL-Z,"West Lafayette, Indiana",,,
 69,Joseph  McLoughlin
 99,Indra Sokol-Snyder
 b,r,e,a,k
-Dayton,2
-teamInfo,FLUD,"Dayton, Ohio",,https://instagram.com/flud_ultimate,https://twitter.com/UDUltimate
-0,Alex Burkhardt
-0,Ben Manion
-0,Bram Long
-0,Connor Spriggs
-0,Dillon Calcagno
-0,Jonathan Wheeler
-0,Kellen Finan
-0,Nicholas Carle
-0,Paul Lachcik
-0,Ryan Wcislek
-0,Thomas Carroll
-0,Zoltan Kapin
-13,Stephen Danek
-15,Callan Daenzer
-18,Evan Pollock
-18,Quinn Kelly
-73,Kale Kessler
-b,r,e,a,k
 DePaul,3
 teamInfo,DUC,"Chicago, Illinois",http://www.instagram.com/depaulultimate,,https://twitter.com/depaultimate
 0,Evan Lutz
@@ -179,20 +179,6 @@ teamInfo,DUC,"Chicago, Illinois",http://www.instagram.com/depaulultimate,,https:
 47,Alex Kielbasa
 80,William Hollis
 99,Giri Peters
-b,r,e,a,k
-Notre Dame (B),10
-teamInfo,Opus D's,"Notre Dame, Indiana",,,
-0,Alberto Lobo-Guerrero Battocchio
-0,Benjamin Walsh
-0,Brady Conlin
-0,Quinn Duhon
-0,Robert  O’Brien
-0,Ryan Hulla
-0,Zachary Quirk
-13,Isaac Kelly
-22,Ryan Williams
-26,Will Stotz
-73,Kevin Murawski
 b,r,e,a,k
 Cincinnati  (B),6
 teamInfo,Bearcats B,"Cincinnati, Ohio",,,https://twitter.com/UCUltimate
@@ -219,6 +205,20 @@ teamInfo,Bearcats B,"Cincinnati, Ohio",,,https://twitter.com/UCUltimate
 96,Nicholas Wurst
 99,Ryan Trippeer
 b,r,e,a,k
+Notre Dame (B),10
+teamInfo,Opus D's,"Notre Dame, Indiana",,,
+0,Alberto Lobo-Guerrero Battocchio
+0,Benjamin Walsh
+0,Brady Conlin
+0,Quinn Duhon
+0,Robert  O’Brien
+0,Ryan Hulla
+0,Zachary Quirk
+13,Isaac Kelly
+22,Ryan Williams
+26,Will Stotz
+73,Kevin Murawski
+b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
@@ -229,7 +229,7 @@ Miami (Ohio),Wright State,13,7,"02/28/2026, 10:30",Pool A,Final
 Wright State,Dayton (B),13,5,"02/28/2026, 12:00",Pool A,Final
 Miami (Ohio),Case Western Reserve (B),11,7,"02/28/2026, 12:00",Pool A,Final
 Kentucky,Wright State,13,1,"02/28/2026, 13:30",Pool A,Final
-Miami (Ohio),Dayton (B),0,0,"02/28/2026, 13:30",Pool A,Scheduled
+Miami (Ohio),Dayton (B),13,3,"02/28/2026, 13:30",Pool A,Final
 Kentucky,Miami (Ohio),0,0,"02/28/2026, 15:00",Pool A,Scheduled
 Case Western Reserve (B),Dayton (B),0,0,"02/28/2026, 15:00",Pool A,Scheduled
 pool,Pool B
@@ -239,8 +239,8 @@ Dayton,Cincinnati  (B),13,7,"02/28/2026, 10:30",Pool B,Final
 DePaul,Purdue (B),10,11,"02/28/2026, 10:30",Pool B,Final
 Purdue (B),Notre Dame (B),12,8,"02/28/2026, 12:00",Pool B,Final
 DePaul,Cincinnati  (B),12,10,"02/28/2026, 12:00",Pool B,Final
-Dayton,Purdue (B),0,0,"02/28/2026, 13:30",Pool B,Scheduled
-DePaul,Notre Dame (B),0,0,"02/28/2026, 13:30",Pool B,Scheduled
+Dayton,Purdue (B),13,4,"02/28/2026, 13:30",Pool B,Final
+DePaul,Notre Dame (B),13,6,"02/28/2026, 13:30",Pool B,Final
 Dayton,DePaul,0,0,"02/28/2026, 15:00",Pool B,Scheduled
 Cincinnati  (B),Notre Dame (B),0,0,"02/28/2026, 15:00",Pool B,Scheduled
 b,r,e,a,k
