@@ -477,7 +477,7 @@ pools,Upper Power Pools
 pool,Pool A
 Utah State,Occidental,13,5,"02/28/2026, 08:30",Pool A,Final
 Puget Sound,Occidental,13,5,"02/28/2026, 10:05",Pool A,Final
-Utah State,Puget Sound,0,0,"02/28/2026, 11:40",Pool A,Scheduled
+Utah State,Puget Sound,13,8,"02/28/2026, 11:40",Pool A,Final
 pool,Pool B
 Oklahoma Christian,Michigan Tech,13,10,"02/28/2026, 08:30",Pool B,Final
 Colorado College,Michigan Tech,13,4,"02/28/2026, 10:05",Pool B,Final
@@ -485,7 +485,7 @@ Oklahoma Christian,Colorado College,12,11,"02/28/2026, 11:40",Pool B,Final
 pool,Pool C
 Lewis & Clark,Montana State,13,5,"02/28/2026, 08:30",Pool C,Final
 Colorado (B),Montana State,7,13,"02/28/2026, 10:05",Pool C,Final
-Lewis & Clark,Colorado (B),0,0,"02/28/2026, 11:40",Pool C,Scheduled
+Lewis & Clark,Colorado (B),12,13,"02/28/2026, 11:40",Pool C,Final
 pool,Pool D
 Denver,Grinnell,13,7,"02/28/2026, 08:30",Pool D,Final
 Colorado Mines,Grinnell,13,6,"02/28/2026, 10:05",Pool D,Final
@@ -496,7 +496,7 @@ pool,Pool E
 Brigham Young (B),Colorado (C),13,2,"02/28/2026, 10:05",Pool E,Final
 California (B),Colorado Mesa,12,11,"02/28/2026, 10:05",Pool E,Final
 Brigham Young (B),California (B),13,8,"02/28/2026, 11:40",Pool E,Final
-Colorado Mesa,Colorado (C),0,0,"02/28/2026, 11:40",Pool E,Scheduled
+Colorado Mesa,Colorado (C),13,5,"02/28/2026, 11:40",Pool E,Final
 pool,Pool F
 Xavier,Colorado Mines (B),13,0,"02/28/2026, 10:05",Pool F,Final
 Colorado State (B),Northern Arizona,6,13,"02/28/2026, 10:05",Pool F,Final
@@ -504,9 +504,13 @@ Xavier,Northern Arizona,0,0,"02/28/2026, 11:40",Pool F,Scheduled
 Colorado State (B),Colorado Mines (B),13,4,"02/28/2026, 11:40",Pool F,Final
 b,r,e,a,k
 clusters,1v1 Crossovers
+cluster,1v1 Crossovers
+Utah State,Lewis & Clark,0,0,"02/28/2026, 13:25",,Scheduled
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,Championship Bracket
+Michigan Tech,Brigham Young (B),0,0,"02/28/2026, 13:25",Play-in,Scheduled
+Colorado (B),California (B),0,0,"02/28/2026, 13:25",Play-in,Scheduled
 bracket,3rd Place
 bracket,5th Place Bracket
 bracket,7th Place

@@ -298,30 +298,6 @@ teamInfo,Udderburn,"Platteville, Wisconsin",,https://www.facebook.com/uwpultimat
 87,Jackson Vondrak
 97,Lucas Conard
 b,r,e,a,k
-Wisconsin-Milwaukee,10
-teamInfo,Black Cat,"Milwaukee, Wisconsin",,https://www.facebook.com/BlackCatUltimate?ref=br_tf,@BlaCkatUltimate
-0,Aaron George
-0,Drew Dederich
-0,Gabriel Nass
-0,Hayden West
-0,Logan WileyMatusen
-3,Gwen Johnson
-6,Colin Szczap
-8,Asa Hatcher
-10,Ian Treacy
-12,Liam VandeZande
-13,Xavier Schultz
-16,Joseph Mueller
-19,Ryan Waller
-22,Dylan Heater
-23,Zach Vosberg
-26,Cooper Kleibor
-30,Ray Wheaten
-34,Eric Swartz
-36,Sam Stocklein
-67,Samuel Huettl
-69,Benjamin Michalak
-b,r,e,a,k
 St Thomas,18
 teamInfo,Purple Reign,"Saint Paul, Minnesota",,,
 0,Brendan Klaphake
@@ -351,6 +327,30 @@ teamInfo,Purple Reign,"Saint Paul, Minnesota",,,
 69,Albert Dohrer
 74,Kenneth Richards
 87,Alex  Cahill
+b,r,e,a,k
+Wisconsin-Milwaukee,10
+teamInfo,Black Cat,"Milwaukee, Wisconsin",,https://www.facebook.com/BlackCatUltimate?ref=br_tf,@BlaCkatUltimate
+0,Aaron George
+0,Drew Dederich
+0,Gabriel Nass
+0,Hayden West
+0,Logan WileyMatusen
+3,Gwen Johnson
+6,Colin Szczap
+8,Asa Hatcher
+10,Ian Treacy
+12,Liam VandeZande
+13,Xavier Schultz
+16,Joseph Mueller
+19,Ryan Waller
+22,Dylan Heater
+23,Zach Vosberg
+26,Cooper Kleibor
+30,Ray Wheaten
+34,Eric Swartz
+36,Sam Stocklein
+67,Samuel Huettl
+69,Benjamin Michalak
 b,r,e,a,k
 Minnesota (B),15
 teamInfo,Minnesota B,"Minneapolis, Minnesota",,,
@@ -452,24 +452,6 @@ teamInfo,Boomland,"Champaign, Illinois",,,https://twitter.com/boomlandulti?lang=
 88,Eric Ho
 89,Luca Iasinschi
 b,r,e,a,k
-Wisconsin-La Crosse,11
-teamInfo,BadLUC,"La Crosse, Wisconsin",https://uwlmyorgs.collegiatelink.net/organization/mensultimate,https://www.facebook.com/UWLaCrosseUltimateClub/?ref=aymt_homepage_panel,https://twitter.com/ultimateluc?lang=en
-0,Ben Buchmann
-0,Ben Harvey
-0,Canaan Lese
-0,Declan Dahm
-0,Elijah Binder
-0,Ethan Ishaug
-0,Griffin Wierzba
-0,Jack Weibeler
-0,Alex Eilers
-0,Sam Elliott
-0,Scott Heroux
-6,Owen Anderson
-18,Alex Fifield
-22,Lucas Strauss
-69,Joey Kratzer
-b,r,e,a,k
 Marquette (B),22
 teamInfo,Birdfeeder,"Milwaukee, Wisconsin",,,
 0,Elliott Schultz
@@ -491,6 +473,24 @@ teamInfo,Birdfeeder,"Milwaukee, Wisconsin",,,
 77,Drew Loutsis
 96,Lucio Buccelli
 98,Connor Richards
+b,r,e,a,k
+Wisconsin-La Crosse,11
+teamInfo,BadLUC,"La Crosse, Wisconsin",https://uwlmyorgs.collegiatelink.net/organization/mensultimate,https://www.facebook.com/UWLaCrosseUltimateClub/?ref=aymt_homepage_panel,https://twitter.com/ultimateluc?lang=en
+0,Ben Buchmann
+0,Ben Harvey
+0,Canaan Lese
+0,Declan Dahm
+0,Elijah Binder
+0,Ethan Ishaug
+0,Griffin Wierzba
+0,Jack Weibeler
+0,Alex Eilers
+0,Sam Elliott
+0,Scott Heroux
+6,Owen Anderson
+18,Alex Fifield
+22,Lucas Strauss
+69,Joey Kratzer
 b,r,e,a,k
 Truman State,13
 teamInfo,JujiTSU,"Kirksville, Missouri",https://ultimate.truman.edu,https://facebook.com/pages/JujiTSU-Ultimate/159311880755819,https://twitter.com/JujiTSUltimate
@@ -595,7 +595,7 @@ Iowa State,St Olaf,0,0,"02/28/2026, 11:30",Pool A,Scheduled
 pool,Pool B
 Illinois,Missouri S&T,13,1,"02/28/2026, 10:00",Pool B,Final
 Washington University,Marquette,12,8,"02/28/2026, 10:00",Pool B,Final
-Illinois,Marquette,0,0,"02/28/2026, 13:00",Pool B,Scheduled
+Illinois,Marquette,13,8,"02/28/2026, 13:00",Pool B,Final
 Washington University,Missouri S&T,0,0,"02/28/2026, 13:00",Pool B,Scheduled
 Illinois,Washington University,0,0,"02/28/2026, 14:30",Pool B,Scheduled
 Missouri S&T,Marquette,0,0,"02/28/2026, 14:30",Pool B,Scheduled
@@ -603,7 +603,7 @@ pool,Pool C
 Northwestern,Wisconsin (B),9,5,"02/28/2026, 10:00",Pool C,Scheduled
 Northwestern,Wisconsin-Platteville,10,6,"02/28/2026, 11:30",Pool C,Scheduled
 Nebraska,Wisconsin (B),13,4,"02/28/2026, 11:30",Pool C,Scheduled
-Nebraska,Wisconsin-Platteville,0,0,"02/28/2026, 13:00",Pool C,Scheduled
+Nebraska,Wisconsin-Platteville,13,5,"02/28/2026, 13:00",Pool C,Scheduled
 Northwestern,Nebraska,0,0,"02/28/2026, 14:30",Pool C,Scheduled
 Wisconsin (B),Wisconsin-Platteville,0,0,"02/28/2026, 14:30",Pool C,Scheduled
 pool,Pool D
@@ -612,11 +612,11 @@ Wisconsin-Milwaukee,St Thomas,11,6,"02/28/2026, 10:00",Pool D,Final
 Minnesota (B),Iowa State (B),13,2,"02/28/2026, 10:00",Pool D,Final
 Wisconsin-Milwaukee,Minnesota (B),11,7,"02/28/2026, 11:30",Pool D,Final
 Wisconsin-Milwaukee,Iowa State (B),0,0,"02/28/2026, 13:00",Pool D,Scheduled
-Minnesota (B),St Thomas,0,0,"02/28/2026, 13:00",Pool D,Scheduled
+Minnesota (B),St Thomas,7,9,"02/28/2026, 13:00",Pool D,Final
 pool,Pool E
 Wisconsin-La Crosse,Illinois (B),4,11,"02/28/2026, 11:30",Pool E,Final
 Minnesota-Duluth,Marquette (B),13,3,"02/28/2026, 11:30",Pool E,Final
-Wisconsin-La Crosse,Minnesota-Duluth,0,0,"02/28/2026, 13:00",Pool E,Scheduled
+Wisconsin-La Crosse,Minnesota-Duluth,6,13,"02/28/2026, 13:00",Pool E,Final
 Illinois (B),Marquette (B),0,0,"02/28/2026, 13:00",Pool E,Scheduled
 Wisconsin-La Crosse,Marquette (B),0,0,"02/28/2026, 14:30",Pool E,Scheduled
 Minnesota-Duluth,Illinois (B),0,0,"02/28/2026, 14:30",Pool E,Scheduled
