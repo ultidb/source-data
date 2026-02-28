@@ -109,22 +109,6 @@ coaches,Anat Gross
 77,Mary Orlando
 85,Julia Victor
 b,r,e,a,k
-Arkansas,10
-teamInfo,SoCo,"Fayetteville, Arkansas",,https://www.facebook.com/UARKWomensUltimate/?ref=aymt_homepage_panel,
-04,Hadley Ayers
-05,KyahR Crain
-05,Lily Jennings
-06,Deborah Dillard
-07,Kaitlyn Phillips
-11,Kaylee Snell
-12,Savannah Weidler
-13,Lucy Smith
-14,Anya Ratycz
-15,Olivia Tillman
-17,Margaret Parker
-22,Calista Dillon
-23,Sydney Hammond
-b,r,e,a,k
 Iowa,15
 teamInfo,Saucy Nancy,"Iowa City, Iowa",http://saucynancyultimate.weebly.com/,https://www.facebook.com/saucynancyultimate/?ref=hl,https://twitter.com/SaucyNancyIowa
 coaches,Scott Hetu
@@ -151,6 +135,22 @@ coaches,Scott Hetu
 22,Gracie Gardner
 25,Ashley Streck
 48,Skylar Hoffman
+b,r,e,a,k
+Arkansas,10
+teamInfo,SoCo,"Fayetteville, Arkansas",,https://www.facebook.com/UARKWomensUltimate/?ref=aymt_homepage_panel,
+04,Hadley Ayers
+05,KyahR Crain
+05,Lily Jennings
+06,Deborah Dillard
+07,Kaitlyn Phillips
+11,Kaylee Snell
+12,Savannah Weidler
+13,Lucy Smith
+14,Anya Ratycz
+15,Olivia Tillman
+17,Margaret Parker
+22,Calista Dillon
+23,Sydney Hammond
 b,r,e,a,k
 Purdue,7
 teamInfo,Xpress,"West Lafayette, Indiana",http://purduewomensultimate.weebly.com/,https://www.facebook.com/xpressultimate/,https://twitter.com/PurdueWomensUlt
@@ -600,14 +600,14 @@ Carleton College-Eclipse,Saint Louis,13,4,"02/28/2026, 08:30",Pool A,Final
 Iowa State,Marquette,4,13,"02/28/2026, 08:30",Pool A,Final
 Carleton College-Eclipse,Marquette,13,1,"02/28/2026, 10:00",Pool A,Final
 Carleton College-Eclipse,Iowa State,13,3,"02/28/2026, 11:30",Pool A,Final
-Marquette,Saint Louis,0,0,"02/28/2026, 11:30",Pool A,Scheduled
+Marquette,Saint Louis,10,6,"02/28/2026, 11:30",Pool A,Scheduled
 Iowa State,Saint Louis,0,0,"02/28/2026, 13:00",Pool A,Scheduled
 pool,Pool B
 Purdue,Arkansas,4,10,"02/28/2026, 08:30",Pool B,Scheduled
 Washington University,Purdue,13,4,"02/28/2026, 10:00",Pool B,Final
 Arkansas,Iowa,11,3,"02/28/2026, 10:00",Pool B,Scheduled
-Washington University,Arkansas,0,0,"02/28/2026, 11:30",Pool B,Scheduled
-Purdue,Iowa,0,0,"02/28/2026, 11:30",Pool B,Scheduled
+Washington University,Arkansas,10,6,"02/28/2026, 11:30",Pool B,Final
+Purdue,Iowa,6,8,"02/28/2026, 11:30",Pool B,Final
 Washington University,Iowa,0,0,"02/28/2026, 13:00",Pool B,Scheduled
 pool,Pool C
 St Olaf,Wisconsin-Eau Claire,10,3,"02/28/2026, 08:30",Pool C,Final
@@ -628,7 +628,7 @@ clusters,Tier 2 Crossovers
 cluster,Pool E v F Crossover
 Wisconsin-La Crosse,Notre Dame (B),8,2,"02/28/2026, 08:30",,Final
 Washington University (B),Wisconsin-Milwaukee,6,8,"02/28/2026, 10:00",,Final
-Grinnell,DePaul,0,0,"02/28/2026, 11:30",,Scheduled
+Grinnell,DePaul,8,3,"02/28/2026, 11:30",,Final
 b,r,e,a,k
 brackets,Tier 1 Bracket Play
 bracket,Championship
@@ -658,7 +658,7 @@ pool,Pool H
 Carleton College (C),Wisconsin (B),5,7,"02/28/2026, 08:30",Pool H,Final
 Truman State,Missouri State,9,8,"02/28/2026, 08:30",Pool H,Scheduled
 Carleton College (C),Truman State,0,0,"02/28/2026, 10:00",Pool H,Scheduled
-Missouri State,Wisconsin (B),0,0,"02/28/2026, 11:30",Pool H,Scheduled
+Missouri State,Wisconsin (B),9,8,"02/28/2026, 11:30",Pool H,Scheduled
 Carleton College (C),Missouri State,0,0,"02/28/2026, 13:00",Pool H,Scheduled
 Truman State,Wisconsin (B),0,0,"02/28/2026, 13:00",Pool H,Scheduled
 b,r,e,a,k

@@ -23,6 +23,30 @@ teamInfo,SIEGE,"Edwardsville, Illinois",,,
 30,Jesse Zawitkowski
 38,Arik Screnchuk
 b,r,e,a,k
+Iowa,8
+teamInfo,IHUC,"Iowa City, Iowa",https://sites.google.com/site/iowahawkeyeultimateclub/,https://www.facebook.com/groups/564875686867551/,https://twitter.com/UofIowaUltimate
+0,Calahan Rourke
+0,Jack McIntyre
+0,Ryan Lewis
+2,Oliver Bostian
+3,Alex Kapaun
+7,Hale Halvorson
+9,Chris Markiewicz
+9,Joshua Vierke
+11,Nicholas Quast
+12,Jason Chen
+14,Riley Dobush
+20,Tony Abdel-Malek
+24,Alec Detzel
+27,Mario Ortiz
+28,Tanner Peavy
+32,William Walters
+41,John Lorenz
+54,Henry Strauss
+72,Harvey Fiorato
+91,Thomas Helm
+97,Michael Roper
+b,r,e,a,k
 St Olaf,5
 teamInfo,Berzerkers,"Northfield, Minnesota",https://zerksultimate.weebly.com/,https://www.facebook.com/stozerks/,https://twitter.com/zerksultimate?lang=en
 0,Jake Schmidt
@@ -54,30 +78,6 @@ teamInfo,Berzerkers,"Northfield, Minnesota",https://zerksultimate.weebly.com/,ht
 89,Ethan Landgreen
 91,Gabriel Badillo Moorman
 99,Ian O'Fallon
-b,r,e,a,k
-Iowa,8
-teamInfo,IHUC,"Iowa City, Iowa",https://sites.google.com/site/iowahawkeyeultimateclub/,https://www.facebook.com/groups/564875686867551/,https://twitter.com/UofIowaUltimate
-0,Calahan Rourke
-0,Jack McIntyre
-0,Ryan Lewis
-2,Oliver Bostian
-3,Alex Kapaun
-7,Hale Halvorson
-9,Chris Markiewicz
-9,Joshua Vierke
-11,Nicholas Quast
-12,Jason Chen
-14,Riley Dobush
-20,Tony Abdel-Malek
-24,Alec Detzel
-27,Mario Ortiz
-28,Tanner Peavy
-32,William Walters
-41,John Lorenz
-54,Henry Strauss
-72,Harvey Fiorato
-91,Thomas Helm
-97,Michael Roper
 b,r,e,a,k
 Iowa State,4
 teamInfo,ISUC,"Ames, Iowa",https://www.stuorg.iastate.edu/isuc,https://www.facebook.com/IowaStateUltimate,https://twitter.com/ISUltimate
@@ -322,33 +322,6 @@ teamInfo,Black Cat,"Milwaukee, Wisconsin",,https://www.facebook.com/BlackCatUlti
 67,Samuel Huettl
 69,Benjamin Michalak
 b,r,e,a,k
-Minnesota (B),15
-teamInfo,Minnesota B,"Minneapolis, Minnesota",,,
-coaches,Timothy Opdahl
-0,Alex Newton
-0,Austin Tranowski
-0,Beck Bjella
-0,Clayton Horstman Olson
-0,Conner Matuza
-0,Dillon Steeves
-0,Gannon Jefcoat
-0,Grant Hietpas
-0,Henry Dickinson
-0,Kelly McFarren
-0,Malakai Golben
-0,Nate Benishek
-0,Neale Grage
-0,Jack Larson
-0,Jeremy Sanborn
-0,Wyatt Mackenthun
-5,Sebastian Blue
-5,Henry Wineberg
-9,Quinn Nelson
-14,Riley Vang
-22,Dylan Morrissette
-24,Jonathan Ip
-96,Gavriel Olson
-b,r,e,a,k
 St Thomas,18
 teamInfo,Purple Reign,"Saint Paul, Minnesota",,,
 0,Brendan Klaphake
@@ -378,6 +351,33 @@ teamInfo,Purple Reign,"Saint Paul, Minnesota",,,
 69,Albert Dohrer
 74,Kenneth Richards
 87,Alex  Cahill
+b,r,e,a,k
+Minnesota (B),15
+teamInfo,Minnesota B,"Minneapolis, Minnesota",,,
+coaches,Timothy Opdahl
+0,Alex Newton
+0,Austin Tranowski
+0,Beck Bjella
+0,Clayton Horstman Olson
+0,Conner Matuza
+0,Dillon Steeves
+0,Gannon Jefcoat
+0,Grant Hietpas
+0,Henry Dickinson
+0,Kelly McFarren
+0,Malakai Golben
+0,Nate Benishek
+0,Neale Grage
+0,Jack Larson
+0,Jeremy Sanborn
+0,Wyatt Mackenthun
+5,Sebastian Blue
+5,Henry Wineberg
+9,Quinn Nelson
+14,Riley Vang
+22,Dylan Morrissette
+24,Jonathan Ip
+96,Gavriel Olson
 b,r,e,a,k
 Iowa State (B),23
 teamInfo,BSUC,"Ames, Iowa",,,
@@ -589,8 +589,8 @@ pool,Pool A
 Southern Illinois-Edwardsville,Iowa State,13,7,"02/28/2026, 08:30",Pool A,Final
 St Olaf,Iowa,0,0,"02/28/2026, 08:30",Pool A,Scheduled
 Southern Illinois-Edwardsville,St Olaf,0,0,"02/28/2026, 10:00",Pool A,Scheduled
-Iowa State,Iowa,0,0,"02/28/2026, 10:00",Pool A,Scheduled
-Southern Illinois-Edwardsville,Iowa,0,0,"02/28/2026, 11:30",Pool A,Scheduled
+Iowa State,Iowa,10,13,"02/28/2026, 10:00",Pool A,Final
+Southern Illinois-Edwardsville,Iowa,10,8,"02/28/2026, 11:30",Pool A,Final
 Iowa State,St Olaf,0,0,"02/28/2026, 11:30",Pool A,Scheduled
 pool,Pool B
 Illinois,Missouri S&T,13,1,"02/28/2026, 10:00",Pool B,Final
@@ -610,7 +610,7 @@ pool,Pool D
 St Thomas,Iowa State (B),13,0,"02/28/2026, 08:30",Pool D,Final
 Wisconsin-Milwaukee,St Thomas,11,6,"02/28/2026, 10:00",Pool D,Final
 Minnesota (B),Iowa State (B),13,2,"02/28/2026, 10:00",Pool D,Final
-Wisconsin-Milwaukee,Minnesota (B),0,0,"02/28/2026, 11:30",Pool D,Scheduled
+Wisconsin-Milwaukee,Minnesota (B),11,7,"02/28/2026, 11:30",Pool D,Final
 Wisconsin-Milwaukee,Iowa State (B),0,0,"02/28/2026, 13:00",Pool D,Scheduled
 Minnesota (B),St Thomas,0,0,"02/28/2026, 13:00",Pool D,Scheduled
 pool,Pool E
