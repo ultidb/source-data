@@ -296,27 +296,6 @@ teamInfo,Pursesnatchers,"Saint Paul, Minnesota",https://www.instagram.com/purses
 70,Claire Lee
 99,Sophie Diliberti
 b,r,e,a,k
-Kansas,12
-teamInfo,Betty Ultimate,"Lawrence, Kansas",www.bettyultimate.com,https://www.facebook.com/pages/Betty-Ultimate/144061402213,https://twitter.com/bettyultimate
-coaches,Jordan Warren
-01,Brynn Motes
-04,Anna Ross
-05,Evanne Alstrom
-06,Claire Butzlaff
-07,Allie Froendt
-09,Ava Scanlon
-10,Abigail Webster
-11,Kyndall Gordon
-15,Marina Bontrager
-16,Olivia Lischer
-18,Zander Semrau
-19,Adela Lett
-24,Elizabeth  Hegji
-25,Lauren Fraser
-33,Jillian Blount
-37,Georgia Hansen
-72,Violet Meyers
-b,r,e,a,k
 Northwestern,13
 teamInfo,Claw,"Evanston, Illinois",,https://www.facebook.com/NUclaw,https://twitter.com/NUclaw_
 0,Addison Stover
@@ -344,6 +323,27 @@ teamInfo,Claw,"Evanston, Illinois",,https://www.facebook.com/NUclaw,https://twit
 0,Yaxi Chen
 0,Zora Warren
 23,Lauren Levinson
+b,r,e,a,k
+Kansas,12
+teamInfo,Betty Ultimate,"Lawrence, Kansas",www.bettyultimate.com,https://www.facebook.com/pages/Betty-Ultimate/144061402213,https://twitter.com/bettyultimate
+coaches,Jordan Warren
+01,Brynn Motes
+04,Anna Ross
+05,Evanne Alstrom
+06,Claire Butzlaff
+07,Allie Froendt
+09,Ava Scanlon
+10,Abigail Webster
+11,Kyndall Gordon
+15,Marina Bontrager
+16,Olivia Lischer
+18,Zander Semrau
+19,Adela Lett
+24,Elizabeth  Hegji
+25,Lauren Fraser
+33,Jillian Blount
+37,Georgia Hansen
+72,Violet Meyers
 b,r,e,a,k
 Wisconsin-La Crosse,18
 teamInfo,Galaxy,"La Crosse, Wisconsin",,,
@@ -464,6 +464,19 @@ teamInfo,Laser Chains,"Chicago, Illinois",https://dehub.depaul.edu/laserchains/h
 33,Tessa Tully
 61,Agnes Kuchta
 b,r,e,a,k
+Vanderbilt,22
+teamInfo,Surge,"Nashville, Tennessee",https://www.instagram.com/vandy.surge?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==,,
+0,Angelina Ma
+0,Anna Thornton
+0,Connie Su
+0,Eliza Matthias
+0,Luchenzhi Wang
+0,Qingya Shi
+0,Yixuan Zhang
+9,Abby Faulhaber
+14,Rhea  Patney
+20,Kayla Kornfeld
+b,r,e,a,k
 Michigan (B),19
 teamInfo,Michigan B,"Ann Arbor, Michigan",,,
 0,Lina Li
@@ -479,19 +492,6 @@ teamInfo,Michigan B,"Ann Arbor, Michigan",,,
 49,Quynh-An Vo
 67,Emily Copley
 77,Melanie Karls
-b,r,e,a,k
-Vanderbilt,22
-teamInfo,Surge,"Nashville, Tennessee",https://www.instagram.com/vandy.surge?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==,,
-0,Angelina Ma
-0,Anna Thornton
-0,Connie Su
-0,Eliza Matthias
-0,Luchenzhi Wang
-0,Qingya Shi
-0,Yixuan Zhang
-9,Abby Faulhaber
-14,Rhea  Patney
-20,Kayla Kornfeld
 b,r,e,a,k
 Harding,27
 teamInfo,Sky Bisons,"Searcy, Arkansas",,,
@@ -600,7 +600,7 @@ Carleton College-Eclipse,Saint Louis,13,4,"02/28/2026, 08:30",Pool A,Final
 Iowa State,Marquette,4,13,"02/28/2026, 08:30",Pool A,Final
 Carleton College-Eclipse,Marquette,13,1,"02/28/2026, 10:00",Pool A,Final
 Carleton College-Eclipse,Iowa State,13,3,"02/28/2026, 11:30",Pool A,Final
-Marquette,Saint Louis,10,6,"02/28/2026, 11:30",Pool A,Scheduled
+Marquette,Saint Louis,10,6,"02/28/2026, 11:30",Pool A,Final
 Iowa State,Saint Louis,0,0,"02/28/2026, 13:00",Pool A,Scheduled
 pool,Pool B
 Purdue,Arkansas,4,10,"02/28/2026, 08:30",Pool B,Scheduled
@@ -619,8 +619,8 @@ Illinois,Wisconsin-Eau Claire,0,0,"02/28/2026, 13:00",Pool C,Scheduled
 pool,Pool D
 Missouri,Northwestern,7,4,"02/28/2026, 08:30",Pool D,Final
 Macalester,Kansas,7,5,"02/28/2026, 10:00",Pool D,Final
-Missouri,Kansas,7,3,"02/28/2026, 11:30",Pool D,In Progress
-Macalester,Northwestern,0,0,"02/28/2026, 11:30",Pool D,Scheduled
+Missouri,Kansas,10,6,"02/28/2026, 11:30",Pool D,Final
+Macalester,Northwestern,7,5,"02/28/2026, 11:30",Pool D,Scheduled
 Missouri,Macalester,0,0,"02/28/2026, 13:00",Pool D,Scheduled
 Kansas,Northwestern,0,0,"02/28/2026, 13:00",Pool D,Scheduled
 b,r,e,a,k
@@ -648,11 +648,11 @@ Washington University (B),DePaul,10,1,"02/28/2026, 08:30",Pool F,Final
 Wisconsin-La Crosse,DePaul,8,2,"02/28/2026, 10:00",Pool F,Scheduled
 Wisconsin-La Crosse,Washington University (B),0,0,"02/28/2026, 13:00",Pool F,Scheduled
 pool,Pool G
-Vanderbilt,Harding,11,4,"02/28/2026, 08:30",Pool G,Scheduled
+Vanderbilt,Harding,11,4,"02/28/2026, 08:30",Pool G,Final
 Michigan (B),Vanderbilt,0,0,"02/28/2026, 10:00",Pool G,Scheduled
 Harding,Illinois (B),0,0,"02/28/2026, 10:00",Pool G,Scheduled
 Michigan (B),Harding,0,0,"02/28/2026, 11:30",Pool G,Scheduled
-Vanderbilt,Illinois (B),0,0,"02/28/2026, 11:30",Pool G,Scheduled
+Vanderbilt,Illinois (B),13,1,"02/28/2026, 11:30",Pool G,Final
 Michigan (B),Illinois (B),0,0,"02/28/2026, 13:00",Pool G,Scheduled
 pool,Pool H
 Carleton College (C),Wisconsin (B),5,7,"02/28/2026, 08:30",Pool H,Final
