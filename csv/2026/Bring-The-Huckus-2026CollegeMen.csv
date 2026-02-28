@@ -105,29 +105,33 @@ teamInfo,SCAM,"Albany, New York",https://www.instagram.com/ualbanyultimate/,,
 88,Evan Gorthy
 99,Benjamin Brussovansky
 b,r,e,a,k
-Ithaca,6
-teamInfo,Nawshus Ultimate,"Ithaca, New York",,,
-0,Asher Solodar
-0,Colden Chierichella
-0,Eli Hajjar
-0,Fisher Griesel
-0,Matthew Krohn
-0,Michael Colombo
-0,Milo Vinson
-0,Nevin LaBrusciano
-0,Ryan Marsh
-0,James Smith
-0,Tate Mosher
-4,Thomas Cronin
-7,Sydney Assile
-9,Evan Mandell
-20,Jack Butler
-25,Jalen Bolton-Steiner
-27,Seamus Reilly
-50,Christopher Saam
-67,Jamie Falkovich
-77,Cyrus Edlund-Farsad
-88,Antonio Vengoechea
+Delaware,3
+teamInfo,Sideshow,"Newark, Delaware",,,
+coaches,James Henderson
+0,Albert Capodanno
+0,Alexander Grega
+0,Cayden Devers
+0,Charlie Giannone
+0,Collin Beaman
+0,Dan Kelner
+0,Gabriel Resto
+0,Hayden Land
+0,Ian Sinclair
+0,Jack Burach
+0,Jeffrey Rabinowitz
+0,Joseph Lenzo
+0,Josh Rudy
+0,Joshua Geddes
+0,Kaden  Mallery
+0,Kyle Ong
+0,Mark Polin
+0,Patrick Duffy
+0,Trajan Kump
+0,Tucker Stevens
+0,William  Everett
+0,Zachary Brooks
+0,Zachary Villamor
+24,John Cleaver
 b,r,e,a,k
 SUNY-Binghamton,2
 teamInfo,SUNY-Binghamton,"Binghamton, New York",https://sites.google.com/binghamton.edu/binghamtonultimate/,https://www.facebook.com/binghamtonultimate/,
@@ -156,33 +160,29 @@ teamInfo,SUNY-Binghamton,"Binghamton, New York",https://sites.google.com/bingham
 64,Ryan Carter
 72,Neil  Costa
 b,r,e,a,k
-Delaware,3
-teamInfo,Sideshow,"Newark, Delaware",,,
-coaches,James Henderson
-0,Albert Capodanno
-0,Alexander Grega
-0,Cayden Devers
-0,Charlie Giannone
-0,Collin Beaman
-0,Dan Kelner
-0,Gabriel Resto
-0,Hayden Land
-0,Ian Sinclair
-0,Jack Burach
-0,Jeffrey Rabinowitz
-0,Joseph Lenzo
-0,Josh Rudy
-0,Joshua Geddes
-0,Kaden  Mallery
-0,Kyle Ong
-0,Mark Polin
-0,Patrick Duffy
-0,Trajan Kump
-0,Tucker Stevens
-0,William  Everett
-0,Zachary Brooks
-0,Zachary Villamor
-24,John Cleaver
+Ithaca,6
+teamInfo,Nawshus Ultimate,"Ithaca, New York",,,
+0,Asher Solodar
+0,Colden Chierichella
+0,Eli Hajjar
+0,Fisher Griesel
+0,Matthew Krohn
+0,Michael Colombo
+0,Milo Vinson
+0,Nevin LaBrusciano
+0,Ryan Marsh
+0,James Smith
+0,Tate Mosher
+4,Thomas Cronin
+7,Sydney Assile
+9,Evan Mandell
+20,Jack Butler
+25,Jalen Bolton-Steiner
+27,Seamus Reilly
+50,Christopher Saam
+67,Jamie Falkovich
+77,Cyrus Edlund-Farsad
+88,Antonio Vengoechea
 b,r,e,a,k
 Penn State (B),7
 teamInfo,LoveTap,"University Park, Pennsylvania",,,https://twitter.com/LovetapDisc
@@ -457,7 +457,7 @@ Ithaca,Penn State (B),11,4,"02/28/2026, 13:30",Pool B,Final
 SUNY-Binghamton,Ithaca,10,9,"02/28/2026, 14:50",Pool B,Final
 Delaware,Penn State (B),0,0,"02/28/2026, 14:50",Pool B,Scheduled
 SUNY-Binghamton,Penn State (B),0,0,"02/28/2026, 16:10",Pool B,Scheduled
-Delaware,Ithaca,0,0,"02/28/2026, 16:10",Pool B,Scheduled
+Delaware,Ithaca,11,9,"02/28/2026, 16:10",Pool B,Final
 pool,Pool C
 Cornell (B),West Chester (B),11,7,"02/28/2026, 13:00",Pool C,Final
 Princeton,West Chester (B),0,0,"02/28/2026, 14:10",Pool C,Scheduled
@@ -465,7 +465,7 @@ Princeton,Cornell (B),11,3,"02/28/2026, 15:20",Pool C,Final
 pool,Pool D
 Rowan,Stevens Tech,0,0,"02/28/2026, 13:00",Pool D,Scheduled
 George Washington,Stevens Tech,11,2,"02/28/2026, 14:10",Pool D,Final
-George Washington,Rowan,0,0,"02/28/2026, 15:20",Pool D,Scheduled
+George Washington,Rowan,11,6,"02/28/2026, 15:20",Pool D,Final
 pool,Pool E
 Swarthmore,Delaware (B),0,0,"02/28/2026, 13:00",Pool E,Scheduled
 Colby,Delaware (B),0,0,"02/28/2026, 14:10",Pool E,Scheduled
@@ -480,7 +480,7 @@ bracket,Championship Bracket
 b,r,e,a,k
 clusters,Crossover
 cluster,Crossover
-Princeton,George Washington,0,0,"02/28/2026, 16:30",,Scheduled
+Princeton,George Washington,8,6,"02/28/2026, 16:30",,Final
 Colby,Skidmore,11,7,"02/28/2026, 16:30",,Final
 Salisbury,Swarthmore,0,0,"02/28/2026, 16:30",,Scheduled
 Rowan,Cornell (B),0,0,"02/28/2026, 16:30",,Scheduled
