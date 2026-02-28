@@ -316,37 +316,6 @@ coaches,Andrew Li,Kevin Pignone
 95,Noah Bush
 99,Keller Fraley
 b,r,e,a,k
-Brown,11
-teamInfo,Brownian Motion,"Providence, Rhode Island",http://www.brown.edu/Athletics/Mens_Ultimate/,https://www.facebook.com/brownultimatefrisbee,https://twitter.com/BMoUltimate
-coaches,James Smart,Jonathan Stout,Nate Taylor
-0,Ben McLanahan
-0,Chien-Yu Xiong
-0,Connor Withey Evans
-0,Devan Hernandez
-0,Emmett Young
-0,Eric Du
-0,Isaac Holtz
-0,Jack Conroy
-0,Jeremiah Wiener
-0,Karl Hokkanen
-0,Luke Wang
-0,Nolan McCloskey
-0,Aayush Muthuswamy
-0,Adrian Lin
-0,Owen Erdman
-0,Roshan Iyengar
-0,Ryan Hsi
-0,Siddharth Yende
-0,Solomon Jackson
-0,Zach Bensky
-9,Jason Tapper
-10,Amrik Eadara
-20,Oliver Wicks
-32,Oliver Kahn
-44,Teo Huson
-66,Eli Chang
-77,Alexander Drogin
-b,r,e,a,k
 Oregon,3
 teamInfo,Ego,"Eugene, Oregon",,https://www.facebook.com/OneBigEgo/,https://twitter.com/egotime
 coaches,Connor Matthews,Braedon Petrus,Trevor Smith,Christopher Strub
@@ -378,34 +347,36 @@ coaches,Connor Matthews,Braedon Petrus,Trevor Smith,Christopher Strub
 99,Nathan Williams
 99,Will Dillender-Kinast
 b,r,e,a,k
-California-Santa Cruz,5
-teamInfo,Slugs,"Santa Cruz, California",https://www.instagram.com/slugultimate/,https://www.facebook.com/slugultimate,https://twitter.com/slugultimate
-coaches,Johnny Ortberg
-0,Cole Mires
-0,Dimitrios Kokalis
-0,Dylan Tams
-0,Gabriel Schwartz-Ketchner
-0,Henry Bellevin
-0,Michael Masotti
-0,Milan Moslehi
-0,Nirel Barthelom
-0,Ranier Bissell
-0,Ryan Weng
-0,Seamus Shogren
-0,Selim Jones
-0,Sulek Dopman
-0,Toby Warren
-0,James Joyce
-0,Joseph Donovan
-0,Weston Collard
-3,Finnegan Barr
-7,Cyrus Isaacs
-19,Jackson Friday
-21,Benjamin Pratt
-22,Cullen Keefe
-45,Tyler Weng
-75,Bodie Shargel
-77,Mario Ambrose
+Brown,11
+teamInfo,Brownian Motion,"Providence, Rhode Island",http://www.brown.edu/Athletics/Mens_Ultimate/,https://www.facebook.com/brownultimatefrisbee,https://twitter.com/BMoUltimate
+coaches,James Smart,Jonathan Stout,Nate Taylor
+0,Ben McLanahan
+0,Chien-Yu Xiong
+0,Connor Withey Evans
+0,Devan Hernandez
+0,Emmett Young
+0,Eric Du
+0,Isaac Holtz
+0,Jack Conroy
+0,Jeremiah Wiener
+0,Karl Hokkanen
+0,Luke Wang
+0,Nolan McCloskey
+0,Aayush Muthuswamy
+0,Adrian Lin
+0,Owen Erdman
+0,Roshan Iyengar
+0,Ryan Hsi
+0,Siddharth Yende
+0,Solomon Jackson
+0,Zach Bensky
+9,Jason Tapper
+10,Amrik Eadara
+20,Oliver Wicks
+32,Oliver Kahn
+44,Teo Huson
+66,Eli Chang
+77,Alexander Drogin
 b,r,e,a,k
 Georgia Tech,13
 teamInfo,Tribe,"Atlanta, Georgia",https://gttribe.github.io/,https://www.instagram.com/gt_tribe/,https://twitter.com/gttribe
@@ -436,6 +407,35 @@ teamInfo,Tribe,"Atlanta, Georgia",https://gttribe.github.io/,https://www.instagr
 41,Neal Zeng
 42,Adam Grossberg
 77,Flavius Penescu
+b,r,e,a,k
+California-Santa Cruz,5
+teamInfo,Slugs,"Santa Cruz, California",https://www.instagram.com/slugultimate/,https://www.facebook.com/slugultimate,https://twitter.com/slugultimate
+coaches,Johnny Ortberg
+0,Cole Mires
+0,Dimitrios Kokalis
+0,Dylan Tams
+0,Gabriel Schwartz-Ketchner
+0,Henry Bellevin
+0,Michael Masotti
+0,Milan Moslehi
+0,Nirel Barthelom
+0,Ranier Bissell
+0,Ryan Weng
+0,Seamus Shogren
+0,Selim Jones
+0,Sulek Dopman
+0,Toby Warren
+0,James Joyce
+0,Joseph Donovan
+0,Weston Collard
+3,Finnegan Barr
+7,Cyrus Isaacs
+19,Jackson Friday
+21,Benjamin Pratt
+22,Cullen Keefe
+45,Tyler Weng
+75,Bodie Shargel
+77,Mario Ambrose
 b,r,e,a,k
 Massachusetts,4
 teamInfo,Zoodisc,"Amherst, Massachusetts",,https://www.facebook.com/UMassUltimate/,https://twitter.com/UMassUltimateM
@@ -514,8 +514,8 @@ Michigan,Georgia,0,0,"02/28/2026, 10:45",Pool A,Scheduled
 Carleton College,Michigan,0,0,"02/28/2026, 12:30",Pool A,Scheduled
 Penn State,Georgia,0,0,"02/28/2026, 12:30",Pool A,Scheduled
 pool,Pool B
-Colorado,Tennessee,0,0,"02/28/2026, 09:00",Pool B,Scheduled
-Vermont,Texas,0,0,"02/28/2026, 09:00",Pool B,Scheduled
+Colorado,Tennessee,13,4,"02/28/2026, 09:00",Pool B,Final
+Vermont,Texas,13,12,"02/28/2026, 09:00",Pool B,Final
 Colorado,Texas,13,8,"02/28/2026, 10:45",Pool B,Final
 Vermont,Tennessee,11,13,"02/28/2026, 10:45",Pool B,Final
 Colorado,Vermont,0,0,"02/28/2026, 12:30",Pool B,Scheduled
@@ -523,7 +523,7 @@ Texas,Tennessee,0,0,"02/28/2026, 12:30",Pool B,Scheduled
 pool,Pool C
 Oregon,Pittsburgh,11,13,"02/28/2026, 09:00",Pool C,Final
 North Carolina,Brown,13,11,"02/28/2026, 09:00",Pool C,Final
-Oregon,Brown,0,0,"02/28/2026, 10:45",Pool C,Scheduled
+Oregon,Brown,13,7,"02/28/2026, 10:45",Pool C,Final
 North Carolina,Pittsburgh,0,0,"02/28/2026, 10:45",Pool C,Scheduled
 Oregon,North Carolina,0,0,"02/28/2026, 12:30",Pool C,Scheduled
 Brown,Pittsburgh,0,0,"02/28/2026, 12:30",Pool C,Scheduled
@@ -531,7 +531,7 @@ pool,Pool D
 Massachusetts,Georgia Tech,12,13,"02/28/2026, 09:00",Pool D,Final
 California-Santa Cruz,North Carolina-Wilmington,13,9,"02/28/2026, 09:00",Pool D,Final
 Massachusetts,North Carolina-Wilmington,0,0,"02/28/2026, 10:45",Pool D,Scheduled
-California-Santa Cruz,Georgia Tech,0,0,"02/28/2026, 10:45",Pool D,Scheduled
+California-Santa Cruz,Georgia Tech,10,13,"02/28/2026, 10:45",Pool D,Final
 Massachusetts,California-Santa Cruz,0,0,"02/28/2026, 12:30",Pool D,Scheduled
 North Carolina-Wilmington,Georgia Tech,0,0,"02/28/2026, 12:30",Pool D,Scheduled
 b,r,e,a,k
