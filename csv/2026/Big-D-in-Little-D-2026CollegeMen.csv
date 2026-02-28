@@ -124,22 +124,28 @@ teamInfo,Vortex,"Irving, Texas",,https://www.facebook.com/University-of-Dallas-U
 43,Andrew Arlinghaus
 52,John Krippel
 b,r,e,a,k
+TEAM_NAME_NOT_FOUND,8
+b,r,e,a,k
 s,t,a,g,e,s
 pools,Saturday Pool Play
 pool,Pool A
-North Texas,Tarleton State,15,6,"02/28/2026, 09:00",Pool A,Scheduled
-Texas (B),Tarleton State,6,13,"02/28/2026, 11:00",Pool A,Scheduled
-North Texas,Texas (B),13,5,"02/28/2026, 13:00",Pool A,Scheduled
+North Texas,Tarleton State,15,6,"02/28/2026, 09:00",Pool A,Final
+Texas (B),Tarleton State,6,13,"02/28/2026, 11:00",Pool A,Final
+North Texas,Texas (B),13,5,"02/28/2026, 13:00",Pool A,Final
 pool,Pool B
-Oklahoma,Harding,0,0,"02/28/2026, 09:00",Pool B,Scheduled
-Baylor,Dallas,15,6,"02/28/2026, 09:00",Pool B,Scheduled
-Oklahoma,Baylor,3,15,"02/28/2026, 11:00",Pool B,Scheduled
-Dallas,Harding,8,12,"02/28/2026, 11:00",Pool B,Scheduled
-Oklahoma,Dallas,0,0,"02/28/2026, 13:00",Pool B,Scheduled
-Baylor,Harding,15,2,"02/28/2026, 13:00",Pool B,Scheduled
+Oklahoma,Harding,9,10,"02/28/2026, 09:00",Pool B,Final
+Baylor,Dallas,15,6,"02/28/2026, 09:00",Pool B,Final
+Oklahoma,Baylor,3,15,"02/28/2026, 11:00",Pool B,Final
+Dallas,Harding,8,12,"02/28/2026, 11:00",Pool B,Final
+Oklahoma,Dallas,10,8,"02/28/2026, 13:00",Pool B,Final
+Baylor,Harding,15,2,"02/28/2026, 13:00",Pool B,Final
 b,r,e,a,k
 brackets,Sunday Bracket Play
 bracket,First Place Bracket
+North Texas,Dallas,0,0,"03/01/2026, 09:00",Quarter-Finals,Scheduled
+Harding,Texas (B),0,0,"03/01/2026, 09:00",Quarter-Finals,Scheduled
+Tarleton State,Oklahoma,0,0,"03/01/2026, 09:00",Quarter-Finals,Scheduled
+Baylor,TEAM_NAME_NOT_FOUND,0,0,"03/01/2026, 09:00",Quarter-Finals,Scheduled
 bracket,3rd-4th Place Game
 bracket,5th-6th Place Bracket
 bracket,7th-8th Place Game
