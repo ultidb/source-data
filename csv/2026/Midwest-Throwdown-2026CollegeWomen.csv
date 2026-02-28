@@ -296,6 +296,27 @@ teamInfo,Pursesnatchers,"Saint Paul, Minnesota",https://www.instagram.com/purses
 70,Claire Lee
 99,Sophie Diliberti
 b,r,e,a,k
+Kansas,12
+teamInfo,Betty Ultimate,"Lawrence, Kansas",www.bettyultimate.com,https://www.facebook.com/pages/Betty-Ultimate/144061402213,https://twitter.com/bettyultimate
+coaches,Jordan Warren
+01,Brynn Motes
+04,Anna Ross
+05,Evanne Alstrom
+06,Claire Butzlaff
+07,Allie Froendt
+09,Ava Scanlon
+10,Abigail Webster
+11,Kyndall Gordon
+15,Marina Bontrager
+16,Olivia Lischer
+18,Zander Semrau
+19,Adela Lett
+24,Elizabeth  Hegji
+25,Lauren Fraser
+33,Jillian Blount
+37,Georgia Hansen
+72,Violet Meyers
+b,r,e,a,k
 Northwestern,13
 teamInfo,Claw,"Evanston, Illinois",,https://www.facebook.com/NUclaw,https://twitter.com/NUclaw_
 0,Addison Stover
@@ -323,27 +344,6 @@ teamInfo,Claw,"Evanston, Illinois",,https://www.facebook.com/NUclaw,https://twit
 0,Yaxi Chen
 0,Zora Warren
 23,Lauren Levinson
-b,r,e,a,k
-Kansas,12
-teamInfo,Betty Ultimate,"Lawrence, Kansas",www.bettyultimate.com,https://www.facebook.com/pages/Betty-Ultimate/144061402213,https://twitter.com/bettyultimate
-coaches,Jordan Warren
-01,Brynn Motes
-04,Anna Ross
-05,Evanne Alstrom
-06,Claire Butzlaff
-07,Allie Froendt
-09,Ava Scanlon
-10,Abigail Webster
-11,Kyndall Gordon
-15,Marina Bontrager
-16,Olivia Lischer
-18,Zander Semrau
-19,Adela Lett
-24,Elizabeth  Hegji
-25,Lauren Fraser
-33,Jillian Blount
-37,Georgia Hansen
-72,Violet Meyers
 b,r,e,a,k
 Wisconsin-La Crosse,18
 teamInfo,Galaxy,"La Crosse, Wisconsin",,,
@@ -523,21 +523,6 @@ teamInfo,Mamba,"Champaign-Urbana, Illinois",https://www.illinoismenace.com/,http
 64,Anna Roberts
 70,Nicole Grudzien
 b,r,e,a,k
-Wisconsin (B),29
-teamInfo,Atropa,"Madison, Wisconsin",https://win.wisc.edu/organization/womensultimate,https://www.facebook.com/groups/421591531301929/?bookmark_t=group,
-coaches,Sophie Hyman
-0,Isabel Nathan
-0,Maya Bond
-0,Yen Ly
-19,Rowan Trest
-23,Cecilia Gustafson
-24,Nisvana Shams
-27,Elyse Slattery
-31,Autumn Heffernan
-66,Maddie  Londgren
-77,Ella Cagle
-99,Kaitlyn Hoang
-b,r,e,a,k
 Truman State,21
 teamInfo,TSUnami Women's Ultimate,"Kirksville, Missouri",http://tsunamiultimate.weebly.com/,https://www.facebook.com/tsunamiultimate/,https://twitter.com/tsunamiultimate
 0,Adrienne Bacott
@@ -557,6 +542,21 @@ teamInfo,TSUnami Women's Ultimate,"Kirksville, Missouri",http://tsunamiultimate.
 0,Sofia Kattentidt
 0,Sophia Lee
 0,Suparna Chintha
+b,r,e,a,k
+Wisconsin (B),29
+teamInfo,Atropa,"Madison, Wisconsin",https://win.wisc.edu/organization/womensultimate,https://www.facebook.com/groups/421591531301929/?bookmark_t=group,
+coaches,Sophie Hyman
+0,Isabel Nathan
+0,Maya Bond
+0,Yen Ly
+19,Rowan Trest
+23,Cecilia Gustafson
+24,Nisvana Shams
+27,Elyse Slattery
+31,Autumn Heffernan
+66,Maddie  Londgren
+77,Ella Cagle
+99,Kaitlyn Hoang
 b,r,e,a,k
 Missouri State,28
 teamInfo,Bearly Lethal,"Springfield, Missouri",,,
@@ -601,7 +601,7 @@ Iowa State,Marquette,4,13,"02/28/2026, 08:30",Pool A,Final
 Carleton College-Eclipse,Marquette,13,1,"02/28/2026, 10:00",Pool A,Final
 Carleton College-Eclipse,Iowa State,13,3,"02/28/2026, 11:30",Pool A,Final
 Marquette,Saint Louis,10,6,"02/28/2026, 11:30",Pool A,Final
-Iowa State,Saint Louis,0,0,"02/28/2026, 13:00",Pool A,Scheduled
+Iowa State,Saint Louis,5,9,"02/28/2026, 13:00",Pool A,Final
 pool,Pool B
 Purdue,Arkansas,4,10,"02/28/2026, 08:30",Pool B,Scheduled
 Washington University,Purdue,13,4,"02/28/2026, 10:00",Pool B,Final
@@ -622,7 +622,7 @@ Macalester,Kansas,7,5,"02/28/2026, 10:00",Pool D,Final
 Missouri,Kansas,10,6,"02/28/2026, 11:30",Pool D,Final
 Macalester,Northwestern,7,5,"02/28/2026, 11:30",Pool D,Final
 Missouri,Macalester,0,0,"02/28/2026, 13:00",Pool D,Scheduled
-Kansas,Northwestern,0,0,"02/28/2026, 13:00",Pool D,Scheduled
+Kansas,Northwestern,10,3,"02/28/2026, 13:00",Pool D,Final
 b,r,e,a,k
 clusters,Tier 2 Crossovers
 cluster,Pool E v F Crossover
@@ -659,8 +659,8 @@ Carleton College (C),Wisconsin (B),5,7,"02/28/2026, 08:30",Pool H,Final
 Truman State,Missouri State,9,8,"02/28/2026, 08:30",Pool H,Scheduled
 Carleton College (C),Truman State,0,0,"02/28/2026, 10:00",Pool H,Scheduled
 Missouri State,Wisconsin (B),9,8,"02/28/2026, 11:30",Pool H,Scheduled
-Carleton College (C),Missouri State,0,0,"02/28/2026, 13:00",Pool H,Scheduled
-Truman State,Wisconsin (B),0,0,"02/28/2026, 13:00",Pool H,Scheduled
+Carleton College (C),Missouri State,2,13,"02/28/2026, 13:00",Pool H,Scheduled
+Truman State,Wisconsin (B),10,7,"02/28/2026, 13:00",Pool H,Final
 b,r,e,a,k
 clusters,Tier 1 Sunday Round Robin
 b,r,e,a,k
