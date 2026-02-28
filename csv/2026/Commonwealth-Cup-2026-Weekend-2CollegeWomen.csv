@@ -53,13 +53,13 @@ b,r,e,a,k
 Penn State,17
 teamInfo,,,,,
 b,r,e,a,k
-William & Mary,9
+North Carolina-Wilmington,25
 teamInfo,,,,,
 b,r,e,a,k
 Chicago,16
 teamInfo,,,,,
 b,r,e,a,k
-North Carolina-Wilmington,25
+William & Mary,9
 teamInfo,,,,,
 b,r,e,a,k
 Columbia,24
@@ -68,13 +68,13 @@ b,r,e,a,k
 South Carolina,18
 teamInfo,,,,,
 b,r,e,a,k
-Brown,10
+Case Western Reserve,26
 teamInfo,,,,,
 b,r,e,a,k
 Liberty,15
 teamInfo,,,,,
 b,r,e,a,k
-Case Western Reserve,26
+Brown,10
 teamInfo,,,,,
 b,r,e,a,k
 Carnegie Mellon,23
@@ -94,6 +94,32 @@ teamInfo,,,,,
 b,r,e,a,k
 Cincinnati,27
 teamInfo,,,,,
+b,r,e,a,k
+Pittsburgh,21
+teamInfo,Danger,"Pittsburgh, Pennsylvania",https://danger-ultimate.wixsite.com/pittultimatew,https://www.facebook.com/groups/35601418785/,https://twitter.com/dangerulti
+coaches,Madison Pisone
+0,Claudia Porter
+0,Colleen Kilpatrick
+0,Eleanor Stein
+0,Ellen Kurr
+0,Amelia Staresinic
+0,Cady Westkaemper
+0,Giavanna Jacobs
+0,Harlow Mahar-Piersma
+0,Min Joo Muskovitz
+0,Rachel Kallan
+0,Rebecca Vitale
+0,Jaden Hunter
+0,Sofia Dillon
+0,Tanushree Tejankar
+0,Taylor Conroy
+3,Madeline Franz
+11,Emily Feldstein
+12,Chloe Acuna
+17,Mia Pisacane
+20,Margaret Sweitzer
+21,Rina Meschke
+28,Helen Bates
 b,r,e,a,k
 Oberlin,28
 teamInfo,Preying Manti A,"Oberlin, Ohio",https://ocmanti.weebly.com,https://www.facebook.com/OberlinUltimate,https://twitter.com/OberlinManti
@@ -123,35 +149,6 @@ b,r,e,a,k
 Georgia Tech,13
 teamInfo,,,,,
 b,r,e,a,k
-North Carolina State,20
-teamInfo,,,,,
-b,r,e,a,k
-Pittsburgh,21
-teamInfo,Danger,"Pittsburgh, Pennsylvania",https://danger-ultimate.wixsite.com/pittultimatew,https://www.facebook.com/groups/35601418785/,https://twitter.com/dangerulti
-coaches,Madison Pisone
-0,Claudia Porter
-0,Colleen Kilpatrick
-0,Eleanor Stein
-0,Ellen Kurr
-0,Amelia Staresinic
-0,Cady Westkaemper
-0,Giavanna Jacobs
-0,Harlow Mahar-Piersma
-0,Min Joo Muskovitz
-0,Rachel Kallan
-0,Rebecca Vitale
-0,Jaden Hunter
-0,Sofia Dillon
-0,Tanushree Tejankar
-0,Taylor Conroy
-3,Madeline Franz
-11,Emily Feldstein
-12,Chloe Acuna
-17,Mia Pisacane
-20,Margaret Sweitzer
-21,Rina Meschke
-28,Helen Bates
-b,r,e,a,k
 MIT,12
 teamInfo,sMITe,"Cambridge, Massachusetts",http://scripts.mit.edu/~womens-ult/,https://www.facebook.com/ultismite,https://twitter.com/ultismite
 0,Haya Bolotski
@@ -174,6 +171,9 @@ teamInfo,sMITe,"Cambridge, Massachusetts",http://scripts.mit.edu/~womens-ult/,ht
 59,Grace Liu
 86,Allison Craig
 b,r,e,a,k
+North Carolina State,20
+teamInfo,,,,,
+b,r,e,a,k
 s,t,a,g,e,s
 pools,W PP
 pool,Pool A
@@ -191,7 +191,7 @@ Notre Dame,Georgia,0,0,"02/28/2026, 12:00",Pool B,Scheduled
 Pennsylvania,Notre Dame,0,0,"02/28/2026, 14:00",Pool B,Scheduled
 Georgia,Ohio,0,0,"02/28/2026, 14:00",Pool B,Scheduled
 pool,Pool C
-William & Mary,North Carolina-Wilmington,0,0,"02/28/2026, 09:00",Pool C,Scheduled
+William & Mary,North Carolina-Wilmington,11,13,"02/28/2026, 09:00",Pool C,Final
 Penn State,Columbia,12,7,"02/28/2026, 09:00",Pool C,Final
 William & Mary,Penn State,0,0,"02/28/2026, 10:45",Pool C,Scheduled
 Chicago,Columbia,0,0,"02/28/2026, 10:45",Pool C,Scheduled
@@ -202,7 +202,7 @@ Chicago,North Carolina-Wilmington,0,0,"02/28/2026, 14:15",Pool C,Scheduled
 William & Mary,Chicago,0,0,"02/28/2026, 16:00",Pool C,Scheduled
 Penn State,North Carolina-Wilmington,0,0,"02/28/2026, 16:00",Pool C,Scheduled
 pool,Pool D
-Brown,Case Western Reserve,0,0,"02/28/2026, 09:00",Pool D,Scheduled
+Brown,Case Western Reserve,8,9,"02/28/2026, 09:00",Pool D,Final
 South Carolina,Carnegie Mellon,13,6,"02/28/2026, 09:00",Pool D,Final
 Brown,South Carolina,0,0,"02/28/2026, 10:45",Pool D,Scheduled
 Liberty,Carnegie Mellon,0,0,"02/28/2026, 10:45",Pool D,Scheduled
@@ -225,7 +225,7 @@ Florida,Duke,0,0,"02/28/2026, 16:00",Pool E,Scheduled
 Maryland,Cincinnati,0,0,"02/28/2026, 16:00",Pool E,Scheduled
 pool,Pool F
 MIT,Oberlin,9,10,"02/28/2026, 09:00",Pool F,Final
-North Carolina State,Pittsburgh,0,0,"02/28/2026, 09:00",Pool F,Scheduled
+North Carolina State,Pittsburgh,10,12,"02/28/2026, 09:00",Pool F,Final
 MIT,North Carolina State,0,0,"02/28/2026, 10:45",Pool F,Scheduled
 Georgia Tech,Pittsburgh,0,0,"02/28/2026, 10:45",Pool F,Scheduled
 Pittsburgh,Oberlin,0,0,"02/28/2026, 12:30",Pool F,Scheduled
