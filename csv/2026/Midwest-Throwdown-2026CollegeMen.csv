@@ -207,27 +207,6 @@ teamInfo,Miner Threat,"Rolla, Missouri",https://www.minerthreatultimate.com/,htt
 55,Dylan Brewer
 79,Joseph Hubenschmidt
 b,r,e,a,k
-Nebraska,16
-teamInfo,Cornfed Ultimate,"Lincoln, Nebraska",https://unl.campuslabs.com/engage/organization/men-s-ultimate-club,,https://twitter.com/cornfedultimate
-0,Austin Phinney
-0,Dylan Donahue
-0,Grant Schieffer
-0,Jack Drobny
-0,Owen Weiche
-0,Samuel Malick
-0,Taylor Ablott
-0,Zane Mrozla-Mindrup
-5,Ian Tuck
-11,Benjamin Dyar
-16,Julian Jay
-19,Bryce Endecott
-24,Kobe  Bray
-27,Myles Wedic
-31,Matthew Mikitka
-32,Luke Walsdorf
-69,Jordan Johnson
-88,Evan Brown
-b,r,e,a,k
 Northwestern,9
 teamInfo,Lake Effect,"Evanston, Illinois",https://www.nutultimate.com,,
 coaches,Seokhee Burningham
@@ -257,6 +236,27 @@ coaches,Seokhee Burningham
 37,Ezra Danzig
 51,Miki Ling
 68,Emmett Broustis
+b,r,e,a,k
+Nebraska,16
+teamInfo,Cornfed Ultimate,"Lincoln, Nebraska",https://unl.campuslabs.com/engage/organization/men-s-ultimate-club,,https://twitter.com/cornfedultimate
+0,Austin Phinney
+0,Dylan Donahue
+0,Grant Schieffer
+0,Jack Drobny
+0,Owen Weiche
+0,Samuel Malick
+0,Taylor Ablott
+0,Zane Mrozla-Mindrup
+5,Ian Tuck
+11,Benjamin Dyar
+16,Julian Jay
+19,Bryce Endecott
+24,Kobe  Bray
+27,Myles Wedic
+31,Matthew Mikitka
+32,Luke Walsdorf
+69,Jordan Johnson
+88,Evan Brown
 b,r,e,a,k
 Wisconsin-Platteville,24
 teamInfo,Udderburn,"Platteville, Wisconsin",,https://www.facebook.com/uwpultimate,https://twitter.com/udderburn
@@ -492,6 +492,26 @@ teamInfo,Birdfeeder,"Milwaukee, Wisconsin",,,
 96,Lucio Buccelli
 98,Connor Richards
 b,r,e,a,k
+Truman State,13
+teamInfo,JujiTSU,"Kirksville, Missouri",https://ultimate.truman.edu,https://facebook.com/pages/JujiTSU-Ultimate/159311880755819,https://twitter.com/JujiTSUltimate
+2,Stuart Whitmer
+02,Cade Steinborn
+04,Benjamin Reddekopp
+11,Alexander Lee
+12,Isaac Paronto
+13,David Fitzgerald
+15,Nathen Poe
+16,Lucas Johnson
+21,Chris Cortes-Lopez
+26,Joseph Till
+28,Anthony Payne
+29,Brooks Haden
+42,Jonas Beckham
+44,Thomas Schmidt
+51,Andrew Block
+55,Joe Regina
+95,Timothy Fry
+b,r,e,a,k
 Kansas,12
 teamInfo,Horrorzontals,"Lawrence, Kansas",https://www.instagram.com/horrorzontals/,,https://twitter.com/HorrorZontals
 0,Christian Nola
@@ -514,26 +534,6 @@ teamInfo,Horrorzontals,"Lawrence, Kansas",https://www.instagram.com/horrorzontal
 22,Benjamin Abell
 40,Liam Marsh
 61,Aiden Jacobs
-b,r,e,a,k
-Truman State,13
-teamInfo,JujiTSU,"Kirksville, Missouri",https://ultimate.truman.edu,https://facebook.com/pages/JujiTSU-Ultimate/159311880755819,https://twitter.com/JujiTSUltimate
-2,Stuart Whitmer
-02,Cade Steinborn
-04,Benjamin Reddekopp
-11,Alexander Lee
-12,Isaac Paronto
-13,David Fitzgerald
-15,Nathen Poe
-16,Lucas Johnson
-21,Chris Cortes-Lopez
-26,Joseph Till
-28,Anthony Payne
-29,Brooks Haden
-42,Jonas Beckham
-44,Thomas Schmidt
-51,Andrew Block
-55,Joe Regina
-95,Timothy Fry
 b,r,e,a,k
 Carleton College (C),20
 teamInfo,Karls,"Northfield, Minnesota",,,https://twitter.com/KarlsAreOK
@@ -604,7 +604,7 @@ Northwestern,Wisconsin (B),9,5,"02/28/2026, 10:00",Pool C,Final
 Northwestern,Wisconsin-Platteville,10,6,"02/28/2026, 11:30",Pool C,Final
 Nebraska,Wisconsin (B),13,4,"02/28/2026, 11:30",Pool C,Final
 Nebraska,Wisconsin-Platteville,13,5,"02/28/2026, 13:00",Pool C,Final
-Northwestern,Nebraska,0,0,"02/28/2026, 14:30",Pool C,Scheduled
+Northwestern,Nebraska,11,10,"02/28/2026, 14:30",Pool C,Final
 Wisconsin (B),Wisconsin-Platteville,0,0,"02/28/2026, 14:30",Pool C,Scheduled
 pool,Pool D
 St Thomas,Iowa State (B),13,0,"02/28/2026, 08:30",Pool D,Final
@@ -624,12 +624,13 @@ pool,Pool F
 Kansas,Truman State,6,9,"02/28/2026, 08:30",Pool F,Final
 Kansas,Carleton College (C),13,5,"02/28/2026, 10:00",Pool F,Final
 Truman State,Washington University (B),12,2,"02/28/2026, 11:30",Pool F,Final
-Carleton College (C),Washington University (B),0,0,"02/28/2026, 13:00",Pool F,Scheduled
+Carleton College (C),Washington University (B),8,7,"02/28/2026, 13:00",Pool F,Final
 Kansas,Washington University (B),13,3,"02/28/2026, 14:30",Pool F,Final
-Truman State,Carleton College (C),0,0,"02/28/2026, 14:30",Pool F,Scheduled
+Truman State,Carleton College (C),12,8,"02/28/2026, 14:30",Pool F,Final
 b,r,e,a,k
 brackets,Bracket Play
 bracket,Championship
+Iowa,Truman State,0,0,"02/28/2026, 16:00",Pre-quarters,Scheduled
 bracket,Third Place
 bracket,5th Place Bracket
 bracket,7th Place
@@ -639,4 +640,7 @@ bracket,13th Place Bracket
 bracket,15th Place
 b,r,e,a,k
 clusters,Sunday Round Robin
+cluster,Round Robin
+Minnesota (B),Washington University (B),0,0,"03/01/2026, 14:00",,Scheduled
+Iowa State (B),Carleton College (C),0,0,"03/01/2026, 14:00",,Scheduled
 b,r,e,a,k
