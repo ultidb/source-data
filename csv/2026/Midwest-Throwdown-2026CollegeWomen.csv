@@ -172,6 +172,19 @@ teamInfo,Xpress,"West Lafayette, Indiana",http://purduewomensultimate.weebly.com
 66,Ell Chiang
 72,Ava Moseley
 b,r,e,a,k
+Winona State,14
+teamInfo,Bad Monaz,"Winona, Minnesota",,,
+0,Kate Driscoll
+6,Jackie Hanson
+03,Greta  Baumgartner
+04,Juliah Hahm
+10,Kayleigh Boe
+22,Madelyn Brockberg
+23,Kirstyn  Sand
+24,Kasey Schetnan
+64,Leah Blanchette
+69,Elizabeth Erickson
+b,r,e,a,k
 St Olaf,3
 teamInfo,Vortex,"Northfield, Minnesota",http://vortexultimate.weebly.com/,https://www.facebook.com/VortexWomensUltimate/,https://twitter.com/STOWomensUlti
 03,Sophia Stender
@@ -196,19 +209,6 @@ teamInfo,Vortex,"Northfield, Minnesota",http://vortexultimate.weebly.com/,https:
 37,Char Batchelor
 44,Agnes Smith
 87,Rachel Katzovitz
-b,r,e,a,k
-Winona State,14
-teamInfo,Bad Monaz,"Winona, Minnesota",,,
-0,Kate Driscoll
-6,Jackie Hanson
-03,Greta  Baumgartner
-04,Juliah Hahm
-10,Kayleigh Boe
-22,Madelyn Brockberg
-23,Kirstyn  Sand
-24,Kasey Schetnan
-64,Leah Blanchette
-69,Elizabeth Erickson
 b,r,e,a,k
 Illinois,6
 teamInfo,Menace,"Champaign-Urbana, Illinois",https://www.illinoismenace.com/,https://www.instagram.com/illinoismenace/,
@@ -605,7 +605,7 @@ Iowa State,Saint Louis,0,0,"02/28/2026, 13:00",Pool A,Scheduled
 pool,Pool B
 Purdue,Arkansas,4,10,"02/28/2026, 08:30",Pool B,Scheduled
 Washington University,Purdue,13,4,"02/28/2026, 10:00",Pool B,Final
-Arkansas,Iowa,0,0,"02/28/2026, 10:00",Pool B,Scheduled
+Arkansas,Iowa,11,3,"02/28/2026, 10:00",Pool B,Scheduled
 Washington University,Arkansas,0,0,"02/28/2026, 11:30",Pool B,Scheduled
 Purdue,Iowa,0,0,"02/28/2026, 11:30",Pool B,Scheduled
 Washington University,Iowa,0,0,"02/28/2026, 13:00",Pool B,Scheduled
@@ -613,7 +613,7 @@ pool,Pool C
 St Olaf,Wisconsin-Eau Claire,10,3,"02/28/2026, 08:30",Pool C,Final
 Illinois,Winona State,4,10,"02/28/2026, 08:30",Pool C,Final
 St Olaf,Illinois,0,0,"02/28/2026, 10:00",Pool C,Scheduled
-Wisconsin-Eau Claire,Winona State,0,0,"02/28/2026, 10:00",Pool C,Scheduled
+Wisconsin-Eau Claire,Winona State,8,10,"02/28/2026, 10:00",Pool C,Final
 St Olaf,Winona State,0,0,"02/28/2026, 13:00",Pool C,Scheduled
 Illinois,Wisconsin-Eau Claire,0,0,"02/28/2026, 13:00",Pool C,Scheduled
 pool,Pool D
@@ -626,8 +626,8 @@ Kansas,Northwestern,0,0,"02/28/2026, 13:00",Pool D,Scheduled
 b,r,e,a,k
 clusters,Tier 2 Crossovers
 cluster,Pool E v F Crossover
-Wisconsin-La Crosse,Notre Dame (B),8,2,"02/28/2026, 08:30",,Scheduled
-Washington University (B),Wisconsin-Milwaukee,0,0,"02/28/2026, 10:00",,Scheduled
+Wisconsin-La Crosse,Notre Dame (B),8,2,"02/28/2026, 08:30",,Final
+Washington University (B),Wisconsin-Milwaukee,6,8,"02/28/2026, 10:00",,Final
 Grinnell,DePaul,0,0,"02/28/2026, 11:30",,Scheduled
 b,r,e,a,k
 brackets,Tier 1 Bracket Play
@@ -640,12 +640,12 @@ bracket,11th Place
 b,r,e,a,k
 pools,Tier 2 Pool Play
 pool,Pool E
-Grinnell,Wisconsin-Milwaukee,0,0,"02/28/2026, 08:30",Pool E,Scheduled
-Grinnell,Notre Dame (B),0,0,"02/28/2026, 10:00",Pool E,Scheduled
+Grinnell,Wisconsin-Milwaukee,3,9,"02/28/2026, 08:30",Pool E,Final
+Grinnell,Notre Dame (B),9,3,"02/28/2026, 10:00",Pool E,Final
 Wisconsin-Milwaukee,Notre Dame (B),0,0,"02/28/2026, 13:00",Pool E,Scheduled
 pool,Pool F
 Washington University (B),DePaul,10,1,"02/28/2026, 08:30",Pool F,Final
-Wisconsin-La Crosse,DePaul,0,0,"02/28/2026, 10:00",Pool F,Scheduled
+Wisconsin-La Crosse,DePaul,8,2,"02/28/2026, 10:00",Pool F,Scheduled
 Wisconsin-La Crosse,Washington University (B),0,0,"02/28/2026, 13:00",Pool F,Scheduled
 pool,Pool G
 Vanderbilt,Harding,11,4,"02/28/2026, 08:30",Pool G,Scheduled
