@@ -543,6 +543,19 @@ teamInfo,TSUnami Women's Ultimate,"Kirksville, Missouri",http://tsunamiultimate.
 0,Sophia Lee
 0,Suparna Chintha
 b,r,e,a,k
+Missouri State,28
+teamInfo,Bearly Lethal,"Springfield, Missouri",,,
+0,Addison Cambron
+4,Nicole Shirley
+07,Megan Simpson
+08,Isabella Eagan
+10,Virginia Steck
+12,Layla Lunsford
+15,Caroline Linberger
+18,Parker Bryant
+30,Izzy wrisberg
+44,Megan  Mueller
+b,r,e,a,k
 Wisconsin (B),29
 teamInfo,Atropa,"Madison, Wisconsin",https://win.wisc.edu/organization/womensultimate,https://www.facebook.com/groups/421591531301929/?bookmark_t=group,
 coaches,Sophie Hyman
@@ -557,19 +570,6 @@ coaches,Sophie Hyman
 66,Maddie  Londgren
 77,Ella Cagle
 99,Kaitlyn Hoang
-b,r,e,a,k
-Missouri State,28
-teamInfo,Bearly Lethal,"Springfield, Missouri",,,
-0,Addison Cambron
-4,Nicole Shirley
-07,Megan Simpson
-08,Isabella Eagan
-10,Virginia Steck
-12,Layla Lunsford
-15,Caroline Linberger
-18,Parker Bryant
-30,Izzy wrisberg
-44,Megan  Mueller
 b,r,e,a,k
 Carleton College (C),20
 teamInfo,Nova,"Northfield, Minnesota",,,
@@ -646,7 +646,7 @@ pools,Tier 2 Pool Play
 pool,Pool E
 Grinnell,Wisconsin-Milwaukee,3,9,"02/28/2026, 08:30",Pool E,Final
 Grinnell,Notre Dame (B),9,3,"02/28/2026, 10:00",Pool E,Final
-Wisconsin-Milwaukee,Notre Dame (B),0,0,"02/28/2026, 13:00",Pool E,Scheduled
+Wisconsin-Milwaukee,Notre Dame (B),13,0,"02/28/2026, 13:00",Pool E,Final
 pool,Pool F
 Washington University (B),DePaul,10,1,"02/28/2026, 08:30",Pool F,Final
 Wisconsin-La Crosse,DePaul,8,2,"02/28/2026, 10:00",Pool F,Final
@@ -660,10 +660,10 @@ Vanderbilt,Illinois (B),13,1,"02/28/2026, 11:30",Pool G,Final
 Michigan (B),Illinois (B),0,0,"02/28/2026, 13:00",Pool G,Scheduled
 pool,Pool H
 Carleton College (C),Wisconsin (B),5,7,"02/28/2026, 08:30",Pool H,Final
-Truman State,Missouri State,9,8,"02/28/2026, 08:30",Pool H,Scheduled
-Carleton College (C),Truman State,0,0,"02/28/2026, 10:00",Pool H,Scheduled
-Missouri State,Wisconsin (B),9,8,"02/28/2026, 11:30",Pool H,Scheduled
-Carleton College (C),Missouri State,2,13,"02/28/2026, 13:00",Pool H,Scheduled
+Truman State,Missouri State,9,8,"02/28/2026, 08:30",Pool H,Final
+Carleton College (C),Truman State,4,7,"02/28/2026, 10:00",Pool H,Final
+Missouri State,Wisconsin (B),9,8,"02/28/2026, 11:30",Pool H,Final
+Carleton College (C),Missouri State,2,13,"02/28/2026, 13:00",Pool H,Final
 Truman State,Wisconsin (B),10,7,"02/28/2026, 13:00",Pool H,Final
 b,r,e,a,k
 clusters,Tier 1 Sunday Round Robin
@@ -677,9 +677,15 @@ Purdue,Wisconsin-Eau Claire,0,0,"03/01/2026, 12:30",,Scheduled
 b,r,e,a,k
 brackets,Tier 2 Bracket Play
 bracket,Championship
+Wisconsin-Milwaukee,Washington University (B),0,0,"03/01/2026, 08:00",quarters,Scheduled
+Grinnell,Wisconsin-La Crosse,0,0,"03/01/2026, 08:00",quarters,Scheduled
 bracket,3rd Place
 bracket,5th Place Bracket
 bracket,7th Place
 b,r,e,a,k
 clusters,Tier 2 Sunday Round Robin
+cluster,Round Robin
+Notre Dame (B),DePaul,0,0,"03/01/2026, 08:00",,Scheduled
+DePaul,Carleton College (C),0,0,"03/01/2026, 11:00",,Scheduled
+Notre Dame (B),Wisconsin (B),0,0,"03/01/2026, 12:30",,Scheduled
 b,r,e,a,k
