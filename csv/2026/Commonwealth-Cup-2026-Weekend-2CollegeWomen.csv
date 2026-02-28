@@ -50,19 +50,22 @@ b,r,e,a,k
 Ohio,7
 teamInfo,,,,,
 b,r,e,a,k
+Penn State,17
+teamInfo,,,,,
+b,r,e,a,k
 William & Mary,9
 teamInfo,,,,,
 b,r,e,a,k
 Chicago,16
 teamInfo,,,,,
 b,r,e,a,k
-Penn State,17
+North Carolina-Wilmington,25
 teamInfo,,,,,
 b,r,e,a,k
 Columbia,24
 teamInfo,,,,,
 b,r,e,a,k
-North Carolina-Wilmington,25
+South Carolina,18
 teamInfo,,,,,
 b,r,e,a,k
 Brown,10
@@ -71,16 +74,16 @@ b,r,e,a,k
 Liberty,15
 teamInfo,,,,,
 b,r,e,a,k
-South Carolina,18
+Case Western Reserve,26
 teamInfo,,,,,
 b,r,e,a,k
 Carnegie Mellon,23
 teamInfo,,,,,
 b,r,e,a,k
-Case Western Reserve,26
+Florida,11
 teamInfo,,,,,
 b,r,e,a,k
-Florida,11
+SUNY-Binghamton,22
 teamInfo,,,,,
 b,r,e,a,k
 Duke,14
@@ -89,14 +92,33 @@ b,r,e,a,k
 Maryland,19
 teamInfo,,,,,
 b,r,e,a,k
-SUNY-Binghamton,22
-teamInfo,,,,,
-b,r,e,a,k
 Cincinnati,27
 teamInfo,,,,,
 b,r,e,a,k
-MIT (A),12
-teamInfo,,,,,
+Oberlin,28
+teamInfo,Preying Manti A,"Oberlin, Ohio",https://ocmanti.weebly.com,https://www.facebook.com/OberlinUltimate,https://twitter.com/OberlinManti
+0,Eleanor Richards
+0,Ella Kavanaugh
+0,Greta Lee
+0,Isabel Grumbach-Bloom
+0,Isla McCullough
+0,Julia Cohen
+0,Laleh Maghbouleh
+0,Lilly Tullio
+0,Mai Bolster
+0,Maille Kimble
+0,Paige Brown
+0,Rose Meliker-Hammock
+0,Sasha Celimli
+0,Sofia Scherer
+0,Amelia Citron
+0,Sunam Govind
+21,Alisha Akhtar
+23,Sofia Slack
+44,Stevin Wallace
+49,Yixuan Ma
+60,Miya Liang
+95,Catherine Williams
 b,r,e,a,k
 Georgia Tech,13
 teamInfo,,,,,
@@ -130,30 +152,27 @@ coaches,Madison Pisone
 21,Rina Meschke
 28,Helen Bates
 b,r,e,a,k
-Oberlin,28
-teamInfo,Preying Manti A,"Oberlin, Ohio",https://ocmanti.weebly.com,https://www.facebook.com/OberlinUltimate,https://twitter.com/OberlinManti
-0,Eleanor Richards
-0,Ella Kavanaugh
-0,Greta Lee
-0,Isabel Grumbach-Bloom
-0,Isla McCullough
-0,Julia Cohen
-0,Laleh Maghbouleh
-0,Lilly Tullio
-0,Mai Bolster
-0,Maille Kimble
-0,Paige Brown
-0,Rose Meliker-Hammock
-0,Sasha Celimli
-0,Sofia Scherer
-0,Amelia Citron
-0,Sunam Govind
-21,Alisha Akhtar
-23,Sofia Slack
-44,Stevin Wallace
-49,Yixuan Ma
-60,Miya Liang
-95,Catherine Williams
+MIT,12
+teamInfo,sMITe,"Cambridge, Massachusetts",http://scripts.mit.edu/~womens-ult/,https://www.facebook.com/ultismite,https://twitter.com/ultismite
+0,Haya Bolotski
+0,Kelsey Fontenot
+0,Leala Nakagawa
+0,Mikayla Ogulei
+05,Elizabeth Tupaj
+10,Krisztina Tolotti
+11,Vivian Ye
+12,Sulekha Kishore
+14,Deepta Gupta
+15,Kristin He
+20,McKenzie Coleman
+22,Kelton Aldridge
+24,Jordan Lay
+31,Dianna Ochoa Lynch
+33,Suhaila Cotton
+40,Caitlin Lian
+50,Anastasia Dunca
+59,Grace Liu
+86,Allison Craig
 b,r,e,a,k
 s,t,a,g,e,s
 pools,W PP
@@ -173,7 +192,7 @@ Pennsylvania,Notre Dame,0,0,"02/28/2026, 14:00",Pool B,Scheduled
 Georgia,Ohio,0,0,"02/28/2026, 14:00",Pool B,Scheduled
 pool,Pool C
 William & Mary,North Carolina-Wilmington,0,0,"02/28/2026, 09:00",Pool C,Scheduled
-Penn State,Columbia,0,0,"02/28/2026, 09:00",Pool C,Scheduled
+Penn State,Columbia,12,7,"02/28/2026, 09:00",Pool C,Final
 William & Mary,Penn State,0,0,"02/28/2026, 10:45",Pool C,Scheduled
 Chicago,Columbia,0,0,"02/28/2026, 10:45",Pool C,Scheduled
 Columbia,North Carolina-Wilmington,0,0,"02/28/2026, 12:30",Pool C,Scheduled
@@ -184,7 +203,7 @@ William & Mary,Chicago,0,0,"02/28/2026, 16:00",Pool C,Scheduled
 Penn State,North Carolina-Wilmington,0,0,"02/28/2026, 16:00",Pool C,Scheduled
 pool,Pool D
 Brown,Case Western Reserve,0,0,"02/28/2026, 09:00",Pool D,Scheduled
-South Carolina,Carnegie Mellon,0,0,"02/28/2026, 09:00",Pool D,Scheduled
+South Carolina,Carnegie Mellon,13,6,"02/28/2026, 09:00",Pool D,Final
 Brown,South Carolina,0,0,"02/28/2026, 10:45",Pool D,Scheduled
 Liberty,Carnegie Mellon,0,0,"02/28/2026, 10:45",Pool D,Scheduled
 Carnegie Mellon,Case Western Reserve,0,0,"02/28/2026, 12:30",Pool D,Scheduled
@@ -194,8 +213,8 @@ Liberty,Case Western Reserve,0,0,"02/28/2026, 14:15",Pool D,Scheduled
 Brown,Liberty,0,0,"02/28/2026, 16:00",Pool D,Scheduled
 South Carolina,Case Western Reserve,0,0,"02/28/2026, 16:00",Pool D,Scheduled
 pool,Pool E
-Florida,Cincinnati,0,0,"02/28/2026, 09:00",Pool E,Scheduled
-Maryland,SUNY-Binghamton,0,0,"02/28/2026, 09:00",Pool E,Scheduled
+Florida,Cincinnati,13,2,"02/28/2026, 09:00",Pool E,Final
+Maryland,SUNY-Binghamton,7,12,"02/28/2026, 09:00",Pool E,Final
 Florida,Maryland,0,0,"02/28/2026, 10:45",Pool E,Scheduled
 Duke,SUNY-Binghamton,0,0,"02/28/2026, 10:45",Pool E,Scheduled
 SUNY-Binghamton,Cincinnati,0,0,"02/28/2026, 12:30",Pool E,Scheduled
@@ -205,15 +224,15 @@ Duke,Cincinnati,0,0,"02/28/2026, 14:15",Pool E,Scheduled
 Florida,Duke,0,0,"02/28/2026, 16:00",Pool E,Scheduled
 Maryland,Cincinnati,0,0,"02/28/2026, 16:00",Pool E,Scheduled
 pool,Pool F
-MIT (A),Oberlin,0,0,"02/28/2026, 09:00",Pool F,Scheduled
+MIT,Oberlin,9,10,"02/28/2026, 09:00",Pool F,Final
 North Carolina State,Pittsburgh,0,0,"02/28/2026, 09:00",Pool F,Scheduled
-MIT (A),North Carolina State,0,0,"02/28/2026, 10:45",Pool F,Scheduled
+MIT,North Carolina State,0,0,"02/28/2026, 10:45",Pool F,Scheduled
 Georgia Tech,Pittsburgh,0,0,"02/28/2026, 10:45",Pool F,Scheduled
 Pittsburgh,Oberlin,0,0,"02/28/2026, 12:30",Pool F,Scheduled
 Georgia Tech,North Carolina State,0,0,"02/28/2026, 12:30",Pool F,Scheduled
-MIT (A),Pittsburgh,0,0,"02/28/2026, 14:15",Pool F,Scheduled
+MIT,Pittsburgh,0,0,"02/28/2026, 14:15",Pool F,Scheduled
 Georgia Tech,Oberlin,0,0,"02/28/2026, 14:15",Pool F,Scheduled
-MIT (A),Georgia Tech,0,0,"02/28/2026, 16:00",Pool F,Scheduled
+MIT,Georgia Tech,0,0,"02/28/2026, 16:00",Pool F,Scheduled
 North Carolina State,Oberlin,0,0,"02/28/2026, 16:00",Pool F,Scheduled
 b,r,e,a,k
 brackets,W BP
