@@ -132,30 +132,6 @@ teamInfo,SUNY-Binghamton,"Binghamton, New York",https://sites.google.com/bingham
 64,Ryan Carter
 72,Neil  Costa
 b,r,e,a,k
-Ithaca,6
-teamInfo,Nawshus Ultimate,"Ithaca, New York",,,
-0,Asher Solodar
-0,Colden Chierichella
-0,Eli Hajjar
-0,Fisher Griesel
-0,Matthew Krohn
-0,Michael Colombo
-0,Milo Vinson
-0,Nevin LaBrusciano
-0,Ryan Marsh
-0,James Smith
-0,Tate Mosher
-4,Thomas Cronin
-7,Sydney Assile
-9,Evan Mandell
-20,Jack Butler
-25,Jalen Bolton-Steiner
-27,Seamus Reilly
-50,Christopher Saam
-67,Jamie Falkovich
-77,Cyrus Edlund-Farsad
-88,Antonio Vengoechea
-b,r,e,a,k
 Delaware,3
 teamInfo,Sideshow,"Newark, Delaware",,,
 coaches,James Henderson
@@ -183,6 +159,30 @@ coaches,James Henderson
 0,Zachary Brooks
 0,Zachary Villamor
 24,John Cleaver
+b,r,e,a,k
+Ithaca,6
+teamInfo,Nawshus Ultimate,"Ithaca, New York",,,
+0,Asher Solodar
+0,Colden Chierichella
+0,Eli Hajjar
+0,Fisher Griesel
+0,Matthew Krohn
+0,Michael Colombo
+0,Milo Vinson
+0,Nevin LaBrusciano
+0,Ryan Marsh
+0,James Smith
+0,Tate Mosher
+4,Thomas Cronin
+7,Sydney Assile
+9,Evan Mandell
+20,Jack Butler
+25,Jalen Bolton-Steiner
+27,Seamus Reilly
+50,Christopher Saam
+67,Jamie Falkovich
+77,Cyrus Edlund-Farsad
+88,Antonio Vengoechea
 b,r,e,a,k
 Penn State (B),7
 teamInfo,LoveTap,"University Park, Pennsylvania",,,https://twitter.com/LovetapDisc
@@ -455,7 +455,7 @@ pool,Pool B
 SUNY-Binghamton,Delaware,9,8,"02/28/2026, 13:30",Pool B,Final
 Ithaca,Penn State (B),11,4,"02/28/2026, 13:30",Pool B,Final
 SUNY-Binghamton,Ithaca,10,9,"02/28/2026, 14:50",Pool B,Final
-Delaware,Penn State (B),0,0,"02/28/2026, 14:50",Pool B,Scheduled
+Delaware,Penn State (B),11,2,"02/28/2026, 14:50",Pool B,Final
 SUNY-Binghamton,Penn State (B),11,6,"02/28/2026, 16:10",Pool B,Final
 Delaware,Ithaca,11,9,"02/28/2026, 16:10",Pool B,Final
 pool,Pool C
@@ -467,7 +467,7 @@ Rowan,Stevens Tech,6,11,"02/28/2026, 13:00",Pool D,Final
 George Washington,Stevens Tech,11,2,"02/28/2026, 14:10",Pool D,Final
 George Washington,Rowan,11,6,"02/28/2026, 15:20",Pool D,Final
 pool,Pool E
-Swarthmore,Delaware (B),0,0,"02/28/2026, 13:00",Pool E,Scheduled
+Swarthmore,Delaware (B),11,5,"02/28/2026, 13:00",Pool E,Final
 Colby,Delaware (B),11,2,"02/28/2026, 14:10",Pool E,Final
 Colby,Swarthmore,11,4,"02/28/2026, 15:20",Pool E,Final
 pool,Pool F
@@ -479,17 +479,22 @@ clusters,Crossover
 cluster,Crossover
 Princeton,George Washington,8,6,"02/28/2026, 16:30",,Final
 Colby,Skidmore,11,7,"02/28/2026, 16:30",,Final
-Salisbury,Swarthmore,0,0,"02/28/2026, 16:30",,Scheduled
+Salisbury,Swarthmore,7,9,"02/28/2026, 16:30",,Final
 Rowan,Cornell (B),11,3,"02/28/2026, 16:30",,Final
 West Chester (B),Stevens Tech,13,10,"02/28/2026, 16:30",,Final
 Delaware (B),Lehigh (B),9,7,"02/28/2026, 16:30",,Final
 b,r,e,a,k
 brackets,Bracket
 bracket,Championship
+Penn State (B),Skidmore,0,0,"03/01/2026, 12:45",Play In,Scheduled
 Vassar College,George Washington,0,0,"03/01/2026, 12:45",Play In,Scheduled
+Ithaca,Princeton,0,0,"03/01/2026, 12:45",Play In,Scheduled
+Colby,SUNY-Albany,0,0,"03/01/2026, 12:45",Play In,Scheduled
 bracket,13th Place Bracket
 Salisbury,West Chester (B),0,0,"03/01/2026, 09:00",13th Quarters,Scheduled
 Cornell (B),Lehigh (B),0,0,"03/01/2026, 09:00",13th Quarters,Scheduled
+Stevens Tech,Delaware (B),0,0,"03/01/2026, 09:00",13th Quarters,Scheduled
+Swarthmore,Rowan,0,0,"03/01/2026, 09:00",13th Quarters,Scheduled
 bracket,17th 
 bracket,19th
 bracket,9th Place
