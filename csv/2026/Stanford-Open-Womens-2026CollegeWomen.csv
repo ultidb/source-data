@@ -1,30 +1,6 @@
 Stanford Open Womens 2026,College - Women ,31,1,2026
 Palo Alto,CA,2026-01-31,2026-02-01
 https://play.usaultimate.org/events/Stanford-Open-Womens-2026/schedule/Women/CollegeWomen/
-California-Santa Cruz,1
-teamInfo,Sol,"Santa Cruz, California",,,
-coaches,Nick Tolfa
-0,Avala Warner
-0,Cassidy Miller
-0,Elisabeth Kim
-0,Alana Musnicki
-0,Madison Dellner
-0,Nora Tift
-0,Sofia Vidal-MacKay
-1,Goodness Nwakudu
-5,Lexie Buckley
-8,Ruby Gholston
-13,Alexandra Lehrer
-17,Haruna Krumholz
-18,Yael Kaplan
-24,Paige Jenkins
-29,Rachel  Chang
-32,Viola Deszily
-42,Kai Agueros
-44,Makena Johnson
-64,Madeline Trilling
-89,Zane Bird Smith
-b,r,e,a,k
 Stanford (B),8
 teamInfo,Firefly,"Stanford, California",https://web.stanford.edu/group/superfly/cgi-bin/wordpress/,,
 0,Anjali Surana
@@ -38,42 +14,6 @@ teamInfo,Firefly,"Stanford, California",https://web.stanford.edu/group/superfly/
 0,Sia Liu
 0,Tia Geri
 0,Zoe Greene
-b,r,e,a,k
-California (B),9
-teamInfo,Cal Tarts,"Berkeley, California",http://www.piequeens.org,http://www.facebook.com/piequeensultimate,http://www.twitter.com/tartscal
-0,Angela Sheu
-0,Audrey Tam
-0,Cassidy McCormick
-0,Hadassah Krieger
-0,Koharu Masuda
-0,Linnea Moe
-0,Miriam Reichenberg
-0,Noma Irene
-0,Skye Huang
-0,Sophia Faaland
-0,Zaiba Fayyaz
-0,Zoe Fisher
-11,Kiani Baetsle
-82,Sammie Smith
-b,r,e,a,k
-Southern California,2
-teamInfo,Hellions of Troy,"Los Angeles, California",http://www.uscwomensultimate.com/,,https://twitter.com/USCHellions
-8,Paige Gonzales
-9,Komal Kackar
-10,Shijia Liu
-15,Madeline Krieger
-16,Shayne Kim
-20,Preyashi Poddar
-20,Jade LeSchack
-22,Delilah Masket
-26,Annamarie Ellazar
-28,Parissa Teli
-63,Violet Wei
-64,Charlotte Dixon
-66,Xuanlin Liang
-77,Xin Shen
-88,Caroline Yim
-99,Aiyanna Co
 b,r,e,a,k
 Claremont,7
 teamInfo,Claremont Greenshirts,"Claremont, California",https://www.instagram.com/therealgreenshirts/,https://www.facebook.com/claremontgreenshirts,https://x.com/claremontgreens?lang=en
@@ -101,6 +41,66 @@ teamInfo,Claremont Greenshirts,"Claremont, California",https://www.instagram.com
 82,Elisabeth Lux
 87,Lucia Stoller
 91,Willa Lapin
+b,r,e,a,k
+California-Santa Cruz,1
+teamInfo,Sol,"Santa Cruz, California",,,
+coaches,Nick Tolfa
+0,Avala Warner
+0,Cassidy Miller
+0,Elisabeth Kim
+0,Alana Musnicki
+0,Madison Dellner
+0,Nora Tift
+0,Sofia Vidal-MacKay
+1,Goodness Nwakudu
+5,Lexie Buckley
+8,Ruby Gholston
+13,Alexandra Lehrer
+17,Haruna Krumholz
+18,Yael Kaplan
+24,Paige Jenkins
+29,Rachel  Chang
+32,Viola Deszily
+42,Kai Agueros
+44,Makena Johnson
+64,Madeline Trilling
+89,Zane Bird Smith
+b,r,e,a,k
+Southern California,2
+teamInfo,Hellions of Troy,"Los Angeles, California",http://www.uscwomensultimate.com/,,https://twitter.com/USCHellions
+8,Paige Gonzales
+9,Komal Kackar
+10,Shijia Liu
+15,Madeline Krieger
+16,Shayne Kim
+20,Preyashi Poddar
+20,Jade LeSchack
+22,Delilah Masket
+26,Annamarie Ellazar
+28,Parissa Teli
+63,Violet Wei
+64,Charlotte Dixon
+66,Xuanlin Liang
+77,Xin Shen
+88,Caroline Yim
+99,Aiyanna Co
+b,r,e,a,k
+California (B),9
+teamInfo,Cal Tarts,"Berkeley, California",http://www.piequeens.org,http://www.facebook.com/piequeensultimate,http://www.twitter.com/tartscal
+0,Angela Sheu
+0,Audrey Tam
+0,Cassidy McCormick
+0,Hadassah Krieger
+0,Koharu Masuda
+0,Linnea Moe
+0,Miriam Reichenberg
+0,Noma Irene
+0,Skye Huang
+0,Sophia Faaland
+0,Zaiba Fayyaz
+0,Zoe Fisher
+11,Kiani Baetsle
+82,Sammie Smith
 b,r,e,a,k
 Cal Poly-SLO (B),10
 teamInfo,Motion B,"San Luis Obispo, California",,,
@@ -305,6 +305,12 @@ teamInfo,Hags,"Arcata, California",https://www.humboldt.edu/campus-recreation/re
 25,Alexis  Carlson
 b,r,e,a,k
 s,t,a,g,e,s
+clusters,Day 1 Crossover
+cluster,Pool A/Pool B Crossover
+Stanford (B),Claremont,6,10,"01/31/2026, 08:00",,Final
+California-Santa Cruz,Southern California,13,8,"01/31/2026, 09:30",,Final
+California (B),Cal Poly-SLO (B),4,12,"01/31/2026, 11:00",,Final
+b,r,e,a,k
 pools,Pool Play
 pool,Pool A
 California-Santa Cruz,California (B),13,1,"01/31/2026, 08:00",Pool A,Final
@@ -328,12 +334,6 @@ Lewis & Clark,Cal Poly-Humboldt,12,4,"01/31/2026, 09:30",Pool D,Final
 Santa Clara,UCLA (B),11,3,"01/31/2026, 09:30",Pool D,Final
 Lewis & Clark,Santa Clara,8,5,"01/31/2026, 12:30",Pool D,Final
 UCLA (B),Cal Poly-Humboldt,9,8,"01/31/2026, 12:30",Pool D,Final
-b,r,e,a,k
-clusters,Day 1 Crossover
-cluster,Pool A/Pool B Crossover
-Stanford (B),Claremont,6,10,"01/31/2026, 08:00",,Final
-California-Santa Cruz,Southern California,13,8,"01/31/2026, 09:30",,Final
-California (B),Cal Poly-SLO (B),4,12,"01/31/2026, 11:00",,Final
 b,r,e,a,k
 brackets,Bracket Play
 bracket,Champions Bracket
