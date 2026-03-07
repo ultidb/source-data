@@ -31,28 +31,6 @@ teamInfo,Leadbelly,"Columbus, Ohio",,,
 23,Camron Chambers
 99,Christian Colon
 b,r,e,a,k
-Hillsdale,4
-teamInfo,Chargers,"Hillsdale, Michigan",https://hcstudentfederation.com/?page_id=2128,https://www.instagram.com/hillsdale_ultimate/,
-0,Stephen Plopper
-1,John Copeck
-4,Judah  McDowell
-5,Lance Lintereur
-7,Eliana  Plopper
-10,Jedidiah Hamilton
-11,James Hamilton
-12,John Armani
-13,Robert Brannon
-14,Nick Rutkoski
-18,Daniel Lo
-20,William Hart
-21,Seth Plummer
-27,Anders Moody
-32,Maggie Phillips
-34,Caitlynn Roiseland
-35,Zachary Harvey
-45,Mason Settergren
-77,Michael O'Steen
-b,r,e,a,k
 Akron,5
 teamInfo,GoonSquad,"Akron, Ohio",,,
 0,Asher Moore
@@ -80,6 +58,28 @@ teamInfo,GoonSquad,"Akron, Ohio",,,
 44,Vincent Innocenzi
 88,Vinny Tomar
 99,Braeden Skoczen
+b,r,e,a,k
+Hillsdale,4
+teamInfo,Chargers,"Hillsdale, Michigan",https://hcstudentfederation.com/?page_id=2128,https://www.instagram.com/hillsdale_ultimate/,
+0,Stephen Plopper
+1,John Copeck
+4,Judah  McDowell
+5,Lance Lintereur
+7,Eliana  Plopper
+10,Jedidiah Hamilton
+11,James Hamilton
+12,John Armani
+13,Robert Brannon
+14,Nick Rutkoski
+18,Daniel Lo
+20,William Hart
+21,Seth Plummer
+27,Anders Moody
+32,Maggie Phillips
+34,Caitlynn Roiseland
+35,Zachary Harvey
+45,Mason Settergren
+77,Michael O'Steen
 b,r,e,a,k
 Wisconsin-Milwaukee (B),8
 teamInfo,BLACKOUT,"Milwaukee, Wisconsin",,https://www.facebook.com/BlackCatUltimate/,
@@ -138,6 +138,23 @@ teamInfo,Trout,"Athens, Ohio",,https://www.facebook.com/ohioultimate/,https://tw
 14,Ryan  Baxley
 77,Casey Greenfield
 b,r,e,a,k
+Dayton,6
+teamInfo,FLUD,"Dayton, Ohio",,https://instagram.com/flud_ultimate,https://twitter.com/UDUltimate
+0,Ben Manion
+0,Bram Long
+0,Connor Spriggs
+0,Dillon Calcagno
+0,Jonathan Wheeler
+0,Nicholas Carle
+0,Ryan Wcislek
+13,Stephen Danek
+15,Callan Daenzer
+18,Evan Pollock
+18,Quinn Kelly
+20,Colsten Spelman
+27,Aaron Ginsburg
+73,Kale Kessler
+b,r,e,a,k
 Miami (Ohio),3
 teamInfo,Ohio) (Miami Boogiemen,"Oxford, Ohio",http://Insta:%20miamiboogiemen,https://www.facebook.com/miamiultimate/,https://twitter.com/MiamiBoogiemen
 0,Asa Davis
@@ -166,23 +183,6 @@ teamInfo,Ohio) (Miami Boogiemen,"Oxford, Ohio",http://Insta:%20miamiboogiemen,ht
 72,Caitlin Buzzard
 87,Garo Partoyan
 88,Gunnar DeRoss
-b,r,e,a,k
-Dayton,6
-teamInfo,FLUD,"Dayton, Ohio",,https://instagram.com/flud_ultimate,https://twitter.com/UDUltimate
-0,Ben Manion
-0,Bram Long
-0,Connor Spriggs
-0,Dillon Calcagno
-0,Jonathan Wheeler
-0,Nicholas Carle
-0,Ryan Wcislek
-13,Stephen Danek
-15,Callan Daenzer
-18,Evan Pollock
-18,Quinn Kelly
-20,Colsten Spelman
-27,Aaron Ginsburg
-73,Kale Kessler
 b,r,e,a,k
 Louisville,7
 teamInfo,LUCKY,"Louisville, Kentucky",,,
@@ -232,7 +232,7 @@ s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
 Ohio State,Dayton (B),13,1,"03/07/2026, 09:00",Pool A,Final
-Akron,Wisconsin-Milwaukee (B),0,0,"03/07/2026, 09:00",Pool A,Scheduled
+Akron,Wisconsin-Milwaukee (B),10,0,"03/07/2026, 09:00",Pool A,Final
 Ohio State,Akron,0,0,"03/07/2026, 10:30",Pool A,Scheduled
 Hillsdale,Wisconsin-Milwaukee (B),0,0,"03/07/2026, 10:30",Pool A,Scheduled
 Wisconsin-Milwaukee (B),Dayton (B),0,0,"03/07/2026, 12:00",Pool A,Scheduled
@@ -242,8 +242,8 @@ Hillsdale,Dayton (B),0,0,"03/07/2026, 13:30",Pool A,Scheduled
 Ohio State,Hillsdale,0,0,"03/07/2026, 15:00",Pool A,Scheduled
 Akron,Dayton (B),0,0,"03/07/2026, 15:00",Pool A,Scheduled
 pool,Pool B
-Ohio,Cincinnati  (B),7,0,"03/07/2026, 09:00",Pool B,In Progress
-Dayton,Louisville,0,0,"03/07/2026, 09:00",Pool B,Scheduled
+Ohio,Cincinnati  (B),10,0,"03/07/2026, 09:00",Pool B,Final
+Dayton,Louisville,10,1,"03/07/2026, 09:00",Pool B,Final
 Ohio,Dayton,0,0,"03/07/2026, 10:30",Pool B,Scheduled
 Miami (Ohio),Louisville,0,0,"03/07/2026, 10:30",Pool B,Scheduled
 Louisville,Cincinnati  (B),0,0,"03/07/2026, 12:00",Pool B,Scheduled
