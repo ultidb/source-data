@@ -21,31 +21,6 @@ teamInfo,Aetos,"Auburn, Alabama",,https://www.facebook.com/auburnultimate,https:
 25,Kenneth Tyburczy
 89,Joshua Reed
 b,r,e,a,k
-Florida State,4
-teamInfo,DUF,"Tallahassee, Florida",,https://www.facebook.com/FSUltimate,https://twitter.com/DUFtrainroll
-0,Evan Thompson
-0,Jack Kelly
-0,Justin Wright
-0,London Williams
-0,Thomas Lewis
-0,Ulysses Ellis
-3,Edward Bou
-4,Evan Baker
-5,Dominic Pawlusiak
-7,Owen Peronto
-8,Nicolai Riekerk
-10,Trevor Janik
-11,Colton Turner
-12,Michael Berg
-13,Robert Frost
-16,Julian St Esprit
-17,Sam Swartz
-19,Bodie Cole
-25,Keaton Van Nostrand
-29,Ransom Staszak
-45,Isaac Stuart
-88,Benjamin Watson
-b,r,e,a,k
 Ave Maria,1
 teamInfo,Gyrenes,"Naples, Florida",,,
 0,Adam Flesher
@@ -72,6 +47,31 @@ teamInfo,Gyrenes,"Naples, Florida",,,
 0,Vincent Morlino
 2,Rudolf  Arnold
 22,John Durand
+b,r,e,a,k
+Florida State,4
+teamInfo,DUF,"Tallahassee, Florida",,https://www.facebook.com/FSUltimate,https://twitter.com/DUFtrainroll
+0,Evan Thompson
+0,Jack Kelly
+0,Justin Wright
+0,London Williams
+0,Thomas Lewis
+0,Ulysses Ellis
+3,Edward Bou
+4,Evan Baker
+5,Dominic Pawlusiak
+7,Owen Peronto
+8,Nicolai Riekerk
+10,Trevor Janik
+11,Colton Turner
+12,Michael Berg
+13,Robert Frost
+16,Julian St Esprit
+17,Sam Swartz
+19,Bodie Cole
+25,Keaton Van Nostrand
+29,Ransom Staszak
+45,Isaac Stuart
+88,Benjamin Watson
 b,r,e,a,k
 North Florida,8
 teamInfo,Category 5,"Jacksonville, Florida",,https://www.facebook.com/groups/653951534617192/,https://twitter.com/UNF_Category5
@@ -119,6 +119,28 @@ teamInfo,Papal Rage,"Notre Dame, Indiana",https://ndultimate.wordpress.com/,,htt
 59,Camden Wozniak
 78,Kevin Wakakuwa
 b,r,e,a,k
+Florida,2
+teamInfo,Florida,"Gainesville, Florida",,https://www.facebook.com/floridaultimate,https://twitter.com/floridaclubult
+8,Joseph Rudd
+9,Charles Overdevest
+01,Benjamin Adair
+03,Moses Jaffa
+07,Lucas Rudloff
+10,Tristan  Carron
+11,David Brainard
+12,Thomas Chase
+13,Davis Orr
+26,Nevin Legare
+27,Yuxuan Tao
+37,Samuel Fong
+38,William Le
+42,Harin Patel
+43,Benjamin Burke
+47,Ethan Dagostino
+48,Rafael Casellas
+81,Brayden Przekwas
+83,Jack Roberts
+b,r,e,a,k
 South Florida,6
 teamInfo,Scallywags,"Tampa, Florida",,https://facebook.com/usfultimate,https://twitter.com/MUltClubUSF
 0,Aidyn Rosochowicz
@@ -147,28 +169,6 @@ teamInfo,Scallywags,"Tampa, Florida",,https://facebook.com/usfultimate,https://t
 87,Aidan Carroll
 88,Ian James
 b,r,e,a,k
-Florida,2
-teamInfo,Florida,"Gainesville, Florida",,https://www.facebook.com/floridaultimate,https://twitter.com/floridaclubult
-8,Joseph Rudd
-9,Charles Overdevest
-01,Benjamin Adair
-03,Moses Jaffa
-07,Lucas Rudloff
-10,Tristan  Carron
-11,David Brainard
-12,Thomas Chase
-13,Davis Orr
-26,Nevin Legare
-27,Yuxuan Tao
-37,Samuel Fong
-38,William Le
-42,Harin Patel
-43,Benjamin Burke
-47,Ethan Dagostino
-48,Rafael Casellas
-81,Brayden Przekwas
-83,Jack Roberts
-b,r,e,a,k
 Kennesaw State,7
 teamInfo,Parliament,"Kennesaw, Georgia",,,
 01,Tobiah Watts
@@ -195,14 +195,14 @@ pool,Pool A
 Ave Maria,Auburn,11,12,"03/14/2026, 08:00",Pool A,Final
 Florida State,North Florida,13,2,"03/14/2026, 08:00",Pool A,Final
 Ave Maria,North Florida,13,0,"03/14/2026, 09:40",Pool A,Final
-Florida State,Auburn,12,12,"03/14/2026, 09:40",Pool A,In Progress
-Ave Maria,Florida State,0,0,"03/14/2026, 11:20",Pool A,Scheduled
-Auburn,North Florida,0,0,"03/14/2026, 11:20",Pool A,Scheduled
+Florida State,Auburn,12,13,"03/14/2026, 09:40",Pool A,Final
+Ave Maria,Florida State,0,0,"03/14/2026, 11:20",Pool A,In Progress
+Auburn,North Florida,0,0,"03/14/2026, 11:20",Pool A,In Progress
 pool,Pool B
-Florida,South Florida,0,0,"03/14/2026, 09:40",Pool B,In Progress
+Florida,South Florida,13,9,"03/14/2026, 09:40",Pool B,Final
 Notre Dame,Kennesaw State,13,4,"03/14/2026, 09:40",Pool B,Final
-Florida,Kennesaw State,0,0,"03/14/2026, 11:20",Pool B,Scheduled
-Notre Dame,South Florida,0,0,"03/14/2026, 11:20",Pool B,Scheduled
+Florida,Kennesaw State,0,0,"03/14/2026, 11:20",Pool B,In Progress
+Notre Dame,South Florida,0,0,"03/14/2026, 11:20",Pool B,In Progress
 Florida,Notre Dame,0,0,"03/14/2026, 13:00",Pool B,Scheduled
 South Florida,Kennesaw State,0,0,"03/14/2026, 13:00",Pool B,Scheduled
 b,r,e,a,k
