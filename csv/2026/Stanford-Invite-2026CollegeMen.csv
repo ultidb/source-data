@@ -57,34 +57,6 @@ teamInfo,Federales,"San Diego, California",,,https://twitter.com/SDSUFederales?s
 71,Jake Dellisant
 94,Braeden Langell
 b,r,e,a,k
-San Diego State,16
-teamInfo,Elephant Men,"Medford, Massachusetts",http://www.tuftsmensultimate.org/,,https://twitter.com/tufts_emen
-coaches,Toshihiro Nagase
-0,Azi Levites-Cohen
-0,Benjamin Rowland
-0,Calvin Guswa
-0,Isaac Margulius
-0,Lucas Plumb
-0,Sawyer Wright
-2,Alexander Vu
-3,Naveen Bleakney-Eastman
-4,William Chesney
-6,Silas Grossman
-9,Ethan Smith
-10,Rohin Gast
-13,Spencer Anderson
-14,Owen Jones
-16,Nate Brophy
-22,Simon Cordes
-23,Peter Kuypers
-24,Tucker Livingston
-27,Tobias Potts-Drew
-49,Wilson Wu
-57,Nayan Talwalkar
-81,Ram Sundaram
-90,Dorsey Strasburger
-99,Eliav Malone
-b,r,e,a,k
 California-Santa Barbara,9
 teamInfo,Thunderbirds,"Vancouver, British Columbia CA",,,
 coaches,William Tang,Kevin Tong,Victor Tiet
@@ -113,6 +85,34 @@ coaches,William Tang,Kevin Tong,Victor Tiet
 71,Edward Ross-Zhu
 72,Wesley  Wong
 97,Colin Wu
+b,r,e,a,k
+San Diego State,16
+teamInfo,Elephant Men,"Medford, Massachusetts",http://www.tuftsmensultimate.org/,,https://twitter.com/tufts_emen
+coaches,Toshihiro Nagase
+0,Azi Levites-Cohen
+0,Benjamin Rowland
+0,Calvin Guswa
+0,Isaac Margulius
+0,Lucas Plumb
+0,Sawyer Wright
+2,Alexander Vu
+3,Naveen Bleakney-Eastman
+4,William Chesney
+6,Silas Grossman
+9,Ethan Smith
+10,Rohin Gast
+13,Spencer Anderson
+14,Owen Jones
+16,Nate Brophy
+22,Simon Cordes
+23,Peter Kuypers
+24,Tucker Livingston
+27,Tobias Potts-Drew
+49,Wilson Wu
+57,Nayan Talwalkar
+81,Ram Sundaram
+90,Dorsey Strasburger
+99,Eliav Malone
 b,r,e,a,k
 British Columbia,2
 teamInfo,SLOB,"San Luis Obispo, California",,,
@@ -213,6 +213,12 @@ teamInfo,Tucks,"New Orleans, Louisiana",,https://www.facebook.com/TulaneUltimate
 34,Alex Sprung
 88,Matthew Paley
 b,r,e,a,k
+Stanford,6
+teamInfo,,,,,
+b,r,e,a,k
+Whitman,11
+teamInfo,,,,,
+b,r,e,a,k
 Wisconsin,3
 teamInfo,B-Birds,"Vancouver, British Columbia CA",,,
 coaches,Shintaro Tsukamoto
@@ -237,12 +243,6 @@ coaches,Shintaro Tsukamoto
 77,Andrew Yan
 87,Ethan  Low
 88,Gil Rowe
-b,r,e,a,k
-Stanford,6
-teamInfo,,,,,
-b,r,e,a,k
-Whitman,11
-teamInfo,,,,,
 b,r,e,a,k
 Southern California,14
 teamInfo,,,,,
@@ -276,10 +276,10 @@ teamInfo,Tucks,"New Orleans, Louisiana",,https://www.facebook.com/TulaneUltimate
 34,Alex Sprung
 88,Matthew Paley
 b,r,e,a,k
-British Columbia  (B),12
+Santa Clara,13
 teamInfo,,,,,
 b,r,e,a,k
-Santa Clara,13
+British Columbia  (B),12
 teamInfo,,,,,
 b,r,e,a,k
 s,t,a,g,e,s
@@ -287,7 +287,7 @@ pools,Pool Play
 pool,Pool A
 California-Santa Cruz,California-Santa Barbara,13,7,"03/14/2026, 08:00",Pool A,Final
 Illinois,San Diego State,13,9,"03/14/2026, 08:00",Pool A,Final
-California-Santa Cruz,San Diego State,0,0,"03/14/2026, 09:30",Pool A,Scheduled
+California-Santa Cruz,San Diego State,13,8,"03/14/2026, 09:30",Pool A,Final
 Illinois,California-Santa Barbara,0,0,"03/14/2026, 09:30",Pool A,Scheduled
 California-Santa Cruz,Illinois,0,0,"03/14/2026, 11:00",Pool A,Scheduled
 California-Santa Barbara,San Diego State,0,0,"03/14/2026, 11:00",Pool A,Scheduled
@@ -300,13 +300,13 @@ British Columbia,Tufts,0,0,"03/14/2026, 12:30",Pool B,Scheduled
 Lewis & Clark,Cal Poly-SLO (B),0,0,"03/14/2026, 12:30",Pool B,Scheduled
 pool,Pool C
 Wisconsin,Whitman,13,11,"03/14/2026, 08:00",Pool C,Scheduled
-Stanford,Southern California,0,0,"03/14/2026, 08:00",Pool C,Scheduled
+Stanford,Southern California,12,10,"03/14/2026, 08:00",Pool C,Final
 Wisconsin,Stanford,0,0,"03/14/2026, 09:30",Pool C,Scheduled
-Whitman,Southern California,0,0,"03/14/2026, 09:30",Pool C,Scheduled
+Whitman,Southern California,13,9,"03/14/2026, 09:30",Pool C,Scheduled
 Wisconsin,Southern California,0,0,"03/14/2026, 11:00",Pool C,Scheduled
 Stanford,Whitman,0,0,"03/14/2026, 12:30",Pool C,Scheduled
 pool,Pool D
-Colorado State,British Columbia  (B),0,0,"03/14/2026, 09:30",Pool D,Scheduled
+Colorado State,British Columbia  (B),11,10,"03/14/2026, 09:30",Pool D,Final
 Tulane,Santa Clara,0,0,"03/14/2026, 09:30",Pool D,Scheduled
 Colorado State,Santa Clara,0,0,"03/14/2026, 11:00",Pool D,Scheduled
 Tulane,British Columbia  (B),0,0,"03/14/2026, 11:00",Pool D,Scheduled
