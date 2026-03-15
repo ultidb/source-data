@@ -123,23 +123,6 @@ b,r,e,a,k
 Davenport,1
 teamInfo,,,,,
 b,r,e,a,k
-Hillsdale,4
-teamInfo,Chargers,"Hillsdale, Michigan",https://studentlife.hillsdale.edu/club-frisbee,https://www.instagram.com/hillsdale_ultimate/,
-0,Stephen Plopper
-1,John Copeck
-4,Judah  McDowell
-5,Lance Lintereur
-7,Eliana  Plopper
-10,Jedidiah Hamilton
-11,James Hamilton
-18,Daniel Lo
-20,William Hart
-21,Seth Plummer
-27,Anders Moody
-32,Maggie Phillips
-35,Zachary Harvey
-45,Mason Settergren
-b,r,e,a,k
 Cedarville,6
 teamInfo,Swarm,"Cedarville, Ohio",,,https://twitter.com/cedarvilleuf
 3,Austin Hubble
@@ -166,6 +149,23 @@ teamInfo,Swarm,"Cedarville, Ohio",,,https://twitter.com/cedarvilleuf
 51,Josh Kenniv
 52,Joshua Shearer
 88,Owen Ball
+b,r,e,a,k
+Hillsdale,4
+teamInfo,Chargers,"Hillsdale, Michigan",https://studentlife.hillsdale.edu/club-frisbee,https://www.instagram.com/hillsdale_ultimate/,
+0,Stephen Plopper
+1,John Copeck
+4,Judah  McDowell
+5,Lance Lintereur
+7,Eliana  Plopper
+10,Jedidiah Hamilton
+11,James Hamilton
+18,Daniel Lo
+20,William Hart
+21,Seth Plummer
+27,Anders Moody
+32,Maggie Phillips
+35,Zachary Harvey
+45,Mason Settergren
 b,r,e,a,k
 Wisconsin-Milwaukee,3
 teamInfo,Black Cat,"Milwaukee, Wisconsin",,https://www.facebook.com/BlackCatUltimate?ref=br_tf,http://@BlaCkatUltimate
@@ -219,6 +219,29 @@ teamInfo,ARC,"East Lansing, Michigan",,https://www.facebook.com/michiganstateult
 69,Connor Griffin
 86,Carter Petzke
 b,r,e,a,k
+Michigan (B),7
+teamInfo,Michigan-B,"Ann Arbor, Michigan",http://www.magnumultimate.com,,https://x.com/bagnUMultimate?s=20
+0,Grantham Nelson
+0,Jason Yi
+0,Kevin Toland
+0,Kieran Coffey
+0,Lucas Busch
+0,Peter Schoenherr
+0,Ryan Gavenda
+0,TJ Moody
+0,Mekhi PhillipsRincher
+2,Leo Huyghe
+8,Chad Cao
+9,William Bushey
+9,Kyle Fick
+13,Jener Balk
+16,Jin Zhang
+20,Asher Strayhorn
+26,Matthew Cao
+56,Nathan Mills
+67,Andrew Eklov
+68,Jerry Mao
+b,r,e,a,k
 Miami (Ohio),5
 teamInfo,Ohio) (Miami Boogiemen,"Oxford, Ohio",http://Insta:%20miamiboogiemen,https://www.facebook.com/miamiultimate/,https://twitter.com/MiamiBoogiemen
 0,Asa Davis
@@ -247,29 +270,6 @@ teamInfo,Ohio) (Miami Boogiemen,"Oxford, Ohio",http://Insta:%20miamiboogiemen,ht
 72,Caitlin Buzzard
 87,Garo Partoyan
 88,Gunnar DeRoss
-b,r,e,a,k
-Michigan (B),7
-teamInfo,Michigan-B,"Ann Arbor, Michigan",http://www.magnumultimate.com,,https://x.com/bagnUMultimate?s=20
-0,Grantham Nelson
-0,Jason Yi
-0,Kevin Toland
-0,Kieran Coffey
-0,Lucas Busch
-0,Peter Schoenherr
-0,Ryan Gavenda
-0,TJ Moody
-0,Mekhi PhillipsRincher
-2,Leo Huyghe
-8,Chad Cao
-9,William Bushey
-9,Kyle Fick
-13,Jener Balk
-16,Jin Zhang
-20,Asher Strayhorn
-26,Matthew Cao
-56,Nathan Mills
-67,Andrew Eklov
-68,Jerry Mao
 b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play: OPEN Division
@@ -302,12 +302,13 @@ bracket,1st Place Finals
 b,r,e,a,k
 brackets,Bracket: Open Division
 bracket,Bracket: Open Division
-Wisconsin (B),Wisconsin-Milwaukee (B),0,0,"03/15/2026, 09:30",Quarterfinals,Scheduled
+Wisconsin (B),Wisconsin-Milwaukee (B),1,0,"03/15/2026, 09:30",Quarterfinals,Final
 Michigan State (B),Eastern Michigan (A),0,0,"03/15/2026, 09:30",Quarterfinals,Scheduled
 Central Michigan,Rose-Hulman,0,0,"03/15/2026, 09:30",Quarterfinals,Scheduled
 Luther,Northwestern (B),0,1,"03/15/2026, 09:30",Quarterfinals,Final
 bracket,3rd Place Finals
 bracket,5th Place Bracket
+Wisconsin-Milwaukee (B),Luther,0,0,"03/15/2026, 11:00",5th Place Semifinals,Scheduled
 bracket,7th Place Finals
 b,r,e,a,k
 pools,Pool Play: INVITE Division
@@ -319,13 +320,13 @@ Hillsdale,Cedarville,12,10,"03/14/2026, 11:30",Pool A,Final
 Davenport,Michigan (B),13,4,"03/14/2026, 13:00",Pool A,Final
 Wisconsin-Milwaukee,Miami (Ohio),11,10,"03/14/2026, 13:00",Pool A,Final
 Cedarville,Michigan (B),13,6,"03/14/2026, 14:30",Pool A,Final
-Davenport,Wisconsin-Milwaukee,0,0,"03/14/2026, 14:30",Pool A,Scheduled
+Davenport,Wisconsin-Milwaukee,13,5,"03/14/2026, 14:30",Pool A,Final
 Miami (Ohio),Cedarville,11,12,"03/14/2026, 16:00",Pool A,Final
-Michigan State,Wisconsin-Milwaukee,0,0,"03/14/2026, 16:00",Pool A,Scheduled
+Michigan State,Wisconsin-Milwaukee,10,11,"03/14/2026, 16:00",Pool A,Final
 Hillsdale,Michigan (B),13,6,"03/14/2026, 16:00",Pool A,Final
-Wisconsin-Milwaukee,Hillsdale,0,0,"03/14/2026, 17:30",Pool A,Scheduled
-Michigan State,Cedarville,0,0,"03/14/2026, 17:30",Pool A,Scheduled
-Miami (Ohio),Michigan (B),0,0,"03/14/2026, 17:30",Pool A,Scheduled
+Wisconsin-Milwaukee,Hillsdale,13,8,"03/14/2026, 17:30",Pool A,Scheduled
+Michigan State,Cedarville,10,12,"03/14/2026, 17:30",Pool A,Final
+Miami (Ohio),Michigan (B),4,12,"03/14/2026, 17:30",Pool A,Final
 Michigan State,Michigan (B),0,0,"03/15/2026, 08:40",Pool A,Scheduled
 Hillsdale,Miami (Ohio),0,0,"03/15/2026, 08:40",Pool A,Scheduled
 Davenport,Cedarville,0,0,"03/15/2026, 08:40",Pool A,Scheduled
