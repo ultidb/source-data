@@ -318,62 +318,6 @@ teamInfo,Mayhem,"Austin, Texas",,https://www.facebook.com/utexasultimate/,https:
 0,Swapna Venkat
 0,Vanesa Figueroa
 b,r,e,a,k
-Rice,13
-teamInfo,Torque,"Houston, Texas",http://torqueultimate.wix.com/rice-womens-ultimate,,
-0,Hadja Bayo
-2,Ephrath Aschalew
-4,Sofie Rose Payne
-5,Hannah Zhang
-9,Adina Olson
-16,Monica Mao
-18,Astrid Allen
-19,Lily Qin
-21,Radhiya Bharmal
-24,Dori Olson
-27,Xintong Su
-32,Juliana Strother
-41,Selina Gu
-76,Callista Baker
-91,Ria Stevens
-b,r,e,a,k
-Texas-Dallas,16
-teamInfo,Whiplash,"Richardson, Texas",,,
-0,Abigail Bazyn
-0,Eliza Barksdale
-0,Hannah Parra Sabogal
-0,Nandhini Parthipan
-0,Nina Cherukuri
-0,Nithya Bellomkonda
-0,Sahasskrthi Satyanarayanan
-0,Toby Estipona
-5,Pragathi Mahesh
-7,Nivedha Maniv
-9,Rahi Patel
-10,Sabrina Castillo
-13,Katrina Lee
-17,Virginia Jeffrey
-24,Lily Spencer
-25,Heather Joseph
-43,Praharna Rajesh
-71,Daniela Iraheta
-b,r,e,a,k
-LSU,18
-teamInfo,LSU Women's Ultimate,"Baton Rouge, Louisiana",http://lsuuniversityrec.com/lsuurec/,,
-02,Addison Garza
-05,Sarah Saxon
-06,Caroline Meserve
-07,Noah Flaherty
-10,Jaclyn Silverman
-14,Vivian Vazquez
-17,Ann Marie Benoit
-19,Mia Bonilla
-22,James Roberts
-26,Isabel Johnson
-31,Abigail Roscoe
-35,Kendryx Periban
-49,Taylor Davis
-88,Lauryn Boschulte
-b,r,e,a,k
 San Diego State,12
 teamInfo,SDSU Gnomes,"San Diego, California",http://arc.sdsu.edu/womens_frisbee/,https://www.facebook.com/sdsugnomes,https://twitter.com/sdsuGNOMES
 03,Ainsley Poast
@@ -396,6 +340,41 @@ teamInfo,SDSU Gnomes,"San Diego, California",http://arc.sdsu.edu/womens_frisbee/
 71,Mikey Allison
 72,Bailey Bartich
 b,r,e,a,k
+Rice,13
+teamInfo,Torque,"Houston, Texas",http://torqueultimate.wix.com/rice-womens-ultimate,,
+0,Hadja Bayo
+2,Ephrath Aschalew
+4,Sofie Rose Payne
+5,Hannah Zhang
+9,Adina Olson
+16,Monica Mao
+18,Astrid Allen
+19,Lily Qin
+21,Radhiya Bharmal
+24,Dori Olson
+27,Xintong Su
+32,Juliana Strother
+41,Selina Gu
+76,Callista Baker
+91,Ria Stevens
+b,r,e,a,k
+LSU,18
+teamInfo,LSU Women's Ultimate,"Baton Rouge, Louisiana",http://lsuuniversityrec.com/lsuurec/,,
+02,Addison Garza
+05,Sarah Saxon
+06,Caroline Meserve
+07,Noah Flaherty
+10,Jaclyn Silverman
+14,Vivian Vazquez
+17,Ann Marie Benoit
+19,Mia Bonilla
+22,James Roberts
+26,Isabel Johnson
+31,Abigail Roscoe
+35,Kendryx Periban
+49,Taylor Davis
+88,Lauryn Boschulte
+b,r,e,a,k
 Texas State,19
 teamInfo,Trainwreck,"San Marcos, Texas",,,
 0,Cassandra Vasquez
@@ -410,6 +389,27 @@ teamInfo,Trainwreck,"San Marcos, Texas",,,
 0,Sydney Mathis
 0,Abigail  Craft
 09,Bryn Taylor
+b,r,e,a,k
+Texas-Dallas,16
+teamInfo,Whiplash,"Richardson, Texas",,,
+0,Abigail Bazyn
+0,Eliza Barksdale
+0,Hannah Parra Sabogal
+0,Nandhini Parthipan
+0,Nina Cherukuri
+0,Nithya Bellomkonda
+0,Sahasskrthi Satyanarayanan
+0,Toby Estipona
+5,Pragathi Mahesh
+7,Nivedha Maniv
+9,Rahi Patel
+10,Sabrina Castillo
+13,Katrina Lee
+17,Virginia Jeffrey
+24,Lily Spencer
+25,Heather Joseph
+43,Praharna Rajesh
+71,Daniela Iraheta
 b,r,e,a,k
 s,t,a,g,e,s
 pools,Centex T1 Saturday
@@ -449,7 +449,7 @@ Trinity,Texas (B),0,0,"03/21/2026, 14:15",Pool C,Scheduled
 Arizona State,Texas (B),0,0,"03/22/2026, 08:00",Pool C,Scheduled
 Illinois,Trinity,0,0,"03/22/2026, 08:00",Pool C,Scheduled
 pool,Pool D
-San Diego State,Texas-Dallas,0,0,"03/21/2026, 09:00",Pool D,Scheduled
+San Diego State,Texas-Dallas,13,3,"03/21/2026, 09:00",Pool D,Final
 Rice,Texas State,13,4,"03/21/2026, 09:00",Pool D,Final
 San Diego State,Rice,0,0,"03/21/2026, 10:45",Pool D,Scheduled
 Texas-Dallas,LSU,0,0,"03/21/2026, 10:45",Pool D,Scheduled
