@@ -1,29 +1,6 @@
 Women's Centex 2026,College - Women ,21,3,2026
 Austin,TX,2026-03-21,2026-03-22
 https://play.usaultimate.org/events/Womens-Centex-2026/schedule/Women/CollegeWomen/
-Utah,5
-teamInfo,Spiral Jetty Ultimate,"Salt Lake City, Utah",http://spiraljettyultimate.weebly.com/,https://www.facebook.com/pages/Spiral-Jetty-Ultimate/113676238733086,http://@spiraljettyulti
-coaches,Meghan Campano
-2,Taylor Melner
-3,Kate Barry
-4,Lily Terpstra
-5,Lucy Leary
-6,Emily Dalley
-7,Jasmine Bowman
-8,Kate Dahlin
-11,Megan Blommel
-13,Lily Nygard
-14,Lily Sudar
-15,Emilee Jensen
-22,Spencer Ewing
-23,Kathryn Lawrence
-25,Shannon Anderson
-27,Mazzy Snow
-28,Violet Eleson
-31,Andie Madsen
-33,Lucia May
-47,Madeleine  Sarles
-b,r,e,a,k
 UCLA,1
 teamInfo,BLU,"Los Angeles, California",http://uclaclubsports.com/index.aspx?path=wuf,https://www.facebook.com/UCLABLU,https://www.twitter.com/blultimate
 coaches,Malia Smith
@@ -52,6 +29,29 @@ coaches,Malia Smith
 47,Charlotte Kurre O'Heaney
 48,Anneliese Phillips
 66,Sage Frock
+b,r,e,a,k
+Utah,5
+teamInfo,Spiral Jetty Ultimate,"Salt Lake City, Utah",http://spiraljettyultimate.weebly.com/,https://www.facebook.com/pages/Spiral-Jetty-Ultimate/113676238733086,http://@spiraljettyulti
+coaches,Meghan Campano
+2,Taylor Melner
+3,Kate Barry
+4,Lily Terpstra
+5,Lucy Leary
+6,Emily Dalley
+7,Jasmine Bowman
+8,Kate Dahlin
+11,Megan Blommel
+13,Lily Nygard
+14,Lily Sudar
+15,Emilee Jensen
+22,Spencer Ewing
+23,Kathryn Lawrence
+25,Shannon Anderson
+27,Mazzy Snow
+28,Violet Eleson
+31,Andie Madsen
+33,Lucia May
+47,Madeleine  Sarles
 b,r,e,a,k
 Florida,8
 teamInfo,FUEL,"Gainesville, Florida",http://gvilleultimate.com/FUEL/#!/,https://www.facebook.com/FUELenfuego,https://twitter.com/FUELenfuego
@@ -150,31 +150,6 @@ teamInfo,Melee,"Austin, Texas",https://texaswomensultimate.github.io/home/,,http
 9,Megan Palladino
 16,Cristina Mussiett
 b,r,e,a,k
-Washington University,3
-teamInfo,Iron Horse,"St. Louis, Missouri",https://sites.wustl.edu/womensultimate/,https://www.facebook.com/twoWUs,https://twitter.com/wuwultimate
-04,Lauren Smith
-10,Allison Millinger
-11,Annika Olson
-14,Erin Pollack
-16,Caitlin Pedraja
-17,Amanda Gary
-19,Jiwei Wu
-21,Talia Horn
-22,Rebecca  Goldberg
-23,Nina Laser
-25,Karen Bose
-27,Anna Cochran
-28,Elise Gadson
-30,Lucy Wei
-32,Nicole Blake
-41,Sarah Schifferle
-48,Talia Scott
-49,Jenna Petty
-53,Kaitlyn Torack
-72,Madeline  Nakashian
-77,Mary Orlando
-85,Julia Victor
-b,r,e,a,k
 Brown,10
 teamInfo,Shiver,"Providence, Rhode Island",,,
 0,Arianna Gerola
@@ -200,6 +175,31 @@ teamInfo,Shiver,"Providence, Rhode Island",,,
 19,Madeline Hu
 27,Ina Wolovitz
 71,Nadine Ansorge
+b,r,e,a,k
+Washington University,3
+teamInfo,Iron Horse,"St. Louis, Missouri",https://sites.wustl.edu/womensultimate/,https://www.facebook.com/twoWUs,https://twitter.com/wuwultimate
+04,Lauren Smith
+10,Allison Millinger
+11,Annika Olson
+14,Erin Pollack
+16,Caitlin Pedraja
+17,Amanda Gary
+19,Jiwei Wu
+21,Talia Horn
+22,Rebecca  Goldberg
+23,Nina Laser
+25,Karen Bose
+27,Anna Cochran
+28,Elise Gadson
+30,Lucy Wei
+32,Nicole Blake
+41,Sarah Schifferle
+48,Talia Scott
+49,Jenna Petty
+53,Kaitlyn Torack
+72,Madeline  Nakashian
+77,Mary Orlando
+85,Julia Victor
 b,r,e,a,k
 Southern California,2
 teamInfo,Hellions of Troy,"Los Angeles, California",http://www.uscwomensultimate.com/,,https://twitter.com/USCHellions
@@ -416,7 +416,7 @@ pools,Centex T1 Saturday
 pool,Pool A
 UCLA,Colorado State,13,4,"03/21/2026, 09:00",Pool A,Final
 Utah,Florida,11,9,"03/21/2026, 09:00",Pool A,Final
-UCLA,Utah,0,0,"03/21/2026, 10:45",Pool A,Scheduled
+UCLA,Utah,11,10,"03/21/2026, 10:45",Pool A,Final
 California,Florida,5,13,"03/21/2026, 10:45",Pool A,Final
 Florida,Colorado State,0,0,"03/21/2026, 12:30",Pool A,Scheduled
 California,Utah,0,0,"03/21/2026, 12:30",Pool A,Scheduled
@@ -428,7 +428,7 @@ pool,Pool B
 Southern California,Brown,7,9,"03/21/2026, 09:00",Pool B,Final
 Texas,Colorado College,13,3,"03/21/2026, 09:00",Pool B,Final
 Southern California,Texas,0,0,"03/21/2026, 10:45",Pool B,Scheduled
-Washington University,Colorado College,13,4,"03/21/2026, 10:45",Pool B,Final
+Washington University,Colorado College,13,4,"03/21/2026, 10:45",Pool B,Scheduled
 Colorado College,Brown,0,0,"03/21/2026, 12:30",Pool B,Scheduled
 Washington University,Texas,0,0,"03/21/2026, 12:30",Pool B,Scheduled
 Southern California,Colorado College,0,0,"03/21/2026, 14:15",Pool B,Scheduled
@@ -440,7 +440,7 @@ pools,Centex T2 Saturday
 pool,Pool C
 Arizona State,Central Florida,13,8,"03/21/2026, 09:00",Pool C,Final
 Illinois,Texas (B),13,0,"03/21/2026, 09:00",Pool C,Final
-Arizona State,Illinois,0,0,"03/21/2026, 10:45",Pool C,Scheduled
+Arizona State,Illinois,7,11,"03/21/2026, 10:45",Pool C,Final
 Central Florida,Trinity,0,0,"03/21/2026, 10:45",Pool C,Scheduled
 Arizona State,Trinity,0,0,"03/21/2026, 12:30",Pool C,Scheduled
 Central Florida,Texas (B),0,0,"03/21/2026, 12:30",Pool C,Scheduled
