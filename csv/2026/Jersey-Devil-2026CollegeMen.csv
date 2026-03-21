@@ -103,32 +103,6 @@ teamInfo,Palmetto Bums,"Charleston, South Carolina",,,
 0,Warren Greene
 13,Ryan Wartenberg
 b,r,e,a,k
-West Chester (B),6
-teamInfo,West Chester B,"West Chester, Pennsylvania",,,
-0,Aidan Duffy
-0,Bryce Thrash
-0,Christopher Molina Zavaleta
-0,Ian Gonzalez-Rubio
-0,Luke Thrash
-0,Mason Conti
-0,Matt McHugh
-0,Michael Gaskins
-0,Joe Spina
-0,Trevor Gouge
-8,Eli Moore
-12,Sebastian Ieradi
-25,Lucas Kluender
-30,Brogan Sullivan
-39,Deklan Linthicum
-44,Cody Rosier
-47,Kevin Pribadi
-49,Tate Shortlidge
-52,Chase Zemitis
-62,Ben Hirshey
-91,Thomas Burke
-93,Jake Britton
-93,Drew Morrow
-b,r,e,a,k
 Swarthmore,3
 teamInfo,Earthworms,"Swarthmore, Pennsylvania",,,https://twitter.com/WormsUltimate?s=20
 0,Alex Wuttig
@@ -156,6 +130,32 @@ teamInfo,Earthworms,"Swarthmore, Pennsylvania",,,https://twitter.com/WormsUltima
 22,Akiva Sherin
 39,Joe Austrian
 66,Leo Rothenberg
+b,r,e,a,k
+West Chester (B),6
+teamInfo,West Chester B,"West Chester, Pennsylvania",,,
+0,Aidan Duffy
+0,Bryce Thrash
+0,Christopher Molina Zavaleta
+0,Ian Gonzalez-Rubio
+0,Luke Thrash
+0,Mason Conti
+0,Matt McHugh
+0,Michael Gaskins
+0,Joe Spina
+0,Trevor Gouge
+8,Eli Moore
+12,Sebastian Ieradi
+25,Lucas Kluender
+30,Brogan Sullivan
+39,Deklan Linthicum
+44,Cody Rosier
+47,Kevin Pribadi
+49,Tate Shortlidge
+52,Chase Zemitis
+62,Ben Hirshey
+91,Thomas Burke
+93,Jake Britton
+93,Drew Morrow
 b,r,e,a,k
 New Jersey Tech,14
 teamInfo,Highlanders,"Newark, New Jersey",,,
@@ -244,7 +244,7 @@ Hofstra,Dartmouth (B),5,11,"03/21/2026, 09:00",Pool A,Final
 Haverford,Dartmouth (B),12,5,"03/21/2026, 10:30",Pool A,Final
 Hofstra,SUNY-Binghamton (B),10,5,"03/21/2026, 10:30",Pool A,Final
 Haverford,Hofstra,13,2,"03/21/2026, 12:00",Pool A,Final
-SUNY-Binghamton (B),Dartmouth (B),0,0,"03/21/2026, 13:30",Pool A,Scheduled
+SUNY-Binghamton (B),Dartmouth (B),8,7,"03/21/2026, 13:30",Pool A,Final
 pool,Pool B
 Rowan,Cornell (B),11,3,"03/21/2026, 09:00",Pool B,Final
 Villanova,Pennsylvania Western,13,0,"03/21/2026, 09:00",Pool B,Final
@@ -257,17 +257,24 @@ Swarthmore,Charleston,5,13,"03/21/2026, 09:00",Pool C,Final
 West Chester (B),New Jersey Tech,13,3,"03/21/2026, 10:30",Pool C,Final
 Swarthmore,New Jersey Tech,8,3,"03/21/2026, 12:00",Pool C,Final
 West Chester (B),Charleston,1,13,"03/21/2026, 12:00",Pool C,Final
-Swarthmore,West Chester (B),0,0,"03/21/2026, 13:30",Pool C,Scheduled
+Swarthmore,West Chester (B),6,5,"03/21/2026, 13:30",Pool C,Final
 Charleston,New Jersey Tech,13,0,"03/21/2026, 13:30",Pool C,Final
 pool,Pool D
 Penn State (B),Army,13,2,"03/21/2026, 09:00",Pool D,Final
 Salisbury,Lehigh (B),7,10,"03/21/2026, 10:30",Pool D,Final
 Penn State (B),Lehigh (B),12,4,"03/21/2026, 12:00",Pool D,Final
 Salisbury,Army,11,7,"03/21/2026, 12:00",Pool D,Final
-Penn State (B),Salisbury,0,0,"03/21/2026, 13:30",Pool D,Scheduled
-Army,Lehigh (B),0,0,"03/21/2026, 13:30",Pool D,Scheduled
+Penn State (B),Salisbury,13,7,"03/21/2026, 13:30",Pool D,Final
+Army,Lehigh (B),9,11,"03/21/2026, 13:30",Pool D,Final
 b,r,e,a,k
 clusters,Saturday Crossover
+cluster,Saturday Crossover
+Dartmouth (B),Salisbury,0,0,"03/21/2026, 15:00",,Scheduled
+Lehigh (B),Hofstra,0,0,"03/21/2026, 15:00",,Scheduled
+Rowan,West Chester (B),0,0,"03/21/2026, 15:00",,Scheduled
+Swarthmore,Cornell (B),0,0,"03/21/2026, 15:00",,Scheduled
+SUNY-Binghamton (B),Army,0,0,"03/21/2026, 15:00",,Scheduled
+Pennsylvania Western,New Jersey Tech,0,0,"03/21/2026, 15:00",,Scheduled
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,Championship Bracket
