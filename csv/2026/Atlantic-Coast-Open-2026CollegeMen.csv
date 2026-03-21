@@ -188,34 +188,6 @@ coaches,Noah Krumme
 88,Alec Hutchinson
 99,Sam Stayn
 b,r,e,a,k
-Massachusetts  (B),5
-teamInfo,Umass Amherst Developmental,"Amherst, Massachusetts",,,https://twitter.com/ZoodiscD
-0,Armando Feldman
-01,Zakariya Gdihi
-02,Emmett Jereb
-03,Caleb Bird-Richards
-06,Rowan Ferguson
-07,Matan Ryan
-08,Henry Loftus
-09,Aditya Shanbag
-10,Brayden Begian
-11,Taylor Hanson
-12,John Park
-13,Connor Geary
-17,Ian Maksym
-18,Isaac Silberman
-19,Ryan Lynch
-22,Dante Barutta
-23,Carter Stevens
-24,Halaf Montarroyos
-25,Naoya Miyamoto
-29,Aiden Roy
-44,Hayden Bouley
-50,Timothy Corkery
-66,Abram Brownson
-97,Zachary Ditkoff
-99,Olen Baumfeld
-b,r,e,a,k
 Emory,3
 teamInfo,Emory Juice,"Atlanta, Georgia",,,https://twitter.com/EmoryJuice
 0,Alex Li
@@ -243,6 +215,34 @@ teamInfo,Emory Juice,"Atlanta, Georgia",,,https://twitter.com/EmoryJuice
 26,Lucas Gunzberg
 28,Daniel Nickas
 29,Kai Diez
+b,r,e,a,k
+Massachusetts  (B),5
+teamInfo,Umass Amherst Developmental,"Amherst, Massachusetts",,,https://twitter.com/ZoodiscD
+0,Armando Feldman
+01,Zakariya Gdihi
+02,Emmett Jereb
+03,Caleb Bird-Richards
+06,Rowan Ferguson
+07,Matan Ryan
+08,Henry Loftus
+09,Aditya Shanbag
+10,Brayden Begian
+11,Taylor Hanson
+12,John Park
+13,Connor Geary
+17,Ian Maksym
+18,Isaac Silberman
+19,Ryan Lynch
+22,Dante Barutta
+23,Carter Stevens
+24,Halaf Montarroyos
+25,Naoya Miyamoto
+29,Aiden Roy
+44,Hayden Bouley
+50,Timothy Corkery
+66,Abram Brownson
+97,Zachary Ditkoff
+99,Olen Baumfeld
 b,r,e,a,k
 Appalachian State,11
 teamInfo,Nomads,"Boone, North Carolina",,,https://twitter.com/Nomads_Ultimate
@@ -600,11 +600,11 @@ Carleton College-CHOP,Delaware,15,10,"03/21/2026, 12:30",Pool A,Final
 pool,Pool B
 Virginia Tech,Duke,15,10,"03/21/2026, 09:00",Pool B,Final
 Syracuse,Duke,13,10,"03/21/2026, 10:45",Pool B,Final
-Virginia Tech,Syracuse,4,4,"03/21/2026, 12:30",Pool B,In Progress
+Virginia Tech,Syracuse,12,11,"03/21/2026, 12:30",Pool B,Final
 pool,Pool C
 Emory,Appalachian State,13,10,"03/21/2026, 09:00",Pool C,Final
 Massachusetts  (B),Appalachian State,15,8,"03/21/2026, 10:45",Pool C,Final
-Emory,Massachusetts  (B),4,2,"03/21/2026, 12:30",Pool C,In Progress
+Emory,Massachusetts  (B),11,10,"03/21/2026, 12:30",Pool C,Final
 pool,Pool D
 William & Mary,Lehigh,12,9,"03/21/2026, 09:00",Pool D,Final
 SUNY-Binghamton,Lehigh,15,9,"03/21/2026, 10:45",Pool D,Final
@@ -625,6 +625,13 @@ South Carolina,Virginia Tech (B),15,5,"03/21/2026, 10:45",Pool G,Final
 Davidson,South Carolina,15,9,"03/21/2026, 12:30",Pool G,Final
 b,r,e,a,k
 clusters,Power Pool Crossover
+cluster,Power Pool Crossover
+Carleton College-CHOP,Emory,0,0,"03/21/2026, 14:15",,Scheduled
+Virginia Tech,SUNY-Binghamton,0,0,"03/21/2026, 14:15",,Scheduled
+Massachusetts  (B),Delaware,0,0,"03/21/2026, 14:15",,Scheduled
+William & Mary,Syracuse,0,0,"03/21/2026, 14:15",,Scheduled
+Richmond,Appalachian State,0,0,"03/21/2026, 14:15",,Scheduled
+Duke,Lehigh,0,0,"03/21/2026, 14:15",,Scheduled
 b,r,e,a,k
 clusters,Bracket Play In Crossover
 cluster,Bracket Play In Crossover

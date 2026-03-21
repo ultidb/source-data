@@ -31,19 +31,19 @@ b,r,e,a,k
 Northeastern (B),3
 teamInfo,,,,,
 b,r,e,a,k
-Massachusetts-Lowell,14
-teamInfo,,,,,
-b,r,e,a,k
 Harvard (B),11
 teamInfo,,,,,
 b,r,e,a,k
-Western New England,5
+Massachusetts-Lowell,14
 teamInfo,,,,,
 b,r,e,a,k
 Central Connecticut State,4
 teamInfo,,,,,
 b,r,e,a,k
 Providence,12
+teamInfo,,,,,
+b,r,e,a,k
+Western New England,5
 teamInfo,,,,,
 b,r,e,a,k
 New Hampshire,13
@@ -90,7 +90,7 @@ Northeastern (C),Clark,0,0,"03/21/2026, 14:00",Pool B,Scheduled
 pool,Pool C
 Northeastern (B),Harvard (B),13,2,"03/21/2026, 10:00",Pool C,Final
 Stonehill,Massachusetts-Lowell,13,1,"03/21/2026, 10:00",Pool C,Final
-Northeastern (B),Massachusetts-Lowell,0,0,"03/21/2026, 12:00",Pool C,Scheduled
+Northeastern (B),Massachusetts-Lowell,13,1,"03/21/2026, 12:00",Pool C,Final
 Stonehill,Harvard (B),13,2,"03/21/2026, 12:00",Pool C,Final
 Northeastern (B),Stonehill,0,0,"03/21/2026, 14:00",Pool C,Scheduled
 Harvard (B),Massachusetts-Lowell,0,0,"03/21/2026, 14:00",Pool C,Scheduled
@@ -98,7 +98,7 @@ pool,Pool D
 Central Connecticut State,Providence,13,8,"03/21/2026, 10:00",Pool D,Final
 Western New England,New Hampshire,11,5,"03/21/2026, 10:00",Pool D,Final
 Central Connecticut State,New Hampshire,0,0,"03/21/2026, 12:00",Pool D,Scheduled
-Western New England,Providence,0,0,"03/21/2026, 12:00",Pool D,Scheduled
+Western New England,Providence,7,9,"03/21/2026, 12:00",Pool D,Final
 Central Connecticut State,Western New England,0,0,"03/21/2026, 14:00",Pool D,Scheduled
 Providence,New Hampshire,0,0,"03/21/2026, 14:00",Pool D,Scheduled
 b,r,e,a,k
