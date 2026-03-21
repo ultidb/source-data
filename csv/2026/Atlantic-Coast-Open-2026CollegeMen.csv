@@ -1,6 +1,29 @@
 Atlantic Coast Open 2026,College - Men ,21,3,2026
 Axton,VA,2026-03-21,2026-03-22
 https://play.usaultimate.org/events/Atlantic-Coast-Open-2026/schedule/Men/CollegeMen/
+Delaware,7
+teamInfo,Sideshow,"Newark, Delaware",,,
+coaches,James Henderson
+0,Albert Capodanno
+0,Alexander Grega
+0,Charlie Giannone
+0,Collin Beaman
+0,Dan Kelner
+0,Gabriel Resto
+0,Hayden Land
+0,Ian Sinclair
+0,Jeffrey Rabinowitz
+0,Joseph Lenzo
+0,Josh Rudy
+0,Joshua Geddes
+0,Mark Polin
+0,Patrick Duffy
+0,Trajan Kump
+0,Tucker Stevens
+0,William  Everett
+0,Zachary Brooks
+24,John Cleaver
+b,r,e,a,k
 Richmond,9
 teamInfo,Spidermonkeys,"Richmond, Virginia",,,https://twitter.com/urspidermonkeys?s=21
 0,Miles Lee
@@ -38,29 +61,6 @@ teamInfo,Spidermonkeys,"Richmond, Virginia",,,https://twitter.com/urspidermonkey
 77,Eli Amantia
 97,Samuel  Long
 99,Finn Garside
-b,r,e,a,k
-Delaware,7
-teamInfo,Sideshow,"Newark, Delaware",,,
-coaches,James Henderson
-0,Albert Capodanno
-0,Alexander Grega
-0,Charlie Giannone
-0,Collin Beaman
-0,Dan Kelner
-0,Gabriel Resto
-0,Hayden Land
-0,Ian Sinclair
-0,Jeffrey Rabinowitz
-0,Joseph Lenzo
-0,Josh Rudy
-0,Joshua Geddes
-0,Mark Polin
-0,Patrick Duffy
-0,Trajan Kump
-0,Tucker Stevens
-0,William  Everett
-0,Zachary Brooks
-24,John Cleaver
 b,r,e,a,k
 Carleton College-CHOP,1
 teamInfo,Carleton House of Pancakes,"Northfield, Minnesota",https://apps.carleton.edu/student/orgs/gop/,,https://twitter.com/chop_rocks
@@ -188,34 +188,6 @@ coaches,Noah Krumme
 88,Alec Hutchinson
 99,Sam Stayn
 b,r,e,a,k
-Emory,3
-teamInfo,Emory Juice,"Atlanta, Georgia",,,https://twitter.com/EmoryJuice
-0,Alex Li
-0,Avery Hamilton
-0,Daniel Monterroso
-0,Dean Damon
-0,Grayson Stone
-0,Justin Davis
-0,Nikhil Murari
-0,Sean lin
-0,Siddharth Madapura
-0,Theodore (Cisco) Harrison
-7,Cooper Deschenes-Worboy
-8,Gabriel Hall
-14,Toby Fuller
-14,Zeyi Liu
-16,Ricky Davis
-19,Krish Patel
-20,Ammon Longenecker
-21,Reece Davidman
-22,Warren Chang
-23,Gregory Gavi
-24,Songjie Pu
-26,Jesse Rider
-26,Lucas Gunzberg
-28,Daniel Nickas
-29,Kai Diez
-b,r,e,a,k
 Massachusetts  (B),5
 teamInfo,Umass Amherst Developmental,"Amherst, Massachusetts",,,https://twitter.com/ZoodiscD
 0,Armando Feldman
@@ -243,6 +215,34 @@ teamInfo,Umass Amherst Developmental,"Amherst, Massachusetts",,,https://twitter.
 66,Abram Brownson
 97,Zachary Ditkoff
 99,Olen Baumfeld
+b,r,e,a,k
+Emory,3
+teamInfo,Emory Juice,"Atlanta, Georgia",,,https://twitter.com/EmoryJuice
+0,Alex Li
+0,Avery Hamilton
+0,Daniel Monterroso
+0,Dean Damon
+0,Grayson Stone
+0,Justin Davis
+0,Nikhil Murari
+0,Sean lin
+0,Siddharth Madapura
+0,Theodore (Cisco) Harrison
+7,Cooper Deschenes-Worboy
+8,Gabriel Hall
+14,Toby Fuller
+14,Zeyi Liu
+16,Ricky Davis
+19,Krish Patel
+20,Ammon Longenecker
+21,Reece Davidman
+22,Warren Chang
+23,Gregory Gavi
+24,Songjie Pu
+26,Jesse Rider
+26,Lucas Gunzberg
+28,Daniel Nickas
+29,Kai Diez
 b,r,e,a,k
 Appalachian State,11
 teamInfo,Nomads,"Boone, North Carolina",,,https://twitter.com/Nomads_Ultimate
@@ -595,15 +595,15 @@ s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
 Carleton College-CHOP,Richmond,12,13,"03/21/2026, 09:00",Pool A,Final
-Delaware,Richmond,11,7,"03/21/2026, 10:45",Pool A,In Progress
+Delaware,Richmond,14,9,"03/21/2026, 10:45",Pool A,Final
 Carleton College-CHOP,Delaware,0,0,"03/21/2026, 12:30",Pool A,Scheduled
 pool,Pool B
 Virginia Tech,Duke,15,10,"03/21/2026, 09:00",Pool B,Final
-Syracuse,Duke,8,7,"03/21/2026, 10:45",Pool B,In Progress
+Syracuse,Duke,13,10,"03/21/2026, 10:45",Pool B,Final
 Virginia Tech,Syracuse,0,0,"03/21/2026, 12:30",Pool B,Scheduled
 pool,Pool C
 Emory,Appalachian State,13,10,"03/21/2026, 09:00",Pool C,Final
-Massachusetts  (B),Appalachian State,10,5,"03/21/2026, 10:45",Pool C,In Progress
+Massachusetts  (B),Appalachian State,15,8,"03/21/2026, 10:45",Pool C,Final
 Emory,Massachusetts  (B),0,0,"03/21/2026, 12:30",Pool C,Scheduled
 pool,Pool D
 William & Mary,Lehigh,12,9,"03/21/2026, 09:00",Pool D,Final
@@ -618,7 +618,7 @@ Liberty,Maryland-Baltimore County,0,0,"03/21/2026, 12:30",Pool E,Scheduled
 Luther,Western Carolina,0,0,"03/21/2026, 12:30",Pool E,Scheduled
 pool,Pool F
 East Carolina,South Carolina (B),15,2,"03/21/2026, 10:45",Pool F,Final
-American,Virginia Commonwealth,10,7,"03/21/2026, 10:45",Pool F,In Progress
+American,Virginia Commonwealth,11,9,"03/21/2026, 10:45",Pool F,Final
 East Carolina,Virginia Commonwealth,0,0,"03/21/2026, 12:30",Pool F,Scheduled
 American,South Carolina (B),0,0,"03/21/2026, 12:30",Pool F,Scheduled
 East Carolina,American,0,0,"03/21/2026, 12:30",Pool F,Scheduled
