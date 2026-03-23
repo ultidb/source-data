@@ -35,6 +35,25 @@ teamInfo,Lakers,"Allendale, Michigan",,,
 0,Todd Leatherman
 17,Grant Bush
 b,r,e,a,k
+Saint Louis,2
+teamInfo,Archangel,"St. Louis, Missouri",,,https://twitter.com/Archangel_SLU
+coaches,Daniel Juergens
+0,Brian Weigus
+0,Caleb Gall
+0,Carson Enge
+0,Derian Ryker
+0,Grant Gorman
+0,Gregory Hauser
+0,Henry Davis
+0,Ibraheem Jawadi
+0,Andrew Moritz
+0,Ardian Hoxhaj
+0,Preston McClure
+0,Samuel Liu
+13,Brendan Wienecke
+16,Chase Ostmann
+22,Jared Thornberry
+b,r,e,a,k
 Ball State,4
 teamInfo,Wizardz,"Muncie, Indiana",,,
 02,Alex Konz
@@ -54,25 +73,6 @@ teamInfo,Wizardz,"Muncie, Indiana",,,
 69,Matilyn Rhoades
 73,Liam Robertson
 88,Jakob Orth
-b,r,e,a,k
-Saint Louis,2
-teamInfo,Archangel,"St. Louis, Missouri",,,https://twitter.com/Archangel_SLU
-coaches,Daniel Juergens
-0,Brian Weigus
-0,Caleb Gall
-0,Carson Enge
-0,Derian Ryker
-0,Grant Gorman
-0,Gregory Hauser
-0,Henry Davis
-0,Ibraheem Jawadi
-0,Andrew Moritz
-0,Ardian Hoxhaj
-0,Preston McClure
-0,Samuel Liu
-13,Brendan Wienecke
-16,Chase Ostmann
-22,Jared Thornberry
 b,r,e,a,k
 Grace,5
 teamInfo,Lancer Ultimate,"Winona Lake, Indiana",,https://www.facebook.com/groups/397514118942652/,
@@ -103,9 +103,12 @@ Grace,Grand Valley,6,15,"03/21/2026, 13:00",Pool A,Final
 Butler,Saint Louis,15,9,"03/21/2026, 15:00",Pool A,Final
 Ball State,Grand Valley,5,15,"03/21/2026, 15:00",Pool A,Final
 Butler,Grace,15,6,"03/21/2026, 19:00",Pool A,Final
-Butler,Grand Valley,0,0,"03/22/2026, 11:00",Pool A,Scheduled
-Saint Louis,Ball State,0,0,"03/22/2026, 11:00",Pool A,Scheduled
-Saint Louis,Grace,0,0,"03/22/2026, 13:00",Pool A,Scheduled
+Butler,Grand Valley,15,9,"03/22/2026, 11:00",Pool A,Final
+Saint Louis,Ball State,14,12,"03/22/2026, 11:00",Pool A,Final
+Grand Valley,Grace,15,3,"03/22/2026, 13:00",Pool A,Final
 b,r,e,a,k
-clusters,Sunday Games
+clusters,Additional Sunday Games
+cluster,Cross Over
+Butler,Saint Louis,11,8,"03/22/2026, 13:00",,Final
+Saint Louis,Grace,6,11,"03/22/2026, 15:00",,Final
 b,r,e,a,k
