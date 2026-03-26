@@ -133,9 +133,21 @@ def makeProxiedRequestSelenium(url):
     driver = getSeleniumDriver()
 
     try:
+        # Store the current page source before navigating to detect when it changes
+        old_page_source = driver.page_source if driver.current_url != "data:," else ""
+
         driver.get(url)
 
-        # Wait for page content to fully load before reading page_source.
+        # Wait for the page content to actually change by checking that the URL loaded
+        # and the page source is different from before
+        try:
+            WebDriverWait(driver, 10).until(
+                lambda d: d.current_url == url or url in d.current_url
+            )
+        except Exception:
+            log.warning(f"URL did not fully load: expected {url}, got {driver.current_url}")
+
+        # Additional wait for page content to fully load before reading page_source.
         # Without this wait, the driver may return stale content from the
         # previous page, causing tournament data to be written to wrong files.
         try:
@@ -150,6 +162,16 @@ def makeProxiedRequestSelenium(url):
                 )
             except Exception:
                 pass
+
+        # Wait for the page source to actually change from the previous page
+        max_attempts = 20
+        for attempt in range(max_attempts):
+            current_page_source = driver.page_source
+            if current_page_source != old_page_source:
+                break
+            time.sleep(0.1)
+        else:
+            log.warning(f"Page source did not change after {max_attempts} attempts for URL: {url}")
 
         # Small delay to ensure dynamic content has loaded
         time.sleep(0.5)
