@@ -18,6 +18,11 @@ echo "Re-scraping 31 corrupted tournaments"
 echo "=========================================="
 echo ""
 
+# First, ensure calendar is up-to-date
+echo "Updating calendar to ensure all tournament URLs are available..."
+python3 cli.py scrape calendar -y $YEAR --disable-cache
+echo ""
+
 # Array of tournament URLs to re-scrape
 URLS=(
   "https://play.usaultimate.org/events/Atlantic-Coast-Open-2026/schedule/Women/CollegeWomen/"

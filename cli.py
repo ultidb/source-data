@@ -77,6 +77,13 @@ def scrape_tournament_cmd(url: str, year: int, disable_cache: bool, overwrite: b
     log.info(f"Scraping tournament: {url}")
     config = ScrapeOptions(year, disable_cache, overwrite, live=live, calendarOnly=False)
     tournament_info = readInfoFromCalendarCSV(year, url)
+
+    # Skip if tournament not found in calendar
+    if tournament_info is None:
+        log.error(f"Tournament URL not found in calendar CSV: {url}")
+        log.error(f"Please scrape the calendar first: python cli.py scrape calendar -y {year}")
+        return
+
     scrapeTournament(config, tournament_info, 0, 1)
 
 
