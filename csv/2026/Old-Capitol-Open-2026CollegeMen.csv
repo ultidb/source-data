@@ -211,6 +211,29 @@ teamInfo,Minnesota B,"Minneapolis, Minnesota",,,
 24,Jonathan Ip
 96,Gavriel Olson
 b,r,e,a,k
+Wisconsin-Eau Claire,8
+teamInfo,EauZone,"Eau Claire, Wisconsin",https://www.eauzoneultimate.com,https://www.facebook.com/pages/Eauzone/123562074416368,https://twitter.com/eauzoneultimate
+0,Alex Theriot
+0,Gabriel Tapia Martinez
+0,Jacob Muench
+0,Jaden Uttecht
+0,Joshua Cole
+0,Max Grosland
+0,Maximilian  Petitjean
+0,Torrian Samuels
+0,Vance Litzow
+2,John Stevenson
+3,James Harvey
+4,Mino Whitley Mott
+7,Max Muench
+13,Haakon Neske
+16,Jay Lonetree
+17,James Briscoe
+20,Adrian Haugee
+23,Benjamin Anderson
+50,Alec Halvorson
+55,Liam Lamb
+b,r,e,a,k
 Nebraska,9
 teamInfo,Cornfed Ultimate,"Lincoln, Nebraska",https://unl.campuslabs.com/engage/organization/men-s-ultimate-club,,https://twitter.com/cornfedultimate
 0,Alex Bjorman
@@ -234,29 +257,6 @@ teamInfo,Cornfed Ultimate,"Lincoln, Nebraska",https://unl.campuslabs.com/engage/
 32,Luke Walsdorf
 69,Jordan Johnson
 88,Evan Brown
-b,r,e,a,k
-Wisconsin-Eau Claire,8
-teamInfo,EauZone,"Eau Claire, Wisconsin",https://www.eauzoneultimate.com,https://www.facebook.com/pages/Eauzone/123562074416368,https://twitter.com/eauzoneultimate
-0,Alex Theriot
-0,Gabriel Tapia Martinez
-0,Jacob Muench
-0,Jaden Uttecht
-0,Joshua Cole
-0,Max Grosland
-0,Maximilian  Petitjean
-0,Torrian Samuels
-0,Vance Litzow
-2,John Stevenson
-3,James Harvey
-4,Mino Whitley Mott
-7,Max Muench
-13,Haakon Neske
-16,Jay Lonetree
-17,James Briscoe
-20,Adrian Haugee
-23,Benjamin Anderson
-50,Alec Halvorson
-55,Liam Lamb
 b,r,e,a,k
 Minnesota-Duluth,4
 teamInfo,Northern Lights,"Duluth, Minnesota",,https://www.facebook.com/lights33,https://twitter.com/UMD_Lights
@@ -533,7 +533,7 @@ pools,Pool Play
 pool,Pool A
 Michigan Tech,Wisconsin-Platteville,11,6,"03/28/2026, 10:30",Pool A,Final
 Macalester,Wisconsin-Platteville,13,2,"03/28/2026, 12:10",Pool A,Final
-Macalester,Michigan Tech,0,0,"03/28/2026, 13:50",Pool A,Scheduled
+Macalester,Michigan Tech,13,4,"03/28/2026, 13:50",Pool A,Final
 pool,Pool B
 Winona State,Wisconsin-La Crosse,11,10,"03/28/2026, 10:30",Pool B,Final
 Iowa,Wisconsin-La Crosse,13,2,"03/28/2026, 12:10",Pool B,Final
@@ -541,11 +541,11 @@ Iowa,Winona State,11,7,"03/28/2026, 13:50",Pool B,Final
 pool,Pool C
 Minnesota (B),Grinnell,8,11,"03/28/2026, 10:30",Pool C,Final
 Northern Iowa,Grinnell,7,8,"03/28/2026, 12:10",Pool C,Final
-Northern Iowa,Minnesota (B),0,0,"03/28/2026, 13:50",Pool C,Scheduled
+Northern Iowa,Minnesota (B),10,9,"03/28/2026, 13:50",Pool C,Final
 pool,Pool D
 Wisconsin-Eau Claire,Nebraska,10,9,"03/28/2026, 10:30",Pool D,Final
 Minnesota-Duluth,Nebraska,9,11,"03/28/2026, 12:10",Pool D,Final
-Minnesota-Duluth,Wisconsin-Eau Claire,0,0,"03/28/2026, 13:50",Pool D,Scheduled
+Minnesota-Duluth,Wisconsin-Eau Claire,8,11,"03/28/2026, 13:50",Pool D,Final
 pool,Pool E
 Illinois State,Washington University (B),11,4,"03/28/2026, 10:30",Pool E,Final
 Wisconsin-Stevens Point,DePaul,7,12,"03/28/2026, 10:30",Pool E,Final
@@ -559,17 +559,21 @@ St John's (Minnesota),Iowa (B),13,4,"03/28/2026, 10:30",Pool F,Final
 Wisconsin (B),Iowa (B),12,4,"03/28/2026, 12:10",Pool F,Final
 St John's (Minnesota),Minnesota (C),13,6,"03/28/2026, 12:10",Pool F,Final
 Wisconsin (B),St John's (Minnesota),8,10,"03/28/2026, 13:50",Pool F,Scheduled
-Minnesota (C),Iowa (B),0,0,"03/28/2026, 13:50",Pool F,Scheduled
+Minnesota (C),Iowa (B),7,6,"03/28/2026, 13:50",Pool F,Scheduled
 pool,Pool G
 Benedictine College,Iowa State (B),9,2,"03/28/2026, 10:30",Pool G,Final
 Marquette (B),Grinnell (B),13,0,"03/28/2026, 10:30",Pool G,Final
 Benedictine College,Grinnell (B),13,1,"03/28/2026, 12:10",Pool G,Final
 Marquette (B),Iowa State (B),10,8,"03/28/2026, 12:10",Pool G,Final
 Benedictine College,Marquette (B),11,6,"03/28/2026, 13:50",Pool G,Final
-Iowa State (B),Grinnell (B),0,0,"03/28/2026, 13:50",Pool G,Scheduled
+Iowa State (B),Grinnell (B),9,2,"03/28/2026, 13:50",Pool G,Final
 b,r,e,a,k
 brackets,Bracket
 bracket,Championship Bracket
+Northern Iowa,Minnesota-Duluth,0,0,"03/29/2026, 09:00",Pre-Quarterfinals,Scheduled
+Winona State,Wisconsin-Platteville,0,0,"03/29/2026, 09:00",Pre-Quarterfinals,Scheduled
+Michigan Tech,Wisconsin-La Crosse,0,0,"03/29/2026, 09:00",Pre-Quarterfinals,Scheduled
+Nebraska,Minnesota (B),0,0,"03/29/2026, 09:00",Pre-Quarterfinals,Scheduled
 bracket,3rd Place
 bracket,5th Place Bracket
 bracket,7th Place
@@ -578,9 +582,14 @@ bracket,11th Place
 bracket,13th Place Bracket
 bracket,15th Place
 bracket,17th Place Bracket
+Wisconsin-Stevens Point,Grinnell (B),0,0,"03/29/2026, 09:00",17th Place Quarters,Scheduled
+Washington University (B),Benedictine College,0,0,"03/29/2026, 09:00",17th Place Quarters,Scheduled
 bracket,19th Place
 bracket,21st Place Bracket
 bracket,23rd Place
 b,r,e,a,k
 clusters,Crossover
+cluster,1st Place Crossover
+Macalester,Iowa,0,0,"03/29/2026, 09:00",,Scheduled
+Grinnell,Wisconsin-Eau Claire,0,0,"03/29/2026, 09:00",,Scheduled
 b,r,e,a,k

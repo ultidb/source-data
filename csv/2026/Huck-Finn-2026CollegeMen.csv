@@ -36,33 +36,36 @@ coaches,Rutledge Smith
 24,Dashiel Cockrill
 35,Xander Wilcox
 b,r,e,a,k
-Ohio State,9
-teamInfo,Elephant Men,"Medford, Massachusetts",http://www.tuftsmensultimate.org/,,https://twitter.com/tufts_emen
-coaches,Toshihiro Nagase
-0,Azi Levites-Cohen
-0,Benjamin Rowland
-0,Calvin Guswa
-0,Isaac Margulius
-0,Lucas Plumb
-0,Sawyer Wright
-2,Alexander Vu
-3,Naveen Bleakney-Eastman
-4,William Chesney
-6,Silas Grossman
-9,Ethan Smith
-10,Rohin Gast
-13,Spencer Anderson
-14,Owen Jones
-16,Nate Brophy
-22,Simon Cordes
-23,Peter Kuypers
-24,Tucker Livingston
-27,Tobias Potts-Drew
-49,Wilson Wu
-57,Nayan Talwalkar
-81,Ram Sundaram
-90,Dorsey Strasburger
-99,Eliav Malone
+Chicago,5
+teamInfo,MagnUM,"Ann Arbor, Michigan",http://www.magnumultimate.com/,https://www.facebook.com/magnUMultimatefrisbee/,https://twitter.com/magnUMultimate
+0,Augustus Wehrly
+0,Bruno Garcia Lavanchy
+0,Caiden Holt
+0,Caleb Strom
+0,Charlie Rosenfeld
+0,Adam Wang
+0,Colin Jarvis
+0,Filip Icev
+0,Lincoln Boyd
+0,Noah Feigenbaum
+0,Stanley Jian
+0,Xavier Silva
+2,Enzhuo Yu
+3,Jose Dasilva
+3,David Braden
+7,Ryan Barrett
+8,Nicholas Alfonso
+9,Jack Davis
+12,Emmet Payette
+14,Aaron Bartlett
+19,Aidan Hale
+21,Gabriel Dowd
+24,Josh Solomon
+29,Samuel Teppo
+37,Julius Cohen
+55,Joshua Wang
+67,Chris van Lent
+92,Tobey Chang
 b,r,e,a,k
 Colorado State,4
 teamInfo,Leadbelly,"Columbus, Ohio",,,
@@ -94,36 +97,33 @@ teamInfo,Leadbelly,"Columbus, Ohio",,,
 23,Camron Chambers
 99,Christian Colon
 b,r,e,a,k
-Chicago,5
-teamInfo,MagnUM,"Ann Arbor, Michigan",http://www.magnumultimate.com/,https://www.facebook.com/magnUMultimatefrisbee/,https://twitter.com/magnUMultimate
-0,Augustus Wehrly
-0,Bruno Garcia Lavanchy
-0,Caiden Holt
-0,Caleb Strom
-0,Charlie Rosenfeld
-0,Adam Wang
-0,Colin Jarvis
-0,Filip Icev
-0,Lincoln Boyd
-0,Noah Feigenbaum
-0,Stanley Jian
-0,Xavier Silva
-2,Enzhuo Yu
-3,Jose Dasilva
-3,David Braden
-7,Ryan Barrett
-8,Nicholas Alfonso
-9,Jack Davis
-12,Emmet Payette
-14,Aaron Bartlett
-19,Aidan Hale
-21,Gabriel Dowd
-24,Josh Solomon
-29,Samuel Teppo
-37,Julius Cohen
-55,Joshua Wang
-67,Chris van Lent
-92,Tobey Chang
+Ohio State,9
+teamInfo,Elephant Men,"Medford, Massachusetts",http://www.tuftsmensultimate.org/,,https://twitter.com/tufts_emen
+coaches,Toshihiro Nagase
+0,Azi Levites-Cohen
+0,Benjamin Rowland
+0,Calvin Guswa
+0,Isaac Margulius
+0,Lucas Plumb
+0,Sawyer Wright
+2,Alexander Vu
+3,Naveen Bleakney-Eastman
+4,William Chesney
+6,Silas Grossman
+9,Ethan Smith
+10,Rohin Gast
+13,Spencer Anderson
+14,Owen Jones
+16,Nate Brophy
+22,Simon Cordes
+23,Peter Kuypers
+24,Tucker Livingston
+27,Tobias Potts-Drew
+49,Wilson Wu
+57,Nayan Talwalkar
+81,Ram Sundaram
+90,Dorsey Strasburger
+99,Eliav Malone
 b,r,e,a,k
 St Olaf,8
 teamInfo,Panthers,"Grand Rapids, Michigan",https://dupanthers.com/sports/ultimate-frisbee,,
@@ -638,7 +638,7 @@ Colorado State,Chicago,8,10,"03/28/2026, 11:00",Pool A,Final
 Minnesota,St Olaf,13,7,"03/28/2026, 12:30",Pool A,Final
 Colorado State,Ohio State,11,9,"03/28/2026, 12:30",Pool A,Final
 Minnesota,Colorado State,11,9,"03/28/2026, 14:00",Pool A,Final
-Chicago,Ohio State,0,0,"03/28/2026, 14:00",Pool A,Scheduled
+Chicago,Ohio State,11,8,"03/28/2026, 14:00",Pool A,Final
 pool,Pool B
 Michigan,Washington University,15,4,"03/27/2026, 19:30",Pool B,Final
 Tufts,Purdue,8,12,"03/28/2026, 08:00",Pool B,Final
@@ -684,9 +684,9 @@ b,r,e,a,k
 clusters,Crossovers
 cluster,Crossovers
 Mississippi State,Marquette,12,7,"03/28/2026, 14:00",,Final
-Alabama-Huntsville,Kansas,0,0,"03/28/2026, 14:00",,Scheduled
-LSU,Iowa State,0,0,"03/28/2026, 14:00",,Scheduled
-Northwestern,Southern Illinois-Edwardsville,0,0,"03/28/2026, 14:00",,Scheduled
+Alabama-Huntsville,Kansas,13,8,"03/28/2026, 14:00",,Final
+LSU,Iowa State,9,12,"03/28/2026, 14:00",,Final
+Northwestern,Southern Illinois-Edwardsville,10,7,"03/28/2026, 14:00",,Final
 Michigan State,Missouri,0,0,"03/28/2026, 14:00",,Scheduled
 Indiana,Saint Louis,11,6,"03/28/2026, 14:00",,Final
 Union (Tennessee),Vanderbilt,0,0,"03/28/2026, 14:00",,Scheduled
@@ -694,6 +694,8 @@ Kentucky,Missouri S&T,13,7,"03/28/2026, 14:00",,Final
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,Championship Bracket
+Colorado State,Northwestern,0,0,"03/29/2026, 09:00",PreQuarters,Scheduled
+Ohio State,Alabama-Huntsville,0,0,"03/29/2026, 09:00",PreQuarters,Scheduled
 bracket,Third Place
 bracket,Fifth Place
 bracket,Seventh Place
@@ -702,6 +704,8 @@ clusters,9th Place Round Robin
 b,r,e,a,k
 brackets,15th Place Bracket
 bracket,15th Place Bracket
+Southern Illinois-Edwardsville,Indiana,0,0,"03/29/2026, 09:00",15th Place QuarterFinal,Scheduled
+Kansas,Kentucky,0,0,"03/29/2026, 09:00",15th Place QuarterFinal,Scheduled
 bracket,Seventeenth Place
 bracket,Ninteenth Place
 bracket,Twenty-first Place

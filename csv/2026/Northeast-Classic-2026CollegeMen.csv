@@ -1,6 +1,32 @@
 Northeast Classic 2026,College - Men ,28,3,2026
 Middletown,NY,2026-03-28,2026-03-29
 https://play.usaultimate.org/events/Northeast-Classic-2026/schedule/Men/CollegeMen/
+Skidmore,5
+teamInfo,Wombats,"Saratoga Springs, New York",,,
+0,Andrew Doyle
+0,Everett Armstrong
+0,Kiril Volkov
+0,Rafael  Mendez
+0,Tomas  Argote
+5,Mason Ernst
+8,Harry Poglinco
+13,Jonah Levy
+16,Declan Lloyd
+20,Abraham Baer-Benson
+22,Taylor  LeClair
+23,Mateo Edwards
+24,Locke Robinson
+26,Soren Bertucci-Miller
+32,Heiki Kuhrt
+42,Brian Newton
+50,Emmett Doty
+62,Edward Pole
+63,Benjamin Edgerton
+64,Henry Dean
+66,Seth Tremper
+74,Gordon Sather
+88,Peter Landis
+b,r,e,a,k
 Amherst,1
 teamInfo,Army of Darkness,"Amherst, Massachusetts",,,
 0,Drew Weisgerber
@@ -58,31 +84,30 @@ teamInfo,Swinging Monks,"Poughkeepsie, New York",https://www.instagram.com/swing
 54,Jackson Chidiac
 91,Max Andelman
 b,r,e,a,k
-Skidmore,5
-teamInfo,Wombats,"Saratoga Springs, New York",,,
-0,Andrew Doyle
-0,Everett Armstrong
-0,Kiril Volkov
-0,Rafael  Mendez
-0,Tomas  Argote
-5,Mason Ernst
-8,Harry Poglinco
-13,Jonah Levy
-16,Declan Lloyd
-20,Abraham Baer-Benson
-22,Taylor  LeClair
-23,Mateo Edwards
-24,Locke Robinson
-26,Soren Bertucci-Miller
-32,Heiki Kuhrt
-42,Brian Newton
-50,Emmett Doty
-62,Edward Pole
-63,Benjamin Edgerton
-64,Henry Dean
-66,Seth Tremper
-74,Gordon Sather
-88,Peter Landis
+Villanova,9
+teamInfo,Main Line Ultimate,"Villanova, Pennsylvania",http://villanovaultimate.weebly.com,,https://twitter.com/VUMainLine
+0,Noah Cady
+0,Spencer Park
+2,Nicholas Guenther
+4,David Pinkowsky
+6,Tommy Cruz
+8,Nathanael Kassahun
+9,Joshua Buck
+11,Ethan Lewis
+13,Atticus Ellis
+15,Thomas Klauer
+16,Marc Cannella
+18,Zachary Mulhern
+20,Joseph Kalamarides
+21,Jordan Humdy
+22,Zachary Wagner-Pizza
+26,Nicholas Guillet
+28,AJ Olczak
+33,Max Allen
+39,Jack Tobin
+77,Amir Avdicevic
+82,Jacob Cibilich
+94,Quinn Songer
 b,r,e,a,k
 Dickinson,8
 teamInfo,Dumptrucks,"Carlisle, Pennsylvania",,,
@@ -112,31 +137,6 @@ teamInfo,Dumptrucks,"Carlisle, Pennsylvania",,,
 19,Henry Hunsdorfer
 20,Elio Baez-Estersohn
 21,Hollin Barth
-b,r,e,a,k
-Villanova,9
-teamInfo,Main Line Ultimate,"Villanova, Pennsylvania",http://villanovaultimate.weebly.com,,https://twitter.com/VUMainLine
-0,Noah Cady
-0,Spencer Park
-2,Nicholas Guenther
-4,David Pinkowsky
-6,Tommy Cruz
-8,Nathanael Kassahun
-9,Joshua Buck
-11,Ethan Lewis
-13,Atticus Ellis
-15,Thomas Klauer
-16,Marc Cannella
-18,Zachary Mulhern
-20,Joseph Kalamarides
-21,Jordan Humdy
-22,Zachary Wagner-Pizza
-26,Nicholas Guillet
-28,AJ Olczak
-33,Max Allen
-39,Jack Tobin
-77,Amir Avdicevic
-82,Jacob Cibilich
-94,Quinn Songer
 b,r,e,a,k
 SUNY-Cortland,2
 teamInfo,Team Rocket,"Cortland, New York",,,https://twitter.com/cortlandulti?s=21
@@ -415,19 +415,6 @@ teamInfo,Siena Saints,"Albany, New York",,,
 44,Sean Donnelly
 84,Russell Silberger
 b,r,e,a,k
-Northeastern (C),14
-teamInfo,Salty C Dogs,"Boston, Massachusetts",https://web.northeastern.edu/clubsports/ultimate-frisbee-m/,https://www.facebook.com/NUMensUltimate,https://twitter.com/NUMensUltimate
-0,Arjun Vellimedu
-0,Benjamin Seidman
-0,Corbin Seidel
-0,Kevin Leong
-0,Adam Soell
-0,Ray Min
-0,Zachary Ryan
-16,Aidan Hwang
-49,Addison Hamn
-92,Patrick Baker
-b,r,e,a,k
 Lehigh (B),15
 teamInfo,Lehigh-B,"Bethlehem, Pennsylvania",,,https://twitter.com/BehighUnited
 0,Ari Weinstein
@@ -447,6 +434,19 @@ teamInfo,Lehigh-B,"Bethlehem, Pennsylvania",,,https://twitter.com/BehighUnited
 88,Nate Goren
 92,Jacob Cole
 b,r,e,a,k
+Northeastern (C),14
+teamInfo,Salty C Dogs,"Boston, Massachusetts",https://web.northeastern.edu/clubsports/ultimate-frisbee-m/,https://www.facebook.com/NUMensUltimate,https://twitter.com/NUMensUltimate
+0,Arjun Vellimedu
+0,Benjamin Seidman
+0,Corbin Seidel
+0,Kevin Leong
+0,Adam Soell
+0,Ray Min
+0,Zachary Ryan
+16,Aidan Hwang
+49,Addison Hamn
+92,Patrick Baker
+b,r,e,a,k
 New Jersey Tech,22
 teamInfo,Highlanders,"Newark, New Jersey",,,
 03,Keith Anderson
@@ -465,7 +465,7 @@ s,t,a,g,e,s
 pools,Pool
 pool,Pool A
 Amherst,Villanova,0,0,"03/28/2026, 11:00",Pool A,Scheduled
-Skidmore,Dickinson,0,0,"03/28/2026, 11:00",Pool A,Scheduled
+Skidmore,Dickinson,10,4,"03/28/2026, 11:00",Pool A,Final
 Amherst,Skidmore,0,0,"03/28/2026, 12:30",Pool A,Scheduled
 Vassar,Dickinson,0,0,"03/28/2026, 12:30",Pool A,Scheduled
 Dickinson,Villanova,0,0,"03/28/2026, 14:00",Pool A,Scheduled
@@ -500,7 +500,7 @@ Central Connecticut State,Stevens Tech,0,0,"03/28/2026, 15:20",Pool E,Scheduled
 pool,Pool F
 Lehigh (B),New Jersey Tech,10,7,"03/28/2026, 12:00",Pool F,Final
 Northeastern (C),New Jersey Tech,11,4,"03/28/2026, 13:40",Pool F,Final
-Northeastern (C),Lehigh (B),0,0,"03/28/2026, 15:20",Pool F,Scheduled
+Northeastern (C),Lehigh (B),5,9,"03/28/2026, 15:20",Pool F,Final
 b,r,e,a,k
 clusters,Saturday CO
 b,r,e,a,k
