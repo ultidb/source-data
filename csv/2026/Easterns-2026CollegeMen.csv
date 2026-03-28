@@ -261,6 +261,38 @@ b,r,e,a,k
 Carleton College,3
 teamInfo,,,,,
 b,r,e,a,k
+Penn State,14
+teamInfo,Spank,"University Park, Pennsylvania",http://clubs.psu.edu/up/ultimate/,,https://twitter.com/spank_ultimate
+0,Aaron Crothers
+0,Carlo Vanni
+0,Evan Dagle
+0,Javier Gonzalez-Recober
+0,Jeremy Mack
+0,Nolan McClintic
+0,Oliver Saunders
+0,Tyler Baglieri
+3,Nathaniel Hodges
+4,Zander Sachs
+4,Connor Matheson
+5,Nicholas Lutz
+5,Ryan Connor
+6,Enrique Montalvo
+10,John Carbone
+10,Kelvin Lei
+12,Aman Guruacharya
+14,Ethan Pigeon
+18,Raffi Cannon
+21,Evan Lutz
+24,Doug Hoyer
+27,Logan Piercy
+28,Dylan Connor
+33,Drew Loughnane
+34,Becker Joseph
+48,Ethan Dunmire
+69,John Williams
+81,Nicholas Marinelli
+93,CHIN YU LIAO
+b,r,e,a,k
 Oregon State,6
 teamInfo,Beavers,"Corvallis, Oregon",,https://www.facebook.com/osubeaversultimatedisc,https://twitter.com/OSU_ultimate
 0,Andrew Thoennes
@@ -295,38 +327,6 @@ teamInfo,Beavers,"Corvallis, Oregon",,https://www.facebook.com/osubeaversultimat
 b,r,e,a,k
 Massachusetts,11
 teamInfo,,,,,
-b,r,e,a,k
-Penn State,14
-teamInfo,Spank,"University Park, Pennsylvania",http://clubs.psu.edu/up/ultimate/,,https://twitter.com/spank_ultimate
-0,Aaron Crothers
-0,Carlo Vanni
-0,Evan Dagle
-0,Javier Gonzalez-Recober
-0,Jeremy Mack
-0,Nolan McClintic
-0,Oliver Saunders
-0,Tyler Baglieri
-3,Nathaniel Hodges
-4,Zander Sachs
-4,Connor Matheson
-5,Nicholas Lutz
-5,Ryan Connor
-6,Enrique Montalvo
-10,John Carbone
-10,Kelvin Lei
-12,Aman Guruacharya
-14,Ethan Pigeon
-18,Raffi Cannon
-21,Evan Lutz
-24,Doug Hoyer
-27,Logan Piercy
-28,Dylan Connor
-33,Drew Loughnane
-34,Becker Joseph
-48,Ethan Dunmire
-69,John Williams
-81,Nicholas Marinelli
-93,CHIN YU LIAO
 b,r,e,a,k
 Tennessee,19
 teamInfo,Tennessee,"Knoxville, Tennessee",http://web.utk.edu/~ultimate/,http://facebook.com/TennUltimateM/,https://twitter.com/TennUltimateM
@@ -516,7 +516,7 @@ Northeastern,North Carolina-Wilmington,5,13,"03/28/2026, 12:30",Pool A,Final
 Western Washington,Pittsburgh,11,12,"03/28/2026, 12:30",Pool A,Final
 Colorado,Northeastern,0,0,"03/28/2026, 14:15",Pool A,Scheduled
 Western Washington,North Carolina-Wilmington,6,13,"03/28/2026, 14:15",Pool A,Final
-Colorado,Western Washington,0,0,"03/28/2026, 16:00",Pool A,Scheduled
+Colorado,Western Washington,13,10,"03/28/2026, 16:00",Pool A,Final
 Pittsburgh,North Carolina-Wilmington,12,13,"03/28/2026, 16:00",Pool A,Final
 pool,Pool B
 Oregon,North Carolina State,13,6,"03/28/2026, 09:00",Pool B,Final
@@ -538,7 +538,7 @@ Carleton College,Tennessee,13,1,"03/28/2026, 12:30",Pool C,Final
 Oregon State,Massachusetts,12,9,"03/28/2026, 12:30",Pool C,Final
 Massachusetts,Penn State,9,8,"03/28/2026, 14:15",Pool C,Final
 Carleton College,Oregon State,13,5,"03/28/2026, 14:15",Pool C,Final
-Oregon State,Penn State,0,0,"03/28/2026, 16:00",Pool C,Scheduled
+Oregon State,Penn State,11,13,"03/28/2026, 16:00",Pool C,Final
 Massachusetts,Tennessee,13,5,"03/28/2026, 16:00",Pool C,Final
 pool,Pool D
 Cal Poly-SLO,Georgia,13,2,"03/28/2026, 09:00",Pool D,Final
@@ -554,16 +554,21 @@ Wisconsin,Georgia,13,1,"03/28/2026, 16:00",Pool D,Final
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,Championship Bracket
+Penn State,North Carolina,0,0,"03/29/2026, 09:00",Quarterfinals,Scheduled
+Carleton College,Cal Poly-SLO,0,0,"03/29/2026, 09:00",Quarterfinals,Scheduled
 bracket,3rd Place
 bracket,5th Place 
 bracket,7th Place
 b,r,e,a,k
 brackets,9th Place Bracket
 bracket,9th Place
+Massachusetts,Vermont,0,0,"03/29/2026, 09:00",9th Place Quarters,Scheduled
+Oregon State,Wisconsin,0,0,"03/29/2026, 09:00",9th Place Quarters,Scheduled
 bracket,11th Place
 bracket,13th Place 
 bracket,15th Place
 b,r,e,a,k
 pools,Sunday Consolation Pool
 pool,Pool E
+Tennessee,Georgia,0,0,"03/29/2026, 13:00",Pool E,Scheduled
 b,r,e,a,k
