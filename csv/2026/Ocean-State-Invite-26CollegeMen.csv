@@ -28,6 +28,25 @@ teamInfo,Tufts B,"Medford, Massachusetts",www.tuftsmensultimate.org,,
 41,Maddox Weisz
 99,Zach Snyder
 b,r,e,a,k
+Brown (B),4
+teamInfo,Brown - B,"Providence, Rhode Island",,,https://twitter.com/PFunkUltimate
+0,Alex Yang
+0,Ben Pomeranz
+0,Ethan Chen
+0,Gordon Chen
+0,Ian Whitehurst
+0,Ibrahim Mohammed
+0,Jonathan Metzler
+0,Luc Bastien
+0,Maximilian Koehler
+0,Nathaniel Ho
+0,Oscar King
+0,Phillip Meader Yetter
+0,Takeru Katayama
+1,Owen Harris
+34,Muyu Ye
+76,Raymond Kao
+b,r,e,a,k
 Bates,1
 teamInfo,Orange Whip,"Lewiston, Maine",,,https://twitter.com/bateso_whip?lang=en
 0,Haskel McKee-Seegal
@@ -52,25 +71,6 @@ teamInfo,Orange Whip,"Lewiston, Maine",,,https://twitter.com/bateso_whip?lang=en
 28,Dillon Evans
 71,Benjamin Sparks
 72,Aidan Stark-Chessa
-b,r,e,a,k
-Brown (B),4
-teamInfo,Brown - B,"Providence, Rhode Island",,,https://twitter.com/PFunkUltimate
-0,Alex Yang
-0,Ben Pomeranz
-0,Ethan Chen
-0,Gordon Chen
-0,Ian Whitehurst
-0,Ibrahim Mohammed
-0,Jonathan Metzler
-0,Luc Bastien
-0,Maximilian Koehler
-0,Nathaniel Ho
-0,Oscar King
-0,Phillip Meader Yetter
-0,Takeru Katayama
-1,Owen Harris
-34,Muyu Ye
-76,Raymond Kao
 b,r,e,a,k
 Western New England,8
 teamInfo,Golden Bears,"Springfield, Massachusetts",,,
@@ -110,28 +110,6 @@ teamInfo,Snositi,"Orono, Maine",https://www.instagram.com/umosnositi/,,
 35,Levi Pelletier
 66,Jackson Dubois
 b,r,e,a,k
-Worcester Polytech,6
-teamInfo,Whisper,"Worcester, Massachusetts",,,
-0,Aman Siddiqi
-0,Austin Zold
-0,Benjamin Haugsjaahabink
-0,Joshua Dunlap
-0,Max Jansen
-0,Nathaniel Powers
-0,Robbie Galpern-Levin
-0,Spencer Mann
-0,Jake Burke
-0,Joe Molder
-0,Tyler Gillman
-2,Brandon Gu
-3,John Hall
-6,Davi Paiva
-10,Dhaniel Ramos
-13,Tristan Suplis
-16,Eric Impink
-29,Blake Burkey
-81,Cole Bennett
-b,r,e,a,k
 Rhode Island,2
 teamInfo,RIUT,"Kingston, Rhode Island",,https://www.facebook.com/MensRIUT/,https://twitter.com/mensriut?lang=en
 0,Adam Ross
@@ -153,6 +131,28 @@ teamInfo,RIUT,"Kingston, Rhode Island",,https://www.facebook.com/MensRIUT/,https
 15,Evan Trombley
 33,Chase Flint
 72,Aidan Mahoney
+b,r,e,a,k
+Worcester Polytech,6
+teamInfo,Whisper,"Worcester, Massachusetts",,,
+0,Aman Siddiqi
+0,Austin Zold
+0,Benjamin Haugsjaahabink
+0,Joshua Dunlap
+0,Max Jansen
+0,Nathaniel Powers
+0,Robbie Galpern-Levin
+0,Spencer Mann
+0,Jake Burke
+0,Joe Molder
+0,Tyler Gillman
+2,Brandon Gu
+3,John Hall
+6,Davi Paiva
+10,Dhaniel Ramos
+13,Tristan Suplis
+16,Eric Impink
+29,Blake Burkey
+81,Cole Bennett
 b,r,e,a,k
 Wentworth,7
 teamInfo,Concrete Jungle,"Cambridge, Massachusetts",,,
@@ -178,19 +178,19 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Saturday Pool Play
 pool,Pool A
-Bates,Tufts (B),4,11,"03/28/2026, 09:00",Pool A,Scheduled
-Brown (B),Western New England,9,6,"03/28/2026, 09:00",Pool A,Scheduled
-Bates,Western New England,9,5,"03/28/2026, 10:30",Pool A,Scheduled
-Brown (B),Tufts (B),6,8,"03/28/2026, 10:30",Pool A,Scheduled
-Bates,Brown (B),9,10,"03/28/2026, 12:00",Pool A,Scheduled
-Tufts (B),Western New England,12,5,"03/28/2026, 12:00",Pool A,Scheduled
+Bates,Tufts (B),4,11,"03/28/2026, 09:00",Pool A,Final
+Brown (B),Western New England,9,6,"03/28/2026, 09:00",Pool A,Final
+Bates,Western New England,9,5,"03/28/2026, 10:30",Pool A,Final
+Brown (B),Tufts (B),6,8,"03/28/2026, 10:30",Pool A,Final
+Bates,Brown (B),9,10,"03/28/2026, 12:00",Pool A,Final
+Tufts (B),Western New England,12,5,"03/28/2026, 12:00",Pool A,Final
 pool,Pool B
-Rhode Island,Worcester Polytech,8,5,"03/28/2026, 09:00",Pool B,Scheduled
+Rhode Island,Worcester Polytech,8,5,"03/28/2026, 09:00",Pool B,Final
 Maine,Wentworth,11,4,"03/28/2026, 09:00",Pool B,Final
-Rhode Island,Wentworth,11,7,"03/28/2026, 10:30",Pool B,Scheduled
-Maine,Worcester Polytech,9,4,"03/28/2026, 10:30",Pool B,Scheduled
-Rhode Island,Maine,11,12,"03/28/2026, 12:00",Pool B,Scheduled
-Worcester Polytech,Wentworth,12,5,"03/28/2026, 12:00",Pool B,Scheduled
+Rhode Island,Wentworth,11,7,"03/28/2026, 10:30",Pool B,Final
+Maine,Worcester Polytech,9,4,"03/28/2026, 10:30",Pool B,Final
+Rhode Island,Maine,11,12,"03/28/2026, 12:00",Pool B,Final
+Worcester Polytech,Wentworth,12,5,"03/28/2026, 12:00",Pool B,Final
 b,r,e,a,k
 brackets,Bracket Play
 bracket,1st Place
@@ -199,4 +199,9 @@ bracket,5th Place
 bracket,7th Place
 b,r,e,a,k
 clusters,Saturday Crossover
+cluster,Bracket Seeding
+Tufts (B),Maine,0,0,"03/28/2026, 13:30",,Scheduled
+Brown (B),Rhode Island,0,0,"03/28/2026, 13:30",,Scheduled
+Bates,Worcester Polytech,0,0,"03/28/2026, 13:30",,Scheduled
+Western New England,Wentworth,0,0,"03/28/2026, 13:30",,Scheduled
 b,r,e,a,k
