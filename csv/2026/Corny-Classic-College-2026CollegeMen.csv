@@ -207,18 +207,6 @@ teamInfo,Dirty Birds,"Daytona Beach, Florida",,,
 48,Solon Marshall
 81,Elizabeth Krueger
 b,r,e,a,k
-Wheaton (Illinois),21
-teamInfo,Illinois) (Mastodon,"Wheaton, Illinois",https://www.wheatonmastodon.com,https://m.facebook.com/WheatonMastodonUltimate,https://twitter.com/wheatonmastodon
-02,Forest Hines
-07,Hudson Martin
-09,Benjamin Adamson
-10,Daniel Yi
-12,DJ Swaner
-14,Isaac Long
-17,Kaelan Hou
-18,Anthony Dao
-20,William Acker
-b,r,e,a,k
 Rose-Hulman,15
 teamInfo,Tribe,"Atlanta, Georgia",,,
 0,Dante Santaniello
@@ -252,21 +240,17 @@ teamInfo,Tribe,"Atlanta, Georgia",,,
 14,Marcus Hawley
 42,Connor Prather
 b,r,e,a,k
-Michigan (B),7
-teamInfo,South Carolina,"Columbia, South Carolina",,https://www.instagram.com/dirtybirdsultimate,https://www.twitter.com/DirtyBirdsUSC
-0,Metehan Tarhan
-0,Ryan Hays
-7,Caspar Tarr
-17,Drayson Macdonald
-18,Cole Glenn
-20,Nathan Skinner
-39,Hayden Fulcher
-44,Zion Payne
-46,Christian  Wolff
-66,George Cerimele
-75,Logan Eidell
-97,Morgan Ramirez
-98,Kaden Moracco
+Wheaton (Illinois),21
+teamInfo,Illinois) (Mastodon,"Wheaton, Illinois",https://www.wheatonmastodon.com,https://m.facebook.com/WheatonMastodonUltimate,https://twitter.com/wheatonmastodon
+02,Forest Hines
+07,Hudson Martin
+09,Benjamin Adamson
+10,Daniel Yi
+12,DJ Swaner
+14,Isaac Long
+17,Kaelan Hou
+18,Anthony Dao
+20,William Acker
 b,r,e,a,k
 Central Michigan,11
 teamInfo,George Washington Men’s Club Ultimate B,"Washington, D.C., District of Columbia",,,https://twitter.com/GDub_B
@@ -283,6 +267,22 @@ teamInfo,George Washington Men’s Club Ultimate B,"Washington, D.C., District o
 48,Solomon Bernstein
 64,Andrew McCoy
 91,Isaac Adler
+b,r,e,a,k
+Michigan (B),7
+teamInfo,South Carolina,"Columbia, South Carolina",,https://www.instagram.com/dirtybirdsultimate,https://www.twitter.com/DirtyBirdsUSC
+0,Metehan Tarhan
+0,Ryan Hays
+7,Caspar Tarr
+17,Drayson Macdonald
+18,Cole Glenn
+20,Nathan Skinner
+39,Hayden Fulcher
+44,Zion Payne
+46,Christian  Wolff
+66,George Cerimele
+75,Logan Eidell
+97,Morgan Ramirez
+98,Kaden Moracco
 b,r,e,a,k
 Valparaiso,17
 teamInfo,,,,,
@@ -368,34 +368,43 @@ Kenyon,Xavier,12,6,"03/28/2026, 09:30",Power Pool,Final
 Grand Valley,Xavier,13,7,"03/28/2026, 11:15",Power Pool,Final
 Kenyon,Illinois (B),13,6,"03/28/2026, 11:15",Power Pool,Final
 Grand Valley,Kenyon,10,13,"03/28/2026, 13:00",Power Pool,Final
-Illinois (B),Xavier,0,0,"03/28/2026, 13:00",Power Pool,Scheduled
+Illinois (B),Xavier,13,7,"03/28/2026, 13:00",Power Pool,Final
 pool,Pool A
 Ball State,Knox,13,3,"03/28/2026, 09:30",Pool A,Final
 Michigan State (B),Illinois (C),13,2,"03/28/2026, 09:30",Pool A,Final
 Ball State,Illinois (C),11,4,"03/28/2026, 11:15",Pool A,Final
 Michigan State (B),Knox,13,4,"03/28/2026, 11:15",Pool A,Final
 Ball State,Michigan State (B),7,9,"03/28/2026, 13:00",Pool A,Final
-Knox,Illinois (C),0,0,"03/28/2026, 13:00",Pool A,Scheduled
+Knox,Illinois (C),4,10,"03/28/2026, 13:00",Pool A,Final
 pool,Pool B
 Grace,Rose-Hulman,13,9,"03/28/2026, 09:30",Pool B,Final
 Purdue (B),Wheaton (Illinois),13,5,"03/28/2026, 09:30",Pool B,Final
 Grace,Wheaton (Illinois),13,9,"03/28/2026, 11:15",Pool B,Final
 Purdue (B),Rose-Hulman,13,2,"03/28/2026, 11:15",Pool B,Final
 Grace,Purdue (B),4,13,"03/28/2026, 13:00",Pool B,Final
-Rose-Hulman,Wheaton (Illinois),0,0,"03/28/2026, 13:00",Pool B,Scheduled
+Rose-Hulman,Wheaton (Illinois),13,10,"03/28/2026, 13:00",Pool B,Final
 pool,Pool C
 Michigan (B),Valparaiso,12,6,"03/28/2026, 09:30",Pool C,Final
 Central Michigan,Purdue (C),13,4,"03/28/2026, 09:30",Pool C,Final
 Michigan (B),Purdue (C),13,1,"03/28/2026, 11:15",Pool C,Final
 Central Michigan,Valparaiso,10,7,"03/28/2026, 11:15",Pool C,Final
-Michigan (B),Central Michigan,0,0,"03/28/2026, 13:00",Pool C,Scheduled
-Valparaiso,Purdue (C),0,0,"03/28/2026, 13:00",Pool C,Scheduled
+Michigan (B),Central Michigan,11,12,"03/28/2026, 13:00",Pool C,Final
+Valparaiso,Purdue (C),10,8,"03/28/2026, 13:00",Pool C,Final
 pool,Pool D
 Loyola-Chicago,Notre Dame (B),13,7,"03/28/2026, 09:30",Pool D,Final
 Louisville,Notre Dame (B),12,6,"03/28/2026, 11:15",Pool D,Final
 Louisville,Loyola-Chicago,13,7,"03/28/2026, 13:00",Pool D,Final
 b,r,e,a,k
 clusters,Crossovers
+cluster,1st Prequarters
+Louisville,Ball State,0,0,"03/28/2026, 14:45",,Scheduled
+Central Michigan,Grace,0,0,"03/28/2026, 14:45",,Scheduled
+Purdue (B),Michigan (B),0,0,"03/28/2026, 14:45",,Scheduled
+Michigan State (B),Loyola-Chicago,0,0,"03/28/2026, 14:45",,Scheduled
+cluster,9th Prequarters
+Rose-Hulman,Purdue (C),0,0,"03/28/2026, 14:45",,Scheduled
+Valparaiso,Wheaton (Illinois),0,0,"03/28/2026, 14:45",,Scheduled
+Notre Dame (B),Knox,0,0,"03/28/2026, 14:45",,Scheduled
 b,r,e,a,k
 brackets,Sunday
 bracket,Championship Bracket
