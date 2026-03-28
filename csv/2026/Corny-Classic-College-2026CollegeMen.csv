@@ -164,25 +164,6 @@ teamInfo,Cornland,"Urbana, Illinois",,,
 77,Nicholas Burns
 90,Ryan Courtney
 b,r,e,a,k
-Grace,6
-teamInfo,Dirty Birds,"Daytona Beach, Florida",,,
-0,Eldon Crossett
-0,Jacob Johnson
-0,Xander Klein
-1,Josh Warner
-4,Grant Michael Cashin Jr
-7,Rumi Barsotti
-11,Carl Dahlberg
-12,Aaron Watt
-13,Matthew Daly
-17,Emily McGhee
-19,Cooper Glasgow
-20,Andrew Schmeiser
-40,Sean Nguyen
-42,Seth Tracy
-48,Solon Marshall
-81,Elizabeth Krueger
-b,r,e,a,k
 Purdue (B),10
 teamInfo,High Point University Bagheera,"High Point, North Carolina",,,
 0,Alexander Wallace
@@ -207,17 +188,24 @@ teamInfo,High Point University Bagheera,"High Point, North Carolina",,,
 12,Jack O'Donnell
 37,Sam Pomeroy
 b,r,e,a,k
-Wheaton (Illinois),21
-teamInfo,Illinois) (Mastodon,"Wheaton, Illinois",https://www.wheatonmastodon.com,https://m.facebook.com/WheatonMastodonUltimate,https://twitter.com/wheatonmastodon
-02,Forest Hines
-07,Hudson Martin
-09,Benjamin Adamson
-10,Daniel Yi
-12,DJ Swaner
-14,Isaac Long
-17,Kaelan Hou
-18,Anthony Dao
-20,William Acker
+Grace,6
+teamInfo,Dirty Birds,"Daytona Beach, Florida",,,
+0,Eldon Crossett
+0,Jacob Johnson
+0,Xander Klein
+1,Josh Warner
+4,Grant Michael Cashin Jr
+7,Rumi Barsotti
+11,Carl Dahlberg
+12,Aaron Watt
+13,Matthew Daly
+17,Emily McGhee
+19,Cooper Glasgow
+20,Andrew Schmeiser
+40,Sean Nguyen
+42,Seth Tracy
+48,Solon Marshall
+81,Elizabeth Krueger
 b,r,e,a,k
 Rose-Hulman,15
 teamInfo,Tribe,"Atlanta, Georgia",,,
@@ -251,6 +239,18 @@ teamInfo,Tribe,"Atlanta, Georgia",,,
 13,Aidan Pietruszka
 14,Marcus Hawley
 42,Connor Prather
+b,r,e,a,k
+Wheaton (Illinois),21
+teamInfo,Illinois) (Mastodon,"Wheaton, Illinois",https://www.wheatonmastodon.com,https://m.facebook.com/WheatonMastodonUltimate,https://twitter.com/wheatonmastodon
+02,Forest Hines
+07,Hudson Martin
+09,Benjamin Adamson
+10,Daniel Yi
+12,DJ Swaner
+14,Isaac Long
+17,Kaelan Hou
+18,Anthony Dao
+20,William Acker
 b,r,e,a,k
 Central Michigan,11
 teamInfo,George Washington Men’s Club Ultimate B,"Washington, D.C., District of Columbia",,,https://twitter.com/GDub_B
@@ -314,9 +314,6 @@ teamInfo,Beastern,"Boston, Massachusetts",http://www.ultimate.neu.edu,https://ww
 37,Philip Warren
 78,Zach D'Uva
 b,r,e,a,k
-Louisville,8
-teamInfo,,,,,
-b,r,e,a,k
 Loyola-Chicago,9
 teamInfo,Dry Bones,"Johnson City, Tennessee",,,
 0,John Lea
@@ -335,6 +332,9 @@ teamInfo,Dry Bones,"Johnson City, Tennessee",,,
 27,Asher Williams
 86,Noah  Landry
 99,Elijah Bragg
+b,r,e,a,k
+Louisville,8
+teamInfo,,,,,
 b,r,e,a,k
 Notre Dame (B),14
 teamInfo,George Washington Men’s Club Ultimate,"Washington, District of Columbia",,,https://twitter.com/Gdub_Ultimate
@@ -378,7 +378,7 @@ Ball State,Michigan State (B),0,0,"03/28/2026, 13:00",Pool A,Scheduled
 Knox,Illinois (C),0,0,"03/28/2026, 13:00",Pool A,Scheduled
 pool,Pool B
 Grace,Rose-Hulman,13,9,"03/28/2026, 09:30",Pool B,Final
-Purdue (B),Wheaton (Illinois),13,5,"03/28/2026, 09:30",Pool B,Scheduled
+Purdue (B),Wheaton (Illinois),13,5,"03/28/2026, 09:30",Pool B,Final
 Grace,Wheaton (Illinois),0,0,"03/28/2026, 11:15",Pool B,Scheduled
 Purdue (B),Rose-Hulman,0,0,"03/28/2026, 11:15",Pool B,Scheduled
 Grace,Purdue (B),0,0,"03/28/2026, 13:00",Pool B,Scheduled
@@ -391,7 +391,7 @@ Central Michigan,Valparaiso,0,0,"03/28/2026, 11:15",Pool C,Scheduled
 Michigan (B),Central Michigan,0,0,"03/28/2026, 13:00",Pool C,Scheduled
 Valparaiso,Purdue (C),0,0,"03/28/2026, 13:00",Pool C,Scheduled
 pool,Pool D
-Loyola-Chicago,Notre Dame (B),0,0,"03/28/2026, 09:30",Pool D,Scheduled
+Loyola-Chicago,Notre Dame (B),13,7,"03/28/2026, 09:30",Pool D,Final
 Louisville,Notre Dame (B),0,0,"03/28/2026, 11:15",Pool D,Scheduled
 Louisville,Loyola-Chicago,0,0,"03/28/2026, 13:00",Pool D,Scheduled
 b,r,e,a,k
