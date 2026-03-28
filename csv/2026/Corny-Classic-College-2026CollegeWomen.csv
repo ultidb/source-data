@@ -4,10 +4,10 @@ https://play.usaultimate.org/events/Corny-Classic-College-2026/schedule/Women/Co
 Michigan State,1
 teamInfo,,,,,
 b,r,e,a,k
-Knox,8
+Notre Dame (B),11
 teamInfo,,,,,
 b,r,e,a,k
-Notre Dame (B),11
+Knox,8
 teamInfo,,,,,
 b,r,e,a,k
 Missouri,2
@@ -51,27 +51,6 @@ teamInfo,Mamba,"Champaign-Urbana, Illinois",https://www.illinoismenace.com/,http
 64,Anna Roberts
 70,Nicole Grudzien
 b,r,e,a,k
-Truman State,6
-teamInfo,TSUnami Women's Ultimate,"Kirksville, Missouri",http://tsunamiultimate.weebly.com/,https://www.facebook.com/tsunamiultimate/,https://twitter.com/tsunamiultimate
-0,Adrienne Bacott
-0,Allison Land
-0,Annelise Hahn
-0,Caroline Fry
-0,Cassia McCluskey
-0,Grace Reddekopp
-0,Isabelle Crowell
-0,Jasmin Elwood
-0,Julie-Emilia Pahl
-0,Keeghan Siems
-0,Kennedy Sponseller
-0,Madi Hunter
-0,Micaiah Roth
-0,Raegan  Randall
-0,Sarah Hanson
-0,Sofia Kattentidt
-0,Sophia Lee
-0,Suparna Chintha
-b,r,e,a,k
 Northwestern,3
 teamInfo,Claw,"Evanston, Illinois",,https://www.facebook.com/NUclaw,https://twitter.com/NUclaw_
 0,Addison Stover
@@ -98,6 +77,27 @@ teamInfo,Claw,"Evanston, Illinois",,https://www.facebook.com/NUclaw,https://twit
 0,Yang Qian
 0,Yaxi Chen
 0,Zora Warren
+b,r,e,a,k
+Truman State,6
+teamInfo,TSUnami Women's Ultimate,"Kirksville, Missouri",http://tsunamiultimate.weebly.com/,https://www.facebook.com/tsunamiultimate/,https://twitter.com/tsunamiultimate
+0,Adrienne Bacott
+0,Allison Land
+0,Annelise Hahn
+0,Caroline Fry
+0,Cassia McCluskey
+0,Grace Reddekopp
+0,Isabelle Crowell
+0,Jasmin Elwood
+0,Julie-Emilia Pahl
+0,Keeghan Siems
+0,Kennedy Sponseller
+0,Madi Hunter
+0,Micaiah Roth
+0,Raegan  Randall
+0,Sarah Hanson
+0,Sofia Kattentidt
+0,Sophia Lee
+0,Suparna Chintha
 b,r,e,a,k
 North Park,9
 teamInfo,Allihopa,"Chicago, Illinois",http://www.instagram.com/npuallihopa/,,
@@ -193,15 +193,15 @@ pools,Pool Play
 pool,Pool A
 Michigan State,Notre Dame (B),13,1,"03/28/2026, 10:30",Pool A,Final
 Michigan State,Knox,13,1,"03/28/2026, 12:00",Pool A,Final
-Knox,Notre Dame (B),0,0,"03/28/2026, 13:30",Pool A,Scheduled
+Knox,Notre Dame (B),6,9,"03/28/2026, 13:30",Pool A,Final
 pool,Pool B
 Missouri,Illinois (B),13,0,"03/28/2026, 10:30",Pool B,Final
 Loyola-Chicago,Illinois (B),10,1,"03/28/2026, 12:00",Pool B,Final
-Missouri,Loyola-Chicago,6,2,"03/28/2026, 13:30",Pool B,In Progress
+Missouri,Loyola-Chicago,10,3,"03/28/2026, 13:30",Pool B,Final
 pool,Pool C
 Truman State,North Park,13,1,"03/28/2026, 10:30",Pool C,Final
 Northwestern,North Park,12,1,"03/28/2026, 12:00",Pool C,Final
-Northwestern,Truman State,0,0,"03/28/2026, 13:30",Pool C,Scheduled
+Northwestern,Truman State,8,6,"03/28/2026, 13:30",Pool C,Final
 pool,Pool D
 Michigan (B),Washington University (B),12,5,"03/28/2026, 10:30",Pool D,Final
 Chicago,Washington University (B),13,4,"03/28/2026, 12:00",Pool D,Final
@@ -211,9 +211,14 @@ pools,Menace Pool
 pool,Pool E
 Illinois,Knox,10,3,"03/28/2026, 10:30",Pool E,Scheduled
 Illinois,Missouri,7,4,"03/28/2026, 12:00",Pool E,Final
-Illinois,Michigan State,0,0,"03/28/2026, 13:30",Pool E,Scheduled
+Illinois,Michigan State,6,10,"03/28/2026, 13:30",Pool E,Scheduled
 b,r,e,a,k
 clusters,Crossovers
+cluster,Prequarters
+Truman State,Knox,0,0,"03/28/2026, 15:00",,Scheduled
+Notre Dame (B),North Park,0,0,"03/28/2026, 15:00",,Scheduled
+cluster,1st Crossovers
+Michigan State,Northwestern,0,0,"03/28/2026, 15:00",,Scheduled
 b,r,e,a,k
 brackets,Sunday
 bracket,Championship Bracket
