@@ -1,35 +1,6 @@
 Easterns 2026,College - Men ,28,3,2026
 Wilmington,NC,2026-03-28,2026-03-29
 https://play.usaultimate.org/events/Easterns-2026/schedule/Men/CollegeMen/
-North Carolina-Wilmington,17
-teamInfo,Zoodisc,"Amherst, Massachusetts",,https://www.facebook.com/UMassUltimate/,https://twitter.com/UMassUltimateM
-coaches,Sam Losen,Marshall Lian
-0,Cameron Levine
-0,Daniil Koval
-0,Elijah Nathman
-0,Fen deNiord
-0,Roger Beckel
-0,Samuel McCrory
-0,Theo Strauss
-1,Nima Lhamo
-3,Giovanni Gerber
-4,Ethan Lieman
-6,Roan Dunkerley
-7,Ian Buchanan
-8,Tomo Liou
-10,Wyatt Kellman
-11,Charlie Norris
-12,Wesley Killough-Hill
-15,Jonah Stang-Osborne
-21,Mason Stone
-21,Maxwell Schneider
-22,Tyler Feeney
-27,Caelan McSweeney
-37,Gavin Abrahamsson
-43,Ethan Schiff
-63,Jonathan Coombs
-88,Griffin Gee
-b,r,e,a,k
 Colorado,1
 teamInfo,Mamabird,"Boulder, Colorado",http://www.mamabird.com,https://www.facebook.com/University-of-Colorado-Mamabird-361160030582581,https://twitter.com/CUMamabird
 coaches,Nathan Buchholz,Jonathan Nethercutt,Lisa Pitcaithley
@@ -63,6 +34,35 @@ coaches,Nathan Buchholz,Jonathan Nethercutt,Lisa Pitcaithley
 66,Ryan Shigley
 84,Noah Logan
 91,Joe Michaud
+b,r,e,a,k
+North Carolina-Wilmington,17
+teamInfo,Zoodisc,"Amherst, Massachusetts",,https://www.facebook.com/UMassUltimate/,https://twitter.com/UMassUltimateM
+coaches,Sam Losen,Marshall Lian
+0,Cameron Levine
+0,Daniil Koval
+0,Elijah Nathman
+0,Fen deNiord
+0,Roger Beckel
+0,Samuel McCrory
+0,Theo Strauss
+1,Nima Lhamo
+3,Giovanni Gerber
+4,Ethan Lieman
+6,Roan Dunkerley
+7,Ian Buchanan
+8,Tomo Liou
+10,Wyatt Kellman
+11,Charlie Norris
+12,Wesley Killough-Hill
+15,Jonah Stang-Osborne
+21,Mason Stone
+21,Maxwell Schneider
+22,Tyler Feeney
+27,Caelan McSweeney
+37,Gavin Abrahamsson
+43,Ethan Schiff
+63,Jonathan Coombs
+88,Griffin Gee
 b,r,e,a,k
 Pittsburgh,9
 teamInfo,TUFF,"Austin, Texas",https://texasultimatefrisbee.weebly.com/,https://www.facebook.com/TexasUltimate,https://twitter.com/texas__tuff/
@@ -222,9 +222,6 @@ coaches,Avery Johnson,Ted Schewe
 62,Jacob Ho
 73,Seth Flikke
 b,r,e,a,k
-Texas,15
-teamInfo,,,,,
-b,r,e,a,k
 Georgia Tech,10
 teamInfo,Chill,"Burlington, Vermont",,https://www.facebook.com/Team.Chill.33/,https://twitter.com/team_chill
 0,Bryce Lublin
@@ -254,6 +251,9 @@ teamInfo,Chill,"Burlington, Vermont",,https://www.facebook.com/Team.Chill.33/,ht
 28,Leo Sarandos
 43,Vance Mader
 82,Declan Kervick
+b,r,e,a,k
+Texas,15
+teamInfo,,,,,
 b,r,e,a,k
 North Carolina State,18
 teamInfo,,,,,
@@ -514,7 +514,7 @@ Colorado,Pittsburgh,13,8,"03/28/2026, 10:45",Pool A,Final
 Western Washington,Northeastern,11,9,"03/28/2026, 10:45",Pool A,Final
 Northeastern,North Carolina-Wilmington,5,13,"03/28/2026, 12:30",Pool A,Final
 Western Washington,Pittsburgh,11,12,"03/28/2026, 12:30",Pool A,Final
-Colorado,Northeastern,0,0,"03/28/2026, 14:15",Pool A,Scheduled
+Colorado,Northeastern,13,6,"03/28/2026, 14:15",Pool A,Final
 Western Washington,North Carolina-Wilmington,6,13,"03/28/2026, 14:15",Pool A,Final
 Colorado,Western Washington,13,10,"03/28/2026, 16:00",Pool A,Final
 Pittsburgh,North Carolina-Wilmington,12,13,"03/28/2026, 16:00",Pool A,Final
@@ -528,7 +528,7 @@ Brown,Georgia Tech,13,6,"03/28/2026, 12:30",Pool B,Final
 Oregon,Texas,13,6,"03/28/2026, 14:15",Pool B,Final
 Brown,North Carolina State,12,7,"03/28/2026, 14:15",Pool B,Final
 Oregon,Brown,13,11,"03/28/2026, 16:00",Pool B,Final
-Georgia Tech,North Carolina State,0,0,"03/28/2026, 16:00",Pool B,Scheduled
+Georgia Tech,North Carolina State,12,7,"03/28/2026, 16:00",Pool B,Final
 pool,Pool C
 Carleton College,Penn State,12,10,"03/28/2026, 09:00",Pool C,Final
 Oregon State,Tennessee,12,4,"03/28/2026, 09:00",Pool C,Final
@@ -554,21 +554,30 @@ Wisconsin,Georgia,13,1,"03/28/2026, 16:00",Pool D,Final
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,Championship Bracket
+Colorado,Brown,0,0,"03/29/2026, 09:00",Quarterfinals,Scheduled
 Penn State,North Carolina,0,0,"03/29/2026, 09:00",Quarterfinals,Scheduled
 Carleton College,Cal Poly-SLO,0,0,"03/29/2026, 09:00",Quarterfinals,Scheduled
+North Carolina-Wilmington,Oregon,0,0,"03/29/2026, 09:00",Quarterfinals,Scheduled
 bracket,3rd Place
 bracket,5th Place 
 bracket,7th Place
 b,r,e,a,k
 brackets,9th Place Bracket
 bracket,9th Place
+Pittsburgh,Texas,0,0,"03/29/2026, 09:00",9th Place Quarters,Scheduled
 Massachusetts,Vermont,0,0,"03/29/2026, 09:00",9th Place Quarters,Scheduled
 Oregon State,Wisconsin,0,0,"03/29/2026, 09:00",9th Place Quarters,Scheduled
+Western Washington,Georgia Tech,0,0,"03/29/2026, 09:00",9th Place Quarters,Scheduled
 bracket,11th Place
 bracket,13th Place 
 bracket,15th Place
 b,r,e,a,k
 pools,Sunday Consolation Pool
 pool,Pool E
+Northeastern,Tennessee,0,0,"03/29/2026, 09:00",Pool E,Scheduled
+North Carolina State,Georgia,0,0,"03/29/2026, 09:00",Pool E,Scheduled
+Northeastern,Georgia,0,0,"03/29/2026, 11:00",Pool E,Scheduled
+North Carolina State,Tennessee,0,0,"03/29/2026, 11:00",Pool E,Scheduled
+Northeastern,North Carolina State,0,0,"03/29/2026, 13:00",Pool E,Scheduled
 Tennessee,Georgia,0,0,"03/29/2026, 13:00",Pool E,Scheduled
 b,r,e,a,k
