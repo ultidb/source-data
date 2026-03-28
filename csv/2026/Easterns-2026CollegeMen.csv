@@ -222,6 +222,9 @@ coaches,Avery Johnson,Ted Schewe
 62,Jacob Ho
 73,Seth Flikke
 b,r,e,a,k
+Texas,15
+teamInfo,,,,,
+b,r,e,a,k
 Georgia Tech,10
 teamInfo,Chill,"Burlington, Vermont",,https://www.facebook.com/Team.Chill.33/,https://twitter.com/team_chill
 0,Bryce Lublin
@@ -251,9 +254,6 @@ teamInfo,Chill,"Burlington, Vermont",,https://www.facebook.com/Team.Chill.33/,ht
 28,Leo Sarandos
 43,Vance Mader
 82,Declan Kervick
-b,r,e,a,k
-Texas,15
-teamInfo,,,,,
 b,r,e,a,k
 North Carolina State,18
 teamInfo,,,,,
@@ -357,33 +357,6 @@ teamInfo,Tennessee,"Knoxville, Tennessee",http://web.utk.edu/~ultimate/,http://f
 88,Eli Moldenhauer
 91,Asher Daniels
 b,r,e,a,k
-Cal Poly-SLO,4
-teamInfo,SLOCORE,"San Luis Obispo, California",https://sites.google.com/view/slocoreultimate25-26/home,https://www.facebook.com/slocoreultimate/,https://twitter.com/CORE_ultimate
-0,Brandon Howell
-0,Henry Garcia
-0,Oliver Scharer
-0,Oscar Mendelson
-2,Tyler Wolf Williams
-4,Marley Sussman
-5,Alex Yannelli
-8,Max Gade
-11,Ari Pincus
-12,Martin  Doherty
-15,Anton Orme
-16,Dakota Chou
-17,Ian Spick
-17,Nico Laurenson
-24,Jamieson Rear
-25,Hayden King
-26,Benson Cady
-30,Oliver Faase
-32,Kole Ketner
-34,Owen Gresko
-36,Malachi Merriam
-45,Alex Nelson
-64,Micah Fong
-75,Emmett Steele
-b,r,e,a,k
 North Carolina,5
 teamInfo,Darkside,"Chapel Hill, North Carolina",http://www.uncdarkside.com/,https://www.facebook.com/UNCDarkside,https://twitter.com/UNC_Darkside
 coaches,Andrew Li,Kevin Pignone
@@ -417,6 +390,33 @@ coaches,Andrew Li,Kevin Pignone
 95,Noah Bush
 99,Keller Fraley
 b,r,e,a,k
+Cal Poly-SLO,4
+teamInfo,SLOCORE,"San Luis Obispo, California",https://sites.google.com/view/slocoreultimate25-26/home,https://www.facebook.com/slocoreultimate/,https://twitter.com/CORE_ultimate
+0,Brandon Howell
+0,Henry Garcia
+0,Oliver Scharer
+0,Oscar Mendelson
+2,Tyler Wolf Williams
+4,Marley Sussman
+5,Alex Yannelli
+8,Max Gade
+11,Ari Pincus
+12,Martin  Doherty
+15,Anton Orme
+16,Dakota Chou
+17,Ian Spick
+17,Nico Laurenson
+24,Jamieson Rear
+25,Hayden King
+26,Benson Cady
+30,Oliver Faase
+32,Kole Ketner
+34,Owen Gresko
+36,Malachi Merriam
+45,Alex Nelson
+64,Micah Fong
+75,Emmett Steele
+b,r,e,a,k
 Vermont,13
 teamInfo,Chill,"Burlington, Vermont",,https://www.facebook.com/Team.Chill.33/,https://twitter.com/team_chill
 0,Bryce Lublin
@@ -446,34 +446,6 @@ teamInfo,Chill,"Burlington, Vermont",,https://www.facebook.com/Team.Chill.33/,ht
 28,Leo Sarandos
 43,Vance Mader
 82,Declan Kervick
-b,r,e,a,k
-Georgia,20
-teamInfo,Jojah,"Athens, Georgia",https://jojahultimatefrisbee.wordpress.com/,https://www.facebook.com/JojahUltimate,https://twitter.com/JojahUltimate
-coaches,Scott Whitley
-0,Samad Chapman
-01,Lee Phan
-02,Adam Goldstein
-03,Morgan Hiers
-04,Luke Cranor
-05,Galileu Carvalho II
-06,Edward Rentz-Baker
-07,Gabe Borda
-08,Jeremy Sanders
-10,William Randall
-11,Ernesto Clarke
-12,Thomas Keever
-13,Sam Beh
-14,Gabriel Weber
-15,Gaby Elkhoury
-16,Drew Wentworth
-17,Charles Guerrero
-18,Colin Kennedy
-23,Jack Krugler
-24,Evan King
-42,William  Brown
-69,Patrick Reuland
-83,Billy Wallace
-96,Dane Lynch
 b,r,e,a,k
 Wisconsin,12
 teamInfo,Hodags,"Madison, Wisconsin",http://www.hodaglove.org/,https://www.facebook.com/Wisconsin-Hodags-118125241585256/,https://twitter.com/hodaglove
@@ -505,6 +477,34 @@ coaches,Avery Johnson,Ted Schewe
 62,Jacob Ho
 73,Seth Flikke
 b,r,e,a,k
+Georgia,20
+teamInfo,Jojah,"Athens, Georgia",https://jojahultimatefrisbee.wordpress.com/,https://www.facebook.com/JojahUltimate,https://twitter.com/JojahUltimate
+coaches,Scott Whitley
+0,Samad Chapman
+01,Lee Phan
+02,Adam Goldstein
+03,Morgan Hiers
+04,Luke Cranor
+05,Galileu Carvalho II
+06,Edward Rentz-Baker
+07,Gabe Borda
+08,Jeremy Sanders
+10,William Randall
+11,Ernesto Clarke
+12,Thomas Keever
+13,Sam Beh
+14,Gabriel Weber
+15,Gaby Elkhoury
+16,Drew Wentworth
+17,Charles Guerrero
+18,Colin Kennedy
+23,Jack Krugler
+24,Evan King
+42,William  Brown
+69,Patrick Reuland
+83,Billy Wallace
+96,Dane Lynch
+b,r,e,a,k
 s,t,a,g,e,s
 pools,Saturday Pool Play
 pool,Pool A
@@ -525,8 +525,8 @@ Oregon,Georgia Tech,12,7,"03/28/2026, 10:45",Pool B,Final
 Brown,Texas,13,11,"03/28/2026, 10:45",Pool B,Final
 Texas,North Carolina State,13,5,"03/28/2026, 12:30",Pool B,Final
 Brown,Georgia Tech,13,6,"03/28/2026, 12:30",Pool B,Final
-Oregon,Texas,0,0,"03/28/2026, 14:15",Pool B,Scheduled
-Brown,North Carolina State,0,0,"03/28/2026, 14:15",Pool B,Scheduled
+Oregon,Texas,13,6,"03/28/2026, 14:15",Pool B,Final
+Brown,North Carolina State,12,7,"03/28/2026, 14:15",Pool B,Final
 Oregon,Brown,0,0,"03/28/2026, 16:00",Pool B,Scheduled
 Georgia Tech,North Carolina State,0,0,"03/28/2026, 16:00",Pool B,Scheduled
 pool,Pool C
@@ -545,12 +545,12 @@ Cal Poly-SLO,Georgia,13,2,"03/28/2026, 09:00",Pool D,Final
 Wisconsin,Vermont,10,13,"03/28/2026, 09:00",Pool D,Final
 Cal Poly-SLO,Wisconsin,13,9,"03/28/2026, 10:45",Pool D,Final
 North Carolina,Vermont,10,8,"03/28/2026, 10:45",Pool D,Final
-Vermont,Georgia,0,0,"03/28/2026, 12:30",Pool D,Scheduled
+Vermont,Georgia,13,5,"03/28/2026, 12:30",Pool D,Final
 North Carolina,Wisconsin,13,6,"03/28/2026, 12:30",Pool D,Final
 Cal Poly-SLO,Vermont,0,0,"03/28/2026, 14:15",Pool D,Scheduled
-North Carolina,Georgia,0,0,"03/28/2026, 14:15",Pool D,Scheduled
+North Carolina,Georgia,13,5,"03/28/2026, 14:15",Pool D,Final
 Cal Poly-SLO,North Carolina,0,0,"03/28/2026, 16:00",Pool D,Scheduled
-Wisconsin,Georgia,0,0,"03/28/2026, 16:00",Pool D,Scheduled
+Wisconsin,Georgia,13,1,"03/28/2026, 16:00",Pool D,Final
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,Championship Bracket
