@@ -202,19 +202,6 @@ teamInfo,Clockwork,"Princeton, New Jersey",http://www.princeton.edu/~clockwrk/,h
 5,Brendan McCluskey
 5,Samuel Hilbert
 b,r,e,a,k
-Vermont (C),6
-teamInfo,Chill B,"Burlington, Vermont",,https://www.facebook.com/Team.Chill.33/,https://twitter.com/team_chill?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
-0,Emmett Cline Lucey
-0,Felix Bobowski
-0,Jonah Holst
-0,Max Schibel
-0,Nathan Bubie
-0,RobertAidan Smith
-0,Zach Feinberg
-0,Anderson Kangas
-0,Charles Vaal
-41,Ely Snow
-b,r,e,a,k
 Connecticut College,10
 teamInfo,Deimos,"New London, Connecticut",https://www.instagram.com/conncollulti/,https://www.facebook.com/ConnCollUltimate/,
 0,Abeer Bhaskar
@@ -237,6 +224,19 @@ teamInfo,Deimos,"New London, Connecticut",https://www.instagram.com/conncollulti
 5,Jonathan Munsey
 7,Elias Eisenberg
 10,Owen Kadrofske
+b,r,e,a,k
+Vermont (C),6
+teamInfo,Chill B,"Burlington, Vermont",,https://www.facebook.com/Team.Chill.33/,https://twitter.com/team_chill?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+0,Emmett Cline Lucey
+0,Felix Bobowski
+0,Jonah Holst
+0,Max Schibel
+0,Nathan Bubie
+0,RobertAidan Smith
+0,Zach Feinberg
+0,Anderson Kangas
+0,Charles Vaal
+41,Ely Snow
 b,r,e,a,k
 Hofstra,18
 teamInfo,,,,,
@@ -483,20 +483,20 @@ SUNY-Cortland,Princeton,8,7,"03/28/2026, 14:00",Pool B,Final
 Vermont (C),Connecticut College,0,0,"03/28/2026, 14:00",Pool B,Scheduled
 SUNY-Cortland,Penn State (B),10,7,"03/28/2026, 15:30",Pool B,Final
 Princeton,Connecticut College,10,7,"03/28/2026, 15:30",Pool B,Final
-Penn State (B),Connecticut College,0,0,"03/28/2026, 17:00",Pool B,Scheduled
+Penn State (B),Connecticut College,8,9,"03/28/2026, 17:00",Pool B,Final
 Princeton,Vermont (C),10,8,"03/28/2026, 17:00",Pool B,Final
 pool,Pool C
 Hofstra,Connecticut (B),7,5,"03/28/2026, 12:00",Pool C,Final
 Rensselaer Polytech,Connecticut (B),6,7,"03/28/2026, 13:40",Pool C,Final
 Rensselaer Polytech,Hofstra,9,10,"03/28/2026, 15:20",Pool C,Final
 pool,Pool D
-West Chester (B),Fairfield,0,0,"03/28/2026, 12:00",Pool D,Scheduled
-SUNY-Geneseo,Fairfield,0,0,"03/28/2026, 13:40",Pool D,Scheduled
-SUNY-Geneseo,West Chester (B),0,0,"03/28/2026, 15:20",Pool D,Scheduled
+West Chester (B),Fairfield,15,3,"03/28/2026, 12:00",Pool D,Final
+SUNY-Geneseo,Fairfield,W,L,"03/28/2026, 13:40",Pool D,Final
+SUNY-Geneseo,West Chester (B),13,7,"03/28/2026, 15:20",Pool D,Final
 pool,Pool E
-Stevens Tech,Siena,0,0,"03/28/2026, 12:00",Pool E,Scheduled
-Central Connecticut State,Siena,0,0,"03/28/2026, 13:40",Pool E,Scheduled
-Central Connecticut State,Stevens Tech,0,0,"03/28/2026, 15:20",Pool E,Scheduled
+Stevens Tech,Siena,W,L,"03/28/2026, 12:00",Pool E,Final
+Central Connecticut State,Siena,W,L,"03/28/2026, 13:40",Pool E,Final
+Central Connecticut State,Stevens Tech,W,L,"03/28/2026, 15:20",Pool E,Final
 pool,Pool F
 Lehigh (B),New Jersey Tech,10,7,"03/28/2026, 12:00",Pool F,Final
 Northeastern (C),New Jersey Tech,11,4,"03/28/2026, 13:40",Pool F,Final
@@ -504,9 +504,12 @@ Northeastern (C),Lehigh (B),5,9,"03/28/2026, 15:20",Pool F,Final
 b,r,e,a,k
 clusters,Saturday CO
 cluster,Crossover
-Hofstra,Lehigh (B),3,11,"03/28/2026, 17:00",,Scheduled
+Hofstra,Lehigh (B),3,11,"03/28/2026, 17:00",,Final
+SUNY-Geneseo,Central Connecticut State,0,0,"03/28/2026, 17:00",,Scheduled
 Connecticut (B),New Jersey Tech,9,7,"03/28/2026, 17:00",,Final
+West Chester (B),Siena,11,6,"03/28/2026, 17:00",,Final
 Rensselaer Polytech,Northeastern (C),7,6,"03/28/2026, 17:00",,Final
+Fairfield,Stevens Tech,2,11,"03/28/2026, 17:00",,Scheduled
 b,r,e,a,k
 brackets,Bracket
 bracket,Championship Bracket
