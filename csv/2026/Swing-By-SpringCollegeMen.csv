@@ -1,6 +1,36 @@
 Swing By Spring,College - Men ,28,3,2026
 Spokane,WA,2026-03-28,2026-03-29
 https://play.usaultimate.org/events/Swing-By-Spring/schedule/Men/CollegeMen/
+Boise State,7
+teamInfo,Mamu Zaldi,"Boise, Idaho",,,
+06,Seth Cordova
+07,Triton Roberts
+11,Noah Henderson
+16,Noa Stailey
+18,Michael Collins
+21,Charles Johnson
+22,Mohammed Widad
+24,Trevor Ricker
+25,Gavyn Call
+34,Payton Ratliff
+37,Andrew Thompson
+67,Fynn Erman
+69,Logan Wendel
+b,r,e,a,k
+Montana,5
+teamInfo,Smokejump,"Missoula, Montana",,,http://@UMSmokejump
+0,Jace Thomas
+0,Oliver Jepson
+0,Riley Comstock
+0,Matthew Camp
+3,Tyler Fritz
+13,William Wheeler
+16,Will Mottram
+17,Bela Browning
+22,Lino Reaver
+37,George McGervey
+67,Matthew Doran
+b,r,e,a,k
 Montana State,1
 teamInfo,Rum Runners,"Bozeman, Montana",,https://www.facebook.com/MSUultimate/,https://twitter.com/RumRunnersMT
 0,Corbin Fredland
@@ -36,22 +66,6 @@ teamInfo,Air Raid,"Pullman, Washington",,https://www.facebook.com/wsuultimateclu
 82,Christina MacPherson
 88,Colin Cerise
 b,r,e,a,k
-Boise State,7
-teamInfo,Mamu Zaldi,"Boise, Idaho",,,
-06,Seth Cordova
-07,Triton Roberts
-11,Noah Henderson
-16,Noa Stailey
-18,Michael Collins
-21,Charles Johnson
-22,Mohammed Widad
-24,Trevor Ricker
-25,Gavyn Call
-34,Payton Ratliff
-37,Andrew Thompson
-67,Fynn Erman
-69,Logan Wendel
-b,r,e,a,k
 Gonzaga,2
 teamInfo,GURU,"Spokane, Washington",,,
 0,Christian Miller
@@ -84,20 +98,6 @@ teamInfo,GURU,"Spokane, Washington",,,
 81,Lucas Butcher
 88,Benjamin Sikes
 96,Nate Carpenter
-b,r,e,a,k
-Montana,5
-teamInfo,Smokejump,"Missoula, Montana",,,http://@UMSmokejump
-0,Jace Thomas
-0,Oliver Jepson
-0,Riley Comstock
-0,Matthew Camp
-3,Tyler Fritz
-13,William Wheeler
-16,Will Mottram
-17,Bela Browning
-22,Lino Reaver
-37,George McGervey
-67,Matthew Doran
 b,r,e,a,k
 Idaho,8
 teamInfo,Graffiti,"Moscow, Idaho",https://www.uidaho.edu/current-students/recwell/sport-clubs/mens-ultimate-frisbee,,
@@ -165,18 +165,20 @@ brackets,bracket play 3/4th
 bracket,3/4th
 b,r,e,a,k
 clusters,lower round robin
+cluster,sunday rr
+Boise State,Montana,0,0,"03/29/2026, 08:00",,Scheduled
 b,r,e,a,k
 pools,Saturday pool
 pool,Pool A
-Montana State,Boise State,0,0,"03/28/2026, 08:30",Pool A,Scheduled
-Montana State,Washington State,0,0,"03/28/2026, 10:15",Pool A,Scheduled
-Washington State,Boise State,0,0,"03/28/2026, 14:45",Pool A,Scheduled
+Montana State,Boise State,13,1,"03/28/2026, 08:30",Pool A,Final
+Montana State,Washington State,13,2,"03/28/2026, 10:15",Pool A,Final
+Washington State,Boise State,13,4,"03/28/2026, 14:45",Pool A,Final
 pool,Pool B
 Gonzaga,Idaho,13,5,"03/28/2026, 08:30",Pool B,Final
 Gonzaga,Montana,13,8,"03/28/2026, 13:00",Pool B,Final
-Montana,Idaho,0,0,"03/28/2026, 14:45",Pool B,Scheduled
+Montana,Idaho,8,13,"03/28/2026, 14:45",Pool B,Final
 pool,Pool C
-Whitworth,Pacific Lutheran,0,0,"03/28/2026, 10:15",Pool C,Scheduled
-Whitworth,Central Washington,0,0,"03/28/2026, 13:00",Pool C,Scheduled
+Whitworth,Pacific Lutheran,13,4,"03/28/2026, 10:15",Pool C,Final
+Whitworth,Central Washington,13,4,"03/28/2026, 13:00",Pool C,Final
 Central Washington,Pacific Lutheran,0,0,"03/28/2026, 14:45",Pool C,Scheduled
 b,r,e,a,k
