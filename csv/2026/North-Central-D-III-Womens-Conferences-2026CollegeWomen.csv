@@ -147,6 +147,19 @@ teamInfo,Eclipse,"Northfield, Minnesota",http://carletoneclipse.weebly.com/,,htt
 66,Alma Rucker
 73,Lucy Zhang
 b,r,e,a,k
+Winona State,4
+teamInfo,Bad Monaz,"Winona, Minnesota",,,
+00,Kate Driscoll
+03,Greta  Baumgartner
+04,Juliah Hahm
+06,Jackie Hanson
+10,Kayleigh Boe
+22,Madelyn Brockberg
+23,Kirstyn  Sand
+24,Kasey Schetnan
+64,Leah Blanchette
+69,Elizabeth Erickson
+b,r,e,a,k
 St Thomas,6
 teamInfo,Lavender Haze,"Saint Paul, Minnesota",,,
 0,Rachel Lagerlund
@@ -163,19 +176,6 @@ teamInfo,Lavender Haze,"Saint Paul, Minnesota",,,
 21,Greta Nystuen
 26,Maryá Mejia
 82,Margaret Huber
-b,r,e,a,k
-Winona State,4
-teamInfo,Bad Monaz,"Winona, Minnesota",,,
-00,Kate Driscoll
-03,Greta  Baumgartner
-04,Juliah Hahm
-06,Jackie Hanson
-10,Kayleigh Boe
-22,Madelyn Brockberg
-23,Kirstyn  Sand
-24,Kasey Schetnan
-64,Leah Blanchette
-69,Elizabeth Erickson
 b,r,e,a,k
 Carleton College (C),9
 teamInfo,Nova,"Northfield, Minnesota",,,
@@ -235,17 +235,17 @@ pools,Pool Play
 pool,Pool A
 St Olaf,Grinnell,13,2,"04/11/2026, 09:00",Pool A,Final
 Wisconsin-Eau Claire,Grinnell,13,3,"04/11/2026, 10:45",Pool A,Final
-St Olaf,Wisconsin-Eau Claire,0,0,"04/11/2026, 12:30",Pool A,Scheduled
+St Olaf,Wisconsin-Eau Claire,11,6,"04/11/2026, 12:30",Pool A,Final
 pool,Pool B
 Macalester,St Olaf (B),13,1,"04/11/2026, 09:00",Pool B,Final
 Wisconsin-Stevens Point,St Olaf (B),9,7,"04/11/2026, 10:45",Pool B,Final
-Macalester,Wisconsin-Stevens Point,0,0,"04/11/2026, 12:30",Pool B,Scheduled
+Macalester,Wisconsin-Stevens Point,13,1,"04/11/2026, 12:30",Pool B,Final
 pool,Pool C
 St Thomas,Minnesota-Duluth,10,6,"04/11/2026, 09:00",Pool C,Final
 Carleton College-Eclipse,Winona State,11,5,"04/11/2026, 09:00",Pool C,Final
 Carleton College-Eclipse,Minnesota-Duluth,13,1,"04/11/2026, 10:45",Pool C,Final
 Winona State,Carleton College (C),8,3,"04/11/2026, 10:45",Pool C,Final
-Carleton College-Eclipse,St Thomas,0,0,"04/11/2026, 12:30",Pool C,Scheduled
+Carleton College-Eclipse,St Thomas,13,1,"04/11/2026, 12:30",Pool C,Final
 Minnesota-Duluth,Carleton College (C),0,0,"04/11/2026, 12:30",Pool C,Scheduled
 Winona State,Minnesota-Duluth,0,0,"04/11/2026, 14:15",Pool C,Scheduled
 St Thomas,Carleton College (C),0,0,"04/11/2026, 14:15",Pool C,Scheduled
@@ -253,6 +253,10 @@ Carleton College-Eclipse,Carleton College (C),0,0,"04/11/2026, 16:00",Pool C,Sch
 Winona State,St Thomas,0,0,"04/11/2026, 16:00",Pool C,Scheduled
 b,r,e,a,k
 clusters,Saturday Crossovers
+cluster,A and B Pool Crossovers
+St Olaf,Macalester,0,0,"04/11/2026, 14:15",,Scheduled
+Wisconsin-Eau Claire,Wisconsin-Stevens Point,0,0,"04/11/2026, 14:15",,Scheduled
+Grinnell,St Olaf (B),0,0,"04/11/2026, 14:15",,Scheduled
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,1st Place Bracket
