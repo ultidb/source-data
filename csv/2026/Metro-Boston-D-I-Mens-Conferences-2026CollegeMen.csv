@@ -30,6 +30,29 @@ teamInfo,Huskies,"Boston, Massachusetts",http://www.ultimate.neu.edu/men,https:/
 87,Austin Weiss
 91,Kalten Toone
 b,r,e,a,k
+MIT,4
+teamInfo,Grim Beaver,"Cambridge, Massachusetts",http://mens-ult.mit.edu,https://www.facebook.com/pages/MIT-Mens-Ultimate/129768873797702,https://twitter.com/MITultimate
+0,Will Vu
+00,Yusuf Young
+00,Zachary Perry
+00,Zhekai Li
+00,Eric Wang
+00,Jeremy Propp
+00,Declan Murphy Zink
+00,Kyle Roke
+00,Omar Alsolaiman
+00,Rich Wang
+00,Roger Fan
+00,Will Sullivan
+00,Alan Ren
+00,Bowen Wang
+00,Vincent Fan
+00,Durgan McBroom
+06,Cooper Nissenbaum
+07,Kevin Wu
+14,Justin Chen
+31,Junhyung Park
+b,r,e,a,k
 Boston University,5
 teamInfo,Boston University,"Boston, Massachusetts",https://www.facebook.com/BU.Ultimate,https://www.facebook.com/BU.Ultimate,https://twitter.com/ozonepilots
 0,Diego  Tejeda
@@ -59,29 +82,6 @@ teamInfo,Boston University,"Boston, Massachusetts",https://www.facebook.com/BU.U
 07,Rowan Long
 14,William Maharry
 16,Patrick Flanagan
-b,r,e,a,k
-MIT,4
-teamInfo,Grim Beaver,"Cambridge, Massachusetts",http://mens-ult.mit.edu,https://www.facebook.com/pages/MIT-Mens-Ultimate/129768873797702,https://twitter.com/MITultimate
-0,Will Vu
-00,Yusuf Young
-00,Zachary Perry
-00,Zhekai Li
-00,Eric Wang
-00,Jeremy Propp
-00,Declan Murphy Zink
-00,Kyle Roke
-00,Omar Alsolaiman
-00,Rich Wang
-00,Roger Fan
-00,Will Sullivan
-00,Alan Ren
-00,Bowen Wang
-00,Vincent Fan
-00,Durgan McBroom
-06,Cooper Nissenbaum
-07,Kevin Wu
-14,Justin Chen
-31,Junhyung Park
 b,r,e,a,k
 Tufts,2
 teamInfo,Elephant Men,"Medford, Massachusetts",http://www.tuftsmensultimate.org/,,https://twitter.com/tufts_emen
@@ -182,7 +182,7 @@ pools,Saturday Pool Play
 pool,Pool A
 Northeastern,Boston University,13,6,"04/11/2026, 09:00",Pool A,Final
 Northeastern,MIT,15,4,"04/11/2026, 11:00",Pool A,Final
-MIT,Boston University,0,0,"04/11/2026, 13:00",Pool A,Scheduled
+MIT,Boston University,10,9,"04/11/2026, 13:00",Pool A,Final
 pool,Pool B
 Tufts,Massachusetts-Lowell,15,0,"04/11/2026, 09:00",Pool B,Final
 Boston College,Harvard,15,9,"04/11/2026, 09:00",Pool B,Final
@@ -191,8 +191,15 @@ Harvard,Massachusetts-Lowell,14,0,"04/11/2026, 11:00",Pool B,Final
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,Championship Bracket
+Northeastern,Tufts,0,0,"04/12/2026, 13:00",Finals,Scheduled
 b,r,e,a,k
 pools,3rd - 7th Pool Play
 pool,Pool C
 Boston College,Massachusetts-Lowell,0,0,"04/11/2026, 13:00",Pool C,Scheduled
+MIT,Harvard,0,0,"04/12/2026, 09:00",Pool C,Scheduled
+Boston College,Boston University,0,0,"04/12/2026, 09:00",Pool C,Scheduled
+Boston University,Massachusetts-Lowell,0,0,"04/12/2026, 11:00",Pool C,Scheduled
+Boston College,MIT,0,0,"04/12/2026, 11:00",Pool C,Scheduled
+Harvard,Boston University,0,0,"04/12/2026, 13:00",Pool C,Scheduled
+MIT,Massachusetts-Lowell,0,0,"04/12/2026, 13:00",Pool C,Scheduled
 b,r,e,a,k

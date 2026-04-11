@@ -32,35 +32,6 @@ coaches,Connor Matthews,Braedon Petrus,Trevor Smith,Christopher Strub
 99,Akash McMinnn
 99,Will Dillender-Kinast
 b,r,e,a,k
-Simon Fraser,8
-teamInfo,SFU Red Leafs,"Burnaby, British Columbia CA",,,
-0,Andrei Jerome Reyes
-0,Daniel Nguyen
-0,Daniel Rowe
-0,Eric Zhang
-0,Charles Ferguson
-0,Evan Chen
-0,Jayden Leong
-0,Josh Lee
-0,Justin Nguyen
-0,Neo Debroux
-0,Quinton  Shum
-0,Raushan Dhillon
-0,Ryan Hargrave
-0,Ali Safdari
-2,Jaren Shen
-00,Joshua Fok
-00,Charles Zhang
-06,Grayson  Dakis
-09,Jordan Macdonald
-12,Caleb Chua
-15,John Santos
-23,Ethan Fung
-27,Andrew van den Driesen
-35,Anantjot Aneja
-41,Anthony Lee
-46,Colton Chan
-b,r,e,a,k
 British Columbia  (B),9
 teamInfo,B-Birds,"Vancouver, British Columbia CA",,,
 coaches,Shintaro Tsukamoto
@@ -94,6 +65,35 @@ coaches,Shintaro Tsukamoto
 77,Andrew Yan
 87,Ethan  Low
 88,Gil Rowe
+b,r,e,a,k
+Simon Fraser,8
+teamInfo,SFU Red Leafs,"Burnaby, British Columbia CA",,,
+0,Andrei Jerome Reyes
+0,Daniel Nguyen
+0,Daniel Rowe
+0,Eric Zhang
+0,Charles Ferguson
+0,Evan Chen
+0,Jayden Leong
+0,Josh Lee
+0,Justin Nguyen
+0,Neo Debroux
+0,Quinton  Shum
+0,Raushan Dhillon
+0,Ryan Hargrave
+0,Ali Safdari
+2,Jaren Shen
+00,Joshua Fok
+00,Charles Zhang
+06,Grayson  Dakis
+09,Jordan Macdonald
+12,Caleb Chua
+15,John Santos
+23,Ethan Fung
+27,Andrew van den Driesen
+35,Anantjot Aneja
+41,Anthony Lee
+46,Colton Chan
 b,r,e,a,k
 Oregon State,2
 teamInfo,Dinos,"Corvallis, Oregon",,,
@@ -220,6 +220,9 @@ teamInfo,Bucks,"Eugene, Oregon",,,
 77,Lewis Sisler
 85,Kieran Wagner
 b,r,e,a,k
+Washington,5
+teamInfo,,,,,
+b,r,e,a,k
 British Columbia,4
 teamInfo,Thunderbirds,"Vancouver, British Columbia CA",,,
 coaches,William Tang,Kevin Tong,Victor Tiet
@@ -249,26 +252,6 @@ coaches,William Tang,Kevin Tong,Victor Tiet
 72,Wesley  Wong
 95,Colin Wu
 b,r,e,a,k
-Washington,5
-teamInfo,,,,,
-b,r,e,a,k
-Portland State,12
-teamInfo,Juicy,"Portland, Oregon",https://www.instagram.com/portlandstateultimate/?hl=en,https://www.instagram.com/psu.womensultimate/?hl=en,
-0,John Bednarek
-0,Jules Messersharp
-0,Kai Langhammer
-0,Jacob Boynton
-0,Natalie Smith
-0,River Sheppard
-0,Grace Pendergrass
-00,Hank Munro
-00,Calder  Kibben
-00,Leana Girton
-00,Riley Wunderlich
-00,Jeffrey Sterling
-04,Kaitlyn Borresen
-26,Nate Gardner
-b,r,e,a,k
 Washington (C),13
 teamInfo,UW C,"Seattle, Washington",,,
 0,Anderson To
@@ -289,11 +272,28 @@ teamInfo,UW C,"Seattle, Washington",,,
 0,Max Scheer
 67,Mercer Mann
 b,r,e,a,k
+Portland State,12
+teamInfo,Juicy,"Portland, Oregon",https://www.instagram.com/portlandstateultimate/?hl=en,https://www.instagram.com/psu.womensultimate/?hl=en,
+0,John Bednarek
+0,Jules Messersharp
+0,Kai Langhammer
+0,Jacob Boynton
+0,Natalie Smith
+0,River Sheppard
+0,Grace Pendergrass
+00,Hank Munro
+00,Calder  Kibben
+00,Leana Girton
+00,Riley Wunderlich
+00,Jeffrey Sterling
+04,Kaitlyn Borresen
+26,Nate Gardner
+b,r,e,a,k
 s,t,a,g,e,s
 pools,Saturday Pool Play
 pool,Pool A
 Oregon,British Columbia  (B),15,4,"04/11/2026, 09:00",Pool A,Final
-Oregon,Simon Fraser,0,0,"04/11/2026, 10:45",Pool A,Scheduled
+Oregon,Simon Fraser,15,0,"04/11/2026, 10:45",Pool A,Final
 Simon Fraser,British Columbia  (B),0,0,"04/11/2026, 12:30",Pool A,Scheduled
 pool,Pool B
 Oregon State,Oregon State (B),15,4,"04/11/2026, 09:00",Pool B,Final
@@ -305,7 +305,7 @@ Victoria,Western Washington,0,0,"04/11/2026, 10:45",Pool C,Scheduled
 Western Washington,Oregon  (B),0,0,"04/11/2026, 12:30",Pool C,Scheduled
 pool,Pool D
 British Columbia,Washington (C),0,0,"04/11/2026, 10:45",Pool D,Scheduled
-Washington,Portland State,0,0,"04/11/2026, 10:45",Pool D,Scheduled
+Washington,Portland State,15,1,"04/11/2026, 10:45",Pool D,Final
 British Columbia,Portland State,0,0,"04/11/2026, 12:30",Pool D,Scheduled
 Washington,Washington (C),0,0,"04/11/2026, 12:30",Pool D,Scheduled
 British Columbia,Washington,0,0,"04/11/2026, 12:30",Pool D,Scheduled

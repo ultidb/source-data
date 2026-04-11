@@ -31,6 +31,33 @@ teamInfo,Tribe,"Atlanta, Georgia",https://gttribe.github.io/,https://www.instagr
 42,Adam Grossberg
 77,Flavius Penescu
 b,r,e,a,k
+Kennesaw State,8
+teamInfo,Parliament,"Kennesaw, Georgia",,,
+01,Tobiah Watts
+02,Michael Faress
+04,Jack Stark
+05,Anthony Schutz
+06,Evan Burnley
+07,Joel Lolies
+08,Will Roberts
+09,Andrew Giacalone
+11,Andrew Tuck
+13,Sage Good
+16,Grady Freeman
+19,Jonathan Bell
+20,Ryland Wagner
+22,Benjamin Burchett IV
+24,Jonas Griesbeck
+42,Daniel Tulloch
+44,Deuce Bridges
+45,Everett Garrett
+48,John Paul Schutz
+63,Charles Deng
+66,Bobby Burns
+67,Adam White
+96,Nathaniel O'Neill
+99,Tyler Parr
+b,r,e,a,k
 Georgia (B),9
 teamInfo,Chillydawgs,"Athens, Georgia",,https://www.facebook.com/Chillydwags,https://www.twitter.com/Chillydwags
 0,Jacob Bracy
@@ -62,33 +89,6 @@ teamInfo,Chillydawgs,"Athens, Georgia",,https://www.facebook.com/Chillydwags,htt
 69,Chester  Gregg
 69,Alex Norman
 b,r,e,a,k
-Kennesaw State,8
-teamInfo,Parliament,"Kennesaw, Georgia",,,
-01,Tobiah Watts
-02,Michael Faress
-04,Jack Stark
-05,Anthony Schutz
-06,Evan Burnley
-07,Joel Lolies
-08,Will Roberts
-09,Andrew Giacalone
-11,Andrew Tuck
-13,Sage Good
-16,Grady Freeman
-19,Jonathan Bell
-20,Ryland Wagner
-22,Benjamin Burchett IV
-24,Jonas Griesbeck
-42,Daniel Tulloch
-44,Deuce Bridges
-45,Everett Garrett
-48,John Paul Schutz
-63,Charles Deng
-66,Bobby Burns
-67,Adam White
-96,Nathaniel O'Neill
-99,Tyler Parr
-b,r,e,a,k
 Tennessee,2
 teamInfo,Tennessee,"Knoxville, Tennessee",http://web.utk.edu/~ultimate/,http://facebook.com/TennUltimateM/,https://twitter.com/TennUltimateM
 00,David Wilkins
@@ -117,6 +117,31 @@ teamInfo,Tennessee,"Knoxville, Tennessee",http://web.utk.edu/~ultimate/,http://f
 67,Will Woodruff
 88,Eli Moldenhauer
 91,Asher Daniels
+b,r,e,a,k
+Georgia Southern,7
+teamInfo,Eagles,"Statesboro, GA, Georgia",https://gasouthernultimate.wixsite.com/mens,,https://twitter.com/GASo_Ultimate
+0,Corey Nielsen
+0,Ethan Brown
+0,Alexander Lewis
+0,Calob Chapman
+0,Thomas Clennan
+0,Nate Griesbeck
+0,Markus German
+00,Aaron Wynn
+00,Cooper Griffis
+00,Nalynn Pathomkrut
+00,Tyler  Coffman
+00,Riley Hughes
+00,Christopher Scalzi
+00,Charles Salmons
+00,Ryan Smith
+00,Steven Rodriguez
+00,Ethan Ness
+00,Jack Murray
+00,Jacob Markward
+00,James Everly
+00,Josh Tuttle
+00,Kyle Brewer
 b,r,e,a,k
 Georgia Tech (B),10
 teamInfo,Tribe,"Atlanta, Georgia",,,
@@ -150,31 +175,6 @@ teamInfo,Tribe,"Atlanta, Georgia",,,
 00,Earl Harris
 00,Eric Chang
 07,Nathan Lee
-b,r,e,a,k
-Georgia Southern,7
-teamInfo,Eagles,"Statesboro, GA, Georgia",https://gasouthernultimate.wixsite.com/mens,,https://twitter.com/GASo_Ultimate
-0,Corey Nielsen
-0,Ethan Brown
-0,Alexander Lewis
-0,Calob Chapman
-0,Thomas Clennan
-0,Nate Griesbeck
-0,Markus German
-00,Aaron Wynn
-00,Cooper Griffis
-00,Nalynn Pathomkrut
-00,Tyler  Coffman
-00,Riley Hughes
-00,Christopher Scalzi
-00,Charles Salmons
-00,Ryan Smith
-00,Steven Rodriguez
-00,Ethan Ness
-00,Jack Murray
-00,Jacob Markward
-00,James Everly
-00,Josh Tuttle
-00,Kyle Brewer
 b,r,e,a,k
 Emory,3
 teamInfo,Emory Juice,"Atlanta, Georgia",,,https://twitter.com/EmoryJuice
@@ -338,11 +338,11 @@ pools,Pool Play (12.8 Alternate)
 pool,Pool A
 Georgia Tech,Georgia (B),15,4,"04/11/2026, 09:00",Pool A,Final
 Georgia Tech,Kennesaw State,15,3,"04/11/2026, 11:00",Pool A,Final
-Kennesaw State,Georgia (B),0,0,"04/11/2026, 13:00",Pool A,Scheduled
+Kennesaw State,Georgia (B),14,13,"04/11/2026, 13:00",Pool A,Final
 pool,Pool B
 Tennessee,Georgia Tech (B),15,12,"04/11/2026, 09:00",Pool B,Final
 Tennessee,Georgia Southern,15,9,"04/11/2026, 11:00",Pool B,Final
-Georgia Southern,Georgia Tech (B),0,0,"04/11/2026, 13:00",Pool B,Scheduled
+Georgia Southern,Georgia Tech (B),13,11,"04/11/2026, 13:00",Pool B,Final
 pool,Pool C
 Emory,East Tennessee State,15,4,"04/11/2026, 09:00",Pool C,Final
 Emory,Georgia State,15,9,"04/11/2026, 11:00",Pool C,Final
@@ -350,13 +350,19 @@ Georgia State,East Tennessee State,15,5,"04/11/2026, 13:00",Pool C,Final
 pool,Pool D
 Georgia,Tennessee Tech,15,1,"04/11/2026, 09:00",Pool D,Final
 Georgia,Tennessee-Chattanooga,15,8,"04/11/2026, 11:00",Pool D,Final
-Tennessee-Chattanooga,Tennessee Tech,0,0,"04/11/2026, 13:00",Pool D,Scheduled
+Tennessee-Chattanooga,Tennessee Tech,15,6,"04/11/2026, 13:00",Pool D,Final
 b,r,e,a,k
 brackets,Bracket Play (16.9)
 bracket,Conference Championship
+Georgia Tech,Georgia,0,0,"04/11/2026, 15:00",Championship Play-Ins,Scheduled
+Tennessee,Emory,0,0,"04/11/2026, 15:00",Championship Play-Ins,Scheduled
 bracket,2nd Place Bracket
+Kennesaw State,Tennessee-Chattanooga,0,0,"04/11/2026, 15:00",2nd Place Play-In Play-In Play-Ins,Scheduled
+Georgia Southern,Georgia State,0,0,"04/11/2026, 15:00",2nd Place Play-In Play-In Play-Ins,Scheduled
 bracket,4th Place
 bracket,6th Place
+Georgia (B),Tennessee Tech,0,0,"04/12/2026, 15:00",6th Place Play-In Play-In Play-Ins,Scheduled
+Georgia Tech (B),East Tennessee State,0,0,"04/12/2026, 15:00",6th Place Play-In Play-In Play-Ins,Scheduled
 bracket,8th Place Game-To-Go
 bracket,10th Place
 b,r,e,a,k
