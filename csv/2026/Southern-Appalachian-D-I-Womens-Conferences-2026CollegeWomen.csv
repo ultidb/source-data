@@ -20,26 +20,6 @@ teamInfo,Wreck,"Atlanta, Georgia",https://wreckultimate.wordpress.com/,https://w
 66,Mary Smith
 71,Claire Haskell
 b,r,e,a,k
-Tennessee-Chattanooga,6
-teamInfo,Moxie,"Chattanooga, Tennessee",,,http://UTCMoxie
-03,Sydney Finch
-05,Sofia Murillo
-06,Mary Scott
-08,Natalie Provence
-10,AnnaClaire Loos
-12,Lizzie Cohen
-19,Riley Ottinger
-22,Kate Zwart
-23,Jordeyn Tucker
-27,Jaci Weigand
-29,Kayla Arick
-31,Sadie Pacenti
-32,Katie Gomes
-36,Lucia Constantine
-64,Caroline High
-78,Grace Leo
-89,Ellis Thuresson
-b,r,e,a,k
 Georgia,1
 teamInfo,Athena,"Athens, Georgia",,https://www.facebook.com/UniversityOfGeorgiaWomensUltimate/,https://twitter.com/UGAUltimate
 00,Nina Kline
@@ -70,6 +50,26 @@ teamInfo,Athena,"Athens, Georgia",,https://www.facebook.com/UniversityOfGeorgiaW
 44,Audra Duncan
 66,Anna White
 b,r,e,a,k
+Tennessee-Chattanooga,6
+teamInfo,Moxie,"Chattanooga, Tennessee",,,http://UTCMoxie
+03,Sydney Finch
+05,Sofia Murillo
+06,Mary Scott
+08,Natalie Provence
+10,AnnaClaire Loos
+12,Lizzie Cohen
+19,Riley Ottinger
+22,Kate Zwart
+23,Jordeyn Tucker
+27,Jaci Weigand
+29,Kayla Arick
+31,Sadie Pacenti
+32,Katie Gomes
+36,Lucia Constantine
+64,Caroline High
+78,Grace Leo
+89,Ellis Thuresson
+b,r,e,a,k
 Emory (B),7
 teamInfo,Tuna,"Atlanta, Georgia",,,https://twitter.com/tuna_ultimate?s=20&t=zpPFT-mB9IGpVo5x9hZuyw
 0,Audrey Wu
@@ -86,21 +86,6 @@ teamInfo,Tuna,"Atlanta, Georgia",,,https://twitter.com/tuna_ultimate?s=20&t=zpPF
 00,Rosie Dsane-Selby
 00,Jennifer Pasternack
 00,Ava Trachtenberg
-b,r,e,a,k
-Tennessee,2
-teamInfo,Big Orange Screw,"Knoxville, Tennessee",https://utk.campuslabs.com/engage/organization/womensultimate,https://www.facebook.com/BosTennesseeUltimate,https://twitter.com/bosultimate?lang=en
-0,Elizabeth Keith
-0,Lauren Gross
-00,Elizabeth Johnson
-02,Courtney Mikol
-05,Samantha Borchmann
-06,Allison Hartwell
-09,Laura Leaman
-20,Emma Woodward
-21,Atlee Elliott
-22,Hannah McInturff
-23,Abby Deeter
-33,Cate McAfee
 b,r,e,a,k
 Emory,4
 teamInfo,Luna,"Atlanta, Georgia",,,https://twitter.com/lunaultimate
@@ -123,6 +108,21 @@ teamInfo,Luna,"Atlanta, Georgia",,,https://twitter.com/lunaultimate
 00,Naomi Altman
 17,Chloe Man
 31,Lauren Patterson
+b,r,e,a,k
+Tennessee,2
+teamInfo,Big Orange Screw,"Knoxville, Tennessee",https://utk.campuslabs.com/engage/organization/womensultimate,https://www.facebook.com/BosTennesseeUltimate,https://twitter.com/bosultimate?lang=en
+0,Elizabeth Keith
+0,Lauren Gross
+00,Elizabeth Johnson
+02,Courtney Mikol
+05,Samantha Borchmann
+06,Allison Hartwell
+09,Laura Leaman
+20,Emma Woodward
+21,Atlee Elliott
+22,Hannah McInturff
+23,Abby Deeter
+33,Cate McAfee
 b,r,e,a,k
 Georgia (B),5
 teamInfo,Medusa,"Athens, Georgia",,,
@@ -185,7 +185,7 @@ pool,Pool A
 Georgia,Tennessee-Chattanooga,9,1,"04/11/2026, 12:30",Pool A,In Progress
 Georgia Tech,Emory (B),13,0,"04/11/2026, 12:30",Pool A,Final
 Georgia,Emory (B),0,0,"04/11/2026, 14:15",Pool A,Scheduled
-Georgia Tech,Tennessee-Chattanooga,0,0,"04/11/2026, 14:15",Pool A,Scheduled
+Georgia Tech,Tennessee-Chattanooga,13,1,"04/11/2026, 14:15",Pool A,Final
 Georgia,Georgia Tech,0,0,"04/11/2026, 16:00",Pool A,Scheduled
 Tennessee-Chattanooga,Emory (B),0,0,"04/11/2026, 16:00",Pool A,Scheduled
 pool,Pool B
@@ -196,7 +196,7 @@ Emory,Georgia Southern,11,7,"04/11/2026, 10:45",Pool B,Final
 Georgia Southern,Georgia Tech (B),13,2,"04/11/2026, 12:30",Pool B,Final
 Emory,Georgia (B),13,5,"04/11/2026, 12:30",Pool B,Final
 Tennessee,Georgia Southern,0,0,"04/11/2026, 14:15",Pool B,Scheduled
-Emory,Georgia Tech (B),0,0,"04/11/2026, 14:15",Pool B,Scheduled
+Emory,Georgia Tech (B),13,0,"04/11/2026, 14:15",Pool B,Final
 Tennessee,Emory,0,0,"04/11/2026, 16:00",Pool B,Scheduled
 Georgia (B),Georgia Tech (B),0,0,"04/11/2026, 16:00",Pool B,Scheduled
 b,r,e,a,k
