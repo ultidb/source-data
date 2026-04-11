@@ -29,19 +29,6 @@ coaches,Veronica Eder,Alika Johnston
 38,Campbell O'Neal
 77,Emma Williamson
 b,r,e,a,k
-Colorado (B),4
-teamInfo,Petra,"Boulder, Colorado",,,
-0,Lauren Johnson
-0,Malia Mitchell
-0,Lucia Keller-Otto
-0,Alyssa Krig
-00,Josephine DiSalvo
-00,Madeleine Eckles
-00,Taylor Weatherwax
-15,Madison Seckman
-27,Toca Zucker
-31,Madeline Shea
-b,r,e,a,k
 Colorado State,2
 teamInfo,Hell's Belles,"Fort Collins, Colorado",https://csuhellsbelles.netlify.app,https://www.facebook.com/csuwomensultimate,http://@HellsBellesUlti
 03,Grace Walker
@@ -66,6 +53,19 @@ teamInfo,Hell's Belles,"Fort Collins, Colorado",https://csuhellsbelles.netlify.a
 66,Klaudia Poplawski
 88,Madden Hagood
 91,Faith Isakson Stubbs
+b,r,e,a,k
+Colorado (B),4
+teamInfo,Petra,"Boulder, Colorado",,,
+0,Lauren Johnson
+0,Malia Mitchell
+0,Lucia Keller-Otto
+0,Alyssa Krig
+00,Josephine DiSalvo
+00,Madeleine Eckles
+00,Taylor Weatherwax
+15,Madison Seckman
+27,Toca Zucker
+31,Madeline Shea
 b,r,e,a,k
 Denver,3
 teamInfo,Hype,"Denver, Colorado",https://hypeduultimate.wixsite.com/website,https://www.facebook.com/denverhype/?ref=bookmarks,https://twitter.com/TheUltimateHype
@@ -95,7 +95,9 @@ b,r,e,a,k
 s,t,a,g,e,s
 brackets,Bracket Play
 bracket,Championship Bracket
-Colorado,Colorado (B),0,0,"04/11/2026, 09:00",Semis,Scheduled
+Colorado,Colorado State,0,0,"04/11/2026, 11:00",Finals,Scheduled
+Colorado,Colorado (B),15,0,"04/11/2026, 09:00",Semis,Final
 Colorado State,Denver,15,2,"04/11/2026, 09:00",Semis,Final
 bracket,2nd Place Bracket
+Colorado (B),Denver,0,0,"04/11/2026, 11:00",2nd Place Semis,Scheduled
 b,r,e,a,k
