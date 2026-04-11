@@ -61,6 +61,34 @@ teamInfo,Fighting Gobies[A],"Cleveland, Ohio",http://ultimate.case.edu,https://w
 45,Jason Zhou
 76,Logan Heck
 b,r,e,a,k
+Akron,6
+teamInfo,GoonSquad,"Akron, Ohio",,,
+0,Asher Moore
+0,Caleb Pickering
+0,John-Michael Hopkins
+0,Joy Jones
+00,Samuel Paffumi
+00,Caden Bahry
+00,Connor Leecue
+00,Jay Bucciarelli
+00,Jeffrey Kurkul
+00,William Deken
+00,Ethan Dodge
+00,Jake Gray
+00,Jason Bailey
+00,Vinny Tomar
+00,Aaron Brown
+00,Gavin Latona
+02,Garrett Holman
+04,Ethan  Knecht
+06,Miles Glass
+11,Aidan Scarberry
+16,Lucas Miller
+18,Gavin Wehe
+23,Noah Spaetti
+44,Vincent Innocenzi
+99,Braeden Skoczen
+b,r,e,a,k
 Dayton,7
 teamInfo,FLUD,"Dayton, Ohio",,https://instagram.com/flud_ultimate,https://twitter.com/UDUltimate
 0,Benjamin Carini
@@ -99,34 +127,6 @@ teamInfo,FLUD,"Dayton, Ohio",,https://instagram.com/flud_ultimate,https://twitte
 00,Andrew Golias
 00,Ben Manion
 20,Colsten Spelman
-b,r,e,a,k
-Akron,6
-teamInfo,GoonSquad,"Akron, Ohio",,,
-0,Asher Moore
-0,Caleb Pickering
-0,John-Michael Hopkins
-0,Joy Jones
-00,Samuel Paffumi
-00,Caden Bahry
-00,Connor Leecue
-00,Jay Bucciarelli
-00,Jeffrey Kurkul
-00,William Deken
-00,Ethan Dodge
-00,Jake Gray
-00,Jason Bailey
-00,Vinny Tomar
-00,Aaron Brown
-00,Gavin Latona
-02,Garrett Holman
-04,Ethan  Knecht
-06,Miles Glass
-11,Aidan Scarberry
-16,Lucas Miller
-18,Gavin Wehe
-23,Noah Spaetti
-44,Vincent Innocenzi
-99,Braeden Skoczen
 b,r,e,a,k
 Toledo,9
 teamInfo,Savage,"Toledo, Ohio",,,
@@ -272,8 +272,8 @@ Ohio State,Toledo,15,5,"04/11/2026, 12:10",Pool A,Final
 Akron,Dayton,11,7,"04/11/2026, 12:10",Pool A,Final
 Ohio State,Dayton,15,1,"04/11/2026, 14:00",Pool A,Final
 Case Western Reserve,Toledo,15,2,"04/11/2026, 14:00",Pool A,Final
-Ohio State,Case Western Reserve,0,0,"04/11/2026, 15:50",Pool A,Scheduled
-Akron,Toledo,0,0,"04/11/2026, 15:50",Pool A,Scheduled
+Ohio State,Case Western Reserve,15,7,"04/11/2026, 15:50",Pool A,Final
+Akron,Toledo,15,8,"04/11/2026, 15:50",Pool A,Final
 pool,Pool B
 Kent State,Cleveland State,15,1,"04/11/2026, 08:30",Pool B,Final
 Ohio,Miami (Ohio),14,9,"04/11/2026, 08:30",Pool B,Final
@@ -283,17 +283,22 @@ Cincinnati,Cleveland State,15,1,"04/11/2026, 12:10",Pool B,Final
 Miami (Ohio),Kent State,15,7,"04/11/2026, 12:10",Pool B,Final
 Cincinnati,Kent State,15,5,"04/11/2026, 14:00",Pool B,Final
 Ohio,Cleveland State,15,0,"04/11/2026, 14:00",Pool B,Final
-Cincinnati,Ohio,11,7,"04/11/2026, 15:50",Pool B,In Progress
-Miami (Ohio),Cleveland State,0,0,"04/11/2026, 15:50",Pool B,In Progress
+Cincinnati,Ohio,15,8,"04/11/2026, 15:50",Pool B,Final
+Miami (Ohio),Cleveland State,W,L,"04/11/2026, 15:50",Pool B,Final
 b,r,e,a,k
 brackets,Championship
 bracket,Championship
+Ohio State,Cincinnati,0,0,"04/12/2026, 11:00",Championship,Scheduled
 b,r,e,a,k
 brackets,Second Place
 bracket,Second Place
+Case Western Reserve,Miami (Ohio),0,0,"04/12/2026, 09:00",2nd Quarterfinals,Scheduled
+Akron,Ohio,0,0,"04/12/2026, 09:00",2nd Quarterfinals,Scheduled
 b,r,e,a,k
 brackets,Fifth Place
 bracket,Fifth Place
+Dayton,Cleveland State,0,0,"04/12/2026, 09:00",Fifth Quarterfinals,Scheduled
+Toledo,Kent State,0,0,"04/12/2026, 09:00",Fifth Quarterfinals,Scheduled
 b,r,e,a,k
 brackets,Ninth Place
 bracket,Ninth Place

@@ -32,6 +32,35 @@ coaches,Connor Matthews,Braedon Petrus,Trevor Smith,Christopher Strub
 99,Akash McMinnn
 99,Will Dillender-Kinast
 b,r,e,a,k
+Simon Fraser,8
+teamInfo,SFU Red Leafs,"Burnaby, British Columbia CA",,,
+0,Andrei Jerome Reyes
+0,Daniel Nguyen
+0,Daniel Rowe
+0,Eric Zhang
+0,Charles Ferguson
+0,Evan Chen
+0,Jayden Leong
+0,Josh Lee
+0,Justin Nguyen
+0,Neo Debroux
+0,Quinton  Shum
+0,Raushan Dhillon
+0,Ryan Hargrave
+0,Ali Safdari
+2,Jaren Shen
+00,Joshua Fok
+00,Charles Zhang
+06,Grayson  Dakis
+09,Jordan Macdonald
+12,Caleb Chua
+15,John Santos
+23,Ethan Fung
+27,Andrew van den Driesen
+35,Anantjot Aneja
+41,Anthony Lee
+46,Colton Chan
+b,r,e,a,k
 British Columbia  (B),9
 teamInfo,B-Birds,"Vancouver, British Columbia CA",,,
 coaches,Shintaro Tsukamoto
@@ -65,35 +94,6 @@ coaches,Shintaro Tsukamoto
 77,Andrew Yan
 87,Ethan  Low
 88,Gil Rowe
-b,r,e,a,k
-Simon Fraser,8
-teamInfo,SFU Red Leafs,"Burnaby, British Columbia CA",,,
-0,Andrei Jerome Reyes
-0,Daniel Nguyen
-0,Daniel Rowe
-0,Eric Zhang
-0,Charles Ferguson
-0,Evan Chen
-0,Jayden Leong
-0,Josh Lee
-0,Justin Nguyen
-0,Neo Debroux
-0,Quinton  Shum
-0,Raushan Dhillon
-0,Ryan Hargrave
-0,Ali Safdari
-2,Jaren Shen
-00,Joshua Fok
-00,Charles Zhang
-06,Grayson  Dakis
-09,Jordan Macdonald
-12,Caleb Chua
-15,John Santos
-23,Ethan Fung
-27,Andrew van den Driesen
-35,Anantjot Aneja
-41,Anthony Lee
-46,Colton Chan
 b,r,e,a,k
 Oregon State,2
 teamInfo,Dinos,"Corvallis, Oregon",,,
@@ -164,9 +164,6 @@ teamInfo,Washington B,"Seattle, Washington",https://www.instagram.com/undodgers/
 00,Jonah Lin
 12,Etai Nehushtan
 b,r,e,a,k
-Victoria,3
-teamInfo,,,,,
-b,r,e,a,k
 Western Washington,6
 teamInfo,DIRT,"Bellingham, Washington",,,
 coaches,Craig Harkey
@@ -196,6 +193,9 @@ coaches,Craig Harkey
 63,Andreas Schoop
 72,Marcus Hibpshman
 95,Zach Sadow-Hasenberg
+b,r,e,a,k
+Victoria,3
+teamInfo,,,,,
 b,r,e,a,k
 Oregon  (B),11
 teamInfo,Bucks,"Eugene, Oregon",,,
@@ -294,23 +294,25 @@ pools,Saturday Pool Play
 pool,Pool A
 Oregon,British Columbia  (B),15,4,"04/11/2026, 09:00",Pool A,Final
 Oregon,Simon Fraser,15,0,"04/11/2026, 10:45",Pool A,Final
-Simon Fraser,British Columbia  (B),8,6,"04/11/2026, 12:30",Pool A,In Progress
+Simon Fraser,British Columbia  (B),11,8,"04/11/2026, 12:30",Pool A,Final
 pool,Pool B
 Oregon State,Oregon State (B),15,4,"04/11/2026, 09:00",Pool B,Final
 Washington (B),Oregon State (B),10,12,"04/11/2026, 10:45",Pool B,Final
-Oregon State,Washington (B),0,0,"04/11/2026, 12:30",Pool B,Scheduled
+Oregon State,Washington (B),15,6,"04/11/2026, 12:30",Pool B,Final
 pool,Pool C
 Victoria,Oregon  (B),15,0,"04/11/2026, 09:00",Pool C,Final
-Victoria,Western Washington,10,11,"04/11/2026, 10:45",Pool C,Scheduled
-Western Washington,Oregon  (B),0,0,"04/11/2026, 12:30",Pool C,Scheduled
+Victoria,Western Washington,10,11,"04/11/2026, 10:45",Pool C,Final
+Western Washington,Oregon  (B),15,7,"04/11/2026, 12:30",Pool C,Final
 pool,Pool D
 British Columbia,Washington (C),15,2,"04/11/2026, 10:45",Pool D,Final
 Washington,Portland State,15,1,"04/11/2026, 10:45",Pool D,Final
-British Columbia,Washington,0,0,"04/11/2026, 12:30",Pool D,Scheduled
-Portland State,Washington (C),0,0,"04/11/2026, 12:30",Pool D,Scheduled
+British Columbia,Washington,10,13,"04/11/2026, 12:30",Pool D,Final
+Portland State,Washington (C),11,11,"04/11/2026, 12:30",Pool D,In Progress
 b,r,e,a,k
 brackets,Brackets
 bracket,Championship Bracket
+Oregon,Oregon State (B),0,0,"04/11/2026, 14:15",Quarters,Scheduled
+Simon Fraser,Oregon State,0,0,"04/11/2026, 14:15",Quarters,Scheduled
 bracket,2nd Place
 bracket,5th Place
 bracket,7th Place
