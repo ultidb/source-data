@@ -27,6 +27,26 @@ teamInfo,Motion B,"San Luis Obispo, California",,,
 85,Kira Stringer
 99,Storey Flowers
 b,r,e,a,k
+California-San Diego (B),1
+teamInfo,UC San Diego Berserk Coalition,"La Jolla, California",https://recreation.ucsd.edu/competitive-sports/teams/w-ultimate/,,
+0,Anna Lewis
+0,Jenny Chen
+0,Kate Wang
+0,Lillian Gundberg
+0,Sydney Martin-Grimes
+0,Yvonne Hsu
+0,Fiona Zou
+00,Eva York
+00,Isabella Zaragoza
+09,Skye Baesen
+10,Annika Elaine Torres
+16,Marguerite Church
+26,Ariana Zaragoza
+33,Leila Jones
+49,Charlotte Durham
+60,Sophie Toussaint
+93,MaryClare Kinsella
+b,r,e,a,k
 California (B),6
 teamInfo,Cal Tarts,"Berkeley, California",http://www.piequeens.org,http://www.facebook.com/piequeensultimate,http://www.twitter.com/tartscal
 0,Eva Wang
@@ -49,26 +69,6 @@ teamInfo,Cal Tarts,"Berkeley, California",http://www.piequeens.org,http://www.fa
 11,Kiani Baetsle
 82,Sammie Smith
 b,r,e,a,k
-California-San Diego (B),1
-teamInfo,UC San Diego Berserk Coalition,"La Jolla, California",https://recreation.ucsd.edu/competitive-sports/teams/w-ultimate/,,
-0,Anna Lewis
-0,Jenny Chen
-0,Kate Wang
-0,Lillian Gundberg
-0,Sydney Martin-Grimes
-0,Yvonne Hsu
-0,Fiona Zou
-00,Eva York
-00,Isabella Zaragoza
-09,Skye Baesen
-10,Annika Elaine Torres
-16,Marguerite Church
-26,Ariana Zaragoza
-33,Leila Jones
-49,Charlotte Durham
-60,Sophie Toussaint
-93,MaryClare Kinsella
-b,r,e,a,k
 California-San Diego (C),8
 teamInfo,Coalition Co,"San Diego, California",,,
 05,Leah Catalano
@@ -84,32 +84,6 @@ teamInfo,Coalition Co,"San Diego, California",,,
 69,Olivia Williamson
 95,Sophia Ramirez
 96,Annabelle Duink
-b,r,e,a,k
-UCLA (B),2
-teamInfo,UCLA Midas,"Los Angeles, California",,,https://twitter.com/uclamidas
-0,Jiayan Li
-0,Naomi Rosen
-0,Rebecca Chang
-0,Adeline Praskins
-0,Alessandra Dambacher
-0,Swati Vemulapalli
-0,Talia Slavin
-0,Yu-Ting Hou
-0,Annie Bryant
-00,Ashley Posch
-00,Chiara Benedetti
-00,Aarthi Raghavan
-00,Georgia Salcau
-00,Amelia Walker
-00,Raquel Clydesdale
-00,Ella Visosky
-00,Isabel Veit
-00,Maya Pottebaum
-00,Meia Schram
-00,Mirjana Vujovich
-19,Alissa Pfeffer
-47,Saiyana Toran
-80,Andrea Zayas Conner
 b,r,e,a,k
 California-Davis (B),4
 teamInfo,Rogue B,"Davis, California",,,
@@ -154,6 +128,32 @@ teamInfo,Firefly,"Stanford, California",https://web.stanford.edu/group/superfly/
 00,Claire Beamer
 00,Edie Quinn
 b,r,e,a,k
+UCLA (B),2
+teamInfo,UCLA Midas,"Los Angeles, California",,,https://twitter.com/uclamidas
+0,Jiayan Li
+0,Naomi Rosen
+0,Rebecca Chang
+0,Adeline Praskins
+0,Alessandra Dambacher
+0,Swati Vemulapalli
+0,Talia Slavin
+0,Yu-Ting Hou
+0,Annie Bryant
+00,Ashley Posch
+00,Chiara Benedetti
+00,Aarthi Raghavan
+00,Georgia Salcau
+00,Amelia Walker
+00,Raquel Clydesdale
+00,Ella Visosky
+00,Isabel Veit
+00,Maya Pottebaum
+00,Meia Schram
+00,Mirjana Vujovich
+19,Alissa Pfeffer
+47,Saiyana Toran
+80,Andrea Zayas Conner
+b,r,e,a,k
 Southern California (B),7
 teamInfo,Kleos,"Los Angeles, California",,,
 0,Haven Hunt
@@ -174,7 +174,7 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
-California-San Diego (B),California (B),8,4,"04/11/2026, 08:30",Pool A,In Progress
+California-San Diego (B),California (B),12,8,"04/11/2026, 08:30",Pool A,Final
 Cal Poly-SLO (B),California-San Diego (C),15,1,"04/11/2026, 08:30",Pool A,Final
 California-San Diego (B),California-San Diego (C),0,0,"04/11/2026, 10:30",Pool A,Scheduled
 Cal Poly-SLO (B),California (B),0,0,"04/11/2026, 10:30",Pool A,Scheduled
@@ -182,7 +182,7 @@ California-San Diego (B),Cal Poly-SLO (B),0,0,"04/11/2026, 12:30",Pool A,Schedul
 California (B),California-San Diego (C),0,0,"04/11/2026, 12:30",Pool A,Scheduled
 pool,Pool B
 UCLA (B),Stanford (B),0,0,"04/11/2026, 08:30",Pool B,Scheduled
-California-Davis (B),Southern California (B),0,0,"04/11/2026, 08:30",Pool B,Scheduled
+California-Davis (B),Southern California (B),15,3,"04/11/2026, 08:30",Pool B,Final
 UCLA (B),Southern California (B),0,0,"04/11/2026, 10:30",Pool B,Scheduled
 California-Davis (B),Stanford (B),0,0,"04/11/2026, 10:30",Pool B,Scheduled
 UCLA (B),California-Davis (B),0,0,"04/11/2026, 12:30",Pool B,Scheduled
