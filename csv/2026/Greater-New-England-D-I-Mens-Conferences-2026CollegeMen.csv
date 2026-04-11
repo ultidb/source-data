@@ -62,28 +62,6 @@ teamInfo,MUT,"Montreal, Quebec CA",https://mcgillultimate.com/,https://www.faceb
 77,Jaden Verlaan
 88,Nicholas Nesbitt
 b,r,e,a,k
-Rhode Island,6
-teamInfo,RIUT,"Kingston, Rhode Island",,https://www.facebook.com/MensRIUT/,https://twitter.com/mensriut?lang=en
-0,Adam Ross
-00,Carson Paull
-00,Connor Ham
-00,Dylan Lang
-00,Joshua Klemm
-00,Matias Hazbon
-00,Thomas Vinagre
-00,Mike Amighi
-00,Aidan Sykes
-00,Chase Flint
-00,Caden Walker
-00,Jason Berube
-00,Gavin Soulia
-00,Ben Drucker
-00,Brandon McPhee
-03,Evan Fallon
-14,jayson Morelli
-15,Evan Trombley
-72,Aidan Mahoney
-b,r,e,a,k
 Dartmouth,7
 teamInfo,Pain Train,"Hanover, New Hampshire",https://sites.dartmouth.edu/ultimatefrisbee/paintrain/,,https://twitter.com/DMouthPainTrain
 00,Ben Fusillo
@@ -111,6 +89,28 @@ teamInfo,Pain Train,"Hanover, New Hampshire",https://sites.dartmouth.edu/ultimat
 00,Simeon Hartman
 00,James Flaggert
 67,Evan Jaffe
+b,r,e,a,k
+Rhode Island,6
+teamInfo,RIUT,"Kingston, Rhode Island",,https://www.facebook.com/MensRIUT/,https://twitter.com/mensriut?lang=en
+0,Adam Ross
+00,Carson Paull
+00,Connor Ham
+00,Dylan Lang
+00,Joshua Klemm
+00,Matias Hazbon
+00,Thomas Vinagre
+00,Mike Amighi
+00,Aidan Sykes
+00,Chase Flint
+00,Caden Walker
+00,Jason Berube
+00,Gavin Soulia
+00,Ben Drucker
+00,Brandon McPhee
+03,Evan Fallon
+14,jayson Morelli
+15,Evan Trombley
+72,Aidan Mahoney
 b,r,e,a,k
 Massachusetts,2
 teamInfo,Zoodisc,"Amherst, Massachusetts",,https://www.facebook.com/UMassUltimate/,https://twitter.com/UMassUltimateM
@@ -223,7 +223,7 @@ McGill,Dartmouth,12,8,"04/11/2026, 09:00",Pool A,Final
 Brown,Dartmouth,15,6,"04/11/2026, 11:00",Pool A,Final
 McGill,Rhode Island,14,10,"04/11/2026, 11:00",Pool A,Final
 Brown,McGill,15,7,"04/11/2026, 13:00",Pool A,Final
-Rhode Island,Dartmouth,0,0,"04/11/2026, 13:00",Pool A,Scheduled
+Rhode Island,Dartmouth,4,15,"04/11/2026, 13:00",Pool A,Final
 pool,Pool B
 Massachusetts,Maine,15,4,"04/11/2026, 09:00",Pool B,Final
 Vermont,New Hampshire,15,4,"04/11/2026, 09:00",Pool B,Final
@@ -234,7 +234,13 @@ Maine,New Hampshire,15,2,"04/11/2026, 13:00",Pool B,Final
 b,r,e,a,k
 brackets,Bracket Play
 bracket,Championship
+Brown,Vermont,0,0,"04/12/2026, 09:00",Semifinals,Scheduled
+McGill,Massachusetts,0,0,"04/12/2026, 09:00",Semifinals,Scheduled
+Vermont,Dartmouth,15,3,"04/11/2026, 15:00",Quarterfinals,Final
+McGill,Maine,15,7,"04/11/2026, 15:00",Quarterfinals,Final
 bracket,2nd Place Bracket
 bracket,4th Place Bracket
+Dartmouth,New Hampshire,0,0,"04/12/2026, 09:00",4th Place Quarterfinals,Scheduled
+Rhode Island,Maine,0,0,"04/12/2026, 09:00",4th Place Quarterfinals,Scheduled
 bracket,Game to Go
 b,r,e,a,k
