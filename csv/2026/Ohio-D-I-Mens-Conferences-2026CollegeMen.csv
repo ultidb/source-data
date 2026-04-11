@@ -1,6 +1,36 @@
 Ohio D-I Men's Conferences,College - Men ,11,4,2026
 Fairborn,OH,2026-04-11,2026-04-12
 https://play.usaultimate.org/events/Ohio-D-I-Mens-Conferences-2026/schedule/Men/CollegeMen/
+Case Western Reserve,4
+teamInfo,Fighting Gobies[A],"Cleveland, Ohio",http://ultimate.case.edu,https://www.facebook.com/GobyWarriors/,https://twitter.com/fightinggobiesm
+0,Ethan Sloat
+0,Germán Sanz-Rios
+0,Abraham  Bentley
+0,Nathan Onderko
+0,Paul Swingley
+0,Rafi Thaler
+00,Sam King
+00,Liam Becker
+02,Simon Eskin
+03,Denton Ryan
+04,Daniel Batyrbaev
+05,Jake Stahl
+06,Zareh Dechkounian
+09,Max Lafond
+11,Owen  Gold
+12,Cooper Carson
+15,Max Lawton
+18,Alex Schafer
+21,Lekh Murthy
+23,Drew Carman
+25,Jacob Rollins
+27,Maddox Sutton
+28,Nathaniel Poshkus
+29,Kevin Zhou
+37,Zane Edleman
+45,Jason Zhou
+76,Logan Heck
+b,r,e,a,k
 Ohio State,1
 teamInfo,Leadbelly,"Columbus, Ohio",,,
 0,Evan Sanborn
@@ -70,36 +100,6 @@ teamInfo,FLUD,"Dayton, Ohio",,https://instagram.com/flud_ultimate,https://twitte
 00,Ben Manion
 20,Colsten Spelman
 b,r,e,a,k
-Case Western Reserve,4
-teamInfo,Fighting Gobies[A],"Cleveland, Ohio",http://ultimate.case.edu,https://www.facebook.com/GobyWarriors/,https://twitter.com/fightinggobiesm
-0,Ethan Sloat
-0,Germán Sanz-Rios
-0,Abraham  Bentley
-0,Nathan Onderko
-0,Paul Swingley
-0,Rafi Thaler
-00,Sam King
-00,Liam Becker
-02,Simon Eskin
-03,Denton Ryan
-04,Daniel Batyrbaev
-05,Jake Stahl
-06,Zareh Dechkounian
-09,Max Lafond
-11,Owen  Gold
-12,Cooper Carson
-15,Max Lawton
-18,Alex Schafer
-21,Lekh Murthy
-23,Drew Carman
-25,Jacob Rollins
-27,Maddox Sutton
-28,Nathaniel Poshkus
-29,Kevin Zhou
-37,Zane Edleman
-45,Jason Zhou
-76,Logan Heck
-b,r,e,a,k
 Toledo,9
 teamInfo,Savage,"Toledo, Ohio",,,
 0,Logan Rawski
@@ -141,52 +141,6 @@ teamInfo,GoonSquad,"Akron, Ohio",,,
 44,Vincent Innocenzi
 99,Braeden Skoczen
 b,r,e,a,k
-Kent State,8
-teamInfo,Klockwork,"Kent, Ohio",,,https://twitter.com/kentultimate
-coaches,Vonterio Duncan,Matthew Sullivan
-0,Abdul-Rahaman Mahama
-0,Leo Walsh
-0,Tyler Breth
-0,Gabriel Johnson
-0,Mason Bair
-0,Paige Toflinski
-0,Reina Cirota
-0,Brandon Renner
-06,Malaki Stanfield
-07,Jackson Wallace
-15,Luca White
-16,Rebecca Study
-17,Ethan Jenkins
-21,Justin Rice
-22,Koen Sarver
-37,Logan  Thompson
-39,Bridget Whaley
-b,r,e,a,k
-Cincinnati,2
-teamInfo,Bearcats,"Cincinnati, Ohio",,,https://twitter.com/UCUltimate
-0,Adam Schumacher
-0,Adam Thornton
-0,Andrew Potter
-0,Roman Rodriguez
-0,Matthew Piszcz
-00,Nihaal Sidhu
-00,Robby Fitzgerald
-01,Jalal Sylvester
-06,Brom Schindler
-07,William Sheridan
-09,Brady Smith
-11,William Wettengel
-19,David Phalen
-23,Ian Hailey
-25,Bradley Caldwell
-27,Westley  Laughton
-42,Christopher Fischer
-46,James Butz
-47,Brock Spencer
-48,Lloyd Goldstein
-75,Aidan Sommer
-88,Jake Wahl
-b,r,e,a,k
 Ohio,3
 teamInfo,Trout,"Athens, Ohio",,https://www.facebook.com/ohioultimate/,https://twitter.com/OUultimate
 0,Kyle Gromen
@@ -214,6 +168,52 @@ teamInfo,Trout,"Athens, Ohio",,https://www.facebook.com/ohioultimate/,https://tw
 10,Marcus Berger
 11,Wynn Yoder
 14,Ryan  Baxley
+b,r,e,a,k
+Cincinnati,2
+teamInfo,Bearcats,"Cincinnati, Ohio",,,https://twitter.com/UCUltimate
+0,Adam Schumacher
+0,Adam Thornton
+0,Andrew Potter
+0,Roman Rodriguez
+0,Matthew Piszcz
+00,Nihaal Sidhu
+00,Robby Fitzgerald
+01,Jalal Sylvester
+06,Brom Schindler
+07,William Sheridan
+09,Brady Smith
+11,William Wettengel
+19,David Phalen
+23,Ian Hailey
+25,Bradley Caldwell
+27,Westley  Laughton
+42,Christopher Fischer
+46,James Butz
+47,Brock Spencer
+48,Lloyd Goldstein
+75,Aidan Sommer
+88,Jake Wahl
+b,r,e,a,k
+Kent State,8
+teamInfo,Klockwork,"Kent, Ohio",,,https://twitter.com/kentultimate
+coaches,Vonterio Duncan,Matthew Sullivan
+0,Abdul-Rahaman Mahama
+0,Leo Walsh
+0,Tyler Breth
+0,Gabriel Johnson
+0,Mason Bair
+0,Paige Toflinski
+0,Reina Cirota
+0,Brandon Renner
+06,Malaki Stanfield
+07,Jackson Wallace
+15,Luca White
+16,Rebecca Study
+17,Ethan Jenkins
+21,Justin Rice
+22,Koen Sarver
+37,Logan  Thompson
+39,Bridget Whaley
 b,r,e,a,k
 Cleveland State,10
 teamInfo,Cleveland State Vikings,"Cleveland, Ohio",,,
@@ -267,7 +267,7 @@ pool,Pool A
 Dayton,Toledo,15,4,"04/11/2026, 08:30",Pool A,Final
 Case Western Reserve,Akron,13,10,"04/11/2026, 08:30",Pool A,Final
 Ohio State,Akron,15,3,"04/11/2026, 10:20",Pool A,Final
-Case Western Reserve,Dayton,0,0,"04/11/2026, 10:20",Pool A,Scheduled
+Case Western Reserve,Dayton,11,7,"04/11/2026, 10:20",Pool A,Final
 Ohio State,Toledo,0,0,"04/11/2026, 12:10",Pool A,Scheduled
 Akron,Dayton,0,0,"04/11/2026, 12:10",Pool A,Scheduled
 Ohio State,Dayton,0,0,"04/11/2026, 14:00",Pool A,Scheduled
@@ -278,7 +278,7 @@ pool,Pool B
 Kent State,Cleveland State,15,1,"04/11/2026, 08:30",Pool B,Final
 Ohio,Miami (Ohio),14,9,"04/11/2026, 08:30",Pool B,Final
 Cincinnati,Miami (Ohio),15,3,"04/11/2026, 10:20",Pool B,Final
-Ohio,Kent State,0,0,"04/11/2026, 10:20",Pool B,Scheduled
+Ohio,Kent State,15,6,"04/11/2026, 10:20",Pool B,Final
 Cincinnati,Cleveland State,0,0,"04/11/2026, 12:10",Pool B,Scheduled
 Miami (Ohio),Kent State,0,0,"04/11/2026, 12:10",Pool B,Scheduled
 Cincinnati,Kent State,0,0,"04/11/2026, 14:00",Pool B,Scheduled
