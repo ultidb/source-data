@@ -108,21 +108,6 @@ teamInfo,Supernova,"Chicago, Illinois",,https://www.facebook.com/UChicagoUltimat
 00,Chimin Liu
 00,Emma Pavlicek
 b,r,e,a,k
-DePaul,6
-teamInfo,Laser Chains,"Chicago, Illinois",https://dehub.depaul.edu/laserchains/home/,,
-0,Frances Ganser
-0,Isa Brady
-0,Tessa Tully
-00,Sadie Peterson
-03,Jillian Allen
-04,Lily Smith
-08,Lauren Hyatt
-11,Nellie Mai
-12,Emma Lange
-13,Adeline Halverson
-18,Vanessa Mazur
-61,Agnes Kuchta
-b,r,e,a,k
 Illinois (B),7
 teamInfo,Mamba,"Champaign-Urbana, Illinois",https://www.illinoismenace.com/,https://www.instagram.com/illinoismamba/,
 01,Jingyuan Liang
@@ -142,6 +127,21 @@ teamInfo,Mamba,"Champaign-Urbana, Illinois",https://www.illinoismenace.com/,http
 64,Anna Roberts
 70,Nicole Grudzien
 b,r,e,a,k
+DePaul,6
+teamInfo,Laser Chains,"Chicago, Illinois",https://dehub.depaul.edu/laserchains/home/,,
+0,Frances Ganser
+0,Isa Brady
+0,Tessa Tully
+00,Sadie Peterson
+03,Jillian Allen
+04,Lily Smith
+08,Lauren Hyatt
+11,Nellie Mai
+12,Emma Lange
+13,Adeline Halverson
+18,Vanessa Mazur
+61,Agnes Kuchta
+b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
@@ -149,12 +149,12 @@ Illinois,Northwestern (B),0,0,"04/11/2026, 09:00",Pool A,Scheduled
 Illinois,Loyola-Chicago,0,0,"04/11/2026, 11:00",Pool A,Scheduled
 Loyola-Chicago,Northwestern (B),0,0,"04/11/2026, 13:00",Pool A,Scheduled
 pool,Pool B
-Northwestern,DePaul,0,0,"04/11/2026, 09:00",Pool B,Scheduled
-Chicago,Illinois (B),0,0,"04/11/2026, 09:00",Pool B,Scheduled
+Northwestern,DePaul,W,L,"04/11/2026, 09:00",Pool B,Final
+Chicago,Illinois (B),0,0,"04/11/2026, 09:00",Pool B,In Progress
 Northwestern,Illinois (B),0,0,"04/11/2026, 11:00",Pool B,Scheduled
-Chicago,DePaul,0,0,"04/11/2026, 11:00",Pool B,Scheduled
+Chicago,DePaul,W,L,"04/11/2026, 11:00",Pool B,Final
 Northwestern,Chicago,0,0,"04/11/2026, 13:00",Pool B,Scheduled
-DePaul,Illinois (B),0,0,"04/11/2026, 13:00",Pool B,Scheduled
+DePaul,Illinois (B),L,W,"04/11/2026, 13:00",Pool B,Final
 b,r,e,a,k
 pools,Crossover Pool
 pool,Crossover Pool
