@@ -38,22 +38,6 @@ teamInfo,WUFO,"Williamstown, Massachusetts",http://williamsultimate.com,http://i
 88,Kiva Zimmerman
 91,Adam Kohn
 b,r,e,a,k
-Bryant,8
-teamInfo,Bryant Craze,"Smithfield, Rhode Island",,,https://twitter.com/BryantUltimate
-0,Daniel Belmuth
-0,Joshua Clifford
-0,Noah Kahn
-0,Will Desautels
-0,Wyatt Thomas
-0,Cole Mellen
-7,Michael Dadddario
-9,Liam Hickey
-10,Ben Adelson
-14,Denver Tetreault
-17,Jack Hagerty
-34,Jackson Burns
-39,Keenan Wetherbee
-b,r,e,a,k
 Roger Williams,6
 teamInfo,RWU Mens Ultimate,"Bristol, Rhode Island",,,
 06,Robert Hayes
@@ -70,34 +54,21 @@ teamInfo,RWU Mens Ultimate,"Bristol, Rhode Island",,,
 74,Josh Flaherty
 85,Charlie Mortali
 b,r,e,a,k
-Worcester Polytech,3
-teamInfo,Whisper,"Worcester, Massachusetts",,,
-0,Colin Masucci
-0,Spencer Mann
-00,Kyle Doll
-00,John Hall
-00,Davi Paiva
-00,Joe Molder
-00,Evan Carmody
-00,Felix Sutherlin
-00,Jake Burke
-00,John Cassell
-00,Joshua Dunlap
-00,Max Jansen
-00,Nathaniel Powers
-00,Robbie Galpern-Levin
-00,Seamus Harte
-00,Aman Siddiqi
-00,Austin Zold
-00,Benjamin Haugsjaahabink
-00,Tyler Gillman
-00,Blake Burkey
-00,Dhaniel Ramos
-02,Brandon Gu
-13,Tristan Suplis
-16,Eric Impink
-29,Malcolm Cooper
-81,Cole Bennett
+Bryant,8
+teamInfo,Bryant Craze,"Smithfield, Rhode Island",,,https://twitter.com/BryantUltimate
+0,Daniel Belmuth
+0,Joshua Clifford
+0,Noah Kahn
+0,Will Desautels
+0,Wyatt Thomas
+0,Cole Mellen
+7,Michael Dadddario
+9,Liam Hickey
+10,Ben Adelson
+14,Denver Tetreault
+17,Jack Hagerty
+34,Jackson Burns
+39,Keenan Wetherbee
 b,r,e,a,k
 Amherst,2
 teamInfo,Army of Darkness,"Amherst, Massachusetts",,,
@@ -131,6 +102,34 @@ teamInfo,Army of Darkness,"Amherst, Massachusetts",,,
 22,Thomas O'Connor
 24,Jesse Lebolt
 69,Theodore Stephens
+b,r,e,a,k
+Providence,4
+teamInfo,PC Ulty,"Providence, Rhode Island",,,
+0,Kamryn Kerr
+0,Konrad Rogowski
+0,Luana Saldanha
+0,Ava Dakin
+00,Billy Mattison
+00,Samuel Johnson
+00,Sebastian  Freeman
+00,Liam Thornton
+00,Connor Jordan
+02,Jacob Lebeuf
+04,Andrew Hilton
+06,Deming Randolph
+11,Jake O'Hanlon
+14,John Torres-Serrano
+15,Caroline Freeman
+18,Charles Hilton
+20,Jake Whelan
+21,Caden Weis
+23,Emma Thornton
+33,Oliver Kilgore
+44,Katherine Schroder
+47,Brian Ladino
+55,Arron Keane
+72,Shane Brennan
+77,Sean Coyne
 b,r,e,a,k
 Holy Cross,7
 teamInfo,Purple Heys,"Worcester, Massachusetts",,,https://x.com/i/flow/login?redirect_after_login=%2Fpurpleheysulti
@@ -176,35 +175,50 @@ teamInfo,Golden Bears,"Springfield, Massachusetts",,,
 24,Christopher Wilson
 98,Michael McCarthy
 b,r,e,a,k
-Providence,4
-teamInfo,PC Ulty,"Providence, Rhode Island",,,
-0,Kamryn Kerr
-0,Konrad Rogowski
-0,Luana Saldanha
-0,Ava Dakin
-00,Billy Mattison
-00,Samuel Johnson
-00,Sebastian  Freeman
-00,Liam Thornton
-00,Connor Jordan
-02,Jacob Lebeuf
-04,Andrew Hilton
-06,Deming Randolph
-11,Jake O'Hanlon
-14,John Torres-Serrano
-15,Caroline Freeman
-18,Charles Hilton
-20,Jake Whelan
-21,Caden Weis
-23,Emma Thornton
-33,Oliver Kilgore
-44,Katherine Schroder
-47,Brian Ladino
-55,Arron Keane
-72,Shane Brennan
-77,Sean Coyne
+Worcester Polytech,3
+teamInfo,Whisper,"Worcester, Massachusetts",,,
+0,Colin Masucci
+0,Spencer Mann
+00,Kyle Doll
+00,John Hall
+00,Davi Paiva
+00,Joe Molder
+00,Evan Carmody
+00,Felix Sutherlin
+00,Jake Burke
+00,John Cassell
+00,Joshua Dunlap
+00,Max Jansen
+00,Nathaniel Powers
+00,Robbie Galpern-Levin
+00,Seamus Harte
+00,Aman Siddiqi
+00,Austin Zold
+00,Benjamin Haugsjaahabink
+00,Tyler Gillman
+00,Blake Burkey
+00,Dhaniel Ramos
+02,Brandon Gu
+13,Tristan Suplis
+16,Eric Impink
+29,Malcolm Cooper
+81,Cole Bennett
 b,r,e,a,k
 s,t,a,g,e,s
+brackets,Championship Bracket
+bracket,Finals
+Williams,Roger Williams,15,4,"04/12/2026, 09:00",Semifinals,Final
+Bryant,Amherst,0,0,"04/12/2026, 09:00",Semifinals,Scheduled
+Williams,Providence,15,5,"04/11/2026, 16:15",Qtr Finals,Final
+Holy Cross,Roger Williams,9,15,"04/11/2026, 16:15",Qtr Finals,Final
+Bryant,Western New England,15,2,"04/11/2026, 16:15",Qtr Finals,Final
+Amherst,Worcester Polytech,15,11,"04/11/2026, 16:15",Qtr Finals,Final
+bracket,3rd Place Bracket
+Providence,Holy Cross,0,0,"04/12/2026, 09:00",3rd Place Qtrs,Scheduled
+Western New England,Worcester Polytech,0,0,"04/12/2026, 09:00",3rd Place Qtrs,Scheduled
+bracket,5th Place Game/Game to Go
+bracket,7th Place
+b,r,e,a,k
 pools,Saturday Pool Play
 pool,Pool A
 Williams,Roger Williams,14,3,"04/11/2026, 11:00",Pool A,Final
@@ -220,18 +234,4 @@ Amherst,Holy Cross,13,4,"04/11/2026, 12:45",Pool B,Final
 Providence,Western New England,7,11,"04/11/2026, 12:45",Pool B,Final
 Amherst,Providence,15,4,"04/11/2026, 14:30",Pool B,Final
 Western New England,Holy Cross,7,10,"04/11/2026, 14:30",Pool B,Final
-b,r,e,a,k
-brackets,Championship Bracket
-bracket,Finals
-Williams,Roger Williams,0,0,"04/12/2026, 09:00",Semifinals,Scheduled
-Bryant,Amherst,0,0,"04/12/2026, 09:00",Semifinals,Scheduled
-Williams,Providence,15,5,"04/11/2026, 16:15",Qtr Finals,Final
-Holy Cross,Roger Williams,9,15,"04/11/2026, 16:15",Qtr Finals,Final
-Bryant,Western New England,15,2,"04/11/2026, 16:15",Qtr Finals,Final
-Amherst,Worcester Polytech,15,11,"04/11/2026, 16:15",Qtr Finals,Final
-bracket,3rd Place Bracket
-Providence,Holy Cross,0,0,"04/12/2026, 09:00",3rd Place Qtrs,Scheduled
-Western New England,Worcester Polytech,0,0,"04/12/2026, 09:00",3rd Place Qtrs,Scheduled
-bracket,5th Place Game/Game to Go
-bracket,7th Place
 b,r,e,a,k
