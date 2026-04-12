@@ -38,22 +38,6 @@ teamInfo,WUFO,"Williamstown, Massachusetts",http://williamsultimate.com,http://i
 88,Kiva Zimmerman
 91,Adam Kohn
 b,r,e,a,k
-Roger Williams,6
-teamInfo,RWU Mens Ultimate,"Bristol, Rhode Island",,,
-06,Robert Hayes
-11,Eric Buecklers
-11,Leo Lally
-11,Michael Pitkin
-12,Ryan Allen
-12,Ava Mallow
-14,Nathan Fernandes
-32,Josiah Keys
-39,Ryan Morgan
-50,Forrest Holloway
-72,Carter Dionne
-74,Josh Flaherty
-85,Charlie Mortali
-b,r,e,a,k
 Bryant,8
 teamInfo,Bryant Craze,"Smithfield, Rhode Island",,,https://twitter.com/BryantUltimate
 0,Daniel Belmuth
@@ -69,6 +53,22 @@ teamInfo,Bryant Craze,"Smithfield, Rhode Island",,,https://twitter.com/BryantUlt
 17,Jack Hagerty
 34,Jackson Burns
 39,Keenan Wetherbee
+b,r,e,a,k
+Roger Williams,6
+teamInfo,RWU Mens Ultimate,"Bristol, Rhode Island",,,
+06,Robert Hayes
+11,Eric Buecklers
+11,Leo Lally
+11,Michael Pitkin
+12,Ryan Allen
+12,Ava Mallow
+14,Nathan Fernandes
+32,Josiah Keys
+39,Ryan Morgan
+50,Forrest Holloway
+72,Carter Dionne
+74,Josh Flaherty
+85,Charlie Mortali
 b,r,e,a,k
 Amherst,2
 teamInfo,Army of Darkness,"Amherst, Massachusetts",,,
@@ -207,14 +207,16 @@ b,r,e,a,k
 s,t,a,g,e,s
 brackets,Championship Bracket
 bracket,Finals
+Williams,Bryant,0,0,"04/12/2026, 13:00",Finals,Scheduled
 Williams,Roger Williams,15,4,"04/12/2026, 09:00",Semifinals,Final
-Bryant,Amherst,0,0,"04/12/2026, 09:00",Semifinals,Scheduled
+Bryant,Amherst,12,9,"04/12/2026, 09:00",Semifinals,Final
 Williams,Providence,15,5,"04/11/2026, 16:15",Qtr Finals,Final
 Holy Cross,Roger Williams,9,15,"04/11/2026, 16:15",Qtr Finals,Final
 Bryant,Western New England,15,2,"04/11/2026, 16:15",Qtr Finals,Final
 Amherst,Worcester Polytech,15,11,"04/11/2026, 16:15",Qtr Finals,Final
 bracket,3rd Place Bracket
-Providence,Holy Cross,0,0,"04/12/2026, 09:00",3rd Place Qtrs,Scheduled
+Providence,Amherst,0,0,"04/12/2026, 11:00",3rd Place Semis,Scheduled
+Providence,Holy Cross,11,10,"04/12/2026, 09:00",3rd Place Qtrs,Final
 Western New England,Worcester Polytech,0,0,"04/12/2026, 09:00",3rd Place Qtrs,Scheduled
 bracket,5th Place Game/Game to Go
 bracket,7th Place
