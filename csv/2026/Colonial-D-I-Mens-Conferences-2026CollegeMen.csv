@@ -114,6 +114,32 @@ b,r,e,a,k
 Maryland,2
 teamInfo,,,,,
 b,r,e,a,k
+American,6
+teamInfo,Stall 11,"Washington, District of Columbia",http://www.americanultimate.com/main-site#!__main-site,https://www.facebook.com/stall11,http://twitter.com/AU_Ultimate/
+coaches,Aman Chawla
+0,Amanuel Howard
+0,Asher  Rosen
+0,Brennan Lein
+0,Elliot Gerlach
+0,James Branning
+0,Joshua Barshay
+0,Luca Alvarez
+0,Lucas Eisenberg
+0,Miles Hahn
+0,Myles Williams
+0,Nathan Hardaway
+0,Paul De Bord
+0,Sage Maklansky
+0,Simon Bober
+0,Theo Smith
+0,Thomas Brown
+0,William Zimmerman
+07,Avi Paulson
+09,Dru Dunn
+22,Kyle Brown
+35,Adam Schutsky
+96,Jonathan Gould
+b,r,e,a,k
 Johns Hopkins,3
 teamInfo,Dangerzone,"Baltimore, Maryland",http://jhudangerzone.com,https://www.facebook.com/Dangerzone-Johns-Hopkins-University-Ultimate-180573762009844,https://twitter.com/dangerzoneulti
 0,Benjamin Rees
@@ -143,32 +169,6 @@ teamInfo,Dangerzone,"Baltimore, Maryland",http://jhudangerzone.com,https://www.f
 80,Shuwen Zheng
 99,Patrick Li
 b,r,e,a,k
-American,6
-teamInfo,Stall 11,"Washington, District of Columbia",http://www.americanultimate.com/main-site#!__main-site,https://www.facebook.com/stall11,http://twitter.com/AU_Ultimate/
-coaches,Aman Chawla
-0,Amanuel Howard
-0,Asher  Rosen
-0,Brennan Lein
-0,Elliot Gerlach
-0,James Branning
-0,Joshua Barshay
-0,Luca Alvarez
-0,Lucas Eisenberg
-0,Miles Hahn
-0,Myles Williams
-0,Nathan Hardaway
-0,Paul De Bord
-0,Sage Maklansky
-0,Simon Bober
-0,Theo Smith
-0,Thomas Brown
-0,William Zimmerman
-07,Avi Paulson
-09,Dru Dunn
-22,Kyle Brown
-35,Adam Schutsky
-96,Jonathan Gould
-b,r,e,a,k
 Maryland-Baltimore County,7
 teamInfo,Booya,"Baltimore, Maryland",,https://www.facebook.com/BooyaUltimate/?ref=bookmarks,https://twitter.com/UMBCUltimate
 0,Alex Will
@@ -196,23 +196,31 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
-Georgetown,George Washington,0,0,"04/18/2026, 12:45",Pool A,Scheduled
-Delaware,Towson,0,0,"04/18/2026, 12:45",Pool A,Scheduled
-Georgetown,Towson,0,0,"04/18/2026, 14:30",Pool A,Scheduled
-Delaware,George Washington,0,0,"04/18/2026, 14:30",Pool A,Scheduled
-Georgetown,Delaware,0,0,"04/18/2026, 16:15",Pool A,Scheduled
-George Washington,Towson,0,0,"04/18/2026, 16:15",Pool A,Scheduled
+Georgetown,George Washington,14,6,"04/18/2026, 12:45",Pool A,Final
+Delaware,Towson,15,5,"04/18/2026, 12:45",Pool A,Final
+Georgetown,Towson,15,4,"04/18/2026, 14:30",Pool A,Final
+Delaware,George Washington,12,4,"04/18/2026, 14:30",Pool A,Final
+Georgetown,Delaware,12,9,"04/18/2026, 16:15",Pool A,Final
+George Washington,Towson,15,4,"04/18/2026, 16:15",Pool A,Final
 pool,Pool B
-Maryland,American,0,0,"04/18/2026, 12:45",Pool B,Scheduled
-Johns Hopkins,Maryland-Baltimore County,0,0,"04/18/2026, 12:45",Pool B,Scheduled
-Maryland,Maryland-Baltimore County,0,0,"04/18/2026, 14:30",Pool B,Scheduled
-Johns Hopkins,American,0,0,"04/18/2026, 14:30",Pool B,Scheduled
-Maryland,Johns Hopkins,0,0,"04/18/2026, 16:15",Pool B,Scheduled
-American,Maryland-Baltimore County,0,0,"04/18/2026, 16:15",Pool B,Scheduled
+Maryland,American,15,1,"04/18/2026, 12:45",Pool B,Final
+Johns Hopkins,Maryland-Baltimore County,11,8,"04/18/2026, 12:45",Pool B,Final
+Maryland,Maryland-Baltimore County,15,3,"04/18/2026, 14:30",Pool B,Final
+Johns Hopkins,American,7,10,"04/18/2026, 14:30",Pool B,Final
+Maryland,Johns Hopkins,15,5,"04/18/2026, 16:15",Pool B,Final
+American,Maryland-Baltimore County,10,9,"04/18/2026, 16:15",Pool B,Final
 b,r,e,a,k
 brackets,Bracket Play
 bracket,1st Place 
+Georgetown,Maryland,9,15,"04/19/2026, 11:00",1st Place Finals,Final
 bracket,2nd Place
+Georgetown,Delaware,15,10,"04/19/2026, 13:00",2nd Place Finals,Final
+Delaware,American,15,6,"04/19/2026, 11:00",2nd Place Semis,Final
 bracket,4th Place
+American,Johns Hopkins,8,14,"04/19/2026, 13:00",4th Place Finals,Final
+George Washington,Johns Hopkins,6,13,"04/19/2026, 11:00",4th Place Semis,Final
+George Washington,Maryland-Baltimore County,11,6,"04/19/2026, 09:00",4th Place Quarters,Final
+Johns Hopkins,Towson,15,8,"04/19/2026, 09:00",4th Place Quarters,Final
 bracket,7th Place
+Maryland-Baltimore County,Towson,6,8,"04/19/2026, 11:00",7th Place Finals,Final
 b,r,e,a,k
