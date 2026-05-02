@@ -29,6 +29,9 @@ teamInfo,Pleiades,"Chapel Hill, North Carolina",http://www.uncpleiades.com,https
 06,Claudia Dare
 19,Caroleen DeWolf
 b,r,e,a,k
+James Madison,12
+teamInfo,,,,,
+b,r,e,a,k
 Clemson,8
 teamInfo,Joint Chiefs of Waft,"Clemson, South Carolina",http://www.clemson.edu/ultimate/,,
 0,Adam Britt
@@ -54,13 +57,7 @@ teamInfo,Joint Chiefs of Waft,"Clemson, South Carolina",http://www.clemson.edu/u
 35,Isaac Esuary
 57,Spencer Paine
 b,r,e,a,k
-James Madison,12
-teamInfo,,,,,
-b,r,e,a,k
 Maryland,13
-teamInfo,,,,,
-b,r,e,a,k
-North Carolina-Wilmington,7
 teamInfo,,,,,
 b,r,e,a,k
 Virginia,2
@@ -91,6 +88,9 @@ teamInfo,Vermont B,"Burlington, Vermont",,,
 17,Lila Findlay
 20,Emma Buckley
 23,Rebecca FitzGerald
+b,r,e,a,k
+North Carolina-Wilmington,7
+teamInfo,,,,,
 b,r,e,a,k
 George Washington,14
 teamInfo,George Washington Men’s Club Ultimate,"Washington, District of Columbia",,,https://twitter.com/Gdub_Ultimate
@@ -166,10 +166,10 @@ coaches,Jacob Blackman
 45,Benjamin Kaiser
 86,Brad Thomson
 b,r,e,a,k
-Charleston,15
+Virginia Tech,10
 teamInfo,,,,,
 b,r,e,a,k
-Virginia Tech,10
+Charleston,15
 teamInfo,,,,,
 b,r,e,a,k
 William & Mary,4
@@ -209,41 +209,53 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
-North Carolina,James Madison,0,0,"05/02/2026, 11:00",Pool A,Scheduled
-Clemson,Maryland,0,0,"05/02/2026, 11:00",Pool A,Scheduled
-North Carolina,Maryland,0,0,"05/02/2026, 13:00",Pool A,Scheduled
-Clemson,James Madison,0,0,"05/02/2026, 13:00",Pool A,Scheduled
-North Carolina,Clemson,0,0,"05/02/2026, 15:00",Pool A,Scheduled
-James Madison,Maryland,0,0,"05/02/2026, 15:00",Pool A,Scheduled
+North Carolina,James Madison,15,3,"05/02/2026, 11:00",Pool A,Final
+Clemson,Maryland,15,11,"05/02/2026, 11:00",Pool A,Final
+North Carolina,Maryland,15,2,"05/02/2026, 13:00",Pool A,Final
+Clemson,James Madison,8,15,"05/02/2026, 13:00",Pool A,Final
+North Carolina,Clemson,15,2,"05/02/2026, 15:00",Pool A,Final
+James Madison,Maryland,10,11,"05/02/2026, 15:00",Pool A,Final
 pool,Pool B
 Virginia,American,11,9,"05/02/2026, 09:00",Pool B,Final
 North Carolina-Wilmington,George Washington,15,2,"05/02/2026, 09:00",Pool B,Final
-Virginia,George Washington,0,0,"05/02/2026, 13:00",Pool B,Scheduled
-North Carolina-Wilmington,American,0,0,"05/02/2026, 13:00",Pool B,Scheduled
-Virginia,North Carolina-Wilmington,0,0,"05/02/2026, 15:00",Pool B,Scheduled
-American,George Washington,0,0,"05/02/2026, 15:00",Pool B,Scheduled
+Virginia,George Washington,15,7,"05/02/2026, 13:00",Pool B,Final
+North Carolina-Wilmington,American,7,12,"05/02/2026, 13:00",Pool B,Final
+Virginia,North Carolina-Wilmington,15,3,"05/02/2026, 15:00",Pool B,Final
+American,George Washington,13,10,"05/02/2026, 15:00",Pool B,Final
 pool,Pool C
 Georgetown,Virginia Tech,15,0,"05/02/2026, 09:00",Pool C,Final
 South Carolina,Charleston,15,1,"05/02/2026, 09:00",Pool C,Final
-Georgetown,Charleston,0,0,"05/02/2026, 13:00",Pool C,Scheduled
-South Carolina,Virginia Tech,0,0,"05/02/2026, 13:00",Pool C,Scheduled
-Georgetown,South Carolina,0,0,"05/02/2026, 15:00",Pool C,Scheduled
-Virginia Tech,Charleston,0,0,"05/02/2026, 15:00",Pool C,Scheduled
+Georgetown,Charleston,15,0,"05/02/2026, 13:00",Pool C,Final
+South Carolina,Virginia Tech,15,2,"05/02/2026, 13:00",Pool C,Final
+Georgetown,South Carolina,15,6,"05/02/2026, 15:00",Pool C,Final
+Virginia Tech,Charleston,9,8,"05/02/2026, 15:00",Pool C,Final
 pool,Pool D
-William & Mary,North Carolina State,0,0,"05/02/2026, 11:00",Pool D,Scheduled
-Liberty,Appalachian State,0,0,"05/02/2026, 11:00",Pool D,Scheduled
-William & Mary,Appalachian State,0,0,"05/02/2026, 13:00",Pool D,Scheduled
-Liberty,North Carolina State,0,0,"05/02/2026, 13:00",Pool D,Scheduled
-William & Mary,Liberty,0,0,"05/02/2026, 15:00",Pool D,Scheduled
-North Carolina State,Appalachian State,0,0,"05/02/2026, 15:00",Pool D,Scheduled
+William & Mary,North Carolina State,10,9,"05/02/2026, 11:00",Pool D,Final
+Liberty,Appalachian State,15,7,"05/02/2026, 11:00",Pool D,Final
+William & Mary,Appalachian State,15,5,"05/02/2026, 13:00",Pool D,Final
+Liberty,North Carolina State,13,9,"05/02/2026, 13:00",Pool D,Final
+William & Mary,Liberty,15,9,"05/02/2026, 15:00",Pool D,Final
+North Carolina State,Appalachian State,13,7,"05/02/2026, 15:00",Pool D,Final
 b,r,e,a,k
 brackets,Bracket Play
 bracket,1st Place 
+North Carolina,American,0,0,"05/03/2026, 08:30",1st Place Quarters,Scheduled
+South Carolina,William & Mary,0,0,"05/03/2026, 08:30",1st Place Quarters,Scheduled
+Georgetown,Liberty,0,0,"05/03/2026, 08:30",1st Place Quarters,Scheduled
+American,Virginia Tech,14,8,"05/02/2026, 17:00",1st Place PQ,Final
+South Carolina,North Carolina-Wilmington,13,10,"05/02/2026, 17:00",1st Place PQ,Final
+Liberty,Clemson,15,7,"05/02/2026, 17:00",1st Place PQ,Scheduled
+James Madison,North Carolina State,14,15,"05/02/2026, 17:00",1st Place PQ,Scheduled
 bracket,3rd Place
 bracket,5th Place Game One
 bracket,5th Place Game Two
 bracket,9th Place
+Virginia Tech,North Carolina-Wilmington,0,0,"05/03/2026, 08:30",9th Place Semis,Scheduled
 bracket,11th Place
 bracket,13th Place
+Appalachian State,George Washington,0,0,"05/03/2026, 08:30",13th Place Finals,Scheduled
+Maryland,Appalachian State,11,13,"05/02/2026, 17:00",13th Place Semis,Final
+George Washington,Charleston,15,7,"05/02/2026, 17:00",13th Place Semis,Final
 bracket,15th Place
+Maryland,Charleston,0,0,"05/03/2026, 08:30",15th Place Finals,Scheduled
 b,r,e,a,k
