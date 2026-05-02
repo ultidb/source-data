@@ -339,21 +339,28 @@ pools,Saturday Pool Play
 pool,Pool A
 Middlebury,Wentworth,15,1,"05/02/2026, 09:00",Pool A,Final
 Middlebury,Amherst,15,10,"05/02/2026, 10:45",Pool A,Final
-Amherst,Wentworth,0,0,"05/02/2026, 12:30",Pool A,Scheduled
+Amherst,Wentworth,15,4,"05/02/2026, 12:30",Pool A,Final
 pool,Pool B
 Williams,Bentley,15,3,"05/02/2026, 09:00",Pool B,Final
 Williams,Roger Williams,15,12,"05/02/2026, 10:45",Pool B,Final
-Roger Williams,Bentley,0,0,"05/02/2026, 12:30",Pool B,Scheduled
+Roger Williams,Bentley,13,10,"05/02/2026, 12:30",Pool B,Final
 pool,Pool C
 Bowdoin,Bates,15,4,"05/02/2026, 09:00",Pool C,Final
 Bowdoin,Bryant,10,9,"05/02/2026, 10:45",Pool C,Final
-Bryant,Bates,0,0,"05/02/2026, 12:30",Pool C,Scheduled
+Bryant,Bates,14,9,"05/02/2026, 12:30",Pool C,Final
 pool,Pool D
 Brandeis,Western New England,11,6,"05/02/2026, 09:00",Pool D,Final
 Brandeis,Colby,13,11,"05/02/2026, 10:45",Pool D,Final
-Colby,Western New England,0,0,"05/02/2026, 12:30",Pool D,Scheduled
+Colby,Western New England,13,8,"05/02/2026, 12:30",Pool D,Final
 b,r,e,a,k
 clusters,Saturday Crossovers
+cluster,Saturday Crossovers
+Middlebury,Bowdoin,0,0,"05/02/2026, 14:15",,Scheduled
+Williams,Brandeis,0,0,"05/02/2026, 14:15",,Scheduled
+Colby,Bentley,0,0,"05/02/2026, 14:15",,Scheduled
+Bryant,Wentworth,0,0,"05/02/2026, 14:15",,Scheduled
+Roger Williams,Western New England,0,0,"05/02/2026, 14:15",,Scheduled
+Amherst,Bates,0,0,"05/02/2026, 14:15",,Scheduled
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,Championship
