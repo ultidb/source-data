@@ -84,16 +84,16 @@ b,r,e,a,k
 Tufts (B),16
 teamInfo,,,,,
 b,r,e,a,k
-Northeastern,5
-teamInfo,,,,,
-b,r,e,a,k
 Tufts,4
 teamInfo,,,,,
 b,r,e,a,k
-Boston University,15
+Northeastern,5
 teamInfo,,,,,
 b,r,e,a,k
 Rhode Island,10
+teamInfo,,,,,
+b,r,e,a,k
+Boston University,15
 teamInfo,,,,,
 b,r,e,a,k
 s,t,a,g,e,s
@@ -120,10 +120,10 @@ Dartmouth,Tufts (B),0,0,"05/02/2026, 11:00",Pool C,Cancelled
 Vermont,Dartmouth,0,0,"05/02/2026, 11:00",Pool C,Scheduled
 Boston College,Tufts (B),0,0,"05/02/2026, 11:00",Pool C,Scheduled
 pool,Pool D
-Tufts,Boston University,0,0,"05/02/2026, 09:00",Pool D,Scheduled
+Tufts,Boston University,15,1,"05/02/2026, 09:00",Pool D,Final
 Northeastern,Rhode Island,15,5,"05/02/2026, 09:00",Pool D,Final
-Tufts,Rhode Island,0,0,"05/02/2026, 11:00",Pool D,Scheduled
-Northeastern,Boston University,0,0,"05/02/2026, 11:00",Pool D,Scheduled
+Tufts,Rhode Island,0,0,"05/02/2026, 11:00",Pool D,Cancelled
+Northeastern,Boston University,0,0,"05/02/2026, 11:00",Pool D,Cancelled
 Tufts,Northeastern,0,0,"05/02/2026, 11:00",Pool D,Scheduled
 Rhode Island,Boston University,0,0,"05/02/2026, 11:00",Pool D,Scheduled
 b,r,e,a,k
