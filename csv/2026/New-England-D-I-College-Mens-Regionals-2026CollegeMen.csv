@@ -101,29 +101,21 @@ pools,Saturday Pool Play
 pool,Pool A
 Massachusetts,Harvard,15,6,"05/02/2026, 09:00",Pool A,Final
 Vermont (B),MIT,15,6,"05/02/2026, 09:00",Pool A,Final
-Massachusetts,MIT,0,0,"05/02/2026, 11:00",Pool A,Cancelled
-Vermont (B),Harvard,0,0,"05/02/2026, 11:00",Pool A,Cancelled
 Massachusetts,Vermont (B),15,4,"05/02/2026, 11:00",Pool A,Final
 MIT,Harvard,0,0,"05/02/2026, 11:00",Pool A,Scheduled
 pool,Pool B
 Brown,Massachusetts  (B),15,5,"05/02/2026, 09:00",Pool B,Final
 McGill,Northeastern (B),15,5,"05/02/2026, 09:00",Pool B,Final
-Brown,Northeastern (B),0,0,"05/02/2026, 11:00",Pool B,Cancelled
-McGill,Massachusetts  (B),0,0,"05/02/2026, 11:00",Pool B,Cancelled
 Brown,McGill,0,0,"05/02/2026, 11:00",Pool B,Scheduled
 Northeastern (B),Massachusetts  (B),0,0,"05/02/2026, 11:00",Pool B,Scheduled
 pool,Pool C
 Vermont,Tufts (B),15,7,"05/02/2026, 09:00",Pool C,Final
 Dartmouth,Boston College,15,8,"05/02/2026, 09:00",Pool C,Final
-Vermont,Boston College,0,0,"05/02/2026, 11:00",Pool C,Cancelled
-Dartmouth,Tufts (B),0,0,"05/02/2026, 11:00",Pool C,Cancelled
-Vermont,Dartmouth,0,0,"05/02/2026, 11:00",Pool C,Scheduled
-Boston College,Tufts (B),0,0,"05/02/2026, 11:00",Pool C,Scheduled
+Vermont,Dartmouth,15,7,"05/02/2026, 11:00",Pool C,Final
+Boston College,Tufts (B),15,4,"05/02/2026, 11:00",Pool C,Final
 pool,Pool D
 Tufts,Boston University,15,1,"05/02/2026, 09:00",Pool D,Final
 Northeastern,Rhode Island,15,5,"05/02/2026, 09:00",Pool D,Final
-Tufts,Rhode Island,0,0,"05/02/2026, 11:00",Pool D,Cancelled
-Northeastern,Boston University,0,0,"05/02/2026, 11:00",Pool D,Cancelled
 Tufts,Northeastern,0,0,"05/02/2026, 11:00",Pool D,Scheduled
 Rhode Island,Boston University,0,0,"05/02/2026, 11:00",Pool D,Scheduled
 b,r,e,a,k
