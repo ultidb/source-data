@@ -60,10 +60,10 @@ b,r,e,a,k
 Harvard,14
 teamInfo,,,,,
 b,r,e,a,k
-McGill,7
+Brown,2
 teamInfo,,,,,
 b,r,e,a,k
-Brown,2
+McGill,7
 teamInfo,,,,,
 b,r,e,a,k
 Massachusetts  (B),13
@@ -84,10 +84,10 @@ b,r,e,a,k
 Tufts (B),16
 teamInfo,,,,,
 b,r,e,a,k
-Tufts,4
+Northeastern,5
 teamInfo,,,,,
 b,r,e,a,k
-Northeastern,5
+Tufts,4
 teamInfo,,,,,
 b,r,e,a,k
 Rhode Island,10
@@ -102,12 +102,12 @@ pool,Pool A
 Massachusetts,Harvard,15,6,"05/02/2026, 09:00",Pool A,Final
 Vermont (B),MIT,15,6,"05/02/2026, 09:00",Pool A,Final
 Massachusetts,Vermont (B),15,4,"05/02/2026, 11:00",Pool A,Final
-MIT,Harvard,0,0,"05/02/2026, 11:00",Pool A,Scheduled
+MIT,Harvard,15,13,"05/02/2026, 11:00",Pool A,Final
 pool,Pool B
 Brown,Massachusetts  (B),15,5,"05/02/2026, 09:00",Pool B,Final
 McGill,Northeastern (B),15,5,"05/02/2026, 09:00",Pool B,Final
-Brown,McGill,0,0,"05/02/2026, 11:00",Pool B,Scheduled
-Northeastern (B),Massachusetts  (B),0,0,"05/02/2026, 11:00",Pool B,Scheduled
+Brown,McGill,15,14,"05/02/2026, 11:00",Pool B,Final
+Northeastern (B),Massachusetts  (B),12,14,"05/02/2026, 11:00",Pool B,Final
 pool,Pool C
 Vermont,Tufts (B),15,7,"05/02/2026, 09:00",Pool C,Final
 Dartmouth,Boston College,15,8,"05/02/2026, 09:00",Pool C,Final
@@ -116,10 +116,14 @@ Boston College,Tufts (B),15,4,"05/02/2026, 11:00",Pool C,Final
 pool,Pool D
 Tufts,Boston University,15,1,"05/02/2026, 09:00",Pool D,Final
 Northeastern,Rhode Island,15,5,"05/02/2026, 09:00",Pool D,Final
-Tufts,Northeastern,0,0,"05/02/2026, 11:00",Pool D,Scheduled
-Rhode Island,Boston University,0,0,"05/02/2026, 11:00",Pool D,Scheduled
+Tufts,Northeastern,15,10,"05/02/2026, 11:00",Pool D,Scheduled
+Rhode Island,Boston University,15,6,"05/02/2026, 11:00",Pool D,Final
 b,r,e,a,k
 clusters,Saturday Crossovers
+cluster,Saturday Crossovers
+Massachusetts,Vermont,0,0,"05/02/2026, 13:00",,Scheduled
+Dartmouth,MIT,0,0,"05/02/2026, 13:00",,Scheduled
+Vermont (B),Boston College,0,0,"05/02/2026, 13:00",,Scheduled
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,Championship
@@ -133,4 +137,7 @@ bracket,11th Place Game
 b,r,e,a,k
 pools,13th-16th Place Round Robin
 pool,Pool E
+Harvard,Tufts (B),0,0,"05/02/2026, 13:00",Pool E,Scheduled
+Northeastern (B),Tufts (B),0,0,"05/03/2026, 09:00",Pool E,Scheduled
+Harvard,Northeastern (B),0,0,"05/03/2026, 11:00",Pool E,Scheduled
 b,r,e,a,k
