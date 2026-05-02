@@ -106,10 +106,10 @@ Vermont (B),Harvard,0,0,"05/02/2026, 11:00",Pool A,Cancelled
 Massachusetts,Vermont (B),0,0,"05/02/2026, 11:00",Pool A,Scheduled
 MIT,Harvard,0,0,"05/02/2026, 11:00",Pool A,Scheduled
 pool,Pool B
-Brown,Massachusetts  (B),0,0,"05/02/2026, 09:00",Pool B,Scheduled
+Brown,Massachusetts  (B),15,5,"05/02/2026, 09:00",Pool B,Final
 McGill,Northeastern (B),15,5,"05/02/2026, 09:00",Pool B,Final
-Brown,Northeastern (B),0,0,"05/02/2026, 11:00",Pool B,Scheduled
-McGill,Massachusetts  (B),0,0,"05/02/2026, 11:00",Pool B,Scheduled
+Brown,Northeastern (B),0,0,"05/02/2026, 11:00",Pool B,Cancelled
+McGill,Massachusetts  (B),0,0,"05/02/2026, 11:00",Pool B,Cancelled
 Brown,McGill,0,0,"05/02/2026, 11:00",Pool B,Scheduled
 Northeastern (B),Massachusetts  (B),0,0,"05/02/2026, 11:00",Pool B,Scheduled
 pool,Pool C
