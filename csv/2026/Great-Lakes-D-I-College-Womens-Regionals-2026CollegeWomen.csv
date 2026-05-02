@@ -251,7 +251,7 @@ Purdue,Northwestern (B),13,0,"05/02/2026, 13:00",Pool A,Final
 pool,Pool B
 Illinois,Notre Dame (B),13,0,"05/02/2026, 09:00",Pool B,Final
 Illinois,Loyola-Chicago,13,2,"05/02/2026, 11:00",Pool B,Final
-Loyola-Chicago,Notre Dame (B),0,0,"05/02/2026, 13:00",Pool B,Scheduled
+Loyola-Chicago,Notre Dame (B),12,4,"05/02/2026, 13:00",Pool B,Final
 pool,Pool C
 Chicago,Grand Valley,0,0,"05/02/2026, 09:00",Pool C,Scheduled
 Michigan,Northwestern,13,5,"05/02/2026, 09:00",Pool C,Final
@@ -265,6 +265,10 @@ Michigan,Illinois (B),0,0,"05/02/2026, 17:00",Pool C,Scheduled
 Northwestern,Chicago,0,0,"05/02/2026, 17:00",Pool C,Scheduled
 b,r,e,a,k
 clusters,Crossover Play
+cluster,AB Crossover
+Notre Dame,Illinois,0,0,"05/02/2026, 15:00",,Scheduled
+Purdue,Loyola-Chicago,0,0,"05/02/2026, 15:00",,Scheduled
+Northwestern (B),Notre Dame (B),0,0,"05/02/2026, 15:00",,Scheduled
 b,r,e,a,k
 brackets,Bracket Play
 bracket,1st Place
