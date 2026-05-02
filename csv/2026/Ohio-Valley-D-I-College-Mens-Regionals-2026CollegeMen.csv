@@ -63,6 +63,68 @@ teamInfo,Alert,"Philadelphia, Pennsylvania",,,https://twitter.com/templeultimate
 45,Shamar Phifer
 49,Carlos Eckert
 b,r,e,a,k
+Ohio State,3
+teamInfo,Leadbelly,"Columbus, Ohio",,,
+0,Aaron Mogilner
+0,Bryan Brodsky
+0,Evan Sanborn
+0,Bryce Dietrich-Rebillot
+0,Holden Labbe
+0,Ryan Wu
+0,Joseph Valencik
+0,Zoltan Onutz
+0,Oren Gilboa
+0,Thomas McGuire
+00,Rea Hederman
+00,Luke Lorence
+00,Jeremiah Sablak
+00,Tanion Misawayee
+00,Vlad Estrin
+00,Jared Monsen
+00,Lucas Antoszewski
+00,Noah Saidel
+00,Evan Butsch
+00,David Butz
+00,Christian Colon
+00,Alex Warrington
+00,Anthony Zelinskas
+00,Brady Aneshansel
+00,Andrew DePuy
+00,Ben Pickels
+23,Camron Chambers
+b,r,e,a,k
+Penn State,2
+teamInfo,Spank,"University Park, Pennsylvania",http://clubs.psu.edu/up/ultimate/,,https://twitter.com/spank_ultimate
+0,Nolan McClintic
+0,Tyler Baglieri
+00,Javier Gonzalez-Recober
+00,Jeremy Mack
+00,Oliver Saunders
+00,Aaron Crothers
+00,Carlo Vanni
+00,Doug Hoyer
+00,Ethan Pigeon
+00,Dylan Connor
+00,Evan Dagle
+00,Nathaniel Hodges
+00,Nicholas Lutz
+04,Zander Sachs
+04,Connor Matheson
+05,Ryan Connor
+06,Enrique Montalvo
+10,John Carbone
+10,Kelvin Lei
+12,Aman Guruacharya
+18,Raffi Cannon
+21,Evan Lutz
+27,Logan Piercy
+33,Drew Loughnane
+34,Becker Joseph
+48,Ethan Dunmire
+69,John Williams
+81,Nicholas Marinelli
+93,CHIN YU LIAO
+b,r,e,a,k
 Pennsylvania,9
 teamInfo,Void,"Philadelphia, Pennsylvania",https://groups.universitylife.upenn.edu/ultimate/,https://www.facebook.com/groups/2200077065/,https://twitter.com/VoidUltimate
 0,Oliver Sun
@@ -113,36 +175,6 @@ teamInfo,Bearcats,"Cincinnati, Ohio",,,https://twitter.com/UCUltimate
 48,Lloyd Goldstein
 75,Aidan Sommer
 88,Jake Wahl
-b,r,e,a,k
-Ohio State,3
-teamInfo,Leadbelly,"Columbus, Ohio",,,
-0,Aaron Mogilner
-0,Bryan Brodsky
-0,Evan Sanborn
-0,Bryce Dietrich-Rebillot
-0,Holden Labbe
-0,Ryan Wu
-0,Joseph Valencik
-0,Zoltan Onutz
-0,Oren Gilboa
-0,Thomas McGuire
-00,Rea Hederman
-00,Luke Lorence
-00,Jeremiah Sablak
-00,Tanion Misawayee
-00,Vlad Estrin
-00,Jared Monsen
-00,Lucas Antoszewski
-00,Noah Saidel
-00,Evan Butsch
-00,David Butz
-00,Christian Colon
-00,Alex Warrington
-00,Anthony Zelinskas
-00,Brady Aneshansel
-00,Andrew DePuy
-00,Ben Pickels
-23,Camron Chambers
 b,r,e,a,k
 West Chester,6
 teamInfo,West Chester,"West Chester , Pennsylvania",,,
@@ -199,38 +231,6 @@ teamInfo,Lehigh,"Bethlehem, Pennsylvania",,,https://twitter.com/lehighultimate
 12,Aaron Lam
 25,Dominic Policarpo
 52,Owen Lambinus
-b,r,e,a,k
-Penn State,2
-teamInfo,Spank,"University Park, Pennsylvania",http://clubs.psu.edu/up/ultimate/,,https://twitter.com/spank_ultimate
-0,Nolan McClintic
-0,Tyler Baglieri
-00,Javier Gonzalez-Recober
-00,Jeremy Mack
-00,Oliver Saunders
-00,Aaron Crothers
-00,Carlo Vanni
-00,Doug Hoyer
-00,Ethan Pigeon
-00,Dylan Connor
-00,Evan Dagle
-00,Nathaniel Hodges
-00,Nicholas Lutz
-04,Zander Sachs
-04,Connor Matheson
-05,Ryan Connor
-06,Enrique Montalvo
-10,John Carbone
-10,Kelvin Lei
-12,Aman Guruacharya
-18,Raffi Cannon
-21,Evan Lutz
-27,Logan Piercy
-33,Drew Loughnane
-34,Becker Joseph
-48,Ethan Dunmire
-69,John Williams
-81,Nicholas Marinelli
-93,CHIN YU LIAO
 b,r,e,a,k
 Akron,16
 teamInfo,GoonSquad,"Akron, Ohio",,,
@@ -461,9 +461,10 @@ s,t,a,g,e,s
 brackets,Bracket
 bracket,1st Place
 Pittsburgh,Temple,0,0,"05/02/2026, 16:30",1st Place Semis,Scheduled
+Ohio State,Penn State,0,0,"05/02/2026, 16:30",1st Place Semis,Scheduled
 Pittsburgh,Pennsylvania,15,4,"05/02/2026, 12:30",1st Place Quarters,Final
 Temple,Cincinnati,15,8,"05/02/2026, 10:30",1st Place Quarters,Final
-Ohio State,West Chester,0,0,"05/02/2026, 12:30",1st Place Quarters,Scheduled
+Ohio State,West Chester,14,11,"05/02/2026, 12:30",1st Place Quarters,Final
 Lehigh,Penn State,5,15,"05/02/2026, 12:30",1st Place Quarters,Final
 Pittsburgh,Akron,15,2,"05/02/2026, 10:30",1st Place PreQ,Final
 Drexel,Pennsylvania,6,15,"05/02/2026, 10:30",1st Place PreQ,Final
@@ -474,10 +475,11 @@ West Chester,Case Western Reserve,15,11,"05/02/2026, 08:30",1st Place PreQ,Final
 Carnegie Mellon,Lehigh,13,14,"05/02/2026, 08:30",1st Place PreQ,Final
 Penn State,Villanova,15,1,"05/02/2026, 08:30",1st Place PreQ,Final
 bracket,2nd Place
+West Chester,Ohio,0,0,"05/02/2026, 14:30",2nd Place Round 2,Scheduled
 Cincinnati,Case Western Reserve,0,0,"05/02/2026, 14:30",2nd Place Round 2,Scheduled
 Pennsylvania,Carnegie Mellon,0,0,"05/02/2026, 14:30",2nd Place Round 2,Scheduled
 Akron,Drexel,0,0,"05/02/2026, 12:30",2nd Place Round 1,Scheduled
-Ohio,Pittsburgh (B),0,0,"05/02/2026, 12:30",2nd Place Round 1,Scheduled
+Ohio,Pittsburgh (B),15,8,"05/02/2026, 12:30",2nd Place Round 1,Final
 West Virginia,Case Western Reserve,8,15,"05/02/2026, 10:30",2nd Place Round 1,Final
 Carnegie Mellon,Villanova,15,4,"05/02/2026, 12:30",2nd Place Round 1,Final
 bracket,5th Place

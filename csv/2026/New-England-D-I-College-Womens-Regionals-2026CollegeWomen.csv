@@ -185,15 +185,11 @@ pools,Pool Play
 pool,Pool A
 Tufts,Northeastern (B),15,1,"05/02/2026, 10:15",Pool A,Final
 Brown,Harvard,11,7,"05/02/2026, 10:15",Pool A,Final
-Tufts,Harvard,0,0,"05/02/2026, 12:00",Pool A,Scheduled
-Brown,Northeastern (B),0,0,"05/02/2026, 12:00",Pool A,Scheduled
 Tufts,Brown,15,5,"05/02/2026, 12:00",Pool A,Final
 Harvard,Northeastern (B),15,1,"05/02/2026, 12:00",Pool A,Final
 pool,Pool B
 Northeastern,Maine,15,0,"05/02/2026, 10:15",Pool B,Final
 Massachusetts,MIT,11,7,"05/02/2026, 10:15",Pool B,Final
-Northeastern,MIT,0,0,"05/02/2026, 12:00",Pool B,Scheduled
-Massachusetts,Maine,0,0,"05/02/2026, 12:00",Pool B,Scheduled
 Northeastern,Massachusetts,9,10,"05/02/2026, 12:00",Pool B,Final
 MIT,Maine,15,3,"05/02/2026, 12:00",Pool B,Final
 pool,Pool C
@@ -206,6 +202,13 @@ McGill,Vermont (B),8,10,"05/02/2026, 10:15",Pool D,Final
 Vermont (B),Boston College,7,9,"05/02/2026, 12:00",Pool D,Final
 b,r,e,a,k
 clusters,Round 4 Crossover Games
+cluster,Round 4 Crossover Games
+Tufts,Vermont,0,0,"05/02/2026, 13:45",,Scheduled
+Brown,Rhode Island,0,0,"05/02/2026, 13:45",,Scheduled
+Massachusetts,McGill,0,0,"05/02/2026, 13:45",,Scheduled
+Northeastern,Boston College,0,0,"05/02/2026, 13:45",,Scheduled
+Boston University,Harvard,0,0,"05/02/2026, 13:45",,Scheduled
+Vermont (B),MIT,0,0,"05/02/2026, 13:45",,Scheduled
 b,r,e,a,k
 brackets,If A1 and B1 BOTH win their Round 4 Crossover Games. Otherwise - check with TD
 bracket,1st Place Bracket
