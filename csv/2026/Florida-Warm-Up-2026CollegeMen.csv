@@ -126,32 +126,32 @@ coaches,James Smart,Jonathan Stout,Nate Taylor
 b,r,e,a,k
 Michigan,22
 teamInfo,MagnUM,"Ann Arbor, Michigan",http://www.magnumultimate.com/,https://www.facebook.com/magnUMultimatefrisbee/,https://twitter.com/magnUMultimate
-0,Augustus Wehrly
-0,Bruno Garcia Lavanchy
-0,Caiden Holt
-0,Caleb Strom
-0,Charlie Rosenfeld
-0,Adam Wang
-0,Colin Jarvis
 0,Filip Icev
-0,Lincoln Boyd
-0,Noah Feigenbaum
-0,Stanley Jian
-0,Xavier Silva
 2,Enzhuo Yu
 3,Jose Dasilva
+4,Adam Wang
+5,Caiden Holt
+6,Noah Feigenbaum
 7,Ryan Barrett
 8,Nicholas Alfonso
 9,Jack Davis
+10,Xavier Silva
 12,Emmet Payette
+13,Lincoln Boyd
 14,Aaron Bartlett
+15,Colin Jarvis
+17,Bruno Garcia Lavanchy
+18,Caleb Strom
 19,Aidan Hale
-21,Gabriel Dowd
+23,Gabriel Dowd
 24,Josh Solomon
+24,Charlie Rosenfeld
 29,Samuel Teppo
 37,Julius Cohen
 55,Joshua Wang
 67,Chris van Lent
+88,Augustus Wehrly
+89,Stanley Jian
 92,Tobey Chang
 b,r,e,a,k
 Virginia,39
@@ -183,9 +183,8 @@ b,r,e,a,k
 Pittsburgh,29
 teamInfo,En Sabah Nur,"Pittsburgh, Pennsylvania",http://pittultimate.org,,http://@PittUltimateM
 0,Owen Hall
-0,Zachary Rachfal
-1,Andrew Mennig
 2,Tanner Norpel
+3,Zachary Rachfal
 4,Henry Everett
 5,Peter Kotz
 7,Andrew Gajan
@@ -200,6 +199,7 @@ teamInfo,En Sabah Nur,"Pittsburgh, Pennsylvania",http://pittultimate.org,,http:/
 17,David Friedman
 18,Aaron McDaniel
 21,Adam Ricci
+22,Andrew Mennig
 23,Andres Granofsky
 25,Morey Averill
 30,Sean Mickel
@@ -218,7 +218,6 @@ teamInfo,Burn,"Blacksburg, Virginia",http://vtultimate.wix.com/virginiatechultim
 0,Brady Bernier
 0,Brandon Behrens
 0,Carter Williams
-0,Eben Mostert
 0,Ethan Harris
 0,Gavin Martin
 0,Jack Reger
@@ -238,6 +237,7 @@ teamInfo,Burn,"Blacksburg, Virginia",http://vtultimate.wix.com/virginiatechultim
 12,Robbie Eldridge
 14,Piyush Komali
 23,Jacob Loveranes
+24,Eben Mostert
 25,Andrew Holladay
 33,Kennon Arnold
 69,Luke Kenney
@@ -307,24 +307,24 @@ b,r,e,a,k
 McGill,21
 teamInfo,MUT,"Montreal, Quebec CA",https://mcgillultimate.com/,https://www.facebook.com/mcgillultimateteam/,https://twitter.com/mcgillultimate?lang=en
 0,Malcolm Kolinski
-1,Ryan Marshall
-3,Maia List
 3,Ruben Hari
+4,Luc Lister
 6,Niko Bardacke
+7,Jasper Horner-Devine
 8,Aidan Mckibben
 10,Kai O'Donnell
 10,Kaiyan Talavia
 11,Oscar Hébert-Creeggan
 13,Dylan Wu
 16,Vlad Zimmerl
-17,Jasper Horner-Devine
 18,Daniel Mao
-21,Luc Lister
+19,Ryan Marshall
 22,Emmett Andrews
 29,Spencer Richards
 31,Sam Dummer
 44,Lucius Conlin
 56,Benjamin Croteau
+63,Maia List
 70,Colin Chan
 77,Jaden Verlaan
 b,r,e,a,k
@@ -390,19 +390,19 @@ teamInfo,CHI,"Provo, Utah",http://www.byuchiultimate.com/,https://www.facebook.c
 0,Evan Miller
 0,Everett Saunders
 0,Isaac Wilcox
-0,Justin Mecham
-0,Kaden Froebe
-0,Koven Card
-0,Mackay Strong
-0,Mark Allen
-0,Mckay Yorgason
 0,Porter Mecham
 0,Quinter Harvey
 0,Sean McDonald
-0,Simon Dastrup
+0,Justin Mecham
+0,Kaden Froebe
+0,Koven Card
 0,Stuart Card
 0,Tyler Jensen
 0,Zane Pew
+0,Mackay Strong
+0,Mark Allen
+0,Simon Dastrup
+0,Mckay Yorgason
 5,Jensen Wells
 10,Lewis Parkinson
 12,Weston Timothy
@@ -500,8 +500,8 @@ coaches,Matthew Shu
 b,r,e,a,k
 Maryland,19
 teamInfo,Maryland Ultimate,"College Park, Maryland",https://terplink.umd.edu/organization/maryland-ultimate,,https://twitter.com/umdmensultimate
-0,Creighton  Parsons
 0,Jordan Fink
+0,Creighton  Parsons
 01,Adam Carita
 02,Benjamin Andersen-Taylor
 03,William Swearingen
@@ -724,17 +724,17 @@ Washington University,41
 teamInfo,Contra,"St. Louis, Missouri",http://contra.wustl.edu,,http://twitter.com/wucontra
 0,Cash Budlong
 0,Christopher Heron
-0,Evan Tompkins
 0,Hashim Benlhabib
 0,Ivan Riley
 0,Jared Buckman
 0,Joshua Rifkin
 0,Justin Lee
 0,Nickolas Regas
+0,Evan Tompkins
 0,Noah Kaller
 3,Sykes Carlson
-4,Jackson Freeman
 4,Ben Fuguet
+4,Jackson Freeman
 7,Campbell Tucker-Hill
 12,Eddie Zhao
 13,Mitchell O'Keefe
@@ -756,10 +756,10 @@ teamInfo,Tucks,"New Orleans, Louisiana",,https://www.facebook.com/TulaneUltimate
 0,Luke Mintzer
 0,Matthew Burris
 0,Max Decker
-0,Miles Fine
 0,Morgan Palumbo
 0,Noah Zelkin
 0,Talan Esposito
+0,Miles Fine
 3,Saif Ahmed
 4,Levi Smetana
 5,Micah Wagner
@@ -935,16 +935,16 @@ teamInfo,Undue Ultimate,"West Lafayette, Indiana",https://purduemensultimate.wor
 0,Evan Washo
 0,Finley Bray
 0,Grant White
-0,Arda Fazla
-0,Jacob Lukose
-0,Jacob Hoffman
-0,Matthew Imm
-0,Owen Edwards
+0,John Hanish
 0,Rohit Aralikar
 0,Spencer Walsh
 0,Tristan Ferguson
 0,Varad Sant
-0,John Hanish
+0,Matthew Imm
+0,Arda Fazla
+0,Jacob Lukose
+0,Jacob Hoffman
+0,Owen Edwards
 1,Jake Hanson
 8,Andrew Voelkerding
 17,Andrew Gasson
@@ -953,8 +953,8 @@ teamInfo,Undue Ultimate,"West Lafayette, Indiana",https://purduemensultimate.wor
 28,Zander Rafferty
 36,Grayson  Friedman
 43,Benjamin Spergel
-69,Luke Hedlund
 69,William Lilegdon
+69,Luke Hedlund
 77,Kevin Asaro de Douglaston
 b,r,e,a,k
 Alabama-Huntsville,2
@@ -1019,7 +1019,7 @@ coaches,Aaron Hoshide
 19,Caleb Coons
 20,Owen McMurtry
 21,Jacob Sloan
-22,Elijah Hoshide
+22,Eli Hoshide
 30,Beckett Yelton
 32,Wilson Hollis
 33,Eli Preuer
@@ -1028,7 +1028,7 @@ coaches,Aaron Hoshide
 83,Ty  Louis
 b,r,e,a,k
 Florida,13
-teamInfo,Florida,"Gainesville, Florida",,https://www.facebook.com/floridaultimate,https://twitter.com/floridaclubult
+teamInfo,Florida,"Gainesville, Florida",,https://www.facebook.com/floridaultimate,https://x.com/ufultimate
 01,Benjamin Adair
 03,Moses Jaffa
 04,Caio Rudloff
