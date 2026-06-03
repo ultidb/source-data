@@ -60,7 +60,11 @@ def writeContentToFile(path, file, content):
 
 
 def makeProxiedRequest(url):
-    return makeProxiedRequestSelenium(url)
+    try:
+        return makeProxiedRequestSelenium(url)
+    except Exception as e:
+        log.error(f"Failed to load {url}: {e}")
+        raise
     # log.debug(f"Making proxied request to {url}")
 
     # if not torIsRunning():
@@ -132,59 +136,108 @@ def makeProxiedRequestSelenium(url):
 
     driver = getSeleniumDriver()
 
-    try:
-        # Store the current page source before navigating to detect when it changes
-        old_page_source = driver.page_source if driver.current_url != "data:," else ""
+    # Extract expected tournament slug from URL for validation
+    expected_tournament_slug = None
+    if "/events/" in url:
+        parts = url.split("/")
+        for i, part in enumerate(parts):
+            if part == "events" and i + 1 < len(parts):
+                expected_tournament_slug = parts[i + 1]
+                break
 
-        driver.get(url)
-
-        # Wait for the page content to actually change by checking that the URL loaded
-        # and the page source is different from before
+    max_retries = 3
+    for retry in range(max_retries):
         try:
-            WebDriverWait(driver, 10).until(
-                lambda d: d.current_url == url or url in d.current_url
-            )
-        except Exception:
-            log.warning(f"URL did not fully load: expected {url}, got {driver.current_url}")
+            # Store the current page source before navigating to detect when it changes
+            old_page_source = driver.page_source if driver.current_url != "data:," else ""
 
-        # Additional wait for page content to fully load before reading page_source.
-        # Without this wait, the driver may return stale content from the
-        # previous page, causing tournament data to be written to wrong files.
-        try:
-            WebDriverWait(driver, 10).until(
-                EC.presence_of_element_located((By.CLASS_NAME, "breadcrumbs"))
-            )
-        except Exception:
-            # If breadcrumbs not found, wait for any content indicator
+            driver.get(url)
+
+            # Wait for the page content to actually change by checking that the URL loaded
+            # and the page source is different from before
             try:
                 WebDriverWait(driver, 10).until(
-                    EC.presence_of_element_located((By.TAG_NAME, "body"))
+                    lambda d: d.current_url == url or url in d.current_url
                 )
             except Exception:
-                pass
+                log.warning(f"URL did not fully load: expected {url}, got {driver.current_url}")
 
-        # Wait for the page source to actually change from the previous page
-        max_attempts = 20
-        for attempt in range(max_attempts):
-            current_page_source = driver.page_source
-            if current_page_source != old_page_source:
-                break
-            time.sleep(0.1)
-        else:
-            log.warning(f"Page source did not change after {max_attempts} attempts for URL: {url}")
+            # Additional wait for page content to fully load before reading page_source.
+            # Without this wait, the driver may return stale content from the
+            # previous page, causing tournament data to be written to wrong files.
+            try:
+                WebDriverWait(driver, 10).until(
+                    EC.presence_of_element_located((By.CLASS_NAME, "breadcrumbs"))
+                )
+            except Exception:
+                # If breadcrumbs not found, wait for any content indicator
+                try:
+                    WebDriverWait(driver, 10).until(
+                        EC.presence_of_element_located((By.TAG_NAME, "body"))
+                    )
+                except Exception:
+                    pass
 
-        # Small delay to ensure dynamic content has loaded
-        time.sleep(0.5)
+            # Wait for the page source to actually change from the previous page
+            max_attempts = 20
+            for attempt in range(max_attempts):
+                current_page_source = driver.page_source
+                if current_page_source != old_page_source:
+                    break
+                time.sleep(0.1)
+            else:
+                log.warning(f"Page source did not change after {max_attempts} attempts for URL: {url}")
 
-        # Get the page source
-        page_source = driver.page_source
+            # Small delay to ensure dynamic content has loaded
+            time.sleep(0.5)
 
-        # Convert to bytes to match the return type of makeProxiedRequest
-        return page_source.encode('utf-8')
-    except Exception as e:
-        log.error(f"Selenium request to {url} failed with error: {e}")
-        cleanupSeleniumDriver()
-        sys.exit(1)
+            # Get the page source
+            page_source = driver.page_source
+
+            # CRITICAL: Validate that the loaded content matches the requested tournament
+            if expected_tournament_slug:
+                # Parse the page to verify tournament identity
+                from bs4 import BeautifulSoup
+                soup = BeautifulSoup(page_source, "html.parser")
+
+                # Check breadcrumbs for tournament link
+                breadcrumbs = soup.find("div", {"class": "breadcrumbs"})
+                if breadcrumbs:
+                    tournament_links = breadcrumbs.find_all("a")
+                    if len(tournament_links) >= 2:
+                        tournament_link = tournament_links[1]
+                        if tournament_link.get("href"):
+                            actual_slug = tournament_link["href"].split("/")[-1]
+
+                            if actual_slug != expected_tournament_slug:
+                                log.warning(
+                                    f"Content mismatch on attempt {retry + 1}/{max_retries}: "
+                                    f"expected tournament '{expected_tournament_slug}' but got '{actual_slug}'. "
+                                    f"Retrying..."
+                                )
+                                if retry < max_retries - 1:
+                                    # Force reload by adding a small delay and clearing any cached state
+                                    time.sleep(1)
+                                    continue
+                                else:
+                                    log.error(
+                                        f"Failed to load correct tournament after {max_retries} attempts. "
+                                        f"Expected '{expected_tournament_slug}' but consistently got '{actual_slug}'"
+                                    )
+                                    raise Exception("Tournament content validation failed")
+
+            # Convert to bytes to match the return type of makeProxiedRequest
+            return page_source.encode('utf-8')
+
+        except Exception as e:
+            if retry < max_retries - 1:
+                log.warning(f"Attempt {retry + 1} failed, retrying: {e}")
+                time.sleep(1)
+                continue
+            else:
+                log.error(f"Selenium request to {url} failed after {max_retries} attempts with error: {e}")
+                cleanupSeleniumDriver()
+                raise
 
 
 def loadPage(config, url, pageType, tournamentName=None, teamName=None):
