@@ -596,6 +596,13 @@ def parseNewSchedule(html, year, isCollege=False):
                 continue
             base_url = base_url.get("href")
 
+            # New-format URLs (usaultimate.org/<slug>) must be converted to the
+            # old play.usaultimate.org/events/<TitleCased-Slug>/ form so that
+            # the downstream /schedule/<division> path construction still works.
+            if base_url and "://usaultimate.org/" in base_url:
+                slug = base_url.rstrip("/").rsplit("/", 1)[-1]
+                base_url = f"https://play.usaultimate.org/events/{slug}/"
+
             # Extract date
             date_cell = row.find("td", class_="date")
             date_text = date_cell.find("span", class_="label").next_sibling.strip()
