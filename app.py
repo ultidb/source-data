@@ -267,6 +267,8 @@ def prodSetup(config=None):
     setupTor()
     setup_scheduler(config)
     scrapeCalendar(True)
+    scrapeUpcomingTournaments()
+    scrapeRecentlyEndedTournaments()
 
 
 log.basicConfig(
