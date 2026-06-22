@@ -119,18 +119,22 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Round Robin
 pool,Pool A
-Good Company,New South Soul,0,0,"06/06/2026, 09:00",Pool A,Scheduled
-solAR,STL CELESTIAL,0,0,"06/06/2026, 09:00",Pool A,Scheduled
-Good Company,solAR,0,0,"06/06/2026, 10:45",Pool A,Scheduled
-QCO,STL CELESTIAL,0,0,"06/06/2026, 10:45",Pool A,Scheduled
-STL CELESTIAL,New South Soul,0,0,"06/06/2026, 12:30",Pool A,Scheduled
-QCO,solAR,0,0,"06/06/2026, 12:30",Pool A,Scheduled
-Good Company,STL CELESTIAL,0,0,"06/06/2026, 14:15",Pool A,Scheduled
-QCO,New South Soul,0,0,"06/06/2026, 14:15",Pool A,Scheduled
-Good Company,QCO,0,0,"06/07/2026, 09:00",Pool A,Scheduled
-solAR,New South Soul,0,0,"06/07/2026, 09:00",Pool A,Scheduled
+Good Company,New South Soul,15,0,"06/06/2026, 09:00",Pool A,Final
+solAR,STL CELESTIAL,12,6,"06/06/2026, 09:00",Pool A,Final
+Good Company,solAR,15,7,"06/06/2026, 10:45",Pool A,Final
+QCO,STL CELESTIAL,12,5,"06/06/2026, 10:45",Pool A,Final
+STL CELESTIAL,New South Soul,9,6,"06/06/2026, 12:30",Pool A,Final
+QCO,solAR,14,5,"06/06/2026, 12:30",Pool A,Final
+Good Company,STL CELESTIAL,15,2,"06/06/2026, 14:15",Pool A,Final
+QCO,New South Soul,11,8,"06/06/2026, 14:15",Pool A,Final
+Good Company,QCO,15,4,"06/06/2026, 16:00",Pool A,Final
+solAR,New South Soul,15,5,"06/06/2026, 16:00",Pool A,Final
 b,r,e,a,k
 brackets,Bracket Play
 bracket,1st Place
+Good Company,QCO,15,7,"06/07/2026, 10:00",Finals,Final
+QCO,solAR,15,12,"06/07/2026, 08:00",Semis,Final
 bracket,3rd Place
+solAR,STL CELESTIAL,15,4,"06/07/2026, 10:00",3rd Place Finals,Final
+STL CELESTIAL,New South Soul,10,9,"06/07/2026, 08:00",3rd Place Semis,Final
 b,r,e,a,k
