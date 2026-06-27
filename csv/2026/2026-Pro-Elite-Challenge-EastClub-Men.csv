@@ -328,8 +328,8 @@ Chicago Machine,Chain Lightning,15,10,"06/27/2026, 11:00",Pool A,Final
 Sub Zero,baNC,15,9,"06/27/2026, 11:00",Pool A,Final
 Chicago Machine,baNC,15,4,"06/27/2026, 13:00",Pool A,Final
 Sub Zero,Chain Lightning,14,12,"06/27/2026, 13:00",Pool A,Final
-Chicago Machine,Sub Zero,0,0,"06/27/2026, 15:00",Pool A,Scheduled
-Chain Lightning,baNC,0,0,"06/27/2026, 15:00",Pool A,Scheduled
+Chicago Machine,Sub Zero,1,1,"06/27/2026, 15:00",Pool A,In Progress
+Chain Lightning,baNC,1,1,"06/27/2026, 15:00",Pool A,Scheduled
 pool,Pool B
 PoNY,Raleigh-Durham United,15,8,"06/27/2026, 09:00",Pool B,Final
 GOAT,Pittsburgh Temper,15,5,"06/27/2026, 09:00",Pool B,Final
@@ -342,14 +342,14 @@ Truck Stop,Phoenix,15,12,"06/27/2026, 09:00",Pool C,Final
 Ring of Fire,Vault,15,6,"06/27/2026, 09:00",Pool C,Final
 Truck Stop,Vault,15,9,"06/27/2026, 13:00",Pool C,Final
 Ring of Fire,Phoenix,15,6,"06/27/2026, 13:00",Pool C,Final
-Truck Stop,Ring of Fire,0,0,"06/27/2026, 15:00",Pool C,Scheduled
-Phoenix,Vault,1,1,"06/27/2026, 15:00",Pool C,In Progress
+Truck Stop,Ring of Fire,1,2,"06/27/2026, 15:00",Pool C,In Progress
+Phoenix,Vault,2,4,"06/27/2026, 15:00",Pool C,In Progress
 pool,Pool D
 DiG,Red Tide,15,11,"06/27/2026, 09:00",Pool D,Final
 Philadelphia Pacmen,Doublewide,15,10,"06/27/2026, 09:00",Pool D,Final
 DiG,Doublewide,14,15,"06/27/2026, 11:00",Pool D,Final
 Philadelphia Pacmen,Red Tide,15,10,"06/27/2026, 11:00",Pool D,Final
-DiG,Philadelphia Pacmen,0,0,"06/27/2026, 15:00",Pool D,Scheduled
+DiG,Philadelphia Pacmen,2,0,"06/27/2026, 15:00",Pool D,In Progress
 Red Tide,Doublewide,0,0,"06/27/2026, 15:00",Pool D,Scheduled
 b,r,e,a,k
 brackets,Championship Bracket
