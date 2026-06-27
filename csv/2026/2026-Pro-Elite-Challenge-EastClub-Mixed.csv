@@ -112,60 +112,6 @@ teamInfo,,"Philadelphia, Pennsylvania",https://www.instagram.com/cupcakesulti/,,
 43,Benjamin Spergel
 68,Kaitlyn Dermen
 b,r,e,a,k
-XIST,2
-teamInfo,,"New York, New York",https://www.xistultimate.com/,https://www.facebook.com/xistultimate/,https://twitter.com/XIST_Ultimate
-coaches,Anne Worth,Kevin Lai,Elisabeth Parker
-0,Ben Simmons
-0,Benjamin Katz
-0,Cara Sieber
-0,Elias Levey-Swain
-0,Eliot Bemis
-0,Emily Barrett
-0,Emma Piorier
-0,Gavin May
-0,Jolene Zheng
-0,Abagael Cheng
-0,Audrey Parrott
-0,Keali Mccarter
-0,Matt Wiener
-0,Oscar Kohut
-0,Theresa Yu
-6,Ryan Drost
-7,Luisa Maria Neves
-11,Sadie Jezierski
-13,Oliver Chartock
-18,Axel Agami Contreras
-23,Theo Shapinsky
-24,Jolie Krebs
-25,Nola Kim Mayer
-74,Sam Harris
-84,Matthias Ling
-88,Nicole Hair
-b,r,e,a,k
-Conspiracy,8
-teamInfo,,"Savannah, Georgia",https://www.instagram.com/conspiracyultimate?igsh=OWYyYzlpM2l4cmF2,,
-0,Callie Auman
-0,Connie Cui
-0,Jonah Hagstad
-1,Carly Matthews
-4,Kristin Mulzer
-8,Danielle Eiler
-9,Kevin Harrow
-11,Stephen Cook
-12,Jeffrey Oravic
-14,Jason Chung
-16,Briana Campbell
-22,Wesley Richey
-23,Peter Van Brussel
-27,Jocelyn Jessop
-28,Taya Sterkenburg
-55,Jillian Magtoto
-77,Matthew Cook
-80,Nathaniel Austin
-83,Ashley Boncimino
-87,Carl Johnson
-88,Hunter Gibbs
-b,r,e,a,k
 AMP,9
 teamInfo,,"Philadelphia, Pennsylvania",https://www.instagram.com/amp_ultimate/,,
 coaches,Anthony Nunez
@@ -221,6 +167,60 @@ coaches,Zane Friedkin
 82,Edward Tu
 87,Emma Chin
 88,Iram Liu
+b,r,e,a,k
+Conspiracy,8
+teamInfo,,"Savannah, Georgia",https://www.instagram.com/conspiracyultimate?igsh=OWYyYzlpM2l4cmF2,,
+0,Callie Auman
+0,Connie Cui
+0,Jonah Hagstad
+1,Carly Matthews
+4,Kristin Mulzer
+8,Danielle Eiler
+9,Kevin Harrow
+11,Stephen Cook
+12,Jeffrey Oravic
+14,Jason Chung
+16,Briana Campbell
+22,Wesley Richey
+23,Peter Van Brussel
+27,Jocelyn Jessop
+28,Taya Sterkenburg
+55,Jillian Magtoto
+77,Matthew Cook
+80,Nathaniel Austin
+83,Ashley Boncimino
+87,Carl Johnson
+88,Hunter Gibbs
+b,r,e,a,k
+XIST,2
+teamInfo,,"New York, New York",https://www.xistultimate.com/,https://www.facebook.com/xistultimate/,https://twitter.com/XIST_Ultimate
+coaches,Anne Worth,Kevin Lai,Elisabeth Parker
+0,Ben Simmons
+0,Benjamin Katz
+0,Cara Sieber
+0,Elias Levey-Swain
+0,Eliot Bemis
+0,Emily Barrett
+0,Emma Piorier
+0,Gavin May
+0,Jolene Zheng
+0,Abagael Cheng
+0,Audrey Parrott
+0,Keali Mccarter
+0,Matt Wiener
+0,Oscar Kohut
+0,Theresa Yu
+6,Ryan Drost
+7,Luisa Maria Neves
+11,Sadie Jezierski
+13,Oliver Chartock
+18,Axel Agami Contreras
+23,Theo Shapinsky
+24,Jolie Krebs
+25,Nola Kim Mayer
+74,Sam Harris
+84,Matthias Ling
+88,Nicole Hair
 b,r,e,a,k
 Slow,3
 teamInfo,,"Boston, Massachusetts",,,https://twitter.com/SlowWhite_
@@ -348,9 +348,6 @@ teamInfo,,"Washington, District of Columbia",,https://www.facebook.com/DCRallyUl
 67,Joshua Bransford
 99,Emily Kiver
 b,r,e,a,k
-Wild Card,11
-teamInfo,,"Boston, Massachusetts",http://www.wildcardultimate.com/,https://www.facebook.com/wildcardult,https://twitter.com/WildCardult
-b,r,e,a,k
 Pittsburgh Port Authority,13
 teamInfo,,"Pittsburgh, Pennsylvania",https://www.instagram.com/portauthorityultimate/,,https://twitter.com/portauth0rity
 coaches,Ryan Birchard
@@ -379,17 +376,20 @@ coaches,Ryan Birchard
 97,Kasey Schock
 99,Alex Warrington
 b,r,e,a,k
+Wild Card,11
+teamInfo,,"Boston, Massachusetts",http://www.wildcardultimate.com/,https://www.facebook.com/wildcardult,https://twitter.com/WildCardult
+b,r,e,a,k
 s,t,a,g,e,s
 pools,Saturday Pool Play
 pool,Pool A
 Hybrid,'Shine,15,5,"06/27/2026, 09:00",Pool A,Final
 Space Force,Cupcakes,14,11,"06/27/2026, 09:00",Pool A,Final
 Hybrid,Cupcakes,15,3,"06/27/2026, 11:00",Pool A,Final
-Space Force,'Shine,13,11,"06/27/2026, 11:00",Pool A,In Progress
+Space Force,'Shine,14,11,"06/27/2026, 11:00",Pool A,Final
 Hybrid,Space Force,0,0,"06/27/2026, 13:00",Pool A,Scheduled
 'Shine,Cupcakes,0,0,"06/27/2026, 13:00",Pool A,Scheduled
 pool,Pool B
-XIST,AMP,13,13,"06/27/2026, 11:00",Pool B,In Progress
+XIST,AMP,13,14,"06/27/2026, 11:00",Pool B,Final
 Conspiracy,Grand Army,6,8,"06/27/2026, 11:00",Pool B,In Progress
 XIST,Grand Army,0,0,"06/27/2026, 13:00",Pool B,Scheduled
 Conspiracy,AMP,0,0,"06/27/2026, 13:00",Pool B,Scheduled
@@ -406,7 +406,7 @@ pool,Pool D
 Austin Disco Club,Wild Card,15,7,"06/27/2026, 09:00",Pool D,Final
 Rally,Pittsburgh Port Authority,13,11,"06/27/2026, 09:00",Pool D,Final
 Austin Disco Club,Pittsburgh Port Authority,15,7,"06/27/2026, 11:00",Pool D,Final
-Rally,Wild Card,13,8,"06/27/2026, 11:00",Pool D,In Progress
+Rally,Wild Card,14,10,"06/27/2026, 11:00",Pool D,Final
 Austin Disco Club,Rally,0,0,"06/27/2026, 15:00",Pool D,Scheduled
 Wild Card,Pittsburgh Port Authority,0,0,"06/27/2026, 15:00",Pool D,Scheduled
 b,r,e,a,k
