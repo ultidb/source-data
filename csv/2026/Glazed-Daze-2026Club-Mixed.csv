@@ -110,34 +110,6 @@ teamInfo,,"Morrisville , North Carolina",,https://www.facebook.com/rampageultinc
 7,Brian Dahlben
 12,Astrid Kugener
 b,r,e,a,k
-Revival,7
-teamInfo,,"Richmond, Virginia",,https://www.facebook.com/RevivalFlatball,
-0,Anna Swann
-0,Crystal Lowery
-0,David Slade
-0,Delaney Marsalek
-0,Cullen Monahan
-0,Lauren Lieske
-0,Isabella Burns
-0,Maple Cymrot
-0,Isaac Morrow
-0,Rachel Shannon
-0,Zach Lee
-0,Matias Pineiro
-0,Sydney Kelley
-0,Sydney Clayton
-4,Mimi Tran
-8,Kris Harrison
-11,Michael Snead
-12,Tyler Davis
-14,Victoria Higgins
-16,Donald Clark
-23,Matthew Beaudet
-25,Katelyn Birchfield
-29,Red Redderson
-91,James Dangler
-98,David Snead
-b,r,e,a,k
 Murmur,2
 teamInfo,,"Athens, Georgia",,,
 0,Anna Gustafson
@@ -166,6 +138,34 @@ teamInfo,,"Athens, Georgia",,,
 77,Matthew Shu
 89,Victor Lesniewski
 93,Travis Crawford
+b,r,e,a,k
+Revival,7
+teamInfo,,"Richmond, Virginia",,https://www.facebook.com/RevivalFlatball,
+0,Anna Swann
+0,Crystal Lowery
+0,David Slade
+0,Delaney Marsalek
+0,Cullen Monahan
+0,Lauren Lieske
+0,Isabella Burns
+0,Maple Cymrot
+0,Isaac Morrow
+0,Rachel Shannon
+0,Zach Lee
+0,Matias Pineiro
+0,Sydney Kelley
+0,Sydney Clayton
+4,Mimi Tran
+8,Kris Harrison
+11,Michael Snead
+12,Tyler Davis
+14,Victoria Higgins
+16,Donald Clark
+23,Matthew Beaudet
+25,Katelyn Birchfield
+29,Red Redderson
+91,James Dangler
+98,David Snead
 b,r,e,a,k
 Ant Madness,10
 teamInfo,,"Washington, District of Columbia",,,https://twitter.com/antmadness
@@ -444,11 +444,11 @@ Bar None,Jumbo Slice,0,0,"06/27/2026, 10:45",Pool Apple Fritter,Scheduled
 Asheville Parliament,Bar None,0,0,"06/27/2026, 12:30",Pool Apple Fritter,Scheduled
 Jumbo Slice,Rampage,0,0,"06/27/2026, 12:30",Pool Apple Fritter,Scheduled
 pool,Pool Beignet
-Murmur,Ant Madness,0,0,"06/27/2026, 09:00",Pool Beignet,Scheduled
+Murmur,Ant Madness,W,L,"06/27/2026, 09:00",Pool Beignet,Final
 Revival,Verdant,13,2,"06/27/2026, 09:00",Pool Beignet,Final
-Murmur,Verdant,0,0,"06/27/2026, 10:45",Pool Beignet,Scheduled
+Murmur,Verdant,W,L,"06/27/2026, 10:45",Pool Beignet,Final
 Revival,Ant Madness,13,10,"06/27/2026, 10:45",Pool Beignet,Final
-Murmur,Revival,0,0,"06/27/2026, 12:30",Pool Beignet,Scheduled
+Murmur,Revival,13,7,"06/27/2026, 12:30",Pool Beignet,Final
 Ant Madness,Verdant,0,0,"06/27/2026, 12:30",Pool Beignet,Scheduled
 pool,Pool Cannoli
 Roma Ultima,Blue Ridge Sasquatch,0,0,"06/27/2026, 09:00",Pool Cannoli,Scheduled
@@ -463,7 +463,7 @@ Catalyst,Columbus Chaos,13,4,"06/27/2026, 09:00",Pool Doughnut,Final
 Spice,Columbus Chaos,13,4,"06/27/2026, 10:45",Pool Doughnut,Final
 Catalyst,Magnanimouse,13,5,"06/27/2026, 10:45",Pool Doughnut,Final
 Spice,Catalyst,13,10,"06/27/2026, 12:30",Pool Doughnut,Final
-Magnanimouse,Columbus Chaos,0,0,"06/27/2026, 12:30",Pool Doughnut,Scheduled
+Magnanimouse,Columbus Chaos,8,10,"06/27/2026, 12:30",Pool Doughnut,Final
 b,r,e,a,k
 clusters,CROSSOVER
 b,r,e,a,k
