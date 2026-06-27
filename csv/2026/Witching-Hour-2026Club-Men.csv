@@ -21,6 +21,33 @@ teamInfo,,"Pittsburgh, Pennsylvania",https://www.instagram.com/hazard_pgh,,https
 76,Logan Heck
 92,Wally Gaida
 b,r,e,a,k
+Triumph,1
+teamInfo,,"Morrisville, North Carolina",https://rb.gy/6knme4,,
+0,Alan Yuen
+0,Caleb Weldy
+0,Dillon Lesniak
+0,Jonathan Taylor
+0,Keaton Barish
+0,Kurtis Wang
+0,Dylan Edwards
+0,Warren Kinnaman
+0,Tanner Plentl
+0,Nathan Silverman
+0,Tate Wilson
+0,Ryan Chen
+0,Marco Butera
+0,Quinlan Collier
+0,Luke Cornelius
+3,Michael Paniagua
+5,Jason Zwierzynski
+7,Alejandro (Alex) Perez
+9,Eric Feigin
+14,Zachary Baldwin
+25,Daniel Huggins
+67,Harrison Karlok
+70,Julian Hester
+86,Connor Norris
+b,r,e,a,k
 Winc City Fog,9
 teamInfo,,"Winchester, Virginia",,,http://@TheRealWincCity
 0,Aiden O'Connor
@@ -49,33 +76,6 @@ teamInfo,,"Winchester, Virginia",,,http://@TheRealWincCity
 52,Charles Sullivan
 77,Goutham Kommanaboyina
 84,Dylan Wallace
-b,r,e,a,k
-Triumph,1
-teamInfo,,"Morrisville, North Carolina",https://rb.gy/6knme4,,
-0,Alan Yuen
-0,Caleb Weldy
-0,Dillon Lesniak
-0,Jonathan Taylor
-0,Keaton Barish
-0,Kurtis Wang
-0,Dylan Edwards
-0,Warren Kinnaman
-0,Tanner Plentl
-0,Nathan Silverman
-0,Tate Wilson
-0,Ryan Chen
-0,Marco Butera
-0,Quinlan Collier
-0,Luke Cornelius
-3,Michael Paniagua
-5,Jason Zwierzynski
-7,Alejandro (Alex) Perez
-9,Eric Feigin
-14,Zachary Baldwin
-25,Daniel Huggins
-67,Harrison Karlok
-70,Julian Hester
-86,Connor Norris
 b,r,e,a,k
 Flux,16
 teamInfo,,"Northeast, Florida",https://www.instagram.com/northfloridaflux,,
@@ -304,23 +304,6 @@ b,r,e,a,k
 MOB Ultimate,5
 teamInfo,,,,,
 b,r,e,a,k
-L.U.T $ack,12
-teamInfo,,"Lynchburg, Virginia",,,
-0,Avery Levandoski
-0,Hector Montemayor
-0,Joshua Anderson
-0,Jackson Klingenberg
-0,Na’jir Dipasalegne
-0,Keegan McMenamin
-3,Luke Billingsley
-8,Shawn Messick
-10,Ian Fletcher
-20,Benjamin Marshall
-21,Daniel Mills
-34,Phillip Martin
-58,Ian Rankin
-66,Shivansh Shah
-b,r,e,a,k
 Crypt,4
 teamInfo,,"Richmond, Virginia",https://linktr.ee/rvacrypt,https://www.instagram.com/rvacrypt/,https://twitter.com/rvacrypt
 00,Liam Dunn
@@ -350,6 +333,23 @@ teamInfo,,"Richmond, Virginia",https://linktr.ee/rvacrypt,https://www.instagram.
 84,Jack Kanehann
 99,Palmer Bogdan
 b,r,e,a,k
+L.U.T $ack,12
+teamInfo,,"Lynchburg, Virginia",,,
+0,Avery Levandoski
+0,Hector Montemayor
+0,Joshua Anderson
+0,Jackson Klingenberg
+0,Na’jir Dipasalegne
+0,Keegan McMenamin
+3,Luke Billingsley
+8,Shawn Messick
+10,Ian Fletcher
+20,Benjamin Marshall
+21,Daniel Mills
+34,Phillip Martin
+58,Ian Rankin
+66,Shivansh Shah
+b,r,e,a,k
 NC Brickhouse,13
 teamInfo,,"Raleigh, North Carolina",,,
 0,Alex Fischer
@@ -373,7 +373,7 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
-Triumph,Winc City Fog,0,0,"06/27/2026, 08:00",Pool A,Scheduled
+Triumph,Winc City Fog,13,7,"06/27/2026, 08:00",Pool A,Final
 Hazard,Flux,13,0,"06/27/2026, 08:00",Pool A,Final
 Triumph,Flux,0,0,"06/27/2026, 09:45",Pool A,Scheduled
 Hazard,Winc City Fog,0,0,"06/27/2026, 09:45",Pool A,Scheduled
@@ -381,20 +381,20 @@ Triumph,Hazard,0,0,"06/27/2026, 11:30",Pool A,Scheduled
 Winc City Fog,Flux,0,0,"06/27/2026, 11:30",Pool A,Scheduled
 pool,Pool B
 DAPPER,Beef Depot,13,8,"06/27/2026, 08:00",Pool B,Final
-Pittsburgh Stealers,Give Me Death,0,0,"06/27/2026, 08:00",Pool B,Scheduled
+Pittsburgh Stealers,Give Me Death,13,8,"06/27/2026, 08:00",Pool B,Final
 DAPPER,Give Me Death,0,0,"06/27/2026, 09:45",Pool B,Scheduled
 Pittsburgh Stealers,Beef Depot,0,0,"06/27/2026, 09:45",Pool B,Scheduled
 DAPPER,Pittsburgh Stealers,0,0,"06/27/2026, 11:30",Pool B,Scheduled
 Beef Depot,Give Me Death,0,0,"06/27/2026, 11:30",Pool B,Scheduled
 pool,Pool C
-John Doe,Gummy Bear Hitmen,4,6,"06/27/2026, 08:00",Pool C,In Progress
+John Doe,Gummy Bear Hitmen,6,13,"06/27/2026, 08:00",Pool C,Final
 El Niño,Chemical X,13,4,"06/27/2026, 08:00",Pool C,Final
 John Doe,Chemical X,0,0,"06/27/2026, 09:45",Pool C,Scheduled
 El Niño,Gummy Bear Hitmen,0,0,"06/27/2026, 09:45",Pool C,Scheduled
 John Doe,El Niño,0,0,"06/27/2026, 11:30",Pool C,Scheduled
 Gummy Bear Hitmen,Chemical X,0,0,"06/27/2026, 11:30",Pool C,Scheduled
 pool,Pool D
-Crypt,L.U.T $ack,1,0,"06/27/2026, 08:00",Pool D,In Progress
+Crypt,L.U.T $ack,12,11,"06/27/2026, 08:00",Pool D,Final
 MOB Ultimate,NC Brickhouse,13,5,"06/27/2026, 08:00",Pool D,Final
 Crypt,NC Brickhouse,0,0,"06/27/2026, 09:45",Pool D,Scheduled
 MOB Ultimate,L.U.T $ack,0,0,"06/27/2026, 09:45",Pool D,Scheduled
