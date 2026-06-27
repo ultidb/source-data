@@ -227,32 +227,6 @@ coaches,Corbin Atack
 29,Trong Pham
 57,Sola Truong
 b,r,e,a,k
-Drip,11
-teamInfo,,"Corvallis, Oregon",https://instagram.com/corvallisdrip?igshid=M2RkZGJiMzhjOQ==,,
-01,Jack Weinberg
-03,Jacob VanGerpen
-04,Joshua Wright
-05,Nicholas Borninski
-08,Cecilia Seldera-Bahnson
-09,Gerald Aggrey
-10,Nikolaus Elsaesser
-12,Colleen Barr
-13,Quinn O'Connor
-15,TJ Lee
-17,Cyrus Dupuy
-18,Joshua Munger
-23,Celia Guillemin
-26,Anna Wright
-29,Ben Hanke Hills
-37,Erika Sanchez-Chopitea
-39,Benjamin Forkner
-47,Dharma Prime
-49,Madeline Kallin
-55,Dinah Schultz
-66,Katherine Quillin
-82,Egan Wong
-84,Rebecca Myrold
-b,r,e,a,k
 Grit City,6
 teamInfo,,"Tacoma, Washington",https://gritcityultimate.carrd.co/,https://www.facebook.com/profile.php?id=100090202771262,https://twitter.com/GritCityUlti?s=20
 0,Isaak Swan
@@ -279,6 +253,53 @@ teamInfo,,"Tacoma, Washington",https://gritcityultimate.carrd.co/,https://www.fa
 88,Eleanor Hoekman
 92,Jacob Keister
 98,Natalie Flick
+b,r,e,a,k
+Drip,11
+teamInfo,,"Corvallis, Oregon",https://instagram.com/corvallisdrip?igshid=M2RkZGJiMzhjOQ==,,
+01,Jack Weinberg
+03,Jacob VanGerpen
+04,Joshua Wright
+05,Nicholas Borninski
+08,Cecilia Seldera-Bahnson
+09,Gerald Aggrey
+10,Nikolaus Elsaesser
+12,Colleen Barr
+13,Quinn O'Connor
+15,TJ Lee
+17,Cyrus Dupuy
+18,Joshua Munger
+23,Celia Guillemin
+26,Anna Wright
+29,Ben Hanke Hills
+37,Erika Sanchez-Chopitea
+39,Benjamin Forkner
+47,Dharma Prime
+49,Madeline Kallin
+55,Dinah Schultz
+66,Katherine Quillin
+82,Egan Wong
+84,Rebecca Myrold
+b,r,e,a,k
+Royals,4
+teamInfo,,"Richmond, British Columbia CA",https://vul.ca/reign,,
+0,Duncan Nichols
+0,Edward Ross-Zhu
+0,Emily Yen
+0,Ethan Train
+0,Gabriella Ghieuw
+0,Kobe Mah
+0,Lisa Liu
+0,Marcus Yeung
+0,Russell Hamilton
+0,Shaelyn Woo
+0,Shannon Wu
+0,Victor Tiet
+0,Violet  Lamoureux
+0,Zachary Wong
+0,Zee He
+0,Benjamin Jiang
+10,Miu Shiraiwa
+95,Colin Wu
 b,r,e,a,k
 Hive,5
 teamInfo,,"Portland, Oregon",https://www.instagram.com/hiveultimate?igsh=dnFmbXR2c2loOGZv,,
@@ -308,27 +329,6 @@ teamInfo,,"Portland, Oregon",https://www.instagram.com/hiveultimate?igsh=dnFmbXR
 88,Hank Munro
 90,Samuel Perreth
 92,Brian Paulus
-b,r,e,a,k
-Royals,4
-teamInfo,,"Richmond, British Columbia CA",https://vul.ca/reign,,
-0,Duncan Nichols
-0,Edward Ross-Zhu
-0,Emily Yen
-0,Ethan Train
-0,Gabriella Ghieuw
-0,Kobe Mah
-0,Lisa Liu
-0,Marcus Yeung
-0,Russell Hamilton
-0,Shaelyn Woo
-0,Shannon Wu
-0,Victor Tiet
-0,Violet  Lamoureux
-0,Zachary Wong
-0,Zee He
-0,Benjamin Jiang
-10,Miu Shiraiwa
-95,Colin Wu
 b,r,e,a,k
 Igneous Ultimate,12
 teamInfo,,"Bend, Oregon",https://sites.google.com/view/bendultimate/club-teams/igneous-ultimate,,
@@ -371,11 +371,11 @@ Cutthroat,Viking Blood,0,0,"06/27/2026, 12:30",Pool B,Scheduled
 pool,Pool C
 Lights Out,Grit City,13,3,"06/27/2026, 09:00",Pool C,Final
 Lights Out,Drip,13,3,"06/27/2026, 10:45",Pool C,Final
-Grit City,Drip,0,0,"06/27/2026, 12:30",Pool C,Scheduled
+Grit City,Drip,10,8,"06/27/2026, 12:30",Pool C,Final
 pool,Pool D
 Hive,Igneous Ultimate,13,2,"06/27/2026, 09:00",Pool D,Final
 Royals,Igneous Ultimate,13,2,"06/27/2026, 10:45",Pool D,Final
-Royals,Hive,0,0,"06/27/2026, 12:30",Pool D,Scheduled
+Royals,Hive,13,5,"06/27/2026, 12:30",Pool D,Final
 pool,Consolation Pools
 b,r,e,a,k
 brackets,Championship Bracket
@@ -385,4 +385,8 @@ bracket,Fivals
 bracket,7th Place Game
 b,r,e,a,k
 clusters,Crossover Games
+cluster,Crossover Games
+Lights Out,Royals,0,0,"06/27/2026, 14:15",,Scheduled
+Grit City,Igneous Ultimate,0,0,"06/27/2026, 14:15",,Scheduled
+Hive,Drip,0,0,"06/27/2026, 14:15",,Scheduled
 b,r,e,a,k
