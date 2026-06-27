@@ -28,6 +28,24 @@ teamInfo,,"San Antonio, Texas",,,
 80,Jason Wehring
 92,Benjamin Andrade
 b,r,e,a,k
+The Incline,9
+teamInfo,,"Colorado Springs, Colorado",,,
+0,Adam Neu
+0,Adam Sandstedt
+0,Brennan Auger
+0,Dakota Davidson
+0,David Sun
+0,Jeno Saghi
+0,Ian Vickers
+0,Devin Bunce
+8,Alex Bullock
+21,David Popp
+25,Carter Aispuro
+43,Gregory  Benavidez
+52,Nicholas Battaglino
+74,David Jensen
+77,William Hartojo
+b,r,e,a,k
 Texas Duffy,8
 teamInfo,,"College Station, Texas",,,
 0,Justin Lyons
@@ -48,24 +66,6 @@ teamInfo,,"College Station, Texas",,,
 69,Joshua Romani
 90,Aaron Duffy
 95,Benz Le
-b,r,e,a,k
-The Incline,9
-teamInfo,,"Colorado Springs, Colorado",,,
-0,Adam Neu
-0,Adam Sandstedt
-0,Brennan Auger
-0,Dakota Davidson
-0,David Sun
-0,Jeno Saghi
-0,Ian Vickers
-0,Devin Bunce
-8,Alex Bullock
-21,David Popp
-25,Carter Aispuro
-43,Gregory  Benavidez
-52,Nicholas Battaglino
-74,David Jensen
-77,William Hartojo
 b,r,e,a,k
 Supercell,16
 teamInfo,,"Oklahoma City, Oklahoma",,,http://@SuperCellOKC
@@ -385,7 +385,7 @@ s,t,a,g,e,s
 pools,Clipped Pool Play
 pool,Pool A
 Alamode,Supercell,13,1,"06/27/2026, 08:30",Pool A,Final
-Texas Duffy,The Incline,0,0,"06/27/2026, 08:30",Pool A,Scheduled
+Texas Duffy,The Incline,6,12,"06/27/2026, 08:30",Pool A,Final
 Alamode,The Incline,0,0,"06/27/2026, 10:15",Pool A,Scheduled
 Texas Duffy,Supercell,0,0,"06/27/2026, 10:15",Pool A,Scheduled
 Alamode,Texas Duffy,0,0,"06/27/2026, 10:15",Pool A,Scheduled
@@ -399,14 +399,11 @@ pool,Pool C
 Texas BBQ,San Antonio Warhawks,13,2,"06/27/2026, 08:30",Pool C,Final
 Riverside,Friendly Fire,13,6,"06/27/2026, 08:30",Pool C,Final
 Texas BBQ,Friendly Fire,0,0,"06/27/2026, 10:15",Pool C,Scheduled
-Riverside,San Antonio Warhawks,0,0,"06/27/2026, 10:15",Pool C,Scheduled
 Texas BBQ,Riverside,0,0,"06/27/2026, 10:15",Pool C,Scheduled
 Friendly Fire,San Antonio Warhawks,0,0,"06/27/2026, 10:15",Pool C,Scheduled
 pool,Pool D
 ZOO,Forge,13,1,"06/27/2026, 08:30",Pool D,Final
 Texas Tea,Rawhide,12,4,"06/27/2026, 08:30",Pool D,Final
-ZOO,Rawhide,0,0,"06/27/2026, 10:15",Pool D,Scheduled
-Texas Tea,Forge,0,0,"06/27/2026, 10:15",Pool D,Scheduled
 ZOO,Texas Tea,0,0,"06/27/2026, 10:15",Pool D,Scheduled
 Rawhide,Forge,0,0,"06/27/2026, 10:15",Pool D,Scheduled
 b,r,e,a,k
