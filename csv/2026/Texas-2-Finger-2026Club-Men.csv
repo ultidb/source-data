@@ -28,24 +28,6 @@ teamInfo,,"San Antonio, Texas",,,
 80,Jason Wehring
 92,Benjamin Andrade
 b,r,e,a,k
-The Incline,9
-teamInfo,,"Colorado Springs, Colorado",,,
-0,Adam Neu
-0,Adam Sandstedt
-0,Brennan Auger
-0,Dakota Davidson
-0,David Sun
-0,Jeno Saghi
-0,Ian Vickers
-0,Devin Bunce
-8,Alex Bullock
-21,David Popp
-25,Carter Aispuro
-43,Gregory  Benavidez
-52,Nicholas Battaglino
-74,David Jensen
-77,William Hartojo
-b,r,e,a,k
 Texas Duffy,8
 teamInfo,,"College Station, Texas",,,
 0,Justin Lyons
@@ -66,6 +48,24 @@ teamInfo,,"College Station, Texas",,,
 69,Joshua Romani
 90,Aaron Duffy
 95,Benz Le
+b,r,e,a,k
+The Incline,9
+teamInfo,,"Colorado Springs, Colorado",,,
+0,Adam Neu
+0,Adam Sandstedt
+0,Brennan Auger
+0,Dakota Davidson
+0,David Sun
+0,Jeno Saghi
+0,Ian Vickers
+0,Devin Bunce
+8,Alex Bullock
+21,David Popp
+25,Carter Aispuro
+43,Gregory  Benavidez
+52,Nicholas Battaglino
+74,David Jensen
+77,William Hartojo
 b,r,e,a,k
 Supercell,16
 teamInfo,,"Oklahoma City, Oklahoma",,,http://@SuperCellOKC
@@ -385,13 +385,13 @@ s,t,a,g,e,s
 pools,Clipped Pool Play
 pool,Pool A
 Alamode,Supercell,13,1,"06/27/2026, 08:30",Pool A,Final
-Texas Duffy,The Incline,6,12,"06/27/2026, 08:30",Pool A,Final
+Texas Duffy,The Incline,12,6,"06/27/2026, 08:30",Pool A,Final
 Alamode,Texas Duffy,13,6,"06/27/2026, 10:15",Pool A,Final
 The Incline,Supercell,11,5,"06/27/2026, 10:15",Pool A,Final
 pool,Pool B
 Dreadnought,Black Gold,13,2,"06/27/2026, 08:30",Pool B,Final
 NOx,Rice Box,12,9,"06/27/2026, 08:30",Pool B,Final
-Dreadnought,NOx,6,7,"06/27/2026, 10:15",Pool B,In Progress
+Dreadnought,NOx,8,10,"06/27/2026, 10:15",Pool B,In Progress
 Rice Box,Black Gold,12,7,"06/27/2026, 10:15",Pool B,Final
 pool,Pool C
 Texas BBQ,San Antonio Warhawks,13,2,"06/27/2026, 08:30",Pool C,Final
@@ -405,6 +405,11 @@ ZOO,Texas Tea,13,5,"06/27/2026, 10:15",Pool D,Final
 Rawhide,Forge,12,11,"06/27/2026, 10:15",Pool D,Final
 b,r,e,a,k
 clusters,Crossovers
+cluster,Crossover
+NOx,ZOO,0,0,"06/27/2026, 12:00",,Scheduled
+Dreadnought,Rawhide,0,0,"06/27/2026, 12:00",,Scheduled
+Texas Tea,Rice Box,0,0,"06/27/2026, 12:00",,Scheduled
+Black Gold,Forge,0,0,"06/27/2026, 12:00",,Scheduled
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,Championship
