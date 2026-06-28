@@ -29,6 +29,27 @@ teamInfo,,"Needham, Massachusetts",,,https://twitter.com/Squad_Ult
 42,Finn Cole
 59,Thomas Yoxsimer
 b,r,e,a,k
+BANG,4
+teamInfo,,"Burlington, Vermont",,,
+0,Collin Brown
+0,Ethan Wolf
+0,Ethan Hood
+0,Charlie Clark
+0,Adrian Staples
+0,Mateo Bolen
+0,Teddy Hanley
+0,Samson Hurwitz
+1,Benjamin Weinstein
+4,Owen Hartford
+10,Lanhjamin Tran
+24,Hessain Tamang
+29,James Bellizia
+33,Ryan Colarusso
+33,Jasper Turner
+52,Ian Erly
+69,Lance Lawida
+99,Peter Carlson-Belanger
+b,r,e,a,k
 MBTA,8
 teamInfo,,"Boston, Massachusetts",,,https://twitter.com/MbtaUltimate
 0,Coleman Ross
@@ -57,27 +78,6 @@ teamInfo,,"Boston, Massachusetts",,,https://twitter.com/MbtaUltimate
 82,JP Collins
 88,Franklin Mejia
 92,Patrick Baker
-b,r,e,a,k
-BANG,4
-teamInfo,,"Burlington, Vermont",,,
-0,Collin Brown
-0,Ethan Wolf
-0,Ethan Hood
-0,Charlie Clark
-0,Adrian Staples
-0,Mateo Bolen
-0,Teddy Hanley
-0,Samson Hurwitz
-1,Benjamin Weinstein
-4,Owen Hartford
-10,Lanhjamin Tran
-24,Hessain Tamang
-29,James Bellizia
-33,Ryan Colarusso
-33,Jasper Turner
-52,Ian Erly
-69,Lance Lawida
-99,Peter Carlson-Belanger
 b,r,e,a,k
 Connecticut 9 to 5,5
 teamInfo,,"Hartford, Connecticut",,,
@@ -198,27 +198,6 @@ teamInfo,,"South Burlington, Vermont",https://jackovincent.wixsite.com/nemesis-u
 26,Ian Rock-Jones
 88,Andrew Gervia
 b,r,e,a,k
-Long Island Riff Raff,11
-teamInfo,,"Dix Hills, New York",https://www.instagram.com/longislandriffraff/,,
-0,Brandon  Patanjo
-0,Cisco An-Torres
-0,Benjamin Rosenberg
-0,Aaron Miller
-0,Jason Berozi
-0,Issa Caothien
-0,Tyler Stack
-0,Ryan Deveraux
-9,Aidan Gold
-04,Griffin Fielding
-07,Patrick Collins
-08,Tim Mei
-20,Patrick Robisch
-31,Kai Robin
-33,Dylan Gammarato
-39,Brielle Budway
-94,Eric Stern
-99,Spencer Williams
-b,r,e,a,k
 Buffalo Frostbite,10
 teamInfo,,"Buffalo, New York",,,
 0,Andrew Wagner
@@ -264,6 +243,27 @@ teamInfo,,"Hartford, Connecticut",,,
 52,Michael Hardesty
 73,Brian Jollie
 b,r,e,a,k
+Long Island Riff Raff,11
+teamInfo,,"Dix Hills, New York",https://www.instagram.com/longislandriffraff/,,
+0,Brandon  Patanjo
+0,Cisco An-Torres
+0,Benjamin Rosenberg
+0,Aaron Miller
+0,Jason Berozi
+0,Issa Caothien
+0,Tyler Stack
+0,Ryan Deveraux
+9,Aidan Gold
+04,Griffin Fielding
+07,Patrick Collins
+08,Tim Mei
+20,Patrick Robisch
+31,Kai Robin
+33,Dylan Gammarato
+39,Brielle Budway
+94,Eric Stern
+99,Spencer Williams
+b,r,e,a,k
 s,t,a,g,e,s
 pools,Pools
 pool,Pool E
@@ -276,7 +276,7 @@ Connecticut 9 to 5,Motive,13,10,"06/27/2026, 13:50",Pool E,Final
 BANG,Connecticut 9 to 5,12,11,"06/27/2026, 15:30",Pool E,Final
 MBTA,Motive,13,5,"06/27/2026, 15:30",Pool E,Final
 Skeleton Squad,Motive,13,2,"06/28/2026, 09:00",Pool E,Final
-BANG,MBTA,0,0,"06/28/2026, 09:00",Pool E,Scheduled
+BANG,MBTA,13,10,"06/28/2026, 09:00",Pool E,Final
 pool,Pool F
 Odyssey,Spring Break '93,13,3,"06/27/2026, 10:30",Pool F,Final
 Alibi,Buffalo Frostbite,13,6,"06/27/2026, 10:30",Pool F,Final
@@ -290,15 +290,22 @@ Spring Break '93,Buffalo Frostbite,8,12,"06/27/2026, 13:50",Pool F,Final
 Odyssey,Long Island Riff Raff,13,2,"06/27/2026, 15:30",Pool F,Final
 Alibi,Spring Break '93,13,1,"06/27/2026, 15:30",Pool F,Final
 Green Mountain Boys,Buffalo Frostbite,13,7,"06/27/2026, 15:30",Pool F,Final
-Odyssey,Buffalo Frostbite,0,0,"06/28/2026, 09:00",Pool F,Scheduled
+Odyssey,Buffalo Frostbite,W,L,"06/28/2026, 09:00",Pool F,Final
 Alibi,Green Mountain Boys,13,8,"06/28/2026, 09:00",Pool F,Final
-Spring Break '93,Long Island Riff Raff,0,0,"06/28/2026, 09:00",Pool F,Scheduled
+Spring Break '93,Long Island Riff Raff,13,8,"06/28/2026, 09:00",Pool F,Final
 b,r,e,a,k
 brackets,Playoffs
 bracket,1st Place
+Skeleton Squad,Alibi,0,0,"06/28/2026, 11:00",1st Place Semis,Scheduled
+Odyssey,BANG,0,0,"06/28/2026, 11:00",1st Place Semis,Scheduled
 bracket,3rd Place
 bracket,5th Place
+MBTA,Buffalo Frostbite,0,0,"06/28/2026, 11:00",5th Place Semis,Scheduled
+Green Mountain Boys,Connecticut 9 to 5,0,0,"06/28/2026, 11:00",5th Place Semis,Scheduled
 bracket,7th Place
 b,r,e,a,k
 clusters,Sunday RR
+cluster,Sunday RR
+Motive,Spring Break '93,0,0,"06/28/2026, 11:00",,Scheduled
+Motive,Long Island Riff Raff,0,0,"06/28/2026, 13:00",,Scheduled
 b,r,e,a,k
