@@ -1,6 +1,30 @@
 RagnaRock 2026,Club - Men ,11,7,2026
 North Little Rock,AR,2026-07-11,2026-07-12
 https://play.usaultimate.org/events/RagnaRock-2026/schedule/Men/Club-Men/
+Gang Of Disc,3
+teamInfo,,"New Orleans, Louisiana",,,
+0,Andre Dumez
+0,Cooper Bruce
+0,Aswathama Shanmugam Marimuthu
+0,Neil Newsome
+0,Derek Martin
+0,Edward Gordillo
+0,Pranav Jaligam
+0,Roman Spears
+0,Talon Spears
+0,Phillip Wagner
+0,Riley LeBlanc
+0,"Gregory Plaia, Jr"
+5,Joseph Wagner
+12,Alexander Antrum
+15,Elijah Newbrun-Mintz
+20,Charles Gordon
+22,Adam Brunner
+23,Shamit Dua
+34,Sam Schenkelberg
+52,Kush Parmar
+66,Jaylon Boone
+b,r,e,a,k
 Cookie Mon$terz,1
 teamInfo,,"$, Mississippi",,,
 0,Gideon Miller
@@ -45,46 +69,6 @@ teamInfo,,"Nashville, Tennessee",,,
 77,Malachi Johnson
 86,Eric Bowler
 b,r,e,a,k
-Gang Of Disc,3
-teamInfo,,"New Orleans, Louisiana",,,
-0,Andre Dumez
-0,Cooper Bruce
-0,Aswathama Shanmugam Marimuthu
-0,Neil Newsome
-0,Derek Martin
-0,Edward Gordillo
-0,Pranav Jaligam
-0,Roman Spears
-0,Talon Spears
-0,Phillip Wagner
-0,Riley LeBlanc
-0,"Gregory Plaia, Jr"
-5,Joseph Wagner
-12,Alexander Antrum
-15,Elijah Newbrun-Mintz
-20,Charles Gordon
-22,Adam Brunner
-23,Shamit Dua
-34,Sam Schenkelberg
-52,Kush Parmar
-66,Jaylon Boone
-b,r,e,a,k
-Supercell,4
-teamInfo,,"Oklahoma City, Oklahoma",,,http://@SuperCellOKC
-0,Daniel Griffin
-0,Davis Lynn
-0,Matthew Blanchard
-0,Stephen Easton
-0,Samuel Cashdollar
-0,Sean Meginness
-2,Jonathan Summers
-11,Stuart Wire
-12,Trevor Brown
-30,William Wilson
-39,Grey Lashbrook
-89,Kenneth Boyd
-99,Nathan Nordbrock
-b,r,e,a,k
 Southern Hospitality,5
 teamInfo,,"Jackson, Mississippi",,,
 0,Ka'Von Spivey
@@ -107,6 +91,22 @@ teamInfo,,"Jackson, Mississippi",,,
 34,Micah Peacock
 79,Benjamin Ogden
 b,r,e,a,k
+Supercell,4
+teamInfo,,"Oklahoma City, Oklahoma",,,http://@SuperCellOKC
+0,Daniel Griffin
+0,Davis Lynn
+0,Matthew Blanchard
+0,Stephen Easton
+0,Samuel Cashdollar
+0,Sean Meginness
+2,Jonathan Summers
+11,Stuart Wire
+12,Trevor Brown
+30,William Wilson
+39,Grey Lashbrook
+89,Kenneth Boyd
+99,Nathan Nordbrock
+b,r,e,a,k
 Apollo,6
 teamInfo,,"Little Rock, Arkansas",,,
 0,Chris Stewart
@@ -126,21 +126,28 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
-Cookie Mon$terz,Gang Of Disc,0,0,"07/11/2026, 08:00",Pool A,Scheduled
-Nocturnal,Southern Hospitality,0,0,"07/11/2026, 08:00",Pool A,Scheduled
-Supercell,Apollo,0,0,"07/11/2026, 08:00",Pool A,Scheduled
-Cookie Mon$terz,Nocturnal,0,0,"07/11/2026, 09:45",Pool A,Scheduled
-Gang Of Disc,Supercell,0,0,"07/11/2026, 09:45",Pool A,Scheduled
-Southern Hospitality,Apollo,0,0,"07/11/2026, 09:45",Pool A,Scheduled
-Cookie Mon$terz,Supercell,0,0,"07/11/2026, 11:30",Pool A,Scheduled
-Nocturnal,Apollo,0,0,"07/11/2026, 11:30",Pool A,Scheduled
-Gang Of Disc,Southern Hospitality,0,0,"07/11/2026, 11:30",Pool A,Scheduled
-Cookie Mon$terz,Apollo,0,0,"07/11/2026, 13:15",Pool A,Scheduled
-Nocturnal,Gang Of Disc,0,0,"07/11/2026, 13:15",Pool A,Scheduled
-Supercell,Southern Hospitality,0,0,"07/11/2026, 13:15",Pool A,Scheduled
+Cookie Mon$terz,Gang Of Disc,10,11,"07/11/2026, 08:00",Pool A,Final
+Nocturnal,Southern Hospitality,11,7,"07/11/2026, 08:00",Pool A,Final
+Supercell,Apollo,13,8,"07/11/2026, 08:00",Pool A,Final
+Cookie Mon$terz,Nocturnal,11,10,"07/11/2026, 09:45",Pool A,Final
+Gang Of Disc,Supercell,12,8,"07/11/2026, 09:45",Pool A,Final
+Southern Hospitality,Apollo,10,9,"07/11/2026, 09:45",Pool A,Final
+Cookie Mon$terz,Supercell,13,6,"07/11/2026, 11:30",Pool A,Final
+Nocturnal,Apollo,11,6,"07/11/2026, 11:30",Pool A,Final
+Gang Of Disc,Southern Hospitality,8,7,"07/11/2026, 11:30",Pool A,Final
+Cookie Mon$terz,Apollo,13,6,"07/11/2026, 13:15",Pool A,Final
+Nocturnal,Gang Of Disc,5,7,"07/11/2026, 13:15",Pool A,Final
+Supercell,Southern Hospitality,7,13,"07/11/2026, 13:15",Pool A,Final
 b,r,e,a,k
 brackets,Bracket
 bracket,Championship Bracket
+Gang Of Disc,Cookie Mon$terz,11,10,"07/12/2026, 11:30",Finals,Final
+Gang Of Disc,Southern Hospitality,13,4,"07/12/2026, 09:45",Semi-Finals,Final
+Cookie Mon$terz,Nocturnal,12,9,"07/12/2026, 09:45",Semi-Finals,Final
+Southern Hospitality,Supercell,13,7,"07/12/2026, 08:00",Qualifier,Final
+Nocturnal,Apollo,13,7,"07/12/2026, 08:00",Qualifier,Final
 bracket,3rd Place Game
+Southern Hospitality,Nocturnal,10,13,"07/12/2026, 11:30",3rd Place,Final
 bracket,5th Place Game
+Supercell,Apollo,13,9,"07/12/2026, 09:45",5th Place,Final
 b,r,e,a,k

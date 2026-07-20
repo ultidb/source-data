@@ -137,56 +137,6 @@ teamInfo,,"San Francisco, California",https://www.instagram.com/mangoultimate/,,
 98,Gabriela Hamm
 99,Stephen Crowe
 b,r,e,a,k
-Spoiler Alert,7
-teamInfo,,"Los Angeles, California",,https://www.facebook.com/SpoilerAlertUltimate/,http://@Spoileralertult
-0,Alison Yoho
-0,Emily Chiang
-0,Andrew Whittle
-0,Megan Lannert
-0,Katrina Rizzuto
-0,Jackson Winter
-0,Theodore Lannert
-0,Zachary Mann
-0,Stephanie Schaffer
-0,Molly Winter
-0,Sarah Galvani-Townsend
-0,Tyler Daily
-0,Megan  Stock
-0,Jennifer De la Torre
-3,George Liang
-7,Kyle Stinson
-13,Alex Tacescu
-27,Mei-Lien Converse
-31,Eddie Scott
-37,Clayton Moore
-55,Reilly Dalleska
-b,r,e,a,k
-Birds of Paradise,10
-teamInfo,,"San Diego, California",https://www.instagram.com/birds.of.paradise.ultimate/,https://www.facebook.com/BirdsUltimateSD/,
-0,Ariana Zaragoza
-0,Ari Berk
-0,Anna Chechenina
-0,Catherine Paulson
-0,Daisy Har
-0,Dominic La Frantz
-0,Ashley Shen
-0,Santiago Garcia-Lavanchy
-0,Tori Buss
-0,Magdalen Palzewicz
-0,Justen Hitchcock
-0,Alexis Rampolla
-0,Andrew Armstrong
-0,Shawn Olsavsky
-0,Steven Cheng
-0,Luke Currier
-9,Skye Baesen
-14,John Geller
-17,Paul Goral
-19,Brandon Segraves
-25,Andrew Wells
-29,Isabella Zaragoza
-55,Eva York
-b,r,e,a,k
 Landsharks,15
 teamInfo,,"Santa Barbara, California",https://www.instagram.com/sblandsharks/#,,
 0,Adeleen Khem
@@ -214,6 +164,56 @@ teamInfo,,"Santa Barbara, California",https://www.instagram.com/sblandsharks/#,,
 33,Liam Yaroschuk
 34,Maya Roma
 87,Luke Tursick
+b,r,e,a,k
+Birds of Paradise,10
+teamInfo,,"San Diego, California",https://www.instagram.com/birds.of.paradise.ultimate/,https://www.facebook.com/BirdsUltimateSD/,
+0,Ariana Zaragoza
+0,Ari Berk
+0,Anna Chechenina
+0,Catherine Paulson
+0,Daisy Har
+0,Dominic La Frantz
+0,Ashley Shen
+0,Santiago Garcia-Lavanchy
+0,Tori Buss
+0,Magdalen Palzewicz
+0,Justen Hitchcock
+0,Alexis Rampolla
+0,Andrew Armstrong
+0,Shawn Olsavsky
+0,Steven Cheng
+0,Luke Currier
+9,Skye Baesen
+14,John Geller
+17,Paul Goral
+19,Brandon Segraves
+25,Andrew Wells
+29,Isabella Zaragoza
+55,Eva York
+b,r,e,a,k
+Spoiler Alert,7
+teamInfo,,"Los Angeles, California",,https://www.facebook.com/SpoilerAlertUltimate/,http://@Spoileralertult
+0,Alison Yoho
+0,Emily Chiang
+0,Andrew Whittle
+0,Megan Lannert
+0,Katrina Rizzuto
+0,Jackson Winter
+0,Theodore Lannert
+0,Zachary Mann
+0,Stephanie Schaffer
+0,Molly Winter
+0,Sarah Galvani-Townsend
+0,Tyler Daily
+0,Megan  Stock
+0,Jennifer De la Torre
+3,George Liang
+7,Kyle Stinson
+13,Alex Tacescu
+27,Mei-Lien Converse
+31,Eddie Scott
+37,Clayton Moore
+55,Reilly Dalleska
 b,r,e,a,k
 Classy,3
 teamInfo,,"San Francisco, California",,https://www.facebook.com/classyultimate/,
@@ -434,41 +434,65 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Revolution Pool Play
 pool,Pool A
-Donuts,Robot,0,0,"07/11/2026, 10:00",Pool A,Scheduled
-Sin Nombre,Takeout,0,0,"07/11/2026, 10:00",Pool A,Scheduled
-Donuts,Takeout,0,0,"07/11/2026, 12:00",Pool A,Scheduled
-Sin Nombre,Robot,0,0,"07/11/2026, 12:00",Pool A,Scheduled
-Donuts,Sin Nombre,0,0,"07/11/2026, 14:00",Pool A,Scheduled
-Robot,Takeout,0,0,"07/11/2026, 14:00",Pool A,Scheduled
+Donuts,Robot,14,11,"07/11/2026, 10:00",Pool A,Final
+Sin Nombre,Takeout,15,2,"07/11/2026, 10:00",Pool A,Final
+Donuts,Takeout,15,3,"07/11/2026, 12:00",Pool A,Final
+Sin Nombre,Robot,15,10,"07/11/2026, 12:00",Pool A,Final
+Donuts,Sin Nombre,15,10,"07/11/2026, 14:00",Pool A,Final
+Robot,Takeout,15,4,"07/11/2026, 14:00",Pool A,Final
 pool,Pool B
-Mango,Birds of Paradise,0,0,"07/11/2026, 10:00",Pool B,Scheduled
-Spoiler Alert,Landsharks,0,0,"07/11/2026, 10:00",Pool B,Scheduled
-Mango,Landsharks,0,0,"07/11/2026, 12:00",Pool B,Scheduled
-Spoiler Alert,Birds of Paradise,0,0,"07/11/2026, 12:00",Pool B,Scheduled
-Mango,Spoiler Alert,0,0,"07/11/2026, 14:00",Pool B,Scheduled
-Birds of Paradise,Landsharks,0,0,"07/11/2026, 14:00",Pool B,Scheduled
+Mango,Birds of Paradise,13,8,"07/11/2026, 10:00",Pool B,Final
+Spoiler Alert,Landsharks,10,13,"07/11/2026, 10:00",Pool B,Final
+Mango,Landsharks,14,6,"07/11/2026, 12:00",Pool B,Final
+Spoiler Alert,Birds of Paradise,9,11,"07/11/2026, 12:00",Pool B,Final
+Mango,Spoiler Alert,12,10,"07/11/2026, 14:00",Pool B,Final
+Birds of Paradise,Landsharks,3,15,"07/11/2026, 14:00",Pool B,Final
 pool,Pool C
-Classy,Grit City,0,0,"07/11/2026, 10:00",Pool C,Scheduled
-Family Style,Moonlight Ultimate,0,0,"07/11/2026, 10:00",Pool C,Scheduled
-Classy,Moonlight Ultimate,0,0,"07/11/2026, 12:00",Pool C,Scheduled
-Family Style,Grit City,0,0,"07/11/2026, 12:00",Pool C,Scheduled
-Classy,Family Style,0,0,"07/11/2026, 14:00",Pool C,Scheduled
-Grit City,Moonlight Ultimate,0,0,"07/11/2026, 14:00",Pool C,Scheduled
+Classy,Grit City,15,4,"07/11/2026, 10:00",Pool C,Final
+Family Style,Moonlight Ultimate,15,9,"07/11/2026, 10:00",Pool C,Final
+Classy,Moonlight Ultimate,15,3,"07/11/2026, 12:00",Pool C,Final
+Family Style,Grit City,12,9,"07/11/2026, 12:00",Pool C,Final
+Classy,Family Style,15,4,"07/11/2026, 14:00",Pool C,Final
+Grit City,Moonlight Ultimate,15,6,"07/11/2026, 14:00",Pool C,Final
 pool,Pool D
-American Barbecue,Goose Chase,0,0,"07/11/2026, 10:00",Pool D,Scheduled
-Hive,VU,0,0,"07/11/2026, 10:00",Pool D,Scheduled
-American Barbecue,VU,0,0,"07/11/2026, 12:00",Pool D,Scheduled
-Hive,Goose Chase,0,0,"07/11/2026, 12:00",Pool D,Scheduled
-American Barbecue,Hive,0,0,"07/11/2026, 14:00",Pool D,Scheduled
-Goose Chase,VU,0,0,"07/11/2026, 14:00",Pool D,Scheduled
+American Barbecue,Goose Chase,15,11,"07/11/2026, 10:00",Pool D,Final
+Hive,VU,15,3,"07/11/2026, 10:00",Pool D,Final
+American Barbecue,VU,15,6,"07/11/2026, 12:00",Pool D,Final
+Hive,Goose Chase,15,10,"07/11/2026, 12:00",Pool D,Final
+American Barbecue,Hive,15,10,"07/11/2026, 14:00",Pool D,Final
+Goose Chase,VU,15,7,"07/11/2026, 14:00",Pool D,Final
 b,r,e,a,k
 brackets,Revolution Brackets
 bracket,Championship Bracket
+Landsharks,Classy,14,8,"07/12/2026, 14:00",Finals,Final
+Landsharks,American Barbecue,11,9,"07/12/2026, 12:00",Semi-Finals,Final
+Classy,Mango,15,8,"07/12/2026, 12:00",Semi-Finals,Final
+Donuts,Landsharks,12,13,"07/12/2026, 10:00",Quarter Finals,Final
+Family Style,American Barbecue,4,14,"07/12/2026, 10:00",Quarter Finals,Final
+Classy,Hive,13,9,"07/12/2026, 10:00",Quarter Finals,Final
+Sin Nombre,Mango,8,11,"07/12/2026, 10:00",Quarter Finals,Final
 bracket,3rd Place Bracket
+American Barbecue,Mango,15,7,"07/12/2026, 14:00",Finals,Final
 bracket,5th Place Bracket
+Donuts,Hive,13,14,"07/12/2026, 14:00",Finals,Final
+Donuts,Family Style,15,11,"07/12/2026, 12:00",Semi-Finals,Final
+Hive,Sin Nombre,14,13,"07/12/2026, 12:00",Semi-Finals,Final
 bracket,7th Place Bracket
+Family Style,Sin Nombre,11,8,"07/12/2026, 14:00",Finals,Final
 bracket,9th Place Bracket
+Birds of Paradise,Robot,9,15,"07/12/2026, 14:00",Finals,Final
+Birds of Paradise,Grit City,13,10,"07/12/2026, 12:00",Semi-Finals,Final
+Goose Chase,Robot,10,11,"07/12/2026, 12:00",Semi-Finals,Final
+Birds of Paradise,Takeout,13,10,"07/12/2026, 10:00",Quarter Finals,Final
+VU,Grit City,8,14,"07/12/2026, 10:00",Quarter Finals,Final
+Goose Chase,Moonlight Ultimate,14,8,"07/12/2026, 10:00",Quarter Finals,Final
+Spoiler Alert,Robot,10,11,"07/12/2026, 10:00",Quarter Finals,Final
 bracket,11th Place Bracket
+Grit City,Goose Chase,15,11,"07/12/2026, 14:00",Finals,Final
 bracket,13th Place Bracket
+VU,Spoiler Alert,11,7,"07/12/2026, 14:00",Finals,Final
+Takeout,VU,7,14,"07/12/2026, 12:00",Semi-Finals,Final
+Moonlight Ultimate,Spoiler Alert,6,11,"07/12/2026, 12:00",Semi-Finals,Final
 bracket,15th Place Bracket
+Takeout,Moonlight Ultimate,8,13,"07/12/2026, 14:00",Finals,Final
 b,r,e,a,k
