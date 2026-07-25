@@ -1,5 +1,3 @@
-import sys
-import getopt
 import csv
 from enum import Enum
 from bs4 import BeautifulSoup
@@ -12,6 +10,9 @@ from os.path import exists
 from dotenv import load_dotenv
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.by import By
 import time
 import uuid
 from parse import (
@@ -22,6 +23,7 @@ from parse import (
     parseTournamentCalendar,
 )
 from tor import torIsRunning, startTorServer
+from config import get_season_id
 
 
 load_dotenv()
@@ -30,23 +32,8 @@ config = None
 # Singleton Chrome driver for Selenium requests
 _selenium_driver = None
 
-seasonIdMap = {
-    2014: 4,
-    2015: 5,
-    2016: 6,
-    2017: 7,
-    2018: 8,
-    2019: 14,
-    2020: 15,
-    2021: 16,
-    2022: 17,
-    2023: 18,
-    2024: 19,
-    2025: 20,
-}
 
-
-class Config:
+class ScrapeOptions:
     def __init__(self, year, disableCache, overwriteCSVs, live, calendarOnly):
         self.disableCache = disableCache
         self.overwriteCSVs = overwriteCSVs
@@ -73,7 +60,11 @@ def writeContentToFile(path, file, content):
 
 
 def makeProxiedRequest(url):
-    return makeProxiedRequestSelenium(url)
+    try:
+        return makeProxiedRequestSelenium(url)
+    except Exception as e:
+        log.error(f"Failed to load {url}: {e}")
+        raise
     # log.debug(f"Making proxied request to {url}")
 
     # if not torIsRunning():
@@ -145,18 +136,108 @@ def makeProxiedRequestSelenium(url):
 
     driver = getSeleniumDriver()
 
-    try:
-        driver.get(url)
+    # Extract expected tournament slug from URL for validation
+    expected_tournament_slug = None
+    if "/events/" in url:
+        parts = url.split("/")
+        for i, part in enumerate(parts):
+            if part == "events" and i + 1 < len(parts):
+                expected_tournament_slug = parts[i + 1]
+                break
 
-        # Get the page source
-        page_source = driver.page_source
+    max_retries = 3
+    for retry in range(max_retries):
+        try:
+            # Store the current page source before navigating to detect when it changes
+            old_page_source = driver.page_source if driver.current_url != "data:," else ""
 
-        # Convert to bytes to match the return type of makeProxiedRequest
-        return page_source.encode('utf-8')
-    except Exception as e:
-        log.error(f"Selenium request to {url} failed with error: {e}")
-        cleanupSeleniumDriver()
-        sys.exit(1)
+            driver.get(url)
+
+            # Wait for the page content to actually change by checking that the URL loaded
+            # and the page source is different from before
+            try:
+                WebDriverWait(driver, 10).until(
+                    lambda d: d.current_url == url or url in d.current_url
+                )
+            except Exception:
+                log.warning(f"URL did not fully load: expected {url}, got {driver.current_url}")
+
+            # Additional wait for page content to fully load before reading page_source.
+            # Without this wait, the driver may return stale content from the
+            # previous page, causing tournament data to be written to wrong files.
+            try:
+                WebDriverWait(driver, 10).until(
+                    EC.presence_of_element_located((By.CLASS_NAME, "breadcrumbs"))
+                )
+            except Exception:
+                # If breadcrumbs not found, wait for any content indicator
+                try:
+                    WebDriverWait(driver, 10).until(
+                        EC.presence_of_element_located((By.TAG_NAME, "body"))
+                    )
+                except Exception:
+                    pass
+
+            # Wait for the page source to actually change from the previous page
+            max_attempts = 20
+            for attempt in range(max_attempts):
+                current_page_source = driver.page_source
+                if current_page_source != old_page_source:
+                    break
+                time.sleep(0.1)
+            else:
+                log.warning(f"Page source did not change after {max_attempts} attempts for URL: {url}")
+
+            # Small delay to ensure dynamic content has loaded
+            time.sleep(0.5)
+
+            # Get the page source
+            page_source = driver.page_source
+
+            # CRITICAL: Validate that the loaded content matches the requested tournament
+            if expected_tournament_slug:
+                # Parse the page to verify tournament identity
+                from bs4 import BeautifulSoup
+                soup = BeautifulSoup(page_source, "html.parser")
+
+                # Check breadcrumbs for tournament link
+                breadcrumbs = soup.find("div", {"class": "breadcrumbs"})
+                if breadcrumbs:
+                    tournament_links = breadcrumbs.find_all("a")
+                    if len(tournament_links) >= 2:
+                        tournament_link = tournament_links[1]
+                        if tournament_link.get("href"):
+                            actual_slug = tournament_link["href"].rstrip("/").split("/")[-1]
+
+                            if actual_slug != expected_tournament_slug:
+                                log.warning(
+                                    f"Content mismatch on attempt {retry + 1}/{max_retries}: "
+                                    f"expected tournament '{expected_tournament_slug}' but got '{actual_slug}'. "
+                                    f"Retrying..."
+                                )
+                                if retry < max_retries - 1:
+                                    # Force reload by adding a small delay and clearing any cached state
+                                    time.sleep(1)
+                                    continue
+                                else:
+                                    log.error(
+                                        f"Failed to load correct tournament after {max_retries} attempts. "
+                                        f"Expected '{expected_tournament_slug}' but consistently got '{actual_slug}'"
+                                    )
+                                    raise Exception("Tournament content validation failed")
+
+            # Convert to bytes to match the return type of makeProxiedRequest
+            return page_source.encode('utf-8')
+
+        except Exception as e:
+            if retry < max_retries - 1:
+                log.warning(f"Attempt {retry + 1} failed, retrying: {e}")
+                time.sleep(1)
+                continue
+            else:
+                log.error(f"Selenium request to {url} failed after {max_retries} attempts with error: {e}")
+                cleanupSeleniumDriver()
+                raise
 
 
 def loadPage(config, url, pageType, tournamentName=None, teamName=None):
@@ -278,9 +359,8 @@ def scrapeListOfTournamentUrls(config, tournaments):
 
 
 def scrapeYear(config):
-    try:
-        seasonId = seasonIdMap[config.year]
-    except KeyError:
+    seasonId = get_season_id(config.year)
+    if seasonId is None:
         log.error(f"Invalid year: {config.year}")
         return
 
@@ -384,87 +464,3 @@ def readInfoFromCalendarCSV(year, url):
                 }
 
 
-def main(argv):
-    disableCache = False
-    overwrite = False
-    retry = False
-    year = None
-    tournament = None
-    debug = False
-    live = False
-    calendarOnly = False
-    tournamentInfo = {}
-    opts, args = getopt.getopt(
-        argv,
-        "lhdory:t:",
-        [
-            "live",
-            "help",
-            "disableCache",
-            "overwrite",
-            "retry",
-            "year=",
-            "tournament=",
-            "debug",
-            "calendarOnly",
-        ],
-    )
-    for opt, arg in opts:
-        if opt in ("-h", "--help"):
-            print("-h --help | view help options")
-            print("-l", "--live | scrape live data (used by app.py)")
-            print("-d", "--disableCache | ignore cached html files")
-            print("-o", "--overwrite | overwrite existing csv files")
-            print("-r", "--retry | retry failed tournaments from errors.txt")
-            print("-y", "--year | specify year to scrape")
-            print("--debug | enable debug logging")
-            sys.exit()
-        elif opt in ("-d", "--disableCache"):
-            disableCache = True
-            print("disableCache: " + str(disableCache))
-        elif opt in ("-o", "--overwrite"):
-            overwrite = True
-            print("overwriting existing csv files: " + str(overwrite))
-        elif opt in ("-r", "--retry"):
-            retry = True
-            print("retrying failed tournaments")
-        elif opt in ("-y", "--year"):
-            year = arg
-        elif opt in ("-t", "--tournament"):
-            tournament = arg
-        elif opt in ("--debug"):
-            debug = True
-        elif opt in ("-l", "--live"):
-            live = True
-        elif opt in ("--calendarOnly"):
-            calendarOnly = True
-
-    level = log.INFO
-    if debug:
-        level = log.DEBUG
-    log.basicConfig(
-        level=level,
-        format="[%(asctime)s] {%(filename)s:%(lineno)d} %(levelname)s - %(message)s",
-        datefmt="%H:%M:%S",
-    )
-
-    if year == None:
-        print("Please specify a to scrape!")
-        print("Use --year (-y)")
-        sys.exit()
-
-    config = Config(int(year), disableCache, overwrite, live, calendarOnly)
-
-    if retry:
-        retryErrors(config)
-    elif tournament != None:
-        tournamentInfo = readInfoFromCalendarCSV(year, tournament)
-        scrapeTournament(config, tournamentInfo, 0, 1)
-    else:
-        log.info("Scraping year: " + year)
-        # scrapeYear(config)
-        scrapeCurrentYear(config)
-
-
-if __name__ == "__main__":
-    main(sys.argv[1:])

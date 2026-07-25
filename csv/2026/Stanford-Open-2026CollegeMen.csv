@@ -26,23 +26,23 @@ teamInfo,SFU Red Leafs,"Burnaby, British Columbia CA",,,
 b,r,e,a,k
 California (B),16
 teamInfo,Ursa Minor,"Berkeley, California",,,
-0,Aarush Panda
-0,Alex Parikh-Briggs
-0,Alex Chen
-0,Anirudh Iyengar
-0,CarterJ Joel
-0,Connor Gallagher
-0,Connor Fagan
 0,Jared Kazhe
 0,Jonah Gensler
 0,Kyle Kim
 0,Matt Ryan
 0,Nicolas Stanton
 0,Samuel Callahan
+0,Alex Parikh-Briggs
+0,Alex Chen
+0,Anirudh Iyengar
+0,CarterJ Joel
+0,Connor Gallagher
+0,Connor Fagan
 0,Yonah Gereboff
 5,Diego Jiang
 18,Derrick Leong
 19,Shankar Ramaswamy
+27,Aarush Panda
 81,Dylan Miller
 99,William Tang
 b,r,e,a,k
@@ -119,7 +119,7 @@ teamInfo,Pyramid Scheme,"Long Beach, California",https://www.instagram.com/pyram
 79,Connor Marson
 b,r,e,a,k
 Claremont,2
-teamInfo,Braineaters,"Claremont , California",linktr.ee/brainsult,,
+teamInfo,Braineaters,"Claremont , California",http://linktr.ee/brainsult,,
 coaches,Austin Baxter
 0,Samuel Winkler
 01,Josh Marx
@@ -145,7 +145,7 @@ coaches,Austin Baxter
 71,Elijah Axt
 77,Graham Hynes
 77,Jeremy Kaufman
-80,Isaiah Curtis 
+80,Isaiah Curtis
 93,Jack Sheehan
 99,Jacob Leichter Wilson
 b,r,e,a,k
@@ -173,7 +173,7 @@ teamInfo,Humboldt Buds,"Arcata, California",https://www.humboldt.edu/campus-recr
 b,r,e,a,k
 Chico State,15
 teamInfo,Chico State,"Chico, California",,,
-0,Brandon  Garcia Flores 
+0,Brandon  Garcia Flores
 0,Camden Branson
 0,Carson Crouch
 0,forrest lefebvre
@@ -234,19 +234,19 @@ teamInfo,Washington B,"Seattle, Washington",https://www.instagram.com/undodgers/
 0,Jalen Li
 0,Jamie Overbay
 0,Jaron Casio
-0,Leo Andrade
-0,Marcus Hinderman
-0,Max Scheer
-0,Mercer Mann
 0,Noah Droker
 0,Noam Avrahami
 0,Sevens Baertsch Kovalchick
-0,Skye Pratley 
+0,Skye Pratley
 0,Varun Iyer
 0,William Yik
+0,Leo Andrade
+0,Marcus Hinderman
+0,Max Scheer
 9,Nicholas Wyatt
 12,Etai Nehushtan
 15,Jonah Lin
+67,Mercer Mann
 b,r,e,a,k
 British Columbia  (B),3
 teamInfo,B-Birds,"Vancouver, British Columbia CA",,,
@@ -257,10 +257,9 @@ coaches,Shintaro Tsukamoto
 0,Eric Zhang
 0,Graeme Hanks
 0,Nicholas Shum
-0,Ryan Wong
 0,Shilin Gao
 0,Tim Yang
-3,Caleb Lee
+4,Caleb Lee
 5,Ding-Han Yan
 6,Duncan Murch
 7,Peter Riegle
@@ -268,6 +267,7 @@ coaches,Shintaro Tsukamoto
 10,Mu Han Li
 12,Stanford Hu
 18,Connor Guy
+19,Ryan Wong
 22,Owen Cook
 23,Leven Saunders
 25,Eleazar Leyson
@@ -319,7 +319,7 @@ teamInfo,Lions,"Los Angeles, California",,https://www.facebook.com/groups/114655
 95,Julius Rockczar
 99,Nathan Walter
 b,r,e,a,k
-Nevada-Reno (A),14
+Nevada-Reno,14
 teamInfo,Elevation Ultimate,"Reno, Nevada",https://nevadaultimate.weebly.com/,https://www.facebook.com/NevadaUltimate/,https://twitter.com/nevadaultimate
 0,Brody Moreno-McClure
 0,Malachite Nelson
@@ -340,19 +340,19 @@ teamInfo,Beagles,"Davis, California",https://davisdogsultimate.weebly.com/,,
 0,Arlo Blackman-McGrew
 0,Brandon Garcia
 0,Eric Johnson
-0,Ewan Boumenot 
-0,Gabriel Colmenares 
+0,Ewan Boumenot
+0,Gabriel Colmenares
 0,Ilan Eliashberg
 0,Jackson Brown
 0,Jonathan Chang
 0,Julian Levitt
 0,Kaz Johnson
-0,Sachit Parekh
 0,Zaipeng Huang
 1,Oliver Bray
 3,Lucas Elms Kim
 7,Esai Melendres Munoz
 28,John Kekoa Olive
+37,Sachit Parekh
 b,r,e,a,k
 Denver,4
 teamInfo,Sourdough,"Denver, Colorado",https://denversourdough.wixsite.com/du-sourdough,,
@@ -361,7 +361,7 @@ teamInfo,Sourdough,"Denver, Colorado",https://denversourdough.wixsite.com/du-sou
 0,Jonah Perlman
 0,Nathan Smith
 0,Phillip Wigoda
-0,Piers  Mcgowin 
+0,Piers  Mcgowin
 0,Zachary Thomas
 4,Lucien Heilman
 6,Daniel Meekin
@@ -380,17 +380,17 @@ teamInfo,Sourdough,"Denver, Colorado",https://denversourdough.wixsite.com/du-sou
 b,r,e,a,k
 San Jose State,5
 teamInfo,Spartans,"San Jose, California",https://sjsusports.com/sports/ultimate,https://www.facebook.com/SJSUUltimate/,
-0,Carsten Wuerl
 0,Douglas Goodwin
 0,Joshua Krone
 0,Porter Seiwald
-0,Skyler  Martin
 0,Wiley Thrift
 0,William Bahou
 1,Ryan Novinsky
 3,Jacob Linares
+4,Skyler  Martin
 7,Jake Dapiran
 8,Joseph Faso
+8,Carsten Wuerl
 9,Evan Kandell
 10,Daniel Thompson
 11,Tanner Yue
@@ -403,7 +403,7 @@ teamInfo,Spartans,"San Jose, California",https://sjsusports.com/sports/ultimate,
 42,Vincent Cook
 b,r,e,a,k
 Brigham Young (B),20
-teamInfo,CHI B,"Provo, Utah",www.byuchiultimate.com,facebook.com/byumensultimate,
+teamInfo,CHI B,"Provo, Utah",www.byuchiultimate.com,http://facebook.com/byumensultimate,
 0,Ammon Brock
 0,Bennett Olson
 0,Clayton Dunford
@@ -431,7 +431,6 @@ teamInfo,Uprise,"Portland, Oregon",,,
 0,Kenneth Taylor
 0,Kian Craig
 0,Mason Choy
-0,Matthew Boland
 0,Diego Basham
 0,Eric Duong
 0,Remington Reinking
@@ -440,13 +439,14 @@ teamInfo,Uprise,"Portland, Oregon",,,
 10,Nick Jacobsen
 11,Jonah Talmadge
 18,Quinn Grove
+28,Matthew Boland
 42,Troy Carpenter
 51,Charlie DeKlotz
 b,r,e,a,k
 Oregon State (B),12
 teamInfo,Oregon State B,"Corvallis, Oregon",https://www.instagram.com/osu_mens_ultimate_b/,,
 0,Isaiah Manewitz
-01,Caleb Snider 
+01,Caleb Snider
 03,Silas Markey
 07,Carter Cripe
 10,Jackson Woodbury
@@ -494,12 +494,12 @@ Cal Poly-Humboldt,Santa Clara (B),13,0,"02/07/2026, 14:00",Pool B,Cancelled
 Claremont,Washington (B),13,5,"02/07/2026, 15:30",Pool B,Final
 pool,Pool C
 British Columbia  (B),California-Davis (B),13,1,"02/07/2026, 08:00",Pool C,Final
-Loyola Marymount,Nevada-Reno (A),13,1,"02/07/2026, 08:00",Pool C,Final
+Loyola Marymount,Nevada-Reno,13,1,"02/07/2026, 08:00",Pool C,Final
 British Columbia  (B),Loyola Marymount,13,4,"02/07/2026, 09:30",Pool C,Final
-Cal Poly-SLO (B),Nevada-Reno (A),13,0,"02/07/2026, 09:30",Pool C,Final
-Nevada-Reno (A),California-Davis (B),13,7,"02/07/2026, 11:00",Pool C,Final
+Cal Poly-SLO (B),Nevada-Reno,13,0,"02/07/2026, 09:30",Pool C,Final
+Nevada-Reno,California-Davis (B),13,7,"02/07/2026, 11:00",Pool C,Final
 Cal Poly-SLO (B),Loyola Marymount,13,12,"02/07/2026, 12:30",Pool C,Final
-British Columbia  (B),Nevada-Reno (A),13,1,"02/07/2026, 14:00",Pool C,Final
+British Columbia  (B),Nevada-Reno,13,1,"02/07/2026, 14:00",Pool C,Final
 Cal Poly-SLO (B),California-Davis (B),13,1,"02/07/2026, 14:00",Pool C,Final
 British Columbia  (B),Cal Poly-SLO (B),11,10,"02/07/2026, 15:30",Pool C,Final
 Loyola Marymount,California-Davis (B),13,3,"02/07/2026, 15:30",Pool C,Final
@@ -536,14 +536,14 @@ bracket,9th-16th
 Portland,Oregon State (B),11,12,"02/08/2026, 12:30",Ninals,Final
 California-Santa Cruz (B),Portland,9,11,"02/08/2026, 09:30",Ninals Semifinals,Final
 Oregon State (B),California-Davis,12,8,"02/08/2026, 11:00",Ninals Semifinals,Final
-California-Santa Cruz (B),Nevada-Reno (A),13,3,"02/08/2026, 08:00",Ninals Quarterfinals,Final
+California-Santa Cruz (B),Nevada-Reno,13,3,"02/08/2026, 08:00",Ninals Quarterfinals,Final
 Washington (B),Portland,5,13,"02/08/2026, 08:00",Ninals Quarterfinals,Final
 Chico State,Oregon State (B),4,13,"02/08/2026, 09:30",Ninals Quarterfinals,Final
 Loyola Marymount,California-Davis,7,10,"02/08/2026, 09:30",Ninals Quarterfinals,Final
 bracket,Thirteenth Place Bracket
-Loyola Marymount,Chico State,7,9,"02/08/2020, 12:30",Thirteenth Place Finals,Final
-Nevada-Reno (A),Loyola Marymount,4,10,"02/08/2020, 11:00",Thirteenth Place Semifinals,Final
-Washington (B),Chico State,9,10,"02/08/2020, 11:00",Thirteenth Place Semifinals,Final
+Loyola Marymount,Chico State,7,9,"02/08/2026, 12:30",Thirteenth Place Finals,Final
+Nevada-Reno,Loyola Marymount,4,10,"02/08/2026, 11:00",Thirteenth Place Semifinals,Final
+Washington (B),Chico State,9,10,"02/08/2026, 11:00",Thirteenth Place Semifinals,Final
 b,r,e,a,k
 brackets,Consolation Play
 bracket,Consolation Game 1

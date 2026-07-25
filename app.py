@@ -1,27 +1,35 @@
-from inspect import Signature
 import json
+import logging as log
+import atexit
+import csv
+import subprocess
+import time
+
+import requests
 from flask import Flask
 from datetime import datetime, date, timedelta
 from apscheduler.schedulers.background import BackgroundScheduler
-import subprocess, time, atexit, csv
-from tor import startTorServer
-from scrape import scrapeListOfTournamentUrls, Config
-import logging as log
-import requests, os
-from dotenv import load_dotenv
+
+from config import get_config, get_secrets
+from scrape import scrapeListOfTournamentUrls, ScrapeOptions
+from tor import startTorServer, torIsRunning
 from video.video import scrapeVideos, scrapeUltiworldAndSave
 import db
 
+# Runtime state
 ongoingTournaments = []
 upcomingTournaments = []
 recentlyEndedTournaments = []
-load_dotenv(override=True)
-COMMIT_AND_PUSH = os.getenv("COMMIT_AND_PUSH") == "True"
-POST_TO_API = os.getenv("POST_TO_API") == "True"
-LOAD_CALENDAR_ON_START = os.getenv("LOAD_CAL_ON_START") == "True"
-HOST = os.getenv("HOST")
-API_URL = os.getenv("API_URL")
 year = str(date.today().year)
+
+# Load secrets from config module
+_secrets = get_secrets()
+_app_config = get_config()
+COMMIT_AND_PUSH = _secrets.commit_and_push
+POST_TO_API = _secrets.post_to_api
+LOAD_CALENDAR_ON_START = _secrets.load_cal_on_start
+HOST = _secrets.host
+API_URL = _secrets.api_url
 
 
 def print_date_time():
@@ -107,19 +115,25 @@ def scrapeCalendar(disableCache=True):
 
 
 def scrapeOngoingTournaments():
-    config = Config(int(year), False, True, True, False)
+    config = ScrapeOptions(int(year), False, True, True, False)
+    scrapeListOfTournamentUrls(config, ongoingTournaments)
+    commitAndPush(True)
+
+
+def scrapeOngoingTournamentsRefreshTeams():
+    config = ScrapeOptions(int(year), True, True, True, False)
     scrapeListOfTournamentUrls(config, ongoingTournaments)
     commitAndPush(True)
 
 
 def scrapeUpcomingTournaments():
-    config = Config(int(year), True, True, False, False)
+    config = ScrapeOptions(int(year), True, True, False, False)
     scrapeListOfTournamentUrls(config, upcomingTournaments)
     commitAndPush()
 
 
 def scrapeRecentlyEndedTournaments():
-    config = Config(int(year), False, True, True, False)
+    config = ScrapeOptions(int(year), True, True, True, False)
     scrapeListOfTournamentUrls(config, recentlyEndedTournaments)
     # commitAndPush()
 
@@ -141,7 +155,7 @@ def scrapeOneTournamentByUrl(url):
                             "endDate": row[4],
                             "url": row[0],
                         })
-        config = Config(int(year), True, True, False, False)
+        config = ScrapeOptions(int(year), True, True, False, False)
         scrapeListOfTournamentUrls(config, tournaments)
 
 
@@ -228,17 +242,25 @@ def postUpdatedCsvListToAPI(csvs, UpdatePlayers=True, checkExisting=True, DryRun
 
 
 def setupTor():
-    tor_process = startTorServer()
-    atexit.register(tor_process.kill)
+    if not torIsRunning():
+        log.info("Starting Tor server...")
+        tor_process = startTorServer()
+        atexit.register(tor_process.kill)
 
 
-def setupSchedule():
+def setup_scheduler(config=None):
+    """Set up background scheduler with configurable intervals."""
+    if config is None:
+        config = _app_config
+
+    sched_config = config.scheduler
     scheduler = BackgroundScheduler()
-    scheduler.add_job(func=scrapeCalendar, trigger="interval", hours=8)
-    scheduler.add_job(func=scrapeOngoingTournaments, trigger="interval", minutes=10)
-    scheduler.add_job(func=scrapeUpcomingTournaments, trigger="interval", hours=12)
-    scheduler.add_job(func=scrapeRecentlyEndedTournaments, trigger="interval", hours=4)
-    scheduler.add_job(func=scrapeAndPushVideos, trigger="interval", hours=24)
+    scheduler.add_job(func=scrapeCalendar, trigger="interval", hours=sched_config.calendar_interval_hours)
+    scheduler.add_job(func=scrapeOngoingTournaments, trigger="interval", minutes=sched_config.ongoing_interval_minutes)
+    scheduler.add_job(func=scrapeOngoingTournamentsRefreshTeams, trigger="interval", hours=sched_config.ongoing_team_refresh_interval_hours)
+    scheduler.add_job(func=scrapeUpcomingTournaments, trigger="interval", hours=sched_config.upcoming_interval_hours)
+    scheduler.add_job(func=scrapeRecentlyEndedTournaments, trigger="interval", hours=sched_config.recently_ended_interval_hours)
+    scheduler.add_job(func=scrapeAndPushVideos, trigger="interval", hours=sched_config.videos_interval_hours)
     scheduler.start()
     scheduler.print_jobs()
 
@@ -246,11 +268,14 @@ def setupSchedule():
     atexit.register(lambda: scheduler.shutdown())
 
 
-def prodSetup():
+def prodSetup(config=None):
+    """Production setup: initialize database, Tor, scheduler, and scrape calendar."""
     db.create_tournaments_db()
     setupTor()
-    setupSchedule()
+    setup_scheduler(config)
     scrapeCalendar(True)
+    scrapeUpcomingTournaments()
+    scrapeRecentlyEndedTournaments()
 
 
 log.basicConfig(
@@ -258,44 +283,28 @@ log.basicConfig(
     format="[%(asctime)s] {%(filename)s:%(lineno)d} %(levelname)s - %(message)s",
     datefmt="%H:%M:%S",
 )
-app = Flask(__name__)
 
 
-@app.route("/health-check")
-def healthCheck():
-    output = {
-        "ongoingTournaments": len(ongoingTournaments),
-        "upcomingTournaments": len(upcomingTournaments),
-        "recentlyEndedTournaments": len(recentlyEndedTournaments),
-    }
+def create_app(config=None):
+    """Flask application factory."""
+    flask_app = Flask(__name__)
 
-    return output
+    @flask_app.route("/health-check")
+    def healthCheck():
+        output = {
+            "ongoingTournaments": len(ongoingTournaments),
+            "upcomingTournaments": len(upcomingTournaments),
+            "recentlyEndedTournaments": len(recentlyEndedTournaments),
+        }
+        return output
+
+    @flask_app.after_request
+    def add_cors_header(response):
+        response.headers["Access-Control-Allow-Origin"] = "*"
+        return response
+
+    return flask_app
 
 
-@app.after_request
-def add_cors_header(response):
-    response.headers["Access-Control-Allow-Origin"] = "*"
-    return response
-
-
-if __name__ == "__main__":
-    # Setup default config (init schedule, tor, and scrape calendar for year)
-    # resendFailedCSVs()
-    # postUpdatedCsvListToAPI(["csv/2024/2024-Southeast-Mens-Regional-ChampionshipClub-Men.csv"])
-    prodSetup()
-    # print(scrapeUltiworldAndSave())
-    # scrapeAndPushVideos()
-    # Optional calls for testing/development
-    # setupTor()
-    # scrapeOneTournamentByUrl("https://play.usaultimate.org/events/2025-US-Open-Youth-Club-Championships-YCC/schedule/Boys/youth-club-u-20-boys/di/")
-    # setupSchedule()
-    # scrapeCalendar(True)
-    # scrapeRecentlyEndedTournaments()
-    # scrapeOngoingTournaments()
-    # scrapeUpcomingTournaments()
-    # csvs = listUpdatedCsvs()
-    # postUpdatedCsvsToReceiver(csvs)
-    # print(COMMIT_AND_PUSH)
-    # commitAndPush()
-
-    app.run(host=HOST, port=3032)
+# Default app instance for backward compatibility
+app = create_app()
