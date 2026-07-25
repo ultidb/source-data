@@ -9,6 +9,7 @@ import requests
 from flask import Flask
 from datetime import datetime, date, timedelta
 from apscheduler.schedulers.background import BackgroundScheduler
+from apscheduler.executors.pool import ThreadPoolExecutor
 
 from config import get_config, get_secrets
 from scrape import scrapeListOfTournamentUrls, ScrapeOptions
@@ -254,7 +255,10 @@ def setup_scheduler(config=None):
         config = _app_config
 
     sched_config = config.scheduler
-    scheduler = BackgroundScheduler()
+    # Single-worker executor: jobs queue and run one at a time instead of
+    # overlapping, since several of them run `git commit`/`git push` against
+    # the same working directory and can't safely run concurrently.
+    scheduler = BackgroundScheduler(executors={"default": ThreadPoolExecutor(max_workers=1)})
     scheduler.add_job(func=scrapeCalendar, trigger="interval", hours=sched_config.calendar_interval_hours)
     scheduler.add_job(func=scrapeOngoingTournaments, trigger="interval", minutes=sched_config.ongoing_interval_minutes)
     scheduler.add_job(func=scrapeOngoingTournamentsRefreshTeams, trigger="interval", hours=sched_config.ongoing_team_refresh_interval_hours)
