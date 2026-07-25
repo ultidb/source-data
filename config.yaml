@@ -35,8 +35,9 @@ urls:
 scheduler:
   calendar_interval_hours: 8
   ongoing_interval_minutes: 10
+  ongoing_team_refresh_interval_hours: 12
   upcoming_interval_hours: 12
-  recently_ended_interval_hours: 4
+  recently_ended_interval_hours: 8
   videos_interval_hours: 24
 
 divisions:

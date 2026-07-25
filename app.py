@@ -120,6 +120,12 @@ def scrapeOngoingTournaments():
     commitAndPush(True)
 
 
+def scrapeOngoingTournamentsRefreshTeams():
+    config = ScrapeOptions(int(year), True, True, True, False)
+    scrapeListOfTournamentUrls(config, ongoingTournaments)
+    commitAndPush(True)
+
+
 def scrapeUpcomingTournaments():
     config = ScrapeOptions(int(year), True, True, False, False)
     scrapeListOfTournamentUrls(config, upcomingTournaments)
@@ -127,7 +133,7 @@ def scrapeUpcomingTournaments():
 
 
 def scrapeRecentlyEndedTournaments():
-    config = ScrapeOptions(int(year), False, True, True, False)
+    config = ScrapeOptions(int(year), True, True, True, False)
     scrapeListOfTournamentUrls(config, recentlyEndedTournaments)
     # commitAndPush()
 
@@ -251,6 +257,7 @@ def setup_scheduler(config=None):
     scheduler = BackgroundScheduler()
     scheduler.add_job(func=scrapeCalendar, trigger="interval", hours=sched_config.calendar_interval_hours)
     scheduler.add_job(func=scrapeOngoingTournaments, trigger="interval", minutes=sched_config.ongoing_interval_minutes)
+    scheduler.add_job(func=scrapeOngoingTournamentsRefreshTeams, trigger="interval", hours=sched_config.ongoing_team_refresh_interval_hours)
     scheduler.add_job(func=scrapeUpcomingTournaments, trigger="interval", hours=sched_config.upcoming_interval_hours)
     scheduler.add_job(func=scrapeRecentlyEndedTournaments, trigger="interval", hours=sched_config.recently_ended_interval_hours)
     scheduler.add_job(func=scrapeAndPushVideos, trigger="interval", hours=sched_config.videos_interval_hours)
