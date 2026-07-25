@@ -207,7 +207,7 @@ def makeProxiedRequestSelenium(url):
                     if len(tournament_links) >= 2:
                         tournament_link = tournament_links[1]
                         if tournament_link.get("href"):
-                            actual_slug = tournament_link["href"].split("/")[-1]
+                            actual_slug = tournament_link["href"].rstrip("/").split("/")[-1]
 
                             if actual_slug != expected_tournament_slug:
                                 log.warning(
