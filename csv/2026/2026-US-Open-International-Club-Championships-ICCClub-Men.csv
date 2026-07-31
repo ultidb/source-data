@@ -196,32 +196,6 @@ coaches,James Smart,Jerry  Wang,Dan Hourigan
 17,Brendan McCann
 22,Cole Davis-Brand
 b,r,e,a,k
-Ring of Fire,6
-teamInfo,,"Raleigh, North Carolina",https://ringultimate.org/,,https://twitter.com/ringultimate
-coaches,David Allison
-00,Eli Fried
-00,Brayden Morrison
-00,Jake Thorne
-00,Michael Lee
-00,Tanner Roberts
-00,Henri Lessard
-00,Matthew Barcellos
-01,Tobias Brooks
-04,Suraj Madiraju
-05,Andrew Li
-06,Dylan Hawkins
-07,John McDonnell
-12,Liam Searles-Bohs
-13,Aiden Fields
-14,Josh Singleton
-19,Justin-Cooper Williams
-21,Matt Gouchoe-Hanas
-22,Solomon Yanuck
-23,Walker Matthews
-32,Christian Belus
-51,Kevin Pignone
-76,Trevor Lynch
-b,r,e,a,k
 Sub Zero,9
 teamInfo,,"Minneapolis, Minnesota",https://www.subzeroultimate.org/,https://www.facebook.com/Sub-Zero-Ultimate-105463586149513/,
 coaches,Raj Maitra
@@ -251,6 +225,32 @@ coaches,Raj Maitra
 51,Blake Krapfl
 88,Micah Davis
 96,Max Hanscom
+b,r,e,a,k
+Ring of Fire,6
+teamInfo,,"Raleigh, North Carolina",https://ringultimate.org/,,https://twitter.com/ringultimate
+coaches,David Allison
+00,Eli Fried
+00,Brayden Morrison
+00,Jake Thorne
+00,Michael Lee
+00,Tanner Roberts
+00,Henri Lessard
+00,Matthew Barcellos
+01,Tobias Brooks
+04,Suraj Madiraju
+05,Andrew Li
+06,Dylan Hawkins
+07,John McDonnell
+12,Liam Searles-Bohs
+13,Aiden Fields
+14,Josh Singleton
+19,Justin-Cooper Williams
+21,Matt Gouchoe-Hanas
+22,Solomon Yanuck
+23,Walker Matthews
+32,Christian Belus
+51,Kevin Pignone
+76,Trevor Lynch
 b,r,e,a,k
 PoNY,4
 teamInfo,,"New York, New York",,https://www.facebook.com/ponyultimate,https://twitter.com/PrideofNY
@@ -282,36 +282,6 @@ coaches,Cody Mills,Ethan Pollack
 81,Calvin Brown
 82,Marques Brownlee
 b,r,e,a,k
-Johnny Bravo,10
-teamInfo,,"Colorado, Colorado",,,https://twitter.com/BravoUltimate
-coaches,Todd Wolma
-02,Jay Froude
-03,Jackson Cochran
-06,Erik Hotaling
-07,Jonathan Nethercutt
-08,Daniel Landesman
-09,Rami Rifaat
-11,Hunter May
-12,Noah Logan
-13,Saeed Semrin
-14,Sam Kilgore
-15,Dennison Bechis
-16,Alex Piper
-18,Kimball Pew
-19,Axel Hartzog
-24,Mathieu Agee
-31,Kai Marshall
-33,John Sickles
-46,Nanda Min-Fink
-55,Daniel Bauman
-66,Jordan Kerr
-72,Geoffrey Tucker Kalmus
-75,Matt Jackson
-81,Nathan Buchholz
-84,Sam VanDusen
-88,Quinn Finer
-99,Alex Tatum
-b,r,e,a,k
 Sockeye,5
 teamInfo,,"Seattle, Washington",http://instagram.com/seattlesockeye,https://www.facebook.com/SeattleSockeye/,https://twitter.com/SeattleSockeye/
 coaches,Sam Harkness,Craig Harkey
@@ -342,12 +312,42 @@ coaches,Sam Harkness,Craig Harkey
 91,Troy Holland
 96,Asher Lantz
 b,r,e,a,k
+Johnny Bravo,10
+teamInfo,,"Colorado, Colorado",,,https://twitter.com/BravoUltimate
+coaches,Todd Wolma
+02,Jay Froude
+03,Jackson Cochran
+06,Erik Hotaling
+07,Jonathan Nethercutt
+08,Daniel Landesman
+09,Rami Rifaat
+11,Hunter May
+12,Noah Logan
+13,Saeed Semrin
+14,Sam Kilgore
+15,Dennison Bechis
+16,Alex Piper
+18,Kimball Pew
+19,Axel Hartzog
+24,Mathieu Agee
+31,Kai Marshall
+33,John Sickles
+46,Nanda Min-Fink
+55,Daniel Bauman
+66,Jordan Kerr
+72,Geoffrey Tucker Kalmus
+75,Matt Jackson
+81,Nathan Buchholz
+84,Sam VanDusen
+88,Quinn Finer
+99,Alex Tatum
+b,r,e,a,k
 s,t,a,g,e,s
 pools,Friday Pool Play
 pool,Pool A
 Rhino Slam!,EVOLUTION,15,14,"07/31/2026, 08:30",Pool A,Final
 Rhino Slam!,Truck Stop,11,15,"07/31/2026, 10:45",Pool A,Final
-Truck Stop,EVOLUTION,14,10,"07/31/2026, 13:00",Pool A,Scheduled
+Truck Stop,EVOLUTION,15,10,"07/31/2026, 13:00",Pool A,Final
 pool,Pool B
 Revolver,Warao,15,4,"07/31/2026, 08:30",Pool B,Final
 Revolver,Chicago Machine,12,15,"07/31/2026, 10:45",Pool B,Final
@@ -355,16 +355,23 @@ Chicago Machine,Warao,15,5,"07/31/2026, 13:00",Pool B,Final
 pool,Pool C
 DiG,Sub Zero,15,12,"07/31/2026, 08:30",Pool C,Final
 DiG,Ring of Fire,15,14,"07/31/2026, 10:45",Pool C,Final
-Ring of Fire,Sub Zero,8,15,"07/31/2026, 13:00",Pool C,Scheduled
+Ring of Fire,Sub Zero,8,15,"07/31/2026, 13:00",Pool C,Final
 pool,Pool D
 PoNY,Johnny Bravo,15,13,"07/31/2026, 08:30",Pool D,Final
 PoNY,Sockeye,15,11,"07/31/2026, 10:45",Pool D,Final
-Sockeye,Johnny Bravo,15,13,"07/31/2026, 13:00",Pool D,Scheduled
+Sockeye,Johnny Bravo,15,13,"07/31/2026, 13:00",Pool D,Final
 b,r,e,a,k
 clusters,Seeding Crossovers
+cluster,Seeding Crossovers
+Truck Stop,DiG,0,0,"07/31/2026, 15:15",,Scheduled
+Chicago Machine,PoNY,0,0,"07/31/2026, 15:15",,Scheduled
 b,r,e,a,k
 brackets,2026 Men's International Club Championship
 bracket,Championship
+Revolver,Johnny Bravo,0,0,"07/31/2026, 15:15",Prequarterfinals,Scheduled
+Sub Zero,EVOLUTION,0,0,"07/31/2026, 15:15",Prequarterfinals,Scheduled
+Sockeye,Warao,0,0,"07/31/2026, 15:15",Prequarterfinals,Scheduled
+Rhino Slam!,Ring of Fire,0,0,"07/31/2026, 15:15",Prequarterfinals,Scheduled
 b,r,e,a,k
 brackets,Placement Brackets
 bracket,Third Place
