@@ -27,6 +27,34 @@ coaches,Robert Brazile,Danny Clark
 88,Kate Gearing
 99,Lia Schwartz
 b,r,e,a,k
+Nightlock,11
+teamInfo,,"Bay Area, California",http://www.nightlockult.com/,https://www.facebook.com/NightlockUlt/,https://twitter.com/nightlockult/
+coaches,Eliza Chang,Loryn Kanemaru,Robert Srinivasiah,Anne Gordon
+00,Reeve Grobecker
+01,Goodness Nwakudu
+02,Marisa Rafter
+03,Connor Stuart-Paul
+04,Claire Leichter
+06,Amy Lu
+08,Angela Aie
+09,Arenaria Cramer
+12,Ziyue Chen
+15,Audrey  Sheehy
+16,Thalia Ward
+17,Julia Segre
+21,Nicole Canning
+24,Jackelyne Nguyen
+27,Cassidy Gilmore
+30,Nami Sumida
+31,Lauren Yamasaki-Liske
+36,Mars Bau
+42,Kai Agueros
+49,Elly Fireside-Ostergaard
+89,Zane Bird Smith
+91,Jin-Mi Matsunaga
+98,Janelle Lee
+99,Xinzhi Zou
+b,r,e,a,k
 Seattle Riot,8
 teamInfo,,"Seattle, Washington",http://seattleriot.org/,https://www.facebook.com/SeattleRiot,https://twitter.com/SeattleRiot
 coaches,Alyssa Weatherford,Rachel Bradshaw,Jinny Riedel
@@ -56,34 +84,6 @@ coaches,Alyssa Weatherford,Rachel Bradshaw,Jinny Riedel
 55,Ella Bolan
 66,Bailey Shigley
 98,Ollie Bunson
-b,r,e,a,k
-Nightlock,11
-teamInfo,,"Bay Area, California",http://www.nightlockult.com/,https://www.facebook.com/NightlockUlt/,https://twitter.com/nightlockult/
-coaches,Eliza Chang,Loryn Kanemaru,Robert Srinivasiah,Anne Gordon
-00,Reeve Grobecker
-01,Goodness Nwakudu
-02,Marisa Rafter
-03,Connor Stuart-Paul
-04,Claire Leichter
-06,Amy Lu
-08,Angela Aie
-09,Arenaria Cramer
-12,Ziyue Chen
-15,Audrey  Sheehy
-16,Thalia Ward
-17,Julia Segre
-21,Nicole Canning
-24,Jackelyne Nguyen
-27,Cassidy Gilmore
-30,Nami Sumida
-31,Lauren Yamasaki-Liske
-36,Mars Bau
-42,Kai Agueros
-49,Elly Fireside-Ostergaard
-89,Zane Bird Smith
-91,Jin-Mi Matsunaga
-98,Janelle Lee
-99,Xinzhi Zou
 b,r,e,a,k
 Fury,2
 teamInfo,,"San Francisco, California",http://furyultimate.com/,https://www.facebook.com/furyultimate/,https://twitter.com/furyultimate
@@ -340,7 +340,7 @@ pools,Friday Pool Play
 pool,Pool A
 Brute Squad,Nightlock,15,8,"07/31/2026, 08:30",Pool A,Final
 Brute Squad,Seattle Riot,15,11,"07/31/2026, 10:45",Pool A,Final
-Seattle Riot,Nightlock,13,14,"07/31/2026, 13:00",Pool A,Scheduled
+Seattle Riot,Nightlock,14,15,"07/31/2026, 13:00",Pool A,Final
 pool,Pool B
 Fury,Colorado Kelp,15,7,"07/31/2026, 08:30",Pool B,Final
 Fury,6ixers,15,7,"07/31/2026, 10:45",Pool B,Final
@@ -352,12 +352,19 @@ Flipside,Schwa,15,13,"07/31/2026, 13:00",Pool C,Final
 pool,Pool D
 Molly Brown,Iris,15,5,"07/31/2026, 08:30",Pool D,Final
 Molly Brown,BENT,15,7,"07/31/2026, 10:45",Pool D,Final
-BENT,Iris,11,9,"07/31/2026, 13:00",Pool D,Scheduled
+BENT,Iris,12,11,"07/31/2026, 13:00",Pool D,Final
 b,r,e,a,k
 clusters,Seeding Crossovers
+cluster,Seeding Crossovers
+Brute Squad,Scandal,0,0,"07/31/2026, 15:15",,Scheduled
+Fury,Molly Brown,0,0,"07/31/2026, 15:15",,Scheduled
 b,r,e,a,k
 brackets,2026 Women's International Club Championship
 bracket,Championship
+6ixers,Iris,0,0,"07/31/2026, 15:15",Prequarterfinals,Scheduled
+Flipside,Seattle Riot,0,0,"07/31/2026, 15:15",Prequarterfinals,Scheduled
+BENT,Colorado Kelp,0,0,"07/31/2026, 15:15",Prequarterfinals,Scheduled
+Nightlock,Schwa,0,0,"07/31/2026, 15:15",Prequarterfinals,Scheduled
 b,r,e,a,k
 brackets,Placement Brackets
 bracket,Third Place

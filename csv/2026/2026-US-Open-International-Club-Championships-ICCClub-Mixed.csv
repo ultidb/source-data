@@ -200,6 +200,35 @@ coaches,Marvin Vuong,Thomas Echols
 93,Carter Hawkins
 97,Sarah Pesch
 b,r,e,a,k
+Rally,9
+teamInfo,,"Washington, District of Columbia",,https://www.facebook.com/DCRallyUltimate,https://twitter.com/RallyUltimate
+coaches,Geoff Horsfield,David Maniloff
+0,Patrick Xu
+01,Evan Moss
+02,Katina Russell
+05,Ethan Ruh
+06,Eliana Harnage
+07,Benjamin Andersen-Taylor
+08,Kristin Franke
+09,Sydney Rehder
+11,Emily Andre
+11,Emiel De Rieck
+12,Destiny Lim
+14,Cara Tinson
+15,Julia Harris
+18,Brandon Lamberty
+19,Noah Newberger
+21,Graham Turner
+23,Keara Crook
+24,Anthony McLean
+26,Jakob Rheins
+28,Jessica Sourbeer
+32,Rebecca Driver
+36,Akiva Dienstfrey
+66,Marcus Thaw
+67,Joshua Bransford
+99,Emily Kiver
+b,r,e,a,k
 Austin Disco Club,3
 teamInfo,,"Austin, Texas",,,
 coaches,Darren (Toast) McAuliffe,Casey LeMay
@@ -229,35 +258,6 @@ coaches,Darren (Toast) McAuliffe,Casey LeMay
 73,Clara Stewart
 77,Kerry Younts
 81,Jake Worthington
-b,r,e,a,k
-Rally,9
-teamInfo,,"Washington, District of Columbia",,https://www.facebook.com/DCRallyUltimate,https://twitter.com/RallyUltimate
-coaches,Geoff Horsfield,David Maniloff
-0,Patrick Xu
-01,Evan Moss
-02,Katina Russell
-05,Ethan Ruh
-06,Eliana Harnage
-07,Benjamin Andersen-Taylor
-08,Kristin Franke
-09,Sydney Rehder
-11,Emily Andre
-11,Emiel De Rieck
-12,Destiny Lim
-14,Cara Tinson
-15,Julia Harris
-18,Brandon Lamberty
-19,Noah Newberger
-21,Graham Turner
-23,Keara Crook
-24,Anthony McLean
-26,Jakob Rheins
-28,Jessica Sourbeer
-32,Rebecca Driver
-36,Akiva Dienstfrey
-66,Marcus Thaw
-67,Joshua Bransford
-99,Emily Kiver
 b,r,e,a,k
 Hybrid,5
 teamInfo,,"Ann Arbor, Michigan",https://www.instagram.com/hybrid_ultimate,,
@@ -358,20 +358,27 @@ Toro,Voltaje U.C,15,7,"07/31/2026, 13:00",Pool A,Final
 pool,Pool B
 Slow,Space Force,15,11,"07/31/2026, 08:30",Pool B,Final
 Slow,Drag'n Thrust,15,12,"07/31/2026, 10:45",Pool B,Final
-Drag'n Thrust,Space Force,13,11,"07/31/2026, 13:00",Pool B,Scheduled
+Drag'n Thrust,Space Force,15,11,"07/31/2026, 13:00",Pool B,Final
 pool,Pool C
 Austin Disco Club,Rally,15,14,"07/31/2026, 08:30",Pool C,Final
 Austin Disco Club,shame.,13,15,"07/31/2026, 10:45",Pool C,Final
-shame.,Rally,12,13,"07/31/2026, 13:00",Pool C,Scheduled
+shame.,Rally,13,14,"07/31/2026, 13:00",Pool C,Final
 pool,Pool D
 Sprocket,Seattle Mixtape,15,13,"07/31/2026, 08:30",Pool D,Final
 Sprocket,Hybrid,8,15,"07/31/2026, 10:45",Pool D,Final
 Hybrid,Seattle Mixtape,15,10,"07/31/2026, 13:00",Pool D,Final
 b,r,e,a,k
 clusters,Seeding Crossover
+cluster,Seeding Crossover
+XIST,shame.,0,0,"07/31/2026, 15:15",,Scheduled
+Slow,Hybrid,0,0,"07/31/2026, 15:15",,Scheduled
 b,r,e,a,k
 brackets,2026 Mixed International Club Championship
 bracket,Championship
+Drag'n Thrust,Seattle Mixtape,0,0,"07/31/2026, 15:15",Prequarterfinals,Scheduled
+Rally,Voltaje U.C,0,0,"07/31/2026, 15:15",Prequarterfinals,Scheduled
+Sprocket,Space Force,0,0,"07/31/2026, 15:15",Prequarterfinals,Scheduled
+Toro,Austin Disco Club,0,0,"07/31/2026, 15:15",Prequarterfinals,Scheduled
 b,r,e,a,k
 brackets,Placement Brackets
 bracket,Third Place
