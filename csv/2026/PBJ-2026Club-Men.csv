@@ -1,25 +1,6 @@
 PB&J 2026,Club - Men ,1,8,2026
 Bryan,TX,2026-08-01,2026-08-02
 https://play.usaultimate.org/events/PBJ-2026/schedule/Men/Club-Men/
-H.I.P,1
-teamInfo,,"Texas City, Texas",,,https://twitter.com/hip_flatball/
-0,Caiden Burt
-0,Carlos Vargas
-0,Kolby Janzen
-0,Robert Lewis
-0,Steven Kelly
-0,Thomas Hannie
-0,Talon Balcom
-2,Matthew Bennett
-13,Nash Mock
-14,Reid Bacon
-15,Micah Craig
-19,Ryan Reinhart
-30,Mick Walter
-33,Huy Nguyen
-43,Peter Rangel
-45,Samuel Heslep
-b,r,e,a,k
 Texas Tea,3
 teamInfo,,"Houston, Texas",,,
 0,Daniel Hamilton
@@ -45,6 +26,25 @@ teamInfo,,"Houston, Texas",,,
 44,Aidan Wilson
 52,Caleb Johnson
 77,Reece Rose
+b,r,e,a,k
+H.I.P,1
+teamInfo,,"Texas City, Texas",,,https://twitter.com/hip_flatball/
+0,Caiden Burt
+0,Carlos Vargas
+0,Kolby Janzen
+0,Robert Lewis
+0,Steven Kelly
+0,Thomas Hannie
+0,Talon Balcom
+2,Matthew Bennett
+13,Nash Mock
+14,Reid Bacon
+15,Micah Craig
+19,Ryan Reinhart
+30,Mick Walter
+33,Huy Nguyen
+43,Peter Rangel
+45,Samuel Heslep
 b,r,e,a,k
 San Antonio Warhawks,6
 teamInfo,,"San Antonio, Texas",,,
@@ -119,31 +119,6 @@ teamInfo,,"Dallas, Texas",,,
 82,Justin England
 88,Reid Pannell
 b,r,e,a,k
-Texas Duffy,4
-teamInfo,,"College Station, Texas",,,
-0,Mathias Weeks
-0,Justin Lyons
-0,Justin Petre
-0,David DeVaull
-0,Joshua Wan
-0,William DiCarlo
-0,Peter Saudale
-4,Russell Moore
-4,Conner Bingham
-9,Gareth May
-14,Myles Wagner
-16,Thomas Rzasnicki
-17,Todd Schrader
-19,Michael Besancon
-20,Jaeden Powell
-22,Tony Cao
-30,Anthony Peterman
-41,Bryan Kirchmeier
-69,Joshua Romani
-88,Jonathan Jin
-90,Aaron Duffy
-95,Benz Le
-b,r,e,a,k
 Rice Box,5
 teamInfo,,"Houston, Texas",,,
 0,Adrian George
@@ -188,6 +163,31 @@ teamInfo,,"Lubbock, Texas",,,
 26,Chris Young
 44,Matthew Borch
 b,r,e,a,k
+Texas Duffy,4
+teamInfo,,"College Station, Texas",,,
+0,Mathias Weeks
+0,Justin Lyons
+0,Justin Petre
+0,David DeVaull
+0,Joshua Wan
+0,William DiCarlo
+0,Peter Saudale
+4,Russell Moore
+4,Conner Bingham
+9,Gareth May
+14,Myles Wagner
+16,Thomas Rzasnicki
+17,Todd Schrader
+19,Michael Besancon
+20,Jaeden Powell
+22,Tony Cao
+30,Anthony Peterman
+41,Bryan Kirchmeier
+69,Joshua Romani
+88,Jonathan Jin
+90,Aaron Duffy
+95,Benz Le
+b,r,e,a,k
 Black Gold,8
 teamInfo,,"Houston, Texas",,,
 01,Nolan Marler
@@ -211,8 +211,8 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
-H.I.P,San Antonio Warhawks,0,0,"08/01/2026, 09:45",Pool A,Scheduled
-Texas Tea,Forge,0,0,"08/01/2026, 09:45",Pool A,Scheduled
+H.I.P,San Antonio Warhawks,13,4,"08/01/2026, 09:45",Pool A,Final
+Texas Tea,Forge,13,2,"08/01/2026, 09:45",Pool A,Final
 H.I.P,Forge,0,0,"08/01/2026, 11:30",Pool A,Scheduled
 Texas Tea,San Antonio Warhawks,0,0,"08/01/2026, 11:30",Pool A,Scheduled
 H.I.P,Texas Tea,0,0,"08/01/2026, 13:15",Pool A,Scheduled
@@ -220,7 +220,7 @@ San Antonio Warhawks,Forge,0,0,"08/01/2026, 13:15",Pool A,Scheduled
 pool,Pool B
 Texas Duffy,Deaf Fruit,0,0,"08/01/2026, 08:00",Pool B,Scheduled
 Rice Box,Black Gold,0,0,"08/01/2026, 08:00",Pool B,Scheduled
-Texas Duffy,Rice Box,0,0,"08/01/2026, 09:45",Pool B,Scheduled
+Texas Duffy,Rice Box,8,13,"08/01/2026, 09:45",Pool B,Final
 ZOO,Black Gold,13,4,"08/01/2026, 09:45",Pool B,Final
 Black Gold,Deaf Fruit,0,0,"08/01/2026, 11:30",Pool B,Scheduled
 ZOO,Rice Box,0,0,"08/01/2026, 11:30",Pool B,Scheduled
