@@ -303,7 +303,7 @@ pools,Saturday - Pool Play
 pool,Pool A
 Enigma,Barefoot,15,14,"08/08/2026, 09:00",Pool A,Final
 WOMP,Barefoot,15,3,"08/08/2026, 11:00",Pool A,Final
-WOMP,Enigma,0,0,"08/08/2026, 13:00",Pool A,Scheduled
+WOMP,Enigma,15,1,"08/08/2026, 13:00",Pool A,Final
 pool,Pool B
 Nocturnal,On Ramp,15,13,"08/08/2026, 09:00",Pool B,Final
 Endgame,On Ramp,0,0,"08/08/2026, 11:00",Pool B,Scheduled
@@ -318,9 +318,13 @@ Black Lung,Original Recipe,15,3,"08/08/2026, 11:00",Pool D,Final
 Black Lung,Colonels,12,10,"08/08/2026, 13:00",Pool D,Final
 b,r,e,a,k
 clusters,Seeding Crossover
+cluster,Seeding Crossover
+WOMP,Apollo,0,0,"08/08/2026, 15:00",,Scheduled
 b,r,e,a,k
 brackets,Bracket Play
 bracket,Championship
+Pittsburgh Stealers,Barefoot,0,0,"08/08/2026, 15:00",Prequarters,Scheduled
+Enigma,Maumee Boys,0,0,"08/08/2026, 15:00",Prequarters,Scheduled
 bracket,3rd Place
 bracket,5th Place Bracket
 bracket,7th Place
