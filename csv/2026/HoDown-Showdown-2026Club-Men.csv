@@ -101,26 +101,6 @@ teamInfo,,"Ocala, Florida",https://www.instagram.com/flo_ultimate/,,
 91,Ayden Moran
 99,Owen Peronto
 b,r,e,a,k
-ElecTriCity,13
-teamInfo,,"Johnson City, Tennessee",,,
-0,Ben Searcy
-0,Asher Williams
-0,Reagan McNeill
-0,Luke  Blaylock
-0,Solomon Jackson
-4,Reed Frederick
-01,Kohen Kilburn
-07,Caleb Batchelder
-08,Leonardo Ramos
-10,Chris Epps
-11,Jarom Bush
-13,Artemio Pascual
-21,Marcus Patton
-26,Alexander Simmons
-40,Skyler Swafford
-66,Benjamin Robinson
-99,Elijah Bragg
-b,r,e,a,k
 NC Brickhouse,17
 teamInfo,,"Raleigh, North Carolina",,,
 0,Alex Fischer
@@ -148,6 +128,26 @@ teamInfo,,"Raleigh, North Carolina",,,
 24,Drew Grinnell
 30,Asher Wallen
 88,Henry Goller
+b,r,e,a,k
+ElecTriCity,13
+teamInfo,,"Johnson City, Tennessee",,,
+0,Ben Searcy
+0,Asher Williams
+0,Reagan McNeill
+0,Luke  Blaylock
+0,Solomon Jackson
+4,Reed Frederick
+01,Kohen Kilburn
+07,Caleb Batchelder
+08,Leonardo Ramos
+10,Chris Epps
+11,Jarom Bush
+13,Artemio Pascual
+21,Marcus Patton
+26,Alexander Simmons
+40,Skyler Swafford
+66,Benjamin Robinson
+99,Elijah Bragg
 b,r,e,a,k
 Tanasi,2
 teamInfo,,"Tennessee, Tennessee",,,https://twitter.com/TanasiUltimate
@@ -603,7 +603,7 @@ Cash Crop 2,NC Brickhouse,13,6,"08/08/2026, 13:30",Pool A,Final
 baNC,ElecTriCity,13,1,"08/09/2026, 08:30",Pool A,Final
 Charleston Heat Stroke,Florida Flo,11,7,"08/09/2026, 08:30",Pool A,Final
 baNC,Charleston Heat Stroke,13,1,"08/09/2026, 09:30",Pool A,Final
-Cash Crop 2,ElecTriCity,0,0,"08/09/2026, 09:30",Pool A,Scheduled
+Cash Crop 2,ElecTriCity,13,5,"08/09/2026, 09:30",Pool A,Final
 NC Brickhouse,Florida Flo,11,12,"08/09/2026, 09:30",Pool A,Final
 pool,Pool B
 Tanasi,UpRoar,13,8,"08/08/2026, 08:30",Pool B,Final
@@ -635,7 +635,7 @@ Mint,Harvest Moon,13,7,"08/09/2026, 08:30",Pool C,Final
 Psychedelic,Touch of Grey,10,11,"08/09/2026, 08:30",Pool C,Final
 Romulus,Savannah Wild,13,7,"08/09/2026, 08:30",Pool C,Final
 Mint,Psychedelic,13,6,"08/09/2026, 09:30",Pool C,Final
-Romulus,Harvest Moon,0,0,"08/09/2026, 09:30",Pool C,Scheduled
+Romulus,Harvest Moon,11,12,"08/09/2026, 09:30",Pool C,Final
 Savannah Wild,Touch of Grey,6,13,"08/09/2026, 09:30",Pool C,Final
 pool,Pool D
 Dynasty,L.U.T $ack,13,8,"08/08/2026, 08:30",Pool D,Final
@@ -656,25 +656,37 @@ Hydra,Flux,13,4,"08/09/2026, 09:30",Pool D,Final
 b,r,e,a,k
 brackets,Championship
 bracket,Championship
+baNC,Atlanta Arson,0,0,"08/09/2026, 11:30",Semifinals,Scheduled
+Tanasi,Mint,0,0,"08/09/2026, 11:30",Semifinals,Scheduled
 bracket,3rd Place
 b,r,e,a,k
 brackets,5th Place
 bracket,5th Place
+Cash Crop 2,Dynasty,0,0,"08/09/2026, 11:30",5th Place Semifinals,Scheduled
+UpRoar,Harvest Moon,0,0,"08/09/2026, 11:30",5th Place Semifinals,Scheduled
 bracket,7th Place
 b,r,e,a,k
 brackets,9th Place
 bracket,9th Place
+Charleston Heat Stroke,L.U.T $ack,0,0,"08/09/2026, 11:30",9th Place Semifinals,Scheduled
+Queen City Kings,Romulus,0,0,"08/09/2026, 11:30",9th Place Semifinals,Scheduled
 bracket,11th Place
 b,r,e,a,k
 brackets,13th Place
 bracket,13th Place
+Florida Flo,Hydra,0,0,"08/09/2026, 11:30",13th Place Semifinals,Scheduled
+Whittz Boyz,Touch of Grey,0,0,"08/09/2026, 11:30",13th Place Semifinals,Scheduled
 bracket,15th Place
 b,r,e,a,k
 brackets,17th Place
 bracket,17th Place
+NC Brickhouse,Gambit,0,0,"08/09/2026, 11:30",17th Place Semifinals,Scheduled
+Tennessee Folklore,Savannah Wild,0,0,"08/09/2026, 11:30",17th Place Semifinals,Scheduled
 bracket,19th Place
 b,r,e,a,k
 brackets,21st Place
 bracket,21st Place
+ElecTriCity,Flux,0,0,"08/09/2026, 11:30",21st Place Semifinals,Scheduled
+Space Cowboys,Psychedelic,0,0,"08/09/2026, 11:30",21st Place Semifinals,Scheduled
 bracket,23rd Place
 b,r,e,a,k
