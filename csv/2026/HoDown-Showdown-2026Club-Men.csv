@@ -352,24 +352,32 @@ teamInfo,,"Atlanta, Georgia",,,
 77,Noah Sullivan
 87,Trenton Spinks
 b,r,e,a,k
-Savannah Wild,19
-teamInfo,,"Savannah, Georgia",,,
-0,Ethan Greeley
-0,Charles Salmons
-0,Joseph (Wayne) Slaydon
-1,Christopher Scalzi
-7,Kevin Allen
-12,Gil Robinson
-13,Alex Gronau
-22,Alexander Laney
-29,Austin Tippett
-30,Ryan Hoger
-32,James Dusenbury
-35,Richard Murphy
-36,Thomas Kirk
-43,Riley Hughes
-67,Spencer Olejniczak
-69,Josh Warner
+Romulus,10
+teamInfo,,"Rome, Georgia",,,
+02,Robert Strickland
+04,Noah  Stolpe
+05,Ben Noerager
+07,Malikye Isaiah
+09,Rory Strickland
+10,Elliot Green
+11,Tyner Rowley
+12,Josh Zielke
+14,Tiernan Whytock
+17,Jackson Knox
+18,Michael  Johnson
+19,Caleb Coons
+22,Eli Hoshide
+23,Ivan Khoo
+24,Domenic Ciavarro
+25,David  Luna
+26,Nathan Williams
+30,Beckett Yelton
+32,Wilson Hollis
+34,Stephen Kise
+42,Ian VanOrder
+47,Adriel Kershner
+72,Isaac  Hoshide
+83,Ty  Louis
 b,r,e,a,k
 Psychedelic,6
 teamInfo,,"Jacksonville, Florida",,,
@@ -400,32 +408,24 @@ teamInfo,,"Jacksonville, Florida",,,
 69,James Burkett
 73,Dayton Newman
 b,r,e,a,k
-Romulus,10
-teamInfo,,"Rome, Georgia",,,
-02,Robert Strickland
-04,Noah  Stolpe
-05,Ben Noerager
-07,Malikye Isaiah
-09,Rory Strickland
-10,Elliot Green
-11,Tyner Rowley
-12,Josh Zielke
-14,Tiernan Whytock
-17,Jackson Knox
-18,Michael  Johnson
-19,Caleb Coons
-22,Eli Hoshide
-23,Ivan Khoo
-24,Domenic Ciavarro
-25,David  Luna
-26,Nathan Williams
-30,Beckett Yelton
-32,Wilson Hollis
-34,Stephen Kise
-42,Ian VanOrder
-47,Adriel Kershner
-72,Isaac  Hoshide
-83,Ty  Louis
+Savannah Wild,19
+teamInfo,,"Savannah, Georgia",,,
+0,Ethan Greeley
+0,Charles Salmons
+0,Joseph (Wayne) Slaydon
+1,Christopher Scalzi
+7,Kevin Allen
+12,Gil Robinson
+13,Alex Gronau
+22,Alexander Laney
+29,Austin Tippett
+30,Ryan Hoger
+32,James Dusenbury
+35,Richard Murphy
+36,Thomas Kirk
+43,Riley Hughes
+67,Spencer Olejniczak
+69,Josh Warner
 b,r,e,a,k
 Touch of Grey,22
 teamInfo,,"Asheville, North Carolina",,,
@@ -452,6 +452,31 @@ teamInfo,,"Asheville, North Carolina",,,
 64,Sam Boyarsky
 99,George Bumgardner
 b,r,e,a,k
+Dynasty,4
+teamInfo,,"Cincinnati, Ohio",,,
+0,Nihaal Sidhu
+0,Westley  Laughton
+2,Clark Seese
+3,Nate Berman
+4,Sam Moushey
+5,Jake Sherwood
+7,Andrew Enneking
+9,Brady Smith
+10,Andrew Voelkerding
+12,Benjamin Sherwood
+13,AJ Dickerson
+17,Andrew Gasson
+18,Cannon Spelman
+20,Colsten Spelman
+21,Tyson Neff
+22,Trevor Hirsch
+23,Ian Hailey
+25,Bradley Caldwell
+26,Matthew Piszcz
+28,Thomas Brockhoff
+37,Kyle Gromen
+96,Aidan Sommer
+b,r,e,a,k
 Atlanta Arson,5
 teamInfo,,"Atlanta, Georgia",,,https://twitter.com/atlantaarson
 0,Cole Flournoy
@@ -477,31 +502,6 @@ teamInfo,,"Atlanta, Georgia",,,https://twitter.com/atlantaarson
 44,Benjamin Lamport
 83,Billy Wallace
 91,Matthew Allan
-b,r,e,a,k
-Dynasty,4
-teamInfo,,"Cincinnati, Ohio",,,
-0,Nihaal Sidhu
-0,Westley  Laughton
-2,Clark Seese
-3,Nate Berman
-4,Sam Moushey
-5,Jake Sherwood
-7,Andrew Enneking
-9,Brady Smith
-10,Andrew Voelkerding
-12,Benjamin Sherwood
-13,AJ Dickerson
-17,Andrew Gasson
-18,Cannon Spelman
-20,Colsten Spelman
-21,Tyson Neff
-22,Trevor Hirsch
-23,Ian Hailey
-25,Bradley Caldwell
-26,Matthew Piszcz
-28,Thomas Brockhoff
-37,Kyle Gromen
-96,Aidan Sommer
 b,r,e,a,k
 Hydra,20
 teamInfo,,"Winston-Salem, North Carolina",,,
@@ -615,11 +615,11 @@ UpRoar,Whittz Boyz,13,6,"08/08/2026, 10:10",Pool B,Final
 Tanasi,Whittz Boyz,13,2,"08/08/2026, 11:50",Pool B,Final
 Queen City Kings,UpRoar,10,12,"08/08/2026, 11:50",Pool B,Final
 Space Cowboys,Tennessee Folklore,10,13,"08/08/2026, 11:50",Pool B,Final
-Tanasi,Space Cowboys,6,1,"08/09/2026, 08:30",Pool B,In Progress
-Queen City Kings,Whittz Boyz,4,2,"08/09/2026, 08:30",Pool B,In Progress
-UpRoar,Tennessee Folklore,6,4,"08/09/2026, 08:30",Pool B,In Progress
+Tanasi,Space Cowboys,13,2,"08/09/2026, 08:30",Pool B,Final
+Queen City Kings,Whittz Boyz,13,4,"08/09/2026, 08:30",Pool B,Final
+UpRoar,Tennessee Folklore,13,9,"08/09/2026, 08:30",Pool B,Final
 Tanasi,Queen City Kings,0,0,"08/09/2026, 09:30",Pool B,Scheduled
-UpRoar,Space Cowboys,0,0,"08/09/2026, 09:30",Pool B,Scheduled
+UpRoar,Space Cowboys,0,0,"08/09/2026, 09:30",Pool B,In Progress
 Tennessee Folklore,Whittz Boyz,0,0,"08/09/2026, 09:30",Pool B,Scheduled
 pool,Pool C
 Mint,Romulus,12,10,"08/08/2026, 08:30",Pool C,Final
@@ -633,7 +633,7 @@ Psychedelic,Romulus,12,11,"08/08/2026, 11:50",Pool C,Final
 Harvest Moon,Savannah Wild,13,6,"08/08/2026, 11:50",Pool C,Final
 Mint,Harvest Moon,3,4,"08/09/2026, 08:30",Pool C,In Progress
 Psychedelic,Touch of Grey,5,3,"08/09/2026, 08:30",Pool C,In Progress
-Romulus,Savannah Wild,6,2,"08/09/2026, 08:30",Pool C,In Progress
+Romulus,Savannah Wild,13,7,"08/09/2026, 08:30",Pool C,Final
 Mint,Psychedelic,0,0,"08/09/2026, 09:30",Pool C,Scheduled
 Romulus,Harvest Moon,0,0,"08/09/2026, 09:30",Pool C,Scheduled
 Savannah Wild,Touch of Grey,0,0,"08/09/2026, 09:30",Pool C,Scheduled
@@ -648,7 +648,7 @@ Dynasty,Flux,13,1,"08/08/2026, 11:50",Pool D,Final
 Atlanta Arson,L.U.T $ack,13,6,"08/08/2026, 11:50",Pool D,Final
 Gambit,Hydra,7,13,"08/08/2026, 11:50",Pool D,Final
 Atlanta Arson,Flux,9,2,"08/08/2026, 13:30",Pool D,Final
-Dynasty,Gambit,5,2,"08/09/2026, 08:30",Pool D,In Progress
+Dynasty,Gambit,13,4,"08/09/2026, 08:30",Pool D,Final
 L.U.T $ack,Hydra,6,5,"08/09/2026, 08:30",Pool D,In Progress
 Dynasty,Atlanta Arson,0,0,"08/09/2026, 09:30",Pool D,Scheduled
 L.U.T $ack,Gambit,0,0,"08/09/2026, 09:30",Pool D,Scheduled
