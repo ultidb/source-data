@@ -486,7 +486,7 @@ VU,Nova,8,11,"08/08/2026, 13:00",Pool A,Final
 Pegasus,Choco Ghost House,13,12,"08/08/2026, 13:00",Pool A,Final
 Lights Out,VU,15,7,"08/08/2026, 15:00",Pool A,Final
 Pegasus,Nova,8,14,"08/08/2026, 15:00",Pool A,Final
-Lights Out,Pegasus,0,0,"08/09/2026, 09:00",Pool A,Scheduled
+Lights Out,Pegasus,15,7,"08/09/2026, 09:00",Pool A,Final
 Choco Ghost House,Nova,0,0,"08/09/2026, 09:00",Pool A,Scheduled
 pool,Pool B
 Viking Blood,SkyLab,15,8,"08/08/2026, 09:00",Pool B,Final
@@ -497,7 +497,7 @@ Squid Inc.,SkyLab,13,12,"08/08/2026, 13:00",Pool B,Final
 Heat Wave,Drip,10,14,"08/08/2026, 13:00",Pool B,Final
 Viking Blood,Squid Inc.,15,7,"08/08/2026, 15:00",Pool B,Final
 Heat Wave,SkyLab,15,7,"08/08/2026, 15:00",Pool B,Final
-Viking Blood,Heat Wave,0,0,"08/09/2026, 09:00",Pool B,Scheduled
+Viking Blood,Heat Wave,15,11,"08/09/2026, 09:00",Pool B,Final
 Drip,SkyLab,15,9,"08/09/2026, 09:00",Pool B,Final
 pool,Pool C
 Porch Bears,BOP,15,6,"08/08/2026, 09:00",Pool C,Final
@@ -516,22 +516,28 @@ Goose Run,Grit City,11,7,"08/08/2026, 13:00",Pool D,Final
 b,r,e,a,k
 clusters,C/D pool crossovers
 cluster,C and D crossovers
-Porch Bears,Seattle Soft Serve,0,0,"08/09/2026, 09:00",,Scheduled
-Hive,Party Wave,0,0,"08/09/2026, 09:00",,Scheduled
-Igneous Ultimate,Grit City,0,0,"08/09/2026, 09:00",,Scheduled
-Goose Run,BOP,0,0,"08/09/2026, 09:00",,Scheduled
+Porch Bears,Seattle Soft Serve,13,8,"08/09/2026, 09:00",,Final
+Hive,Party Wave,10,15,"08/09/2026, 09:00",,Final
+Igneous Ultimate,Grit City,8,12,"08/09/2026, 09:00",,Final
+Goose Run,BOP,14,11,"08/09/2026, 09:00",,Final
 b,r,e,a,k
 brackets,Championship Bracket
 bracket,Champs
+Viking Blood,Porch Bears,0,0,"08/09/2026, 11:00",Semis,Scheduled
 bracket,3rd place game
 b,r,e,a,k
 brackets,5th Place
 bracket,Fiv-als
+Drip,Hive,0,0,"08/09/2026, 11:00",5th place semis,Scheduled
 bracket,7th place
 b,r,e,a,k
 brackets,Ninals
 bracket,Ninals
+Squid Inc.,Goose Run,0,0,"08/09/2026, 11:00",Semi-ninals,Scheduled
 bracket,11th place
 b,r,e,a,k
 clusters,13-18 crossovers
+cluster,13-18 crossovers
+Heat Wave,BOP,0,0,"08/09/2026, 11:00",,Scheduled
+SkyLab,BOP,0,0,"08/09/2026, 13:00",,Scheduled
 b,r,e,a,k
