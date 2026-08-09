@@ -176,6 +176,33 @@ teamInfo,,"Tennessee, Tennessee",,,https://twitter.com/TanasiUltimate
 80,William Fleming
 95,Jared Beazley
 b,r,e,a,k
+UpRoar,11
+teamInfo,,"Tampa Bay, Florida",,https://www.facebook.com/TampaBayUpRoar,https://twitter.com/TampaBayUpRoar
+0,Bradley Gonzalez
+0,Dario Milano
+0,Dane Utley
+0,Jon Drawdy
+0,Dominic Monafo
+0,Derryck Dailey
+0,Roger King
+0,Shane Voshell
+0,Tyler Hebert
+0,Mohammed Judeh
+0,Kyle Krukowski
+0,Joseph Dininger
+0,Thomas Theunissen
+4,Christian DiGioia
+12,Howard Le
+21,Trevorn Hodge
+22,Jacob Lane
+22,Gavin Klancnik
+41,Andrew Wyatt
+42,Clayton Marshall
+42,Kerrick Klancnik
+74,John Fonte
+81,Sean Messer
+85,Eric Tumelty
+b,r,e,a,k
 Queen City Kings,7
 teamInfo,,"Charlotte, North Carolina",,,
 0,Andrew West
@@ -205,32 +232,23 @@ teamInfo,,"Charlotte, North Carolina",,,
 24,Nate Sutherland
 92,John Colyer
 b,r,e,a,k
-UpRoar,11
-teamInfo,,"Tampa Bay, Florida",,https://www.facebook.com/TampaBayUpRoar,https://twitter.com/TampaBayUpRoar
-0,Bradley Gonzalez
-0,Dario Milano
-0,Dane Utley
-0,Jon Drawdy
-0,Dominic Monafo
-0,Derryck Dailey
-0,Roger King
-0,Shane Voshell
-0,Tyler Hebert
-0,Mohammed Judeh
-0,Kyle Krukowski
-0,Joseph Dininger
-0,Thomas Theunissen
-4,Christian DiGioia
-12,Howard Le
-21,Trevorn Hodge
-22,Jacob Lane
-22,Gavin Klancnik
-41,Andrew Wyatt
-42,Clayton Marshall
-42,Kerrick Klancnik
-74,John Fonte
-81,Sean Messer
-85,Eric Tumelty
+Whittz Boyz,23
+teamInfo,,"Asheville, North Carolina",,,
+0,Adam Reader Lalor
+0,Eli Oldenburg
+0,Graham Hodge
+0,Nick Hardin-Nieri
+0,Simon Segovia-Welsh
+0,Roman Chmura
+0,Noah Goldblatt
+0,Joey Houser
+0,Spencer Brotherton
+3,Forrest Nottingham
+10,Noah Shearer
+33,Spencer Chandler
+44,Adam Pohl
+47,Ethan Rhodes
+71,John Deaver
 b,r,e,a,k
 Tennessee Folklore,18
 teamInfo,,"Knoxville, Tennessee",,,
@@ -278,24 +296,6 @@ teamInfo,,"Greenville, South Carolina",https://www.instagram.com/spacecowboysult
 22,Ammar Dossaji
 27,Jacob Goyne
 66,George Cerimele
-b,r,e,a,k
-Whittz Boyz,23
-teamInfo,,"Asheville, North Carolina",,,
-0,Adam Reader Lalor
-0,Eli Oldenburg
-0,Graham Hodge
-0,Nick Hardin-Nieri
-0,Simon Segovia-Welsh
-0,Roman Chmura
-0,Noah Goldblatt
-0,Joey Houser
-0,Spencer Brotherton
-3,Forrest Nottingham
-10,Noah Shearer
-33,Spencer Chandler
-44,Adam Pohl
-47,Ethan Rhodes
-71,John Deaver
 b,r,e,a,k
 Mint,3
 teamInfo,,"Atlanta, Georgia",,,
@@ -503,24 +503,6 @@ teamInfo,,"Atlanta, Georgia",,,https://twitter.com/atlantaarson
 83,Billy Wallace
 91,Matthew Allan
 b,r,e,a,k
-Hydra,20
-teamInfo,,"Winston-Salem, North Carolina",,,
-0,Brayden SanGeorge
-0,Dustin Barton
-0,Derek Chen
-0,Scott SanGeorge
-0,Rowan Sedgwick-Bufter
-0,Luca SanGeorge
-0,Griffin Lamphier
-0,Ulysses Cunningham
-0,Vincent  Frungillo
-1,Donovan DeWitt
-11,Austin Simpson
-15,Jackson Carawan
-18,Christopher Grisom
-40,Joe Redmond
-83,Michael Ridge
-b,r,e,a,k
 L.U.T $ack,9
 teamInfo,,"Lynchburg, Virginia",,,
 0,Eli Lanter
@@ -543,6 +525,24 @@ teamInfo,,"Lynchburg, Virginia",,,
 58,Ian Rankin
 98,Caedmon Eng
 99,Daniel Mills
+b,r,e,a,k
+Hydra,20
+teamInfo,,"Winston-Salem, North Carolina",,,
+0,Brayden SanGeorge
+0,Dustin Barton
+0,Derek Chen
+0,Scott SanGeorge
+0,Rowan Sedgwick-Bufter
+0,Luca SanGeorge
+0,Griffin Lamphier
+0,Ulysses Cunningham
+0,Vincent  Frungillo
+1,Donovan DeWitt
+11,Austin Simpson
+15,Jackson Carawan
+18,Christopher Grisom
+40,Joe Redmond
+83,Michael Ridge
 b,r,e,a,k
 Gambit,16
 teamInfo,,"Charlotte, North Carolina",https://www.instagram.com/cltgambit/,,
@@ -619,8 +619,8 @@ Tanasi,Space Cowboys,13,2,"08/09/2026, 08:30",Pool B,Final
 Queen City Kings,Whittz Boyz,13,4,"08/09/2026, 08:30",Pool B,Final
 UpRoar,Tennessee Folklore,13,9,"08/09/2026, 08:30",Pool B,Final
 Tanasi,Queen City Kings,13,1,"08/09/2026, 09:30",Pool B,Final
-UpRoar,Space Cowboys,0,0,"08/09/2026, 09:30",Pool B,In Progress
-Tennessee Folklore,Whittz Boyz,0,0,"08/09/2026, 09:30",Pool B,Scheduled
+UpRoar,Space Cowboys,13,7,"08/09/2026, 09:30",Pool B,Final
+Tennessee Folklore,Whittz Boyz,10,13,"08/09/2026, 09:30",Pool B,Final
 pool,Pool C
 Mint,Romulus,12,10,"08/08/2026, 08:30",Pool C,Final
 Psychedelic,Savannah Wild,12,13,"08/08/2026, 08:30",Pool C,Final
@@ -649,10 +649,10 @@ Atlanta Arson,L.U.T $ack,13,6,"08/08/2026, 11:50",Pool D,Final
 Gambit,Hydra,7,13,"08/08/2026, 11:50",Pool D,Final
 Atlanta Arson,Flux,9,2,"08/08/2026, 13:30",Pool D,Final
 Dynasty,Gambit,13,4,"08/09/2026, 08:30",Pool D,Final
-L.U.T $ack,Hydra,6,5,"08/09/2026, 08:30",Pool D,In Progress
+L.U.T $ack,Hydra,13,7,"08/09/2026, 08:30",Pool D,Final
 Dynasty,Atlanta Arson,0,0,"08/09/2026, 09:30",Pool D,Scheduled
 L.U.T $ack,Gambit,0,0,"08/09/2026, 09:30",Pool D,Scheduled
-Hydra,Flux,0,0,"08/09/2026, 09:30",Pool D,Scheduled
+Hydra,Flux,13,4,"08/09/2026, 09:30",Pool D,Final
 b,r,e,a,k
 brackets,Championship
 bracket,Championship
