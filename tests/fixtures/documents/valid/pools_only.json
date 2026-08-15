@@ -1,0 +1,80 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "Swan-Boat-2025/Club-Men",
+  "sourceUrl": "https://play.usaultimate.org/events/Swan-Boat-2025/schedule/Men/Club-Men/",
+  "scrapedAt": "2025-07-28T04:11:00Z",
+  "event": {
+    "name": "Swan Boat 2025",
+    "division": "Club - Men",
+    "season": 2025,
+    "city": "Apopka",
+    "state": "FL",
+    "country": "",
+    "startDate": "2025-07-26",
+    "endDate": "2025-07-27"
+  },
+  "teams": [
+    {
+      "name": "Vicious Cycle",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Gainesville, Florida",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": ["Jane Doe"],
+      "roster": [
+        { "number": "0", "name": "Caio Rudloff" },
+        { "number": "00", "name": "Second Player" }
+      ]
+    },
+    {
+      "name": "Truck Stop",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": null,
+      "coaches": [],
+      "roster": [
+        { "number": "7", "name": "Third Player" }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Vicious Cycle",
+              "team2": "Truck Stop",
+              "score1": 13,
+              "score2": 11,
+              "datetime": "2025-07-26T09:00:00Z",
+              "round": "Pool A",
+              "status": "Final"
+            },
+            {
+              "team1": "Truck Stop",
+              "team2": "Vicious Cycle",
+              "score1": 15,
+              "score2": 9,
+              "datetime": null,
+              "round": "Pool A",
+              "status": "Scheduled"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
