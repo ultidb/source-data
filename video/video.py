@@ -201,13 +201,20 @@ def scrapeUltiworld():
         # "https://ultiworld.com/video/?years=2024&divisions=usau-club-mens&packages=&event=&tags=#filtered",
         # "https://ultiworld.com/video/?years=2024&divisions=usau-club-mixed&packages=&event=&tags=#filtered",
         # "https://ultiworld.com/video/?years=2024&divisions=usau-club-womens&packages=&event=&tags=#filtered",
-        "https://ultiworld.com/video/?years=2025&divisions=usau-college-d-i-mens&packages=&event=&tags=#filtered",
-        "https://ultiworld.com/video/?years=2025&divisions=usau-college-d-i-womens&packages=&event=&tags=#filtered",
-        "https://ultiworld.com/video/?years=2025&divisions=usau-college-d-iii-mens&packages=&event=&tags=#filtered",
-        "https://ultiworld.com/video/?years=2025&divisions=usau-college-d-iii-womens&packages=&event=&tags=#filtered",
-        "https://ultiworld.com/video/?years=2025&divisions=usau-club-mens&packages=&event=&tags=#filtered",
-        "https://ultiworld.com/video/?years=2025&divisions=usau-club-mixed&packages=&event=&tags=#filtered",
-        "https://ultiworld.com/video/?years=2025&divisions=usau-club-womens&packages=&event=&tags=#filtered",
+        # "https://ultiworld.com/video/?years=2025&divisions=usau-college-d-i-mens&packages=&event=&tags=#filtered",
+        # "https://ultiworld.com/video/?years=2025&divisions=usau-college-d-i-womens&packages=&event=&tags=#filtered",
+        # "https://ultiworld.com/video/?years=2025&divisions=usau-college-d-iii-mens&packages=&event=&tags=#filtered",
+        # "https://ultiworld.com/video/?years=2025&divisions=usau-college-d-iii-womens&packages=&event=&tags=#filtered",
+        # "https://ultiworld.com/video/?years=2025&divisions=usau-club-mens&packages=&event=&tags=#filtered",
+        # "https://ultiworld.com/video/?years=2025&divisions=usau-club-mixed&packages=&event=&tags=#filtered",
+        # "https://ultiworld.com/video/?years=2025&divisions=usau-club-womens&packages=&event=&tags=#filtered",
+        "https://ultiworld.com/video/?years=2026&divisions=usau-college-d-i-mens&packages=&event=&tags=#filtered",
+        "https://ultiworld.com/video/?years=2026&divisions=usau-college-d-i-womens&packages=&event=&tags=#filtered",
+        "https://ultiworld.com/video/?years=2026&divisions=usau-college-d-iii-mens&packages=&event=&tags=#filtered",
+        "https://ultiworld.com/video/?years=2026&divisions=usau-college-d-iii-womens&packages=&event=&tags=#filtered",
+        "https://ultiworld.com/video/?years=2026&divisions=usau-club-mens&packages=&event=&tags=#filtered",
+        "https://ultiworld.com/video/?years=2026&divisions=usau-club-mixed&packages=&event=&tags=#filtered",
+        "https://ultiworld.com/video/?years=2026&divisions=usau-club-womens&packages=&event=&tags=#filtered",
     ]
 
     chrome_options = Options()
@@ -242,6 +249,7 @@ def scrapeUltiworld():
         "2023": 0,
         "2024": 0,
         "2025": 0,
+        "2026": 0,
     }
     output = []
     

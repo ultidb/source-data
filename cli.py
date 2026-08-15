@@ -254,8 +254,9 @@ def serve(host: str, port: int, no_scheduler: bool, debug: bool):
 
 
 @cli.command()
+@click.option("--commit", is_flag=True, help="Commit changes to git and push")
 @click.option("--debug", is_flag=True, help="Enable debug logging")
-def videos(debug: bool):
+def videos(commit: bool, debug: bool):
     """Scrape videos from Ultiworld and Vimeo."""
     setup_logging(debug)
 
@@ -264,6 +265,17 @@ def videos(debug: bool):
     log.info("Scraping videos...")
     scrapeVideos()
     log.info("Done scraping videos")
+
+    if commit:
+        from app import commitToGit, listUpdatedVideos
+
+        csvs = listUpdatedVideos()
+        if len(csvs) > 0:
+            log.info("Committing video changes to git...")
+            commitToGit("video/csv")
+            log.info("Pushed to origin/live")
+        else:
+            log.info("No updated video CSVs found, skipping commit")
 
 
 @cli.command("test-ingest")
