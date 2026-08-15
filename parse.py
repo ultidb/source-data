@@ -417,6 +417,19 @@ def stagesHaveGames(stages):
     return False
 
 
+def getUrlDivisionSuffix(url):
+    """Disambiguator for tournaments split across multiple URLs for the same
+    division, e.g. YCC's .../di/ and .../dii/ schedule pages. Returns "D1"/"D2"
+    or None if the URL doesn't end in a recognized di/dii segment."""
+    parts = [p for p in url.split("/") if p]
+    last = parts[-1].lower() if parts else ""
+    if last == "di":
+        return "D1"
+    if last == "dii":
+        return "D2"
+    return None
+
+
 def parseTournament(html, info, fileName, year):
     teams = {}
     # opening html parser
@@ -431,6 +444,10 @@ def parseTournament(html, info, fileName, year):
         url = info["url"]
         log.error(f"Error parsing tournament name from {url}")
         return None
+
+    divisionSuffix = getUrlDivisionSuffix(info["url"])
+    if divisionSuffix:
+        tournamentName = f"{tournamentName} {divisionSuffix}"
 
     # finding stages of tournament (tabs)
     stageTabs = soup.find("ul", {"class": "tabsLeft tabs"})

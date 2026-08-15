@@ -21,6 +21,7 @@ from parse import (
     parseNewSchedule,
     parseTournament,
     parseTournamentCalendar,
+    getUrlDivisionSuffix,
 )
 from tor import torIsRunning, startTorServer
 from config import get_season_id
@@ -318,6 +319,9 @@ def scrapeTournament(config, tournamentInfo, index, total):
     # url in format https://play.usaultimate.org/events/Santa-Barbara-Invite-2022/schedule/Men/CollegeMen/
     parts = tournamentInfo["url"].split("/")
     tournamentName = parts[4].strip() + parts[7].strip()
+    divisionSuffix = getUrlDivisionSuffix(tournamentInfo["url"])
+    if divisionSuffix:
+        tournamentName += "-" + divisionSuffix
     tournamentFilePath = f"csv/{config.year}/{tournamentName}.csv"
 
     log.info(f"Scraping tournament {index + 1}/{total} {tournamentName}")
