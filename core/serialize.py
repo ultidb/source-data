@@ -210,7 +210,10 @@ def tournament_to_document(
         season=start.year,
         city=tournament.city or "",
         state=tournament.state or "",
-        country="",
+        # models.Tournament has no country attribute -- USAU is domestic and
+        # never needed one. International sources set it on the instance, so
+        # read it optionally rather than hardcoding "" and stranding the field.
+        country=getattr(tournament, "country", "") or "",
         start_date=start,
         end_date=end,
     )
