@@ -72,6 +72,11 @@ def scrape():
     help="Output directory for emitted documents (registry-backed sources only; default: repo root, "
     "writing data/<source>/<year>/*.json)",
 )
+@click.option(
+    "--api-url",
+    default=None,
+    help="Ingest API base URL for --post (default: API_URL from .env). Matches `post-documents`.",
+)
 @click.option("--debug", is_flag=True, help="Enable debug logging")
 def scrape_year_cmd(
     year: int,
@@ -81,6 +86,7 @@ def scrape_year_cmd(
     calendar_only: bool,
     post: bool,
     out_dir: str,
+    api_url: str,
     debug: bool,
 ):
     """Scrape all tournaments for a given year."""
@@ -96,10 +102,12 @@ def scrape_year_cmd(
         scrapeCurrentYear(config)
         return
 
-    _scrape_year_with_source(source, year, post=post, out_dir=out_dir)
+    _scrape_year_with_source(source, year, post=post, out_dir=out_dir, api_url=api_url)
 
 
-def _scrape_year_with_source(source_id: str, year: int, *, post: bool, out_dir: str):
+def _scrape_year_with_source(
+    source_id: str, year: int, *, post: bool, out_dir: str, api_url: str = None
+):
     """Drive a registry-backed (non-usau) Source through the full pipeline:
     discover -> fetch_event -> parse_event -> tournament_to_document ->
     write_document, optionally POSTing the results."""
@@ -139,8 +147,15 @@ def _scrape_year_with_source(source_id: str, year: int, *, post: bool, out_dir: 
         from core.ingest_client import post_documents
 
         secrets = get_secrets()
+        resolved_api_url = api_url or secrets.api_url
+        if not resolved_api_url:
+            raise click.UsageError("no API URL: pass --api-url or set API_URL in .env")
+
         result = post_documents(
-            documents, source=source_id, api_url=secrets.api_url, token=os.environ.get("INGEST_TOKEN")
+            documents,
+            source=source_id,
+            api_url=resolved_api_url,
+            token=os.environ.get("INGEST_TOKEN"),
         )
         log.info(f"posted {len(documents)} document(s): {result}")
 
