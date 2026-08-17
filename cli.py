@@ -113,19 +113,22 @@ def _scrape_year_with_source(
     write_document, optionally POSTing the results."""
     import sources  # noqa: F401  (import side effect: registers every known source)
     from core.cache import FileCache
-    from core.emit import write_document
-    from core.fetch import RequestsTransport
     from core.registry import get_source
+    from core.emit import write_document
     from core.serialize import tournament_to_document
 
     src = get_source(source_id)
     refs = src.discover(year)
     log.info(f"discovered {len(refs)} event(s) for source={source_id} year={year}")
 
+    # One transport for the whole run: request pacing is stateful, so building
+    # a fresh one per event would reset the throttle between events.
+    transport = src.make_transport()
+
     documents = []
     for ref in refs:
         key = src.event_key(ref)
-        cache = FileCache(source_id, year, key, RequestsTransport())
+        cache = FileCache(source_id, year, key, transport)
         pages = src.fetch_event(ref, cache)
         tournament = src.parse_event(pages, ref, year)
         if tournament is None:

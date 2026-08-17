@@ -61,3 +61,15 @@ class Source(ABC):
     def parse_event(
         self, pages: FetchedPages, ref: EventRef, year: int
     ) -> models.Tournament | None: ...
+
+    def make_transport(self):
+        """Build the transport this source's pages are fetched through.
+
+        Optional. The default is a plain, unthrottled `RequestsTransport`.
+        Override to set request pacing, a different user agent, or an
+        entirely different transport -- a source knows what its upstream can
+        comfortably take, and core does not.
+        """
+        from core.fetch import RequestsTransport
+
+        return RequestsTransport()

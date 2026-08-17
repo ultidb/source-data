@@ -11,6 +11,7 @@ from __future__ import annotations
 
 import json
 import logging
+import os
 import time
 from datetime import datetime, time as dtime
 from typing import Dict, List, Optional
@@ -24,6 +25,15 @@ from sources.wfdf.events import WfdfEvent, events_for_year
 log = logging.getLogger(__name__)
 
 DEFAULT_BASE_URL = "https://results.wfdf.sport"
+
+# Seconds to wait between WFDF requests, drawn uniformly at random each time.
+# Roughly 1.5-4s over ~138 requests puts a full season scrape around 4-6
+# minutes, which is unhurried for data that changes at most a few times a day.
+# Override with WFDF_DELAY_MIN / WFDF_DELAY_MAX.
+REQUEST_DELAY_RANGE = (
+    float(os.environ.get("WFDF_DELAY_MIN", "1.5")),
+    float(os.environ.get("WFDF_DELAY_MAX", "4.0")),
+)
 
 
 class WfdfSource(Source):
@@ -45,6 +55,17 @@ class WfdfSource(Source):
         self._games_bytes: Dict[str, bytes] = {}
 
     # -- Source contract -----------------------------------------------
+
+    def make_transport(self):
+        """Throttled transport. A full season is ~138 requests (reference,
+        games, and one roster call per team), which back to back is both an
+        unnecessary burst on WFDF's servers and an obvious automated
+        signature. REQUEST_DELAY_RANGE paces them with jitter; the memoized
+        reference/games bytes already remove two thirds of the shared calls.
+        """
+        from core.fetch import RequestsTransport
+
+        return RequestsTransport(delay_range=REQUEST_DELAY_RANGE)
 
     def discover(self, year: int) -> List[EventRef]:
         events = self._events if self._events is not None else events_for_year(year)
