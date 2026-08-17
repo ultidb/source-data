@@ -53,10 +53,21 @@ class WfdfEvent:
     `data_path` is per-event and overridable rather than assumed to be a
     global constant.
 
-    `city`/`state`/`country` are deliberately blank and overridable here --
-    the WFDF API carries no venue information at all (`reservations[].location`
-    is always null, and `season` has no location fields). Do not invent a
-    venue; fill these in by hand later if/when the information is known.
+    `name` overrides the event name that lands on the wire document (and so
+    the Tournament row's name and slug). WFDF's `season.name` is an
+    abbreviation -- "WUCC 2026" -- which is not what we want displayed, so
+    set this to the expanded form.
+
+    **Always include the year.** The Go writer takes `event.name` verbatim
+    (it does not append a year the way the legacy CSV reader does) and
+    matches existing tournaments on name + division + gender, so a bare
+    "World Ultimate Club Championships" would make the 2030 edition update
+    the 2026 rows instead of creating its own.
+
+    `city`/`state`/`country` are overridable here because the WFDF API
+    carries no venue information at all (`reservations[].location` is always
+    null, and `season` has no location fields). Leave them blank rather than
+    guessing for an event whose venue is not known.
 
     `start_date`/`end_date` are hardcoded here (not fetched from the
     `_reference` endpoint) so that `ongoing_events`/`upcoming_events`/
@@ -71,6 +82,7 @@ class WfdfEvent:
     division_label: str  # raw division prefix, e.g. "World Ultimate Club Championships"
     series: List[WfdfSeries] = field(default_factory=list)
     data_path: str = "live/data"  # relative path between base_url and "<season_id>_<resource>.json"
+    name: str = ""  # overrides season.name; include the year (see docstring)
     city: str = ""
     state: str = ""
     country: str = ""
@@ -89,11 +101,16 @@ WFDF_EVENTS: List[WfdfEvent] = [
         base_url="https://results.wfdf.sport/wucc-2026",
         season_id="WUCC2026",
         division_label="World Ultimate Club Championships",
+        # Expanded from WFDF's "WUCC 2026". The year is load-bearing, not
+        # decoration -- see the WfdfEvent docstring.
+        name="World Ultimate Club Championships 2026",
         series=[
             WfdfSeries(series_id=1001, name="Mixed"),
             WfdfSeries(series_id=1002, name="Open"),
             WfdfSeries(series_id=1000, name="Women's"),
         ],
+        city="Limerick",
+        country="Ireland",
         start_date=date(2026, 8, 15),
         end_date=date(2026, 8, 22),
     ),

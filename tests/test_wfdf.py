@@ -15,6 +15,7 @@ from __future__ import annotations
 import json
 import os
 import time
+from dataclasses import replace
 from datetime import date
 from pathlib import Path
 
@@ -27,6 +28,7 @@ from core.schema import Document
 from core.serialize import tournament_to_document
 from sources.wfdf import parse
 from sources.wfdf.events import (
+    WFDF_EVENTS,
     WfdfEvent,
     WfdfSeries,
     events_for_year,
@@ -112,14 +114,37 @@ class TestDiscover:
         assert source.event_key(refs["Open"]) == "WUCC2026/Open"
         assert source.event_key(refs["Women's"]) == "WUCC2026/Women's"
 
-    def test_city_state_country_are_blank_and_overridable(self):
-        # The WFDF API carries no venue info at all -- these must be blank
-        # by default, not invented, but still present as fields on the ref.
+    def test_venue_comes_from_the_event_entry_not_the_api(self):
+        # The WFDF API carries no venue info at all (reservations[].location
+        # is always null), so city/state/country are hand-entered on the
+        # WfdfEvent and must reach the ref. WUCC 2026 is in Limerick.
         source = WfdfSource()
         ref = source.discover(2026)[0]
-        assert ref.city == ""
-        assert ref.state == ""
-        assert ref.country == ""
+        assert ref.city == "Limerick"
+        assert ref.country == "Ireland"
+        assert ref.state == ""  # not meaningful outside the US
+
+    def test_venue_defaults_to_blank_when_the_event_does_not_set_one(self):
+        # An event whose venue we don't know must stay blank rather than
+        # inheriting another event's, or inventing one.
+        event = replace(WFDF_EVENTS[0], city="", state="", country="")
+        ref = WfdfSource(events=[event]).discover(2026)[0]
+        assert (ref.city, ref.state, ref.country) == ("", "", "")
+
+    def test_event_name_overrides_wfdfs_abbreviation(self):
+        # WFDF's season.name is "WUCC 2026"; we display the expanded form.
+        # The year must survive: the Go writer takes event.name verbatim and
+        # matches tournaments on name+division+gender, so dropping it would
+        # make a later edition update this one's rows.
+        source = WfdfSource()
+        ref = source.discover(2026)[0]
+        assert ref.name == "World Ultimate Club Championships 2026"
+        assert "2026" in ref.name
+
+    def test_event_name_falls_back_to_season_name_when_unset(self):
+        event = replace(WFDF_EVENTS[0], name="")
+        ref = WfdfSource(events=[event]).discover(2026)[0]
+        assert ref.name is None  # parse_event then falls back to season.name
 
 
 # ---------------------------------------------------------------------------
@@ -598,7 +623,15 @@ class TestFullPipeline:
             documents[ref.extra["series_name"]] = doc
 
         assert set(documents) == {"Mixed", "Open", "Women's"}
-        assert documents["Mixed"].event.name == "WUCC 2026"
+        # Expanded from WFDF's own "WUCC 2026". This string is load-bearing
+        # twice over: the Go writer matches tournaments on name+division+
+        # gender (hence the year), and fallbackTeamSources regex-matches it
+        # to enable WUCC->USAU team merging (hence "world ultimate club
+        # championships" surviving intact). See ingest-contract.md section 4.
+        assert documents["Mixed"].event.name == "World Ultimate Club Championships 2026"
+        assert documents["Mixed"].event.city == "Limerick"
+        assert documents["Mixed"].event.country == "Ireland"
+        # Document identity must NOT follow the display name.
         assert documents["Mixed"].source_event_id == "WUCC2026/Mixed"
         assert len(documents["Mixed"].teams) == 48
         assert len(documents["Open"].teams) == 48

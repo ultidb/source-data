@@ -99,7 +99,10 @@ class WfdfSource(Source):
                 refs.append(
                     EventRef(
                         url=event.base_url,
-                        name=None,  # the real event name comes from season.name at parse time
+                        # Blank falls back to season.name at parse time.
+                        # WFDF's season.name is an abbreviation ("WUCC 2026"),
+                        # so events override it with the expanded form.
+                        name=event.name or None,
                         division=f"{event.division_label} - {series.name}",
                         city=event.city,
                         state=event.state,
@@ -205,7 +208,9 @@ class WfdfSource(Source):
         )
 
         tournament = models.Tournament(
-            season["name"],
+            # ref.name is the event's override (expanded, year-bearing);
+            # season.name is WFDF's own abbreviation, used only as a fallback.
+            ref.name or season["name"],
             ref.url,
             ref.city,
             ref.state,
