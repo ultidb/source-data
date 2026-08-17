@@ -155,7 +155,7 @@ def _scrape_year_with_source(
             documents,
             source=source_id,
             api_url=resolved_api_url,
-            token=os.environ.get("INGEST_TOKEN"),
+            token=secrets.ingest_token,
         )
         log.info(f"posted {len(documents)} document(s): {result}")
 
@@ -482,7 +482,7 @@ def post_documents_cmd(
             docs,
             source=source,
             api_url=resolved_api_url,
-            token=os.environ.get("INGEST_TOKEN"),
+            token=secrets.ingest_token,
             dry_run=dry_run,
             check_existing=not no_check_existing,
             update_players=not no_update_players,

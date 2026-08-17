@@ -60,6 +60,9 @@ class SecretsConfig(BaseSettings):
     model_config = SettingsConfigDict(env_file=".env", env_file_encoding="utf-8", extra="ignore")
 
     api_url: Optional[str] = None
+    # Shared secret for POST /v2/ingest (sent as X-Ingest-Token). Reads
+    # INGEST_TOKEN from .env or the environment, like every other secret here.
+    ingest_token: Optional[str] = None
     youtube_api_key: Optional[str] = None
     vimeo_client_id: Optional[str] = None
     vimeo_client_secret: Optional[str] = None

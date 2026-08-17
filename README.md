@@ -23,14 +23,21 @@ pipenv run pip install -e .
 1. Copy `.env.example` to `.env` and configure:
 ```
 API_URL=<your api url>
+INGEST_TOKEN=<shared secret for POST /v2/ingest>
 YOUTUBE_API_KEY=<optional>
 VIMEO_CLIENT_ID=<optional>
 VIMEO_CLIENT_SECRET=<optional>
 VIMEO_ACCESS_TOKEN=<optional>
 COMMIT_AND_PUSH=False
 POST_TO_API=False
+LOAD_CAL_ON_START=False
 HOST=0.0.0.0
 ```
+
+`INGEST_TOKEN` is sent as the `X-Ingest-Token` header by `scrape --post` and
+`post-documents`, and must match what the API has configured (docker-compose
+passes `INGEST_TOKEN` through to the api service). The API replies **503**
+when it has no token at all and **401** on a mismatch.
 
 2. Edit `config.yaml` to customize settings (season IDs, scheduler intervals, divisions).
 

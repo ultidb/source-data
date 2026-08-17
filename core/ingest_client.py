@@ -45,7 +45,12 @@ def post_documents(
     if token is None:
         token = os.environ.get("INGEST_TOKEN")
     if not token:
-        raise IngestError("no ingest token provided (pass token= or set INGEST_TOKEN)")
+        raise IngestError(
+            "no ingest token provided: set INGEST_TOKEN in source-data/.env "
+            "(or export it), and make sure the same value is set for the API - "
+            "docker-compose passes it through as INGEST_TOKEN. The API replies "
+            "503 when it has no token configured and 401 when it does not match."
+        )
 
     body = {
         "source": source,
