@@ -452,8 +452,8 @@ def post_documents_cmd(
 ):
     """POST already-emitted wire-format JSON documents (as written by
     `scrape --source=... year ...` or `convert-legacy`) to the v2 ingest
-    API, via core.ingest_client. Reads the auth token from the INGEST_TOKEN
-    environment variable.
+    API, via core.ingest_client. Reads the auth token from INGEST_TOKEN in
+    .env or the environment.
 
     Examples:
         scraper post-documents --source usau data/usau/2025/*.json
