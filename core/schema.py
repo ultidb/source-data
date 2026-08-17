@@ -40,6 +40,13 @@ class _DocModel(BaseModel):
 class Event(_DocModel):
     name: str
     division: str
+    # Optional. When absent (""), `division` is a legacy compound label
+    # ("College - Men") that the Go writer resolves via substring matching
+    # (matchDivision, apply.go). When present, `division` is expected to be
+    # a clean division name (e.g. "club") and `gender` a clean gender name
+    # (e.g. "mixed"), each matched exactly (case-insensitive) against the
+    # Go enums' String() output -- see ingest-contract.md section 4.
+    gender: str = ""
     season: int
     city: str
     state: str

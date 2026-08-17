@@ -103,7 +103,11 @@ class WfdfSource(Source):
                         # WFDF's season.name is an abbreviation ("WUCC 2026"),
                         # so events override it with the expanded form.
                         name=event.name or None,
-                        division=f"{event.division_label} - {series.name}",
+                        # Clean division name (e.g. "club") -- NOT a compound
+                        # "division - gender" label. Gender travels
+                        # separately below, explicit, per series.
+                        division=event.division,
+                        gender=series.gender,
                         city=event.city,
                         state=event.state,
                         country=event.country,
@@ -221,10 +225,14 @@ class WfdfSource(Source):
             ref.division,
             stages,
         )
-        # models.Tournament predates non-USAU sources and has no country
-        # field. core.serialize reads it optionally off the instance, so
-        # setting it here is what carries country onto the wire.
+        # models.Tournament predates non-USAU sources and has no country or
+        # gender field. core.serialize reads both optionally off the
+        # instance (the exact same getattr pattern for each), so setting
+        # them here is what carries country and the explicit gender onto
+        # the wire -- ref.division (passed positionally above) is already
+        # the clean division name ("club"), not a compound label.
         tournament.country = ref.country
+        tournament.gender = ref.gender
         return tournament
 
     # -- internals -------------------------------------------------------

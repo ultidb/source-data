@@ -95,12 +95,20 @@ class TestDiscover:
         assert source.discover(2025) == []
         assert source.discover(2027) == []
 
-    def test_division_label_per_series(self):
+    def test_division_and_gender_per_series(self):
+        # division is the clean age/level-group name, the same for every
+        # series in the event; gender is stated explicitly per series
+        # rather than folded into a compound division label.
         source = WfdfSource()
         refs = {r.extra["series_name"]: r for r in source.discover(2026)}
-        assert refs["Mixed"].division == "World Ultimate Club Championships - Mixed"
-        assert refs["Open"].division == "World Ultimate Club Championships - Open"
-        assert refs["Women's"].division == "World Ultimate Club Championships - Women's"
+        assert refs["Mixed"].division == "club"
+        assert refs["Open"].division == "club"
+        assert refs["Women's"].division == "club"
+        assert refs["Mixed"].gender == "mixed"
+        assert refs["Open"].gender == "open"
+        # "Women's" does NOT lowercase to "womens" -- the wire gender must
+        # be the explicitly-stated value, not a derived one.
+        assert refs["Women's"].gender == "womens"
 
     def test_event_key_is_stable_and_series_scoped(self):
         # event_key is the document identity (sourceEventId) that ingest run
@@ -201,13 +209,13 @@ class TestBuildUrl:
             year=2026,
             base_url="https://results.wfdf.sport/wucc-2026/",
             season_id="WUCC2026",
-            division_label="X",
+            division="X",
         )
         without_slash = WfdfEvent(
             year=2026,
             base_url="https://results.wfdf.sport/wucc-2026",
             season_id="WUCC2026",
-            division_label="X",
+            division="X",
         )
         assert with_slash.base_url == without_slash.base_url == "https://results.wfdf.sport/wucc-2026"
 
@@ -218,7 +226,7 @@ class TestBuildUrl:
 
     def test_default_data_path_on_wfdf_event_matches_wucc_layout(self):
         event = WfdfEvent(
-            year=2026, base_url="https://host.example", season_id="SEASON", division_label="X"
+            year=2026, base_url="https://host.example", season_id="SEASON", division="X"
         )
         assert event.data_path == "live/data"
 
@@ -537,56 +545,26 @@ class TestUnresolvedGamesSkipped:
 
 
 # ---------------------------------------------------------------------------
-# Division label -> Go writer's (Division, Gender) mapping
-# (ingest-contract.md section 4, reimplemented here read-only for the
-# assertion -- this is NOT the source of truth, just a check that our raw
-# label resolves the way the Go side's substring matcher resolves it.)
+# WUCC's explicit division/gender values (ingest-contract.md section 4).
+# Unlike the pre-explicit-gender design, WFDF no longer emits a compound
+# "division - gender" label for the Go writer's substring matcher to
+# pattern-match apart -- discover() states `division` ("club") and each
+# series' `gender` ("mixed" | "open" | "womens") directly. These are exact
+# equality checks against the accepted wire names, not a reimplementation of
+# matchDivision (that matcher is legacy-path-only now; see apply.go).
 # ---------------------------------------------------------------------------
-
-
-def _go_gender(label: str) -> str:
-    l = label.lower()
-    if "women" in l:
-        return "Womens"
-    if "mixed" in l:
-        return "Mixed"
-    if "boys" in l:
-        return "Boys"
-    if "girls" in l:
-        return "Girls"
-    return "Open"
-
-
-def _go_division(label: str) -> str:
-    l = label.lower()
-    if "college" in l:
-        return "College"
-    if "youth club" in l:
-        return "YouthClubU17" if any(s in l for s in ("u17", "u-17", "u16", "u-16")) else "YouthClubU20"
-    if "great grand master" in l or "great-grand master" in l or "great grandmaster" in l:
-        return "GreatGrandMasters"
-    if "grand master" in l or "grand-master" in l or "grandmaster" in l:
-        return "GrandMasters"
-    if "master" in l:
-        return "Masters"
-    if "beach" in l:
-        return "Beach"
-    if "club" in l:
-        return "Club"
-    if "national team" in l or "international" in l or "world" in l:
-        return "International"
-    return "Other"
 
 
 class TestDivisionMapping:
     @pytest.mark.parametrize(
         "series_name,expected_gender",
-        [("Mixed", "Mixed"), ("Open", "Open"), ("Women's", "Womens")],
+        [("Mixed", "mixed"), ("Open", "open"), ("Women's", "womens")],
     )
-    def test_division_maps_to_club_and_correct_gender(self, series_name, expected_gender):
-        label = f"World Ultimate Club Championships - {series_name}"
-        assert _go_division(label) == "Club"
-        assert _go_gender(label) == expected_gender
+    def test_division_is_club_and_gender_is_explicit(self, series_name, expected_gender):
+        source = WfdfSource()
+        ref = next(r for r in source.discover(2026) if r.extra["series_name"] == series_name)
+        assert ref.division == "club"
+        assert ref.gender == expected_gender
 
     def test_event_name_contains_wucc_for_fallback_team_matching(self):
         # The Go writer's fallbackTeamSources regex matches \bwucc\b on the
@@ -631,6 +609,16 @@ class TestFullPipeline:
         assert documents["Mixed"].event.name == "World Ultimate Club Championships 2026"
         assert documents["Mixed"].event.city == "Limerick"
         assert documents["Mixed"].event.country == "Ireland"
+        # Explicit division/gender (ingest-contract.md section 4): `division`
+        # is the clean age/level-group name, identical across all 3 series;
+        # `gender` is per-series and, for "Women's", must be the explicitly
+        # stated "womens" rather than a lowercased "women's".
+        assert documents["Mixed"].event.division == "club"
+        assert documents["Open"].event.division == "club"
+        assert documents["Women's"].event.division == "club"
+        assert documents["Mixed"].event.gender == "mixed"
+        assert documents["Open"].event.gender == "open"
+        assert documents["Women's"].event.gender == "womens"
         # Document identity must NOT follow the display name.
         assert documents["Mixed"].source_event_id == "WUCC2026/Mixed"
         assert len(documents["Mixed"].teams) == 48
@@ -657,7 +645,9 @@ class TestFullPipeline:
             tournament, source="wfdf", source_event_id=key, source_url=ref.url
         )
         assert doc.source == "wfdf"
-        assert doc.event.division == "World Ultimate Club Championships - Women's"
+        assert doc.event.division == "club"
+        # "Women's" must map to "womens", never a lowercased "women's".
+        assert doc.event.gender == "womens"
         assert doc.event.start_date.isoformat() == "2026-08-15"
         assert doc.event.end_date.isoformat() == "2026-08-22"
 
@@ -668,6 +658,10 @@ class TestFullPipeline:
         assert written_path.exists()
 
         on_disk = json.loads(written_path.read_text(encoding="utf-8"))
+        # Serialize round-trip: both explicit fields must survive the
+        # write-to-disk-and-read-back cycle intact.
+        assert on_disk["event"]["division"] == "club"
+        assert on_disk["event"]["gender"] == "womens"
         Document.model_validate(on_disk)  # must not raise
 
         sixers = next(t for t in on_disk["teams"] if t["name"] == "6ixers")
@@ -700,8 +694,8 @@ class TestEventWindowQueries:
         year=2026,
         base_url="https://results.wfdf.sport/wucc-2026",
         season_id="WUCC2026",
-        division_label="World Ultimate Club Championships",
-        series=[WfdfSeries(series_id=1001, name="Mixed")],
+        division="club",
+        series=[WfdfSeries(series_id=1001, name="Mixed", gender="mixed")],
         start_date=date(2026, 8, 15),
         end_date=date(2026, 8, 22),
     )
@@ -745,7 +739,7 @@ class TestEventWindowQueries:
 
     def test_events_without_dates_are_excluded_everywhere(self):
         dateless = WfdfEvent(
-            year=2026, base_url="https://x.example/x", season_id="X", division_label="X",
+            year=2026, base_url="https://x.example/x", season_id="X", division="X",
         )
         assert ongoing_events([dateless], today=date(2026, 8, 18)) == []
         assert upcoming_events([dateless], today=date(2026, 8, 5)) == []

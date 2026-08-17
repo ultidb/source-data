@@ -23,6 +23,14 @@ class EventRef:
     url: str
     name: str | None = None
     division: str | None = None            # raw source label, e.g. "Club - Men"
+    # Optional wire gender name (e.g. "mixed" | "open" | "womens" |
+    # "boys" | "girls" -- see ingest-contract.md section 4). A source that
+    # knows division and gender as two separate facts (e.g. WFDF) sets
+    # this, and `division` above is then a clean division name (e.g.
+    # "club") rather than a compound label. A source that doesn't know them
+    # separately (e.g. USAU) leaves this None and `division` stays the raw
+    # compound label, resolved on the legacy (substring-matching) path.
+    gender: str | None = None
     city: str = ""
     state: str = ""
     country: str = ""

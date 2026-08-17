@@ -206,7 +206,11 @@ def tournament_to_document(
 
     event = Event(
         name=tournament.name,
-        division=tournament.division,  # raw source label, preserved verbatim
+        # Legacy/compound label (e.g. "College - Men") when the source
+        # doesn't set `gender` below; a clean division name (e.g. "club")
+        # when it does. Either way this is the raw source value, preserved
+        # verbatim.
+        division=tournament.division,
         season=start.year,
         city=tournament.city or "",
         state=tournament.state or "",
@@ -214,6 +218,11 @@ def tournament_to_document(
         # never needed one. International sources set it on the instance, so
         # read it optionally rather than hardcoding "" and stranding the field.
         country=getattr(tournament, "country", "") or "",
+        # models.Tournament has no gender attribute either, for the same
+        # reason -- only a source that knows division and gender as two
+        # separate facts (WFDF) sets this on the instance. Read it
+        # optionally, following the exact same pattern as country above.
+        gender=getattr(tournament, "gender", "") or "",
         start_date=start,
         end_date=end,
     )

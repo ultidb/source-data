@@ -25,6 +25,12 @@ class WfdfSeries:
     array in `<season_id>_reference.json`."""
     series_id: int
     name: str  # WFDF's series name, e.g. "Mixed" | "Open" | "Women's"
+    # The wire gender name for this series (ingest-contract.md section 4),
+    # e.g. "mixed" | "open" | "womens". Stated explicitly rather than
+    # derived from `name` by lowercasing -- "Women's" does NOT lowercase to
+    # "womens" (the apostrophe survives), and that silent mismatch is
+    # exactly the bug the explicit-gender wire field exists to prevent.
+    gender: str
 
 
 @dataclass(frozen=True)
@@ -75,11 +81,18 @@ class WfdfEvent:
     They're informational for scheduling only -- the authoritative dates
     that end up on the wire document still come from `season.starttime`/
     `endtime` in the live `_reference` payload (see `WfdfSource.parse_event`).
+
+    `division` is the wire division name (ingest-contract.md section 4),
+    e.g. "club" | "international" -- the age/level group, WFDF's gender-free
+    half of what USAU bakes into one compound label. It travels on the wire
+    alongside each series' `gender` (WfdfSeries.gender) rather than the two
+    being concatenated into a single label for the Go writer to
+    pattern-match back apart -- see the module docstring / ingest-contract.md.
     """
     year: int
     base_url: str  # e.g. "https://results.wfdf.sport/wucc-2026" or "https://wjuc.wfdf.sport"
     season_id: str  # e.g. "WUCC2026", matches the API's season_id
-    division_label: str  # raw division prefix, e.g. "World Ultimate Club Championships"
+    division: str  # wire division name, e.g. "club" | "international" -- see docstring
     series: List[WfdfSeries] = field(default_factory=list)
     data_path: str = "live/data"  # relative path between base_url and "<season_id>_<resource>.json"
     name: str = ""  # overrides season.name; include the year (see docstring)
@@ -100,14 +113,17 @@ WFDF_EVENTS: List[WfdfEvent] = [
         year=2026,
         base_url="https://results.wfdf.sport/wucc-2026",
         season_id="WUCC2026",
-        division_label="World Ultimate Club Championships",
+        division="club",
         # Expanded from WFDF's "WUCC 2026". The year is load-bearing, not
         # decoration -- see the WfdfEvent docstring.
         name="World Ultimate Club Championships 2026",
         series=[
-            WfdfSeries(series_id=1001, name="Mixed"),
-            WfdfSeries(series_id=1002, name="Open"),
-            WfdfSeries(series_id=1000, name="Women's"),
+            WfdfSeries(series_id=1001, name="Mixed", gender="mixed"),
+            WfdfSeries(series_id=1002, name="Open", gender="open"),
+            # WFDF's own name is "Women's" -- the apostrophe does NOT
+            # survive a straight .lower(), so the wire gender is stated
+            # explicitly here rather than derived from `name`.
+            WfdfSeries(series_id=1000, name="Women's", gender="womens"),
         ],
         city="Limerick",
         country="Ireland",
@@ -121,25 +137,21 @@ WFDF_EVENTS: List[WfdfEvent] = [
     # Uncomment and fill in the real values (marked below) once fetched.
     #
     # Also note for whoever adds this: WJUC is a national-teams event, not a
-    # club one, so its division_label must NOT map to Division.Club the way
-    # WUCC's does (see _go_division-style mapping in the Go writer / ingest
-    # contract), and it must not pick up the USAU team-matching fallback --
-    # the Go writer's `fallbackTeamSources` already restricts that to
-    # WUCC/WMUCC, which is correct and should stay that way. Pick a
-    # division_label that resolves to something other than "Other" (an
-    # ingest error, not a silent skip -- see
-    # ultidb/docs/ingest-contract.md §4), e.g. one containing "national team"
-    # / "international" / "world" so it maps to International, not Club.
+    # club one, so its `division` must be "international", not "club" (see
+    # ingest-contract.md section 4). It must also not pick up the USAU
+    # team-matching fallback -- the Go writer's `fallbackTeamSources`
+    # already restricts that to WUCC/WMUCC, which is correct and should
+    # stay that way.
     #
     # WfdfEvent(
     #     year=2026,
     #     base_url="https://wjuc.wfdf.sport",
     #     season_id="TODO_FROM_REFERENCE_JSON",  # e.g. "WJUC2026" -- verify against the real payload
-    #     division_label="World Junior Ultimate Championships",  # must not resolve to Division.Club
+    #     division="international",  # WJUC is a national-teams event, not a club one
     #     series=[
-    #         # TODO: real series_id/name pairs from WJUC's own
+    #         # TODO: real series_id/name/gender triples from WJUC's own
     #         # <season_id>_reference.json -- do not guess these.
-    #         WfdfSeries(series_id=0, name="TODO"),
+    #         WfdfSeries(series_id=0, name="TODO", gender="TODO"),
     #     ],
     #     start_date=date(2026, 1, 1),  # TODO: real dates
     #     end_date=date(2026, 1, 1),  # TODO: real dates

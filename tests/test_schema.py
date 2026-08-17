@@ -24,6 +24,7 @@ CANONICAL_EXAMPLE = {
     "event": {
         "name": "Swan Boat 2025",
         "division": "Club - Men",
+        "gender": "",
         "season": 2025,
         "city": "Apopka",
         "state": "FL",
