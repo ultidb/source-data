@@ -101,6 +101,11 @@ class TestDiscover:
         assert refs["Women's"].division == "World Ultimate Club Championships - Women's"
 
     def test_event_key_is_stable_and_series_scoped(self):
+        # event_key is the document identity (sourceEventId) that ingest run
+        # items key on and that the on-disk cache path derives from -- these
+        # literal strings must stay byte-identical across the slug->base_url
+        # refactor (WfdfEvent.slug removed in favor of WfdfEvent.base_url),
+        # or every cached page and previously ingested document is orphaned.
         source = WfdfSource()
         refs = {r.extra["series_name"]: r for r in source.discover(2026)}
         assert source.event_key(refs["Mixed"]) == "WUCC2026/Mixed"
@@ -115,6 +120,99 @@ class TestDiscover:
         assert ref.city == ""
         assert ref.state == ""
         assert ref.country == ""
+
+
+# ---------------------------------------------------------------------------
+# WfdfEvent.base_url / data_path -> WfdfSource._build_url. WFDF events don't
+# all live under one host with the event as a path segment (WUCC 2026 is
+# path-style: "https://results.wfdf.sport/wucc-2026"; WJUC 2026 is
+# subdomain-style: "https://wjuc.wfdf.sport", event at the host root) -- see
+# the WFDF source task. These pin the exact URL strings so the base_url
+# refactor is provably behaviour-preserving for WUCC.
+# ---------------------------------------------------------------------------
+
+
+def _strip_cb(url: str) -> str:
+    return url.partition("?cb=")[0]
+
+
+class TestBuildUrl:
+    def test_path_style_base_url_matches_pre_refactor_urls(self):
+        # Literal pin of the URL the pre-refactor code produced:
+        # f"{base_url}/{slug}/live/data/{name}.json?cb=<millis>".
+        source = WfdfSource()
+        url = source._build_url(
+            "https://results.wfdf.sport/wucc-2026", "live/data", "WUCC2026", "reference"
+        )
+        assert _strip_cb(url) == "https://results.wfdf.sport/wucc-2026/live/data/WUCC2026_reference.json"
+        assert url.rpartition("?cb=")[2].isdigit()
+
+    def test_path_style_games_url_matches_pre_refactor_urls(self):
+        source = WfdfSource()
+        url = source._build_url(
+            "https://results.wfdf.sport/wucc-2026", "live/data", "WUCC2026", "games"
+        )
+        assert _strip_cb(url) == "https://results.wfdf.sport/wucc-2026/live/data/WUCC2026_games.json"
+
+    def test_subdomain_style_base_url_no_doubled_or_missing_slashes(self):
+        source = WfdfSource()
+        url = source._build_url("https://wjuc.wfdf.sport", "live/data", "WJUC2026", "reference")
+        assert _strip_cb(url) == "https://wjuc.wfdf.sport/live/data/WJUC2026_reference.json"
+
+    def test_trailing_slash_on_base_url_argument_is_normalised(self):
+        source = WfdfSource()
+        no_slash = source._build_url(
+            "https://results.wfdf.sport/wucc-2026", "live/data", "WUCC2026", "reference"
+        )
+        with_slash = source._build_url(
+            "https://results.wfdf.sport/wucc-2026/", "live/data", "WUCC2026", "reference"
+        )
+        assert _strip_cb(no_slash) == _strip_cb(with_slash)
+
+    def test_wfdf_event_normalises_trailing_slash_on_base_url_field(self):
+        # WfdfEvent itself normalises too (both event construction forms
+        # must agree, not just _build_url's own defensive rstrip).
+        with_slash = WfdfEvent(
+            year=2026,
+            base_url="https://results.wfdf.sport/wucc-2026/",
+            season_id="WUCC2026",
+            division_label="X",
+        )
+        without_slash = WfdfEvent(
+            year=2026,
+            base_url="https://results.wfdf.sport/wucc-2026",
+            season_id="WUCC2026",
+            division_label="X",
+        )
+        assert with_slash.base_url == without_slash.base_url == "https://results.wfdf.sport/wucc-2026"
+
+    def test_custom_data_path_is_honoured(self):
+        source = WfdfSource()
+        url = source._build_url("https://host.example", "custom/path", "SEASON", "reference")
+        assert _strip_cb(url) == "https://host.example/custom/path/SEASON_reference.json"
+
+    def test_default_data_path_on_wfdf_event_matches_wucc_layout(self):
+        event = WfdfEvent(
+            year=2026, base_url="https://host.example", season_id="SEASON", division_label="X"
+        )
+        assert event.data_path == "live/data"
+
+    def test_roster_url_form_under_path_style_base_url(self):
+        source = WfdfSource()
+        url = source._build_url(
+            "https://results.wfdf.sport/wucc-2026", "live/data", "WUCC2026", "teams", extra_id=1019
+        )
+        assert (
+            _strip_cb(url)
+            == "https://results.wfdf.sport/wucc-2026/live/data/WUCC2026_teams_1019.json"
+        )
+
+    def test_roster_url_form_under_subdomain_style_base_url(self):
+        source = WfdfSource()
+        url = source._build_url(
+            "https://wjuc.wfdf.sport", "live/data", "WJUC2026", "teams", extra_id=42
+        )
+        assert _strip_cb(url) == "https://wjuc.wfdf.sport/live/data/WJUC2026_teams_42.json"
 
 
 # ---------------------------------------------------------------------------
@@ -567,7 +665,7 @@ class TestFullPipeline:
 class TestEventWindowQueries:
     EVENT = WfdfEvent(
         year=2026,
-        slug="wucc-2026",
+        base_url="https://results.wfdf.sport/wucc-2026",
         season_id="WUCC2026",
         division_label="World Ultimate Club Championships",
         series=[WfdfSeries(series_id=1001, name="Mixed")],
@@ -614,7 +712,7 @@ class TestEventWindowQueries:
 
     def test_events_without_dates_are_excluded_everywhere(self):
         dateless = WfdfEvent(
-            year=2026, slug="x", season_id="X", division_label="X",
+            year=2026, base_url="https://x.example/x", season_id="X", division_label="X",
         )
         assert ongoing_events([dateless], today=date(2026, 8, 18)) == []
         assert upcoming_events([dateless], today=date(2026, 8, 5)) == []

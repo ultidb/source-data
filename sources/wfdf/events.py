@@ -31,6 +31,28 @@ class WfdfSeries:
 class WfdfEvent:
     """One WFDF season/event.
 
+    `base_url` is everything up to but not including the data path -- WFDF
+    does not put every event under one host with the event as a path
+    segment. Two shapes exist:
+
+      - path-style (WUCC 2026): one host, event as a path segment, e.g.
+        "https://results.wfdf.sport/wucc-2026"
+      - subdomain-style (WJUC 2026): the event's own subdomain, event at the
+        host root, e.g. "https://wjuc.wfdf.sport"
+
+    A trailing slash is normalised away in `__post_init__` so both
+    "https://host/event" and "https://host/event/" behave identically.
+    `data_path` (below) is joined onto this to build page URLs; see
+    `WfdfSource._build_url`.
+
+    `data_path` is the path segment between `base_url` and the
+    season_id-prefixed filename, e.g. "live/data" in
+    ".../wucc-2026/live/data/WUCC2026_reference.json". WUCC 2026 uses
+    "live/data"; that layout has NOT been verified for WJUC or any other
+    subdomain-style event (this codebase is offline w.r.t. WFDF's API), so
+    `data_path` is per-event and overridable rather than assumed to be a
+    global constant.
+
     `city`/`state`/`country` are deliberately blank and overridable here --
     the WFDF API carries no venue information at all (`reservations[].location`
     is always null, and `season` has no location fields). Do not invent a
@@ -44,21 +66,27 @@ class WfdfEvent:
     `endtime` in the live `_reference` payload (see `WfdfSource.parse_event`).
     """
     year: int
-    slug: str  # URL path segment, e.g. "wucc-2026"
+    base_url: str  # e.g. "https://results.wfdf.sport/wucc-2026" or "https://wjuc.wfdf.sport"
     season_id: str  # e.g. "WUCC2026", matches the API's season_id
     division_label: str  # raw division prefix, e.g. "World Ultimate Club Championships"
     series: List[WfdfSeries] = field(default_factory=list)
+    data_path: str = "live/data"  # relative path between base_url and "<season_id>_<resource>.json"
     city: str = ""
     state: str = ""
     country: str = ""
     start_date: Optional[date] = None
     end_date: Optional[date] = None
 
+    def __post_init__(self) -> None:
+        # Frozen dataclass -- object.__setattr__ is the documented escape
+        # hatch for normalizing a field in __post_init__.
+        object.__setattr__(self, "base_url", self.base_url.rstrip("/"))
+
 
 WFDF_EVENTS: List[WfdfEvent] = [
     WfdfEvent(
         year=2026,
-        slug="wucc-2026",
+        base_url="https://results.wfdf.sport/wucc-2026",
         season_id="WUCC2026",
         division_label="World Ultimate Club Championships",
         series=[
@@ -69,6 +97,36 @@ WFDF_EVENTS: List[WfdfEvent] = [
         start_date=date(2026, 8, 15),
         end_date=date(2026, 8, 22),
     ),
+    # WJUC 2026 -- subdomain-style base_url, event at the host root (no path
+    # segment). NOT added live: season_id and series ids are only known from
+    # WJUC's own `<season_id>_reference.json`, and this codebase is offline
+    # w.r.t. WFDF's API, so they can't be verified here -- do not guess them.
+    # Uncomment and fill in the real values (marked below) once fetched.
+    #
+    # Also note for whoever adds this: WJUC is a national-teams event, not a
+    # club one, so its division_label must NOT map to Division.Club the way
+    # WUCC's does (see _go_division-style mapping in the Go writer / ingest
+    # contract), and it must not pick up the USAU team-matching fallback --
+    # the Go writer's `fallbackTeamSources` already restricts that to
+    # WUCC/WMUCC, which is correct and should stay that way. Pick a
+    # division_label that resolves to something other than "Other" (an
+    # ingest error, not a silent skip -- see
+    # ultidb/docs/ingest-contract.md §4), e.g. one containing "national team"
+    # / "international" / "world" so it maps to International, not Club.
+    #
+    # WfdfEvent(
+    #     year=2026,
+    #     base_url="https://wjuc.wfdf.sport",
+    #     season_id="TODO_FROM_REFERENCE_JSON",  # e.g. "WJUC2026" -- verify against the real payload
+    #     division_label="World Junior Ultimate Championships",  # must not resolve to Division.Club
+    #     series=[
+    #         # TODO: real series_id/name pairs from WJUC's own
+    #         # <season_id>_reference.json -- do not guess these.
+    #         WfdfSeries(series_id=0, name="TODO"),
+    #     ],
+    #     start_date=date(2026, 1, 1),  # TODO: real dates
+    #     end_date=date(2026, 1, 1),  # TODO: real dates
+    # ),
 ]
 
 

@@ -24,8 +24,6 @@ from sources.wfdf.events import WfdfEvent, events_for_year
 
 log = logging.getLogger(__name__)
 
-DEFAULT_BASE_URL = "https://results.wfdf.sport"
-
 # Seconds to wait between WFDF requests, drawn uniformly at random each time.
 # Roughly 1.5-4s over ~138 requests puts a full season scrape around 4-6
 # minutes, which is unhurried for data that changes at most a few times a day.
@@ -48,16 +46,18 @@ class WfdfSource(Source):
 
     def __init__(
         self,
-        base_url: str = DEFAULT_BASE_URL,
         events: Optional[List[WfdfEvent]] = None,
         *,
         live: bool = False,
         refresh_rosters: bool = False,
     ):
-        self._base_url = base_url.rstrip("/")
         # Overridable so tests can point at a scratch event list without
         # touching the hardcoded WFDF_EVENTS (mirrors ExampleSource's
-        # fixtures_dir override).
+        # fixtures_dir override). Each `WfdfEvent` now carries its own
+        # `base_url`/`data_path` (see sources/wfdf/events.py) -- there is no
+        # source-level base_url override anymore, so there's exactly one
+        # place a given event's URL comes from. Point at a scratch event
+        # list via `events=` if a test needs a different host.
         self._events = events
 
         # `live=True` forces `_reference`/`_games` (pools, scores, game
@@ -98,7 +98,7 @@ class WfdfSource(Source):
             for series in event.series:
                 refs.append(
                     EventRef(
-                        url=f"{self._base_url}/{event.slug}/",
+                        url=event.base_url,
                         name=None,  # the real event name comes from season.name at parse time
                         division=f"{event.division_label} - {series.name}",
                         city=event.city,
@@ -107,7 +107,8 @@ class WfdfSource(Source):
                         start_date=None,
                         end_date=None,
                         extra={
-                            "slug": event.slug,
+                            "base_url": event.base_url,
+                            "data_path": event.data_path,
                             "season_id": event.season_id,
                             "series_id": series.series_id,
                             "series_name": series.name,
@@ -120,13 +121,14 @@ class WfdfSource(Source):
         return f"{ref.extra['season_id']}/{ref.extra['series_name']}"
 
     def fetch_event(self, ref: EventRef, cache: Cache) -> FetchedPages:
-        slug = ref.extra["slug"]
+        base_url = ref.extra["base_url"]
+        data_path = ref.extra["data_path"]
         season_id = ref.extra["season_id"]
         series_id = ref.extra["series_id"]
 
         pages: FetchedPages = {
-            "reference": self._fetch_reference(slug, season_id, cache),
-            "games": self._fetch_games(slug, season_id, cache),
+            "reference": self._fetch_reference(base_url, data_path, season_id, cache),
+            "games": self._fetch_games(base_url, data_path, season_id, cache),
         }
 
         reference = json.loads(pages["reference"].decode("utf-8"))
@@ -146,7 +148,7 @@ class WfdfSource(Source):
         fetched = 0
         for team_id in team_ids:
             key = f"teams:{team_id}"
-            url = self._build_url(slug, season_id, "teams", extra_id=team_id)
+            url = self._build_url(base_url, data_path, season_id, "teams", extra_id=team_id)
             age = cache.age(key)
             if not self.refresh_rosters and age is not None and age <= ROSTER_MAX_AGE_SECONDS:
                 served_from_cache += 1
@@ -222,12 +224,17 @@ class WfdfSource(Source):
 
     # -- internals -------------------------------------------------------
 
-    def _build_url(self, slug: str, season_id: str, resource: str, *, extra_id=None) -> str:
+    def _build_url(
+        self, base_url: str, data_path: str, season_id: str, resource: str, *, extra_id=None
+    ) -> str:
         name = f"{season_id}_{resource}" if extra_id is None else f"{season_id}_{resource}_{extra_id}"
         cache_buster = int(time.time() * 1000)
-        return f"{self._base_url}/{slug}/live/data/{name}.json?cb={cache_buster}"
+        # base_url is already normalised (no trailing slash) by
+        # WfdfEvent.__post_init__, but strip defensively here too since this
+        # also gets called with test-constructed strings.
+        return f"{base_url.rstrip('/')}/{data_path.strip('/')}/{name}.json?cb={cache_buster}"
 
-    def _fetch_reference(self, slug: str, season_id: str, cache: Cache) -> bytes:
+    def _fetch_reference(self, base_url: str, data_path: str, season_id: str, cache: Cache) -> bytes:
         cached = self._reference_bytes.get(season_id)
         if cached is not None:
             # Already fetched for another series in this run -- warm this
@@ -235,19 +242,19 @@ class WfdfSource(Source):
             # refetching over the network.
             cache.put("reference", cached)
             return cached
-        url = self._build_url(slug, season_id, "reference")
+        url = self._build_url(base_url, data_path, season_id, "reference")
         # Always refetch when live (pools/structure change as the
         # tournament progresses); otherwise normal cache behaviour.
         raw = cache.fetch("reference", url, refresh=self.live)
         self._reference_bytes[season_id] = raw
         return raw
 
-    def _fetch_games(self, slug: str, season_id: str, cache: Cache) -> bytes:
+    def _fetch_games(self, base_url: str, data_path: str, season_id: str, cache: Cache) -> bytes:
         cached = self._games_bytes.get(season_id)
         if cached is not None:
             cache.put("games", cached)
             return cached
-        url = self._build_url(slug, season_id, "games")
+        url = self._build_url(base_url, data_path, season_id, "games")
         # Always refetch when live (scores/status change constantly);
         # otherwise normal cache behaviour.
         raw = cache.fetch("games", url, refresh=self.live)
