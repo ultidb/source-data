@@ -39,6 +39,9 @@ scheduler:
   upcoming_interval_hours: 12
   recently_ended_interval_hours: 8
   videos_interval_hours: 24
+  wfdf_ongoing_interval_minutes: 10
+  wfdf_roster_refresh_interval_hours: 12
+  wfdf_upcoming_interval_hours: 12
 
 divisions:
   "College - Men": "Men/CollegeMen/"

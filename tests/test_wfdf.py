@@ -13,6 +13,9 @@ No network is used anywhere in this file: the end-to-end tests use a fake
 from __future__ import annotations
 
 import json
+import os
+import time
+from datetime import date
 from pathlib import Path
 
 import pytest
@@ -23,6 +26,14 @@ from core.emit import write_document
 from core.schema import Document
 from core.serialize import tournament_to_document
 from sources.wfdf import parse
+from sources.wfdf.events import (
+    WfdfEvent,
+    WfdfSeries,
+    events_for_year,
+    ongoing_events,
+    recently_ended_events,
+    upcoming_events,
+)
 from sources.wfdf.source import WfdfSource
 
 YEAR = 2026
@@ -546,3 +557,216 @@ class TestFullPipeline:
         source = WfdfSource()
         refs = source.discover(YEAR)
         assert len(refs) == 3
+
+
+# ---------------------------------------------------------------------------
+# ongoing_events / upcoming_events / recently_ended_events (sources/wfdf/events.py)
+# ---------------------------------------------------------------------------
+
+
+class TestEventWindowQueries:
+    EVENT = WfdfEvent(
+        year=2026,
+        slug="wucc-2026",
+        season_id="WUCC2026",
+        division_label="World Ultimate Club Championships",
+        series=[WfdfSeries(series_id=1001, name="Mixed")],
+        start_date=date(2026, 8, 15),
+        end_date=date(2026, 8, 22),
+    )
+
+    def test_ongoing_start_boundary_inclusive(self):
+        assert ongoing_events([self.EVENT], today=date(2026, 8, 15)) == [self.EVENT]
+
+    def test_ongoing_end_boundary_inclusive(self):
+        assert ongoing_events([self.EVENT], today=date(2026, 8, 22)) == [self.EVENT]
+
+    def test_ongoing_mid_event(self):
+        assert ongoing_events([self.EVENT], today=date(2026, 8, 18)) == [self.EVENT]
+
+    def test_not_ongoing_before_start(self):
+        assert ongoing_events([self.EVENT], today=date(2026, 8, 14)) == []
+
+    def test_not_ongoing_after_end(self):
+        assert ongoing_events([self.EVENT], today=date(2026, 8, 23)) == []
+
+    def test_upcoming_within_horizon_inclusive_boundary(self):
+        # start_date - 10 days == today is the far edge of the default
+        # within_days=10 horizon and must still count.
+        assert upcoming_events([self.EVENT], today=date(2026, 8, 5), within_days=10) == [self.EVENT]
+
+    def test_upcoming_excludes_today_equals_start(self):
+        # An event starting today is ongoing, not upcoming.
+        assert upcoming_events([self.EVENT], today=date(2026, 8, 15)) == []
+
+    def test_upcoming_excludes_beyond_horizon(self):
+        assert upcoming_events([self.EVENT], today=date(2026, 8, 4), within_days=10) == []
+
+    def test_recently_ended_boundary_inclusive(self):
+        assert recently_ended_events([self.EVENT], today=date(2026, 8, 25), within_days=3) == [self.EVENT]
+
+    def test_recently_ended_excludes_today_equals_end(self):
+        # An event ending today is ongoing, not recently ended.
+        assert recently_ended_events([self.EVENT], today=date(2026, 8, 22), within_days=3) == []
+
+    def test_recently_ended_excludes_beyond_window(self):
+        assert recently_ended_events([self.EVENT], today=date(2026, 8, 26), within_days=3) == []
+
+    def test_events_without_dates_are_excluded_everywhere(self):
+        dateless = WfdfEvent(
+            year=2026, slug="x", season_id="X", division_label="X",
+        )
+        assert ongoing_events([dateless], today=date(2026, 8, 18)) == []
+        assert upcoming_events([dateless], today=date(2026, 8, 5)) == []
+        assert recently_ended_events([dateless], today=date(2026, 8, 25)) == []
+
+    def test_defaults_to_hardcoded_wfdf_events_when_none_given(self):
+        # No `events=` override -- must read WFDF_EVENTS (proves default
+        # wiring, not just the injected-list path).
+        assert ongoing_events(today=date(2026, 8, 18)) == events_for_year(2026)
+
+
+# ---------------------------------------------------------------------------
+# Live fetch policy: reference/games always refetch when live; rosters are
+# served from cache unless stale or refresh_rosters forces it. This is the
+# headline behaviour of the WFDF source task -- rosters are ~136 of ~138
+# requests per event, and must not be refetched on every 10-minute
+# "ongoing" run the way reference/games are.
+# ---------------------------------------------------------------------------
+
+
+class _CountingFixtureTransport:
+    """Wraps `_fixture_transport` and records every URL it's asked to
+    fetch, split out by resource so tests can assert exact call counts per
+    page type without a real network."""
+
+    def __init__(self):
+        self.calls: list[str] = []
+
+    def __call__(self, url: str) -> bytes:
+        self.calls.append(url)
+        return _fixture_transport(url)
+
+    @property
+    def reference_calls(self):
+        return [u for u in self.calls if "_reference" in u]
+
+    @property
+    def games_calls(self):
+        return [u for u in self.calls if "_games" in u]
+
+    @property
+    def roster_calls(self):
+        return [u for u in self.calls if "_teams_" in u]
+
+
+def _team_ids_for_series(series_id: int):
+    return sorted({t["team_id"] for t in REFERENCE.get("teams", []) if t.get("series") == series_id})
+
+
+def _team_id_from_roster_url(url: str) -> int:
+    # e.g. ".../live/data/WUCC2026_teams_1019.json?cb=1234567890" -> 1019
+    suffix = url.split("_teams_", 1)[1]
+    return int(suffix.split(".json", 1)[0])
+
+
+class TestLiveFetchPolicy:
+    SERIES_ID = SERIES_WOMENS  # smallest team count (40) among the 3 series
+
+    def test_live_with_warm_roster_cache_fetches_only_reference_and_games(self, tmp_path):
+        transport = _CountingFixtureTransport()
+        source = WfdfSource(live=True)
+        ref = next(r for r in source.discover(YEAR) if r.extra["series_id"] == self.SERIES_ID)
+        key = source.event_key(ref)
+        cache = FileCache("wfdf", YEAR, key, transport, base_dir=tmp_path)
+
+        # Pre-warm every roster page for this series -- fresh (just written).
+        for team_id in _team_ids_for_series(self.SERIES_ID):
+            cache.put(f"teams:{team_id}", b'{"players": []}')
+
+        pages = source.fetch_event(ref, cache)
+
+        assert len(transport.reference_calls) == 1
+        assert len(transport.games_calls) == 1
+        assert transport.roster_calls == []
+        assert len(transport.calls) == 2
+        # fetch_event still returns every roster page (served from cache).
+        assert all(f"teams:{tid}" in pages for tid in _team_ids_for_series(self.SERIES_ID))
+
+    def test_refresh_rosters_true_fetches_every_roster_even_if_fresh(self, tmp_path):
+        transport = _CountingFixtureTransport()
+        source = WfdfSource(live=True, refresh_rosters=True)
+        ref = next(r for r in source.discover(YEAR) if r.extra["series_id"] == self.SERIES_ID)
+        key = source.event_key(ref)
+        cache = FileCache("wfdf", YEAR, key, transport, base_dir=tmp_path)
+
+        team_ids = _team_ids_for_series(self.SERIES_ID)
+        for team_id in team_ids:
+            cache.put(f"teams:{team_id}", b'{"players": []}')  # fresh
+
+        source.fetch_event(ref, cache)
+
+        assert len(transport.roster_calls) == len(team_ids)
+
+    def test_stale_roster_entries_are_refetched_fresh_ones_are_not(self, tmp_path, monkeypatch):
+        import sources.wfdf.source as wfdf_source_module
+
+        monkeypatch.setattr(wfdf_source_module, "ROSTER_MAX_AGE_SECONDS", 100)
+
+        transport = _CountingFixtureTransport()
+        source = WfdfSource(live=True)
+        ref = next(r for r in source.discover(YEAR) if r.extra["series_id"] == self.SERIES_ID)
+        key = source.event_key(ref)
+        cache = FileCache("wfdf", YEAR, key, transport, base_dir=tmp_path)
+
+        team_ids = _team_ids_for_series(self.SERIES_ID)
+        stale_ids = set(team_ids[:5])
+        fresh_ids = set(team_ids[5:])
+
+        now = time.time()
+        for team_id in team_ids:
+            cache.put(f"teams:{team_id}", b'{"players": []}')
+            path = cache._path_for(f"teams:{team_id}")
+            if team_id in stale_ids:
+                os.utime(path, (now - 200, now - 200))  # older than the 100s TTL
+            # fresh_ids left at "just written" mtime.
+
+        source.fetch_event(ref, cache)
+
+        fetched_team_ids = {_team_id_from_roster_url(u) for u in transport.roster_calls}
+        assert fetched_team_ids == stale_ids
+
+    def test_not_live_uses_normal_cache_behaviour_for_reference_and_games(self, tmp_path):
+        # live=False (the default) -- a warm reference/games cache must be
+        # served without hitting the network at all.
+        transport = _CountingFixtureTransport()
+        source = WfdfSource(live=False)
+        ref = next(r for r in source.discover(YEAR) if r.extra["series_id"] == self.SERIES_ID)
+        key = source.event_key(ref)
+        cache = FileCache("wfdf", YEAR, key, transport, base_dir=tmp_path)
+        cache.put("reference", REFERENCE_BYTES)
+        cache.put("games", GAMES_BYTES)
+        for team_id in _team_ids_for_series(self.SERIES_ID):
+            cache.put(f"teams:{team_id}", b'{"players": []}')
+
+        source.fetch_event(ref, cache)
+
+        assert transport.reference_calls == []
+        assert transport.games_calls == []
+        assert transport.roster_calls == []
+
+
+class TestThreeSeriesMemoizationUnderLive:
+    def test_reference_and_games_fetched_once_across_all_three_series(self, tmp_path):
+        transport = _CountingFixtureTransport()
+        source = WfdfSource(live=True)
+        refs = source.discover(YEAR)
+        assert len(refs) == 3
+
+        for ref in refs:
+            key = source.event_key(ref)
+            cache = FileCache("wfdf", YEAR, key, transport, base_dir=tmp_path)
+            source.fetch_event(ref, cache)
+
+        assert len(transport.reference_calls) == 1
+        assert len(transport.games_calls) == 1

@@ -35,16 +35,38 @@ REQUEST_DELAY_RANGE = (
     float(os.environ.get("WFDF_DELAY_MAX", "4.0")),
 )
 
+# How long a cached roster page is considered fresh, in seconds. Rosters
+# barely change once a tournament starts -- unlike `_reference`/`_games`
+# (pools, scores, structure), which are refetched on every live run -- so
+# they're served from cache until they age past this TTL. Override with
+# WFDF_ROSTER_MAX_AGE_SECONDS.
+ROSTER_MAX_AGE_SECONDS = float(os.environ.get("WFDF_ROSTER_MAX_AGE_SECONDS", str(12 * 60 * 60)))
+
 
 class WfdfSource(Source):
     id = "wfdf"
 
-    def __init__(self, base_url: str = DEFAULT_BASE_URL, events: Optional[List[WfdfEvent]] = None):
+    def __init__(
+        self,
+        base_url: str = DEFAULT_BASE_URL,
+        events: Optional[List[WfdfEvent]] = None,
+        *,
+        live: bool = False,
+        refresh_rosters: bool = False,
+    ):
         self._base_url = base_url.rstrip("/")
         # Overridable so tests can point at a scratch event list without
         # touching the hardcoded WFDF_EVENTS (mirrors ExampleSource's
         # fixtures_dir override).
         self._events = events
+
+        # `live=True` forces `_reference`/`_games` (pools, scores, game
+        # status -- the stuff that changes as a tournament progresses) to
+        # always be refetched. `refresh_rosters=True` additionally bypasses
+        # the roster TTL below, forcing every roster page to be refetched
+        # too. See the WFDF source task for the USAU-mirroring rationale.
+        self.live = live
+        self.refresh_rosters = refresh_rosters
 
         # In-process memoization for one scrape run: `_reference` and
         # `_games` are identical across all 3 series of one season and would
@@ -111,13 +133,33 @@ class WfdfSource(Source):
         team_ids = sorted(
             {t["team_id"] for t in reference.get("teams", []) if t.get("series") == series_id}
         )
+
+        # Rosters are the ~136-of-138 majority of a season's requests and
+        # barely change once a tournament starts, so they're served from
+        # cache unless stale (or refresh_rosters forces it) -- unlike
+        # reference/games above, which always refetch when live. This
+        # split (and not a second scheduled job kept in sync with the
+        # first) is what makes "refresh rosters every N hours" work: it
+        # falls out of the cache TTL itself. Tallied and logged below since
+        # that count is the whole point of this split.
+        served_from_cache = 0
+        fetched = 0
         for team_id in team_ids:
             key = f"teams:{team_id}"
             url = self._build_url(slug, season_id, "teams", extra_id=team_id)
-            # No response caching (per the WFDF source task): always hit the
-            # network with a fresh cache-buster; still archive the bytes via
-            # `cache.put` (done inside `cache.fetch`) for later inspection.
-            pages[key] = cache.fetch(key, url, refresh=True)
+            age = cache.age(key)
+            if not self.refresh_rosters and age is not None and age <= ROSTER_MAX_AGE_SECONDS:
+                served_from_cache += 1
+            else:
+                fetched += 1
+            pages[key] = cache.fetch(
+                key, url, refresh=self.refresh_rosters, max_age=ROSTER_MAX_AGE_SECONDS
+            )
+
+        log.info(
+            "wfdf: %s/%s -- rosters: %d served from cache, %d fetched",
+            season_id, ref.extra.get("series_name", ""), served_from_cache, fetched,
+        )
 
         return pages
 
@@ -194,7 +236,9 @@ class WfdfSource(Source):
             cache.put("reference", cached)
             return cached
         url = self._build_url(slug, season_id, "reference")
-        raw = cache.fetch("reference", url, refresh=True)
+        # Always refetch when live (pools/structure change as the
+        # tournament progresses); otherwise normal cache behaviour.
+        raw = cache.fetch("reference", url, refresh=self.live)
         self._reference_bytes[season_id] = raw
         return raw
 
@@ -204,6 +248,8 @@ class WfdfSource(Source):
             cache.put("games", cached)
             return cached
         url = self._build_url(slug, season_id, "games")
-        raw = cache.fetch("games", url, refresh=True)
+        # Always refetch when live (scores/status change constantly);
+        # otherwise normal cache behaviour.
+        raw = cache.fetch("games", url, refresh=self.live)
         self._games_bytes[season_id] = raw
         return raw

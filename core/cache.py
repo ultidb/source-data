@@ -9,6 +9,7 @@ with a fake transport and no network access.
 from __future__ import annotations
 
 import re
+import time
 from pathlib import Path
 from typing import Callable, Optional
 
@@ -62,11 +63,27 @@ class FileCache:
         path.parent.mkdir(parents=True, exist_ok=True)
         path.write_bytes(content)
 
-    def fetch(self, key: str, url: str, *, refresh: bool = False) -> bytes:
+    def age(self, key: str) -> Optional[float]:
+        """Seconds since `key` was last written, or None if there is no
+        cached entry."""
+        path = self._path_for(key)
+        if not path.exists():
+            return None
+        return time.time() - path.stat().st_mtime
+
+    def fetch(
+        self, key: str, url: str, *, refresh: bool = False, max_age: Optional[float] = None
+    ) -> bytes:
+        """Serve `key` from cache unless `refresh` is set or the cached
+        entry is older than `max_age` seconds (None means "no staleness
+        limit" -- any cached entry is fresh enough, matching the pre-TTL
+        behaviour)."""
         if not refresh:
-            cached = self.get(key)
-            if cached is not None:
-                return cached
+            age = self.age(key)
+            if age is not None and (max_age is None or age <= max_age):
+                cached = self.get(key)
+                if cached is not None:
+                    return cached
 
         content = self._transport(url)
         self.put(key, content)

@@ -43,8 +43,15 @@ class SchedulerConfig(BaseModel):
     ongoing_interval_minutes: int = 10
     ongoing_team_refresh_interval_hours: int = 12
     upcoming_interval_hours: int = 12
-    recently_ended_interval_hours: int = 8 
+    recently_ended_interval_hours: int = 8
     videos_interval_hours: int = 24
+    # WFDF equivalents of the USAU intervals above (see the WFDF source
+    # task: reference/games refetch on the "ongoing" cadence, rosters on
+    # the slower "roster refresh" cadence -- same shape as USAU's
+    # ongoing_interval_minutes / ongoing_team_refresh_interval_hours).
+    wfdf_ongoing_interval_minutes: int = 10
+    wfdf_roster_refresh_interval_hours: int = 12
+    wfdf_upcoming_interval_hours: int = 12
 
 
 class Config(BaseModel):

@@ -77,6 +77,17 @@ def scrape():
     default=None,
     help="Ingest API base URL for --post (default: API_URL from .env). Matches `post-documents`.",
 )
+@click.option(
+    "--live",
+    is_flag=True,
+    help="WFDF only: force a refetch of live-changing pages (reference/games -- pools, scores, "
+    "structure). Roster pages still honour their cache TTL unless --refresh-rosters is also given.",
+)
+@click.option(
+    "--refresh-rosters",
+    is_flag=True,
+    help="WFDF only: also force a refetch of every roster page, bypassing their cache TTL.",
+)
 @click.option("--debug", is_flag=True, help="Enable debug logging")
 def scrape_year_cmd(
     year: int,
@@ -87,12 +98,18 @@ def scrape_year_cmd(
     post: bool,
     out_dir: str,
     api_url: str,
+    live: bool,
+    refresh_rosters: bool,
     debug: bool,
 ):
     """Scrape all tournaments for a given year."""
     setup_logging(debug)
 
     if source == "usau":
+        if live or refresh_rosters:
+            raise click.UsageError(
+                "--live/--refresh-rosters are WFDF-specific; not supported for --source=usau"
+            )
         # USAU is not ported yet (Phase 3) -- keep delegating to today's
         # existing CSV scrape code path unchanged. See the --source help text.
         from scrape import ScrapeOptions, scrapeCurrentYear
@@ -102,65 +119,64 @@ def scrape_year_cmd(
         scrapeCurrentYear(config)
         return
 
-    _scrape_year_with_source(source, year, post=post, out_dir=out_dir, api_url=api_url)
+    _scrape_year_with_source(
+        source, year, post=post, out_dir=out_dir, api_url=api_url,
+        live=live, refresh_rosters=refresh_rosters,
+    )
 
 
 def _scrape_year_with_source(
-    source_id: str, year: int, *, post: bool, out_dir: str, api_url: str = None
+    source_id: str,
+    year: int,
+    *,
+    post: bool,
+    out_dir: str,
+    api_url: str = None,
+    live: bool = False,
+    refresh_rosters: bool = False,
 ):
-    """Drive a registry-backed (non-usau) Source through the full pipeline:
-    discover -> fetch_event -> parse_event -> tournament_to_document ->
-    write_document, optionally POSTing the results."""
+    """Drive a registry-backed (non-usau) Source through the shared
+    core.pipeline.run_pipeline: discover -> fetch_event -> parse_event ->
+    tournament_to_document -> write_document, optionally POSTing the
+    results. app.py's WFDF scheduler jobs call the same run_pipeline
+    function over a specific event subset -- see core/pipeline.py."""
     import sources  # noqa: F401  (import side effect: registers every known source)
-    from core.cache import FileCache
+    from core.pipeline import run_pipeline
     from core.registry import get_source
-    from core.emit import write_document
-    from core.serialize import tournament_to_document
 
-    src = get_source(source_id)
-    refs = src.discover(year)
-    log.info(f"discovered {len(refs)} event(s) for source={source_id} year={year}")
-
-    # One transport for the whole run: request pacing is stateful, so building
-    # a fresh one per event would reset the throttle between events.
-    transport = src.make_transport()
-
-    documents = []
-    for ref in refs:
-        key = src.event_key(ref)
-        cache = FileCache(source_id, year, key, transport)
-        pages = src.fetch_event(ref, cache)
-        tournament = src.parse_event(pages, ref, year)
-        if tournament is None:
-            log.warning(f"parse_event returned None for {ref.url!r}, skipping")
-            continue
-
-        doc = tournament_to_document(
-            tournament, source=source_id, source_event_id=key, source_url=ref.url
+    if (live or refresh_rosters) and source_id != "wfdf":
+        raise click.UsageError(
+            f"--live/--refresh-rosters are WFDF-specific (source={source_id!r} doesn't take them)"
         )
-        path = write_document(doc, base_dir=Path(out_dir) if out_dir else None)
-        log.info(f"wrote {path}")
-        documents.append(doc)
 
-    log.info(f"scraped {len(documents)} document(s) for source={source_id} year={year}")
+    if source_id == "wfdf":
+        # Build a fresh instance rather than mutating the shared registry
+        # singleton get_source() would return -- see WfdfSource's live /
+        # refresh_rosters constructor args (WFDF source task).
+        from sources.wfdf.source import WfdfSource
 
+        src = WfdfSource(live=live, refresh_rosters=refresh_rosters)
+    else:
+        src = get_source(source_id)
+
+    resolved_api_url = None
+    ingest_token = None
     if post:
-        import os
-
-        from core.ingest_client import post_documents
-
         secrets = get_secrets()
         resolved_api_url = api_url or secrets.api_url
         if not resolved_api_url:
             raise click.UsageError("no API URL: pass --api-url or set API_URL in .env")
+        ingest_token = secrets.ingest_token
 
-        result = post_documents(
-            documents,
-            source=source_id,
-            api_url=resolved_api_url,
-            token=secrets.ingest_token,
-        )
-        log.info(f"posted {len(documents)} document(s): {result}")
+    documents = run_pipeline(
+        src,
+        year,
+        out_dir=Path(out_dir) if out_dir else None,
+        post=post,
+        api_url=resolved_api_url,
+        ingest_token=ingest_token,
+    )
+    log.info(f"scraped {len(documents)} document(s) for source={source_id} year={year}")
 
 
 @scrape.command("tournament")
