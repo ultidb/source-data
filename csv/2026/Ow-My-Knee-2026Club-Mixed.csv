@@ -55,29 +55,6 @@ teamInfo,,"Somerville, Massachusetts",https://www.rainbowultimate.com,https://ww
 37,Jack Werst
 77,Ryan Santos
 b,r,e,a,k
-Buffalo Brain Freeze,16
-teamInfo,,"Buffalo, New York",https://www.instagram.com/brainfreezeultimate,,https://twitter.com/BuffBrainFreeze?s=09
-1,Jeffrey Harvey
-2,Paul Sperr
-3,Isaiah Welch
-5,Lea Kyle
-6,Hannah Wilcox
-8,Amber Woelfel
-9,Nick Wong
-10,Keegan O’Neill
-12,Micaela Aylward-Pigott
-17,Daniel Galvin
-19,James Erb
-20,Dakota Cross
-21,Laura Holt
-22,Jessica Losel
-23,Emilee Nelson
-24,Timothy Flickinger
-25,Joe  Bachraty
-26,Jessie Chiello
-33,Jocelyn Estabrook
-38,Matthew Cherwonik
-b,r,e,a,k
 Brooklyn Hive,9
 teamInfo,,"New York, New York",https://www.instagram.com/brooklyn_hive_ultimate/,,
 0,Andy Shi
@@ -104,6 +81,29 @@ teamInfo,,"New York, New York",https://www.instagram.com/brooklyn_hive_ultimate/
 34,Alex Schlegel
 55,Jeremy Doll
 91,Anna-Maria Chedia
+b,r,e,a,k
+Buffalo Brain Freeze,16
+teamInfo,,"Buffalo, New York",https://www.instagram.com/brainfreezeultimate,,https://twitter.com/BuffBrainFreeze?s=09
+1,Jeffrey Harvey
+2,Paul Sperr
+3,Isaiah Welch
+5,Lea Kyle
+6,Hannah Wilcox
+8,Amber Woelfel
+9,Nick Wong
+10,Keegan O’Neill
+12,Micaela Aylward-Pigott
+17,Daniel Galvin
+19,James Erb
+20,Dakota Cross
+21,Laura Holt
+22,Jessica Losel
+23,Emilee Nelson
+24,Timothy Flickinger
+25,Joe  Bachraty
+26,Jessie Chiello
+33,Jocelyn Estabrook
+38,Matthew Cherwonik
 b,r,e,a,k
 Quahogs,2
 teamInfo,,"Providence, Rhode Island",,,
@@ -272,6 +272,29 @@ teamInfo,,"Newburgh, New York",,https://www.facebook.com/HudsonValleyFunk/,https
 47,Lucas Murphy
 62,Wes Collins
 b,r,e,a,k
+Kappa,14
+teamInfo,,"Toronto, Ontario CA",,,
+0,Athena Gonzales
+0,Benny Gyorke-Wong
+0,Darren Tang
+0,Emily Thresher
+0,Brandon Chong
+0,Jenny Ly
+0,Eugene Hong
+0,Justin Liu
+0,Jason Le
+0,Emily Chong
+0,Kate Thresher
+0,Joan Hu
+0,Terry Luk
+0,Rosario Wong
+0,Russell Ijaya
+0,Merinda Yu
+0,Sam Loveys
+6,Sushaan Patel
+10,Caleb Lee
+15,Ivan Huynh
+b,r,e,a,k
 Garbage Pla(C)e,11
 teamInfo,C,"ROCHESTER, New York",,,
 0,Anissa Elahi
@@ -299,29 +322,6 @@ teamInfo,C,"ROCHESTER, New York",,,
 33,Ana Bauroth
 69,Wilson Gardner
 87,Thomas Benati
-b,r,e,a,k
-Kappa,14
-teamInfo,,"Toronto, Ontario CA",,,
-0,Athena Gonzales
-0,Benny Gyorke-Wong
-0,Darren Tang
-0,Emily Thresher
-0,Brandon Chong
-0,Jenny Ly
-0,Eugene Hong
-0,Justin Liu
-0,Jason Le
-0,Emily Chong
-0,Kate Thresher
-0,Joan Hu
-0,Terry Luk
-0,Rosario Wong
-0,Russell Ijaya
-0,Merinda Yu
-0,Sam Loveys
-6,Sushaan Patel
-10,Caleb Lee
-15,Ivan Huynh
 b,r,e,a,k
 Lampshade,4
 teamInfo,,"Cambridge, Massachusetts",,,
@@ -430,7 +430,7 @@ pools,Pool Play
 pool,Pool A
 Bench,Brooklyn Hive,13,4,"08/22/2026, 09:00",Pool A,Final
 Rainbow,Buffalo Brain Freeze,0,0,"08/22/2026, 09:00",Pool A,Scheduled
-Bench,Buffalo Brain Freeze,0,0,"08/22/2026, 10:45",Pool A,Scheduled
+Bench,Buffalo Brain Freeze,13,3,"08/22/2026, 10:45",Pool A,Final
 Rainbow,Brooklyn Hive,0,0,"08/22/2026, 10:45",Pool A,Scheduled
 Bench,Rainbow,0,0,"08/22/2026, 12:30",Pool A,Scheduled
 Brooklyn Hive,Buffalo Brain Freeze,0,0,"08/22/2026, 14:15",Pool A,Scheduled
@@ -445,7 +445,7 @@ pool,Pool C
 Funk,Garbage Pla(C)e,13,8,"08/22/2026, 09:00",Pool C,Final
 Axolotls,Kappa,13,6,"08/22/2026, 09:00",Pool C,Final
 Funk,Kappa,0,0,"08/22/2026, 10:45",Pool C,Scheduled
-Axolotls,Garbage Pla(C)e,0,0,"08/22/2026, 10:45",Pool C,Scheduled
+Axolotls,Garbage Pla(C)e,13,7,"08/22/2026, 10:45",Pool C,Final
 Funk,Axolotls,0,0,"08/22/2026, 12:30",Pool C,Scheduled
 Garbage Pla(C)e,Kappa,0,0,"08/22/2026, 14:15",Pool C,Scheduled
 pool,Pool D
