@@ -160,32 +160,6 @@ teamInfo,,"Long Island, New York",https://discny.org/t/fli-1,https://www.faceboo
 67,May Patino
 69,Matthew Bartsch
 b,r,e,a,k
-Domino Effect,15
-teamInfo,,"New York, New York",https://www.instagram.com/dominoeffect_ultimate,,
-0,Bryan Frumkin
-0,Amber Kline
-0,Jack Monness
-0,Ella Sherman
-0,Joshua Zinger
-0,Jeremy Moles
-0,Ashley Wong
-0,Jack Wilson
-0,Jed Higdon
-0,Sara Allen
-0,Martina Irurita
-0,Sofia Taylor
-0,Wynnter Millsaps
-0,Mariah Szabo
-0,Leonid Zubarev
-9,Aidan Gold
-03,Justin Tsang
-18,Albert Rosario-Pichardo
-19,Sophie Krichevsky
-43,Dan McManus
-55,Jason Hughes
-96,Mia Ryan
-98,Grainne Casey
-b,r,e,a,k
 Mashed,10
 teamInfo,,"Syracuse, New York",,,
 0,Adam Rigdon
@@ -214,6 +188,32 @@ teamInfo,,"Syracuse, New York",,,
 34,Thomas Buckley
 47,Martin Sak
 69,Joey Marzocchi
+b,r,e,a,k
+Domino Effect,15
+teamInfo,,"New York, New York",https://www.instagram.com/dominoeffect_ultimate,,
+0,Bryan Frumkin
+0,Amber Kline
+0,Jack Monness
+0,Ella Sherman
+0,Joshua Zinger
+0,Jeremy Moles
+0,Ashley Wong
+0,Jack Wilson
+0,Jed Higdon
+0,Sara Allen
+0,Martina Irurita
+0,Sofia Taylor
+0,Wynnter Millsaps
+0,Mariah Szabo
+0,Leonid Zubarev
+9,Aidan Gold
+03,Justin Tsang
+18,Albert Rosario-Pichardo
+19,Sophie Krichevsky
+43,Dan McManus
+55,Jason Hughes
+96,Mia Ryan
+98,Grainne Casey
 b,r,e,a,k
 Axolotls,6
 teamInfo,,"New Jersey, New Jersey",https://www.instagram.com/theaxolotlsultimate/,,
@@ -377,25 +377,6 @@ teamInfo,,"New York, New York",,https://www.facebook.com/swipesultimate/,
 69,David Wingate
 73,Alex Baroody
 b,r,e,a,k
-Philly Twist,13
-teamInfo,,"Philadelphia, Pennsylvania",,https://www.facebook.com/TwistUltimate/,https://twitter.com/philly_twist
-0,Barrett Doering
-0,Chor In Lam
-0,Janelle Gerardi
-0,Katie Masell
-0,Zachary Jacobs
-0,Rebecca Shustack
-4,Brian  Murphy
-4,Emily Gallagher
-5,Emma Finucane
-7,Ben Fournier
-15,Hunter Fu
-21,Mia Kripke
-27,James Leonard
-42,Julia Terrell
-56,Lauren Feder
-75,Abraham Schroeder
-b,r,e,a,k
 Crucible,12
 teamInfo,,"Pittsburgh, Pennsylvania",,,http://@pghcrucible
 0,Abby Scheinberg
@@ -425,6 +406,25 @@ teamInfo,,"Pittsburgh, Pennsylvania",,,http://@pghcrucible
 80,Jay Walker
 91,Jeremy Kanter
 b,r,e,a,k
+Philly Twist,13
+teamInfo,,"Philadelphia, Pennsylvania",,https://www.facebook.com/TwistUltimate/,https://twitter.com/philly_twist
+0,Barrett Doering
+0,Chor In Lam
+0,Janelle Gerardi
+0,Katie Masell
+0,Zachary Jacobs
+0,Rebecca Shustack
+4,Brian  Murphy
+4,Emily Gallagher
+5,Emma Finucane
+7,Ben Fournier
+15,Hunter Fu
+21,Mia Kripke
+27,James Leonard
+42,Julia Terrell
+56,Lauren Feder
+75,Abraham Schroeder
+b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
@@ -432,12 +432,12 @@ Bench,Brooklyn Hive,13,4,"08/22/2026, 09:00",Pool A,Final
 Rainbow,Buffalo Brain Freeze,11,13,"08/22/2026, 09:00",Pool A,Final
 Bench,Buffalo Brain Freeze,13,3,"08/22/2026, 10:45",Pool A,Final
 Rainbow,Brooklyn Hive,8,12,"08/22/2026, 10:45",Pool A,Final
-Bench,Rainbow,0,0,"08/22/2026, 12:30",Pool A,Scheduled
+Bench,Rainbow,13,4,"08/22/2026, 12:30",Pool A,Final
 Brooklyn Hive,Buffalo Brain Freeze,0,0,"08/22/2026, 14:15",Pool A,Scheduled
 pool,Pool B
 Quahogs,Mashed,13,10,"08/22/2026, 09:00",Pool B,Final
 FLI,Domino Effect,0,0,"08/22/2026, 10:45",Pool B,Scheduled
-Quahogs,Domino Effect,0,0,"08/22/2026, 12:30",Pool B,Scheduled
+Quahogs,Domino Effect,13,1,"08/22/2026, 12:30",Pool B,Final
 FLI,Mashed,0,0,"08/22/2026, 12:30",Pool B,Scheduled
 Quahogs,FLI,0,0,"08/22/2026, 14:15",Pool B,Scheduled
 Mashed,Domino Effect,0,0,"08/22/2026, 14:15",Pool B,Scheduled
@@ -451,7 +451,7 @@ Garbage Pla(C)e,Kappa,0,0,"08/22/2026, 14:15",Pool C,Scheduled
 pool,Pool D
 Lampshade,Crucible,13,9,"08/22/2026, 09:00",Pool D,Final
 NY Swipes,Philly Twist,0,0,"08/22/2026, 10:45",Pool D,Scheduled
-Lampshade,Philly Twist,0,0,"08/22/2026, 12:30",Pool D,Scheduled
+Lampshade,Philly Twist,13,6,"08/22/2026, 12:30",Pool D,Final
 NY Swipes,Crucible,0,0,"08/22/2026, 12:30",Pool D,Scheduled
 Lampshade,NY Swipes,0,0,"08/22/2026, 14:15",Pool D,Scheduled
 Crucible,Philly Twist,0,0,"08/22/2026, 14:15",Pool D,Scheduled
