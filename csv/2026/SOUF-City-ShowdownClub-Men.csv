@@ -30,28 +30,6 @@ teamInfo,,"Seattle , Washington",,,
 63,Victor Ramirez
 77,Austin Hasbrook
 b,r,e,a,k
-Blackfish,5
-teamInfo,,"Vancouver, British Columbia CA",,,
-0,Erez Kassirer
-0,Graeme Hanks
-0,Gavin Tang
-0,Justin Rao
-0,Logan Huttunen
-0,Leven Saunders
-0,Ryan Mak
-0,Kirby Clawson-Honeyman
-0,Jomari Nicolas
-0,Silas Huizinga
-0,Wallace Chan
-1,Kevin Nguyen
-6,Aaron Klymasz- Swartz
-10,Mu Han Li
-15,Shintaro Tsukamoto
-19,Tasman Millen
-19,Ryan Wong
-27,Eddy Zhou
-38,Callum Neave
-b,r,e,a,k
 Portland TremOR,4
 teamInfo,,"Portland, Oregon",,,
 0,David Pearce
@@ -77,6 +55,28 @@ teamInfo,,"Portland, Oregon",,,
 51,Charlie DeKlotz
 67,Matt Rix
 81,Ryan Wolfe
+b,r,e,a,k
+Blackfish,5
+teamInfo,,"Vancouver, British Columbia CA",,,
+0,Erez Kassirer
+0,Graeme Hanks
+0,Gavin Tang
+0,Justin Rao
+0,Logan Huttunen
+0,Leven Saunders
+0,Ryan Mak
+0,Kirby Clawson-Honeyman
+0,Jomari Nicolas
+0,Silas Huizinga
+0,Wallace Chan
+1,Kevin Nguyen
+6,Aaron Klymasz- Swartz
+10,Mu Han Li
+15,Shintaro Tsukamoto
+19,Tasman Millen
+19,Ryan Wong
+27,Eddy Zhou
+38,Callum Neave
 b,r,e,a,k
 Heartbreak,8
 teamInfo,,"Spokane, Washington",,https://www.facebook.com/Heartbreakultimate,
@@ -149,6 +149,29 @@ teamInfo,,"Seattle, Washington",https://switchbackultimate.com/,,https://twitter
 60,Kushal Khangaonkar
 71,Sahaj Olivar
 b,r,e,a,k
+Grudge,3
+teamInfo,,"Seattle, Washington",,,
+0,Colin Bogar
+2,Sasha Hoke
+00,Brijesh Berrington
+03,Andrew Pottinger
+10,Michael Bartell
+11,Samuel Zhou
+11,Lucas Terzic
+12,Ty  Rosenberg
+14,Jacob Helfrich
+15,Denny Beaumon
+16,Emanuel Berson
+18,Chris Roach
+20,Calvin Dodge
+21,Sarang Mittal
+28,Axel Olson
+36,Kamal Raslan
+48,Jack Lawson
+50,Graham Whealan
+74,Ethan Kelley
+88,Hayden Zaske
+b,r,e,a,k
 Junco,6
 teamInfo,,"Portland, Oregon",https://www.instagram.com/portlandjunco/,,https://x.com/flocked_in
 0,Aiden Hsu
@@ -175,49 +198,6 @@ teamInfo,,"Portland, Oregon",https://www.instagram.com/portlandjunco/,,https://x
 32,Hal Robinson
 77,Andy Sazima
 91,Little Dipper
-b,r,e,a,k
-Grudge,3
-teamInfo,,"Seattle, Washington",,,
-0,Colin Bogar
-2,Sasha Hoke
-00,Brijesh Berrington
-03,Andrew Pottinger
-10,Michael Bartell
-11,Samuel Zhou
-11,Lucas Terzic
-12,Ty  Rosenberg
-14,Jacob Helfrich
-15,Denny Beaumon
-16,Emanuel Berson
-18,Chris Roach
-20,Calvin Dodge
-21,Sarang Mittal
-28,Axel Olson
-36,Kamal Raslan
-48,Jack Lawson
-50,Graham Whealan
-74,Ethan Kelley
-88,Hayden Zaske
-b,r,e,a,k
-Seven Gills,7
-teamInfo,,"Seattle, Washington",,,
-0,Arni Hoang
-0,Daniel Johnson
-0,Henry Karnan
-0,Sean Killilea
-0,Jaimen Grove
-0,Noah Magallanes
-0,Nainoa Ohata
-0,Slava Trifonov
-0,Tyler Watkins
-0,Siddharth Ghali
-7,Jacob Mulugeta
-9,Nicholas Wyatt
-13,Niko Butt
-16,Julian Jay
-34,Jarrett Arakaki
-35,Dylan Singh
-63,Alex Becker
 b,r,e,a,k
 AVE,10
 teamInfo,,"Seattle, Washington",,,
@@ -247,13 +227,33 @@ teamInfo,,"Seattle, Washington",,,
 28,Josue Ostos
 99,David Isom
 b,r,e,a,k
+Seven Gills,7
+teamInfo,,"Seattle, Washington",,,
+0,Arni Hoang
+0,Daniel Johnson
+0,Henry Karnan
+0,Sean Killilea
+0,Jaimen Grove
+0,Noah Magallanes
+0,Nainoa Ohata
+0,Slava Trifonov
+0,Tyler Watkins
+0,Siddharth Ghali
+7,Jacob Mulugeta
+9,Nicholas Wyatt
+13,Niko Butt
+16,Julian Jay
+34,Jarrett Arakaki
+35,Dylan Singh
+63,Alex Becker
+b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
 SOUF,Make it Rain,15,4,"08/22/2026, 09:00",Pool A,Final
 Blackfish,Heartbreak,14,10,"08/22/2026, 09:00",Pool A,Final
 SOUF,Blackfish,0,0,"08/22/2026, 10:45",Pool A,Scheduled
-Portland TremOR,Heartbreak,0,0,"08/22/2026, 10:45",Pool A,Scheduled
+Portland TremOR,Heartbreak,15,9,"08/22/2026, 10:45",Pool A,Final
 Heartbreak,Make it Rain,0,0,"08/22/2026, 12:30",Pool A,Scheduled
 Portland TremOR,Blackfish,0,0,"08/22/2026, 12:30",Pool A,Scheduled
 SOUF,Heartbreak,0,0,"08/22/2026, 14:10",Pool A,Scheduled
@@ -264,7 +264,7 @@ pool,Pool B
 Switchback,AVE,13,9,"08/22/2026, 09:00",Pool B,Final
 Junco,Seven Gills,11,10,"08/22/2026, 09:00",Pool B,Final
 Switchback,Junco,15,5,"08/22/2026, 10:45",Pool B,Final
-Grudge,Seven Gills,0,0,"08/22/2026, 10:45",Pool B,Scheduled
+Grudge,Seven Gills,15,8,"08/22/2026, 10:45",Pool B,Final
 Seven Gills,AVE,0,0,"08/22/2026, 12:30",Pool B,Scheduled
 Grudge,Junco,0,0,"08/22/2026, 12:30",Pool B,Scheduled
 Switchback,Seven Gills,0,0,"08/22/2026, 14:10",Pool B,Scheduled
