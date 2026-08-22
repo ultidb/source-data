@@ -292,7 +292,7 @@ DeMo,The Incline,13,7,"08/22/2026, 09:00",Pool A,Final
 Dreadnought,Supercell,13,6,"08/22/2026, 09:00",Pool A,Final
 DeMo,Supercell,13,2,"08/22/2026, 10:45",Pool A,Final
 Dreadnought,The Incline,13,6,"08/22/2026, 10:45",Pool A,Final
-DeMo,Dreadnought,0,0,"08/22/2026, 12:30",Pool A,Scheduled
+DeMo,Dreadnought,13,10,"08/22/2026, 12:30",Pool A,Final
 The Incline,Supercell,0,0,"08/22/2026, 12:30",Pool A,Scheduled
 pool,Pool B
 ZOO,Rawhide,13,8,"08/22/2026, 09:00",Pool B,Final
@@ -300,16 +300,19 @@ Zodiac,Kansas City Northern Lines,13,5,"08/22/2026, 09:00",Pool B,Final
 ZOO,Kansas City Northern Lines,13,1,"08/22/2026, 10:45",Pool B,Final
 Zodiac,Rawhide,13,9,"08/22/2026, 10:45",Pool B,Final
 ZOO,Zodiac,9,13,"08/22/2026, 12:30",Pool B,Final
-Rawhide,Kansas City Northern Lines,0,0,"08/22/2026, 12:30",Pool B,Scheduled
+Rawhide,Kansas City Northern Lines,13,10,"08/22/2026, 12:30",Pool B,Final
 pool,Pool C
 Scythe,Friendly Fire,10,13,"08/22/2026, 09:00",Pool C,Final
 NOx,Nomads,13,2,"08/22/2026, 09:00",Pool C,Final
 Scythe,Nomads,13,9,"08/22/2026, 10:45",Pool C,Final
 NOx,Friendly Fire,13,5,"08/22/2026, 10:45",Pool C,Final
-Scythe,NOx,9,11,"08/22/2026, 12:30",Pool C,In Progress
+Scythe,NOx,9,13,"08/22/2026, 12:30",Pool C,Final
 Friendly Fire,Nomads,13,6,"08/22/2026, 12:30",Pool C,Final
 b,r,e,a,k
 clusters,Crossovers
+cluster,Crossovers
+ZOO,Friendly Fire,0,0,"08/22/2026, 14:15",,Scheduled
+Rawhide,Nomads,0,0,"08/22/2026, 14:15",,Scheduled
 b,r,e,a,k
 pools,Consolation Pool
 pool,Pool D
