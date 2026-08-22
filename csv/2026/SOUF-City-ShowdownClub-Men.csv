@@ -1,28 +1,6 @@
 SOUF City Showdown,Club - Men ,22,8,2026
 Seatac,WA,2026-08-22,2026-08-23
 https://play.usaultimate.org/events/SOUF-City-Showdown/schedule/Men/Club-Men/
-Blackfish,5
-teamInfo,,"Vancouver, British Columbia CA",,,
-0,Erez Kassirer
-0,Graeme Hanks
-0,Gavin Tang
-0,Justin Rao
-0,Logan Huttunen
-0,Leven Saunders
-0,Ryan Mak
-0,Kirby Clawson-Honeyman
-0,Jomari Nicolas
-0,Silas Huizinga
-0,Wallace Chan
-1,Kevin Nguyen
-6,Aaron Klymasz- Swartz
-10,Mu Han Li
-15,Shintaro Tsukamoto
-19,Tasman Millen
-19,Ryan Wong
-27,Eddy Zhou
-38,Callum Neave
-b,r,e,a,k
 SOUF,1
 teamInfo,,"Seattle , Washington",,,
 0,Akash Shrestha
@@ -52,6 +30,28 @@ teamInfo,,"Seattle , Washington",,,
 63,Victor Ramirez
 77,Austin Hasbrook
 b,r,e,a,k
+Blackfish,5
+teamInfo,,"Vancouver, British Columbia CA",,,
+0,Erez Kassirer
+0,Graeme Hanks
+0,Gavin Tang
+0,Justin Rao
+0,Logan Huttunen
+0,Leven Saunders
+0,Ryan Mak
+0,Kirby Clawson-Honeyman
+0,Jomari Nicolas
+0,Silas Huizinga
+0,Wallace Chan
+1,Kevin Nguyen
+6,Aaron Klymasz- Swartz
+10,Mu Han Li
+15,Shintaro Tsukamoto
+19,Tasman Millen
+19,Ryan Wong
+27,Eddy Zhou
+38,Callum Neave
+b,r,e,a,k
 Portland TremOR,4
 teamInfo,,"Portland, Oregon",,,
 0,David Pearce
@@ -78,26 +78,6 @@ teamInfo,,"Portland, Oregon",,,
 67,Matt Rix
 81,Ryan Wolfe
 b,r,e,a,k
-Make it Rain,9
-teamInfo,,"Seattle, Washington",,,
-0,Eric Dubofsky
-0,Brando Nguyen
-0,Chris Tian
-0,Kevin Mosey
-0,Hugh McGough
-0,Griffin Righi
-0,Rafi Thaler
-0,Kelvin Ng
-0,Ryan Kinder
-11,Robin Boudard
-20,Nate McMurdie
-21,Joe Richards
-25,Andreas Kinget
-34,Arj Tripathy
-34,Christopher Tang
-69,Liam Niehus-Staab
-69,Will McPherson
-b,r,e,a,k
 Heartbreak,8
 teamInfo,,"Spokane, Washington",,https://www.facebook.com/Heartbreakultimate,
 0,Josiah Howard
@@ -122,6 +102,26 @@ teamInfo,,"Spokane, Washington",,https://www.facebook.com/Heartbreakultimate,
 55,Sean Chapel
 88,Dillon McDermott
 98,Ian Bernstein
+b,r,e,a,k
+Make it Rain,9
+teamInfo,,"Seattle, Washington",,,
+0,Eric Dubofsky
+0,Brando Nguyen
+0,Chris Tian
+0,Kevin Mosey
+0,Hugh McGough
+0,Griffin Righi
+0,Rafi Thaler
+0,Kelvin Ng
+0,Ryan Kinder
+11,Robin Boudard
+20,Nate McMurdie
+21,Joe Richards
+25,Andreas Kinget
+34,Arj Tripathy
+34,Christopher Tang
+69,Liam Niehus-Staab
+69,Will McPherson
 b,r,e,a,k
 Switchback,2
 teamInfo,,"Seattle, Washington",https://switchbackultimate.com/,,https://twitter.com/Switchback_Ulti
@@ -149,29 +149,6 @@ teamInfo,,"Seattle, Washington",https://switchbackultimate.com/,,https://twitter
 60,Kushal Khangaonkar
 71,Sahaj Olivar
 b,r,e,a,k
-Grudge,3
-teamInfo,,"Seattle, Washington",,,
-0,Colin Bogar
-2,Sasha Hoke
-00,Brijesh Berrington
-03,Andrew Pottinger
-10,Michael Bartell
-11,Samuel Zhou
-11,Lucas Terzic
-12,Ty  Rosenberg
-14,Jacob Helfrich
-15,Denny Beaumon
-16,Emanuel Berson
-18,Chris Roach
-20,Calvin Dodge
-21,Sarang Mittal
-28,Axel Olson
-36,Kamal Raslan
-48,Jack Lawson
-50,Graham Whealan
-74,Ethan Kelley
-88,Hayden Zaske
-b,r,e,a,k
 Junco,6
 teamInfo,,"Portland, Oregon",https://www.instagram.com/portlandjunco/,,https://x.com/flocked_in
 0,Aiden Hsu
@@ -198,6 +175,29 @@ teamInfo,,"Portland, Oregon",https://www.instagram.com/portlandjunco/,,https://x
 32,Hal Robinson
 77,Andy Sazima
 91,Little Dipper
+b,r,e,a,k
+Grudge,3
+teamInfo,,"Seattle, Washington",,,
+0,Colin Bogar
+2,Sasha Hoke
+00,Brijesh Berrington
+03,Andrew Pottinger
+10,Michael Bartell
+11,Samuel Zhou
+11,Lucas Terzic
+12,Ty  Rosenberg
+14,Jacob Helfrich
+15,Denny Beaumon
+16,Emanuel Berson
+18,Chris Roach
+20,Calvin Dodge
+21,Sarang Mittal
+28,Axel Olson
+36,Kamal Raslan
+48,Jack Lawson
+50,Graham Whealan
+74,Ethan Kelley
+88,Hayden Zaske
 b,r,e,a,k
 Seven Gills,7
 teamInfo,,"Seattle, Washington",,,
@@ -250,7 +250,7 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
-SOUF,Make it Rain,15,4,"08/22/2026, 09:00",Pool A,Scheduled
+SOUF,Make it Rain,15,4,"08/22/2026, 09:00",Pool A,Final
 Blackfish,Heartbreak,14,10,"08/22/2026, 09:00",Pool A,Final
 SOUF,Blackfish,0,0,"08/22/2026, 10:45",Pool A,Scheduled
 Portland TremOR,Heartbreak,0,0,"08/22/2026, 10:45",Pool A,Scheduled
@@ -261,8 +261,8 @@ Portland TremOR,Make it Rain,0,0,"08/22/2026, 14:10",Pool A,Scheduled
 SOUF,Portland TremOR,0,0,"08/22/2026, 15:50",Pool A,Scheduled
 Blackfish,Make it Rain,0,0,"08/22/2026, 15:50",Pool A,Scheduled
 pool,Pool B
-Switchback,AVE,13,9,"08/22/2026, 09:00",Pool B,Scheduled
-Junco,Seven Gills,11,10,"08/22/2026, 09:00",Pool B,Scheduled
+Switchback,AVE,13,9,"08/22/2026, 09:00",Pool B,Final
+Junco,Seven Gills,11,10,"08/22/2026, 09:00",Pool B,Final
 Switchback,Junco,0,0,"08/22/2026, 10:45",Pool B,Scheduled
 Grudge,Seven Gills,0,0,"08/22/2026, 10:45",Pool B,Scheduled
 Seven Gills,AVE,0,0,"08/22/2026, 12:30",Pool B,Scheduled
