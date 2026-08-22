@@ -56,6 +56,25 @@ teamInfo,,"$, Mississippi",,,
 78,Barnes Lowry
 99,Julian McMillian
 b,r,e,a,k
+Barefoot,7
+teamInfo,,"Tupelo, Mississippi",,,
+0,Jonah Corbin
+0,Jeffrey Hardin
+0,James Murphy
+0,Ben Killough
+0,Cayce Wilson
+0,Samuel Moeller
+0,Matthew Morin
+0,Tripp Hardin
+6,Thomas Beam
+7,Lee Kleyla
+9,Sam Stoop
+10,Paul Ballard
+15,Zach Pitts
+17,Robert Coltharp
+27,Justin Hare
+33,Josh Gardner
+b,r,e,a,k
 Alliance,6
 teamInfo,,"Alabama, Alabama",,,
 0,Jonathan Sumner
@@ -77,25 +96,6 @@ teamInfo,,"Alabama, Alabama",,,
 50,Cern Tanopajai
 80,Jake Givens
 81,Andy Marsch
-b,r,e,a,k
-Barefoot,7
-teamInfo,,"Tupelo, Mississippi",,,
-0,Jonah Corbin
-0,Jeffrey Hardin
-0,James Murphy
-0,Ben Killough
-0,Cayce Wilson
-0,Samuel Moeller
-0,Matthew Morin
-0,Tripp Hardin
-6,Thomas Beam
-7,Lee Kleyla
-9,Sam Stoop
-10,Paul Ballard
-15,Zach Pitts
-17,Robert Coltharp
-27,Justin Hare
-33,Josh Gardner
 b,r,e,a,k
 Gang Of Disc,2
 teamInfo,,"New Orleans, Louisiana",,,
@@ -119,33 +119,6 @@ teamInfo,,"New Orleans, Louisiana",,,
 22,Adam Brunner
 23,Shamit Dua
 28,George Flynn
-b,r,e,a,k
-Battleship,4
-teamInfo,,"Mobile, Alabama",,,
-0,Adam Barbosa
-0,Caleb Myatt
-0,Alexander West
-0,Jerel John Enriquez
-0,Devin  Thigpen
-0,Kayhan Durmus
-0,Christian Poche
-0,John Geiger
-0,Lance Sanantonio
-0,Christopher Barbosa
-0,Riley Lubic
-0,Thomas Miller
-0,Nathan Tadlock
-0,Noah Smith
-0,Tanner Jackson
-0,Michael  Archie
-1,Caleb Dickey
-5,Caleb Cox
-9,Matthew Glenzer
-22,Sean Smitherman
-26,Adam Cooper
-31,John Fuller
-33,Nicholas Cockrell
-99,Nicholas Williamson
 b,r,e,a,k
 Atlanta Outlaws,5
 teamInfo,,"Atlanta, Georgia",http://atloutlaws.com,,
@@ -173,6 +146,33 @@ teamInfo,,"Atlanta, Georgia",http://atloutlaws.com,,
 18,Matthew Entrekin
 22,Benjamin Burchett IV
 62,Ross Barnes
+b,r,e,a,k
+Battleship,4
+teamInfo,,"Mobile, Alabama",,,
+0,Adam Barbosa
+0,Caleb Myatt
+0,Alexander West
+0,Jerel John Enriquez
+0,Devin  Thigpen
+0,Kayhan Durmus
+0,Christian Poche
+0,John Geiger
+0,Lance Sanantonio
+0,Christopher Barbosa
+0,Riley Lubic
+0,Thomas Miller
+0,Nathan Tadlock
+0,Noah Smith
+0,Tanner Jackson
+0,Michael  Archie
+1,Caleb Dickey
+5,Caleb Cox
+9,Matthew Glenzer
+22,Sean Smitherman
+26,Adam Cooper
+31,John Fuller
+33,Nicholas Cockrell
+99,Nicholas Williamson
 b,r,e,a,k
 Southern Hospitality,8
 teamInfo,,"Jackson, Mississippi",,,
@@ -224,15 +224,15 @@ b,r,e,a,k
 s,t,a,g,e,s
 pools,Pool Play
 pool,Pool A
-Apollo,Alliance,0,0,"08/22/2026, 10:00",Pool A,Scheduled
+Apollo,Alliance,15,5,"08/22/2026, 10:00",Pool A,Final
 Cookie Mon$terz,Barefoot,0,0,"08/22/2026, 10:00",Pool A,Scheduled
 Apollo,Barefoot,0,0,"08/22/2026, 12:00",Pool A,Scheduled
 Cookie Mon$terz,Alliance,0,0,"08/22/2026, 12:00",Pool A,Scheduled
 Apollo,Cookie Mon$terz,0,0,"08/22/2026, 14:00",Pool A,Scheduled
 Alliance,Barefoot,0,0,"08/22/2026, 14:00",Pool A,Scheduled
 pool,Pool B
-Gang Of Disc,Afterburner,0,0,"08/22/2026, 09:00",Pool B,Scheduled
-Atlanta Outlaws,Southern Hospitality,0,0,"08/22/2026, 09:00",Pool B,Scheduled
+Gang Of Disc,Afterburner,13,7,"08/22/2026, 09:00",Pool B,Final
+Atlanta Outlaws,Southern Hospitality,13,9,"08/22/2026, 09:00",Pool B,Final
 Gang Of Disc,Battleship,0,0,"08/22/2026, 10:45",Pool B,Scheduled
 Atlanta Outlaws,Afterburner,0,0,"08/22/2026, 10:45",Pool B,Scheduled
 Southern Hospitality,Afterburner,0,0,"08/22/2026, 12:30",Pool B,Scheduled
