@@ -1,4 +1,4 @@
-"""Hardcoded WFDF event list.
+"""WFDF event list, loaded from `events.yaml`.
 
 MVP scope is WUCC 2026 only (see the WFDF source task / MULTI-SOURCE-REDESIGN.md
 Phase 2): "WFDF runs few enough tournaments that a hardcoded list is correct."
@@ -11,12 +11,54 @@ discovered from the `_reference` endpoint, so that `WfdfSource.discover()`
 stays pure and network-free -- WFDF's static-JSON API (results.wfdf.sport)
 has no calendar/index endpoint to crawl, and a WUCC's set of series doesn't
 change once the event is set up.
+
+The event data itself lives in `events.yaml` (YAML rather than JSON so the
+hard-won warnings below -- the year being load-bearing in `name`, "Women's"
+not lowercasing to "womens", WJUC needing `international` not `club` --
+travel as comments next to the data they apply to). `load_events()` reads
+and validates it; `WFDF_EVENTS` below is the module-level result, so nothing
+downstream (`discover`, `ongoing_events`, `upcoming_events`,
+`recently_ended_events`, the tests) needs to change.
+
+To add a new event, see `sources/wfdf/event_gen.py` (`cli.py`'s
+`wfdf-event` command) -- it derives a candidate entry from a WFDF site's own
+`<season_id>_reference.json` rather than requiring one to be hand-written
+from scratch.
 """
 from __future__ import annotations
 
 from dataclasses import dataclass, field
 from datetime import date, timedelta
-from typing import List, Optional
+from pathlib import Path
+from typing import Any, Dict, List, Optional
+
+import yaml
+
+# Wire division/gender names ingest-contract.md section 4 ("Explicit path:
+# accepted names") actually accepts. Validated against on load so a typo in
+# events.yaml fails loudly here rather than surfacing as a confusing
+# ingest-time 400. Kept here (not imported from Go) since this is the
+# Python-side mirror the loader checks against; ingest-contract.md is the
+# source of truth and changing it means updating both.
+ACCEPTED_DIVISIONS = {
+    "college",
+    "club",
+    "youth-club-u20",
+    "youth-club-u17",
+    "masters",
+    "grand-masters",
+    "great-grand-masters",
+    "beach",
+    "international",
+}
+ACCEPTED_GENDERS = {"open", "mixed", "womens", "boys", "girls"}
+
+EVENTS_YAML_PATH = Path(__file__).resolve().parent / "events.yaml"
+
+
+class EventsValidationError(ValueError):
+    """Raised by `load_events()` for a malformed or invalid entry in
+    events.yaml, naming the offending event so the fix is obvious."""
 
 
 @dataclass(frozen=True)
@@ -53,11 +95,11 @@ class WfdfEvent:
 
     `data_path` is the path segment between `base_url` and the
     season_id-prefixed filename, e.g. "live/data" in
-    ".../wucc-2026/live/data/WUCC2026_reference.json". WUCC 2026 uses
-    "live/data"; that layout has NOT been verified for WJUC or any other
-    subdomain-style event (this codebase is offline w.r.t. WFDF's API), so
-    `data_path` is per-event and overridable rather than assumed to be a
-    global constant.
+    ".../wucc-2026/live/data/WUCC2026_reference.json". Both WUCC 2026 and
+    WJUC 2026 use "live/data" (verified against each site's own embedded
+    `STATIC_CACHE_BASE_URL` config); it's per-event and overridable rather
+    than assumed to be a global constant since that hasn't been verified for
+    every possible WFDF deployment.
 
     `name` overrides the event name that lands on the wire document (and so
     the Tournament row's name and slug). WFDF's `season.name` is an
@@ -108,55 +150,114 @@ class WfdfEvent:
         object.__setattr__(self, "base_url", self.base_url.rstrip("/"))
 
 
-WFDF_EVENTS: List[WfdfEvent] = [
-    WfdfEvent(
-        year=2026,
-        base_url="https://results.wfdf.sport/wucc-2026",
-        season_id="WUCC2026",
-        division="club",
-        # Expanded from WFDF's "WUCC 2026". The year is load-bearing, not
-        # decoration -- see the WfdfEvent docstring.
-        name="World Ultimate Club Championships 2026",
-        series=[
-            WfdfSeries(series_id=1001, name="Mixed", gender="mixed"),
-            WfdfSeries(series_id=1002, name="Open", gender="open"),
-            # WFDF's own name is "Women's" -- the apostrophe does NOT
-            # survive a straight .lower(), so the wire gender is stated
-            # explicitly here rather than derived from `name`.
-            WfdfSeries(series_id=1000, name="Women's", gender="womens"),
-        ],
-        city="Limerick",
-        country="Ireland",
-        start_date=date(2026, 8, 15),
-        end_date=date(2026, 8, 22),
-    ),
-    # WJUC 2026 -- subdomain-style base_url, event at the host root (no path
-    # segment). NOT added live: season_id and series ids are only known from
-    # WJUC's own `<season_id>_reference.json`, and this codebase is offline
-    # w.r.t. WFDF's API, so they can't be verified here -- do not guess them.
-    # Uncomment and fill in the real values (marked below) once fetched.
-    #
-    # Also note for whoever adds this: WJUC is a national-teams event, not a
-    # club one, so its `division` must be "international", not "club" (see
-    # ingest-contract.md section 4). It must also not pick up the USAU
-    # team-matching fallback -- the Go writer's `fallbackTeamSources`
-    # already restricts that to WUCC/WMUCC, which is correct and should
-    # stay that way.
-    #
-    # WfdfEvent(
-    #     year=2026,
-    #     base_url="https://wjuc.wfdf.sport",
-    #     season_id="TODO_FROM_REFERENCE_JSON",  # e.g. "WJUC2026" -- verify against the real payload
-    #     division="international",  # WJUC is a national-teams event, not a club one
-    #     series=[
-    #         # TODO: real series_id/name/gender triples from WJUC's own
-    #         # <season_id>_reference.json -- do not guess these.
-    #         WfdfSeries(series_id=0, name="TODO", gender="TODO"),
-    #     ],
-    #     start_date=date(2026, 1, 1),  # TODO: real dates
-    #     end_date=date(2026, 1, 1),  # TODO: real dates
-    # ),
-]
+def _event_label(raw: Dict[str, Any], index: int) -> str:
+    """Best-effort identifier for an events.yaml entry, for error messages --
+    season_id if present, else its position in the file."""
+    season_id = raw.get("season_id") if isinstance(raw, dict) else None
+    return f"season_id={season_id!r}" if season_id else f"entry #{index}"
+
+
+def _parse_date_field(value: Any, *, label: str, field_name: str) -> date:
+    # PyYAML's safe_load already parses unquoted ISO dates (2026-08-15) into
+    # `datetime.date`. Accept a plain string too (e.g. a quoted date in the
+    # YAML, or a value built programmatically) for robustness.
+    if isinstance(value, date):
+        return value
+    if isinstance(value, str):
+        try:
+            return date.fromisoformat(value)
+        except ValueError as exc:
+            raise EventsValidationError(
+                f"{label}: {field_name}={value!r} is not a parseable ISO date"
+            ) from exc
+    raise EventsValidationError(
+        f"{label}: {field_name}={value!r} is not a date (expected YYYY-MM-DD)"
+    )
+
+
+def _build_series(raw_series: Any, *, label: str) -> List[WfdfSeries]:
+    if not isinstance(raw_series, list) or not raw_series:
+        raise EventsValidationError(f"{label}: 'series' must be a non-empty list")
+    series: List[WfdfSeries] = []
+    for i, raw in enumerate(raw_series):
+        if not isinstance(raw, dict):
+            raise EventsValidationError(f"{label}: series[{i}] is not a mapping: {raw!r}")
+        missing = [k for k in ("series_id", "name", "gender") if k not in raw]
+        if missing:
+            raise EventsValidationError(
+                f"{label}: series[{i}] is missing required field(s) {missing}: {raw!r}"
+            )
+        gender = raw["gender"]
+        if gender not in ACCEPTED_GENDERS:
+            raise EventsValidationError(
+                f"{label}: series[{i}] ({raw.get('name')!r}) has gender={gender!r}, "
+                f"not one of the accepted wire gender names: {sorted(ACCEPTED_GENDERS)}"
+            )
+        series.append(WfdfSeries(series_id=raw["series_id"], name=raw["name"], gender=gender))
+    return series
+
+
+def _build_event(raw: Dict[str, Any], index: int) -> WfdfEvent:
+    label = _event_label(raw, index)
+    if not isinstance(raw, dict):
+        raise EventsValidationError(f"entry #{index} is not a mapping: {raw!r}")
+
+    required = ("year", "base_url", "season_id", "division", "series")
+    missing = [k for k in required if k not in raw]
+    if missing:
+        raise EventsValidationError(f"{label}: missing required field(s) {missing}")
+
+    division = raw["division"]
+    if division not in ACCEPTED_DIVISIONS:
+        raise EventsValidationError(
+            f"{label}: division={division!r} is not one of the accepted wire division "
+            f"names: {sorted(ACCEPTED_DIVISIONS)}"
+        )
+
+    series = _build_series(raw["series"], label=label)
+
+    kwargs: Dict[str, Any] = dict(
+        year=raw["year"],
+        base_url=raw["base_url"],
+        season_id=raw["season_id"],
+        division=division,
+        series=series,
+    )
+    if "data_path" in raw and raw["data_path"] is not None:
+        kwargs["data_path"] = raw["data_path"]
+    for str_field in ("name", "city", "state", "country"):
+        if str_field in raw and raw[str_field] is not None:
+            kwargs[str_field] = raw[str_field]
+    for date_field in ("start_date", "end_date"):
+        if date_field in raw and raw[date_field] is not None:
+            kwargs[date_field] = _parse_date_field(raw[date_field], label=label, field_name=date_field)
+
+    try:
+        return WfdfEvent(**kwargs)
+    except (TypeError, ValueError) as exc:
+        raise EventsValidationError(f"{label}: {exc}") from exc
+
+
+def load_events(path: Optional[Path] = None) -> List[WfdfEvent]:
+    """Load and validate `events.yaml` (or `path`) into `WfdfEvent`s.
+
+    Fails loudly, naming the offending event, on: a missing required field,
+    an unrecognized `division`/series `gender` (checked against
+    ingest-contract.md section 4's accepted wire names), an empty `series`
+    list, or an unparseable date. A typo here should surface at load time,
+    not as a confusing ingest-time 400.
+    """
+    p = path if path is not None else EVENTS_YAML_PATH
+    with open(p, "r", encoding="utf-8") as f:
+        raw_events = yaml.safe_load(f) or []
+
+    if not isinstance(raw_events, list):
+        raise EventsValidationError(f"{p}: expected a top-level list of events, got {type(raw_events)}")
+
+    return [_build_event(raw, i) for i, raw in enumerate(raw_events)]
+
+
+WFDF_EVENTS: List[WfdfEvent] = load_events()
 
 
 def events_for_year(year: int) -> List[WfdfEvent]:

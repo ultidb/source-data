@@ -452,6 +452,130 @@ def sources_cmd():
         click.echo(s.id)
 
 
+@cli.command("wfdf-event")
+@click.argument("base_url")
+@click.option(
+    "--season-id",
+    default=None,
+    help="Skip season-id discovery and use this id directly (e.g. WUCC2026).",
+)
+@click.option(
+    "--division",
+    default=None,
+    help="Override the derived division (see ingest-contract.md section 4). Required if "
+    "season.isnationalteams is absent or not 0/1.",
+)
+@click.option("--name", default=None, help="Override the derived (expanded) event name.")
+@click.option("--city", default="", help="Venue city -- the WFDF API carries no venue data.")
+@click.option("--state", default="", help="Venue state/province.")
+@click.option("--country", default="", help="Venue country.")
+@click.option(
+    "--data-path",
+    default="live/data",
+    help="Path segment between base_url and '<season_id>_<resource>.json' (default: live/data, "
+    "which both WUCC 2026 and WJUC 2026 use).",
+)
+@click.option(
+    "--write",
+    "write_flag",
+    is_flag=True,
+    help="Append the derived entry to sources/wfdf/events.yaml. Refuses if the season id is "
+    "already present, or if any series has an unmapped gender.",
+)
+@click.option("--debug", is_flag=True, help="Enable debug logging")
+def wfdf_event_cmd(
+    base_url: str,
+    season_id: str,
+    division: str,
+    name: str,
+    city: str,
+    state: str,
+    country: str,
+    data_path: str,
+    write_flag: bool,
+    debug: bool,
+):
+    """Derive a WfdfEvent for a new WFDF event from its base URL, by reading
+    WFDF's own `<season_id>_reference.json`. Fetches through the same
+    throttled transport (sources.wfdf.source.WfdfSource.make_transport())
+    the scraper itself uses -- this is a handful of requests, not a scrape.
+
+    If season-id discovery fails (see sources/wfdf/event_gen.py for what it
+    tries and why), pass --season-id to skip it.
+
+    Examples:
+        scraper wfdf-event https://wjuc.wfdf.sport
+        scraper wfdf-event https://results.wfdf.sport/wucc-2026 --season-id WUCC2026 --write
+    """
+    setup_logging(debug)
+
+    import json
+
+    from sources.wfdf.event_gen import (
+        SeasonIdDiscoveryError,
+        derive_event,
+        discover_season_id,
+        event_to_yaml_block,
+    )
+    from sources.wfdf.events import EVENTS_YAML_PATH, load_events
+    from sources.wfdf.source import WfdfSource
+
+    wfdf_source = WfdfSource()
+    transport = wfdf_source.make_transport()
+
+    resolved_season_id = season_id
+    if resolved_season_id is None:
+        try:
+            resolved_season_id = discover_season_id(base_url, transport)
+        except SeasonIdDiscoveryError as e:
+            log.error(str(e))
+            raise SystemExit(1)
+        log.info(f"discovered season id: {resolved_season_id}")
+
+    ref_url = wfdf_source._build_url(base_url, data_path, resolved_season_id, "reference")
+    log.info(f"fetching {ref_url}")
+    raw = transport(ref_url)
+    payload = json.loads(raw.decode("utf-8"))
+
+    try:
+        derived = derive_event(
+            payload,
+            base_url=base_url,
+            data_path=data_path,
+            division=division,
+            name=name,
+            city=city,
+            state=state,
+            country=country,
+        )
+    except ValueError as e:
+        log.error(f"could not derive an event: {e}")
+        raise SystemExit(1)
+
+    for w in derived.warnings:
+        log.warning(w)
+
+    yaml_block = event_to_yaml_block(derived.event)
+    click.echo(yaml_block)
+
+    if write_flag:
+        if not derived.is_safe_to_write:
+            raise click.UsageError(
+                f"refusing to write: series with unmapped gender(s) {derived.unmapped_series} -- "
+                f"fix the pasted block above by hand, or extend GENDER_MAP in "
+                f"sources/wfdf/event_gen.py, then paste manually."
+            )
+        existing = load_events()
+        if any(e.season_id == derived.event.season_id for e in existing):
+            raise click.UsageError(
+                f"season_id {derived.event.season_id!r} is already present in "
+                f"{EVENTS_YAML_PATH} -- refusing to write a duplicate."
+            )
+        with open(EVENTS_YAML_PATH, "a", encoding="utf-8") as f:
+            f.write("\n" + yaml_block)
+        log.info(f"appended to {EVENTS_YAML_PATH}")
+
+
 @cli.command("post-documents")
 @click.argument("paths", nargs=-1, required=True, type=click.Path(exists=True))
 @click.option("--source", required=True, help="Source id these documents belong to")

@@ -41,6 +41,12 @@ from sources.wfdf.source import WfdfSource
 YEAR = 2026
 FIXTURES_DIR = Path(__file__).resolve().parent.parent / "sources" / "wfdf" / "fixtures"
 
+# WFDF_EVENTS now legitimately holds two real 2026 events (WUCC, WJUC), but
+# the on-disk fixtures above are WUCC-only -- tests that drive the full
+# fetch/parse pipeline through `_fixture_transport` scope themselves to just
+# the WUCC event via this override, rather than the global default.
+WUCC_EVENT = next(e for e in WFDF_EVENTS if e.season_id == "WUCC2026")
+
 REFERENCE = json.loads((FIXTURES_DIR / "WUCC2026_reference.json").read_text(encoding="utf-8"))
 GAMES = json.loads((FIXTURES_DIR / "WUCC2026_games.json").read_text(encoding="utf-8"))["games"]
 TEAM_1019 = json.loads((FIXTURES_DIR / "WUCC2026_teams_1019.json").read_text(encoding="utf-8"))
@@ -84,11 +90,17 @@ def _fixture_transport(url: str) -> bytes:
 
 class TestDiscover:
     def test_returns_one_ref_per_series_for_2026(self):
+        # 2026 now has two real WFDF events (WUCC2026, wjuc2026), each with
+        # 3 series -- discover() returns one ref per event-series pair, not
+        # deduped by series name across events (both events happen to use
+        # the same series names: Mixed/Open/Women's).
         source = WfdfSource()
         refs = source.discover(2026)
-        assert len(refs) == 3
+        assert len(refs) == 6
         series_names = {r.extra["series_name"] for r in refs}
         assert series_names == {"Mixed", "Open", "Women's"}
+        season_ids = {r.extra["season_id"] for r in refs}
+        assert season_ids == {"WUCC2026", "wjuc2026"}
 
     def test_returns_empty_for_other_years(self):
         source = WfdfSource()
@@ -98,9 +110,17 @@ class TestDiscover:
     def test_division_and_gender_per_series(self):
         # division is the clean age/level-group name, the same for every
         # series in the event; gender is stated explicitly per series
-        # rather than folded into a compound division label.
+        # rather than folded into a compound division label. Scoped to
+        # WUCC's own refs -- 2026 has two real events (WUCC, WJUC) that both
+        # use the series names Mixed/Open/Women's, so keying a dict by
+        # series_name alone across the whole year's refs would silently
+        # collide between them.
         source = WfdfSource()
-        refs = {r.extra["series_name"]: r for r in source.discover(2026)}
+        refs = {
+            r.extra["series_name"]: r
+            for r in source.discover(2026)
+            if r.extra["season_id"] == "WUCC2026"
+        }
         assert refs["Mixed"].division == "club"
         assert refs["Open"].division == "club"
         assert refs["Women's"].division == "club"
@@ -116,11 +136,21 @@ class TestDiscover:
         # literal strings must stay byte-identical across the slug->base_url
         # refactor (WfdfEvent.slug removed in favor of WfdfEvent.base_url),
         # or every cached page and previously ingested document is orphaned.
+        # Scoped to WUCC's own refs (see test_division_and_gender_per_series
+        # for why: 2026 now has a second real event, WJUC, sharing series
+        # names with WUCC).
         source = WfdfSource()
-        refs = {r.extra["series_name"]: r for r in source.discover(2026)}
+        all_refs = source.discover(2026)
+        refs = {r.extra["series_name"]: r for r in all_refs if r.extra["season_id"] == "WUCC2026"}
         assert source.event_key(refs["Mixed"]) == "WUCC2026/Mixed"
         assert source.event_key(refs["Open"]) == "WUCC2026/Open"
         assert source.event_key(refs["Women's"]) == "WUCC2026/Women's"
+        # WJUC's own "Mixed" ref is a distinct, differently-keyed event --
+        # event_key is scoped by season_id, not by series name alone.
+        wjuc_mixed = next(
+            r for r in all_refs if r.extra["season_id"] == "wjuc2026" and r.extra["series_name"] == "Mixed"
+        )
+        assert source.event_key(wjuc_mixed) == "wjuc2026/Mixed"
 
     def test_venue_comes_from_the_event_entry_not_the_api(self):
         # The WFDF API carries no venue info at all (reservations[].location
@@ -581,7 +611,7 @@ class TestDivisionMapping:
 
 class TestFullPipeline:
     def test_all_three_series_build_valid_documents(self, tmp_path):
-        source = WfdfSource()
+        source = WfdfSource(events=[WUCC_EVENT])
         refs = source.discover(YEAR)
         assert len(refs) == 3
 
@@ -679,7 +709,7 @@ class TestFullPipeline:
     def test_discover_offline_no_network_used(self):
         # discover() must not require any network access -- it's built
         # entirely from the hardcoded events.py table.
-        source = WfdfSource()
+        source = WfdfSource(events=[WUCC_EVENT])
         refs = source.discover(YEAR)
         assert len(refs) == 3
 
@@ -747,8 +777,13 @@ class TestEventWindowQueries:
 
     def test_defaults_to_hardcoded_wfdf_events_when_none_given(self):
         # No `events=` override -- must read WFDF_EVENTS (proves default
-        # wiring, not just the injected-list path).
-        assert ongoing_events(today=date(2026, 8, 18)) == events_for_year(2026)
+        # wiring, not just the injected-list path). Compared against an
+        # explicit call over the same global list rather than against
+        # events_for_year(2026) wholesale -- WFDF_EVENTS now legitimately
+        # holds two 2026 events (WUCC, WJUC), and only one of them is
+        # actually ongoing on any given day, so the two aren't generally
+        # equal.
+        assert ongoing_events(today=date(2026, 8, 18)) == ongoing_events(WFDF_EVENTS, today=date(2026, 8, 18))
 
 
 # ---------------------------------------------------------------------------
@@ -884,7 +919,7 @@ class TestLiveFetchPolicy:
 class TestThreeSeriesMemoizationUnderLive:
     def test_reference_and_games_fetched_once_across_all_three_series(self, tmp_path):
         transport = _CountingFixtureTransport()
-        source = WfdfSource(live=True)
+        source = WfdfSource(events=[WUCC_EVENT], live=True)
         refs = source.discover(YEAR)
         assert len(refs) == 3
 

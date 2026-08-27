@@ -1,0 +1,93 @@
+# WFDF event list. MVP scope (see MULTI-SOURCE-REDESIGN.md, WFDF source
+# task): WFDF runs few enough tournaments that a hardcoded list is correct.
+# No calendar scraping.
+#
+# Each entry is one WFDF "season" (WFDF's own term for a tournament
+# instance, e.g. season_id "WUCC2026") plus the series (gender divisions)
+# that season carries. The series id/name/gender triples are hardcoded here
+# too, rather than discovered from the `_reference` endpoint at scrape time,
+# so that `WfdfSource.discover()` stays pure and network-free -- WFDF's
+# static-JSON API (results.wfdf.sport et al.) has no calendar/index endpoint
+# to crawl, and a season's set of series doesn't change once it's set up.
+#
+# Loaded by `events.py`'s `load_events()` into `WfdfEvent`/`WfdfSeries`
+# (see those dataclasses for field-level docs). Validated on load: a typo
+# here should fail loudly at load time, not surface as a confusing
+# ingest-time 400.
+#
+# To add a new event: run `python cli.py wfdf-event <base_url>` (see
+# sources/wfdf/event_gen.py) to derive an entry from WFDF's own
+# `<season_id>_reference.json`, then paste it below (or pass --write).
+# city/state/country are never in that payload -- WFDF's API carries no
+# venue data at all -- so fill those in by hand.
+
+- year: 2026
+  base_url: "https://results.wfdf.sport/wucc-2026"
+  season_id: "WUCC2026"
+  # Wire division name (ingest-contract.md section 4) -- the age/level
+  # group, WFDF's gender-free half of what USAU bakes into one compound
+  # label. Travels on the wire alongside each series' own `gender` below
+  # rather than the two being concatenated into a label for the Go writer
+  # to pattern-match back apart.
+  division: "club"
+  # Expanded from WFDF's own "WUCC 2026". The year is load-bearing, not
+  # decoration: the Go writer takes event.name verbatim (it does not append
+  # a year the way the legacy CSV reader does) and matches existing
+  # tournaments on name + division + gender, so a bare "World Ultimate Club
+  # Championships" would make the 2030 edition update the 2026 rows instead
+  # of creating its own.
+  name: "World Ultimate Club Championships 2026"
+  city: "Limerick"
+  state: ""
+  country: "Ireland"
+  start_date: 2026-08-15
+  end_date: 2026-08-22
+  series:
+    - series_id: 1001
+      name: "Mixed"
+      gender: "mixed"
+    - series_id: 1002
+      name: "Open"
+      gender: "open"
+    - series_id: 1000
+      # WFDF's own name is "Women's" -- the apostrophe does NOT survive a
+      # straight .lower(), so the wire gender is stated explicitly here
+      # rather than derived from `name`.
+      name: "Women's"
+      gender: "womens"
+
+# WJUC 2026 -- subdomain-style base_url, event at the host root (no path
+# segment), unlike WUCC's path-style host+segment. Derived via
+# `python cli.py wfdf-event https://wjuc.wfdf.sport` on 2026-08-27 against
+# the live https://wjuc.wfdf.sport/live/data/wjuc2026_reference.json
+# payload; season_id/series/dates/division below are real, not guessed.
+#
+# WJUC is a national-teams event, not a club one: season.isnationalteams
+# was 1 (WUCC's is 0), so division derives to "international", matching
+# ingest-contract.md section 4. It must also not pick up the USAU
+# team-matching fallback -- the Go writer's `fallbackTeamSources` already
+# restricts that to WUCC/WMUCC, which is correct and should stay that way.
+- year: 2026
+  base_url: "https://wjuc.wfdf.sport"
+  season_id: "wjuc2026"
+  division: "international"
+  name: "World Junior Ultimate Championships 2026"
+  # Not in the API (season carries no location fields, same as WUCC) --
+  # taken from the site's own <meta>/embedded config
+  # (TOURNAMENT_LOCATION: "Logroño, Spain") on 2026-08-27, not invented.
+  city: "Logroño"
+  state: ""
+  country: "Spain"
+  start_date: 2026-07-11
+  end_date: 2026-07-18
+  series:
+    - series_id: 1
+      name: "Mixed"
+      gender: "mixed"
+    - series_id: 2
+      name: "Open"
+      gender: "open"
+    - series_id: 3
+      # Same apostrophe note as WUCC's Women's series above.
+      name: "Women's"
+      gender: "womens"
