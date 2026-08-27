@@ -63,14 +63,24 @@
 # payload; season_id/series/dates/division below are real, not guessed.
 #
 # WJUC is a national-teams event, not a club one: season.isnationalteams
-# was 1 (WUCC's is 0), so division derives to "international", matching
-# ingest-contract.md section 4. It must also not pick up the USAU
-# team-matching fallback -- the Go writer's `fallbackTeamSources` already
-# restricts that to WUCC/WMUCC, which is correct and should stay that way.
+# was 1 (WUCC's is 0). It must also not pick up the USAU team-matching
+# fallback -- the Go writer's `fallbackTeamSources` already restricts that
+# to WUCC/WMUCC, which is correct and should stay that way.
+#
+# division is "international-u20", not plain "international": WJUC is a
+# U20 (Junior) event, and division participates in the team match key
+# (name+division+gender+source, ingest-contract.md section 4 "Team
+# identity"). Plain "international" would make a country's WJUC (U20)
+# squad collide with the same country's senior national squad (e.g. from
+# WUGC) the moment both are named the same and share a gender -- the same
+# failure mode "club" vs "international" already avoids for WUCC/USAU. The
+# event_gen.py CLI helper's `derive_event` now suggests "international-u20"
+# for a national-teams event whose season.name indicates an age group
+# (e.g. "WJUC" here); this entry was hand-verified, not just guessed.
 - year: 2026
   base_url: "https://wjuc.wfdf.sport"
   season_id: "wjuc2026"
-  division: "international"
+  division: "international-u20"
   name: "World Junior Ultimate Championships 2026"
   # Not in the API (season carries no location fields, same as WUCC) --
   # taken from the site's own <meta>/embedded config

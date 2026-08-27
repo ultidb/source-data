@@ -24,6 +24,7 @@ from sources.wfdf.event_gen import (
     discover_season_id,
     event_to_yaml_block,
     expand_name,
+    infer_national_team_division,
     map_gender,
 )
 from sources.wfdf.events import (
@@ -51,6 +52,16 @@ class TestLoadEvents:
         events = load_events()
         assert len(events) >= 2
         assert {e.season_id for e in events} >= {"WUCC2026", "wjuc2026"}
+
+    def test_wjuc_entry_loads_as_international_u20_not_plain_international(self):
+        # WJUC is a U20 (Junior) national-teams event -- events.yaml's entry
+        # must load with the age-grouped division, not plain
+        # "international", or a country's WJUC squad would collide with its
+        # senior national squad on the team match key (ingest-contract.md
+        # section 4 "Team identity").
+        wjuc = next(e for e in WFDF_EVENTS if e.season_id == "wjuc2026")
+        assert wjuc.division == "international-u20"
+        assert wjuc.division not in ("club", "international")
 
     def test_wucc_entry_loads_with_pinned_values(self):
         # Behaviour-preserving refactor: the WUCC entry must come out of
@@ -111,6 +122,25 @@ class TestLoadEvents:
         assert e.start_date == date(2030, 1, 1)
         assert e.end_date == date(2030, 1, 7)
         assert e.series == [WfdfSeries(series_id=1, name="Mixed", gender="mixed")]
+
+    @pytest.mark.parametrize("division", ["international-u20", "international-u24"])
+    def test_loader_accepts_the_new_age_grouped_international_divisions(self, tmp_path, division):
+        p = tmp_path / "events.yaml"
+        p.write_text(
+            textwrap.dedent(
+                f"""\
+                - year: 2030
+                  base_url: "https://example.wfdf.sport"
+                  season_id: "TEST2030"
+                  division: "{division}"
+                  series:
+                    - {{series_id: 1, name: "Mixed", gender: "mixed"}}
+                """
+            ),
+            encoding="utf-8",
+        )
+        events = load_events(p)
+        assert events[0].division == division
 
     def test_string_dates_are_accepted_alongside_native_yaml_dates(self, tmp_path):
         p = tmp_path / "events.yaml"
@@ -295,7 +325,13 @@ class TestDeriveEventFromRealWuccFixture:
 
 # ---------------------------------------------------------------------------
 # derive_event() -- WJUC-shaped payload (national-teams event): division
-# must come out "international", not "club", when isnationalteams=1.
+# must come out an age-grouped "international-*" division, not "club", when
+# isnationalteams=1. Which specific "international-*" division is suggested
+# from season.name's text via infer_national_team_division (see event_gen.py)
+# -- WJUC is age-grouped (U20), so it must NOT come out as plain
+# "international": that would collide a country's WJUC squad with the same
+# country's senior national squad on the team match key (ingest-contract.md
+# section 4 "Team identity").
 # ---------------------------------------------------------------------------
 
 
@@ -315,10 +351,10 @@ class TestDeriveEventNationalTeams:
         ],
     }
 
-    def test_isnationalteams_one_maps_to_international_not_club(self):
+    def test_isnationalteams_one_maps_to_international_u20_for_wjuc(self):
         derived = derive_event(self.WJUC_LIKE_PAYLOAD, base_url="https://wjuc.wfdf.sport")
-        assert derived.event.division == "international"
-        assert derived.event.division != "club"
+        assert derived.event.division == "international-u20"
+        assert derived.event.division not in ("club", "international")
         assert derived.division_source == "isnationalteams"
 
     def test_wjuc_abbreviation_expands_with_year_preserved(self):
@@ -333,7 +369,9 @@ class TestDeriveEventNationalTeams:
         del payload["season"]["isnationalteams"]
         with pytest.raises(ValueError, match="isnationalteams"):
             derive_event(payload, base_url="https://wjuc.wfdf.sport")
-        # ...but works fine with an explicit override.
+        # ...but works fine with an explicit override. The override beats
+        # the name-based suggestion entirely -- passing "international" here
+        # (rather than "international-u20") must be honored verbatim.
         derived = derive_event(payload, base_url="https://wjuc.wfdf.sport", division="international")
         assert derived.event.division == "international"
         assert derived.division_source == "override"
@@ -345,6 +383,51 @@ class TestDeriveEventNationalTeams:
         }
         with pytest.raises(ValueError, match="isnationalteams"):
             derive_event(payload, base_url="https://wjuc.wfdf.sport")
+
+    def test_senior_worlds_event_maps_to_plain_international(self):
+        # WUGC (World Ultimate Championships) is WFDF's senior/open
+        # national-teams event -- no junior/U20/U24 indicator in the name,
+        # so it must fall through to plain "international", same as before
+        # this change.
+        payload = {
+            "season": dict(self.WJUC_LIKE_PAYLOAD["season"], season_id="WUGC2028", name="WUGC 2028"),
+            "series": self.WJUC_LIKE_PAYLOAD["series"],
+        }
+        derived = derive_event(payload, base_url="https://wugc.wfdf.sport")
+        assert derived.event.division == "international"
+
+    def test_u24_named_event_maps_to_international_u24(self):
+        payload = {
+            "season": dict(self.WJUC_LIKE_PAYLOAD["season"], season_id="WU242027", name="WU24 2027"),
+            "series": self.WJUC_LIKE_PAYLOAD["series"],
+        }
+        derived = derive_event(payload, base_url="https://wu24.wfdf.sport")
+        assert derived.event.division == "international-u24"
+
+
+# ---------------------------------------------------------------------------
+# infer_national_team_division() directly.
+# ---------------------------------------------------------------------------
+
+
+class TestInferNationalTeamDivision:
+    @pytest.mark.parametrize(
+        "season_name",
+        ["WJUC 2026", "World Junior Ultimate Championships 2026", "U20 Worlds 2026", "u-20 Championship"],
+    )
+    def test_u20_indicators(self, season_name):
+        assert infer_national_team_division(season_name) == "international-u20"
+
+    @pytest.mark.parametrize(
+        "season_name",
+        ["WU24 2027", "wu-24 2027", "U24 Championship", "Under-24 Worlds"],
+    )
+    def test_u24_indicators(self, season_name):
+        assert infer_national_team_division(season_name) == "international-u24"
+
+    @pytest.mark.parametrize("season_name", ["WUGC 2028", "World Ultimate Championships 2028", "World Games 2029", ""])
+    def test_no_age_indicator_falls_back_to_plain_international(self, season_name):
+        assert infer_national_team_division(season_name) == "international"
 
 
 # ---------------------------------------------------------------------------

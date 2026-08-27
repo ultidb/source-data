@@ -28,9 +28,16 @@ the WFDF CLI helper task:
   - `series[].gender` from WFDF's series `name` via `GENDER_MAP` -- an
     unmapped name is never guessed; it comes back as the literal string
     `"TODO"` plus a warning naming the series, and `--write` must refuse.
-  - `division` from `season.isnationalteams` (0 -> "club", 1 ->
-    "international"; verified against both real payloads above -- WUCC's is
-    0, WJUC's is 1). Absent or not one of {0, 1} requires `--division`.
+  - `division` from `season.isnationalteams` (0 -> "club", 1 -> a
+    national-teams division; verified against both real payloads above --
+    WUCC's is 0, WJUC's is 1). Absent or not one of {0, 1} requires
+    `--division`. When isnationalteams is 1, the specific national-teams
+    division is *suggested* from `season.name`'s text via
+    `infer_national_team_division` -- "WJUC"/"junior"/"u20" ->
+    "international-u20", "WU24"/"u24"/"under-24" -> "international-u24",
+    otherwise plain "international" (e.g. WUGC). This is a suggestion a
+    human reviews before `--write`, not a guarantee -- `--division` always
+    overrides it outright.
   - `name` by expanding `season.name`'s abbreviation via `NAME_EXPANSIONS`,
     always keeping the year; an unknown abbreviation is left raw, with a
     warning.
@@ -77,6 +84,21 @@ NAME_EXPANSIONS: Dict[str, str] = {
 
 # The reliable signal on real WFDF pages -- see the module docstring for why
 # this is tried before the literal-filename pattern below.
+# Event-name text that suggests a national-teams event (season.isnationalteams
+# == 1) is age-grouped rather than a senior/open event -- used only by
+# infer_national_team_division below. Matched against season.name, WFDF's own
+# (abbreviated) event name, e.g. "WJUC 2026" -- NOT the expanded display name
+# -- since that's what's guaranteed present and is what the real WJUC/WUCC
+# payloads (sources/wfdf/fixtures/, events.yaml) actually carry.
+#
+# \bwjuc\b / \bwu-?24\b need their own alternatives (not just \bu-?20\b /
+# \bu-?24\b) because "u20"/"u24" only sit at a word boundary when they are
+# their own token -- inside "WJUC" or "WU24" the digits are glued to a
+# leading letter with no boundary in between, so a bare \bu-?20\b would never
+# match "WJUC 2026" and a bare \bu-?24\b would never match "WU24 2027".
+_U20_INDICATORS_RE = re.compile(r"\bwjuc\b|\bjunior\b|\bu-?20\b", re.IGNORECASE)
+_U24_INDICATORS_RE = re.compile(r"\bwu-?24\b|\bu-?24\b|\bunder-?24\b", re.IGNORECASE)
+
 _LIVE_SEASON_ID_RE = re.compile(r'"LIVE_SEASON_ID"\s*:\s*"([^"]+)"')
 # Tried as a fallback in case some other WFDF deployment does embed the
 # reference filename literally (e.g. a static prefetch <link>), even though
@@ -106,6 +128,35 @@ def discover_season_id(base_url: str, transport: Callable[[str], bytes]) -> str:
         f"  - a literal '<id>_reference.json' reference (regex {_REFERENCE_FILENAME_RE.pattern!r})\n"
         f"Neither matched the fetched page. Pass --season-id to skip discovery."
     )
+
+
+def infer_national_team_division(season_name: str) -> str:
+    """Suggest which national-teams wire division (ingest-contract.md
+    section 4) a national-teams event (season.isnationalteams == 1) should
+    get, from `season_name` (WFDF's own `season.name`, e.g. "WJUC 2026" --
+    the abbreviated form, not the expanded display name).
+
+    This is only ever a *suggestion*: `derive_event` uses it exclusively for
+    the isnationalteams-derived case, and `--division`/the `division`
+    keyword argument always overrides it outright before this is ever
+    called. A wrong guess is recoverable (the CLI's `--write` output is
+    reviewed and pasted by a human), so the matching below is deliberately
+    narrow and literal -- checked against the real WUCC/WJUC payloads
+    (sources/wfdf/fixtures/, events.yaml) -- rather than an exhaustive or
+    clever heuristic that would make a wrong guess harder to predict.
+
+      - "WJUC", "junior", or "u20"/"u-20" appearing anywhere in the name ->
+        "international-u20" (WJUC: World Junior Ultimate Championships).
+      - "WU24", "u24"/"u-24", or "under-24"/"under24" -> "international-u24"
+        (WU24: not yet a real events.yaml entry, but a real WFDF event).
+      - anything else -> plain "international" (e.g. "WUGC 2028": World
+        Ultimate Championships, WFDF's senior/open national-teams event).
+    """
+    if _U20_INDICATORS_RE.search(season_name):
+        return "international-u20"
+    if _U24_INDICATORS_RE.search(season_name):
+        return "international-u24"
+    return "international"
 
 
 def map_gender(series_name: str) -> Optional[str]:
@@ -193,9 +244,17 @@ def derive_event(
         if flag not in (0, 1):
             raise ValueError(
                 f"season.isnationalteams={flag!r} (expected 0 or 1) -- pass --division "
-                f"explicitly (0 -> club, 1 -> international)"
+                f"explicitly (0 -> club, 1 -> international/international-u20/international-u24)"
             )
-        resolved_division = "club" if flag == 0 else "international"
+        if flag == 0:
+            resolved_division = "club"
+        else:
+            # National-teams event: suggest an age-grouped division from the
+            # event name text rather than always defaulting to plain
+            # "international" -- see infer_national_team_division. Still
+            # just a suggestion; --division above already took precedence
+            # over this whole branch.
+            resolved_division = infer_national_team_division(season.get("name", ""))
         division_source = "isnationalteams"
     if resolved_division not in ACCEPTED_DIVISIONS:
         raise ValueError(

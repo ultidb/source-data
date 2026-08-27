@@ -14,8 +14,9 @@ change once the event is set up.
 
 The event data itself lives in `events.yaml` (YAML rather than JSON so the
 hard-won warnings below -- the year being load-bearing in `name`, "Women's"
-not lowercasing to "womens", WJUC needing `international` not `club` --
-travel as comments next to the data they apply to). `load_events()` reads
+not lowercasing to "womens", WJUC needing `international-u20` (not `club`,
+and not plain `international` either, since it's a U20 event) -- travel as
+comments next to the data they apply to). `load_events()` reads
 and validates it; `WFDF_EVENTS` below is the module-level result, so nothing
 downstream (`discover`, `ongoing_events`, `upcoming_events`,
 `recently_ended_events`, the tests) needs to change.
@@ -50,6 +51,14 @@ ACCEPTED_DIVISIONS = {
     "great-grand-masters",
     "beach",
     "international",
+    # Age-grouped national-team divisions (ingest-contract.md section 4):
+    # split out of plain "international" so a country's U20/U24 squad
+    # doesn't collide with its senior squad on the team match key
+    # (name+division+gender+source). WJUC is "international-u20"; WU24 is
+    # added alongside it because WFDF runs that event too, even though
+    # nothing in events.yaml uses it yet.
+    "international-u20",
+    "international-u24",
 }
 ACCEPTED_GENDERS = {"open", "mixed", "womens", "boys", "girls"}
 
