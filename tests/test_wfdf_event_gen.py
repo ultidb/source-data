@@ -28,6 +28,7 @@ from sources.wfdf.event_gen import (
     map_gender,
 )
 from sources.wfdf.events import (
+    ACCEPTED_DIVISIONS,
     EVENTS_YAML_PATH,
     WFDF_EVENTS,
     EventsValidationError,
@@ -187,6 +188,20 @@ class TestLoadEvents:
                 """,
                 "not one of the accepted wire division names",
             ),
+            # "beach" was removed as a division entirely (ingest-contract.md
+            # section 4, "Why Beach is not a Division"): it is a playing
+            # format, not an age/level group, so it must be rejected the same
+            # as any other unrecognized division name, not silently accepted.
+            (
+                """\
+                - year: 2030
+                  base_url: "https://example.wfdf.sport"
+                  season_id: "BAD2030"
+                  division: "beach"
+                  series: [{series_id: 1, name: "Mixed", gender: "mixed"}]
+                """,
+                "not one of the accepted wire division names",
+            ),
             # Unrecognized gender.
             (
                 """\
@@ -239,6 +254,12 @@ class TestLoadEvents:
     def test_events_yaml_path_points_at_the_real_checked_in_file(self):
         assert EVENTS_YAML_PATH.name == "events.yaml"
         assert EVENTS_YAML_PATH.exists()
+
+    def test_accepted_divisions_does_not_include_beach(self):
+        # Beach is a playing format, not an age/level group -- it was
+        # removed as a division entirely (ingest-contract.md section 4, "Why
+        # Beach is not a Division"). This pins that it stays removed.
+        assert "beach" not in ACCEPTED_DIVISIONS
 
 
 # ---------------------------------------------------------------------------

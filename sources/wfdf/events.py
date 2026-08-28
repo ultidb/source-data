@@ -49,7 +49,6 @@ ACCEPTED_DIVISIONS = {
     "masters",
     "grand-masters",
     "great-grand-masters",
-    "beach",
     "international",
     # Age-grouped national-team divisions (ingest-contract.md section 4):
     # split out of plain "international" so a country's U20/U24 squad
@@ -59,6 +58,14 @@ ACCEPTED_DIVISIONS = {
     # nothing in events.yaml uses it yet.
     "international-u20",
     "international-u24",
+    # "beach" is deliberately absent: Beach is a playing format, not an
+    # age/level group -- a beach tournament has its own club/masters/
+    # international divisions, so it was removed as a Division value
+    # entirely (ingest-contract.md section 4, "Why Beach is not a
+    # Division"). A "beach" division here would fail loudly at load time
+    # anyway (matching the Go side's parseDivisionName rejecting it), but
+    # it is called out explicitly so nobody re-adds it thinking it was an
+    # oversight.
 }
 ACCEPTED_GENDERS = {"open", "mixed", "womens", "boys", "girls"}
 
