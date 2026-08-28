@@ -5,7 +5,7 @@ Runs the entire plugin path offline: discover -> fetch_event -> parse_event
 -> tournament_to_document -> pydantic validation -> write_document -> read
 the file back -> re-validate -- asserting the JSON on disk is exactly what
 the schema produces. Everything is written under tmp_path, never into the
-repo's real data/ or html/ directories.
+repo's real data/ or cache/ directories.
 """
 import json
 
@@ -33,7 +33,7 @@ def test_full_pipeline_discover_to_disk_and_back(tmp_path):
     assert ref.city == "Example City"
 
     # fetch_event (through a real FileCache, rooted at tmp_path so nothing
-    # touches the repo's real html/ directory)
+    # touches the repo's real cache/ directory)
     key = source.event_key(ref)
     assert key == f"{YEAR}/tiny-invite"
     cache = FileCache("example", YEAR, key, _unused_transport, base_dir=tmp_path)

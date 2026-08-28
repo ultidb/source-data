@@ -243,7 +243,7 @@ def makeProxiedRequestSelenium(url):
 
 def loadPage(config, url, pageType, tournamentName=None, teamName=None):
     log.debug(f"loading page: {url}")
-    path = f"html/{config.year}/"
+    path = f"cache/{config.year}/"
     Path(path).mkdir(parents=True, exist_ok=True)
     file = None
 

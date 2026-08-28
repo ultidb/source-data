@@ -18,7 +18,7 @@ class AppConfig(BaseModel):
 
 
 class CacheConfig(BaseModel):
-    html_directory: str = "html"
+    cache_directory: str = "cache"
     csv_directory: str = "csv"
 
 

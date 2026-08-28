@@ -46,7 +46,7 @@ FetchedPages = dict[str, bytes]
 
 
 class Cache(Protocol):
-    """core/cache.py — page cache under html/<source>/<year>/<event_key>/<page>.html"""
+    """core/cache.py — page cache under cache/<source>/<year>/<event_key>/<page>.{html,json}"""
 
     def get(self, key: str) -> bytes | None: ...
     def put(self, key: str, content: bytes) -> None: ...

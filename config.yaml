@@ -6,7 +6,7 @@ app:
 
 scraping:
   cache:
-    html_directory: "html"
+    cache_directory: "cache"
     csv_directory: "csv"
   tor:
     socks_port: 9050

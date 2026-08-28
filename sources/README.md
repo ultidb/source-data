@@ -37,7 +37,7 @@ class Source(ABC):
   URL-safe string that identifies this event-division *within your
   source* (not globally -- `core` combines it with your source id).
   It becomes part of the on-disk path (`data/<source>/<year>/<key>.json`,
-  `html/<source>/<year>/<key>/...`) and the wire format's
+  `cache/<source>/<year>/<key>/...`) and the wire format's
   `sourceEventId`, so it must be stable across re-scrapes of the same
   event and must not collide across different events. This is the one
   thing that was most USAU-shaped before this refactor -- `scrape.py` used

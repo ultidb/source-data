@@ -1,5 +1,10 @@
 """FileCache: the `core.source.Cache` protocol implementation, storing raw
-page bytes under `html/<source>/<year>/<event_key>/<page>.html`.
+page bytes under `cache/<source>/<year>/<event_key>/<page>.{html,json}`.
+
+The extension is picked per entry by sniffing the content -- a source like
+WFDF hands back JSON API responses, not markup, and writing those out as
+`.html` misdescribes what's on disk. `.json` is used when the content
+parses as JSON, `.html` otherwise (which covers USAU's real HTML pages).
 
 The actual HTTP fetching is delegated to a `transport` callable
 (`fetch(url) -> bytes`) supplied at construction time, so the transport
@@ -8,6 +13,7 @@ with a fake transport and no network access.
 """
 from __future__ import annotations
 
+import json
 import re
 import time
 from pathlib import Path
@@ -19,6 +25,18 @@ _REPO_ROOT = Path(__file__).resolve().parent.parent
 # ".."/absolute-path segments are dropped entirely below -- this is what
 # keeps a malicious or buggy `key` from escaping the cache root.
 _UNSAFE_CHARS = re.compile(r"[^A-Za-z0-9._ -]")
+
+_EXTENSIONS = ("json", "html")
+
+
+def _extension_for(content: bytes) -> str:
+    """Returns "json" if `content` parses as JSON, "html" otherwise
+    (extension only, no leading dot)."""
+    try:
+        json.loads(content.decode("utf-8"))
+    except (UnicodeDecodeError, ValueError):
+        return "html"
+    return "json"
 
 
 def _sanitize_key(key: str) -> str:
@@ -34,7 +52,7 @@ def _sanitize_key(key: str) -> str:
 
 class FileCache:
     """Cache protocol implementation for one event
-    (html/<source>/<year>/<event_key>/*.html)."""
+    (cache/<source>/<year>/<event_key>/*.{html,json})."""
 
     def __init__(
         self,
@@ -47,10 +65,20 @@ class FileCache:
     ):
         self._transport = transport
         base = Path(base_dir) if base_dir is not None else _REPO_ROOT
-        self._root = base / "html" / source / str(year) / _sanitize_key(event_key)
+        self._root = base / "cache" / source / str(year) / _sanitize_key(event_key)
 
     def _path_for(self, key: str) -> Path:
-        return self._root / f"{_sanitize_key(key)}.html"
+        """Path to `key`'s cached entry. Without knowing the content, this
+        is a lookup: the extension is whichever of `.json`/`.html` actually
+        exists on disk, preferring `.json` if (implausibly) both do, and
+        falling back to the `.html` path -- possibly nonexistent -- when
+        neither is present."""
+        safe = _sanitize_key(key)
+        for ext in _EXTENSIONS:
+            candidate = self._root / f"{safe}.{ext}"
+            if candidate.exists():
+                return candidate
+        return self._root / f"{safe}.html"
 
     def get(self, key: str) -> Optional[bytes]:
         path = self._path_for(key)
@@ -59,9 +87,20 @@ class FileCache:
         return path.read_bytes()
 
     def put(self, key: str, content: bytes) -> None:
-        path = self._path_for(key)
+        safe = _sanitize_key(key)
+        ext = _extension_for(content)
+        path = self._root / f"{safe}.{ext}"
         path.parent.mkdir(parents=True, exist_ok=True)
         path.write_bytes(content)
+        # Drop a stale entry under the other extension, e.g. a key that
+        # used to hold HTML now holding JSON (or vice versa) -- otherwise
+        # `_path_for`'s existence-based lookup could resurrect old content.
+        for other_ext in _EXTENSIONS:
+            if other_ext == ext:
+                continue
+            stale = self._root / f"{safe}.{other_ext}"
+            if stale.exists():
+                stale.unlink()
 
     def age(self, key: str) -> Optional[float]:
         """Seconds since `key` was last written, or None if there is no
