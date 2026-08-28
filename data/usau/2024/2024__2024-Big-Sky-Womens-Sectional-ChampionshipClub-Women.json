@@ -1,0 +1,263 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2024/2024-Big-Sky-Womens-Sectional-ChampionshipClub-Women",
+  "sourceUrl": "https://play.usaultimate.org/events/2024-Big-Sky-Womens-Sectional-Championship/schedule/Women/Club-Women/",
+  "scrapedAt": "2026-08-28T10:06:19.898004Z",
+  "event": {
+    "name": "2024 Big Sky Women's Sectional Championship",
+    "division": "Club - Women ",
+    "gender": "",
+    "season": 2024,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "country": "",
+    "startDate": "2024-09-07",
+    "endDate": "2024-09-08"
+  },
+  "teams": [
+    {
+      "name": "Dark Sky",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Utah, Utah",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Stacy Gaskill"
+        },
+        {
+          "number": "1",
+          "name": "Mackenzie Perkett"
+        },
+        {
+          "number": "2",
+          "name": "Brooke Stanislawski"
+        },
+        {
+          "number": "3",
+          "name": "Kate Moulton"
+        },
+        {
+          "number": "4",
+          "name": "Lily Terpstra"
+        },
+        {
+          "number": "5",
+          "name": "Ellie Sjordal "
+        },
+        {
+          "number": "6",
+          "name": "Janna Coulter"
+        },
+        {
+          "number": "7",
+          "name": "Courtney Connole"
+        },
+        {
+          "number": "8",
+          "name": "Molly Robbins"
+        },
+        {
+          "number": "9",
+          "name": "Anna McClurkan"
+        },
+        {
+          "number": "13",
+          "name": "Kate Barry"
+        },
+        {
+          "number": "15",
+          "name": "Sailor Ong"
+        },
+        {
+          "number": "16",
+          "name": "Nicole Merrill"
+        },
+        {
+          "number": "17",
+          "name": "Jesse Dewey"
+        },
+        {
+          "number": "18",
+          "name": "Audrey Selfridge"
+        },
+        {
+          "number": "19",
+          "name": "Hannah Bruns"
+        },
+        {
+          "number": "19",
+          "name": "Kellie Koester"
+        },
+        {
+          "number": "22",
+          "name": "Kyra Khoroujnikova"
+        },
+        {
+          "number": "28",
+          "name": "Lucia Mason"
+        },
+        {
+          "number": "29",
+          "name": "Brittany McCready"
+        },
+        {
+          "number": "33",
+          "name": "Amy Norris"
+        },
+        {
+          "number": "38",
+          "name": "Cori Bigham"
+        },
+        {
+          "number": "46",
+          "name": "Quincey McKeen"
+        },
+        {
+          "number": "48",
+          "name": "Kat Songer"
+        },
+        {
+          "number": "52",
+          "name": "Serena Hochmuth"
+        },
+        {
+          "number": "72",
+          "name": "Carly Atwell"
+        }
+      ]
+    },
+    {
+      "name": "Swell",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Salt Lake City, Utah",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Gabrielle Aufderheide"
+        },
+        {
+          "number": "0",
+          "name": "Jasmine Bowman"
+        },
+        {
+          "number": "0",
+          "name": "Juliana Landis"
+        },
+        {
+          "number": "02",
+          "name": "Jessica Horii"
+        },
+        {
+          "number": "03",
+          "name": "Maggie Bale"
+        },
+        {
+          "number": "04",
+          "name": "Lily Nygard"
+        },
+        {
+          "number": "05",
+          "name": "Lindsay Darlow"
+        },
+        {
+          "number": "07",
+          "name": "Jane Putnam"
+        },
+        {
+          "number": "12",
+          "name": "Emily Dalley"
+        },
+        {
+          "number": "14",
+          "name": "Meghan Campano"
+        },
+        {
+          "number": "15",
+          "name": "Evelyn Nazarit"
+        },
+        {
+          "number": "19",
+          "name": "Sarah DeMaria"
+        },
+        {
+          "number": "20",
+          "name": "Elise Francis"
+        },
+        {
+          "number": "22",
+          "name": "Spencer Ewing"
+        },
+        {
+          "number": "25",
+          "name": "Shannon Anderson"
+        },
+        {
+          "number": "26",
+          "name": "Claire Schwyhart"
+        },
+        {
+          "number": "28",
+          "name": "Jess Olsen"
+        },
+        {
+          "number": "29",
+          "name": "Erin Gong"
+        },
+        {
+          "number": "33",
+          "name": "Camille van Ginkel"
+        },
+        {
+          "number": "44",
+          "name": "Maisie Prendergast"
+        },
+        {
+          "number": "66",
+          "name": "Leah Smith"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "brackets",
+      "name": "Final",
+      "groups": [
+        {
+          "name": "Final",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Dark Sky",
+              "team2": "Swell",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2024-09-07T12:30:00Z",
+              "round": "Final",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

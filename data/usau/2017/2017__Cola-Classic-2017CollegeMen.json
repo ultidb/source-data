@@ -1,0 +1,849 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2017/Cola-Classic-2017CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/Cola-Classic-2017/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:14.473178Z",
+  "event": {
+    "name": "Cola Classic 2017",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2017,
+    "city": "Columbia",
+    "state": "SC",
+    "country": "",
+    "startDate": "2017-01-21",
+    "endDate": "2017-01-22"
+  },
+  "teams": [
+    {
+      "name": "Ohio",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Ohio University",
+        "location": "Athens, Ohio",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Christopher Wohl"
+        },
+        {
+          "number": "0",
+          "name": "Cameron Finley"
+        },
+        {
+          "number": "0",
+          "name": "Colin Heslet"
+        },
+        {
+          "number": "2",
+          "name": "Alex Flamm"
+        },
+        {
+          "number": "5",
+          "name": "Adam Hock"
+        },
+        {
+          "number": "09",
+          "name": "Cameron Haldin"
+        },
+        {
+          "number": "22",
+          "name": "Aaron Musser"
+        },
+        {
+          "number": "42",
+          "name": "P. Mike Rattanasengchanh"
+        },
+        {
+          "number": "72",
+          "name": "Shane Spiegel"
+        },
+        {
+          "number": "92",
+          "name": "Wally Gaida"
+        }
+      ]
+    },
+    {
+      "name": "Boston College",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Eagles",
+        "location": "Chestnut Hill, Massachusetts",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/bcultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Andrew Cirillo"
+        },
+        {
+          "number": "0",
+          "name": "Kevin Sprotte"
+        },
+        {
+          "number": "2",
+          "name": "Ryan Cardinal"
+        },
+        {
+          "number": "5",
+          "name": "Drew Davis"
+        },
+        {
+          "number": "10",
+          "name": "Theo Kruse"
+        },
+        {
+          "number": "12",
+          "name": "Alexander Bernhardt"
+        },
+        {
+          "number": "13",
+          "name": "Liam Earley"
+        },
+        {
+          "number": "21",
+          "name": "Myles Hahn"
+        }
+      ]
+    },
+    {
+      "name": "South Carolina",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Warbird",
+        "location": "Columbia, South Carolina",
+        "website": "https://garnetgate.sa.sc.edu/organization/ufrisb",
+        "facebook": "",
+        "twitter": "https://twitter.com/USC_Ultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "2",
+          "name": "Johnnie Lynch"
+        },
+        {
+          "number": "3",
+          "name": "Hunter Lazan"
+        },
+        {
+          "number": "4",
+          "name": "Matthew Hogue"
+        },
+        {
+          "number": "6",
+          "name": "William  Hoskins"
+        },
+        {
+          "number": "10",
+          "name": "Stuart Hughes"
+        },
+        {
+          "number": "11",
+          "name": "Nicholas Headden"
+        },
+        {
+          "number": "12",
+          "name": "John (Jack) Dowling"
+        },
+        {
+          "number": "13",
+          "name": "Clayton Brandenburg"
+        },
+        {
+          "number": "14",
+          "name": "Tanner Coleman"
+        },
+        {
+          "number": "16",
+          "name": "Andrew White"
+        },
+        {
+          "number": "17",
+          "name": "Shane Smith"
+        },
+        {
+          "number": "19",
+          "name": "Cameron Schuster"
+        },
+        {
+          "number": "20",
+          "name": "Corey Branam"
+        },
+        {
+          "number": "21",
+          "name": "Stephen Trello"
+        },
+        {
+          "number": "23",
+          "name": "Bryan Kohut"
+        },
+        {
+          "number": "25",
+          "name": "Jack Stemper"
+        },
+        {
+          "number": "33",
+          "name": "Bryon Pearson"
+        },
+        {
+          "number": "34",
+          "name": "Austin Lourie"
+        },
+        {
+          "number": "44",
+          "name": "Reid O'Brien"
+        },
+        {
+          "number": "45",
+          "name": "Hunter Conley"
+        },
+        {
+          "number": "77",
+          "name": "Andrew Grimmage"
+        },
+        {
+          "number": "81",
+          "name": "Michael Spellman"
+        },
+        {
+          "number": "87",
+          "name": "Adam Chase"
+        },
+        {
+          "number": "88",
+          "name": "Thomas Richards"
+        },
+        {
+          "number": "92",
+          "name": "John Colyer"
+        },
+        {
+          "number": "99",
+          "name": "Aaron Coble"
+        }
+      ]
+    },
+    {
+      "name": "North Florida",
+      "seed": 8,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Category 5",
+        "location": "Jacksonville, Florida",
+        "website": "",
+        "facebook": "https://www.facebook.com/groups/653951534617192/",
+        "twitter": "https://twitter.com/UNF_Category5"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Madison Dressler"
+        },
+        {
+          "number": "0",
+          "name": "Troy Bogle"
+        },
+        {
+          "number": "0",
+          "name": "Matthew Wheeler"
+        },
+        {
+          "number": "0",
+          "name": "Zoltan Hepp"
+        },
+        {
+          "number": "6",
+          "name": "Hunter Horstman"
+        },
+        {
+          "number": "10",
+          "name": "Daniel Smith"
+        },
+        {
+          "number": "18",
+          "name": "Levi Bradley"
+        },
+        {
+          "number": "22",
+          "name": "Matthew Weatherhead"
+        }
+      ]
+    },
+    {
+      "name": "James Madison",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Hellfish",
+        "location": "Harrisonburg, Virginia",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/hellfishulti"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Andrew Marusic"
+        },
+        {
+          "number": "0",
+          "name": "Colin Smith"
+        },
+        {
+          "number": "0",
+          "name": "David Boyle"
+        },
+        {
+          "number": "0",
+          "name": "Joshua Alley"
+        },
+        {
+          "number": "0",
+          "name": "Francisco Marty"
+        },
+        {
+          "number": "0",
+          "name": "David Bui"
+        },
+        {
+          "number": "0",
+          "name": "Steven Praplaski"
+        },
+        {
+          "number": "0",
+          "name": "Brian Kelly"
+        },
+        {
+          "number": "0",
+          "name": "Andrew Elliott"
+        },
+        {
+          "number": "0",
+          "name": "Grant Lewis"
+        },
+        {
+          "number": "1",
+          "name": "Travis St. John"
+        },
+        {
+          "number": "4",
+          "name": "Jack Corcoran"
+        },
+        {
+          "number": "12",
+          "name": "Sam Bean"
+        },
+        {
+          "number": "13",
+          "name": "Nicholas Albright"
+        },
+        {
+          "number": "20",
+          "name": "Kyle Woodward"
+        },
+        {
+          "number": "21",
+          "name": "Benjamin Green"
+        },
+        {
+          "number": "22",
+          "name": "Garrett Manno"
+        },
+        {
+          "number": "30",
+          "name": "Quinn Bergeron"
+        },
+        {
+          "number": "33",
+          "name": "Torin Porter"
+        },
+        {
+          "number": "36",
+          "name": "Matthew Johnston"
+        },
+        {
+          "number": "60",
+          "name": "Patrick King"
+        },
+        {
+          "number": "81",
+          "name": "Colin Doescher"
+        },
+        {
+          "number": "87",
+          "name": "David Rigby"
+        }
+      ]
+    },
+    {
+      "name": "Georgia Southern",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Eagles",
+        "location": "Statesboro, GA, Georgia",
+        "website": "gsultimate.com",
+        "facebook": "https://twitter.com/gsultimate",
+        "twitter": "https://twitter.com/GASo_Ultimate%20%20%20"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "01",
+          "name": "James ONeal (Neal) Hollis"
+        },
+        {
+          "number": "02",
+          "name": "Zach  Tsang"
+        },
+        {
+          "number": "03",
+          "name": "Bradley Thompson"
+        },
+        {
+          "number": "07",
+          "name": "Gregory Burkell"
+        },
+        {
+          "number": "08",
+          "name": "Joseph Vives"
+        },
+        {
+          "number": "09",
+          "name": "William Finch"
+        },
+        {
+          "number": "11",
+          "name": "Zach Faddis"
+        },
+        {
+          "number": "13",
+          "name": "Devon Conyers"
+        },
+        {
+          "number": "15",
+          "name": "Blake Michal"
+        },
+        {
+          "number": "19",
+          "name": "Tanner Butcher"
+        },
+        {
+          "number": "20",
+          "name": "James Rink"
+        },
+        {
+          "number": "21",
+          "name": "Samuel Trent"
+        },
+        {
+          "number": "23",
+          "name": "Chris Camp"
+        },
+        {
+          "number": "32",
+          "name": "Cody Lewis"
+        },
+        {
+          "number": "33",
+          "name": "Andrew Pineau"
+        },
+        {
+          "number": "34",
+          "name": "Christopher Clark"
+        },
+        {
+          "number": "43",
+          "name": "Brendan Eckard"
+        },
+        {
+          "number": "47",
+          "name": "Brannon Thompson"
+        },
+        {
+          "number": "67",
+          "name": "Tanner Tracey"
+        },
+        {
+          "number": "81",
+          "name": "Nich Faddis"
+        },
+        {
+          "number": "99",
+          "name": "Dylan Whalen"
+        }
+      ]
+    },
+    {
+      "name": "East Carolina",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Irates",
+        "location": "Greenville, North Carolina",
+        "website": "",
+        "facebook": "https://www.facebook.com/ECUUltimateFrisbee",
+        "twitter": "https://twitter.com/ECUUltimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "JAKE CHEATHAM"
+        },
+        {
+          "number": "00",
+          "name": "Noah Munn"
+        },
+        {
+          "number": "03",
+          "name": "Kyle Davis"
+        },
+        {
+          "number": "07",
+          "name": "Preston Earp"
+        },
+        {
+          "number": "09",
+          "name": "Thomas Follett"
+        },
+        {
+          "number": "10",
+          "name": "Alexis Lopez"
+        },
+        {
+          "number": "11",
+          "name": "Matthew Zimmerman"
+        },
+        {
+          "number": "12",
+          "name": "Ismail Kassim"
+        },
+        {
+          "number": "13",
+          "name": "John Medina"
+        },
+        {
+          "number": "14",
+          "name": "Zachary Baldwin"
+        },
+        {
+          "number": "15",
+          "name": "Scott Abernathy"
+        },
+        {
+          "number": "18",
+          "name": "CONNOR STAFFORD"
+        },
+        {
+          "number": "21",
+          "name": "David Huie"
+        },
+        {
+          "number": "23",
+          "name": "Taylor Crotts"
+        },
+        {
+          "number": "30",
+          "name": "Hunter Gibbs"
+        },
+        {
+          "number": "31",
+          "name": "Andrew Vande Berg"
+        },
+        {
+          "number": "48",
+          "name": "Brian Elgart"
+        },
+        {
+          "number": "55",
+          "name": "Sam Brant"
+        },
+        {
+          "number": "57",
+          "name": "Domenick Muoio"
+        },
+        {
+          "number": "62",
+          "name": "Russell Warner"
+        },
+        {
+          "number": "68",
+          "name": "Jack Schenk"
+        },
+        {
+          "number": "72",
+          "name": "Benjamin Landry"
+        }
+      ]
+    },
+    {
+      "name": "Charleston",
+      "seed": 7,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Palmetto Bums",
+        "location": "Charleston, South Carolina",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "1",
+          "name": "Brandon Massey"
+        },
+        {
+          "number": "3",
+          "name": "Colton Miller"
+        },
+        {
+          "number": "5",
+          "name": "John Poole"
+        },
+        {
+          "number": "8",
+          "name": "Mason Huebsch"
+        },
+        {
+          "number": "13",
+          "name": "Matthew Hajek"
+        },
+        {
+          "number": "13",
+          "name": "Jensen Tomberlin"
+        },
+        {
+          "number": "15",
+          "name": "Jonah Price"
+        },
+        {
+          "number": "17",
+          "name": "Christopher Richmond"
+        },
+        {
+          "number": "26",
+          "name": "John Epperson"
+        },
+        {
+          "number": "27",
+          "name": "Vincent James"
+        },
+        {
+          "number": "41",
+          "name": "William Minter IV"
+        },
+        {
+          "number": "42",
+          "name": "Benjamin Konzen"
+        },
+        {
+          "number": "44",
+          "name": "Joseph Delaney"
+        },
+        {
+          "number": "48",
+          "name": "Joseph Garvey"
+        },
+        {
+          "number": "52",
+          "name": "Zachary Spencer"
+        },
+        {
+          "number": "56",
+          "name": "Nolan Barrett"
+        },
+        {
+          "number": "66",
+          "name": "Zack Pickler"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "South Carolina",
+              "team2": "North Florida",
+              "score1": 13,
+              "score2": 5,
+              "datetime": "2017-01-21T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Boston College",
+              "team2": "Ohio",
+              "score1": 10,
+              "score2": 13,
+              "datetime": "2017-01-21T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "South Carolina",
+              "team2": "Ohio",
+              "score1": 13,
+              "score2": 14,
+              "datetime": "2017-01-21T10:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Boston College",
+              "team2": "North Florida",
+              "score1": 12,
+              "score2": 6,
+              "datetime": "2017-01-21T10:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "South Carolina",
+              "team2": "Boston College",
+              "score1": 6,
+              "score2": 11,
+              "datetime": "2017-01-21T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Ohio",
+              "team2": "North Florida",
+              "score1": 13,
+              "score2": 5,
+              "datetime": "2017-01-21T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool B",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Georgia Southern",
+              "team2": "East Carolina",
+              "score1": 11,
+              "score2": 8,
+              "datetime": "2017-01-21T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "James Madison",
+              "team2": "East Carolina",
+              "score1": 13,
+              "score2": 2,
+              "datetime": "2017-01-21T17:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Georgia Southern",
+              "team2": "Charleston",
+              "score1": 13,
+              "score2": 3,
+              "datetime": "2017-01-21T17:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "James Madison",
+              "team2": "Georgia Southern",
+              "score1": 13,
+              "score2": 4,
+              "datetime": "2017-01-21T19:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "East Carolina",
+              "team2": "Charleston",
+              "score1": 13,
+              "score2": 6,
+              "datetime": "2017-01-21T19:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "James Madison",
+              "team2": "Charleston",
+              "score1": 13,
+              "score2": 4,
+              "datetime": "2017-01-21T23:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Championship Bracket",
+      "groups": [
+        {
+          "name": "Championship Bracket",
+          "isChampionship": false,
+          "games": []
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "5th Place Game",
+      "groups": [
+        {
+          "name": "5th Place Bracket",
+          "isChampionship": false,
+          "games": []
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "7th Place Game",
+      "groups": [
+        {
+          "name": "7th Place Game",
+          "isChampionship": false,
+          "games": []
+        }
+      ]
+    }
+  ]
+}

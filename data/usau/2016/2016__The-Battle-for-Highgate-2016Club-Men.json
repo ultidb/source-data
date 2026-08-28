@@ -1,0 +1,267 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2016/The-Battle-for-Highgate-2016Club-Men",
+  "sourceUrl": "https://play.usaultimate.org/events/The-Battle-for-Highgate-2016/schedule/Men/Club-Men/",
+  "scrapedAt": "2026-08-28T10:06:13.923645Z",
+  "event": {
+    "name": "The Battle for Highgate 2016",
+    "division": "Club - Men ",
+    "gender": "",
+    "season": 2016,
+    "city": "Williston",
+    "state": "VT",
+    "country": "",
+    "startDate": "2016-08-06",
+    "endDate": "2016-08-06"
+  },
+  "teams": [
+    {
+      "name": "Mockingbird",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "montréal, Quebec CA",
+        "website": "",
+        "facebook": "https://www.facebook.com/mockingbirdultimate?fref=ts",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Malik Auger-Semmar"
+        },
+        {
+          "number": "0",
+          "name": "Charles Bariteau"
+        },
+        {
+          "number": "3",
+          "name": "RAYNALD NEMOURS"
+        },
+        {
+          "number": "9",
+          "name": "Andre Arsenault"
+        },
+        {
+          "number": "10",
+          "name": "Jean-Levy Champagne"
+        },
+        {
+          "number": "17",
+          "name": "ANTOINE GENEST"
+        },
+        {
+          "number": "21",
+          "name": "Gabriel Monfette"
+        },
+        {
+          "number": "27",
+          "name": "MIGUEL GODERRE"
+        },
+        {
+          "number": "29",
+          "name": "Simon Ayotte"
+        },
+        {
+          "number": "31",
+          "name": "SAMUEL LANGLOIS"
+        },
+        {
+          "number": "49",
+          "name": "Félix-Antoine Daigle"
+        },
+        {
+          "number": "86",
+          "name": "Jean-Philippe Riopel"
+        }
+      ]
+    },
+    {
+      "name": "Griffons",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Montreal, Québec CA",
+        "website": "www.royalultimate.com",
+        "facebook": "https://www.facebook.com/royalultimate/",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Frederik Gelin"
+        },
+        {
+          "number": "00",
+          "name": "Jordan Faries"
+        },
+        {
+          "number": "00",
+          "name": "Emmanuel Verreault"
+        },
+        {
+          "number": "00",
+          "name": "BASILE LIMOGES"
+        },
+        {
+          "number": "00",
+          "name": "Philippe Bisson"
+        },
+        {
+          "number": "00",
+          "name": "Étienne Favre"
+        }
+      ]
+    },
+    {
+      "name": "G Street",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Burlington, Vermont",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Neil Wacek"
+        },
+        {
+          "number": "0",
+          "name": "Dylan Marino"
+        },
+        {
+          "number": "0",
+          "name": "Jackson Berman"
+        },
+        {
+          "number": "0",
+          "name": "Bastien Taylor"
+        },
+        {
+          "number": "0",
+          "name": "Quinn Ledak"
+        },
+        {
+          "number": "0",
+          "name": "Heng-Scheng Chuang"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Colarusso"
+        },
+        {
+          "number": "3",
+          "name": "Jason Dolan"
+        },
+        {
+          "number": "8",
+          "name": "David Colburn"
+        },
+        {
+          "number": "9",
+          "name": "Bryan Cho"
+        },
+        {
+          "number": "10",
+          "name": "Dolan Patrick"
+        },
+        {
+          "number": "21",
+          "name": "Jack Duncan"
+        },
+        {
+          "number": "21",
+          "name": "Ryan Nielsen"
+        },
+        {
+          "number": "51",
+          "name": "Syrus Amedore"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Skirmish 1",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Mockingbird",
+              "team2": "G Street",
+              "score1": 13,
+              "score2": 5,
+              "datetime": "2016-08-06T09:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Mockingbird",
+              "team2": "Griffons",
+              "score1": 12,
+              "score2": 11,
+              "datetime": "2016-08-06T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "G Street",
+              "team2": "Griffons",
+              "score1": 8,
+              "score2": 13,
+              "datetime": "2016-08-06T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "pools",
+      "name": "2nd Round Pool Play",
+      "groups": [
+        {
+          "name": "Pool B",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Mockingbird",
+              "team2": "Griffons",
+              "score1": 13,
+              "score2": 6,
+              "datetime": "2016-08-06T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Mockingbird",
+              "team2": "G Street",
+              "score1": 13,
+              "score2": 3,
+              "datetime": "2016-08-06T15:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

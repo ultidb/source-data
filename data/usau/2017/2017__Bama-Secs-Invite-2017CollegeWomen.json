@@ -1,0 +1,312 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2017/Bama-Secs-Invite-2017CollegeWomen",
+  "sourceUrl": "https://play.usaultimate.org/events/Bama-Secs-Invite-2017/schedule/Women/CollegeWomen/",
+  "scrapedAt": "2026-08-28T10:06:14.185670Z",
+  "event": {
+    "name": "Bama Secs Invite 2017",
+    "division": "College - Women ",
+    "gender": "",
+    "season": 2017,
+    "city": "Foley",
+    "state": "AL",
+    "country": "",
+    "startDate": "2017-02-04",
+    "endDate": "2017-02-05"
+  },
+  "teams": [
+    {
+      "name": "LSU",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "LSU Women's Ultimate",
+        "location": "Baton Rouge, Louisiana",
+        "website": "http://lsuuniversityrec.com/lsuurec/",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alice Noll"
+        },
+        {
+          "number": "0",
+          "name": "Anna Odenwald"
+        },
+        {
+          "number": "0",
+          "name": "Callie Doucet"
+        },
+        {
+          "number": "0",
+          "name": "Carrie Bradford"
+        },
+        {
+          "number": "0",
+          "name": "Chandler Burkenstock"
+        },
+        {
+          "number": "0",
+          "name": "Emma Clements"
+        },
+        {
+          "number": "0",
+          "name": "Erin Granger"
+        },
+        {
+          "number": "0",
+          "name": "Hannah Schroeder"
+        },
+        {
+          "number": "0",
+          "name": "Inah Hong"
+        },
+        {
+          "number": "0",
+          "name": "Sarah Allred"
+        },
+        {
+          "number": "0",
+          "name": "Sarah Tyson"
+        },
+        {
+          "number": "0",
+          "name": "Wenyu Xu"
+        },
+        {
+          "number": "29",
+          "name": "Tia Banerjee"
+        },
+        {
+          "number": "42",
+          "name": "Gina Guillory"
+        }
+      ]
+    },
+    {
+      "name": "Mississippi State",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Night Mare",
+        "location": "Starkville, Mississippi",
+        "website": "http://msunightmare.weebly.com/",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "01",
+          "name": "Emily Price"
+        },
+        {
+          "number": "03",
+          "name": "Gabriella Harmon"
+        },
+        {
+          "number": "04",
+          "name": "Ashley Prather"
+        },
+        {
+          "number": "05",
+          "name": "Emily Porterfield"
+        },
+        {
+          "number": "09",
+          "name": "Kaylie Crosby"
+        },
+        {
+          "number": "10",
+          "name": "Virginia Lomax"
+        },
+        {
+          "number": "11",
+          "name": "Alexis White"
+        },
+        {
+          "number": "13",
+          "name": "Kennedy Moehrs"
+        },
+        {
+          "number": "16",
+          "name": "Caitlin Regalia"
+        },
+        {
+          "number": "18",
+          "name": "Grace Robinson"
+        },
+        {
+          "number": "19",
+          "name": "Yi-Hwei Huang"
+        },
+        {
+          "number": "21",
+          "name": "Jamie Taylor"
+        },
+        {
+          "number": "55",
+          "name": "Hannah Skurzewski"
+        },
+        {
+          "number": "88",
+          "name": "Anna Crawford"
+        },
+        {
+          "number": "95",
+          "name": "Molly Morrow"
+        }
+      ]
+    },
+    {
+      "name": "Alabama-Birmingham",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Ember",
+        "location": "Birmingham, Alabama",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Alex Hanson"
+        },
+        {
+          "number": "00",
+          "name": "Anne Wilson"
+        },
+        {
+          "number": "00",
+          "name": "Jordan Stewart"
+        },
+        {
+          "number": "00",
+          "name": "Kyleigh Baker"
+        },
+        {
+          "number": "00",
+          "name": "Sarah Kelly"
+        },
+        {
+          "number": "07",
+          "name": "Jeni Weber"
+        },
+        {
+          "number": "11",
+          "name": "Lana Hejazen"
+        },
+        {
+          "number": "13",
+          "name": "Monique Oblena"
+        },
+        {
+          "number": "14",
+          "name": "Darby Franklin"
+        },
+        {
+          "number": "19",
+          "name": "Savannah Ferch"
+        },
+        {
+          "number": "21",
+          "name": "Destin Bailey"
+        },
+        {
+          "number": "24",
+          "name": "Cayla Hamilton"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Saturday",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "LSU",
+              "team2": "Alabama-Birmingham",
+              "score1": 13,
+              "score2": 5,
+              "datetime": "2017-02-04T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Mississippi State",
+              "team2": "Alabama-Birmingham",
+              "score1": 13,
+              "score2": 3,
+              "datetime": "2017-02-04T14:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Mississippi State",
+              "team2": "LSU",
+              "score1": 4,
+              "score2": 13,
+              "datetime": "2017-02-04T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "pools",
+      "name": "Sunday",
+      "groups": [
+        {
+          "name": "Pool B",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Mississippi State",
+              "team2": "Alabama-Birmingham",
+              "score1": 13,
+              "score2": 11,
+              "datetime": "2017-02-05T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "LSU",
+              "team2": "Alabama-Birmingham",
+              "score1": 13,
+              "score2": 5,
+              "datetime": "2017-02-05T09:50:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "LSU",
+              "team2": "Mississippi State",
+              "score1": 13,
+              "score2": 2,
+              "datetime": "2017-02-05T11:40:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

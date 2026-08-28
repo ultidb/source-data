@@ -1,0 +1,856 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2020/Chucktown-Throwdown-XVIICollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/Chucktown-Throwdown-XVII/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:17.552568Z",
+  "event": {
+    "name": "Chucktown Throwdown XVII 2020",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2020,
+    "city": "Charleston",
+    "state": "SC",
+    "country": "",
+    "startDate": "2020-02-15",
+    "endDate": "2020-02-16"
+  },
+  "teams": [
+    {
+      "name": "Appalachian State",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Nomads",
+        "location": "Boone, North Carolina",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/Nomads_Ultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Andrew Peters"
+        },
+        {
+          "number": "0",
+          "name": "Jacob Louie"
+        },
+        {
+          "number": "0",
+          "name": "Jeffrey Wilson"
+        },
+        {
+          "number": "0",
+          "name": "Joseph Cugliari"
+        },
+        {
+          "number": "0",
+          "name": "Malachai Gupta-Leary"
+        },
+        {
+          "number": "0",
+          "name": "Michael Parker"
+        },
+        {
+          "number": "0",
+          "name": "Miles Phillippi"
+        },
+        {
+          "number": "0",
+          "name": "Quinn Teddy"
+        },
+        {
+          "number": "0",
+          "name": "Trey Jansen"
+        },
+        {
+          "number": "0",
+          "name": "Tyler Morse"
+        },
+        {
+          "number": "0",
+          "name": "Bella Way"
+        },
+        {
+          "number": "0",
+          "name": "Zachary  Lewis"
+        },
+        {
+          "number": "2",
+          "name": "Hunter Loftin"
+        },
+        {
+          "number": "6",
+          "name": "Harrison Karlok"
+        },
+        {
+          "number": "7",
+          "name": "Sam Cheatham"
+        },
+        {
+          "number": "12",
+          "name": "Aidan Todd"
+        },
+        {
+          "number": "20",
+          "name": "Alec McCleary"
+        },
+        {
+          "number": "26",
+          "name": "Matthew McDaniel"
+        },
+        {
+          "number": "28",
+          "name": "Troy Miller"
+        },
+        {
+          "number": "33",
+          "name": "Zachary Angerson"
+        },
+        {
+          "number": "44",
+          "name": "Christopher Ferguson"
+        },
+        {
+          "number": "82",
+          "name": "Chase Parks"
+        },
+        {
+          "number": "83",
+          "name": "Daniel Johnson"
+        }
+      ]
+    },
+    {
+      "name": "Clemson",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Joint Chiefs of Waft",
+        "location": "Clemson, South Carolina",
+        "website": "http://www.clemson.edu/ultimate/",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Andrew Wetzel"
+        },
+        {
+          "number": "0",
+          "name": "Andrew  Lamberson"
+        },
+        {
+          "number": "0",
+          "name": "Benjamin Cram"
+        },
+        {
+          "number": "0",
+          "name": "Brad Farrell"
+        },
+        {
+          "number": "0",
+          "name": "Christian Pawlowski"
+        },
+        {
+          "number": "0",
+          "name": "Evan Miyasato"
+        },
+        {
+          "number": "0",
+          "name": "Harrison McLeland"
+        },
+        {
+          "number": "0",
+          "name": "Jackson Turner"
+        },
+        {
+          "number": "0",
+          "name": "Jake Chipper"
+        },
+        {
+          "number": "0",
+          "name": "Jonathan  Duen"
+        },
+        {
+          "number": "0",
+          "name": "Thomas Shirley"
+        },
+        {
+          "number": "0",
+          "name": "William Chandler"
+        },
+        {
+          "number": "0",
+          "name": "Zach Amend"
+        },
+        {
+          "number": "4",
+          "name": "Christian Heath"
+        },
+        {
+          "number": "7",
+          "name": "Brock Stephan"
+        },
+        {
+          "number": "8",
+          "name": "Jackson  Dye"
+        },
+        {
+          "number": "13",
+          "name": "Jacob Luksik"
+        },
+        {
+          "number": "16",
+          "name": "Daniel Custer"
+        },
+        {
+          "number": "22",
+          "name": "William Watson"
+        },
+        {
+          "number": "30",
+          "name": "Clay Wells"
+        },
+        {
+          "number": "35",
+          "name": "Wilson Bradley"
+        },
+        {
+          "number": "45",
+          "name": "Henry Baymiller"
+        },
+        {
+          "number": "88",
+          "name": "Zac Patterson"
+        }
+      ]
+    },
+    {
+      "name": "Wake Forest",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Well Oiled Machine, Baby",
+        "location": "Winston-Salem, North Carolina",
+        "website": "http://groups.wfu.edu/ultimate/",
+        "facebook": "https://www.facebook.com/groups/64778716459",
+        "twitter": "https://twitter.com/WFUltimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Alexander Boyer"
+        },
+        {
+          "number": "00",
+          "name": "Benjamin Black"
+        },
+        {
+          "number": "00",
+          "name": "Matthew Bevilacqua"
+        },
+        {
+          "number": "00",
+          "name": "Matthew David"
+        },
+        {
+          "number": "00",
+          "name": "Cole Straughn"
+        },
+        {
+          "number": "00",
+          "name": "Garrett Turner"
+        },
+        {
+          "number": "00",
+          "name": "Sean Freed"
+        },
+        {
+          "number": "00",
+          "name": "Shay Patel"
+        },
+        {
+          "number": "00",
+          "name": "Zachary Klaiman"
+        },
+        {
+          "number": "01",
+          "name": "Coby Schneider"
+        },
+        {
+          "number": "03",
+          "name": "Thomas Aucamp"
+        },
+        {
+          "number": "10",
+          "name": "Abinav Udaiyar"
+        },
+        {
+          "number": "14",
+          "name": "Stephen Lee"
+        },
+        {
+          "number": "17",
+          "name": "James Cook"
+        },
+        {
+          "number": "26",
+          "name": "Zachary Potter"
+        },
+        {
+          "number": "32",
+          "name": "Caleb Sawyer"
+        },
+        {
+          "number": "43",
+          "name": "Mitch Boyer"
+        },
+        {
+          "number": "44",
+          "name": "Nick Moeckel"
+        }
+      ]
+    },
+    {
+      "name": "East Carolina",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Irates",
+        "location": "Greenville, North Carolina",
+        "website": "",
+        "facebook": "https://www.facebook.com/ECUUltimateFrisbee",
+        "twitter": "https://twitter.com/ECUUltimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Troy Schuck"
+        },
+        {
+          "number": "3",
+          "name": "Ethan Mills"
+        },
+        {
+          "number": "6",
+          "name": "Camden Mancuso"
+        },
+        {
+          "number": "8",
+          "name": "George Hicks"
+        },
+        {
+          "number": "9",
+          "name": "Thomas Follett"
+        },
+        {
+          "number": "11",
+          "name": "Timothy Rees"
+        },
+        {
+          "number": "12",
+          "name": "Luke Wyatt"
+        },
+        {
+          "number": "18",
+          "name": "Kyle Davis"
+        },
+        {
+          "number": "19",
+          "name": "Reginald Brown"
+        },
+        {
+          "number": "20",
+          "name": "Alexander Hondros"
+        },
+        {
+          "number": "21",
+          "name": "Kevan Nikolich"
+        },
+        {
+          "number": "22",
+          "name": "Ryan McCabe"
+        },
+        {
+          "number": "24",
+          "name": "Dale Stewart"
+        },
+        {
+          "number": "27",
+          "name": "Jacob Klug"
+        },
+        {
+          "number": "30",
+          "name": "Hunter Gibbs"
+        },
+        {
+          "number": "42",
+          "name": "Thomas Bowen"
+        },
+        {
+          "number": "55",
+          "name": "Sam Brant"
+        },
+        {
+          "number": "69",
+          "name": "Joshua Lich"
+        },
+        {
+          "number": "77",
+          "name": "Christopher Bohl"
+        }
+      ]
+    },
+    {
+      "name": "Charleston",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Palmetto Bums",
+        "location": "Charleston, South Carolina",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Angus Ogilvie"
+        },
+        {
+          "number": "0",
+          "name": "Cannon Yarborough"
+        },
+        {
+          "number": "0",
+          "name": "Charlie Cantine"
+        },
+        {
+          "number": "0",
+          "name": "Jeb  Lesch"
+        },
+        {
+          "number": "0",
+          "name": "Lucas  Wall"
+        },
+        {
+          "number": "0",
+          "name": "Jack Gabrilowitz"
+        },
+        {
+          "number": "0",
+          "name": "Mitchell Morosey"
+        },
+        {
+          "number": "0",
+          "name": "Robert Weiss"
+        },
+        {
+          "number": "0",
+          "name": "Zaire Wardlaw"
+        },
+        {
+          "number": "2",
+          "name": "Robert Davenport"
+        },
+        {
+          "number": "2",
+          "name": "William Hutchisson"
+        },
+        {
+          "number": "2",
+          "name": "Michael Joe"
+        },
+        {
+          "number": "6",
+          "name": "Hussain Bhagat"
+        },
+        {
+          "number": "8",
+          "name": "Mason Huebsch"
+        },
+        {
+          "number": "15",
+          "name": "Matthew Doohan"
+        },
+        {
+          "number": "25",
+          "name": "Jake Brenner"
+        },
+        {
+          "number": "41",
+          "name": "William Minter IV"
+        },
+        {
+          "number": "47",
+          "name": "Derek Davidson"
+        },
+        {
+          "number": "66",
+          "name": "Zack Pickler"
+        }
+      ]
+    },
+    {
+      "name": "Campbell",
+      "seed": 7,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Camels",
+        "location": "Buies Creek, North Carolina",
+        "website": "N/A",
+        "facebook": "https://www.facebook.com/Campbell-University-Club-Ultimate-Frisbee-1969589296404619/",
+        "twitter": "N/A"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "01",
+          "name": "D'Andre Ward"
+        },
+        {
+          "number": "03",
+          "name": "Thomas Cameron"
+        },
+        {
+          "number": "04",
+          "name": "Tyler Pritchett"
+        },
+        {
+          "number": "07",
+          "name": "Logan  Dubin"
+        },
+        {
+          "number": "09",
+          "name": "James Kornegay"
+        },
+        {
+          "number": "10",
+          "name": "Charles Spencer"
+        },
+        {
+          "number": "15",
+          "name": "Hunter Jackson"
+        },
+        {
+          "number": "17",
+          "name": "Kyle Anderson"
+        },
+        {
+          "number": "24",
+          "name": "Steven Icard"
+        },
+        {
+          "number": "25",
+          "name": "Matthew Fallaw"
+        },
+        {
+          "number": "27",
+          "name": "Justin Holland"
+        },
+        {
+          "number": "32",
+          "name": "Edmund  Cameron"
+        },
+        {
+          "number": "33",
+          "name": "Jacob Richmond"
+        },
+        {
+          "number": "34",
+          "name": "Alec Dement"
+        },
+        {
+          "number": "66",
+          "name": "Brady Furey"
+        }
+      ]
+    },
+    {
+      "name": "North Florida",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Category 5",
+        "location": "Jacksonville, Florida",
+        "website": "",
+        "facebook": "https://www.facebook.com/groups/653951534617192/",
+        "twitter": "https://twitter.com/UNF_Category5"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Anna Dubon"
+        },
+        {
+          "number": "0",
+          "name": "Catherine Tortorici"
+        },
+        {
+          "number": "0",
+          "name": "Devon Bradford"
+        },
+        {
+          "number": "0",
+          "name": "Jeffrey Simons"
+        },
+        {
+          "number": "0",
+          "name": "Lina Fares"
+        },
+        {
+          "number": "0",
+          "name": "Noah Lawrence"
+        },
+        {
+          "number": "0",
+          "name": "Tyler Pena"
+        },
+        {
+          "number": "2",
+          "name": "Cameron Klug"
+        },
+        {
+          "number": "5",
+          "name": "Courtney Brening"
+        },
+        {
+          "number": "8",
+          "name": "Ayeesha de Leon"
+        },
+        {
+          "number": "10",
+          "name": "Daniel Smith"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Throwdown",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Clemson",
+              "team2": "Wake Forest",
+              "score1": 12,
+              "score2": 5,
+              "datetime": "2020-02-15T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "East Carolina",
+              "team2": "North Florida",
+              "score1": 10,
+              "score2": 6,
+              "datetime": "2020-02-15T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Charleston",
+              "team2": "Campbell",
+              "score1": 9,
+              "score2": 8,
+              "datetime": "2020-02-15T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Clemson",
+              "team2": "Charleston",
+              "score1": 11,
+              "score2": 4,
+              "datetime": "2020-02-15T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "East Carolina",
+              "team2": "Campbell",
+              "score1": 8,
+              "score2": 7,
+              "datetime": "2020-02-15T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Appalachian State",
+              "team2": "Wake Forest",
+              "score1": 10,
+              "score2": 9,
+              "datetime": "2020-02-15T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Appalachian State",
+              "team2": "Charleston",
+              "score1": 11,
+              "score2": 2,
+              "datetime": "2020-02-15T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "North Florida",
+              "team2": "Campbell",
+              "score1": 7,
+              "score2": 9,
+              "datetime": "2020-02-15T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Appalachian State",
+              "team2": "East Carolina",
+              "score1": 11,
+              "score2": 3,
+              "datetime": "2020-02-15T14:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Charleston",
+              "team2": "Wake Forest",
+              "score1": 5,
+              "score2": 8,
+              "datetime": "2020-02-15T14:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Clemson",
+              "team2": "North Florida",
+              "score1": 12,
+              "score2": 3,
+              "datetime": "2020-02-15T14:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "East Carolina",
+              "team2": "Wake Forest",
+              "score1": 6,
+              "score2": 10,
+              "datetime": "2020-02-15T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Clemson",
+              "team2": "Campbell",
+              "score1": 10,
+              "score2": 8,
+              "datetime": "2020-02-15T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Appalachian State",
+              "team2": "North Florida",
+              "score1": 12,
+              "score2": 3,
+              "datetime": "2020-02-15T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Throwdown",
+      "groups": [
+        {
+          "name": "Championship Round",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Appalachian State",
+              "team2": "Clemson",
+              "score1": 10,
+              "score2": 11,
+              "datetime": "2020-02-16T10:45:00Z",
+              "round": "Championship Round",
+              "status": "Final"
+            },
+            {
+              "team1": "Appalachian State",
+              "team2": "Wake Forest",
+              "score1": 14,
+              "score2": 5,
+              "datetime": "2020-02-16T09:00:00Z",
+              "round": "1st Round",
+              "status": "Final"
+            },
+            {
+              "team1": "Clemson",
+              "team2": "East Carolina",
+              "score1": 15,
+              "score2": 5,
+              "datetime": "2020-02-16T09:00:00Z",
+              "round": "1st Round",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Consolation Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Charleston",
+              "team2": "Campbell",
+              "score1": 9,
+              "score2": 8,
+              "datetime": "2020-02-16T12:30:00Z",
+              "round": "Round 3",
+              "status": "Final"
+            },
+            {
+              "team1": "Campbell",
+              "team2": "North Florida",
+              "score1": 10,
+              "score2": 5,
+              "datetime": "2020-02-16T10:45:00Z",
+              "round": "Round 2",
+              "status": "Final"
+            },
+            {
+              "team1": "Charleston",
+              "team2": "North Florida",
+              "score1": 9,
+              "score2": 10,
+              "datetime": "2020-02-16T09:00:00Z",
+              "round": "Round 1",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

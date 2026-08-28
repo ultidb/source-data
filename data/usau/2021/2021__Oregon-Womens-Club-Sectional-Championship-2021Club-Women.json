@@ -1,0 +1,241 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2021/Oregon-Womens-Club-Sectional-Championship-2021Club-Women",
+  "sourceUrl": "https://play.usaultimate.org/events/Oregon-Womens-Club-Sectional-Championship-2021/schedule/Women/Club-Women/",
+  "scrapedAt": "2026-08-28T10:06:17.891217Z",
+  "event": {
+    "name": "Oregon Women's Club Sectional Championship 2021",
+    "division": "Club - Women ",
+    "gender": "",
+    "season": 2021,
+    "city": "Corvallis",
+    "state": "OR",
+    "country": "",
+    "startDate": "2021-09-11",
+    "endDate": "2021-09-12"
+  },
+  "teams": [
+    {
+      "name": "Schwa",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Portland, Oregon",
+        "website": "https://www.oregonschwa.com/",
+        "facebook": "https://www.facebook.com/schwaultimate",
+        "twitter": "https://twitter.com/SchwaUltimate"
+      },
+      "coaches": [
+        "Robert Gough",
+        "Alyson Steinfeld",
+        "Eli Janin"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Claudia Tajima"
+        },
+        {
+          "number": "0",
+          "name": "Danielle Runzo"
+        },
+        {
+          "number": "0",
+          "name": "Aubri Bishop"
+        },
+        {
+          "number": "0",
+          "name": "Jaycee Jones"
+        },
+        {
+          "number": "0",
+          "name": "Kyra Khoroujnikova"
+        },
+        {
+          "number": "0",
+          "name": "Morgan Caldwell"
+        },
+        {
+          "number": "0",
+          "name": "Morgan Zajonc"
+        },
+        {
+          "number": "5",
+          "name": "Kimber Coles"
+        },
+        {
+          "number": "8",
+          "name": "Eva Popp"
+        },
+        {
+          "number": "9",
+          "name": "Brenna Bailey"
+        },
+        {
+          "number": "11",
+          "name": "Rachel Egan"
+        },
+        {
+          "number": "12",
+          "name": "Caroline Swanson"
+        },
+        {
+          "number": "13",
+          "name": "Yazelis Benitez-Villegas"
+        },
+        {
+          "number": "15",
+          "name": "Katie Blise"
+        },
+        {
+          "number": "15",
+          "name": "Kelsey Salvo"
+        },
+        {
+          "number": "16",
+          "name": "Kristen Rosenblum"
+        },
+        {
+          "number": "18",
+          "name": "Julia Sherwood"
+        },
+        {
+          "number": "19",
+          "name": "Georgina Tetlow"
+        },
+        {
+          "number": "19",
+          "name": "Amy Turner"
+        },
+        {
+          "number": "22",
+          "name": "Natalie Hancock"
+        },
+        {
+          "number": "27",
+          "name": "Elizabeth Longmire"
+        },
+        {
+          "number": "28",
+          "name": "Shannon Dennehy"
+        },
+        {
+          "number": "44",
+          "name": "Lyudmila Likhonina"
+        },
+        {
+          "number": "47",
+          "name": "Madeleine Franz"
+        },
+        {
+          "number": "55",
+          "name": "Emery Otopalik"
+        },
+        {
+          "number": "99",
+          "name": "Noelle Takahashi"
+        }
+      ]
+    },
+    {
+      "name": "Downpour",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Eugene, Oregon",
+        "website": "oregonyouthultimate.org",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "Rachelle Depner"
+      ],
+      "roster": [
+        {
+          "number": "2",
+          "name": "Acacia Hahn"
+        },
+        {
+          "number": "4",
+          "name": "Alice Wayte"
+        },
+        {
+          "number": "6",
+          "name": "Jeannie Feng"
+        },
+        {
+          "number": "11",
+          "name": "Opal Burruss"
+        },
+        {
+          "number": "12",
+          "name": "Madigan Rear"
+        },
+        {
+          "number": "13",
+          "name": "Mara Hindery-Glasinovic"
+        },
+        {
+          "number": "14",
+          "name": "Ella Khoury "
+        },
+        {
+          "number": "23",
+          "name": "Brielle Ramsdal"
+        },
+        {
+          "number": "24",
+          "name": "Eleni Kauffman"
+        },
+        {
+          "number": "29",
+          "name": "Samaya Noble-Kats"
+        },
+        {
+          "number": "32",
+          "name": "Ysabella Zaloudek-Luba"
+        },
+        {
+          "number": "33",
+          "name": "Arenaria Cramer"
+        },
+        {
+          "number": "72",
+          "name": "Ezra Weybright"
+        },
+        {
+          "number": "73",
+          "name": "Eli Donohue"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Finals",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Schwa",
+              "team2": "Downpour",
+              "score1": 13,
+              "score2": 3,
+              "datetime": "2021-09-18T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

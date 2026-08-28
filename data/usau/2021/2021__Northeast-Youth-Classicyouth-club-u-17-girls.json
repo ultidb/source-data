@@ -1,0 +1,150 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2021/Northeast-Youth-Classicyouth-club-u-17-girls",
+  "sourceUrl": "https://play.usaultimate.org/events/Northeast-Youth-Classic/schedule/Girls/youth-club-u-17-girls/",
+  "scrapedAt": "2026-08-28T10:06:17.860815Z",
+  "event": {
+    "name": "Northeast Youth Classic 2021",
+    "division": "Youth Club U-17 - Girls ",
+    "gender": "",
+    "season": 2021,
+    "city": "Randall's Island",
+    "state": "NY",
+    "country": "",
+    "startDate": "2021-08-07",
+    "endDate": "2021-08-08"
+  },
+  "teams": [
+    {
+      "name": "Philadelphia Pythons",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Philadelphia, Pennsylvania",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "Lisa Meeden",
+        "William Hodges"
+      ],
+      "roster": [
+        {
+          "number": "2",
+          "name": "Evangeline  Gove"
+        },
+        {
+          "number": "6",
+          "name": "Diana Huang"
+        },
+        {
+          "number": "7",
+          "name": "Hanna Roemer-Block"
+        },
+        {
+          "number": "9",
+          "name": "Rona Liu-Zhong"
+        },
+        {
+          "number": "16",
+          "name": "Grace Maroon"
+        },
+        {
+          "number": "17",
+          "name": "Madelin Singer"
+        },
+        {
+          "number": "18",
+          "name": "Sofia Solis"
+        },
+        {
+          "number": "20",
+          "name": "Lillian Hodges"
+        },
+        {
+          "number": "25",
+          "name": "Sabina Melfi"
+        },
+        {
+          "number": "35",
+          "name": "Ella Kesler"
+        },
+        {
+          "number": "44",
+          "name": "Malena Duque-Baird"
+        }
+      ]
+    },
+    {
+      "name": "BUDA",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Somerville, Massachusetts",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": " ",
+          "name": "Lauren"
+        },
+        {
+          "number": "0",
+          "name": "Willa Glass"
+        },
+        {
+          "number": "0",
+          "name": "Ellie Lemberg"
+        },
+        {
+          "number": "0",
+          "name": "Grace Schifilliti"
+        },
+        {
+          "number": "0",
+          "name": "Helena Easton "
+        },
+        {
+          "number": "0",
+          "name": "Josette Glass"
+        },
+        {
+          "number": "44",
+          "name": "Celeste Lin-Butler"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "BUDA",
+              "team2": "Philadelphia Pythons",
+              "score1": 6,
+              "score2": 9,
+              "datetime": "2021-08-07T15:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

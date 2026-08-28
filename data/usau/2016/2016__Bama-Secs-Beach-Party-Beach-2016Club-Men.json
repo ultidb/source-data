@@ -1,0 +1,289 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2016/Bama-Secs-Beach-Party-Beach-2016Club-Men",
+  "sourceUrl": "https://play.usaultimate.org/events/Bama-Secs-Beach-Party-Beach-2016/schedule/Men/Club-Men/",
+  "scrapedAt": "2026-08-28T10:06:13.046344Z",
+  "event": {
+    "name": "Bama Secs Beach Party-Beach 2016",
+    "division": "Club - Men ",
+    "gender": "",
+    "season": 2016,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "country": "",
+    "startDate": "2016-03-22",
+    "endDate": "2016-03-24"
+  },
+  "teams": [
+    {
+      "name": "GT Off Constantly",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Atlanta, Georgia",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Evan Davies"
+        },
+        {
+          "number": "0",
+          "name": "Nick Ryan"
+        },
+        {
+          "number": "15",
+          "name": "Richard Bragg"
+        },
+        {
+          "number": "16",
+          "name": "John Dugan"
+        },
+        {
+          "number": "18",
+          "name": "Patrick McGannon"
+        },
+        {
+          "number": "21",
+          "name": "Wesley Howell"
+        }
+      ]
+    },
+    {
+      "name": "St Thomas",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Purple Reign",
+        "location": "St. Paul, Minnesota",
+        "website": "",
+        "facebook": "https://www.facebook.com/pages/Purple-Reign/1447630738782620",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "5",
+          "name": "Geoffrey McQuillan"
+        },
+        {
+          "number": "7",
+          "name": "Lucas  Tucker"
+        },
+        {
+          "number": "10",
+          "name": "Tyler Mullikin"
+        },
+        {
+          "number": "11",
+          "name": "Sam Burrows"
+        },
+        {
+          "number": "13",
+          "name": "Nate Haines"
+        },
+        {
+          "number": "19",
+          "name": "JOSEPH MURPHY"
+        },
+        {
+          "number": "33",
+          "name": "Louis Missurelli"
+        },
+        {
+          "number": "41",
+          "name": "Anthony Tufo"
+        },
+        {
+          "number": "45",
+          "name": "DANIEL MULALLY"
+        },
+        {
+          "number": "47",
+          "name": "Alex Krajec"
+        },
+        {
+          "number": "55",
+          "name": "Brandon McClintock"
+        },
+        {
+          "number": "88",
+          "name": "Matt Tillquist"
+        }
+      ]
+    },
+    {
+      "name": "Wisconsin (B)",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Pimpdags",
+        "location": "Madison, Wisconsin",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Joshua Garvey"
+        },
+        {
+          "number": "0",
+          "name": "Cody Milstein"
+        },
+        {
+          "number": "0",
+          "name": "Samuel Fritz"
+        },
+        {
+          "number": "0",
+          "name": "Jacob Calbaum"
+        },
+        {
+          "number": "0",
+          "name": "Rishabh Kishore"
+        },
+        {
+          "number": "3",
+          "name": "Matthew Owens"
+        },
+        {
+          "number": "4",
+          "name": "Gregory Smail"
+        },
+        {
+          "number": "5",
+          "name": "Joseph Nelson"
+        },
+        {
+          "number": "6",
+          "name": "Anders Shropshire"
+        },
+        {
+          "number": "7",
+          "name": "David Cann"
+        },
+        {
+          "number": "8",
+          "name": "Ben Schewe"
+        },
+        {
+          "number": "9",
+          "name": "MICHAEL SCHULENBERG"
+        },
+        {
+          "number": "15",
+          "name": "CONNOR HARTIGAN"
+        },
+        {
+          "number": "16",
+          "name": "Sean Markey"
+        },
+        {
+          "number": "16",
+          "name": "Brian Paulus"
+        },
+        {
+          "number": "16",
+          "name": "Mitchell Rose"
+        },
+        {
+          "number": "19",
+          "name": "Daniel Davies"
+        },
+        {
+          "number": "20",
+          "name": "Nathan Richman"
+        },
+        {
+          "number": "42",
+          "name": "Andrew Ishikawa"
+        },
+        {
+          "number": "44",
+          "name": "Anders Haroldson"
+        },
+        {
+          "number": "67",
+          "name": "LUKE WENNEN"
+        },
+        {
+          "number": "69",
+          "name": "Danny Gollin"
+        },
+        {
+          "number": "79",
+          "name": "Tim Hinkens"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Tuesday",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "GT Off Constantly",
+              "team2": "Wisconsin (B)",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2016-03-22T13:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "St Thomas",
+              "team2": "Wisconsin (B)",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2016-03-22T14:15:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "GT Off Constantly",
+              "team2": "St Thomas",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2016-03-22T15:30:00Z",
+              "round": "",
+              "status": "Scheduled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Wednesday",
+      "groups": [
+        {
+          "name": "1st",
+          "isChampionship": false,
+          "games": []
+        },
+        {
+          "name": "3rd",
+          "isChampionship": false,
+          "games": []
+        }
+      ]
+    }
+  ]
+}

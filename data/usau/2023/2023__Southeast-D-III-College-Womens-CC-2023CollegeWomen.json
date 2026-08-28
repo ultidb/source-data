@@ -1,0 +1,218 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2023/Southeast-D-III-College-Womens-CC-2023CollegeWomen",
+  "sourceUrl": "https://play.usaultimate.org/events/Southeast-D-III-College-Womens-CC-2023/schedule/Women/CollegeWomen/",
+  "scrapedAt": "2026-08-28T10:06:19.776440Z",
+  "event": {
+    "name": "Southeast D-III College Women's CC 2023",
+    "division": "College - Women ",
+    "gender": "",
+    "season": 2023,
+    "city": "Decatur",
+    "state": "AL",
+    "country": "",
+    "startDate": "2023-04-22",
+    "endDate": "2023-04-23"
+  },
+  "teams": [
+    {
+      "name": "Berry",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Valkyries",
+        "location": "Mount Berry, Georgia",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Cydney Kapperman"
+        },
+        {
+          "number": "03",
+          "name": "Karsen Brantley"
+        },
+        {
+          "number": "05",
+          "name": "Caitlyn Petmecky"
+        },
+        {
+          "number": "06",
+          "name": "Miranda Merchant"
+        },
+        {
+          "number": "07",
+          "name": "Hannah Tritschler"
+        },
+        {
+          "number": "09",
+          "name": "Jayla  Joyner"
+        },
+        {
+          "number": "11",
+          "name": "Ashleigh Dunlop"
+        },
+        {
+          "number": "12",
+          "name": "Kristen Stanley"
+        },
+        {
+          "number": "14",
+          "name": "Ellison Sherrod"
+        },
+        {
+          "number": "17",
+          "name": "Isabelle Goninan"
+        },
+        {
+          "number": "20",
+          "name": "Rosemari Hill"
+        },
+        {
+          "number": "21",
+          "name": "Katie Abbott"
+        },
+        {
+          "number": "22",
+          "name": "Corley Compton"
+        },
+        {
+          "number": "25",
+          "name": "Rosie Driscoll"
+        },
+        {
+          "number": "28",
+          "name": "Elizabeth Walrod"
+        },
+        {
+          "number": "33",
+          "name": "Lyndsey Francingues"
+        }
+      ]
+    },
+    {
+      "name": "Union (Tennessee)",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Tennessee) (Jillz",
+        "location": "Jackson, Tennessee",
+        "website": "",
+        "facebook": "",
+        "twitter": "UnionJillz"
+      },
+      "coaches": [
+        "Harrison Hayes",
+        "Victoria Graves"
+      ],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Kathryn Haynes "
+        },
+        {
+          "number": "01",
+          "name": "Elizabeth Sowell"
+        },
+        {
+          "number": "03",
+          "name": "Joy Tiebout"
+        },
+        {
+          "number": "04",
+          "name": "Sarah Skinner"
+        },
+        {
+          "number": "05",
+          "name": "Victoria Green"
+        },
+        {
+          "number": "06",
+          "name": "Elyse Pearman"
+        },
+        {
+          "number": "07",
+          "name": "Lindsey Norwood"
+        },
+        {
+          "number": "08",
+          "name": "Claire Ward"
+        },
+        {
+          "number": "09",
+          "name": "Chloe Jacobs"
+        },
+        {
+          "number": "10",
+          "name": "Katie McCann"
+        },
+        {
+          "number": "11",
+          "name": "Abigail Bone"
+        },
+        {
+          "number": "18",
+          "name": "Becca Rackley"
+        },
+        {
+          "number": "23",
+          "name": "Courtney Lawson"
+        },
+        {
+          "number": "24",
+          "name": "Caroline Lukasick"
+        },
+        {
+          "number": "27",
+          "name": "MollieKay Grubbs"
+        },
+        {
+          "number": "28",
+          "name": "Rachel Becker"
+        },
+        {
+          "number": "34",
+          "name": "Sarah Trouwborst"
+        },
+        {
+          "number": "35",
+          "name": "Hayley Keys"
+        },
+        {
+          "number": "55",
+          "name": "Ava Floyd"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Championship Game",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Union (Tennessee)",
+              "team2": "Berry",
+              "score1": 12,
+              "score2": 14,
+              "datetime": "2023-04-22T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

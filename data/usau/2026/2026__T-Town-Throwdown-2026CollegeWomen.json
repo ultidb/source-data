@@ -1,0 +1,375 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2026/T-Town-Throwdown-2026CollegeWomen",
+  "sourceUrl": "https://play.usaultimate.org/events/T-Town-Throwdown-2026/schedule/Women/CollegeWomen/",
+  "scrapedAt": "2026-08-28T10:06:23.097709Z",
+  "event": {
+    "name": "Tally Classic XX 2026",
+    "division": "College - Women ",
+    "gender": "",
+    "season": 2026,
+    "city": "Tuscaloosa",
+    "state": "AL",
+    "country": "",
+    "startDate": "2026-03-07",
+    "endDate": "2026-03-08"
+  },
+  "teams": [
+    {
+      "name": "Notre Dame",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": null,
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Florida State",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": null,
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Harvard",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": null,
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "South Florida",
+      "seed": 8,
+      "sourceTeamId": "",
+      "url": "",
+      "info": null,
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Jacksonville State",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Fuego",
+        "location": "Jacksonville, Alabama",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/jsufuego"
+      },
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Clemson",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Tiger Lilies",
+        "location": "Clemson, South Carolina",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alexa Ivnik"
+        },
+        {
+          "number": "0",
+          "name": "Amanda Lam"
+        },
+        {
+          "number": "0",
+          "name": "Arianna Hagen"
+        },
+        {
+          "number": "0",
+          "name": "Caitlin McDade"
+        },
+        {
+          "number": "0",
+          "name": "Eliana Broersma"
+        },
+        {
+          "number": "0",
+          "name": "Katherine Brosnan"
+        },
+        {
+          "number": "0",
+          "name": "Laura Honeycutt"
+        },
+        {
+          "number": "0",
+          "name": "Maura Korte"
+        },
+        {
+          "number": "0",
+          "name": "Meg Jew"
+        },
+        {
+          "number": "0",
+          "name": "Rachel Parrish"
+        },
+        {
+          "number": "0",
+          "name": "Sabrina Fernandez"
+        },
+        {
+          "number": "0",
+          "name": "Stella Martyak"
+        },
+        {
+          "number": "1",
+          "name": "Eliza Haines"
+        }
+      ]
+    },
+    {
+      "name": "Georgia College",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Lynx rufus",
+        "location": "Milledgeville, Georgia",
+        "website": "https://www.gcultimate.org/women.html",
+        "facebook": "https://www.facebook.com/groups/1394114984201151/",
+        "twitter": "https://www.twitter.com/gc_lynx_rufus"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "1",
+          "name": "Celia McDaniel"
+        },
+        {
+          "number": "2",
+          "name": "Paige Sandidge"
+        },
+        {
+          "number": "3",
+          "name": "Virginia Copeland"
+        },
+        {
+          "number": "6",
+          "name": "Peyton Miller"
+        },
+        {
+          "number": "10",
+          "name": "Gabriella Wetmore"
+        },
+        {
+          "number": "11",
+          "name": "Bridget Mainor"
+        },
+        {
+          "number": "13",
+          "name": "Lauren Grashof"
+        },
+        {
+          "number": "22",
+          "name": "Julia Grabowski"
+        },
+        {
+          "number": "24",
+          "name": "Megan Baggs"
+        },
+        {
+          "number": "26",
+          "name": "Katie Hitt"
+        },
+        {
+          "number": "36",
+          "name": "SophieMarie Morgan"
+        },
+        {
+          "number": "45",
+          "name": "Annabelle Moscovitz"
+        },
+        {
+          "number": "69",
+          "name": "Breanna Bender"
+        }
+      ]
+    },
+    {
+      "name": "Notre Dame (B)",
+      "seed": 7,
+      "sourceTeamId": "",
+      "url": "",
+      "info": null,
+      "coaches": [],
+      "roster": []
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Notre Dame",
+              "team2": "Harvard",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-03-14T08:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Florida State",
+              "team2": "South Florida",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-03-14T08:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Notre Dame",
+              "team2": "South Florida",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-03-14T09:40:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Florida State",
+              "team2": "Harvard",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-03-14T09:40:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Notre Dame",
+              "team2": "Florida State",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-03-14T11:20:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Harvard",
+              "team2": "South Florida",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-03-14T11:20:00Z",
+              "round": "",
+              "status": "Scheduled"
+            }
+          ]
+        },
+        {
+          "name": "Pool B",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Jacksonville State",
+              "team2": "Georgia College",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-03-15T09:40:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Clemson",
+              "team2": "Notre Dame (B)",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-03-15T09:40:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Jacksonville State",
+              "team2": "Notre Dame (B)",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-03-15T11:20:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Clemson",
+              "team2": "Georgia College",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-03-15T11:20:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Jacksonville State",
+              "team2": "Clemson",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-03-15T13:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Georgia College",
+              "team2": "Notre Dame (B)",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-03-15T13:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "clusters",
+      "name": "Pre-Bracket Crossover",
+      "groups": []
+    },
+    {
+      "type": "brackets",
+      "name": "Bracket Play",
+      "groups": [
+        {
+          "name": "1st Place Bracket",
+          "isChampionship": false,
+          "games": []
+        },
+        {
+          "name": "3rd Place Game",
+          "isChampionship": false,
+          "games": []
+        },
+        {
+          "name": "5th Place Bracket",
+          "isChampionship": false,
+          "games": []
+        },
+        {
+          "name": "7th Place Game",
+          "isChampionship": false,
+          "games": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2023/Soda-City-Round-RobinClub-Mixed",
+  "sourceUrl": "https://play.usaultimate.org/events/Soda-City-Round-Robin/schedule/Mixed/Club-Mixed",
+  "scrapedAt": "2026-08-28T10:06:19.762468Z",
+  "event": {
+    "name": "Soda City Round-Robin 2023",
+    "division": "Club - Mixed ",
+    "gender": "",
+    "season": 2023,
+    "city": "Columbia",
+    "state": "SC",
+    "country": "",
+    "startDate": "2023-08-26",
+    "endDate": "2023-08-26"
+  },
+  "teams": [
+    {
+      "name": "Dizzy Kitty",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Columbia, South Carolina",
+        "website": "https://www.instagram.com/dizzykittyultimate/",
+        "facebook": "",
+        "twitter": "https://twitter.com/DizzyKitty_Ulti"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Corrie LaBelle"
+        },
+        {
+          "number": "0",
+          "name": "Emma Owens"
+        },
+        {
+          "number": "0",
+          "name": "Emma Britt"
+        },
+        {
+          "number": "0",
+          "name": "Jacob McClary"
+        },
+        {
+          "number": "0",
+          "name": "Joseph  Cammarata"
+        },
+        {
+          "number": "0",
+          "name": "Katherine Tse"
+        },
+        {
+          "number": "0",
+          "name": "Kayla McClary"
+        },
+        {
+          "number": "0",
+          "name": "Michael Cote"
+        },
+        {
+          "number": "0",
+          "name": "Sara Steger"
+        },
+        {
+          "number": "0",
+          "name": "Thomas Davidson"
+        },
+        {
+          "number": "0",
+          "name": "Tristin Ray"
+        },
+        {
+          "number": "0",
+          "name": "William Caspino"
+        },
+        {
+          "number": "0",
+          "name": "Erin Kemp"
+        },
+        {
+          "number": "4",
+          "name": "Elizabeth Williams"
+        },
+        {
+          "number": "5",
+          "name": "Carter Hayes"
+        },
+        {
+          "number": "7",
+          "name": "Caspar Tarr"
+        },
+        {
+          "number": "10",
+          "name": "Sam Schmoker"
+        },
+        {
+          "number": "13",
+          "name": "Christopher Chen"
+        },
+        {
+          "number": "16",
+          "name": "Andrew White"
+        },
+        {
+          "number": "25",
+          "name": "Gabriella Cruz"
+        },
+        {
+          "number": "28",
+          "name": "David Olsen"
+        },
+        {
+          "number": "48",
+          "name": "Erin  McDonough"
+        },
+        {
+          "number": "66",
+          "name": "Robert Gunshefski"
+        }
+      ]
+    },
+    {
+      "name": "FlyTrap",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Wilmington, North Carolina",
+        "website": "",
+        "facebook": "https://www.facebook.com/FlyTrap-Ultimate-599420990399270/",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alyson Edwards"
+        },
+        {
+          "number": "0",
+          "name": "Andy Magee"
+        },
+        {
+          "number": "0",
+          "name": "Brandon Watford"
+        },
+        {
+          "number": "0",
+          "name": "Brittani Isidoro"
+        },
+        {
+          "number": "0",
+          "name": "Cristiana Falvo"
+        },
+        {
+          "number": "0",
+          "name": "Daniel Lemmen"
+        },
+        {
+          "number": "0",
+          "name": "Jacqueline  Chivers"
+        },
+        {
+          "number": "0",
+          "name": "Jessica Cheu"
+        },
+        {
+          "number": "0",
+          "name": "Joey Bye"
+        },
+        {
+          "number": "0",
+          "name": "Joseph Sharp"
+        },
+        {
+          "number": "0",
+          "name": "Julia Buehler"
+        },
+        {
+          "number": "0",
+          "name": "Kelly Funderburk"
+        },
+        {
+          "number": "0",
+          "name": "Mason Oppert"
+        },
+        {
+          "number": "0",
+          "name": "Sarah Hasch"
+        },
+        {
+          "number": "0",
+          "name": "vincent  frungillo"
+        },
+        {
+          "number": "0",
+          "name": "Whitney Elliott"
+        },
+        {
+          "number": "0",
+          "name": "Lacey Coppage"
+        },
+        {
+          "number": "10",
+          "name": "Luke Hancock"
+        },
+        {
+          "number": "13",
+          "name": "Artemio Pascual"
+        },
+        {
+          "number": "56",
+          "name": "Kyle Gibbons"
+        },
+        {
+          "number": "66",
+          "name": "Jordan Haines"
+        },
+        {
+          "number": "87",
+          "name": "Colin Eimers"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Match Play 1",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "FlyTrap",
+              "team2": "Dizzy Kitty",
+              "score1": 11,
+              "score2": 13,
+              "datetime": "2023-08-26T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "pools",
+      "name": "Match Play 2",
+      "groups": [
+        {
+          "name": "Pool B",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "FlyTrap",
+              "team2": "Dizzy Kitty",
+              "score1": 11,
+              "score2": 10,
+              "datetime": "2023-08-26T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

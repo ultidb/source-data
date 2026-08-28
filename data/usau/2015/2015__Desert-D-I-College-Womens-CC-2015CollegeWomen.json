@@ -1,0 +1,230 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2015/Desert-D-I-College-Womens-CC-2015CollegeWomen",
+  "sourceUrl": "https://play.usaultimate.org/events/Desert-D-I-College-Womens-CC-2015/schedule/Women/CollegeWomen/",
+  "scrapedAt": "2026-08-28T10:06:12.301580Z",
+  "event": {
+    "name": "Desert D-I College Women's CC 2015",
+    "division": "College - Women ",
+    "gender": "",
+    "season": 2015,
+    "city": "Scottsdale",
+    "state": "AZ",
+    "country": "",
+    "startDate": "2015-04-11",
+    "endDate": "2015-04-12"
+  },
+  "teams": [
+    {
+      "name": "Arizona",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Scorch",
+        "location": "Tucson, Arizona",
+        "website": "http://scorchultimate.weebly.com",
+        "facebook": "https://www.facebook.com/ArizonaScorchUltimate",
+        "twitter": "https://twitter.com/Scorchapolis"
+      },
+      "coaches": [
+        "Laura Prelsnik",
+        "Simrit Khalsa"
+      ],
+      "roster": [
+        {
+          "number": "01",
+          "name": "Christine Tang"
+        },
+        {
+          "number": "02",
+          "name": "Kapri Cameli"
+        },
+        {
+          "number": "04",
+          "name": "Colleen Nakanishi"
+        },
+        {
+          "number": "05",
+          "name": "Michaela Webb"
+        },
+        {
+          "number": "06",
+          "name": "Eva Wilson"
+        },
+        {
+          "number": "07",
+          "name": "Claire Levenberg"
+        },
+        {
+          "number": "08",
+          "name": "Nancy Freitas"
+        },
+        {
+          "number": "09",
+          "name": "Annie Wilson"
+        },
+        {
+          "number": "10",
+          "name": "Nysa Swanson"
+        },
+        {
+          "number": "11",
+          "name": "Elizabeth Hannah"
+        },
+        {
+          "number": "13",
+          "name": "Catherine Krigbaum"
+        },
+        {
+          "number": "14",
+          "name": "Eunhye \"Grace\" Kim"
+        },
+        {
+          "number": "16",
+          "name": "Megan Mills-Novoa"
+        },
+        {
+          "number": "21",
+          "name": "Tegan  Cirulli"
+        },
+        {
+          "number": "23",
+          "name": "Courtney Collingwood"
+        },
+        {
+          "number": "26",
+          "name": "Kayla Patterson"
+        },
+        {
+          "number": "32",
+          "name": "Hannah Dinell"
+        },
+        {
+          "number": "33",
+          "name": "Emily Page"
+        },
+        {
+          "number": "44",
+          "name": "Devon Chapman"
+        },
+        {
+          "number": "56",
+          "name": "Rie Maruyama"
+        }
+      ]
+    },
+    {
+      "name": "Arizona State",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Caliente",
+        "location": "Tempe, Arizona",
+        "website": "http://www.calienteultimate.com/",
+        "facebook": "https://www.facebook.com/ASUWomensUltimateCaliente",
+        "twitter": "https://twitter.com/CalienteASU"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "3",
+          "name": "Kylie Capite"
+        },
+        {
+          "number": "4",
+          "name": "Kristen Bennett"
+        },
+        {
+          "number": "6",
+          "name": "ASHLEY HALL"
+        },
+        {
+          "number": "7",
+          "name": "Cynthia Thomas"
+        },
+        {
+          "number": "8",
+          "name": "Rachael Preschler"
+        },
+        {
+          "number": "9",
+          "name": "Andrea Spence"
+        },
+        {
+          "number": "12",
+          "name": "Jessie Davidson"
+        },
+        {
+          "number": "12",
+          "name": "Jennifer Dai"
+        },
+        {
+          "number": "14",
+          "name": "LINDSEY QUESNEL"
+        },
+        {
+          "number": "15",
+          "name": "Everett Johnson"
+        },
+        {
+          "number": "18",
+          "name": "BRITTNEY POTZLER"
+        },
+        {
+          "number": "22",
+          "name": "Melissa Dunn"
+        },
+        {
+          "number": "23",
+          "name": "Megan Mendieta"
+        },
+        {
+          "number": "26",
+          "name": "Kirsten Chan"
+        },
+        {
+          "number": "31",
+          "name": "Krista Marble"
+        },
+        {
+          "number": "42",
+          "name": "Nithya Subramanian"
+        },
+        {
+          "number": "69",
+          "name": "YASMEINE ABBASSI"
+        },
+        {
+          "number": "77",
+          "name": "Alyson Schmid"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "brackets",
+      "name": "Bracket Play",
+      "groups": [
+        {
+          "name": "Championship Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Arizona",
+              "team2": "Arizona State",
+              "score1": 10,
+              "score2": 9,
+              "datetime": "2015-04-11T10:45:00Z",
+              "round": "1st Place Bracket",
+              "status": "Scheduled"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

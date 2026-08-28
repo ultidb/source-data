@@ -1,0 +1,232 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2022/Color-of-Ultimate-Showcase-Game-at-2022-D-I-College-ChampionshipsCollege-Mixed",
+  "sourceUrl": "https://play.usaultimate.org/events/Color-of-Ultimate-Showcase-Game-at-2022-D-I-College-Championships/schedule/mixed/College-Mixed/",
+  "scrapedAt": "2026-08-28T10:06:18.300874Z",
+  "event": {
+    "name": "Color of Ultimate Showcase Game at 2022 D-I College Championships",
+    "division": "College - Mixed ",
+    "gender": "",
+    "season": 2022,
+    "city": "Milwaukee",
+    "state": "WI",
+    "country": "",
+    "startDate": "2022-05-30",
+    "endDate": "2022-05-30"
+  },
+  "teams": [
+    {
+      "name": "Scholars",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Milwaukee, Wisconsin",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "James Highsmith",
+        "Tracey Lo"
+      ],
+      "roster": [
+        {
+          "number": "01",
+          "name": "Eugenia Garza"
+        },
+        {
+          "number": "02",
+          "name": "Jessie Sun"
+        },
+        {
+          "number": "03",
+          "name": "Mikaela Luke-Currier"
+        },
+        {
+          "number": "05",
+          "name": "Lauren Mikell"
+        },
+        {
+          "number": "06",
+          "name": "Ariba Lakhani"
+        },
+        {
+          "number": "07",
+          "name": "Marie Perivier"
+        },
+        {
+          "number": "08",
+          "name": "Kimaya Hayes"
+        },
+        {
+          "number": "09",
+          "name": "Yu Ishii"
+        },
+        {
+          "number": "10",
+          "name": "Yara El-Khatib"
+        },
+        {
+          "number": "11",
+          "name": "Savannah Avila"
+        },
+        {
+          "number": "12",
+          "name": "John Stevenson"
+        },
+        {
+          "number": "13",
+          "name": "Asa Mohammed"
+        },
+        {
+          "number": "14",
+          "name": "Ashwin Pothukuchi"
+        },
+        {
+          "number": "15",
+          "name": "Axel Agami Contreras"
+        },
+        {
+          "number": "16",
+          "name": "Javier Flores"
+        },
+        {
+          "number": "18",
+          "name": "Simon Covington"
+        },
+        {
+          "number": "19",
+          "name": "Suhas Madiraju"
+        },
+        {
+          "number": "20",
+          "name": "Collin Hill"
+        },
+        {
+          "number": "21",
+          "name": "Martin Bustamante"
+        }
+      ]
+    },
+    {
+      "name": "Ballers",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Milwaukee, Wisconsin",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "Nora Mitchell"
+      ],
+      "roster": [
+        {
+          "number": "01",
+          "name": "Allyn Suzuki"
+        },
+        {
+          "number": "02",
+          "name": "Gabriela Stark-Torrentera "
+        },
+        {
+          "number": "03",
+          "name": "Jenna Rickey"
+        },
+        {
+          "number": "04",
+          "name": "Natalie Walker"
+        },
+        {
+          "number": "05",
+          "name": "Rani Shah"
+        },
+        {
+          "number": "06",
+          "name": "Lia Yamamoto Schwartz"
+        },
+        {
+          "number": "07",
+          "name": "Thalia Ward"
+        },
+        {
+          "number": "09",
+          "name": "Haoyang Yan"
+        },
+        {
+          "number": "10",
+          "name": "Maya Neal"
+        },
+        {
+          "number": "11",
+          "name": "Jane Zheng"
+        },
+        {
+          "number": "13",
+          "name": "Austin Hegmon"
+        },
+        {
+          "number": "14",
+          "name": "Chackgarin Brown"
+        },
+        {
+          "number": "15",
+          "name": "David Zimmerman"
+        },
+        {
+          "number": "16",
+          "name": "Ikran Elmi"
+        },
+        {
+          "number": "17",
+          "name": "Martin Le"
+        },
+        {
+          "number": "18",
+          "name": "Michael Lo"
+        },
+        {
+          "number": "20",
+          "name": "Kenrick Koo"
+        },
+        {
+          "number": "21",
+          "name": "Aaron Barcio"
+        },
+        {
+          "number": "22",
+          "name": "Jalal Sylvester"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "brackets",
+      "name": "Color of Ultimate Showcase Game",
+      "groups": [
+        {
+          "name": "Showcase Game",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Scholars",
+              "team2": "Ballers",
+              "score1": 11,
+              "score2": 15,
+              "datetime": "2022-05-30T11:00:00Z",
+              "round": "Showcase Game",
+              "status": "In Progress"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

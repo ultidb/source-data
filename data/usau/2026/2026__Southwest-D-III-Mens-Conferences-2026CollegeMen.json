@@ -1,0 +1,618 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2026/Southwest-D-III-Mens-Conferences-2026CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/Southwest-D-III-Mens-Conferences-2026/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:23.074479Z",
+  "event": {
+    "name": "Southwest D-III Men's Conferences 2026",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2026,
+    "city": "Bakersfield",
+    "state": "CA",
+    "country": "",
+    "startDate": "2026-04-11",
+    "endDate": "2026-04-12"
+  },
+  "teams": [
+    {
+      "name": "Claremont",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Braineaters",
+        "location": "Claremont , California",
+        "website": "http://linktr.ee/brainsult",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Arenaria Cramer"
+        },
+        {
+          "number": "01",
+          "name": "Josh Marx"
+        },
+        {
+          "number": "02",
+          "name": "Ryan Williams"
+        },
+        {
+          "number": "05",
+          "name": "Jacques Paradis"
+        },
+        {
+          "number": "07",
+          "name": "Elias Gradinger"
+        },
+        {
+          "number": "08",
+          "name": "Martín Jimenez-Williams"
+        },
+        {
+          "number": "09",
+          "name": "Emmett Levine"
+        },
+        {
+          "number": "12",
+          "name": "Ben Gallop"
+        },
+        {
+          "number": "13",
+          "name": "Silas Brock"
+        },
+        {
+          "number": "16",
+          "name": "Leo Furr"
+        },
+        {
+          "number": "20",
+          "name": "Luxuan Chang"
+        },
+        {
+          "number": "23",
+          "name": "Johnny Russell"
+        },
+        {
+          "number": "24",
+          "name": "Luca Davis"
+        },
+        {
+          "number": "27",
+          "name": "Charlie Palmer"
+        },
+        {
+          "number": "28",
+          "name": "Jamie Miller"
+        },
+        {
+          "number": "30",
+          "name": "Isamu Masayoshi Sims"
+        },
+        {
+          "number": "31",
+          "name": "Sam Fischer"
+        },
+        {
+          "number": "37",
+          "name": "Harold Fuson"
+        },
+        {
+          "number": "45",
+          "name": "Sebastian Harvey"
+        },
+        {
+          "number": "57",
+          "name": "Mitchell Yam"
+        },
+        {
+          "number": "63",
+          "name": "Leo Godsberg"
+        },
+        {
+          "number": "71",
+          "name": "Elijah Axt"
+        },
+        {
+          "number": "77",
+          "name": "Jeremy Kaufman"
+        },
+        {
+          "number": "77",
+          "name": "Graham Hynes"
+        },
+        {
+          "number": "80",
+          "name": "Isaiah Curtis"
+        },
+        {
+          "number": "88",
+          "name": "Noah Pershing"
+        },
+        {
+          "number": "93",
+          "name": "Jack Sheehan"
+        },
+        {
+          "number": "99",
+          "name": "Jacob Leichter Wilson"
+        }
+      ]
+    },
+    {
+      "name": "Occidental",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Detox",
+        "location": "Los Angeles, California",
+        "website": "",
+        "facebook": "https://www.facebook.com/detoxultimate/",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Liam O’Neill"
+        },
+        {
+          "number": "03",
+          "name": "Quentin Folds"
+        },
+        {
+          "number": "04",
+          "name": "Alexander Nguyen"
+        },
+        {
+          "number": "05",
+          "name": "Andrew Eisenberg"
+        },
+        {
+          "number": "06",
+          "name": "Noah Hebert-Lynch"
+        },
+        {
+          "number": "07",
+          "name": "Sander Lieberman"
+        },
+        {
+          "number": "10",
+          "name": "Ian Terell"
+        },
+        {
+          "number": "12",
+          "name": "Henry Karnan"
+        },
+        {
+          "number": "13",
+          "name": "Will Carter"
+        },
+        {
+          "number": "14",
+          "name": "Keean Stauber"
+        },
+        {
+          "number": "17",
+          "name": "William Crawford"
+        },
+        {
+          "number": "20",
+          "name": "Zachary Goldberger-Judd"
+        },
+        {
+          "number": "21",
+          "name": "Nicholas Martini"
+        },
+        {
+          "number": "22",
+          "name": "Theodore Ellis Novotny"
+        },
+        {
+          "number": "23",
+          "name": "Elias  Davatzes"
+        },
+        {
+          "number": "24",
+          "name": "Carson Eckert"
+        },
+        {
+          "number": "25",
+          "name": "Russell Yee"
+        },
+        {
+          "number": "26",
+          "name": "Tobias Wepman"
+        },
+        {
+          "number": "28",
+          "name": "Nilaksh Iyer"
+        },
+        {
+          "number": "29",
+          "name": "Alex Bukovec"
+        },
+        {
+          "number": "36",
+          "name": "Dylan Feldman"
+        },
+        {
+          "number": "42",
+          "name": "Jessie Lowpensky"
+        },
+        {
+          "number": "44",
+          "name": "Marvin Romero"
+        },
+        {
+          "number": "88",
+          "name": "Nathaniel Weldon"
+        },
+        {
+          "number": "99",
+          "name": "Nikhil Strasma"
+        }
+      ]
+    },
+    {
+      "name": "Santa Clara",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "SCAB",
+        "location": "Santa Clara, California",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/SCABUltiFris"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Amer Sangha"
+        },
+        {
+          "number": "0",
+          "name": "Matteo Maricich"
+        },
+        {
+          "number": "0",
+          "name": "Peter Strauss"
+        },
+        {
+          "number": "0",
+          "name": "Santino Rafael Diaz"
+        },
+        {
+          "number": "0",
+          "name": "Sawyer Gibson"
+        },
+        {
+          "number": "0",
+          "name": "Josiah Misk"
+        },
+        {
+          "number": "00",
+          "name": "Lucas Woodman"
+        },
+        {
+          "number": "00",
+          "name": "Brendan Jones"
+        },
+        {
+          "number": "00",
+          "name": "Jonah Engelmann"
+        },
+        {
+          "number": "00",
+          "name": "James Freeman"
+        },
+        {
+          "number": "00",
+          "name": "Will DeGasparis"
+        },
+        {
+          "number": "00",
+          "name": "James Dwyer"
+        },
+        {
+          "number": "00",
+          "name": "Johnathon Dickey"
+        },
+        {
+          "number": "00",
+          "name": "Jordan Wong"
+        },
+        {
+          "number": "00",
+          "name": "Michael Cooper"
+        },
+        {
+          "number": "00",
+          "name": "Owen Duffy"
+        },
+        {
+          "number": "00",
+          "name": "Pablo Jonsson"
+        },
+        {
+          "number": "00",
+          "name": "Patrick Crowell"
+        },
+        {
+          "number": "00",
+          "name": "Daniel Gerregano"
+        },
+        {
+          "number": "00",
+          "name": "Jacob Salazar"
+        },
+        {
+          "number": "00",
+          "name": "Luis Zamudio"
+        },
+        {
+          "number": "00",
+          "name": "Omar Bazan"
+        },
+        {
+          "number": "00",
+          "name": "Gavin OCarroll"
+        },
+        {
+          "number": "00",
+          "name": "Alexander Von Banck"
+        },
+        {
+          "number": "33",
+          "name": "Ambrose Vellequette"
+        }
+      ]
+    },
+    {
+      "name": "San Diego",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Flat Tax Ballers",
+        "location": "San Diego, California",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Jacob Olhava"
+        },
+        {
+          "number": "0",
+          "name": "Jane Scroggs"
+        },
+        {
+          "number": "0",
+          "name": "Justin Olhava"
+        },
+        {
+          "number": "0",
+          "name": "Kieran Powell-Burns"
+        },
+        {
+          "number": "0",
+          "name": "Lucca Sebastiani"
+        },
+        {
+          "number": "0",
+          "name": "Mackenzie Smith"
+        },
+        {
+          "number": "0",
+          "name": "Max Andreski"
+        },
+        {
+          "number": "0",
+          "name": "Nathan Oshefsky"
+        },
+        {
+          "number": "0",
+          "name": "Nick Crozat"
+        },
+        {
+          "number": "0",
+          "name": "Noah Levy"
+        },
+        {
+          "number": "0",
+          "name": "Parker Brown"
+        },
+        {
+          "number": "0",
+          "name": "Rebecca Demonteverde"
+        },
+        {
+          "number": "0",
+          "name": "Rex Verge"
+        },
+        {
+          "number": "0",
+          "name": "Riley Rains"
+        },
+        {
+          "number": "0",
+          "name": "Sam Gomez"
+        },
+        {
+          "number": "0",
+          "name": "William Edwards"
+        },
+        {
+          "number": "0",
+          "name": "Anders Elson"
+        },
+        {
+          "number": "0",
+          "name": "Andie Hanchin"
+        },
+        {
+          "number": "0",
+          "name": "Andrew Ling"
+        },
+        {
+          "number": "0",
+          "name": "Arman Aryan"
+        },
+        {
+          "number": "0",
+          "name": "Caden Haynor"
+        },
+        {
+          "number": "0",
+          "name": "Chase Parker"
+        },
+        {
+          "number": "0",
+          "name": "Eric Pitterle"
+        },
+        {
+          "number": "0",
+          "name": "Gabriel Ambrose"
+        },
+        {
+          "number": "4",
+          "name": "Gunner Kolon"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play Round Robin",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Claremont",
+              "team2": "Occidental",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2026-04-11T08:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Santa Clara",
+              "team2": "San Diego",
+              "score1": 15,
+              "score2": 13,
+              "datetime": "2026-04-11T08:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Claremont",
+              "team2": "San Diego",
+              "score1": 15,
+              "score2": 3,
+              "datetime": "2026-04-11T10:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Santa Clara",
+              "team2": "Occidental",
+              "score1": 12,
+              "score2": 14,
+              "datetime": "2026-04-11T10:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Claremont",
+              "team2": "Santa Clara",
+              "score1": 15,
+              "score2": 5,
+              "datetime": "2026-04-11T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Occidental",
+              "team2": "San Diego",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2026-04-11T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Bracket Play",
+      "groups": [
+        {
+          "name": "First Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Claremont",
+              "team2": "Santa Clara",
+              "score1": 15,
+              "score2": 6,
+              "datetime": "2026-04-12T10:30:00Z",
+              "round": "Game to Go",
+              "status": "Final"
+            },
+            {
+              "team1": "Claremont",
+              "team2": "San Diego",
+              "score1": 15,
+              "score2": 3,
+              "datetime": "2026-04-12T08:30:00Z",
+              "round": "Semi Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Occidental",
+              "team2": "Santa Clara",
+              "score1": 10,
+              "score2": 15,
+              "datetime": "2026-04-12T08:30:00Z",
+              "round": "Semi Finals",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "3rd Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "San Diego",
+              "team2": "Occidental",
+              "score1": 12,
+              "score2": 13,
+              "datetime": "2026-04-12T10:30:00Z",
+              "round": "3rd Place",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

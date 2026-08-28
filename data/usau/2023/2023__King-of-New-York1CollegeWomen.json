@@ -1,0 +1,229 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2023/King-of-New-York1CollegeWomen",
+  "sourceUrl": "https://play.usaultimate.org/events/King-of-New-York1/schedule/Women/CollegeWomen/",
+  "scrapedAt": "2026-08-28T10:06:19.535052Z",
+  "event": {
+    "name": "King of New York 2023",
+    "division": "College - Women ",
+    "gender": "",
+    "season": 2023,
+    "city": "Saratoga Springs",
+    "state": "NY",
+    "country": "",
+    "startDate": "2023-03-25",
+    "endDate": "2023-03-26"
+  },
+  "teams": [
+    {
+      "name": "Bates",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Cold Front",
+        "location": "Lewiston, Maine",
+        "website": "https://coldfrontultimate.wordpress.com",
+        "facebook": "",
+        "twitter": "https://twitter.com/coldfront_ulti"
+      },
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Rhode Island",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Disky Business",
+        "location": "Kingston, Rhode Island",
+        "website": "diskybusiness.weebly.com",
+        "facebook": "",
+        "twitter": "https://twitter.com/uri_HUCKyeah"
+      },
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Skidmore",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Skidmore College Thoroughbears ",
+        "location": "Saratoga Springs, New York",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Vermont (B)",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Vermont B",
+        "location": "Burlington, Vermont",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Massachusetts (B)",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Zoola B",
+        "location": "Amherst, Massachusetts",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "SUNY-Albany",
+      "seed": 7,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Deception",
+        "location": "Albany, New York",
+        "website": "http://deceptionultimate.weebly.com/",
+        "facebook": "https://www.facebook.com/pages/Deception-Womens-Ultimate-Frisbee/438416152842101?ref=hl",
+        "twitter": "https://twitter.com/UADeception"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Ally Egnaczak"
+        },
+        {
+          "number": "0",
+          "name": "Amanda Mazur"
+        },
+        {
+          "number": "0",
+          "name": "Barbara Buck"
+        },
+        {
+          "number": "0",
+          "name": "Claire Crino"
+        },
+        {
+          "number": "0",
+          "name": "Colleen Crino"
+        },
+        {
+          "number": "0",
+          "name": "Gracie Badlia"
+        },
+        {
+          "number": "0",
+          "name": "Isabella Prete"
+        },
+        {
+          "number": "0",
+          "name": "Kriti Kalary"
+        },
+        {
+          "number": "0",
+          "name": "Lily Potter"
+        },
+        {
+          "number": "0",
+          "name": "Makiah  DesJardins"
+        },
+        {
+          "number": "0",
+          "name": "Rowan Cataldo"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Bates",
+              "team2": "Skidmore",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2023-03-25T10:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Rhode Island",
+              "team2": "Skidmore",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2023-03-25T12:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Bates",
+              "team2": "Rhode Island",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2023-03-25T14:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            }
+          ]
+        },
+        {
+          "name": "Pool B",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Vermont (B)",
+              "team2": "SUNY-Albany",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2023-03-25T10:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Massachusetts (B)",
+              "team2": "SUNY-Albany",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2023-03-25T12:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Vermont (B)",
+              "team2": "Massachusetts (B)",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2023-03-25T14:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

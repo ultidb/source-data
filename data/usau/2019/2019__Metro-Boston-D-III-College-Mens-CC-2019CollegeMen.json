@@ -1,0 +1,659 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2019/Metro-Boston-D-III-College-Mens-CC-2019CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/Metro-Boston-D-III-College-Mens-CC-2019/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:16.722699Z",
+  "event": {
+    "name": "Metro Boston D-III College Men's CC 2019",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2019,
+    "city": "Wellesley",
+    "state": "MA",
+    "country": "",
+    "startDate": "2019-04-13",
+    "endDate": "2019-04-14"
+  },
+  "teams": [
+    {
+      "name": "Bentley",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Icehouse",
+        "location": "Waltham, Massachusetts",
+        "website": "",
+        "facebook": "",
+        "twitter": "twitter.com/bentleyultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Aidan Patrick"
+        },
+        {
+          "number": "0",
+          "name": "Alec Pinette"
+        },
+        {
+          "number": "0",
+          "name": "Andrew  Milliken"
+        },
+        {
+          "number": "0",
+          "name": "Andrew St. Peter"
+        },
+        {
+          "number": "0",
+          "name": "Christian Mangold"
+        },
+        {
+          "number": "0",
+          "name": "Conor Purvis"
+        },
+        {
+          "number": "0",
+          "name": "Daniel French"
+        },
+        {
+          "number": "0",
+          "name": "John Herman"
+        },
+        {
+          "number": "0",
+          "name": "Joseph Kiwanis"
+        },
+        {
+          "number": "0",
+          "name": "Luke Ferris"
+        },
+        {
+          "number": "0",
+          "name": "Nicholas Roth"
+        },
+        {
+          "number": "0",
+          "name": "Nicholas Komarovsky"
+        },
+        {
+          "number": "0",
+          "name": "Nikhil Karnane"
+        },
+        {
+          "number": "0",
+          "name": "Patrick Lovely"
+        },
+        {
+          "number": "0",
+          "name": "Timothy Scanlon"
+        },
+        {
+          "number": "0",
+          "name": "Trevor Backus"
+        },
+        {
+          "number": "0",
+          "name": "Vincent Bacho"
+        },
+        {
+          "number": "0",
+          "name": "Vivek Patel"
+        },
+        {
+          "number": "10",
+          "name": "Jonathan Ramsay"
+        },
+        {
+          "number": "13",
+          "name": "Timothy Corsello"
+        },
+        {
+          "number": "15",
+          "name": "Vishall Bajwa"
+        },
+        {
+          "number": "80",
+          "name": "Joseph Kane"
+        },
+        {
+          "number": "85",
+          "name": "Harwood Wolfson"
+        }
+      ]
+    },
+    {
+      "name": "Brandeis",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "TRON",
+        "location": "Waltham, Massachusetts",
+        "website": "",
+        "facebook": "https://www.facebook.com/brandeistron",
+        "twitter": "https://twitter.com/brandeistron"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Elijah Sinclair"
+        },
+        {
+          "number": "0",
+          "name": "Jonas Tjahjadi"
+        },
+        {
+          "number": "0",
+          "name": "Micah Alexander"
+        },
+        {
+          "number": "1",
+          "name": "Elan Azrieli"
+        },
+        {
+          "number": "6",
+          "name": "Alden Sanford"
+        },
+        {
+          "number": "9",
+          "name": "Steven Chen"
+        },
+        {
+          "number": "10",
+          "name": "Adam Dean"
+        },
+        {
+          "number": "13",
+          "name": "Eric Home"
+        },
+        {
+          "number": "17",
+          "name": "Joshua Heller"
+        },
+        {
+          "number": "19",
+          "name": "Ethan Sternberg"
+        },
+        {
+          "number": "21",
+          "name": "Benjamin Korman"
+        },
+        {
+          "number": "22",
+          "name": "Dylan Quinn"
+        },
+        {
+          "number": "23",
+          "name": "Benji Kemper"
+        },
+        {
+          "number": "25",
+          "name": "Cameron Park"
+        },
+        {
+          "number": "27",
+          "name": "Nicholas Simonentti"
+        },
+        {
+          "number": "32",
+          "name": "Andrew Marshall"
+        },
+        {
+          "number": "33",
+          "name": "Tommaso Girelli"
+        },
+        {
+          "number": "40",
+          "name": "Gabriel Fontes"
+        },
+        {
+          "number": "42",
+          "name": "Robert Singer"
+        },
+        {
+          "number": "44",
+          "name": "Matt Sehgal"
+        },
+        {
+          "number": "50",
+          "name": "Daniel Lay"
+        },
+        {
+          "number": "87",
+          "name": "Connor Chin"
+        },
+        {
+          "number": "97",
+          "name": "Oliver Daniels-Koch"
+        },
+        {
+          "number": "99",
+          "name": "Jordan Kaufman"
+        }
+      ]
+    },
+    {
+      "name": "Stonehill",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Stonehill College Men's Ultimate",
+        "location": "Easton, Massachusetts",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "Craig Bunce"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Joshua Gorgone"
+        },
+        {
+          "number": "0",
+          "name": "Kyle Novakoski"
+        },
+        {
+          "number": "0",
+          "name": "Michael Emmett"
+        },
+        {
+          "number": "0",
+          "name": "Mickey Riley"
+        },
+        {
+          "number": "0",
+          "name": "Patrick O'Shea"
+        },
+        {
+          "number": "0",
+          "name": "Sean O’Leary"
+        },
+        {
+          "number": "0",
+          "name": "Thomas Van Vort"
+        },
+        {
+          "number": "0",
+          "name": "Wilson Capone"
+        },
+        {
+          "number": "0",
+          "name": "Zachary Henry"
+        },
+        {
+          "number": "0",
+          "name": "Avery Hale"
+        },
+        {
+          "number": "0",
+          "name": "Ethan Fultz"
+        },
+        {
+          "number": "0",
+          "name": "Evan Ross"
+        },
+        {
+          "number": "0",
+          "name": "Ian Vescera"
+        },
+        {
+          "number": "0",
+          "name": "Jack Viselli"
+        },
+        {
+          "number": "9",
+          "name": "Ian Anderson"
+        },
+        {
+          "number": "22",
+          "name": "James Milinazzo"
+        }
+      ]
+    },
+    {
+      "name": "Wentworth",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Concrete Jungle",
+        "location": "Boston, Massachusetts",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/WITUltimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Aidan Korper"
+        },
+        {
+          "number": "0",
+          "name": "Alexander Creem"
+        },
+        {
+          "number": "0",
+          "name": "Andrew DiLeo"
+        },
+        {
+          "number": "0",
+          "name": "Anmol Saini"
+        },
+        {
+          "number": "0",
+          "name": "Cody Robillard"
+        },
+        {
+          "number": "0",
+          "name": "Devlin Kenny"
+        },
+        {
+          "number": "0",
+          "name": "Matthew DiGianvittorio"
+        },
+        {
+          "number": "0",
+          "name": "Mikey Peloquin"
+        },
+        {
+          "number": "0",
+          "name": "Noah Smith"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Shamel"
+        },
+        {
+          "number": "0",
+          "name": "Steven D'Onfro"
+        },
+        {
+          "number": "0",
+          "name": "Thomas Krouskup"
+        },
+        {
+          "number": "0",
+          "name": "Jacob Crisafulli"
+        },
+        {
+          "number": "0",
+          "name": "Jacob Roberge"
+        },
+        {
+          "number": "2",
+          "name": "Alexander Garrity"
+        },
+        {
+          "number": "3",
+          "name": "Evan McCarthy"
+        },
+        {
+          "number": "11",
+          "name": "Jayson Pusateri"
+        },
+        {
+          "number": "11",
+          "name": "Benjamin Cassola"
+        },
+        {
+          "number": "17",
+          "name": "Ian Brown"
+        },
+        {
+          "number": "28",
+          "name": "Aren Tulp"
+        }
+      ]
+    },
+    {
+      "name": "Wheaton (MA)",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "WULF",
+        "location": "Norton, Massachusetts",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Camron Currier"
+        },
+        {
+          "number": "0",
+          "name": "Helene Mantineo"
+        },
+        {
+          "number": "0",
+          "name": "Jake Gammon"
+        },
+        {
+          "number": "0",
+          "name": "John Malcom"
+        },
+        {
+          "number": "0",
+          "name": "Julius Doogan"
+        },
+        {
+          "number": "0",
+          "name": "Katherine Farley"
+        },
+        {
+          "number": "0",
+          "name": "Madeline Michaud"
+        },
+        {
+          "number": "0",
+          "name": "Nathan Hesselink"
+        },
+        {
+          "number": "0",
+          "name": "Rachel Pare"
+        },
+        {
+          "number": "0",
+          "name": "Samuel Stone"
+        },
+        {
+          "number": "0",
+          "name": "Sarah Sutherland"
+        },
+        {
+          "number": "0",
+          "name": "Xiao Liu"
+        },
+        {
+          "number": "0",
+          "name": "Althea Barrett"
+        },
+        {
+          "number": "3",
+          "name": "Jesse Charpentier"
+        },
+        {
+          "number": "5",
+          "name": "Anthony Scilingo"
+        },
+        {
+          "number": "7",
+          "name": "Jing Farlow"
+        },
+        {
+          "number": "21",
+          "name": "Michael Mason"
+        },
+        {
+          "number": "30",
+          "name": "Brendon Vejseli"
+        },
+        {
+          "number": "69",
+          "name": "Michael Pepin"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Brandeis",
+              "team2": "Bentley",
+              "score1": 7,
+              "score2": 9,
+              "datetime": "2019-04-13T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Wentworth",
+              "team2": "Wheaton (MA)",
+              "score1": 13,
+              "score2": 4,
+              "datetime": "2019-04-13T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Brandeis",
+              "team2": "Wheaton (MA)",
+              "score1": 13,
+              "score2": 4,
+              "datetime": "2019-04-13T10:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Bentley",
+              "team2": "Stonehill",
+              "score1": 13,
+              "score2": 6,
+              "datetime": "2019-04-13T10:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Brandeis",
+              "team2": "Wentworth",
+              "score1": 13,
+              "score2": 7,
+              "datetime": "2019-04-13T12:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Wheaton (MA)",
+              "team2": "Stonehill",
+              "score1": 9,
+              "score2": 13,
+              "datetime": "2019-04-13T12:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Bentley",
+              "team2": "Wheaton (MA)",
+              "score1": 13,
+              "score2": 4,
+              "datetime": "2019-04-13T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Wentworth",
+              "team2": "Stonehill",
+              "score1": 10,
+              "score2": 11,
+              "datetime": "2019-04-13T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Bentley",
+              "team2": "Wentworth",
+              "score1": 13,
+              "score2": 5,
+              "datetime": "2019-04-13T15:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Brandeis",
+              "team2": "Stonehill",
+              "score1": 13,
+              "score2": 6,
+              "datetime": "2019-04-13T15:40:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Bracket Play",
+      "groups": [
+        {
+          "name": "1st Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Bentley",
+              "team2": "Brandeis",
+              "score1": 12,
+              "score2": 11,
+              "datetime": "2019-04-14T10:00:00Z",
+              "round": "1st Place",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "2nd Place Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Stonehill",
+              "team2": "Brandeis",
+              "score1": 4,
+              "score2": 15,
+              "datetime": "2019-04-14T12:00:00Z",
+              "round": "2nd Place Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Stonehill",
+              "team2": "Wentworth",
+              "score1": 11,
+              "score2": 8,
+              "datetime": "2019-04-14T10:00:00Z",
+              "round": "2nd Place Semis",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

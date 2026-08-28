@@ -1,0 +1,231 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2014/Florida-Womens-SectionalsClub-Women",
+  "sourceUrl": "https://play.usaultimate.org/events/Florida-Womens-Sectionals/schedule/Women/Club-Women/",
+  "scrapedAt": "2026-08-28T10:06:11.538397Z",
+  "event": {
+    "name": "Florida Womens Sectionals 2014",
+    "division": "Club - Women ",
+    "gender": "",
+    "season": 2014,
+    "city": "Gainesville",
+    "state": "FL",
+    "country": "",
+    "startDate": "2014-09-06",
+    "endDate": "2014-09-07"
+  },
+  "teams": [
+    {
+      "name": "Tabby Rosa",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Gainesville, Florida",
+        "website": "http://www.tabbyrosa.com/",
+        "facebook": "https://www.facebook.com/TabbyRosaUltimate",
+        "twitter": "https://twitter.com/TabbyRosaFL"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "6",
+          "name": "Diana Elsner"
+        },
+        {
+          "number": "00",
+          "name": "Lisa Fitton"
+        },
+        {
+          "number": "01",
+          "name": "ZOE STAPLETON"
+        },
+        {
+          "number": "03",
+          "name": "LILLIAN MORRIS"
+        },
+        {
+          "number": "04",
+          "name": "Michelle Floyd"
+        },
+        {
+          "number": "06",
+          "name": "Alexa Wood"
+        },
+        {
+          "number": "07",
+          "name": "KELSEY VIARS"
+        },
+        {
+          "number": "08",
+          "name": "Reba Havis"
+        },
+        {
+          "number": "09",
+          "name": "Katie Fox"
+        },
+        {
+          "number": "12",
+          "name": "Teal Dabney"
+        },
+        {
+          "number": "13",
+          "name": "Brittany Fabbri"
+        },
+        {
+          "number": "15",
+          "name": "AMANDA SCHWORM"
+        },
+        {
+          "number": "18",
+          "name": "Shayna Brock"
+        },
+        {
+          "number": "19",
+          "name": "Jenna Dahl"
+        },
+        {
+          "number": "20",
+          "name": "Laura Payne"
+        },
+        {
+          "number": "21",
+          "name": "LYNDSEY HEARN-HOOVER"
+        },
+        {
+          "number": "22",
+          "name": "Carolina Gonzalez-Llanos"
+        },
+        {
+          "number": "24",
+          "name": "Katelyn Travaglini"
+        },
+        {
+          "number": "25",
+          "name": "Alana Hardeman"
+        },
+        {
+          "number": "29",
+          "name": "Jackie Fane"
+        },
+        {
+          "number": "42",
+          "name": "Megan Reeves"
+        },
+        {
+          "number": "55",
+          "name": "SUMMER STRICKLER"
+        },
+        {
+          "number": "77",
+          "name": "Brooke Stanislawski"
+        }
+      ]
+    },
+    {
+      "name": "Restless",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Florida, Florida",
+        "website": "",
+        "facebook": "https://www.facebook.com/restlessultimate",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "3",
+          "name": "ASHLIE DUMMELDINGER"
+        },
+        {
+          "number": "7",
+          "name": "Susan Siegrist"
+        },
+        {
+          "number": "04",
+          "name": "Clea Lauriault"
+        },
+        {
+          "number": "08",
+          "name": "Jillienne Kubisek"
+        },
+        {
+          "number": "11",
+          "name": "Carolyn Abbott"
+        },
+        {
+          "number": "12",
+          "name": "Christine Overdevest"
+        },
+        {
+          "number": "13",
+          "name": "SARA PUYANA"
+        },
+        {
+          "number": "19",
+          "name": "JOANNA NEVILLE"
+        },
+        {
+          "number": "20",
+          "name": "Kathleen Quisenberry"
+        },
+        {
+          "number": "26",
+          "name": "Alexa Yager"
+        },
+        {
+          "number": "33",
+          "name": "ILSA KUFFNER"
+        },
+        {
+          "number": "66",
+          "name": "Kellie Diehl"
+        },
+        {
+          "number": "69",
+          "name": "Tiffany WatersStone"
+        },
+        {
+          "number": "76",
+          "name": "TANYA LOPEZ"
+        },
+        {
+          "number": "81",
+          "name": "DEANNA KING"
+        },
+        {
+          "number": "99",
+          "name": "CHLOE DAISEY WINANT"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Florida Women's Sectionals",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Tabby Rosa",
+              "team2": "Restless",
+              "score1": 11,
+              "score2": 6,
+              "datetime": "2014-09-06T11:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

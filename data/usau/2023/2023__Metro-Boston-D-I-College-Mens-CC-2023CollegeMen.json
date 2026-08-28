@@ -1,0 +1,832 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2023/Metro-Boston-D-I-College-Mens-CC-2023CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/Metro-Boston-D-I-College-Mens-CC-2023/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:19.556725Z",
+  "event": {
+    "name": "Metro Boston D-I College Men's CC 2023",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2023,
+    "city": "Cambridge",
+    "state": "MA",
+    "country": "",
+    "startDate": "2023-04-15",
+    "endDate": "2023-04-16"
+  },
+  "teams": [
+    {
+      "name": "Tufts",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Elephant Men",
+        "location": "Medford, Massachusetts",
+        "website": "http://www.tuftsmensultimate.org/",
+        "facebook": "",
+        "twitter": "https://twitter.com/tufts_emen"
+      },
+      "coaches": [
+        "Gene Buonaccorsi",
+        "Tannor Johnson"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Elias Benghiat"
+        },
+        {
+          "number": "0",
+          "name": "Eliav Malone"
+        },
+        {
+          "number": "0",
+          "name": "Joe Rosenberg"
+        },
+        {
+          "number": "0",
+          "name": "Matthew Shapiro"
+        },
+        {
+          "number": "0",
+          "name": "Michael Shriver"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Kadet"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Cohen"
+        },
+        {
+          "number": "0",
+          "name": "Silas Grossman"
+        },
+        {
+          "number": "0",
+          "name": "Toshihiro Nagase"
+        },
+        {
+          "number": "0",
+          "name": "Tucker Livingston"
+        },
+        {
+          "number": "0",
+          "name": "Zachary Burpee"
+        },
+        {
+          "number": "0",
+          "name": "Zak Rizvi"
+        },
+        {
+          "number": "1",
+          "name": "Samson Bienstock"
+        },
+        {
+          "number": "1",
+          "name": "Rohin Gast"
+        },
+        {
+          "number": "3",
+          "name": "Colin Mclaughlin"
+        },
+        {
+          "number": "3",
+          "name": "Sachin Zachariah"
+        },
+        {
+          "number": "6",
+          "name": "Zach Singer"
+        },
+        {
+          "number": "7",
+          "name": "Oscar Graff"
+        },
+        {
+          "number": "19",
+          "name": "Shiv Khanna"
+        },
+        {
+          "number": "33",
+          "name": "Talyx Hochstein"
+        },
+        {
+          "number": "50",
+          "name": "Roman Short"
+        },
+        {
+          "number": "52",
+          "name": "Benjamin Kass-Mullet"
+        }
+      ]
+    },
+    {
+      "name": "MIT",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Grim Beaver",
+        "location": "Cambridge, Massachusetts",
+        "website": "http://mens-ult.mit.edu",
+        "facebook": "https://www.facebook.com/pages/MIT-Mens-Ultimate/129768873797702",
+        "twitter": "https://twitter.com/MITultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Kaden Silva"
+        },
+        {
+          "number": "0",
+          "name": "Luka Karginov"
+        },
+        {
+          "number": "0",
+          "name": "Luka Govedic"
+        },
+        {
+          "number": "0",
+          "name": "Manuel Morales"
+        },
+        {
+          "number": "0",
+          "name": "Matthew Landis"
+        },
+        {
+          "number": "0",
+          "name": "Noah Anderson"
+        },
+        {
+          "number": "0",
+          "name": "Raymond Feng"
+        },
+        {
+          "number": "0",
+          "name": "Raymond Li"
+        },
+        {
+          "number": "0",
+          "name": "Sean Cheng"
+        },
+        {
+          "number": "0",
+          "name": "Sebastien Loko"
+        },
+        {
+          "number": "0",
+          "name": "Victor Qin"
+        },
+        {
+          "number": "0",
+          "name": "Andrew Okyere"
+        },
+        {
+          "number": "0",
+          "name": "Christopher Layden"
+        },
+        {
+          "number": "2",
+          "name": "Ezra Gordon"
+        },
+        {
+          "number": "9",
+          "name": "Chukwuemekalum Echezona"
+        },
+        {
+          "number": "11",
+          "name": "Jacob Daitzman"
+        },
+        {
+          "number": "25",
+          "name": "Federico Ramirez"
+        },
+        {
+          "number": "33",
+          "name": "Vincent Fan"
+        },
+        {
+          "number": "81",
+          "name": "Alexander Velberg"
+        }
+      ]
+    },
+    {
+      "name": "Massachusetts-Lowell",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Riverhawks",
+        "location": "Lowell, Massachusetts",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Enrico Nuttoli"
+        },
+        {
+          "number": "00",
+          "name": "Eric Doo"
+        },
+        {
+          "number": "00",
+          "name": "Evan Casasanta"
+        },
+        {
+          "number": "00",
+          "name": "Andrew Halloran"
+        },
+        {
+          "number": "00",
+          "name": "Justiin Cahill"
+        },
+        {
+          "number": "00",
+          "name": "Linnae Casebeer"
+        },
+        {
+          "number": "00",
+          "name": "Matthew Edwards"
+        },
+        {
+          "number": "00",
+          "name": "Oliver Pazmino"
+        },
+        {
+          "number": "00",
+          "name": "Quaid Johnson"
+        },
+        {
+          "number": "00",
+          "name": "Ronan Reynolds"
+        },
+        {
+          "number": "00",
+          "name": "Samuel Speciale"
+        },
+        {
+          "number": "00",
+          "name": "Sawyer MacPherson"
+        },
+        {
+          "number": "00",
+          "name": "Spencer Weeden"
+        },
+        {
+          "number": "01",
+          "name": "Aidan Cahill"
+        },
+        {
+          "number": "05",
+          "name": "Derek Johnson"
+        },
+        {
+          "number": "07",
+          "name": "Zack Kingsley"
+        },
+        {
+          "number": "08",
+          "name": "Tim Hartman"
+        },
+        {
+          "number": "13",
+          "name": "John Buchanan"
+        },
+        {
+          "number": "34",
+          "name": "Tanner Cohen"
+        },
+        {
+          "number": "57",
+          "name": "James Berliner"
+        }
+      ]
+    },
+    {
+      "name": "Northeastern",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Huskies",
+        "location": "Boston, Massachusetts",
+        "website": "http://www.ultimate.neu.edu/men",
+        "facebook": "https://www.facebook.com/NUMensUltimate",
+        "twitter": "https://twitter.com/NUMensUltimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Alesh Fremouw"
+        },
+        {
+          "number": "00",
+          "name": "Charlie Huang"
+        },
+        {
+          "number": "00",
+          "name": "Dallon Archibald"
+        },
+        {
+          "number": "00",
+          "name": "Ezra Liu"
+        },
+        {
+          "number": "00",
+          "name": "Jackson biggs"
+        },
+        {
+          "number": "00",
+          "name": "Jackson McGuinness"
+        },
+        {
+          "number": "00",
+          "name": "Matias Ng"
+        },
+        {
+          "number": "00",
+          "name": "Peter Boerth"
+        },
+        {
+          "number": "00",
+          "name": "Phillip Dias"
+        },
+        {
+          "number": "00",
+          "name": "Robert Pereira"
+        },
+        {
+          "number": "00",
+          "name": "Samuel Freedman"
+        },
+        {
+          "number": "01",
+          "name": "Alexander Abrams"
+        },
+        {
+          "number": "04",
+          "name": "Colton Sy"
+        },
+        {
+          "number": "09",
+          "name": "James Beckman"
+        },
+        {
+          "number": "10",
+          "name": "Ben Chamis"
+        },
+        {
+          "number": "12",
+          "name": "Ramsey Elder"
+        },
+        {
+          "number": "16",
+          "name": "Colin Leonelli"
+        },
+        {
+          "number": "17",
+          "name": "Owen Cordes"
+        },
+        {
+          "number": "21",
+          "name": "Chris Yang"
+        },
+        {
+          "number": "23",
+          "name": "Thomas Griffin"
+        },
+        {
+          "number": "33",
+          "name": "Brendan King"
+        },
+        {
+          "number": "40",
+          "name": "Alex Storrer"
+        },
+        {
+          "number": "42",
+          "name": "Ethan Cook "
+        },
+        {
+          "number": "61",
+          "name": "Steven Tanguilig"
+        },
+        {
+          "number": "85",
+          "name": "Gabe Vordick"
+        }
+      ]
+    },
+    {
+      "name": "Harvard",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Red Line",
+        "location": "Cambridge, Massachusetts",
+        "website": "http://www.instagram.com/harvardredline",
+        "facebook": "https://www.facebook.com/HarvardUltimate",
+        "twitter": "https://twitter.com/HarvardRedLine"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Aaron Berger"
+        },
+        {
+          "number": "00",
+          "name": "Adam Park"
+        },
+        {
+          "number": "00",
+          "name": "Aidan Zhou"
+        },
+        {
+          "number": "00",
+          "name": "Christopher Ma"
+        },
+        {
+          "number": "00",
+          "name": "Christopher Ruaño"
+        },
+        {
+          "number": "00",
+          "name": "Coby Sheehan"
+        },
+        {
+          "number": "00",
+          "name": "Cole Salvador"
+        },
+        {
+          "number": "00",
+          "name": "Collin Lief"
+        },
+        {
+          "number": "00",
+          "name": "Daniel Koenig"
+        },
+        {
+          "number": "00",
+          "name": "David Seo"
+        },
+        {
+          "number": "00",
+          "name": "Elijah Shell"
+        },
+        {
+          "number": "00",
+          "name": "Felix Perez Diener"
+        },
+        {
+          "number": "00",
+          "name": "Francisco Fernandez"
+        },
+        {
+          "number": "00",
+          "name": "Hayden  Teeter"
+        },
+        {
+          "number": "00",
+          "name": "Isaac Newman"
+        },
+        {
+          "number": "00",
+          "name": "Jonah Abrams"
+        },
+        {
+          "number": "00",
+          "name": "Julian Li"
+        },
+        {
+          "number": "00",
+          "name": "Luke Lawson"
+        },
+        {
+          "number": "00",
+          "name": "Marc Courtemanche"
+        },
+        {
+          "number": "00",
+          "name": "Matt Pauly"
+        },
+        {
+          "number": "00",
+          "name": "Max Surprenant"
+        },
+        {
+          "number": "00",
+          "name": "Michael Chen"
+        },
+        {
+          "number": "00",
+          "name": "Mikel  Davies"
+        },
+        {
+          "number": "00",
+          "name": "Owen Bernstein"
+        },
+        {
+          "number": "00",
+          "name": "Paz Meyers"
+        },
+        {
+          "number": "00",
+          "name": "Thomas Gustafson"
+        },
+        {
+          "number": "00",
+          "name": "William Anderson"
+        },
+        {
+          "number": "00",
+          "name": "Wonuola Obasa"
+        },
+        {
+          "number": "00",
+          "name": "Zadoc Gee"
+        }
+      ]
+    },
+    {
+      "name": "Boston University",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Boston University",
+        "location": "Boston, Massachusetts",
+        "website": "https://www.facebook.com/BU.Ultimate",
+        "facebook": "https://www.facebook.com/BU.Ultimate",
+        "twitter": "https://twitter.com/ozonepilots"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Austin Chee"
+        },
+        {
+          "number": "0",
+          "name": "Avery Smith"
+        },
+        {
+          "number": "0",
+          "name": "Bohui Lu"
+        },
+        {
+          "number": "0",
+          "name": "Daniel Greiner"
+        },
+        {
+          "number": "0",
+          "name": "David Zhong"
+        },
+        {
+          "number": "0",
+          "name": "Gabriel Cohen"
+        },
+        {
+          "number": "0",
+          "name": "Hong Wei Gerald Wang"
+        },
+        {
+          "number": "0",
+          "name": "James Strand"
+        },
+        {
+          "number": "0",
+          "name": "Jeremy Gay"
+        },
+        {
+          "number": "0",
+          "name": "Matthew Kweon"
+        },
+        {
+          "number": "0",
+          "name": "Michael Guo"
+        },
+        {
+          "number": "0",
+          "name": "Ram Sundaram"
+        },
+        {
+          "number": "0",
+          "name": "Victor  Jiang"
+        },
+        {
+          "number": "0",
+          "name": "William Maharry"
+        },
+        {
+          "number": "0",
+          "name": "Xiaojie (Aaron) Li"
+        },
+        {
+          "number": "0",
+          "name": "Zackary Furnari"
+        },
+        {
+          "number": "0",
+          "name": "Kai Imery"
+        },
+        {
+          "number": "0",
+          "name": "Keller Rentz-Baker"
+        },
+        {
+          "number": "20",
+          "name": "John Lunt"
+        },
+        {
+          "number": "53",
+          "name": "Leo  Yuan"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Tufts",
+              "team2": "MIT",
+              "score1": 14,
+              "score2": 8,
+              "datetime": "2023-04-15T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Tufts",
+              "team2": "Massachusetts-Lowell",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2023-04-15T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Massachusetts-Lowell",
+              "team2": "MIT",
+              "score1": 8,
+              "score2": 10,
+              "datetime": "2023-04-15T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool B",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Northeastern",
+              "team2": "Boston University",
+              "score1": 14,
+              "score2": 5,
+              "datetime": "2023-04-15T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Northeastern",
+              "team2": "Harvard",
+              "score1": 14,
+              "score2": 11,
+              "datetime": "2023-04-15T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Harvard",
+              "team2": "Boston University",
+              "score1": 13,
+              "score2": 9,
+              "datetime": "2023-04-15T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Bracket Play",
+      "groups": [
+        {
+          "name": "1st Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Tufts",
+              "team2": "Northeastern",
+              "score1": 12,
+              "score2": 11,
+              "datetime": "2023-04-16T10:15:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Tufts",
+              "team2": "Harvard",
+              "score1": 13,
+              "score2": 8,
+              "datetime": "2023-04-16T08:30:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "MIT",
+              "team2": "Northeastern",
+              "score1": 7,
+              "score2": 10,
+              "datetime": "2023-04-16T08:30:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Massachusetts-Lowell",
+              "team2": "Harvard",
+              "score1": 10,
+              "score2": 12,
+              "datetime": "2023-04-15T14:15:00Z",
+              "round": "Quarterfinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Boston University",
+              "team2": "MIT",
+              "score1": 7,
+              "score2": 10,
+              "datetime": "2023-04-15T14:15:00Z",
+              "round": "Quarterfinals",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "3rd Place",
+      "groups": [
+        {
+          "name": "3rd Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Harvard",
+              "team2": "MIT",
+              "score1": 12,
+              "score2": 8,
+              "datetime": "2023-04-16T10:15:00Z",
+              "round": "3rd Place",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "5th Place (Game-to-go)",
+      "groups": [
+        {
+          "name": "5th Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Massachusetts-Lowell",
+              "team2": "Boston University",
+              "score1": 12,
+              "score2": 9,
+              "datetime": "2023-04-16T08:30:00Z",
+              "round": "5th Place",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

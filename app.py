@@ -17,6 +17,14 @@ from tor import startTorServer, torIsRunning
 from video.video import scrapeVideos, scrapeUltiworldAndSave
 import db
 
+from core.pipeline import run_pipeline
+from sources.wfdf.events import (
+    ongoing_events as wfdf_ongoing_events,
+    recently_ended_events as wfdf_recently_ended_events,
+    upcoming_events as wfdf_upcoming_events,
+)
+from sources.wfdf.source import WfdfSource
+
 # Runtime state
 ongoingTournaments = []
 upcomingTournaments = []
@@ -137,6 +145,76 @@ def scrapeRecentlyEndedTournaments():
     config = ScrapeOptions(int(year), True, True, True, False)
     scrapeListOfTournamentUrls(config, recentlyEndedTournaments)
     # commitAndPush()
+
+
+def _run_wfdf_events(events, *, live, refresh_rosters):
+    """Drive core.pipeline.run_pipeline over a specific WFDF event subset
+    (ongoing / upcoming -- see sources/wfdf/events.py), mirroring
+    scrapeOngoingTournaments/scrapeOngoingTournamentsRefreshTeams/
+    scrapeUpcomingTournaments above but through the shared Source pipeline
+    instead of the CSV path.
+
+    Events are grouped by year since WfdfSource.discover(year) is
+    year-scoped (WFDF calls one event a "season", not a year -- see
+    sources/wfdf/events.py). One WfdfSource per year-group is constructed
+    with `events=` already filtered to just this subset, so discover()
+    only returns refs for the events we actually want to touch.
+
+    A whole year-group failing (e.g. a bad secrets config) is caught and
+    logged so it can't kill the scheduler thread; a single event failing
+    within a group is already caught inside core.pipeline.run_pipeline.
+    """
+    if not events:
+        log.info(f"wfdf: no events to scrape (live={live}, refresh_rosters={refresh_rosters})")
+        return
+
+    by_year = {}
+    for event in events:
+        by_year.setdefault(event.year, []).append(event)
+
+    secrets = get_secrets()
+    any_documents = False
+    for scrape_year, year_events in sorted(by_year.items()):
+        src = WfdfSource(events=year_events, live=live, refresh_rosters=refresh_rosters)
+        try:
+            documents = run_pipeline(
+                src,
+                scrape_year,
+                post=POST_TO_API,
+                api_url=secrets.api_url,
+                ingest_token=secrets.ingest_token,
+            )
+            any_documents = any_documents or bool(documents)
+        except Exception:
+            log.exception(f"wfdf: pipeline failed for year={scrape_year}")
+
+    if COMMIT_AND_PUSH and any_documents:
+        commitWfdfData()
+
+
+def commitWfdfData():
+    """WFDF emits versioned JSON under data/<source>/<year>/, not CSV under
+    csv/ (see MULTI-SOURCE-REDESIGN.md's repo layout). listUpdatedFiles()
+    and commitToGit() already take an arbitrary path/directory -- neither
+    is actually CSV-specific -- so this reuses them directly rather than
+    duplicating commitAndPush()'s CSV-only listUpdatedCsvs()/v1-ingest path,
+    which does not apply here (WFDF posts self-contained v2 documents, not
+    CSV path suffixes)."""
+    docs = listUpdatedFiles("data/")
+    if len(docs) > 0:
+        commitToGit("data")
+
+
+def scrapeOngoingWfdfEvents():
+    _run_wfdf_events(wfdf_ongoing_events(), live=True, refresh_rosters=False)
+
+
+def scrapeWfdfEventsRefreshRosters():
+    _run_wfdf_events(wfdf_ongoing_events(), live=True, refresh_rosters=True)
+
+
+def scrapeUpcomingWfdfEvents():
+    _run_wfdf_events(wfdf_upcoming_events(), live=False, refresh_rosters=False)
 
 
 def scrapeAndPushVideos():
@@ -265,6 +343,9 @@ def setup_scheduler(config=None):
     scheduler.add_job(func=scrapeUpcomingTournaments, trigger="interval", hours=sched_config.upcoming_interval_hours)
     scheduler.add_job(func=scrapeRecentlyEndedTournaments, trigger="interval", hours=sched_config.recently_ended_interval_hours)
     scheduler.add_job(func=scrapeAndPushVideos, trigger="interval", hours=sched_config.videos_interval_hours)
+    scheduler.add_job(func=scrapeOngoingWfdfEvents, trigger="interval", minutes=sched_config.wfdf_ongoing_interval_minutes)
+    scheduler.add_job(func=scrapeWfdfEventsRefreshRosters, trigger="interval", hours=sched_config.wfdf_roster_refresh_interval_hours)
+    scheduler.add_job(func=scrapeUpcomingWfdfEvents, trigger="interval", hours=sched_config.wfdf_upcoming_interval_hours)
     scheduler.start()
     scheduler.print_jobs()
 
@@ -299,6 +380,9 @@ def create_app(config=None):
             "ongoingTournaments": len(ongoingTournaments),
             "upcomingTournaments": len(upcomingTournaments),
             "recentlyEndedTournaments": len(recentlyEndedTournaments),
+            "wfdfOngoingEvents": len(wfdf_ongoing_events()),
+            "wfdfUpcomingEvents": len(wfdf_upcoming_events()),
+            "wfdfRecentlyEndedEvents": len(wfdf_recently_ended_events()),
         }
         return output
 

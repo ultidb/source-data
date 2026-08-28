@@ -1,0 +1,277 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2024/New-England-Dev-College-Mens-Regionals-2024CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/New-England-Dev-College-Mens-Regionals-2024/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:20.913536Z",
+  "event": {
+    "name": "New England Dev College Men's Regionals 2024",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2024,
+    "city": "Cambridge",
+    "state": "MA",
+    "country": "",
+    "startDate": "2024-05-04",
+    "endDate": "2024-05-04"
+  },
+  "teams": [
+    {
+      "name": "Brown (B)",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Brown - B",
+        "location": "Providence, Rhode Island",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/PFunkUltimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Ben Pomeranz"
+        },
+        {
+          "number": "0",
+          "name": "Bryce Jacobs"
+        },
+        {
+          "number": "0",
+          "name": "Daniel Graves"
+        },
+        {
+          "number": "0",
+          "name": "Derek Reeves"
+        },
+        {
+          "number": "0",
+          "name": "Ibrahim Mohammed"
+        },
+        {
+          "number": "0",
+          "name": "Ishan Khurana"
+        },
+        {
+          "number": "0",
+          "name": "Jackson Powers"
+        },
+        {
+          "number": "0",
+          "name": "Kevin Hu"
+        },
+        {
+          "number": "0",
+          "name": "Kyan Frantz"
+        },
+        {
+          "number": "0",
+          "name": "Oscar King"
+        },
+        {
+          "number": "0",
+          "name": "Owen Harris"
+        },
+        {
+          "number": "11",
+          "name": "Noah Bingham"
+        },
+        {
+          "number": "16",
+          "name": "Aaron Epstein"
+        },
+        {
+          "number": "25",
+          "name": "Adrian  Oteiza"
+        },
+        {
+          "number": "34",
+          "name": "Muyu Ye"
+        },
+        {
+          "number": "77",
+          "name": "Alexander Drogin"
+        }
+      ]
+    },
+    {
+      "name": "MIT (B)",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Woodmunchers",
+        "location": "Cambridge, Massachusetts",
+        "website": "mens-ult.mit.edu",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Aneesh Gupta"
+        },
+        {
+          "number": "00",
+          "name": "Ellery Stahler"
+        },
+        {
+          "number": "00",
+          "name": "Jack Fletcher"
+        },
+        {
+          "number": "00",
+          "name": "Joaquin Perkins"
+        },
+        {
+          "number": "00",
+          "name": "Jonas Blanc"
+        },
+        {
+          "number": "00",
+          "name": "Jorge Tomaylla Eme"
+        },
+        {
+          "number": "00",
+          "name": "Joshua Chen"
+        },
+        {
+          "number": "00",
+          "name": "Justin Chen"
+        },
+        {
+          "number": "00",
+          "name": "Karthik Vedula"
+        },
+        {
+          "number": "00",
+          "name": "Kevin Wu"
+        },
+        {
+          "number": "00",
+          "name": "Matthew Barnett"
+        },
+        {
+          "number": "00",
+          "name": "Minseok Park"
+        },
+        {
+          "number": "00",
+          "name": "Sharvaa Selvan"
+        },
+        {
+          "number": "00",
+          "name": "Tomasz Slusarczyk"
+        },
+        {
+          "number": "00",
+          "name": "William-Trung Vu"
+        }
+      ]
+    },
+    {
+      "name": "Tufts (C)",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Tufts C",
+        "location": "Medford, Massachusetts",
+        "website": "www.tuftsmensultimate.org",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Adrian Li"
+        },
+        {
+          "number": "00",
+          "name": "Alexander Chanis"
+        },
+        {
+          "number": "00",
+          "name": "Antonio Alphonse"
+        },
+        {
+          "number": "00",
+          "name": "Colin McCarragher"
+        },
+        {
+          "number": "00",
+          "name": "Gabe Lerner"
+        },
+        {
+          "number": "00",
+          "name": "Jack Mandell"
+        },
+        {
+          "number": "00",
+          "name": "Luke Titan"
+        },
+        {
+          "number": "00",
+          "name": "Niall Reynolds"
+        },
+        {
+          "number": "00",
+          "name": "Prithvi Shahani"
+        },
+        {
+          "number": "00",
+          "name": "Sam Bradley"
+        },
+        {
+          "number": "00",
+          "name": "Sean Burtchaell"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Brown (B)",
+              "team2": "Tufts (C)",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2024-05-04T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "MIT (B)",
+              "team2": "Tufts (C)",
+              "score1": 13,
+              "score2": 8,
+              "datetime": "2024-05-04T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "MIT (B)",
+              "team2": "Brown (B)",
+              "score1": 2,
+              "score2": 15,
+              "datetime": "2024-05-04T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

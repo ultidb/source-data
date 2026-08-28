@@ -1,0 +1,231 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2025/West-Plains-D-III-Mens-Conferences-2025CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/West-Plains-D-III-Mens-Conferences-2025/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:21.929121Z",
+  "event": {
+    "name": "West Plains D-III Men's Conferences 2025",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2025,
+    "city": "Grinnell",
+    "state": "IA",
+    "country": "",
+    "startDate": "2025-04-12",
+    "endDate": "2025-04-12"
+  },
+  "teams": [
+    {
+      "name": "Grinnell",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Grinnellephants",
+        "location": "Grinnell, Iowa",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/Grinnellephants"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Eli Boeding"
+        },
+        {
+          "number": "00",
+          "name": "Fergus Braun"
+        },
+        {
+          "number": "00",
+          "name": "Jacob Unzicker"
+        },
+        {
+          "number": "00",
+          "name": "Jeronimo Camargo Ochoa"
+        },
+        {
+          "number": "00",
+          "name": "Joseph Barrows"
+        },
+        {
+          "number": "00",
+          "name": "Nathan Starhill"
+        },
+        {
+          "number": "00",
+          "name": "Niko Vamvakides"
+        },
+        {
+          "number": "00",
+          "name": "Nolan McGrane-Moffitt"
+        },
+        {
+          "number": "00",
+          "name": "Paul Spang"
+        },
+        {
+          "number": "00",
+          "name": "Ryan Lewis"
+        },
+        {
+          "number": "00",
+          "name": "Sam Bigham"
+        },
+        {
+          "number": "00",
+          "name": "Samuel Gerardi"
+        },
+        {
+          "number": "00",
+          "name": "Theo Bonin"
+        },
+        {
+          "number": "00",
+          "name": "William Norry"
+        },
+        {
+          "number": "00",
+          "name": "Benjamin Shulman"
+        },
+        {
+          "number": "00",
+          "name": "Carter Ottele"
+        },
+        {
+          "number": "00",
+          "name": "Colby Jaros"
+        },
+        {
+          "number": "00",
+          "name": "David Rhoades"
+        },
+        {
+          "number": "00",
+          "name": "Dominic D’Ascenzo"
+        },
+        {
+          "number": "31",
+          "name": "Duncan Lambert"
+        }
+      ]
+    },
+    {
+      "name": "Luther",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "LUFDA",
+        "location": "Decorah, Iowa",
+        "website": "https://www.luther.edu/mens-ultimate/",
+        "facebook": "https://www.facebook.com/lutherultimate",
+        "twitter": "https://twitter.com/LutherLUFDA"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Evelyn Moan"
+        },
+        {
+          "number": "0",
+          "name": "Carter Sommerness"
+        },
+        {
+          "number": "0",
+          "name": "Tanner Peters"
+        },
+        {
+          "number": "00",
+          "name": "Zachary A Watson"
+        },
+        {
+          "number": "00",
+          "name": "Benjamin Vogel"
+        },
+        {
+          "number": "00",
+          "name": "Peter McBride"
+        },
+        {
+          "number": "00",
+          "name": "Sean Medcalfe"
+        },
+        {
+          "number": "00",
+          "name": "Sebastian Flores"
+        },
+        {
+          "number": "00",
+          "name": "Simon McDonald"
+        },
+        {
+          "number": "00",
+          "name": "Charles Jetton"
+        },
+        {
+          "number": "00",
+          "name": "Eli Miller"
+        },
+        {
+          "number": "00",
+          "name": "Minh Le"
+        },
+        {
+          "number": "00",
+          "name": "Gabriel Johnson"
+        },
+        {
+          "number": "00",
+          "name": "Huy Nguyen"
+        },
+        {
+          "number": "00",
+          "name": "Karlton Anderson"
+        },
+        {
+          "number": "00",
+          "name": "Liam Edberg"
+        },
+        {
+          "number": "00",
+          "name": "Malachi Mcelroy"
+        },
+        {
+          "number": "13",
+          "name": "Muhammad Mughees Akbar Warraich"
+        },
+        {
+          "number": "97",
+          "name": "Mark McCollor"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "brackets",
+      "name": "1st Place Bracket",
+      "groups": [
+        {
+          "name": "1st Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Grinnell",
+              "team2": "Luther",
+              "score1": 12,
+              "score2": 10,
+              "datetime": "2025-04-12T11:00:00Z",
+              "round": "1st Place",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

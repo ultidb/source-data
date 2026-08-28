@@ -1,0 +1,716 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2021/Madison-CupClub-Mixed",
+  "sourceUrl": "https://play.usaultimate.org/events/Madison-Cup/schedule/Mixed/Club-Mixed",
+  "scrapedAt": "2026-08-28T10:06:17.809185Z",
+  "event": {
+    "name": "Madison Cup 2021",
+    "division": "Club - Mixed ",
+    "gender": "",
+    "season": 2021,
+    "city": "Madison",
+    "state": "WI",
+    "country": "",
+    "startDate": "2021-07-10",
+    "endDate": "2021-07-10"
+  },
+  "teams": [
+    {
+      "name": "Mad Udderburn",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Madison, Wisconsin",
+        "website": "http://madudderburn.com/",
+        "facebook": "https://www.facebook.com/MadUdderburn",
+        "twitter": "https://twitter.com/mad_udderburn"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "David Kurian"
+        },
+        {
+          "number": "02",
+          "name": "Hannah Nygard"
+        },
+        {
+          "number": "03",
+          "name": "Jake Wilson"
+        },
+        {
+          "number": "04",
+          "name": "Joey Knutson"
+        },
+        {
+          "number": "05",
+          "name": "Adam Klopfenstein"
+        },
+        {
+          "number": "07",
+          "name": "Kasey Kenealy"
+        },
+        {
+          "number": "08",
+          "name": "Ben Schewe"
+        },
+        {
+          "number": "09",
+          "name": "Grant Hellestad"
+        },
+        {
+          "number": "10",
+          "name": "Matt Coogan"
+        },
+        {
+          "number": "12",
+          "name": "Alyssa Rettler"
+        },
+        {
+          "number": "14",
+          "name": "Katherine Magruder"
+        },
+        {
+          "number": "16",
+          "name": "Thomas Guerin"
+        },
+        {
+          "number": "17",
+          "name": "Thom Kenealy"
+        },
+        {
+          "number": "18",
+          "name": "Julia Sauerhaft"
+        },
+        {
+          "number": "21",
+          "name": "Taylor Grace Zietz"
+        },
+        {
+          "number": "22",
+          "name": "Aaron Speiss"
+        },
+        {
+          "number": "23",
+          "name": "Allison Mueting"
+        },
+        {
+          "number": "24",
+          "name": "Bo Strauss"
+        },
+        {
+          "number": "27",
+          "name": "Clay Schelitzche"
+        },
+        {
+          "number": "30",
+          "name": "Carly Siewert"
+        },
+        {
+          "number": "31",
+          "name": "Amber Heffernan"
+        },
+        {
+          "number": "32",
+          "name": "Amanda Hellestad"
+        },
+        {
+          "number": "41",
+          "name": "Molly Schelitzche"
+        },
+        {
+          "number": "46",
+          "name": "Dominique  Maderal"
+        },
+        {
+          "number": "59",
+          "name": "Nicholas Gerber"
+        },
+        {
+          "number": "84",
+          "name": "Roman Ryan"
+        },
+        {
+          "number": "87",
+          "name": "Katie Fan"
+        },
+        {
+          "number": "99",
+          "name": "Jane Zheng"
+        }
+      ]
+    },
+    {
+      "name": "Mousetrap",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Madison, Wisconsin",
+        "website": "",
+        "facebook": "https://www.facebook.com/mousetrapulti",
+        "twitter": "https://twitter.com/MouseTrapUlti"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Ben Stanger"
+        },
+        {
+          "number": "0",
+          "name": "Camille O'Connell"
+        },
+        {
+          "number": "0",
+          "name": "Caroline Fallon"
+        },
+        {
+          "number": "0",
+          "name": "ELEANOR KNAUSS"
+        },
+        {
+          "number": "0",
+          "name": "Heidi Umhoefer"
+        },
+        {
+          "number": "0",
+          "name": "Henry Fremont"
+        },
+        {
+          "number": "0",
+          "name": "Jacob Calbaum"
+        },
+        {
+          "number": "0",
+          "name": "Kevin Selm"
+        },
+        {
+          "number": "0",
+          "name": "Kristina Geiger"
+        },
+        {
+          "number": "0",
+          "name": "Lily Mae Abels"
+        },
+        {
+          "number": "0",
+          "name": "Rebecca Pols"
+        },
+        {
+          "number": "4",
+          "name": "Margo Stanger"
+        },
+        {
+          "number": "7",
+          "name": "Zeke Witter"
+        },
+        {
+          "number": "8",
+          "name": "Samuel Erickson"
+        },
+        {
+          "number": "8",
+          "name": "Hans Kittleson"
+        },
+        {
+          "number": "9",
+          "name": "Peter Walker"
+        },
+        {
+          "number": "06",
+          "name": "Spencer Olsson"
+        },
+        {
+          "number": "15",
+          "name": "Ken Adams"
+        },
+        {
+          "number": "19",
+          "name": "Jay Taves"
+        },
+        {
+          "number": "29",
+          "name": "Jack Mallmann"
+        },
+        {
+          "number": "36",
+          "name": "Catherine Morita"
+        },
+        {
+          "number": "49",
+          "name": "Cadence Sawyer"
+        },
+        {
+          "number": "69",
+          "name": "Kyle Cleary"
+        }
+      ]
+    },
+    {
+      "name": "Mastodon",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Madison, Wisconsin",
+        "website": "",
+        "facebook": "https://www.facebook.com/MastodonUltimate/?ref=aymt_homepage_panel",
+        "twitter": "https://www.twitter.com/MastodonUlti"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Molly De Mars"
+        },
+        {
+          "number": "0",
+          "name": "Peter Lin"
+        },
+        {
+          "number": "1",
+          "name": "Caitlin Clevenger"
+        },
+        {
+          "number": "2",
+          "name": "Regina Barcio"
+        },
+        {
+          "number": "3",
+          "name": "Kye Hanson"
+        },
+        {
+          "number": "4",
+          "name": "Caroline Bantug"
+        },
+        {
+          "number": "6",
+          "name": "Courtney Botelho"
+        },
+        {
+          "number": "7",
+          "name": "David Cann"
+        },
+        {
+          "number": "8",
+          "name": "Annalise Ho"
+        },
+        {
+          "number": "9",
+          "name": "Sarah Mancina"
+        },
+        {
+          "number": "10",
+          "name": "Ansley Williams"
+        },
+        {
+          "number": "12",
+          "name": "Caitlin Hayner-Slattery"
+        },
+        {
+          "number": "13",
+          "name": "Daniel Huncosky"
+        },
+        {
+          "number": "15",
+          "name": "Tierney Bilstrom"
+        },
+        {
+          "number": "17",
+          "name": "Laura Coleman"
+        },
+        {
+          "number": "20",
+          "name": "Noah Webster"
+        },
+        {
+          "number": "22",
+          "name": "Geordi Haerr-Hartmann"
+        },
+        {
+          "number": "23",
+          "name": "Luke Bodnar"
+        },
+        {
+          "number": "24",
+          "name": "Veiga Goethel"
+        },
+        {
+          "number": "25",
+          "name": "Chris Baker"
+        },
+        {
+          "number": "28",
+          "name": "Isaac Fine"
+        },
+        {
+          "number": "30",
+          "name": "Kevin Lee"
+        },
+        {
+          "number": "33",
+          "name": "Justin Chenevert"
+        },
+        {
+          "number": "42",
+          "name": "Lily Shu"
+        },
+        {
+          "number": "44",
+          "name": "Lindsey Tushman"
+        },
+        {
+          "number": "49",
+          "name": "Isaac Griffin-Wiesner"
+        },
+        {
+          "number": "77",
+          "name": "Vikas Biliyar"
+        },
+        {
+          "number": "90",
+          "name": "Samuel Perreth"
+        },
+        {
+          "number": "99",
+          "name": "Lauren Bradshaw"
+        },
+        {
+          "number": "99",
+          "name": "Jessica Liu"
+        }
+      ]
+    },
+    {
+      "name": "Madison United Mixed Ultimate",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Madison, Wisconsin",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "01",
+          "name": "Kara Vogel"
+        },
+        {
+          "number": "02",
+          "name": "Theresa Olson"
+        },
+        {
+          "number": "03",
+          "name": "Jordan Speicher"
+        },
+        {
+          "number": "05",
+          "name": "Hannah Rapp"
+        },
+        {
+          "number": "07",
+          "name": "Stefanie Bugasch Scopoline"
+        },
+        {
+          "number": "08",
+          "name": "Tim Rushmer"
+        },
+        {
+          "number": "09",
+          "name": "Madeline  Johnson"
+        },
+        {
+          "number": "10",
+          "name": "James Rosenberger"
+        },
+        {
+          "number": "11",
+          "name": "Alex Piff"
+        },
+        {
+          "number": "12",
+          "name": "Kevin Scopoline"
+        },
+        {
+          "number": "13",
+          "name": "Kylee Martens"
+        },
+        {
+          "number": "16",
+          "name": "Alec Li"
+        },
+        {
+          "number": "17",
+          "name": "Alex Bock"
+        },
+        {
+          "number": "20",
+          "name": "Zach Hallum"
+        },
+        {
+          "number": "23",
+          "name": "Jayd Phelps"
+        },
+        {
+          "number": "27",
+          "name": "Marta Weber"
+        },
+        {
+          "number": "30",
+          "name": "Aaron Michaud"
+        },
+        {
+          "number": "33",
+          "name": "Kendell Gilmore"
+        },
+        {
+          "number": "50",
+          "name": "Andrew Taber"
+        },
+        {
+          "number": "71",
+          "name": "Sean Cassidy"
+        },
+        {
+          "number": "79",
+          "name": "Amanda Strickland"
+        },
+        {
+          "number": "80",
+          "name": "Meghan Hawkins"
+        },
+        {
+          "number": "86",
+          "name": "Matt LaFever"
+        },
+        {
+          "number": "89",
+          "name": "Patrick Kopp"
+        }
+      ]
+    },
+    {
+      "name": "Boomtown Pandas",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Madison, Wisconsin",
+        "website": "",
+        "facebook": "https://www.facebook.com/BoomtownPandas/",
+        "twitter": "https://twitter.com/boomtownpandas"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "4",
+          "name": "Thomas Schiltz"
+        },
+        {
+          "number": "00",
+          "name": "Steven Whelan"
+        },
+        {
+          "number": "05",
+          "name": "Mia Wieben"
+        },
+        {
+          "number": "07",
+          "name": "Kensey Katz"
+        },
+        {
+          "number": "09",
+          "name": "Alex Larsen"
+        },
+        {
+          "number": "17",
+          "name": "Adam Throne"
+        },
+        {
+          "number": "19",
+          "name": "Peter Reinhart"
+        },
+        {
+          "number": "21",
+          "name": "Sarah Rubin"
+        },
+        {
+          "number": "22",
+          "name": "Harry Moore"
+        },
+        {
+          "number": "23",
+          "name": "Else Radeloff"
+        },
+        {
+          "number": "25",
+          "name": "Michael Van Haren"
+        },
+        {
+          "number": "29",
+          "name": "Sarah Doege"
+        },
+        {
+          "number": "32",
+          "name": "Molly Snow"
+        },
+        {
+          "number": "42",
+          "name": "Britney Lane"
+        },
+        {
+          "number": "50",
+          "name": "Connor Burns"
+        },
+        {
+          "number": "51",
+          "name": "Nathan Kleinhans"
+        },
+        {
+          "number": "61",
+          "name": "Anne Gardner"
+        },
+        {
+          "number": "61",
+          "name": "Reed Gardner"
+        },
+        {
+          "number": "64",
+          "name": "Rachel Martin"
+        },
+        {
+          "number": "67",
+          "name": "Caleb Main"
+        },
+        {
+          "number": "84",
+          "name": "Vincent Hsu"
+        },
+        {
+          "number": "88",
+          "name": "Chris Sykes"
+        },
+        {
+          "number": "99",
+          "name": "Lauren Shaw"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Round Robin",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Mastodon",
+              "team2": "Mousetrap",
+              "score1": 11,
+              "score2": 8,
+              "datetime": "2021-07-10T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Boomtown Pandas",
+              "team2": "Mad Udderburn",
+              "score1": 8,
+              "score2": 11,
+              "datetime": "2021-07-10T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Boomtown Pandas",
+              "team2": "Madison United Mixed Ultimate",
+              "score1": 5,
+              "score2": 7,
+              "datetime": "2021-07-10T10:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Mad Udderburn",
+              "team2": "Mastodon",
+              "score1": 12,
+              "score2": 2,
+              "datetime": "2021-07-10T10:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Madison United Mixed Ultimate",
+              "team2": "Mastodon",
+              "score1": 8,
+              "score2": 5,
+              "datetime": "2021-07-10T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Mad Udderburn",
+              "team2": "Mousetrap",
+              "score1": 12,
+              "score2": 6,
+              "datetime": "2021-07-10T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Boomtown Pandas",
+              "team2": "Mastodon",
+              "score1": 6,
+              "score2": 10,
+              "datetime": "2021-07-10T13:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Madison United Mixed Ultimate",
+              "team2": "Mousetrap",
+              "score1": 6,
+              "score2": 11,
+              "datetime": "2021-07-10T13:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Boomtown Pandas",
+              "team2": "Mousetrap",
+              "score1": 5,
+              "score2": 12,
+              "datetime": "2021-07-10T15:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Mad Udderburn",
+              "team2": "Madison United Mixed Ultimate",
+              "score1": 13,
+              "score2": 4,
+              "datetime": "2021-07-10T15:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

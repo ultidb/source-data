@@ -1,0 +1,231 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2014/East-InviteClub-Men",
+  "sourceUrl": "https://play.usaultimate.org/events/East-Invite/schedule/Men/Club-Men/",
+  "scrapedAt": "2026-08-28T10:06:11.483310Z",
+  "event": {
+    "name": "East Invite 2014",
+    "division": "Club - Men ",
+    "gender": "",
+    "season": 2014,
+    "city": "Sedalia",
+    "state": "CO",
+    "country": "",
+    "startDate": "2014-04-12",
+    "endDate": "2014-04-13"
+  },
+  "teams": [
+    {
+      "name": "Jerome Bravo",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Denver, Colorado",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Ian Toner"
+        },
+        {
+          "number": "00",
+          "name": "Jack (John) McShane"
+        },
+        {
+          "number": "00",
+          "name": "Kevin Minderhout"
+        },
+        {
+          "number": "00",
+          "name": "Henry Konker"
+        },
+        {
+          "number": "00",
+          "name": "Joshua Ackley"
+        },
+        {
+          "number": "00",
+          "name": "David Wheeler"
+        },
+        {
+          "number": "00",
+          "name": "Evan Padget"
+        },
+        {
+          "number": "00",
+          "name": "C Ryan Morgan"
+        },
+        {
+          "number": "00",
+          "name": "Michael Lun"
+        },
+        {
+          "number": "00",
+          "name": "Jesse Roehm"
+        },
+        {
+          "number": "00",
+          "name": "CRAIG FORSHEE"
+        },
+        {
+          "number": "00",
+          "name": "Bart Watson"
+        },
+        {
+          "number": "00",
+          "name": "Jackson Kloor"
+        },
+        {
+          "number": "00",
+          "name": "Matthew Farrell"
+        },
+        {
+          "number": "00",
+          "name": "Nicholas Lance"
+        },
+        {
+          "number": "00",
+          "name": "RYAN FARRELL"
+        }
+      ]
+    },
+    {
+      "name": "Colorado",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Mamabird",
+        "location": "Boulder, Colorado",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "07",
+          "name": "Hidde Snieder"
+        },
+        {
+          "number": "08",
+          "name": "Pawel Janas"
+        },
+        {
+          "number": "09",
+          "name": "Peter Gleason"
+        },
+        {
+          "number": "10",
+          "name": "Max Trotter"
+        },
+        {
+          "number": "11",
+          "name": "ZACHARY KRIEGER"
+        },
+        {
+          "number": "11",
+          "name": "Mark Rauls"
+        },
+        {
+          "number": "11",
+          "name": "Joshua Crane"
+        },
+        {
+          "number": "12",
+          "name": "Tim Morrissy"
+        },
+        {
+          "number": "15",
+          "name": "Dennison Bechis"
+        },
+        {
+          "number": "15",
+          "name": "Jesse Fisher"
+        },
+        {
+          "number": "16",
+          "name": "J Wesley Chow"
+        },
+        {
+          "number": "17",
+          "name": "Tristan Voss"
+        },
+        {
+          "number": "18",
+          "name": "Philip Sun"
+        },
+        {
+          "number": "20",
+          "name": "Jack Barrow"
+        },
+        {
+          "number": "23",
+          "name": "Jimmy Mickle"
+        },
+        {
+          "number": "26",
+          "name": "Stanley Peterson"
+        },
+        {
+          "number": "27",
+          "name": "Andrew Commander"
+        },
+        {
+          "number": "28",
+          "name": "Andrew Nelson"
+        },
+        {
+          "number": "29",
+          "name": "Matt Gleason"
+        },
+        {
+          "number": "35",
+          "name": "Todd Wolma"
+        },
+        {
+          "number": "42",
+          "name": "Matt Bubernak"
+        },
+        {
+          "number": "80",
+          "name": "Jeremy Harker"
+        },
+        {
+          "number": "92",
+          "name": "Joseph Carrara"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "brackets",
+      "name": "Showcase Game",
+      "groups": [
+        {
+          "name": "Showcase",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Jerome Bravo",
+              "team2": "Colorado",
+              "score1": 1,
+              "score2": 0,
+              "datetime": "2014-04-12T17:00:00Z",
+              "round": "Showcase",
+              "status": "Scheduled"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

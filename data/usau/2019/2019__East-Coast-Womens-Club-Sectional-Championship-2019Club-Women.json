@@ -1,0 +1,215 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2019/East-Coast-Womens-Club-Sectional-Championship-2019Club-Women",
+  "sourceUrl": "https://play.usaultimate.org/events/East-Coast-Womens-Club-Sectional-Championship-2019/schedule/Women/Club-Women/",
+  "scrapedAt": "2026-08-28T10:06:16.530175Z",
+  "event": {
+    "name": "East Coast Women's Club Sectional Championship 2019",
+    "division": "Club - Women ",
+    "gender": "",
+    "season": 2019,
+    "city": "Chattanooga",
+    "state": "TN",
+    "country": "",
+    "startDate": "2019-09-07",
+    "endDate": "2019-09-08"
+  },
+  "teams": [
+    {
+      "name": "Outbreak",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Atlanta, Georgia",
+        "website": "https://www.facebook.com/ATLOutbreak",
+        "facebook": "https://www.facebook.com/ATLOutbreak",
+        "twitter": "@ATLOutbreak"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "1",
+          "name": "Charlene Hawkins"
+        },
+        {
+          "number": "5",
+          "name": "Gerleen Dineros"
+        },
+        {
+          "number": "6",
+          "name": "Calliope Cutchins"
+        },
+        {
+          "number": "7",
+          "name": "Anh Spinks"
+        },
+        {
+          "number": "7",
+          "name": "Sarah  Kingsley"
+        },
+        {
+          "number": "9",
+          "name": "Kristen Cawley"
+        },
+        {
+          "number": "11",
+          "name": "Lauren Lee"
+        },
+        {
+          "number": "12",
+          "name": "Dorsey Norwood"
+        },
+        {
+          "number": "15",
+          "name": "Elyse Anderson"
+        },
+        {
+          "number": "16",
+          "name": "Allyssa Raspa"
+        },
+        {
+          "number": "18",
+          "name": "Sierra Petrash"
+        },
+        {
+          "number": "20",
+          "name": "Barbara Mallett"
+        },
+        {
+          "number": "20",
+          "name": "Mirenli Negron"
+        },
+        {
+          "number": "21",
+          "name": "Katherine Smith"
+        },
+        {
+          "number": "22",
+          "name": "Cassie Seaman"
+        },
+        {
+          "number": "32",
+          "name": "Alli Manhard"
+        },
+        {
+          "number": "33",
+          "name": "Jessica Brown"
+        },
+        {
+          "number": "55",
+          "name": "Stephanie Shane"
+        },
+        {
+          "number": "56",
+          "name": "Charlotte Cloyd"
+        },
+        {
+          "number": "88",
+          "name": "Mazie Switzer"
+        },
+        {
+          "number": "99",
+          "name": "Rebecca Colbert"
+        }
+      ]
+    },
+    {
+      "name": "Honey Pot",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Chattanooga, Tennessee",
+        "website": "",
+        "facebook": "",
+        "twitter": "@honeypotult"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Anna Graham"
+        },
+        {
+          "number": "0",
+          "name": "Christine Graham"
+        },
+        {
+          "number": "0",
+          "name": "Krystal Place"
+        },
+        {
+          "number": "0",
+          "name": "Merkle Moore"
+        },
+        {
+          "number": "0",
+          "name": "Merrill Brown"
+        },
+        {
+          "number": "0",
+          "name": "Mychael Cain"
+        },
+        {
+          "number": "0",
+          "name": "Ema Hagood"
+        },
+        {
+          "number": "4",
+          "name": "Haley Hansen"
+        },
+        {
+          "number": "4",
+          "name": "Carrie Betts"
+        },
+        {
+          "number": "10",
+          "name": "Taylor Bearden"
+        },
+        {
+          "number": "15",
+          "name": "Colie Cain"
+        },
+        {
+          "number": "19",
+          "name": "Hannah Ginese"
+        },
+        {
+          "number": "24",
+          "name": "Chandler Shelton-Swenson"
+        },
+        {
+          "number": "88",
+          "name": "Rebecca Xiao"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Finals",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Outbreak",
+              "team2": "Honey Pot",
+              "score1": 15,
+              "score2": 3,
+              "datetime": "2019-09-07T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

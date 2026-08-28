@@ -1,0 +1,251 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2016/Ozarks-Mixed-Sectionals-2016Club-Mixed",
+  "sourceUrl": "https://play.usaultimate.org/events/Ozarks-Mixed-Sectionals-2016/schedule/Mixed/Club-Mixed",
+  "scrapedAt": "2026-08-28T10:06:13.600672Z",
+  "event": {
+    "name": "Ozarks Mixed Sectionals 2016",
+    "division": "Club - Mixed ",
+    "gender": "",
+    "season": 2016,
+    "city": "Fayetteville",
+    "state": "AR",
+    "country": "",
+    "startDate": "2016-08-27",
+    "endDate": "2016-08-28"
+  },
+  "teams": [
+    {
+      "name": "theRUB",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Fayetteville, Arkansas",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Clay Mohr"
+        },
+        {
+          "number": "0",
+          "name": "Samuel Franklin"
+        },
+        {
+          "number": "0",
+          "name": "JOSEPH BELL"
+        },
+        {
+          "number": "0",
+          "name": "ALLEGRA HANSON"
+        },
+        {
+          "number": "0",
+          "name": "Derek Carter"
+        },
+        {
+          "number": "0",
+          "name": "Alana Hardeman"
+        },
+        {
+          "number": "0",
+          "name": "JACOB PERRY"
+        },
+        {
+          "number": "1",
+          "name": "Elise Franke"
+        },
+        {
+          "number": "3",
+          "name": "JONATHAN PERRY"
+        },
+        {
+          "number": "3",
+          "name": "Curtis Asher"
+        },
+        {
+          "number": "3",
+          "name": "KARA DICKEMANN"
+        },
+        {
+          "number": "5",
+          "name": "Courtney Walbe"
+        },
+        {
+          "number": "6",
+          "name": "William Sharp"
+        },
+        {
+          "number": "7",
+          "name": "Courtney McClain"
+        },
+        {
+          "number": "8",
+          "name": "Austin Culp"
+        },
+        {
+          "number": "8",
+          "name": "CHRISTOPHER ANDREWS"
+        },
+        {
+          "number": "11",
+          "name": "Drew Hutchison"
+        },
+        {
+          "number": "17",
+          "name": "Cameron Umbarger"
+        },
+        {
+          "number": "21",
+          "name": "Mary Gentry"
+        },
+        {
+          "number": "22",
+          "name": "Barry Hart"
+        },
+        {
+          "number": "22",
+          "name": "Corey  Duncan"
+        },
+        {
+          "number": "23",
+          "name": "Matthew Gentry"
+        },
+        {
+          "number": "33",
+          "name": "MADDY BROWN"
+        },
+        {
+          "number": "41",
+          "name": "CHRIS ROBERTSON"
+        },
+        {
+          "number": "51",
+          "name": "Brittany  Stettmeier"
+        }
+      ]
+    },
+    {
+      "name": "Mixed on the Rock",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Little Rock, Arkansas",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Joe Sundell"
+        },
+        {
+          "number": "0",
+          "name": "Toby Von Rembow"
+        },
+        {
+          "number": "0",
+          "name": "Ross Noland"
+        },
+        {
+          "number": "0",
+          "name": "Stephen Treanor"
+        },
+        {
+          "number": "0",
+          "name": "Casey Kleinhenz"
+        },
+        {
+          "number": "0",
+          "name": "Casey Stewart"
+        },
+        {
+          "number": "0",
+          "name": "SOPHIE HOUIN"
+        },
+        {
+          "number": "0",
+          "name": "Victoria Wynne"
+        },
+        {
+          "number": "0",
+          "name": "LAWSON HEMBREE"
+        },
+        {
+          "number": "0",
+          "name": "ANNEMARIE BECK"
+        },
+        {
+          "number": "0",
+          "name": "Felicia Clark"
+        },
+        {
+          "number": "0",
+          "name": "Jeremy DeLon"
+        },
+        {
+          "number": "0",
+          "name": "Olivia Harrington"
+        },
+        {
+          "number": "1",
+          "name": "Heather Ayers"
+        },
+        {
+          "number": "7",
+          "name": "Tom Coffin"
+        },
+        {
+          "number": "8",
+          "name": "josh pixley"
+        },
+        {
+          "number": "14",
+          "name": "Camaron Phillips"
+        },
+        {
+          "number": "22",
+          "name": "John Wynne"
+        },
+        {
+          "number": "37",
+          "name": "Jody Ayers"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "brackets",
+      "name": "Sunday Bracket Play",
+      "groups": [
+        {
+          "name": "1st Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "theRUB",
+              "team2": "Mixed on the Rock",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2016-08-28T12:00:00Z",
+              "round": "A",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

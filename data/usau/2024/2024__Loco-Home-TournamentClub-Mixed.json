@@ -1,0 +1,812 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2024/Loco-Home-TournamentClub-Mixed",
+  "sourceUrl": "https://play.usaultimate.org/events/Loco-Home-Tournament/schedule/Mixed/Club-Mixed",
+  "scrapedAt": "2026-08-28T10:06:20.850213Z",
+  "event": {
+    "name": "Loco Home Tournament 2024",
+    "division": "Club - Mixed ",
+    "gender": "",
+    "season": 2024,
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "",
+    "startDate": "2024-06-16",
+    "endDate": "2024-06-16"
+  },
+  "teams": [
+    {
+      "name": "AMP",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Philadelphia, Pennsylvania",
+        "website": "http://www.phillyamp.com",
+        "facebook": "https://www.facebook.com/PhillyAMP",
+        "twitter": "https://www.twitter.com/phillyamp"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Chris Zaleski"
+        },
+        {
+          "number": "01",
+          "name": "Delrico Johnson"
+        },
+        {
+          "number": "02",
+          "name": "Robert Roos"
+        },
+        {
+          "number": "03",
+          "name": "Rachel Alfano"
+        },
+        {
+          "number": "05",
+          "name": "Lindsay McKenna"
+        },
+        {
+          "number": "06",
+          "name": "Thomas Nye"
+        },
+        {
+          "number": "07",
+          "name": "Max Trifillis"
+        },
+        {
+          "number": "09",
+          "name": "Jordan Rhyne"
+        },
+        {
+          "number": "09",
+          "name": "Brandon Pastor"
+        },
+        {
+          "number": "10",
+          "name": "Benish Benjamin"
+        },
+        {
+          "number": "11",
+          "name": "Nelly Fickett"
+        },
+        {
+          "number": "13",
+          "name": "Eric Witmer"
+        },
+        {
+          "number": "15",
+          "name": "Layne Dodge"
+        },
+        {
+          "number": "18",
+          "name": "Emily Shields"
+        },
+        {
+          "number": "22",
+          "name": "Liz Hart"
+        },
+        {
+          "number": "23",
+          "name": "Will Zamsky"
+        },
+        {
+          "number": "24",
+          "name": "Danielle Walsh"
+        },
+        {
+          "number": "25",
+          "name": "Nate Little"
+        },
+        {
+          "number": "27",
+          "name": "Luke Greenley"
+        },
+        {
+          "number": "33",
+          "name": "Jana Graham"
+        },
+        {
+          "number": "34",
+          "name": "Olivia Steinberg"
+        },
+        {
+          "number": "70",
+          "name": "Jake Butrica"
+        },
+        {
+          "number": "73",
+          "name": "Veronica Kolegue-Spalaris"
+        },
+        {
+          "number": "77",
+          "name": "Taylor Conroy"
+        },
+        {
+          "number": "88",
+          "name": "Paul Owens"
+        },
+        {
+          "number": "99",
+          "name": "Eric Nardelli"
+        }
+      ]
+    },
+    {
+      "name": "Sprocket",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Medford, Massachusetts",
+        "website": "",
+        "facebook": "https://www.facebook.com/sprocket.ultimate",
+        "twitter": ""
+      },
+      "coaches": [
+        "Tom Matthews",
+        "Kate Patterson",
+        "Lizzie Jones"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alexander Donadio"
+        },
+        {
+          "number": "0",
+          "name": "Amanda Giles"
+        },
+        {
+          "number": "0",
+          "name": "Shirlee Wohl"
+        },
+        {
+          "number": "0",
+          "name": "Tsuki Hoshijima"
+        },
+        {
+          "number": "1",
+          "name": "Gene Buonaccorsi"
+        },
+        {
+          "number": "2",
+          "name": "Tess Johnson"
+        },
+        {
+          "number": "3",
+          "name": "Olivia Player"
+        },
+        {
+          "number": "5",
+          "name": "Andrew Pillsbury"
+        },
+        {
+          "number": "6",
+          "name": "Zach Singer"
+        },
+        {
+          "number": "10",
+          "name": "Wilhelmina Graff"
+        },
+        {
+          "number": "11",
+          "name": "Ryan Flamberg"
+        },
+        {
+          "number": "12",
+          "name": "Montana Roberts"
+        },
+        {
+          "number": "14",
+          "name": "Jean Huang"
+        },
+        {
+          "number": "17",
+          "name": "Leo Blooston"
+        },
+        {
+          "number": "18",
+          "name": "Hazel Ostrowski"
+        },
+        {
+          "number": "21",
+          "name": "Tannor Johnson"
+        },
+        {
+          "number": "25",
+          "name": "Ivan Tran"
+        },
+        {
+          "number": "36",
+          "name": "Rebecca Kestin"
+        },
+        {
+          "number": "37",
+          "name": "Jack Kwon"
+        },
+        {
+          "number": "40",
+          "name": "Kayla Huddell"
+        },
+        {
+          "number": "46",
+          "name": "Ariel Felcan"
+        },
+        {
+          "number": "52",
+          "name": "Phillip Joyce"
+        },
+        {
+          "number": "60",
+          "name": "Caitlin Go"
+        },
+        {
+          "number": "72",
+          "name": "Felipe Delgado"
+        },
+        {
+          "number": "98",
+          "name": "Annie Shriver"
+        },
+        {
+          "number": "99",
+          "name": "Michael Shriver"
+        }
+      ]
+    },
+    {
+      "name": "Revival",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Richmond, Virginia",
+        "website": "",
+        "facebook": "https://www.facebook.com/RevivalFlatball",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Brittany Taylor"
+        },
+        {
+          "number": "5",
+          "name": "Emma Colavincenzo"
+        },
+        {
+          "number": "8",
+          "name": "Kris Harrison"
+        },
+        {
+          "number": "07",
+          "name": "Catherine Grossman"
+        },
+        {
+          "number": "10",
+          "name": "Matthew Reynolds"
+        },
+        {
+          "number": "11",
+          "name": "Skye Whitlow"
+        },
+        {
+          "number": "12",
+          "name": "Tyler Davis"
+        },
+        {
+          "number": "15",
+          "name": "Jack Field"
+        },
+        {
+          "number": "16",
+          "name": "Donald Clark"
+        },
+        {
+          "number": "17",
+          "name": "Cullen Monahan"
+        },
+        {
+          "number": "18",
+          "name": "Matthew Neeley"
+        },
+        {
+          "number": "23",
+          "name": "Jane Frankel"
+        },
+        {
+          "number": "24",
+          "name": "Tim Jackson"
+        },
+        {
+          "number": "25",
+          "name": "Crystal Lowery"
+        },
+        {
+          "number": "27",
+          "name": "Joe Spaeth"
+        },
+        {
+          "number": "29",
+          "name": "Rachel Shannon"
+        },
+        {
+          "number": "31",
+          "name": "Hannah Elledge"
+        },
+        {
+          "number": "33",
+          "name": "Laura  Catano"
+        },
+        {
+          "number": "38",
+          "name": "Ariel Vogel"
+        },
+        {
+          "number": "40",
+          "name": "Calvin Ciorba"
+        },
+        {
+          "number": "42",
+          "name": "Garrett Braun"
+        },
+        {
+          "number": "44",
+          "name": "Keila Strick"
+        },
+        {
+          "number": "55",
+          "name": "Molly Roy"
+        },
+        {
+          "number": "57",
+          "name": "Austin Bartenstein"
+        },
+        {
+          "number": "64",
+          "name": "Victoria Davis"
+        },
+        {
+          "number": "87",
+          "name": "Griffin Lang"
+        }
+      ]
+    },
+    {
+      "name": "Loco",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "West Chester, Pennsylvania",
+        "website": "",
+        "facebook": "https://www.facebook.com/wcmixed/",
+        "twitter": "https://twitter.com/loco_ultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Colleen Morton"
+        },
+        {
+          "number": "0",
+          "name": "Elena Lopez"
+        },
+        {
+          "number": "0",
+          "name": "Emily Smulowitz"
+        },
+        {
+          "number": "0",
+          "name": "Ezra Beidler-Shenk"
+        },
+        {
+          "number": "0",
+          "name": "Haley Young"
+        },
+        {
+          "number": "0",
+          "name": "Jackie Weiss"
+        },
+        {
+          "number": "0",
+          "name": "Marissa Coolidge"
+        },
+        {
+          "number": "0",
+          "name": "Nolan McCloskey"
+        },
+        {
+          "number": "0",
+          "name": "Sabrina Bonaci"
+        },
+        {
+          "number": "2",
+          "name": "Kenneth Wells"
+        },
+        {
+          "number": "3",
+          "name": "Austin Lillis"
+        },
+        {
+          "number": "6",
+          "name": "Jessica Brand"
+        },
+        {
+          "number": "6",
+          "name": "Victoria Wischerth"
+        },
+        {
+          "number": "9",
+          "name": "Steven Broome"
+        },
+        {
+          "number": "10",
+          "name": "Ryan Dealy"
+        },
+        {
+          "number": "10",
+          "name": "Belle Sullivan"
+        },
+        {
+          "number": "11",
+          "name": "Owen Land"
+        },
+        {
+          "number": "13",
+          "name": "Kristin Thomas"
+        },
+        {
+          "number": "14",
+          "name": "Joshua Norton"
+        },
+        {
+          "number": "21",
+          "name": "Becklin Davis"
+        },
+        {
+          "number": "36",
+          "name": "Ethan Holmgren"
+        },
+        {
+          "number": "48",
+          "name": "Benjamin Broser"
+        },
+        {
+          "number": "85",
+          "name": "Chase Rawlins"
+        },
+        {
+          "number": "91",
+          "name": "Ethan Sarles"
+        }
+      ]
+    },
+    {
+      "name": "UNION",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Toronto, Ontario CA",
+        "website": "",
+        "facebook": "https://www.facebook.com/pages/Union-Ultimate/190712307636599",
+        "twitter": "@unionultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Aryanie Yang"
+        },
+        {
+          "number": "0",
+          "name": "Devanee Dewey"
+        },
+        {
+          "number": "0",
+          "name": "Noah Nishizaki"
+        },
+        {
+          "number": "1",
+          "name": "Harry Norris"
+        },
+        {
+          "number": "05",
+          "name": "Erich Phang-Lyn"
+        },
+        {
+          "number": "07",
+          "name": "Andrew Kay"
+        },
+        {
+          "number": "08",
+          "name": "Jan Dick"
+        },
+        {
+          "number": "09",
+          "name": "Emily Zhang"
+        },
+        {
+          "number": "10",
+          "name": "Hugo Lynch"
+        },
+        {
+          "number": "11",
+          "name": "Nelson Le"
+        },
+        {
+          "number": "12",
+          "name": "Thomas Panayiotopoulos"
+        },
+        {
+          "number": "13",
+          "name": "Kelsi Mallany"
+        },
+        {
+          "number": "20",
+          "name": "Ian Hanson"
+        },
+        {
+          "number": "21",
+          "name": "Isabelle Pacleb"
+        },
+        {
+          "number": "22",
+          "name": "Samantha Mok"
+        },
+        {
+          "number": "24",
+          "name": "Jamee Nepom"
+        },
+        {
+          "number": "25",
+          "name": "Jordan Atchison"
+        },
+        {
+          "number": "26",
+          "name": "Kelsey Priestman"
+        },
+        {
+          "number": "28",
+          "name": "Emilija Rudzitis"
+        },
+        {
+          "number": "66",
+          "name": "Mackinley Szumlanski"
+        },
+        {
+          "number": "96",
+          "name": "Oren Binnun"
+        }
+      ]
+    },
+    {
+      "name": "Pittsburgh Port Authority",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Pittsburgh, Pennsylvania",
+        "website": "https://tinyurl.com/xteamvalues",
+        "facebook": "",
+        "twitter": "https://twitter.com/portauth0rity"
+      },
+      "coaches": [
+        "Matthew Duffy"
+      ],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Dylan Best"
+        },
+        {
+          "number": "00",
+          "name": "Alexander Thomas"
+        },
+        {
+          "number": "00",
+          "name": "Benjamin Attal"
+        },
+        {
+          "number": "00",
+          "name": "Katy Holt"
+        },
+        {
+          "number": "00",
+          "name": "Kit Asterin"
+        },
+        {
+          "number": "00",
+          "name": "Mallory Griffith"
+        },
+        {
+          "number": "00",
+          "name": "Owen Watt"
+        },
+        {
+          "number": "00",
+          "name": "Patrick McMullen"
+        },
+        {
+          "number": "00",
+          "name": "Ryan Kindell"
+        },
+        {
+          "number": "00",
+          "name": "Ryan Harty"
+        },
+        {
+          "number": "00",
+          "name": "Svetlana Romanova"
+        },
+        {
+          "number": "00",
+          "name": "Tony Thomas"
+        },
+        {
+          "number": "00",
+          "name": "Valeria Duque Villegas"
+        },
+        {
+          "number": "02",
+          "name": "Jessie Sun"
+        },
+        {
+          "number": "03",
+          "name": "Emily Rittenhouse"
+        },
+        {
+          "number": "05",
+          "name": "Caroline Nofzinger"
+        },
+        {
+          "number": "11",
+          "name": "Harry Park"
+        },
+        {
+          "number": "14",
+          "name": "Jenna Nold"
+        },
+        {
+          "number": "82",
+          "name": "Isaac Smith"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Round Robin",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "UNION",
+              "team2": "Loco",
+              "score1": 8,
+              "score2": 12,
+              "datetime": "2024-06-16T08:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "AMP",
+              "team2": "Pittsburgh Port Authority",
+              "score1": 10,
+              "score2": 11,
+              "datetime": "2024-06-16T08:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Sprocket",
+              "team2": "Revival",
+              "score1": 13,
+              "score2": 9,
+              "datetime": "2024-06-16T08:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Loco",
+              "team2": "Sprocket",
+              "score1": 10,
+              "score2": 11,
+              "datetime": "2024-06-16T10:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "AMP",
+              "team2": "UNION",
+              "score1": 13,
+              "score2": 6,
+              "datetime": "2024-06-16T10:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Revival",
+              "team2": "Pittsburgh Port Authority",
+              "score1": 12,
+              "score2": 8,
+              "datetime": "2024-06-16T10:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "AMP",
+              "team2": "Loco",
+              "score1": 13,
+              "score2": 9,
+              "datetime": "2024-06-16T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Sprocket",
+              "team2": "Pittsburgh Port Authority",
+              "score1": 14,
+              "score2": 7,
+              "datetime": "2024-06-16T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Revival",
+              "team2": "UNION",
+              "score1": 14,
+              "score2": 8,
+              "datetime": "2024-06-16T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Loco",
+              "team2": "Revival",
+              "score1": 10,
+              "score2": 12,
+              "datetime": "2024-06-16T14:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "AMP",
+              "team2": "Sprocket",
+              "score1": 14,
+              "score2": 13,
+              "datetime": "2024-06-16T14:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Pittsburgh Port Authority",
+              "team2": "UNION",
+              "score1": 7,
+              "score2": 15,
+              "datetime": "2024-06-16T14:15:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

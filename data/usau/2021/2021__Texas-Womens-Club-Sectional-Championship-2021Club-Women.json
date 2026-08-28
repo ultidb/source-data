@@ -1,0 +1,231 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2021/Texas-Womens-Club-Sectional-Championship-2021Club-Women",
+  "sourceUrl": "https://play.usaultimate.org/events/Texas-Womens-Club-Sectional-Championship-2021/schedule/Women/Club-Women/",
+  "scrapedAt": "2026-08-28T10:06:17.995520Z",
+  "event": {
+    "name": "Texas Women's Club Sectional Championship 2021",
+    "division": "Club - Women ",
+    "gender": "",
+    "season": 2021,
+    "city": "Austin",
+    "state": "TX",
+    "country": "",
+    "startDate": "2021-09-11",
+    "endDate": "2021-09-12"
+  },
+  "teams": [
+    {
+      "name": "Crush City",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Houston, Texas",
+        "website": "",
+        "facebook": "https://www.facebook.com/Houston-Crush-City-2028720707223127",
+        "twitter": "https://twitter.com/HOUCrushCity"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Sandy Wu"
+        },
+        {
+          "number": "2",
+          "name": "Eliza Mount"
+        },
+        {
+          "number": "3",
+          "name": "Naomi Clarke"
+        },
+        {
+          "number": "6",
+          "name": "Samantha Gomez"
+        },
+        {
+          "number": "6",
+          "name": "Skylar Fuser"
+        },
+        {
+          "number": "7",
+          "name": "Shiru Liu"
+        },
+        {
+          "number": "9",
+          "name": "Mary Fuzat"
+        },
+        {
+          "number": "11",
+          "name": "Angela Yang"
+        },
+        {
+          "number": "12",
+          "name": "Emily Leivy"
+        },
+        {
+          "number": "12",
+          "name": "Anne Ortiz"
+        },
+        {
+          "number": "15",
+          "name": "Fay Li"
+        },
+        {
+          "number": "17",
+          "name": "Emilie Garnier"
+        },
+        {
+          "number": "19",
+          "name": "Amber Sturrock"
+        },
+        {
+          "number": "22",
+          "name": "Michelle Park"
+        },
+        {
+          "number": "27",
+          "name": "Abigail Ginac"
+        },
+        {
+          "number": "29",
+          "name": "Shannon Ray"
+        },
+        {
+          "number": "33",
+          "name": "Monika Hershey"
+        },
+        {
+          "number": "38",
+          "name": "Sara Wise"
+        },
+        {
+          "number": "44",
+          "name": "Anastasia Foster"
+        },
+        {
+          "number": "48",
+          "name": "Anna Highsmith"
+        },
+        {
+          "number": "69",
+          "name": "Mahliyah Adkins-Threats"
+        },
+        {
+          "number": "99",
+          "name": "Alexandra Magid"
+        }
+      ]
+    },
+    {
+      "name": "Melee",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Melee",
+        "location": "Austin, Texas",
+        "website": "https://texaswomensultimate.github.io/home/",
+        "facebook": "",
+        "twitter": "https://twitter.com/txmelee?lang=en"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Caroline OConnell"
+        },
+        {
+          "number": "0",
+          "name": "Emma Berrigan"
+        },
+        {
+          "number": "0",
+          "name": "Georgia McDonald"
+        },
+        {
+          "number": "0",
+          "name": "Julia O'Connell"
+        },
+        {
+          "number": "0",
+          "name": "Alysa Chiovatero"
+        },
+        {
+          "number": "0",
+          "name": "Kaitlin Schaible"
+        },
+        {
+          "number": "0",
+          "name": "Rebecca Kroger"
+        },
+        {
+          "number": "0",
+          "name": "Sanja Stojcic"
+        },
+        {
+          "number": "0",
+          "name": "Siri Knudsen"
+        },
+        {
+          "number": "0",
+          "name": "Madison Hiu"
+        },
+        {
+          "number": "0",
+          "name": "MC Robbins"
+        },
+        {
+          "number": "9",
+          "name": "Summer Wilson"
+        },
+        {
+          "number": "12",
+          "name": "Juliana Thompson"
+        },
+        {
+          "number": "13",
+          "name": "Olympia Walker"
+        },
+        {
+          "number": "18",
+          "name": "Carolina Bayon"
+        },
+        {
+          "number": "26",
+          "name": "Briana Taylor"
+        },
+        {
+          "number": "99",
+          "name": "Kaitlyn Hoang"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "brackets",
+      "name": "Texas Women's Championship",
+      "groups": [
+        {
+          "name": "Championship",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Crush City",
+              "team2": "Melee",
+              "score1": 11,
+              "score2": 8,
+              "datetime": "2021-09-11T11:00:00Z",
+              "round": "Round 1",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2023/Rochester-Round-RobinClub-Men",
+  "sourceUrl": "https://play.usaultimate.org/events/Rochester-Round-Robin/schedule/Men/Club-Men/",
+  "scrapedAt": "2026-08-28T10:06:19.729368Z",
+  "event": {
+    "name": "Rochester Round Robin 2023",
+    "division": "Club - Men ",
+    "gender": "",
+    "season": 2023,
+    "city": "Rochester",
+    "state": "NY",
+    "country": "",
+    "startDate": "2023-06-11",
+    "endDate": "2023-06-11"
+  },
+  "teams": [
+    {
+      "name": "Buffalo Open",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Buffalo, New York",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Chris Ritchie"
+        },
+        {
+          "number": "0",
+          "name": "Dorien Heim"
+        },
+        {
+          "number": "0",
+          "name": "Elliot Rivera"
+        },
+        {
+          "number": "0",
+          "name": "Emre Gonul"
+        },
+        {
+          "number": "0",
+          "name": "Gregory Pollock"
+        },
+        {
+          "number": "0",
+          "name": "Ian Johns"
+        },
+        {
+          "number": "0",
+          "name": "Jaden  Gorozabel "
+        },
+        {
+          "number": "0",
+          "name": "Jared Laurito"
+        },
+        {
+          "number": "0",
+          "name": "Jeffrey Shevlin"
+        },
+        {
+          "number": "0",
+          "name": "Damien Hotte"
+        },
+        {
+          "number": "0",
+          "name": "Matthias  Williams"
+        },
+        {
+          "number": "0",
+          "name": "Nick Wong"
+        },
+        {
+          "number": "0",
+          "name": "Quinlan Schultz"
+        },
+        {
+          "number": "0",
+          "name": "Stephen Weiss"
+        },
+        {
+          "number": "4",
+          "name": "Joe Gambino"
+        },
+        {
+          "number": "4",
+          "name": "Casey Koenig"
+        },
+        {
+          "number": "7",
+          "name": "Ian Clingerman"
+        },
+        {
+          "number": "13",
+          "name": "Benjamin Goodman"
+        },
+        {
+          "number": "16",
+          "name": "Devin Smith"
+        },
+        {
+          "number": "17",
+          "name": "Christian Salvati"
+        },
+        {
+          "number": "21",
+          "name": "Michael Palozzi"
+        },
+        {
+          "number": "25",
+          "name": "Joe  Bachraty"
+        },
+        {
+          "number": "29",
+          "name": "Luke LaBoy"
+        },
+        {
+          "number": "69",
+          "name": "Zane Roth"
+        }
+      ]
+    },
+    {
+      "name": "Rochester Open Club",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Rochester, New York",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Christopher Kilbridge"
+        },
+        {
+          "number": "0",
+          "name": "Dylan Ryder"
+        },
+        {
+          "number": "0",
+          "name": "Ethan Franz"
+        },
+        {
+          "number": "0",
+          "name": "Evan Gorthy"
+        },
+        {
+          "number": "0",
+          "name": "Jack Lazenby"
+        },
+        {
+          "number": "0",
+          "name": "Joey Puma"
+        },
+        {
+          "number": "0",
+          "name": "Logan McGee"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Lehmann"
+        },
+        {
+          "number": "2",
+          "name": "Ilan Elbaz"
+        },
+        {
+          "number": "6",
+          "name": "Skylar Brunner"
+        },
+        {
+          "number": "25",
+          "name": "William McNamara"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "clusters",
+      "name": "Round Robin",
+      "groups": [
+        {
+          "name": "Round Robin",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Buffalo Open",
+              "team2": "Rochester Open Club",
+              "score1": 4,
+              "score2": 13,
+              "datetime": "2023-06-11T16:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Buffalo Open",
+              "team2": "Rochester Open Club",
+              "score1": 5,
+              "score2": 13,
+              "datetime": "2023-06-11T18:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

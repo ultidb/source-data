@@ -1,0 +1,224 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2016/Bama-Secs-Beach-Party-Grass-2016CollegeWomen",
+  "sourceUrl": "https://play.usaultimate.org/events/Bama-Secs-Beach-Party-Grass-2016/schedule/Women/CollegeWomen/",
+  "scrapedAt": "2026-08-28T10:06:13.049755Z",
+  "event": {
+    "name": "Bama Secs Beach Party-Grass 2016",
+    "division": "College - Women ",
+    "gender": "",
+    "season": 2016,
+    "city": "Foley",
+    "state": "AL",
+    "country": "",
+    "startDate": "2016-03-19",
+    "endDate": "2016-03-20"
+  },
+  "teams": [
+    {
+      "name": "Rhodes",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Aphrhodesiac",
+        "location": "Memphis, Tennessee",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Lane Brandt"
+        },
+        {
+          "number": "0",
+          "name": "Rachel Cofield"
+        },
+        {
+          "number": "0",
+          "name": "Zara Parkinson"
+        },
+        {
+          "number": "0",
+          "name": "Shelby Glass"
+        },
+        {
+          "number": "0",
+          "name": "Katherine  Imperial"
+        },
+        {
+          "number": "5",
+          "name": "Diana Vincent"
+        },
+        {
+          "number": "7",
+          "name": "Kathryn Roys"
+        },
+        {
+          "number": "12",
+          "name": "CORRIE MOORE"
+        },
+        {
+          "number": "13",
+          "name": "Tabitha Joyner"
+        },
+        {
+          "number": "24",
+          "name": "McKenzie Drake"
+        },
+        {
+          "number": "73",
+          "name": "Kathryn Hendrix"
+        }
+      ]
+    },
+    {
+      "name": "Kennesaw State",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Strix",
+        "location": "Kennesaw, Georgia",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Elyse Anderson"
+        },
+        {
+          "number": "00",
+          "name": "Alaina Daugherty"
+        },
+        {
+          "number": "00",
+          "name": "Peggy Fregene"
+        },
+        {
+          "number": "00",
+          "name": "Kendell Kievit"
+        },
+        {
+          "number": "00",
+          "name": "Zahria Shannon"
+        },
+        {
+          "number": "00",
+          "name": "Sarah Flowers"
+        },
+        {
+          "number": "00",
+          "name": "Sara Millsaps"
+        },
+        {
+          "number": "00",
+          "name": "Katherine Endicott"
+        },
+        {
+          "number": "00",
+          "name": "Rebecca Lapcevic"
+        },
+        {
+          "number": "00",
+          "name": "Kiah Sewell"
+        },
+        {
+          "number": "00",
+          "name": "Katelyn Malone"
+        },
+        {
+          "number": "00",
+          "name": "Kylie Murphy"
+        },
+        {
+          "number": "02",
+          "name": "Brianna Summers"
+        },
+        {
+          "number": "04",
+          "name": "Kimberly Fletcher"
+        },
+        {
+          "number": "06",
+          "name": "Ushma Patel"
+        },
+        {
+          "number": "08",
+          "name": "Sarah Hammond"
+        },
+        {
+          "number": "09",
+          "name": "Samantha Daugherty"
+        },
+        {
+          "number": "10",
+          "name": "Grace Clough"
+        },
+        {
+          "number": "11",
+          "name": "Dallas Hall"
+        },
+        {
+          "number": "12",
+          "name": "Rachel Shallenberger"
+        },
+        {
+          "number": "15",
+          "name": "Kaitlin Pyke"
+        },
+        {
+          "number": "17",
+          "name": "Alessandra Martinez"
+        },
+        {
+          "number": "18",
+          "name": "Katherine Ryerse"
+        },
+        {
+          "number": "33",
+          "name": "Alexis Emanuel"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "clusters",
+      "name": "Games",
+      "groups": [
+        {
+          "name": "Games",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Rhodes",
+              "team2": "Kennesaw State",
+              "score1": 6,
+              "score2": 14,
+              "datetime": "2016-03-19T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Rhodes",
+              "team2": "Kennesaw State",
+              "score1": 8,
+              "score2": 10,
+              "datetime": "2016-03-20T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

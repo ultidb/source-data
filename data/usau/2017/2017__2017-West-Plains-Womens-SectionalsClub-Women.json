@@ -1,0 +1,223 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2017/2017-West-Plains-Womens-SectionalsClub-Women",
+  "sourceUrl": "https://play.usaultimate.org/events/2017-West-Plains-Womens-Sectionals/schedule/Women/Club-Women/",
+  "scrapedAt": "2026-08-28T10:06:14.145949Z",
+  "event": {
+    "name": "2017 West Plains Women's Sectionals",
+    "division": "Club - Women ",
+    "gender": "",
+    "season": 2017,
+    "city": "St. Louis",
+    "state": "MO",
+    "country": "",
+    "startDate": "2017-09-09",
+    "endDate": "2017-09-10"
+  },
+  "teams": [
+    {
+      "name": "Wicked",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Kansas City, Kansas",
+        "website": "Wickedultimate.com",
+        "facebook": "https://www.facebook.com/kcwickedultimate",
+        "twitter": "https://twitter.com/WickedUltimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "1",
+          "name": "Ashleigh Buch"
+        },
+        {
+          "number": "4",
+          "name": "Sadie Callison"
+        },
+        {
+          "number": "5",
+          "name": "Taylor Cauthon"
+        },
+        {
+          "number": "5",
+          "name": "Courtney Walbe"
+        },
+        {
+          "number": "6",
+          "name": "Carey Jacquinot"
+        },
+        {
+          "number": "8",
+          "name": "Stephanie Rupp"
+        },
+        {
+          "number": "9",
+          "name": "Caitlin Lisk"
+        },
+        {
+          "number": "10",
+          "name": "McKenzie Geltz"
+        },
+        {
+          "number": "11",
+          "name": "Jordan Alonzo"
+        },
+        {
+          "number": "12",
+          "name": "Clare Frantz"
+        },
+        {
+          "number": "13",
+          "name": "Malaina Piyassaphan"
+        },
+        {
+          "number": "14",
+          "name": "Kelsey Akin"
+        },
+        {
+          "number": "14",
+          "name": "Janani Ragothaman"
+        },
+        {
+          "number": "17",
+          "name": "Laura Gehrt"
+        },
+        {
+          "number": "18",
+          "name": "Haley Johnson"
+        },
+        {
+          "number": "19",
+          "name": "Jenna Galletta"
+        },
+        {
+          "number": "20",
+          "name": "Nadine Rowen"
+        },
+        {
+          "number": "22",
+          "name": "Kate Eshelman"
+        },
+        {
+          "number": "24",
+          "name": "Katherine Lockee"
+        },
+        {
+          "number": "28",
+          "name": "Megan Burns"
+        },
+        {
+          "number": "45",
+          "name": "Janie Reiter"
+        },
+        {
+          "number": "86",
+          "name": "Amanda Johnson"
+        },
+        {
+          "number": "87",
+          "name": "Amanda Borders"
+        }
+      ]
+    },
+    {
+      "name": "Filthy Gorgeous",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Saint Louis, Missouri",
+        "website": "https://www.instagram.com/FilthyGorgeousSTL/",
+        "facebook": "https://www.facebook.com/FilthyGorgeousSTL/",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Aileen Murphy"
+        },
+        {
+          "number": "0",
+          "name": "Emily Brereton"
+        },
+        {
+          "number": "0",
+          "name": "HALEY LANOUE"
+        },
+        {
+          "number": "0",
+          "name": "Kimberly Cerveny"
+        },
+        {
+          "number": "0",
+          "name": "Kindall Druker"
+        },
+        {
+          "number": "0",
+          "name": "Kristin Hauser"
+        },
+        {
+          "number": "0",
+          "name": "Megan Woodring"
+        },
+        {
+          "number": "0",
+          "name": "Rebecca Storey"
+        },
+        {
+          "number": "0",
+          "name": "Sarah Connelly"
+        },
+        {
+          "number": "0",
+          "name": "Stephanie Botos"
+        },
+        {
+          "number": "0",
+          "name": "Jennifer Nadler"
+        },
+        {
+          "number": "25",
+          "name": "Irene Faust"
+        },
+        {
+          "number": "26",
+          "name": "Allison Gray"
+        },
+        {
+          "number": "73",
+          "name": "Kathryn Hendrix"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "brackets",
+      "name": "Saturday",
+      "groups": [
+        {
+          "name": "Bracket Play",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Wicked",
+              "team2": "Filthy Gorgeous",
+              "score1": 13,
+              "score2": 0,
+              "datetime": "2017-09-09T09:00:00Z",
+              "round": "Bracket",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

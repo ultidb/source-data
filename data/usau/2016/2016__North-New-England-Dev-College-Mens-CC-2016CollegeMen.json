@@ -1,0 +1,159 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2016/North-New-England-Dev-College-Mens-CC-2016CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/North-New-England-Dev-College-Mens-CC-2016/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:13.541610Z",
+  "event": {
+    "name": "North New England Dev College Men's CC 2016",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2016,
+    "city": "Durham",
+    "state": "NH",
+    "country": "",
+    "startDate": "2016-04-16",
+    "endDate": "2016-04-17"
+  },
+  "teams": [
+    {
+      "name": "Vermont (B)",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Chill",
+        "location": "Burlington, Vermont",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Will Beacom"
+        },
+        {
+          "number": "0",
+          "name": "Arthur Conover"
+        },
+        {
+          "number": "0",
+          "name": "Isaac Sponem"
+        },
+        {
+          "number": "0",
+          "name": "James Craig"
+        },
+        {
+          "number": "7",
+          "name": "Eric Chen"
+        },
+        {
+          "number": "13",
+          "name": "Jeffrey Schultz"
+        },
+        {
+          "number": "24",
+          "name": "Michael Morris"
+        },
+        {
+          "number": "29",
+          "name": "Samuel Hanlon"
+        },
+        {
+          "number": "31",
+          "name": "JAGGER LINSKY"
+        },
+        {
+          "number": "99",
+          "name": "Griffin Cummings"
+        }
+      ]
+    },
+    {
+      "name": "Dartmouth (B)",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Discomfort Trolley",
+        "location": "Hanover, New Hampshire",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Josh Tupler"
+        },
+        {
+          "number": "0",
+          "name": "Christopher Meyer"
+        },
+        {
+          "number": "0",
+          "name": "Charles Smith"
+        },
+        {
+          "number": "0",
+          "name": "JAMES HUANG"
+        },
+        {
+          "number": "0",
+          "name": "Matthew Rube"
+        },
+        {
+          "number": "0",
+          "name": "Dev Jhaveri"
+        },
+        {
+          "number": "01",
+          "name": "Avery Feingold"
+        },
+        {
+          "number": "12",
+          "name": "Walker Chieffe"
+        },
+        {
+          "number": "12",
+          "name": "Matthew West"
+        },
+        {
+          "number": "42",
+          "name": "Eric Brunner"
+        },
+        {
+          "number": "64",
+          "name": "Joshua Cetron"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Vermont (B)",
+              "team2": "Dartmouth (B)",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2016-04-17T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

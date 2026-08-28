@@ -1,0 +1,908 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2021/TCT-Pro-Championships-2021Club-Women",
+  "sourceUrl": "https://play.usaultimate.org/events/TCT-Pro-Championships-2021/schedule/Women/Club-Women/",
+  "scrapedAt": "2026-08-28T10:06:17.975530Z",
+  "event": {
+    "name": "TCT Pro Championships 2021",
+    "division": "Club - Women ",
+    "gender": "",
+    "season": 2021,
+    "city": "Boulder",
+    "state": "CO",
+    "country": "",
+    "startDate": "2021-09-04",
+    "endDate": "2021-09-06"
+  },
+  "teams": [
+    {
+      "name": "Brute Squad",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Boston, Massachusetts",
+        "website": "https://brutesquadultimate.com/",
+        "facebook": "https://www.facebook.com/BruteSquadUltimate/",
+        "twitter": "https://twitter.com/100percentBS/"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Alex Ode"
+        },
+        {
+          "number": "00",
+          "name": "Sarah Hansen"
+        },
+        {
+          "number": "01",
+          "name": "Nastasia Tangherlini"
+        },
+        {
+          "number": "02",
+          "name": "Sarah Judd"
+        },
+        {
+          "number": "04",
+          "name": "Caroline Tornquist"
+        },
+        {
+          "number": "04",
+          "name": "Lien Hoffmann"
+        },
+        {
+          "number": "05",
+          "name": "Julianna Werffeli"
+        },
+        {
+          "number": "06",
+          "name": "Amy Zhou"
+        },
+        {
+          "number": "07",
+          "name": "Kameryn Groom"
+        },
+        {
+          "number": "13",
+          "name": "Becky Malinowski"
+        },
+        {
+          "number": "13",
+          "name": "Leija Helling"
+        },
+        {
+          "number": "14",
+          "name": "Tulsa Douglas"
+        },
+        {
+          "number": "15",
+          "name": "Rachel Kramer"
+        },
+        {
+          "number": "16",
+          "name": "Erin Rea"
+        },
+        {
+          "number": "17",
+          "name": "Angela Zhu"
+        },
+        {
+          "number": "25",
+          "name": "Lane Siedor"
+        },
+        {
+          "number": "26",
+          "name": "Elana Schwam"
+        },
+        {
+          "number": "28",
+          "name": "Sophia Knowles"
+        },
+        {
+          "number": "29",
+          "name": "Caitlyn Lee"
+        },
+        {
+          "number": "32",
+          "name": "Megan Wilson"
+        },
+        {
+          "number": "33",
+          "name": "Yuge Xiao"
+        },
+        {
+          "number": "37",
+          "name": "Claire Trop"
+        },
+        {
+          "number": "38",
+          "name": "Hannah Henkin"
+        },
+        {
+          "number": "46",
+          "name": "Laura Ospina Gomez"
+        },
+        {
+          "number": "71",
+          "name": "Cassandra Wong"
+        }
+      ]
+    },
+    {
+      "name": "Molly Brown",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Denver/Boulder, Colorado",
+        "website": "http://www.mollybrownultimate.com/",
+        "facebook": "https://www.facebook.com/MollyBrownTown",
+        "twitter": "https://twitter.com/MollyBrownTown"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "05",
+          "name": "Nhi Nguyen"
+        },
+        {
+          "number": "06",
+          "name": "Samantha Peletier"
+        },
+        {
+          "number": "07",
+          "name": "Robin Fassett-Carman"
+        },
+        {
+          "number": "08",
+          "name": "Manuela Cardenas "
+        },
+        {
+          "number": "11",
+          "name": "Megan Henderson"
+        },
+        {
+          "number": "12",
+          "name": "Liz Narmour"
+        },
+        {
+          "number": "13",
+          "name": "Alika Johnston"
+        },
+        {
+          "number": "14",
+          "name": "Cassandra Swafford"
+        },
+        {
+          "number": "15",
+          "name": "Sara Taggart"
+        },
+        {
+          "number": "16",
+          "name": "Megan Cousins"
+        },
+        {
+          "number": "17",
+          "name": "Melinda Alvey"
+        },
+        {
+          "number": "20",
+          "name": "Arielle Nelson"
+        },
+        {
+          "number": "21",
+          "name": "Rena Kawabata"
+        },
+        {
+          "number": "26",
+          "name": "Lisa Pitcaithley"
+        },
+        {
+          "number": "30",
+          "name": "Melissa Devlin"
+        },
+        {
+          "number": "33",
+          "name": "Valeria Cardenas"
+        },
+        {
+          "number": "38",
+          "name": "Claire McKeever"
+        },
+        {
+          "number": "52",
+          "name": "Claire Chastain"
+        },
+        {
+          "number": "55",
+          "name": "Rachel Wilmoth"
+        },
+        {
+          "number": "65",
+          "name": "Megan Ives"
+        },
+        {
+          "number": "88",
+          "name": "Veronica Eder"
+        }
+      ]
+    },
+    {
+      "name": "Phoenix",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Raleigh, North Carolina",
+        "website": "http://phoenixultimate.com",
+        "facebook": "https://www.facebook.com/PhxUltimate",
+        "twitter": "https://twitter.com/PhxUltimate"
+      },
+      "coaches": [
+        "David Allison",
+        "Jessica Jones"
+      ],
+      "roster": [
+        {
+          "number": "01",
+          "name": "Lindsay Soo"
+        },
+        {
+          "number": "03",
+          "name": "Lyra Olson"
+        },
+        {
+          "number": "07",
+          "name": "Audrey Lyman"
+        },
+        {
+          "number": "08",
+          "name": "Mary Rippe"
+        },
+        {
+          "number": "10",
+          "name": "Ella Juengst"
+        },
+        {
+          "number": "11",
+          "name": "Dawn Culton"
+        },
+        {
+          "number": "12",
+          "name": "Katie Backus"
+        },
+        {
+          "number": "14",
+          "name": "Lyla Stanland"
+        },
+        {
+          "number": "15",
+          "name": "Carmen Tormey"
+        },
+        {
+          "number": "17",
+          "name": "Karen Ehrhardt"
+        },
+        {
+          "number": "19",
+          "name": "Michaela Dube"
+        },
+        {
+          "number": "20",
+          "name": "Bridget Mizener"
+        },
+        {
+          "number": "23",
+          "name": "Grace Conerly"
+        },
+        {
+          "number": "28",
+          "name": "Claire Revere"
+        },
+        {
+          "number": "33",
+          "name": "Amanda Murphy"
+        },
+        {
+          "number": "34",
+          "name": "Alexandra Barnett"
+        },
+        {
+          "number": "37",
+          "name": "Ellie Cubrilovic"
+        },
+        {
+          "number": "42",
+          "name": "Rebecca Fagan"
+        },
+        {
+          "number": "44",
+          "name": "Keila Strick"
+        },
+        {
+          "number": "83",
+          "name": "Zoe Hecht"
+        },
+        {
+          "number": "87",
+          "name": "Austin Prucha"
+        },
+        {
+          "number": "88",
+          "name": "Clil Phillips"
+        }
+      ]
+    },
+    {
+      "name": "Schwa",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Portland, Oregon",
+        "website": "https://www.oregonschwa.com/",
+        "facebook": "https://www.facebook.com/schwaultimate",
+        "twitter": "https://twitter.com/SchwaUltimate"
+      },
+      "coaches": [
+        "Robert Gough",
+        "Alyson Steinfeld"
+      ],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Danielle Runzo"
+        },
+        {
+          "number": "01",
+          "name": "Morgan Zajonc"
+        },
+        {
+          "number": "05",
+          "name": "Kimber Coles"
+        },
+        {
+          "number": "06",
+          "name": "Claudia Tajima"
+        },
+        {
+          "number": "07",
+          "name": "Elizabeth Longmire"
+        },
+        {
+          "number": "08",
+          "name": "Eva Popp"
+        },
+        {
+          "number": "09",
+          "name": "Brenna Bailey"
+        },
+        {
+          "number": "10",
+          "name": "Caroline Swanson"
+        },
+        {
+          "number": "11",
+          "name": "Rachel Egan"
+        },
+        {
+          "number": "12",
+          "name": "Mariel Hammond"
+        },
+        {
+          "number": "13",
+          "name": "Yazelis Benitez-Villegas"
+        },
+        {
+          "number": "15",
+          "name": "Katie Blise"
+        },
+        {
+          "number": "16",
+          "name": "Kristen Rosenblum"
+        },
+        {
+          "number": "17",
+          "name": "Morgan Caldwell"
+        },
+        {
+          "number": "18",
+          "name": "Julia Sherwood"
+        },
+        {
+          "number": "22",
+          "name": "Natalie Hancock"
+        },
+        {
+          "number": "24",
+          "name": "Aubri Bishop"
+        },
+        {
+          "number": "28",
+          "name": "Shannon Dennehy"
+        },
+        {
+          "number": "29",
+          "name": "Kyra Khoroujnikova"
+        },
+        {
+          "number": "44",
+          "name": "Lyudmila Likhonina"
+        },
+        {
+          "number": "47",
+          "name": "Madeleine Franz"
+        },
+        {
+          "number": "55",
+          "name": "Emery Otopalik"
+        },
+        {
+          "number": "99",
+          "name": "Noelle Takahashi"
+        }
+      ]
+    },
+    {
+      "name": "Nemesis",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Chicago, Illinois",
+        "website": "http://www.chicago-nemesis.com/",
+        "facebook": "https://www.facebook.com/Nemesis-471825896168151/",
+        "twitter": "https://twitter.com/ChicagoNemesis"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Anika Thomas-Toth"
+        },
+        {
+          "number": "2",
+          "name": "Alexandra Hu"
+        },
+        {
+          "number": "00",
+          "name": "Eileen Duffner"
+        },
+        {
+          "number": "02",
+          "name": "Julia Kwasnick"
+        },
+        {
+          "number": "04",
+          "name": "TC Burrows"
+        },
+        {
+          "number": "05",
+          "name": "Anna Thorn"
+        },
+        {
+          "number": "06",
+          "name": "Risa Umeno"
+        },
+        {
+          "number": "07",
+          "name": "Madison Moore"
+        },
+        {
+          "number": "08",
+          "name": "Christina Sur"
+        },
+        {
+          "number": "09",
+          "name": "Cassandra Brown"
+        },
+        {
+          "number": "10",
+          "name": "Clare Frantz"
+        },
+        {
+          "number": "12",
+          "name": "Jennifer Corcoran"
+        },
+        {
+          "number": "14",
+          "name": "Sarah Helding"
+        },
+        {
+          "number": "17",
+          "name": "Ellen Goldberg"
+        },
+        {
+          "number": "18",
+          "name": "Lina  Montenegro "
+        },
+        {
+          "number": "19",
+          "name": "Rachel Foster"
+        },
+        {
+          "number": "22",
+          "name": "Sammi Wong"
+        },
+        {
+          "number": "23",
+          "name": "Caitlyn Tien"
+        },
+        {
+          "number": "24",
+          "name": "Anna Stubbs"
+        },
+        {
+          "number": "25",
+          "name": "Sara Gnolek"
+        },
+        {
+          "number": "31",
+          "name": "Julia Butterfield"
+        },
+        {
+          "number": "72",
+          "name": "Jacqueline Jarik"
+        },
+        {
+          "number": "77",
+          "name": "Katrina McGuire"
+        },
+        {
+          "number": "82",
+          "name": "Claire Schmitt"
+        },
+        {
+          "number": "84",
+          "name": "Sarah Lipscomb"
+        },
+        {
+          "number": "99",
+          "name": "Abby Shure"
+        }
+      ]
+    },
+    {
+      "name": "Grit",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Washington, District of Columbia",
+        "website": "https://gritultimate.wordpress.com/",
+        "facebook": "https://www.facebook.com/GritUltimate",
+        "twitter": "https://www.twitter.com/GritUltimate"
+      },
+      "coaches": [
+        "Samantha Broaddus"
+      ],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Shannon Tsai"
+        },
+        {
+          "number": "01",
+          "name": "Paige Nelson"
+        },
+        {
+          "number": "02",
+          "name": "Eileen Connor"
+        },
+        {
+          "number": "03",
+          "name": "Molly Barlow"
+        },
+        {
+          "number": "05",
+          "name": "Rebecca Solnit"
+        },
+        {
+          "number": "08",
+          "name": "Anastasia Mark"
+        },
+        {
+          "number": "09",
+          "name": "Margaret Pendleton"
+        },
+        {
+          "number": "12",
+          "name": "Khin  Kyaw "
+        },
+        {
+          "number": "13",
+          "name": "Anna Fisher Lopez"
+        },
+        {
+          "number": "14",
+          "name": "Erin Doyle"
+        },
+        {
+          "number": "16",
+          "name": "Olivia Monroe"
+        },
+        {
+          "number": "17",
+          "name": "Elizabeth Pugh"
+        },
+        {
+          "number": "18",
+          "name": "Michelle Carey"
+        },
+        {
+          "number": "23",
+          "name": "Olivia Arellano"
+        },
+        {
+          "number": "28",
+          "name": "Sarah Lord"
+        },
+        {
+          "number": "30",
+          "name": "Nami Sumida"
+        },
+        {
+          "number": "33",
+          "name": "Meghan  Bartlett"
+        },
+        {
+          "number": "37",
+          "name": "Sophia Hulbert"
+        },
+        {
+          "number": "42",
+          "name": "Marlena Luhr"
+        },
+        {
+          "number": "64",
+          "name": "Becca Arbacher"
+        },
+        {
+          "number": "71",
+          "name": "Brogan Jones"
+        },
+        {
+          "number": "77",
+          "name": "Erin Crider"
+        },
+        {
+          "number": "93",
+          "name": "Madeleine Boyle"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Brute Squad",
+              "team2": "Molly Brown",
+              "score1": 14,
+              "score2": 12,
+              "datetime": "2021-09-04T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Brute Squad",
+              "team2": "Schwa",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2021-09-04T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Molly Brown",
+              "team2": "Phoenix",
+              "score1": 15,
+              "score2": 11,
+              "datetime": "2021-09-04T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Nemesis",
+              "team2": "Grit",
+              "score1": 13,
+              "score2": 6,
+              "datetime": "2021-09-04T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Brute Squad",
+              "team2": "Phoenix",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2021-09-04T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Schwa",
+              "team2": "Grit",
+              "score1": 15,
+              "score2": 6,
+              "datetime": "2021-09-04T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Molly Brown",
+              "team2": "Nemesis",
+              "score1": 14,
+              "score2": 9,
+              "datetime": "2021-09-04T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Schwa",
+              "team2": "Nemesis",
+              "score1": 10,
+              "score2": 9,
+              "datetime": "2021-09-04T15:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Phoenix",
+              "team2": "Grit",
+              "score1": 15,
+              "score2": 5,
+              "datetime": "2021-09-04T15:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Brute Squad",
+              "team2": "Grit",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2021-09-05T08:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Schwa",
+              "team2": "Molly Brown",
+              "score1": 7,
+              "score2": 14,
+              "datetime": "2021-09-05T08:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Phoenix",
+              "team2": "Nemesis",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2021-09-05T08:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Brute Squad",
+              "team2": "Nemesis",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2021-09-05T10:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Schwa",
+              "team2": "Phoenix",
+              "score1": 5,
+              "score2": 15,
+              "datetime": "2021-09-05T10:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Molly Brown",
+              "team2": "Grit",
+              "score1": 13,
+              "score2": 10,
+              "datetime": "2021-09-05T10:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Championship Bracket",
+      "groups": [
+        {
+          "name": "Championship",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Brute Squad",
+              "team2": "Molly Brown",
+              "score1": 11,
+              "score2": 15,
+              "datetime": "2021-09-06T12:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Brute Squad",
+              "team2": "Schwa",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2021-09-05T17:00:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Phoenix",
+              "team2": "Molly Brown",
+              "score1": 12,
+              "score2": 14,
+              "datetime": "2021-09-05T15:00:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Placement Games",
+      "groups": [
+        {
+          "name": "3rd Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Schwa",
+              "team2": "Phoenix",
+              "score1": 10,
+              "score2": 15,
+              "datetime": "2021-09-06T08:30:00Z",
+              "round": "3rd Place",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "5th Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Nemesis",
+              "team2": "Grit",
+              "score1": 13,
+              "score2": 12,
+              "datetime": "2021-09-06T08:30:00Z",
+              "round": "5th Place",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

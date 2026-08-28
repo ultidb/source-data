@@ -18,7 +18,7 @@ class AppConfig(BaseModel):
 
 
 class CacheConfig(BaseModel):
-    html_directory: str = "html"
+    cache_directory: str = "cache"
     csv_directory: str = "csv"
 
 
@@ -43,8 +43,15 @@ class SchedulerConfig(BaseModel):
     ongoing_interval_minutes: int = 10
     ongoing_team_refresh_interval_hours: int = 12
     upcoming_interval_hours: int = 12
-    recently_ended_interval_hours: int = 8 
+    recently_ended_interval_hours: int = 8
     videos_interval_hours: int = 24
+    # WFDF equivalents of the USAU intervals above (see the WFDF source
+    # task: reference/games refetch on the "ongoing" cadence, rosters on
+    # the slower "roster refresh" cadence -- same shape as USAU's
+    # ongoing_interval_minutes / ongoing_team_refresh_interval_hours).
+    wfdf_ongoing_interval_minutes: int = 10
+    wfdf_roster_refresh_interval_hours: int = 12
+    wfdf_upcoming_interval_hours: int = 12
 
 
 class Config(BaseModel):
@@ -60,6 +67,9 @@ class SecretsConfig(BaseSettings):
     model_config = SettingsConfigDict(env_file=".env", env_file_encoding="utf-8", extra="ignore")
 
     api_url: Optional[str] = None
+    # Shared secret for POST /v2/ingest (sent as X-Ingest-Token). Reads
+    # INGEST_TOKEN from .env or the environment, like every other secret here.
+    ingest_token: Optional[str] = None
     youtube_api_key: Optional[str] = None
     vimeo_client_id: Optional[str] = None
     vimeo_client_secret: Optional[str] = None

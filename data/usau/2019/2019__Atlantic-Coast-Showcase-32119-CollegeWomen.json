@@ -1,0 +1,250 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2019/Atlantic-Coast-Showcase-32119-CollegeWomen",
+  "sourceUrl": "https://play.usaultimate.org/events/Atlantic-Coast-Showcase-32119-/schedule/Women/CollegeWomen/",
+  "scrapedAt": "2026-08-28T10:06:16.398511Z",
+  "event": {
+    "name": "Atlantic Coast Showcase (3/21/19) 2019",
+    "division": "College - Women ",
+    "gender": "",
+    "season": 2019,
+    "city": "Raleigh",
+    "state": "NC",
+    "country": "",
+    "startDate": "2019-03-21",
+    "endDate": "2019-03-21"
+  },
+  "teams": [
+    {
+      "name": "North Carolina",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Pleiades",
+        "location": "Chapel Hill, North Carolina",
+        "website": "http://pleiadesultimate.web.unc.edu/",
+        "facebook": "https://www.facebook.com/unc.pleiades/",
+        "twitter": "https://twitter.com/UNC_Pleiades/"
+      },
+      "coaches": [
+        "Lindsay Soo",
+        "Jessica Jones"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alana Holder"
+        },
+        {
+          "number": "0",
+          "name": "Dawn Culton"
+        },
+        {
+          "number": "0",
+          "name": "Ella Juengst"
+        },
+        {
+          "number": "0",
+          "name": "Madoka  Takashima "
+        },
+        {
+          "number": "0",
+          "name": "Sydney Rehder"
+        },
+        {
+          "number": "4",
+          "name": "Julia Zwierzynski"
+        },
+        {
+          "number": "8",
+          "name": "Alice Wang"
+        },
+        {
+          "number": "9",
+          "name": "Elisabeth Parker"
+        },
+        {
+          "number": "10",
+          "name": "Olivia Monroe"
+        },
+        {
+          "number": "13",
+          "name": "Tyler Smith"
+        },
+        {
+          "number": "14",
+          "name": "Meg Van Horn"
+        },
+        {
+          "number": "15",
+          "name": "Florence Brooks"
+        },
+        {
+          "number": "20",
+          "name": "Bridget Mizener"
+        },
+        {
+          "number": "22",
+          "name": "Anne Worth"
+        },
+        {
+          "number": "27",
+          "name": "Mary Rippe"
+        },
+        {
+          "number": "28",
+          "name": "Rachell Xu"
+        },
+        {
+          "number": "34",
+          "name": "Alexandra Barnett"
+        },
+        {
+          "number": "35",
+          "name": "Maggie Adams"
+        },
+        {
+          "number": "37",
+          "name": "Anna Xu"
+        },
+        {
+          "number": "42",
+          "name": "Rebecca Fagan"
+        },
+        {
+          "number": "55",
+          "name": "Erika Neave"
+        },
+        {
+          "number": "86",
+          "name": "Connie Cui"
+        }
+      ]
+    },
+    {
+      "name": "North Carolina State",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Jaga Monsta",
+        "location": "Raleigh, North Carolina",
+        "website": "",
+        "facebook": "https://www.facebook.com/pages/J%C3%A4ga-NCSU-Womens-Ultimate/153552627991990",
+        "twitter": "https://twitter.com/NCSUJagaMonsta"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Caroline Vande Berg"
+        },
+        {
+          "number": "0",
+          "name": "Charity Robinett"
+        },
+        {
+          "number": "0",
+          "name": "Danielle Sawyer"
+        },
+        {
+          "number": "0",
+          "name": "Emily Nicholos"
+        },
+        {
+          "number": "0",
+          "name": "Emma Bartlett"
+        },
+        {
+          "number": "0",
+          "name": "Jacqueline Hausle"
+        },
+        {
+          "number": "0",
+          "name": "Jen Bradley"
+        },
+        {
+          "number": "0",
+          "name": "Abigail Campbell"
+        },
+        {
+          "number": "0",
+          "name": "Alice Widman"
+        },
+        {
+          "number": "0",
+          "name": "Allison Church"
+        },
+        {
+          "number": "0",
+          "name": "Ana Solberg"
+        },
+        {
+          "number": "0",
+          "name": "Ashley Nelson"
+        },
+        {
+          "number": "0",
+          "name": "Becky Widmayer"
+        },
+        {
+          "number": "0",
+          "name": "Lisa Keller"
+        },
+        {
+          "number": "0",
+          "name": "Melissa Gronske"
+        },
+        {
+          "number": "0",
+          "name": "Sarah Lewis"
+        },
+        {
+          "number": "0",
+          "name": "Torey Vayer"
+        },
+        {
+          "number": "5",
+          "name": "Katie Cubrilovic"
+        },
+        {
+          "number": "6",
+          "name": "Carmen Tormey"
+        },
+        {
+          "number": "27",
+          "name": "Mary Clarke Worthington"
+        },
+        {
+          "number": "58",
+          "name": "Rowan Jaynes"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "brackets",
+      "name": "ACS Game 4",
+      "groups": [
+        {
+          "name": "ACS",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "North Carolina",
+              "team2": "North Carolina State",
+              "score1": 13,
+              "score2": 7,
+              "datetime": "2019-03-21T17:30:00Z",
+              "round": "Game 4",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

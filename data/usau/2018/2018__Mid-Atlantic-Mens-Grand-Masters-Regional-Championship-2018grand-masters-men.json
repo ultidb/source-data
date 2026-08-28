@@ -1,0 +1,277 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2018/Mid-Atlantic-Mens-Grand-Masters-Regional-Championship-2018grand-masters-men",
+  "sourceUrl": "https://play.usaultimate.org/events/Mid-Atlantic-Mens-Grand-Masters-Regional-Championship-2018/schedule/Men/grand-masters-men/",
+  "scrapedAt": "2026-08-28T10:06:15.566873Z",
+  "event": {
+    "name": "Mid-Atlantic Men's Grand Masters Regional Championship 2018",
+    "division": "Grand Masters - Men ",
+    "gender": "",
+    "season": 2018,
+    "city": "Columbia",
+    "state": "MD",
+    "country": "",
+    "startDate": "2018-06-09",
+    "endDate": "2018-06-10"
+  },
+  "teams": [
+    {
+      "name": "ShutDown",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Washington, District of Columbia",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "9",
+          "name": "Andrew Rutledge"
+        },
+        {
+          "number": "00",
+          "name": "DEREK DAIL"
+        },
+        {
+          "number": "00",
+          "name": "Eric Prange"
+        },
+        {
+          "number": "00",
+          "name": "Samson Sackett"
+        },
+        {
+          "number": "01",
+          "name": "Kevin Cale"
+        },
+        {
+          "number": "03",
+          "name": "Richard Hart"
+        },
+        {
+          "number": "05",
+          "name": "Christian Heneghan"
+        },
+        {
+          "number": "07",
+          "name": "Clayton Coltman"
+        },
+        {
+          "number": "12",
+          "name": "William Maroon"
+        },
+        {
+          "number": "14",
+          "name": "Mark Worley"
+        },
+        {
+          "number": "22",
+          "name": "Robert Luhrs"
+        },
+        {
+          "number": "24",
+          "name": "Gregg Landry"
+        },
+        {
+          "number": "27",
+          "name": "Jeff George"
+        },
+        {
+          "number": "27",
+          "name": "Steve Helvin"
+        },
+        {
+          "number": "28",
+          "name": "Patrick Vennebush"
+        },
+        {
+          "number": "31",
+          "name": "Kevin Lenaburg"
+        },
+        {
+          "number": "32",
+          "name": "Bryan Greenwald"
+        },
+        {
+          "number": "44",
+          "name": "Brian Kettenring"
+        },
+        {
+          "number": "50",
+          "name": "Graham Katz"
+        },
+        {
+          "number": "55",
+          "name": "Thomas Carroll"
+        },
+        {
+          "number": "73",
+          "name": "H. Edward Midden"
+        }
+      ]
+    },
+    {
+      "name": "Sit Down",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Cockeysville, Maryland",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Brian Barney"
+        },
+        {
+          "number": "0",
+          "name": "John O'Neill"
+        },
+        {
+          "number": "0",
+          "name": "MICHAEL MYERS"
+        },
+        {
+          "number": "6",
+          "name": "Seth Martin"
+        },
+        {
+          "number": "13",
+          "name": "Tim Eubanks"
+        },
+        {
+          "number": "13",
+          "name": "Paul Didier"
+        },
+        {
+          "number": "22",
+          "name": "Patrick Wright"
+        },
+        {
+          "number": "24",
+          "name": "William Dristy"
+        },
+        {
+          "number": "29",
+          "name": "Henry Ferland"
+        },
+        {
+          "number": "86",
+          "name": "David Ritchie"
+        },
+        {
+          "number": "88",
+          "name": "Chatkan Bunnag"
+        }
+      ]
+    },
+    {
+      "name": "Schtick It",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Rockville, Maryland",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Brian Medved"
+        },
+        {
+          "number": "0",
+          "name": "Gabriel Sanchez"
+        },
+        {
+          "number": "0",
+          "name": "John Capozzi"
+        },
+        {
+          "number": "0",
+          "name": "Larry Hinkle"
+        },
+        {
+          "number": "0",
+          "name": "Paul Cymrot"
+        },
+        {
+          "number": "0",
+          "name": "Robert Terrill"
+        },
+        {
+          "number": "0",
+          "name": "Ron Stradone"
+        },
+        {
+          "number": "2",
+          "name": "Jeremy \"Gus\" Webb"
+        },
+        {
+          "number": "18",
+          "name": "Mike Norman"
+        },
+        {
+          "number": "37",
+          "name": "Jack Cooksey"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Schtick It",
+              "team2": "Sit Down",
+              "score1": 12,
+              "score2": 15,
+              "datetime": "2018-06-09T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "ShutDown",
+              "team2": "Sit Down",
+              "score1": 15,
+              "score2": 13,
+              "datetime": "2018-06-09T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "ShutDown",
+              "team2": "Schtick It",
+              "score1": 15,
+              "score2": 13,
+              "datetime": "2018-06-09T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

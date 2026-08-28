@@ -1,0 +1,926 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2023/2023-Mens-North-Carolina-Sectional-ChampionshipClub-Men",
+  "sourceUrl": "https://play.usaultimate.org/events/2023-Mens-North-Carolina-Sectional-Championship/schedule/Men/Club-Men/",
+  "scrapedAt": "2026-08-28T10:06:19.157059Z",
+  "event": {
+    "name": "2023 Men's North Carolina Sectional Championship",
+    "division": "Club - Men ",
+    "gender": "",
+    "season": 2023,
+    "city": "Advance",
+    "state": "NC",
+    "country": "",
+    "startDate": "2023-09-09",
+    "endDate": "2023-09-10"
+  },
+  "teams": [
+    {
+      "name": "Raleigh-Durham United",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Raleigh, North Carolina",
+        "website": "https://www.instagram.com/rduultimate/",
+        "facebook": "",
+        "twitter": "https://twitter.com/rduultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Matthew Nightingale"
+        },
+        {
+          "number": "4",
+          "name": "Houston Parks"
+        },
+        {
+          "number": "01",
+          "name": "Kirkwood Alex Cloud"
+        },
+        {
+          "number": "03",
+          "name": "Myles Grady"
+        },
+        {
+          "number": "05",
+          "name": "George Lampron"
+        },
+        {
+          "number": "07",
+          "name": "Tobias Brooks"
+        },
+        {
+          "number": "08",
+          "name": "Cam Bellando"
+        },
+        {
+          "number": "09",
+          "name": "Michael Meilstrup"
+        },
+        {
+          "number": "10",
+          "name": "Jacob Louie"
+        },
+        {
+          "number": "11",
+          "name": "Wilson Matthews"
+        },
+        {
+          "number": "12",
+          "name": "William Coffin"
+        },
+        {
+          "number": "13",
+          "name": "Ramzi Cope-Musleh"
+        },
+        {
+          "number": "21",
+          "name": "Caleb Louie"
+        },
+        {
+          "number": "22",
+          "name": "Luke Duan"
+        },
+        {
+          "number": "28",
+          "name": "Ty Naquin"
+        },
+        {
+          "number": "32",
+          "name": "Albert Yuan"
+        },
+        {
+          "number": "34",
+          "name": "Marcus Rovner"
+        },
+        {
+          "number": "35",
+          "name": "Xander Wilcox"
+        },
+        {
+          "number": "42",
+          "name": "Sam Gabrielson"
+        },
+        {
+          "number": "44",
+          "name": "Dillon Bruer"
+        },
+        {
+          "number": "45",
+          "name": "Brett Matzuka"
+        },
+        {
+          "number": "49",
+          "name": "Daniel Ferriter"
+        },
+        {
+          "number": "52",
+          "name": "Kamron Daftari"
+        },
+        {
+          "number": "71",
+          "name": "Clint McSherry"
+        },
+        {
+          "number": "72",
+          "name": "Nathaniel Donaher"
+        },
+        {
+          "number": "73",
+          "name": "Andrew Vande Berg"
+        }
+      ]
+    },
+    {
+      "name": "baNC",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Charlotte, North Carolina",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alex Ballentine"
+        },
+        {
+          "number": "0",
+          "name": "Ben Simmons"
+        },
+        {
+          "number": "0",
+          "name": "Brian Trowbridge"
+        },
+        {
+          "number": "0",
+          "name": "Jason Chung"
+        },
+        {
+          "number": "0",
+          "name": "Kevin Mateer"
+        },
+        {
+          "number": "0",
+          "name": "Kevin Zhang"
+        },
+        {
+          "number": "0",
+          "name": "Michael Sweeney"
+        },
+        {
+          "number": "0",
+          "name": "Nick Talone"
+        },
+        {
+          "number": "0",
+          "name": "Ransome Martin"
+        },
+        {
+          "number": "0",
+          "name": "Samuel Lee"
+        },
+        {
+          "number": "0",
+          "name": "Tejas Sivarajakumar"
+        },
+        {
+          "number": "1",
+          "name": "Hunter Frederick"
+        },
+        {
+          "number": "2",
+          "name": "Jerrel Bushel"
+        },
+        {
+          "number": "3",
+          "name": "Colin White"
+        },
+        {
+          "number": "3",
+          "name": "Diego Collazo"
+        },
+        {
+          "number": "4",
+          "name": "Wesley Dudas"
+        },
+        {
+          "number": "9",
+          "name": "Frederick Hennighausen"
+        },
+        {
+          "number": "21",
+          "name": "Erik Messina"
+        },
+        {
+          "number": "22",
+          "name": "Jack Simmons"
+        },
+        {
+          "number": "29",
+          "name": "Mason Cary"
+        },
+        {
+          "number": "42",
+          "name": "Oliver Vickers Batzdorf"
+        },
+        {
+          "number": "51",
+          "name": "Damian Delgado"
+        },
+        {
+          "number": "59",
+          "name": "Thomas Yoxsimer"
+        },
+        {
+          "number": "69",
+          "name": "Bryce Markel"
+        },
+        {
+          "number": "88",
+          "name": "Christopher Saacks"
+        },
+        {
+          "number": "92",
+          "name": "John Colyer"
+        }
+      ]
+    },
+    {
+      "name": "Cash Crop 2",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Chapel Hill, North Carolina",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Thomas Harley"
+        },
+        {
+          "number": "00",
+          "name": "Thomas Williams"
+        },
+        {
+          "number": "01",
+          "name": "Aaron Wei"
+        },
+        {
+          "number": "02",
+          "name": "Elijah Danley"
+        },
+        {
+          "number": "03",
+          "name": "Tommaso Piccorossi"
+        },
+        {
+          "number": "04",
+          "name": "Samuel Redinbo"
+        },
+        {
+          "number": "06",
+          "name": "Seth Fried"
+        },
+        {
+          "number": "07",
+          "name": "Leonardo Tapia"
+        },
+        {
+          "number": "09",
+          "name": "Gage Rogers"
+        },
+        {
+          "number": "10",
+          "name": "John Bradley"
+        },
+        {
+          "number": "11",
+          "name": "Reed Burkert"
+        },
+        {
+          "number": "12",
+          "name": "Bailey Roberts"
+        },
+        {
+          "number": "14",
+          "name": "Bodhi Harmony"
+        },
+        {
+          "number": "15",
+          "name": "Matti Lee"
+        },
+        {
+          "number": "16",
+          "name": "Max Goetz"
+        },
+        {
+          "number": "17",
+          "name": "Wesley Britt"
+        },
+        {
+          "number": "22",
+          "name": "Josh Singleton"
+        },
+        {
+          "number": "24",
+          "name": "Kalen Morrison"
+        },
+        {
+          "number": "25",
+          "name": "Jayden Feagans"
+        },
+        {
+          "number": "27",
+          "name": "Jason Manning"
+        },
+        {
+          "number": "34",
+          "name": "Noah Bush"
+        },
+        {
+          "number": "66",
+          "name": "Eli Fried"
+        },
+        {
+          "number": "77",
+          "name": "Christopher Humphrey"
+        },
+        {
+          "number": "80",
+          "name": "Will Scudder"
+        },
+        {
+          "number": "88",
+          "name": "Henry Chen"
+        }
+      ]
+    },
+    {
+      "name": "Triumph",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Raleigh, North Carolina",
+        "website": "https://forms.gle/V7pmwbz4Ht1PoyfJ6",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Christopher Heim"
+        },
+        {
+          "number": "0",
+          "name": "Daniel West"
+        },
+        {
+          "number": "0",
+          "name": "Dillon Lesniak"
+        },
+        {
+          "number": "0",
+          "name": "Evan McGinn"
+        },
+        {
+          "number": "0",
+          "name": "James Carter"
+        },
+        {
+          "number": "0",
+          "name": "Kyle Davis"
+        },
+        {
+          "number": "0",
+          "name": "Michael Wetzel"
+        },
+        {
+          "number": "0",
+          "name": "Quinlan Collier"
+        },
+        {
+          "number": "0",
+          "name": "Robert Scott-Williams"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Norris"
+        },
+        {
+          "number": "0",
+          "name": "Stefan Isaza"
+        },
+        {
+          "number": "0",
+          "name": "Will Armstrong"
+        },
+        {
+          "number": "3",
+          "name": "Michael Paniagua"
+        },
+        {
+          "number": "5",
+          "name": "Jason Zwierzynski"
+        },
+        {
+          "number": "11",
+          "name": "Josh Louie"
+        },
+        {
+          "number": "13",
+          "name": "Brandon Cousar"
+        },
+        {
+          "number": "14",
+          "name": "Zachary Baldwin"
+        },
+        {
+          "number": "17",
+          "name": "Zach Bradshaw"
+        },
+        {
+          "number": "17",
+          "name": "Schuyler Kylstra"
+        },
+        {
+          "number": "19",
+          "name": "Ethan Bolthouse"
+        },
+        {
+          "number": "21",
+          "name": "Andrew Clegg"
+        },
+        {
+          "number": "25",
+          "name": "Daniel Huggins"
+        },
+        {
+          "number": "29",
+          "name": "Mitchell O'Connor"
+        },
+        {
+          "number": "42",
+          "name": "Abhishek Komandur"
+        },
+        {
+          "number": "45",
+          "name": "Rees Braam"
+        },
+        {
+          "number": "87",
+          "name": "Benj Thomsen"
+        }
+      ]
+    },
+    {
+      "name": "Queen City Kings",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Charlotte, North Carolina",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Avery Dunham"
+        },
+        {
+          "number": "0",
+          "name": "Brooks Fleming"
+        },
+        {
+          "number": "0",
+          "name": "Daniel Papazian"
+        },
+        {
+          "number": "0",
+          "name": "Daniel Eure"
+        },
+        {
+          "number": "0",
+          "name": "Daniel Dabnis"
+        },
+        {
+          "number": "0",
+          "name": "Erik Kirby"
+        },
+        {
+          "number": "0",
+          "name": "Gautam Das"
+        },
+        {
+          "number": "0",
+          "name": "Jake Hutchinson"
+        },
+        {
+          "number": "0",
+          "name": "Juan Mancera"
+        },
+        {
+          "number": "0",
+          "name": "Kartik Sethuraman"
+        },
+        {
+          "number": "0",
+          "name": "Matthew Alexander"
+        },
+        {
+          "number": "0",
+          "name": "Max Povejsil"
+        },
+        {
+          "number": "0",
+          "name": "Sathvik Avulapati"
+        },
+        {
+          "number": "0",
+          "name": "Shawn Cook"
+        },
+        {
+          "number": "0",
+          "name": "Tyler Lucas"
+        },
+        {
+          "number": "4",
+          "name": "Nicholas Lopez"
+        },
+        {
+          "number": "5",
+          "name": "Jeffy Joshy"
+        },
+        {
+          "number": "8",
+          "name": "Jackson  Dye"
+        },
+        {
+          "number": "11",
+          "name": "Timothy Rees"
+        },
+        {
+          "number": "12",
+          "name": "Nathan Silvestri"
+        },
+        {
+          "number": "14",
+          "name": "Simon Jenkins"
+        },
+        {
+          "number": "16",
+          "name": "Jaren Robbins"
+        },
+        {
+          "number": "19",
+          "name": "Jordan Knox"
+        },
+        {
+          "number": "24",
+          "name": "Parker Shahdad"
+        },
+        {
+          "number": "77",
+          "name": "Michael Hultquist"
+        },
+        {
+          "number": "99",
+          "name": "George Bumgardner"
+        }
+      ]
+    },
+    {
+      "name": "Oakay",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Raleigh, North Carolina",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alex Taylor"
+        },
+        {
+          "number": "0",
+          "name": "Christian Dawson-Jackson"
+        },
+        {
+          "number": "0",
+          "name": "David Fengshi"
+        },
+        {
+          "number": "0",
+          "name": "Jan Jacy Juanites"
+        },
+        {
+          "number": "0",
+          "name": "Joshua McLeod"
+        },
+        {
+          "number": "0",
+          "name": "Justin Melkun"
+        },
+        {
+          "number": "0",
+          "name": "Kevin Stroud"
+        },
+        {
+          "number": "0",
+          "name": "Kyle Hodgson"
+        },
+        {
+          "number": "0",
+          "name": "Matthew Baker"
+        },
+        {
+          "number": "0",
+          "name": "Nicolas Munsen"
+        },
+        {
+          "number": "0",
+          "name": "Rashaad Saunders"
+        },
+        {
+          "number": "0",
+          "name": "Roy Kasher"
+        },
+        {
+          "number": "0",
+          "name": "Samuel Margolis"
+        },
+        {
+          "number": "1",
+          "name": "Frank  Marshall"
+        },
+        {
+          "number": "12",
+          "name": "Thomas Cameron"
+        },
+        {
+          "number": "13",
+          "name": "Christopher Byrd"
+        },
+        {
+          "number": "13",
+          "name": "Calvin McPhail-Snyder"
+        },
+        {
+          "number": "22",
+          "name": "Ari Pena"
+        },
+        {
+          "number": "97",
+          "name": "Jayson English"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool",
+      "groups": [
+        {
+          "name": "A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Raleigh-Durham United",
+              "team2": "Cash Crop 2",
+              "score1": 13,
+              "score2": 10,
+              "datetime": "2023-09-09T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "baNC",
+              "team2": "Queen City Kings",
+              "score1": 13,
+              "score2": 7,
+              "datetime": "2023-09-09T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Triumph",
+              "team2": "Oakay",
+              "score1": 13,
+              "score2": 5,
+              "datetime": "2023-09-09T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Raleigh-Durham United",
+              "team2": "baNC",
+              "score1": 13,
+              "score2": 10,
+              "datetime": "2023-09-09T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Cash Crop 2",
+              "team2": "Triumph",
+              "score1": 13,
+              "score2": 9,
+              "datetime": "2023-09-09T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Queen City Kings",
+              "team2": "Oakay",
+              "score1": 13,
+              "score2": 3,
+              "datetime": "2023-09-09T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Raleigh-Durham United",
+              "team2": "Triumph",
+              "score1": 13,
+              "score2": 7,
+              "datetime": "2023-09-09T13:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "baNC",
+              "team2": "Oakay",
+              "score1": 13,
+              "score2": 1,
+              "datetime": "2023-09-09T13:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Cash Crop 2",
+              "team2": "Queen City Kings",
+              "score1": 13,
+              "score2": 7,
+              "datetime": "2023-09-09T13:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Raleigh-Durham United",
+              "team2": "Oakay",
+              "score1": 13,
+              "score2": 0,
+              "datetime": "2023-09-09T15:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "baNC",
+              "team2": "Cash Crop 2",
+              "score1": 11,
+              "score2": 10,
+              "datetime": "2023-09-09T15:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Triumph",
+              "team2": "Queen City Kings",
+              "score1": 13,
+              "score2": 11,
+              "datetime": "2023-09-09T15:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Raleigh-Durham United",
+              "team2": "Queen City Kings",
+              "score1": 13,
+              "score2": 3,
+              "datetime": "2023-09-10T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Cash Crop 2",
+              "team2": "Oakay",
+              "score1": 13,
+              "score2": 1,
+              "datetime": "2023-09-10T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "baNC",
+              "team2": "Triumph",
+              "score1": 13,
+              "score2": 10,
+              "datetime": "2023-09-10T21:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Bracket",
+      "groups": [
+        {
+          "name": "1st Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Raleigh-Durham United",
+              "team2": "baNC",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2023-09-10T11:00:00Z",
+              "round": "1st Place",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "2nd Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "baNC",
+              "team2": "Cash Crop 2",
+              "score1": 11,
+              "score2": 13,
+              "datetime": "2023-09-10T13:00:00Z",
+              "round": "2nd Place",
+              "status": "Final"
+            },
+            {
+              "team1": "Cash Crop 2",
+              "team2": "Triumph",
+              "score1": 15,
+              "score2": 3,
+              "datetime": "2023-09-10T11:00:00Z",
+              "round": "2nd Place Semi",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "4th Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Queen City Kings",
+              "team2": "Triumph",
+              "score1": 14,
+              "score2": 10,
+              "datetime": "2023-09-10T13:00:00Z",
+              "round": "4th Place (GtG)",
+              "status": "Final"
+            },
+            {
+              "team1": "Queen City Kings",
+              "team2": "Oakay",
+              "score1": 15,
+              "score2": 5,
+              "datetime": "2023-09-10T11:00:00Z",
+              "round": "4th Place Semi",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2023/2023-Womens-Gulf-Coast-Sectional-ChampionshipClub-Women",
+  "sourceUrl": "https://play.usaultimate.org/events/2023-Womens-Gulf-Coast-Sectional-Championship/schedule/Women/Club-Women/",
+  "scrapedAt": "2026-08-28T10:06:19.336209Z",
+  "event": {
+    "name": "2023 Women's Gulf Coast Sectional Championship",
+    "division": "Club - Women ",
+    "gender": "",
+    "season": 2023,
+    "city": "",
+    "state": "TBD",
+    "country": "",
+    "startDate": "2023-09-09",
+    "endDate": "2023-09-10"
+  },
+  "teams": [
+    {
+      "name": "Huntsville Laika",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Huntsville, Alabama",
+        "website": "",
+        "facebook": "https://www.facebook.com/hsvLaika",
+        "twitter": "https://www.twitter.com/hsv_Laika"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Sarah Woodard"
+        },
+        {
+          "number": "1",
+          "name": "Susannah Sorrells"
+        },
+        {
+          "number": "2",
+          "name": "Holly Sillivant"
+        },
+        {
+          "number": "7",
+          "name": "Rose Missildine"
+        },
+        {
+          "number": "8",
+          "name": "Katie  Gerber"
+        },
+        {
+          "number": "9",
+          "name": "E'lana Parnell"
+        },
+        {
+          "number": "10",
+          "name": "Amanda Moss"
+        },
+        {
+          "number": "11",
+          "name": "Brittany Foster"
+        },
+        {
+          "number": "12",
+          "name": "Kendra Storz"
+        },
+        {
+          "number": "15",
+          "name": "Grace Liverett"
+        },
+        {
+          "number": "17",
+          "name": "Angel Mobley"
+        },
+        {
+          "number": "18",
+          "name": "Allyson Smith"
+        },
+        {
+          "number": "21",
+          "name": "Savannah Baron"
+        },
+        {
+          "number": "22",
+          "name": "Desiree Garcia"
+        },
+        {
+          "number": "23",
+          "name": "Madeleine Davie"
+        },
+        {
+          "number": "28",
+          "name": "Jodi Turk"
+        },
+        {
+          "number": "29",
+          "name": "Nesya Green"
+        },
+        {
+          "number": "31",
+          "name": "Sandy Taylor"
+        },
+        {
+          "number": "37",
+          "name": "Laura  Dunaway"
+        },
+        {
+          "number": "45",
+          "name": "Anna Lee"
+        },
+        {
+          "number": "54",
+          "name": "Brooke  Volz"
+        },
+        {
+          "number": "61",
+          "name": "Madison Oakman"
+        },
+        {
+          "number": "72",
+          "name": "Liz Craig"
+        }
+      ]
+    },
+    {
+      "name": "Steel",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Birmingham, Alabama",
+        "website": "https://birmingham.ultimatecentral.com/steel",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Chelsea Andrews"
+        },
+        {
+          "number": "0",
+          "name": "Courtney  Roush"
+        },
+        {
+          "number": "0",
+          "name": "Hayley Djuric"
+        },
+        {
+          "number": "0",
+          "name": "Jasmyn Carter"
+        },
+        {
+          "number": "0",
+          "name": "Kaley Blanton"
+        },
+        {
+          "number": "0",
+          "name": "Lia Puzzo"
+        },
+        {
+          "number": "0",
+          "name": "Mary-Hannah Jenkins"
+        },
+        {
+          "number": "0",
+          "name": "Nicole Glaves"
+        },
+        {
+          "number": "0",
+          "name": "Tara Massouleh"
+        },
+        {
+          "number": "0",
+          "name": "Tattum Denham"
+        },
+        {
+          "number": "0",
+          "name": "Tricia Phillips"
+        },
+        {
+          "number": "0",
+          "name": "Wendy Gonzalez"
+        },
+        {
+          "number": "0",
+          "name": "Zoey Rape"
+        },
+        {
+          "number": "6",
+          "name": "Karly Casey"
+        },
+        {
+          "number": "8",
+          "name": "Era Moellering"
+        },
+        {
+          "number": "13",
+          "name": "Monique Oblena"
+        },
+        {
+          "number": "17",
+          "name": "Ashley Spiller"
+        },
+        {
+          "number": "28",
+          "name": "Hannah Szcepanski"
+        },
+        {
+          "number": "29",
+          "name": "Susie Landis"
+        },
+        {
+          "number": "45",
+          "name": "Emily Yeend"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Round Robin",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Huntsville Laika",
+              "team2": "Steel",
+              "score1": 12,
+              "score2": 9,
+              "datetime": "2023-09-09T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,996 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2018/T-Town-Throwdown-2018CollegeWomen",
+  "sourceUrl": "https://play.usaultimate.org/events/T-Town-Throwdown-2018/schedule/Women/CollegeWomen/",
+  "scrapedAt": "2026-08-28T10:06:16.155212Z",
+  "event": {
+    "name": "T-Town Throwdown 2018",
+    "division": "College - Women ",
+    "gender": "",
+    "season": 2018,
+    "city": "Tuscaloosa",
+    "state": "AL",
+    "country": "",
+    "startDate": "2018-03-03",
+    "endDate": "2018-03-04"
+  },
+  "teams": [
+    {
+      "name": "Mississippi",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Landsharks",
+        "location": "Oxford, Mississippi",
+        "website": "olemissultimate.weebly.com",
+        "facebook": "https://www.facebook.com/OleMissWomensUltimateFrisbee",
+        "twitter": "https://twitter.com/landsharksulty"
+      },
+      "coaches": [
+        "Brian Sherry"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Anna Daniels"
+        },
+        {
+          "number": "0",
+          "name": "Anne Caroline  Donahoe "
+        },
+        {
+          "number": "0",
+          "name": "Casey Webb"
+        },
+        {
+          "number": "0",
+          "name": "Elizabeth Fogarty"
+        },
+        {
+          "number": "0",
+          "name": "Greta Carley"
+        },
+        {
+          "number": "0",
+          "name": "Helen Colquett"
+        },
+        {
+          "number": "0",
+          "name": "Lane Colquett"
+        },
+        {
+          "number": "3",
+          "name": "Xena Williams"
+        },
+        {
+          "number": "4",
+          "name": "Hannah Farnlacher"
+        },
+        {
+          "number": "5",
+          "name": "Brooke Norman"
+        },
+        {
+          "number": "6",
+          "name": "Ashton Keen"
+        },
+        {
+          "number": "9",
+          "name": "Hannah Clark"
+        },
+        {
+          "number": "12",
+          "name": "Emily Lado"
+        },
+        {
+          "number": "19",
+          "name": "Maggie Hubbard"
+        },
+        {
+          "number": "29",
+          "name": "Jordan McInnis"
+        }
+      ]
+    },
+    {
+      "name": "Emory",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Luna",
+        "location": "Atlanta, Georgia",
+        "website": "",
+        "facebook": "",
+        "twitter": "@LunaUltimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Chloe Gaynor"
+        },
+        {
+          "number": "0",
+          "name": "Clara  Burke "
+        },
+        {
+          "number": "0",
+          "name": "Giveth Rocha"
+        },
+        {
+          "number": "0",
+          "name": "Hannah Katz"
+        },
+        {
+          "number": "0",
+          "name": "Katrina Rizzuto"
+        },
+        {
+          "number": "0",
+          "name": "Kristi Huang"
+        },
+        {
+          "number": "0",
+          "name": "Mia Simmons"
+        },
+        {
+          "number": "2",
+          "name": "Leah Gilbert-Odem"
+        },
+        {
+          "number": "11",
+          "name": "Anna Glass"
+        },
+        {
+          "number": "18",
+          "name": "Meggie Stewart"
+        },
+        {
+          "number": "20",
+          "name": "Carolyn Perry"
+        },
+        {
+          "number": "22",
+          "name": "Vivien Yang"
+        },
+        {
+          "number": "25",
+          "name": "Elshaddai Girma"
+        },
+        {
+          "number": "28",
+          "name": "Emma  Wright"
+        },
+        {
+          "number": "64",
+          "name": "Samara Robbins"
+        },
+        {
+          "number": "87",
+          "name": "Sarah Burzynski"
+        }
+      ]
+    },
+    {
+      "name": "Mississippi State",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Night Mare",
+        "location": "Starkville, Mississippi",
+        "website": "http://msunightmare.weebly.com/",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Aygul Brown"
+        },
+        {
+          "number": "2",
+          "name": "Caroline Barrett"
+        },
+        {
+          "number": "3",
+          "name": "Gabriella Harmon"
+        },
+        {
+          "number": "4",
+          "name": "Ashley Prather"
+        },
+        {
+          "number": "5",
+          "name": "Emily Porterfield"
+        },
+        {
+          "number": "6",
+          "name": "Angela Provenzano"
+        },
+        {
+          "number": "9",
+          "name": "Sarah Davis"
+        },
+        {
+          "number": "10",
+          "name": "Virginia Lomax"
+        },
+        {
+          "number": "13",
+          "name": "Kennedy Moehrs"
+        },
+        {
+          "number": "14",
+          "name": "Kayla Bannister"
+        },
+        {
+          "number": "17",
+          "name": "Hannah Accardy"
+        },
+        {
+          "number": "18",
+          "name": "Grace Robinson"
+        },
+        {
+          "number": "20",
+          "name": "Paige Spacek"
+        },
+        {
+          "number": "21",
+          "name": "Jamie Taylor"
+        },
+        {
+          "number": "31",
+          "name": "Natalie McNeely"
+        },
+        {
+          "number": "32",
+          "name": "Hannah Berny"
+        },
+        {
+          "number": "88",
+          "name": "Anna Crawford"
+        }
+      ]
+    },
+    {
+      "name": "Union",
+      "seed": 7,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Jillz",
+        "location": "Jackson, Tennessee",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Leah Williams"
+        },
+        {
+          "number": "0",
+          "name": "Megan Mockford"
+        },
+        {
+          "number": "0",
+          "name": "Renee Seavey"
+        },
+        {
+          "number": "00",
+          "name": "Alex Bodnar"
+        },
+        {
+          "number": "01",
+          "name": "Jamie Hodge"
+        },
+        {
+          "number": "02",
+          "name": "Kari Ormsby"
+        },
+        {
+          "number": "03",
+          "name": "Mary Grace Thompson"
+        },
+        {
+          "number": "04",
+          "name": "olivia schmitke"
+        },
+        {
+          "number": "05",
+          "name": "Sydney Vorhis"
+        },
+        {
+          "number": "15",
+          "name": "Victoria Graves"
+        },
+        {
+          "number": "19",
+          "name": "Ashley Cioto"
+        },
+        {
+          "number": "21",
+          "name": "Madison McMullen"
+        },
+        {
+          "number": "22",
+          "name": "Carson Brown"
+        },
+        {
+          "number": "69",
+          "name": "Valerie Brewer"
+        }
+      ]
+    },
+    {
+      "name": "Alabama",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Ramma Jamma",
+        "location": "Tuscaloosa, Alabama",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/RammaJammaULT"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Kate Coggins"
+        },
+        {
+          "number": "0",
+          "name": "Hannah Phipps"
+        },
+        {
+          "number": "4",
+          "name": "Brooke Schoepp"
+        },
+        {
+          "number": "5",
+          "name": "Hannah Van Cleve"
+        },
+        {
+          "number": "6",
+          "name": "Hallie Hudson"
+        },
+        {
+          "number": "7",
+          "name": "Francesca Rascati"
+        },
+        {
+          "number": "10",
+          "name": "Leah Price"
+        },
+        {
+          "number": "12",
+          "name": "Abigail Ruby"
+        },
+        {
+          "number": "13",
+          "name": "Gabriella Dickinson"
+        },
+        {
+          "number": "16",
+          "name": "Madison Nickel"
+        },
+        {
+          "number": "19",
+          "name": "Julia Becker"
+        },
+        {
+          "number": "20",
+          "name": "Abby Jones"
+        },
+        {
+          "number": "21",
+          "name": "Gina Tress"
+        },
+        {
+          "number": "22",
+          "name": "Andrea Anger"
+        },
+        {
+          "number": "23",
+          "name": "Sarah Klusendorf "
+        },
+        {
+          "number": "25",
+          "name": "Emily Snyder"
+        },
+        {
+          "number": "50",
+          "name": "Rachel Hughes"
+        },
+        {
+          "number": "69",
+          "name": "Nora Leonard"
+        },
+        {
+          "number": "74",
+          "name": "Misa Rogers"
+        }
+      ]
+    },
+    {
+      "name": "Tennessee-Chattanooga",
+      "seed": 8,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Moxie",
+        "location": "Chattanooga, Tennessee",
+        "website": "utc.edu",
+        "facebook": "https://www.facebook.com/utcwomensultimate/",
+        "twitter": "https://www.twitter.com/utcmoxie"
+      },
+      "coaches": [
+        "Neil Place"
+      ],
+      "roster": [
+        {
+          "number": "06",
+          "name": "Angela  Onan"
+        },
+        {
+          "number": "08",
+          "name": "Samantha Scott"
+        },
+        {
+          "number": "09",
+          "name": "Alexis Ayala"
+        },
+        {
+          "number": "12",
+          "name": "Sarah Houpt"
+        },
+        {
+          "number": "15",
+          "name": "Adriana  Ocegeura"
+        },
+        {
+          "number": "16",
+          "name": "Allyssa Raspa"
+        },
+        {
+          "number": "19",
+          "name": "Ashley Hunter"
+        },
+        {
+          "number": "19",
+          "name": "Hannah Kruse"
+        },
+        {
+          "number": "21",
+          "name": "Sarah Johnson"
+        },
+        {
+          "number": "23",
+          "name": "Elizabeth Barnes"
+        },
+        {
+          "number": "24",
+          "name": "Chandler Shelton-Swenson"
+        },
+        {
+          "number": "27",
+          "name": "Madison Moeller"
+        },
+        {
+          "number": "32",
+          "name": "Janie Stem"
+        },
+        {
+          "number": "42",
+          "name": "Brianna Stedman"
+        },
+        {
+          "number": "92",
+          "name": "Alayna Smith"
+        }
+      ]
+    },
+    {
+      "name": "Winona State",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Bad Monaz",
+        "location": "Winona, Minnesota",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Abigail Gibson"
+        },
+        {
+          "number": "0",
+          "name": "Ella Borgerding"
+        },
+        {
+          "number": "0",
+          "name": "Maria Gosz"
+        },
+        {
+          "number": "0",
+          "name": "Olivia Dischinger"
+        },
+        {
+          "number": "09",
+          "name": "Celeste Werner"
+        },
+        {
+          "number": "13",
+          "name": "Megan Diesslin"
+        },
+        {
+          "number": "27",
+          "name": "Joanna Brown"
+        }
+      ]
+    },
+    {
+      "name": "Alabama-Birmingham",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Ember",
+        "location": "Birmingham, Alabama",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alexandria Johnson"
+        },
+        {
+          "number": "0",
+          "name": "Bianca Convers"
+        },
+        {
+          "number": "0",
+          "name": "Mariam Massoud"
+        },
+        {
+          "number": "0",
+          "name": "Vashti Convers"
+        },
+        {
+          "number": "11",
+          "name": "Lana Hejazen"
+        },
+        {
+          "number": "13",
+          "name": "Monique Oblena"
+        },
+        {
+          "number": "15",
+          "name": "Robbi Cecil"
+        },
+        {
+          "number": "19",
+          "name": "Savannah Ferch"
+        },
+        {
+          "number": "24",
+          "name": "Jordan Stewart"
+        },
+        {
+          "number": "41",
+          "name": "Mary Hulcher"
+        }
+      ]
+    },
+    {
+      "name": "Alabama-Huntsville",
+      "seed": 9,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Terror",
+        "location": "Huntsville, Alabama",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "4",
+          "name": "Leslee Hasty"
+        },
+        {
+          "number": "7",
+          "name": "Lindsey Kaesemeyer"
+        },
+        {
+          "number": "8",
+          "name": "Bailey Gregory"
+        },
+        {
+          "number": "03",
+          "name": "Anna Lee"
+        },
+        {
+          "number": "12",
+          "name": "Angela Simpson"
+        },
+        {
+          "number": "14",
+          "name": "Christina Stovall"
+        },
+        {
+          "number": "19",
+          "name": "Victoria Ellingson"
+        },
+        {
+          "number": "23",
+          "name": "Madeleine Davie"
+        },
+        {
+          "number": "42",
+          "name": "Sarah Grace Smith"
+        },
+        {
+          "number": "47",
+          "name": "Emma Hankins"
+        },
+        {
+          "number": "72",
+          "name": "Liz Craig"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Crimson Pool Play",
+      "groups": [
+        {
+          "name": "Crimson",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Emory",
+              "team2": "Mississippi",
+              "score1": 5,
+              "score2": 11,
+              "datetime": "2018-03-03T09:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Mississippi State",
+              "team2": "Union",
+              "score1": 11,
+              "score2": 2,
+              "datetime": "2018-03-03T09:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Emory",
+              "team2": "Mississippi State",
+              "score1": 8,
+              "score2": 7,
+              "datetime": "2018-03-03T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Mississippi",
+              "team2": "Union",
+              "score1": 11,
+              "score2": 2,
+              "datetime": "2018-03-03T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Emory",
+              "team2": "Union",
+              "score1": 11,
+              "score2": 0,
+              "datetime": "2018-03-03T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Mississippi State",
+              "team2": "Mississippi",
+              "score1": 3,
+              "score2": 9,
+              "datetime": "2018-03-03T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "pools",
+      "name": "White Pool Play",
+      "groups": [
+        {
+          "name": "White",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Alabama-Birmingham",
+              "team2": "Tennessee-Chattanooga",
+              "score1": 4,
+              "score2": 11,
+              "datetime": "2018-03-03T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Alabama",
+              "team2": "Alabama-Huntsville",
+              "score1": 11,
+              "score2": 0,
+              "datetime": "2018-03-03T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Winona State",
+              "team2": "Alabama-Birmingham",
+              "score1": 11,
+              "score2": 4,
+              "datetime": "2018-03-03T09:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Alabama",
+              "team2": "Tennessee-Chattanooga",
+              "score1": 10,
+              "score2": 3,
+              "datetime": "2018-03-03T09:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Tennessee-Chattanooga",
+              "team2": "Alabama-Huntsville",
+              "score1": 11,
+              "score2": 0,
+              "datetime": "2018-03-03T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Winona State",
+              "team2": "Alabama",
+              "score1": 7,
+              "score2": 11,
+              "datetime": "2018-03-03T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Winona State",
+              "team2": "Tennessee-Chattanooga",
+              "score1": 8,
+              "score2": 10,
+              "datetime": "2018-03-03T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Alabama-Birmingham",
+              "team2": "Alabama-Huntsville",
+              "score1": 11,
+              "score2": 0,
+              "datetime": "2018-03-03T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Winona State",
+              "team2": "Alabama-Huntsville",
+              "score1": 11,
+              "score2": 0,
+              "datetime": "2018-03-03T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Alabama",
+              "team2": "Alabama-Birmingham",
+              "score1": 11,
+              "score2": 3,
+              "datetime": "2018-03-03T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Bracket Play",
+      "groups": [
+        {
+          "name": "Champnship",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Emory",
+              "team2": "Mississippi",
+              "score1": 13,
+              "score2": 9,
+              "datetime": "2018-03-04T13:15:00Z",
+              "round": "Championship",
+              "status": "Final"
+            },
+            {
+              "team1": "Emory",
+              "team2": "Mississippi State",
+              "score1": 13,
+              "score2": 2,
+              "datetime": "2018-03-04T11:30:00Z",
+              "round": "Semi",
+              "status": "Final"
+            },
+            {
+              "team1": "Winona State",
+              "team2": "Mississippi",
+              "score1": 3,
+              "score2": 13,
+              "datetime": "2018-03-04T11:30:00Z",
+              "round": "Semi",
+              "status": "Final"
+            },
+            {
+              "team1": "Alabama",
+              "team2": "Emory",
+              "score1": 7,
+              "score2": 13,
+              "datetime": "2018-03-04T09:45:00Z",
+              "round": "Quarter",
+              "status": "Final"
+            },
+            {
+              "team1": "Tennessee-Chattanooga",
+              "team2": "Mississippi State",
+              "score1": 8,
+              "score2": 11,
+              "datetime": "2018-03-04T09:45:00Z",
+              "round": "Quarter",
+              "status": "Final"
+            },
+            {
+              "team1": "Winona State",
+              "team2": "Alabama-Huntsville",
+              "score1": 13,
+              "score2": 1,
+              "datetime": "2018-03-04T09:45:00Z",
+              "round": "Quarter",
+              "status": "Final"
+            },
+            {
+              "team1": "Alabama-Birmingham",
+              "team2": "Mississippi",
+              "score1": 10,
+              "score2": 12,
+              "datetime": "2018-03-04T09:45:00Z",
+              "round": "Quarter",
+              "status": "Final"
+            },
+            {
+              "team1": "Emory",
+              "team2": "Union",
+              "score1": 13,
+              "score2": 1,
+              "datetime": "2018-03-04T08:00:00Z",
+              "round": "Seed",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Bracket Play",
+      "groups": [
+        {
+          "name": "Consolation",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Alabama-Birmingham",
+              "team2": "Alabama",
+              "score1": 7,
+              "score2": 9,
+              "datetime": "2018-03-04T13:15:00Z",
+              "round": "4th Place",
+              "status": "Final"
+            },
+            {
+              "team1": "Alabama-Birmingham",
+              "team2": "Tennessee-Chattanooga",
+              "score1": 11,
+              "score2": 9,
+              "datetime": "2018-03-04T11:30:00Z",
+              "round": "6th-7th",
+              "status": "Final"
+            },
+            {
+              "team1": "Alabama",
+              "team2": "Winona State",
+              "score1": 12,
+              "score2": 10,
+              "datetime": "2018-03-04T11:30:00Z",
+              "round": "6th-7th",
+              "status": "Final"
+            },
+            {
+              "team1": "Union",
+              "team2": "Alabama-Birmingham",
+              "score1": 0,
+              "score2": 13,
+              "datetime": "2018-03-04T09:45:00Z",
+              "round": "Consolation Semis",
+              "status": "Final"
+            },
+            {
+              "team1": "Alabama-Huntsville",
+              "team2": "Tennessee-Chattanooga",
+              "score1": 1,
+              "score2": 11,
+              "datetime": "2018-03-04T09:45:00Z",
+              "round": "Consolation Semis",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Bracket Play",
+      "groups": [
+        {
+          "name": "Consolation",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Union",
+              "team2": "Alabama-Huntsville",
+              "score1": 11,
+              "score2": 2,
+              "datetime": "2018-03-04T11:30:00Z",
+              "round": "8th Place",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

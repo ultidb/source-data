@@ -1,0 +1,2971 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2017/2017-USA-Ultimate-College-ChampionshipsCollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/2017-USA-Ultimate-College-Championships/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:14.118400Z",
+  "event": {
+    "name": "D-I College Championships 2017",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2017,
+    "city": "Mason",
+    "state": "OH",
+    "country": "",
+    "startDate": "2017-05-26",
+    "endDate": "2017-05-29"
+  },
+  "teams": [
+    {
+      "name": "Massachusetts",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Zoodisc",
+        "location": "Amherst, Massachusetts",
+        "website": "",
+        "facebook": "https://www.facebook.com/UMassUltimate/",
+        "twitter": "https://twitter.com/UMassUltimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Jared Madore"
+        },
+        {
+          "number": "03",
+          "name": "Ben Sadok"
+        },
+        {
+          "number": "04",
+          "name": "Ciaran Shaughnessy"
+        },
+        {
+          "number": "05",
+          "name": "Jacob Radack"
+        },
+        {
+          "number": "07",
+          "name": "Gabriel Schmitt"
+        },
+        {
+          "number": "08",
+          "name": "Dustin Baglow"
+        },
+        {
+          "number": "14",
+          "name": "Gregory Oreste"
+        },
+        {
+          "number": "15",
+          "name": "Tannor Johnson"
+        },
+        {
+          "number": "16",
+          "name": "Giancarlo Cincotta"
+        },
+        {
+          "number": "18",
+          "name": "Brett Gramann"
+        },
+        {
+          "number": "21",
+          "name": "Patrick Barron"
+        },
+        {
+          "number": "27",
+          "name": "Solomon Maerowitz-McMahan"
+        },
+        {
+          "number": "28",
+          "name": "Aaron Raskin"
+        },
+        {
+          "number": "29",
+          "name": "Jared Chapman"
+        },
+        {
+          "number": "31",
+          "name": "Eddie Scott"
+        },
+        {
+          "number": "32",
+          "name": "Jack Staples"
+        },
+        {
+          "number": "33",
+          "name": "William Thornton"
+        },
+        {
+          "number": "34",
+          "name": "Nico Mueller"
+        },
+        {
+          "number": "38",
+          "name": "Matt Caswell"
+        },
+        {
+          "number": "80",
+          "name": "Chris Bartoli"
+        },
+        {
+          "number": "89",
+          "name": "Eugene L'Heureux"
+        },
+        {
+          "number": "96",
+          "name": "Alexander Donadio"
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "seed": 8,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Sundodgers",
+        "location": "Seattle, Washington",
+        "website": "http://washingtonultimate.org/",
+        "facebook": "https://www.facebook.com/uwultimate",
+        "twitter": "https://twitter.com/sundodgers"
+      },
+      "coaches": [
+        "Alex Wells"
+      ],
+      "roster": [
+        {
+          "number": "01",
+          "name": "Manuel Eckert"
+        },
+        {
+          "number": "02",
+          "name": "Tian Chuan Yen"
+        },
+        {
+          "number": "03",
+          "name": "Khalif El-Salaam"
+        },
+        {
+          "number": "04",
+          "name": "Brian Huynh"
+        },
+        {
+          "number": "05",
+          "name": "Jakob Steen"
+        },
+        {
+          "number": "06",
+          "name": "Porter Jones"
+        },
+        {
+          "number": "07",
+          "name": "Maximilian Landa"
+        },
+        {
+          "number": "10",
+          "name": "Dongyang Chen"
+        },
+        {
+          "number": "11",
+          "name": "Jonathan Shuster"
+        },
+        {
+          "number": "12",
+          "name": "Tomas Delgado"
+        },
+        {
+          "number": "13",
+          "name": "Jason Peacher-Ton"
+        },
+        {
+          "number": "14",
+          "name": "Steven Benaloh"
+        },
+        {
+          "number": "15",
+          "name": "Derek Mourad"
+        },
+        {
+          "number": "16",
+          "name": "Cooper Schumacher"
+        },
+        {
+          "number": "18",
+          "name": "Nathaniel Wipfler"
+        },
+        {
+          "number": "21",
+          "name": "Lucas Chen"
+        },
+        {
+          "number": "22",
+          "name": "Zach Airth"
+        },
+        {
+          "number": "23",
+          "name": "Xiao Dong Liu"
+        },
+        {
+          "number": "29",
+          "name": "Michael Buyco"
+        },
+        {
+          "number": "30",
+          "name": "Nels Schimek"
+        },
+        {
+          "number": "44",
+          "name": "Noah Kregenow"
+        },
+        {
+          "number": "50",
+          "name": "Samuel Scherer"
+        },
+        {
+          "number": "87",
+          "name": "Joseph Kornowske"
+        },
+        {
+          "number": "99",
+          "name": "Reed Hendrickson"
+        }
+      ]
+    },
+    {
+      "name": "Cal Poly-SLO",
+      "seed": 17,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "SLOCORE",
+        "location": "San Luis Obispo, California",
+        "website": "http://slocore.com",
+        "facebook": "https://www.facebook.com/slocoreultimate/",
+        "twitter": "https://twitter.com/CORE_ultimate"
+      },
+      "coaches": [
+        "Peter Raines"
+      ],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Sunghoon Chung"
+        },
+        {
+          "number": "02",
+          "name": "Brennan Bryant"
+        },
+        {
+          "number": "03",
+          "name": "Simon Krauter"
+        },
+        {
+          "number": "04",
+          "name": "Daniel Hoffman"
+        },
+        {
+          "number": "05",
+          "name": "Aaron Shi"
+        },
+        {
+          "number": "08",
+          "name": "Dillon Whited"
+        },
+        {
+          "number": "09",
+          "name": "Nathan Pettyjohn"
+        },
+        {
+          "number": "10",
+          "name": "Jeremy Dolezal-Ng"
+        },
+        {
+          "number": "11",
+          "name": "Hudson Stuck"
+        },
+        {
+          "number": "13",
+          "name": "Theodore Watkins"
+        },
+        {
+          "number": "14",
+          "name": "Dean Otsuka"
+        },
+        {
+          "number": "17",
+          "name": "Joshua (Slater) Levey"
+        },
+        {
+          "number": "18",
+          "name": "Alec Bandler"
+        },
+        {
+          "number": "19",
+          "name": "Conor Schofield"
+        },
+        {
+          "number": "20",
+          "name": "Sean Liston"
+        },
+        {
+          "number": "21",
+          "name": "Caleb Merriam"
+        },
+        {
+          "number": "24",
+          "name": "Cameron Wariner"
+        },
+        {
+          "number": "25",
+          "name": "Camden Reynolds"
+        },
+        {
+          "number": "28",
+          "name": "Joseph Gagliano"
+        },
+        {
+          "number": "33",
+          "name": "Ian Sweeney"
+        },
+        {
+          "number": "34",
+          "name": "Aidan Mccoy"
+        },
+        {
+          "number": "35",
+          "name": "Justin Ting"
+        },
+        {
+          "number": "42",
+          "name": "Jonathan Chianglin"
+        },
+        {
+          "number": "52",
+          "name": "Andrew Stratford"
+        },
+        {
+          "number": "53",
+          "name": "Matthew Ferrari"
+        },
+        {
+          "number": "82",
+          "name": "Morgan Sommer"
+        },
+        {
+          "number": "87",
+          "name": "Matthew Ryan"
+        },
+        {
+          "number": "95",
+          "name": "Jake Biancur"
+        }
+      ]
+    },
+    {
+      "name": "Stanford",
+      "seed": 12,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Stanford Bloodthirsty",
+        "location": "Stanford, California",
+        "website": "",
+        "facebook": "https://www.facebook.com/stanfordbloodthirsty/",
+        "twitter": "https://twitter.com/stanfordblood"
+      },
+      "coaches": [
+        "Ryan Thompson",
+        "Jordan Marcy",
+        "Nathan White"
+      ],
+      "roster": [
+        {
+          "number": "01",
+          "name": "Allan Ndovu"
+        },
+        {
+          "number": "02",
+          "name": "Jack Kimmel"
+        },
+        {
+          "number": "03",
+          "name": "Sam Kunz"
+        },
+        {
+          "number": "04",
+          "name": "Drew Mathieson"
+        },
+        {
+          "number": "05",
+          "name": "Zane Kashner"
+        },
+        {
+          "number": "07",
+          "name": "Maxwell Perham"
+        },
+        {
+          "number": "08",
+          "name": "Grant Lin"
+        },
+        {
+          "number": "10",
+          "name": "Elliott Chartock"
+        },
+        {
+          "number": "13",
+          "name": "JOHN KADAVY"
+        },
+        {
+          "number": "14",
+          "name": "Lyndon Whittaker"
+        },
+        {
+          "number": "16",
+          "name": "Sergio Licon"
+        },
+        {
+          "number": "17",
+          "name": "NOLAN WALSH"
+        },
+        {
+          "number": "20",
+          "name": "Ethan Shen"
+        },
+        {
+          "number": "21",
+          "name": "Phillip Cathers"
+        },
+        {
+          "number": "22",
+          "name": "David Mondry"
+        },
+        {
+          "number": "23",
+          "name": "Gabriel Hernandez"
+        },
+        {
+          "number": "24",
+          "name": "Kevin Tien"
+        },
+        {
+          "number": "25",
+          "name": "Ri Chen"
+        },
+        {
+          "number": "28",
+          "name": "Michael Becich"
+        },
+        {
+          "number": "33",
+          "name": "Nicholas Hirning"
+        },
+        {
+          "number": "46",
+          "name": "Cyrus Ready-Campbell"
+        },
+        {
+          "number": "47",
+          "name": "Abdramane Diabate"
+        },
+        {
+          "number": "74",
+          "name": "Alvin Kim"
+        },
+        {
+          "number": "88",
+          "name": "Maxwell Melin"
+        }
+      ]
+    },
+    {
+      "name": "Colorado State",
+      "seed": 13,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Hibida",
+        "location": "Fort Collins, Colorado",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "Tim Kefalas"
+      ],
+      "roster": [
+        {
+          "number": "01",
+          "name": "Jack Hinchsliff"
+        },
+        {
+          "number": "02",
+          "name": "Easton Archibald"
+        },
+        {
+          "number": "03",
+          "name": "John Miller"
+        },
+        {
+          "number": "04",
+          "name": "Mo Scott"
+        },
+        {
+          "number": "05",
+          "name": "JORDAN TREPP"
+        },
+        {
+          "number": "07",
+          "name": "Will McDonald"
+        },
+        {
+          "number": "09",
+          "name": "Jacob Servaty"
+        },
+        {
+          "number": "11",
+          "name": "Jack McGinnis"
+        },
+        {
+          "number": "12",
+          "name": "Mark Stratford"
+        },
+        {
+          "number": "13",
+          "name": "Dylan Custer"
+        },
+        {
+          "number": "15",
+          "name": "Mason Kiefer"
+        },
+        {
+          "number": "16",
+          "name": "Jake Marrapode"
+        },
+        {
+          "number": "17",
+          "name": "Cole Turner"
+        },
+        {
+          "number": "18",
+          "name": "Dylan Johnson"
+        },
+        {
+          "number": "20",
+          "name": "Clark Yarbrough"
+        },
+        {
+          "number": "21",
+          "name": "Lucas Beal"
+        },
+        {
+          "number": "22",
+          "name": "Hudson Martin"
+        },
+        {
+          "number": "24",
+          "name": "David Miller"
+        },
+        {
+          "number": "30",
+          "name": "Sten Larson"
+        },
+        {
+          "number": "31",
+          "name": "Toby Nordhoff"
+        },
+        {
+          "number": "33",
+          "name": "Matthew Bush"
+        },
+        {
+          "number": "34",
+          "name": "Cody Spicer"
+        },
+        {
+          "number": "36",
+          "name": "Daniel Crump"
+        },
+        {
+          "number": "44",
+          "name": "Thomas Theodorescu"
+        },
+        {
+          "number": "54",
+          "name": "Sean Peskin"
+        },
+        {
+          "number": "90",
+          "name": "Dylan Cheever"
+        }
+      ]
+    },
+    {
+      "name": "North Carolina-Wilmington",
+      "seed": 11,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Seamen",
+        "location": "Wilmington, North Carolina",
+        "website": "http://seamenultimate.com/",
+        "facebook": "https://www.facebook.com/seamenultimate",
+        "twitter": "https://twitter.com/seamenultimate"
+      },
+      "coaches": [
+        "Brian Casey",
+        "Trevor Lancaster"
+      ],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Alex Bleuzen"
+        },
+        {
+          "number": "01",
+          "name": "James Lockamy"
+        },
+        {
+          "number": "02",
+          "name": "Michael Richards"
+        },
+        {
+          "number": "03",
+          "name": "Colin White"
+        },
+        {
+          "number": "04",
+          "name": "Jacobb Murphy"
+        },
+        {
+          "number": "05",
+          "name": "DANIEL MERCER"
+        },
+        {
+          "number": "07",
+          "name": "JD Hastings"
+        },
+        {
+          "number": "08",
+          "name": "Matthew Ellis"
+        },
+        {
+          "number": "09",
+          "name": "Frederick Hennighausen"
+        },
+        {
+          "number": "10",
+          "name": "Kyle Warfel"
+        },
+        {
+          "number": "11",
+          "name": "Jack Williams"
+        },
+        {
+          "number": "12",
+          "name": "Kevin Mateer"
+        },
+        {
+          "number": "13",
+          "name": "Kevin Huerta"
+        },
+        {
+          "number": "16",
+          "name": "Alex Janus"
+        },
+        {
+          "number": "17",
+          "name": "Keane Squeri "
+        },
+        {
+          "number": "18",
+          "name": "Grayson Sanner"
+        },
+        {
+          "number": "21",
+          "name": "Caleb Avery"
+        },
+        {
+          "number": "22",
+          "name": "William Stewart"
+        },
+        {
+          "number": "23",
+          "name": "vincent  frungillo"
+        },
+        {
+          "number": "25",
+          "name": "Davon Jaramillo"
+        },
+        {
+          "number": "33",
+          "name": "Austin McGrayne"
+        },
+        {
+          "number": "52",
+          "name": "Connor Russell"
+        },
+        {
+          "number": "88",
+          "name": "Dalton Vestal"
+        },
+        {
+          "number": "99",
+          "name": "Thomas  Theunissen"
+        }
+      ]
+    },
+    {
+      "name": "Pittsburgh",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "En Sabah Nur",
+        "location": "Pittsburgh, Pennsylvania",
+        "website": "http://pittultimate.org",
+        "facebook": "https://www.facebook.com/PittUltimate",
+        "twitter": "https://twitter.com/Pittultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "04",
+          "name": "Julius Hubby"
+        },
+        {
+          "number": "05",
+          "name": "Saul Graves"
+        },
+        {
+          "number": "06",
+          "name": "Maxwell Naar"
+        },
+        {
+          "number": "07",
+          "name": "Noah Weintraub"
+        },
+        {
+          "number": "08",
+          "name": "Thomas Edmonds"
+        },
+        {
+          "number": "09",
+          "name": "Carl Morgenstern"
+        },
+        {
+          "number": "10",
+          "name": "Alex Spenceley"
+        },
+        {
+          "number": "11",
+          "name": "Leo Warren"
+        },
+        {
+          "number": "12",
+          "name": "KEVIN TANG"
+        },
+        {
+          "number": "13",
+          "name": "Andrew Lehmberg"
+        },
+        {
+          "number": "15",
+          "name": "Dylan Best"
+        },
+        {
+          "number": "17",
+          "name": "Matthew Hanna"
+        },
+        {
+          "number": "18",
+          "name": "Kyle Hartley"
+        },
+        {
+          "number": "21",
+          "name": "Noah Robinson"
+        },
+        {
+          "number": "23",
+          "name": "Dillon Tranquillo"
+        },
+        {
+          "number": "24",
+          "name": "Sam VanDusen"
+        },
+        {
+          "number": "28",
+          "name": "SAM JENNINGS"
+        },
+        {
+          "number": "29",
+          "name": "Hafeez Shams"
+        },
+        {
+          "number": "33",
+          "name": "Max Thompson"
+        },
+        {
+          "number": "35",
+          "name": "Dan Goldstein"
+        },
+        {
+          "number": "38",
+          "name": "Jonah Wisch"
+        },
+        {
+          "number": "42",
+          "name": "Ben Morgenstern"
+        },
+        {
+          "number": "48",
+          "name": "Jimmy Towle"
+        },
+        {
+          "number": "79",
+          "name": "Michael Ing"
+        },
+        {
+          "number": "88",
+          "name": "Jack Slevin"
+        }
+      ]
+    },
+    {
+      "name": "Michigan",
+      "seed": 7,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "MagnUM",
+        "location": "Ann Arbor, Michigan",
+        "website": "http://www.magnumultimate.com/",
+        "facebook": "https://www.facebook.com/magnUMultimatefrisbee/",
+        "twitter": "https://twitter.com/magnUMultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Alexander Gaggino"
+        },
+        {
+          "number": "02",
+          "name": "Wesley Chen"
+        },
+        {
+          "number": "03",
+          "name": "Alexander Russomanno"
+        },
+        {
+          "number": "04",
+          "name": "Michael Burke"
+        },
+        {
+          "number": "05",
+          "name": "Noah Backer"
+        },
+        {
+          "number": "07",
+          "name": "Dan Calabrese"
+        },
+        {
+          "number": "08",
+          "name": "Jared Schwallie"
+        },
+        {
+          "number": "10",
+          "name": "Jake Steslicki"
+        },
+        {
+          "number": "17",
+          "name": "Jake Moyer"
+        },
+        {
+          "number": "18",
+          "name": "David Innis"
+        },
+        {
+          "number": "20",
+          "name": "Adam Stautberg"
+        },
+        {
+          "number": "21",
+          "name": "Travis Compo"
+        },
+        {
+          "number": "23",
+          "name": "Max Teener"
+        },
+        {
+          "number": "25",
+          "name": "Raymond Lu"
+        },
+        {
+          "number": "26",
+          "name": "Noah Lybik"
+        },
+        {
+          "number": "27",
+          "name": "Ian Crowley"
+        },
+        {
+          "number": "29",
+          "name": "Christopher Jacobson"
+        },
+        {
+          "number": "30",
+          "name": "Parker Howard"
+        },
+        {
+          "number": "32",
+          "name": "Wills  Weimer"
+        },
+        {
+          "number": "40",
+          "name": "Robert (Bobby) Moyer"
+        },
+        {
+          "number": "41",
+          "name": "Daniel Lee"
+        },
+        {
+          "number": "43",
+          "name": "MICHAEL ROBERTS"
+        },
+        {
+          "number": "44",
+          "name": "Samuel Vetromile"
+        },
+        {
+          "number": "59",
+          "name": "Nicholas Gerber"
+        },
+        {
+          "number": "64",
+          "name": "Steven Jacobson"
+        },
+        {
+          "number": "77",
+          "name": "ALEXANDER ROBERTS"
+        },
+        {
+          "number": "84",
+          "name": "Joe Krieger"
+        },
+        {
+          "number": "87",
+          "name": "Josh Becker"
+        },
+        {
+          "number": "88",
+          "name": "Sam Bethancourt"
+        }
+      ]
+    },
+    {
+      "name": "Texas A&M",
+      "seed": 14,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Dozen",
+        "location": "COLLEGE STATION, Texas",
+        "website": "https://maroonlink.tamu.edu/organization/ultimate",
+        "facebook": "https://www.facebook.com/tamuultimate/",
+        "twitter": "https://twitter.com/DozenUltimate/"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Richard Bovio"
+        },
+        {
+          "number": "01",
+          "name": "Timothy Robison"
+        },
+        {
+          "number": "02",
+          "name": "Ryan Smith"
+        },
+        {
+          "number": "04",
+          "name": "Dylan Swoboda"
+        },
+        {
+          "number": "05",
+          "name": "Michael Bryant"
+        },
+        {
+          "number": "08",
+          "name": "JACOB DAWSON"
+        },
+        {
+          "number": "10",
+          "name": "Ibrahim El-sayed"
+        },
+        {
+          "number": "11",
+          "name": "Jonathan Barnes"
+        },
+        {
+          "number": "12",
+          "name": "Connor Ughetta"
+        },
+        {
+          "number": "13",
+          "name": "Carter Hollo"
+        },
+        {
+          "number": "16",
+          "name": "Kyle Flaherty"
+        },
+        {
+          "number": "18",
+          "name": "Casey Aldridge"
+        },
+        {
+          "number": "20",
+          "name": "Nicolas Ceaser"
+        },
+        {
+          "number": "21",
+          "name": "Carson Smith"
+        },
+        {
+          "number": "22",
+          "name": "Zach Marbach"
+        },
+        {
+          "number": "23",
+          "name": "Alex Berend"
+        },
+        {
+          "number": "27",
+          "name": "Colin Smith"
+        },
+        {
+          "number": "80",
+          "name": "Connor Cole"
+        },
+        {
+          "number": "81",
+          "name": "Luke Hebert"
+        }
+      ]
+    },
+    {
+      "name": "Connecticut",
+      "seed": 18,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "UConn Grind",
+        "location": "Storrs, Connecticut",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/UConnGrind"
+      },
+      "coaches": [
+        "Bryan Jones"
+      ],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Gavin Clemmey"
+        },
+        {
+          "number": "01",
+          "name": "Pat Kunkel"
+        },
+        {
+          "number": "02",
+          "name": "Alex Jayakar"
+        },
+        {
+          "number": "03",
+          "name": "Michael Rice"
+        },
+        {
+          "number": "04",
+          "name": "Brody O'Brien"
+        },
+        {
+          "number": "05",
+          "name": "Walter Esker"
+        },
+        {
+          "number": "06",
+          "name": "Darryle Wiggins"
+        },
+        {
+          "number": "07",
+          "name": "John Friedman"
+        },
+        {
+          "number": "09",
+          "name": "Ryan Kennedy"
+        },
+        {
+          "number": "10",
+          "name": "Owen Casey"
+        },
+        {
+          "number": "11",
+          "name": "Corey Danko"
+        },
+        {
+          "number": "14",
+          "name": "Christopher Bohr"
+        },
+        {
+          "number": "15",
+          "name": "Christopher  Rodo"
+        },
+        {
+          "number": "16",
+          "name": "Brian Abedon"
+        },
+        {
+          "number": "18",
+          "name": "Jordan Layne"
+        },
+        {
+          "number": "20",
+          "name": "Clayton Duffy"
+        },
+        {
+          "number": "21",
+          "name": "Jackson Hillner"
+        },
+        {
+          "number": "22",
+          "name": "Nathan Getz"
+        },
+        {
+          "number": "23",
+          "name": "Christopher Bedron"
+        },
+        {
+          "number": "24",
+          "name": "Steven Purugganan"
+        },
+        {
+          "number": "25",
+          "name": "Jake Hansen"
+        },
+        {
+          "number": "27",
+          "name": "Navarre Pratt"
+        },
+        {
+          "number": "33",
+          "name": "Daniel Reilly"
+        },
+        {
+          "number": "45",
+          "name": "Philip Murray"
+        },
+        {
+          "number": "55",
+          "name": "Bryan Maloney"
+        },
+        {
+          "number": "74",
+          "name": "Alex Fishman"
+        }
+      ]
+    },
+    {
+      "name": "North Carolina",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Darkside",
+        "location": "Chapel Hill, North Carolina",
+        "website": "http://www.uncdarkside.com/",
+        "facebook": "https://www.facebook.com/UNCDarkside",
+        "twitter": "https://twitter.com/UNC_Darkside"
+      },
+      "coaches": [
+        "Michael Denardis",
+        "Jonathan Nethercutt",
+        "Edwin Alcorn"
+      ],
+      "roster": [
+        {
+          "number": "01",
+          "name": "Aaron Wan"
+        },
+        {
+          "number": "02",
+          "name": "Norman Archer"
+        },
+        {
+          "number": "03",
+          "name": "Thomas Clerkin"
+        },
+        {
+          "number": "04",
+          "name": "Suraj Madiraju"
+        },
+        {
+          "number": "05",
+          "name": "Nathan Kwon"
+        },
+        {
+          "number": "06",
+          "name": "Ben Maxson"
+        },
+        {
+          "number": "07",
+          "name": "Jesse Kovacs"
+        },
+        {
+          "number": "10",
+          "name": "Marcus Rovner"
+        },
+        {
+          "number": "11",
+          "name": "Taek Lee"
+        },
+        {
+          "number": "12",
+          "name": "Elijah Long"
+        },
+        {
+          "number": "13",
+          "name": "Andrew Cohen"
+        },
+        {
+          "number": "14",
+          "name": "Nick MacLeod"
+        },
+        {
+          "number": "16",
+          "name": "Anders Juengst"
+        },
+        {
+          "number": "17",
+          "name": "Spencer Beck"
+        },
+        {
+          "number": "20",
+          "name": "Thomas Williams"
+        },
+        {
+          "number": "21",
+          "name": "Matt Gouchoe-Hanas"
+        },
+        {
+          "number": "22",
+          "name": "Jacob Zurbuch"
+        },
+        {
+          "number": "23",
+          "name": "Walker Matthews"
+        },
+        {
+          "number": "24",
+          "name": "Alexander Davis"
+        },
+        {
+          "number": "25",
+          "name": "David Voychuk"
+        },
+        {
+          "number": "27",
+          "name": "Christopher Humphrey"
+        },
+        {
+          "number": "28",
+          "name": "John Watters"
+        },
+        {
+          "number": "32",
+          "name": "Yuma Kobayashi"
+        },
+        {
+          "number": "33",
+          "name": "Joshua  Krause"
+        },
+        {
+          "number": "40",
+          "name": "Samuel Lee"
+        },
+        {
+          "number": "42",
+          "name": "Alex (Evan) Grosskurth"
+        },
+        {
+          "number": "76",
+          "name": "Chathan Driehuys"
+        },
+        {
+          "number": "85",
+          "name": "Andrew Mouw"
+        },
+        {
+          "number": "97",
+          "name": "Kai Marcus"
+        }
+      ]
+    },
+    {
+      "name": "Carleton College",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "CUT)",
+        "location": "Northfield, Minnesota",
+        "website": "http://orgs.carleton.edu/cut/",
+        "facebook": "https://www.facebook.com/CUTrules",
+        "twitter": "https://twitter.com/cutrules"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Chris Padilla"
+        },
+        {
+          "number": "01",
+          "name": "James Freed"
+        },
+        {
+          "number": "02",
+          "name": "Solomon Yanuck"
+        },
+        {
+          "number": "03",
+          "name": "Eli Miller"
+        },
+        {
+          "number": "05",
+          "name": "Liam Holloway-Bidwell"
+        },
+        {
+          "number": "06",
+          "name": "Alex Olson"
+        },
+        {
+          "number": "07",
+          "name": "Cameron Hastings"
+        },
+        {
+          "number": "09",
+          "name": "Nikita Fomichev"
+        },
+        {
+          "number": "10",
+          "name": "Henry Fisher"
+        },
+        {
+          "number": "11",
+          "name": "Kohl Sparrman"
+        },
+        {
+          "number": "12",
+          "name": "Tim Schoch"
+        },
+        {
+          "number": "13",
+          "name": "Alexander Walker"
+        },
+        {
+          "number": "14",
+          "name": "Dillon Lanier"
+        },
+        {
+          "number": "15",
+          "name": "Eric Taylor"
+        },
+        {
+          "number": "17",
+          "name": "Adam Throne"
+        },
+        {
+          "number": "19",
+          "name": "Stanley Birdsong"
+        },
+        {
+          "number": "21",
+          "name": "Ethan Bloodworth"
+        },
+        {
+          "number": "24",
+          "name": "Noah Cohen"
+        },
+        {
+          "number": "27",
+          "name": "Elliot Mawby"
+        },
+        {
+          "number": "30",
+          "name": "Natan Lee-Engel"
+        },
+        {
+          "number": "33",
+          "name": "Conor Eckert"
+        },
+        {
+          "number": "46",
+          "name": "Luke Webb"
+        },
+        {
+          "number": "51",
+          "name": "Jared Kannel"
+        },
+        {
+          "number": "53",
+          "name": "David O'Dea"
+        },
+        {
+          "number": "55",
+          "name": "Jake Ritmire"
+        },
+        {
+          "number": "91",
+          "name": "Joe White"
+        }
+      ]
+    },
+    {
+      "name": "Auburn",
+      "seed": 15,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Aetos",
+        "location": "Auburn, Alabama",
+        "website": "",
+        "facebook": "https://www.facebook.com/auburnultimate",
+        "twitter": "https://twitter.com/AuburnUltimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Cody Wheeler"
+        },
+        {
+          "number": "03",
+          "name": "James Hershey"
+        },
+        {
+          "number": "05",
+          "name": "Eric Sjostrom"
+        },
+        {
+          "number": "06",
+          "name": "Evan Caldwell"
+        },
+        {
+          "number": "08",
+          "name": "Matthew Zheng"
+        },
+        {
+          "number": "11",
+          "name": "Jack Missildine"
+        },
+        {
+          "number": "12",
+          "name": "Jordan Quinn"
+        },
+        {
+          "number": "14",
+          "name": "William Thompson"
+        },
+        {
+          "number": "16",
+          "name": "Benjamin Morgan"
+        },
+        {
+          "number": "18",
+          "name": "Chandler Purtle"
+        },
+        {
+          "number": "19",
+          "name": "Robert Alongi"
+        },
+        {
+          "number": "20",
+          "name": "Mitch Parker"
+        },
+        {
+          "number": "22",
+          "name": "Rocco Magnella"
+        },
+        {
+          "number": "23",
+          "name": "Martin Newman"
+        },
+        {
+          "number": "24",
+          "name": "Mark Shannon"
+        },
+        {
+          "number": "25",
+          "name": "Reid Williams"
+        },
+        {
+          "number": "26",
+          "name": "Hamilton  Wasnick"
+        },
+        {
+          "number": "27",
+          "name": "Michael Volz"
+        },
+        {
+          "number": "28",
+          "name": "Reid Thackerson"
+        },
+        {
+          "number": "30",
+          "name": "Jackson Crouch"
+        },
+        {
+          "number": "33",
+          "name": "Kyle Raab"
+        },
+        {
+          "number": "33",
+          "name": "Samuel Murphree"
+        },
+        {
+          "number": "34",
+          "name": "Austin Scott"
+        },
+        {
+          "number": "35",
+          "name": "Clark Missildine"
+        },
+        {
+          "number": "36",
+          "name": "Noah Runyan"
+        },
+        {
+          "number": "37",
+          "name": "Michael Strobel"
+        },
+        {
+          "number": "38",
+          "name": "Ryan Weesner"
+        },
+        {
+          "number": "43",
+          "name": "Trevor Spengeman"
+        },
+        {
+          "number": "45",
+          "name": "Harrison Lott"
+        },
+        {
+          "number": "47",
+          "name": "Joshua Connelly"
+        },
+        {
+          "number": "48",
+          "name": "Peyton Whiteside"
+        },
+        {
+          "number": "55",
+          "name": "Trois White"
+        },
+        {
+          "number": "63",
+          "name": "Jacob Crane"
+        },
+        {
+          "number": "80",
+          "name": "Sam Hertlein"
+        },
+        {
+          "number": "88",
+          "name": "Samuel Boddie"
+        }
+      ]
+    },
+    {
+      "name": "Colorado",
+      "seed": 10,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Mamabird",
+        "location": "Boulder, Colorado",
+        "website": "http://www.mamabird.com/",
+        "facebook": "https://www.facebook.com/University-of-Colorado-Mamabird-361160030582581/?fref=ts",
+        "twitter": "@CUMamabird"
+      },
+      "coaches": [
+        "Michael Lun",
+        "Gabe Stump"
+      ],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Mark Rauls"
+        },
+        {
+          "number": "02",
+          "name": "Alex Tatum"
+        },
+        {
+          "number": "03",
+          "name": "Elliott Woodward"
+        },
+        {
+          "number": "04",
+          "name": "Jack Drumright"
+        },
+        {
+          "number": "06",
+          "name": "Erik Hotaling"
+        },
+        {
+          "number": "07",
+          "name": "Sean Chapel"
+        },
+        {
+          "number": "09",
+          "name": "Matthew Loughridge "
+        },
+        {
+          "number": "10",
+          "name": "Danny Langevin"
+        },
+        {
+          "number": "11",
+          "name": "Joshua Crane"
+        },
+        {
+          "number": "12",
+          "name": "Girish Narayanswamy"
+        },
+        {
+          "number": "13",
+          "name": "Gregory Blumer"
+        },
+        {
+          "number": "15",
+          "name": "Marc Kaylor"
+        },
+        {
+          "number": "16",
+          "name": "Christopher Larson"
+        },
+        {
+          "number": "18",
+          "name": "SAM RHEINS"
+        },
+        {
+          "number": "19",
+          "name": "Isaac Chestler"
+        },
+        {
+          "number": "21",
+          "name": "J Wesley Chow"
+        },
+        {
+          "number": "24",
+          "name": "Mathieu Agee"
+        },
+        {
+          "number": "30",
+          "name": "Jonathan Stirk"
+        },
+        {
+          "number": "33",
+          "name": "Christopher Ward"
+        },
+        {
+          "number": "34",
+          "name": "Michael Fruge"
+        },
+        {
+          "number": "39",
+          "name": "Jack Ziemer"
+        },
+        {
+          "number": "80",
+          "name": "Jeremy Harker"
+        },
+        {
+          "number": "88",
+          "name": "Quinn Finer"
+        }
+      ]
+    },
+    {
+      "name": "Oregon State",
+      "seed": 19,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Beavers",
+        "location": "Corvallis, Oregon",
+        "website": "http://osumensultimate.wix.com/oregon-state-ultimate",
+        "facebook": "https://www.facebook.com/osubeaversultimatedisc",
+        "twitter": "https://twitter.com/OSU_ultimate"
+      },
+      "coaches": [
+        "DANIEL MOZELL",
+        "Andrew Buermeyer"
+      ],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Aaron Peterschmidt"
+        },
+        {
+          "number": "01",
+          "name": "Sam Amaro"
+        },
+        {
+          "number": "03",
+          "name": "Jacob Ramsey"
+        },
+        {
+          "number": "04",
+          "name": "Nick Maher"
+        },
+        {
+          "number": "06",
+          "name": "Eric Callahan"
+        },
+        {
+          "number": "07",
+          "name": "Jacob Wigen"
+        },
+        {
+          "number": "08",
+          "name": "Andrew McCullough"
+        },
+        {
+          "number": "10",
+          "name": "Ryan Rogers"
+        },
+        {
+          "number": "12",
+          "name": "Dan Baumgartner"
+        },
+        {
+          "number": "13",
+          "name": "Jacob Chickadonz"
+        },
+        {
+          "number": "16",
+          "name": "Beryl Terry"
+        },
+        {
+          "number": "17",
+          "name": "Kyle Furukawa"
+        },
+        {
+          "number": "18",
+          "name": "Edward Simpson"
+        },
+        {
+          "number": "19",
+          "name": "Aaron Rogers"
+        },
+        {
+          "number": "24",
+          "name": "Andrew Lewis"
+        },
+        {
+          "number": "25",
+          "name": "William Rowley"
+        },
+        {
+          "number": "26",
+          "name": "Taylor White"
+        },
+        {
+          "number": "30",
+          "name": "Drew Peterschmidt"
+        },
+        {
+          "number": "35",
+          "name": "Kalen Pegeder"
+        },
+        {
+          "number": "36",
+          "name": "Adam Schneiderhan"
+        },
+        {
+          "number": "62",
+          "name": "Quinn Buermeyer"
+        },
+        {
+          "number": "77",
+          "name": "Jack Hubner"
+        },
+        {
+          "number": "89",
+          "name": "David Rong"
+        }
+      ]
+    },
+    {
+      "name": "Minnesota",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Grey Duck",
+        "location": "Minneapolis, Minnesota",
+        "website": "http://mngreyduck.weebly.com/",
+        "facebook": "https://www.facebook.com/MNGreyDuck",
+        "twitter": "@1Duck1Love"
+      },
+      "coaches": [
+        "Tallis Boyd",
+        "Justin Gilbert"
+      ],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Josh Kautz"
+        },
+        {
+          "number": "01",
+          "name": "Charles McCutcheon"
+        },
+        {
+          "number": "02",
+          "name": "Alexander Jirele"
+        },
+        {
+          "number": "03",
+          "name": "Malakai Stern"
+        },
+        {
+          "number": "04",
+          "name": "Benjamin Jagt"
+        },
+        {
+          "number": "05",
+          "name": "Anthony Poletto"
+        },
+        {
+          "number": "06",
+          "name": "Brian Thompson"
+        },
+        {
+          "number": "07",
+          "name": "Zach Trosvig"
+        },
+        {
+          "number": "08",
+          "name": "Cole Wallin"
+        },
+        {
+          "number": "09",
+          "name": "Tom Duret"
+        },
+        {
+          "number": "11",
+          "name": "Sam Kaminsky"
+        },
+        {
+          "number": "12",
+          "name": "Wystan Duhn"
+        },
+        {
+          "number": "13",
+          "name": "Cole Jurek"
+        },
+        {
+          "number": "18",
+          "name": "James Nguyen"
+        },
+        {
+          "number": "19",
+          "name": "Oscar Leinbach"
+        },
+        {
+          "number": "21",
+          "name": "Joshua Pratt"
+        },
+        {
+          "number": "22",
+          "name": "Adam Meckstroth"
+        },
+        {
+          "number": "23",
+          "name": "Saurav Dubey"
+        },
+        {
+          "number": "25",
+          "name": "Jonah Malenfant"
+        },
+        {
+          "number": "28",
+          "name": "Nick Heid"
+        },
+        {
+          "number": "41",
+          "name": "Samuel Bumsted"
+        },
+        {
+          "number": "42",
+          "name": "Thomas Bakko"
+        },
+        {
+          "number": "48",
+          "name": "Wyatt Mekler"
+        },
+        {
+          "number": "88",
+          "name": "Charles Weinberg"
+        },
+        {
+          "number": "99",
+          "name": "Tristan Van De Moortele"
+        }
+      ]
+    },
+    {
+      "name": "Wisconsin",
+      "seed": 9,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Hodags",
+        "location": "Madison, Wisconsin",
+        "website": "www.hodags.org",
+        "facebook": "https://www.facebook.com/Wisconsin-Hodags-118125241585256/",
+        "twitter": "https://twitter.com/hodaglove"
+      },
+      "coaches": [
+        "Hector Valdivia",
+        "Becky LeDonne",
+        "Andrew Brown"
+      ],
+      "roster": [
+        {
+          "number": "01",
+          "name": "Adam Klaus"
+        },
+        {
+          "number": "02",
+          "name": "Branavan Yogarajah"
+        },
+        {
+          "number": "03",
+          "name": "Nicholas Vogt"
+        },
+        {
+          "number": "04",
+          "name": "Nicholas Ladas"
+        },
+        {
+          "number": "05",
+          "name": "Joseph Nelson"
+        },
+        {
+          "number": "06",
+          "name": "Ian Hahn"
+        },
+        {
+          "number": "07",
+          "name": "Avery Johnson"
+        },
+        {
+          "number": "09",
+          "name": "Erik Jorgensen"
+        },
+        {
+          "number": "10",
+          "name": "Sam Hebert"
+        },
+        {
+          "number": "11",
+          "name": "Ben Pavelka"
+        },
+        {
+          "number": "12",
+          "name": "Chris Wilen"
+        },
+        {
+          "number": "13",
+          "name": "David Yu"
+        },
+        {
+          "number": "15",
+          "name": "Jeff Maskalunas"
+        },
+        {
+          "number": "17",
+          "name": "Thomas Gallagher"
+        },
+        {
+          "number": "19",
+          "name": "Andrew Everts"
+        },
+        {
+          "number": "20",
+          "name": "KEVIN CONWAY"
+        },
+        {
+          "number": "21",
+          "name": "Karter Keller"
+        },
+        {
+          "number": "23",
+          "name": "Graeme Kernick"
+        },
+        {
+          "number": "24",
+          "name": "Eric von Kampen"
+        },
+        {
+          "number": "25",
+          "name": "Ross Barker"
+        },
+        {
+          "number": "37",
+          "name": "Jan Szmanda"
+        },
+        {
+          "number": "40",
+          "name": "Cody Milstein"
+        },
+        {
+          "number": "42",
+          "name": "Maddox Hill"
+        },
+        {
+          "number": "49",
+          "name": "John Tan"
+        },
+        {
+          "number": "57",
+          "name": "Austin Reif"
+        }
+      ]
+    },
+    {
+      "name": "Oregon",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Ego",
+        "location": "Eugene, Oregon",
+        "website": "https://ultiworld.com/team/18714/oregon/",
+        "facebook": "https://www.facebook.com/OneBigEgo/",
+        "twitter": "https://twitter.com/egotime"
+      },
+      "coaches": [
+        "Jay Janin"
+      ],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Theodore Sither"
+        },
+        {
+          "number": "02",
+          "name": "Kerry Athey"
+        },
+        {
+          "number": "03",
+          "name": "Duncan Fitzgerald"
+        },
+        {
+          "number": "05",
+          "name": "Logan Chantelois"
+        },
+        {
+          "number": "08",
+          "name": "Kent Mastroianni"
+        },
+        {
+          "number": "09",
+          "name": "Colby Chuck"
+        },
+        {
+          "number": "11",
+          "name": "Tim McGinn"
+        },
+        {
+          "number": "14",
+          "name": "Michael Fielden"
+        },
+        {
+          "number": "15",
+          "name": "Max Moore"
+        },
+        {
+          "number": "17",
+          "name": "Jacob Lambert"
+        },
+        {
+          "number": "21",
+          "name": "Spencer Latarski"
+        },
+        {
+          "number": "22",
+          "name": "Zach Meyer"
+        },
+        {
+          "number": "23",
+          "name": "Xander Cuizon Tice"
+        },
+        {
+          "number": "24",
+          "name": "Adam Rees"
+        },
+        {
+          "number": "25",
+          "name": "Leandro Marx"
+        },
+        {
+          "number": "26",
+          "name": "Colton Clark"
+        },
+        {
+          "number": "32",
+          "name": "Martin Harris"
+        },
+        {
+          "number": "33",
+          "name": "Ben Pettis"
+        },
+        {
+          "number": "42",
+          "name": "Will Lohre"
+        },
+        {
+          "number": "55",
+          "name": "Connor Matthews"
+        },
+        {
+          "number": "57",
+          "name": "Jonathan Aycock"
+        },
+        {
+          "number": "59",
+          "name": "Noah Coolman"
+        },
+        {
+          "number": "69",
+          "name": "Hai Luong"
+        },
+        {
+          "number": "77",
+          "name": "Kit Asterin"
+        },
+        {
+          "number": "80",
+          "name": "Braedon Petrus"
+        },
+        {
+          "number": "88",
+          "name": "Noah Stuart"
+        }
+      ]
+    },
+    {
+      "name": "British Columbia",
+      "seed": 16,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Thunderbirds",
+        "location": "Vancouver, British Columbia CA",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "John Norris"
+      ],
+      "roster": [
+        {
+          "number": "02",
+          "name": "Darren Pun"
+        },
+        {
+          "number": "07",
+          "name": "Victor Cheng"
+        },
+        {
+          "number": "09",
+          "name": "Felix Ma"
+        },
+        {
+          "number": "12",
+          "name": "Connor McFadyen"
+        },
+        {
+          "number": "13",
+          "name": "Kevin Chu"
+        },
+        {
+          "number": "16",
+          "name": "Nicholas Yun"
+        },
+        {
+          "number": "21",
+          "name": "NICHOLAS LIN"
+        },
+        {
+          "number": "22",
+          "name": "Aman Khangura"
+        },
+        {
+          "number": "25",
+          "name": "Eddison Ng"
+        },
+        {
+          "number": "26",
+          "name": "Joshua Lam"
+        },
+        {
+          "number": "27",
+          "name": "Graeme Rennie"
+        },
+        {
+          "number": "28",
+          "name": "Trevor McCann"
+        },
+        {
+          "number": "42",
+          "name": "Steve Farra"
+        },
+        {
+          "number": "55",
+          "name": "Allen Greer"
+        },
+        {
+          "number": "69",
+          "name": "Jordan Zhao"
+        },
+        {
+          "number": "74",
+          "name": "Samuel Creed"
+        },
+        {
+          "number": "77",
+          "name": "Hugh Knapp"
+        },
+        {
+          "number": "81",
+          "name": "Jack  Hou "
+        },
+        {
+          "number": "87",
+          "name": "Brendan Gibson"
+        },
+        {
+          "number": "88",
+          "name": "Patrick Mavety"
+        },
+        {
+          "number": "89",
+          "name": "Kyle Chan"
+        },
+        {
+          "number": "96",
+          "name": "Ryan Hoy"
+        },
+        {
+          "number": "97",
+          "name": "Brian Miura-Wong"
+        }
+      ]
+    },
+    {
+      "name": "Virginia Tech",
+      "seed": 20,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Burn",
+        "location": "Blacksburg, Virginia",
+        "website": "http://vtultimate.wix.com/virginiatechultimate",
+        "facebook": "",
+        "twitter": "https://twitter.com/VTBurn?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+      },
+      "coaches": [
+        "Geoffrey Israel"
+      ],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Tim Slade"
+        },
+        {
+          "number": "02",
+          "name": "Alexander DeLuca"
+        },
+        {
+          "number": "04",
+          "name": "Joe Novak"
+        },
+        {
+          "number": "05",
+          "name": "Owen  Wright"
+        },
+        {
+          "number": "06",
+          "name": "Ryan Rossum"
+        },
+        {
+          "number": "08",
+          "name": "Aaron Arslan"
+        },
+        {
+          "number": "09",
+          "name": "Drew Ledford"
+        },
+        {
+          "number": "12",
+          "name": "Kyle Flynn"
+        },
+        {
+          "number": "13",
+          "name": "David van Pelt"
+        },
+        {
+          "number": "16",
+          "name": "Evan McLean"
+        },
+        {
+          "number": "17",
+          "name": "Colum Bergeron"
+        },
+        {
+          "number": "18",
+          "name": "Tyler Vincent"
+        },
+        {
+          "number": "19",
+          "name": "Ian Connerney"
+        },
+        {
+          "number": "20",
+          "name": "Dylan Hitt"
+        },
+        {
+          "number": "21",
+          "name": "Rhys Bergeron"
+        },
+        {
+          "number": "22",
+          "name": "Ferry Akbar Buchanan"
+        },
+        {
+          "number": "25",
+          "name": "Mike Vignali"
+        },
+        {
+          "number": "27",
+          "name": "Christian Kingett"
+        },
+        {
+          "number": "42",
+          "name": "Joe Freund"
+        },
+        {
+          "number": "43",
+          "name": "Adam Norrbom"
+        },
+        {
+          "number": "54",
+          "name": "Andrew Franco"
+        },
+        {
+          "number": "55",
+          "name": "Christian Gilbertson"
+        },
+        {
+          "number": "69",
+          "name": "Daniel Sablosky"
+        },
+        {
+          "number": "87",
+          "name": "TOBY WHITE"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Massachusetts",
+              "team2": "Washington",
+              "score1": 14,
+              "score2": 12,
+              "datetime": "2017-05-26T10:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Stanford",
+              "team2": "Colorado State",
+              "score1": 15,
+              "score2": 11,
+              "datetime": "2017-05-26T10:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Washington",
+              "team2": "Colorado State",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2017-05-26T14:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Stanford",
+              "team2": "Cal Poly-SLO",
+              "score1": 12,
+              "score2": 10,
+              "datetime": "2017-05-26T14:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Massachusetts",
+              "team2": "Cal Poly-SLO",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2017-05-26T16:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Massachusetts",
+              "team2": "Stanford",
+              "score1": 14,
+              "score2": 11,
+              "datetime": "2017-05-27T08:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Washington",
+              "team2": "Cal Poly-SLO",
+              "score1": 14,
+              "score2": 16,
+              "datetime": "2017-05-27T08:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Massachusetts",
+              "team2": "Colorado State",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2017-05-27T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Washington",
+              "team2": "Stanford",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2017-05-27T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Colorado State",
+              "team2": "Cal Poly-SLO",
+              "score1": 11,
+              "score2": 15,
+              "datetime": "2017-05-27T14:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool B",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Pittsburgh",
+              "team2": "Connecticut",
+              "score1": 15,
+              "score2": 5,
+              "datetime": "2017-05-26T08:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Michigan",
+              "team2": "Texas A&M",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2017-05-26T08:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Pittsburgh",
+              "team2": "Michigan",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2017-05-26T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "North Carolina-Wilmington",
+              "team2": "Texas A&M",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2017-05-26T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "North Carolina-Wilmington",
+              "team2": "Connecticut",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2017-05-26T16:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Pittsburgh",
+              "team2": "North Carolina-Wilmington",
+              "score1": 13,
+              "score2": 15,
+              "datetime": "2017-05-27T10:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Michigan",
+              "team2": "Connecticut",
+              "score1": 14,
+              "score2": 13,
+              "datetime": "2017-05-27T10:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Texas A&M",
+              "team2": "Connecticut",
+              "score1": 14,
+              "score2": 11,
+              "datetime": "2017-05-27T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Michigan",
+              "team2": "North Carolina-Wilmington",
+              "score1": 7,
+              "score2": 15,
+              "datetime": "2017-05-27T14:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Pittsburgh",
+              "team2": "Texas A&M",
+              "score1": 13,
+              "score2": 10,
+              "datetime": "2017-05-27T14:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool C",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Carleton College",
+              "team2": "Auburn",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2017-05-26T10:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Colorado",
+              "team2": "Oregon State",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2017-05-26T10:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "North Carolina",
+              "team2": "Carleton College",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2017-05-26T14:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Colorado",
+              "team2": "Auburn",
+              "score1": 13,
+              "score2": 14,
+              "datetime": "2017-05-26T14:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "North Carolina",
+              "team2": "Oregon State",
+              "score1": 14,
+              "score2": 6,
+              "datetime": "2017-05-26T16:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Auburn",
+              "team2": "Oregon State",
+              "score1": 15,
+              "score2": 11,
+              "datetime": "2017-05-27T08:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "North Carolina",
+              "team2": "Colorado",
+              "score1": 12,
+              "score2": 13,
+              "datetime": "2017-05-27T10:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Carleton College",
+              "team2": "Oregon State",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2017-05-27T10:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "North Carolina",
+              "team2": "Auburn",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2017-05-27T14:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Carleton College",
+              "team2": "Colorado",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2017-05-27T14:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool D",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Oregon",
+              "team2": "British Columbia",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2017-05-26T08:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Wisconsin",
+              "team2": "Virginia Tech",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2017-05-26T08:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Minnesota",
+              "team2": "Virginia Tech",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2017-05-26T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Wisconsin",
+              "team2": "British Columbia",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2017-05-26T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Minnesota",
+              "team2": "Oregon",
+              "score1": 15,
+              "score2": 11,
+              "datetime": "2017-05-26T16:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Minnesota",
+              "team2": "Wisconsin",
+              "score1": 15,
+              "score2": 13,
+              "datetime": "2017-05-27T08:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "British Columbia",
+              "team2": "Virginia Tech",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2017-05-27T08:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Oregon",
+              "team2": "Virginia Tech",
+              "score1": 15,
+              "score2": 6,
+              "datetime": "2017-05-27T10:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Minnesota",
+              "team2": "British Columbia",
+              "score1": 9,
+              "score2": 15,
+              "datetime": "2017-05-27T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Oregon",
+              "team2": "Wisconsin",
+              "score1": 14,
+              "score2": 16,
+              "datetime": "2017-05-27T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Championship Bracket",
+      "groups": [
+        {
+          "name": "Championship Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Carleton College",
+              "team2": "North Carolina-Wilmington",
+              "score1": 15,
+              "score2": 11,
+              "datetime": "2017-05-29T17:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Massachusetts",
+              "team2": "Carleton College",
+              "score1": 14,
+              "score2": 15,
+              "datetime": "2017-05-28T14:00:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "North Carolina",
+              "team2": "North Carolina-Wilmington",
+              "score1": 13,
+              "score2": 14,
+              "datetime": "2017-05-28T20:00:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Pittsburgh",
+              "team2": "Massachusetts",
+              "score1": 11,
+              "score2": 13,
+              "datetime": "2017-05-28T08:30:00Z",
+              "round": "Quarters",
+              "status": "Final"
+            },
+            {
+              "team1": "Carleton College",
+              "team2": "Minnesota",
+              "score1": 12,
+              "score2": 10,
+              "datetime": "2017-05-28T08:30:00Z",
+              "round": "Quarters",
+              "status": "Final"
+            },
+            {
+              "team1": "Wisconsin",
+              "team2": "North Carolina",
+              "score1": 14,
+              "score2": 15,
+              "datetime": "2017-05-28T08:30:00Z",
+              "round": "Quarters",
+              "status": "Final"
+            },
+            {
+              "team1": "Washington",
+              "team2": "North Carolina-Wilmington",
+              "score1": 10,
+              "score2": 15,
+              "datetime": "2017-05-28T08:30:00Z",
+              "round": "Quarters",
+              "status": "Final"
+            },
+            {
+              "team1": "Pittsburgh",
+              "team2": "Auburn",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2017-05-27T17:15:00Z",
+              "round": "Prequarters",
+              "status": "Final"
+            },
+            {
+              "team1": "Carleton College",
+              "team2": "Michigan",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2017-05-27T17:15:00Z",
+              "round": "Prequarters",
+              "status": "Final"
+            },
+            {
+              "team1": "Wisconsin",
+              "team2": "Cal Poly-SLO",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2017-05-27T17:15:00Z",
+              "round": "Prequarters",
+              "status": "Final"
+            },
+            {
+              "team1": "Washington",
+              "team2": "Oregon",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2017-05-27T17:15:00Z",
+              "round": "Prequarters",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Placement Brackets",
+      "groups": [
+        {
+          "name": "Placement Game #1",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Stanford",
+              "team2": "Virginia Tech",
+              "score1": 15,
+              "score2": 13,
+              "datetime": "2017-05-28T08:30:00Z",
+              "round": "Placement Game #1",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Placement Game #2",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Connecticut",
+              "team2": "Colorado",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2017-05-27T17:15:00Z",
+              "round": "Placement Game #2",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Placement Game #3",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "British Columbia",
+              "team2": "Colorado State",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2017-05-27T17:15:00Z",
+              "round": "Placement Game #3",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Placement Game #4",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Oregon State",
+              "team2": "Texas A&M",
+              "score1": 12,
+              "score2": 15,
+              "datetime": "2017-05-28T08:30:00Z",
+              "round": "Placement Game #4",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

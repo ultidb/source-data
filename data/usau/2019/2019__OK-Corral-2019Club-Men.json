@@ -1,0 +1,214 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2019/OK-Corral-2019Club-Men",
+  "sourceUrl": "https://play.usaultimate.org/events/OK-Corral-2019/schedule/Men/Club-Men/",
+  "scrapedAt": "2026-08-28T10:06:16.845931Z",
+  "event": {
+    "name": "OK Corral 2019",
+    "division": "Club - Men ",
+    "gender": "",
+    "season": 2019,
+    "city": "Tulsa",
+    "state": "OK",
+    "country": "",
+    "startDate": "2019-07-13",
+    "endDate": "2019-07-14"
+  },
+  "teams": [
+    {
+      "name": "Rawhide",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Tulsa, Oklahoma",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Christopher Call"
+        },
+        {
+          "number": "0",
+          "name": "Daniel Searcy"
+        },
+        {
+          "number": "0",
+          "name": "J. Søren Viuf"
+        },
+        {
+          "number": "6",
+          "name": "Gavin Walker"
+        },
+        {
+          "number": "8",
+          "name": "josh pixley"
+        },
+        {
+          "number": "10",
+          "name": "Daniel Nichols"
+        },
+        {
+          "number": "14",
+          "name": "Robert Housh"
+        },
+        {
+          "number": "22",
+          "name": "Nick Krause"
+        },
+        {
+          "number": "23",
+          "name": "Terrell Hoagland"
+        },
+        {
+          "number": "32",
+          "name": "Mike Jaris"
+        },
+        {
+          "number": "33",
+          "name": "Marcus Smith"
+        }
+      ]
+    },
+    {
+      "name": "Supercell",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Oklahoma City, Oklahoma",
+        "website": "",
+        "facebook": "",
+        "twitter": "@SuperCellOKC"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Brian McHatton"
+        },
+        {
+          "number": "0",
+          "name": "Collin Dabbieri"
+        },
+        {
+          "number": "0",
+          "name": "Jacob Pleasant"
+        },
+        {
+          "number": "0",
+          "name": "J.D. Ingendorf"
+        },
+        {
+          "number": "0",
+          "name": "Matthew Beckner"
+        },
+        {
+          "number": "0",
+          "name": "Nathaniel Loyd"
+        },
+        {
+          "number": "0",
+          "name": "Robert Taylor"
+        },
+        {
+          "number": "0",
+          "name": "Zachary Freistedt"
+        },
+        {
+          "number": "4",
+          "name": "Frankie Fermo"
+        },
+        {
+          "number": "24",
+          "name": "Kong Hui Lim"
+        },
+        {
+          "number": "25",
+          "name": "Daniel Pfaff"
+        },
+        {
+          "number": "31",
+          "name": "Christopher Leonard"
+        },
+        {
+          "number": "69",
+          "name": "Jonathan Grill"
+        },
+        {
+          "number": "96",
+          "name": "Austin Gould"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "clusters",
+      "name": "Friday Night",
+      "groups": [
+        {
+          "name": "Friday Night",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Rawhide",
+              "team2": "Supercell",
+              "score1": 9,
+              "score2": 11,
+              "datetime": "2019-07-12T20:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Rawhide",
+              "team2": "Supercell",
+              "score1": 12,
+              "score2": 13,
+              "datetime": "2019-07-12T21:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "clusters",
+      "name": "Crossover Round",
+      "groups": [
+        {
+          "name": "Crossover Round",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Rawhide",
+              "team2": "Supercell",
+              "score1": 10,
+              "score2": 11,
+              "datetime": "2019-07-13T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Rawhide",
+              "team2": "Supercell",
+              "score1": 11,
+              "score2": 10,
+              "datetime": "2019-07-13T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

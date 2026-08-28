@@ -1,0 +1,256 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2016/Valley-Ultimate-Dark-or-Light-RR-2016Club-Men",
+  "sourceUrl": "https://play.usaultimate.org/events/Valley-Ultimate-Dark-or-Light-RR-2016/schedule/Men/Club-Men/",
+  "scrapedAt": "2026-08-28T10:06:13.969035Z",
+  "event": {
+    "name": "Valley Ultimate Dark or Light RR 2016",
+    "division": "Club - Men ",
+    "gender": "",
+    "season": 2016,
+    "city": "Northampton",
+    "state": "MA",
+    "country": "",
+    "startDate": "2016-08-07",
+    "endDate": "2016-08-07"
+  },
+  "teams": [
+    {
+      "name": "Colt",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Southington, Connecticut",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Jonathan Figueroa"
+        },
+        {
+          "number": "0",
+          "name": "Luke Diorio"
+        },
+        {
+          "number": "0",
+          "name": "Ross Littauer"
+        },
+        {
+          "number": "0",
+          "name": "Corey Danko"
+        },
+        {
+          "number": "0",
+          "name": "Gavin Clemmey"
+        },
+        {
+          "number": "0",
+          "name": "Christopher Enderby"
+        },
+        {
+          "number": "0",
+          "name": "Garrett Bowen"
+        },
+        {
+          "number": "0",
+          "name": "Daniel Hartsoe"
+        },
+        {
+          "number": "0",
+          "name": "Kyle Saroka"
+        },
+        {
+          "number": "1",
+          "name": "Bryan Forman"
+        },
+        {
+          "number": "2",
+          "name": "Andrew Thai"
+        },
+        {
+          "number": "7",
+          "name": "Ricky Lewandowski"
+        },
+        {
+          "number": "14",
+          "name": "Joseph Ouellette"
+        },
+        {
+          "number": "20",
+          "name": "Will Percival"
+        },
+        {
+          "number": "25",
+          "name": "Jake Hansen"
+        },
+        {
+          "number": "25",
+          "name": "Richard McFadden"
+        },
+        {
+          "number": "27",
+          "name": "Jeffrey Adams"
+        },
+        {
+          "number": "28",
+          "name": "Ben Weyers"
+        },
+        {
+          "number": "32",
+          "name": "Zach Grappone"
+        },
+        {
+          "number": "37",
+          "name": "David Griffin"
+        },
+        {
+          "number": "50",
+          "name": "Brendan Loyot"
+        },
+        {
+          "number": "52",
+          "name": "Ryan Strobel"
+        },
+        {
+          "number": "66",
+          "name": "Garrett Santi"
+        },
+        {
+          "number": "80",
+          "name": "Joseph Kane"
+        },
+        {
+          "number": "99",
+          "name": "Timmer Farrell"
+        }
+      ]
+    },
+    {
+      "name": "Dark or Light",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Amherst, Massachusetts",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/DorLultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Micah Flynn"
+        },
+        {
+          "number": "0",
+          "name": "Leland Rege-Colt"
+        },
+        {
+          "number": "0",
+          "name": "Wesley Johnson"
+        },
+        {
+          "number": "0",
+          "name": "Zachary Dietz"
+        },
+        {
+          "number": "0",
+          "name": "Jeremiah Berlin"
+        },
+        {
+          "number": "0",
+          "name": "Greg Wobst"
+        },
+        {
+          "number": "0",
+          "name": "Evan Johnson"
+        },
+        {
+          "number": "0",
+          "name": "GEORGE MILNE"
+        },
+        {
+          "number": "0",
+          "name": "Isaiah Robison"
+        },
+        {
+          "number": "0",
+          "name": "Amos Adams"
+        },
+        {
+          "number": "0",
+          "name": "Joe Costello"
+        },
+        {
+          "number": "0",
+          "name": "Chandler Thoma"
+        },
+        {
+          "number": "0",
+          "name": "Timothy Bobrowski"
+        },
+        {
+          "number": "7",
+          "name": "Zach Levitt"
+        },
+        {
+          "number": "9",
+          "name": "Robin Stewart-Demartino"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "1",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Colt",
+              "team2": "Dark or Light",
+              "score1": 15,
+              "score2": 13,
+              "datetime": "2016-08-07T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "pools",
+      "name": "2",
+      "groups": [
+        {
+          "name": "Pool B",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Colt",
+              "team2": "Dark or Light",
+              "score1": 15,
+              "score2": 17,
+              "datetime": "2016-08-07T13:15:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

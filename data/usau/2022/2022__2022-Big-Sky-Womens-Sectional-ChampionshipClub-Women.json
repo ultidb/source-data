@@ -1,0 +1,255 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2022/2022-Big-Sky-Womens-Sectional-ChampionshipClub-Women",
+  "sourceUrl": "https://play.usaultimate.org/events/2022-Big-Sky-Womens-Sectional-Championship/schedule/Women/Club-Women/",
+  "scrapedAt": "2026-08-28T10:06:18.034035Z",
+  "event": {
+    "name": "2022 Big Sky Women's Sectional Championship",
+    "division": "Club - Women ",
+    "gender": "",
+    "season": 2022,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "country": "",
+    "startDate": "2022-09-10",
+    "endDate": "2022-09-10"
+  },
+  "teams": [
+    {
+      "name": "Swell",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Salt Lake City, Utah",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": " ",
+          "name": "Brooke Stanislawski"
+        },
+        {
+          "number": " ",
+          "name": "Courtney Connole"
+        },
+        {
+          "number": " ",
+          "name": "Ellie Sjordal "
+        },
+        {
+          "number": " ",
+          "name": "Gabrielle Aufderheide"
+        },
+        {
+          "number": " ",
+          "name": "Jessica Horii"
+        },
+        {
+          "number": " ",
+          "name": "Kate Barry"
+        },
+        {
+          "number": " ",
+          "name": "Kate Moulton"
+        },
+        {
+          "number": " ",
+          "name": "Katie Dooley"
+        },
+        {
+          "number": " ",
+          "name": "Kellie Koester"
+        },
+        {
+          "number": " ",
+          "name": "Leah Smith"
+        },
+        {
+          "number": " ",
+          "name": "LeeAnn Dempsey"
+        },
+        {
+          "number": " ",
+          "name": "Mackenzie Perkett"
+        },
+        {
+          "number": " ",
+          "name": "Sailor Ong"
+        },
+        {
+          "number": "17",
+          "name": "Erica Bindas"
+        },
+        {
+          "number": "19",
+          "name": "Hannah Bruns"
+        },
+        {
+          "number": "23",
+          "name": "Iszabella Kemp"
+        },
+        {
+          "number": "25",
+          "name": "Madeline Paskett"
+        },
+        {
+          "number": "29",
+          "name": "Kelly  Barton"
+        },
+        {
+          "number": "29",
+          "name": "Brittany McCready"
+        },
+        {
+          "number": "81",
+          "name": "Autumn Saunders"
+        }
+      ]
+    },
+    {
+      "name": "Seven Devils",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Boise, Idaho",
+        "website": "",
+        "facebook": "https://www.facebook.com/sevendevilsultimate",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": " ",
+          "name": "Annaleigh Bawcom"
+        },
+        {
+          "number": " ",
+          "name": "Bridget Benson"
+        },
+        {
+          "number": "0",
+          "name": "Chantelle Salas"
+        },
+        {
+          "number": "0",
+          "name": "Breanna Young"
+        },
+        {
+          "number": "0",
+          "name": "Elise Morrow"
+        },
+        {
+          "number": "0",
+          "name": "Jamie Yurick"
+        },
+        {
+          "number": "0",
+          "name": "Kat Urquhart"
+        },
+        {
+          "number": "0",
+          "name": "Kelly Saunders"
+        },
+        {
+          "number": "0",
+          "name": "Kristine Kornmann"
+        },
+        {
+          "number": "0",
+          "name": "Monica Tenaya"
+        },
+        {
+          "number": "0",
+          "name": "Rebekah Spille"
+        },
+        {
+          "number": "0",
+          "name": "Vespera Aragon"
+        },
+        {
+          "number": "26",
+          "name": "Jasmine Reyes"
+        },
+        {
+          "number": "26",
+          "name": "Amanda Ritter"
+        },
+        {
+          "number": "28",
+          "name": "Rebekah Beacham"
+        },
+        {
+          "number": "30",
+          "name": "Morgan DeMell"
+        },
+        {
+          "number": "33",
+          "name": "Amy Norris"
+        },
+        {
+          "number": "35",
+          "name": "Meredith Collier"
+        },
+        {
+          "number": "56",
+          "name": "Anna Liu"
+        },
+        {
+          "number": "59",
+          "name": "Kelsey Breen"
+        },
+        {
+          "number": "62",
+          "name": "Shannon Montaño"
+        },
+        {
+          "number": "69",
+          "name": "Courtney Grubbs"
+        },
+        {
+          "number": "77",
+          "name": "Amanda Porter"
+        },
+        {
+          "number": "80",
+          "name": "Jessica Zahn"
+        },
+        {
+          "number": "97",
+          "name": "Lou Green"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "brackets",
+      "name": "Championship Game",
+      "groups": [
+        {
+          "name": "Championship Game",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Swell",
+              "team2": "Seven Devils",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2022-09-10T13:00:00Z",
+              "round": "Round 1",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

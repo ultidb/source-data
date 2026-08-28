@@ -1,0 +1,880 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2018/Air-Force-Invite-2018CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/Air-Force-Invite-2018/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:15.248229Z",
+  "event": {
+    "name": "Air Force Invite 2018",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2018,
+    "city": "USAF Academy",
+    "state": "CO",
+    "country": "",
+    "startDate": "2018-03-03",
+    "endDate": "2018-03-04"
+  },
+  "teams": [
+    {
+      "name": "Air Force",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Afterburn",
+        "location": "USAF Academy, Colorado",
+        "website": "http://airforceultimate.webs.com/",
+        "facebook": "https://www.facebook.com/AirForceUltimate",
+        "twitter": "https://twitter.com/AFU_Afterburn"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "3",
+          "name": "Zach Arns"
+        },
+        {
+          "number": "5",
+          "name": "Trevor Browning"
+        },
+        {
+          "number": "7",
+          "name": "Michael Delatte"
+        },
+        {
+          "number": "9",
+          "name": "Keanu Komar"
+        },
+        {
+          "number": "04",
+          "name": "Kainoa Chun-Moy"
+        },
+        {
+          "number": "13",
+          "name": "Connor Grant"
+        },
+        {
+          "number": "17",
+          "name": "Michael Higgins"
+        },
+        {
+          "number": "17",
+          "name": "Theodore Jantscher"
+        },
+        {
+          "number": "20",
+          "name": "Justin Blasius"
+        },
+        {
+          "number": "21",
+          "name": "Christopher Delgado"
+        },
+        {
+          "number": "23",
+          "name": "Matthew Frierson"
+        },
+        {
+          "number": "27",
+          "name": "Josh Alsleben"
+        },
+        {
+          "number": "34",
+          "name": "Matthew Moshea"
+        },
+        {
+          "number": "36",
+          "name": "William Cooper"
+        },
+        {
+          "number": "42",
+          "name": "Alan Villanueva"
+        },
+        {
+          "number": "43",
+          "name": "Charles Wasz"
+        },
+        {
+          "number": "88",
+          "name": "Juan Ramos"
+        },
+        {
+          "number": "99",
+          "name": "Spencer Yacos"
+        }
+      ]
+    },
+    {
+      "name": "Colorado College",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Wasabi",
+        "location": "Colorado Springs, Colorado",
+        "website": "",
+        "facebook": "www.facebook.com/WasabiUltimate",
+        "twitter": ""
+      },
+      "coaches": [
+        "Ethan Taylor-Pierce",
+        "Phillip Korolog",
+        "Sam Hale"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Andrew Bolte"
+        },
+        {
+          "number": "0",
+          "name": "Augustus Catlin"
+        },
+        {
+          "number": "0",
+          "name": "Benjamin Brandt"
+        },
+        {
+          "number": "0",
+          "name": "Chris Pleasance"
+        },
+        {
+          "number": "0",
+          "name": "Connor Nolan"
+        },
+        {
+          "number": "0",
+          "name": "Dakota Damato"
+        },
+        {
+          "number": "0",
+          "name": "Damian Damato"
+        },
+        {
+          "number": "0",
+          "name": "David Henderson"
+        },
+        {
+          "number": "0",
+          "name": "Gabe Poehls"
+        },
+        {
+          "number": "0",
+          "name": "Gabriel McGill"
+        },
+        {
+          "number": "0",
+          "name": "Luke Strohbehn"
+        },
+        {
+          "number": "0",
+          "name": "Orren Fox"
+        },
+        {
+          "number": "0",
+          "name": "Patrick Mahoney"
+        },
+        {
+          "number": "0",
+          "name": "Patrick Ende"
+        },
+        {
+          "number": "0",
+          "name": "Shane Eckert"
+        },
+        {
+          "number": "0",
+          "name": "Skyler Stark-Ragsdale"
+        },
+        {
+          "number": "0",
+          "name": "Tamman Montanaro"
+        },
+        {
+          "number": "0",
+          "name": "Trystan Alexander"
+        },
+        {
+          "number": "0",
+          "name": "Zachariah Benevento-Zahner"
+        },
+        {
+          "number": "16",
+          "name": "Sam  Pfeifer"
+        },
+        {
+          "number": "19",
+          "name": "Danny Rodriguez"
+        },
+        {
+          "number": "26",
+          "name": "David Sachs"
+        },
+        {
+          "number": "29",
+          "name": "Grant Mitchell"
+        },
+        {
+          "number": "50",
+          "name": "Carl Anderson"
+        },
+        {
+          "number": "56",
+          "name": "Landis Hackett"
+        },
+        {
+          "number": "73",
+          "name": "Jason Bair"
+        }
+      ]
+    },
+    {
+      "name": "Colorado School of Mines",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Entropy",
+        "location": "Golden, Colorado",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "Aaron (AJ) Abraham"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Adam Parler"
+        },
+        {
+          "number": "0",
+          "name": "Caleb Sanders"
+        },
+        {
+          "number": "0",
+          "name": "Cameron Beaton"
+        },
+        {
+          "number": "0",
+          "name": "Frank Reddy"
+        },
+        {
+          "number": "0",
+          "name": "Ian Kellogg"
+        },
+        {
+          "number": "0",
+          "name": "Jack Girard"
+        },
+        {
+          "number": "0",
+          "name": "Matthew Lambert"
+        },
+        {
+          "number": "0",
+          "name": "Morgan Cox"
+        },
+        {
+          "number": "0",
+          "name": "Randy Lemons"
+        },
+        {
+          "number": "0",
+          "name": "Sean Kopel"
+        },
+        {
+          "number": "0",
+          "name": "Sean Hinkle"
+        },
+        {
+          "number": "0",
+          "name": "Zacary Parkhill"
+        },
+        {
+          "number": "0",
+          "name": "Zachary Cotter"
+        },
+        {
+          "number": "2",
+          "name": "Tom Parry"
+        },
+        {
+          "number": "5",
+          "name": "Scott Jarriel"
+        },
+        {
+          "number": "5",
+          "name": "Jonathon McNabb"
+        },
+        {
+          "number": "11",
+          "name": "Caleb Bevers"
+        },
+        {
+          "number": "12",
+          "name": "Clayton Howeth"
+        },
+        {
+          "number": "12",
+          "name": "Nikos Jordan"
+        },
+        {
+          "number": "26",
+          "name": "Weston Mauz"
+        },
+        {
+          "number": "32",
+          "name": "Zachary Aparicio"
+        },
+        {
+          "number": "42",
+          "name": "Mark Jeska"
+        },
+        {
+          "number": "56",
+          "name": "John Arndt"
+        },
+        {
+          "number": "66",
+          "name": "Parker Damon"
+        },
+        {
+          "number": "69",
+          "name": "Noah Traeger"
+        },
+        {
+          "number": "69",
+          "name": "Nathan Giffin"
+        },
+        {
+          "number": "69",
+          "name": "Jared Parrish"
+        },
+        {
+          "number": "77",
+          "name": "Thomas Hennen"
+        },
+        {
+          "number": "91",
+          "name": "Tanner Cook"
+        }
+      ]
+    },
+    {
+      "name": "Colorado (B)",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Mamabird - B",
+        "location": "Boulder, Colorado",
+        "website": "www.mamabird.com",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alasdair Gourlay"
+        },
+        {
+          "number": "0",
+          "name": "Alex Bozik"
+        },
+        {
+          "number": "0",
+          "name": "Alexander Nichols"
+        },
+        {
+          "number": "0",
+          "name": "Chase Roedel"
+        },
+        {
+          "number": "0",
+          "name": "Connor Myers"
+        },
+        {
+          "number": "0",
+          "name": "Danny Auther"
+        },
+        {
+          "number": "0",
+          "name": "David Swalm"
+        },
+        {
+          "number": "0",
+          "name": "Graham Fee"
+        },
+        {
+          "number": "0",
+          "name": "James Boulter"
+        },
+        {
+          "number": "0",
+          "name": "Justin Greer"
+        },
+        {
+          "number": "0",
+          "name": "Kurt Vetrano"
+        },
+        {
+          "number": "0",
+          "name": "Kyle Kravit"
+        },
+        {
+          "number": "0",
+          "name": "Lucas Robbins"
+        },
+        {
+          "number": "0",
+          "name": "Luke Engelken"
+        },
+        {
+          "number": "0",
+          "name": "Matthew Voiles"
+        },
+        {
+          "number": "0",
+          "name": "Tyler Nguyen"
+        },
+        {
+          "number": "0",
+          "name": "Will Tidey"
+        },
+        {
+          "number": "0",
+          "name": "Will Sweeney"
+        },
+        {
+          "number": "0",
+          "name": "Sam Swisher"
+        },
+        {
+          "number": "1",
+          "name": "Jack Ostrand"
+        },
+        {
+          "number": "3",
+          "name": "Charlie Peters"
+        },
+        {
+          "number": "5",
+          "name": "Son Nguyen"
+        },
+        {
+          "number": "8",
+          "name": "Andrew Soto"
+        },
+        {
+          "number": "9",
+          "name": "Andrew  Thorson"
+        },
+        {
+          "number": "11",
+          "name": "Mesa Martorell"
+        },
+        {
+          "number": "11",
+          "name": "Guanxiong Fu"
+        },
+        {
+          "number": "12",
+          "name": "Graham Buhse"
+        },
+        {
+          "number": "18",
+          "name": "Jakob Rheins"
+        },
+        {
+          "number": "98",
+          "name": "Zachary Davis"
+        }
+      ]
+    },
+    {
+      "name": "Air Force Academy (B)",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Virgin Airlines",
+        "location": "USAF Academy, Colorado",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Caden Kulp"
+        },
+        {
+          "number": "0",
+          "name": "Caston Casey"
+        },
+        {
+          "number": "0",
+          "name": "Daniel  Saks"
+        },
+        {
+          "number": "0",
+          "name": "Gage Flaming"
+        },
+        {
+          "number": "0",
+          "name": "Joshua Vaden"
+        },
+        {
+          "number": "0",
+          "name": "Karl Boerwinkle"
+        },
+        {
+          "number": "0",
+          "name": "Philip Hawthorne"
+        },
+        {
+          "number": "0",
+          "name": "Robert Warner"
+        },
+        {
+          "number": "0",
+          "name": "Solomon Hanson"
+        },
+        {
+          "number": "0",
+          "name": "Wyatt Lake"
+        },
+        {
+          "number": "26",
+          "name": "Matthew Chmiel"
+        }
+      ]
+    },
+    {
+      "name": "Colorado Mesa University",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Colorado Mesa Ultimate Frisbee",
+        "location": "Grand Junction, Colorado",
+        "website": "",
+        "facebook": "https://www.facebook.com/groups/1497755066947633/",
+        "twitter": ""
+      },
+      "coaches": [
+        "Kirk Blais"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Caleb Barnes"
+        },
+        {
+          "number": "0",
+          "name": "Erika Esquinca"
+        },
+        {
+          "number": "0",
+          "name": "Philip Nelson"
+        },
+        {
+          "number": "0",
+          "name": "Riley Scarfe"
+        },
+        {
+          "number": "0",
+          "name": "Steven McKenzie"
+        },
+        {
+          "number": "0",
+          "name": "Thomas Hook"
+        },
+        {
+          "number": "0",
+          "name": "Vince Giandonato"
+        },
+        {
+          "number": "0",
+          "name": "Yoav Sterer"
+        },
+        {
+          "number": "3",
+          "name": "Justin Mestnik"
+        },
+        {
+          "number": "4",
+          "name": "Brett Thornton"
+        },
+        {
+          "number": "5",
+          "name": "Jeff Reed"
+        },
+        {
+          "number": "9",
+          "name": "Rhett Dacuag"
+        },
+        {
+          "number": "03",
+          "name": "Nathan Ploeger"
+        },
+        {
+          "number": "14",
+          "name": "Jacob Cotner"
+        },
+        {
+          "number": "19",
+          "name": "Mo Beinlich"
+        },
+        {
+          "number": "47",
+          "name": "Lucas Parnell"
+        },
+        {
+          "number": "69",
+          "name": "Jared Milonas"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Colorado Mesa University",
+              "team2": "Air Force Academy (B)",
+              "score1": 9,
+              "score2": 10,
+              "datetime": "2018-03-03T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Air Force",
+              "team2": "Colorado School of Mines",
+              "score1": 12,
+              "score2": 10,
+              "datetime": "2018-03-03T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Colorado College",
+              "team2": "Colorado (B)",
+              "score1": 9,
+              "score2": 6,
+              "datetime": "2018-03-03T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Air Force",
+              "team2": "Colorado College",
+              "score1": 13,
+              "score2": 2,
+              "datetime": "2018-03-03T11:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Colorado School of Mines",
+              "team2": "Colorado Mesa University",
+              "score1": 13,
+              "score2": 3,
+              "datetime": "2018-03-03T11:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Colorado (B)",
+              "team2": "Air Force Academy (B)",
+              "score1": 10,
+              "score2": 2,
+              "datetime": "2018-03-03T11:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Air Force",
+              "team2": "Colorado Mesa University",
+              "score1": 13,
+              "score2": 1,
+              "datetime": "2018-03-03T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Colorado College",
+              "team2": "Air Force Academy (B)",
+              "score1": 13,
+              "score2": 1,
+              "datetime": "2018-03-03T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Colorado School of Mines",
+              "team2": "Colorado (B)",
+              "score1": 9,
+              "score2": 4,
+              "datetime": "2018-03-03T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Colorado College",
+              "team2": "Colorado School of Mines",
+              "score1": 11,
+              "score2": 5,
+              "datetime": "2018-03-03T14:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Colorado Mesa University",
+              "team2": "Colorado (B)",
+              "score1": 2,
+              "score2": 12,
+              "datetime": "2018-03-03T14:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Air Force",
+              "team2": "Air Force Academy (B)",
+              "score1": 13,
+              "score2": 0,
+              "datetime": "2018-03-03T14:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Colorado College",
+              "team2": "Colorado Mesa University",
+              "score1": 11,
+              "score2": 5,
+              "datetime": "2018-03-04T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Air Force",
+              "team2": "Colorado (B)",
+              "score1": 13,
+              "score2": 3,
+              "datetime": "2018-03-04T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Colorado School of Mines",
+              "team2": "Air Force Academy (B)",
+              "score1": 10,
+              "score2": 5,
+              "datetime": "2018-03-04T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Bracket Play",
+      "groups": [
+        {
+          "name": "Bracket Play",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Air Force",
+              "team2": "Colorado College",
+              "score1": 12,
+              "score2": 8,
+              "datetime": "2018-03-04T14:30:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Air Force",
+              "team2": "Colorado (B)",
+              "score1": 10,
+              "score2": 9,
+              "datetime": "2018-03-04T13:00:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Colorado School of Mines",
+              "team2": "Colorado College",
+              "score1": 5,
+              "score2": 6,
+              "datetime": "2018-03-04T13:00:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Colorado (B)",
+              "team2": "Air Force Academy (B)",
+              "score1": 7,
+              "score2": 4,
+              "datetime": "2018-03-04T11:30:00Z",
+              "round": "Quarterfinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Colorado School of Mines",
+              "team2": "Colorado Mesa University",
+              "score1": 10,
+              "score2": 6,
+              "datetime": "2018-03-04T11:30:00Z",
+              "round": "Quarterfinals",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "5th Place Game",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Air Force Academy (B)",
+              "team2": "Colorado Mesa University",
+              "score1": 4,
+              "score2": 7,
+              "datetime": "2018-03-04T13:00:00Z",
+              "round": "Consolation Games",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "3rd Place Game",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Colorado (B)",
+              "team2": "Colorado School of Mines",
+              "score1": 0,
+              "score2": 1,
+              "datetime": "2018-03-04T14:30:00Z",
+              "round": "Consolation 2:30pm",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

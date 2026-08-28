@@ -1,0 +1,281 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2017/Mid-Atlantic-Mixed-Masters-Regional-ChampionshipsMasters-Mixed",
+  "sourceUrl": "https://play.usaultimate.org/events/Mid-Atlantic-Mixed-Masters-Regional-Championships/schedule/Mixed/Masters-Mixed/",
+  "scrapedAt": "2026-08-28T10:06:14.651829Z",
+  "event": {
+    "name": "Mid-Atlantic Mixed Masters Regional Championships 2017",
+    "division": "Masters - Mixed ",
+    "gender": "",
+    "season": 2017,
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "",
+    "startDate": "2017-06-24",
+    "endDate": "2017-06-25"
+  },
+  "teams": [
+    {
+      "name": "Old DErty People",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Wilmington, Delaware",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "AUDREY INDEN"
+        },
+        {
+          "number": "0",
+          "name": "Elise Colomb"
+        },
+        {
+          "number": "0",
+          "name": "Eric Gallagher"
+        },
+        {
+          "number": "0",
+          "name": "Kristen Frentzel"
+        },
+        {
+          "number": "0",
+          "name": "Tina Yen"
+        },
+        {
+          "number": "2",
+          "name": "Darrell Thomas"
+        },
+        {
+          "number": "4",
+          "name": "Kristen Dean"
+        },
+        {
+          "number": "5",
+          "name": "JULIE LAUGHNER"
+        },
+        {
+          "number": "6",
+          "name": "Melanie Frost"
+        },
+        {
+          "number": "7",
+          "name": "Neil Hirannet"
+        },
+        {
+          "number": "8",
+          "name": "Jen Kacin"
+        },
+        {
+          "number": "9",
+          "name": "Henry Chang"
+        },
+        {
+          "number": "10",
+          "name": "John Luong"
+        },
+        {
+          "number": "13",
+          "name": "Sam Morgan"
+        },
+        {
+          "number": "20",
+          "name": "Doug Fowler"
+        },
+        {
+          "number": "22",
+          "name": "Michael Dean"
+        },
+        {
+          "number": "23",
+          "name": "Keith Myers"
+        },
+        {
+          "number": "24",
+          "name": "Beth Burke"
+        },
+        {
+          "number": "29",
+          "name": "Jeffrey White"
+        },
+        {
+          "number": "33",
+          "name": "Keala Tekolste"
+        },
+        {
+          "number": "47",
+          "name": "Stacey Spencer"
+        },
+        {
+          "number": "77",
+          "name": "Andrew Burgess"
+        },
+        {
+          "number": "97",
+          "name": "Phillip Wilcox"
+        },
+        {
+          "number": "99",
+          "name": "Mark Mason"
+        }
+      ]
+    },
+    {
+      "name": "Third Party",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Washington, District of Columbia",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alan Jameson"
+        },
+        {
+          "number": "0",
+          "name": "Amber Groopman"
+        },
+        {
+          "number": "0",
+          "name": "Blaire  Surgent"
+        },
+        {
+          "number": "0",
+          "name": "BRIAN WILLIAMS"
+        },
+        {
+          "number": "0",
+          "name": "Eric Beier"
+        },
+        {
+          "number": "0",
+          "name": "Genevieve Maricle"
+        },
+        {
+          "number": "0",
+          "name": "Katie Khoury"
+        },
+        {
+          "number": "0",
+          "name": "Mark Kresowik"
+        },
+        {
+          "number": "0",
+          "name": "Matthew Hassink"
+        },
+        {
+          "number": "0",
+          "name": "Nicole Kresowik"
+        },
+        {
+          "number": "0",
+          "name": "STEPHANIE DREYER"
+        },
+        {
+          "number": "0",
+          "name": "Tal Kopan"
+        },
+        {
+          "number": "0",
+          "name": "Teddy Cheung"
+        },
+        {
+          "number": "0",
+          "name": "VALERIE MASON HUGHES"
+        },
+        {
+          "number": "4",
+          "name": "Christian Heneghan"
+        },
+        {
+          "number": "6",
+          "name": "Michael Sharma"
+        },
+        {
+          "number": "17",
+          "name": "David Branick"
+        },
+        {
+          "number": "20",
+          "name": "Lee Langston"
+        },
+        {
+          "number": "20",
+          "name": "Misha Tseytlin"
+        },
+        {
+          "number": "33",
+          "name": "Josh Stafford"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Playoffs",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Old DErty People",
+              "team2": "Third Party",
+              "score1": 11,
+              "score2": 3,
+              "datetime": "2017-06-24T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool B",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Old DErty People",
+              "team2": "Third Party",
+              "score1": 9,
+              "score2": 11,
+              "datetime": "2017-06-24T12:45:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool C",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Old DErty People",
+              "team2": "Third Party",
+              "score1": 6,
+              "score2": 7,
+              "datetime": "2017-06-24T14:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

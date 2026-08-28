@@ -1,0 +1,4731 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2019/Stanford-Open-2019CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/Stanford-Open-2019/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:17.360965Z",
+  "event": {
+    "name": "Stanford Open 2019",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2019,
+    "city": "Morgan Hill",
+    "state": "CA",
+    "country": "",
+    "startDate": "2019-02-09",
+    "endDate": "2019-02-10"
+  },
+  "teams": [
+    {
+      "name": "California",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "California-Berkeley",
+        "location": "Berkeley, California",
+        "website": "",
+        "facebook": "https://www.facebook.com/CalUGMO/",
+        "twitter": "https://twitter.com/CalUGMO"
+      },
+      "coaches": [
+        "Daniel Silverstein",
+        "Alexander Morris"
+      ],
+      "roster": [
+        {
+          "number": "1",
+          "name": "Neil Thomas"
+        },
+        {
+          "number": "2",
+          "name": "Winston Tran"
+        },
+        {
+          "number": "3",
+          "name": "Mason Chupka"
+        },
+        {
+          "number": "4",
+          "name": "Rafael Castro"
+        },
+        {
+          "number": "6",
+          "name": "Alexander Pan"
+        },
+        {
+          "number": "7",
+          "name": "Jules Fogarty"
+        },
+        {
+          "number": "8",
+          "name": "Drew Palmer"
+        },
+        {
+          "number": "10",
+          "name": "Myron Liu"
+        },
+        {
+          "number": "11",
+          "name": "Glenn Wysen"
+        },
+        {
+          "number": "12",
+          "name": "Munis Thahir"
+        },
+        {
+          "number": "14",
+          "name": "Joshua Yuan"
+        },
+        {
+          "number": "15",
+          "name": "Jacob Bruner"
+        },
+        {
+          "number": "17",
+          "name": "Ashwin Vaidyanathan"
+        },
+        {
+          "number": "18",
+          "name": "Jacob McCurdy"
+        },
+        {
+          "number": "22",
+          "name": "Christopher Lung"
+        },
+        {
+          "number": "23",
+          "name": "Trevor Aquino"
+        },
+        {
+          "number": "25",
+          "name": "Tommy Lin"
+        },
+        {
+          "number": "29",
+          "name": "Vincent Su"
+        },
+        {
+          "number": "30",
+          "name": "Bo Rasmussen"
+        },
+        {
+          "number": "32",
+          "name": "Evan Magsig"
+        },
+        {
+          "number": "47",
+          "name": "Christopher Akers"
+        },
+        {
+          "number": "59",
+          "name": "Liam Kreiss"
+        },
+        {
+          "number": "77",
+          "name": "Brian Kooperberg"
+        },
+        {
+          "number": "87",
+          "name": "Max Williams"
+        },
+        {
+          "number": "88",
+          "name": "Ryan Lee"
+        }
+      ]
+    },
+    {
+      "name": "Duke",
+      "seed": 16,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Brimstone",
+        "location": "Durham, North Carolina",
+        "website": "",
+        "facebook": "https://www.facebook.com/dukeBrimstoneUltimate/",
+        "twitter": "https://twitter.com/Duke_Brimstone"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Bilva Sanaba"
+        },
+        {
+          "number": "0",
+          "name": "Andrew Wilcox"
+        },
+        {
+          "number": "0",
+          "name": "Jacob Levine"
+        },
+        {
+          "number": "0",
+          "name": "Jaliwa Albright"
+        },
+        {
+          "number": "0",
+          "name": "Kavinayan Sivakumar"
+        },
+        {
+          "number": "0",
+          "name": "Kyle Newman"
+        },
+        {
+          "number": "0",
+          "name": "Matthew Herbst"
+        },
+        {
+          "number": "0",
+          "name": "Max Fleischer"
+        },
+        {
+          "number": "0",
+          "name": "Neil Wu"
+        },
+        {
+          "number": "0",
+          "name": "Patrick Limer"
+        },
+        {
+          "number": "0",
+          "name": "Remy Freire"
+        },
+        {
+          "number": "0",
+          "name": "Jeffrey He"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Mann"
+        },
+        {
+          "number": "0",
+          "name": "Sam Rosenthal"
+        },
+        {
+          "number": "6",
+          "name": "Andres Nazario"
+        },
+        {
+          "number": "11",
+          "name": "Drew Peterson"
+        },
+        {
+          "number": "12",
+          "name": "Benjamin Williams"
+        },
+        {
+          "number": "13",
+          "name": "Ryan Mecca"
+        },
+        {
+          "number": "25",
+          "name": "Evan Mapes"
+        },
+        {
+          "number": "29",
+          "name": "Joshua Smith"
+        },
+        {
+          "number": "31",
+          "name": "Junmo Ryang"
+        },
+        {
+          "number": "32",
+          "name": "Jack Cohen"
+        },
+        {
+          "number": "77",
+          "name": "James Boyd"
+        }
+      ]
+    },
+    {
+      "name": "Seven Hills Red Boys (High School)",
+      "seed": 33,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "High School",
+        "location": "Seattle, Washington",
+        "website": "www.sevenhillsultimateclub.com",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "Ben Snell"
+      ],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Adam Jemal"
+        },
+        {
+          "number": "00",
+          "name": "Aidan Lopez Escarez"
+        },
+        {
+          "number": "00",
+          "name": "Alexander Katz"
+        },
+        {
+          "number": "00",
+          "name": "Assaf Golan"
+        },
+        {
+          "number": "00",
+          "name": "Atkin Arnstein"
+        },
+        {
+          "number": "00",
+          "name": "Ayyub Jemal"
+        },
+        {
+          "number": "00",
+          "name": "Brian (Dominic) Jacobs"
+        },
+        {
+          "number": "00",
+          "name": "Cameron Houghton"
+        },
+        {
+          "number": "00",
+          "name": "Darbhi Durvasula"
+        },
+        {
+          "number": "00",
+          "name": "David Zhou"
+        },
+        {
+          "number": "00",
+          "name": "Dylan Baker"
+        },
+        {
+          "number": "00",
+          "name": "Jamie Kauffman"
+        },
+        {
+          "number": "00",
+          "name": "Gabriel Nobis"
+        },
+        {
+          "number": "00",
+          "name": "Issac Granstrom"
+        },
+        {
+          "number": "00",
+          "name": "Kai Durvasula"
+        },
+        {
+          "number": "00",
+          "name": "Lucca Kruse"
+        },
+        {
+          "number": "00",
+          "name": "Martin Le"
+        },
+        {
+          "number": "00",
+          "name": "Oliver Colleran"
+        },
+        {
+          "number": "00",
+          "name": "Ryan Liao"
+        },
+        {
+          "number": "00",
+          "name": "Soren Dahl"
+        },
+        {
+          "number": "00",
+          "name": "Tony Venneri"
+        },
+        {
+          "number": "00",
+          "name": "William Turner"
+        }
+      ]
+    },
+    {
+      "name": "Portland",
+      "seed": 17,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Uprise",
+        "location": "Portland, Oregon",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "2",
+          "name": "Aidan Day"
+        },
+        {
+          "number": "8",
+          "name": "John Black"
+        },
+        {
+          "number": "04",
+          "name": "Nicolai Apenes"
+        },
+        {
+          "number": "10",
+          "name": "Braeden Lane"
+        },
+        {
+          "number": "12",
+          "name": "Nathan Lynch"
+        },
+        {
+          "number": "13",
+          "name": "Travis Bigelow"
+        },
+        {
+          "number": "16",
+          "name": "Joseph Berry"
+        },
+        {
+          "number": "17",
+          "name": "Jacob Apenes"
+        },
+        {
+          "number": "17",
+          "name": "Carl Justin Hermosura"
+        },
+        {
+          "number": "18",
+          "name": "James Martin"
+        },
+        {
+          "number": "20",
+          "name": "Gavin Bullis"
+        },
+        {
+          "number": "22",
+          "name": "Philip Sanfilippo III"
+        },
+        {
+          "number": "23",
+          "name": "Samuel Warrick"
+        },
+        {
+          "number": "24",
+          "name": "Callum Morham"
+        },
+        {
+          "number": "25",
+          "name": "Ben Hecko"
+        },
+        {
+          "number": "28",
+          "name": "Tannar Sandaine"
+        },
+        {
+          "number": "32",
+          "name": "Ian Legge"
+        },
+        {
+          "number": "34",
+          "name": "Jack Padon"
+        },
+        {
+          "number": "47",
+          "name": "Jacob Silver"
+        },
+        {
+          "number": "50",
+          "name": "Simon Kriech"
+        },
+        {
+          "number": "88",
+          "name": "Leander Miley"
+        },
+        {
+          "number": "98",
+          "name": "Michael Antkiewicz"
+        }
+      ]
+    },
+    {
+      "name": "Cal Poly-SLO (B)",
+      "seed": 32,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "SLOB",
+        "location": "San Luis Obispo, California",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Austin Schwarz"
+        },
+        {
+          "number": "0",
+          "name": "Daniel Sulek"
+        },
+        {
+          "number": "0",
+          "name": "Graeme Beck"
+        },
+        {
+          "number": "0",
+          "name": "Jack Stenson"
+        },
+        {
+          "number": "0",
+          "name": "John Bilello"
+        },
+        {
+          "number": "0",
+          "name": "Jonathan Ott"
+        },
+        {
+          "number": "0",
+          "name": "Kory Haydon"
+        },
+        {
+          "number": "0",
+          "name": "Michael Carvajal"
+        },
+        {
+          "number": "0",
+          "name": "Michael Cooper"
+        },
+        {
+          "number": "0",
+          "name": "Nicholas McGuire"
+        },
+        {
+          "number": "0",
+          "name": "Patrick Wiseman"
+        },
+        {
+          "number": "0",
+          "name": "Tad Talbot"
+        },
+        {
+          "number": "0",
+          "name": "Jake Loveland"
+        },
+        {
+          "number": "4",
+          "name": "Tony Lin"
+        },
+        {
+          "number": "7",
+          "name": "Brad Weber"
+        },
+        {
+          "number": "9",
+          "name": "Jack Puckett"
+        },
+        {
+          "number": "12",
+          "name": "Ethan Nikcevich"
+        },
+        {
+          "number": "12",
+          "name": "Maximilian Cossalter"
+        },
+        {
+          "number": "23",
+          "name": "Harris Nguyen"
+        },
+        {
+          "number": "24",
+          "name": "Jerald Castillo"
+        },
+        {
+          "number": "25",
+          "name": "Niko Banks"
+        },
+        {
+          "number": "26",
+          "name": "Alex Bires"
+        },
+        {
+          "number": "35",
+          "name": "Jack Combs"
+        },
+        {
+          "number": "39",
+          "name": "Martin Bailey"
+        },
+        {
+          "number": "55",
+          "name": "Jack Burfield"
+        },
+        {
+          "number": "57",
+          "name": "Jackson Rhodes"
+        },
+        {
+          "number": "69",
+          "name": "Zachary Peterson"
+        },
+        {
+          "number": "70",
+          "name": "Aleksandr Breit"
+        },
+        {
+          "number": "88",
+          "name": "John Lazo"
+        }
+      ]
+    },
+    {
+      "name": "Stanford",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Stanford Bloodthirsty",
+        "location": "Stanford, California",
+        "website": "",
+        "facebook": "https://www.facebook.com/stanfordbloodthirsty/",
+        "twitter": "https://twitter.com/stanfordblood"
+      },
+      "coaches": [
+        "Joshuah Kapilivsky",
+        "Justin Moore"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Baker Sharp"
+        },
+        {
+          "number": "0",
+          "name": "Colin Grant"
+        },
+        {
+          "number": "0",
+          "name": "Dryden Myers"
+        },
+        {
+          "number": "0",
+          "name": "Isandro Malik"
+        },
+        {
+          "number": "0",
+          "name": "Jonathan Victorino"
+        },
+        {
+          "number": "0",
+          "name": "Juan Carlos Meave Ojeda"
+        },
+        {
+          "number": "0",
+          "name": "Matan Abrams"
+        },
+        {
+          "number": "0",
+          "name": "Ravi Smith"
+        },
+        {
+          "number": "9",
+          "name": "Sean Vajanaphanich"
+        },
+        {
+          "number": "10",
+          "name": "Phillip Cathers"
+        },
+        {
+          "number": "11",
+          "name": "Nicolas Rodriguez"
+        },
+        {
+          "number": "16",
+          "name": "Sergio Licon"
+        },
+        {
+          "number": "17",
+          "name": "James Reed"
+        },
+        {
+          "number": "22",
+          "name": "David Mondry"
+        },
+        {
+          "number": "24",
+          "name": "Kevin Tien"
+        },
+        {
+          "number": "28",
+          "name": "Michael Becich"
+        },
+        {
+          "number": "32",
+          "name": "Ryan Ressmeyer"
+        },
+        {
+          "number": "33",
+          "name": "Nicholas Hirning"
+        },
+        {
+          "number": "47",
+          "name": "Henry Hill-Gorman"
+        },
+        {
+          "number": "99",
+          "name": "Sam Masling"
+        }
+      ]
+    },
+    {
+      "name": "Washington University",
+      "seed": 15,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Contra",
+        "location": "St. Louis, Missouri",
+        "website": "contra.wustl.edu",
+        "facebook": "",
+        "twitter": "twitter.com/wucontra"
+      },
+      "coaches": [
+        "Blake Larson"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Brandon Parr"
+        },
+        {
+          "number": "0",
+          "name": "Chance Bayles"
+        },
+        {
+          "number": "0",
+          "name": "Daniel Renbaum-Koss"
+        },
+        {
+          "number": "0",
+          "name": "Dotun Taiwo"
+        },
+        {
+          "number": "0",
+          "name": "Ethan Dan"
+        },
+        {
+          "number": "0",
+          "name": "Ethan Kadet"
+        },
+        {
+          "number": "0",
+          "name": "Evan Segal"
+        },
+        {
+          "number": "0",
+          "name": "Griffin Orser"
+        },
+        {
+          "number": "0",
+          "name": "John Bisognano"
+        },
+        {
+          "number": "0",
+          "name": "Lawrence Chen"
+        },
+        {
+          "number": "0",
+          "name": "Max Zalta"
+        },
+        {
+          "number": "0",
+          "name": "Maxwell Woods"
+        },
+        {
+          "number": "0",
+          "name": "Michael Lo"
+        },
+        {
+          "number": "0",
+          "name": "Robert Slutsky"
+        },
+        {
+          "number": "0",
+          "name": "Zachary Lin"
+        },
+        {
+          "number": "7",
+          "name": "Campbell Eshleman"
+        },
+        {
+          "number": "10",
+          "name": "Nirek Sharma"
+        },
+        {
+          "number": "10",
+          "name": "Aditya Krishnamachar"
+        },
+        {
+          "number": "13",
+          "name": "Zach Friedman"
+        },
+        {
+          "number": "15",
+          "name": "Jesse Strod"
+        },
+        {
+          "number": "19",
+          "name": "Joshua Gabella"
+        },
+        {
+          "number": "20",
+          "name": "Ryan Roach"
+        },
+        {
+          "number": "24",
+          "name": "Sam Gittleman"
+        },
+        {
+          "number": "30",
+          "name": "Russell Tan"
+        },
+        {
+          "number": "41",
+          "name": "Cole Atkins"
+        },
+        {
+          "number": "63",
+          "name": "Gage Sears"
+        }
+      ]
+    },
+    {
+      "name": "Colorado School of Mines",
+      "seed": 31,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Entropy",
+        "location": "Golden, Colorado",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "Aaron (AJ) Abraham"
+      ],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Adam Parler"
+        },
+        {
+          "number": "00",
+          "name": "Caleb Bevers"
+        },
+        {
+          "number": "00",
+          "name": "Caleb Sanders"
+        },
+        {
+          "number": "00",
+          "name": "Cameron Beaton"
+        },
+        {
+          "number": "00",
+          "name": "Jack Girard"
+        },
+        {
+          "number": "00",
+          "name": "Jared Parrish"
+        },
+        {
+          "number": "00",
+          "name": "Jonathon McNabb"
+        },
+        {
+          "number": "00",
+          "name": "Mark Jeska"
+        },
+        {
+          "number": "00",
+          "name": "Morgan Cox"
+        },
+        {
+          "number": "00",
+          "name": "Nathan Giffin"
+        },
+        {
+          "number": "00",
+          "name": "Parker Damon"
+        },
+        {
+          "number": "00",
+          "name": "Weston Mauz"
+        },
+        {
+          "number": "00",
+          "name": "Zacary Parkhill"
+        },
+        {
+          "number": "02",
+          "name": "Tom Parry"
+        },
+        {
+          "number": "20",
+          "name": "Mason Brainard"
+        },
+        {
+          "number": "44",
+          "name": "Robert Beaver"
+        }
+      ]
+    },
+    {
+      "name": "Cal Poly-Pomona",
+      "seed": 18,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Cow Ultimate",
+        "location": "Pomona, California",
+        "website": "",
+        "facebook": "https://www.facebook.com/CPPUltimate",
+        "twitter": "https://twitter.com/cowultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Abin Thomas"
+        },
+        {
+          "number": "0",
+          "name": "Alexander Honeycutt"
+        },
+        {
+          "number": "0",
+          "name": "Andrew Diaz"
+        },
+        {
+          "number": "0",
+          "name": "Drew Gates"
+        },
+        {
+          "number": "0",
+          "name": "Greg Berg"
+        },
+        {
+          "number": "0",
+          "name": "Himanshu Chaudhary"
+        },
+        {
+          "number": "0",
+          "name": "Joshua Agopian"
+        },
+        {
+          "number": "0",
+          "name": "Kaianu Reyes-Huynh"
+        },
+        {
+          "number": "0",
+          "name": "Kevin Labbate"
+        },
+        {
+          "number": "0",
+          "name": "Andrew Calinescu"
+        },
+        {
+          "number": "0",
+          "name": "Bruno Haesbaert"
+        },
+        {
+          "number": "0",
+          "name": "Leticia Diaz Melendez"
+        },
+        {
+          "number": "0",
+          "name": "Nichole Sugita"
+        },
+        {
+          "number": "0",
+          "name": "Sara Margala"
+        },
+        {
+          "number": "0",
+          "name": "Nathan Leong"
+        },
+        {
+          "number": "1",
+          "name": "Zamin Aziz"
+        },
+        {
+          "number": "7",
+          "name": "David Cortes"
+        },
+        {
+          "number": "9",
+          "name": "Nicholas Hall"
+        },
+        {
+          "number": "14",
+          "name": "Knox Borges"
+        },
+        {
+          "number": "14",
+          "name": "Andrew Kinkele"
+        },
+        {
+          "number": "16",
+          "name": "Jiheng Nie"
+        },
+        {
+          "number": "17",
+          "name": "Jerry Ho"
+        },
+        {
+          "number": "18",
+          "name": "Thomas Ito"
+        },
+        {
+          "number": "22",
+          "name": "Kyle Jepsen"
+        },
+        {
+          "number": "35",
+          "name": "Long Tran"
+        },
+        {
+          "number": "56",
+          "name": "Michael Sumaya"
+        },
+        {
+          "number": "75",
+          "name": "Tyler Garcia"
+        }
+      ]
+    },
+    {
+      "name": "Whitman",
+      "seed": 14,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Whitman Sweets",
+        "location": "Walla Walla, Washington",
+        "website": "",
+        "facebook": "https://www.facebook.com/Whitman-Sweets-Mens-Ultimate-236959183065222/",
+        "twitter": "https://twitter.com/MWhitman_Sweets"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Benjamin Katz"
+        },
+        {
+          "number": "0",
+          "name": "Jesse Sindelar"
+        },
+        {
+          "number": "0",
+          "name": "Joshua Shin"
+        },
+        {
+          "number": "0",
+          "name": "Kevin Faeustle"
+        },
+        {
+          "number": "0",
+          "name": "Michael Lans"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Kierulf"
+        },
+        {
+          "number": "0",
+          "name": "Sam Kleven"
+        },
+        {
+          "number": "0",
+          "name": "Sam Huston"
+        },
+        {
+          "number": "0",
+          "name": "Patrick Hwang"
+        },
+        {
+          "number": "0",
+          "name": "Sean Collier"
+        },
+        {
+          "number": "2",
+          "name": "Robert Farwell"
+        },
+        {
+          "number": "3",
+          "name": "Jordan Payne"
+        },
+        {
+          "number": "5",
+          "name": "Jens Suhr"
+        },
+        {
+          "number": "9",
+          "name": "Samuel Dale-Gau"
+        },
+        {
+          "number": "9",
+          "name": "Nate  Raphael"
+        },
+        {
+          "number": "12",
+          "name": "Corbin Atack"
+        },
+        {
+          "number": "12",
+          "name": "Eli Cohen"
+        },
+        {
+          "number": "16",
+          "name": "Alex Walsh"
+        },
+        {
+          "number": "17",
+          "name": "David Dregallo"
+        },
+        {
+          "number": "23",
+          "name": "Tobias Zabel"
+        },
+        {
+          "number": "28",
+          "name": "Jacob Klusmeier"
+        },
+        {
+          "number": "34",
+          "name": "Jarrett Arakaki"
+        },
+        {
+          "number": "36",
+          "name": "Caleb Sherman"
+        },
+        {
+          "number": "47",
+          "name": "Tivon Sadowsky"
+        },
+        {
+          "number": "85",
+          "name": "Al Brettmann"
+        },
+        {
+          "number": "88",
+          "name": "Zane Pennella"
+        },
+        {
+          "number": "99",
+          "name": "Gabriel Zansberg"
+        }
+      ]
+    },
+    {
+      "name": "Santa Clara",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "SCAB",
+        "location": "Santa Clara, California",
+        "website": "https://www.scabultimate.com/",
+        "facebook": "",
+        "twitter": "https://twitter.com/SCABUltiFris"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Simon Senter"
+        },
+        {
+          "number": "2",
+          "name": "Andy Bredar"
+        },
+        {
+          "number": "3",
+          "name": "Benjamin Rupp"
+        },
+        {
+          "number": "3",
+          "name": "Robert Stallman"
+        },
+        {
+          "number": "11",
+          "name": "Sam Weinstein"
+        },
+        {
+          "number": "12",
+          "name": "Michael Fodor"
+        },
+        {
+          "number": "13",
+          "name": "James Kipper"
+        },
+        {
+          "number": "14",
+          "name": "Tyler Rudee"
+        },
+        {
+          "number": "15",
+          "name": "Nikolaus Elsaesser"
+        },
+        {
+          "number": "16",
+          "name": "Ian Watts"
+        },
+        {
+          "number": "20",
+          "name": "Devan Hollar"
+        },
+        {
+          "number": "23",
+          "name": "Ryan Messersmith"
+        },
+        {
+          "number": "24",
+          "name": "Nicholas Farren"
+        },
+        {
+          "number": "27",
+          "name": "Liam Scobey-Polacheck"
+        },
+        {
+          "number": "28",
+          "name": "Zachary Heffron"
+        },
+        {
+          "number": "29",
+          "name": "Travis Vickers"
+        },
+        {
+          "number": "33",
+          "name": "Casey Bates"
+        },
+        {
+          "number": "40",
+          "name": "Jackson Tseng"
+        },
+        {
+          "number": "42",
+          "name": "Matt Kordonsky"
+        },
+        {
+          "number": "43",
+          "name": "Kevin Shea"
+        },
+        {
+          "number": "44",
+          "name": "Jonathan Bowers"
+        },
+        {
+          "number": "55",
+          "name": "Matthew Kamimura"
+        },
+        {
+          "number": "70",
+          "name": "Jichan Seo"
+        },
+        {
+          "number": "76",
+          "name": "Jack Carlson"
+        },
+        {
+          "number": "80",
+          "name": "Thomas Baldwin"
+        }
+      ]
+    },
+    {
+      "name": "California (B)",
+      "seed": 35,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "ThugMo",
+        "location": "Berkeley, California",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Andrew Lee"
+        },
+        {
+          "number": "0",
+          "name": "Calvin Li"
+        },
+        {
+          "number": "0",
+          "name": "Eli Stewart"
+        },
+        {
+          "number": "0",
+          "name": "Kevin Gibson Weinberger"
+        },
+        {
+          "number": "0",
+          "name": "Logan Ritter"
+        },
+        {
+          "number": "0",
+          "name": "Matthew Worden"
+        },
+        {
+          "number": "0",
+          "name": "Sohum Hulyalkar"
+        },
+        {
+          "number": "0",
+          "name": "Tejasvi Kothapalli"
+        },
+        {
+          "number": "0",
+          "name": "Timothy Hoyle"
+        },
+        {
+          "number": "0",
+          "name": "Tony D'Aura"
+        },
+        {
+          "number": "0",
+          "name": "Nathan Lee"
+        },
+        {
+          "number": "0",
+          "name": "Nathaniel Burrill"
+        },
+        {
+          "number": "3",
+          "name": "Ayush Sharma"
+        },
+        {
+          "number": "9",
+          "name": "Matthew Weymer"
+        },
+        {
+          "number": "12",
+          "name": "Edward Diven"
+        },
+        {
+          "number": "17",
+          "name": "John Diven"
+        },
+        {
+          "number": "18",
+          "name": "Howard Ki"
+        },
+        {
+          "number": "22",
+          "name": "Jai Bansal"
+        },
+        {
+          "number": "23",
+          "name": "David Campos"
+        },
+        {
+          "number": "36",
+          "name": "Justin Zhong"
+        },
+        {
+          "number": "61",
+          "name": "Riley Woo"
+        }
+      ]
+    },
+    {
+      "name": "Texas (B)",
+      "seed": 30,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Graze",
+        "location": "Austin, Texas",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Calvin Nguyen"
+        },
+        {
+          "number": "0",
+          "name": "Daniel Moreland"
+        },
+        {
+          "number": "0",
+          "name": "David Wang"
+        },
+        {
+          "number": "0",
+          "name": "Gregory Lowry"
+        },
+        {
+          "number": "0",
+          "name": "Matthew Bianchi"
+        },
+        {
+          "number": "2",
+          "name": "Andrew Loughran"
+        },
+        {
+          "number": "4",
+          "name": "Joshua Curtis"
+        },
+        {
+          "number": "9",
+          "name": "Ivan Radakovic"
+        }
+      ]
+    },
+    {
+      "name": "San Jose State",
+      "seed": 19,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Megabyte",
+        "location": "San Jose, California",
+        "website": "",
+        "facebook": "https://www.facebook.com/SJSUUltimate/",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Austin Adam"
+        },
+        {
+          "number": "0",
+          "name": "Brandon Purcell"
+        },
+        {
+          "number": "0",
+          "name": "Elvys Dang"
+        },
+        {
+          "number": "0",
+          "name": "LeejXeeb Moua"
+        },
+        {
+          "number": "0",
+          "name": "Wilvin Chew"
+        },
+        {
+          "number": "3",
+          "name": "Charles Zhang"
+        },
+        {
+          "number": "9",
+          "name": "NIKOLAS MIFSUD"
+        },
+        {
+          "number": "10",
+          "name": "Jonathan  Nozzari"
+        },
+        {
+          "number": "28",
+          "name": "Aren Yeghissian-Kanneian"
+        },
+        {
+          "number": "97",
+          "name": "Davis Ambur"
+        }
+      ]
+    },
+    {
+      "name": "UCLA",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Smaug",
+        "location": "Los Angeles, California",
+        "website": "",
+        "facebook": "https://www.facebook.com/UclaSmaugUltimate",
+        "twitter": "https://twitter.com/uclaultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alex Broering"
+        },
+        {
+          "number": "0",
+          "name": "Andrew Chen"
+        },
+        {
+          "number": "0",
+          "name": "David Dumas"
+        },
+        {
+          "number": "0",
+          "name": "Ethan Major"
+        },
+        {
+          "number": "0",
+          "name": "Jack Brewer"
+        },
+        {
+          "number": "0",
+          "name": "John Campbell"
+        },
+        {
+          "number": "0",
+          "name": "Nelson Campbell"
+        },
+        {
+          "number": "0",
+          "name": "Noah Anderson"
+        },
+        {
+          "number": "0",
+          "name": "Paul Ramstad"
+        },
+        {
+          "number": "0",
+          "name": "Paul Pfeiffer"
+        },
+        {
+          "number": "4",
+          "name": "Michael Peng"
+        },
+        {
+          "number": "9",
+          "name": "Cooper Tanquary"
+        },
+        {
+          "number": "12",
+          "name": "George Faour"
+        },
+        {
+          "number": "13",
+          "name": "Austin Hwang"
+        },
+        {
+          "number": "14",
+          "name": "Derek Vance"
+        },
+        {
+          "number": "15",
+          "name": "Bryan  Cloutier"
+        },
+        {
+          "number": "16",
+          "name": "James Zhou"
+        },
+        {
+          "number": "35",
+          "name": "Edward White"
+        },
+        {
+          "number": "44",
+          "name": "Bryson Levisay"
+        },
+        {
+          "number": "50",
+          "name": "Ram Goli"
+        },
+        {
+          "number": "55",
+          "name": "Lorenzo Duvergne"
+        }
+      ]
+    },
+    {
+      "name": "Humboldt State",
+      "seed": 29,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Humboldt State Buds",
+        "location": "Arcata, California",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Elliot Bonnett"
+        },
+        {
+          "number": "0",
+          "name": "Grant Olin"
+        },
+        {
+          "number": "0",
+          "name": "Max Killen"
+        },
+        {
+          "number": "0",
+          "name": "Miguel Camarena"
+        },
+        {
+          "number": "0",
+          "name": "Noah Hollenbeck"
+        },
+        {
+          "number": "0",
+          "name": "Ricardo  Sanchez"
+        },
+        {
+          "number": "0",
+          "name": "Sam Aguilar"
+        },
+        {
+          "number": "0",
+          "name": "Levi Mazza"
+        },
+        {
+          "number": "0",
+          "name": "Mauricio Casillas"
+        },
+        {
+          "number": "0",
+          "name": "Zachary Harris"
+        },
+        {
+          "number": "7",
+          "name": "Connor Cavassa"
+        },
+        {
+          "number": "8",
+          "name": "Taylor Charron"
+        },
+        {
+          "number": "10",
+          "name": "Kyle Shapiro"
+        },
+        {
+          "number": "11",
+          "name": "Daniel Hernandez"
+        },
+        {
+          "number": "13",
+          "name": "Jay Rackelmann"
+        },
+        {
+          "number": "13",
+          "name": "Kenny Kurbat"
+        },
+        {
+          "number": "17",
+          "name": "Gannon Carroll"
+        },
+        {
+          "number": "18",
+          "name": "Thomas Page"
+        },
+        {
+          "number": "37",
+          "name": "Josh Israel"
+        },
+        {
+          "number": "44",
+          "name": "Max Alvin"
+        },
+        {
+          "number": "51",
+          "name": "Gabriel Retzer"
+        },
+        {
+          "number": "53",
+          "name": "Jerry Swider"
+        },
+        {
+          "number": "69",
+          "name": "Brighton Hayashida"
+        },
+        {
+          "number": "69",
+          "name": "James Anderson"
+        }
+      ]
+    },
+    {
+      "name": "Utah State",
+      "seed": 13,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "USULT",
+        "location": "Logan, Utah",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/usult_imate?lang=en"
+      },
+      "coaches": [
+        "Alan Huang"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Elijah Kimmel"
+        },
+        {
+          "number": "01",
+          "name": "Teagan Jackson"
+        },
+        {
+          "number": "02",
+          "name": "Zach Balls"
+        },
+        {
+          "number": "04",
+          "name": "Daniel Durham"
+        },
+        {
+          "number": "06",
+          "name": "Robert Gordon"
+        },
+        {
+          "number": "09",
+          "name": "Brennan Bender"
+        },
+        {
+          "number": "11",
+          "name": "Skyler Jones"
+        },
+        {
+          "number": "12",
+          "name": "Tyler Larsen"
+        },
+        {
+          "number": "14",
+          "name": "Jared Higham"
+        },
+        {
+          "number": "15",
+          "name": "Garrett Martin"
+        },
+        {
+          "number": "16",
+          "name": "Ryan Martin"
+        },
+        {
+          "number": "19",
+          "name": "Jacob Watkins"
+        },
+        {
+          "number": "21",
+          "name": "Brent Romberger"
+        },
+        {
+          "number": "27",
+          "name": "Joshua Webster"
+        },
+        {
+          "number": "37",
+          "name": "Zachary Valliere"
+        },
+        {
+          "number": "42",
+          "name": "Connor Foss"
+        },
+        {
+          "number": "88",
+          "name": "Christian Berger"
+        }
+      ]
+    },
+    {
+      "name": "Coup Red (High School)",
+      "seed": 36,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "High School",
+        "location": "Berkeley, California",
+        "website": "www.berkeleyhighultimate.org",
+        "facebook": "https://www.facebook.com/berkeleyhighcoupultimate",
+        "twitter": "twitter.com/bhscoup"
+      },
+      "coaches": [
+        "James Sheridan",
+        "Linh Hoang"
+      ],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Aidan Curry"
+        },
+        {
+          "number": "00",
+          "name": "Aidan Price"
+        },
+        {
+          "number": "00",
+          "name": "Aidin Terris"
+        },
+        {
+          "number": "00",
+          "name": "Ben Uribe"
+        },
+        {
+          "number": "00",
+          "name": "Calvin Beeman-Weber"
+        },
+        {
+          "number": "00",
+          "name": "Daniel Esler"
+        },
+        {
+          "number": "00",
+          "name": "Davin Sieu"
+        },
+        {
+          "number": "00",
+          "name": "Diego Barragan"
+        },
+        {
+          "number": "00",
+          "name": "Elijah Gibbs"
+        },
+        {
+          "number": "00",
+          "name": "Eliot Kirkham"
+        },
+        {
+          "number": "00",
+          "name": "Finnegan Graham"
+        },
+        {
+          "number": "00",
+          "name": "Jacob Henrie-Naffaa"
+        },
+        {
+          "number": "00",
+          "name": "Julian Esler"
+        },
+        {
+          "number": "00",
+          "name": "Leo Gordon"
+        },
+        {
+          "number": "00",
+          "name": "Liam Ereneta"
+        },
+        {
+          "number": "00",
+          "name": "Luca Spycher"
+        },
+        {
+          "number": "00",
+          "name": "Marshall Wildmann"
+        },
+        {
+          "number": "00",
+          "name": "Noah Ball-Burack"
+        },
+        {
+          "number": "00",
+          "name": "Noé Motamedi"
+        },
+        {
+          "number": "00",
+          "name": "Pele Varadi-Mulia"
+        },
+        {
+          "number": "00",
+          "name": "Riley Kirkman-Davis"
+        },
+        {
+          "number": "00",
+          "name": "Samuel Kaplan"
+        },
+        {
+          "number": "26",
+          "name": "Seth Wells"
+        }
+      ]
+    },
+    {
+      "name": "Whitworth",
+      "seed": 20,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Bangarang",
+        "location": "Spokane, Washington",
+        "website": "",
+        "facebook": "https://www.facebook.com/groups/163382877053175/",
+        "twitter": "https://twitter.com/Whitworth_Ulti?lang=en"
+      },
+      "coaches": [
+        "Anna Pritchard"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Carter Nickelson"
+        },
+        {
+          "number": "0",
+          "name": "Drew Thomas"
+        },
+        {
+          "number": "0",
+          "name": "Joe Spencer"
+        },
+        {
+          "number": "0",
+          "name": "Josh Seiersen"
+        },
+        {
+          "number": "0",
+          "name": "Michael Harris"
+        },
+        {
+          "number": "0",
+          "name": "Tanner Decker"
+        },
+        {
+          "number": "5",
+          "name": "Scott Maxa"
+        },
+        {
+          "number": "12",
+          "name": "James Holtz"
+        },
+        {
+          "number": "13",
+          "name": "Ryan Bax"
+        },
+        {
+          "number": "15",
+          "name": "Daniel Gimbel"
+        },
+        {
+          "number": "25",
+          "name": "Thomas Symons"
+        }
+      ]
+    },
+    {
+      "name": "California-Davis",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Davis Dogs",
+        "location": "Davis, California",
+        "website": "http://www.ucdavisultimate.com/",
+        "facebook": "https://www.facebook.com/davis.dogz?fref=ts&ref=br_tf",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Anders Eckburg"
+        },
+        {
+          "number": "0",
+          "name": "Austin Lourie"
+        },
+        {
+          "number": "0",
+          "name": "Austin Joseph"
+        },
+        {
+          "number": "0",
+          "name": "Benjamin Elliott"
+        },
+        {
+          "number": "0",
+          "name": "Brooks Olesek"
+        },
+        {
+          "number": "0",
+          "name": "Casey Shugarman"
+        },
+        {
+          "number": "0",
+          "name": "Charles Thudium"
+        },
+        {
+          "number": "0",
+          "name": "Everett Quock"
+        },
+        {
+          "number": "0",
+          "name": "Jacob Deppmeier"
+        },
+        {
+          "number": "0",
+          "name": "James Meskell"
+        },
+        {
+          "number": "0",
+          "name": "Devin Hom"
+        },
+        {
+          "number": "0",
+          "name": "Dylan Pyle"
+        },
+        {
+          "number": "0",
+          "name": "Keenan McKelvey"
+        },
+        {
+          "number": "0",
+          "name": "Spencer Sawyer"
+        },
+        {
+          "number": "0",
+          "name": "Tycho Yacub"
+        },
+        {
+          "number": "0",
+          "name": "Vishal Patel"
+        },
+        {
+          "number": "1",
+          "name": "John Nguyen"
+        },
+        {
+          "number": "5",
+          "name": "Julius Vo"
+        },
+        {
+          "number": "13",
+          "name": "Sean Hoffman"
+        },
+        {
+          "number": "15",
+          "name": "Nick Tolfa"
+        },
+        {
+          "number": "31",
+          "name": "Chetan Gomatam"
+        },
+        {
+          "number": "37",
+          "name": "Logan Dolim"
+        },
+        {
+          "number": "62",
+          "name": "Elliot Wilde"
+        },
+        {
+          "number": "86",
+          "name": "Daniel Speer"
+        }
+      ]
+    },
+    {
+      "name": "North Texas",
+      "seed": 12,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "UNT",
+        "location": "Denton, Texas",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/UltimateUnt"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Cameron Young"
+        },
+        {
+          "number": "0",
+          "name": "Cameron Denton"
+        },
+        {
+          "number": "0",
+          "name": "Garrett Davis"
+        },
+        {
+          "number": "0",
+          "name": "Hagen Hoffman"
+        },
+        {
+          "number": "0",
+          "name": "Joshua Rozeboom"
+        },
+        {
+          "number": "0",
+          "name": "Justin England"
+        },
+        {
+          "number": "0",
+          "name": "Otello Garrard"
+        },
+        {
+          "number": "0",
+          "name": "Stewart Williamson"
+        },
+        {
+          "number": "9",
+          "name": "Benjamin Meaders"
+        },
+        {
+          "number": "10",
+          "name": "Austin Ferrari"
+        },
+        {
+          "number": "11",
+          "name": "Grayson Gummelt"
+        },
+        {
+          "number": "15",
+          "name": "Corey Gendron"
+        },
+        {
+          "number": "16",
+          "name": "Andy Evans"
+        },
+        {
+          "number": "20",
+          "name": "Enrique  Alegria"
+        },
+        {
+          "number": "22",
+          "name": "Chiao-Tan Chuang"
+        },
+        {
+          "number": "50",
+          "name": "Nathan Eaves"
+        },
+        {
+          "number": "51",
+          "name": "Jordyn Armstrong"
+        },
+        {
+          "number": "77",
+          "name": "Ian Ambrose"
+        },
+        {
+          "number": "87",
+          "name": "Joshua Rainey"
+        }
+      ]
+    },
+    {
+      "name": "Chico State",
+      "seed": 21,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Chico State Wildcats",
+        "location": "chico, California",
+        "website": "",
+        "facebook": "https://www.facebook.com/pages/Chico-State-Ultimate-Frisbee/194149750609051",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alexander Vina"
+        },
+        {
+          "number": "0",
+          "name": "Andrew Matheson"
+        },
+        {
+          "number": "0",
+          "name": "Benjamin Laplante"
+        },
+        {
+          "number": "0",
+          "name": "Cameron  Hinman "
+        },
+        {
+          "number": "0",
+          "name": "Devin Mitchell"
+        },
+        {
+          "number": "0",
+          "name": "Dominic La Frantz"
+        },
+        {
+          "number": "0",
+          "name": "Harrison  Pointer"
+        },
+        {
+          "number": "0",
+          "name": "James Ross"
+        },
+        {
+          "number": "0",
+          "name": "Nicholas Dahms"
+        },
+        {
+          "number": "0",
+          "name": "Nick McConnell"
+        },
+        {
+          "number": "0",
+          "name": "S Schneider"
+        },
+        {
+          "number": "22",
+          "name": "John Anthony"
+        },
+        {
+          "number": "42",
+          "name": "Trenton Duncan"
+        }
+      ]
+    },
+    {
+      "name": "Seven Hills Blue Boys (High School)",
+      "seed": 37,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "High School",
+        "location": "Seattle, Washington",
+        "website": "www.sevenhillsultimateclub.com",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "Casey Ikeda"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Jeremy Boyle"
+        },
+        {
+          "number": "0",
+          "name": "Derin Cropp"
+        },
+        {
+          "number": "0",
+          "name": "Ethan Chen"
+        },
+        {
+          "number": "1",
+          "name": "Isaac Woldemariam"
+        },
+        {
+          "number": "4",
+          "name": "Jordan Smith"
+        },
+        {
+          "number": "00",
+          "name": "Lucca Kruse"
+        },
+        {
+          "number": "00",
+          "name": "Liam Reese"
+        },
+        {
+          "number": "00",
+          "name": "Nayan Birnbach"
+        },
+        {
+          "number": "00",
+          "name": "Ryan Shigley"
+        },
+        {
+          "number": "00",
+          "name": "Sachin Zachariah"
+        },
+        {
+          "number": "00",
+          "name": "Souma Yabuki"
+        },
+        {
+          "number": "00",
+          "name": "Stephen Shettler"
+        },
+        {
+          "number": "00",
+          "name": "Wes Phung"
+        },
+        {
+          "number": "00",
+          "name": "Zeppelin Raunig"
+        },
+        {
+          "number": "00",
+          "name": "Zubin Birnbach"
+        },
+        {
+          "number": "00",
+          "name": "Akash Shrestha"
+        },
+        {
+          "number": "00",
+          "name": "Jed Cohen"
+        },
+        {
+          "number": "00",
+          "name": "Brock Britton"
+        },
+        {
+          "number": "00",
+          "name": "Daniel Chen"
+        }
+      ]
+    },
+    {
+      "name": "Stanford (B)",
+      "seed": 28,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Stanford Prison Experiment",
+        "location": "Stanford, California",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Daniel Begazo"
+        },
+        {
+          "number": "0",
+          "name": "Michael Zhang"
+        },
+        {
+          "number": "10",
+          "name": "James WoMa"
+        },
+        {
+          "number": "12",
+          "name": "Iyal Suresh"
+        },
+        {
+          "number": "22",
+          "name": "Matias Arola"
+        },
+        {
+          "number": "64",
+          "name": "Abraham Ryzhik"
+        },
+        {
+          "number": "87",
+          "name": "John Romano"
+        }
+      ]
+    },
+    {
+      "name": "Las Positas",
+      "seed": 11,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Hawks",
+        "location": "Livermore, California",
+        "website": "http://www.lpcultimate.com",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Clayton Hensley"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Shephard"
+        },
+        {
+          "number": "0",
+          "name": "Stephen Johnson"
+        },
+        {
+          "number": "7",
+          "name": "Martin Hytonen"
+        },
+        {
+          "number": "7",
+          "name": "Zachary Wiegel"
+        },
+        {
+          "number": "7",
+          "name": "Eli Fischberg-Robinson"
+        },
+        {
+          "number": "38",
+          "name": "Jonah Taylor"
+        },
+        {
+          "number": "44",
+          "name": "Conor Bauman"
+        },
+        {
+          "number": "98",
+          "name": "Wyatt Berreman"
+        }
+      ]
+    },
+    {
+      "name": "California-Santa Cruz",
+      "seed": 27,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Slugs",
+        "location": "Santa Cruz, California",
+        "website": "http://www.slugultimate.com/",
+        "facebook": "https://www.facebook.com/slugultimate",
+        "twitter": "https://twitter.com/slugultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "David Woodfin"
+        },
+        {
+          "number": "0",
+          "name": "Eli Fay"
+        },
+        {
+          "number": "0",
+          "name": "Ethan Kleinman"
+        },
+        {
+          "number": "0",
+          "name": "Gilbert Chong"
+        },
+        {
+          "number": "0",
+          "name": "Ashton Paulus"
+        },
+        {
+          "number": "0",
+          "name": "Johnny Chen"
+        },
+        {
+          "number": "0",
+          "name": "Kai Schniedergers"
+        },
+        {
+          "number": "0",
+          "name": "Kristopher Rollert"
+        },
+        {
+          "number": "0",
+          "name": "Liam Jay"
+        },
+        {
+          "number": "0",
+          "name": "Liem Pham"
+        },
+        {
+          "number": "0",
+          "name": "Robert Parke"
+        },
+        {
+          "number": "0",
+          "name": "Roberto Alvaro"
+        },
+        {
+          "number": "0",
+          "name": "Roland Christ"
+        },
+        {
+          "number": "0",
+          "name": "Sachin Deepak"
+        },
+        {
+          "number": "0",
+          "name": "Tate Pieper"
+        },
+        {
+          "number": "1",
+          "name": "Joseph Chanin-Meiers"
+        },
+        {
+          "number": "3",
+          "name": "Xaul  Starr"
+        },
+        {
+          "number": "5",
+          "name": "Grady Watkins"
+        },
+        {
+          "number": "7",
+          "name": "Billy Fague"
+        },
+        {
+          "number": "03",
+          "name": "Aaron Kees"
+        },
+        {
+          "number": "14",
+          "name": "Justin Tsuchiyama"
+        },
+        {
+          "number": "16",
+          "name": "Sean Hyslop"
+        },
+        {
+          "number": "17",
+          "name": "Robert Gallagher"
+        },
+        {
+          "number": "23",
+          "name": "Annan Harray"
+        },
+        {
+          "number": "24",
+          "name": "Aaron Mercado"
+        },
+        {
+          "number": "25",
+          "name": "Simon Filippenko"
+        },
+        {
+          "number": "26",
+          "name": "Zack Renick"
+        },
+        {
+          "number": "27",
+          "name": "Aaron Hom"
+        }
+      ]
+    },
+    {
+      "name": "Lewis & Clark",
+      "seed": 22,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Bacchus ",
+        "location": "Portland, Oregon",
+        "website": "lclark.edu",
+        "facebook": "https://www.facebook.com/bacchusultimate/",
+        "twitter": "https://twitter.com/BacchusUltimate?lang=en"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Azen Jaffe"
+        },
+        {
+          "number": "0",
+          "name": "Benjamin Travers"
+        },
+        {
+          "number": "0",
+          "name": "Caleb Dinino-Childers"
+        },
+        {
+          "number": "0",
+          "name": "Ely Klem"
+        },
+        {
+          "number": "0",
+          "name": "Gabriel Andrade"
+        },
+        {
+          "number": "0",
+          "name": "Henry Cleaves"
+        },
+        {
+          "number": "0",
+          "name": "Isaac Rosenkranz"
+        },
+        {
+          "number": "0",
+          "name": "Jackson Tejeda"
+        },
+        {
+          "number": "0",
+          "name": "Jonas Miller-Stockie"
+        },
+        {
+          "number": "0",
+          "name": "Keenan Ashby"
+        },
+        {
+          "number": "0",
+          "name": "Owen Heh"
+        },
+        {
+          "number": "0",
+          "name": "Peter Huizenga"
+        },
+        {
+          "number": "0",
+          "name": "Samuel Calian"
+        },
+        {
+          "number": "0",
+          "name": "Tadao Kumasaka"
+        },
+        {
+          "number": "0",
+          "name": "Nathaniel Hobesh"
+        },
+        {
+          "number": "7",
+          "name": "Oliver Boal"
+        },
+        {
+          "number": "22",
+          "name": "Marco Dregni"
+        }
+      ]
+    },
+    {
+      "name": "Washington (B)",
+      "seed": 38,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Washington B",
+        "location": "Seattle, Washington",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Cole Wilkinson"
+        },
+        {
+          "number": "0",
+          "name": "Dhruv Chintalapati"
+        },
+        {
+          "number": "0",
+          "name": "Drew Gutshall"
+        },
+        {
+          "number": "0",
+          "name": "Elias Ortega"
+        },
+        {
+          "number": "0",
+          "name": "Gianni Landby"
+        },
+        {
+          "number": "0",
+          "name": "Jediah Conachan"
+        },
+        {
+          "number": "0",
+          "name": "Sam Douglass"
+        },
+        {
+          "number": "0",
+          "name": "Takuto Kimura"
+        },
+        {
+          "number": "0",
+          "name": "Yonatan Tadesse"
+        },
+        {
+          "number": "4",
+          "name": "Peter Lin"
+        },
+        {
+          "number": "9",
+          "name": "Ian Walp"
+        },
+        {
+          "number": "9",
+          "name": "Alex Strong"
+        },
+        {
+          "number": "20",
+          "name": "Tyler Bunnell"
+        },
+        {
+          "number": "24",
+          "name": "Vu  Huynh"
+        },
+        {
+          "number": "41",
+          "name": "Eitan Myron"
+        },
+        {
+          "number": "43",
+          "name": "Devin Nelson"
+        }
+      ]
+    },
+    {
+      "name": "Arizona",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Sunburn",
+        "location": "Tucson, Arizona",
+        "website": "sunburnultimate.com",
+        "facebook": "https://www.facebook.com/SunburnUltimate",
+        "twitter": "https://twitter.com/SunburnUltimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Caden Sigerud"
+        },
+        {
+          "number": "0",
+          "name": "Dylan South"
+        },
+        {
+          "number": "0",
+          "name": "Garrett Hable"
+        },
+        {
+          "number": "0",
+          "name": "Kyle Schraven"
+        },
+        {
+          "number": "0",
+          "name": "Nicholas Ferrone"
+        },
+        {
+          "number": "0",
+          "name": "Richard Baczek"
+        },
+        {
+          "number": "0",
+          "name": "Jake Hageman"
+        },
+        {
+          "number": "0",
+          "name": "Jaron Omololu"
+        },
+        {
+          "number": "0",
+          "name": "Sam Freitas"
+        },
+        {
+          "number": "0",
+          "name": "Thomas Zych"
+        },
+        {
+          "number": "0",
+          "name": "Walker Johnson"
+        },
+        {
+          "number": "2",
+          "name": "Jake Thomason"
+        },
+        {
+          "number": "17",
+          "name": "Tripp Turchik"
+        },
+        {
+          "number": "22",
+          "name": "Jordan Lisse"
+        },
+        {
+          "number": "23",
+          "name": "Alexander Prescott"
+        },
+        {
+          "number": "25",
+          "name": "Chris Baker"
+        },
+        {
+          "number": "27",
+          "name": "Robert Bradford"
+        }
+      ]
+    },
+    {
+      "name": "Air Force",
+      "seed": 7,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Afterburn",
+        "location": "USAF Academy, Colorado",
+        "website": "",
+        "facebook": "https://www.facebook.com/AirForceUltimate",
+        "twitter": "https://twitter.com/AFU_Afterburn"
+      },
+      "coaches": [
+        "Carl Chan"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Jeremy Moran"
+        },
+        {
+          "number": "0",
+          "name": "Joseph Leistner"
+        },
+        {
+          "number": "0",
+          "name": "Logan Morrison"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Porath"
+        },
+        {
+          "number": "3",
+          "name": "Zach Arns"
+        },
+        {
+          "number": "4",
+          "name": "Kainoa Chun-Moy"
+        },
+        {
+          "number": "9",
+          "name": "Keanu Komar"
+        },
+        {
+          "number": "07",
+          "name": "Michael Delatte"
+        },
+        {
+          "number": "13",
+          "name": "Connor Grant"
+        },
+        {
+          "number": "14",
+          "name": "Caden Kulp"
+        },
+        {
+          "number": "17",
+          "name": "Theodore Jantscher"
+        },
+        {
+          "number": "19",
+          "name": "Wyatt Lake"
+        },
+        {
+          "number": "22",
+          "name": "Solomon Hanson"
+        },
+        {
+          "number": "23",
+          "name": "Matthew Frierson"
+        },
+        {
+          "number": "24",
+          "name": "Joshua Vaden"
+        },
+        {
+          "number": "26",
+          "name": "Matthew Chmiel"
+        },
+        {
+          "number": "34",
+          "name": "Matthew Moshea"
+        },
+        {
+          "number": "36",
+          "name": "William Cooper"
+        },
+        {
+          "number": "42",
+          "name": "Alan Villanueva"
+        },
+        {
+          "number": "44",
+          "name": "Robert Warner"
+        },
+        {
+          "number": "46",
+          "name": "Michael Higgins"
+        },
+        {
+          "number": "48",
+          "name": "Andrew Clapp"
+        },
+        {
+          "number": "54",
+          "name": "Frank Duvall"
+        },
+        {
+          "number": "88",
+          "name": "Juan Ramos"
+        }
+      ]
+    },
+    {
+      "name": "Nevada-Reno",
+      "seed": 10,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Elevation Ultimate",
+        "location": "Reno, Nevada",
+        "website": "https://nevadaultimate.weebly.com/",
+        "facebook": "https://www.facebook.com/NevadaUltimate/",
+        "twitter": "https://twitter.com/nevadaultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Erick Bandala Sanchez"
+        },
+        {
+          "number": "2",
+          "name": "Kyle Glanzmann"
+        },
+        {
+          "number": "7",
+          "name": "David Haulot"
+        },
+        {
+          "number": "8",
+          "name": "Spencer Lee"
+        },
+        {
+          "number": "17",
+          "name": "Maxwell Michelini"
+        },
+        {
+          "number": "22",
+          "name": "Matthew Uran"
+        },
+        {
+          "number": "23",
+          "name": "Gabriel Camacho"
+        },
+        {
+          "number": "24",
+          "name": "Samuel Eardley"
+        },
+        {
+          "number": "25",
+          "name": "Trevor Sortor"
+        },
+        {
+          "number": "30",
+          "name": "Donne Lenard Lomugdang"
+        },
+        {
+          "number": "32",
+          "name": "Luke Moreno"
+        },
+        {
+          "number": "35",
+          "name": "Raymond Lopez"
+        },
+        {
+          "number": "37",
+          "name": "Cordel Bever"
+        },
+        {
+          "number": "55",
+          "name": "Thomas McCrone"
+        },
+        {
+          "number": "69",
+          "name": "John Dougherty"
+        },
+        {
+          "number": "73",
+          "name": "Ravi O'Brien"
+        },
+        {
+          "number": "87",
+          "name": "Anthony Zasada"
+        },
+        {
+          "number": "88",
+          "name": "Justin Blau"
+        }
+      ]
+    },
+    {
+      "name": "Occidental",
+      "seed": 23,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Detox",
+        "location": "Los Angeles, California",
+        "website": "http://www.detox-ultimate.com/",
+        "facebook": "https://www.facebook.com/detoxultimate/",
+        "twitter": ""
+      },
+      "coaches": [
+        "Nathan Warden"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Arthur Sabitt"
+        },
+        {
+          "number": "0",
+          "name": "Paul Tomlinson"
+        },
+        {
+          "number": "01",
+          "name": "Sundy Khalsa"
+        },
+        {
+          "number": "02",
+          "name": "Evan Sarafian"
+        },
+        {
+          "number": "03",
+          "name": "Nelson Rayl"
+        },
+        {
+          "number": "04",
+          "name": "Vuk Muyot"
+        },
+        {
+          "number": "08",
+          "name": "Silas Scott"
+        },
+        {
+          "number": "09",
+          "name": "Mitchell Bullington"
+        },
+        {
+          "number": "10",
+          "name": "Sam Hajduk"
+        },
+        {
+          "number": "11",
+          "name": "Luis Torres"
+        },
+        {
+          "number": "12",
+          "name": "Luca Van der Meer"
+        },
+        {
+          "number": "13",
+          "name": "Greg Kleinman"
+        },
+        {
+          "number": "14",
+          "name": "Ebram Naftzger"
+        },
+        {
+          "number": "17",
+          "name": "Josh Bogen"
+        },
+        {
+          "number": "18",
+          "name": "Dan Scal"
+        },
+        {
+          "number": "21",
+          "name": "Brian Lavongtheung"
+        },
+        {
+          "number": "22",
+          "name": "Benjamin Ventresca"
+        },
+        {
+          "number": "22",
+          "name": "Samuel Monius"
+        },
+        {
+          "number": "24",
+          "name": "Michael Steinke"
+        },
+        {
+          "number": "26",
+          "name": "Zachary Goodwin"
+        },
+        {
+          "number": "42",
+          "name": "Wally Huron"
+        },
+        {
+          "number": "44",
+          "name": "Jack Allen"
+        },
+        {
+          "number": "47",
+          "name": "Liam Stewart"
+        },
+        {
+          "number": "50",
+          "name": "Drew Andersen"
+        },
+        {
+          "number": "68",
+          "name": "Jack Kearney"
+        },
+        {
+          "number": "91",
+          "name": "Peter Messner"
+        },
+        {
+          "number": "96",
+          "name": "Nicolas Escobar"
+        },
+        {
+          "number": "99",
+          "name": "Austin Bitterman"
+        }
+      ]
+    },
+    {
+      "name": "Sonoma State",
+      "seed": 26,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Grapes of Wrath",
+        "location": "Rohnert Park, California",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Drew Gorsuch"
+        },
+        {
+          "number": "0",
+          "name": "Erik Castellanos Vasquez"
+        },
+        {
+          "number": "0",
+          "name": "Humberto Gonzalez"
+        },
+        {
+          "number": "0",
+          "name": "Anthony Delfino"
+        },
+        {
+          "number": "0",
+          "name": "Dante Fernandez"
+        },
+        {
+          "number": "0",
+          "name": "Jae Yu"
+        },
+        {
+          "number": "0",
+          "name": "Nicolas Schroeder"
+        },
+        {
+          "number": "0",
+          "name": "Royal Laplante"
+        },
+        {
+          "number": "0",
+          "name": "Zachary Ormsby"
+        },
+        {
+          "number": "9",
+          "name": "Albert Coito"
+        },
+        {
+          "number": "17",
+          "name": "Matthew Gibbons"
+        },
+        {
+          "number": "23",
+          "name": "Jack Reynolds"
+        },
+        {
+          "number": "24",
+          "name": "Wendel Simpson"
+        },
+        {
+          "number": "39",
+          "name": "Noah Abrams"
+        },
+        {
+          "number": "66",
+          "name": "David Streeter"
+        },
+        {
+          "number": "69",
+          "name": "Vinnie Sagastume"
+        }
+      ]
+    },
+    {
+      "name": "Carleton College-GoP",
+      "seed": 8,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Gods of Plastic",
+        "location": "Northfield, Minnesota",
+        "website": "https://apps.carleton.edu/student/orgs/gop/",
+        "facebook": "",
+        "twitter": "https://twitter.com/goprocks"
+      },
+      "coaches": [
+        "Michael Massad"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Abi Goldenberg"
+        },
+        {
+          "number": "0",
+          "name": "Brendan Laliberte"
+        },
+        {
+          "number": "0",
+          "name": "Bryce Barton"
+        },
+        {
+          "number": "0",
+          "name": "Charlie Bushman"
+        },
+        {
+          "number": "0",
+          "name": "Dawson d'Almeida"
+        },
+        {
+          "number": "0",
+          "name": "Ezra Sergent-Leventhal"
+        },
+        {
+          "number": "0",
+          "name": "Ian Klein"
+        },
+        {
+          "number": "0",
+          "name": "Ian McCarthy"
+        },
+        {
+          "number": "0",
+          "name": "Noah Robiner"
+        },
+        {
+          "number": "0",
+          "name": "Oren Lieber-Kotz"
+        },
+        {
+          "number": "0",
+          "name": "Paul Ready"
+        },
+        {
+          "number": "0",
+          "name": "Quinn Mayville"
+        },
+        {
+          "number": "0",
+          "name": "Saul Wildavsky"
+        },
+        {
+          "number": "0",
+          "name": "Will Gleason"
+        },
+        {
+          "number": "0",
+          "name": "Zach DiNardo"
+        },
+        {
+          "number": "4",
+          "name": "Aidan Wolff-King"
+        },
+        {
+          "number": "7",
+          "name": "Samuel Miles"
+        },
+        {
+          "number": "8",
+          "name": "Jacob Cohen"
+        },
+        {
+          "number": "11",
+          "name": "Nathan Mannes"
+        },
+        {
+          "number": "20",
+          "name": "Jack Rybarczyk"
+        },
+        {
+          "number": "21",
+          "name": "Ry Alexander"
+        },
+        {
+          "number": "23",
+          "name": "Gabriel Lobet"
+        },
+        {
+          "number": "35",
+          "name": "Alex Rafkin"
+        },
+        {
+          "number": "35",
+          "name": "Austin Sorscher"
+        }
+      ]
+    },
+    {
+      "name": "Claremont",
+      "seed": 9,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Braineaters",
+        "location": "Claremont , California",
+        "website": "http://www.claremontultimate.org/",
+        "facebook": "",
+        "twitter": "https://twitter.com/BrainsUltimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Gabriel Gluskin-Braun"
+        },
+        {
+          "number": "0",
+          "name": "Gerard Bentley"
+        },
+        {
+          "number": "0",
+          "name": "Harrison Chotzen"
+        },
+        {
+          "number": "0",
+          "name": "David DAttile"
+        },
+        {
+          "number": "0",
+          "name": "Joseph Esbenshade"
+        },
+        {
+          "number": "0",
+          "name": "Logan Stouse"
+        },
+        {
+          "number": "0",
+          "name": "Omari Matthews"
+        },
+        {
+          "number": "0",
+          "name": "Rahul Dev"
+        },
+        {
+          "number": "0",
+          "name": "Seth Isaacson"
+        },
+        {
+          "number": "0",
+          "name": "Tristan Johnson"
+        },
+        {
+          "number": "3",
+          "name": "Jack Weber"
+        },
+        {
+          "number": "5",
+          "name": "Samin Zachariah"
+        },
+        {
+          "number": "10",
+          "name": "Siddharth Chandra"
+        },
+        {
+          "number": "12",
+          "name": "Leo Kitchell"
+        },
+        {
+          "number": "19",
+          "name": "August Cosinuke"
+        },
+        {
+          "number": "32",
+          "name": "Elijah Falk"
+        },
+        {
+          "number": "88",
+          "name": "Jeremy Snyder"
+        },
+        {
+          "number": "91",
+          "name": "Simon Gilbert"
+        }
+      ]
+    },
+    {
+      "name": "Oregon (B)",
+      "seed": 25,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Oregon B",
+        "location": "Eugene, Oregon",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Eric Delay"
+        },
+        {
+          "number": "0",
+          "name": "james sartor"
+        },
+        {
+          "number": "0",
+          "name": "Nick Hessler"
+        },
+        {
+          "number": "0",
+          "name": "Tyler Strandberg"
+        },
+        {
+          "number": "8",
+          "name": "Jack Guidry"
+        },
+        {
+          "number": "17",
+          "name": "Matt Spadaro"
+        },
+        {
+          "number": "50",
+          "name": "Graham Whealan"
+        }
+      ]
+    },
+    {
+      "name": "Control (High School)",
+      "seed": 40,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "High School",
+        "location": "Palo Alto, California",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Alain Saal-Dalma"
+        },
+        {
+          "number": "00",
+          "name": "Benjamin Pratt"
+        },
+        {
+          "number": "00",
+          "name": "Cameron Fiske"
+        },
+        {
+          "number": "00",
+          "name": "Christopher Liang"
+        },
+        {
+          "number": "00",
+          "name": "Evan Kandell"
+        },
+        {
+          "number": "00",
+          "name": "Hudson DeGroff"
+        },
+        {
+          "number": "00",
+          "name": "Ilai Beth"
+        },
+        {
+          "number": "00",
+          "name": "Itay Chang"
+        },
+        {
+          "number": "00",
+          "name": "Jack Flinchbaugh"
+        },
+        {
+          "number": "00",
+          "name": "Michael Tao"
+        },
+        {
+          "number": "00",
+          "name": "Peter Chen"
+        },
+        {
+          "number": "00",
+          "name": "Ryley  Ross"
+        },
+        {
+          "number": "00",
+          "name": "Samuel Eck"
+        },
+        {
+          "number": "00",
+          "name": "Tejas Kadambi"
+        },
+        {
+          "number": "00",
+          "name": "Zachary Rosner"
+        },
+        {
+          "number": "23",
+          "name": "Ryden Secor"
+        }
+      ]
+    },
+    {
+      "name": "Sacramento State",
+      "seed": 24,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Sac State",
+        "location": "Sacramento, California",
+        "website": "http://www.csus.edu/soal/sport-and-recreation-clubs/Ultimate/index.html",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Aaron Sabin"
+        },
+        {
+          "number": "0",
+          "name": "Aaron Schiek"
+        },
+        {
+          "number": "0",
+          "name": "Bethany Griffith"
+        },
+        {
+          "number": "0",
+          "name": "Brandon Quimson"
+        },
+        {
+          "number": "0",
+          "name": "Christine Hopkins"
+        },
+        {
+          "number": "0",
+          "name": "Christopher Davidson"
+        },
+        {
+          "number": "0",
+          "name": "Dante Khachadourian"
+        },
+        {
+          "number": "0",
+          "name": "Erik Rubio"
+        },
+        {
+          "number": "0",
+          "name": "Ethan Covert"
+        },
+        {
+          "number": "0",
+          "name": "John Kenkel"
+        },
+        {
+          "number": "0",
+          "name": "Jonathan VanMaren"
+        },
+        {
+          "number": "0",
+          "name": "Micah Biggers"
+        },
+        {
+          "number": "0",
+          "name": "Peter Creasman"
+        },
+        {
+          "number": "0",
+          "name": "Raymond Purscell"
+        },
+        {
+          "number": "0",
+          "name": "Robert Gomez"
+        },
+        {
+          "number": "0",
+          "name": "Roy Hawke"
+        },
+        {
+          "number": "0",
+          "name": "Zyan Magallanez"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Men's Saturday Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Cal Poly-SLO (B)",
+              "team2": "Seven Hills Red Boys (High School)",
+              "score1": 5,
+              "score2": 13,
+              "datetime": "2019-02-09T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Duke",
+              "team2": "Portland",
+              "score1": 13,
+              "score2": 9,
+              "datetime": "2019-02-09T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "California",
+              "team2": "Seven Hills Red Boys (High School)",
+              "score1": 13,
+              "score2": 9,
+              "datetime": "2019-02-09T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Portland",
+              "team2": "Cal Poly-SLO (B)",
+              "score1": 13,
+              "score2": 5,
+              "datetime": "2019-02-09T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "California",
+              "team2": "Cal Poly-SLO (B)",
+              "score1": 13,
+              "score2": 2,
+              "datetime": "2019-02-09T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Duke",
+              "team2": "Seven Hills Red Boys (High School)",
+              "score1": 10,
+              "score2": 8,
+              "datetime": "2019-02-09T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "California",
+              "team2": "Duke",
+              "score1": 13,
+              "score2": 6,
+              "datetime": "2019-02-09T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Portland",
+              "team2": "Seven Hills Red Boys (High School)",
+              "score1": 9,
+              "score2": 10,
+              "datetime": "2019-02-09T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "California",
+              "team2": "Portland",
+              "score1": 9,
+              "score2": 10,
+              "datetime": "2019-02-09T15:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Duke",
+              "team2": "Cal Poly-SLO (B)",
+              "score1": 11,
+              "score2": 2,
+              "datetime": "2019-02-09T15:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool B",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Cal Poly-Pomona",
+              "team2": "Colorado School of Mines",
+              "score1": 9,
+              "score2": 11,
+              "datetime": "2019-02-09T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Stanford",
+              "team2": "Washington University",
+              "score1": 10,
+              "score2": 9,
+              "datetime": "2019-02-09T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Stanford",
+              "team2": "Cal Poly-Pomona",
+              "score1": 13,
+              "score2": 11,
+              "datetime": "2019-02-09T09:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Washington University",
+              "team2": "Colorado School of Mines",
+              "score1": 11,
+              "score2": 7,
+              "datetime": "2019-02-09T09:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Washington University",
+              "team2": "Cal Poly-Pomona",
+              "score1": 10,
+              "score2": 8,
+              "datetime": "2019-02-09T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Stanford",
+              "team2": "Colorado School of Mines",
+              "score1": 11,
+              "score2": 10,
+              "datetime": "2019-02-09T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool C",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Santa Clara",
+              "team2": "California (B)",
+              "score1": 13,
+              "score2": 7,
+              "datetime": "2019-02-09T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "San Jose State",
+              "team2": "Texas (B)",
+              "score1": 10,
+              "score2": 11,
+              "datetime": "2019-02-09T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Santa Clara",
+              "team2": "San Jose State",
+              "score1": 13,
+              "score2": 5,
+              "datetime": "2019-02-09T09:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Whitman",
+              "team2": "Texas (B)",
+              "score1": 13,
+              "score2": 5,
+              "datetime": "2019-02-09T09:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Texas (B)",
+              "team2": "California (B)",
+              "score1": 5,
+              "score2": 10,
+              "datetime": "2019-02-09T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Whitman",
+              "team2": "San Jose State",
+              "score1": 13,
+              "score2": 0,
+              "datetime": "2019-02-09T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Santa Clara",
+              "team2": "Whitman",
+              "score1": 8,
+              "score2": 10,
+              "datetime": "2019-02-09T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "San Jose State",
+              "team2": "California (B)",
+              "score1": 7,
+              "score2": 10,
+              "datetime": "2019-02-09T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Santa Clara",
+              "team2": "Texas (B)",
+              "score1": 13,
+              "score2": 1,
+              "datetime": "2019-02-09T15:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Whitman",
+              "team2": "California (B)",
+              "score1": 13,
+              "score2": 2,
+              "datetime": "2019-02-09T15:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool D",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "UCLA",
+              "team2": "Coup Red (High School)",
+              "score1": 13,
+              "score2": 2,
+              "datetime": "2019-02-09T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Utah State",
+              "team2": "Humboldt State",
+              "score1": 5,
+              "score2": 13,
+              "datetime": "2019-02-09T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "UCLA",
+              "team2": "Whitworth",
+              "score1": 13,
+              "score2": 7,
+              "datetime": "2019-02-09T09:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Humboldt State",
+              "team2": "Coup Red (High School)",
+              "score1": 12,
+              "score2": 10,
+              "datetime": "2019-02-09T09:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Whitworth",
+              "team2": "Humboldt State",
+              "score1": 9,
+              "score2": 8,
+              "datetime": "2019-02-09T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Utah State",
+              "team2": "Coup Red (High School)",
+              "score1": 10,
+              "score2": 9,
+              "datetime": "2019-02-09T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Utah State",
+              "team2": "Whitworth",
+              "score1": 9,
+              "score2": 8,
+              "datetime": "2019-02-09T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "UCLA",
+              "team2": "Humboldt State",
+              "score1": 13,
+              "score2": 4,
+              "datetime": "2019-02-09T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "UCLA",
+              "team2": "Utah State",
+              "score1": 11,
+              "score2": 8,
+              "datetime": "2019-02-09T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Whitworth",
+              "team2": "Coup Red (High School)",
+              "score1": 9,
+              "score2": 11,
+              "datetime": "2019-02-09T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool E",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "California-Davis",
+              "team2": "Seven Hills Blue Boys (High School)",
+              "score1": 12,
+              "score2": 9,
+              "datetime": "2019-02-09T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Chico State",
+              "team2": "Stanford (B)",
+              "score1": 13,
+              "score2": 2,
+              "datetime": "2019-02-09T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "California-Davis",
+              "team2": "Chico State",
+              "score1": 10,
+              "score2": 7,
+              "datetime": "2019-02-09T09:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "North Texas",
+              "team2": "Stanford (B)",
+              "score1": 13,
+              "score2": 2,
+              "datetime": "2019-02-09T09:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Stanford (B)",
+              "team2": "Seven Hills Blue Boys (High School)",
+              "score1": 2,
+              "score2": 13,
+              "datetime": "2019-02-09T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "North Texas",
+              "team2": "Chico State",
+              "score1": 11,
+              "score2": 9,
+              "datetime": "2019-02-09T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "California-Davis",
+              "team2": "Stanford (B)",
+              "score1": 13,
+              "score2": 2,
+              "datetime": "2019-02-09T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "North Texas",
+              "team2": "Seven Hills Blue Boys (High School)",
+              "score1": 11,
+              "score2": 10,
+              "datetime": "2019-02-09T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "California-Davis",
+              "team2": "North Texas",
+              "score1": 13,
+              "score2": 8,
+              "datetime": "2019-02-09T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Chico State",
+              "team2": "Seven Hills Blue Boys (High School)",
+              "score1": 9,
+              "score2": 5,
+              "datetime": "2019-02-09T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool F",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Arizona",
+              "team2": "Lewis & Clark",
+              "score1": 7,
+              "score2": 9,
+              "datetime": "2019-02-09T09:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Las Positas",
+              "team2": "California-Santa Cruz",
+              "score1": 13,
+              "score2": 11,
+              "datetime": "2019-02-09T09:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "California-Santa Cruz",
+              "team2": "Washington (B)",
+              "score1": 11,
+              "score2": 5,
+              "datetime": "2019-02-09T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Las Positas",
+              "team2": "Lewis & Clark",
+              "score1": 12,
+              "score2": 8,
+              "datetime": "2019-02-09T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Arizona",
+              "team2": "California-Santa Cruz",
+              "score1": 10,
+              "score2": 13,
+              "datetime": "2019-02-09T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Las Positas",
+              "team2": "Washington (B)",
+              "score1": 13,
+              "score2": 3,
+              "datetime": "2019-02-09T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Arizona",
+              "team2": "Las Positas",
+              "score1": 5,
+              "score2": 13,
+              "datetime": "2019-02-09T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Lewis & Clark",
+              "team2": "Washington (B)",
+              "score1": 11,
+              "score2": 5,
+              "datetime": "2019-02-09T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Arizona",
+              "team2": "Washington (B)",
+              "score1": 8,
+              "score2": 10,
+              "datetime": "2019-02-09T15:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Lewis & Clark",
+              "team2": "California-Santa Cruz",
+              "score1": 9,
+              "score2": 11,
+              "datetime": "2019-02-09T15:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool G",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Occidental",
+              "team2": "Sonoma State",
+              "score1": 13,
+              "score2": 6,
+              "datetime": "2019-02-09T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Air Force",
+              "team2": "Nevada-Reno",
+              "score1": 13,
+              "score2": 6,
+              "datetime": "2019-02-09T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Nevada-Reno",
+              "team2": "Occidental",
+              "score1": 11,
+              "score2": 5,
+              "datetime": "2019-02-09T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Air Force",
+              "team2": "Sonoma State",
+              "score1": 13,
+              "score2": 5,
+              "datetime": "2019-02-09T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Air Force",
+              "team2": "Occidental",
+              "score1": 13,
+              "score2": 4,
+              "datetime": "2019-02-09T15:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Nevada-Reno",
+              "team2": "Sonoma State",
+              "score1": 13,
+              "score2": 6,
+              "datetime": "2019-02-09T15:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool H",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Carleton College-GoP",
+              "team2": "Control (High School)",
+              "score1": 13,
+              "score2": 3,
+              "datetime": "2019-02-09T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Sacramento State",
+              "team2": "Oregon (B)",
+              "score1": 10,
+              "score2": 12,
+              "datetime": "2019-02-09T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Carleton College-GoP",
+              "team2": "Sacramento State",
+              "score1": 13,
+              "score2": 2,
+              "datetime": "2019-02-09T09:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Claremont",
+              "team2": "Oregon (B)",
+              "score1": 10,
+              "score2": 8,
+              "datetime": "2019-02-09T09:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Carleton College-GoP",
+              "team2": "Claremont",
+              "score1": 12,
+              "score2": 6,
+              "datetime": "2019-02-09T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Sacramento State",
+              "team2": "Control (High School)",
+              "score1": 5,
+              "score2": 12,
+              "datetime": "2019-02-09T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Carleton College-GoP",
+              "team2": "Oregon (B)",
+              "score1": 13,
+              "score2": 5,
+              "datetime": "2019-02-09T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Claremont",
+              "team2": "Control (High School)",
+              "score1": 11,
+              "score2": 7,
+              "datetime": "2019-02-09T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Oregon (B)",
+              "team2": "Control (High School)",
+              "score1": 11,
+              "score2": 8,
+              "datetime": "2019-02-09T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Claremont",
+              "team2": "Sacramento State",
+              "score1": 13,
+              "score2": 9,
+              "datetime": "2019-02-09T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Men's Sunday Championship Bracket",
+      "groups": [
+        {
+          "name": "1st Place Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "California",
+              "team2": "Whitman",
+              "score1": 6,
+              "score2": 5,
+              "datetime": "2019-02-10T15:00:00Z",
+              "round": "Championship Game",
+              "status": "Final"
+            },
+            {
+              "team1": "California",
+              "team2": "Santa Clara",
+              "score1": 10,
+              "score2": 2,
+              "datetime": "2019-02-10T14:00:00Z",
+              "round": "Semis",
+              "status": "Final"
+            },
+            {
+              "team1": "Whitman",
+              "team2": "Nevada-Reno",
+              "score1": 8,
+              "score2": 3,
+              "datetime": "2019-02-10T14:00:00Z",
+              "round": "Semis",
+              "status": "Final"
+            },
+            {
+              "team1": "California",
+              "team2": "Air Force",
+              "score1": 9,
+              "score2": 8,
+              "datetime": "2019-02-10T13:00:00Z",
+              "round": "Quarters",
+              "status": "Final"
+            },
+            {
+              "team1": "California-Davis",
+              "team2": "Santa Clara",
+              "score1": 4,
+              "score2": 9,
+              "datetime": "2019-02-10T13:00:00Z",
+              "round": "Quarters",
+              "status": "Final"
+            },
+            {
+              "team1": "Whitman",
+              "team2": "Las Positas",
+              "score1": 7,
+              "score2": 6,
+              "datetime": "2019-02-10T13:00:00Z",
+              "round": "Quarters",
+              "status": "Final"
+            },
+            {
+              "team1": "Nevada-Reno",
+              "team2": "Stanford",
+              "score1": 6,
+              "score2": 5,
+              "datetime": "2019-02-10T13:00:00Z",
+              "round": "Quarters",
+              "status": "Final"
+            },
+            {
+              "team1": "California",
+              "team2": "Washington University",
+              "score1": 7,
+              "score2": 3,
+              "datetime": "2019-02-10T11:00:00Z",
+              "round": "Prequarters",
+              "status": "Final"
+            },
+            {
+              "team1": "Air Force",
+              "team2": "Claremont",
+              "score1": 7,
+              "score2": 1,
+              "datetime": "2019-02-10T11:00:00Z",
+              "round": "Prequarters",
+              "status": "Final"
+            },
+            {
+              "team1": "California-Davis",
+              "team2": "California-Santa Cruz",
+              "score1": 5,
+              "score2": 4,
+              "datetime": "2019-02-10T11:00:00Z",
+              "round": "Prequarters",
+              "status": "Final"
+            },
+            {
+              "team1": "UCLA",
+              "team2": "Santa Clara",
+              "score1": 6,
+              "score2": 7,
+              "datetime": "2019-02-10T11:00:00Z",
+              "round": "Prequarters",
+              "status": "Final"
+            },
+            {
+              "team1": "Whitman",
+              "team2": "Humboldt State",
+              "score1": 9,
+              "score2": 5,
+              "datetime": "2019-02-10T12:00:00Z",
+              "round": "Prequarters",
+              "status": "Final"
+            },
+            {
+              "team1": "Las Positas",
+              "team2": "North Texas",
+              "score1": 11,
+              "score2": 8,
+              "datetime": "2019-02-10T12:00:00Z",
+              "round": "Prequarters",
+              "status": "Final"
+            },
+            {
+              "team1": "Carleton College-GoP",
+              "team2": "Nevada-Reno",
+              "score1": 7,
+              "score2": 8,
+              "datetime": "2019-02-10T12:00:00Z",
+              "round": "Prequarters",
+              "status": "Final"
+            },
+            {
+              "team1": "Stanford",
+              "team2": "Duke",
+              "score1": 8,
+              "score2": 6,
+              "datetime": "2019-02-10T12:00:00Z",
+              "round": "Prequarters",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "3rd Place Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Santa Clara",
+              "team2": "Carleton College-GoP",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2019-02-10T15:00:00Z",
+              "round": "3rd Place Game",
+              "status": "Cancelled"
+            }
+          ]
+        },
+        {
+          "name": "5th Place Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Air Force",
+              "team2": "California-Davis",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2019-02-10T12:30:00Z",
+              "round": "5th Semis",
+              "status": "Cancelled"
+            },
+            {
+              "team1": "Las Positas",
+              "team2": "Stanford",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2019-02-10T12:30:00Z",
+              "round": "5th Semis",
+              "status": "Cancelled"
+            }
+          ]
+        },
+        {
+          "name": "9th Place Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Humboldt State",
+              "team2": "Carleton College-GoP",
+              "score1": 3,
+              "score2": 8,
+              "datetime": "2019-02-10T11:00:00Z",
+              "round": "9th Quarters",
+              "status": "Final"
+            },
+            {
+              "team1": "California-Santa Cruz",
+              "team2": "UCLA",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2019-02-10T11:00:00Z",
+              "round": "9th Quarters",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Humboldt State",
+              "team2": "North Texas",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2019-02-10T11:00:00Z",
+              "round": "9th Quarters",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Claremont",
+              "team2": "Duke",
+              "score1": 4,
+              "score2": 8,
+              "datetime": "2019-02-10T11:00:00Z",
+              "round": "9th Quarters",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "13th Place Bracket",
+          "isChampionship": false,
+          "games": []
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Men's Sunday 17-24 Bracket",
+      "groups": [
+        {
+          "name": "17th Place Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Seven Hills Red Boys (High School)",
+              "team2": "Colorado School of Mines",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2019-02-10T08:00:00Z",
+              "round": "17th Quarters",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "California (B)",
+              "team2": "Utah State",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2019-02-10T08:00:00Z",
+              "round": "17th Quarters",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Chico State",
+              "team2": "Lewis & Clark",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2019-02-10T08:00:00Z",
+              "round": "17th Quarters",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Occidental",
+              "team2": "Oregon (B)",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2019-02-10T08:00:00Z",
+              "round": "17th Quarters",
+              "status": "Scheduled"
+            }
+          ]
+        },
+        {
+          "name": "19th Place Bracket",
+          "isChampionship": false,
+          "games": []
+        },
+        {
+          "name": "21st Place Bracket",
+          "isChampionship": false,
+          "games": []
+        },
+        {
+          "name": "23rd Place Bracket",
+          "isChampionship": false,
+          "games": []
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Men's Sunday 25-32 Bracket",
+      "groups": [
+        {
+          "name": "25th Place Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Portland",
+              "team2": "Cal Poly-Pomona",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2019-02-10T08:00:00Z",
+              "round": "25th Quarters",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Texas (B)",
+              "team2": "Coup Red (High School)",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2019-02-10T08:00:00Z",
+              "round": "25th Quarters",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Seven Hills Blue Boys (High School)",
+              "team2": "Washington (B)",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2019-02-10T08:00:00Z",
+              "round": "25th Quarters",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Sonoma State",
+              "team2": "Control (High School)",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2019-02-10T08:00:00Z",
+              "round": "25th Quarters",
+              "status": "Scheduled"
+            }
+          ]
+        },
+        {
+          "name": "27th Place Bracket",
+          "isChampionship": false,
+          "games": []
+        },
+        {
+          "name": "29th Place Bracket",
+          "isChampionship": false,
+          "games": []
+        },
+        {
+          "name": "31st Place Bracket",
+          "isChampionship": false,
+          "games": []
+        }
+      ]
+    },
+    {
+      "type": "pools",
+      "name": "Men's Sunday Consolation Pools",
+      "groups": [
+        {
+          "name": "Consolation Pool 1",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "San Jose State",
+              "team2": "Whitworth",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2019-02-10T08:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Cal Poly-SLO (B)",
+              "team2": "Whitworth",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2019-02-10T11:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Cal Poly-SLO (B)",
+              "team2": "San Jose State",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2019-02-10T12:30:00Z",
+              "round": "",
+              "status": "Scheduled"
+            }
+          ]
+        },
+        {
+          "name": "Consolation Pool 2",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Arizona",
+              "team2": "Sacramento State",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2019-02-10T08:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Stanford (B)",
+              "team2": "Sacramento State",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2019-02-10T11:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Stanford (B)",
+              "team2": "Arizona",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2019-02-10T12:30:00Z",
+              "round": "",
+              "status": "Scheduled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "clusters",
+      "name": "Men's Sunday Consolation Pools Crossover",
+      "groups": []
+    }
+  ]
+}

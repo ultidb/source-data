@@ -1,0 +1,656 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2021/Northwoods-D-I-College-Mens-CC-2021CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/Northwoods-D-I-College-Mens-CC-2021/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:17.878583Z",
+  "event": {
+    "name": "Northwoods D-I College Men's CC 2021",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2021,
+    "city": "Woodbury",
+    "state": "MN",
+    "country": "",
+    "startDate": "2021-10-16",
+    "endDate": "2021-10-17"
+  },
+  "teams": [
+    {
+      "name": "Minnesota",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Grey Duck",
+        "location": "Minneapolis, Minnesota",
+        "website": "http://mngreyduck.weebly.com/",
+        "facebook": "https://www.facebook.com/MNGreyDuck",
+        "twitter": "@1Duck1Love"
+      },
+      "coaches": [
+        "Kevin Bruns"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Bela Konkoly"
+        },
+        {
+          "number": "0",
+          "name": "Brandon Macho"
+        },
+        {
+          "number": "0",
+          "name": "Charles Collinge"
+        },
+        {
+          "number": "0",
+          "name": "Dante Reminick"
+        },
+        {
+          "number": "0",
+          "name": "Drew Bonnabeau"
+        },
+        {
+          "number": "0",
+          "name": "Alex Tsvetkov"
+        },
+        {
+          "number": "0",
+          "name": "Joseph Pickens"
+        },
+        {
+          "number": "0",
+          "name": "Kenji Her"
+        },
+        {
+          "number": "0",
+          "name": "Levi Dohman"
+        },
+        {
+          "number": "0",
+          "name": "Maximilian Dewberry"
+        },
+        {
+          "number": "0",
+          "name": "Noah Fogel"
+        },
+        {
+          "number": "0",
+          "name": "Samuel Morris"
+        },
+        {
+          "number": "0",
+          "name": "Sebastian Brauer"
+        },
+        {
+          "number": "0",
+          "name": "Theo Mahaffey"
+        },
+        {
+          "number": "3",
+          "name": "Ishaan Lukhey"
+        },
+        {
+          "number": "5",
+          "name": "Owen Gin"
+        },
+        {
+          "number": "10",
+          "name": "Anthony Jirele"
+        },
+        {
+          "number": "11",
+          "name": "Ian Mccosky"
+        },
+        {
+          "number": "11",
+          "name": "Jack Walters-Medaris"
+        },
+        {
+          "number": "12",
+          "name": "A.J. Larson"
+        },
+        {
+          "number": "14",
+          "name": "Jackson Cade"
+        },
+        {
+          "number": "17",
+          "name": "Paul Liang"
+        },
+        {
+          "number": "19",
+          "name": "Austin King"
+        },
+        {
+          "number": "20",
+          "name": "Matt Sweeney"
+        },
+        {
+          "number": "23",
+          "name": "Paul Krenik"
+        },
+        {
+          "number": "57",
+          "name": "Owen Schigiel"
+        },
+        {
+          "number": "86",
+          "name": "John Helgeson"
+        },
+        {
+          "number": "88",
+          "name": "Evan Ellis"
+        }
+      ]
+    },
+    {
+      "name": "Carleton College",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "CUT",
+        "location": "Northfield, Minnesota",
+        "website": "http://orgs.carleton.edu/cut/",
+        "facebook": "https://www.facebook.com/CUTrules",
+        "twitter": "https://twitter.com/cutrules"
+      },
+      "coaches": [
+        "Philip Bowen"
+      ],
+      "roster": [
+        {
+          "number": "1",
+          "name": "Robert Breyer"
+        },
+        {
+          "number": "2",
+          "name": "Michael Walsh"
+        },
+        {
+          "number": "3",
+          "name": "Tony Ngo"
+        },
+        {
+          "number": "5",
+          "name": "Noah Hanson"
+        },
+        {
+          "number": "6",
+          "name": "Edwin Driver"
+        },
+        {
+          "number": "7",
+          "name": "Tim Jensen"
+        },
+        {
+          "number": "9",
+          "name": "Anders Shenholm"
+        },
+        {
+          "number": "10",
+          "name": "Elias Levey-Swain"
+        },
+        {
+          "number": "12",
+          "name": "Mauricio Badillo Moorman"
+        },
+        {
+          "number": "12",
+          "name": "Sam McCarty"
+        },
+        {
+          "number": "13",
+          "name": "Benjamin Preiss"
+        },
+        {
+          "number": "14",
+          "name": "Dillon Lanier"
+        },
+        {
+          "number": "17",
+          "name": "Elijah Babcock"
+        },
+        {
+          "number": "19",
+          "name": "Stanley Birdsong"
+        },
+        {
+          "number": "21",
+          "name": "Ethan Bloodworth"
+        },
+        {
+          "number": "22",
+          "name": "Austin Baxter"
+        },
+        {
+          "number": "23",
+          "name": "Alexander Kucich"
+        },
+        {
+          "number": "24",
+          "name": "Noah Cohen"
+        },
+        {
+          "number": "25",
+          "name": "Justin Washington"
+        },
+        {
+          "number": "26",
+          "name": "Ed Dowling"
+        },
+        {
+          "number": "29",
+          "name": "Jace Dean"
+        },
+        {
+          "number": "30",
+          "name": "Luke Webb"
+        },
+        {
+          "number": "32",
+          "name": "Andrew Roy"
+        },
+        {
+          "number": "47",
+          "name": "Sawyer  Blair"
+        },
+        {
+          "number": "51",
+          "name": "Jared Kannel"
+        },
+        {
+          "number": "54",
+          "name": "Michael Dreger"
+        },
+        {
+          "number": "55",
+          "name": "Leo Jordan"
+        },
+        {
+          "number": "77",
+          "name": "William Fleming"
+        },
+        {
+          "number": "80",
+          "name": "Conor Babcock O'Neill"
+        },
+        {
+          "number": "81",
+          "name": "Eric Wright"
+        },
+        {
+          "number": "82",
+          "name": "Will Troop"
+        },
+        {
+          "number": "83",
+          "name": "Adriel Barham"
+        },
+        {
+          "number": "83",
+          "name": "Colin Brown"
+        },
+        {
+          "number": "84",
+          "name": "Liam Holloway-Bidwell"
+        },
+        {
+          "number": "84",
+          "name": "Clay Haddock"
+        },
+        {
+          "number": "89",
+          "name": "Leo Xiao"
+        },
+        {
+          "number": "92",
+          "name": "Benjamin Scott-Lewis"
+        },
+        {
+          "number": "95",
+          "name": "George Lefkowicz"
+        },
+        {
+          "number": "96",
+          "name": "Cullen Baker"
+        },
+        {
+          "number": "97",
+          "name": "Adam Rothman"
+        },
+        {
+          "number": "98",
+          "name": "Bobby Eleveld"
+        },
+        {
+          "number": "99",
+          "name": "Daniel Chen"
+        }
+      ]
+    },
+    {
+      "name": "Minnesota (C)",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Rubber Ducky",
+        "location": "Minneapolis, Minnesota",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Frank Toft"
+        },
+        {
+          "number": "0",
+          "name": "Gavin Hougo"
+        },
+        {
+          "number": "0",
+          "name": "Gavin Johnson"
+        },
+        {
+          "number": "0",
+          "name": "Ian Brudnak Voss"
+        },
+        {
+          "number": "0",
+          "name": "Ishan Sodhi"
+        },
+        {
+          "number": "0",
+          "name": "Jack Lin"
+        },
+        {
+          "number": "0",
+          "name": "Jack Steege"
+        },
+        {
+          "number": "0",
+          "name": "Jake Holst"
+        },
+        {
+          "number": "0",
+          "name": "Joshua Stansberry"
+        },
+        {
+          "number": "0",
+          "name": "Kol Jansa"
+        },
+        {
+          "number": "0",
+          "name": "Lake Martin"
+        },
+        {
+          "number": "0",
+          "name": "Maxwell Siqveland"
+        },
+        {
+          "number": "0",
+          "name": "Alex Staib"
+        },
+        {
+          "number": "0",
+          "name": "Andrew Peichel"
+        },
+        {
+          "number": "0",
+          "name": "Andrew Barnard"
+        },
+        {
+          "number": "0",
+          "name": "Andrew Hale"
+        },
+        {
+          "number": "0",
+          "name": "Brady Stoffel"
+        },
+        {
+          "number": "0",
+          "name": "Christian Steiner"
+        },
+        {
+          "number": "0",
+          "name": "Michael Schnall"
+        },
+        {
+          "number": "0",
+          "name": "Peter Lark"
+        },
+        {
+          "number": "0",
+          "name": "Stuart Fronk"
+        },
+        {
+          "number": "0",
+          "name": "Theo Andre"
+        },
+        {
+          "number": "10",
+          "name": "Parker Jelen"
+        },
+        {
+          "number": "15",
+          "name": "Mercer Dilweg"
+        },
+        {
+          "number": "29",
+          "name": "Dylan Haugee"
+        },
+        {
+          "number": "81",
+          "name": "Adam Dahlquist"
+        }
+      ]
+    },
+    {
+      "name": "Minnesota (B)",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Ugly Duckling",
+        "location": "Minneapolis, Minnesota",
+        "website": "http://mnuglyduckling.weebly.com/",
+        "facebook": "",
+        "twitter": "@UglyDucklingUMN"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alex Kozitza"
+        },
+        {
+          "number": "0",
+          "name": "Caleb Reed"
+        },
+        {
+          "number": "0",
+          "name": "Cole Pivec"
+        },
+        {
+          "number": "0",
+          "name": "Colin Hogendorn"
+        },
+        {
+          "number": "0",
+          "name": "Donovan Peterson"
+        },
+        {
+          "number": "0",
+          "name": "Grant Borcherding"
+        },
+        {
+          "number": "0",
+          "name": "Jacob Markus"
+        },
+        {
+          "number": "0",
+          "name": "Jacob Ode"
+        },
+        {
+          "number": "0",
+          "name": "John Lei"
+        },
+        {
+          "number": "0",
+          "name": "Joshua Sereno"
+        },
+        {
+          "number": "0",
+          "name": "Kellen OConnor"
+        },
+        {
+          "number": "0",
+          "name": "Lachlan Cotner"
+        },
+        {
+          "number": "0",
+          "name": "Lukas Ley"
+        },
+        {
+          "number": "0",
+          "name": "Max Beck"
+        },
+        {
+          "number": "0",
+          "name": "Mike McMorrow"
+        },
+        {
+          "number": "0",
+          "name": "Neil DeVries Smith"
+        },
+        {
+          "number": "0",
+          "name": "Patrick Wozniak"
+        },
+        {
+          "number": "0",
+          "name": "Peter Nuon"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Bracken"
+        },
+        {
+          "number": "0",
+          "name": "Sam Revermann"
+        },
+        {
+          "number": "0",
+          "name": "TeDabi O'Gorman"
+        },
+        {
+          "number": "0",
+          "name": "Vincent Trinh"
+        },
+        {
+          "number": "7",
+          "name": "Charles Schulz"
+        },
+        {
+          "number": "10",
+          "name": "Ryan Alexander"
+        },
+        {
+          "number": "26",
+          "name": "Charlie Nirenstein"
+        },
+        {
+          "number": "35",
+          "name": "Henry Lyne"
+        },
+        {
+          "number": "37",
+          "name": "Alex Zheng"
+        },
+        {
+          "number": "49",
+          "name": "Jacob Graff"
+        },
+        {
+          "number": "69",
+          "name": "Mason Hamar"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Saturday Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Carleton College",
+              "team2": "Minnesota (B)",
+              "score1": 15,
+              "score2": 1,
+              "datetime": "2021-10-16T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Minnesota",
+              "team2": "Minnesota (C)",
+              "score1": 15,
+              "score2": 3,
+              "datetime": "2021-10-16T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Carleton College",
+              "team2": "Minnesota (C)",
+              "score1": 15,
+              "score2": 2,
+              "datetime": "2021-10-16T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Minnesota",
+              "team2": "Minnesota (B)",
+              "score1": 15,
+              "score2": 0,
+              "datetime": "2021-10-16T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Carleton College",
+              "team2": "Minnesota",
+              "score1": 11,
+              "score2": 13,
+              "datetime": "2021-10-16T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Minnesota (B)",
+              "team2": "Minnesota (C)",
+              "score1": 6,
+              "score2": 15,
+              "datetime": "2021-10-16T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

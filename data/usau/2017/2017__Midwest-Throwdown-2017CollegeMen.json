@@ -1,0 +1,4094 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2017/Midwest-Throwdown-2017CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/Midwest-Throwdown-2017/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:14.659516Z",
+  "event": {
+    "name": "Midwest Throwdown 2017",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2017,
+    "city": "Columbia",
+    "state": "MO",
+    "country": "",
+    "startDate": "2017-03-04",
+    "endDate": "2017-03-05"
+  },
+  "teams": [
+    {
+      "name": "Northwestern",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "NUT",
+        "location": "Evanston, Illinois",
+        "website": "https://www.nutultimate.com",
+        "facebook": "https://www.facebook.com/NUTUltimate",
+        "twitter": "https://twitter.com/NUTUltimate"
+      },
+      "coaches": [
+        "Kevin Yngve"
+      ],
+      "roster": [
+        {
+          "number": "02",
+          "name": "Benjamin Spielman"
+        },
+        {
+          "number": "05",
+          "name": "Raul Rosenfeld"
+        },
+        {
+          "number": "07",
+          "name": "Keith Bohrer"
+        },
+        {
+          "number": "08",
+          "name": "Elliott Siu"
+        },
+        {
+          "number": "09",
+          "name": "Michael Hamburger"
+        },
+        {
+          "number": "10",
+          "name": "Matthew Niemer"
+        },
+        {
+          "number": "11",
+          "name": "Jeffrey Holm"
+        },
+        {
+          "number": "12",
+          "name": "Kyle Rutledge"
+        },
+        {
+          "number": "13",
+          "name": "Jeremy Piech"
+        },
+        {
+          "number": "15",
+          "name": "Elan Kane"
+        },
+        {
+          "number": "17",
+          "name": "Andrew Patel"
+        },
+        {
+          "number": "19",
+          "name": "Jevons Liu"
+        },
+        {
+          "number": "20",
+          "name": "Jay Valdillez"
+        },
+        {
+          "number": "23",
+          "name": "Eric Hochberger"
+        },
+        {
+          "number": "25",
+          "name": "Jonathan Piech"
+        },
+        {
+          "number": "27",
+          "name": "Edward Speyer"
+        },
+        {
+          "number": "31",
+          "name": "Christopher Pierce"
+        },
+        {
+          "number": "33",
+          "name": "Jakub Jezusek"
+        },
+        {
+          "number": "36",
+          "name": "Will Frolich"
+        },
+        {
+          "number": "41",
+          "name": "Christian Rozolis"
+        },
+        {
+          "number": "42",
+          "name": "Henry Richey"
+        },
+        {
+          "number": "44",
+          "name": "Isaiah Mendoza"
+        },
+        {
+          "number": "49",
+          "name": "Peter Pribyl Pierdinock"
+        },
+        {
+          "number": "57",
+          "name": "Bif Reiser"
+        },
+        {
+          "number": "58",
+          "name": "Theodore Bisdikian"
+        },
+        {
+          "number": "99",
+          "name": "Joshua Venegas"
+        }
+      ]
+    },
+    {
+      "name": "Iowa State",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "ISUC",
+        "location": "Ames, Iowa",
+        "website": "http://www.isucultimate.com/",
+        "facebook": "https://www.facebook.com/IowaStateUltimate",
+        "twitter": "https://twitter.com/UltimateISU"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Josh Poterack "
+        },
+        {
+          "number": "0",
+          "name": "JUSTIN PAGE"
+        },
+        {
+          "number": "0",
+          "name": "Michael Stevens"
+        },
+        {
+          "number": "2",
+          "name": "Logan Grothus"
+        },
+        {
+          "number": "4",
+          "name": "Brian Wandrei"
+        },
+        {
+          "number": "5",
+          "name": "Daniel Sullivan"
+        },
+        {
+          "number": "6",
+          "name": "Scott Hearne"
+        },
+        {
+          "number": "7",
+          "name": "Joel Morton"
+        },
+        {
+          "number": "8",
+          "name": "Joseph Kosterman"
+        },
+        {
+          "number": "11",
+          "name": "Jacob Badger"
+        },
+        {
+          "number": "11",
+          "name": "Richard Poterack"
+        },
+        {
+          "number": "12",
+          "name": "Grant Larson"
+        },
+        {
+          "number": "12",
+          "name": "Jack Sanders"
+        },
+        {
+          "number": "16",
+          "name": "Jon Olson"
+        },
+        {
+          "number": "21",
+          "name": "Ethan Sabado"
+        },
+        {
+          "number": "23",
+          "name": "Ben Joerger"
+        },
+        {
+          "number": "27",
+          "name": "Lukas Nesheim"
+        },
+        {
+          "number": "28",
+          "name": "Niko Beauchamp"
+        },
+        {
+          "number": "28",
+          "name": "Trevor Sawatzky"
+        },
+        {
+          "number": "33",
+          "name": "Peter Miller"
+        },
+        {
+          "number": "34",
+          "name": "Sam Habel"
+        },
+        {
+          "number": "52",
+          "name": "Bryan Hall"
+        },
+        {
+          "number": "54",
+          "name": "Alec Sauerbrei"
+        },
+        {
+          "number": "89",
+          "name": "Michael Sandstrom"
+        },
+        {
+          "number": "95",
+          "name": "Zachary Diener"
+        },
+        {
+          "number": "97",
+          "name": "Tanner Boyle"
+        }
+      ]
+    },
+    {
+      "name": "Washington University",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Contra",
+        "location": "St. Louis, Missouri",
+        "website": "contra.wustl.edu",
+        "facebook": "",
+        "twitter": "twitter.com/wucontra"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Arman Guerra"
+        },
+        {
+          "number": "0",
+          "name": "Brandon Parr"
+        },
+        {
+          "number": "0",
+          "name": "Delmar Tarrago"
+        },
+        {
+          "number": "0",
+          "name": "Evan Korte"
+        },
+        {
+          "number": "0",
+          "name": "Ian Bernstein"
+        },
+        {
+          "number": "0",
+          "name": "John Bisognano"
+        },
+        {
+          "number": "0",
+          "name": "JOHNNY HEIN"
+        },
+        {
+          "number": "0",
+          "name": "Khoa Nguyen"
+        },
+        {
+          "number": "0",
+          "name": "Nathan Vogt"
+        },
+        {
+          "number": "0",
+          "name": "Zachary Lin"
+        },
+        {
+          "number": "2",
+          "name": "Josh Rotker"
+        },
+        {
+          "number": "5",
+          "name": "Rett Hooper"
+        },
+        {
+          "number": "7",
+          "name": "Campbell Eshleman"
+        },
+        {
+          "number": "8",
+          "name": "Joel Maiman"
+        },
+        {
+          "number": "9",
+          "name": "Jared Crane"
+        },
+        {
+          "number": "10",
+          "name": "Nirek Sharma"
+        },
+        {
+          "number": "10",
+          "name": "Tony Bumatay"
+        },
+        {
+          "number": "14",
+          "name": "Matthew McElduff"
+        },
+        {
+          "number": "16",
+          "name": "Yuval Pearl"
+        },
+        {
+          "number": "17",
+          "name": "Evan Wilder"
+        },
+        {
+          "number": "21",
+          "name": "David Jones"
+        },
+        {
+          "number": "21",
+          "name": "Tanner  Nordell"
+        },
+        {
+          "number": "22",
+          "name": "Jordan Chow"
+        },
+        {
+          "number": "24",
+          "name": "Sam Gittleman"
+        },
+        {
+          "number": "31",
+          "name": "Ben Aunins"
+        },
+        {
+          "number": "33",
+          "name": "Jeremy Marcus"
+        },
+        {
+          "number": "33",
+          "name": "Sam Fisher"
+        },
+        {
+          "number": "41",
+          "name": "Cole Atkins"
+        },
+        {
+          "number": "42",
+          "name": "Jacob Reed"
+        }
+      ]
+    },
+    {
+      "name": "Missouri",
+      "seed": 8,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Missouri",
+        "location": "Columbia, Missouri",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alex Werner"
+        },
+        {
+          "number": "0",
+          "name": "Ben Rollings"
+        },
+        {
+          "number": "0",
+          "name": "Colin Iglehart"
+        },
+        {
+          "number": "0",
+          "name": "Colin Macgregor"
+        },
+        {
+          "number": "0",
+          "name": "Eric Piatchek"
+        },
+        {
+          "number": "0",
+          "name": "Eric Rideout"
+        },
+        {
+          "number": "0",
+          "name": "Jonathon Morris"
+        },
+        {
+          "number": "0",
+          "name": "Joshua Morris"
+        },
+        {
+          "number": "0",
+          "name": "MIKE BOYLE"
+        },
+        {
+          "number": "0",
+          "name": "Nicholas Biggs"
+        },
+        {
+          "number": "0",
+          "name": "Thomas Hopper"
+        },
+        {
+          "number": "0",
+          "name": "Zachary Campbell"
+        },
+        {
+          "number": "5",
+          "name": "Zachary Gase"
+        },
+        {
+          "number": "6",
+          "name": "Nicholas Mihulka"
+        },
+        {
+          "number": "11",
+          "name": "Colin OBrien"
+        },
+        {
+          "number": "15",
+          "name": "Mark Stedem"
+        },
+        {
+          "number": "16",
+          "name": "Evan Opsal"
+        },
+        {
+          "number": "17",
+          "name": "Ryan Tray"
+        },
+        {
+          "number": "34",
+          "name": "Kyle Hatten"
+        },
+        {
+          "number": "35",
+          "name": "Samuel Staloch"
+        },
+        {
+          "number": "35",
+          "name": "Sawyer Novak"
+        },
+        {
+          "number": "54",
+          "name": "Jack Carmichael"
+        },
+        {
+          "number": "67",
+          "name": "Greg Francis"
+        },
+        {
+          "number": "69",
+          "name": "JORDAN MCGHEE"
+        }
+      ]
+    },
+    {
+      "name": "Purdue",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Undue Ultimate",
+        "location": "West Lafayette, Indiana",
+        "website": "http://web.ics.purdue.edu/~ultimate/",
+        "facebook": "https://www.facebook.com/pages/Purdue-Ultimate-Frisbee/128269583915564",
+        "twitter": "https://twitter.com/UndueUltimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Trevor Kyle"
+        },
+        {
+          "number": "02",
+          "name": "Lowell Knight"
+        },
+        {
+          "number": "06",
+          "name": "Jacob Mock"
+        },
+        {
+          "number": "10",
+          "name": "Tucker Born"
+        },
+        {
+          "number": "12",
+          "name": "Joseph Byerly"
+        },
+        {
+          "number": "14",
+          "name": "Justin Bowling"
+        },
+        {
+          "number": "17",
+          "name": "Griffin Snead"
+        },
+        {
+          "number": "18",
+          "name": "Mike Kobyra"
+        },
+        {
+          "number": "19",
+          "name": "Daniel Blanc"
+        },
+        {
+          "number": "20",
+          "name": "Nick Loughran"
+        },
+        {
+          "number": "22",
+          "name": "Jake Slaveck"
+        },
+        {
+          "number": "23",
+          "name": "Sam Ellison"
+        },
+        {
+          "number": "27",
+          "name": "Aidan Gifford"
+        },
+        {
+          "number": "29",
+          "name": "John Sellers"
+        },
+        {
+          "number": "37",
+          "name": "Samuel Trent"
+        },
+        {
+          "number": "46",
+          "name": "Austin Ambrose"
+        },
+        {
+          "number": "52",
+          "name": "Jacob Fella"
+        },
+        {
+          "number": "54",
+          "name": "Drew Hirsch"
+        },
+        {
+          "number": "72",
+          "name": "Dalton Chaffee"
+        },
+        {
+          "number": "98",
+          "name": "Isaac Mock"
+        }
+      ]
+    },
+    {
+      "name": "St John's",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Saint John's Ultimate",
+        "location": "Collegeville, Minnesota",
+        "website": "",
+        "facebook": "https://www.facebook.com/pages/Saint-Johns-Ultimate/169796783097127",
+        "twitter": "https://twitter.com/SJUultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "01",
+          "name": "Samuel Richards"
+        },
+        {
+          "number": "02",
+          "name": "Colton Motschenbacher"
+        },
+        {
+          "number": "04",
+          "name": "Peter Flynn"
+        },
+        {
+          "number": "05",
+          "name": "Charlie Schuweiler"
+        },
+        {
+          "number": "07",
+          "name": "John Schmelzer "
+        },
+        {
+          "number": "08",
+          "name": "Jeffrey McGurran"
+        },
+        {
+          "number": "09",
+          "name": "Mitch Rotert"
+        },
+        {
+          "number": "11",
+          "name": "Justin Wollin"
+        },
+        {
+          "number": "14",
+          "name": "Seamus Ott"
+        },
+        {
+          "number": "18",
+          "name": "Tyler Meyer"
+        },
+        {
+          "number": "22",
+          "name": "Patrick Ellingson"
+        },
+        {
+          "number": "24",
+          "name": "Tyler Wright"
+        },
+        {
+          "number": "27",
+          "name": "Andrew Ellingson"
+        },
+        {
+          "number": "42",
+          "name": "Noah Schmelzer"
+        },
+        {
+          "number": "47",
+          "name": "Isaac Lauer"
+        },
+        {
+          "number": "85",
+          "name": "Charlie Nicklay"
+        },
+        {
+          "number": "88",
+          "name": "Alec McFarlane"
+        }
+      ]
+    },
+    {
+      "name": "Kansas",
+      "seed": 7,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Horrorzontals",
+        "location": "Lawrence, Kansas",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "Tommy Gebhardt"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alex Przybylski"
+        },
+        {
+          "number": "0",
+          "name": "Bret Bergmeier"
+        },
+        {
+          "number": "0",
+          "name": "Brooks Hidaka"
+        },
+        {
+          "number": "0",
+          "name": "Caleb Robinson"
+        },
+        {
+          "number": "0",
+          "name": "Daniel Stahlhut"
+        },
+        {
+          "number": "0",
+          "name": "Isaac Powell"
+        },
+        {
+          "number": "0",
+          "name": "Jeremy Katz"
+        },
+        {
+          "number": "0",
+          "name": "Keaton Bowers"
+        },
+        {
+          "number": "0",
+          "name": "Owen Stegner"
+        },
+        {
+          "number": "0",
+          "name": "Taylor Ivey"
+        },
+        {
+          "number": "0",
+          "name": "Ulysses Hagedorn"
+        },
+        {
+          "number": "5",
+          "name": "Thomas Schreiber"
+        },
+        {
+          "number": "9",
+          "name": "William Diffin"
+        },
+        {
+          "number": "12",
+          "name": "Matt Primovic"
+        },
+        {
+          "number": "13",
+          "name": "Clarence Dennis"
+        },
+        {
+          "number": "15",
+          "name": "Neil Newsome"
+        },
+        {
+          "number": "17",
+          "name": "Jordan Bertholf"
+        },
+        {
+          "number": "27",
+          "name": "Mitchell Deery"
+        },
+        {
+          "number": "28",
+          "name": "David Vu"
+        },
+        {
+          "number": "30",
+          "name": "Lewis Lundy"
+        },
+        {
+          "number": "35",
+          "name": "Nicholas Bontrager"
+        },
+        {
+          "number": "74",
+          "name": "Jakob Yedo"
+        },
+        {
+          "number": "89",
+          "name": "David Stierwalt"
+        }
+      ]
+    },
+    {
+      "name": "Wisconsin-Milwaukee",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Black Cat",
+        "location": "Milwaukee, Wisconsin",
+        "website": "",
+        "facebook": "https://www.facebook.com/BlackCatUltimate?ref=br_tf",
+        "twitter": "@BlaCkatUltimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Kyle Gasiorowicz"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Cindric"
+        },
+        {
+          "number": "7",
+          "name": "Samuel Dirks"
+        },
+        {
+          "number": "8",
+          "name": "Tate Halberg"
+        },
+        {
+          "number": "8",
+          "name": "Richard Kerr"
+        },
+        {
+          "number": "9",
+          "name": "Greg Maddox"
+        },
+        {
+          "number": "10",
+          "name": "Deng Deng"
+        },
+        {
+          "number": "11",
+          "name": "Will Casperson"
+        },
+        {
+          "number": "17",
+          "name": "Drew Chapman"
+        },
+        {
+          "number": "19",
+          "name": "Austin Johnson"
+        },
+        {
+          "number": "30",
+          "name": "Stephen Becker"
+        },
+        {
+          "number": "52",
+          "name": "Jared Matthews"
+        },
+        {
+          "number": "81",
+          "name": "Joseph Pederson"
+        },
+        {
+          "number": "87",
+          "name": "John McCune"
+        }
+      ]
+    },
+    {
+      "name": "Minnesota-Duluth",
+      "seed": 9,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Northern Lights",
+        "location": "Duluth, Minnesota",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "David Huber"
+        },
+        {
+          "number": "9",
+          "name": "Regan Smith"
+        },
+        {
+          "number": "02",
+          "name": "Patrick Andresen"
+        },
+        {
+          "number": "03",
+          "name": "Mitchell O'Brion"
+        },
+        {
+          "number": "04",
+          "name": "Nick Hughes"
+        },
+        {
+          "number": "05",
+          "name": "Cesario Velasco"
+        },
+        {
+          "number": "06",
+          "name": "Isaac Thompson"
+        },
+        {
+          "number": "07",
+          "name": "Josh Daniel"
+        },
+        {
+          "number": "10",
+          "name": "Alex Griswold"
+        },
+        {
+          "number": "12",
+          "name": "Frank Fairchild"
+        },
+        {
+          "number": "14",
+          "name": "Tyler Thomegreene"
+        },
+        {
+          "number": "16",
+          "name": "Riley Siewert"
+        },
+        {
+          "number": "18",
+          "name": "Mathew Orner"
+        },
+        {
+          "number": "20",
+          "name": "Marty Adams"
+        },
+        {
+          "number": "21",
+          "name": "Luke Henry"
+        },
+        {
+          "number": "22",
+          "name": "Mitchell McGahan"
+        },
+        {
+          "number": "23",
+          "name": "Victor Pilon"
+        },
+        {
+          "number": "26",
+          "name": "Sam Bates"
+        },
+        {
+          "number": "27",
+          "name": "Tyler Konicek"
+        },
+        {
+          "number": "29",
+          "name": "Garrett Geib"
+        },
+        {
+          "number": "32",
+          "name": "Anthony White"
+        },
+        {
+          "number": "35",
+          "name": "Shaun LaFrance"
+        },
+        {
+          "number": "36",
+          "name": "Reese Grailer"
+        },
+        {
+          "number": "42",
+          "name": "Raheem Ishaque"
+        },
+        {
+          "number": "47",
+          "name": "Rand Phillips"
+        },
+        {
+          "number": "51",
+          "name": "Max Stillman"
+        },
+        {
+          "number": "99",
+          "name": "Kyle DeJesus"
+        }
+      ]
+    },
+    {
+      "name": "Drake",
+      "seed": 20,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "DUC",
+        "location": "Des Moines, Iowa",
+        "website": "",
+        "facebook": "https://www.facebook.com/drakeultimate",
+        "twitter": "https://twitter.com/Drake_Ultimate"
+      },
+      "coaches": [
+        "Neal Patel",
+        "Matt Stoker"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Graham Johnson"
+        },
+        {
+          "number": "0",
+          "name": "Joseph Sheehan"
+        },
+        {
+          "number": "5",
+          "name": "Ben Ransom"
+        },
+        {
+          "number": "9",
+          "name": "Thomas Foersterling"
+        },
+        {
+          "number": "10",
+          "name": "Robert Mitchell McCarthy"
+        },
+        {
+          "number": "14",
+          "name": "Michael Grant"
+        },
+        {
+          "number": "19",
+          "name": "Timothy Webber"
+        },
+        {
+          "number": "21",
+          "name": "Noah Werling"
+        },
+        {
+          "number": "22",
+          "name": "Tyler Walden"
+        },
+        {
+          "number": "23",
+          "name": "Connor Ellingson"
+        },
+        {
+          "number": "25",
+          "name": "Kenneth Caldwell"
+        },
+        {
+          "number": "27",
+          "name": "Matthew VanHerzeele"
+        },
+        {
+          "number": "33",
+          "name": "Matthew Kraus"
+        },
+        {
+          "number": "42",
+          "name": "Carter Genrick"
+        },
+        {
+          "number": "45",
+          "name": "Devon Lord"
+        },
+        {
+          "number": "54",
+          "name": "Alex Stumphauzer"
+        },
+        {
+          "number": "55",
+          "name": "Nicholas  Driscoll"
+        },
+        {
+          "number": "61",
+          "name": "Thomas Rauch"
+        }
+      ]
+    },
+    {
+      "name": "Missouri State",
+      "seed": 21,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Missouri State",
+        "location": "Springfield, Missouri",
+        "website": "",
+        "facebook": "https://www.facebook.com/MissouriStateUltimate/",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Cameron Yuan"
+        },
+        {
+          "number": "1",
+          "name": "James Engelhardt"
+        },
+        {
+          "number": "2",
+          "name": "Joe Ernst"
+        },
+        {
+          "number": "6",
+          "name": "Cole Wheeler"
+        },
+        {
+          "number": "7",
+          "name": "Aaron Parkhurst"
+        },
+        {
+          "number": "10",
+          "name": "Grant Erard"
+        },
+        {
+          "number": "12",
+          "name": "Benjamin Duvall"
+        },
+        {
+          "number": "13",
+          "name": "Mathew Heinz"
+        },
+        {
+          "number": "15",
+          "name": "Jonathan (Roo) Kodner"
+        },
+        {
+          "number": "17",
+          "name": "TJ Ridge"
+        },
+        {
+          "number": "21",
+          "name": "Daniel Holsten"
+        },
+        {
+          "number": "23",
+          "name": "Jackson Reid"
+        },
+        {
+          "number": "27",
+          "name": "Gabe Olender"
+        },
+        {
+          "number": "41",
+          "name": "Austin Yuan"
+        },
+        {
+          "number": "77",
+          "name": "Matthew Moore"
+        },
+        {
+          "number": "77",
+          "name": "Mitchell Weinstein"
+        },
+        {
+          "number": "87",
+          "name": "Darren Yount"
+        },
+        {
+          "number": "90",
+          "name": "Devon Gibbs"
+        },
+        {
+          "number": "90",
+          "name": "Joshawa Ryun"
+        },
+        {
+          "number": "91",
+          "name": "Andrew Keim"
+        }
+      ]
+    },
+    {
+      "name": "Wisconsin-Oshkosh",
+      "seed": 32,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "UFO",
+        "location": "Oshkosh, Wisconsin",
+        "website": "",
+        "facebook": "https://www.facebook.com/ultimatefrisbeeoshkosh/",
+        "twitter": "https://twitter.com/OshkoshUltimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Tyler Cox"
+        },
+        {
+          "number": "01",
+          "name": "Nick Lilla"
+        },
+        {
+          "number": "05",
+          "name": "William Bartel"
+        },
+        {
+          "number": "06",
+          "name": "Beau Ermatinger"
+        },
+        {
+          "number": "07",
+          "name": "jacob Martin"
+        },
+        {
+          "number": "10",
+          "name": "Thomas Micke"
+        },
+        {
+          "number": "12",
+          "name": "Zackary DeBroux"
+        },
+        {
+          "number": "17",
+          "name": "Michael Dineen"
+        },
+        {
+          "number": "18",
+          "name": "Thomas Schnoor"
+        },
+        {
+          "number": "18",
+          "name": "Ben Slusser"
+        },
+        {
+          "number": "21",
+          "name": "Caleb Aschebrook"
+        },
+        {
+          "number": "24",
+          "name": "Jason Hataj"
+        },
+        {
+          "number": "37",
+          "name": "Luke Seuffer"
+        },
+        {
+          "number": "81",
+          "name": "Olivia Schilcher"
+        },
+        {
+          "number": "99",
+          "name": "Matt Hutchings"
+        }
+      ]
+    },
+    {
+      "name": "Illinois State",
+      "seed": 10,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Gnomes",
+        "location": "Normal, Illinois",
+        "website": "",
+        "facebook": "https://www.facebook.com/Illinois-State-Ultimate-223013237713080/timeline/",
+        "twitter": "https://twitter.com/isugnomes?lang=en"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Ryan Adams"
+        },
+        {
+          "number": "1",
+          "name": "Cameron Powers"
+        },
+        {
+          "number": "2",
+          "name": "Jacob Kaindl"
+        },
+        {
+          "number": "3",
+          "name": "Kollin Kaczynski"
+        },
+        {
+          "number": "5",
+          "name": "Cal Tornabene"
+        },
+        {
+          "number": "7",
+          "name": "Jack Shanahan"
+        },
+        {
+          "number": "9",
+          "name": "SAM GESESSEW"
+        },
+        {
+          "number": "10",
+          "name": "Stephen McCracken"
+        },
+        {
+          "number": "11",
+          "name": "Josh Graunke"
+        },
+        {
+          "number": "12",
+          "name": "Jeremy Burril"
+        },
+        {
+          "number": "13",
+          "name": "Karl Beck"
+        },
+        {
+          "number": "14",
+          "name": "Owen McGee"
+        },
+        {
+          "number": "16",
+          "name": "Nicholas Bratt"
+        },
+        {
+          "number": "17",
+          "name": "Kevin Szczygiel"
+        },
+        {
+          "number": "18",
+          "name": "CHRIS  OESTERREICH"
+        },
+        {
+          "number": "19",
+          "name": "Michael Reaves"
+        },
+        {
+          "number": "20",
+          "name": "Ricky Ramirez"
+        },
+        {
+          "number": "21",
+          "name": "Jack Giannini"
+        },
+        {
+          "number": "22",
+          "name": "Dominick Pietrantonio"
+        },
+        {
+          "number": "23",
+          "name": "Charlie Pomrehn"
+        },
+        {
+          "number": "24",
+          "name": "Kevin Berenschot"
+        },
+        {
+          "number": "24",
+          "name": "Joseph Cacciatore"
+        },
+        {
+          "number": "25",
+          "name": "Ryan  Pedote"
+        },
+        {
+          "number": "27",
+          "name": "Patrick Pearce"
+        },
+        {
+          "number": "28",
+          "name": "Zach Delegatto"
+        },
+        {
+          "number": "30",
+          "name": "Stone Swayze"
+        },
+        {
+          "number": "31",
+          "name": "Kyle Jones"
+        },
+        {
+          "number": "32",
+          "name": "Nick Johnson"
+        },
+        {
+          "number": "34",
+          "name": "Jason Belzer"
+        },
+        {
+          "number": "55",
+          "name": "Nicholas Kluessendorf"
+        },
+        {
+          "number": "88",
+          "name": "Nick Espe"
+        },
+        {
+          "number": "99",
+          "name": "Joshua Sanabria"
+        }
+      ]
+    },
+    {
+      "name": "Northern Iowa",
+      "seed": 22,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "AmmUNItion",
+        "location": "Cedar Falls, Iowa",
+        "website": "https://sites.google.com/site/ammunitionultimate/home",
+        "facebook": "https://www.facebook.com/UNI.ultimate",
+        "twitter": "https://twitter.com/UNIUltimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "3",
+          "name": "Richard TeKippe"
+        },
+        {
+          "number": "6",
+          "name": "Ian Kubbe"
+        },
+        {
+          "number": "9",
+          "name": "Lucas Block"
+        },
+        {
+          "number": "10",
+          "name": "JOEL HEILMAN"
+        },
+        {
+          "number": "11",
+          "name": "Daniel Tarasi"
+        },
+        {
+          "number": "12",
+          "name": "Ethan Schultzen"
+        },
+        {
+          "number": "13",
+          "name": "Payton Burken"
+        },
+        {
+          "number": "16",
+          "name": "Colin Stroehle-Durrah"
+        },
+        {
+          "number": "20",
+          "name": "Nate Rondeau"
+        },
+        {
+          "number": "24",
+          "name": "NICK ROUDABUSH"
+        },
+        {
+          "number": "30",
+          "name": "Steven Flesch"
+        },
+        {
+          "number": "35",
+          "name": "Caleb Lundeen"
+        },
+        {
+          "number": "44",
+          "name": "Mitchell Diamond"
+        },
+        {
+          "number": "63",
+          "name": "Mason Burken"
+        },
+        {
+          "number": "73",
+          "name": "Daniel Thomsen"
+        },
+        {
+          "number": "77",
+          "name": "Cody Campbell"
+        }
+      ]
+    },
+    {
+      "name": "Grinnell",
+      "seed": 19,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Grinnellephants",
+        "location": "Grinnell, Iowa",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Austin Schilling-Stumpner"
+        },
+        {
+          "number": "0",
+          "name": "Daniel Cook"
+        },
+        {
+          "number": "0",
+          "name": "Michael Sundby"
+        },
+        {
+          "number": "0",
+          "name": "Patrick Sheehan-Klenk"
+        },
+        {
+          "number": "0",
+          "name": "Terrel Jones"
+        },
+        {
+          "number": "1",
+          "name": "Jack Graen"
+        },
+        {
+          "number": "8",
+          "name": "Vincent Noh"
+        },
+        {
+          "number": "00",
+          "name": "Charles McKenzie-Smith"
+        },
+        {
+          "number": "10",
+          "name": "Nathan Gifford"
+        },
+        {
+          "number": "13",
+          "name": "BENJAMIN BROSSEAU"
+        },
+        {
+          "number": "14",
+          "name": "RAY SCHROEDER"
+        },
+        {
+          "number": "16",
+          "name": "David Kreis"
+        },
+        {
+          "number": "17",
+          "name": "Sayles Kasten"
+        },
+        {
+          "number": "23",
+          "name": "Corey Alt"
+        },
+        {
+          "number": "27",
+          "name": "Lucas Verrastro"
+        },
+        {
+          "number": "29",
+          "name": "Russ Haight"
+        },
+        {
+          "number": "30",
+          "name": "Kevin Molina"
+        },
+        {
+          "number": "32",
+          "name": "Noah Mozell"
+        },
+        {
+          "number": "36",
+          "name": "Yang Luo"
+        },
+        {
+          "number": "39",
+          "name": "Seth Van Helten"
+        },
+        {
+          "number": "42",
+          "name": "Nate Tometich"
+        },
+        {
+          "number": "55",
+          "name": "Liam Niehus-Staab"
+        },
+        {
+          "number": "72",
+          "name": "Evan Porter"
+        },
+        {
+          "number": "74",
+          "name": "Henry Jantzen"
+        },
+        {
+          "number": "84",
+          "name": "Jon Mehlhaus"
+        },
+        {
+          "number": "97",
+          "name": "Kevin Connors"
+        },
+        {
+          "number": "99",
+          "name": "Jonathan Dowell"
+        },
+        {
+          "number": "99",
+          "name": "David Underwood Sherrell"
+        }
+      ]
+    },
+    {
+      "name": "Wisconsin (C)",
+      "seed": 31,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Wisconsin C",
+        "location": "Madison, Wisconsin",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Joshua Garvey"
+        },
+        {
+          "number": "0",
+          "name": "Luke Boge"
+        },
+        {
+          "number": "0",
+          "name": "Xavier Franczyk"
+        },
+        {
+          "number": "5",
+          "name": "Ben Kishter"
+        },
+        {
+          "number": "7",
+          "name": "David Cann"
+        },
+        {
+          "number": "9",
+          "name": "Paxton Bauer"
+        },
+        {
+          "number": "11",
+          "name": "Soren Rozema"
+        },
+        {
+          "number": "19",
+          "name": "Daniel Davies"
+        },
+        {
+          "number": "21",
+          "name": "Jack Mallmann"
+        },
+        {
+          "number": "29",
+          "name": "Jacob Calbaum"
+        },
+        {
+          "number": "69",
+          "name": "Tyler Weum"
+        },
+        {
+          "number": "79",
+          "name": "Tim Hinkens"
+        },
+        {
+          "number": "80",
+          "name": "Joly Scudder"
+        },
+        {
+          "number": "88",
+          "name": "NATHAN VICEN"
+        }
+      ]
+    },
+    {
+      "name": "North Park",
+      "seed": 18,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Lost Boys",
+        "location": "Chicago, Illinois",
+        "website": "www.lostboysultimate.com",
+        "facebook": "https://www.facebook.com/nplostboys",
+        "twitter": "https://twitter.com/NPLostBoys"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Caleb Nelson"
+        },
+        {
+          "number": "01",
+          "name": "Ben Soffel"
+        },
+        {
+          "number": "02",
+          "name": "Nathan Werling"
+        },
+        {
+          "number": "03",
+          "name": "Eric Lundgren"
+        },
+        {
+          "number": "05",
+          "name": "Josiah Bishop"
+        },
+        {
+          "number": "10",
+          "name": "Scott Nitchie"
+        },
+        {
+          "number": "12",
+          "name": "Jonathan Berggren"
+        },
+        {
+          "number": "13",
+          "name": "Cory Wallace"
+        },
+        {
+          "number": "14",
+          "name": "Andrew Swanson"
+        },
+        {
+          "number": "22",
+          "name": "Benjamin Horstman"
+        },
+        {
+          "number": "23",
+          "name": "ISAAC COYNE"
+        },
+        {
+          "number": "25",
+          "name": "Bradley Johnson"
+        },
+        {
+          "number": "25",
+          "name": "Andres Garcia"
+        },
+        {
+          "number": "28",
+          "name": "Geoffry Leedom"
+        },
+        {
+          "number": "44",
+          "name": "Phillip Conijn"
+        },
+        {
+          "number": "47",
+          "name": "Payton Walles"
+        },
+        {
+          "number": "55",
+          "name": "Noah Swanson"
+        },
+        {
+          "number": "57",
+          "name": "Aaron Klinefelter"
+        },
+        {
+          "number": "60",
+          "name": "Curtis Pederson"
+        }
+      ]
+    },
+    {
+      "name": "Wisconsin (B)",
+      "seed": 11,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Pimpdags",
+        "location": "Madison, Wisconsin",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "2",
+          "name": "Dylan Petersen"
+        },
+        {
+          "number": "4",
+          "name": "Gregory Smail"
+        },
+        {
+          "number": "6",
+          "name": "Anders Shropshire"
+        },
+        {
+          "number": "8",
+          "name": "Ben Schewe"
+        },
+        {
+          "number": "03",
+          "name": "Matthew Owens"
+        },
+        {
+          "number": "10",
+          "name": "Logan Martin"
+        },
+        {
+          "number": "15",
+          "name": "Ian Henion"
+        },
+        {
+          "number": "16",
+          "name": "Mitchell Rose"
+        },
+        {
+          "number": "16",
+          "name": "Sean Markey"
+        },
+        {
+          "number": "18",
+          "name": "Scott Groux"
+        },
+        {
+          "number": "20",
+          "name": "Nathan Richman"
+        },
+        {
+          "number": "32",
+          "name": "Daniel Garlock"
+        },
+        {
+          "number": "42",
+          "name": "Andrew Ishikawa"
+        },
+        {
+          "number": "44",
+          "name": "Anders Haroldson"
+        },
+        {
+          "number": "63",
+          "name": "Benjamin Rubin"
+        },
+        {
+          "number": "67",
+          "name": "LUKE WENNEN"
+        },
+        {
+          "number": "69",
+          "name": "Isaac Fine"
+        },
+        {
+          "number": "77",
+          "name": "Kyle Fruhling"
+        }
+      ]
+    },
+    {
+      "name": "Purdue (B)",
+      "seed": 30,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "CTRL-Z",
+        "location": "West Lafayette, Indiana",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Christopher Kok"
+        },
+        {
+          "number": "0",
+          "name": "Jason Bosse"
+        },
+        {
+          "number": "0",
+          "name": "Logan Staples"
+        },
+        {
+          "number": "0",
+          "name": "Nicholas Chan"
+        },
+        {
+          "number": "2",
+          "name": "Jacob Just"
+        },
+        {
+          "number": "8",
+          "name": "Nicholas Biddle"
+        },
+        {
+          "number": "04",
+          "name": "Connor Gallogly"
+        },
+        {
+          "number": "21",
+          "name": "James Hawk"
+        },
+        {
+          "number": "24",
+          "name": "Darrell Cheu"
+        },
+        {
+          "number": "31",
+          "name": "Matthew VanDokkenburg"
+        },
+        {
+          "number": "33",
+          "name": "Erik Rundlett"
+        },
+        {
+          "number": "34",
+          "name": "Matthew Morgan"
+        },
+        {
+          "number": "42",
+          "name": "Sean Mason"
+        },
+        {
+          "number": "44",
+          "name": "Ryan Kissane"
+        },
+        {
+          "number": "56",
+          "name": "Zachary Piontek"
+        },
+        {
+          "number": "58",
+          "name": "Ted Lingenfelter"
+        },
+        {
+          "number": "64",
+          "name": "Jeremy Ray"
+        },
+        {
+          "number": "66",
+          "name": "Patrick Dunn"
+        },
+        {
+          "number": "79",
+          "name": "Gus Swansen"
+        },
+        {
+          "number": "81",
+          "name": "Nithin  Somenhalli"
+        }
+      ]
+    },
+    {
+      "name": "Luther (B)",
+      "seed": 23,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Pound",
+        "location": "Decorah, Iowa",
+        "website": "http://www.luther.edu/mens-ultimate/",
+        "facebook": "https://www.facebook.com/PoundUltimate/?fref=ts",
+        "twitter": "https://twitter.com/LutherPound"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Eli Wilson"
+        },
+        {
+          "number": "0",
+          "name": "Henry Zheng"
+        },
+        {
+          "number": "0",
+          "name": "Logan Weaver"
+        },
+        {
+          "number": "0",
+          "name": "Nathan Riley"
+        },
+        {
+          "number": "0",
+          "name": "Tyler Johnson"
+        },
+        {
+          "number": "1",
+          "name": "Ethan Harris"
+        },
+        {
+          "number": "3",
+          "name": "Daniel Suhr"
+        },
+        {
+          "number": "6",
+          "name": "Aaron Herman"
+        },
+        {
+          "number": "7",
+          "name": "Harrison Hoffman"
+        },
+        {
+          "number": "15",
+          "name": "Brady  Ross"
+        },
+        {
+          "number": "18",
+          "name": "Herik Hernandez"
+        },
+        {
+          "number": "27",
+          "name": "Bradley Kovacovich"
+        },
+        {
+          "number": "29",
+          "name": "Michael Vann"
+        },
+        {
+          "number": "41",
+          "name": "David Priggie"
+        },
+        {
+          "number": "49",
+          "name": "JOHN EVANS"
+        },
+        {
+          "number": "54",
+          "name": "Austin Uetz"
+        },
+        {
+          "number": "63",
+          "name": "Seth Warner"
+        },
+        {
+          "number": "87",
+          "name": "Benjamin Oanes"
+        },
+        {
+          "number": "90",
+          "name": "Sam Poppen"
+        }
+      ]
+    },
+    {
+      "name": "Kansas State",
+      "seed": 17,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Wizards",
+        "location": "Manhattan, Kansas",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Blake Smethers"
+        },
+        {
+          "number": "0",
+          "name": "Brett Dare"
+        },
+        {
+          "number": "0",
+          "name": "Darien Parr"
+        },
+        {
+          "number": "0",
+          "name": "Drew Mechnig"
+        },
+        {
+          "number": "0",
+          "name": "Erick  Neilson"
+        },
+        {
+          "number": "0",
+          "name": "Erik Hjelmaas"
+        },
+        {
+          "number": "0",
+          "name": "Jeb Stewart"
+        },
+        {
+          "number": "0",
+          "name": "Luke Grieger"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Irvin"
+        },
+        {
+          "number": "0",
+          "name": "Sam Nelson"
+        },
+        {
+          "number": "0",
+          "name": "Spencer Roberts"
+        },
+        {
+          "number": "7",
+          "name": "John Benfer"
+        },
+        {
+          "number": "15",
+          "name": "Dan Gould"
+        },
+        {
+          "number": "17",
+          "name": "Clayton Smith"
+        },
+        {
+          "number": "26",
+          "name": "Joshua Smith"
+        },
+        {
+          "number": "27",
+          "name": "Kyle Thompson"
+        },
+        {
+          "number": "34",
+          "name": "Colin Beauregard"
+        },
+        {
+          "number": "59",
+          "name": "John Wildman"
+        }
+      ]
+    },
+    {
+      "name": "Minnesota (B)",
+      "seed": 12,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Ugly Duckling",
+        "location": "Minneapolis, Minnesota",
+        "website": "http://mnuglyduckling.weebly.com/",
+        "facebook": "",
+        "twitter": "@UglyDucklingUMN"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Anders Zetterlund"
+        },
+        {
+          "number": "0",
+          "name": "Christopher Clark"
+        },
+        {
+          "number": "0",
+          "name": "Drew Eskoff"
+        },
+        {
+          "number": "0",
+          "name": "Jacob Graff"
+        },
+        {
+          "number": "0",
+          "name": "Jesse Schlemmer"
+        },
+        {
+          "number": "0",
+          "name": "Joseph Cregan"
+        },
+        {
+          "number": "0",
+          "name": "Justin Hill"
+        },
+        {
+          "number": "0",
+          "name": "Kalen Balas"
+        },
+        {
+          "number": "0",
+          "name": "Matthew Nguyen"
+        },
+        {
+          "number": "0",
+          "name": "Nikhil Khurana"
+        },
+        {
+          "number": "0",
+          "name": "Patrick Norman"
+        },
+        {
+          "number": "0",
+          "name": "Peter Diede"
+        },
+        {
+          "number": "0",
+          "name": "Sachchit Murali"
+        },
+        {
+          "number": "0",
+          "name": "Trevor Graham"
+        },
+        {
+          "number": "1",
+          "name": "Derek Anderson"
+        },
+        {
+          "number": "2",
+          "name": "David Zheng"
+        },
+        {
+          "number": "6",
+          "name": "Jonah Resnick"
+        },
+        {
+          "number": "6",
+          "name": "RYAN FRANKLIN"
+        },
+        {
+          "number": "10",
+          "name": "Jonah Matthew"
+        },
+        {
+          "number": "26",
+          "name": "Bill Keane"
+        },
+        {
+          "number": "28",
+          "name": "Greg Cepuran"
+        },
+        {
+          "number": "31",
+          "name": "Ross Screaton"
+        },
+        {
+          "number": "33",
+          "name": "Paul Rheinberger"
+        },
+        {
+          "number": "36",
+          "name": "Donald Wood"
+        },
+        {
+          "number": "42",
+          "name": "Nathan Swanson"
+        },
+        {
+          "number": "46",
+          "name": "Timothy Opdahl"
+        }
+      ]
+    },
+    {
+      "name": "Iowa State (B)",
+      "seed": 24,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Yogurt Wagon)",
+        "location": "Ames, Iowa",
+        "website": "http://www.isucultimate.com/",
+        "facebook": "https://www.facebook.com/IowaStateUltimate",
+        "twitter": "https://twitter.com/UltimateISU"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Ben Dankle"
+        },
+        {
+          "number": "0",
+          "name": "Blake Daniel Julius"
+        },
+        {
+          "number": "0",
+          "name": "Christopher Jenkins"
+        },
+        {
+          "number": "0",
+          "name": "Daniel Mendralla"
+        },
+        {
+          "number": "0",
+          "name": "Declan  Buhrsmith"
+        },
+        {
+          "number": "0",
+          "name": "Vince Momot"
+        },
+        {
+          "number": "0",
+          "name": "William Johns"
+        },
+        {
+          "number": "0",
+          "name": "Ziad Nimry"
+        },
+        {
+          "number": "50",
+          "name": "Clay Hugen"
+        },
+        {
+          "number": "72",
+          "name": "Nick Rieger"
+        }
+      ]
+    },
+    {
+      "name": "Nebraska-Omaha",
+      "seed": 29,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "UNO",
+        "location": "Omaha, Nebraska",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Dexter Renter"
+        },
+        {
+          "number": "0",
+          "name": "Robert Gibbs"
+        },
+        {
+          "number": "0",
+          "name": "Samuel Sobczyk"
+        },
+        {
+          "number": "0",
+          "name": "Zane Homan"
+        },
+        {
+          "number": "7",
+          "name": "Michael Swanger"
+        },
+        {
+          "number": "11",
+          "name": "EVAN VARNER"
+        },
+        {
+          "number": "17",
+          "name": "Cameron Gilinsky"
+        },
+        {
+          "number": "20",
+          "name": "Julie Hofer"
+        },
+        {
+          "number": "21",
+          "name": "Christopher Baines"
+        },
+        {
+          "number": "22",
+          "name": "Adam Meyer"
+        },
+        {
+          "number": "28",
+          "name": "Joseph Blecha"
+        },
+        {
+          "number": "69",
+          "name": "Nich Rush"
+        }
+      ]
+    },
+    {
+      "name": "Wisconsin-Eau Claire",
+      "seed": 16,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "EauZone",
+        "location": "Eau Claire, Wisconsin",
+        "website": "www.uwec.edu/ultimate",
+        "facebook": "https://www.facebook.com/pages/Eauzone/123562074416368",
+        "twitter": "https://twitter.com/eauzoneultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "1",
+          "name": "Sam Sincere"
+        },
+        {
+          "number": "4",
+          "name": "Aaron Schneider"
+        },
+        {
+          "number": "5",
+          "name": "Jacob Johnson"
+        },
+        {
+          "number": "7",
+          "name": "Kristian Johnson"
+        },
+        {
+          "number": "8",
+          "name": "Oliver Oremek"
+        },
+        {
+          "number": "14",
+          "name": "Derek Kalvin"
+        },
+        {
+          "number": "21",
+          "name": "Patrick Cooney"
+        },
+        {
+          "number": "27",
+          "name": "Josh Yira"
+        },
+        {
+          "number": "33",
+          "name": "Ryan Schultz"
+        },
+        {
+          "number": "44",
+          "name": "Colin Williams"
+        },
+        {
+          "number": "49",
+          "name": "Cordell Kapusta"
+        },
+        {
+          "number": "77",
+          "name": "Cole Edgell"
+        }
+      ]
+    },
+    {
+      "name": "Nebraska",
+      "seed": 13,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Cornfed Ultimate",
+        "location": "Lincoln, Nebraska",
+        "website": "http://www.unl.edu/cornfed/",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "Grant Maynard",
+        "Brad Ashley"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alec  Williams "
+        },
+        {
+          "number": "0",
+          "name": "Ben Melcher"
+        },
+        {
+          "number": "0",
+          "name": "Daniel Forsyth"
+        },
+        {
+          "number": "0",
+          "name": "Gjermund Amlien"
+        },
+        {
+          "number": "0",
+          "name": "Jackson Cutsor"
+        },
+        {
+          "number": "0",
+          "name": "Jake Modica"
+        },
+        {
+          "number": "0",
+          "name": "ROBBY ELSNER"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Dornbusch"
+        },
+        {
+          "number": "6",
+          "name": "Noah Ross"
+        },
+        {
+          "number": "9",
+          "name": "Jake Lindvall"
+        },
+        {
+          "number": "10",
+          "name": "Stephen Lunde"
+        },
+        {
+          "number": "12",
+          "name": "Noah Gould"
+        },
+        {
+          "number": "15",
+          "name": "Kyler Lecomte"
+        },
+        {
+          "number": "18",
+          "name": "Tristan Mahler"
+        },
+        {
+          "number": "19",
+          "name": "Mark Quinn"
+        },
+        {
+          "number": "20",
+          "name": "David Forsyth"
+        },
+        {
+          "number": "26",
+          "name": "Marty Praska"
+        }
+      ]
+    },
+    {
+      "name": "Northwestern (B)",
+      "seed": 25,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Bolt",
+        "location": "Evanston, Illinois",
+        "website": "https://www.nutultimate.com",
+        "facebook": "https://www.facebook.com/NUTUltimate",
+        "twitter": "https://twitter.com/BoltUltimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alan Grampp"
+        },
+        {
+          "number": "0",
+          "name": "Jacob Swan"
+        },
+        {
+          "number": "0",
+          "name": "John Surprenant"
+        },
+        {
+          "number": "0",
+          "name": "Luke Spencer"
+        },
+        {
+          "number": "0",
+          "name": "Octavio Bruetman"
+        },
+        {
+          "number": "4",
+          "name": "Jonathan Huang"
+        },
+        {
+          "number": "22",
+          "name": "James Schuller"
+        },
+        {
+          "number": "24",
+          "name": "Shu Han"
+        },
+        {
+          "number": "32",
+          "name": "Kenneth Xuan"
+        },
+        {
+          "number": "35",
+          "name": "Patrick Doyle"
+        },
+        {
+          "number": "37",
+          "name": "John Eichenlaub"
+        },
+        {
+          "number": "46",
+          "name": "Andrew SaLoutos"
+        },
+        {
+          "number": "48",
+          "name": "Alex Rubin"
+        },
+        {
+          "number": "52",
+          "name": "Ben Richards"
+        },
+        {
+          "number": "65",
+          "name": "Jake Clady"
+        },
+        {
+          "number": "66",
+          "name": "Arseniy Minasov"
+        },
+        {
+          "number": "73",
+          "name": "Benjamin Laning"
+        },
+        {
+          "number": "81",
+          "name": "Thomas Fredericks"
+        },
+        {
+          "number": "96",
+          "name": "George Irving"
+        },
+        {
+          "number": "98",
+          "name": "John Lee"
+        },
+        {
+          "number": "99",
+          "name": "Joe Harari"
+        }
+      ]
+    },
+    {
+      "name": "Drury",
+      "seed": 28,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Drury Ultimate",
+        "location": "Springfield, Missouri",
+        "website": "http://www.drury.edu/du/student-activities/Ultimate-Frisbee-Club/",
+        "facebook": "https://www.facebook.com/druryultimate",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Angelo Abernathy"
+        },
+        {
+          "number": "0",
+          "name": "Coral McLaughlin"
+        },
+        {
+          "number": "0",
+          "name": "Evan Petrich"
+        },
+        {
+          "number": "0",
+          "name": "Jarrett  Quas"
+        },
+        {
+          "number": "0",
+          "name": "John Davis"
+        },
+        {
+          "number": "0",
+          "name": "Laura Little"
+        },
+        {
+          "number": "0",
+          "name": "Nick Schurk"
+        },
+        {
+          "number": "0",
+          "name": "Tim Anzalone"
+        },
+        {
+          "number": "1",
+          "name": "Nick Widmer"
+        },
+        {
+          "number": "11",
+          "name": "Kalyn Ahrens"
+        },
+        {
+          "number": "20",
+          "name": "Tianna  Thomas"
+        },
+        {
+          "number": "24",
+          "name": "Josue Bolanos"
+        }
+      ]
+    },
+    {
+      "name": "Missouri S&T",
+      "seed": 15,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Miner Threat",
+        "location": "Rolla, Missouri",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Brad Mealy"
+        },
+        {
+          "number": "0",
+          "name": "Cameron Leonard"
+        },
+        {
+          "number": "0",
+          "name": "Chase Neely"
+        },
+        {
+          "number": "0",
+          "name": "David Swed"
+        },
+        {
+          "number": "0",
+          "name": "David Szatkowski"
+        },
+        {
+          "number": "0",
+          "name": "Jacob Crouse"
+        },
+        {
+          "number": "0",
+          "name": "John Whitelock"
+        },
+        {
+          "number": "0",
+          "name": "Robert Taylor"
+        },
+        {
+          "number": "0",
+          "name": "Rusty McDonald"
+        },
+        {
+          "number": "0",
+          "name": "Nate Clancy"
+        },
+        {
+          "number": "4",
+          "name": "John Mauntel"
+        },
+        {
+          "number": "9",
+          "name": "Christopher Dolles"
+        },
+        {
+          "number": "12",
+          "name": "Brendan Carriel"
+        },
+        {
+          "number": "16",
+          "name": "David Druzynski"
+        },
+        {
+          "number": "17",
+          "name": "Alex Mundahl"
+        },
+        {
+          "number": "21",
+          "name": "Brody Johnson"
+        },
+        {
+          "number": "21",
+          "name": "William (Will) Imming"
+        },
+        {
+          "number": "25",
+          "name": "Kelly Mauntel"
+        },
+        {
+          "number": "30",
+          "name": "Trevor Nenninger"
+        },
+        {
+          "number": "32",
+          "name": "Cedric Jones"
+        },
+        {
+          "number": "39",
+          "name": "Sandy Gu"
+        },
+        {
+          "number": "48",
+          "name": "Seth Day"
+        },
+        {
+          "number": "48",
+          "name": "Justin Flynn"
+        },
+        {
+          "number": "63",
+          "name": "Louie Bertoncin"
+        },
+        {
+          "number": "78",
+          "name": "Mitchell Zimmmermann"
+        },
+        {
+          "number": "80",
+          "name": "Nicholas Spitznagel"
+        },
+        {
+          "number": "86",
+          "name": "Matt LaFever"
+        },
+        {
+          "number": "91",
+          "name": "Matthew Dugan"
+        },
+        {
+          "number": "99",
+          "name": "Benjamin Alber"
+        }
+      ]
+    },
+    {
+      "name": "Truman State",
+      "seed": 14,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "JujiTSU ",
+        "location": "Kirksville, Missouri",
+        "website": "",
+        "facebook": "https://www.facebook.com/pages/JujiTSU-Ultimate/159311880755819",
+        "twitter": "@JujiTSUltimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "2",
+          "name": "Alexander Sextro"
+        },
+        {
+          "number": "7",
+          "name": "Michael Anderson"
+        },
+        {
+          "number": "10",
+          "name": "Brendan Cirillo"
+        },
+        {
+          "number": "11",
+          "name": "Jared Favero"
+        },
+        {
+          "number": "12",
+          "name": "Benjamin Wolf"
+        },
+        {
+          "number": "15",
+          "name": "Jacob Jackson"
+        },
+        {
+          "number": "16",
+          "name": "Taylor Hession"
+        },
+        {
+          "number": "17",
+          "name": "Christopher Stilwell"
+        },
+        {
+          "number": "20",
+          "name": "Andrew Richter"
+        },
+        {
+          "number": "24",
+          "name": "Michael Walder"
+        },
+        {
+          "number": "26",
+          "name": "Frank Ginder"
+        },
+        {
+          "number": "27",
+          "name": "Mariano Marin"
+        },
+        {
+          "number": "31",
+          "name": "Sean Eberle"
+        },
+        {
+          "number": "31",
+          "name": "Blake Bixler"
+        },
+        {
+          "number": "40",
+          "name": "Ethan Conley"
+        },
+        {
+          "number": "44",
+          "name": "Nathan Pyles"
+        },
+        {
+          "number": "72",
+          "name": "Joseph Williamson-Link"
+        },
+        {
+          "number": "88",
+          "name": "Isaac Pearlstone"
+        },
+        {
+          "number": "98",
+          "name": "Matthew Beers"
+        }
+      ]
+    },
+    {
+      "name": "Washington University (B)",
+      "seed": 27,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Contraband",
+        "location": "St. Louis, Missouri",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://www.twitter.com/wucontraband"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alex Sandoval"
+        },
+        {
+          "number": "0",
+          "name": "Elijah Kessler"
+        },
+        {
+          "number": "0",
+          "name": "Jan Mazur"
+        },
+        {
+          "number": "0",
+          "name": "Martin Goree"
+        },
+        {
+          "number": "0",
+          "name": "Rishab Arora"
+        },
+        {
+          "number": "0",
+          "name": "Robert Brachman"
+        },
+        {
+          "number": "0",
+          "name": "Tyler Reeves"
+        },
+        {
+          "number": "4",
+          "name": "Benjamin Bridgforth"
+        },
+        {
+          "number": "10",
+          "name": "Sidharth Kamana"
+        },
+        {
+          "number": "20",
+          "name": "Daniel Cohen"
+        },
+        {
+          "number": "22",
+          "name": "David Lopez"
+        },
+        {
+          "number": "25",
+          "name": "Gabriel Beer"
+        },
+        {
+          "number": "86",
+          "name": "Matt Geer"
+        }
+      ]
+    },
+    {
+      "name": "Wisconsin-Milwaukee (B)",
+      "seed": 26,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "BLACKOUT",
+        "location": "Milwaukee, Wisconsin",
+        "website": "",
+        "facebook": "https://www.facebook.com/BlackCatUltimate/",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Timothy Garman"
+        },
+        {
+          "number": "02",
+          "name": "Adam Hunter"
+        },
+        {
+          "number": "02",
+          "name": "Evan Treacy"
+        },
+        {
+          "number": "06",
+          "name": "Thomas Wagner"
+        },
+        {
+          "number": "09",
+          "name": "James Vento"
+        },
+        {
+          "number": "11",
+          "name": "Cal Martin"
+        },
+        {
+          "number": "12",
+          "name": "Jeremiah Sprengel"
+        },
+        {
+          "number": "13",
+          "name": "Kyle VanDaalwyk"
+        },
+        {
+          "number": "22",
+          "name": "Ben Waitrovich"
+        },
+        {
+          "number": "27",
+          "name": "Patrick Calhoun"
+        },
+        {
+          "number": "28",
+          "name": "David Mckeag"
+        },
+        {
+          "number": "31",
+          "name": "Edwin deWerff"
+        },
+        {
+          "number": "34",
+          "name": "Trevor Scaife"
+        },
+        {
+          "number": "86",
+          "name": "SAM MCCARVILLE"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "PP",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Northwestern",
+              "team2": "Washington University",
+              "score1": 13,
+              "score2": 12,
+              "datetime": "2017-03-04T09:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Iowa State",
+              "team2": "Missouri",
+              "score1": 14,
+              "score2": 9,
+              "datetime": "2017-03-04T09:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Northwestern",
+              "team2": "Missouri",
+              "score1": 15,
+              "score2": 5,
+              "datetime": "2017-03-04T11:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Iowa State",
+              "team2": "Washington University",
+              "score1": 14,
+              "score2": 12,
+              "datetime": "2017-03-04T11:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Northwestern",
+              "team2": "Iowa State",
+              "score1": 13,
+              "score2": 10,
+              "datetime": "2017-03-04T13:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Washington University",
+              "team2": "Missouri",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2017-03-04T13:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool B",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Purdue",
+              "team2": "St John's",
+              "score1": 15,
+              "score2": 13,
+              "datetime": "2017-03-04T09:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Wisconsin-Milwaukee",
+              "team2": "Kansas",
+              "score1": 8,
+              "score2": 14,
+              "datetime": "2017-03-04T09:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Purdue",
+              "team2": "Kansas",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2017-03-04T11:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Wisconsin-Milwaukee",
+              "team2": "St John's",
+              "score1": 7,
+              "score2": 15,
+              "datetime": "2017-03-04T11:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Purdue",
+              "team2": "Wisconsin-Milwaukee",
+              "score1": 15,
+              "score2": 6,
+              "datetime": "2017-03-04T13:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "St John's",
+              "team2": "Kansas",
+              "score1": 12,
+              "score2": 10,
+              "datetime": "2017-03-04T13:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool C",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Drake",
+              "team2": "Wisconsin-Oshkosh",
+              "score1": 15,
+              "score2": 2,
+              "datetime": "2017-03-04T09:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Drake",
+              "team2": "Missouri State",
+              "score1": 12,
+              "score2": 10,
+              "datetime": "2017-03-04T13:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Missouri State",
+              "team2": "Wisconsin-Oshkosh",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2017-03-04T15:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Minnesota-Duluth",
+              "team2": "Missouri State",
+              "score1": 13,
+              "score2": 11,
+              "datetime": "2017-03-04T16:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Minnesota-Duluth",
+              "team2": "Wisconsin-Oshkosh",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2017-03-04T20:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Minnesota-Duluth",
+              "team2": "Drake",
+              "score1": 15,
+              "score2": 6,
+              "datetime": "2017-03-04T22:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool D",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Illinois State",
+              "team2": "Northern Iowa",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2017-03-04T11:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Grinnell",
+              "team2": "Northern Iowa",
+              "score1": 8,
+              "score2": 10,
+              "datetime": "2017-03-04T13:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Illinois State",
+              "team2": "Grinnell",
+              "score1": 15,
+              "score2": 6,
+              "datetime": "2017-03-04T15:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Grinnell",
+              "team2": "Wisconsin (C)",
+              "score1": 14,
+              "score2": 2,
+              "datetime": "2017-03-05T01:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Illinois State",
+              "team2": "Wisconsin (C)",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2017-03-05T03:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Northern Iowa",
+              "team2": "Wisconsin (C)",
+              "score1": 15,
+              "score2": 3,
+              "datetime": "2017-03-05T05:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool E",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "North Park",
+              "team2": "Purdue (B)",
+              "score1": 15,
+              "score2": 5,
+              "datetime": "2017-03-04T09:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "North Park",
+              "team2": "Luther (B)",
+              "score1": 15,
+              "score2": 2,
+              "datetime": "2017-03-04T11:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Luther (B)",
+              "team2": "Purdue (B)",
+              "score1": 7,
+              "score2": 15,
+              "datetime": "2017-03-04T15:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Wisconsin (B)",
+              "team2": "Luther (B)",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2017-03-04T23:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Wisconsin (B)",
+              "team2": "Purdue (B)",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2017-03-05T01:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Wisconsin (B)",
+              "team2": "North Park",
+              "score1": 13,
+              "score2": 14,
+              "datetime": "2017-03-05T05:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool F",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Minnesota (B)",
+              "team2": "Iowa State (B)",
+              "score1": 15,
+              "score2": 2,
+              "datetime": "2017-03-04T09:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Minnesota (B)",
+              "team2": "Nebraska-Omaha",
+              "score1": 15,
+              "score2": 3,
+              "datetime": "2017-03-04T20:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Iowa State (B)",
+              "team2": "Nebraska-Omaha",
+              "score1": 12,
+              "score2": 8,
+              "datetime": "2017-03-04T22:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Kansas State",
+              "team2": "Nebraska-Omaha",
+              "score1": 15,
+              "score2": 3,
+              "datetime": "2017-03-04T23:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Kansas State",
+              "team2": "Iowa State (B)",
+              "score1": 15,
+              "score2": 1,
+              "datetime": "2017-03-05T03:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Minnesota (B)",
+              "team2": "Kansas State",
+              "score1": 10,
+              "score2": 15,
+              "datetime": "2017-03-05T05:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool G",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Nebraska",
+              "team2": "Northwestern (B)",
+              "score1": 15,
+              "score2": 5,
+              "datetime": "2017-03-04T09:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Wisconsin-Eau Claire",
+              "team2": "Drury",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2017-03-04T09:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Nebraska",
+              "team2": "Drury",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2017-03-04T11:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Wisconsin-Eau Claire",
+              "team2": "Northwestern (B)",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2017-03-04T11:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Nebraska",
+              "team2": "Wisconsin-Eau Claire",
+              "score1": 8,
+              "score2": 10,
+              "datetime": "2017-03-04T15:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Northwestern (B)",
+              "team2": "Drury",
+              "score1": 10,
+              "score2": 9,
+              "datetime": "2017-03-04T15:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool H",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Truman State",
+              "team2": "Wisconsin-Milwaukee (B)",
+              "score1": 15,
+              "score2": 1,
+              "datetime": "2017-03-04T11:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Missouri S&T",
+              "team2": "Washington University (B)",
+              "score1": 15,
+              "score2": 3,
+              "datetime": "2017-03-04T11:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Truman State",
+              "team2": "Washington University (B)",
+              "score1": 15,
+              "score2": 5,
+              "datetime": "2017-03-04T13:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Missouri S&T",
+              "team2": "Wisconsin-Milwaukee (B)",
+              "score1": 15,
+              "score2": 0,
+              "datetime": "2017-03-04T13:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Truman State",
+              "team2": "Missouri S&T",
+              "score1": 7,
+              "score2": 15,
+              "datetime": "2017-03-04T15:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Wisconsin-Milwaukee (B)",
+              "team2": "Washington University (B)",
+              "score1": 2,
+              "score2": 15,
+              "datetime": "2017-03-04T15:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "BP",
+      "groups": [
+        {
+          "name": "CHAMPIONSHIP",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Northwestern",
+              "team2": "Purdue",
+              "score1": 4,
+              "score2": 15,
+              "datetime": "2017-03-05T15:00:00Z",
+              "round": "FINALS",
+              "status": "Final"
+            },
+            {
+              "team1": "Northwestern",
+              "team2": "Washington University",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2017-03-05T13:00:00Z",
+              "round": "SEMIS",
+              "status": "Final"
+            },
+            {
+              "team1": "Purdue",
+              "team2": "Kansas",
+              "score1": 15,
+              "score2": 6,
+              "datetime": "2017-03-05T13:00:00Z",
+              "round": "SEMIS",
+              "status": "Final"
+            },
+            {
+              "team1": "Northwestern",
+              "team2": "Minnesota-Duluth",
+              "score1": 13,
+              "score2": 8,
+              "datetime": "2017-03-05T18:00:00Z",
+              "round": "QUARTERS",
+              "status": "Final"
+            },
+            {
+              "team1": "St John's",
+              "team2": "Washington University",
+              "score1": 9,
+              "score2": 15,
+              "datetime": "2017-03-05T11:00:00Z",
+              "round": "QUARTERS",
+              "status": "Final"
+            },
+            {
+              "team1": "Purdue",
+              "team2": "Illinois State",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2017-03-05T11:00:00Z",
+              "round": "QUARTERS",
+              "status": "Final"
+            },
+            {
+              "team1": "Wisconsin-Eau Claire",
+              "team2": "Kansas",
+              "score1": 10,
+              "score2": 15,
+              "datetime": "2017-03-05T11:00:00Z",
+              "round": "QUARTERS",
+              "status": "Final"
+            },
+            {
+              "team1": "Northwestern",
+              "team2": "Nebraska",
+              "score1": 17,
+              "score2": 5,
+              "datetime": "2017-03-05T09:00:00Z",
+              "round": "PRE-QS",
+              "status": "Final"
+            },
+            {
+              "team1": "Wisconsin-Milwaukee",
+              "team2": "Minnesota-Duluth",
+              "score1": 11,
+              "score2": 14,
+              "datetime": "2017-03-05T16:00:00Z",
+              "round": "PRE-QS",
+              "status": "Final"
+            },
+            {
+              "team1": "St John's",
+              "team2": "Missouri S&T",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2017-03-05T09:00:00Z",
+              "round": "PRE-QS",
+              "status": "Final"
+            },
+            {
+              "team1": "Washington University",
+              "team2": "Kansas State",
+              "score1": 13,
+              "score2": 7,
+              "datetime": "2017-03-05T23:00:00Z",
+              "round": "PRE-QS",
+              "status": "Final"
+            },
+            {
+              "team1": "Purdue",
+              "team2": "Truman State",
+              "score1": 15,
+              "score2": 3,
+              "datetime": "2017-03-05T09:00:00Z",
+              "round": "PRE-QS",
+              "status": "Final"
+            },
+            {
+              "team1": "Missouri",
+              "team2": "Illinois State",
+              "score1": 7,
+              "score2": 14,
+              "datetime": "2017-03-05T09:00:00Z",
+              "round": "PRE-QS",
+              "status": "Final"
+            },
+            {
+              "team1": "Iowa State",
+              "team2": "Wisconsin-Eau Claire",
+              "score1": 10,
+              "score2": 11,
+              "datetime": "2017-03-05T09:00:00Z",
+              "round": "PRE-QS",
+              "status": "Final"
+            },
+            {
+              "team1": "Kansas",
+              "team2": "North Park",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2017-03-05T09:00:00Z",
+              "round": "PRE-QS",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "3RD PLACE",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Washington University",
+              "team2": "Kansas",
+              "score1": 15,
+              "score2": 2,
+              "datetime": "2017-03-05T15:00:00Z",
+              "round": "3RD",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "T-5TH PLACE (1)",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Minnesota-Duluth",
+              "team2": "St John's",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2017-03-05T20:00:00Z",
+              "round": "T-5TH (1)",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "T-5TH PLACE (2)",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Illinois State",
+              "team2": "Wisconsin-Eau Claire",
+              "score1": 1,
+              "score2": 0,
+              "datetime": "2017-03-05T13:00:00Z",
+              "round": "T-5TH (2)",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "T-9TH PLACE (1)",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Wisconsin-Milwaukee",
+              "team2": "Kansas State",
+              "score1": 0,
+              "score2": 1,
+              "datetime": "2017-03-06T05:00:00Z",
+              "round": "T-9TH (1)",
+              "status": "Final"
+            },
+            {
+              "team1": "Nebraska",
+              "team2": "Wisconsin-Milwaukee",
+              "score1": 10,
+              "score2": 12,
+              "datetime": "2017-03-05T11:00:00Z",
+              "round": "T-9TH (1) SEMIS",
+              "status": "Final"
+            },
+            {
+              "team1": "Missouri S&T",
+              "team2": "Kansas State",
+              "score1": 9,
+              "score2": 10,
+              "datetime": "2017-03-06T01:00:00Z",
+              "round": "T-9TH (1) SEMIS",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "T-9TH PLACE (2)",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Missouri",
+              "team2": "Iowa State",
+              "score1": 2,
+              "score2": 12,
+              "datetime": "2017-03-05T15:00:00Z",
+              "round": "T-9TH (2)",
+              "status": "Final"
+            },
+            {
+              "team1": "Truman State",
+              "team2": "Missouri",
+              "score1": 10,
+              "score2": 13,
+              "datetime": "2017-03-05T11:00:00Z",
+              "round": "T-9TH (2) SEMIS",
+              "status": "Final"
+            },
+            {
+              "team1": "Iowa State",
+              "team2": "North Park",
+              "score1": 12,
+              "score2": 10,
+              "datetime": "2017-03-05T11:00:00Z",
+              "round": "T-9TH (2) SEMIS",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "T-13TH PLACE (1)",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Nebraska",
+              "team2": "Missouri S&T",
+              "score1": 0,
+              "score2": 1,
+              "datetime": "2017-03-05T15:00:00Z",
+              "round": "T-13TH (1)",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "T-13TH PLACE (2)",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Truman State",
+              "team2": "North Park",
+              "score1": 1,
+              "score2": 0,
+              "datetime": "2017-03-05T15:00:00Z",
+              "round": "T-13TH (2)",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "17TH PLACE",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Minnesota (B)",
+              "team2": "Missouri State",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2017-03-05T15:00:00Z",
+              "round": "17TH",
+              "status": "Final"
+            },
+            {
+              "team1": "Minnesota (B)",
+              "team2": "Drake",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2017-03-05T13:00:00Z",
+              "round": "17TH SEMIS",
+              "status": "Final"
+            },
+            {
+              "team1": "Wisconsin (B)",
+              "team2": "Missouri State",
+              "score1": 9,
+              "score2": 14,
+              "datetime": "2017-03-06T03:00:00Z",
+              "round": "17TH SEMIS",
+              "status": "Final"
+            },
+            {
+              "team1": "Minnesota (B)",
+              "team2": "Purdue (B)",
+              "score1": 15,
+              "score2": 3,
+              "datetime": "2017-03-05T09:00:00Z",
+              "round": "17TH QS",
+              "status": "Final"
+            },
+            {
+              "team1": "Drake",
+              "team2": "Grinnell",
+              "score1": 15,
+              "score2": 5,
+              "datetime": "2017-03-05T09:00:00Z",
+              "round": "17TH QS",
+              "status": "Final"
+            },
+            {
+              "team1": "Wisconsin (B)",
+              "team2": "Iowa State (B)",
+              "score1": 14,
+              "score2": 5,
+              "datetime": "2017-03-05T23:00:00Z",
+              "round": "17TH QS",
+              "status": "Final"
+            },
+            {
+              "team1": "Northern Iowa",
+              "team2": "Missouri State",
+              "score1": 8,
+              "score2": 10,
+              "datetime": "2017-03-05T09:00:00Z",
+              "round": "17TH QS",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "19TH PLACE",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Drake",
+              "team2": "Wisconsin (B)",
+              "score1": 14,
+              "score2": 10,
+              "datetime": "2017-03-06T05:00:00Z",
+              "round": "19TH",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "21ST PLACE",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Purdue (B)",
+              "team2": "Northern Iowa",
+              "score1": 5,
+              "score2": 15,
+              "datetime": "2017-03-05T15:00:00Z",
+              "round": "21ST",
+              "status": "Final"
+            },
+            {
+              "team1": "Purdue (B)",
+              "team2": "Grinnell",
+              "score1": 14,
+              "score2": 13,
+              "datetime": "2017-03-05T13:00:00Z",
+              "round": "21ST SEMIS",
+              "status": "Final"
+            },
+            {
+              "team1": "Iowa State (B)",
+              "team2": "Northern Iowa",
+              "score1": 3,
+              "score2": 15,
+              "datetime": "2017-03-05T13:00:00Z",
+              "round": "21ST SEMIS",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "23RD PLACE",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Grinnell",
+              "team2": "Iowa State (B)",
+              "score1": 1,
+              "score2": 0,
+              "datetime": "2017-03-05T15:00:00Z",
+              "round": "23RD",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "25TH PLACE",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Northwestern (B)",
+              "team2": "Drury",
+              "score1": 6,
+              "score2": 5,
+              "datetime": "2017-03-05T15:00:00Z",
+              "round": "25TH",
+              "status": "Final"
+            },
+            {
+              "team1": "Northwestern (B)",
+              "team2": "Nebraska-Omaha",
+              "score1": 11,
+              "score2": 6,
+              "datetime": "2017-03-05T20:00:00Z",
+              "round": "25TH SEMIS",
+              "status": "Final"
+            },
+            {
+              "team1": "Washington University (B)",
+              "team2": "Drury",
+              "score1": 9,
+              "score2": 12,
+              "datetime": "2017-03-05T13:00:00Z",
+              "round": "25TH SEMIS",
+              "status": "Final"
+            },
+            {
+              "team1": "Northwestern (B)",
+              "team2": "Wisconsin-Oshkosh",
+              "score1": 11,
+              "score2": 5,
+              "datetime": "2017-03-05T11:00:00Z",
+              "round": "25TH QS",
+              "status": "Final"
+            },
+            {
+              "team1": "Wisconsin-Milwaukee (B)",
+              "team2": "Nebraska-Omaha",
+              "score1": 0,
+              "score2": 15,
+              "datetime": "2017-03-05T18:00:00Z",
+              "round": "25TH QS",
+              "status": "Final"
+            },
+            {
+              "team1": "Washington University (B)",
+              "team2": "Wisconsin (C)",
+              "score1": 12,
+              "score2": 6,
+              "datetime": "2017-03-06T01:00:00Z",
+              "round": "25TH QS",
+              "status": "Final"
+            },
+            {
+              "team1": "Drury",
+              "team2": "Luther (B)",
+              "score1": 12,
+              "score2": 5,
+              "datetime": "2017-03-05T11:00:00Z",
+              "round": "25TH QS",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "27TH PLACE",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Nebraska-Omaha",
+              "team2": "Washington University (B)",
+              "score1": 2,
+              "score2": 15,
+              "datetime": "2017-03-05T22:00:00Z",
+              "round": "27TH",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "29TH PLACE",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Wisconsin-Oshkosh",
+              "team2": "Luther (B)",
+              "score1": 0,
+              "score2": 1,
+              "datetime": "2017-03-05T15:00:00Z",
+              "round": "29TH",
+              "status": "Final"
+            },
+            {
+              "team1": "Wisconsin-Oshkosh",
+              "team2": "Wisconsin-Milwaukee (B)",
+              "score1": 9,
+              "score2": 4,
+              "datetime": "2017-03-05T13:00:00Z",
+              "round": "29TH SEMIS",
+              "status": "Final"
+            },
+            {
+              "team1": "Wisconsin (C)",
+              "team2": "Luther (B)",
+              "score1": 5,
+              "score2": 13,
+              "datetime": "2017-03-06T03:00:00Z",
+              "round": "29TH SEMIS",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "31ST PLACE",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Wisconsin-Milwaukee (B)",
+              "team2": "Wisconsin (C)",
+              "score1": 0,
+              "score2": 1,
+              "datetime": "2017-03-06T05:00:00Z",
+              "round": "31ST",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

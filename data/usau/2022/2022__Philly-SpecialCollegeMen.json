@@ -1,0 +1,658 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2022/Philly-SpecialCollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/Philly-Special/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:18.947923Z",
+  "event": {
+    "name": "Philly Special 2022",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2022,
+    "city": "Vineland",
+    "state": "NJ",
+    "country": "",
+    "startDate": "2022-03-05",
+    "endDate": "2022-03-06"
+  },
+  "teams": [
+    {
+      "name": "Princeton",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": null,
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Rowan",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Ruf Riders",
+        "location": "Glassboro, New Jersey",
+        "website": "https://www.instagram.com/rowan.ultimate/",
+        "facebook": "https://www.facebook.com/RowanUltimate",
+        "twitter": "https://twitter.com/Rowan_Ultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": " ",
+          "name": "Adam Becker"
+        },
+        {
+          "number": " ",
+          "name": "William Jones"
+        },
+        {
+          "number": "0",
+          "name": "Stephen Burner"
+        },
+        {
+          "number": "0",
+          "name": "Timothy Jennings"
+        },
+        {
+          "number": "0",
+          "name": "Kevin Curtin"
+        },
+        {
+          "number": "0",
+          "name": "Mark Diorio"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Cook"
+        },
+        {
+          "number": "0",
+          "name": "Aidan Burtnick"
+        },
+        {
+          "number": "0",
+          "name": "Andrzej Porter"
+        },
+        {
+          "number": "0",
+          "name": "Brian Hunt"
+        },
+        {
+          "number": "0",
+          "name": "Christian Frank"
+        },
+        {
+          "number": "0",
+          "name": "Daniel Chan"
+        },
+        {
+          "number": "0",
+          "name": "David Brewster"
+        },
+        {
+          "number": "0",
+          "name": "Jared McCallion"
+        },
+        {
+          "number": "0",
+          "name": "Matt Fernandes"
+        },
+        {
+          "number": "0",
+          "name": "Michael Lebet"
+        },
+        {
+          "number": "0",
+          "name": "Noah Carey"
+        },
+        {
+          "number": "11",
+          "name": "Christopher Mahoney"
+        },
+        {
+          "number": "18",
+          "name": "Brandon Jones"
+        },
+        {
+          "number": "21",
+          "name": "Robert Huegel"
+        },
+        {
+          "number": "22",
+          "name": "Shawon Nixon"
+        },
+        {
+          "number": "36",
+          "name": "Chris Kelly"
+        },
+        {
+          "number": "50",
+          "name": "Mark Butler"
+        },
+        {
+          "number": "51",
+          "name": "Ethan Ryan-Kubis"
+        },
+        {
+          "number": "55",
+          "name": "Joseph D'Intino"
+        },
+        {
+          "number": "99",
+          "name": "Joseph Prancl"
+        }
+      ]
+    },
+    {
+      "name": "Penn State (B)",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "LoveTap",
+        "location": "University Park, Pennsylvania",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/LovetapDisc"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Benjamin Zock"
+        },
+        {
+          "number": "0",
+          "name": "Brendan Luong"
+        },
+        {
+          "number": "0",
+          "name": "Drew Binkley"
+        },
+        {
+          "number": "0",
+          "name": "Harsh Zaver"
+        },
+        {
+          "number": "0",
+          "name": "Hunter Allen"
+        },
+        {
+          "number": "0",
+          "name": "Joseph Hennessy"
+        },
+        {
+          "number": "0",
+          "name": "Josh Rechenberg"
+        },
+        {
+          "number": "0",
+          "name": "Josh Reyer"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Stelitano"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Deery"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Dowd"
+        },
+        {
+          "number": "0",
+          "name": "Spencer Milanek"
+        },
+        {
+          "number": "0",
+          "name": "William Szeliga"
+        },
+        {
+          "number": "0",
+          "name": "Luke Vernon"
+        },
+        {
+          "number": "10",
+          "name": "Joshua Pelloni"
+        },
+        {
+          "number": "26",
+          "name": "Mateo Lupinetti"
+        }
+      ]
+    },
+    {
+      "name": "Pennsbury",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Pennsbury",
+        "location": "Yardley, Pennsylvania",
+        "website": "http://www.phsultimate.com",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "Timothy Bevington"
+      ],
+      "roster": [
+        {
+          "number": " ",
+          "name": "Aidan Kean"
+        },
+        {
+          "number": " ",
+          "name": "Andrew Carabello"
+        },
+        {
+          "number": " ",
+          "name": "Samuel Bevington"
+        },
+        {
+          "number": "0",
+          "name": "Seamus Kelliher"
+        },
+        {
+          "number": "0",
+          "name": "Sean Mickel"
+        },
+        {
+          "number": "0",
+          "name": "Shane McCarthy"
+        },
+        {
+          "number": "0",
+          "name": "Ricky Lyons"
+        },
+        {
+          "number": "0",
+          "name": "Chris Terry"
+        },
+        {
+          "number": "0",
+          "name": "Daniel Goll"
+        },
+        {
+          "number": "0",
+          "name": "Evan Brown"
+        },
+        {
+          "number": "0",
+          "name": "Joseph Cardone"
+        },
+        {
+          "number": "0",
+          "name": "Kyle Ford"
+        },
+        {
+          "number": "0",
+          "name": "Matthew Mishler"
+        },
+        {
+          "number": "13",
+          "name": "Diego Asencio"
+        },
+        {
+          "number": "20",
+          "name": "Nicholas Railey"
+        },
+        {
+          "number": "31",
+          "name": "Jake Schachter"
+        },
+        {
+          "number": "41",
+          "name": "Aidan Magee"
+        },
+        {
+          "number": "42",
+          "name": "Marley Kervick"
+        },
+        {
+          "number": "46",
+          "name": "Jackson Duncan"
+        },
+        {
+          "number": "48",
+          "name": "Shawn Lanzillo"
+        },
+        {
+          "number": "72",
+          "name": "Gavin Skale"
+        },
+        {
+          "number": "77",
+          "name": "Evan Okurowski"
+        },
+        {
+          "number": "81",
+          "name": "Nicholas Marinelli"
+        },
+        {
+          "number": "83",
+          "name": "Noah Maslow"
+        },
+        {
+          "number": "84",
+          "name": "Dylan Figueroa"
+        }
+      ]
+    },
+    {
+      "name": "College of New Jersey",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Revolution",
+        "location": "Ewing, New Jersey",
+        "website": "http://www.tcnj.edu/~frisbee/revolution/index.php",
+        "facebook": "",
+        "twitter": "https://twitter.com/TCNJ_Revolution"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": " ",
+          "name": "Matt Mancuso"
+        },
+        {
+          "number": "0",
+          "name": "Nigel Pacheco"
+        },
+        {
+          "number": "0",
+          "name": "Philip Aufiero"
+        },
+        {
+          "number": "0",
+          "name": "Raymond Wright"
+        },
+        {
+          "number": "0",
+          "name": "Robert Helck"
+        },
+        {
+          "number": "0",
+          "name": "Sean Potter"
+        },
+        {
+          "number": "0",
+          "name": "Tyler Hallowell"
+        },
+        {
+          "number": "0",
+          "name": "William Kimberly"
+        },
+        {
+          "number": "0",
+          "name": "Casey Conti"
+        },
+        {
+          "number": "0",
+          "name": "Christopher Bonadio-Cappiello"
+        },
+        {
+          "number": "0",
+          "name": "Christopher Goodwin"
+        },
+        {
+          "number": "0",
+          "name": "Connor  Stine"
+        },
+        {
+          "number": "0",
+          "name": "Dominick Brown"
+        },
+        {
+          "number": "0",
+          "name": "Elliott Nguyen"
+        },
+        {
+          "number": "0",
+          "name": "Evan Sapirman "
+        },
+        {
+          "number": "0",
+          "name": "Francis Aldridge"
+        },
+        {
+          "number": "0",
+          "name": "Jack Gonzalez "
+        },
+        {
+          "number": "0",
+          "name": "Joe Feuerstein"
+        },
+        {
+          "number": "0",
+          "name": "John Supple"
+        },
+        {
+          "number": "0",
+          "name": "Joshua Simpson"
+        },
+        {
+          "number": "0",
+          "name": "Joshua Lerman"
+        },
+        {
+          "number": "0",
+          "name": "Macy Desmond"
+        },
+        {
+          "number": "0",
+          "name": "Marco Guadagno"
+        },
+        {
+          "number": "0",
+          "name": "Brian Nigro"
+        },
+        {
+          "number": "13",
+          "name": "Josh Camacho"
+        },
+        {
+          "number": "19",
+          "name": "Brian Slack"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Princeton",
+              "team2": "Rowan",
+              "score1": 13,
+              "score2": 8,
+              "datetime": "2022-03-05T09:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Pennsbury",
+              "team2": "College of New Jersey",
+              "score1": 13,
+              "score2": 6,
+              "datetime": "2022-03-05T09:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Princeton",
+              "team2": "Pennsbury",
+              "score1": 8,
+              "score2": 7,
+              "datetime": "2022-03-05T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Rowan",
+              "team2": "Penn State (B)",
+              "score1": 12,
+              "score2": 7,
+              "datetime": "2022-03-05T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Penn State (B)",
+              "team2": "College of New Jersey",
+              "score1": 10,
+              "score2": 9,
+              "datetime": "2022-03-05T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Rowan",
+              "team2": "Pennsbury",
+              "score1": 9,
+              "score2": 7,
+              "datetime": "2022-03-05T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Princeton",
+              "team2": "Penn State (B)",
+              "score1": 8,
+              "score2": 7,
+              "datetime": "2022-03-05T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Rowan",
+              "team2": "College of New Jersey",
+              "score1": 7,
+              "score2": 10,
+              "datetime": "2022-03-05T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Princeton",
+              "team2": "College of New Jersey",
+              "score1": 9,
+              "score2": 6,
+              "datetime": "2022-03-05T15:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Pennsbury",
+              "team2": "Penn State (B)",
+              "score1": 7,
+              "score2": 8,
+              "datetime": "2022-03-05T15:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Bracket",
+      "groups": [
+        {
+          "name": "Championship",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Pennsbury",
+              "team2": "Rowan",
+              "score1": 4,
+              "score2": 15,
+              "datetime": "2022-03-06T13:00:00Z",
+              "round": "Championship",
+              "status": "Final"
+            },
+            {
+              "team1": "Princeton",
+              "team2": "Pennsbury",
+              "score1": 10,
+              "score2": 13,
+              "datetime": "2022-03-06T11:00:00Z",
+              "round": "Semis",
+              "status": "Final"
+            },
+            {
+              "team1": "Rowan",
+              "team2": "Penn State (B)",
+              "score1": 13,
+              "score2": 11,
+              "datetime": "2022-03-06T11:00:00Z",
+              "round": "Semis",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "2nd Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Pennsbury",
+              "team2": "College of New Jersey",
+              "score1": 0,
+              "score2": 1,
+              "datetime": "2022-03-06T16:00:00Z",
+              "round": "2nd Place",
+              "status": "Final"
+            },
+            {
+              "team1": "College of New Jersey",
+              "team2": "Penn State (B)",
+              "score1": 11,
+              "score2": 6,
+              "datetime": "2022-03-06T14:30:00Z",
+              "round": "2nd Semis",
+              "status": "Final"
+            },
+            {
+              "team1": "Princeton",
+              "team2": "College of New Jersey",
+              "score1": 0,
+              "score2": 1,
+              "datetime": "2022-03-06T13:00:00Z",
+              "round": "Play In",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "4th Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Princeton",
+              "team2": "Penn State (B)",
+              "score1": 0,
+              "score2": 1,
+              "datetime": "2022-03-06T15:45:00Z",
+              "round": "4th Place",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

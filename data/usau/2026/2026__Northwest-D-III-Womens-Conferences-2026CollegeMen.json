@@ -1,0 +1,310 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2026/Northwest-D-III-Womens-Conferences-2026CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/Northwest-D-III-Womens-Conferences-2026/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:22.948392Z",
+  "event": {
+    "name": "March UMadness 2026",
+    "division": "College - Women ",
+    "gender": "",
+    "season": 2026,
+    "city": "Portland",
+    "state": "OR",
+    "country": "",
+    "startDate": "2026-04-11",
+    "endDate": "2026-04-12"
+  },
+  "teams": [
+    {
+      "name": "NYU",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": null,
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Vermont (B)",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": null,
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Mount Holyoke",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": null,
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Tufts (B)",
+      "seed": 9,
+      "sourceTeamId": "",
+      "url": "",
+      "info": null,
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Brandeis",
+      "seed": 8,
+      "sourceTeamId": "",
+      "url": "",
+      "info": null,
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Wesleyan",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": null,
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Middlebury",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": null,
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Amherst",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": null,
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Massachusetts",
+      "seed": 7,
+      "sourceTeamId": "",
+      "url": "",
+      "info": null,
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Vermont (C)",
+      "seed": 10,
+      "sourceTeamId": "",
+      "url": "",
+      "info": null,
+      "coaches": [],
+      "roster": []
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Round Robin",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Vermont (B)",
+              "team2": "Brandeis",
+              "score1": 13,
+              "score2": 0,
+              "datetime": "2026-03-01T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Mount Holyoke",
+              "team2": "Tufts (B)",
+              "score1": 7,
+              "score2": 3,
+              "datetime": "2026-03-01T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Vermont (B)",
+              "team2": "Mount Holyoke",
+              "score1": 10,
+              "score2": 7,
+              "datetime": "2026-03-01T10:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "NYU",
+              "team2": "Tufts (B)",
+              "score1": 13,
+              "score2": 0,
+              "datetime": "2026-03-01T10:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Mount Holyoke",
+              "team2": "NYU",
+              "score1": 4,
+              "score2": 10,
+              "datetime": "2026-03-01T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Brandeis",
+              "team2": "Tufts (B)",
+              "score1": 4,
+              "score2": 6,
+              "datetime": "2026-03-01T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Vermont (B)",
+              "team2": "NYU",
+              "score1": 7,
+              "score2": 8,
+              "datetime": "2026-03-01T13:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Mount Holyoke",
+              "team2": "Brandeis",
+              "score1": 7,
+              "score2": 2,
+              "datetime": "2026-03-01T13:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Vermont (B)",
+              "team2": "Tufts (B)",
+              "score1": 13,
+              "score2": 1,
+              "datetime": "2026-03-01T15:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "NYU",
+              "team2": "Brandeis",
+              "score1": 10,
+              "score2": 0,
+              "datetime": "2026-03-01T15:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool B",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Wesleyan",
+              "team2": "Massachusetts",
+              "score1": 9,
+              "score2": 4,
+              "datetime": "2026-03-01T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Amherst",
+              "team2": "Vermont (C)",
+              "score1": 12,
+              "score2": 3,
+              "datetime": "2026-03-01T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Middlebury",
+              "team2": "Amherst",
+              "score1": 11,
+              "score2": 5,
+              "datetime": "2026-03-01T10:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Vermont (C)",
+              "team2": "Massachusetts",
+              "score1": 3,
+              "score2": 10,
+              "datetime": "2026-03-01T10:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Wesleyan",
+              "team2": "Vermont (C)",
+              "score1": 13,
+              "score2": 0,
+              "datetime": "2026-03-01T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Middlebury",
+              "team2": "Massachusetts",
+              "score1": 8,
+              "score2": 4,
+              "datetime": "2026-03-01T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Wesleyan",
+              "team2": "Amherst",
+              "score1": 8,
+              "score2": 5,
+              "datetime": "2026-03-01T13:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Middlebury",
+              "team2": "Vermont (C)",
+              "score1": 13,
+              "score2": 1,
+              "datetime": "2026-03-01T13:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Wesleyan",
+              "team2": "Middlebury",
+              "score1": 7,
+              "score2": 6,
+              "datetime": "2026-03-01T15:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Amherst",
+              "team2": "Massachusetts",
+              "score1": 9,
+              "score2": 3,
+              "datetime": "2026-03-01T15:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2024/Sonoran-ScrambleClub-Men",
+  "sourceUrl": "https://play.usaultimate.org/events/Sonoran-Scramble/schedule/Men/Club-Men/",
+  "scrapedAt": "2026-08-28T10:06:21.077864Z",
+  "event": {
+    "name": "Sonoran Scramble 2024",
+    "division": "Club - Men ",
+    "gender": "",
+    "season": 2024,
+    "city": "Phoenix",
+    "state": "AZ",
+    "country": "",
+    "startDate": "2024-08-24",
+    "endDate": "2024-08-25"
+  },
+  "teams": [
+    {
+      "name": "Sonoran Dog",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Tucson, Arizona",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Chris Salazar"
+        },
+        {
+          "number": "0",
+          "name": "Dylan South"
+        },
+        {
+          "number": "0",
+          "name": "Dylan Cobean"
+        },
+        {
+          "number": "0",
+          "name": "John Priest"
+        },
+        {
+          "number": "0",
+          "name": "Matt Varney"
+        },
+        {
+          "number": "0",
+          "name": "Matthew Northway"
+        },
+        {
+          "number": "0",
+          "name": "Alan Flores"
+        },
+        {
+          "number": "0",
+          "name": "Mitchell Rutherford"
+        },
+        {
+          "number": "0",
+          "name": "Sean Smith"
+        },
+        {
+          "number": "0",
+          "name": "Tyler Kolzow"
+        },
+        {
+          "number": "11",
+          "name": "Sam Freitas"
+        },
+        {
+          "number": "19",
+          "name": "Michael Montiel"
+        },
+        {
+          "number": "23",
+          "name": "Alexander Prescott"
+        },
+        {
+          "number": "25",
+          "name": "Nate Bloomer"
+        }
+      ]
+    },
+    {
+      "name": "Monsoon",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Phoenix, Arizona",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Tyler Pearson"
+        },
+        {
+          "number": "02",
+          "name": "Steven Niemczynski"
+        },
+        {
+          "number": "10",
+          "name": "Carlos Diaz"
+        },
+        {
+          "number": "12",
+          "name": "Carter Szukala"
+        },
+        {
+          "number": "12",
+          "name": "Martin Fuller"
+        },
+        {
+          "number": "13",
+          "name": "Jake Anderson"
+        },
+        {
+          "number": "14",
+          "name": "Noah Taetle"
+        },
+        {
+          "number": "15",
+          "name": "Samuel  Perez"
+        },
+        {
+          "number": "21",
+          "name": "Prakash Wiese"
+        },
+        {
+          "number": "25",
+          "name": "Joe Blidy"
+        },
+        {
+          "number": "27",
+          "name": "John Wright"
+        },
+        {
+          "number": "32",
+          "name": "Seth Kristal"
+        },
+        {
+          "number": "34",
+          "name": "Ryan Burger"
+        },
+        {
+          "number": "35",
+          "name": "Trevor Walrath"
+        },
+        {
+          "number": "37",
+          "name": "Bennett Christoffersen"
+        },
+        {
+          "number": "38",
+          "name": "Ryan Grossklaus"
+        },
+        {
+          "number": "55",
+          "name": "Kevin Chang"
+        },
+        {
+          "number": "56",
+          "name": "Joaquin Buenviaje"
+        },
+        {
+          "number": "65",
+          "name": "Jeffrey Budd"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Double Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Sonoran Dog",
+              "team2": "Monsoon",
+              "score1": 11,
+              "score2": 8,
+              "datetime": "2024-08-24T18:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Monsoon",
+              "team2": "Sonoran Dog",
+              "score1": 8,
+              "score2": 13,
+              "datetime": "2024-08-24T19:45:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

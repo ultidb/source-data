@@ -1,0 +1,238 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2019/Atlantic-Coast-Showcase-3719CollegeWomen",
+  "sourceUrl": "https://play.usaultimate.org/events/Atlantic-Coast-Showcase-3719/schedule/Women/CollegeWomen/",
+  "scrapedAt": "2026-08-28T10:06:16.399597Z",
+  "event": {
+    "name": "Atlantic Coast Showcase (3/7/19) 2019",
+    "division": "College - Women ",
+    "gender": "",
+    "season": 2019,
+    "city": "Raleigh",
+    "state": "NC",
+    "country": "",
+    "startDate": "2019-03-07",
+    "endDate": "2019-03-07"
+  },
+  "teams": [
+    {
+      "name": "Duke",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Swerve",
+        "location": "Durham, North Carolina",
+        "website": "https://sites.duke.edu/wultimate/",
+        "facebook": "https://www.facebook.com/DukeWomensUltimateSwerve/",
+        "twitter": "https://twitter.com/dukeswerve"
+      },
+      "coaches": [
+        "Alan Hoyle",
+        "Georgia Tse"
+      ],
+      "roster": [
+        {
+          "number": "01",
+          "name": "Anne Crowley"
+        },
+        {
+          "number": "02",
+          "name": "Angela Liu"
+        },
+        {
+          "number": "03",
+          "name": "Tiffany Wei"
+        },
+        {
+          "number": "04",
+          "name": "Christine O'Connell"
+        },
+        {
+          "number": "06",
+          "name": "Katherine Li"
+        },
+        {
+          "number": "08",
+          "name": "Caroline Kassir"
+        },
+        {
+          "number": "10",
+          "name": "Nicole Patterson"
+        },
+        {
+          "number": "14",
+          "name": "Elianna Bier"
+        },
+        {
+          "number": "17",
+          "name": "Rachel Rubin"
+        },
+        {
+          "number": "18",
+          "name": "Rachel Berlowe Binder"
+        },
+        {
+          "number": "20",
+          "name": "Madeleine Shade"
+        },
+        {
+          "number": "22",
+          "name": "Elizabeth Nowlin"
+        },
+        {
+          "number": "24",
+          "name": "Selena Qian"
+        },
+        {
+          "number": "25",
+          "name": "Brielle Tobin"
+        },
+        {
+          "number": "28",
+          "name": "Darcy Cook"
+        },
+        {
+          "number": "31",
+          "name": "Linh Bui"
+        },
+        {
+          "number": "34",
+          "name": "Peyton Schafer"
+        },
+        {
+          "number": "76",
+          "name": "Linda Tang"
+        },
+        {
+          "number": "88",
+          "name": "Jennifer Yan"
+        }
+      ]
+    },
+    {
+      "name": "North Carolina State",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Jaga Monsta",
+        "location": "Raleigh, North Carolina",
+        "website": "",
+        "facebook": "https://www.facebook.com/pages/J%C3%A4ga-NCSU-Womens-Ultimate/153552627991990",
+        "twitter": "https://twitter.com/NCSUJagaMonsta"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Caroline Vande Berg"
+        },
+        {
+          "number": "0",
+          "name": "Charity Robinett"
+        },
+        {
+          "number": "0",
+          "name": "Danielle Sawyer"
+        },
+        {
+          "number": "0",
+          "name": "Emily Nicholos"
+        },
+        {
+          "number": "0",
+          "name": "Emma Bartlett"
+        },
+        {
+          "number": "0",
+          "name": "Jacqueline Hausle"
+        },
+        {
+          "number": "0",
+          "name": "Jen Bradley"
+        },
+        {
+          "number": "0",
+          "name": "Abigail Campbell"
+        },
+        {
+          "number": "0",
+          "name": "Alice Widman"
+        },
+        {
+          "number": "0",
+          "name": "Allison Church"
+        },
+        {
+          "number": "0",
+          "name": "Ana Solberg"
+        },
+        {
+          "number": "0",
+          "name": "Ashley Nelson"
+        },
+        {
+          "number": "0",
+          "name": "Becky Widmayer"
+        },
+        {
+          "number": "0",
+          "name": "Lisa Keller"
+        },
+        {
+          "number": "0",
+          "name": "Melissa Gronske"
+        },
+        {
+          "number": "0",
+          "name": "Sarah Lewis"
+        },
+        {
+          "number": "0",
+          "name": "Torey Vayer"
+        },
+        {
+          "number": "5",
+          "name": "Katie Cubrilovic"
+        },
+        {
+          "number": "6",
+          "name": "Carmen Tormey"
+        },
+        {
+          "number": "27",
+          "name": "Mary Clarke Worthington"
+        },
+        {
+          "number": "58",
+          "name": "Rowan Jaynes"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "brackets",
+      "name": "ACS Game 3",
+      "groups": [
+        {
+          "name": "ACS",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Duke",
+              "team2": "North Carolina State",
+              "score1": 9,
+              "score2": 13,
+              "datetime": "2019-03-07T20:15:00Z",
+              "round": "Game 3",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

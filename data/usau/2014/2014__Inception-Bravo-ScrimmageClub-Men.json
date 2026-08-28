@@ -1,0 +1,249 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2014/Inception-Bravo-ScrimmageClub-Men",
+  "sourceUrl": "https://play.usaultimate.org/events/Inception-Bravo-Scrimmage/schedule/Men/Club-Men/",
+  "scrapedAt": "2026-08-28T10:06:11.619356Z",
+  "event": {
+    "name": "Inception-Bravo Scrimmage 2014",
+    "division": "Club - Men ",
+    "gender": "",
+    "season": 2014,
+    "city": "Westminster",
+    "state": "CO",
+    "country": "",
+    "startDate": "2014-06-22",
+    "endDate": "2014-06-22"
+  },
+  "teams": [
+    {
+      "name": "Johnny Bravo",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Denver, Colorado",
+        "website": "http://bravoultimate.org/",
+        "facebook": "https://www.facebook.com/pages/Johnny-Bravo-Ultimate/111884215492137?fref=nf",
+        "twitter": "https://twitter.com/BravoUltimate"
+      },
+      "coaches": [
+        "Bob Krier"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "ROY MATTHEWS"
+        },
+        {
+          "number": "0",
+          "name": "Hidde Snieder"
+        },
+        {
+          "number": "2",
+          "name": "Sean Keegan"
+        },
+        {
+          "number": "3",
+          "name": "Jesse Roehm"
+        },
+        {
+          "number": "4",
+          "name": "Andrew Mangan"
+        },
+        {
+          "number": "5",
+          "name": "Jack (John) McShane"
+        },
+        {
+          "number": "6",
+          "name": "Bart Watson"
+        },
+        {
+          "number": "8",
+          "name": "Austin Gregersen"
+        },
+        {
+          "number": "9",
+          "name": "WILL LOKKE"
+        },
+        {
+          "number": "10",
+          "name": "C Ryan Morgan"
+        },
+        {
+          "number": "11",
+          "name": "Nicholas Lance"
+        },
+        {
+          "number": "12",
+          "name": "Tim Morrissy"
+        },
+        {
+          "number": "14",
+          "name": "CRAIG FORSHEE"
+        },
+        {
+          "number": "15",
+          "name": "Dennison Bechis"
+        },
+        {
+          "number": "16",
+          "name": "RYAN FARRELL"
+        },
+        {
+          "number": "19",
+          "name": "Ian Toner"
+        },
+        {
+          "number": "20",
+          "name": "Joshua Ackley"
+        },
+        {
+          "number": "21",
+          "name": "Evan Padget"
+        },
+        {
+          "number": "21",
+          "name": "Brodie Smith"
+        },
+        {
+          "number": "22",
+          "name": "Stanley Peterson"
+        },
+        {
+          "number": "23",
+          "name": "Jimmy Mickle"
+        },
+        {
+          "number": "24",
+          "name": "Jackson Kloor"
+        },
+        {
+          "number": "34",
+          "name": "Henry Konker"
+        },
+        {
+          "number": "38",
+          "name": "Matthew Farrell"
+        },
+        {
+          "number": "45",
+          "name": "Brett Matzuka"
+        },
+        {
+          "number": "56",
+          "name": "Jacob Juszak"
+        },
+        {
+          "number": "80",
+          "name": "Jeremy Harker"
+        }
+      ]
+    },
+    {
+      "name": "Inception",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Denver/Boulder, Colorado",
+        "website": "http://inceptionultimate.com/",
+        "facebook": "https://www.facebook.com/inceptionultimate",
+        "twitter": "@inceptiondisc"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "01",
+          "name": "Michael Kapoor"
+        },
+        {
+          "number": "02",
+          "name": "Tim Hopp"
+        },
+        {
+          "number": "03",
+          "name": "TYLER VAN DOMELEN"
+        },
+        {
+          "number": "03",
+          "name": "JAMIE SHOREY"
+        },
+        {
+          "number": "06",
+          "name": "Andrew Nelson"
+        },
+        {
+          "number": "09",
+          "name": "Coit Stevenson"
+        },
+        {
+          "number": "15",
+          "name": "Gabe Goodhart"
+        },
+        {
+          "number": "17",
+          "name": "ERIC MATTHYS"
+        },
+        {
+          "number": "24",
+          "name": "Matt Bubernak"
+        },
+        {
+          "number": "25",
+          "name": "DAILEY KLUCK"
+        },
+        {
+          "number": "28",
+          "name": "Joel Crandall"
+        },
+        {
+          "number": "36",
+          "name": "Gabe Stump"
+        },
+        {
+          "number": "42",
+          "name": "Andrew Priester"
+        },
+        {
+          "number": "83",
+          "name": "Zachary Nager"
+        },
+        {
+          "number": "85",
+          "name": "Calvin Delamere"
+        },
+        {
+          "number": "88",
+          "name": "Wil St. Charles"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "clusters",
+      "name": "Scrimmage",
+      "groups": [
+        {
+          "name": "Scrimmage",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Johnny Bravo",
+              "team2": "Inception",
+              "score1": 15,
+              "score2": 5,
+              "datetime": "2014-06-22T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

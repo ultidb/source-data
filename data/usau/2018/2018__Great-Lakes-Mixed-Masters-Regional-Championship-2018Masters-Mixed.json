@@ -1,0 +1,289 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2018/Great-Lakes-Mixed-Masters-Regional-Championship-2018Masters-Mixed",
+  "sourceUrl": "https://play.usaultimate.org/events/Great-Lakes-Mixed-Masters-Regional-Championship-2018/schedule/Mixed/Masters-Mixed/",
+  "scrapedAt": "2026-08-28T10:06:15.457747Z",
+  "event": {
+    "name": "Great Lakes Mixed Masters Regional Championship 2018",
+    "division": "Masters - Mixed ",
+    "gender": "",
+    "season": 2018,
+    "city": "Indianapolis",
+    "state": "IN",
+    "country": "",
+    "startDate": "2018-06-23",
+    "endDate": "2018-06-24"
+  },
+  "teams": [
+    {
+      "name": "UPAARP",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Chicago, Illinois",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/upaarp"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Akira Yamaguchi"
+        },
+        {
+          "number": "0",
+          "name": "Barrs Lang"
+        },
+        {
+          "number": "0",
+          "name": "Brian Schulz"
+        },
+        {
+          "number": "0",
+          "name": "Christina Hedges"
+        },
+        {
+          "number": "0",
+          "name": "DANE OLSEN"
+        },
+        {
+          "number": "0",
+          "name": "Lizzy Shiel"
+        },
+        {
+          "number": "0",
+          "name": "Emily Hadel"
+        },
+        {
+          "number": "0",
+          "name": "Jessica Sipperley"
+        },
+        {
+          "number": "0",
+          "name": "Laura Moore"
+        },
+        {
+          "number": "0",
+          "name": "Lori Eich"
+        },
+        {
+          "number": "0",
+          "name": "Michael Shiel"
+        },
+        {
+          "number": "0",
+          "name": "Neale Mahoney"
+        },
+        {
+          "number": "0",
+          "name": "Pooja Menon"
+        },
+        {
+          "number": "0",
+          "name": "Preeti Nalavade"
+        },
+        {
+          "number": "1",
+          "name": "Tim Halt"
+        },
+        {
+          "number": "3",
+          "name": "Michael Egan"
+        },
+        {
+          "number": "11",
+          "name": "Emily Flanders"
+        },
+        {
+          "number": "21",
+          "name": "John Kolb"
+        },
+        {
+          "number": "55",
+          "name": "Patrick Gleason"
+        },
+        {
+          "number": "80",
+          "name": "Valentina Shiel (Ngai)"
+        },
+        {
+          "number": "88",
+          "name": "Leo Wang"
+        }
+      ]
+    },
+    {
+      "name": "O.L.D. (Ohio Legends of Disc)",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Ohio's Laziest Defense",
+        "location": "Columbus, Ohio",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Austin Eilbeck"
+        },
+        {
+          "number": "0",
+          "name": "Erin Rogers"
+        },
+        {
+          "number": "0",
+          "name": "Jeff Kula"
+        },
+        {
+          "number": "0",
+          "name": "Kari Reeb"
+        },
+        {
+          "number": "0",
+          "name": "Matthew Dilworth"
+        },
+        {
+          "number": "0",
+          "name": "Monica Tournoux"
+        },
+        {
+          "number": "0",
+          "name": "Nancy Haskell"
+        },
+        {
+          "number": "0",
+          "name": "Nathan Landry"
+        },
+        {
+          "number": "0",
+          "name": "RYAN LEARD"
+        },
+        {
+          "number": "0",
+          "name": "Sean Clymer"
+        },
+        {
+          "number": "2",
+          "name": "Sarah Butts"
+        },
+        {
+          "number": "2",
+          "name": "Mike Walsh"
+        },
+        {
+          "number": "6",
+          "name": "Kristen Plews"
+        },
+        {
+          "number": "9",
+          "name": "Chris Stevens"
+        },
+        {
+          "number": "00",
+          "name": "David Valentine-Elam"
+        },
+        {
+          "number": "00",
+          "name": "Kevin Kula"
+        },
+        {
+          "number": "00",
+          "name": "Greg Eckhart"
+        },
+        {
+          "number": "00",
+          "name": "Lindsey Fallon"
+        },
+        {
+          "number": "00",
+          "name": "Stephen Booth"
+        },
+        {
+          "number": "00",
+          "name": "Brent Reeb"
+        },
+        {
+          "number": "30",
+          "name": "Mackenzie Fazekas"
+        },
+        {
+          "number": "31",
+          "name": "Beth Nakamura"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Game 1",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "UPAARP",
+              "team2": "O.L.D. (Ohio Legends of Disc)",
+              "score1": 15,
+              "score2": 13,
+              "datetime": "2018-06-23T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "pools",
+      "name": "Game 2",
+      "groups": [
+        {
+          "name": "Pool B",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "UPAARP",
+              "team2": "O.L.D. (Ohio Legends of Disc)",
+              "score1": 12,
+              "score2": 13,
+              "datetime": "2018-06-23T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "pools",
+      "name": "Game 3 (if necessary)",
+      "groups": [
+        {
+          "name": "Pool C",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "UPAARP",
+              "team2": "O.L.D. (Ohio Legends of Disc)",
+              "score1": 15,
+              "score2": 11,
+              "datetime": "2018-06-23T15:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

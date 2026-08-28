@@ -1,0 +1,292 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2015/Kokopelli-2015CollegeWomen",
+  "sourceUrl": "https://play.usaultimate.org/events/Kokopelli-2015/schedule/Women/CollegeWomen/",
+  "scrapedAt": "2026-08-28T10:06:12.417550Z",
+  "event": {
+    "name": "Kokopelli 2015",
+    "division": "College - Women ",
+    "gender": "",
+    "season": 2015,
+    "city": "Albuquerque",
+    "state": "NM",
+    "country": "",
+    "startDate": "2015-03-28",
+    "endDate": "2015-03-29"
+  },
+  "teams": [
+    {
+      "name": "Arizona State",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Caliente",
+        "location": "Tempe, Arizona",
+        "website": "http://www.calienteultimate.com/",
+        "facebook": "https://www.facebook.com/ASUWomensUltimateCaliente",
+        "twitter": "https://twitter.com/CalienteASU"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "02",
+          "name": "Rachael Preschler"
+        },
+        {
+          "number": "03",
+          "name": "Kylie Capite"
+        },
+        {
+          "number": "04",
+          "name": "Kristen Bennett"
+        },
+        {
+          "number": "06",
+          "name": "ASHLEY HALL"
+        },
+        {
+          "number": "07",
+          "name": "Cynthia Thomas"
+        },
+        {
+          "number": "09",
+          "name": "Andrea Spence"
+        },
+        {
+          "number": "12",
+          "name": "Jessie Davidson"
+        },
+        {
+          "number": "12",
+          "name": "Jennifer Dai"
+        },
+        {
+          "number": "14",
+          "name": "LINDSEY QUESNEL"
+        },
+        {
+          "number": "15",
+          "name": "Everett Johnson"
+        },
+        {
+          "number": "18",
+          "name": "BRITTNEY POTZLER"
+        },
+        {
+          "number": "22",
+          "name": "Melissa Dunn"
+        },
+        {
+          "number": "23",
+          "name": "Megan Mendieta"
+        },
+        {
+          "number": "31",
+          "name": "Krista Marble"
+        },
+        {
+          "number": "42",
+          "name": "Nithya Subramanian"
+        }
+      ]
+    },
+    {
+      "name": "New Mexico",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Bombshells",
+        "location": "Albuquerque, New Mexico",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "03",
+          "name": "Cynthia  Le"
+        },
+        {
+          "number": "05",
+          "name": "Marilyn Reich"
+        },
+        {
+          "number": "07",
+          "name": "Veronica Vazquez"
+        },
+        {
+          "number": "07",
+          "name": "Caycie Crepeau"
+        },
+        {
+          "number": "08",
+          "name": "Caroline Patz"
+        },
+        {
+          "number": "08",
+          "name": "Corinne Foskey"
+        },
+        {
+          "number": "10",
+          "name": "Ashley Greene"
+        },
+        {
+          "number": "15",
+          "name": "Jessica Sandoval"
+        },
+        {
+          "number": "19",
+          "name": "Sabrina Piar"
+        },
+        {
+          "number": "39",
+          "name": "LAURA VETSCH"
+        }
+      ]
+    },
+    {
+      "name": "Northern Arizona",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Jines in the Pines",
+        "location": "Flagstaff, Arizona",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Azalea Grant"
+        },
+        {
+          "number": "00",
+          "name": "Stephanie Gunter"
+        },
+        {
+          "number": "00",
+          "name": "Ellen  Kassay"
+        },
+        {
+          "number": "00",
+          "name": "Lindsey Spink"
+        },
+        {
+          "number": "00",
+          "name": "Regina Lopez-Merrill"
+        },
+        {
+          "number": "00",
+          "name": "Amy Swartz"
+        },
+        {
+          "number": "00",
+          "name": "Amber Stewart"
+        },
+        {
+          "number": "00",
+          "name": "Kelsey Shores"
+        },
+        {
+          "number": "00",
+          "name": "Rachel Wroblewski"
+        },
+        {
+          "number": "00",
+          "name": "Sydney Dudley"
+        },
+        {
+          "number": "02",
+          "name": "Daisy Zoby"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Round Robin Sat",
+      "groups": [
+        {
+          "name": "Pool Sat",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Arizona State",
+              "team2": "Northern Arizona",
+              "score1": 13,
+              "score2": 5,
+              "datetime": "2015-03-28T15:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Northern Arizona",
+              "team2": "New Mexico",
+              "score1": 6,
+              "score2": 13,
+              "datetime": "2015-03-28T17:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Arizona State",
+              "team2": "New Mexico",
+              "score1": 13,
+              "score2": 3,
+              "datetime": "2015-03-28T19:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "pools",
+      "name": "Round Robin Sun",
+      "groups": [
+        {
+          "name": "Pool Sun",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Arizona State",
+              "team2": "Northern Arizona",
+              "score1": 7,
+              "score2": 1,
+              "datetime": "2015-03-29T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Northern Arizona",
+              "team2": "New Mexico",
+              "score1": 4,
+              "score2": 10,
+              "datetime": "2015-03-29T15:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Arizona State",
+              "team2": "New Mexico",
+              "score1": 8,
+              "score2": 7,
+              "datetime": "2015-03-29T17:15:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

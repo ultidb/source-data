@@ -1,0 +1,873 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2024/Utah-Valley-RallyCollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/Utah-Valley-Rally/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:21.190200Z",
+  "event": {
+    "name": "Utah Valley Rally 2024",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2024,
+    "city": "Orem",
+    "state": "UT",
+    "country": "",
+    "startDate": "2024-03-29",
+    "endDate": "2024-03-30"
+  },
+  "teams": [
+    {
+      "name": "Green Canyon High School",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Green Canyon - A",
+        "location": "North Logan, Utah",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "Paul De Morgan",
+        "Evan Poulsen"
+      ],
+      "roster": [
+        {
+          "number": "01",
+          "name": "Cody Edelmayer"
+        },
+        {
+          "number": "02",
+          "name": "Jacob Hoffman"
+        },
+        {
+          "number": "03",
+          "name": "Blake Holt"
+        },
+        {
+          "number": "04",
+          "name": "Riley  Hamilton"
+        },
+        {
+          "number": "05",
+          "name": "Linkoln Hansen"
+        },
+        {
+          "number": "12",
+          "name": "Bryce Hoffman"
+        },
+        {
+          "number": "14",
+          "name": "Kyler Jenkins"
+        },
+        {
+          "number": "18",
+          "name": "Jace Rowley"
+        },
+        {
+          "number": "22",
+          "name": "Benjamin Bond"
+        },
+        {
+          "number": "24",
+          "name": "Sam Nichols"
+        },
+        {
+          "number": "27",
+          "name": "Landon Brough"
+        },
+        {
+          "number": "28",
+          "name": "Silas Bell"
+        },
+        {
+          "number": "31",
+          "name": "Nathan De Morgan"
+        },
+        {
+          "number": "34",
+          "name": "Carson Holt"
+        },
+        {
+          "number": "40",
+          "name": "Owen Shakespear"
+        },
+        {
+          "number": "54",
+          "name": "Gavin Buirley"
+        },
+        {
+          "number": "66",
+          "name": "Miles Phillips"
+        },
+        {
+          "number": "84",
+          "name": "Dillon Geddes"
+        }
+      ]
+    },
+    {
+      "name": "Utah State",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Scotsmen",
+        "location": "Logan, Utah",
+        "website": "",
+        "facebook": "https://www.facebook.com/profile.php?id=100089442176571",
+        "twitter": "https://twitter.com/USUMensUltimate"
+      },
+      "coaches": [
+        "Eric Holt",
+        "Zach Balls"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Zach Larsen"
+        },
+        {
+          "number": "01",
+          "name": "Elijah Huber"
+        },
+        {
+          "number": "02",
+          "name": "Seth Wilson"
+        },
+        {
+          "number": "03",
+          "name": "Kysen Lyons"
+        },
+        {
+          "number": "04",
+          "name": "Bryson McNair"
+        },
+        {
+          "number": "05",
+          "name": "Samuel Huntzinger"
+        },
+        {
+          "number": "06",
+          "name": "Tucker Jewkes"
+        },
+        {
+          "number": "07",
+          "name": "Conrad Anhder"
+        },
+        {
+          "number": "08",
+          "name": "Scott Jackson"
+        },
+        {
+          "number": "09",
+          "name": "Dallin Opperman"
+        },
+        {
+          "number": "11",
+          "name": "Zachary Mulkey"
+        },
+        {
+          "number": "16",
+          "name": "Boston Musgrave"
+        },
+        {
+          "number": "17",
+          "name": "Jackson Egbert"
+        },
+        {
+          "number": "19",
+          "name": "Brigham Radmall"
+        },
+        {
+          "number": "22",
+          "name": "Ryan Beck"
+        },
+        {
+          "number": "23",
+          "name": "Anthony Mounga"
+        },
+        {
+          "number": "24",
+          "name": "Jonny Hoffman"
+        },
+        {
+          "number": "25",
+          "name": "Henry Nguyen"
+        },
+        {
+          "number": "33",
+          "name": "Seth Wilcox"
+        },
+        {
+          "number": "38",
+          "name": "Chase Smith"
+        },
+        {
+          "number": "45",
+          "name": "Alan Poulsen"
+        },
+        {
+          "number": "47",
+          "name": "Calvin Clark"
+        },
+        {
+          "number": "66",
+          "name": "Truman Phillips"
+        },
+        {
+          "number": "80",
+          "name": "Jake Osborne"
+        },
+        {
+          "number": "92",
+          "name": "Jaren Newswander"
+        },
+        {
+          "number": "95",
+          "name": "Brock Hyatt"
+        },
+        {
+          "number": "99",
+          "name": "Jared Waite"
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Zion Curtain",
+        "location": "Salt Lake City, Utah",
+        "website": "https://www.zioncurtainultimate.com/",
+        "facebook": "https://www.facebook.com/pages/ZCU-Zion-Curtain-Ultimate/162698807137761",
+        "twitter": "https://twitter.com/zioncurtainulti"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Zev Gorfinkle"
+        },
+        {
+          "number": "2",
+          "name": "Oscar Brown"
+        },
+        {
+          "number": "4",
+          "name": "Jackson Hammond"
+        },
+        {
+          "number": "5",
+          "name": "Rainor Alin"
+        },
+        {
+          "number": "7",
+          "name": "Elijah Watchalotone"
+        },
+        {
+          "number": "8",
+          "name": "Will Selfridge"
+        },
+        {
+          "number": "9",
+          "name": "Ethan Hilding"
+        },
+        {
+          "number": "14",
+          "name": "Ian Cunningham-Ward"
+        },
+        {
+          "number": "15",
+          "name": "Connor Farrell"
+        },
+        {
+          "number": "17",
+          "name": "Connor Lund"
+        },
+        {
+          "number": "25",
+          "name": "Alex Forsberg"
+        },
+        {
+          "number": "28",
+          "name": "Thomas Duke"
+        },
+        {
+          "number": "30",
+          "name": "Jack Valentine"
+        },
+        {
+          "number": "33",
+          "name": "Cameron Porter"
+        },
+        {
+          "number": "34",
+          "name": "Malcolm Starr"
+        },
+        {
+          "number": "42",
+          "name": "Jonas Regehr"
+        },
+        {
+          "number": "47",
+          "name": "Jake Ryan"
+        },
+        {
+          "number": "73",
+          "name": "Aiden Coutin"
+        },
+        {
+          "number": "75",
+          "name": "Sawyer Ransom"
+        },
+        {
+          "number": "77",
+          "name": "Austin Hasbrook"
+        },
+        {
+          "number": "82",
+          "name": "Andrew Elliott"
+        },
+        {
+          "number": "87",
+          "name": "Max DeBroux"
+        },
+        {
+          "number": "96",
+          "name": "Dane Miller"
+        },
+        {
+          "number": "99",
+          "name": "Grayson Rettberg"
+        }
+      ]
+    },
+    {
+      "name": "Utah Valley",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Utah Valley Ultimate",
+        "location": "Orem, Utah",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Aaron Pullan"
+        },
+        {
+          "number": "0",
+          "name": "Aleksei Felt"
+        },
+        {
+          "number": "0",
+          "name": "Cameron Barney"
+        },
+        {
+          "number": "0",
+          "name": "Derik Knighton"
+        },
+        {
+          "number": "0",
+          "name": "Dilan Fernando"
+        },
+        {
+          "number": "0",
+          "name": "Jared Sorensen"
+        },
+        {
+          "number": "0",
+          "name": "Jonah Erb"
+        },
+        {
+          "number": "0",
+          "name": "Kale Winterton"
+        },
+        {
+          "number": "0",
+          "name": "Kimball Pew"
+        },
+        {
+          "number": "0",
+          "name": "Porter Stobbe"
+        },
+        {
+          "number": "0",
+          "name": "Thomas Curtis"
+        },
+        {
+          "number": "2",
+          "name": "Spencer Barney"
+        },
+        {
+          "number": "3",
+          "name": "Brock Jensen"
+        },
+        {
+          "number": "6",
+          "name": "Isaac Arnold"
+        },
+        {
+          "number": "10",
+          "name": "Caleb Warner"
+        },
+        {
+          "number": "11",
+          "name": "Matt Jamison"
+        },
+        {
+          "number": "12",
+          "name": "Mason Gordon"
+        },
+        {
+          "number": "13",
+          "name": "Landon Walters"
+        },
+        {
+          "number": "17",
+          "name": "Porter Oyler"
+        },
+        {
+          "number": "18",
+          "name": "Kolton Wild"
+        },
+        {
+          "number": "31",
+          "name": "Logan Bonzo"
+        },
+        {
+          "number": "40",
+          "name": "Cade Barnes"
+        },
+        {
+          "number": "82",
+          "name": "Austin Baird"
+        }
+      ]
+    },
+    {
+      "name": "Salt.",
+      "seed": 7,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Provo, Utah",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Ben Hirschman"
+        },
+        {
+          "number": "0",
+          "name": "Eric Christensen"
+        },
+        {
+          "number": "0",
+          "name": "Isaac Davis"
+        },
+        {
+          "number": "0",
+          "name": "Lincoln Petersen"
+        },
+        {
+          "number": "7",
+          "name": "Ben Jones"
+        },
+        {
+          "number": "9",
+          "name": "Brad McKeen"
+        },
+        {
+          "number": "11",
+          "name": "Alex Walker"
+        },
+        {
+          "number": "14",
+          "name": "Lee Jensen"
+        },
+        {
+          "number": "24",
+          "name": "Patrik Connole"
+        },
+        {
+          "number": "32",
+          "name": "Nacody de la Rosa"
+        },
+        {
+          "number": "32",
+          "name": "Alec Benton"
+        },
+        {
+          "number": "89",
+          "name": "Alejandro Palomino"
+        },
+        {
+          "number": "99",
+          "name": "Dan Doxey"
+        }
+      ]
+    },
+    {
+      "name": "Lone Peak",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Lone Peak Boys A",
+        "location": "Alpine, Utah",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "Joe Strong"
+      ],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Ammon Bragonje"
+        },
+        {
+          "number": "00",
+          "name": "Andrew Barrus"
+        },
+        {
+          "number": "00",
+          "name": "Braeden  Bybee"
+        },
+        {
+          "number": "00",
+          "name": "Colton Bacon"
+        },
+        {
+          "number": "00",
+          "name": "Elijah Arnold"
+        },
+        {
+          "number": "00",
+          "name": "Graeson Kerr"
+        },
+        {
+          "number": "00",
+          "name": "Jackson Izu"
+        },
+        {
+          "number": "00",
+          "name": "Jake  Hafen"
+        },
+        {
+          "number": "00",
+          "name": "Truman Abbott"
+        },
+        {
+          "number": "00",
+          "name": "Zachary Eakins"
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young (B)",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "CHI B",
+        "location": "Provo, Utah",
+        "website": "www.byuchiultimate.com",
+        "facebook": "facebook.com/byumensultimate",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Abraham Alton"
+        },
+        {
+          "number": "0",
+          "name": "Alexander Gerber"
+        },
+        {
+          "number": "0",
+          "name": "Ammon BROCK"
+        },
+        {
+          "number": "0",
+          "name": "Calder Allen"
+        },
+        {
+          "number": "0",
+          "name": "Dallin Barlow"
+        },
+        {
+          "number": "0",
+          "name": "Dallin Jacobs"
+        },
+        {
+          "number": "0",
+          "name": "Philip  Armond"
+        },
+        {
+          "number": "0",
+          "name": "Russell Ridd"
+        },
+        {
+          "number": "0",
+          "name": "Spencer Morgan"
+        },
+        {
+          "number": "0",
+          "name": "Stuart Card"
+        },
+        {
+          "number": "0",
+          "name": "Joshua Rust"
+        },
+        {
+          "number": "0",
+          "name": "Kyler Bloxham"
+        },
+        {
+          "number": "0",
+          "name": "Trevor Wai"
+        },
+        {
+          "number": "0",
+          "name": "Tyler Wadell"
+        },
+        {
+          "number": "8",
+          "name": "Joshua Nielsen"
+        },
+        {
+          "number": "11",
+          "name": "Talmage Sanders"
+        },
+        {
+          "number": "11",
+          "name": "Adam Simpson"
+        },
+        {
+          "number": "21",
+          "name": "Devin Lewis"
+        },
+        {
+          "number": "24",
+          "name": "Jackson Chambers"
+        },
+        {
+          "number": "32",
+          "name": "Braden Meyers"
+        },
+        {
+          "number": "52",
+          "name": "James Spencer"
+        },
+        {
+          "number": "98",
+          "name": "Morrison Cheney"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Round Robin",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Green Canyon High School",
+              "team2": "Lone Peak",
+              "score1": 13,
+              "score2": 9,
+              "datetime": "2024-03-29T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Utah",
+              "team2": "Brigham Young (B)",
+              "score1": 13,
+              "score2": 7,
+              "datetime": "2024-03-29T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Green Canyon High School",
+              "team2": "Salt.",
+              "score1": 13,
+              "score2": 12,
+              "datetime": "2024-03-29T18:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Utah",
+              "team2": "Utah Valley",
+              "score1": 10,
+              "score2": 13,
+              "datetime": "2024-03-29T18:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Utah State",
+              "team2": "Lone Peak",
+              "score1": 13,
+              "score2": 6,
+              "datetime": "2024-03-29T18:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Brigham Young (B)",
+              "team2": "Salt.",
+              "score1": 4,
+              "score2": 13,
+              "datetime": "2024-03-29T19:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Green Canyon High School",
+              "team2": "Utah Valley",
+              "score1": 10,
+              "score2": 13,
+              "datetime": "2024-03-29T19:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Utah",
+              "team2": "Utah State",
+              "score1": 5,
+              "score2": 13,
+              "datetime": "2024-03-29T19:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Green Canyon High School",
+              "team2": "Brigham Young (B)",
+              "score1": 13,
+              "score2": 4,
+              "datetime": "2024-03-30T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Lone Peak",
+              "team2": "Utah Valley",
+              "score1": 7,
+              "score2": 13,
+              "datetime": "2024-03-30T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Utah",
+              "team2": "Salt.",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2024-03-30T10:00:00Z",
+              "round": "",
+              "status": "Cancelled"
+            },
+            {
+              "team1": "Brigham Young (B)",
+              "team2": "Utah",
+              "score1": 7,
+              "score2": 13,
+              "datetime": "2024-03-30T11:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Utah State",
+              "team2": "Utah Valley",
+              "score1": 13,
+              "score2": 11,
+              "datetime": "2024-03-30T11:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Lone Peak",
+              "team2": "Salt.",
+              "score1": 10,
+              "score2": 13,
+              "datetime": "2024-03-30T11:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Brigham Young (B)",
+              "team2": "Lone Peak",
+              "score1": 9,
+              "score2": 13,
+              "datetime": "2024-03-30T13:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Utah",
+              "team2": "Utah Valley",
+              "score1": 13,
+              "score2": 8,
+              "datetime": "2024-03-30T13:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Utah State",
+              "team2": "Green Canyon High School",
+              "score1": 12,
+              "score2": 13,
+              "datetime": "2024-03-30T13:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Utah Valley",
+              "team2": "Salt.",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2024-03-30T15:00:00Z",
+              "round": "",
+              "status": "Cancelled"
+            },
+            {
+              "team1": "Utah State",
+              "team2": "Brigham Young (B)",
+              "score1": 13,
+              "score2": 0,
+              "datetime": "2024-03-30T15:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

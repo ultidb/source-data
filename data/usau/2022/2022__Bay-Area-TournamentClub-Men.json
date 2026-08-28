@@ -1,0 +1,738 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2022/Bay-Area-TournamentClub-Men",
+  "sourceUrl": "https://play.usaultimate.org/events/Bay-Area-Tournament/schedule/Men/Club-Men/",
+  "scrapedAt": "2026-08-28T10:06:18.255273Z",
+  "event": {
+    "name": "Bay Area Tournament 2022",
+    "division": "Club - Men ",
+    "gender": "",
+    "season": 2022,
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "",
+    "startDate": "2022-08-27",
+    "endDate": "2022-08-28"
+  },
+  "teams": [
+    {
+      "name": "Revolver",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "San Francisco, California",
+        "website": "http://www.revolverultimate.com/",
+        "facebook": "https://www.facebook.com/RevolverUltimate",
+        "twitter": "https://twitter.com/revolverihd"
+      },
+      "coaches": [
+        "Molica Anderson",
+        "Cassidy Rasmussen",
+        "Adrian King"
+      ],
+      "roster": [
+        {
+          "number": " ",
+          "name": "Andrew Moore"
+        },
+        {
+          "number": " ",
+          "name": "Danny Miesen"
+        },
+        {
+          "number": " ",
+          "name": "Dillon Whited"
+        },
+        {
+          "number": " ",
+          "name": "Kevin Tien"
+        },
+        {
+          "number": " ",
+          "name": "Ryan Takayama"
+        },
+        {
+          "number": " ",
+          "name": "Simon Higgins"
+        },
+        {
+          "number": "0",
+          "name": "Nick Tolfa"
+        },
+        {
+          "number": "10",
+          "name": "Colby Chuck"
+        },
+        {
+          "number": "12",
+          "name": "Jacob Smith"
+        },
+        {
+          "number": "14",
+          "name": "Kenneth Lim"
+        },
+        {
+          "number": "15",
+          "name": "Michael Spear"
+        },
+        {
+          "number": "17",
+          "name": "Sawyer Thompson"
+        },
+        {
+          "number": "19",
+          "name": "Evan Magsig"
+        },
+        {
+          "number": "20",
+          "name": "Sean Liston"
+        },
+        {
+          "number": "22",
+          "name": "Marcelo Sanchez-Heredia"
+        },
+        {
+          "number": "23",
+          "name": "Jake Thorne"
+        },
+        {
+          "number": "24",
+          "name": "Elijah Kerns"
+        },
+        {
+          "number": "28",
+          "name": "Keaton Viadro"
+        },
+        {
+          "number": "32",
+          "name": "Jordan Marcy"
+        },
+        {
+          "number": "43",
+          "name": "Nathan Prior"
+        },
+        {
+          "number": "48",
+          "name": "Nicholas Murphy"
+        },
+        {
+          "number": "71",
+          "name": "Anton Orme"
+        },
+        {
+          "number": "88",
+          "name": "Byron Liu"
+        },
+        {
+          "number": "90",
+          "name": "Markham Shofner"
+        },
+        {
+          "number": "93",
+          "name": "Tom Doi"
+        },
+        {
+          "number": "94",
+          "name": "Adam Rees"
+        }
+      ]
+    },
+    {
+      "name": "Furious George",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Vancouver, British Columbia CA",
+        "website": "",
+        "facebook": "https://www.facebook.com/FuriousGeorgeUltimate",
+        "twitter": "https://twitter.com/FuriousUltimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": " ",
+          "name": "Brayden Gee"
+        },
+        {
+          "number": " ",
+          "name": "Morgan Hibbert"
+        },
+        {
+          "number": " ",
+          "name": "Richard Mcleod "
+        },
+        {
+          "number": "0",
+          "name": "Robbie Brennan"
+        },
+        {
+          "number": "0",
+          "name": "Patrick Church"
+        },
+        {
+          "number": "0",
+          "name": "Justin Pettenuzzo"
+        },
+        {
+          "number": "11",
+          "name": "Ari Nitikman"
+        },
+        {
+          "number": "15",
+          "name": "Jacky Hau"
+        },
+        {
+          "number": "21",
+          "name": "Jordan McGregor"
+        },
+        {
+          "number": "22",
+          "name": "Sam But"
+        },
+        {
+          "number": "23",
+          "name": "Fred Lam"
+        },
+        {
+          "number": "24",
+          "name": "Jay Boychuk"
+        },
+        {
+          "number": "44",
+          "name": "Devon Thomson"
+        },
+        {
+          "number": "45",
+          "name": "Malcolm Bryson"
+        },
+        {
+          "number": "68",
+          "name": "David Neilson"
+        },
+        {
+          "number": "73",
+          "name": "Ben Burelle"
+        },
+        {
+          "number": "87",
+          "name": "Yu Chi Lin"
+        },
+        {
+          "number": "88",
+          "name": "Devon Bringeland-Powell"
+        },
+        {
+          "number": "89",
+          "name": "Kevin Underhill"
+        },
+        {
+          "number": "98",
+          "name": "Brendan Wong"
+        },
+        {
+          "number": "99",
+          "name": "Vincent Bulloch"
+        }
+      ]
+    },
+    {
+      "name": "Emerald City",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Seattle, Washington",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/emeraldcityulti"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "01",
+          "name": "James Freed"
+        },
+        {
+          "number": "02",
+          "name": "Chris Bubernak"
+        },
+        {
+          "number": "04",
+          "name": "Fin Fuhrmann"
+        },
+        {
+          "number": "08",
+          "name": "Jeff Zhao"
+        },
+        {
+          "number": "09",
+          "name": "Spencer Lofink"
+        },
+        {
+          "number": "12",
+          "name": "Casey Aldridge"
+        },
+        {
+          "number": "14",
+          "name": "Alex Walsh"
+        },
+        {
+          "number": "15",
+          "name": "Jake Shoyer"
+        },
+        {
+          "number": "16",
+          "name": "Sawyer  Blair"
+        },
+        {
+          "number": "19",
+          "name": "Garrett Yung"
+        },
+        {
+          "number": "20",
+          "name": "Adam Simon"
+        },
+        {
+          "number": "22",
+          "name": "John Westwig"
+        },
+        {
+          "number": "27",
+          "name": "Matthew Niemer"
+        },
+        {
+          "number": "30",
+          "name": "Parker Howard"
+        },
+        {
+          "number": "35",
+          "name": "Justin Ting"
+        },
+        {
+          "number": "36",
+          "name": "Kamal Raslan"
+        },
+        {
+          "number": "38",
+          "name": "Jacob Helfrich"
+        },
+        {
+          "number": "64",
+          "name": "Tarik Akyuz"
+        },
+        {
+          "number": "97",
+          "name": "Zack Smith"
+        },
+        {
+          "number": "98",
+          "name": "Alvin Wang"
+        }
+      ]
+    },
+    {
+      "name": "OAT",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "East Bay , California",
+        "website": "",
+        "facebook": "https://www.facebook.com/OatUltimate",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": " ",
+          "name": "Devin Hom"
+        },
+        {
+          "number": "0",
+          "name": "Dylan Owens"
+        },
+        {
+          "number": "0",
+          "name": "Dylan Nice"
+        },
+        {
+          "number": "0",
+          "name": "Finnegan Barr"
+        },
+        {
+          "number": "0",
+          "name": "Henry Lawton"
+        },
+        {
+          "number": "0",
+          "name": "Jarett King"
+        },
+        {
+          "number": "0",
+          "name": "Johnny Chen"
+        },
+        {
+          "number": "0",
+          "name": "Josh Manning"
+        },
+        {
+          "number": "0",
+          "name": "Kai Schniedergers"
+        },
+        {
+          "number": "0",
+          "name": "Kyle Johnson"
+        },
+        {
+          "number": "0",
+          "name": "Matthew Barcellos"
+        },
+        {
+          "number": "0",
+          "name": "Michael Peng"
+        },
+        {
+          "number": "0",
+          "name": "Michael Huang"
+        },
+        {
+          "number": "0",
+          "name": "Noah Chang-Linenberg"
+        },
+        {
+          "number": "0",
+          "name": "Raekwon Adkins"
+        },
+        {
+          "number": "0",
+          "name": "Robert Odum"
+        },
+        {
+          "number": "0",
+          "name": "Robin Vickers Batzdorf"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Shephard"
+        },
+        {
+          "number": "0",
+          "name": "Thomas Page"
+        },
+        {
+          "number": "0",
+          "name": "Toby Warren"
+        },
+        {
+          "number": "0",
+          "name": "Xavier Prochaska"
+        },
+        {
+          "number": "0",
+          "name": "Zack Renick"
+        },
+        {
+          "number": "0",
+          "name": "Aidan Curry"
+        },
+        {
+          "number": "0",
+          "name": "Alvin Feng"
+        },
+        {
+          "number": "0",
+          "name": "Brice Redmond"
+        },
+        {
+          "number": "0",
+          "name": "Conor Bauman"
+        }
+      ]
+    },
+    {
+      "name": "Battery",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "San Francisco, California",
+        "website": "",
+        "facebook": "https://www.facebook.com/batteryultimate/",
+        "twitter": "https://twitter.com/SF_Battery"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": " ",
+          "name": "August Soderberg"
+        },
+        {
+          "number": " ",
+          "name": "Joseph Gu"
+        },
+        {
+          "number": "0",
+          "name": "Kosuke Hasegawa"
+        },
+        {
+          "number": "0",
+          "name": "Kyle Marquis"
+        },
+        {
+          "number": "0",
+          "name": "Matthias Broner"
+        },
+        {
+          "number": "0",
+          "name": "Nick Amano"
+        },
+        {
+          "number": "0",
+          "name": "Nick James"
+        },
+        {
+          "number": "0",
+          "name": "Ricardo Rosas"
+        },
+        {
+          "number": "0",
+          "name": "Samuel Warren"
+        },
+        {
+          "number": "0",
+          "name": "Theo Gonzales-Tapley"
+        },
+        {
+          "number": "0",
+          "name": "Thomas McCrone"
+        },
+        {
+          "number": "0",
+          "name": "Will  Barnett"
+        },
+        {
+          "number": "0",
+          "name": "Zachary Murez"
+        },
+        {
+          "number": "0",
+          "name": "Zibi Braniecki"
+        },
+        {
+          "number": "0",
+          "name": "Chris Stewart"
+        },
+        {
+          "number": "0",
+          "name": "Ezra Tock"
+        },
+        {
+          "number": "0",
+          "name": "Garrett Silski"
+        },
+        {
+          "number": "0",
+          "name": "Hayden Mans"
+        },
+        {
+          "number": "0",
+          "name": "Ian Brown"
+        },
+        {
+          "number": "0",
+          "name": "JB Smith"
+        },
+        {
+          "number": "0",
+          "name": "Joe McMinn"
+        },
+        {
+          "number": "0",
+          "name": "Joel Miller"
+        },
+        {
+          "number": "0",
+          "name": "Jordan Seaberg"
+        },
+        {
+          "number": "0",
+          "name": "Jordan Yen"
+        },
+        {
+          "number": "0",
+          "name": "Adam Koehler"
+        },
+        {
+          "number": "0",
+          "name": "Andrew Riggs"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Round Robin",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Furious George",
+              "team2": "Emerald City",
+              "score1": 15,
+              "score2": 11,
+              "datetime": "2022-08-20T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "OAT",
+              "team2": "Battery",
+              "score1": 15,
+              "score2": 13,
+              "datetime": "2022-08-20T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Revolver",
+              "team2": "Emerald City",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2022-08-20T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Furious George",
+              "team2": "OAT",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2022-08-20T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Furious George",
+              "team2": "Revolver",
+              "score1": 11,
+              "score2": 15,
+              "datetime": "2022-08-20T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Emerald City",
+              "team2": "Battery",
+              "score1": 15,
+              "score2": 6,
+              "datetime": "2022-08-20T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Emerald City",
+              "team2": "OAT",
+              "score1": 15,
+              "score2": 14,
+              "datetime": "2022-08-20T15:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Revolver",
+              "team2": "Battery",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2022-08-20T15:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Furious George",
+              "team2": "Battery",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2022-08-21T08:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Revolver",
+              "team2": "OAT",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2022-08-21T08:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Sunday Bracket",
+      "groups": [
+        {
+          "name": "1st Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Revolver",
+              "team2": "Emerald City",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2022-08-21T12:30:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Furious George",
+              "team2": "Emerald City",
+              "score1": 13,
+              "score2": 15,
+              "datetime": "2022-08-21T10:30:00Z",
+              "round": "Semis",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "3rd Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Furious George",
+              "team2": "OAT",
+              "score1": 15,
+              "score2": 11,
+              "datetime": "2022-08-21T12:30:00Z",
+              "round": "3rd Place",
+              "status": "Final"
+            },
+            {
+              "team1": "OAT",
+              "team2": "Battery",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2022-08-21T10:30:00Z",
+              "round": "3rd Place Semis",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

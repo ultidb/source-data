@@ -1,0 +1,850 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2018/Illinois-D-I-College-Womens-CC-2018CollegeWomen",
+  "sourceUrl": "https://play.usaultimate.org/events/Illinois-D-I-College-Womens-CC-2018/schedule/Women/CollegeWomen/",
+  "scrapedAt": "2026-08-28T10:06:15.499327Z",
+  "event": {
+    "name": "Illinois D-I College Women's CC 2018",
+    "division": "College - Women ",
+    "gender": "",
+    "season": 2018,
+    "city": "Rantoul",
+    "state": "IL",
+    "country": "",
+    "startDate": "2018-04-14",
+    "endDate": "2018-04-15"
+  },
+  "teams": [
+    {
+      "name": "Northwestern",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "GungHo",
+        "location": "Evanston, Illinois",
+        "website": "http://nugungho.com",
+        "facebook": "https://www.facebook.com/NUgungho",
+        "twitter": "GungHoUltimate"
+      },
+      "coaches": [
+        "Abby Shure"
+      ],
+      "roster": [
+        {
+          "number": "01",
+          "name": "Olyvia Chinchilla"
+        },
+        {
+          "number": "03",
+          "name": "Sara Gnolek"
+        },
+        {
+          "number": "06",
+          "name": "Samantha Cohen"
+        },
+        {
+          "number": "07",
+          "name": "Sydney Stelzer"
+        },
+        {
+          "number": "08",
+          "name": "Grace Goulson"
+        },
+        {
+          "number": "09",
+          "name": "Morgan Walker"
+        },
+        {
+          "number": "11",
+          "name": "ABBY MATHIER"
+        },
+        {
+          "number": "12",
+          "name": "Caitlin Hayner-Slattery"
+        },
+        {
+          "number": "14",
+          "name": "Kylie Chesner"
+        },
+        {
+          "number": "15",
+          "name": "Martha Dunbar"
+        },
+        {
+          "number": "16",
+          "name": "Sarah Kim"
+        },
+        {
+          "number": "19",
+          "name": "Anna Scarbrough"
+        },
+        {
+          "number": "20",
+          "name": "Corinne Burger"
+        },
+        {
+          "number": "24",
+          "name": "Lena Goren"
+        },
+        {
+          "number": "25",
+          "name": "Hindeke Tewodros"
+        },
+        {
+          "number": "27",
+          "name": "Rachel Anderson"
+        },
+        {
+          "number": "28",
+          "name": "Talia Willmert"
+        },
+        {
+          "number": "44",
+          "name": "Grace Young"
+        },
+        {
+          "number": "68",
+          "name": "Erin Bruns"
+        },
+        {
+          "number": "88",
+          "name": "Julia Wilkins"
+        },
+        {
+          "number": "98",
+          "name": "Cindy Mei"
+        }
+      ]
+    },
+    {
+      "name": "Chicago",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Supersnatch",
+        "location": "Chicago, Illinois",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/SnatchSuper"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Angela Li"
+        },
+        {
+          "number": "0",
+          "name": "Annie Yang"
+        },
+        {
+          "number": "0",
+          "name": "Caitlyn Tien"
+        },
+        {
+          "number": "0",
+          "name": "Daisy Barbanel"
+        },
+        {
+          "number": "0",
+          "name": "Gabby Skifstad"
+        },
+        {
+          "number": "0",
+          "name": "Jenny Wang"
+        },
+        {
+          "number": "0",
+          "name": "Jessica Hanlon"
+        },
+        {
+          "number": "0",
+          "name": "Kristine McLellan"
+        },
+        {
+          "number": "0",
+          "name": "Madeleine Beckner"
+        },
+        {
+          "number": "0",
+          "name": "Madison Moore"
+        },
+        {
+          "number": "0",
+          "name": "Marta De Giuli"
+        },
+        {
+          "number": "0",
+          "name": "Molly O’Donnell"
+        },
+        {
+          "number": "0",
+          "name": "Rachel Hildebrand"
+        },
+        {
+          "number": "0",
+          "name": "Sadie Morriss"
+        },
+        {
+          "number": "0",
+          "name": "Sophia Kierstead"
+        },
+        {
+          "number": "8",
+          "name": "Kat Edmiston"
+        },
+        {
+          "number": "9",
+          "name": "Cassandra Brown"
+        },
+        {
+          "number": "10",
+          "name": "Gianna Sparks"
+        },
+        {
+          "number": "11",
+          "name": "Ashley Yu"
+        },
+        {
+          "number": "13",
+          "name": "Thara Nallamothu"
+        },
+        {
+          "number": "14",
+          "name": "Beatrice Del Negro"
+        },
+        {
+          "number": "17",
+          "name": "Nancy Cheng"
+        },
+        {
+          "number": "18",
+          "name": "Li Arditi"
+        },
+        {
+          "number": "20",
+          "name": "Briana Morales"
+        },
+        {
+          "number": "22",
+          "name": "Zoe Dettelbach"
+        },
+        {
+          "number": "28",
+          "name": "Sofia Collins"
+        }
+      ]
+    },
+    {
+      "name": "Illinois",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Illinois",
+        "location": "Champaign-Urbana, Illinois",
+        "website": "http://illinoismenace.tumblr.com/",
+        "facebook": "https://www.facebook.com/IllinoisWomensUltimate",
+        "twitter": "https://twitter.com/IllinoisMenaceU"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Bonnie Wu"
+        },
+        {
+          "number": "0",
+          "name": "Danielle Lindblad"
+        },
+        {
+          "number": "0",
+          "name": "Ellie Porath"
+        },
+        {
+          "number": "0",
+          "name": "Emely Arroyo"
+        },
+        {
+          "number": "0",
+          "name": "Gabrielle Jones"
+        },
+        {
+          "number": "0",
+          "name": "Rui Yang"
+        },
+        {
+          "number": "0",
+          "name": "Zifan Feng"
+        },
+        {
+          "number": "0",
+          "name": "Zifei Feng"
+        },
+        {
+          "number": "5",
+          "name": "Cassidy Wichelecki"
+        },
+        {
+          "number": "9",
+          "name": "Brittney Gorman"
+        },
+        {
+          "number": "12",
+          "name": "Brianna Anderson"
+        },
+        {
+          "number": "12",
+          "name": "Naomi Gonzalez"
+        },
+        {
+          "number": "13",
+          "name": "Monica VanDuyne"
+        },
+        {
+          "number": "20",
+          "name": "Shirley Saunders"
+        },
+        {
+          "number": "21",
+          "name": "Kelsey Thompson"
+        },
+        {
+          "number": "22",
+          "name": "Amy Copper"
+        },
+        {
+          "number": "32",
+          "name": "Faith Zou"
+        },
+        {
+          "number": "38",
+          "name": "Cora Wessman"
+        },
+        {
+          "number": "55",
+          "name": "Natalie Stephan"
+        }
+      ]
+    },
+    {
+      "name": "DePaul",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Laser Chains",
+        "location": "Chicago, Illinois",
+        "website": "",
+        "facebook": "https://www.facebook.com/depaulultimatefrisbee/?ref=aymt_homepage_panel",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Allie Judge"
+        },
+        {
+          "number": "0",
+          "name": "Amber Malik"
+        },
+        {
+          "number": "0",
+          "name": "Genera Fields"
+        },
+        {
+          "number": "0",
+          "name": "Isabel Cueto"
+        },
+        {
+          "number": "0",
+          "name": "Lindsay Winders"
+        },
+        {
+          "number": "0",
+          "name": "Madison Chidester"
+        },
+        {
+          "number": "09",
+          "name": "Emmaline Kelly"
+        },
+        {
+          "number": "10",
+          "name": "Sarah Helding"
+        },
+        {
+          "number": "11",
+          "name": "Talia Brewer"
+        },
+        {
+          "number": "13",
+          "name": "Alexandria Muller"
+        },
+        {
+          "number": "14",
+          "name": "Abigail Erb"
+        },
+        {
+          "number": "16",
+          "name": "Karson Barrett"
+        },
+        {
+          "number": "18",
+          "name": "Mei Li Badecker"
+        },
+        {
+          "number": "18",
+          "name": "Sabrina Salvador"
+        },
+        {
+          "number": "23",
+          "name": "Ashley Wagner"
+        },
+        {
+          "number": "24",
+          "name": "Jorey Dvorak"
+        },
+        {
+          "number": "95",
+          "name": "Jacalyn Gisvold"
+        }
+      ]
+    },
+    {
+      "name": "Loyola-Chicago",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Sirens",
+        "location": "Chicago, Illinois",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Abby Haworth"
+        },
+        {
+          "number": "0",
+          "name": "Amelia Howerton"
+        },
+        {
+          "number": "0",
+          "name": "Anna Martinello"
+        },
+        {
+          "number": "0",
+          "name": "Annabelle Lance"
+        },
+        {
+          "number": "0",
+          "name": "Camryn Aten"
+        },
+        {
+          "number": "0",
+          "name": "Caroline Hitt"
+        },
+        {
+          "number": "0",
+          "name": "Elise McCullough"
+        },
+        {
+          "number": "0",
+          "name": "Elizabeth Kust"
+        },
+        {
+          "number": "0",
+          "name": "Greta Friedrichs"
+        },
+        {
+          "number": "0",
+          "name": "Holly Laws"
+        },
+        {
+          "number": "0",
+          "name": "Jacqueline Banks"
+        },
+        {
+          "number": "0",
+          "name": "Mary Elise Wright"
+        },
+        {
+          "number": "0",
+          "name": "Maureen O'Connor"
+        },
+        {
+          "number": "0",
+          "name": "Megan Piontek"
+        },
+        {
+          "number": "0",
+          "name": "Molly Bussen"
+        },
+        {
+          "number": "0",
+          "name": "Natalia Gardocki"
+        },
+        {
+          "number": "0",
+          "name": "Olivia Olivo"
+        },
+        {
+          "number": "0",
+          "name": "Samantha Swank"
+        },
+        {
+          "number": "0",
+          "name": "Sarah Paulus"
+        },
+        {
+          "number": "0",
+          "name": "Tammy Ahern"
+        },
+        {
+          "number": "0",
+          "name": "Judy Malas"
+        },
+        {
+          "number": "0",
+          "name": "karen contreras"
+        },
+        {
+          "number": "0",
+          "name": "Kerry Christenson"
+        },
+        {
+          "number": "0",
+          "name": "Laura Holland"
+        },
+        {
+          "number": "0",
+          "name": "Lindy Smith"
+        },
+        {
+          "number": "0",
+          "name": "Madeleine Kindler"
+        },
+        {
+          "number": "22",
+          "name": "Leah  Carson"
+        },
+        {
+          "number": "33",
+          "name": "Maggie Pacquer"
+        },
+        {
+          "number": "44",
+          "name": "Jessica Mendez"
+        }
+      ]
+    },
+    {
+      "name": "Northwestern (B)",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "GungHo B ",
+        "location": "Evanston, Illinois",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Caroline Ward"
+        },
+        {
+          "number": "0",
+          "name": "Christine Hwang"
+        },
+        {
+          "number": "0",
+          "name": "Eileen Herbers"
+        },
+        {
+          "number": "0",
+          "name": "Jessica Cohen"
+        },
+        {
+          "number": "0",
+          "name": "Sophie Boorstein"
+        },
+        {
+          "number": "5",
+          "name": "Alex Sher"
+        },
+        {
+          "number": "13",
+          "name": "Hannah Gaertner"
+        },
+        {
+          "number": "17",
+          "name": "Emma Hartley"
+        },
+        {
+          "number": "21",
+          "name": "Kristen Stuzynski"
+        },
+        {
+          "number": "29",
+          "name": "Jade Hostein"
+        },
+        {
+          "number": "65",
+          "name": "Ivy Gao"
+        },
+        {
+          "number": "82",
+          "name": "Vivian Chen"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Women's Pool",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Northwestern",
+              "team2": "Illinois",
+              "score1": 9,
+              "score2": 3,
+              "datetime": "2018-04-14T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Chicago",
+              "team2": "Loyola-Chicago",
+              "score1": 13,
+              "score2": 3,
+              "datetime": "2018-04-14T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "DePaul",
+              "team2": "Northwestern (B)",
+              "score1": 13,
+              "score2": 1,
+              "datetime": "2018-04-14T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Northwestern",
+              "team2": "Chicago",
+              "score1": 11,
+              "score2": 7,
+              "datetime": "2018-04-14T10:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Illinois",
+              "team2": "DePaul",
+              "score1": 11,
+              "score2": 7,
+              "datetime": "2018-04-14T10:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Loyola-Chicago",
+              "team2": "Northwestern (B)",
+              "score1": 10,
+              "score2": 1,
+              "datetime": "2018-04-14T10:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Northwestern",
+              "team2": "DePaul",
+              "score1": 13,
+              "score2": 3,
+              "datetime": "2018-04-14T12:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Chicago",
+              "team2": "Northwestern (B)",
+              "score1": 13,
+              "score2": 3,
+              "datetime": "2018-04-14T12:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Illinois",
+              "team2": "Loyola-Chicago",
+              "score1": 11,
+              "score2": 7,
+              "datetime": "2018-04-14T12:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Northwestern",
+              "team2": "Northwestern (B)",
+              "score1": 13,
+              "score2": 0,
+              "datetime": "2018-04-14T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Chicago",
+              "team2": "Illinois",
+              "score1": 10,
+              "score2": 5,
+              "datetime": "2018-04-14T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "DePaul",
+              "team2": "Loyola-Chicago",
+              "score1": 11,
+              "score2": 7,
+              "datetime": "2018-04-14T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Northwestern",
+              "team2": "Loyola-Chicago",
+              "score1": 13,
+              "score2": 0,
+              "datetime": "2018-04-15T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Chicago",
+              "team2": "DePaul",
+              "score1": 8,
+              "score2": 6,
+              "datetime": "2018-04-15T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Illinois",
+              "team2": "Northwestern (B)",
+              "score1": 9,
+              "score2": 2,
+              "datetime": "2018-04-15T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Bracket Play",
+      "groups": [
+        {
+          "name": "Championship Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Northwestern",
+              "team2": "Chicago",
+              "score1": 10,
+              "score2": 5,
+              "datetime": "2018-04-15T14:40:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "DePaul",
+              "team2": "Northwestern",
+              "score1": 1,
+              "score2": 12,
+              "datetime": "2018-04-15T12:40:00Z",
+              "round": "Semis",
+              "status": "Final"
+            },
+            {
+              "team1": "Chicago",
+              "team2": "Illinois",
+              "score1": 11,
+              "score2": 6,
+              "datetime": "2018-04-15T12:40:00Z",
+              "round": "Semis",
+              "status": "Final"
+            },
+            {
+              "team1": "DePaul",
+              "team2": "Loyola-Chicago",
+              "score1": 9,
+              "score2": 7,
+              "datetime": "2018-04-15T10:40:00Z",
+              "round": "Quarters",
+              "status": "Final"
+            },
+            {
+              "team1": "Illinois",
+              "team2": "Northwestern (B)",
+              "score1": 8,
+              "score2": 3,
+              "datetime": "2018-04-15T10:40:00Z",
+              "round": "Quarters",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "3rd Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "DePaul",
+              "team2": "Illinois",
+              "score1": 5,
+              "score2": 13,
+              "datetime": "2018-04-15T14:40:00Z",
+              "round": "Finals",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "5th Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Loyola-Chicago",
+              "team2": "Northwestern (B)",
+              "score1": 1,
+              "score2": 0,
+              "datetime": "2018-04-15T12:40:00Z",
+              "round": "Semis",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,826 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2026/SOUF-City-ShowdownClub-Men",
+  "sourceUrl": "https://play.usaultimate.org/events/SOUF-City-Showdown/schedule/Men/Club-Men/",
+  "scrapedAt": "2026-08-28T10:06:23.023816Z",
+  "event": {
+    "name": "SOUF City Showdown 2026",
+    "division": "Club - Men ",
+    "gender": "",
+    "season": 2026,
+    "city": "Seatac",
+    "state": "WA",
+    "country": "",
+    "startDate": "2026-08-22",
+    "endDate": "2026-08-23"
+  },
+  "teams": [
+    {
+      "name": "SOUF",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Seattle , Washington",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Akash Shrestha"
+        },
+        {
+          "number": "0",
+          "name": "Alan Walker II"
+        },
+        {
+          "number": "0",
+          "name": "Joshua Robancho"
+        },
+        {
+          "number": "0",
+          "name": "Justin Jones"
+        },
+        {
+          "number": "0",
+          "name": "John Le"
+        },
+        {
+          "number": "0",
+          "name": "Derin Cropp"
+        },
+        {
+          "number": "0",
+          "name": "Harrison Prow"
+        },
+        {
+          "number": "0",
+          "name": "Matthew Liu"
+        },
+        {
+          "number": "0",
+          "name": "Nobi (Masao) Lorenz"
+        },
+        {
+          "number": "0",
+          "name": "Nicholas Yin"
+        },
+        {
+          "number": "0",
+          "name": "Zachary Sanders"
+        },
+        {
+          "number": "0",
+          "name": "Tobias Wepman"
+        },
+        {
+          "number": "0",
+          "name": "Roman Tanen"
+        },
+        {
+          "number": "1",
+          "name": "Stephan Keo"
+        },
+        {
+          "number": "1",
+          "name": "Isaac Woldemariam"
+        },
+        {
+          "number": "2",
+          "name": "Jinyao  Zhou"
+        },
+        {
+          "number": "2",
+          "name": "Jalil Morris"
+        },
+        {
+          "number": "7",
+          "name": "Langley Fitzpatrick"
+        },
+        {
+          "number": "9",
+          "name": "Marcus Beidler"
+        },
+        {
+          "number": "9",
+          "name": "Abraham Gebreyesus"
+        },
+        {
+          "number": "10",
+          "name": "Alan Huang"
+        },
+        {
+          "number": "17",
+          "name": "Sander Fogarty"
+        },
+        {
+          "number": "44",
+          "name": "Delano Muongchan"
+        },
+        {
+          "number": "48",
+          "name": "Vince Nguyen"
+        },
+        {
+          "number": "63",
+          "name": "Victor Ramirez"
+        },
+        {
+          "number": "77",
+          "name": "Austin Hasbrook"
+        }
+      ]
+    },
+    {
+      "name": "Portland TremOR",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Portland, Oregon",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Blackfish",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Vancouver, British Columbia CA",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Callum Neave"
+        },
+        {
+          "number": "0",
+          "name": "Erez Kassirer"
+        },
+        {
+          "number": "0",
+          "name": "Graeme Hanks"
+        },
+        {
+          "number": "0",
+          "name": "Gavin Tang"
+        },
+        {
+          "number": "0",
+          "name": "Justin Rao"
+        },
+        {
+          "number": "0",
+          "name": "Logan Huttunen"
+        },
+        {
+          "number": "0",
+          "name": "Leven Saunders"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Mak"
+        },
+        {
+          "number": "0",
+          "name": "Kirby Clawson-Honeyman"
+        },
+        {
+          "number": "0",
+          "name": "Jomari Nicolas"
+        },
+        {
+          "number": "0",
+          "name": "Silas Huizinga"
+        },
+        {
+          "number": "0",
+          "name": "Wallace Chan"
+        },
+        {
+          "number": "1",
+          "name": "Kevin Nguyen"
+        },
+        {
+          "number": "6",
+          "name": "Aaron Klymasz- Swartz"
+        },
+        {
+          "number": "10",
+          "name": "Mu Han Li"
+        },
+        {
+          "number": "15",
+          "name": "Shintaro Tsukamoto"
+        },
+        {
+          "number": "19",
+          "name": "Ryan Wong"
+        },
+        {
+          "number": "27",
+          "name": "Eddy Zhou"
+        }
+      ]
+    },
+    {
+      "name": "Heartbreak",
+      "seed": 8,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Spokane, Washington",
+        "website": "",
+        "facebook": "https://www.facebook.com/Heartbreakultimate",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Brad Vega"
+        },
+        {
+          "number": "0",
+          "name": "Josiah Howard"
+        },
+        {
+          "number": "0",
+          "name": "Jamie Wright"
+        },
+        {
+          "number": "0",
+          "name": "Noah Howard"
+        },
+        {
+          "number": "0",
+          "name": "tommy chase"
+        },
+        {
+          "number": "0",
+          "name": "Nate Carpenter"
+        },
+        {
+          "number": "1",
+          "name": "Samuel Zabronsky"
+        },
+        {
+          "number": "3",
+          "name": "Kole Faagau"
+        },
+        {
+          "number": "5",
+          "name": "Samuel Hedrick"
+        },
+        {
+          "number": "9",
+          "name": "Ryan Shin"
+        },
+        {
+          "number": "10",
+          "name": "James Robin"
+        },
+        {
+          "number": "11",
+          "name": "Mitchell Whitehead"
+        },
+        {
+          "number": "12",
+          "name": "Logan Thompson"
+        },
+        {
+          "number": "14",
+          "name": "Maxwell Cheeseman"
+        },
+        {
+          "number": "15",
+          "name": "Isaac Lyon"
+        },
+        {
+          "number": "16",
+          "name": "Kavika Faagau"
+        },
+        {
+          "number": "18",
+          "name": "Shemiah Ediger"
+        },
+        {
+          "number": "21",
+          "name": "Ian Kinder-Pyle"
+        },
+        {
+          "number": "23",
+          "name": "Jon Rubertas"
+        },
+        {
+          "number": "24",
+          "name": "Sean Hodgson"
+        },
+        {
+          "number": "54",
+          "name": "Alex Stumphauzer"
+        },
+        {
+          "number": "55",
+          "name": "Sean Chapel"
+        },
+        {
+          "number": "88",
+          "name": "Dillon McDermott"
+        },
+        {
+          "number": "98",
+          "name": "Ian Bernstein"
+        }
+      ]
+    },
+    {
+      "name": "Make it Rain",
+      "seed": 9,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Seattle, Washington",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Switchback",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Seattle, Washington",
+        "website": "https://switchbackultimate.com/",
+        "facebook": "",
+        "twitter": "https://twitter.com/Switchback_Ulti"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Connor Withey Evans"
+        },
+        {
+          "number": "0",
+          "name": "Griffin Laliberte"
+        },
+        {
+          "number": "5",
+          "name": "Ryan Hsi"
+        },
+        {
+          "number": "02",
+          "name": "Phoenix  Laliberte"
+        },
+        {
+          "number": "03",
+          "name": "Jacob Richey"
+        },
+        {
+          "number": "04",
+          "name": "Andrew Page"
+        },
+        {
+          "number": "08",
+          "name": "Samuel Hinson"
+        },
+        {
+          "number": "14",
+          "name": "Michael Fielden"
+        },
+        {
+          "number": "18",
+          "name": "Daman Mulye"
+        },
+        {
+          "number": "21",
+          "name": "Nathaniel Chin"
+        },
+        {
+          "number": "22",
+          "name": "Max Rogers"
+        },
+        {
+          "number": "26",
+          "name": "Arthur Abbate"
+        },
+        {
+          "number": "27",
+          "name": "Aaron Glickman"
+        },
+        {
+          "number": "28",
+          "name": "Connor Hanify"
+        },
+        {
+          "number": "32",
+          "name": "Souma Yabuki"
+        },
+        {
+          "number": "34",
+          "name": "Colman Bashore"
+        },
+        {
+          "number": "36",
+          "name": "Louie Bertoncin"
+        },
+        {
+          "number": "37",
+          "name": "Jack Landrigan"
+        },
+        {
+          "number": "52",
+          "name": "Soren Dahl"
+        },
+        {
+          "number": "71",
+          "name": "Sahaj Olivar"
+        }
+      ]
+    },
+    {
+      "name": "Grudge",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Seattle, Washington",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Colin Bogar"
+        },
+        {
+          "number": "2",
+          "name": "Sasha Hoke"
+        },
+        {
+          "number": "00",
+          "name": "Brijesh Berrington"
+        },
+        {
+          "number": "03",
+          "name": "Andrew Pottinger"
+        },
+        {
+          "number": "10",
+          "name": "Michael Bartell"
+        },
+        {
+          "number": "11",
+          "name": "Samuel Zhou"
+        },
+        {
+          "number": "11",
+          "name": "Lucas Terzic"
+        },
+        {
+          "number": "12",
+          "name": "Ty  Rosenberg"
+        },
+        {
+          "number": "16",
+          "name": "Emanuel Berson"
+        },
+        {
+          "number": "18",
+          "name": "Chris Roach"
+        },
+        {
+          "number": "20",
+          "name": "Calvin Dodge"
+        },
+        {
+          "number": "21",
+          "name": "Sarang Mittal"
+        },
+        {
+          "number": "36",
+          "name": "Kamal Raslan"
+        },
+        {
+          "number": "48",
+          "name": "Jack Lawson"
+        },
+        {
+          "number": "50",
+          "name": "Graham Whealan"
+        },
+        {
+          "number": "74",
+          "name": "Ethan Kelley"
+        },
+        {
+          "number": "88",
+          "name": "Hayden Zaske"
+        }
+      ]
+    },
+    {
+      "name": "Junco",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Portland, Oregon",
+        "website": "https://www.instagram.com/portlandjunco/",
+        "facebook": "",
+        "twitter": "https://x.com/flocked_in"
+      },
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Seven Gills",
+      "seed": 7,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Seattle, Washington",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "AVE",
+      "seed": 10,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Seattle, Washington",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": []
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "SOUF",
+              "team2": "Make it Rain",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-08-22T09:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Blackfish",
+              "team2": "Heartbreak",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-08-22T09:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "SOUF",
+              "team2": "Blackfish",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-08-22T10:45:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Portland TremOR",
+              "team2": "Heartbreak",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-08-22T10:45:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Heartbreak",
+              "team2": "Make it Rain",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-08-22T12:30:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Portland TremOR",
+              "team2": "Blackfish",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-08-22T12:30:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "SOUF",
+              "team2": "Heartbreak",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-08-22T14:05:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Portland TremOR",
+              "team2": "Make it Rain",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-08-22T14:05:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "SOUF",
+              "team2": "Portland TremOR",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-08-22T15:45:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Blackfish",
+              "team2": "Make it Rain",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-08-22T15:45:00Z",
+              "round": "",
+              "status": "Scheduled"
+            }
+          ]
+        },
+        {
+          "name": "Pool B",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Switchback",
+              "team2": "AVE",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-08-22T09:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Junco",
+              "team2": "Seven Gills",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-08-22T09:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Switchback",
+              "team2": "Junco",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-08-22T10:45:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Grudge",
+              "team2": "Seven Gills",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-08-22T10:45:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Seven Gills",
+              "team2": "AVE",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-08-22T12:30:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Grudge",
+              "team2": "Junco",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-08-22T12:30:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Switchback",
+              "team2": "Seven Gills",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-08-22T14:05:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Grudge",
+              "team2": "AVE",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-08-22T14:05:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Switchback",
+              "team2": "Grudge",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-08-22T15:45:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Junco",
+              "team2": "AVE",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-08-22T15:45:00Z",
+              "round": "",
+              "status": "Scheduled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Championship",
+      "groups": [
+        {
+          "name": "1st",
+          "isChampionship": false,
+          "games": []
+        },
+        {
+          "name": "3rd",
+          "isChampionship": false,
+          "games": []
+        },
+        {
+          "name": "5th",
+          "isChampionship": false,
+          "games": []
+        },
+        {
+          "name": "7th",
+          "isChampionship": false,
+          "games": []
+        },
+        {
+          "name": "9th",
+          "isChampionship": false,
+          "games": []
+        }
+      ]
+    }
+  ]
+}
