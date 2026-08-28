@@ -1,0 +1,760 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2019/West-Plains-D-I-College-Mens-CC-2019CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/West-Plains-D-I-College-Mens-CC-2019/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:17.486722Z",
+  "event": {
+    "name": "West Plains D-I College Men's CC 2019",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2019,
+    "city": "Ames",
+    "state": "IA",
+    "country": "",
+    "startDate": "2019-04-13",
+    "endDate": "2019-04-14"
+  },
+  "teams": [
+    {
+      "name": "Iowa State",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "ISUC",
+        "location": "Ames, Iowa",
+        "website": "http://www.isucultimate.com/",
+        "facebook": "https://www.facebook.com/IowaStateUltimate",
+        "twitter": "https://twitter.com/UltimateISU"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Becker Mathie"
+        },
+        {
+          "number": "0",
+          "name": "Chase Lemley"
+        },
+        {
+          "number": "0",
+          "name": "Josh Poterack "
+        },
+        {
+          "number": "0",
+          "name": "Luke Bertram"
+        },
+        {
+          "number": "0",
+          "name": "Michael Stevens"
+        },
+        {
+          "number": "0",
+          "name": "Nolan Cochran"
+        },
+        {
+          "number": "0",
+          "name": "Stephen Linden"
+        },
+        {
+          "number": "3",
+          "name": "Collin Lamb"
+        },
+        {
+          "number": "5",
+          "name": "Daniel Sullivan"
+        },
+        {
+          "number": "6",
+          "name": "Scott Hearne"
+        },
+        {
+          "number": "8",
+          "name": "Joseph Kosterman"
+        },
+        {
+          "number": "11",
+          "name": "Richard Poterack"
+        },
+        {
+          "number": "11",
+          "name": "Jacob Badger"
+        },
+        {
+          "number": "12",
+          "name": "Grant Larson"
+        },
+        {
+          "number": "13",
+          "name": "Evan Ford"
+        },
+        {
+          "number": "15",
+          "name": "Sam Stark"
+        },
+        {
+          "number": "16",
+          "name": "Jon Olson"
+        },
+        {
+          "number": "17",
+          "name": "Jacob Raatz"
+        },
+        {
+          "number": "19",
+          "name": "Austin Lee"
+        },
+        {
+          "number": "23",
+          "name": "Ben Joerger"
+        },
+        {
+          "number": "34",
+          "name": "Sam Habel"
+        },
+        {
+          "number": "44",
+          "name": "Chuan Jie Loy"
+        },
+        {
+          "number": "52",
+          "name": "Bryan Hall"
+        },
+        {
+          "number": "69",
+          "name": "Jacob Thomae"
+        },
+        {
+          "number": "71",
+          "name": "Dayton Wright"
+        },
+        {
+          "number": "73",
+          "name": "Jordan Wright"
+        }
+      ]
+    },
+    {
+      "name": "Iowa",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "IHUC",
+        "location": "Iowa City, Iowa",
+        "website": "https://sites.google.com/site/iowahawkeyeultimateclub/",
+        "facebook": "https://www.facebook.com/groups/564875686867551/",
+        "twitter": "https://twitter.com/UofIowaUltimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Tyler Barrett"
+        },
+        {
+          "number": "01",
+          "name": "Avery Bandstra"
+        },
+        {
+          "number": "04",
+          "name": "Duncan Shay"
+        },
+        {
+          "number": "05",
+          "name": "Dillon Crowell"
+        },
+        {
+          "number": "06",
+          "name": "Tyler Whitehead"
+        },
+        {
+          "number": "07",
+          "name": "Shivam Patel"
+        },
+        {
+          "number": "09",
+          "name": "Ben Masterson"
+        },
+        {
+          "number": "10",
+          "name": "Hunter Stevens"
+        },
+        {
+          "number": "15",
+          "name": "Kyle Krukowski"
+        },
+        {
+          "number": "17",
+          "name": "Reno Brinn"
+        },
+        {
+          "number": "19",
+          "name": "Michael (Max) Vinyon"
+        },
+        {
+          "number": "20",
+          "name": "Nick Culver"
+        },
+        {
+          "number": "25",
+          "name": "Devin Nolte"
+        },
+        {
+          "number": "27",
+          "name": "Ryan Smith"
+        },
+        {
+          "number": "29",
+          "name": "Luke Gnatkowski"
+        },
+        {
+          "number": "33",
+          "name": "Ian Taylor"
+        },
+        {
+          "number": "37",
+          "name": "Greg Brock"
+        },
+        {
+          "number": "42",
+          "name": "Ivan Johnson"
+        },
+        {
+          "number": "80",
+          "name": "Nicholas Szimon"
+        }
+      ]
+    },
+    {
+      "name": "Nebraska",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Cornfed Ultimate",
+        "location": "Lincoln, Nebraska",
+        "website": "http://www.unl.edu/cornfed/",
+        "facebook": "",
+        "twitter": "https://twitter.com/cornfedultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Aaron Housenga"
+        },
+        {
+          "number": "0",
+          "name": "Bryson Keller"
+        },
+        {
+          "number": "0",
+          "name": "Caleb Nigrin"
+        },
+        {
+          "number": "0",
+          "name": "Jonathan Kaup"
+        },
+        {
+          "number": "0",
+          "name": "Nick Sedore"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Dornbusch"
+        },
+        {
+          "number": "0",
+          "name": "Kameron Heyen"
+        },
+        {
+          "number": "0",
+          "name": "Zachary Wynn"
+        },
+        {
+          "number": "9",
+          "name": "Jake Lindvall"
+        },
+        {
+          "number": "14",
+          "name": "Michael Kovash"
+        },
+        {
+          "number": "18",
+          "name": "Tristan Mahler"
+        },
+        {
+          "number": "20",
+          "name": "David Forsyth"
+        },
+        {
+          "number": "26",
+          "name": "Marty Praska"
+        },
+        {
+          "number": "34",
+          "name": "Joshua Adams"
+        },
+        {
+          "number": "35",
+          "name": "James Rowland"
+        },
+        {
+          "number": "55",
+          "name": "Jacob Morrow"
+        },
+        {
+          "number": "81",
+          "name": "Vincent Rice"
+        }
+      ]
+    },
+    {
+      "name": "Northern Iowa",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "AmmUNItion",
+        "location": "Cedar Falls, Iowa",
+        "website": "https://sites.google.com/site/ammunitionultimate/home",
+        "facebook": "https://www.facebook.com/UNI.ultimate",
+        "twitter": "https://twitter.com/UNIUltimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "7",
+          "name": "Timothy Swanson"
+        },
+        {
+          "number": "11",
+          "name": "Matt Adams"
+        },
+        {
+          "number": "12",
+          "name": "Ethan Schultzen"
+        },
+        {
+          "number": "13",
+          "name": "Scott Sivola"
+        },
+        {
+          "number": "14",
+          "name": "Cole Valentine"
+        },
+        {
+          "number": "15",
+          "name": "Philip Adams"
+        },
+        {
+          "number": "16",
+          "name": "Colin Stroehle-Durrah"
+        },
+        {
+          "number": "17",
+          "name": "Andrew McCartan"
+        },
+        {
+          "number": "20",
+          "name": "John Cannon"
+        },
+        {
+          "number": "25",
+          "name": "Matthew Langel"
+        },
+        {
+          "number": "35",
+          "name": "Caleb Lundeen"
+        },
+        {
+          "number": "43",
+          "name": "David Hindman"
+        },
+        {
+          "number": "55",
+          "name": "Michael Bonin"
+        },
+        {
+          "number": "72",
+          "name": "Clayton Phillips"
+        },
+        {
+          "number": "99",
+          "name": "Mason Wirtz"
+        }
+      ]
+    },
+    {
+      "name": "Nebraska-Omaha",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "UNO",
+        "location": "Omaha, Nebraska",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Courtney Ruff"
+        },
+        {
+          "number": "0",
+          "name": "David Miller"
+        },
+        {
+          "number": "0",
+          "name": "Gage Koch"
+        },
+        {
+          "number": "0",
+          "name": "Matt Hanson "
+        },
+        {
+          "number": "0",
+          "name": "Sam Willard"
+        },
+        {
+          "number": "0",
+          "name": "Sandro Pfister"
+        },
+        {
+          "number": "0",
+          "name": "Zane Homan"
+        },
+        {
+          "number": "17",
+          "name": "Daniel Krawczyk"
+        },
+        {
+          "number": "20",
+          "name": "Kevin Mitchell"
+        },
+        {
+          "number": "21",
+          "name": "Christopher Baines"
+        },
+        {
+          "number": "22",
+          "name": "Adam Meyer"
+        },
+        {
+          "number": "69",
+          "name": "Nich Rush"
+        }
+      ]
+    },
+    {
+      "name": "Creighton",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Colossus",
+        "location": "Omaha, Nebraska",
+        "website": "http://creightonultimate.weebly.com/",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Brayden Kelly"
+        },
+        {
+          "number": "0",
+          "name": "Cat  Henning "
+        },
+        {
+          "number": "0",
+          "name": "Chad Suga"
+        },
+        {
+          "number": "0",
+          "name": "Mason Embree"
+        },
+        {
+          "number": "0",
+          "name": "Olivia Phillips"
+        },
+        {
+          "number": "0",
+          "name": "Zach Frevert"
+        },
+        {
+          "number": "5",
+          "name": "Marah Miller"
+        },
+        {
+          "number": "11",
+          "name": "Tristan Kelly"
+        },
+        {
+          "number": "12",
+          "name": "Matt Butschek"
+        },
+        {
+          "number": "13",
+          "name": "Craig Schmerbauch"
+        },
+        {
+          "number": "16",
+          "name": "Ryan King"
+        },
+        {
+          "number": "34",
+          "name": "Michael Mimlitz"
+        },
+        {
+          "number": "54",
+          "name": "Anna West"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Iowa State",
+              "team2": "Nebraska",
+              "score1": 13,
+              "score2": 5,
+              "datetime": "2019-04-13T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Iowa",
+              "team2": "Creighton",
+              "score1": 13,
+              "score2": 2,
+              "datetime": "2019-04-13T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Northern Iowa",
+              "team2": "Nebraska-Omaha",
+              "score1": 13,
+              "score2": 9,
+              "datetime": "2019-04-13T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Iowa State",
+              "team2": "Iowa",
+              "score1": 13,
+              "score2": 6,
+              "datetime": "2019-04-13T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Nebraska",
+              "team2": "Northern Iowa",
+              "score1": 12,
+              "score2": 9,
+              "datetime": "2019-04-13T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Creighton",
+              "team2": "Nebraska-Omaha",
+              "score1": 7,
+              "score2": 13,
+              "datetime": "2019-04-13T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Iowa State",
+              "team2": "Northern Iowa",
+              "score1": 13,
+              "score2": 1,
+              "datetime": "2019-04-13T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Iowa",
+              "team2": "Nebraska-Omaha",
+              "score1": 13,
+              "score2": 3,
+              "datetime": "2019-04-13T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Nebraska",
+              "team2": "Creighton",
+              "score1": 13,
+              "score2": 2,
+              "datetime": "2019-04-13T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Iowa State",
+              "team2": "Nebraska-Omaha",
+              "score1": 13,
+              "score2": 6,
+              "datetime": "2019-04-13T14:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Iowa",
+              "team2": "Nebraska",
+              "score1": 13,
+              "score2": 6,
+              "datetime": "2019-04-13T14:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Northern Iowa",
+              "team2": "Creighton",
+              "score1": 13,
+              "score2": 3,
+              "datetime": "2019-04-13T14:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Iowa State",
+              "team2": "Creighton",
+              "score1": 13,
+              "score2": 0,
+              "datetime": "2019-04-14T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Iowa",
+              "team2": "Northern Iowa",
+              "score1": 13,
+              "score2": 5,
+              "datetime": "2019-04-14T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Nebraska",
+              "team2": "Nebraska-Omaha",
+              "score1": 11,
+              "score2": 6,
+              "datetime": "2019-04-14T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Bracket Play",
+      "groups": [
+        {
+          "name": "1st Place Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Iowa State",
+              "team2": "Iowa",
+              "score1": 13,
+              "score2": 10,
+              "datetime": "2019-04-14T14:15:00Z",
+              "round": "1st Place Bracket",
+              "status": "Final"
+            },
+            {
+              "team1": "Iowa State",
+              "team2": "Northern Iowa",
+              "score1": 13,
+              "score2": 2,
+              "datetime": "2019-04-14T12:30:00Z",
+              "round": "1st Place Semis",
+              "status": "Final"
+            },
+            {
+              "team1": "Iowa",
+              "team2": "Nebraska",
+              "score1": 13,
+              "score2": 4,
+              "datetime": "2019-04-14T12:30:00Z",
+              "round": "1st Place Semis",
+              "status": "Final"
+            },
+            {
+              "team1": "Northern Iowa",
+              "team2": "Nebraska-Omaha",
+              "score1": 13,
+              "score2": 8,
+              "datetime": "2019-04-14T10:45:00Z",
+              "round": "1st Quarters",
+              "status": "Final"
+            },
+            {
+              "team1": "Nebraska",
+              "team2": "Creighton",
+              "score1": 11,
+              "score2": 3,
+              "datetime": "2019-04-14T10:45:00Z",
+              "round": "1st Quarters",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "3rd Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Northern Iowa",
+              "team2": "Nebraska",
+              "score1": 13,
+              "score2": 10,
+              "datetime": "2019-04-14T14:15:00Z",
+              "round": "3rd Place",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "5th Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Nebraska-Omaha",
+              "team2": "Creighton",
+              "score1": 13,
+              "score2": 6,
+              "datetime": "2019-04-14T12:30:00Z",
+              "round": "5th Place",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

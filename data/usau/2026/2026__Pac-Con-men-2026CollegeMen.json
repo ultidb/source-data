@@ -1,0 +1,994 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2026/Pac-Con-men-2026CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/Pac-Con-men-2026/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:22.985385Z",
+  "event": {
+    "name": "Pac Con (men) 2026",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2026,
+    "city": "Corvallis",
+    "state": "OR",
+    "country": "",
+    "startDate": "2026-01-17",
+    "endDate": "2026-01-18"
+  },
+  "teams": [
+    {
+      "name": "Oregon",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Ego",
+        "location": "Eugene, Oregon",
+        "website": "",
+        "facebook": "https://www.facebook.com/OneBigEgo/",
+        "twitter": "https://twitter.com/egotime"
+      },
+      "coaches": [
+        "Connor Matthews",
+        "Braedon Petrus",
+        "Trevor Smith",
+        "Christopher Strub"
+      ],
+      "roster": [
+        {
+          "number": "4",
+          "name": "Alex Hall-Witt"
+        },
+        {
+          "number": "6",
+          "name": "Emanuel Berson"
+        },
+        {
+          "number": "8",
+          "name": "Adam Wulkan"
+        },
+        {
+          "number": "9",
+          "name": "Marcus Beidler"
+        },
+        {
+          "number": "11",
+          "name": "Beckett Sessums"
+        },
+        {
+          "number": "11",
+          "name": "Lucas Terzic"
+        },
+        {
+          "number": "12",
+          "name": "Harrison Schaw"
+        },
+        {
+          "number": "13",
+          "name": "Owen Sprague"
+        },
+        {
+          "number": "14",
+          "name": "Nicholas Cao"
+        },
+        {
+          "number": "17",
+          "name": "Reggie Masket"
+        },
+        {
+          "number": "18",
+          "name": "Marco Muralles"
+        },
+        {
+          "number": "21",
+          "name": "Jonah Hammes"
+        },
+        {
+          "number": "23",
+          "name": "Julian Saunt"
+        },
+        {
+          "number": "24",
+          "name": "Mica Glass"
+        },
+        {
+          "number": "26",
+          "name": "Raekwon Adkins"
+        },
+        {
+          "number": "27",
+          "name": "Mason  Weybright"
+        },
+        {
+          "number": "28",
+          "name": "Max Massey"
+        },
+        {
+          "number": "38",
+          "name": "Jude Small"
+        },
+        {
+          "number": "48",
+          "name": "Ben Horrisberger"
+        },
+        {
+          "number": "70",
+          "name": "Asa Kahle"
+        },
+        {
+          "number": "72",
+          "name": "Aaron Kaplan"
+        },
+        {
+          "number": "77",
+          "name": "Jackson Heglie"
+        },
+        {
+          "number": "81",
+          "name": "Emmett Warner"
+        },
+        {
+          "number": "84",
+          "name": "Owen Shaff"
+        },
+        {
+          "number": "89",
+          "name": "Isaac Blumklotz"
+        },
+        {
+          "number": "95",
+          "name": "Thomas Riedl"
+        },
+        {
+          "number": "99",
+          "name": "Bryce Jackson"
+        },
+        {
+          "number": "99",
+          "name": "Daniel Collier"
+        },
+        {
+          "number": "99",
+          "name": "Akash McMinnn"
+        },
+        {
+          "number": "99",
+          "name": "Nathan Williams"
+        },
+        {
+          "number": "99",
+          "name": "Will Dillender-Kinast"
+        }
+      ]
+    },
+    {
+      "name": "Western Washington",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "DIRT",
+        "location": "Bellingham, Washington",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "Craig Harkey"
+      ],
+      "roster": [
+        {
+          "number": "02",
+          "name": "Phoenix  Laliberte"
+        },
+        {
+          "number": "03",
+          "name": "Mason Herndon"
+        },
+        {
+          "number": "04",
+          "name": "Brian Fosmark"
+        },
+        {
+          "number": "05",
+          "name": "Kenji Lorenz"
+        },
+        {
+          "number": "07",
+          "name": "Gideon Knox"
+        },
+        {
+          "number": "08",
+          "name": "Trey Field-Bennett"
+        },
+        {
+          "number": "09",
+          "name": "Elijah Diamond"
+        },
+        {
+          "number": "11",
+          "name": "Byron Jordan"
+        },
+        {
+          "number": "15",
+          "name": "Graham Peck"
+        },
+        {
+          "number": "16",
+          "name": "Cedar Hines"
+        },
+        {
+          "number": "17",
+          "name": "Thomas Simms"
+        },
+        {
+          "number": "20",
+          "name": "Calvin Dodge"
+        },
+        {
+          "number": "21",
+          "name": "Griffin Laliberte"
+        },
+        {
+          "number": "23",
+          "name": "Noah Magallanes"
+        },
+        {
+          "number": "28",
+          "name": "William Schei"
+        },
+        {
+          "number": "30",
+          "name": "Virgil Jones"
+        },
+        {
+          "number": "32",
+          "name": "Ben Hanson"
+        },
+        {
+          "number": "33",
+          "name": "Hayden Zaske"
+        },
+        {
+          "number": "42",
+          "name": "Peter Eklund"
+        },
+        {
+          "number": "44",
+          "name": "Zach Sadow-Hasenberg"
+        },
+        {
+          "number": "47",
+          "name": "Zoli Ishikawa-szabo"
+        },
+        {
+          "number": "51",
+          "name": "Gabriel Diamond"
+        },
+        {
+          "number": "55",
+          "name": "Otis Vinton"
+        },
+        {
+          "number": "63",
+          "name": "Andreas Schoop"
+        },
+        {
+          "number": "72",
+          "name": "Marcus Hibpshman"
+        },
+        {
+          "number": "74",
+          "name": "Ethan Kelley"
+        },
+        {
+          "number": "76",
+          "name": "Sophia Dellapenta"
+        },
+        {
+          "number": "84",
+          "name": "Wes Brandt"
+        },
+        {
+          "number": "95",
+          "name": "Eliot Lundt"
+        }
+      ]
+    },
+    {
+      "name": "Oregon State",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Beavers",
+        "location": "Corvallis, Oregon",
+        "website": "",
+        "facebook": "https://www.facebook.com/osubeaversultimatedisc",
+        "twitter": "https://twitter.com/OSU_ultimate"
+      },
+      "coaches": [
+        "Andrew Buermeyer"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Andrew Thoennes"
+        },
+        {
+          "number": "0",
+          "name": "Erwan Pare"
+        },
+        {
+          "number": "0",
+          "name": "Samuel Harrington"
+        },
+        {
+          "number": "0",
+          "name": "Miles Renbarger"
+        },
+        {
+          "number": "3",
+          "name": "Seiji Koenigsberg"
+        },
+        {
+          "number": "6",
+          "name": "Sam Anderson"
+        },
+        {
+          "number": "7",
+          "name": "Felix Moren"
+        },
+        {
+          "number": "8",
+          "name": "Leo Wolf"
+        },
+        {
+          "number": "00",
+          "name": "Matt Rix"
+        },
+        {
+          "number": "00",
+          "name": "Ethan Fodor"
+        },
+        {
+          "number": "00",
+          "name": "Rio Long"
+        },
+        {
+          "number": "00",
+          "name": "Jackson Henry"
+        },
+        {
+          "number": "00",
+          "name": "Quinn O'Connor"
+        },
+        {
+          "number": "00",
+          "name": "Callahan Bosworth"
+        },
+        {
+          "number": "02",
+          "name": "Jack Nelson"
+        },
+        {
+          "number": "04",
+          "name": "Ben Thoennes"
+        },
+        {
+          "number": "09",
+          "name": "Challis Holloway"
+        },
+        {
+          "number": "11",
+          "name": "Gus Serff-Roberts"
+        },
+        {
+          "number": "18",
+          "name": "Alesh Fremouw"
+        },
+        {
+          "number": "21",
+          "name": "Benjamin Lodahl"
+        },
+        {
+          "number": "22",
+          "name": "Ben Brochard"
+        },
+        {
+          "number": "26",
+          "name": "Forrest Vargyas"
+        },
+        {
+          "number": "31",
+          "name": "Henry Wayte"
+        },
+        {
+          "number": "42",
+          "name": "Collin Kaperick"
+        },
+        {
+          "number": "97",
+          "name": "Leo Renzema"
+        },
+        {
+          "number": "99",
+          "name": "Owen Poissant"
+        }
+      ]
+    },
+    {
+      "name": "Portland",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Uprise",
+        "location": "Portland, Oregon",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alex Kersell"
+        },
+        {
+          "number": "0",
+          "name": "Alex Contreras"
+        },
+        {
+          "number": "0",
+          "name": "Joshua Greenbaum"
+        },
+        {
+          "number": "0",
+          "name": "Kenneth Taylor"
+        },
+        {
+          "number": "0",
+          "name": "Kian Craig"
+        },
+        {
+          "number": "0",
+          "name": "Remington Reinking"
+        },
+        {
+          "number": "0",
+          "name": "Wyatt Ashley"
+        },
+        {
+          "number": "0",
+          "name": "Mason Choy"
+        },
+        {
+          "number": "7",
+          "name": "Brennen Gibbins"
+        },
+        {
+          "number": "10",
+          "name": "Nick Jacobsen"
+        },
+        {
+          "number": "11",
+          "name": "Jonah Talmadge"
+        },
+        {
+          "number": "18",
+          "name": "Quinn Grove"
+        },
+        {
+          "number": "28",
+          "name": "Matthew Boland"
+        },
+        {
+          "number": "42",
+          "name": "Troy Carpenter"
+        },
+        {
+          "number": "51",
+          "name": "Charlie DeKlotz"
+        }
+      ]
+    },
+    {
+      "name": "University of Oregon  (B)",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Bucks",
+        "location": "Eugene, Oregon",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Ethan Ebbers"
+        },
+        {
+          "number": "0",
+          "name": "Jack Steinman"
+        },
+        {
+          "number": "0",
+          "name": "Jack Caldwell"
+        },
+        {
+          "number": "0",
+          "name": "Maksim Zykov-Chisholm"
+        },
+        {
+          "number": "0",
+          "name": "Maximus Melner"
+        },
+        {
+          "number": "0",
+          "name": "Samuel Williams"
+        },
+        {
+          "number": "0",
+          "name": "Toby Platt"
+        },
+        {
+          "number": "0",
+          "name": "Aiden Janeczko"
+        },
+        {
+          "number": "0",
+          "name": "Asher Clark"
+        },
+        {
+          "number": "0",
+          "name": "Wyatt Aichele"
+        },
+        {
+          "number": "6",
+          "name": "Whittaker Donovan"
+        },
+        {
+          "number": "11",
+          "name": "Benjamin Keigwin"
+        },
+        {
+          "number": "77",
+          "name": "Lewis Sisler"
+        },
+        {
+          "number": "85",
+          "name": "Kieran Wagner"
+        }
+      ]
+    },
+    {
+      "name": "Oregon State (B)",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Oregon State B",
+        "location": "Corvallis, Oregon",
+        "website": "https://www.instagram.com/osu_mens_ultimate_b/",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Isaiah Manewitz"
+        },
+        {
+          "number": "00",
+          "name": "Jonas Welter"
+        },
+        {
+          "number": "01",
+          "name": "Caleb Snider"
+        },
+        {
+          "number": "03",
+          "name": "Silas Markey"
+        },
+        {
+          "number": "05",
+          "name": "Reece Wiencken"
+        },
+        {
+          "number": "07",
+          "name": "Carter Cripe"
+        },
+        {
+          "number": "09",
+          "name": "Spencer Messer"
+        },
+        {
+          "number": "10",
+          "name": "Jackson Woodbury"
+        },
+        {
+          "number": "11",
+          "name": "Jack Weinberg"
+        },
+        {
+          "number": "12",
+          "name": "Samuel Nguyen"
+        },
+        {
+          "number": "15",
+          "name": "Armstrong Davidson"
+        },
+        {
+          "number": "17",
+          "name": "William Morton"
+        },
+        {
+          "number": "19",
+          "name": "Haven Christison"
+        },
+        {
+          "number": "21",
+          "name": "Jonah Brochard"
+        },
+        {
+          "number": "24",
+          "name": "Ethan Quesada"
+        },
+        {
+          "number": "27",
+          "name": "John Haas"
+        },
+        {
+          "number": "28",
+          "name": "Egan Wong"
+        },
+        {
+          "number": "29",
+          "name": "Emmet Rohweder"
+        },
+        {
+          "number": "39",
+          "name": "Benjamin Forkner"
+        },
+        {
+          "number": "51",
+          "name": "William Scherle"
+        },
+        {
+          "number": "57",
+          "name": "Logan Krolikowski"
+        },
+        {
+          "number": "72",
+          "name": "Ben Kogot"
+        },
+        {
+          "number": "77",
+          "name": "Boston Clark"
+        },
+        {
+          "number": "85",
+          "name": "Cole Heckman"
+        }
+      ]
+    },
+    {
+      "name": "Portland State",
+      "seed": 7,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Juicy",
+        "location": "Portland, Oregon",
+        "website": "https://www.instagram.com/portlandstateultimate/?hl=en",
+        "facebook": "https://www.instagram.com/psu.womensultimate/?hl=en",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Jack Jaworski"
+        },
+        {
+          "number": "0",
+          "name": "Jacob Boynton"
+        },
+        {
+          "number": "0",
+          "name": "Jeffrey Sterling"
+        },
+        {
+          "number": "0",
+          "name": "John Bednarek"
+        },
+        {
+          "number": "0",
+          "name": "Jules Messersharp"
+        },
+        {
+          "number": "0",
+          "name": "Kai Langhammer"
+        },
+        {
+          "number": "0",
+          "name": "Leana Girton"
+        },
+        {
+          "number": "0",
+          "name": "Natalie Smith"
+        },
+        {
+          "number": "0",
+          "name": "Riley Wunderlich"
+        },
+        {
+          "number": "0",
+          "name": "River Sheppard"
+        },
+        {
+          "number": "0",
+          "name": "Calder  Kibben"
+        },
+        {
+          "number": "0",
+          "name": "Dalia Samouilidis"
+        },
+        {
+          "number": "12",
+          "name": "Hank Munro"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Saturday Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Oregon State",
+              "team2": "Western Washington",
+              "score1": 12,
+              "score2": 15,
+              "datetime": "2026-01-17T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Oregon",
+              "team2": "Western Washington",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2026-01-17T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Oregon",
+              "team2": "Oregon State",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2026-01-17T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool B",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "University of Oregon  (B)",
+              "team2": "Oregon State (B)",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2026-01-17T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Portland",
+              "team2": "Portland State",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2026-01-17T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "University of Oregon  (B)",
+              "team2": "Portland State",
+              "score1": 15,
+              "score2": 6,
+              "datetime": "2026-01-17T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Portland",
+              "team2": "Oregon State (B)",
+              "score1": 15,
+              "score2": 6,
+              "datetime": "2026-01-17T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "University of Oregon  (B)",
+              "team2": "Portland",
+              "score1": 6,
+              "score2": 15,
+              "datetime": "2026-01-17T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Oregon State (B)",
+              "team2": "Portland State",
+              "score1": 15,
+              "score2": 6,
+              "datetime": "2026-01-17T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "clusters",
+      "name": "Saturday Crossover",
+      "groups": [
+        {
+          "name": "Crossover",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Oregon",
+              "team2": "Oregon State (B)",
+              "score1": 15,
+              "score2": 3,
+              "datetime": "2026-01-17T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Western Washington",
+              "team2": "University of Oregon  (B)",
+              "score1": 15,
+              "score2": 3,
+              "datetime": "2026-01-17T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Oregon State",
+              "team2": "Portland",
+              "score1": 15,
+              "score2": 6,
+              "datetime": "2026-01-17T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Sunday Bracket Play",
+      "groups": [
+        {
+          "name": "First Place Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Oregon",
+              "team2": "Oregon State",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2026-01-18T12:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Oregon",
+              "team2": "Portland",
+              "score1": 13,
+              "score2": 4,
+              "datetime": "2026-01-18T10:00:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Western Washington",
+              "team2": "Oregon State",
+              "score1": 13,
+              "score2": 14,
+              "datetime": "2026-01-18T10:00:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "University of Oregon  (B)",
+              "team2": "Portland",
+              "score1": 7,
+              "score2": 15,
+              "datetime": "2026-01-18T08:00:00Z",
+              "round": "Quarterfinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Western Washington",
+              "team2": "Portland State",
+              "score1": 15,
+              "score2": 1,
+              "datetime": "2026-01-18T08:00:00Z",
+              "round": "Quarterfinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Oregon State",
+              "team2": "Oregon State (B)",
+              "score1": 15,
+              "score2": 2,
+              "datetime": "2026-01-18T08:00:00Z",
+              "round": "Quarterfinals",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Fifth Place Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "University of Oregon  (B)",
+              "team2": "Oregon State (B)",
+              "score1": 5,
+              "score2": 15,
+              "datetime": "2026-01-18T12:00:00Z",
+              "round": "Fifth Place Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Portland State",
+              "team2": "Oregon State (B)",
+              "score1": 2,
+              "score2": 15,
+              "datetime": "2026-01-18T10:00:00Z",
+              "round": "Fifth Place Semifinals",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Third Place Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Portland",
+              "team2": "Western Washington",
+              "score1": 7,
+              "score2": 15,
+              "datetime": "2026-01-18T12:00:00Z",
+              "round": "Third Place Finals",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

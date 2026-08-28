@@ -1,0 +1,251 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2025/2025-West-Plains-Womens-Sectional-ChampionshipClub-Women",
+  "sourceUrl": "http://play.usaultimate.org/events/2025-West-Plains-Womens-Sectional-Championship/schedule/Women/Club-Women/",
+  "scrapedAt": "2026-08-28T10:06:21.445571Z",
+  "event": {
+    "name": "2025 West Plains Women's Sectional Championship",
+    "division": "Club - Women ",
+    "gender": "",
+    "season": 2025,
+    "city": "Lees Summit",
+    "state": "MO",
+    "country": "",
+    "startDate": "2025-09-06",
+    "endDate": "2025-09-07"
+  },
+  "teams": [
+    {
+      "name": "Stellar",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "St. Louis, Missouri",
+        "website": "",
+        "facebook": "https://www.facebook.com/stellarultimate",
+        "twitter": "https://twitter.com/StellarUltimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Eileen Duffner"
+        },
+        {
+          "number": "1",
+          "name": "Anat Gross"
+        },
+        {
+          "number": "3",
+          "name": "Lindsay Rehme"
+        },
+        {
+          "number": "4",
+          "name": "Rachel Byerly"
+        },
+        {
+          "number": "7",
+          "name": "Emily Timm"
+        },
+        {
+          "number": "8",
+          "name": "Ella Yang"
+        },
+        {
+          "number": "10",
+          "name": "Mary Otten"
+        },
+        {
+          "number": "13",
+          "name": "Cassia Williams-Rogers"
+        },
+        {
+          "number": "17",
+          "name": "Sage Gatewood"
+        },
+        {
+          "number": "18",
+          "name": "Allison Faerber"
+        },
+        {
+          "number": "22",
+          "name": "Shannon Quintana"
+        },
+        {
+          "number": "23",
+          "name": "Nina Laser"
+        },
+        {
+          "number": "26",
+          "name": "Zirui Zhou"
+        },
+        {
+          "number": "27",
+          "name": "Anna Cochran"
+        },
+        {
+          "number": "28",
+          "name": "Elise Gadson"
+        },
+        {
+          "number": "31",
+          "name": "Jiwei Wu"
+        },
+        {
+          "number": "34",
+          "name": "Jennifer May"
+        },
+        {
+          "number": "37",
+          "name": "Kaitlyn Torack"
+        },
+        {
+          "number": "42",
+          "name": "Sophie Curran"
+        },
+        {
+          "number": "51",
+          "name": "Vivian Chen"
+        },
+        {
+          "number": "52",
+          "name": "Rory Barnawell"
+        },
+        {
+          "number": "55",
+          "name": "Elisa Kodama"
+        },
+        {
+          "number": "80",
+          "name": "Noelle Hogrebe"
+        }
+      ]
+    },
+    {
+      "name": "Wicked",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Kansas City, Kansas",
+        "website": "",
+        "facebook": "https://www.facebook.com/kcwickedultimate",
+        "twitter": "https://twitter.com/WickedUltimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Catherine Mittlieder"
+        },
+        {
+          "number": "05",
+          "name": "Haylie Shoemaker"
+        },
+        {
+          "number": "12",
+          "name": "Lauren Ferguson"
+        },
+        {
+          "number": "13",
+          "name": "Bekah Miller"
+        },
+        {
+          "number": "14",
+          "name": "Liz Walters"
+        },
+        {
+          "number": "17",
+          "name": "Moriah Becquer"
+        },
+        {
+          "number": "22",
+          "name": "Emma Lien"
+        },
+        {
+          "number": "23",
+          "name": "Rebekah Seyfert"
+        },
+        {
+          "number": "26",
+          "name": "Jordan Eissner"
+        },
+        {
+          "number": "27",
+          "name": "Karissa Jenesse"
+        },
+        {
+          "number": "28",
+          "name": "Carly Cameron"
+        },
+        {
+          "number": "33",
+          "name": "Jessica Tiller"
+        },
+        {
+          "number": "35",
+          "name": "Kristin Turk"
+        },
+        {
+          "number": "37",
+          "name": "Georgia Hansen"
+        },
+        {
+          "number": "49",
+          "name": "Heather Fielding Gebhardt"
+        },
+        {
+          "number": "56",
+          "name": "Demi White"
+        },
+        {
+          "number": "57",
+          "name": "Emily Tucker"
+        },
+        {
+          "number": "69",
+          "name": "Kayla Gerlt"
+        },
+        {
+          "number": "72",
+          "name": "Victoria Dissmore"
+        },
+        {
+          "number": "87",
+          "name": "Amanda Borders"
+        },
+        {
+          "number": "93",
+          "name": "Mei Lin Branit"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "West Plains Round Robin",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Wicked",
+              "team2": "Stellar",
+              "score1": 10,
+              "score2": 12,
+              "datetime": "2025-09-06T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

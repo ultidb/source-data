@@ -1,0 +1,251 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2025/2025-Northwest-Plains-Womens-Sectional-ChampionshipClub-Women",
+  "sourceUrl": "http://play.usaultimate.org/events/2025-Northwest-Plains-Womens-Sectional-Championship/schedule/Women/Club-Women/",
+  "scrapedAt": "2026-08-28T10:06:21.321490Z",
+  "event": {
+    "name": "2025 Northwest Plains Women's Sectional Championship",
+    "division": "Club - Women ",
+    "gender": "",
+    "season": 2025,
+    "city": "Blaine",
+    "state": "MN",
+    "country": "",
+    "startDate": "2025-09-06",
+    "endDate": "2025-09-07"
+  },
+  "teams": [
+    {
+      "name": "River Monsters",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "St. Paul, Minnesota",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alexis Trousil"
+        },
+        {
+          "number": "0",
+          "name": "Alison Roston"
+        },
+        {
+          "number": "0",
+          "name": "Anna Finwall"
+        },
+        {
+          "number": "0",
+          "name": "Ariana Golemis"
+        },
+        {
+          "number": "0",
+          "name": "Audrey Pohl"
+        },
+        {
+          "number": "0",
+          "name": "Charlotte Eskola"
+        },
+        {
+          "number": "0",
+          "name": "Emily Yoon"
+        },
+        {
+          "number": "0",
+          "name": "Haley Chau"
+        },
+        {
+          "number": "0",
+          "name": "Hattie Tschida"
+        },
+        {
+          "number": "0",
+          "name": "Kaelani Hoyt"
+        },
+        {
+          "number": "0",
+          "name": "Kiersten Lee"
+        },
+        {
+          "number": "0",
+          "name": "Kumari Okumura"
+        },
+        {
+          "number": "0",
+          "name": "Lara Newton"
+        },
+        {
+          "number": "0",
+          "name": "Margaret Swenson"
+        },
+        {
+          "number": "0",
+          "name": "Morgan Sweeney"
+        },
+        {
+          "number": "0",
+          "name": "Nora Meyer"
+        },
+        {
+          "number": "0",
+          "name": "Olivia Lagos"
+        },
+        {
+          "number": "0",
+          "name": "Veronica Janzen"
+        },
+        {
+          "number": "13",
+          "name": "Esther Gendler"
+        },
+        {
+          "number": "21",
+          "name": "Sadie Haas"
+        },
+        {
+          "number": "28",
+          "name": "Abigail Keuhn"
+        },
+        {
+          "number": "95",
+          "name": "Megan Nguyen"
+        }
+      ]
+    },
+    {
+      "name": "Compact Disc",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Minneapolis, Minnesota",
+        "website": "https://www.instagram.com/compactdisculti/",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alex Boyd"
+        },
+        {
+          "number": "0",
+          "name": "Anna Poi"
+        },
+        {
+          "number": "0",
+          "name": "Charlotte Lane"
+        },
+        {
+          "number": "0",
+          "name": "Ellie Lin"
+        },
+        {
+          "number": "0",
+          "name": "Emma Boehm"
+        },
+        {
+          "number": "0",
+          "name": "Eudora Day"
+        },
+        {
+          "number": "0",
+          "name": "Hannah Slind"
+        },
+        {
+          "number": "0",
+          "name": "Inbal Armony"
+        },
+        {
+          "number": "0",
+          "name": "Julianna Deibel"
+        },
+        {
+          "number": "0",
+          "name": "Karris Krueger"
+        },
+        {
+          "number": "0",
+          "name": "Kayli Roe"
+        },
+        {
+          "number": "0",
+          "name": "Lilja Anderson"
+        },
+        {
+          "number": "0",
+          "name": "Makenna Dawson"
+        },
+        {
+          "number": "0",
+          "name": "Michelle Keohane"
+        },
+        {
+          "number": "0",
+          "name": "Naomi Clear"
+        },
+        {
+          "number": "0",
+          "name": "Ora Hammel"
+        },
+        {
+          "number": "2",
+          "name": "Lauren Hagen"
+        },
+        {
+          "number": "5",
+          "name": "Lucy Manalang"
+        },
+        {
+          "number": "7",
+          "name": "Maya O'Loughlin"
+        },
+        {
+          "number": "13",
+          "name": "May Kinnamon"
+        },
+        {
+          "number": "83",
+          "name": "Taylor Kondes"
+        },
+        {
+          "number": "99",
+          "name": "Sophie Diliberti"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Northwest Plains",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "River Monsters",
+              "team2": "Compact Disc",
+              "score1": 15,
+              "score2": 3,
+              "datetime": "2025-09-06T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

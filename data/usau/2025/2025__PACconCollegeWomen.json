@@ -1,0 +1,994 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2025/PACconCollegeWomen",
+  "sourceUrl": "https://play.usaultimate.org/events/PACcon/schedule/Women/CollegeWomen/",
+  "scrapedAt": "2026-08-28T10:06:21.790037Z",
+  "event": {
+    "name": "PACcon 2025",
+    "division": "College - Women ",
+    "gender": "",
+    "season": 2025,
+    "city": "Corvallis",
+    "state": "OR",
+    "country": "",
+    "startDate": "2025-03-08",
+    "endDate": "2025-03-09"
+  },
+  "teams": [
+    {
+      "name": "Western Washington",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Chaos",
+        "location": "Bellingham, Washington",
+        "website": "https://wp.wwu.edu/wultimate/",
+        "facebook": "https://www.facebook.com/pages/WWU-Chaos-Ultimate/374278315920245",
+        "twitter": "https://twitter.com/WWUchaos"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alexandria Oberholtzer"
+        },
+        {
+          "number": "0",
+          "name": "Ollie Bunson"
+        },
+        {
+          "number": "0",
+          "name": "Pema Van Voast"
+        },
+        {
+          "number": "0",
+          "name": "Sophia Dellapenta"
+        },
+        {
+          "number": "0",
+          "name": "Tamsen Henry"
+        },
+        {
+          "number": "1",
+          "name": "Alexa Jeantette-Coca"
+        },
+        {
+          "number": "5",
+          "name": "Lilliana Werner"
+        },
+        {
+          "number": "8",
+          "name": "Lily Howard"
+        },
+        {
+          "number": "9",
+          "name": "Amaya Krutsinger"
+        },
+        {
+          "number": "13",
+          "name": "Amaya Shean-Jones"
+        },
+        {
+          "number": "13",
+          "name": "Lillian Nelson"
+        },
+        {
+          "number": "16",
+          "name": "Emi Moreno"
+        },
+        {
+          "number": "18",
+          "name": "Elena Korch"
+        },
+        {
+          "number": "19",
+          "name": "Ruby Bond"
+        },
+        {
+          "number": "21",
+          "name": "Marin Cohan"
+        },
+        {
+          "number": "24",
+          "name": "Sierra Gaynor"
+        },
+        {
+          "number": "31",
+          "name": "Claire Voelk"
+        },
+        {
+          "number": "33",
+          "name": "Yana Wink"
+        },
+        {
+          "number": "34",
+          "name": "Ksenia Gotham"
+        },
+        {
+          "number": "40",
+          "name": "Ainsley Waechter"
+        },
+        {
+          "number": "42",
+          "name": "Natalie Collier"
+        },
+        {
+          "number": "69",
+          "name": "Ellie Martin-Tai"
+        },
+        {
+          "number": "95",
+          "name": "Gwen Murray"
+        }
+      ]
+    },
+    {
+      "name": "Oregon State",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Dinos",
+        "location": "Corvallis, Oregon",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Lena Freebury"
+        },
+        {
+          "number": "02",
+          "name": "Sylvi Barnes"
+        },
+        {
+          "number": "03",
+          "name": "Trisha Rajesh"
+        },
+        {
+          "number": "04",
+          "name": "Cami Potter"
+        },
+        {
+          "number": "05",
+          "name": "Charlotte Robison"
+        },
+        {
+          "number": "07",
+          "name": "Adael Scatena"
+        },
+        {
+          "number": "08",
+          "name": "Celia Guillemin"
+        },
+        {
+          "number": "10",
+          "name": "Haviva Kalenkowitz"
+        },
+        {
+          "number": "11",
+          "name": "Ella Cave"
+        },
+        {
+          "number": "12",
+          "name": "Anika Lechner Armitage"
+        },
+        {
+          "number": "13",
+          "name": "Kiera Linder"
+        },
+        {
+          "number": "14",
+          "name": "Ava Peterson"
+        },
+        {
+          "number": "15",
+          "name": "Lily Bauer"
+        },
+        {
+          "number": "16",
+          "name": "Amelia Davis"
+        },
+        {
+          "number": "17",
+          "name": "Sydney Gould"
+        },
+        {
+          "number": "18",
+          "name": "Anna Kochaver"
+        },
+        {
+          "number": "19",
+          "name": "Rachel Woods"
+        },
+        {
+          "number": "21",
+          "name": "Sydney Templin"
+        },
+        {
+          "number": "22",
+          "name": "Mahina Hardin"
+        },
+        {
+          "number": "25",
+          "name": "Mya Vorhies"
+        },
+        {
+          "number": "30",
+          "name": "Emily Brouwers"
+        },
+        {
+          "number": "32",
+          "name": "Molly Jenkins"
+        },
+        {
+          "number": "69",
+          "name": "Paige Edgar"
+        },
+        {
+          "number": "88",
+          "name": "Madison Schaffer"
+        },
+        {
+          "number": "93",
+          "name": "Julia Wine"
+        }
+      ]
+    },
+    {
+      "name": "Cal Poly-Humboldt",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Hags",
+        "location": "Arcata, California",
+        "website": "https://www.humboldt.edu/campus-recreation/recreational-sports/clubs/womens-ultimate",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "Catherine (Cate) Roscoe"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Ava Colony"
+        },
+        {
+          "number": "0",
+          "name": "Cassidy Nichols"
+        },
+        {
+          "number": "0",
+          "name": "Coral Ciarabellini"
+        },
+        {
+          "number": "0",
+          "name": "Iris Mahony-Moyer"
+        },
+        {
+          "number": "0",
+          "name": "Julie Sorfleet"
+        },
+        {
+          "number": "0",
+          "name": "Nicoli Burdeinii"
+        },
+        {
+          "number": "0",
+          "name": "Sadie Cronin"
+        },
+        {
+          "number": "0",
+          "name": "Trinity Edwards"
+        },
+        {
+          "number": "4",
+          "name": "Monica Martinez Quehl"
+        },
+        {
+          "number": "6",
+          "name": "India Siebold"
+        },
+        {
+          "number": "8",
+          "name": "Alanna Murillo"
+        },
+        {
+          "number": "19",
+          "name": "Lilia Horne"
+        },
+        {
+          "number": "24",
+          "name": "Brianna Guijosa"
+        },
+        {
+          "number": "57",
+          "name": "Natalie Christenson"
+        }
+      ]
+    },
+    {
+      "name": "Lewis & Clark  (B)",
+      "seed": 8,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Artemis B",
+        "location": "Portland, Oregon",
+        "website": "https://www.lclark.edu/",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Annika Shinoda"
+        },
+        {
+          "number": "0",
+          "name": "Ellie Crema"
+        },
+        {
+          "number": "0",
+          "name": "Erin Ries-Juncker"
+        },
+        {
+          "number": "0",
+          "name": "Estelle Campana"
+        },
+        {
+          "number": "0",
+          "name": "Hazel Morton"
+        },
+        {
+          "number": "0",
+          "name": "Janie Gehrenbeck-Miller"
+        },
+        {
+          "number": "0",
+          "name": "Maddie Furr"
+        },
+        {
+          "number": "0",
+          "name": "Madeline Fealy"
+        },
+        {
+          "number": "0",
+          "name": "Maria Lee"
+        },
+        {
+          "number": "0",
+          "name": "Scarlett Deveno"
+        },
+        {
+          "number": "0",
+          "name": "Zoe Lang"
+        },
+        {
+          "number": "5",
+          "name": "Georgia Corson"
+        },
+        {
+          "number": "7",
+          "name": "Leah Marquez"
+        },
+        {
+          "number": "28",
+          "name": "Lilah Shapiro"
+        }
+      ]
+    },
+    {
+      "name": "Lewis & Clark",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Artemis",
+        "location": "Portland, Oregon",
+        "website": "https://www.instagram.com/artemisultimate/",
+        "facebook": "https://www.facebook.com/artemisUlti/",
+        "twitter": "https://twitter.com/artemisultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Izzy Quattrucci"
+        },
+        {
+          "number": "02",
+          "name": "Allison  Ryan "
+        },
+        {
+          "number": "11",
+          "name": "Mette Peluce"
+        },
+        {
+          "number": "12",
+          "name": "Nahlah Mkaouri"
+        },
+        {
+          "number": "13",
+          "name": "Katelyn Osborne"
+        },
+        {
+          "number": "15",
+          "name": "Emily Larabee"
+        },
+        {
+          "number": "17",
+          "name": "Mira Larrance"
+        },
+        {
+          "number": "18",
+          "name": "Calista Aragon"
+        },
+        {
+          "number": "29",
+          "name": "Amelie Steer"
+        },
+        {
+          "number": "30",
+          "name": "Rosa Rudolph"
+        },
+        {
+          "number": "33",
+          "name": "Greta Wilbur"
+        },
+        {
+          "number": "38",
+          "name": "Anika Alschuler"
+        },
+        {
+          "number": "42",
+          "name": "Lily Cahill"
+        },
+        {
+          "number": "77",
+          "name": "Mikah Keetch"
+        },
+        {
+          "number": "85",
+          "name": "Rachel Abrahams"
+        }
+      ]
+    },
+    {
+      "name": "Portland",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "UPRoar",
+        "location": "Portland, Oregon",
+        "website": "https://www.instagram.com/uproarfrisbee/",
+        "facebook": "https://www.facebook.com/upwomensultimate",
+        "twitter": "https://twitter.com/uproar_ultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "2",
+          "name": "Katie Anderson"
+        },
+        {
+          "number": "3",
+          "name": "Hana  Elawady "
+        },
+        {
+          "number": "4",
+          "name": "Morgan Bridges"
+        },
+        {
+          "number": "6",
+          "name": "Summers Filion"
+        },
+        {
+          "number": "7",
+          "name": "Maryanne Maxwell"
+        },
+        {
+          "number": "10",
+          "name": "Isabel Contreras"
+        },
+        {
+          "number": "11",
+          "name": "Audrey Dewey"
+        },
+        {
+          "number": "12",
+          "name": "Hayden Ashley"
+        },
+        {
+          "number": "14",
+          "name": "Lizzie Ashford"
+        },
+        {
+          "number": "18",
+          "name": "Ellie Dinh"
+        },
+        {
+          "number": "21",
+          "name": "Jianna Matundan"
+        },
+        {
+          "number": "24",
+          "name": "Gaby Dominguez"
+        },
+        {
+          "number": "28",
+          "name": "Kelsey Korbe"
+        },
+        {
+          "number": "34",
+          "name": "Lili Gudgel"
+        },
+        {
+          "number": "37",
+          "name": "Audrey Stineman"
+        },
+        {
+          "number": "40",
+          "name": "Annalise Korch"
+        },
+        {
+          "number": "42",
+          "name": "Nellie Dargis"
+        }
+      ]
+    },
+    {
+      "name": "Pacific Lutheran",
+      "seed": 7,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Reign Women",
+        "location": "Tacoma , Washington",
+        "website": "",
+        "facebook": "https://www.facebook.com/PLUReignWomen/",
+        "twitter": "https://twitter.com/PLUReignWomxn"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Caroline Dana"
+        },
+        {
+          "number": "0",
+          "name": "Catherine Winford"
+        },
+        {
+          "number": "0",
+          "name": "Delaney  McFarland"
+        },
+        {
+          "number": "0",
+          "name": "Diamond Casiano-Reyes"
+        },
+        {
+          "number": "0",
+          "name": "Alesandra Cardella"
+        },
+        {
+          "number": "0",
+          "name": "Gullian Schultz"
+        },
+        {
+          "number": "0",
+          "name": "Natalie Flick"
+        },
+        {
+          "number": "0",
+          "name": "Natalie Mashue"
+        },
+        {
+          "number": "0",
+          "name": "Natalie Story"
+        },
+        {
+          "number": "0",
+          "name": "Sammi Korakis"
+        },
+        {
+          "number": "0",
+          "name": "Leila Bauer"
+        },
+        {
+          "number": "0",
+          "name": "Maggie Dobbins"
+        },
+        {
+          "number": "0",
+          "name": "Tyne Klammer"
+        },
+        {
+          "number": "4",
+          "name": "Geharii Williams"
+        },
+        {
+          "number": "14",
+          "name": "Tiara Laurenne Manalo"
+        },
+        {
+          "number": "16",
+          "name": "Alina Boorse"
+        },
+        {
+          "number": "17",
+          "name": "Justice Holmes"
+        },
+        {
+          "number": "23",
+          "name": "Sophia  Jeter"
+        },
+        {
+          "number": "24",
+          "name": "Sophie Muir"
+        },
+        {
+          "number": "41",
+          "name": "Marla Kelly"
+        }
+      ]
+    },
+    {
+      "name": "Washington (B)",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Big Bang",
+        "location": "Seattle, Washington",
+        "website": "http://instagram.com/uwbigbang",
+        "facebook": "",
+        "twitter": "http://twitter.com/uwbigbang"
+      },
+      "coaches": [
+        "Bonnie Ho"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Katie Chen"
+        },
+        {
+          "number": "0",
+          "name": "Mia Andreeva"
+        },
+        {
+          "number": "03",
+          "name": "Samantha Schubert"
+        },
+        {
+          "number": "05",
+          "name": "Jacqueline Speth"
+        },
+        {
+          "number": "06",
+          "name": "Julianna Cullen"
+        },
+        {
+          "number": "07",
+          "name": "Maya Drewicke"
+        },
+        {
+          "number": "08",
+          "name": "Eva Grant"
+        },
+        {
+          "number": "10",
+          "name": "Alba Navarro Yu"
+        },
+        {
+          "number": "12",
+          "name": "Hanna Gage"
+        },
+        {
+          "number": "13",
+          "name": "Imogen Rich"
+        },
+        {
+          "number": "14",
+          "name": "Callaghan Crook"
+        },
+        {
+          "number": "16",
+          "name": "Margaret Cloe"
+        },
+        {
+          "number": "18",
+          "name": "Isabel Waier"
+        },
+        {
+          "number": "28",
+          "name": "Alison Platt"
+        },
+        {
+          "number": "33",
+          "name": "Natalie Babitzke"
+        },
+        {
+          "number": "42",
+          "name": "Grace Gousman"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Western Washington",
+              "team2": "Lewis & Clark  (B)",
+              "score1": 13,
+              "score2": 0,
+              "datetime": "2025-03-08T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Oregon State",
+              "team2": "Cal Poly-Humboldt",
+              "score1": 13,
+              "score2": 2,
+              "datetime": "2025-03-08T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Western Washington",
+              "team2": "Oregon State",
+              "score1": 12,
+              "score2": 10,
+              "datetime": "2025-03-08T10:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Cal Poly-Humboldt",
+              "team2": "Lewis & Clark  (B)",
+              "score1": 8,
+              "score2": 6,
+              "datetime": "2025-03-08T10:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Western Washington",
+              "team2": "Cal Poly-Humboldt",
+              "score1": 13,
+              "score2": 1,
+              "datetime": "2025-03-08T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Oregon State",
+              "team2": "Lewis & Clark  (B)",
+              "score1": 11,
+              "score2": 2,
+              "datetime": "2025-03-08T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool B",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Lewis & Clark",
+              "team2": "Washington (B)",
+              "score1": 11,
+              "score2": 1,
+              "datetime": "2025-03-08T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Portland",
+              "team2": "Pacific Lutheran",
+              "score1": 12,
+              "score2": 3,
+              "datetime": "2025-03-08T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Lewis & Clark",
+              "team2": "Pacific Lutheran",
+              "score1": 13,
+              "score2": 2,
+              "datetime": "2025-03-08T10:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Portland",
+              "team2": "Washington (B)",
+              "score1": 13,
+              "score2": 1,
+              "datetime": "2025-03-08T10:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Lewis & Clark",
+              "team2": "Portland",
+              "score1": 10,
+              "score2": 7,
+              "datetime": "2025-03-08T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Washington (B)",
+              "team2": "Pacific Lutheran",
+              "score1": 6,
+              "score2": 10,
+              "datetime": "2025-03-08T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Bracket Play",
+      "groups": [
+        {
+          "name": "1st Place Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Western Washington",
+              "team2": "Oregon State",
+              "score1": 13,
+              "score2": 5,
+              "datetime": "2025-03-09T12:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Western Washington",
+              "team2": "Portland",
+              "score1": 13,
+              "score2": 0,
+              "datetime": "2025-03-09T10:30:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Oregon State",
+              "team2": "Lewis & Clark",
+              "score1": 11,
+              "score2": 10,
+              "datetime": "2025-03-09T10:30:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Western Washington",
+              "team2": "Washington (B)",
+              "score1": 13,
+              "score2": 0,
+              "datetime": "2025-03-09T09:00:00Z",
+              "round": "Quarterfinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Cal Poly-Humboldt",
+              "team2": "Portland",
+              "score1": 3,
+              "score2": 13,
+              "datetime": "2025-03-09T09:00:00Z",
+              "round": "Quarterfinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Oregon State",
+              "team2": "Pacific Lutheran",
+              "score1": 11,
+              "score2": 7,
+              "datetime": "2025-03-09T09:00:00Z",
+              "round": "Quarterfinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Lewis & Clark",
+              "team2": "Lewis & Clark  (B)",
+              "score1": 11,
+              "score2": 2,
+              "datetime": "2025-03-09T09:00:00Z",
+              "round": "Quarterfinals",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "3rd Place Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Portland",
+              "team2": "Lewis & Clark",
+              "score1": 7,
+              "score2": 9,
+              "datetime": "2025-03-09T12:00:00Z",
+              "round": "3rd Place Finals",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "5th Place Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Cal Poly-Humboldt",
+              "team2": "Pacific Lutheran",
+              "score1": 6,
+              "score2": 9,
+              "datetime": "2025-03-09T12:00:00Z",
+              "round": "5th Place Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Washington (B)",
+              "team2": "Cal Poly-Humboldt",
+              "score1": 7,
+              "score2": 9,
+              "datetime": "2025-03-09T10:30:00Z",
+              "round": "5th Place Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Pacific Lutheran",
+              "team2": "Lewis & Clark  (B)",
+              "score1": 7,
+              "score2": 4,
+              "datetime": "2025-03-09T10:30:00Z",
+              "round": "5th Place Semifinals",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "7th Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Washington (B)",
+              "team2": "Lewis & Clark  (B)",
+              "score1": 7,
+              "score2": 5,
+              "datetime": "2025-03-09T12:00:00Z",
+              "round": "7th Place",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

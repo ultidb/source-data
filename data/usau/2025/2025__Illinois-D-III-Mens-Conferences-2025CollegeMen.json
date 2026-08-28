@@ -1,0 +1,257 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2025/Illinois-D-III-Mens-Conferences-2025CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/Illinois-D-III-Mens-Conferences-2025/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:21.640389Z",
+  "event": {
+    "name": "Illinois D-III Men's Conferences 2025",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2025,
+    "city": "Bourbonnais",
+    "state": "IL",
+    "country": "",
+    "startDate": "2025-04-12",
+    "endDate": "2025-04-12"
+  },
+  "teams": [
+    {
+      "name": "Knox",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "River Rats",
+        "location": "Galesburg, Illinois",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Christian Wallace"
+        },
+        {
+          "number": "00",
+          "name": "Colton Degen"
+        },
+        {
+          "number": "00",
+          "name": "Divyesh Shrestha"
+        },
+        {
+          "number": "00",
+          "name": "Ethan Lundblad"
+        },
+        {
+          "number": "00",
+          "name": "Finnegan Hautau"
+        },
+        {
+          "number": "00",
+          "name": "Jack Lubbs"
+        },
+        {
+          "number": "00",
+          "name": "Jake Shelton"
+        },
+        {
+          "number": "00",
+          "name": "James Thompson"
+        },
+        {
+          "number": "00",
+          "name": "Luka Vorobyov"
+        },
+        {
+          "number": "00",
+          "name": "Martin Herrera"
+        },
+        {
+          "number": "00",
+          "name": "Max Hoffman"
+        },
+        {
+          "number": "00",
+          "name": "Richie Dix"
+        },
+        {
+          "number": "00",
+          "name": "Tioluwani Olubunmi"
+        },
+        {
+          "number": "00",
+          "name": "Vyaas Subramanian"
+        },
+        {
+          "number": "00",
+          "name": "Zach Shack"
+        },
+        {
+          "number": "00",
+          "name": "Zachary Benson"
+        }
+      ]
+    },
+    {
+      "name": "North Park",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Lost Boys",
+        "location": "Chicago, Illinois",
+        "website": "",
+        "facebook": "https://www.facebook.com/nplostboys",
+        "twitter": "https://twitter.com/NPLostBoys"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Adrian  Martinez-Jones"
+        },
+        {
+          "number": "00",
+          "name": "Calum Draper"
+        },
+        {
+          "number": "00",
+          "name": "Chenghao Li"
+        },
+        {
+          "number": "00",
+          "name": "Daniel Baker"
+        },
+        {
+          "number": "00",
+          "name": "Kyama Webb"
+        },
+        {
+          "number": "00",
+          "name": "Markos Mamalakis"
+        },
+        {
+          "number": "00",
+          "name": "Matthew Crozier"
+        },
+        {
+          "number": "00",
+          "name": "Roswell Omandam"
+        },
+        {
+          "number": "00",
+          "name": "Seamus Smith"
+        },
+        {
+          "number": "00",
+          "name": "Ty Hawkinson"
+        }
+      ]
+    },
+    {
+      "name": "Bradley",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Angry Otters",
+        "location": "Peoria, Illinois",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "01",
+          "name": "Zachary Alt"
+        },
+        {
+          "number": "05",
+          "name": "Andrew Dallinger-Eaker"
+        },
+        {
+          "number": "05",
+          "name": "Matas Mikuckas"
+        },
+        {
+          "number": "09",
+          "name": "Elliott Hohulin"
+        },
+        {
+          "number": "09",
+          "name": "Andrew Kurtz"
+        },
+        {
+          "number": "10",
+          "name": "Alex Svoboda"
+        },
+        {
+          "number": "13",
+          "name": "Jordan Schlueter"
+        },
+        {
+          "number": "22",
+          "name": "Alex Phan"
+        },
+        {
+          "number": "27",
+          "name": "Daniel Sikora"
+        },
+        {
+          "number": "66",
+          "name": "Oscar Wright"
+        },
+        {
+          "number": "73",
+          "name": "Nick Svoboda"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "North Park",
+              "team2": "Bradley",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2025-04-12T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Knox",
+              "team2": "Bradley",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2025-04-12T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "North Park",
+              "team2": "Knox",
+              "score1": 8,
+              "score2": 15,
+              "datetime": "2025-04-12T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

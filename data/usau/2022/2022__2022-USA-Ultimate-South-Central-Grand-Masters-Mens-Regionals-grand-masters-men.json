@@ -1,0 +1,746 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2022/2022-USA-Ultimate-South-Central-Grand-Masters-Mens-Regionals-grand-masters-men",
+  "sourceUrl": "https://play.usaultimate.org/events/2022-USA-Ultimate-South-Central-Grand-Masters-Mens-Regionals-/schedule/Men/grand-masters-men/",
+  "scrapedAt": "2026-08-28T10:06:18.215013Z",
+  "event": {
+    "name": "2022 USA Ultimate South Central Grand Masters Men's Regionals",
+    "division": "Grand Masters - Men ",
+    "gender": "",
+    "season": 2022,
+    "city": "Houston",
+    "state": "TX",
+    "country": "",
+    "startDate": "2022-06-11",
+    "endDate": "2022-06-12"
+  },
+  "teams": [
+    {
+      "name": "Johnny Walker",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Denver, Colorado",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "01",
+          "name": "Eric Albright"
+        },
+        {
+          "number": "02",
+          "name": "Charlie Stavlo"
+        },
+        {
+          "number": "04",
+          "name": "Lenny Correll"
+        },
+        {
+          "number": "05",
+          "name": "Keith Borsheim"
+        },
+        {
+          "number": "06",
+          "name": "David Bacci"
+        },
+        {
+          "number": "07",
+          "name": "Brian Carroll"
+        },
+        {
+          "number": "08",
+          "name": "Van Le"
+        },
+        {
+          "number": "09",
+          "name": "James Beeby"
+        },
+        {
+          "number": "10",
+          "name": "Aaron Moredock"
+        },
+        {
+          "number": "11",
+          "name": "Andrew Appell"
+        },
+        {
+          "number": "12",
+          "name": "Darin Delay"
+        },
+        {
+          "number": "13",
+          "name": "Mitchell Schminke"
+        },
+        {
+          "number": "15",
+          "name": "Theodore Tripoli"
+        },
+        {
+          "number": "16",
+          "name": "Steven Rouisse"
+        },
+        {
+          "number": "20",
+          "name": "Brian Bogle"
+        },
+        {
+          "number": "23",
+          "name": "Jeff Berget"
+        },
+        {
+          "number": "26",
+          "name": "Joe Iannacone"
+        },
+        {
+          "number": "28",
+          "name": "Louis Abramowski"
+        },
+        {
+          "number": "29",
+          "name": "Bob Krier"
+        },
+        {
+          "number": "30",
+          "name": "Michael Kapoor"
+        },
+        {
+          "number": "31",
+          "name": "Christopher Spittal"
+        },
+        {
+          "number": "32",
+          "name": "Kevin Walsh"
+        },
+        {
+          "number": "33",
+          "name": "Jamian Jacobs"
+        },
+        {
+          "number": "42",
+          "name": "Andrew Thompson"
+        },
+        {
+          "number": "47",
+          "name": "Jeff Rodgers"
+        },
+        {
+          "number": "52",
+          "name": "James (Jim) Schoettler"
+        },
+        {
+          "number": "77",
+          "name": "Kelly Swiryn"
+        },
+        {
+          "number": "99",
+          "name": "Scott Salvati"
+        }
+      ]
+    },
+    {
+      "name": "8-bit",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Dallas, Texas",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Brett Sidebottom"
+        },
+        {
+          "number": "00",
+          "name": "Jonathan Altschul"
+        },
+        {
+          "number": "03",
+          "name": "Young Byun"
+        },
+        {
+          "number": "05",
+          "name": "Corey Garrow"
+        },
+        {
+          "number": "06",
+          "name": "Michael Frenzel"
+        },
+        {
+          "number": "07",
+          "name": "Scott Warrington"
+        },
+        {
+          "number": "08",
+          "name": "Johnny Chang"
+        },
+        {
+          "number": "10",
+          "name": "Jonathan Gardner"
+        },
+        {
+          "number": "11",
+          "name": "Ken Ying"
+        },
+        {
+          "number": "13",
+          "name": "Jimmy Tseng"
+        },
+        {
+          "number": "17",
+          "name": "Michael Berman"
+        },
+        {
+          "number": "18",
+          "name": "Darrell Zook"
+        },
+        {
+          "number": "21",
+          "name": "Brian Mente"
+        },
+        {
+          "number": "23",
+          "name": "Yuee Ong"
+        },
+        {
+          "number": "29",
+          "name": "Tyson Hart"
+        },
+        {
+          "number": "33",
+          "name": "Eric Peacock"
+        },
+        {
+          "number": "41",
+          "name": "Delvin Kelly"
+        },
+        {
+          "number": "49",
+          "name": "Robert Rader"
+        },
+        {
+          "number": "77",
+          "name": "John Martin"
+        },
+        {
+          "number": "88",
+          "name": "Lawrence Liu"
+        },
+        {
+          "number": "99",
+          "name": "Matt Altschul"
+        }
+      ]
+    },
+    {
+      "name": "Bighorn",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Boulder, Colorado",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/bighornultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Benjamin Potash"
+        },
+        {
+          "number": "0",
+          "name": "Charles Stone"
+        },
+        {
+          "number": "0",
+          "name": "Gerald Chen"
+        },
+        {
+          "number": "0",
+          "name": "Jason Howard"
+        },
+        {
+          "number": "0",
+          "name": "Jordan Irvin"
+        },
+        {
+          "number": "0",
+          "name": "Joshua Wadsworth"
+        },
+        {
+          "number": "0",
+          "name": "Nick Voakes"
+        },
+        {
+          "number": "0",
+          "name": "Robert Borger"
+        },
+        {
+          "number": "0",
+          "name": "Steve Limburg"
+        },
+        {
+          "number": "06",
+          "name": "Tyson Nunemacher"
+        },
+        {
+          "number": "07",
+          "name": "Anshuman Boonapalli"
+        },
+        {
+          "number": "09",
+          "name": "Nathan Dauchy"
+        },
+        {
+          "number": "11",
+          "name": "Jake Frye"
+        },
+        {
+          "number": "12",
+          "name": "Nathan Speer"
+        },
+        {
+          "number": "13",
+          "name": "Jeffrey Kenney"
+        },
+        {
+          "number": "14",
+          "name": "Mike D'Onofrio"
+        },
+        {
+          "number": "18",
+          "name": "Pete Clapp"
+        },
+        {
+          "number": "23",
+          "name": "Gabe Hamilton"
+        },
+        {
+          "number": "25",
+          "name": "Aaron Leavy"
+        },
+        {
+          "number": "33",
+          "name": "Ernest Toney"
+        },
+        {
+          "number": "42",
+          "name": "Adam Verner"
+        },
+        {
+          "number": "43",
+          "name": "Yusuke Igarashi"
+        },
+        {
+          "number": "64",
+          "name": "Patrick Gilman"
+        },
+        {
+          "number": "71",
+          "name": "Ian McClellan"
+        },
+        {
+          "number": "75",
+          "name": "Stanley Strunk"
+        },
+        {
+          "number": "77",
+          "name": "Jimmy Donnellon"
+        },
+        {
+          "number": "89",
+          "name": "Ben Zeiger"
+        }
+      ]
+    },
+    {
+      "name": "Sick Hammers",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Austin/Houston, Texas",
+        "website": "",
+        "facebook": "",
+        "twitter": "@HammersSick"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": " ",
+          "name": "John Giacalone"
+        },
+        {
+          "number": " ",
+          "name": "Joshua Calhoun"
+        },
+        {
+          "number": " ",
+          "name": "Reagan Mayces"
+        },
+        {
+          "number": "0",
+          "name": "Robert Butler"
+        },
+        {
+          "number": "0",
+          "name": "Neal Edwards"
+        },
+        {
+          "number": "0",
+          "name": "William Gargroetzi"
+        },
+        {
+          "number": "0",
+          "name": "Shai Herman"
+        },
+        {
+          "number": "0",
+          "name": "Vev Yam"
+        },
+        {
+          "number": "0",
+          "name": "Victor Barchers"
+        },
+        {
+          "number": "0",
+          "name": "Jose Mora"
+        },
+        {
+          "number": "0",
+          "name": "Chris Johnson"
+        },
+        {
+          "number": "0",
+          "name": "Dan Wachter"
+        },
+        {
+          "number": "0",
+          "name": "Denis Carrizo"
+        },
+        {
+          "number": "0",
+          "name": "Erik Kosobud"
+        },
+        {
+          "number": "0",
+          "name": "Adam Tarr"
+        },
+        {
+          "number": "0",
+          "name": "Bernard Barcio"
+        },
+        {
+          "number": "16",
+          "name": "Rocky Payne"
+        },
+        {
+          "number": "18",
+          "name": "Michael Buratti"
+        },
+        {
+          "number": "21",
+          "name": "Joseph Alvarado"
+        },
+        {
+          "number": "26",
+          "name": "Mike Welch"
+        },
+        {
+          "number": "29",
+          "name": "Chris Mihalyi"
+        },
+        {
+          "number": "37",
+          "name": "Jody Ayers"
+        },
+        {
+          "number": "41",
+          "name": "Matthew Macdonald"
+        },
+        {
+          "number": "42",
+          "name": "Joseph Knize"
+        },
+        {
+          "number": "73",
+          "name": "Greg Lopp"
+        },
+        {
+          "number": "74",
+          "name": "Wayne Biever"
+        },
+        {
+          "number": "78",
+          "name": "Casey Spooner"
+        },
+        {
+          "number": "99",
+          "name": "Kevin Khristian Cosgriff Hernandez"
+        }
+      ]
+    },
+    {
+      "name": "VALHALLA",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Houston, Texas",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Chris Popeney"
+        },
+        {
+          "number": "0",
+          "name": "Chris Steigely"
+        },
+        {
+          "number": "0",
+          "name": "Derek Unger"
+        },
+        {
+          "number": "0",
+          "name": "Joaquin Lopez"
+        },
+        {
+          "number": "0",
+          "name": "Michael Porter"
+        },
+        {
+          "number": "0",
+          "name": "Reinaldo Garcia"
+        },
+        {
+          "number": "0",
+          "name": "Ted Behrens "
+        },
+        {
+          "number": "0",
+          "name": "Ted Willard"
+        },
+        {
+          "number": "0",
+          "name": "Will Smith"
+        },
+        {
+          "number": "00",
+          "name": "Caesar Martinez"
+        },
+        {
+          "number": "00",
+          "name": "Rommel Austria"
+        },
+        {
+          "number": "00",
+          "name": "Sean York"
+        },
+        {
+          "number": "00",
+          "name": "Stephen Vernon"
+        },
+        {
+          "number": "00",
+          "name": "Nick Park"
+        },
+        {
+          "number": "00",
+          "name": "Pedro Rivera"
+        },
+        {
+          "number": "00",
+          "name": "Eric Tanner"
+        },
+        {
+          "number": "00",
+          "name": "Fred Benitez"
+        },
+        {
+          "number": "00",
+          "name": "Jeremy Waters"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "GM Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "8-bit",
+              "team2": "VALHALLA",
+              "score1": 13,
+              "score2": 3,
+              "datetime": "2022-06-11T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Bighorn",
+              "team2": "Sick Hammers",
+              "score1": 10,
+              "score2": 8,
+              "datetime": "2022-06-11T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Johnny Walker",
+              "team2": "Sick Hammers",
+              "score1": 13,
+              "score2": 1,
+              "datetime": "2022-06-11T09:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Bighorn",
+              "team2": "8-bit",
+              "score1": 8,
+              "score2": 10,
+              "datetime": "2022-06-11T09:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Johnny Walker",
+              "team2": "VALHALLA",
+              "score1": 13,
+              "score2": 0,
+              "datetime": "2022-06-11T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Sick Hammers",
+              "team2": "8-bit",
+              "score1": 10,
+              "score2": 12,
+              "datetime": "2022-06-11T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Johnny Walker",
+              "team2": "8-bit",
+              "score1": 13,
+              "score2": 4,
+              "datetime": "2022-06-11T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Bighorn",
+              "team2": "VALHALLA",
+              "score1": 13,
+              "score2": 0,
+              "datetime": "2022-06-11T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Johnny Walker",
+              "team2": "Bighorn",
+              "score1": 13,
+              "score2": 6,
+              "datetime": "2022-06-12T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Sick Hammers",
+              "team2": "VALHALLA",
+              "score1": 13,
+              "score2": 2,
+              "datetime": "2022-06-12T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "GM Bracket Play",
+      "groups": [
+        {
+          "name": "GM 1st & 2nd Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Johnny Walker",
+              "team2": "Bighorn",
+              "score1": 13,
+              "score2": 2,
+              "datetime": "2022-06-12T23:30:00Z",
+              "round": "1st / 2nd",
+              "status": "Final"
+            },
+            {
+              "team1": "8-bit",
+              "team2": "Bighorn",
+              "score1": 0,
+              "score2": 1,
+              "datetime": "2022-06-12T09:45:00Z",
+              "round": "Round Name",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "3rd Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Sick Hammers",
+              "team2": "8-bit",
+              "score1": 8,
+              "score2": 9,
+              "datetime": "2022-06-12T23:30:00Z",
+              "round": "3rd / 4th",
+              "status": "Final"
+            },
+            {
+              "team1": "Sick Hammers",
+              "team2": "VALHALLA",
+              "score1": 1,
+              "score2": 0,
+              "datetime": "2022-06-12T09:45:00Z",
+              "round": "Round Name",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

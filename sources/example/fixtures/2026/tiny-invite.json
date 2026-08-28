@@ -1,0 +1,64 @@
+{
+  "name": "Tiny Invite",
+  "division": "Club - Mixed",
+  "city": "Example City",
+  "state": "EX",
+  "startDate": "2026-06-06",
+  "endDate": "2026-06-07",
+  "teams": [
+    {
+      "name": "Riverside Rovers",
+      "seed": 1,
+      "url": "https://example.org/teams/riverside-rovers",
+      "info": {
+        "nickname": "Rovers",
+        "location": "Riverside, EX",
+        "website": "https://riversiderovers.example.org",
+        "facebook": "",
+        "twitter": ""
+      },
+      "roster": [
+        { "number": "1", "name": "Alex Rivera" },
+        { "number": "2", "name": "Sam Storm" }
+      ]
+    },
+    {
+      "name": "Lakeside Legends",
+      "seed": 2,
+      "roster": [
+        { "number": "7", "name": "Jamie Lake" }
+      ]
+    }
+  ],
+  "pools": [
+    {
+      "name": "Pool A",
+      "games": [
+        {
+          "team1": "Riverside Rovers",
+          "team2": "Lakeside Legends",
+          "score1": 13,
+          "score2": 9,
+          "datetime": "2026-06-06T09:00:00",
+          "status": "Final"
+        }
+      ]
+    }
+  ],
+  "brackets": [
+    {
+      "name": "Championship Bracket",
+      "games": [
+        {
+          "team1": "Riverside Rovers",
+          "team2": "Lakeside Legends",
+          "score1": 15,
+          "score2": 12,
+          "datetime": "2026-06-07T10:00:00",
+          "round": "Final",
+          "status": "Final"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,319 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2014/North-New-England-Dev-College-Mens-CCCollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/North-New-England-Dev-College-Mens-CC/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:11.747006Z",
+  "event": {
+    "name": "North New England Dev College Men's CC 2014",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2014,
+    "city": "Brunswick",
+    "state": "ME",
+    "country": "",
+    "startDate": "2014-04-19",
+    "endDate": "2014-04-20"
+  },
+  "teams": [
+    {
+      "name": "Dartmouth (B)",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Discomfort Trolley",
+        "location": "Hanover, New Hampshire",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "JAMES KENNEDY"
+        },
+        {
+          "number": "0",
+          "name": "DANIEL SHANKER"
+        },
+        {
+          "number": "0",
+          "name": "Matt Mitman"
+        },
+        {
+          "number": "0",
+          "name": "STEFAN DEUTSCH"
+        },
+        {
+          "number": "0",
+          "name": "Osamu Fukuyama"
+        },
+        {
+          "number": "0",
+          "name": "BRENDAN NAGLE"
+        },
+        {
+          "number": "0",
+          "name": "JAMES HUANG"
+        },
+        {
+          "number": "0",
+          "name": "Zachary Kratochvil"
+        },
+        {
+          "number": "0",
+          "name": "Yesuto Shaw"
+        },
+        {
+          "number": "0",
+          "name": "HARRISON GATES"
+        },
+        {
+          "number": "7",
+          "name": "GOUTHAM KANDRU"
+        }
+      ]
+    },
+    {
+      "name": "New Hampshire (B)",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "New Hampshire B",
+        "location": "Durham, New Hampshire",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "04",
+          "name": "Charles Rickarby"
+        },
+        {
+          "number": "07",
+          "name": "Argus Murphy"
+        },
+        {
+          "number": "18",
+          "name": "Matthew McGinnis"
+        },
+        {
+          "number": "19",
+          "name": "MAXWELL RENKE"
+        },
+        {
+          "number": "42",
+          "name": "Jonathan  Dean"
+        },
+        {
+          "number": "44",
+          "name": "Daniel Del Tufo"
+        },
+        {
+          "number": "48",
+          "name": "DAMIAN WOODARD"
+        },
+        {
+          "number": "67",
+          "name": "Josh White"
+        },
+        {
+          "number": "93",
+          "name": "TREVOR KIEFABER"
+        },
+        {
+          "number": "97",
+          "name": "Chris Grinley"
+        }
+      ]
+    },
+    {
+      "name": "Colby (B)",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Dazzlin' Asses B",
+        "location": "Waterville, Maine",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Harry Park"
+        },
+        {
+          "number": "00",
+          "name": "Ryan Brandt"
+        },
+        {
+          "number": "00",
+          "name": "JOHN LYNCH"
+        },
+        {
+          "number": "00",
+          "name": "MICHAEL WEBBER"
+        },
+        {
+          "number": "00",
+          "name": "Jacob Adamson"
+        },
+        {
+          "number": "00",
+          "name": "ERNESTO AGUILAR-ARIZMENDI"
+        }
+      ]
+    },
+    {
+      "name": "Bowdoin (B)",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "B-Clown",
+        "location": "Silver Spring, Maryland",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Middlebury (B)",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Pranksters B",
+        "location": "Middlebury, Vermont",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Peter Huffman"
+        },
+        {
+          "number": "00",
+          "name": "JAMES RONAN"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Round Robin",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Dartmouth (B)",
+              "team2": "Bowdoin (B)",
+              "score1": 13,
+              "score2": 3,
+              "datetime": "2014-04-19T09:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Middlebury (B)",
+              "team2": "Colby (B)",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2014-04-19T09:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Dartmouth (B)",
+              "team2": "Middlebury (B)",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2014-04-19T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "New Hampshire (B)",
+              "team2": "Colby (B)",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2014-04-19T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Colby (B)",
+              "team2": "Bowdoin (B)",
+              "score1": 11,
+              "score2": 6,
+              "datetime": "2014-04-19T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "New Hampshire (B)",
+              "team2": "Middlebury (B)",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2014-04-19T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Dartmouth (B)",
+              "team2": "Colby (B)",
+              "score1": 13,
+              "score2": 6,
+              "datetime": "2014-04-19T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "New Hampshire (B)",
+              "team2": "Bowdoin (B)",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2014-04-19T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Dartmouth (B)",
+              "team2": "New Hampshire (B)",
+              "score1": 9,
+              "score2": 11,
+              "datetime": "2014-04-19T15:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Middlebury (B)",
+              "team2": "Bowdoin (B)",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2014-04-19T15:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

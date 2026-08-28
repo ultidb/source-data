@@ -1,0 +1,905 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2019/West-Penn-D-I-College-Mens-CC-2019CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/West-Penn-D-I-College-Mens-CC-2019/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:17.484835Z",
+  "event": {
+    "name": "West Penn D-I College Men's CC 2019",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2019,
+    "city": "Morgantown",
+    "state": "WV",
+    "country": "",
+    "startDate": "2019-04-13",
+    "endDate": "2019-04-14"
+  },
+  "teams": [
+    {
+      "name": "Pittsburgh",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "En Sabah Nur",
+        "location": "Pittsburgh, Pennsylvania",
+        "website": "http://pittultimate.org",
+        "facebook": "https://www.facebook.com/PittUltimate",
+        "twitter": "https://twitter.com/Pittultimate"
+      },
+      "coaches": [
+        "Christie Lawry",
+        "Nick Kaczmarek",
+        "Colin Conner"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Aiden Landis"
+        },
+        {
+          "number": "0",
+          "name": "Brian Ward"
+        },
+        {
+          "number": "0",
+          "name": "Myles Cooper"
+        },
+        {
+          "number": "0",
+          "name": "Will Helenski"
+        },
+        {
+          "number": "7",
+          "name": "Christopher Ng"
+        },
+        {
+          "number": "11",
+          "name": "Leo Warren"
+        },
+        {
+          "number": "12",
+          "name": "Kevin Tsui"
+        },
+        {
+          "number": "13",
+          "name": "Andrew Lehmberg"
+        },
+        {
+          "number": "17",
+          "name": "Matthew Hanna"
+        },
+        {
+          "number": "21",
+          "name": "Dillon Garrett"
+        },
+        {
+          "number": "21",
+          "name": "Noah Robinson"
+        },
+        {
+          "number": "24",
+          "name": "Will Hoffenkamp"
+        },
+        {
+          "number": "29",
+          "name": "Hafeez Shams"
+        },
+        {
+          "number": "33",
+          "name": "Max Thompson"
+        },
+        {
+          "number": "34",
+          "name": "Henry Ing"
+        },
+        {
+          "number": "35",
+          "name": "Dan Goldstein"
+        },
+        {
+          "number": "37",
+          "name": "Noah Weintraub"
+        },
+        {
+          "number": "41",
+          "name": "Harry McNamara"
+        },
+        {
+          "number": "42",
+          "name": "Ben Morgenstern"
+        },
+        {
+          "number": "47",
+          "name": "Marcel Oliart"
+        },
+        {
+          "number": "49",
+          "name": "Dan Nichols"
+        },
+        {
+          "number": "79",
+          "name": "Michael Ing"
+        },
+        {
+          "number": "84",
+          "name": "Alex Spenceley"
+        }
+      ]
+    },
+    {
+      "name": "Penn State",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Spank",
+        "location": "University Park, Pennsylvania",
+        "website": "http://clubs.psu.edu/up/ultimate/",
+        "facebook": "",
+        "twitter": "https://twitter.com/spank_ultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Casey Mann"
+        },
+        {
+          "number": "0",
+          "name": "Frank Lordi"
+        },
+        {
+          "number": "0",
+          "name": "Jack Rosenthal"
+        },
+        {
+          "number": "0",
+          "name": "Jeremy Olbum"
+        },
+        {
+          "number": "0",
+          "name": "Jonathan Peterson"
+        },
+        {
+          "number": "0",
+          "name": "Berk Uras"
+        },
+        {
+          "number": "0",
+          "name": "Joshua Kopasko"
+        },
+        {
+          "number": "0",
+          "name": "Kyle Larsen"
+        },
+        {
+          "number": "0",
+          "name": "Max Ramstad"
+        },
+        {
+          "number": "0",
+          "name": "Nicholas Santana"
+        },
+        {
+          "number": "0",
+          "name": "Ridge Bachman"
+        },
+        {
+          "number": "0",
+          "name": "Travis Terrell"
+        },
+        {
+          "number": "8",
+          "name": "Michael Dzelzgalvis "
+        },
+        {
+          "number": "10",
+          "name": "Lawson Fisher"
+        },
+        {
+          "number": "12",
+          "name": "Zach Laubscher"
+        },
+        {
+          "number": "15",
+          "name": "Joseph Snider"
+        },
+        {
+          "number": "19",
+          "name": "Fred Wolf"
+        },
+        {
+          "number": "22",
+          "name": "Tal Cohen"
+        },
+        {
+          "number": "23",
+          "name": "Ian Dietrich"
+        },
+        {
+          "number": "25",
+          "name": "Nate Long"
+        },
+        {
+          "number": "31",
+          "name": "Ryan Bullotta"
+        },
+        {
+          "number": "32",
+          "name": "Rob Davis"
+        },
+        {
+          "number": "36",
+          "name": "Boris Li"
+        },
+        {
+          "number": "72",
+          "name": "Nathaniel Donaher"
+        }
+      ]
+    },
+    {
+      "name": "Carnegie Mellon",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Mr. Yuk",
+        "location": "Pittsburgh, Pennsylvania",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/mryukultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "ADAM VILLAFLOR"
+        },
+        {
+          "number": "0",
+          "name": "Alden Pritchard"
+        },
+        {
+          "number": "0",
+          "name": "James Crews"
+        },
+        {
+          "number": "0",
+          "name": "Wyatt Brooks"
+        },
+        {
+          "number": "2",
+          "name": "Manav Anand"
+        },
+        {
+          "number": "2",
+          "name": "Ryan Hoffman"
+        },
+        {
+          "number": "3",
+          "name": "Kaizad Taraporevala"
+        },
+        {
+          "number": "5",
+          "name": "Scott Harvey-Arnold"
+        },
+        {
+          "number": "7",
+          "name": "Theo Gonzales-Tapley"
+        },
+        {
+          "number": "7",
+          "name": "Mani Jahani"
+        },
+        {
+          "number": "8",
+          "name": "Clifford Ressel"
+        },
+        {
+          "number": "9",
+          "name": "Kyle Jannak-Huang"
+        },
+        {
+          "number": "11",
+          "name": "Joel Miller"
+        },
+        {
+          "number": "12",
+          "name": "Eric Ricci"
+        },
+        {
+          "number": "12",
+          "name": "Foster Boales"
+        },
+        {
+          "number": "15",
+          "name": "Nick Amano"
+        },
+        {
+          "number": "17",
+          "name": "Jasper Tom"
+        },
+        {
+          "number": "20",
+          "name": "Peter Zaccardi"
+        },
+        {
+          "number": "26",
+          "name": "Ryan Harty"
+        },
+        {
+          "number": "29",
+          "name": "JJ McMonigal"
+        },
+        {
+          "number": "30",
+          "name": "ThomasJae Garcia"
+        },
+        {
+          "number": "35",
+          "name": "Alton Olson"
+        },
+        {
+          "number": "61",
+          "name": "Eric Li"
+        }
+      ]
+    },
+    {
+      "name": "Slippery Rock",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "SRU Lion Pride",
+        "location": "Slippery Rock, Pennsylvania",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Dennis Newton"
+        },
+        {
+          "number": "0",
+          "name": "Donivan Mouck"
+        },
+        {
+          "number": "0",
+          "name": "Dylan Forrester"
+        },
+        {
+          "number": "0",
+          "name": "Jett Craig"
+        },
+        {
+          "number": "0",
+          "name": "Lucas Saunders"
+        },
+        {
+          "number": "0",
+          "name": "Nathan Grande"
+        },
+        {
+          "number": "0",
+          "name": "Patrick Inman"
+        },
+        {
+          "number": "9",
+          "name": "Luke Pedersen"
+        },
+        {
+          "number": "10",
+          "name": "Matthew Rechenberg"
+        },
+        {
+          "number": "10",
+          "name": "Devon Lorance"
+        },
+        {
+          "number": "11",
+          "name": "Joseph Proper"
+        },
+        {
+          "number": "18",
+          "name": "Shane Johnson"
+        },
+        {
+          "number": "21",
+          "name": "Daiquan Skinner"
+        },
+        {
+          "number": "22",
+          "name": "William Davis"
+        },
+        {
+          "number": "26",
+          "name": "Martin Zender"
+        },
+        {
+          "number": "32",
+          "name": "Nicholas Carter"
+        },
+        {
+          "number": "66",
+          "name": "Eric Nero"
+        },
+        {
+          "number": "67",
+          "name": "John Taylor"
+        }
+      ]
+    },
+    {
+      "name": "Edinboro",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Haggis",
+        "location": "Edinboro, Pennsylvania",
+        "website": "",
+        "facebook": "https://www.facebook.com/HaggisUltimate/",
+        "twitter": "https://twitter.com/haggisultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "1",
+          "name": "Sarah Figueroa"
+        },
+        {
+          "number": "8",
+          "name": "Austin Derbis"
+        },
+        {
+          "number": "13",
+          "name": "Rebecca Manns"
+        },
+        {
+          "number": "14",
+          "name": "Josh Maifeld"
+        },
+        {
+          "number": "19",
+          "name": "Austin Jones"
+        },
+        {
+          "number": "25",
+          "name": "Robbie Matan"
+        },
+        {
+          "number": "33",
+          "name": "Troy Beauchat"
+        },
+        {
+          "number": "42",
+          "name": "Edward Reash"
+        },
+        {
+          "number": "74",
+          "name": "Joseph Honeychuck"
+        },
+        {
+          "number": "88",
+          "name": "Peter Bridges"
+        }
+      ]
+    },
+    {
+      "name": "West Virginia",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "WV Wild",
+        "location": "Rising Sun, Maryland",
+        "website": "",
+        "facebook": "https://www.facebook.com/WVUltimate",
+        "twitter": "https://twitter.com/WVUltimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Austin Lubak"
+        },
+        {
+          "number": "0",
+          "name": "George Cupp"
+        },
+        {
+          "number": "0",
+          "name": "Ian Spencer"
+        },
+        {
+          "number": "0",
+          "name": "Jackson Schwind"
+        },
+        {
+          "number": "0",
+          "name": "Kevin  Chegwidden"
+        },
+        {
+          "number": "0",
+          "name": "Michael Bittermann"
+        },
+        {
+          "number": "0",
+          "name": "Rob Rago"
+        },
+        {
+          "number": "5",
+          "name": "Justin Lee"
+        },
+        {
+          "number": "7",
+          "name": "Milo Levine"
+        },
+        {
+          "number": "11",
+          "name": "Ian Vilevac"
+        },
+        {
+          "number": "15",
+          "name": "Charles Moncure"
+        },
+        {
+          "number": "21",
+          "name": "Patrick Opitz"
+        },
+        {
+          "number": "22",
+          "name": "Ian  Bradford"
+        },
+        {
+          "number": "23",
+          "name": "Nicholas Lathem"
+        },
+        {
+          "number": "26",
+          "name": "Adam Parrett"
+        },
+        {
+          "number": "27",
+          "name": "Joe Fisher"
+        },
+        {
+          "number": "33",
+          "name": "Kyle Sullivan"
+        },
+        {
+          "number": "42",
+          "name": "Nicholas Baratian"
+        },
+        {
+          "number": "66",
+          "name": "Daniel Beyer"
+        }
+      ]
+    },
+    {
+      "name": "Indiana (Pennsylvania)",
+      "seed": 7,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Fighting Squirrels",
+        "location": "Indiana, Pennsylvania",
+        "website": "",
+        "facebook": "https://www.facebook.com/IUP-Ultimate-137949985660/timeline/?ref=aymt_homepage_panel",
+        "twitter": "https://twitter.com/IUPUltimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alec Martin"
+        },
+        {
+          "number": "0",
+          "name": "Alec Petrosky"
+        },
+        {
+          "number": "0",
+          "name": "Dylan Bolind"
+        },
+        {
+          "number": "0",
+          "name": "Eric Johnson"
+        },
+        {
+          "number": "0",
+          "name": "Kenneth Trush"
+        },
+        {
+          "number": "0",
+          "name": "Matthew Pirollo"
+        },
+        {
+          "number": "0",
+          "name": "Zachary  Moore"
+        },
+        {
+          "number": "2",
+          "name": "Kyle Varone"
+        },
+        {
+          "number": "9",
+          "name": "Devin Givens"
+        },
+        {
+          "number": "21",
+          "name": "Marc Esteban"
+        },
+        {
+          "number": "55",
+          "name": "Jeremy Metzger"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Edinboro",
+              "team2": "Slippery Rock",
+              "score1": 8,
+              "score2": 15,
+              "datetime": "2019-04-13T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Carnegie Mellon",
+              "team2": "Indiana (Pennsylvania)",
+              "score1": 15,
+              "score2": 3,
+              "datetime": "2019-04-13T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Penn State",
+              "team2": "West Virginia",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2019-04-13T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Pittsburgh",
+              "team2": "West Virginia",
+              "score1": 15,
+              "score2": 1,
+              "datetime": "2019-04-13T10:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Carnegie Mellon",
+              "team2": "Slippery Rock",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2019-04-13T10:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Penn State",
+              "team2": "Indiana (Pennsylvania)",
+              "score1": 15,
+              "score2": 3,
+              "datetime": "2019-04-13T10:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Pittsburgh",
+              "team2": "Carnegie Mellon",
+              "score1": 13,
+              "score2": 9,
+              "datetime": "2019-04-13T12:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Edinboro",
+              "team2": "Indiana (Pennsylvania)",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2019-04-13T12:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Penn State",
+              "team2": "Slippery Rock",
+              "score1": 11,
+              "score2": 5,
+              "datetime": "2019-04-13T12:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Pittsburgh",
+              "team2": "Edinboro",
+              "score1": 15,
+              "score2": 0,
+              "datetime": "2019-04-13T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Carnegie Mellon",
+              "team2": "Penn State",
+              "score1": 10,
+              "score2": 11,
+              "datetime": "2019-04-13T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "West Virginia",
+              "team2": "Slippery Rock",
+              "score1": 10,
+              "score2": 6,
+              "datetime": "2019-04-13T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Pittsburgh",
+              "team2": "Indiana (Pennsylvania)",
+              "score1": 15,
+              "score2": 2,
+              "datetime": "2019-04-13T15:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "West Virginia",
+              "team2": "Edinboro",
+              "score1": 6,
+              "score2": 14,
+              "datetime": "2019-04-13T15:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Slippery Rock",
+              "team2": "Indiana (Pennsylvania)",
+              "score1": 14,
+              "score2": 6,
+              "datetime": "2019-04-14T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Pittsburgh",
+              "team2": "Penn State",
+              "score1": 13,
+              "score2": 10,
+              "datetime": "2019-04-14T09:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Carnegie Mellon",
+              "team2": "Edinboro",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2019-04-14T09:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "West Virginia",
+              "team2": "Indiana (Pennsylvania)",
+              "score1": 13,
+              "score2": 7,
+              "datetime": "2019-04-14T09:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Pittsburgh",
+              "team2": "Slippery Rock",
+              "score1": 15,
+              "score2": 1,
+              "datetime": "2019-04-14T11:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Carnegie Mellon",
+              "team2": "West Virginia",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2019-04-14T11:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Penn State",
+              "team2": "Edinboro",
+              "score1": 15,
+              "score2": 3,
+              "datetime": "2019-04-14T11:20:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Bracket Play",
+      "groups": [
+        {
+          "name": "1st Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Pittsburgh",
+              "team2": "Penn State",
+              "score1": 15,
+              "score2": 6,
+              "datetime": "2019-04-14T13:00:00Z",
+              "round": "1st Place Finals",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "3rd Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Carnegie Mellon",
+              "team2": "Edinboro",
+              "score1": 12,
+              "score2": 2,
+              "datetime": "2019-04-14T14:40:00Z",
+              "round": "3rd Place Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Carnegie Mellon",
+              "team2": "West Virginia",
+              "score1": 7,
+              "score2": 0,
+              "datetime": "2019-04-14T13:00:00Z",
+              "round": "3rd Place Semis",
+              "status": "Final"
+            },
+            {
+              "team1": "Slippery Rock",
+              "team2": "Edinboro",
+              "score1": 10,
+              "score2": 14,
+              "datetime": "2019-04-14T13:00:00Z",
+              "round": "3rd Place Semis",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

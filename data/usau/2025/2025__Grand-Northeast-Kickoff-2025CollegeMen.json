@@ -1,0 +1,981 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2025/Grand-Northeast-Kickoff-2025CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/Grand-Northeast-Kickoff-2025/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:21.597230Z",
+  "event": {
+    "name": "Grand Northeast Kickoff 2025",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2025,
+    "city": "Granby",
+    "state": "MA",
+    "country": "",
+    "startDate": "2025-03-08",
+    "endDate": "2025-03-09"
+  },
+  "teams": [
+    {
+      "name": "Bates",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Orange Whip",
+        "location": "Lewiston, Maine",
+        "website": "https://sites.google.com/bates.edu/batescollegeorangewhip/home",
+        "facebook": "",
+        "twitter": "https://twitter.com/bateso_whip?lang=en"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Joaquin Torres"
+        },
+        {
+          "number": "0",
+          "name": "Levi Lux"
+        },
+        {
+          "number": "0",
+          "name": "Luca Norquist"
+        },
+        {
+          "number": "0",
+          "name": "Mark Steinnagel Taylor"
+        },
+        {
+          "number": "0",
+          "name": "Matt Riseman"
+        },
+        {
+          "number": "0",
+          "name": "Sam Debush"
+        },
+        {
+          "number": "4",
+          "name": "Finn Sheehy"
+        },
+        {
+          "number": "7",
+          "name": "Quinn Frank"
+        },
+        {
+          "number": "10",
+          "name": "Marco Willen"
+        },
+        {
+          "number": "11",
+          "name": "Miles Miller"
+        },
+        {
+          "number": "13",
+          "name": "Owen Haddad"
+        },
+        {
+          "number": "15",
+          "name": "Thomas Davis"
+        },
+        {
+          "number": "19",
+          "name": "Daniel Snider"
+        },
+        {
+          "number": "21",
+          "name": "Eric Treyz"
+        },
+        {
+          "number": "42",
+          "name": "Noah Edmonds-Estes"
+        },
+        {
+          "number": "71",
+          "name": "Benjamin Sparks"
+        },
+        {
+          "number": "72",
+          "name": "Aidan Stark-Chessa"
+        },
+        {
+          "number": "73",
+          "name": "Wade Intrator"
+        },
+        {
+          "number": "99",
+          "name": "Zach Van Dusen"
+        }
+      ]
+    },
+    {
+      "name": "Northeastern (B)",
+      "seed": 7,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Beastern",
+        "location": "Boston, Massachusetts",
+        "website": "http://www.ultimate.neu.edu",
+        "facebook": "https://www.facebook.com/NUMensUltimate",
+        "twitter": "https://twitter.com/NUMensUltimate"
+      },
+      "coaches": [
+        "Benjamin Centracchio",
+        "Logan Reimbold-Thomas"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Austin Weiss"
+        },
+        {
+          "number": "0",
+          "name": "Benjamin Marler"
+        },
+        {
+          "number": "0",
+          "name": "Dev Shah"
+        },
+        {
+          "number": "0",
+          "name": "Devin Mitchell"
+        },
+        {
+          "number": "0",
+          "name": "George  Knapick"
+        },
+        {
+          "number": "0",
+          "name": "Hui Wang"
+        },
+        {
+          "number": "0",
+          "name": "Karsten Lin"
+        },
+        {
+          "number": "0",
+          "name": "Kavi McKinney"
+        },
+        {
+          "number": "0",
+          "name": "Matthew Wang"
+        },
+        {
+          "number": "0",
+          "name": "Roberto Reinoso"
+        },
+        {
+          "number": "0",
+          "name": "Santiago Hernandez"
+        },
+        {
+          "number": "0",
+          "name": "Sean Wilson"
+        },
+        {
+          "number": "0",
+          "name": "Tyler Goldner"
+        },
+        {
+          "number": "0",
+          "name": "Vinay Venkatesh"
+        },
+        {
+          "number": "0",
+          "name": "Will Boozang"
+        },
+        {
+          "number": "0",
+          "name": "Winston Prescott"
+        },
+        {
+          "number": "0",
+          "name": "Oscar Wilmerding"
+        },
+        {
+          "number": "0",
+          "name": "Peter Hunt"
+        },
+        {
+          "number": "3",
+          "name": "Evan Hostetler"
+        },
+        {
+          "number": "10",
+          "name": "Philip Warren"
+        },
+        {
+          "number": "22",
+          "name": "Chris Zhang"
+        },
+        {
+          "number": "31",
+          "name": "Matthew Rock"
+        },
+        {
+          "number": "33",
+          "name": "Bennett Hartley"
+        }
+      ]
+    },
+    {
+      "name": "Brown (B)",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Brown - B",
+        "location": "Providence, Rhode Island",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/PFunkUltimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Bryce Jacobs"
+        },
+        {
+          "number": "0",
+          "name": "Caleb Stutman-Shaw"
+        },
+        {
+          "number": "0",
+          "name": "Charles Lebwohl"
+        },
+        {
+          "number": "0",
+          "name": "Ibrahim Mohammed"
+        },
+        {
+          "number": "0",
+          "name": "Ishan Khurana"
+        },
+        {
+          "number": "0",
+          "name": "Jackson Ho"
+        },
+        {
+          "number": "0",
+          "name": "Kyan Frantz"
+        },
+        {
+          "number": "0",
+          "name": "Maximilian Koehler"
+        },
+        {
+          "number": "0",
+          "name": "Oscar King"
+        },
+        {
+          "number": "0",
+          "name": "Owen Harris"
+        },
+        {
+          "number": "0",
+          "name": "Phillip Meader Yetter"
+        },
+        {
+          "number": "0",
+          "name": "Raymond Kao"
+        },
+        {
+          "number": "0",
+          "name": "Sam Bradley"
+        },
+        {
+          "number": "0",
+          "name": "Sylvan Maggiotto"
+        },
+        {
+          "number": "0",
+          "name": "Takeru Katayama"
+        },
+        {
+          "number": "0",
+          "name": "Tej Tummala"
+        },
+        {
+          "number": "34",
+          "name": "Muyu Ye"
+        }
+      ]
+    },
+    {
+      "name": "Colby",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Men's",
+        "location": "Waterville, Maine",
+        "website": "http://web.colby.edu/ultimate/",
+        "facebook": "",
+        "twitter": "https://twitter.com/cdc_ultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alex Solano"
+        },
+        {
+          "number": "0",
+          "name": "Baker Celis"
+        },
+        {
+          "number": "0",
+          "name": "Ben Kaiser-Bulmash"
+        },
+        {
+          "number": "0",
+          "name": "Edward Burdick"
+        },
+        {
+          "number": "0",
+          "name": "Henry Landay"
+        },
+        {
+          "number": "0",
+          "name": "Jackson Koetje"
+        },
+        {
+          "number": "0",
+          "name": "Jakob de Swaan Arons"
+        },
+        {
+          "number": "0",
+          "name": "Jonah Keates"
+        },
+        {
+          "number": "0",
+          "name": "Jonathan Tupaj"
+        },
+        {
+          "number": "0",
+          "name": "Max Durand-Morris"
+        },
+        {
+          "number": "0",
+          "name": "Phineas Fawer"
+        },
+        {
+          "number": "0",
+          "name": "Rhodes Martinez"
+        },
+        {
+          "number": "0",
+          "name": "Sjoen Munk"
+        },
+        {
+          "number": "0",
+          "name": "Thomas Tibbetts"
+        },
+        {
+          "number": "0",
+          "name": "Tim Sandin"
+        },
+        {
+          "number": "0",
+          "name": "Tucker Reinhard"
+        },
+        {
+          "number": "3",
+          "name": "Sam Skiffington"
+        },
+        {
+          "number": "6",
+          "name": "Cogan Lawler"
+        },
+        {
+          "number": "13",
+          "name": "Jacob Tjaden"
+        },
+        {
+          "number": "21",
+          "name": "Cam Savory"
+        },
+        {
+          "number": "24",
+          "name": "Joseph  Grassi"
+        },
+        {
+          "number": "56",
+          "name": "Edward Wu"
+        }
+      ]
+    },
+    {
+      "name": "Amherst",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Army of Darkness",
+        "location": "Amherst, Massachusetts",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Brandon Um"
+        },
+        {
+          "number": "0",
+          "name": "Darius Mehta"
+        },
+        {
+          "number": "0",
+          "name": "Drew Weisgerber"
+        },
+        {
+          "number": "0",
+          "name": "Ellis Burwell"
+        },
+        {
+          "number": "0",
+          "name": "Gabriel Day-O'Connell"
+        },
+        {
+          "number": "0",
+          "name": "Galen Stewart"
+        },
+        {
+          "number": "0",
+          "name": "George Davis-Diver"
+        },
+        {
+          "number": "0",
+          "name": "Gerry Alexandre"
+        },
+        {
+          "number": "0",
+          "name": "Guanhua Chen"
+        },
+        {
+          "number": "0",
+          "name": "Jiaji Zhang"
+        },
+        {
+          "number": "0",
+          "name": "Kevin Hoff"
+        },
+        {
+          "number": "0",
+          "name": "Luke Kline"
+        },
+        {
+          "number": "0",
+          "name": "Max Feigelson"
+        },
+        {
+          "number": "0",
+          "name": "Max Aronson"
+        },
+        {
+          "number": "0",
+          "name": "Oscar Jemison-Blais"
+        },
+        {
+          "number": "0",
+          "name": "Richard Lin"
+        },
+        {
+          "number": "0",
+          "name": "Siddh Agarwal"
+        },
+        {
+          "number": "0",
+          "name": "Isaac Poe"
+        },
+        {
+          "number": "0",
+          "name": "James Desmond"
+        },
+        {
+          "number": "3",
+          "name": "Vaughn Armour"
+        },
+        {
+          "number": "12",
+          "name": "Declan Sullivan-Flynn"
+        },
+        {
+          "number": "22",
+          "name": "Thomas O'Connor"
+        },
+        {
+          "number": "24",
+          "name": "Jesse Lebolt"
+        },
+        {
+          "number": "32",
+          "name": "Harrison Lundy"
+        },
+        {
+          "number": "44",
+          "name": "Dylan Tucker"
+        },
+        {
+          "number": "64",
+          "name": "Anthony Saldana Valle"
+        }
+      ]
+    },
+    {
+      "name": "New Hampshire",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "New Hampshire Ultimate Team",
+        "location": "Durham, New Hampshire",
+        "website": "",
+        "facebook": "https://www.facebook.com/pages/UNH-Ultimate-Frisbee/251565538705",
+        "twitter": "twitter.com/unhultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Ian Cook"
+        },
+        {
+          "number": "0",
+          "name": "Ian Manning"
+        },
+        {
+          "number": "0",
+          "name": "Keegan Peet"
+        },
+        {
+          "number": "0",
+          "name": "Matt Conte"
+        },
+        {
+          "number": "0",
+          "name": "Michael Spearman"
+        },
+        {
+          "number": "0",
+          "name": "Michael Goldstein"
+        },
+        {
+          "number": "0",
+          "name": "Michael Schatvet"
+        },
+        {
+          "number": "0",
+          "name": "Tim Murphy"
+        },
+        {
+          "number": "0",
+          "name": "Timmy Tran"
+        },
+        {
+          "number": "0",
+          "name": "Tucker Hadwen"
+        },
+        {
+          "number": "0",
+          "name": "Weston Bartlett"
+        },
+        {
+          "number": "0",
+          "name": "William Cleaveland"
+        },
+        {
+          "number": "0",
+          "name": "Brett Schultz"
+        },
+        {
+          "number": "0",
+          "name": "Cael Soto-Brouillard"
+        },
+        {
+          "number": "0",
+          "name": "Donovan Somma"
+        },
+        {
+          "number": "0",
+          "name": "Gavin  Westfall "
+        },
+        {
+          "number": "17",
+          "name": "Hayden Anderson"
+        },
+        {
+          "number": "52",
+          "name": "Gabriel Rhodes"
+        },
+        {
+          "number": "90",
+          "name": "Andrew Pericat"
+        }
+      ]
+    },
+    {
+      "name": "Middlebury (B)",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Branksters",
+        "location": "Middlebury, Vermont",
+        "website": "https://go.middlebury.edu/prankstersultimate",
+        "facebook": "https://www.facebook.com/MiddleburyPranksters",
+        "twitter": "https://twitter.com/Branksters69"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Adam Burchell"
+        },
+        {
+          "number": "0",
+          "name": "Adrian Toland"
+        },
+        {
+          "number": "0",
+          "name": "Aidan Garcia"
+        },
+        {
+          "number": "0",
+          "name": "Anthony Pezza"
+        },
+        {
+          "number": "0",
+          "name": "Ben Walker"
+        },
+        {
+          "number": "0",
+          "name": "Charles Witter"
+        },
+        {
+          "number": "0",
+          "name": "Chris Clyne"
+        },
+        {
+          "number": "0",
+          "name": "David Hixon"
+        },
+        {
+          "number": "0",
+          "name": "Eric Asherman"
+        },
+        {
+          "number": "0",
+          "name": "Evan Yurko"
+        },
+        {
+          "number": "0",
+          "name": "Kieran Cross"
+        },
+        {
+          "number": "0",
+          "name": "Max Blumenthal"
+        },
+        {
+          "number": "0",
+          "name": "Maxwell Tankersley"
+        },
+        {
+          "number": "0",
+          "name": "Nathaniel Rubens Goldfarb"
+        },
+        {
+          "number": "0",
+          "name": "Nathaniel Belman"
+        },
+        {
+          "number": "0",
+          "name": "Paul Minock"
+        },
+        {
+          "number": "0",
+          "name": "Quinn Riordan"
+        },
+        {
+          "number": "0",
+          "name": "Riley Foushee"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Carron"
+        },
+        {
+          "number": "0",
+          "name": "Seamus Flannery"
+        },
+        {
+          "number": "0",
+          "name": "Theodore Howard"
+        },
+        {
+          "number": "0",
+          "name": "Thomas Walsh"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Round Robin",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Middlebury (B)",
+              "team2": "Amherst",
+              "score1": 0,
+              "score2": 12,
+              "datetime": "2025-03-08T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Bates",
+              "team2": "Northeastern (B)",
+              "score1": 8,
+              "score2": 5,
+              "datetime": "2025-03-08T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Brown (B)",
+              "team2": "Colby",
+              "score1": 8,
+              "score2": 4,
+              "datetime": "2025-03-08T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Bates",
+              "team2": "Colby",
+              "score1": 5,
+              "score2": 6,
+              "datetime": "2025-03-08T10:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "New Hampshire",
+              "team2": "Amherst",
+              "score1": 1,
+              "score2": 8,
+              "datetime": "2025-03-08T10:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Brown (B)",
+              "team2": "Northeastern (B)",
+              "score1": 4,
+              "score2": 7,
+              "datetime": "2025-03-08T10:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Bates",
+              "team2": "New Hampshire",
+              "score1": 9,
+              "score2": 0,
+              "datetime": "2025-03-08T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Middlebury (B)",
+              "team2": "Northeastern (B)",
+              "score1": 0,
+              "score2": 11,
+              "datetime": "2025-03-08T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Brown (B)",
+              "team2": "Amherst",
+              "score1": 5,
+              "score2": 4,
+              "datetime": "2025-03-08T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Bates",
+              "team2": "Middlebury (B)",
+              "score1": 13,
+              "score2": 0,
+              "datetime": "2025-03-08T13:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Colby",
+              "team2": "Amherst",
+              "score1": 8,
+              "score2": 2,
+              "datetime": "2025-03-08T13:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "New Hampshire",
+              "team2": "Northeastern (B)",
+              "score1": 1,
+              "score2": 10,
+              "datetime": "2025-03-08T13:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "New Hampshire",
+              "team2": "Brown (B)",
+              "score1": 1,
+              "score2": 10,
+              "datetime": "2025-03-09T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Colby",
+              "team2": "Middlebury (B)",
+              "score1": 12,
+              "score2": 3,
+              "datetime": "2025-03-09T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Amherst",
+              "team2": "Northeastern (B)",
+              "score1": 4,
+              "score2": 8,
+              "datetime": "2025-03-09T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Bates",
+              "team2": "Brown (B)",
+              "score1": 8,
+              "score2": 5,
+              "datetime": "2025-03-09T10:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "New Hampshire",
+              "team2": "Middlebury (B)",
+              "score1": 8,
+              "score2": 5,
+              "datetime": "2025-03-09T10:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Colby",
+              "team2": "Northeastern (B)",
+              "score1": 7,
+              "score2": 8,
+              "datetime": "2025-03-09T10:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Bates",
+              "team2": "Amherst",
+              "score1": 9,
+              "score2": 7,
+              "datetime": "2025-03-09T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "New Hampshire",
+              "team2": "Colby",
+              "score1": 4,
+              "score2": 11,
+              "datetime": "2025-03-09T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Brown (B)",
+              "team2": "Middlebury (B)",
+              "score1": 13,
+              "score2": 0,
+              "datetime": "2025-03-09T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Playoffs",
+      "groups": [
+        {
+          "name": "First place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Bates",
+              "team2": "Northeastern (B)",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2025-03-09T13:30:00Z",
+              "round": "1",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Third Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Brown (B)",
+              "team2": "Colby",
+              "score1": 5,
+              "score2": 15,
+              "datetime": "2025-03-09T13:30:00Z",
+              "round": "3",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "5th Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Amherst",
+              "team2": "New Hampshire",
+              "score1": 9,
+              "score2": 3,
+              "datetime": "2025-03-09T01:30:00Z",
+              "round": "5",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

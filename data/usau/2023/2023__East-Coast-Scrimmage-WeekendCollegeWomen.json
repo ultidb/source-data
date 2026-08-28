@@ -1,0 +1,532 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2023/East-Coast-Scrimmage-WeekendCollegeWomen",
+  "sourceUrl": "https://play.usaultimate.org/events/East-Coast-Scrimmage-Weekend/schedule/Women/CollegeWomen/",
+  "scrapedAt": "2026-08-28T10:06:19.448017Z",
+  "event": {
+    "name": "East Coast Scrimmage Weekend 2023",
+    "division": "College - Women ",
+    "gender": "",
+    "season": 2023,
+    "city": "Ardmore",
+    "state": "PA",
+    "country": "",
+    "startDate": "2023-04-01",
+    "endDate": "2023-04-02"
+  },
+  "teams": [
+    {
+      "name": "Vermont",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Ruckus",
+        "location": "Burlington , Vermont",
+        "website": "",
+        "facebook": "https://www.facebook.com/UVMRuckus/",
+        "twitter": "https://twitter.com/ruckusultimate"
+      },
+      "coaches": [
+        "Daron Byerly",
+        "Sara Jacobi"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Ashley Schlinger"
+        },
+        {
+          "number": "0",
+          "name": "Dylan Wilcox"
+        },
+        {
+          "number": "0",
+          "name": "Isabel Berman"
+        },
+        {
+          "number": "0",
+          "name": "Lauren Clayter"
+        },
+        {
+          "number": "0",
+          "name": "Mae Browning"
+        },
+        {
+          "number": "2",
+          "name": "Lucinda Toppen"
+        },
+        {
+          "number": "5",
+          "name": "Mikaela Luke-Currier"
+        },
+        {
+          "number": "12",
+          "name": "Leah Silverman"
+        },
+        {
+          "number": "14",
+          "name": "Caroline Stone"
+        },
+        {
+          "number": "16",
+          "name": "Sophia Nolan"
+        },
+        {
+          "number": "17",
+          "name": "Riley Knupp"
+        },
+        {
+          "number": "19",
+          "name": "Marina Godley-Fisher"
+        },
+        {
+          "number": "21",
+          "name": "Alexandra Greer"
+        },
+        {
+          "number": "22",
+          "name": "Reilly Wells"
+        },
+        {
+          "number": "26",
+          "name": "Nadia Scoppettone"
+        },
+        {
+          "number": "33",
+          "name": "Sophie Acker"
+        },
+        {
+          "number": "36",
+          "name": "Lucia McCallum"
+        },
+        {
+          "number": "44",
+          "name": "Emily Pozzy"
+        },
+        {
+          "number": "44",
+          "name": "Sarah VonDoepp"
+        },
+        {
+          "number": "47",
+          "name": "Izzy Pitman"
+        },
+        {
+          "number": "77",
+          "name": "Kennedy McCarthy"
+        }
+      ]
+    },
+    {
+      "name": "Tufts",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Elephant Women",
+        "location": "Somerville, Massachusetts",
+        "website": "https://www.instagram.com/tuftsewo/",
+        "facebook": "https://www.facebook.com/tuftsewo/",
+        "twitter": "https://twitter.com/ewonews"
+      },
+      "coaches": [
+        "Meriden Estes",
+        "Sangwha Hong",
+        "Megan Wilson",
+        "Margaret Pendleton"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Brooke Chomko"
+        },
+        {
+          "number": "0",
+          "name": "Carolynn Brooks"
+        },
+        {
+          "number": "0",
+          "name": "Cindy Zhang"
+        },
+        {
+          "number": "0",
+          "name": "Emily Kemp"
+        },
+        {
+          "number": "0",
+          "name": "Hazel Ostrowski"
+        },
+        {
+          "number": "0",
+          "name": "Katherine Lew"
+        },
+        {
+          "number": "0",
+          "name": "Leija Helling"
+        },
+        {
+          "number": "0",
+          "name": "Megan Mathieu"
+        },
+        {
+          "number": "0",
+          "name": "Megan Lam"
+        },
+        {
+          "number": "0",
+          "name": "Michelle Wu"
+        },
+        {
+          "number": "0",
+          "name": "Morgan Owens"
+        },
+        {
+          "number": "0",
+          "name": "Rachel Levitt"
+        },
+        {
+          "number": "0",
+          "name": "Ryanne Barrett"
+        },
+        {
+          "number": "0",
+          "name": "Sadie  Schmitz"
+        },
+        {
+          "number": "0",
+          "name": "Sofia Grose"
+        },
+        {
+          "number": "0",
+          "name": "Sophie Hankin"
+        },
+        {
+          "number": "5",
+          "name": "Dorothy DiMascio-Donohue"
+        },
+        {
+          "number": "9",
+          "name": "Ariel Felcan"
+        },
+        {
+          "number": "22",
+          "name": "Olivia Goss"
+        },
+        {
+          "number": "27",
+          "name": "Yayla Tur"
+        },
+        {
+          "number": "45",
+          "name": "Elizabeth Kowalski"
+        },
+        {
+          "number": "99",
+          "name": "Lia Yamamoto Schwartz"
+        }
+      ]
+    },
+    {
+      "name": "North Carolina",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Pleiades",
+        "location": "Chapel Hill, North Carolina",
+        "website": "http://www.uncpleiades.com",
+        "facebook": "https://www.facebook.com/unc.pleiades/",
+        "twitter": "https://twitter.com/UNC_Pleiades/"
+      },
+      "coaches": [
+        "Jessica Jones",
+        "Anne Worth",
+        "Mary Rippe"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Abigail Stevens"
+        },
+        {
+          "number": "0",
+          "name": "Allison Reilly"
+        },
+        {
+          "number": "0",
+          "name": "Caroline Spencer"
+        },
+        {
+          "number": "0",
+          "name": "Catherine Fradenburg"
+        },
+        {
+          "number": "0",
+          "name": "Dhara Buebel"
+        },
+        {
+          "number": "0",
+          "name": "Ella Juengst"
+        },
+        {
+          "number": "0",
+          "name": "Emily Przykucki"
+        },
+        {
+          "number": "0",
+          "name": "Emily Benson-Tyler"
+        },
+        {
+          "number": "0",
+          "name": "Erica Birdsong"
+        },
+        {
+          "number": "0",
+          "name": "Kailyn Lowder"
+        },
+        {
+          "number": "0",
+          "name": "Martha Plaehn"
+        },
+        {
+          "number": "0",
+          "name": "Rachel Gordon"
+        },
+        {
+          "number": "0",
+          "name": "Sarah Combs"
+        },
+        {
+          "number": "0",
+          "name": "Selena Kleber"
+        },
+        {
+          "number": "0",
+          "name": "Sonia Rao"
+        },
+        {
+          "number": "0",
+          "name": "Sydney Rehder"
+        },
+        {
+          "number": "0",
+          "name": "Theresa Yu"
+        },
+        {
+          "number": "0",
+          "name": "Isabel Myers-Miller"
+        },
+        {
+          "number": "1",
+          "name": "Grace Conerly"
+        },
+        {
+          "number": "2",
+          "name": "Alexandra Evans"
+        },
+        {
+          "number": "6",
+          "name": "Claudia Dare"
+        },
+        {
+          "number": "11",
+          "name": "Dawn Culton"
+        },
+        {
+          "number": "25",
+          "name": "Rachel Yao"
+        },
+        {
+          "number": "34",
+          "name": "Alexandra Barnett"
+        },
+        {
+          "number": "38",
+          "name": "Jessica Wu"
+        },
+        {
+          "number": "54",
+          "name": "Alex Hecht"
+        }
+      ]
+    },
+    {
+      "name": "Yale",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Ramona",
+        "location": "New Haven, Connecticut",
+        "website": "http://www.yale.edu/ramona",
+        "facebook": "https://www.facebook.com/yaleramona",
+        "twitter": "https://twitter.com/yaleramona"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Caroline Sun"
+        },
+        {
+          "number": "0",
+          "name": "Cosima Deetman"
+        },
+        {
+          "number": "0",
+          "name": "Destiny Montero "
+        },
+        {
+          "number": "0",
+          "name": "Abigail Leighton"
+        },
+        {
+          "number": "0",
+          "name": "Ellie Mamantov"
+        },
+        {
+          "number": "0",
+          "name": "Felicia Zheng"
+        },
+        {
+          "number": "0",
+          "name": "Liddy Boland"
+        },
+        {
+          "number": "0",
+          "name": "Louise Puchalla"
+        },
+        {
+          "number": "0",
+          "name": "Maya Franz"
+        },
+        {
+          "number": "0",
+          "name": "Nadine Tong"
+        },
+        {
+          "number": "0",
+          "name": "Peregrine Todd"
+        },
+        {
+          "number": "0",
+          "name": "Virginia Davis"
+        },
+        {
+          "number": "0",
+          "name": "Yvonne Trenh"
+        },
+        {
+          "number": "0",
+          "name": "Zoe Colfax"
+        },
+        {
+          "number": "3",
+          "name": "Eliya Ahmad"
+        },
+        {
+          "number": "4",
+          "name": "Lucie Warga"
+        },
+        {
+          "number": "5",
+          "name": "Sandra Temgoua"
+        },
+        {
+          "number": "7",
+          "name": "Ellie Jose"
+        },
+        {
+          "number": "10",
+          "name": "Wilhelmina Graff"
+        },
+        {
+          "number": "13",
+          "name": "Sungshil Johnson"
+        },
+        {
+          "number": "15",
+          "name": "Caroline Eldridge"
+        },
+        {
+          "number": "19",
+          "name": "Lila Brady"
+        },
+        {
+          "number": "52",
+          "name": "Katherine Sylvester"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "clusters",
+      "name": "Rain Schedule",
+      "groups": [
+        {
+          "name": "Rain Schedule",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Vermont",
+              "team2": "Tufts",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2023-04-01T07:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "North Carolina",
+              "team2": "Yale",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2023-04-01T08:40:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "North Carolina",
+              "team2": "Vermont",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2023-04-01T10:20:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Tufts",
+              "team2": "Yale",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2023-04-01T10:40:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Vermont",
+              "team2": "Yale",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2023-04-01T12:20:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "North Carolina",
+              "team2": "Tufts",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2023-04-01T14:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

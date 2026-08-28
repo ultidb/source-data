@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "1.0",
+  "source": "wfdf",
+  "sourceEventId": "WUCC-2026/Open",
+  "sourceUrl": "https://wfdf.example.org/events/wucc-2026/open",
+  "scrapedAt": "2026-01-01T00:00:00Z",
+  "event": {
+    "name": "WUCC 2026",
+    "division": "Open",
+    "season": 2026,
+    "city": "",
+    "state": "",
+    "country": "Germany",
+    "startDate": "2026-07-01",
+    "endDate": "2026-07-08"
+  },
+  "teams": [
+    {
+      "name": "Placeholder Team",
+      "seed": 0,
+      "sourceTeamId": "",
+      "url": "",
+      "info": null,
+      "coaches": [],
+      "roster": []
+    }
+  ],
+  "stages": []
+}

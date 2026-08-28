@@ -1,0 +1,187 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2026/Atlantic-Coast-Dev-College-Mens-Regionals-2026CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/Atlantic-Coast-Dev-College-Mens-Regionals-2026/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:22.013668Z",
+  "event": {
+    "name": "Colonial Dev Men's Conferences 2026",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2026,
+    "city": "Glen Allen",
+    "state": "VA",
+    "country": "",
+    "startDate": "2026-04-25",
+    "endDate": "2026-04-26"
+  },
+  "teams": [
+    {
+      "name": "Maryland (B)",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": null,
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Delaware (B)",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": null,
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "George Washington (B)",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": null,
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "American (B)",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": null,
+      "coaches": [],
+      "roster": []
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Delaware (B)",
+              "team2": "George Washington (B)",
+              "score1": 15,
+              "score2": 3,
+              "datetime": "2026-04-11T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Maryland (B)",
+              "team2": "American (B)",
+              "score1": 15,
+              "score2": 3,
+              "datetime": "2026-04-11T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Delaware (B)",
+              "team2": "American (B)",
+              "score1": 15,
+              "score2": 3,
+              "datetime": "2026-04-11T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Maryland (B)",
+              "team2": "George Washington (B)",
+              "score1": 13,
+              "score2": 7,
+              "datetime": "2026-04-11T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Delaware (B)",
+              "team2": "Maryland (B)",
+              "score1": 8,
+              "score2": 10,
+              "datetime": "2026-04-11T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "George Washington (B)",
+              "team2": "American (B)",
+              "score1": 14,
+              "score2": 6,
+              "datetime": "2026-04-11T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Bracket Play",
+      "groups": [
+        {
+          "name": "1st Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Maryland (B)",
+              "team2": "Delaware (B)",
+              "score1": 6,
+              "score2": 11,
+              "datetime": "2026-04-12T11:00:00Z",
+              "round": "1st Place Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Maryland (B)",
+              "team2": "American (B)",
+              "score1": 13,
+              "score2": 2,
+              "datetime": "2026-04-12T09:00:00Z",
+              "round": "1st Place Semis",
+              "status": "Final"
+            },
+            {
+              "team1": "Delaware (B)",
+              "team2": "George Washington (B)",
+              "score1": 12,
+              "score2": 11,
+              "datetime": "2026-04-12T09:00:00Z",
+              "round": "1st Place Semis",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "2nd Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Maryland (B)",
+              "team2": "George Washington (B)",
+              "score1": 7,
+              "score2": 15,
+              "datetime": "2026-04-12T13:00:00Z",
+              "round": "2nd Place Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "American (B)",
+              "team2": "George Washington (B)",
+              "score1": 1,
+              "score2": 15,
+              "datetime": "2026-04-12T11:00:00Z",
+              "round": "2nd Place Semis",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

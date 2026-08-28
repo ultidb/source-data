@@ -1,0 +1,324 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2021/Spring-4s-Tournament-May-2021Club-Women",
+  "sourceUrl": "https://play.usaultimate.org/events/Spring-4s-Tournament-May-2021/schedule/Women/Club-Women/",
+  "scrapedAt": "2026-08-28T10:06:17.963391Z",
+  "event": {
+    "name": "Spring 4s Tournament May 2021",
+    "division": "Club - Women ",
+    "gender": "",
+    "season": 2021,
+    "city": "Boulder",
+    "state": "CO",
+    "country": "",
+    "startDate": "2021-05-02",
+    "endDate": "2021-05-02"
+  },
+  "teams": [
+    {
+      "name": "Pawnee Rangers",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Denver, Colorado",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Candace Yeh"
+        },
+        {
+          "number": "0",
+          "name": "Kelsey Mueller"
+        },
+        {
+          "number": "0",
+          "name": "Rebecca Roden"
+        },
+        {
+          "number": "3",
+          "name": "Molly Clay"
+        },
+        {
+          "number": "4",
+          "name": "Ellen Mueller"
+        },
+        {
+          "number": "11",
+          "name": "Sadie Jezierski"
+        },
+        {
+          "number": "12",
+          "name": "Anna Hrovat-Staedter"
+        },
+        {
+          "number": "19",
+          "name": "Anneke Vermaak"
+        },
+        {
+          "number": "25",
+          "name": "Emily Harrell"
+        },
+        {
+          "number": "34",
+          "name": "Carolyn Vlach"
+        }
+      ]
+    },
+    {
+      "name": "More Cowbell",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Boulder, Colorado",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Anna Krutsinger"
+        },
+        {
+          "number": "0",
+          "name": "Jessica Horii"
+        },
+        {
+          "number": "0",
+          "name": "Julie Kafka"
+        },
+        {
+          "number": "0",
+          "name": "Kelly Bolt"
+        },
+        {
+          "number": "0",
+          "name": "Leah Borsheim"
+        },
+        {
+          "number": "0",
+          "name": "Merry Beth Evans"
+        },
+        {
+          "number": "0",
+          "name": "Tamara Zelikova"
+        },
+        {
+          "number": "89",
+          "name": "Rebecca Mitchell"
+        },
+        {
+          "number": "97",
+          "name": "Andrea Uhl"
+        }
+      ]
+    },
+    {
+      "name": "FINEASS",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Boulder, Colorado",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Akane Kleinkopf"
+        },
+        {
+          "number": "0",
+          "name": "Clil Phillips"
+        },
+        {
+          "number": "0",
+          "name": "Elnaz Navid"
+        },
+        {
+          "number": "0",
+          "name": "Sierra Petrash"
+        },
+        {
+          "number": "0",
+          "name": "Stacy Gaskill"
+        },
+        {
+          "number": "4",
+          "name": "Annie Scott"
+        },
+        {
+          "number": "9",
+          "name": "Bailey Shigley"
+        },
+        {
+          "number": "12",
+          "name": "Skye Fernandez"
+        },
+        {
+          "number": "14",
+          "name": "Taylor Smith"
+        },
+        {
+          "number": "58",
+          "name": "Liana Bradley"
+        }
+      ]
+    },
+    {
+      "name": "Fantastic 4s",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Fantastic 4s",
+        "location": "Louisville, Colorado",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Chelin Isaacson"
+        },
+        {
+          "number": "0",
+          "name": "Clementine Clyker"
+        },
+        {
+          "number": "0",
+          "name": "Eleanor Shanahan"
+        },
+        {
+          "number": "0",
+          "name": "Fiona Cubillas"
+        },
+        {
+          "number": "0",
+          "name": "Margaret Gardner"
+        },
+        {
+          "number": "0",
+          "name": "Sofia Ramirez"
+        },
+        {
+          "number": "0",
+          "name": "Stephanie Schlosser"
+        },
+        {
+          "number": "0",
+          "name": "Sydney Selby"
+        },
+        {
+          "number": "2",
+          "name": "Elizabeth Kowalski"
+        },
+        {
+          "number": "13",
+          "name": "Corbin Smith"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "FINEASS",
+              "team2": "More Cowbell",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2021-05-02T09:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Pawnee Rangers",
+              "team2": "Fantastic 4s",
+              "score1": 2,
+              "score2": 0,
+              "datetime": "2021-05-02T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "FINEASS",
+              "team2": "Fantastic 4s",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2021-05-02T10:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Pawnee Rangers",
+              "team2": "More Cowbell",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2021-05-02T10:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "FINEASS",
+              "team2": "Pawnee Rangers",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2021-05-02T11:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "More Cowbell",
+              "team2": "Fantastic 4s",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2021-05-02T11:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Bracket",
+      "groups": [
+        {
+          "name": "Championship",
+          "isChampionship": false,
+          "games": []
+        },
+        {
+          "name": "3rd Place",
+          "isChampionship": false,
+          "games": []
+        }
+      ]
+    }
+  ]
+}

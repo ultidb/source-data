@@ -1,0 +1,7566 @@
+{
+  "schemaVersion": "1.0",
+  "source": "wfdf",
+  "sourceEventId": "WUCC2026/Mixed",
+  "sourceUrl": "https://results.wfdf.sport/wucc-2026",
+  "scrapedAt": "2026-08-27T19:15:28.920253Z",
+  "event": {
+    "name": "World Ultimate Club Championships 2026",
+    "division": "club",
+    "gender": "mixed",
+    "season": 2026,
+    "city": "Limerick",
+    "state": "",
+    "country": "Ireland",
+    "startDate": "2026-08-15",
+    "endDate": "2026-08-22"
+  },
+  "teams": [
+    {
+      "name": "33 Tours",
+      "seed": 24,
+      "sourceTeamId": "1050",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "France",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "28",
+          "name": "Arnaud Sekely"
+        },
+        {
+          "number": "10",
+          "name": "Arthur Laguerre"
+        },
+        {
+          "number": "20",
+          "name": "Clotilde Lecroart"
+        },
+        {
+          "number": "26",
+          "name": "Coralie Fouquet"
+        },
+        {
+          "number": "27",
+          "name": "Cyril Cayla"
+        },
+        {
+          "number": "6",
+          "name": "Florence Carayol"
+        },
+        {
+          "number": "18",
+          "name": "Hugo Dujardin"
+        },
+        {
+          "number": "22",
+          "name": "Iban Bouvard"
+        },
+        {
+          "number": "8",
+          "name": "Ismaël Voirnesson"
+        },
+        {
+          "number": "12",
+          "name": "Joseph Fournier"
+        },
+        {
+          "number": "79",
+          "name": "Leopold Lecroart"
+        },
+        {
+          "number": "7",
+          "name": "Lise Labbe"
+        },
+        {
+          "number": "1",
+          "name": "Loris Obry"
+        },
+        {
+          "number": "44",
+          "name": "Lou Dupont"
+        },
+        {
+          "number": "24",
+          "name": "Maleaume Voirnesson"
+        },
+        {
+          "number": "52",
+          "name": "Manuel De San Mateo"
+        },
+        {
+          "number": "33",
+          "name": "Mehdi Boulanoire"
+        },
+        {
+          "number": "88",
+          "name": "Noémi Michau"
+        },
+        {
+          "number": "15",
+          "name": "Ondine Ropars"
+        },
+        {
+          "number": "51",
+          "name": "Pauline Dumas"
+        },
+        {
+          "number": "25",
+          "name": "Perrine Bertaudeau"
+        },
+        {
+          "number": "61",
+          "name": "Romane Delaire"
+        },
+        {
+          "number": "84",
+          "name": "Soline Baron"
+        },
+        {
+          "number": "2",
+          "name": "Zoé Poisson"
+        }
+      ]
+    },
+    {
+      "name": "Academia",
+      "seed": 14,
+      "sourceTeamId": "1034",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Colombia",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "21",
+          "name": "Ángela María Avendaño rubio Avendaño Rubio"
+        },
+        {
+          "number": "64",
+          "name": "Benjamin Centracchio"
+        },
+        {
+          "number": "99",
+          "name": "Brayan  Barco Estrada"
+        },
+        {
+          "number": "11",
+          "name": "Daniela  Caballero Agudelo"
+        },
+        {
+          "number": "24",
+          "name": "Deisy Paola Duarte Higuita"
+        },
+        {
+          "number": "10",
+          "name": "Diego Alejandro  Alvarez Mejía"
+        },
+        {
+          "number": "20",
+          "name": "Diego Alejandro  Arango Gómez"
+        },
+        {
+          "number": "77",
+          "name": "Diego Alejandro  Baracaldo Fuentes"
+        },
+        {
+          "number": "23",
+          "name": "Diego Fernando  Mancilla Barajas"
+        },
+        {
+          "number": "5",
+          "name": "Isabel Valeria  Torres Durango"
+        },
+        {
+          "number": "66",
+          "name": "Isabella  Yepes Amariles"
+        },
+        {
+          "number": "69",
+          "name": "Jhoan Antonio  Madrid Agudelo"
+        },
+        {
+          "number": "33",
+          "name": "Jonathan Alejandro  Echeverry Gil"
+        },
+        {
+          "number": "48",
+          "name": "Juan Pablo Guzman Villegaz"
+        },
+        {
+          "number": "8",
+          "name": "Laura Daniela Laverde Vallejo"
+        },
+        {
+          "number": "4",
+          "name": "Leidy Marcela Alvarez Mejía"
+        },
+        {
+          "number": "1",
+          "name": "Maria Jose  Alvarado Yzaguirre"
+        },
+        {
+          "number": "14",
+          "name": "Marilyn  Orozco Pérez"
+        },
+        {
+          "number": "27",
+          "name": "Mateo  Ossa Muñoz"
+        },
+        {
+          "number": "65",
+          "name": "Mateo Nahat Orellano Quintero"
+        },
+        {
+          "number": "28",
+          "name": "Mayra Alejandra  Marmolejo Vargas"
+        },
+        {
+          "number": "3",
+          "name": "Mayra Alejandra  Valderrama Solano"
+        },
+        {
+          "number": "15",
+          "name": "Santiago  Marulanda Hoyos"
+        },
+        {
+          "number": "53",
+          "name": "Tifanny Samanta  Moreno Osorio"
+        }
+      ]
+    },
+    {
+      "name": "Aethers Warsaw",
+      "seed": 48,
+      "sourceTeamId": "1109",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Poland",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "33",
+          "name": "Alicja Wcisło"
+        },
+        {
+          "number": "27",
+          "name": "Aniela  Staroń"
+        },
+        {
+          "number": "72",
+          "name": "Anna Wołosiewicz"
+        },
+        {
+          "number": "26",
+          "name": "Antoni Petrow-Ganew"
+        },
+        {
+          "number": "99",
+          "name": "Franciszek Gerus"
+        },
+        {
+          "number": "7",
+          "name": "Jan Moszyński"
+        },
+        {
+          "number": "17",
+          "name": "Jana Senicic"
+        },
+        {
+          "number": "47",
+          "name": "Kacper Podgajny"
+        },
+        {
+          "number": "22",
+          "name": "Katarzyna  Ryznar"
+        },
+        {
+          "number": "3",
+          "name": "Kinga Szymczak"
+        },
+        {
+          "number": "29",
+          "name": "Krzysztof  Liwiński"
+        },
+        {
+          "number": "32",
+          "name": "Lucyna Zajączkowska"
+        },
+        {
+          "number": "63",
+          "name": "Maciej Litwiński"
+        },
+        {
+          "number": "14",
+          "name": "Maria Jabłońska"
+        },
+        {
+          "number": "15",
+          "name": "Mateusz Rączkiewicz"
+        },
+        {
+          "number": "11",
+          "name": "Natalia  Popek"
+        },
+        {
+          "number": "20",
+          "name": "Piotr Janik"
+        },
+        {
+          "number": "1",
+          "name": "Wojciech  Litwiński"
+        },
+        {
+          "number": "42",
+          "name": "Zakhar  Vlasenko"
+        },
+        {
+          "number": "16",
+          "name": "Zuzanna Madej"
+        }
+      ]
+    },
+    {
+      "name": "Airborne",
+      "seed": 29,
+      "sourceTeamId": "1073",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "India",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "1",
+          "name": "Alicia Morando"
+        },
+        {
+          "number": "95",
+          "name": "Arati Manikandan Tasheva"
+        },
+        {
+          "number": "22",
+          "name": "Bas Duthoit"
+        },
+        {
+          "number": "15",
+          "name": "Benjamin Isaac Banyas"
+        },
+        {
+          "number": "14",
+          "name": "Chloe de Campos"
+        },
+        {
+          "number": "54",
+          "name": "Dagmar Croes"
+        },
+        {
+          "number": "11",
+          "name": "Gowtham Balasubramaniam"
+        },
+        {
+          "number": "46",
+          "name": "Jake Wilson"
+        },
+        {
+          "number": "72",
+          "name": "Kalissa Feinberg"
+        },
+        {
+          "number": "91",
+          "name": "Kalpana Bisht"
+        },
+        {
+          "number": "27",
+          "name": "Kavya Gopinath"
+        },
+        {
+          "number": "39",
+          "name": "Malachi  Raymond"
+        },
+        {
+          "number": "69",
+          "name": "Miki Nagy"
+        },
+        {
+          "number": "25",
+          "name": "Paul Adkisson"
+        },
+        {
+          "number": "99",
+          "name": "Paul Kirch"
+        },
+        {
+          "number": "13",
+          "name": "Pooja Satheesh Babu"
+        },
+        {
+          "number": "10",
+          "name": "Praveenkumar Muthu"
+        },
+        {
+          "number": "0",
+          "name": "Quomel Imani"
+        },
+        {
+          "number": "30",
+          "name": "Tara Kancherla"
+        },
+        {
+          "number": "37",
+          "name": "Tharakai Natesan"
+        },
+        {
+          "number": "24",
+          "name": "Yu Wei Chua"
+        }
+      ]
+    },
+    {
+      "name": "Avalon",
+      "seed": 38,
+      "sourceTeamId": "1097",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Mexico",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "24",
+          "name": "Alejandra Hernández Morales"
+        },
+        {
+          "number": "7",
+          "name": "Alejandro  Saldaña Yrizar"
+        },
+        {
+          "number": "11",
+          "name": "Alicia Méndez Mosqueda"
+        },
+        {
+          "number": "2",
+          "name": "Andrea Leyva"
+        },
+        {
+          "number": "14",
+          "name": "Andrea Fernanda Magaña Ponce"
+        },
+        {
+          "number": "3",
+          "name": "Daisy Har"
+        },
+        {
+          "number": "16",
+          "name": "Daniel Alejandro  Ibarra Tovar"
+        },
+        {
+          "number": "13",
+          "name": "Dante Yosef Ramírez Ramírez"
+        },
+        {
+          "number": "22",
+          "name": "Diego Eduardo  Román Domínguez"
+        },
+        {
+          "number": "70",
+          "name": "Dione  Vázquez"
+        },
+        {
+          "number": "19",
+          "name": "Eduardo Saldaña Yrizar"
+        },
+        {
+          "number": "23",
+          "name": "Elissa Picozzi"
+        },
+        {
+          "number": "27",
+          "name": "Jessica Alcocer Aguado"
+        },
+        {
+          "number": "99",
+          "name": "Jonathan Zuñiga Peña"
+        },
+        {
+          "number": "86",
+          "name": "José María  García Jácome"
+        },
+        {
+          "number": "32",
+          "name": "Luis Ernesto Vega Palencia"
+        },
+        {
+          "number": "5",
+          "name": "Lujain  Almulla"
+        },
+        {
+          "number": "41",
+          "name": "Marco Antonio Gutiérrez Monterrubio"
+        },
+        {
+          "number": "12",
+          "name": "Maria Lizeth Pacheco Castañón"
+        },
+        {
+          "number": "20",
+          "name": "Mario Eduardo Josué  Cantú Porras"
+        },
+        {
+          "number": "1",
+          "name": "Nicole Paulette  Aranda Moreno"
+        },
+        {
+          "number": "31",
+          "name": "Nikki Gilbert"
+        },
+        {
+          "number": "33",
+          "name": "Ricardo Altamirano Cabrera"
+        },
+        {
+          "number": "18",
+          "name": "Tristan Bracque"
+        },
+        {
+          "number": "95",
+          "name": "Victor Bautista Gonzalez"
+        }
+      ]
+    },
+    {
+      "name": "BFD Redshot",
+      "seed": 12,
+      "sourceTeamId": "1085",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Italy",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "25",
+          "name": "Agnese Cosentino"
+        },
+        {
+          "number": "71",
+          "name": "Alessio Baltieri"
+        },
+        {
+          "number": "23",
+          "name": "Alessio Caccese"
+        },
+        {
+          "number": "96",
+          "name": "Andrea Beghelli"
+        },
+        {
+          "number": "33",
+          "name": "Anna Grillini"
+        },
+        {
+          "number": "16",
+          "name": "Chiara Cappucci"
+        },
+        {
+          "number": "50",
+          "name": "Chiara  Gardenghi"
+        },
+        {
+          "number": "19",
+          "name": "Diego Mirella"
+        },
+        {
+          "number": "38",
+          "name": "Eleonora Lubisco"
+        },
+        {
+          "number": "81",
+          "name": "Federica Sibani"
+        },
+        {
+          "number": "9",
+          "name": "Francesca Chiodini"
+        },
+        {
+          "number": "24",
+          "name": "Francesco Rossi"
+        },
+        {
+          "number": "29",
+          "name": "Gaia Sdruscia"
+        },
+        {
+          "number": "7",
+          "name": "Giulia Cristofolini"
+        },
+        {
+          "number": "6",
+          "name": "Jacopo Rizzo"
+        },
+        {
+          "number": "55",
+          "name": "Leonardo Marsigli"
+        },
+        {
+          "number": "91",
+          "name": "Manuel Mirella"
+        },
+        {
+          "number": "70",
+          "name": "Riccardo Marchesini"
+        },
+        {
+          "number": "18",
+          "name": "Riccardo Monti"
+        },
+        {
+          "number": "30",
+          "name": "Sarah Karim Fayed"
+        },
+        {
+          "number": "80",
+          "name": "Simone Bortolai"
+        },
+        {
+          "number": "13",
+          "name": "Valentina Ragusa"
+        }
+      ]
+    },
+    {
+      "name": "Brisbanites",
+      "seed": 32,
+      "sourceTeamId": "1007",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Australia",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "3",
+          "name": "Amanda McFadden"
+        },
+        {
+          "number": "12",
+          "name": "Cameron Bealing"
+        },
+        {
+          "number": "0",
+          "name": "Carolyn Lober"
+        },
+        {
+          "number": "50",
+          "name": "Driss Ziane"
+        },
+        {
+          "number": "55",
+          "name": "Elise Camilleri-Brennan"
+        },
+        {
+          "number": "17",
+          "name": "Eriko Yukawa"
+        },
+        {
+          "number": "21",
+          "name": "Isabelle Hamilton"
+        },
+        {
+          "number": "57",
+          "name": "Jack Lilwall"
+        },
+        {
+          "number": "98",
+          "name": "Joel Terry"
+        },
+        {
+          "number": "7",
+          "name": "Julia Lober"
+        },
+        {
+          "number": "99",
+          "name": "Kate Henderson"
+        },
+        {
+          "number": "5",
+          "name": "Lina Yang"
+        },
+        {
+          "number": "23",
+          "name": "Monica Taylor"
+        },
+        {
+          "number": "35",
+          "name": "Nathan Pegg"
+        },
+        {
+          "number": "4",
+          "name": "Nydia Heng"
+        },
+        {
+          "number": "26",
+          "name": "Quinlan Cunningham"
+        },
+        {
+          "number": "73",
+          "name": "Stuart Jinks"
+        },
+        {
+          "number": "68",
+          "name": "Talon Johnson"
+        },
+        {
+          "number": "31",
+          "name": "Tsung-Hsuan (Elena) Yu"
+        },
+        {
+          "number": "13",
+          "name": "Ulrik Muller"
+        },
+        {
+          "number": "64",
+          "name": "Wei Ting (Dafak) Hsu"
+        },
+        {
+          "number": "42",
+          "name": "Yi-Hui (Moony) Wang"
+        },
+        {
+          "number": "2",
+          "name": "Yulyn Ng"
+        }
+      ]
+    },
+    {
+      "name": "Charrúa",
+      "seed": 34,
+      "sourceTeamId": "1124",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Uruguay",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "21",
+          "name": "Alejandro Alonso"
+        },
+        {
+          "number": "20",
+          "name": "Brenna Murray"
+        },
+        {
+          "number": "24",
+          "name": "Camila Couture"
+        },
+        {
+          "number": "0",
+          "name": "Camille Delgado"
+        },
+        {
+          "number": "23",
+          "name": "Carlos Andrés Chiale"
+        },
+        {
+          "number": "19",
+          "name": "Chia-Ai “Ellie” Hsu"
+        },
+        {
+          "number": "88",
+          "name": "Christine Bookhout"
+        },
+        {
+          "number": "30",
+          "name": "Damian Alvez"
+        },
+        {
+          "number": "17",
+          "name": "Dylan Shields"
+        },
+        {
+          "number": "44",
+          "name": "Gabriel Fernandez"
+        },
+        {
+          "number": "67",
+          "name": "Georgia Grace Tse"
+        },
+        {
+          "number": "16",
+          "name": "Guillermina Vignoli"
+        },
+        {
+          "number": "5",
+          "name": "Joshua Gonzalez"
+        },
+        {
+          "number": "3",
+          "name": "Juan Chiale"
+        },
+        {
+          "number": "10",
+          "name": "Juan Jose Alonso"
+        },
+        {
+          "number": "99",
+          "name": "Juan Manuel  Palmucci"
+        },
+        {
+          "number": "33",
+          "name": "Lily Talerman"
+        },
+        {
+          "number": "11",
+          "name": "Maximiliano Chiale"
+        },
+        {
+          "number": "31",
+          "name": "Miguel Angel Chavarria"
+        },
+        {
+          "number": "7",
+          "name": "Nadia Martinez"
+        },
+        {
+          "number": "18",
+          "name": "Pablo Barrera"
+        },
+        {
+          "number": "12",
+          "name": "Rosina Cordero"
+        },
+        {
+          "number": "4",
+          "name": "Sebastian Nuñez"
+        }
+      ]
+    },
+    {
+      "name": "Chilli Heat",
+      "seed": 41,
+      "sourceTeamId": "1111",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "South Africa",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "15",
+          "name": "Alice Gwynne-Evans"
+        },
+        {
+          "number": "24",
+          "name": "Avalon Igawa"
+        },
+        {
+          "number": "9",
+          "name": "Brad Browne"
+        },
+        {
+          "number": "53",
+          "name": "Christine Anderson"
+        },
+        {
+          "number": "21",
+          "name": "Dana Ivey"
+        },
+        {
+          "number": "13",
+          "name": "Douglas Glennie"
+        },
+        {
+          "number": "40",
+          "name": "Dylan Sims"
+        },
+        {
+          "number": "26",
+          "name": "Eliza Stewart"
+        },
+        {
+          "number": "16",
+          "name": "Emma le Roux"
+        },
+        {
+          "number": "69",
+          "name": "James Ivey"
+        },
+        {
+          "number": "14",
+          "name": "Jami-Lee Janse van Rensburg"
+        },
+        {
+          "number": "75",
+          "name": "Jonathan Thomson"
+        },
+        {
+          "number": "22",
+          "name": "Kelly Paxton"
+        },
+        {
+          "number": "27",
+          "name": "Megan  Banner"
+        },
+        {
+          "number": "29",
+          "name": "Peter Ivey"
+        },
+        {
+          "number": "7",
+          "name": "Roark Robinson"
+        },
+        {
+          "number": "3",
+          "name": "Robert Skelton"
+        },
+        {
+          "number": "8",
+          "name": "Ross Bentley"
+        },
+        {
+          "number": "10",
+          "name": "Sam Bovim"
+        },
+        {
+          "number": "18",
+          "name": "Sam Combrink"
+        },
+        {
+          "number": "37",
+          "name": "Torey Wiget-Beattie"
+        }
+      ]
+    },
+    {
+      "name": "Chilly",
+      "seed": 27,
+      "sourceTeamId": "1006",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Australia",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "15",
+          "name": "Amy Luo"
+        },
+        {
+          "number": "25",
+          "name": "Ankita Mahanty"
+        },
+        {
+          "number": "6",
+          "name": "Danae Lewis-Shell"
+        },
+        {
+          "number": "19",
+          "name": "Daniela Florez Lopez"
+        },
+        {
+          "number": "24",
+          "name": "David Evans"
+        },
+        {
+          "number": "16",
+          "name": "David Hall"
+        },
+        {
+          "number": "2",
+          "name": "Ethan Foggin"
+        },
+        {
+          "number": "12",
+          "name": "Evie Miller"
+        },
+        {
+          "number": "75",
+          "name": "Harrison White"
+        },
+        {
+          "number": "11",
+          "name": "Jackie Matonis"
+        },
+        {
+          "number": "34",
+          "name": "James Osmond"
+        },
+        {
+          "number": "18",
+          "name": "Julia Cabai"
+        },
+        {
+          "number": "44",
+          "name": "Kellen Lowrie"
+        },
+        {
+          "number": "23",
+          "name": "Luke Bleeser"
+        },
+        {
+          "number": "26",
+          "name": "Max Miller"
+        },
+        {
+          "number": "17",
+          "name": "Michael Kelly"
+        },
+        {
+          "number": "1",
+          "name": "Natasha Langsdon"
+        },
+        {
+          "number": "43",
+          "name": "Nicola Carra"
+        },
+        {
+          "number": "40",
+          "name": "Oscar Turnbull"
+        },
+        {
+          "number": "8",
+          "name": "Oscar Yuen"
+        },
+        {
+          "number": "28",
+          "name": "Patrick Christie"
+        },
+        {
+          "number": "32",
+          "name": "Reagan Turner"
+        },
+        {
+          "number": "0",
+          "name": "Sam Middleton"
+        },
+        {
+          "number": "28",
+          "name": "Sarah Lee"
+        },
+        {
+          "number": "13",
+          "name": "Victoria Battersby"
+        }
+      ]
+    },
+    {
+      "name": "CUS Padova Rangərs",
+      "seed": 25,
+      "sourceTeamId": "1086",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Italy",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "17",
+          "name": "Alberto Girotto"
+        },
+        {
+          "number": "33",
+          "name": "Alessandro Fumagalli"
+        },
+        {
+          "number": "18",
+          "name": "Alessandro Spiritigliozzi"
+        },
+        {
+          "number": "43",
+          "name": "Angelica Naclerio"
+        },
+        {
+          "number": "29",
+          "name": "Carlo Mazzo"
+        },
+        {
+          "number": "3",
+          "name": "Caterina Andreaggi"
+        },
+        {
+          "number": "15",
+          "name": "Chiara Cece"
+        },
+        {
+          "number": "16",
+          "name": "Chiara Varottto"
+        },
+        {
+          "number": "13",
+          "name": "Christopher Colicchio"
+        },
+        {
+          "number": "61",
+          "name": "Elena Brinis"
+        },
+        {
+          "number": "21",
+          "name": "Francesco Martini"
+        },
+        {
+          "number": "2",
+          "name": "Jacopo Palombarini"
+        },
+        {
+          "number": "99",
+          "name": "Khalif El-Salaam"
+        },
+        {
+          "number": "47",
+          "name": "Marco Ragusa"
+        },
+        {
+          "number": "11",
+          "name": "Margherita Fumagalli"
+        },
+        {
+          "number": "4",
+          "name": "Marta Degli Stefani"
+        },
+        {
+          "number": "5",
+          "name": "Martino Tonelli"
+        },
+        {
+          "number": "50",
+          "name": "Mascetti Fabrizio"
+        },
+        {
+          "number": "19",
+          "name": "Olivia Hampton"
+        },
+        {
+          "number": "88",
+          "name": "Rebecca Rampazzo"
+        },
+        {
+          "number": "10",
+          "name": "Roberto Palmeri"
+        },
+        {
+          "number": "35",
+          "name": "Ruben Scribanti"
+        },
+        {
+          "number": "28",
+          "name": "Sara Bounous"
+        },
+        {
+          "number": "36",
+          "name": "Sarah Cleve"
+        },
+        {
+          "number": "7",
+          "name": "Silvia Pollis"
+        },
+        {
+          "number": "23",
+          "name": "Stefano Panariello"
+        }
+      ]
+    },
+    {
+      "name": "Deep Space",
+      "seed": 5,
+      "sourceTeamId": "1059",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Great Britain",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "23",
+          "name": "Alana Archer"
+        },
+        {
+          "number": "7",
+          "name": "Álvaro Iturmendi"
+        },
+        {
+          "number": "8",
+          "name": "Ben Andrews"
+        },
+        {
+          "number": "82",
+          "name": "Ben Phipps"
+        },
+        {
+          "number": "41",
+          "name": "Bex Palmer"
+        },
+        {
+          "number": "25",
+          "name": "Carmelle Ellis"
+        },
+        {
+          "number": "6",
+          "name": "Claire Baker"
+        },
+        {
+          "number": "72",
+          "name": "Conor Belfield"
+        },
+        {
+          "number": "99",
+          "name": "Daniel Wilson"
+        },
+        {
+          "number": "31",
+          "name": "Hannah Thompson"
+        },
+        {
+          "number": "3",
+          "name": "Hannah Yorwerth"
+        },
+        {
+          "number": "21",
+          "name": "Ian Tait"
+        },
+        {
+          "number": "56",
+          "name": "Leila Denniston"
+        },
+        {
+          "number": "10",
+          "name": "Max Squires"
+        },
+        {
+          "number": "89",
+          "name": "Nikita Kovshov"
+        },
+        {
+          "number": "14",
+          "name": "Omar Ghelani-Khan"
+        },
+        {
+          "number": "35",
+          "name": "Rachel Naden"
+        },
+        {
+          "number": "22",
+          "name": "Rosie Bailey"
+        },
+        {
+          "number": "74",
+          "name": "Rupal Ghelani-Khan"
+        },
+        {
+          "number": "36",
+          "name": "Ruth Golightly"
+        },
+        {
+          "number": "63",
+          "name": "Ryan Kapma"
+        },
+        {
+          "number": "9",
+          "name": "Sam Wilson"
+        },
+        {
+          "number": "98",
+          "name": "Sarah Halkyard"
+        },
+        {
+          "number": "44",
+          "name": "Sasha Haines"
+        },
+        {
+          "number": "13",
+          "name": "Thomas Fisher"
+        },
+        {
+          "number": "17",
+          "name": "Tim Gilboy"
+        }
+      ]
+    },
+    {
+      "name": "Disctèrics",
+      "seed": 46,
+      "sourceTeamId": "1116",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Spain",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "55",
+          "name": "Anastasiia Antonovska"
+        },
+        {
+          "number": "23",
+          "name": "Angel Ruiz Gutierrez"
+        },
+        {
+          "number": "15",
+          "name": "Anna Corbalan Ruiz"
+        },
+        {
+          "number": "28",
+          "name": "Carla  Parella Llenas"
+        },
+        {
+          "number": "0",
+          "name": "Carles Oliver Casanellas"
+        },
+        {
+          "number": "12",
+          "name": "Daniel Cipriano Cintora"
+        },
+        {
+          "number": "93",
+          "name": "Eloi Cros Laut"
+        },
+        {
+          "number": "3",
+          "name": "Emma  Company Maso"
+        },
+        {
+          "number": "97",
+          "name": "Estibaliz Diaz Echezarreta"
+        },
+        {
+          "number": "14",
+          "name": "Ferran Company Maso"
+        },
+        {
+          "number": "21",
+          "name": "Iker Pastor Irusta"
+        },
+        {
+          "number": "86",
+          "name": "Irene Taberner Palahí"
+        },
+        {
+          "number": "22",
+          "name": "Irina Batllori Jimenez"
+        },
+        {
+          "number": "8",
+          "name": "Isaac Cuervas Sague"
+        },
+        {
+          "number": "18",
+          "name": "Isaac Pera Ruiz"
+        },
+        {
+          "number": "85",
+          "name": "Joan Fañe Bolibar"
+        },
+        {
+          "number": "13",
+          "name": "Jose Manuel Ruiz Gutierrez"
+        },
+        {
+          "number": "88",
+          "name": "Lidia Cipriano Cintora"
+        },
+        {
+          "number": "2",
+          "name": "Maria Lucena Sanchez"
+        },
+        {
+          "number": "5",
+          "name": "Maria Martinez Torrecilla"
+        },
+        {
+          "number": "6",
+          "name": "Pol  Cobos"
+        },
+        {
+          "number": "50",
+          "name": "Pol Jimenez Ly"
+        },
+        {
+          "number": "16",
+          "name": "Roc Faixedas de Bolos"
+        },
+        {
+          "number": "24",
+          "name": "Sarah Kathryn Perreth"
+        }
+      ]
+    },
+    {
+      "name": "ERHe Ultimate",
+      "seed": 30,
+      "sourceTeamId": "1044",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Finland",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "49",
+          "name": "AJ MacIsaac"
+        },
+        {
+          "number": "11",
+          "name": "Alec Stiller"
+        },
+        {
+          "number": "10",
+          "name": "Dayla Woller"
+        },
+        {
+          "number": "73",
+          "name": "Emil Videman"
+        },
+        {
+          "number": "76",
+          "name": "Emma Cole"
+        },
+        {
+          "number": "52",
+          "name": "Heidi Levan"
+        },
+        {
+          "number": "84",
+          "name": "Hellen Koskinen"
+        },
+        {
+          "number": "81",
+          "name": "Helmi Pikkarainen"
+        },
+        {
+          "number": "8",
+          "name": "Hugo Fournier"
+        },
+        {
+          "number": "75",
+          "name": "Jesse Saastamoinen"
+        },
+        {
+          "number": "17",
+          "name": "Johannes Hokkanen"
+        },
+        {
+          "number": "85",
+          "name": "Matias Arola"
+        },
+        {
+          "number": "71",
+          "name": "Matias Pentikäinen"
+        },
+        {
+          "number": "28",
+          "name": "Mikko Alitalo"
+        },
+        {
+          "number": "77",
+          "name": "Patrick Potrykus"
+        },
+        {
+          "number": "33",
+          "name": "Phena Odoyo"
+        },
+        {
+          "number": "34",
+          "name": "Roope Kettunen"
+        },
+        {
+          "number": "25",
+          "name": "Sanna Jalovaara"
+        },
+        {
+          "number": "86",
+          "name": "Sydney Arola"
+        },
+        {
+          "number": "55",
+          "name": "Vanessa Bensch"
+        }
+      ]
+    },
+    {
+      "name": "Framnes",
+      "seed": 31,
+      "sourceTeamId": "1101",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Norway",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "2",
+          "name": "Ada Venheim Godø"
+        },
+        {
+          "number": "13",
+          "name": "Ane Saltbones Sørdahl"
+        },
+        {
+          "number": "15",
+          "name": "Anna Øvrebø"
+        },
+        {
+          "number": "18",
+          "name": "Benjamin Nybø"
+        },
+        {
+          "number": "22",
+          "name": "Elias Solberg Solsvik"
+        },
+        {
+          "number": "67",
+          "name": "Gavin Abrahamsson"
+        },
+        {
+          "number": "73",
+          "name": "Gayan Eric Waidyanatha"
+        },
+        {
+          "number": "23",
+          "name": "Giacomo Marcotti"
+        },
+        {
+          "number": "7",
+          "name": "Gustav Vikesdal"
+        },
+        {
+          "number": "5",
+          "name": "Håvard Dahl"
+        },
+        {
+          "number": "1",
+          "name": "Jakob Nybø"
+        },
+        {
+          "number": "26",
+          "name": "Johannes Hals"
+        },
+        {
+          "number": "4",
+          "name": "Lina Saltbones Sørdahl"
+        },
+        {
+          "number": "14",
+          "name": "Mali Teigen"
+        },
+        {
+          "number": "6",
+          "name": "Margit Elise Våge"
+        },
+        {
+          "number": "33",
+          "name": "Maria Gómez Moreno"
+        },
+        {
+          "number": "72",
+          "name": "Marieke Croonenberghs"
+        },
+        {
+          "number": "3",
+          "name": "Marlee Hartveit"
+        },
+        {
+          "number": "27",
+          "name": "Martin Carlsson"
+        },
+        {
+          "number": "11",
+          "name": "Noah Dale"
+        },
+        {
+          "number": "12",
+          "name": "Odne Saltbones Sørdahl"
+        },
+        {
+          "number": "8",
+          "name": "Ole Martin Solsvik"
+        },
+        {
+          "number": "9",
+          "name": "Tilde Sofie Gamst Skorpe"
+        },
+        {
+          "number": "37",
+          "name": "Violet Abrahamsson"
+        }
+      ]
+    },
+    {
+      "name": "Freakshow",
+      "seed": 19,
+      "sourceTeamId": "1112",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Singapore",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "23",
+          "name": "Amanda  Lunardhi"
+        },
+        {
+          "number": "2",
+          "name": "Caleb Le Xiong Tan"
+        },
+        {
+          "number": "60",
+          "name": "Doreen Jia Jie Sim"
+        },
+        {
+          "number": "42",
+          "name": "Faith Jun-Ru Soh"
+        },
+        {
+          "number": "18",
+          "name": "Ginny Xuan Xuan Teo"
+        },
+        {
+          "number": "70",
+          "name": "Hilman Farid Bin Mohamed Aris"
+        },
+        {
+          "number": "1",
+          "name": "Jia Shen, Brandon Heng"
+        },
+        {
+          "number": "66",
+          "name": "Jia Yi Tham"
+        },
+        {
+          "number": "97",
+          "name": "Jia Yu Goh"
+        },
+        {
+          "number": "11",
+          "name": "Joven  Chong"
+        },
+        {
+          "number": "69",
+          "name": "Kasheef  Sasi"
+        },
+        {
+          "number": "21",
+          "name": "Kong Yew Wong"
+        },
+        {
+          "number": "54",
+          "name": "Matthew  Rybak"
+        },
+        {
+          "number": "92",
+          "name": "Nathan Song En Ong"
+        },
+        {
+          "number": "99",
+          "name": "Odric Li De Ying"
+        },
+        {
+          "number": "9",
+          "name": "Pei Shan Jamie Chua"
+        },
+        {
+          "number": "95",
+          "name": "Sheng Dhee Nicholas Koh"
+        },
+        {
+          "number": "67",
+          "name": "Shi Hui Beh"
+        },
+        {
+          "number": "10",
+          "name": "Shi Jia Lai"
+        },
+        {
+          "number": "36",
+          "name": "Sze Yuen Ong"
+        },
+        {
+          "number": "31",
+          "name": "Vivien Jing Yi Lee"
+        },
+        {
+          "number": "88",
+          "name": "Wei Han Lim"
+        },
+        {
+          "number": "93",
+          "name": "Yong Ming Ng"
+        }
+      ]
+    },
+    {
+      "name": "Gentle",
+      "seed": 37,
+      "sourceTeamId": "1016",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Belgium",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "40",
+          "name": "Axelle Vandevelde"
+        },
+        {
+          "number": "23",
+          "name": "Bas Vermeersch"
+        },
+        {
+          "number": "15",
+          "name": "Bonnie Dalle"
+        },
+        {
+          "number": "77",
+          "name": "Bono Vandamme"
+        },
+        {
+          "number": "10",
+          "name": "Elias De Fraye"
+        },
+        {
+          "number": "0",
+          "name": "Emma Desmet"
+        },
+        {
+          "number": "8",
+          "name": "Finn De Corte"
+        },
+        {
+          "number": "68",
+          "name": "Han Pisano"
+        },
+        {
+          "number": "20",
+          "name": "Ilah Callebaut"
+        },
+        {
+          "number": "79",
+          "name": "Jasper Morlion"
+        },
+        {
+          "number": "21",
+          "name": "Jelle Vandermoere"
+        },
+        {
+          "number": "37",
+          "name": "Kasper Kindekens"
+        },
+        {
+          "number": "30",
+          "name": "Kiki Verhofstadt"
+        },
+        {
+          "number": "44",
+          "name": "Kleo Desloover"
+        },
+        {
+          "number": "95",
+          "name": "Leon Pannemans"
+        },
+        {
+          "number": "84",
+          "name": "Libelia Derudder"
+        },
+        {
+          "number": "19",
+          "name": "Magali Bernaert"
+        },
+        {
+          "number": "43",
+          "name": "Marie Fobe"
+        },
+        {
+          "number": "71",
+          "name": "Mathias Middernacht"
+        },
+        {
+          "number": "13",
+          "name": "Ramon Van Coillie"
+        },
+        {
+          "number": "25",
+          "name": "Roel Dekoninck"
+        },
+        {
+          "number": "17",
+          "name": "Sam Destoop"
+        },
+        {
+          "number": "91",
+          "name": "Stan De Clercq"
+        },
+        {
+          "number": "18",
+          "name": "Stern Ongenaet"
+        },
+        {
+          "number": "14",
+          "name": "Tinka Teuchies"
+        }
+      ]
+    },
+    {
+      "name": "Guayota",
+      "seed": 43,
+      "sourceTeamId": "1115",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Spain",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alberto Martín González"
+        },
+        {
+          "number": "21",
+          "name": "Alberto Sánchez del Rio Hamilton"
+        },
+        {
+          "number": "84",
+          "name": "Alejandro Trujillo Sosa"
+        },
+        {
+          "number": "18",
+          "name": "Andrey Krasovsky"
+        },
+        {
+          "number": "52",
+          "name": "Carolay Luz Dàvila Bravo"
+        },
+        {
+          "number": "12",
+          "name": "Cristina Navasa"
+        },
+        {
+          "number": "73",
+          "name": "Dalila Fuentes Rodríguez"
+        },
+        {
+          "number": "51",
+          "name": "Diego Gorrín Díaz"
+        },
+        {
+          "number": "30",
+          "name": "Elena Mantecón Anuarbe"
+        },
+        {
+          "number": "5",
+          "name": "Georgina Coulthread"
+        },
+        {
+          "number": "99",
+          "name": "José Alejandro Gabaldoni Teperino"
+        },
+        {
+          "number": "50",
+          "name": "José Félix Peiteado Padilla"
+        },
+        {
+          "number": "93",
+          "name": "Juan Manuel Pérez Babio"
+        },
+        {
+          "number": "42",
+          "name": "Mary Ellen  Ochs"
+        },
+        {
+          "number": "88",
+          "name": "Matt McDonough"
+        },
+        {
+          "number": "46",
+          "name": "Mia Bollmann"
+        },
+        {
+          "number": "24",
+          "name": "Miguel Jiménez Pérez"
+        },
+        {
+          "number": "23",
+          "name": "Olga Kochenova"
+        },
+        {
+          "number": "3",
+          "name": "Pablo Delgado López"
+        },
+        {
+          "number": "91",
+          "name": "Pablo Dorta Alberto"
+        },
+        {
+          "number": "22",
+          "name": "Patricia González Navasa"
+        },
+        {
+          "number": "83",
+          "name": "Ricardo Márquez Ravelo"
+        },
+        {
+          "number": "33",
+          "name": "Simone Magagnotti"
+        },
+        {
+          "number": "32",
+          "name": "Stefano Pavan"
+        },
+        {
+          "number": "74",
+          "name": "VIctor Pedroza"
+        },
+        {
+          "number": "20",
+          "name": "Zoa Pérez-Salamero Redolar"
+        }
+      ]
+    },
+    {
+      "name": "Hammers Bs As",
+      "seed": 28,
+      "sourceTeamId": "1001",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Argentina",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "8",
+          "name": "Bianca Zorio"
+        },
+        {
+          "number": "82",
+          "name": "Catalina Gutierrez"
+        },
+        {
+          "number": "22",
+          "name": "Chandler Shelton"
+        },
+        {
+          "number": "36",
+          "name": "Daniel Eduardo Hernandez Torres"
+        },
+        {
+          "number": "44",
+          "name": "Ellen Muller"
+        },
+        {
+          "number": "5",
+          "name": "Federico Waldman"
+        },
+        {
+          "number": "7",
+          "name": "Gregory Joel Stoller"
+        },
+        {
+          "number": "41",
+          "name": "Gustavo Mayo"
+        },
+        {
+          "number": "72",
+          "name": "Ignacio Quesada Grasselli"
+        },
+        {
+          "number": "15",
+          "name": "Isaith Betsabeth Sequera Mendoza"
+        },
+        {
+          "number": "2",
+          "name": "Jack DiCola"
+        },
+        {
+          "number": "71",
+          "name": "Jhon Edison Andres Rincon"
+        },
+        {
+          "number": "77",
+          "name": "Jhonny Morgado"
+        },
+        {
+          "number": "26",
+          "name": "Laura Ussa"
+        },
+        {
+          "number": "38",
+          "name": "Leonella Bernardi"
+        },
+        {
+          "number": "10",
+          "name": "Marco Alejandro Batista Gomez"
+        },
+        {
+          "number": "6",
+          "name": "Maximo Pugliese"
+        },
+        {
+          "number": "3",
+          "name": "Natalia Soledad Cordoba"
+        },
+        {
+          "number": "23",
+          "name": "Noah Pollack"
+        },
+        {
+          "number": "16",
+          "name": "Raquel Pinto"
+        },
+        {
+          "number": "4",
+          "name": "Sebastian Ernesto Oropeza Moretti"
+        },
+        {
+          "number": "40",
+          "name": "Stephanie Gregory"
+        },
+        {
+          "number": "20",
+          "name": "Victor Jhoan Gonzalez"
+        },
+        {
+          "number": "11",
+          "name": "William Norry"
+        }
+      ]
+    },
+    {
+      "name": "Helsinki Ultimate",
+      "seed": 22,
+      "sourceTeamId": "1043",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Finland",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "36",
+          "name": "Aino Weckman"
+        },
+        {
+          "number": "1",
+          "name": "Anni Jokinen"
+        },
+        {
+          "number": "88",
+          "name": "Antti Kahri"
+        },
+        {
+          "number": "11",
+          "name": "Eetu Joukainen"
+        },
+        {
+          "number": "3",
+          "name": "Eevi Nasanen"
+        },
+        {
+          "number": "49",
+          "name": "Elena Winqvist"
+        },
+        {
+          "number": "4",
+          "name": "Elina Roiha"
+        },
+        {
+          "number": "76",
+          "name": "Ilja Winqvist"
+        },
+        {
+          "number": "14",
+          "name": "Ilona Villi"
+        },
+        {
+          "number": "28",
+          "name": "Inger Uutsalu"
+        },
+        {
+          "number": "5",
+          "name": "Juho Malmi"
+        },
+        {
+          "number": "68",
+          "name": "Jule Braxein"
+        },
+        {
+          "number": "13",
+          "name": "Jyri Saarinen"
+        },
+        {
+          "number": "44",
+          "name": "Karoliina Rintamäki"
+        },
+        {
+          "number": "16",
+          "name": "Lauri Saksa"
+        },
+        {
+          "number": "99",
+          "name": "Leevi Winqvist"
+        },
+        {
+          "number": "48",
+          "name": "Lioba Boveleth"
+        },
+        {
+          "number": "37",
+          "name": "Miiro Tähti"
+        },
+        {
+          "number": "52",
+          "name": "Nooa Winqvist"
+        },
+        {
+          "number": "24",
+          "name": "Okko  Winqvist"
+        },
+        {
+          "number": "18",
+          "name": "Oskar Kunnas"
+        },
+        {
+          "number": "42",
+          "name": "Riikka Harjuneva"
+        },
+        {
+          "number": "30",
+          "name": "Sara Weckman"
+        },
+        {
+          "number": "9",
+          "name": "Saska Karpansalo"
+        },
+        {
+          "number": "15",
+          "name": "Ville Linden"
+        },
+        {
+          "number": "22",
+          "name": "Vilma Heinonen"
+        }
+      ]
+    },
+    {
+      "name": "Huwa",
+      "seed": 35,
+      "sourceTeamId": "1028",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "People's Republic of China",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "37",
+          "name": "Dax Haas"
+        },
+        {
+          "number": "71",
+          "name": "Hao Yan"
+        },
+        {
+          "number": "26",
+          "name": "Jiangzhuo Ling"
+        },
+        {
+          "number": "9",
+          "name": "Jiao Liu"
+        },
+        {
+          "number": "16",
+          "name": "Jiawei Wang"
+        },
+        {
+          "number": "63",
+          "name": "Jiayi  Sun"
+        },
+        {
+          "number": "11",
+          "name": "Junjuan Yu"
+        },
+        {
+          "number": "21",
+          "name": "Nicholas Lin"
+        },
+        {
+          "number": "8",
+          "name": "Paul Kim"
+        },
+        {
+          "number": "97",
+          "name": "Qinping Wang"
+        },
+        {
+          "number": "0",
+          "name": "Shengyi Zhao"
+        },
+        {
+          "number": "84",
+          "name": "Wencheng Zhang"
+        },
+        {
+          "number": "34",
+          "name": "Xin Shen"
+        },
+        {
+          "number": "88",
+          "name": "Yang Chen"
+        },
+        {
+          "number": "10",
+          "name": "Yipeng Wang"
+        },
+        {
+          "number": "75",
+          "name": "Yiyang Li"
+        },
+        {
+          "number": "7",
+          "name": "Yongzhao Lin"
+        },
+        {
+          "number": "77",
+          "name": "Yucheng Mo"
+        },
+        {
+          "number": "1",
+          "name": "Yue He"
+        },
+        {
+          "number": "6",
+          "name": "Yueqi Ding"
+        },
+        {
+          "number": "22",
+          "name": "Zhangsong Gao"
+        },
+        {
+          "number": "24",
+          "name": "Zhexuan Xu"
+        },
+        {
+          "number": "12",
+          "name": "Ziyi Chen"
+        }
+      ]
+    },
+    {
+      "name": "Hybrid",
+      "seed": 1,
+      "sourceTeamId": "1131",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "United States of America",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "7",
+          "name": "Annalise Meilink"
+        },
+        {
+          "number": "10",
+          "name": "Brittany  Wright"
+        },
+        {
+          "number": "31",
+          "name": "Charlie Vukovic"
+        },
+        {
+          "number": "4",
+          "name": "Chase Cunningham"
+        },
+        {
+          "number": "13",
+          "name": "Dalton Smith"
+        },
+        {
+          "number": "97",
+          "name": "Eileen Bequette"
+        },
+        {
+          "number": "57",
+          "name": "Ellie Jose"
+        },
+        {
+          "number": "5",
+          "name": "Ian McNamara"
+        },
+        {
+          "number": "28",
+          "name": "Jack Williams"
+        },
+        {
+          "number": "8",
+          "name": "Jared Schwallie"
+        },
+        {
+          "number": "30",
+          "name": "Jean Huang"
+        },
+        {
+          "number": "50",
+          "name": "Jeffrey Weis"
+        },
+        {
+          "number": "0",
+          "name": "Jesse Johnson"
+        },
+        {
+          "number": "24",
+          "name": "Kai Creed"
+        },
+        {
+          "number": "18",
+          "name": "Laura Gerencser"
+        },
+        {
+          "number": "23",
+          "name": "Liliana Hobday"
+        },
+        {
+          "number": "2",
+          "name": "Maketa Mattimore"
+        },
+        {
+          "number": "88",
+          "name": "Mark Whitton"
+        },
+        {
+          "number": "42",
+          "name": "Nathan Champoux"
+        },
+        {
+          "number": "21",
+          "name": "Rachel Mast"
+        },
+        {
+          "number": "16",
+          "name": "Riely Kuznicki"
+        },
+        {
+          "number": "82",
+          "name": "Riley Dickson"
+        },
+        {
+          "number": "6",
+          "name": "Robert Coffin"
+        },
+        {
+          "number": "3",
+          "name": "Sara Nitz"
+        },
+        {
+          "number": "20",
+          "name": "Stanley Peterson"
+        },
+        {
+          "number": "11",
+          "name": "Tracey Lo"
+        }
+      ]
+    },
+    {
+      "name": "JANDLUX",
+      "seed": 11,
+      "sourceTeamId": "1093",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Japan",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "96",
+          "name": "Aoi Yamauchi"
+        },
+        {
+          "number": "41",
+          "name": "Ayumu Takeuchi"
+        },
+        {
+          "number": "13",
+          "name": "Fuka Hori"
+        },
+        {
+          "number": "83",
+          "name": "Fuka Sakakibara"
+        },
+        {
+          "number": "87",
+          "name": "Haruna Matsuoka"
+        },
+        {
+          "number": "10",
+          "name": "Hinano Miyaji"
+        },
+        {
+          "number": "16",
+          "name": "Hiroki Kiuchi"
+        },
+        {
+          "number": "19",
+          "name": "Katsuya Kobayashi"
+        },
+        {
+          "number": "17",
+          "name": "Kayano Tanaka"
+        },
+        {
+          "number": "7",
+          "name": "Kenta Ito"
+        },
+        {
+          "number": "44",
+          "name": "Kohei Nakao"
+        },
+        {
+          "number": "88",
+          "name": "Kosuke Horiuchi"
+        },
+        {
+          "number": "77",
+          "name": "Makoto Chida"
+        },
+        {
+          "number": "22",
+          "name": "Moeka Kozaki"
+        },
+        {
+          "number": "3",
+          "name": "Momoka Hasegawa"
+        },
+        {
+          "number": "26",
+          "name": "Noriko Nakajima"
+        },
+        {
+          "number": "61",
+          "name": "Ryosuke Fukushima"
+        },
+        {
+          "number": "27",
+          "name": "Saaya Isogai"
+        },
+        {
+          "number": "0",
+          "name": "Shizuru Akashi"
+        },
+        {
+          "number": "5",
+          "name": "Shuzo Inoue"
+        },
+        {
+          "number": "2",
+          "name": "Sota Kumagai"
+        },
+        {
+          "number": "36",
+          "name": "Takuma Horie"
+        },
+        {
+          "number": "9",
+          "name": "Takuma Wakou"
+        },
+        {
+          "number": "1",
+          "name": "Yuito Nakagawa"
+        },
+        {
+          "number": "32",
+          "name": "Yuki Nakayama"
+        },
+        {
+          "number": "4",
+          "name": "Yuto Tanno"
+        }
+      ]
+    },
+    {
+      "name": "Leamington Lemmings",
+      "seed": 20,
+      "sourceTeamId": "1061",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Great Britain",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "38",
+          "name": "Alice  Hodges"
+        },
+        {
+          "number": "20",
+          "name": "Alistair  Orr"
+        },
+        {
+          "number": "74",
+          "name": "Annabella Joynes"
+        },
+        {
+          "number": "22",
+          "name": "Cele Nesbitt"
+        },
+        {
+          "number": "89",
+          "name": "David Cubitt"
+        },
+        {
+          "number": "51",
+          "name": "David Wilson"
+        },
+        {
+          "number": "7",
+          "name": "Eve Robertson"
+        },
+        {
+          "number": "41",
+          "name": "Evie Harms"
+        },
+        {
+          "number": "16",
+          "name": "Grace Pollard"
+        },
+        {
+          "number": "4",
+          "name": "Isaac Davis"
+        },
+        {
+          "number": "61",
+          "name": "Jade Bacon"
+        },
+        {
+          "number": "34",
+          "name": "Jasmine Hall"
+        },
+        {
+          "number": "36",
+          "name": "Joseph Penning"
+        },
+        {
+          "number": "27",
+          "name": "Leanne Holmes"
+        },
+        {
+          "number": "90",
+          "name": "Luke  Haywood"
+        },
+        {
+          "number": "24",
+          "name": "Megan Daly"
+        },
+        {
+          "number": "96",
+          "name": "Oliver May"
+        },
+        {
+          "number": "11",
+          "name": "Robert Pantling"
+        },
+        {
+          "number": "59",
+          "name": "Rupert Pantling"
+        },
+        {
+          "number": "13",
+          "name": "Tadeas Horn"
+        },
+        {
+          "number": "94",
+          "name": "Tom Boniface"
+        },
+        {
+          "number": "58",
+          "name": "Tyla Robinson"
+        },
+        {
+          "number": "44",
+          "name": "William Marshall"
+        },
+        {
+          "number": "69",
+          "name": "Yong Xu Lim"
+        }
+      ]
+    },
+    {
+      "name": "Macondo",
+      "seed": 15,
+      "sourceTeamId": "1035",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Colombia",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "26",
+          "name": "Alejandra  Alvarez Turizo"
+        },
+        {
+          "number": "16",
+          "name": "Alejandro Montoya Tamayo"
+        },
+        {
+          "number": "43",
+          "name": "Andrea Vasquez"
+        },
+        {
+          "number": "15",
+          "name": "Andrés Agudelo"
+        },
+        {
+          "number": "25",
+          "name": "Benjamin Kuster"
+        },
+        {
+          "number": "69",
+          "name": "Daniel Arias"
+        },
+        {
+          "number": "57",
+          "name": "Daniela Bayona"
+        },
+        {
+          "number": "95",
+          "name": "Daniela Benjumea"
+        },
+        {
+          "number": "80",
+          "name": "Edgar Urzola"
+        },
+        {
+          "number": "84",
+          "name": "Honorata Lakomska"
+        },
+        {
+          "number": "11",
+          "name": "Juan Castano"
+        },
+        {
+          "number": "8",
+          "name": "Juan Galvis"
+        },
+        {
+          "number": "21",
+          "name": "Juan Gomez"
+        },
+        {
+          "number": "19",
+          "name": "Juan Jaramillo"
+        },
+        {
+          "number": "1",
+          "name": "Karol Jaimes"
+        },
+        {
+          "number": "61",
+          "name": "Maria Ávila Castro"
+        },
+        {
+          "number": "41",
+          "name": "Marian Echeverri"
+        },
+        {
+          "number": "99",
+          "name": "Nicolas Gonzalez"
+        },
+        {
+          "number": "32",
+          "name": "Robert Kuster"
+        },
+        {
+          "number": "9",
+          "name": "Salome tamayo"
+        },
+        {
+          "number": "89",
+          "name": "Santiago Benjumea"
+        },
+        {
+          "number": "77",
+          "name": "Sebastian Parra"
+        },
+        {
+          "number": "22",
+          "name": "Sofía Echeverry"
+        },
+        {
+          "number": "24",
+          "name": "Sofia Marín"
+        },
+        {
+          "number": "27",
+          "name": "Veronica Delgado"
+        }
+      ]
+    },
+    {
+      "name": "Manly Mosh",
+      "seed": 3,
+      "sourceTeamId": "1005",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Australia",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "49",
+          "name": "Anna Stoddard"
+        },
+        {
+          "number": "5",
+          "name": "Archie Richards"
+        },
+        {
+          "number": "15",
+          "name": "Caleb Miller"
+        },
+        {
+          "number": "77",
+          "name": "Emer Spiers"
+        },
+        {
+          "number": "30",
+          "name": "Erny Tsao"
+        },
+        {
+          "number": "11",
+          "name": "Evelyn Ha"
+        },
+        {
+          "number": "32",
+          "name": "Hannah Gregory"
+        },
+        {
+          "number": "13",
+          "name": "Holly Reeve"
+        },
+        {
+          "number": "21",
+          "name": "Jake Winchester"
+        },
+        {
+          "number": "24",
+          "name": "Jenna Kim"
+        },
+        {
+          "number": "0",
+          "name": "Jenny Wu"
+        },
+        {
+          "number": "17",
+          "name": "Jessica Lin"
+        },
+        {
+          "number": "54",
+          "name": "Jordan Richards"
+        },
+        {
+          "number": "27",
+          "name": "Kya Wiya"
+        },
+        {
+          "number": "4",
+          "name": "Laura House"
+        },
+        {
+          "number": "1",
+          "name": "Luke Prosser"
+        },
+        {
+          "number": "37",
+          "name": "Matilda Woo"
+        },
+        {
+          "number": "56",
+          "name": "Matthew Calder"
+        },
+        {
+          "number": "23",
+          "name": "Matthew Diggins"
+        },
+        {
+          "number": "48",
+          "name": "Matthew Zabel"
+        },
+        {
+          "number": "12",
+          "name": "Noah Moss"
+        },
+        {
+          "number": "7",
+          "name": "Paige McKay"
+        },
+        {
+          "number": "34",
+          "name": "Sasha Bell"
+        },
+        {
+          "number": "99",
+          "name": "Zachary Zabel"
+        }
+      ]
+    },
+    {
+      "name": "Meclao",
+      "seed": 9,
+      "sourceTeamId": "1135",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Dominican Republic",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "13",
+          "name": "Alexmares Stojanovic"
+        },
+        {
+          "number": "15",
+          "name": "Amanda  Balaguer"
+        },
+        {
+          "number": "6",
+          "name": "Ana Harnage"
+        },
+        {
+          "number": "47",
+          "name": "Andreina  Dominguez"
+        },
+        {
+          "number": "23",
+          "name": "Anthony McLean"
+        },
+        {
+          "number": "1",
+          "name": "Christie Lawry"
+        },
+        {
+          "number": "8",
+          "name": "Ciona Antolin"
+        },
+        {
+          "number": "5",
+          "name": "Danilo Balaguer"
+        },
+        {
+          "number": "0",
+          "name": "Donna Johnston"
+        },
+        {
+          "number": "27",
+          "name": "Janet Wan"
+        },
+        {
+          "number": "29",
+          "name": "John McMonigal"
+        },
+        {
+          "number": "14",
+          "name": "Linn Bjanes"
+        },
+        {
+          "number": "22",
+          "name": "Liz Hart"
+        },
+        {
+          "number": "30",
+          "name": "Marc Huber"
+        },
+        {
+          "number": "2",
+          "name": "Matt Miller"
+        },
+        {
+          "number": "51",
+          "name": "Max Hamilton"
+        },
+        {
+          "number": "9",
+          "name": "Miguel Maltes"
+        },
+        {
+          "number": "91",
+          "name": "Mike Merwin"
+        },
+        {
+          "number": "88",
+          "name": "Mikey Dzelzgalvis"
+        },
+        {
+          "number": "35",
+          "name": "Ocean Hines"
+        },
+        {
+          "number": "4",
+          "name": "Olivia Chambliss"
+        },
+        {
+          "number": "20",
+          "name": "Samuel  Adamson"
+        },
+        {
+          "number": "11",
+          "name": "Sara Liang"
+        },
+        {
+          "number": "7",
+          "name": "Sydney Stelzer"
+        },
+        {
+          "number": "24",
+          "name": "William Hoffenkamp"
+        }
+      ]
+    },
+    {
+      "name": "Monkey",
+      "seed": 36,
+      "sourceTeamId": "1049",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "France",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "28",
+          "name": "Adrien Lachambre"
+        },
+        {
+          "number": "46",
+          "name": "Agathe Crouzat"
+        },
+        {
+          "number": "26",
+          "name": "Alice  Sammarco"
+        },
+        {
+          "number": "39",
+          "name": "Bastien  Féaud"
+        },
+        {
+          "number": "95",
+          "name": "Bastien  Tramoni"
+        },
+        {
+          "number": "98",
+          "name": "Boris  Navet"
+        },
+        {
+          "number": "49",
+          "name": "Brice Emeriau"
+        },
+        {
+          "number": "36",
+          "name": "Callum  McGowan"
+        },
+        {
+          "number": "13",
+          "name": "Camille  Larivière"
+        },
+        {
+          "number": "70",
+          "name": "Christopher  Law"
+        },
+        {
+          "number": "58",
+          "name": "Damien  Jeannes"
+        },
+        {
+          "number": "25",
+          "name": "Emily (the legend) Hill"
+        },
+        {
+          "number": "3",
+          "name": "Emma  Herouard"
+        },
+        {
+          "number": "60",
+          "name": "Erell  Pérez"
+        },
+        {
+          "number": "90",
+          "name": "Eva  Hanoskova"
+        },
+        {
+          "number": "4",
+          "name": "Flore  Bourel"
+        },
+        {
+          "number": "72",
+          "name": "Florine  Louis"
+        },
+        {
+          "number": "0",
+          "name": "Guillaume  Espitia"
+        },
+        {
+          "number": "61",
+          "name": "Lalie  Maillard"
+        },
+        {
+          "number": "87",
+          "name": "Loïc  Lechevallier"
+        },
+        {
+          "number": "22",
+          "name": "Lucile  Richard"
+        },
+        {
+          "number": "2",
+          "name": "Matisse  Cinier"
+        },
+        {
+          "number": "64",
+          "name": "Renaud  Lévêque"
+        },
+        {
+          "number": "12",
+          "name": "Valentine  Lambolez"
+        }
+      ]
+    },
+    {
+      "name": "Mosquitos Klosterneuburg",
+      "seed": 4,
+      "sourceTeamId": "1011",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Austria",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "96",
+          "name": "Alexander Kickinger"
+        },
+        {
+          "number": "36",
+          "name": "Andreas Vanek"
+        },
+        {
+          "number": "78",
+          "name": "Christoph Angetter"
+        },
+        {
+          "number": "87",
+          "name": "Constantin Angetter"
+        },
+        {
+          "number": "30",
+          "name": "Daria Scheruga"
+        },
+        {
+          "number": "98",
+          "name": "Franziska Baur"
+        },
+        {
+          "number": "3",
+          "name": "Jakob Dunshirn"
+        },
+        {
+          "number": "63",
+          "name": "Jakob Kratky"
+        },
+        {
+          "number": "37",
+          "name": "Johanna Roy"
+        },
+        {
+          "number": "83",
+          "name": "Katarina Ninaus"
+        },
+        {
+          "number": "81",
+          "name": "Katharina Meissl"
+        },
+        {
+          "number": "7",
+          "name": "Katharina Scheidl"
+        },
+        {
+          "number": "52",
+          "name": "Lea Simon"
+        },
+        {
+          "number": "90",
+          "name": "Leonie Meister"
+        },
+        {
+          "number": "65",
+          "name": "Markus Hammerl"
+        },
+        {
+          "number": "91",
+          "name": "Maximilian Schmied"
+        },
+        {
+          "number": "35",
+          "name": "Miriam Foerster"
+        },
+        {
+          "number": "82",
+          "name": "Miriam Meister"
+        },
+        {
+          "number": "45",
+          "name": "Moritz Hinkel"
+        },
+        {
+          "number": "31",
+          "name": "Nikola Huebl"
+        },
+        {
+          "number": "67",
+          "name": "Noah Haider"
+        },
+        {
+          "number": "33",
+          "name": "Philip Kitchen"
+        },
+        {
+          "number": "38",
+          "name": "Romina Seiler"
+        },
+        {
+          "number": "24",
+          "name": "Tabea Krammer"
+        },
+        {
+          "number": "11",
+          "name": "Tobias Samek"
+        },
+        {
+          "number": "56",
+          "name": "Valentin Deutsch-Baier"
+        }
+      ]
+    },
+    {
+      "name": "Odyssée",
+      "seed": 2,
+      "sourceTeamId": "1022",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Canada",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "32",
+          "name": "Alexandre  Dubois"
+        },
+        {
+          "number": "21",
+          "name": "Alix Fauteux"
+        },
+        {
+          "number": "13",
+          "name": "Anouchka Beaudry"
+        },
+        {
+          "number": "11",
+          "name": "Ben Powlay"
+        },
+        {
+          "number": "1",
+          "name": "Brandon Adibe"
+        },
+        {
+          "number": "26",
+          "name": "Caroline Cadotte"
+        },
+        {
+          "number": "4",
+          "name": "Catherine Bélanger-Khoury"
+        },
+        {
+          "number": "23",
+          "name": "Christian Mathieu"
+        },
+        {
+          "number": "37",
+          "name": "Émile Philibert"
+        },
+        {
+          "number": "12",
+          "name": "Emmanuelle Veci"
+        },
+        {
+          "number": "22",
+          "name": "Éric Préseault"
+        },
+        {
+          "number": "19",
+          "name": "Felix Leonard"
+        },
+        {
+          "number": "42",
+          "name": "Henry Rodriguez"
+        },
+        {
+          "number": "0",
+          "name": "Jacynthe Fleurant"
+        },
+        {
+          "number": "15",
+          "name": "Janick St-Cyr"
+        },
+        {
+          "number": "10",
+          "name": "Julie Landry"
+        },
+        {
+          "number": "29",
+          "name": "Juliette Sanseigne"
+        },
+        {
+          "number": "81",
+          "name": "Kevin Quinlan"
+        },
+        {
+          "number": "73",
+          "name": "Lilaya Pinsonnault Henriquez"
+        },
+        {
+          "number": "77",
+          "name": "Matt O'Brien"
+        },
+        {
+          "number": "7",
+          "name": "Maude Brodeur"
+        },
+        {
+          "number": "72",
+          "name": "Melvyn Brichet"
+        },
+        {
+          "number": "14",
+          "name": "Miguel Goderre"
+        },
+        {
+          "number": "76",
+          "name": "Orphée Schoofs"
+        },
+        {
+          "number": "8",
+          "name": "Sandra Williams"
+        },
+        {
+          "number": "88",
+          "name": "Zakarie Massi"
+        }
+      ]
+    },
+    {
+      "name": "Outsiterz",
+      "seed": 45,
+      "sourceTeamId": "1120",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Slovakia",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "34",
+          "name": "Alex Čabala"
+        },
+        {
+          "number": "18",
+          "name": "Alice Sauerová"
+        },
+        {
+          "number": "36",
+          "name": "Anna Prokešová"
+        },
+        {
+          "number": "13",
+          "name": "Bianka Bachratá Parmová"
+        },
+        {
+          "number": "95",
+          "name": "Branislav Šmatlánek"
+        },
+        {
+          "number": "43",
+          "name": "Daniel Molnár"
+        },
+        {
+          "number": "6",
+          "name": "Dominik Danek"
+        },
+        {
+          "number": "54",
+          "name": "Dominika Potočárová"
+        },
+        {
+          "number": "82",
+          "name": "Eliška Šifnerová"
+        },
+        {
+          "number": "27",
+          "name": "Ester Michálková"
+        },
+        {
+          "number": "53",
+          "name": "Filip Molnár"
+        },
+        {
+          "number": "80",
+          "name": "Gabriela Koutná"
+        },
+        {
+          "number": "47",
+          "name": "Hana Farská"
+        },
+        {
+          "number": "39",
+          "name": "Ivo Mikita"
+        },
+        {
+          "number": "7",
+          "name": "Jakub Malec"
+        },
+        {
+          "number": "70",
+          "name": "Ján Rosina"
+        },
+        {
+          "number": "11",
+          "name": "Josef Caha"
+        },
+        {
+          "number": "90",
+          "name": "Mária Maco"
+        },
+        {
+          "number": "9",
+          "name": "Martin Bachratý"
+        },
+        {
+          "number": "5",
+          "name": "Martina Chmelová"
+        },
+        {
+          "number": "25",
+          "name": "Miroslava Petrášová"
+        },
+        {
+          "number": "93",
+          "name": "Nela Ďanovská"
+        },
+        {
+          "number": "15",
+          "name": "Ondřej Batůšek"
+        },
+        {
+          "number": "49",
+          "name": "Ondrej Farský"
+        },
+        {
+          "number": "4",
+          "name": "Svätoslav Bollo"
+        }
+      ]
+    },
+    {
+      "name": "Panic",
+      "seed": 23,
+      "sourceTeamId": "1100",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Netherlands",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "26",
+          "name": "Caitlyn Wagner"
+        },
+        {
+          "number": "18",
+          "name": "Celine Greis"
+        },
+        {
+          "number": "25",
+          "name": "Emilio Sanchez Olivares"
+        },
+        {
+          "number": "27",
+          "name": "Emma Boom"
+        },
+        {
+          "number": "7",
+          "name": "Frank Ravoo"
+        },
+        {
+          "number": "33",
+          "name": "Gaia van Diemen Seoane"
+        },
+        {
+          "number": "40",
+          "name": "Guido van Woerkom"
+        },
+        {
+          "number": "30",
+          "name": "Hristina Koleva"
+        },
+        {
+          "number": "11",
+          "name": "Javier Morales"
+        },
+        {
+          "number": "3",
+          "name": "Karoline Gros"
+        },
+        {
+          "number": "21",
+          "name": "Kevin van Roosmalen"
+        },
+        {
+          "number": "2",
+          "name": "Kyra Homan"
+        },
+        {
+          "number": "28",
+          "name": "Liesbet Ooghe"
+        },
+        {
+          "number": "14",
+          "name": "Mandy Verbeek"
+        },
+        {
+          "number": "5",
+          "name": "Pieter Van der Plas"
+        },
+        {
+          "number": "17",
+          "name": "Ron Hoogwater"
+        },
+        {
+          "number": "10",
+          "name": "Roos Denisse"
+        },
+        {
+          "number": "66",
+          "name": "Thomas van Drunen"
+        },
+        {
+          "number": "1",
+          "name": "Thor van den Berg"
+        },
+        {
+          "number": "22",
+          "name": "Tim de Goede"
+        },
+        {
+          "number": "4",
+          "name": "Titas Motekaitis"
+        },
+        {
+          "number": "6",
+          "name": "Valentina Vaniushkina"
+        }
+      ]
+    },
+    {
+      "name": "PELT",
+      "seed": 40,
+      "sourceTeamId": "1078",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Ireland",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "33",
+          "name": "Andrew  Meade"
+        },
+        {
+          "number": "6",
+          "name": "Aoife McAllister"
+        },
+        {
+          "number": "35",
+          "name": "Ayano Nakanishi"
+        },
+        {
+          "number": "9",
+          "name": "Ben Martin"
+        },
+        {
+          "number": "55",
+          "name": "Betty Diamond"
+        },
+        {
+          "number": "25",
+          "name": "Brian O’Sullivan"
+        },
+        {
+          "number": "24",
+          "name": "Christina McKeon"
+        },
+        {
+          "number": "1",
+          "name": "Ciarán Moroney"
+        },
+        {
+          "number": "41",
+          "name": "Conor Pesch"
+        },
+        {
+          "number": "13",
+          "name": "Cristy McAllister"
+        },
+        {
+          "number": "43",
+          "name": "Darragh O’Sullivan"
+        },
+        {
+          "number": "57",
+          "name": "Darren Scully"
+        },
+        {
+          "number": "14",
+          "name": "Dylan Ryan"
+        },
+        {
+          "number": "34",
+          "name": "Fionn Murray"
+        },
+        {
+          "number": "2",
+          "name": "Jack Mitchell"
+        },
+        {
+          "number": "26",
+          "name": "Kate Boylan"
+        },
+        {
+          "number": "10",
+          "name": "Kinsey Miller"
+        },
+        {
+          "number": "80",
+          "name": "Kristiana  Buldure"
+        },
+        {
+          "number": "5",
+          "name": "Madi Cannon"
+        },
+        {
+          "number": "94",
+          "name": "Ruairí O’Brolchain"
+        },
+        {
+          "number": "27",
+          "name": "Vittoria  Rainusso"
+        },
+        {
+          "number": "22",
+          "name": "Yoshino Shimokawa"
+        }
+      ]
+    },
+    {
+      "name": "Reading Ultimate",
+      "seed": 18,
+      "sourceTeamId": "1060",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Great Britain",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "52",
+          "name": "Alex Edwards"
+        },
+        {
+          "number": "33",
+          "name": "Andre Ferreira"
+        },
+        {
+          "number": "20",
+          "name": "Andy Lewis"
+        },
+        {
+          "number": "24",
+          "name": "Benjamin Bruin"
+        },
+        {
+          "number": "59",
+          "name": "Billy Lawrance-Thorne"
+        },
+        {
+          "number": "15",
+          "name": "Chris Cox"
+        },
+        {
+          "number": "91",
+          "name": "Conor Hogan"
+        },
+        {
+          "number": "13",
+          "name": "Emily Powell-Folley"
+        },
+        {
+          "number": "37",
+          "name": "Fi Rae"
+        },
+        {
+          "number": "76",
+          "name": "Georgie Jones"
+        },
+        {
+          "number": "40",
+          "name": "Graham Kemp"
+        },
+        {
+          "number": "4",
+          "name": "Ilona Livarski-Bond"
+        },
+        {
+          "number": "57",
+          "name": "Imogen Wong"
+        },
+        {
+          "number": "63",
+          "name": "Jennifer Hagen"
+        },
+        {
+          "number": "88",
+          "name": "Jessie Liu"
+        },
+        {
+          "number": "72",
+          "name": "Lucy Peevers"
+        },
+        {
+          "number": "5",
+          "name": "Marissa Choong"
+        },
+        {
+          "number": "14",
+          "name": "Naman Patel"
+        },
+        {
+          "number": "11",
+          "name": "Philip Sandwell"
+        },
+        {
+          "number": "12",
+          "name": "Qiao Yan Soh"
+        },
+        {
+          "number": "8",
+          "name": "Roshun Karia"
+        },
+        {
+          "number": "28",
+          "name": "Tom Mannings"
+        },
+        {
+          "number": "77",
+          "name": "Zsazsa Kemp"
+        }
+      ]
+    },
+    {
+      "name": "Rebel",
+      "seed": 44,
+      "sourceTeamId": "1079",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Ireland",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "3",
+          "name": "Amber Hansma"
+        },
+        {
+          "number": "8",
+          "name": "Ava Lehane"
+        },
+        {
+          "number": "14",
+          "name": "Calum McSorley"
+        },
+        {
+          "number": "69",
+          "name": "Chelsea Love"
+        },
+        {
+          "number": "38",
+          "name": "Cian Hypolite"
+        },
+        {
+          "number": "29",
+          "name": "Clara Donovan"
+        },
+        {
+          "number": "7",
+          "name": "Daniel Nolan"
+        },
+        {
+          "number": "17",
+          "name": "Deirdre Kavanagh"
+        },
+        {
+          "number": "99",
+          "name": "Doireann Ni Mhuinmhneacháin"
+        },
+        {
+          "number": "81",
+          "name": "Drew Moore"
+        },
+        {
+          "number": "65",
+          "name": "Edel Cormac"
+        },
+        {
+          "number": "37",
+          "name": "Elisa Assié"
+        },
+        {
+          "number": "35",
+          "name": "Ellen McGarry"
+        },
+        {
+          "number": "42",
+          "name": "Hugh McGovern"
+        },
+        {
+          "number": "12",
+          "name": "Ian McAuliffe"
+        },
+        {
+          "number": "44",
+          "name": "James Wilson O'Callaghan"
+        },
+        {
+          "number": "2",
+          "name": "Leon Monks"
+        },
+        {
+          "number": "31",
+          "name": "Matthew Peters"
+        },
+        {
+          "number": "40",
+          "name": "Meghan Choy"
+        },
+        {
+          "number": "4",
+          "name": "Meghan Healy"
+        },
+        {
+          "number": "10",
+          "name": "Noah Sutton"
+        },
+        {
+          "number": "15",
+          "name": "Sadhbh Long"
+        },
+        {
+          "number": "21",
+          "name": "Sean Hill"
+        },
+        {
+          "number": "96",
+          "name": "Shane Monaghan"
+        }
+      ]
+    },
+    {
+      "name": "Royals",
+      "seed": 10,
+      "sourceTeamId": "1023",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Canada",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "7",
+          "name": "Benjamin Jiang"
+        },
+        {
+          "number": "95",
+          "name": "Colin Wu"
+        },
+        {
+          "number": "20",
+          "name": "Collefas Mot"
+        },
+        {
+          "number": "15",
+          "name": "Duncan Nichols"
+        },
+        {
+          "number": "1",
+          "name": "Edward Ross-Zhu"
+        },
+        {
+          "number": "83",
+          "name": "Emily Yen"
+        },
+        {
+          "number": "89",
+          "name": "Gabriella Ghieuw"
+        },
+        {
+          "number": "10",
+          "name": "Gagan Chatha"
+        },
+        {
+          "number": "8",
+          "name": "James Lehmann"
+        },
+        {
+          "number": "99",
+          "name": "Jenalyn Ng"
+        },
+        {
+          "number": "36",
+          "name": "Jessica Chung"
+        },
+        {
+          "number": "28",
+          "name": "Jessie Chen"
+        },
+        {
+          "number": "6",
+          "name": "Jocelyn Sun"
+        },
+        {
+          "number": "9",
+          "name": "Julia Zhou"
+        },
+        {
+          "number": "11",
+          "name": "Justin Podnar"
+        },
+        {
+          "number": "3",
+          "name": "Katie Wong"
+        },
+        {
+          "number": "13",
+          "name": "Kevin Tong"
+        },
+        {
+          "number": "25",
+          "name": "Kobe Mah"
+        },
+        {
+          "number": "0",
+          "name": "Lisa Liu"
+        },
+        {
+          "number": "2",
+          "name": "Marcus Yeung"
+        },
+        {
+          "number": "70",
+          "name": "Miu Shiraiwa"
+        },
+        {
+          "number": "18",
+          "name": "Ritchie Le"
+        },
+        {
+          "number": "16",
+          "name": "Russell Hamilton"
+        },
+        {
+          "number": "71",
+          "name": "Victor Tiet"
+        },
+        {
+          "number": "26",
+          "name": "Violet Lamoureux"
+        },
+        {
+          "number": "87",
+          "name": "Yu Chi Lin"
+        }
+      ]
+    },
+    {
+      "name": "Savage Ultimate",
+      "seed": 16,
+      "sourceTeamId": "1108",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Poland",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "86",
+          "name": "Adam Biegała"
+        },
+        {
+          "number": "48",
+          "name": "Adam Łepak"
+        },
+        {
+          "number": "23",
+          "name": "Anna Mączkowska"
+        },
+        {
+          "number": "80",
+          "name": "Anna Mirecka"
+        },
+        {
+          "number": "57",
+          "name": "Antoni Mirecki"
+        },
+        {
+          "number": "17",
+          "name": "Antonina Woźnicka"
+        },
+        {
+          "number": "88",
+          "name": "Bartosz Dworzecki"
+        },
+        {
+          "number": "47",
+          "name": "Benek Deskur"
+        },
+        {
+          "number": "41",
+          "name": "Filip Kudliński"
+        },
+        {
+          "number": "64",
+          "name": "Jakub Kaczmarek"
+        },
+        {
+          "number": "8",
+          "name": "Jakub Romanowski"
+        },
+        {
+          "number": "91",
+          "name": "Jędrzej Nowak"
+        },
+        {
+          "number": "4",
+          "name": "Joanna Depowska"
+        },
+        {
+          "number": "71",
+          "name": "Julia Henklewska"
+        },
+        {
+          "number": "11",
+          "name": "Karolina Fijołek"
+        },
+        {
+          "number": "21",
+          "name": "Katarzyna Sobczyk"
+        },
+        {
+          "number": "9",
+          "name": "Mateusz Bąk"
+        },
+        {
+          "number": "30",
+          "name": "Mateusz Gibki"
+        },
+        {
+          "number": "43",
+          "name": "Michał Schiller"
+        },
+        {
+          "number": "12",
+          "name": "Olivia Janicka"
+        },
+        {
+          "number": "56",
+          "name": "Stanisław Kopeć"
+        },
+        {
+          "number": "14",
+          "name": "Sylwia Waruszewska"
+        },
+        {
+          "number": "20",
+          "name": "Weronika Maciejewska"
+        }
+      ]
+    },
+    {
+      "name": "shame.",
+      "seed": 7,
+      "sourceTeamId": "1133",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "United States of America",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "33",
+          "name": "Alexandra Daniels"
+        },
+        {
+          "number": "48",
+          "name": "Aubree Dietrich"
+        },
+        {
+          "number": "19",
+          "name": "Blaise Sevier"
+        },
+        {
+          "number": "93",
+          "name": "Carter Hawkins"
+        },
+        {
+          "number": "29",
+          "name": "Casey Wu"
+        },
+        {
+          "number": "27",
+          "name": "Chris Gauen"
+        },
+        {
+          "number": "71",
+          "name": "Cole Wallin"
+        },
+        {
+          "number": "5",
+          "name": "Danielle Love"
+        },
+        {
+          "number": "44",
+          "name": "Edwin Finley"
+        },
+        {
+          "number": "13",
+          "name": "Elizabeth Murphy"
+        },
+        {
+          "number": "31",
+          "name": "Ellie Hasenohr"
+        },
+        {
+          "number": "14",
+          "name": "Jade McLaughlin"
+        },
+        {
+          "number": "81",
+          "name": "Joel Ives"
+        },
+        {
+          "number": "88",
+          "name": "Kasey Anderson"
+        },
+        {
+          "number": "25",
+          "name": "Marilyn Reich"
+        },
+        {
+          "number": "11",
+          "name": "Matthew Russell"
+        },
+        {
+          "number": "24",
+          "name": "Megan Jameson"
+        },
+        {
+          "number": "7",
+          "name": "Robin Fassett-Carman"
+        },
+        {
+          "number": "9",
+          "name": "Samuel Goldstein"
+        },
+        {
+          "number": "39",
+          "name": "Sandy Brown"
+        },
+        {
+          "number": "4",
+          "name": "Sarah Itoh"
+        },
+        {
+          "number": "97",
+          "name": "Sarah Pesch"
+        },
+        {
+          "number": "8",
+          "name": "Shayna Brock"
+        },
+        {
+          "number": "6",
+          "name": "Simon Montague"
+        },
+        {
+          "number": "15",
+          "name": "Spencer Tibbs"
+        },
+        {
+          "number": "22",
+          "name": "Thomas Brewster"
+        }
+      ]
+    },
+    {
+      "name": "Siempre",
+      "seed": 42,
+      "sourceTeamId": "1071",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Hong Kong, China",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Aidon Lee"
+        },
+        {
+          "number": "24",
+          "name": "Buzz SZETO"
+        },
+        {
+          "number": "52",
+          "name": "Chris Tsz Long Cheung"
+        },
+        {
+          "number": "7",
+          "name": "Chun Alexis Au Yeung"
+        },
+        {
+          "number": "19",
+          "name": "Colin Chan"
+        },
+        {
+          "number": "87",
+          "name": "Hiu Ha Lam"
+        },
+        {
+          "number": "47",
+          "name": "Ho Shan Lam"
+        },
+        {
+          "number": "55",
+          "name": "Jade Jopling"
+        },
+        {
+          "number": "82",
+          "name": "Jago Mario Long Hymn Chan"
+        },
+        {
+          "number": "66",
+          "name": "Jie Yu Chin"
+        },
+        {
+          "number": "21",
+          "name": "Jocelyn Li"
+        },
+        {
+          "number": "2",
+          "name": "Kai To Wong"
+        },
+        {
+          "number": "77",
+          "name": "Louis Gan"
+        },
+        {
+          "number": "6",
+          "name": "Nur Roselan"
+        },
+        {
+          "number": "43",
+          "name": "Putri Nur Syakirah Megat Muhaimin Hasrin"
+        },
+        {
+          "number": "73",
+          "name": "Rachael Lee"
+        },
+        {
+          "number": "97",
+          "name": "Shing To Lee"
+        },
+        {
+          "number": "10",
+          "name": "Sophia Aftab Ahmad"
+        },
+        {
+          "number": "11",
+          "name": "Wing Huen  Shing"
+        },
+        {
+          "number": "8",
+          "name": "Yuki Chui"
+        }
+      ]
+    },
+    {
+      "name": "SuperNova",
+      "seed": 39,
+      "sourceTeamId": "1121",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Chinese Taipei",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "23",
+          "name": "BO-JIE WANG"
+        },
+        {
+          "number": "87",
+          "name": "Brian Willson Bies"
+        },
+        {
+          "number": "25",
+          "name": "Catherine Chung"
+        },
+        {
+          "number": "6",
+          "name": "CHANG-YU CHIH"
+        },
+        {
+          "number": "48",
+          "name": "Christopher Lung"
+        },
+        {
+          "number": "18",
+          "name": "Chung-Wei Kao"
+        },
+        {
+          "number": "95",
+          "name": "GUAN-HUA CHEN"
+        },
+        {
+          "number": "50",
+          "name": "Jia Yue Sum"
+        },
+        {
+          "number": "30",
+          "name": "Kelly Liu"
+        },
+        {
+          "number": "73",
+          "name": "KUO-HSUN WANG"
+        },
+        {
+          "number": "9",
+          "name": "MENG-YIN CHUNG"
+        },
+        {
+          "number": "8",
+          "name": "Patrick Xu"
+        },
+        {
+          "number": "55",
+          "name": "Rachel Yao"
+        },
+        {
+          "number": "15",
+          "name": "Sanghwa Gim"
+        },
+        {
+          "number": "22",
+          "name": "Scott Tseyuan Xu"
+        },
+        {
+          "number": "12",
+          "name": "SHIH-CHIEH WEI"
+        },
+        {
+          "number": "16",
+          "name": "Ssu-Han Chen"
+        },
+        {
+          "number": "31",
+          "name": "Stephanie Lim"
+        },
+        {
+          "number": "20",
+          "name": "TZE-CHEE HUANG"
+        },
+        {
+          "number": "7",
+          "name": "TZU-I TU"
+        },
+        {
+          "number": "32",
+          "name": "WEI-CHENG LEE"
+        },
+        {
+          "number": "11",
+          "name": "William Chang"
+        },
+        {
+          "number": "36",
+          "name": "YA-YUAN HU"
+        },
+        {
+          "number": "19",
+          "name": "YU-HAN Hung"
+        },
+        {
+          "number": "28",
+          "name": "YU-HSUAN CHUANG"
+        },
+        {
+          "number": "65",
+          "name": "YUN-HSIN TU"
+        }
+      ]
+    },
+    {
+      "name": "Sweet Dreams",
+      "seed": 47,
+      "sourceTeamId": "1123",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Türkiye",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "61",
+          "name": "Altar Can Akyuz"
+        },
+        {
+          "number": "41",
+          "name": "Ayse Kubra ISIK Gobbato"
+        },
+        {
+          "number": "13",
+          "name": "Claire Slattery"
+        },
+        {
+          "number": "48",
+          "name": "Derin Su Kutaydin"
+        },
+        {
+          "number": "35",
+          "name": "Dillon Cooke"
+        },
+        {
+          "number": "9",
+          "name": "Diruhi Sesil Tozcu"
+        },
+        {
+          "number": "19",
+          "name": "Ebru Ozdes"
+        },
+        {
+          "number": "22",
+          "name": "Emma Lowenstein"
+        },
+        {
+          "number": "94",
+          "name": "Ferhat Aslan"
+        },
+        {
+          "number": "25",
+          "name": "Gabriella Palermo"
+        },
+        {
+          "number": "55",
+          "name": "Gökçem Gökmen"
+        },
+        {
+          "number": "33",
+          "name": "Hikmet Ersoz"
+        },
+        {
+          "number": "40",
+          "name": "Holden Cookson"
+        },
+        {
+          "number": "1",
+          "name": "Ivan Tran"
+        },
+        {
+          "number": "10",
+          "name": "Katya Piskun"
+        },
+        {
+          "number": "7",
+          "name": "Kivanc Erturk"
+        },
+        {
+          "number": "29",
+          "name": "Mehmet Eren Yucesan"
+        },
+        {
+          "number": "99",
+          "name": "Melih Geron"
+        },
+        {
+          "number": "15",
+          "name": "Melis Altinisik"
+        },
+        {
+          "number": "12",
+          "name": "Montana Roberts"
+        },
+        {
+          "number": "20",
+          "name": "Neyran Oz"
+        },
+        {
+          "number": "17",
+          "name": "Yankı Gürkan"
+        },
+        {
+          "number": "34",
+          "name": "Yigit Demiralp"
+        },
+        {
+          "number": "5",
+          "name": "Yorick Coomans"
+        }
+      ]
+    },
+    {
+      "name": "Tartu Turbulence",
+      "seed": 13,
+      "sourceTeamId": "1042",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Estonia",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "16",
+          "name": "Becky Thompson"
+        },
+        {
+          "number": "97",
+          "name": "Caitlin Johnson-Go"
+        },
+        {
+          "number": "21",
+          "name": "Gerda Triin Untera"
+        },
+        {
+          "number": "27",
+          "name": "Helen Tera"
+        },
+        {
+          "number": "31",
+          "name": "Ines Anett Nigol"
+        },
+        {
+          "number": "24",
+          "name": "Jaagup Lember"
+        },
+        {
+          "number": "7",
+          "name": "Jakob Tamm"
+        },
+        {
+          "number": "83",
+          "name": "Jonatan Angergård"
+        },
+        {
+          "number": "9",
+          "name": "Koit Helger Panksepp"
+        },
+        {
+          "number": "11",
+          "name": "Kristel Lints"
+        },
+        {
+          "number": "34",
+          "name": "Kristjan Loorits"
+        },
+        {
+          "number": "43",
+          "name": "Lauri Laurits"
+        },
+        {
+          "number": "18",
+          "name": "Lore Leppik"
+        },
+        {
+          "number": "2",
+          "name": "Marin Raba"
+        },
+        {
+          "number": "60",
+          "name": "Monika Zaczkowska"
+        },
+        {
+          "number": "19",
+          "name": "Otto Pärtel Palm"
+        },
+        {
+          "number": "12",
+          "name": "Ralf Tambets"
+        },
+        {
+          "number": "98",
+          "name": "Tannor Johnson-Go"
+        },
+        {
+          "number": "99",
+          "name": "Tess Johnson"
+        },
+        {
+          "number": "8",
+          "name": "Timo Ilves"
+        },
+        {
+          "number": "23",
+          "name": "Triin Punab"
+        },
+        {
+          "number": "0",
+          "name": "Villem Tõnisson"
+        }
+      ]
+    },
+    {
+      "name": "Tiefseetaucher",
+      "seed": 8,
+      "sourceTeamId": "1068",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Germany",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "55",
+          "name": "Alina Hermeking"
+        },
+        {
+          "number": "3",
+          "name": "Charlotte Pfister"
+        },
+        {
+          "number": "14",
+          "name": "Denis Holzer"
+        },
+        {
+          "number": "25",
+          "name": "Dhriti Kiran"
+        },
+        {
+          "number": "20",
+          "name": "Franziska Meyer"
+        },
+        {
+          "number": "13",
+          "name": "Jacob Körner"
+        },
+        {
+          "number": "0",
+          "name": "Justin Wallace"
+        },
+        {
+          "number": "31",
+          "name": "Lena Schäfer"
+        },
+        {
+          "number": "37",
+          "name": "Linnea Seibert"
+        },
+        {
+          "number": "44",
+          "name": "Martin Wohlleber"
+        },
+        {
+          "number": "41",
+          "name": "Melanie Brandl"
+        },
+        {
+          "number": "52",
+          "name": "Michael Stops"
+        },
+        {
+          "number": "33",
+          "name": "Mira Glocker"
+        },
+        {
+          "number": "4",
+          "name": "Sarah Hermeking"
+        },
+        {
+          "number": "7",
+          "name": "Saskia Beeck"
+        },
+        {
+          "number": "60",
+          "name": "Sebastian Schreiber"
+        },
+        {
+          "number": "27",
+          "name": "Simon Walker"
+        },
+        {
+          "number": "73",
+          "name": "Sophie Rossteuscher"
+        },
+        {
+          "number": "19",
+          "name": "Tobias Bork"
+        },
+        {
+          "number": "99",
+          "name": "Tom Blasman"
+        },
+        {
+          "number": "15",
+          "name": "Torben Hörnschemeyer"
+        },
+        {
+          "number": "22",
+          "name": "Yannik Rincker"
+        }
+      ]
+    },
+    {
+      "name": "Top Ultimate Mix",
+      "seed": 26,
+      "sourceTeamId": "1107",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Panama",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "10",
+          "name": "Brian Marcano"
+        },
+        {
+          "number": "77",
+          "name": "Claudio Chiodi"
+        },
+        {
+          "number": "62",
+          "name": "David Credidio"
+        },
+        {
+          "number": "32",
+          "name": "Diana Constable"
+        },
+        {
+          "number": "7",
+          "name": "Gavin Hart"
+        },
+        {
+          "number": "24",
+          "name": "Harold Henry"
+        },
+        {
+          "number": "81",
+          "name": "Jacob Rosen"
+        },
+        {
+          "number": "38",
+          "name": "Jay Vlieg"
+        },
+        {
+          "number": "11",
+          "name": "Joaquin Sayalero"
+        },
+        {
+          "number": "47",
+          "name": "John Shelley"
+        },
+        {
+          "number": "23",
+          "name": "Jordan Salazar"
+        },
+        {
+          "number": "28",
+          "name": "Jose  Gámez"
+        },
+        {
+          "number": "8",
+          "name": "Juan Hincapie"
+        },
+        {
+          "number": "96",
+          "name": "Kathiuska Victoria"
+        },
+        {
+          "number": "13",
+          "name": "Katrina Brock"
+        },
+        {
+          "number": "18",
+          "name": "Keinys  Salamanca"
+        },
+        {
+          "number": "45",
+          "name": "Maria Virginia Chiodi"
+        },
+        {
+          "number": "90",
+          "name": "Natalia Jaen"
+        },
+        {
+          "number": "19",
+          "name": "Peter Marback"
+        },
+        {
+          "number": "31",
+          "name": "Poppy Hartmann"
+        },
+        {
+          "number": "26",
+          "name": "Ryan Plant"
+        },
+        {
+          "number": "20",
+          "name": "Sara Chiodi"
+        },
+        {
+          "number": "29",
+          "name": "Sara Hedissa Montenegro"
+        },
+        {
+          "number": "35",
+          "name": "Tyler Boston"
+        },
+        {
+          "number": "5",
+          "name": "Tyler Mead"
+        },
+        {
+          "number": "76",
+          "name": "Valeria Constable"
+        }
+      ]
+    },
+    {
+      "name": "Union",
+      "seed": 17,
+      "sourceTeamId": "1024",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Canada",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "19",
+          "name": "Aujin Li"
+        },
+        {
+          "number": "17",
+          "name": "Brianna Prentice"
+        },
+        {
+          "number": "40",
+          "name": "Brooklyn Cheer"
+        },
+        {
+          "number": "71",
+          "name": "Bryan Yue"
+        },
+        {
+          "number": "23",
+          "name": "Eelavan Jeevarajah"
+        },
+        {
+          "number": "8",
+          "name": "Emilija Rudzitis"
+        },
+        {
+          "number": "5",
+          "name": "Erich Phang-Lyn"
+        },
+        {
+          "number": "10",
+          "name": "Ian Hanson"
+        },
+        {
+          "number": "7",
+          "name": "Jacqueline Man"
+        },
+        {
+          "number": "24",
+          "name": "Jamee Nepom"
+        },
+        {
+          "number": "18",
+          "name": "Jan Dick"
+        },
+        {
+          "number": "25",
+          "name": "Jordan Atchison"
+        },
+        {
+          "number": "91",
+          "name": "Katie McMullen"
+        },
+        {
+          "number": "26",
+          "name": "Kelsey Priestman"
+        },
+        {
+          "number": "13",
+          "name": "Kelsi Mallany"
+        },
+        {
+          "number": "84",
+          "name": "Kira Cheer"
+        },
+        {
+          "number": "1",
+          "name": "Logan Keillor"
+        },
+        {
+          "number": "66",
+          "name": "Mackinley Szumlanski"
+        },
+        {
+          "number": "27",
+          "name": "Marina Scott"
+        },
+        {
+          "number": "11",
+          "name": "Nelson Le"
+        },
+        {
+          "number": "96",
+          "name": "Oren Binnun"
+        },
+        {
+          "number": "28",
+          "name": "Rhea Palmer"
+        },
+        {
+          "number": "2",
+          "name": "Ryota Udo"
+        },
+        {
+          "number": "22",
+          "name": "Samantha Mok"
+        },
+        {
+          "number": "6",
+          "name": "Sarah Burke"
+        },
+        {
+          "number": "12",
+          "name": "Thomas Panayiotopoulos"
+        }
+      ]
+    },
+    {
+      "name": "XIST",
+      "seed": 6,
+      "sourceTeamId": "1132",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "United States of America",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "3",
+          "name": "Abagael Cheng"
+        },
+        {
+          "number": "6",
+          "name": "Audrey Parrott"
+        },
+        {
+          "number": "18",
+          "name": "Axel Agami Contreras"
+        },
+        {
+          "number": "28",
+          "name": "Benjamin Katz"
+        },
+        {
+          "number": "25",
+          "name": "Benjamin Simmons"
+        },
+        {
+          "number": "26",
+          "name": "Cara Sieber"
+        },
+        {
+          "number": "42",
+          "name": "Daniel Thornton"
+        },
+        {
+          "number": "16",
+          "name": "Elias Levey-Swain"
+        },
+        {
+          "number": "19",
+          "name": "Eliot Bemis"
+        },
+        {
+          "number": "33",
+          "name": "Emily Barrett"
+        },
+        {
+          "number": "53",
+          "name": "Emma Piorier"
+        },
+        {
+          "number": "2",
+          "name": "Jolene Zheng"
+        },
+        {
+          "number": "24",
+          "name": "Jolie Krebs"
+        },
+        {
+          "number": "12",
+          "name": "Ke'ali McCarter"
+        },
+        {
+          "number": "7",
+          "name": "Luisa Maria Neves"
+        },
+        {
+          "number": "36",
+          "name": "Matthew Wiener"
+        },
+        {
+          "number": "84",
+          "name": "Matthias Ling"
+        },
+        {
+          "number": "88",
+          "name": "Nicole Hair"
+        },
+        {
+          "number": "4",
+          "name": "Nola Kim Mayer"
+        },
+        {
+          "number": "17",
+          "name": "Oliver Chartock"
+        },
+        {
+          "number": "29",
+          "name": "Oscar Kohut"
+        },
+        {
+          "number": "10",
+          "name": "Ryan Drost"
+        },
+        {
+          "number": "11",
+          "name": "Sadie Jezierski"
+        },
+        {
+          "number": "74",
+          "name": "Sam Harris"
+        },
+        {
+          "number": "23",
+          "name": "Theo Shapinsky"
+        },
+        {
+          "number": "21",
+          "name": "Theresa Yu"
+        }
+      ]
+    },
+    {
+      "name": "Zamperl",
+      "seed": 33,
+      "sourceTeamId": "1067",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Germany",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "32",
+          "name": "Aaron Wolf"
+        },
+        {
+          "number": "11",
+          "name": "Emma Falke"
+        },
+        {
+          "number": "17",
+          "name": "Fabian Maierhofer"
+        },
+        {
+          "number": "7",
+          "name": "Felix von Falkenhausen"
+        },
+        {
+          "number": "6",
+          "name": "Frida Rücker"
+        },
+        {
+          "number": "21",
+          "name": "Henri Bernecker"
+        },
+        {
+          "number": "2",
+          "name": "Isabel Kuersten"
+        },
+        {
+          "number": "96",
+          "name": "Janosch Unger"
+        },
+        {
+          "number": "59",
+          "name": "Jonas Czwienzek"
+        },
+        {
+          "number": "29",
+          "name": "Josef Ebner"
+        },
+        {
+          "number": "9",
+          "name": "Julian Balzer"
+        },
+        {
+          "number": "26",
+          "name": "Laura Klimesch"
+        },
+        {
+          "number": "12",
+          "name": "Lisa Schütz"
+        },
+        {
+          "number": "99",
+          "name": "Luana Kaiser"
+        },
+        {
+          "number": "42",
+          "name": "Magdalena Schütz"
+        },
+        {
+          "number": "18",
+          "name": "Michael Schütz"
+        },
+        {
+          "number": "15",
+          "name": "Moritz Klimesch"
+        },
+        {
+          "number": "14",
+          "name": "Paula Wagner"
+        },
+        {
+          "number": "4",
+          "name": "Philipp Rieder"
+        },
+        {
+          "number": "25",
+          "name": "Pia Bankwitz"
+        },
+        {
+          "number": "5",
+          "name": "Swenja Kastenmiller"
+        },
+        {
+          "number": "19",
+          "name": "Tobias Maierhofer"
+        },
+        {
+          "number": "22",
+          "name": "Valérie Ebner"
+        },
+        {
+          "number": "28",
+          "name": "Vincent Wagner"
+        }
+      ]
+    },
+    {
+      "name": "ZU Splash",
+      "seed": 21,
+      "sourceTeamId": "1119",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Switzerland",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "17",
+          "name": "Alexandra Tutuian"
+        },
+        {
+          "number": "12",
+          "name": "Anika Gnaedinger"
+        },
+        {
+          "number": "28",
+          "name": "Anika Lünsmann"
+        },
+        {
+          "number": "95",
+          "name": "Benjamin Willi"
+        },
+        {
+          "number": "98",
+          "name": "Cedric von Jüchen"
+        },
+        {
+          "number": "81",
+          "name": "Emily Cai"
+        },
+        {
+          "number": "27",
+          "name": "Erica Lastufka"
+        },
+        {
+          "number": "32",
+          "name": "Fiona Pacifico"
+        },
+        {
+          "number": "8",
+          "name": "Francesca Pietrafesa"
+        },
+        {
+          "number": "9",
+          "name": "Jan Ghadamian"
+        },
+        {
+          "number": "3",
+          "name": "Jason Christian"
+        },
+        {
+          "number": "51",
+          "name": "Lilli Gerber"
+        },
+        {
+          "number": "23",
+          "name": "Lola Bardel"
+        },
+        {
+          "number": "99",
+          "name": "Luca Godenzini"
+        },
+        {
+          "number": "29",
+          "name": "Malvina Voclova"
+        },
+        {
+          "number": "18",
+          "name": "Martin Fahndrich"
+        },
+        {
+          "number": "19",
+          "name": "Moritz Roevekamp"
+        },
+        {
+          "number": "34",
+          "name": "Noah Kesseli"
+        },
+        {
+          "number": "1",
+          "name": "Oscar Weber"
+        },
+        {
+          "number": "50",
+          "name": "Philip Arm"
+        },
+        {
+          "number": "30",
+          "name": "Quinn Bergeron"
+        },
+        {
+          "number": "11",
+          "name": "Ronja Seibert"
+        },
+        {
+          "number": "70",
+          "name": "Steffen Van"
+        },
+        {
+          "number": "54",
+          "name": "Thanh Elsener"
+        },
+        {
+          "number": "42",
+          "name": "Tim Mueller"
+        },
+        {
+          "number": "59",
+          "name": "Yael Grob"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Hybrid",
+              "team2": "Aethers Warsaw",
+              "score1": 15,
+              "score2": 3,
+              "datetime": "2026-08-16T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Hybrid",
+              "team2": "Huwa",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2026-08-16T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Hybrid",
+              "team2": "Airborne",
+              "score1": 15,
+              "score2": 5,
+              "datetime": "2026-08-17T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Hybrid",
+              "team2": "Reading Ultimate",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2026-08-15T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Hybrid",
+              "team2": "Savage Ultimate",
+              "score1": 15,
+              "score2": 6,
+              "datetime": "2026-08-18T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Savage Ultimate",
+              "team2": "Aethers Warsaw",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2026-08-17T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Savage Ultimate",
+              "team2": "Huwa",
+              "score1": 13,
+              "score2": 15,
+              "datetime": "2026-08-15T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Savage Ultimate",
+              "team2": "Airborne",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2026-08-16T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Savage Ultimate",
+              "team2": "Reading Ultimate",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2026-08-16T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Reading Ultimate",
+              "team2": "Aethers Warsaw",
+              "score1": 13,
+              "score2": 14,
+              "datetime": "2026-08-16T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Reading Ultimate",
+              "team2": "Huwa",
+              "score1": 13,
+              "score2": 14,
+              "datetime": "2026-08-17T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Reading Ultimate",
+              "team2": "Airborne",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2026-08-18T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Airborne",
+              "team2": "Aethers Warsaw",
+              "score1": 10,
+              "score2": 15,
+              "datetime": "2026-08-15T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Airborne",
+              "team2": "Huwa",
+              "score1": 10,
+              "score2": 15,
+              "datetime": "2026-08-16T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Huwa",
+              "team2": "Aethers Warsaw",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2026-08-18T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool B",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Odyssée",
+              "team2": "Disctèrics",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2026-08-16T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Odyssée",
+              "team2": "Charrúa",
+              "score1": 15,
+              "score2": 6,
+              "datetime": "2026-08-16T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Odyssée",
+              "team2": "ERHe Ultimate",
+              "score1": 15,
+              "score2": 13,
+              "datetime": "2026-08-17T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Odyssée",
+              "team2": "Freakshow",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2026-08-15T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Odyssée",
+              "team2": "Tartu Turbulence",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2026-08-18T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Tartu Turbulence",
+              "team2": "Disctèrics",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2026-08-17T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Tartu Turbulence",
+              "team2": "Charrúa",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2026-08-15T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Tartu Turbulence",
+              "team2": "ERHe Ultimate",
+              "score1": 15,
+              "score2": 11,
+              "datetime": "2026-08-16T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Tartu Turbulence",
+              "team2": "Freakshow",
+              "score1": 12,
+              "score2": 15,
+              "datetime": "2026-08-16T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Freakshow",
+              "team2": "Disctèrics",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2026-08-16T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Freakshow",
+              "team2": "Charrúa",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2026-08-17T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Freakshow",
+              "team2": "ERHe Ultimate",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2026-08-18T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "ERHe Ultimate",
+              "team2": "Disctèrics",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2026-08-15T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "ERHe Ultimate",
+              "team2": "Charrúa",
+              "score1": 14,
+              "score2": 15,
+              "datetime": "2026-08-16T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Charrúa",
+              "team2": "Disctèrics",
+              "score1": 7,
+              "score2": 15,
+              "datetime": "2026-08-18T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool C",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Manly Mosh",
+              "team2": "Outsiterz",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2026-08-15T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Manly Mosh",
+              "team2": "Zamperl",
+              "score1": 15,
+              "score2": 11,
+              "datetime": "2026-08-18T15:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Manly Mosh",
+              "team2": "Framnes",
+              "score1": 15,
+              "score2": 2,
+              "datetime": "2026-08-16T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Manly Mosh",
+              "team2": "Union",
+              "score1": 11,
+              "score2": 15,
+              "datetime": "2026-08-17T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Manly Mosh",
+              "team2": "Macondo",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2026-08-16T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Macondo",
+              "team2": "Outsiterz",
+              "score1": 10,
+              "score2": 15,
+              "datetime": "2026-08-16T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Macondo",
+              "team2": "Zamperl",
+              "score1": 5,
+              "score2": 15,
+              "datetime": "2026-08-17T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Macondo",
+              "team2": "Framnes",
+              "score1": 15,
+              "score2": 3,
+              "datetime": "2026-08-18T15:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Macondo",
+              "team2": "Union",
+              "score1": 5,
+              "score2": 15,
+              "datetime": "2026-08-15T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Union",
+              "team2": "Outsiterz",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2026-08-18T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Union",
+              "team2": "Zamperl",
+              "score1": 7,
+              "score2": 15,
+              "datetime": "2026-08-16T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Union",
+              "team2": "Framnes",
+              "score1": 15,
+              "score2": 2,
+              "datetime": "2026-08-16T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Framnes",
+              "team2": "Outsiterz",
+              "score1": 3,
+              "score2": 15,
+              "datetime": "2026-08-17T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Framnes",
+              "team2": "Zamperl",
+              "score1": 4,
+              "score2": 15,
+              "datetime": "2026-08-15T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Zamperl",
+              "team2": "Outsiterz",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2026-08-16T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool D",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Mosquitos Klosterneuburg",
+              "team2": "Sweet Dreams",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2026-08-15T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Mosquitos Klosterneuburg",
+              "team2": "Monkey",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2026-08-18T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Mosquitos Klosterneuburg",
+              "team2": "Brisbanites",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2026-08-16T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Mosquitos Klosterneuburg",
+              "team2": "Leamington Lemmings",
+              "score1": 15,
+              "score2": 11,
+              "datetime": "2026-08-17T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Mosquitos Klosterneuburg",
+              "team2": "Academia",
+              "score1": 15,
+              "score2": 11,
+              "datetime": "2026-08-16T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Academia",
+              "team2": "Sweet Dreams",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2026-08-16T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Academia",
+              "team2": "Monkey",
+              "score1": 5,
+              "score2": 15,
+              "datetime": "2026-08-17T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Academia",
+              "team2": "Brisbanites",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2026-08-18T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Academia",
+              "team2": "Leamington Lemmings",
+              "score1": 15,
+              "score2": 13,
+              "datetime": "2026-08-15T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Leamington Lemmings",
+              "team2": "Sweet Dreams",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2026-08-18T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Leamington Lemmings",
+              "team2": "Monkey",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2026-08-16T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Leamington Lemmings",
+              "team2": "Brisbanites",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2026-08-16T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Brisbanites",
+              "team2": "Sweet Dreams",
+              "score1": 11,
+              "score2": 14,
+              "datetime": "2026-08-17T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Brisbanites",
+              "team2": "Monkey",
+              "score1": 10,
+              "score2": 15,
+              "datetime": "2026-08-15T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Monkey",
+              "team2": "Sweet Dreams",
+              "score1": 15,
+              "score2": 14,
+              "datetime": "2026-08-16T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool E",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Deep Space",
+              "team2": "Chilli Heat",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2026-08-16T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Deep Space",
+              "team2": "PELT",
+              "score1": 15,
+              "score2": 11,
+              "datetime": "2026-08-17T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Deep Space",
+              "team2": "Top Ultimate Mix",
+              "score1": 14,
+              "score2": 11,
+              "datetime": "2026-08-18T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Deep Space",
+              "team2": "Helsinki Ultimate",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2026-08-16T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Deep Space",
+              "team2": "JANDLUX",
+              "score1": 15,
+              "score2": 11,
+              "datetime": "2026-08-15T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "JANDLUX",
+              "team2": "Chilli Heat",
+              "score1": 10,
+              "score2": 15,
+              "datetime": "2026-08-18T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "JANDLUX",
+              "team2": "PELT",
+              "score1": 14,
+              "score2": 12,
+              "datetime": "2026-08-16T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "JANDLUX",
+              "team2": "Top Ultimate Mix",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2026-08-17T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "JANDLUX",
+              "team2": "Helsinki Ultimate",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2026-08-16T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Helsinki Ultimate",
+              "team2": "Chilli Heat",
+              "score1": 10,
+              "score2": 15,
+              "datetime": "2026-08-17T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Helsinki Ultimate",
+              "team2": "PELT",
+              "score1": 9,
+              "score2": 15,
+              "datetime": "2026-08-18T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Helsinki Ultimate",
+              "team2": "Top Ultimate Mix",
+              "score1": 14,
+              "score2": 15,
+              "datetime": "2026-08-15T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Top Ultimate Mix",
+              "team2": "Chilli Heat",
+              "score1": 12,
+              "score2": 15,
+              "datetime": "2026-08-16T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Top Ultimate Mix",
+              "team2": "PELT",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2026-08-16T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "PELT",
+              "team2": "Chilli Heat",
+              "score1": 15,
+              "score2": 13,
+              "datetime": "2026-08-15T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool F",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "XIST",
+              "team2": "Guayota",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2026-08-15T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "XIST",
+              "team2": "Gentle",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2026-08-16T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "XIST",
+              "team2": "Chilly",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2026-08-18T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "XIST",
+              "team2": "33 Tours",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2026-08-16T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "XIST",
+              "team2": "Meclao",
+              "score1": 15,
+              "score2": 6,
+              "datetime": "2026-08-17T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Meclao",
+              "team2": "Guayota",
+              "score1": 15,
+              "score2": 11,
+              "datetime": "2026-08-18T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Meclao",
+              "team2": "Gentle",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2026-08-16T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Meclao",
+              "team2": "Chilly",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2026-08-16T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Meclao",
+              "team2": "33 Tours",
+              "score1": 11,
+              "score2": 15,
+              "datetime": "2026-08-15T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "33 Tours",
+              "team2": "Guayota",
+              "score1": 15,
+              "score2": 14,
+              "datetime": "2026-08-16T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "33 Tours",
+              "team2": "Gentle",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2026-08-18T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "33 Tours",
+              "team2": "Chilly",
+              "score1": 15,
+              "score2": 11,
+              "datetime": "2026-08-17T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Chilly",
+              "team2": "Guayota",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2026-08-16T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Chilly",
+              "team2": "Gentle",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2026-08-15T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Gentle",
+              "team2": "Guayota",
+              "score1": 10,
+              "score2": 15,
+              "datetime": "2026-08-17T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool G",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "shame.",
+              "team2": "Rebel",
+              "score1": 15,
+              "score2": 6,
+              "datetime": "2026-08-15T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "shame.",
+              "team2": "Avalon",
+              "score1": 15,
+              "score2": 5,
+              "datetime": "2026-08-16T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "shame.",
+              "team2": "Hammers Bs As",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2026-08-17T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "shame.",
+              "team2": "ZU Splash",
+              "score1": 15,
+              "score2": 6,
+              "datetime": "2026-08-18T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "shame.",
+              "team2": "BFD Redshot",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2026-08-16T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "BFD Redshot",
+              "team2": "Rebel",
+              "score1": 15,
+              "score2": 14,
+              "datetime": "2026-08-17T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "BFD Redshot",
+              "team2": "Avalon",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2026-08-18T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "BFD Redshot",
+              "team2": "Hammers Bs As",
+              "score1": 15,
+              "score2": 11,
+              "datetime": "2026-08-16T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "BFD Redshot",
+              "team2": "ZU Splash",
+              "score1": 11,
+              "score2": 15,
+              "datetime": "2026-08-15T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "ZU Splash",
+              "team2": "Rebel",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2026-08-16T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "ZU Splash",
+              "team2": "Avalon",
+              "score1": 14,
+              "score2": 12,
+              "datetime": "2026-08-17T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "ZU Splash",
+              "team2": "Hammers Bs As",
+              "score1": 14,
+              "score2": 11,
+              "datetime": "2026-08-16T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Hammers Bs As",
+              "team2": "Rebel",
+              "score1": 14,
+              "score2": 9,
+              "datetime": "2026-08-18T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Hammers Bs As",
+              "team2": "Avalon",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2026-08-15T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Avalon",
+              "team2": "Rebel",
+              "score1": 13,
+              "score2": 15,
+              "datetime": "2026-08-16T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool H",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Tiefseetaucher",
+              "team2": "Siempre",
+              "score1": 15,
+              "score2": 3,
+              "datetime": "2026-08-15T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Tiefseetaucher",
+              "team2": "SuperNova",
+              "score1": 15,
+              "score2": 11,
+              "datetime": "2026-08-16T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Tiefseetaucher",
+              "team2": "CUS Padova Rangərs",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2026-08-17T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Tiefseetaucher",
+              "team2": "Panic",
+              "score1": 15,
+              "score2": 5,
+              "datetime": "2026-08-18T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Tiefseetaucher",
+              "team2": "Royals",
+              "score1": 15,
+              "score2": 11,
+              "datetime": "2026-08-16T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Royals",
+              "team2": "Siempre",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2026-08-17T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Royals",
+              "team2": "SuperNova",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2026-08-18T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Royals",
+              "team2": "CUS Padova Rangərs",
+              "score1": 14,
+              "score2": 13,
+              "datetime": "2026-08-16T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Royals",
+              "team2": "Panic",
+              "score1": 15,
+              "score2": 2,
+              "datetime": "2026-08-15T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Panic",
+              "team2": "Siempre",
+              "score1": 15,
+              "score2": 13,
+              "datetime": "2026-08-16T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Panic",
+              "team2": "SuperNova",
+              "score1": 7,
+              "score2": 15,
+              "datetime": "2026-08-17T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Panic",
+              "team2": "CUS Padova Rangərs",
+              "score1": 9,
+              "score2": 15,
+              "datetime": "2026-08-16T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "CUS Padova Rangərs",
+              "team2": "Siempre",
+              "score1": 15,
+              "score2": 5,
+              "datetime": "2026-08-18T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "CUS Padova Rangərs",
+              "team2": "SuperNova",
+              "score1": 11,
+              "score2": 15,
+              "datetime": "2026-08-15T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "SuperNova",
+              "team2": "Siempre",
+              "score1": 15,
+              "score2": 5,
+              "datetime": "2026-08-16T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Bracket Play",
+      "groups": [
+        {
+          "name": "Playoff (1-32)",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Hybrid",
+              "team2": "Academia",
+              "score1": 15,
+              "score2": 6,
+              "datetime": "2026-08-19T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Freakshow",
+              "team2": "Union",
+              "score1": 11,
+              "score2": 15,
+              "datetime": "2026-08-19T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Tiefseetaucher",
+              "team2": "Top Ultimate Mix",
+              "score1": 15,
+              "score2": 5,
+              "datetime": "2026-08-19T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "ZU Splash",
+              "team2": "Meclao",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2026-08-19T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Deep Space",
+              "team2": "CUS Padova Rangərs",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2026-08-19T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "33 Tours",
+              "team2": "BFD Redshot",
+              "score1": 14,
+              "score2": 10,
+              "datetime": "2026-08-19T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Mosquitos Klosterneuburg",
+              "team2": "Aethers Warsaw",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2026-08-19T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Manly Mosh",
+              "team2": "Tartu Turbulence",
+              "score1": 14,
+              "score2": 15,
+              "datetime": "2026-08-19T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Zamperl",
+              "team2": "ERHe Ultimate",
+              "score1": 15,
+              "score2": 6,
+              "datetime": "2026-08-19T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Monkey",
+              "team2": "Savage Ultimate",
+              "score1": 15,
+              "score2": 13,
+              "datetime": "2026-08-19T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "XIST",
+              "team2": "Hammers Bs As",
+              "score1": 15,
+              "score2": 5,
+              "datetime": "2026-08-19T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Chilli Heat",
+              "team2": "SuperNova",
+              "score1": 8,
+              "score2": 15,
+              "datetime": "2026-08-19T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "shame.",
+              "team2": "Chilly",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2026-08-19T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Royals",
+              "team2": "JANDLUX",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2026-08-19T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Odyssée",
+              "team2": "Outsiterz",
+              "score1": 14,
+              "score2": 12,
+              "datetime": "2026-08-19T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Huwa",
+              "team2": "Leamington Lemmings",
+              "score1": 14,
+              "score2": 13,
+              "datetime": "2026-08-19T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Hybrid",
+              "team2": "Union",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2026-08-19T14:30:00Z",
+              "round": "Round 2",
+              "status": "Final"
+            },
+            {
+              "team1": "Tiefseetaucher",
+              "team2": "ZU Splash",
+              "score1": 15,
+              "score2": 6,
+              "datetime": "2026-08-19T14:30:00Z",
+              "round": "Round 2",
+              "status": "Final"
+            },
+            {
+              "team1": "Deep Space",
+              "team2": "33 Tours",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2026-08-19T14:30:00Z",
+              "round": "Round 2",
+              "status": "Final"
+            },
+            {
+              "team1": "Mosquitos Klosterneuburg",
+              "team2": "Tartu Turbulence",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2026-08-19T14:30:00Z",
+              "round": "Round 2",
+              "status": "Final"
+            },
+            {
+              "team1": "Zamperl",
+              "team2": "Monkey",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2026-08-19T14:30:00Z",
+              "round": "Round 2",
+              "status": "Final"
+            },
+            {
+              "team1": "XIST",
+              "team2": "SuperNova",
+              "score1": 15,
+              "score2": 11,
+              "datetime": "2026-08-19T14:30:00Z",
+              "round": "Round 2",
+              "status": "Final"
+            },
+            {
+              "team1": "shame.",
+              "team2": "Royals",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2026-08-19T14:30:00Z",
+              "round": "Round 2",
+              "status": "Final"
+            },
+            {
+              "team1": "Odyssée",
+              "team2": "Huwa",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2026-08-19T14:30:00Z",
+              "round": "Round 2",
+              "status": "Final"
+            },
+            {
+              "team1": "Academia",
+              "team2": "Freakshow",
+              "score1": 12,
+              "score2": 11,
+              "datetime": "2026-08-19T12:30:00Z",
+              "round": "Round 2",
+              "status": "Final"
+            },
+            {
+              "team1": "Top Ultimate Mix",
+              "team2": "Meclao",
+              "score1": 9,
+              "score2": 15,
+              "datetime": "2026-08-19T12:30:00Z",
+              "round": "Round 2",
+              "status": "Final"
+            },
+            {
+              "team1": "CUS Padova Rangərs",
+              "team2": "BFD Redshot",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2026-08-19T12:30:00Z",
+              "round": "Round 2",
+              "status": "Final"
+            },
+            {
+              "team1": "Aethers Warsaw",
+              "team2": "Manly Mosh",
+              "score1": 6,
+              "score2": 15,
+              "datetime": "2026-08-19T12:30:00Z",
+              "round": "Round 2",
+              "status": "Final"
+            },
+            {
+              "team1": "ERHe Ultimate",
+              "team2": "Savage Ultimate",
+              "score1": 11,
+              "score2": 15,
+              "datetime": "2026-08-19T12:30:00Z",
+              "round": "Round 2",
+              "status": "Final"
+            },
+            {
+              "team1": "Hammers Bs As",
+              "team2": "Chilli Heat",
+              "score1": 10,
+              "score2": 15,
+              "datetime": "2026-08-19T12:30:00Z",
+              "round": "Round 2",
+              "status": "Final"
+            },
+            {
+              "team1": "Chilly",
+              "team2": "JANDLUX",
+              "score1": 9,
+              "score2": 14,
+              "datetime": "2026-08-19T12:30:00Z",
+              "round": "Round 2",
+              "status": "Final"
+            },
+            {
+              "team1": "Outsiterz",
+              "team2": "Leamington Lemmings",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2026-08-19T12:30:00Z",
+              "round": "Round 2",
+              "status": "Final"
+            },
+            {
+              "team1": "Hybrid",
+              "team2": "Tiefseetaucher",
+              "score1": 15,
+              "score2": 11,
+              "datetime": "2026-08-20T10:00:00Z",
+              "round": "Quarterfinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Deep Space",
+              "team2": "Mosquitos Klosterneuburg",
+              "score1": 14,
+              "score2": 15,
+              "datetime": "2026-08-20T10:00:00Z",
+              "round": "Quarterfinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Zamperl",
+              "team2": "XIST",
+              "score1": 12,
+              "score2": 15,
+              "datetime": "2026-08-20T10:00:00Z",
+              "round": "Quarterfinals",
+              "status": "Final"
+            },
+            {
+              "team1": "shame.",
+              "team2": "Odyssée",
+              "score1": 13,
+              "score2": 12,
+              "datetime": "2026-08-20T10:00:00Z",
+              "round": "Quarterfinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Union",
+              "team2": "ZU Splash",
+              "score1": 14,
+              "score2": 15,
+              "datetime": "2026-08-20T08:00:00Z",
+              "round": "Quarterfinals",
+              "status": "Final"
+            },
+            {
+              "team1": "33 Tours",
+              "team2": "Tartu Turbulence",
+              "score1": 14,
+              "score2": 15,
+              "datetime": "2026-08-20T08:00:00Z",
+              "round": "Quarterfinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Monkey",
+              "team2": "SuperNova",
+              "score1": 15,
+              "score2": 14,
+              "datetime": "2026-08-20T08:00:00Z",
+              "round": "Quarterfinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Royals",
+              "team2": "Huwa",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2026-08-20T08:00:00Z",
+              "round": "Quarterfinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Academia",
+              "team2": "Meclao",
+              "score1": 8,
+              "score2": 15,
+              "datetime": "2026-08-20T08:00:00Z",
+              "round": "Quarterfinals",
+              "status": "Final"
+            },
+            {
+              "team1": "CUS Padova Rangərs",
+              "team2": "Manly Mosh",
+              "score1": 14,
+              "score2": 13,
+              "datetime": "2026-08-20T08:00:00Z",
+              "round": "Quarterfinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Savage Ultimate",
+              "team2": "Chilli Heat",
+              "score1": 15,
+              "score2": 14,
+              "datetime": "2026-08-20T08:00:00Z",
+              "round": "Quarterfinals",
+              "status": "Final"
+            },
+            {
+              "team1": "JANDLUX",
+              "team2": "Outsiterz",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2026-08-20T08:00:00Z",
+              "round": "Quarterfinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Freakshow",
+              "team2": "Top Ultimate Mix",
+              "score1": 13,
+              "score2": 11,
+              "datetime": "2026-08-20T08:00:00Z",
+              "round": "Quarterfinals",
+              "status": "Final"
+            },
+            {
+              "team1": "BFD Redshot",
+              "team2": "Aethers Warsaw",
+              "score1": 15,
+              "score2": 6,
+              "datetime": "2026-08-20T08:00:00Z",
+              "round": "Quarterfinals",
+              "status": "Final"
+            },
+            {
+              "team1": "ERHe Ultimate",
+              "team2": "Hammers Bs As",
+              "score1": 14,
+              "score2": 11,
+              "datetime": "2026-08-20T10:00:00Z",
+              "round": "Quarterfinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Chilly",
+              "team2": "Leamington Lemmings",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2026-08-20T10:00:00Z",
+              "round": "Quarterfinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Hybrid",
+              "team2": "Mosquitos Klosterneuburg",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2026-08-21T08:00:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "XIST",
+              "team2": "shame.",
+              "score1": 15,
+              "score2": 11,
+              "datetime": "2026-08-21T08:00:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Tiefseetaucher",
+              "team2": "Deep Space",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2026-08-20T14:00:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Zamperl",
+              "team2": "Odyssée",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2026-08-20T14:00:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "ZU Splash",
+              "team2": "Tartu Turbulence",
+              "score1": 13,
+              "score2": 15,
+              "datetime": "2026-08-20T14:00:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Monkey",
+              "team2": "Royals",
+              "score1": 4,
+              "score2": 15,
+              "datetime": "2026-08-20T14:00:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Union",
+              "team2": "33 Tours",
+              "score1": 14,
+              "score2": 15,
+              "datetime": "2026-08-20T14:00:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "SuperNova",
+              "team2": "Huwa",
+              "score1": 14,
+              "score2": 12,
+              "datetime": "2026-08-20T14:00:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Meclao",
+              "team2": "CUS Padova Rangərs",
+              "score1": 14,
+              "score2": 15,
+              "datetime": "2026-08-20T16:00:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Savage Ultimate",
+              "team2": "JANDLUX",
+              "score1": 15,
+              "score2": 14,
+              "datetime": "2026-08-20T16:30:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Academia",
+              "team2": "Manly Mosh",
+              "score1": 15,
+              "score2": 14,
+              "datetime": "2026-08-20T16:30:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Chilli Heat",
+              "team2": "Outsiterz",
+              "score1": 12,
+              "score2": 15,
+              "datetime": "2026-08-20T14:00:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Freakshow",
+              "team2": "BFD Redshot",
+              "score1": 10,
+              "score2": 15,
+              "datetime": "2026-08-20T16:30:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "ERHe Ultimate",
+              "team2": "Chilly",
+              "score1": 11,
+              "score2": 15,
+              "datetime": "2026-08-20T14:00:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Top Ultimate Mix",
+              "team2": "Aethers Warsaw",
+              "score1": 13,
+              "score2": 15,
+              "datetime": "2026-08-20T16:00:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Hammers Bs As",
+              "team2": "Leamington Lemmings",
+              "score1": 8,
+              "score2": 15,
+              "datetime": "2026-08-20T16:00:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Hybrid",
+              "team2": "XIST",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2026-08-22T09:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Mosquitos Klosterneuburg",
+              "team2": "shame.",
+              "score1": 12,
+              "score2": 15,
+              "datetime": "2026-08-21T14:30:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Tiefseetaucher",
+              "team2": "Zamperl",
+              "score1": 13,
+              "score2": 15,
+              "datetime": "2026-08-21T10:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Deep Space",
+              "team2": "Odyssée",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2026-08-21T08:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Tartu Turbulence",
+              "team2": "Royals",
+              "score1": 15,
+              "score2": 11,
+              "datetime": "2026-08-21T08:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "ZU Splash",
+              "team2": "Monkey",
+              "score1": 15,
+              "score2": 13,
+              "datetime": "2026-08-21T08:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "33 Tours",
+              "team2": "SuperNova",
+              "score1": 15,
+              "score2": 11,
+              "datetime": "2026-08-21T08:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Union",
+              "team2": "Huwa",
+              "score1": 15,
+              "score2": 5,
+              "datetime": "2026-08-21T08:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "CUS Padova Rangərs",
+              "team2": "Savage Ultimate",
+              "score1": 7,
+              "score2": 15,
+              "datetime": "2026-08-21T10:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Meclao",
+              "team2": "JANDLUX",
+              "score1": 10,
+              "score2": 15,
+              "datetime": "2026-08-21T10:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Academia",
+              "team2": "Outsiterz",
+              "score1": 10,
+              "score2": 15,
+              "datetime": "2026-08-21T10:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Manly Mosh",
+              "team2": "Chilli Heat",
+              "score1": 12,
+              "score2": 15,
+              "datetime": "2026-08-21T10:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "BFD Redshot",
+              "team2": "Chilly",
+              "score1": 15,
+              "score2": 11,
+              "datetime": "2026-08-21T10:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Freakshow",
+              "team2": "ERHe Ultimate",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2026-08-21T10:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Aethers Warsaw",
+              "team2": "Leamington Lemmings",
+              "score1": 15,
+              "score2": 14,
+              "datetime": "2026-08-21T10:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Top Ultimate Mix",
+              "team2": "Hammers Bs As",
+              "score1": 15,
+              "score2": 11,
+              "datetime": "2026-08-21T10:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Playoff (33-48)",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Reading Ultimate",
+              "team2": "Charrúa",
+              "score1": 15,
+              "score2": 6,
+              "datetime": "2026-08-19T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Panic",
+              "team2": "Avalon",
+              "score1": 15,
+              "score2": 14,
+              "datetime": "2026-08-19T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "PELT",
+              "team2": "Gentle",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2026-08-19T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Sweet Dreams",
+              "team2": "Framnes",
+              "score1": 14,
+              "score2": 12,
+              "datetime": "2026-08-19T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Macondo",
+              "team2": "Brisbanites",
+              "score1": 13,
+              "score2": 15,
+              "datetime": "2026-08-19T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Guayota",
+              "team2": "Helsinki Ultimate",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2026-08-19T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Rebel",
+              "team2": "Siempre",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2026-08-19T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Disctèrics",
+              "team2": "Airborne",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2026-08-19T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Reading Ultimate",
+              "team2": "Panic",
+              "score1": 15,
+              "score2": 6,
+              "datetime": "2026-08-19T16:00:00Z",
+              "round": "Quarterfinals",
+              "status": "Final"
+            },
+            {
+              "team1": "PELT",
+              "team2": "Sweet Dreams",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2026-08-19T16:00:00Z",
+              "round": "Quarterfinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Brisbanites",
+              "team2": "Guayota",
+              "score1": 12,
+              "score2": 15,
+              "datetime": "2026-08-19T14:00:00Z",
+              "round": "Quarterfinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Rebel",
+              "team2": "Disctèrics",
+              "score1": 10,
+              "score2": 13,
+              "datetime": "2026-08-19T14:00:00Z",
+              "round": "Quarterfinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Charrúa",
+              "team2": "Avalon",
+              "score1": 12,
+              "score2": 15,
+              "datetime": "2026-08-19T16:00:00Z",
+              "round": "Quarterfinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Gentle",
+              "team2": "Framnes",
+              "score1": 15,
+              "score2": 5,
+              "datetime": "2026-08-19T16:00:00Z",
+              "round": "Quarterfinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Macondo",
+              "team2": "Helsinki Ultimate",
+              "score1": 15,
+              "score2": 14,
+              "datetime": "2026-08-19T14:00:00Z",
+              "round": "Quarterfinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Siempre",
+              "team2": "Airborne",
+              "score1": 9,
+              "score2": 15,
+              "datetime": "2026-08-19T14:00:00Z",
+              "round": "Quarterfinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Reading Ultimate",
+              "team2": "PELT",
+              "score1": 12,
+              "score2": 15,
+              "datetime": "2026-08-20T12:00:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Guayota",
+              "team2": "Disctèrics",
+              "score1": 10,
+              "score2": 15,
+              "datetime": "2026-08-20T12:00:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Panic",
+              "team2": "Sweet Dreams",
+              "score1": 15,
+              "score2": 13,
+              "datetime": "2026-08-20T12:00:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Brisbanites",
+              "team2": "Rebel",
+              "score1": 15,
+              "score2": 11,
+              "datetime": "2026-08-20T12:00:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Avalon",
+              "team2": "Gentle",
+              "score1": 12,
+              "score2": 15,
+              "datetime": "2026-08-20T11:00:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Macondo",
+              "team2": "Airborne",
+              "score1": 12,
+              "score2": 15,
+              "datetime": "2026-08-20T11:00:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Charrúa",
+              "team2": "Framnes",
+              "score1": 11,
+              "score2": 15,
+              "datetime": "2026-08-20T10:00:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Helsinki Ultimate",
+              "team2": "Siempre",
+              "score1": 15,
+              "score2": 14,
+              "datetime": "2026-08-20T12:00:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "PELT",
+              "team2": "Disctèrics",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2026-08-21T08:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Reading Ultimate",
+              "team2": "Guayota",
+              "score1": 11,
+              "score2": 15,
+              "datetime": "2026-08-21T08:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Panic",
+              "team2": "Brisbanites",
+              "score1": 6,
+              "score2": 15,
+              "datetime": "2026-08-21T08:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Sweet Dreams",
+              "team2": "Rebel",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2026-08-21T08:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Gentle",
+              "team2": "Airborne",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2026-08-21T08:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Avalon",
+              "team2": "Macondo",
+              "score1": 12,
+              "score2": 14,
+              "datetime": "2026-08-21T08:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Framnes",
+              "team2": "Helsinki Ultimate",
+              "score1": 13,
+              "score2": 15,
+              "datetime": "2026-08-21T08:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Charrúa",
+              "team2": "Siempre",
+              "score1": 13,
+              "score2": 12,
+              "datetime": "2026-08-21T08:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

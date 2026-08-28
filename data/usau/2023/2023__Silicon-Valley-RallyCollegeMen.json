@@ -1,0 +1,899 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2023/Silicon-Valley-RallyCollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/Silicon-Valley-Rally/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:19.749277Z",
+  "event": {
+    "name": "Silicon Valley Rally 2023",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2023,
+    "city": "San Jose",
+    "state": "CA",
+    "country": "",
+    "startDate": "2023-03-11",
+    "endDate": "2023-03-12"
+  },
+  "teams": [
+    {
+      "name": "California-Davis",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Davis Dogs",
+        "location": "Davis, California",
+        "website": "https://davisdogsultimate.weebly.com/",
+        "facebook": "https://www.facebook.com/davis.dogz?fref=ts&ref=br_tf",
+        "twitter": "https://twitter.com/dogsultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Aaron Li"
+        },
+        {
+          "number": "0",
+          "name": "Aidan McKelvey"
+        },
+        {
+          "number": "0",
+          "name": "Alexandro Murillo"
+        },
+        {
+          "number": "0",
+          "name": "Cooper Bass"
+        },
+        {
+          "number": "0",
+          "name": "Julian Korchin"
+        },
+        {
+          "number": "0",
+          "name": "Kaden Brownie"
+        },
+        {
+          "number": "0",
+          "name": "Keenan McKelvey"
+        },
+        {
+          "number": "0",
+          "name": "Kincaid  Johnson "
+        },
+        {
+          "number": "0",
+          "name": "Landen Sudduth"
+        },
+        {
+          "number": "0",
+          "name": "Liam Ginsberg"
+        },
+        {
+          "number": "0",
+          "name": "Patrick Hong"
+        },
+        {
+          "number": "0",
+          "name": "Peter Reifenstein"
+        },
+        {
+          "number": "0",
+          "name": "Reilly Berberian"
+        },
+        {
+          "number": "0",
+          "name": "Timo Williamson"
+        },
+        {
+          "number": "2",
+          "name": "Gannon Janisch"
+        },
+        {
+          "number": "3",
+          "name": "Leo Rapoport"
+        },
+        {
+          "number": "4",
+          "name": "Abrahan Cortes"
+        },
+        {
+          "number": "7",
+          "name": "Eli Fischberg-Robinson"
+        },
+        {
+          "number": "19",
+          "name": "Adam Vera"
+        },
+        {
+          "number": "22",
+          "name": "Yahir Mariles Guzman"
+        },
+        {
+          "number": "26",
+          "name": "Alec White"
+        },
+        {
+          "number": "28",
+          "name": "Ian Morritse"
+        }
+      ]
+    },
+    {
+      "name": "San Jose State",
+      "seed": 7,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Spartans",
+        "location": "San Jose, California",
+        "website": "https://sjsusports.com/sports/ultimate",
+        "facebook": "https://www.facebook.com/SJSUUltimate/",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Caleb Mok"
+        },
+        {
+          "number": "0",
+          "name": "Charles Torpey"
+        },
+        {
+          "number": "0",
+          "name": "Christopher Pantaleon"
+        },
+        {
+          "number": "0",
+          "name": "Christopher Herrera"
+        },
+        {
+          "number": "0",
+          "name": "David Tran"
+        },
+        {
+          "number": "0",
+          "name": "Gavin Nolan"
+        },
+        {
+          "number": "0",
+          "name": "Jakob  Lail"
+        },
+        {
+          "number": "0",
+          "name": "Jose Gabriel Solis"
+        },
+        {
+          "number": "0",
+          "name": "Julio Santillan"
+        },
+        {
+          "number": "0",
+          "name": "Kevin Camelin"
+        },
+        {
+          "number": "0",
+          "name": "Matthew Moscoso"
+        },
+        {
+          "number": "0",
+          "name": "Moneeb Aslai"
+        },
+        {
+          "number": "0",
+          "name": "Tadeas Horn"
+        },
+        {
+          "number": "0",
+          "name": "Tony Chau"
+        },
+        {
+          "number": "0",
+          "name": "Xavier Herrera"
+        },
+        {
+          "number": "0",
+          "name": "Zenas Chang"
+        },
+        {
+          "number": "1",
+          "name": "Mahadev Nair"
+        },
+        {
+          "number": "3",
+          "name": "Micah Ruff"
+        },
+        {
+          "number": "8",
+          "name": "Joseph Faso"
+        },
+        {
+          "number": "10",
+          "name": "Tyler  Yang"
+        },
+        {
+          "number": "11",
+          "name": "Vlad Loktev"
+        },
+        {
+          "number": "12",
+          "name": "Jason Huang"
+        },
+        {
+          "number": "23",
+          "name": "Sakhin Anooj Selvamani"
+        },
+        {
+          "number": "24",
+          "name": "Dominic Sequeira"
+        },
+        {
+          "number": "25",
+          "name": "Francisco Flores Canto"
+        },
+        {
+          "number": "28",
+          "name": "Theodore Bullockus"
+        },
+        {
+          "number": "43",
+          "name": "Joshua Fountain"
+        },
+        {
+          "number": "69",
+          "name": "Rafael  Antipuesto"
+        },
+        {
+          "number": "91",
+          "name": "Aryan Saini"
+        }
+      ]
+    },
+    {
+      "name": "San Diego State",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Federales",
+        "location": "San Diego, California",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/SDSUFederales?s=20"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alex Prodan"
+        },
+        {
+          "number": "0",
+          "name": "Alexander Guerra"
+        },
+        {
+          "number": "0",
+          "name": "Braeden Langell"
+        },
+        {
+          "number": "0",
+          "name": "Conor Murphy"
+        },
+        {
+          "number": "0",
+          "name": "Edgar Brito"
+        },
+        {
+          "number": "0",
+          "name": "Joshua Frojelin"
+        },
+        {
+          "number": "0",
+          "name": "Luke Joseph"
+        },
+        {
+          "number": "0",
+          "name": "Max Aboudarham"
+        },
+        {
+          "number": "0",
+          "name": "Riley Magrini"
+        },
+        {
+          "number": "01",
+          "name": "Ryley Peterson"
+        },
+        {
+          "number": "02",
+          "name": "Connor Reding"
+        },
+        {
+          "number": "04",
+          "name": "Zachary Register"
+        },
+        {
+          "number": "06",
+          "name": "Kyle Sands"
+        },
+        {
+          "number": "08",
+          "name": "Ethan DeForest"
+        },
+        {
+          "number": "10",
+          "name": "Ryan McKnight"
+        },
+        {
+          "number": "11",
+          "name": "Christian Vicars"
+        },
+        {
+          "number": "13",
+          "name": "Gavin Henry"
+        },
+        {
+          "number": "17",
+          "name": "Garrett Griffin"
+        },
+        {
+          "number": "19",
+          "name": "Joshua Blanchard"
+        },
+        {
+          "number": "22",
+          "name": "Cole Schuster"
+        },
+        {
+          "number": "26",
+          "name": "Jake Hooper"
+        },
+        {
+          "number": "27",
+          "name": "Tzu-Jen Su"
+        },
+        {
+          "number": "31",
+          "name": "Adrian Kieback"
+        },
+        {
+          "number": "44",
+          "name": "Nicholas  DePhilippis"
+        },
+        {
+          "number": "47",
+          "name": "Landon  McDowell"
+        },
+        {
+          "number": "63",
+          "name": "David Klunder"
+        }
+      ]
+    },
+    {
+      "name": "Fresno State",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Rabid",
+        "location": "Fresno, California",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/FS_Ultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alejandro Rodriguez"
+        },
+        {
+          "number": "0",
+          "name": "Alexis Blanco"
+        },
+        {
+          "number": "0",
+          "name": "Andrew Garcia"
+        },
+        {
+          "number": "0",
+          "name": "Derek Steveson"
+        },
+        {
+          "number": "0",
+          "name": "Joseph Estes"
+        },
+        {
+          "number": "0",
+          "name": "Mia Sanchez"
+        },
+        {
+          "number": "0",
+          "name": "Taylor Schulken"
+        },
+        {
+          "number": "10",
+          "name": "Carlo Quitorio"
+        },
+        {
+          "number": "13",
+          "name": "Sergio Zenteno"
+        },
+        {
+          "number": "22",
+          "name": "John Baker"
+        },
+        {
+          "number": "23",
+          "name": "Royce Villarmea"
+        },
+        {
+          "number": "24",
+          "name": "Jonathan Herren"
+        },
+        {
+          "number": "59",
+          "name": "Curtis Hernandez"
+        }
+      ]
+    },
+    {
+      "name": "Chico State",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Chico State",
+        "location": "Chico, California",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Christian Reinig"
+        },
+        {
+          "number": "0",
+          "name": "Jonny Nguyen"
+        },
+        {
+          "number": "0",
+          "name": "Milton Diaz"
+        },
+        {
+          "number": "0",
+          "name": "Robert Blair Blair"
+        },
+        {
+          "number": "00",
+          "name": "Kyle Miller"
+        },
+        {
+          "number": "03",
+          "name": "Jack Frantz"
+        },
+        {
+          "number": "05",
+          "name": "Dylan Allen"
+        },
+        {
+          "number": "07",
+          "name": "Gavin Lawrence"
+        },
+        {
+          "number": "10",
+          "name": "Benjamin Norton"
+        },
+        {
+          "number": "17",
+          "name": "Saul Mooradian"
+        },
+        {
+          "number": "19",
+          "name": "Brady Brandt"
+        },
+        {
+          "number": "21",
+          "name": "Benjamin Laplante"
+        },
+        {
+          "number": "23",
+          "name": "Alvaro Robles"
+        },
+        {
+          "number": "66",
+          "name": "Spencer Carr"
+        },
+        {
+          "number": "69",
+          "name": "Christian Casarez"
+        },
+        {
+          "number": "84",
+          "name": "Ian Diaz"
+        },
+        {
+          "number": "85",
+          "name": "Benjamin Santiago-Kemp"
+        },
+        {
+          "number": "88",
+          "name": "Owen Onatanian"
+        },
+        {
+          "number": "99",
+          "name": "Parker Thomas"
+        }
+      ]
+    },
+    {
+      "name": "California-Santa Cruz (B)",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Ooze",
+        "location": "Santa Cruz, California",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Daniel Perlov"
+        },
+        {
+          "number": "0",
+          "name": "Eetai Shwartz"
+        },
+        {
+          "number": "0",
+          "name": "Jackson Friday"
+        },
+        {
+          "number": "0",
+          "name": "Jackson Pilisuk"
+        },
+        {
+          "number": "0",
+          "name": "Jaisuraj Kaleeswaran"
+        },
+        {
+          "number": "0",
+          "name": "Jason Bruni"
+        },
+        {
+          "number": "0",
+          "name": "Joe Colonius"
+        },
+        {
+          "number": "0",
+          "name": "Joseph Donovan"
+        },
+        {
+          "number": "0",
+          "name": "Joseph Finklang"
+        },
+        {
+          "number": "0",
+          "name": "Milo Ridenour"
+        },
+        {
+          "number": "0",
+          "name": "Peter Van Esch"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Nelson"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Chapman"
+        },
+        {
+          "number": "0",
+          "name": "Shane Stearns"
+        },
+        {
+          "number": "0",
+          "name": "Thomas Paff"
+        },
+        {
+          "number": "75",
+          "name": "Bodie Shargel"
+        },
+        {
+          "number": "89",
+          "name": "Zane Smith"
+        }
+      ]
+    },
+    {
+      "name": "Stanford (B)",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Huck Syndrome",
+        "location": "Stanford, California",
+        "website": "https://www.instagram.com/stanford_huck_syndrome/",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Declan Murphy Zink"
+        },
+        {
+          "number": "0",
+          "name": "Donovan Torres"
+        },
+        {
+          "number": "0",
+          "name": "Alex Ecker"
+        },
+        {
+          "number": "0",
+          "name": "Kai Fronsdal"
+        },
+        {
+          "number": "0",
+          "name": "Mehul Arora"
+        },
+        {
+          "number": "0",
+          "name": "Michael Massey"
+        },
+        {
+          "number": "0",
+          "name": "Rohan Ranganath"
+        },
+        {
+          "number": "0",
+          "name": "William Li"
+        },
+        {
+          "number": "6",
+          "name": "Colin Schultz"
+        },
+        {
+          "number": "8",
+          "name": "Marco Pizarro"
+        },
+        {
+          "number": "12",
+          "name": "Dylan Schuler"
+        },
+        {
+          "number": "18",
+          "name": "James Talbot"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "clusters",
+      "name": "Round Robin Day 1",
+      "groups": [
+        {
+          "name": "Saturday",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "California-Davis",
+              "team2": "San Jose State",
+              "score1": 11,
+              "score2": 6,
+              "datetime": "2023-03-11T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "San Diego State",
+              "team2": "Fresno State",
+              "score1": 13,
+              "score2": 8,
+              "datetime": "2023-03-11T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Chico State",
+              "team2": "California-Santa Cruz (B)",
+              "score1": 10,
+              "score2": 9,
+              "datetime": "2023-03-11T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Fresno State",
+              "team2": "San Jose State",
+              "score1": 8,
+              "score2": 10,
+              "datetime": "2023-03-11T10:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "San Diego State",
+              "team2": "Stanford (B)",
+              "score1": 10,
+              "score2": 5,
+              "datetime": "2023-03-11T10:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "California-Davis",
+              "team2": "Chico State",
+              "score1": 10,
+              "score2": 6,
+              "datetime": "2023-03-11T10:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Fresno State",
+              "team2": "California-Santa Cruz (B)",
+              "score1": 11,
+              "score2": 9,
+              "datetime": "2023-03-11T12:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Chico State",
+              "team2": "Stanford (B)",
+              "score1": 7,
+              "score2": 5,
+              "datetime": "2023-03-11T12:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "California-Davis",
+              "team2": "San Diego State",
+              "score1": 10,
+              "score2": 8,
+              "datetime": "2023-03-11T12:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "California-Davis",
+              "team2": "Stanford (B)",
+              "score1": 11,
+              "score2": 3,
+              "datetime": "2023-03-11T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "California-Santa Cruz (B)",
+              "team2": "San Jose State",
+              "score1": 2,
+              "score2": 9,
+              "datetime": "2023-03-11T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "San Diego State",
+              "team2": "San Jose State",
+              "score1": 8,
+              "score2": 6,
+              "datetime": "2023-03-11T15:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "California-Santa Cruz (B)",
+              "team2": "Stanford (B)",
+              "score1": 11,
+              "score2": 4,
+              "datetime": "2023-03-11T15:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "clusters",
+      "name": "Round Robin Day 2",
+      "groups": [
+        {
+          "name": "Sunday",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Fresno State",
+              "team2": "Chico State",
+              "score1": 8,
+              "score2": 11,
+              "datetime": "2023-03-12T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Stanford (B)",
+              "team2": "San Jose State",
+              "score1": 5,
+              "score2": 9,
+              "datetime": "2023-03-12T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "California-Davis",
+              "team2": "Fresno State",
+              "score1": 13,
+              "score2": 4,
+              "datetime": "2023-03-12T10:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "San Diego State",
+              "team2": "California-Santa Cruz (B)",
+              "score1": 9,
+              "score2": 6,
+              "datetime": "2023-03-12T10:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Chico State",
+              "team2": "San Jose State",
+              "score1": 7,
+              "score2": 9,
+              "datetime": "2023-03-12T10:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "California-Davis",
+              "team2": "California-Santa Cruz (B)",
+              "score1": 13,
+              "score2": 1,
+              "datetime": "2023-03-12T12:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "San Diego State",
+              "team2": "Chico State",
+              "score1": 10,
+              "score2": 8,
+              "datetime": "2023-03-12T12:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Fresno State",
+              "team2": "Stanford (B)",
+              "score1": 13,
+              "score2": 6,
+              "datetime": "2023-03-12T12:20:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

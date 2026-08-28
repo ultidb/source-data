@@ -1,0 +1,239 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2019/Big-Sky-Womens-Club-Sectional-Championship-2019Club-Women",
+  "sourceUrl": "https://play.usaultimate.org/events/Big-Sky-Womens-Club-Sectional-Championship-2019/schedule/Women/Club-Women/",
+  "scrapedAt": "2026-08-28T10:06:16.414516Z",
+  "event": {
+    "name": "Big Sky Women's Club Sectional Championship 2019",
+    "division": "Club - Women ",
+    "gender": "",
+    "season": 2019,
+    "city": "Ogden",
+    "state": "UT",
+    "country": "",
+    "startDate": "2019-09-07",
+    "endDate": "2019-09-08"
+  },
+  "teams": [
+    {
+      "name": "Elevate",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Salt Lake City, Utah",
+        "website": "",
+        "facebook": "https://www.facebook.com/elevateutahultimate/",
+        "twitter": "https://twitter.com/elevate_ut"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Abby Merrifield"
+        },
+        {
+          "number": "0",
+          "name": "Alicia Seeley"
+        },
+        {
+          "number": "0",
+          "name": "Brooke Stanislawski"
+        },
+        {
+          "number": "0",
+          "name": "Hannah Bruns"
+        },
+        {
+          "number": "0",
+          "name": "Jemi Ong"
+        },
+        {
+          "number": "0",
+          "name": "Jessica Crowley"
+        },
+        {
+          "number": "0",
+          "name": "Logan Radke"
+        },
+        {
+          "number": "0",
+          "name": "Mackenzie Perkett"
+        },
+        {
+          "number": "2",
+          "name": "Christina Maruyama"
+        },
+        {
+          "number": "3",
+          "name": "Maggie Bale"
+        },
+        {
+          "number": "7",
+          "name": "Brittany McCready"
+        },
+        {
+          "number": "8",
+          "name": "Donna Nelson"
+        },
+        {
+          "number": "00",
+          "name": "Emily Jensen"
+        },
+        {
+          "number": "10",
+          "name": "Natalie Merrill"
+        },
+        {
+          "number": "13",
+          "name": "Leah Smith"
+        },
+        {
+          "number": "16",
+          "name": "Breanna Bozzuto"
+        },
+        {
+          "number": "17",
+          "name": "Erica Bindas"
+        },
+        {
+          "number": "18",
+          "name": "Kylee Behunin"
+        },
+        {
+          "number": "19",
+          "name": "Kaylie Caldwell"
+        },
+        {
+          "number": "21",
+          "name": "Hanna Shluker"
+        },
+        {
+          "number": "23",
+          "name": "Casstique Williams"
+        },
+        {
+          "number": "24",
+          "name": "Kendra  Mitchell"
+        },
+        {
+          "number": "27",
+          "name": "Tania Reitz"
+        },
+        {
+          "number": "31",
+          "name": "Jenni Ladutko"
+        },
+        {
+          "number": "33",
+          "name": "Ciera Kueser"
+        },
+        {
+          "number": "41",
+          "name": "Kyra Khoroujnikova"
+        },
+        {
+          "number": "68",
+          "name": "Kaylin Durmick"
+        }
+      ]
+    },
+    {
+      "name": "Seven Devils",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Boise, Idaho",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Bethany  Burgess"
+        },
+        {
+          "number": "0",
+          "name": "Emalee Feaster"
+        },
+        {
+          "number": "0",
+          "name": "Jamie Yurick"
+        },
+        {
+          "number": "0",
+          "name": "Lara Douglas"
+        },
+        {
+          "number": "0",
+          "name": "Mary Rodriguez"
+        },
+        {
+          "number": "0",
+          "name": "Rebekah Spille"
+        },
+        {
+          "number": "0",
+          "name": "Renee Cuillier"
+        },
+        {
+          "number": "5",
+          "name": "Emma Thoennes"
+        },
+        {
+          "number": "7",
+          "name": "Sydney Bullock"
+        },
+        {
+          "number": "8",
+          "name": "Chantelle Salas"
+        },
+        {
+          "number": "19",
+          "name": "Kelly Saunders"
+        },
+        {
+          "number": "21",
+          "name": "Breanna Young"
+        },
+        {
+          "number": "22",
+          "name": "Ali Haag"
+        },
+        {
+          "number": "28",
+          "name": "Rebekah Beacham"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Elevate",
+              "team2": "Seven Devils",
+              "score1": 15,
+              "score2": 6,
+              "datetime": "2019-09-07T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

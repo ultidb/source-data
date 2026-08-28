@@ -15,12 +15,13 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 import time
 import uuid
-from parse import (
+from sources.usau.parse import (
     addRosterToTeam,
     addInfoToTeam,
     parseNewSchedule,
     parseTournament,
     parseTournamentCalendar,
+    getUrlDivisionSuffix,
 )
 from tor import torIsRunning, startTorServer
 from config import get_season_id
@@ -242,7 +243,7 @@ def makeProxiedRequestSelenium(url):
 
 def loadPage(config, url, pageType, tournamentName=None, teamName=None):
     log.debug(f"loading page: {url}")
-    path = f"html/{config.year}/"
+    path = f"cache/{config.year}/"
     Path(path).mkdir(parents=True, exist_ok=True)
     file = None
 
@@ -318,6 +319,9 @@ def scrapeTournament(config, tournamentInfo, index, total):
     # url in format https://play.usaultimate.org/events/Santa-Barbara-Invite-2022/schedule/Men/CollegeMen/
     parts = tournamentInfo["url"].split("/")
     tournamentName = parts[4].strip() + parts[7].strip()
+    divisionSuffix = getUrlDivisionSuffix(tournamentInfo["url"])
+    if divisionSuffix:
+        tournamentName += "-" + divisionSuffix
     tournamentFilePath = f"csv/{config.year}/{tournamentName}.csv"
 
     log.info(f"Scraping tournament {index + 1}/{total} {tournamentName}")

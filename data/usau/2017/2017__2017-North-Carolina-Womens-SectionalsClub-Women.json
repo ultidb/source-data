@@ -1,0 +1,259 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2017/2017-North-Carolina-Womens-SectionalsClub-Women",
+  "sourceUrl": "https://play.usaultimate.org/events/2017-North-Carolina-Womens-Sectionals/schedule/Women/Club-Women/",
+  "scrapedAt": "2026-08-28T10:06:14.056492Z",
+  "event": {
+    "name": "2017 North Carolina Women's Sectionals",
+    "division": "Club - Women ",
+    "gender": "",
+    "season": 2017,
+    "city": "",
+    "state": "NC",
+    "country": "",
+    "startDate": "2017-09-09",
+    "endDate": "2017-09-10"
+  },
+  "teams": [
+    {
+      "name": "Phoenix",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Durham, North Carolina",
+        "website": "http://phoenixultimate.com",
+        "facebook": "https://www.facebook.com/PhxUltimate",
+        "twitter": "https://twitter.com/PhxUltimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Becky Widmayer"
+        },
+        {
+          "number": "0",
+          "name": "Carmen Tormey"
+        },
+        {
+          "number": "0",
+          "name": "Georgia Tse"
+        },
+        {
+          "number": "0",
+          "name": "Kate Lanier"
+        },
+        {
+          "number": "0",
+          "name": "Lydia  Youngblood"
+        },
+        {
+          "number": "0",
+          "name": "Sydney Harris"
+        },
+        {
+          "number": "1",
+          "name": "Lindsay Soo"
+        },
+        {
+          "number": "3",
+          "name": "Lyra Olson"
+        },
+        {
+          "number": "4",
+          "name": "Lyla Stanland"
+        },
+        {
+          "number": "5",
+          "name": "Katie Cubrilovic"
+        },
+        {
+          "number": "5",
+          "name": "Jessica Jones"
+        },
+        {
+          "number": "6",
+          "name": "Qing (Jenny) Wei"
+        },
+        {
+          "number": "9",
+          "name": "Jinny Riedel"
+        },
+        {
+          "number": "15",
+          "name": "Ashley Powell"
+        },
+        {
+          "number": "16",
+          "name": "Briana Campbell"
+        },
+        {
+          "number": "17",
+          "name": "Jenna Dahl"
+        },
+        {
+          "number": "21",
+          "name": "Elisabeth Parker"
+        },
+        {
+          "number": "21",
+          "name": "Kyra Catabay"
+        },
+        {
+          "number": "22",
+          "name": "Anne Worth"
+        },
+        {
+          "number": "27",
+          "name": "Mary Rippe"
+        },
+        {
+          "number": "33",
+          "name": "Kumiko Fioramonti"
+        },
+        {
+          "number": "55",
+          "name": "Klara Calderon-Guthe"
+        }
+      ]
+    },
+    {
+      "name": "Rogue",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Chapel Hill, North Carolina",
+        "website": "",
+        "facebook": "https://www.facebook.com/RogueUlty",
+        "twitter": "https://www.twitter.com/RogueUlty"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Allegra Berry"
+        },
+        {
+          "number": "0",
+          "name": "Anna Xu"
+        },
+        {
+          "number": "00",
+          "name": "Bridget Johnson"
+        },
+        {
+          "number": "00",
+          "name": "Caitlin Gross"
+        },
+        {
+          "number": "00",
+          "name": "Elaine (Elle) Glenny"
+        },
+        {
+          "number": "00",
+          "name": "Elizabeth Fussell"
+        },
+        {
+          "number": "00",
+          "name": "Emily Moses"
+        },
+        {
+          "number": "00",
+          "name": "Jennifer Lin"
+        },
+        {
+          "number": "00",
+          "name": "Julia Zwierzynski"
+        },
+        {
+          "number": "00",
+          "name": "Julia Gallini"
+        },
+        {
+          "number": "00",
+          "name": "Katherine Li"
+        },
+        {
+          "number": "00",
+          "name": "Kyle Gouchoe-Hanas"
+        },
+        {
+          "number": "00",
+          "name": "Laura Lisowe"
+        },
+        {
+          "number": "00",
+          "name": "Leslie Weaver"
+        },
+        {
+          "number": "00",
+          "name": "Lilianne Doron"
+        },
+        {
+          "number": "00",
+          "name": "Maggie Adams"
+        },
+        {
+          "number": "00",
+          "name": "Olivia Monroe"
+        },
+        {
+          "number": "00",
+          "name": "Peyton Schafer"
+        },
+        {
+          "number": "00",
+          "name": "Rachel Eulau"
+        },
+        {
+          "number": "00",
+          "name": "Rachell Xu"
+        },
+        {
+          "number": "00",
+          "name": "Robin Lowe-Skillern"
+        },
+        {
+          "number": "00",
+          "name": "Shira Viel"
+        },
+        {
+          "number": "00",
+          "name": "Tiffany Wei"
+        },
+        {
+          "number": "00",
+          "name": "Alice Wang"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "brackets",
+      "name": "Championship",
+      "groups": [
+        {
+          "name": "1st Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Phoenix",
+              "team2": "Rogue",
+              "score1": 13,
+              "score2": 1,
+              "datetime": "2017-09-09T10:00:00Z",
+              "round": "1st Place",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

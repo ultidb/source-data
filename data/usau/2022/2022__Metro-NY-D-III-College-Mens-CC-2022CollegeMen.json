@@ -1,0 +1,243 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2022/Metro-NY-D-III-College-Mens-CC-2022CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/Metro-NY-D-III-College-Mens-CC-2022/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:18.851123Z",
+  "event": {
+    "name": "Metro NY D-III College Men's CC 2022",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2022,
+    "city": "Ewing Township",
+    "state": "NJ",
+    "country": "",
+    "startDate": "2022-04-10",
+    "endDate": "2022-04-10"
+  },
+  "teams": [
+    {
+      "name": "College of New Jersey",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Revolution",
+        "location": "Ewing, New Jersey",
+        "website": "http://www.tcnj.edu/~frisbee/revolution/index.php",
+        "facebook": "",
+        "twitter": "https://twitter.com/TCNJ_Revolution"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": " ",
+          "name": "Matt Mancuso"
+        },
+        {
+          "number": "0",
+          "name": "Nigel Pacheco"
+        },
+        {
+          "number": "0",
+          "name": "Philip Aufiero"
+        },
+        {
+          "number": "0",
+          "name": "Raymond Wright"
+        },
+        {
+          "number": "0",
+          "name": "Robert Helck"
+        },
+        {
+          "number": "0",
+          "name": "Sean Potter"
+        },
+        {
+          "number": "0",
+          "name": "Tyler Hallowell"
+        },
+        {
+          "number": "0",
+          "name": "William Kimberly"
+        },
+        {
+          "number": "0",
+          "name": "Casey Conti"
+        },
+        {
+          "number": "0",
+          "name": "Christopher Bonadio-Cappiello"
+        },
+        {
+          "number": "0",
+          "name": "Christopher Goodwin"
+        },
+        {
+          "number": "0",
+          "name": "Connor  Stine"
+        },
+        {
+          "number": "0",
+          "name": "Dominick Brown"
+        },
+        {
+          "number": "0",
+          "name": "Elliott Nguyen"
+        },
+        {
+          "number": "0",
+          "name": "Evan Sapirman "
+        },
+        {
+          "number": "0",
+          "name": "Francis Aldridge"
+        },
+        {
+          "number": "0",
+          "name": "Jack Gonzalez "
+        },
+        {
+          "number": "0",
+          "name": "Joe Feuerstein"
+        },
+        {
+          "number": "0",
+          "name": "John Supple"
+        },
+        {
+          "number": "0",
+          "name": "Joshua Simpson"
+        },
+        {
+          "number": "0",
+          "name": "Joshua Lerman"
+        },
+        {
+          "number": "0",
+          "name": "Macy Desmond"
+        },
+        {
+          "number": "0",
+          "name": "Marco Guadagno"
+        },
+        {
+          "number": "0",
+          "name": "Brandon Reynoso"
+        },
+        {
+          "number": "0",
+          "name": "Brian Nigro"
+        },
+        {
+          "number": "13",
+          "name": "Josh Camacho"
+        },
+        {
+          "number": "19",
+          "name": "Brian Slack"
+        }
+      ]
+    },
+    {
+      "name": "Stevens Tech",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Stevens Tech",
+        "location": "Hoboken, New Jersey",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": " ",
+          "name": "Matt Koerner"
+        },
+        {
+          "number": "0",
+          "name": "Olivia Parlow"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Chin"
+        },
+        {
+          "number": "0",
+          "name": "Tim Zheng"
+        },
+        {
+          "number": "0",
+          "name": "Zack Petrov"
+        },
+        {
+          "number": "0",
+          "name": "Alex D'Agostino"
+        },
+        {
+          "number": "0",
+          "name": "Charles  Canata"
+        },
+        {
+          "number": "0",
+          "name": "Daniel Partika"
+        },
+        {
+          "number": "0",
+          "name": "Jason Pagan"
+        },
+        {
+          "number": "0",
+          "name": "Johnny Wong"
+        },
+        {
+          "number": "0",
+          "name": "Kayhan Durmus"
+        },
+        {
+          "number": "0",
+          "name": "Kevin Perez"
+        },
+        {
+          "number": "0",
+          "name": "Kyle Boberg"
+        },
+        {
+          "number": "0",
+          "name": "Matt Hullstrung"
+        },
+        {
+          "number": "24",
+          "name": "Dylan Regan"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "brackets",
+      "name": "Lions Stadium",
+      "groups": [
+        {
+          "name": "Sectionals Game",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "College of New Jersey",
+              "team2": "Stevens Tech",
+              "score1": 11,
+              "score2": 10,
+              "datetime": "2022-04-10T14:00:00Z",
+              "round": "Final",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2025/Utah-Match-PlayClub-Men",
+  "sourceUrl": "https://play.usaultimate.org/events/Utah-Match-Play/schedule/Men/Club-Men/",
+  "scrapedAt": "2026-08-28T10:06:21.919139Z",
+  "event": {
+    "name": "Utah Match Play 2025",
+    "division": "Club - Men ",
+    "gender": "",
+    "season": 2025,
+    "city": "Draper",
+    "state": "UT",
+    "country": "",
+    "startDate": "2025-08-23",
+    "endDate": "2025-08-23"
+  },
+  "teams": [
+    {
+      "name": "Lil’ Huckers",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "South Jordan, Utah",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Braeden Smith"
+        },
+        {
+          "number": "0",
+          "name": "Cade Barnes"
+        },
+        {
+          "number": "0",
+          "name": "Collin Barron"
+        },
+        {
+          "number": "0",
+          "name": "Conner Thompson"
+        },
+        {
+          "number": "0",
+          "name": "Dallin Bird"
+        },
+        {
+          "number": "0",
+          "name": "David Soper"
+        },
+        {
+          "number": "0",
+          "name": "Ethan Nguyen"
+        },
+        {
+          "number": "0",
+          "name": "Garrett Konopka"
+        },
+        {
+          "number": "0",
+          "name": "Jackson Allen"
+        },
+        {
+          "number": "0",
+          "name": "Jonas Kirk"
+        },
+        {
+          "number": "0",
+          "name": "Jordan Barrus"
+        },
+        {
+          "number": "0",
+          "name": "Josh Wright"
+        },
+        {
+          "number": "0",
+          "name": "Benjamin Crowther"
+        },
+        {
+          "number": "0",
+          "name": "KJ Park"
+        },
+        {
+          "number": "0",
+          "name": "Russell Haight"
+        },
+        {
+          "number": "0",
+          "name": "Sam Lancaster"
+        },
+        {
+          "number": "0",
+          "name": "Nguyen Nguyen"
+        },
+        {
+          "number": "2",
+          "name": "Spencer Barney"
+        },
+        {
+          "number": "7",
+          "name": "Tanner Nielson"
+        },
+        {
+          "number": "21",
+          "name": "Richard Wilcox"
+        },
+        {
+          "number": "21",
+          "name": "John Kessel"
+        },
+        {
+          "number": "25",
+          "name": "Kale Winterton"
+        },
+        {
+          "number": "32",
+          "name": "Tyson Kossin"
+        },
+        {
+          "number": "34",
+          "name": "Malcolm Starr"
+        },
+        {
+          "number": "45",
+          "name": "Benjamin Ashton "
+        }
+      ]
+    },
+    {
+      "name": "Reál Hogs FC",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "North Salt Lake, Utah",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Edward Hoffman"
+        },
+        {
+          "number": "0",
+          "name": "Issac Ruiz"
+        },
+        {
+          "number": "0",
+          "name": "Joseph Gyman"
+        },
+        {
+          "number": "0",
+          "name": "Joseph Threlkeld"
+        },
+        {
+          "number": "0",
+          "name": "Matthew Dickey"
+        },
+        {
+          "number": "0",
+          "name": "Maxim Rassoul-Agha"
+        },
+        {
+          "number": "0",
+          "name": "Peter Wade"
+        },
+        {
+          "number": "0",
+          "name": "Ronald Ramon"
+        },
+        {
+          "number": "0",
+          "name": "Thomas Osterhoudt"
+        },
+        {
+          "number": "0",
+          "name": "Thomas Harward"
+        },
+        {
+          "number": "0",
+          "name": "Trey Anderson"
+        },
+        {
+          "number": "0",
+          "name": "Alesh Fremouw"
+        },
+        {
+          "number": "0",
+          "name": "Zak Diana"
+        },
+        {
+          "number": "8",
+          "name": "Brigham Schellenberg"
+        },
+        {
+          "number": "10",
+          "name": "Collin Nichol"
+        },
+        {
+          "number": "21",
+          "name": "Trong Nguyen"
+        },
+        {
+          "number": "90",
+          "name": "Cody Sias"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "brackets",
+      "name": "Orem Throwdown",
+      "groups": [
+        {
+          "name": "Reál v Lil Huckers",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Lil’ Huckers",
+              "team2": "Reál Hogs FC",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2025-08-23T15:00:00Z",
+              "round": "Reál v Lil Huckers",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

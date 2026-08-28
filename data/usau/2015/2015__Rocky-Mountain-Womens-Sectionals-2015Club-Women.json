@@ -1,0 +1,258 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2015/Rocky-Mountain-Womens-Sectionals-2015Club-Women",
+  "sourceUrl": "https://play.usaultimate.org/events/Rocky-Mountain-Womens-Sectionals-2015/schedule/Women/Club-Women/",
+  "scrapedAt": "2026-08-28T10:06:12.697709Z",
+  "event": {
+    "name": "Rocky Mountain Women's Sectionals 2015",
+    "division": "Club - Women ",
+    "gender": "",
+    "season": 2015,
+    "city": "Commerce City",
+    "state": "CO",
+    "country": "",
+    "startDate": "2015-08-29",
+    "endDate": "2015-08-30"
+  },
+  "teams": [
+    {
+      "name": "Colorado Small Batch",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Denver, Colorado",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "Anna Updyke",
+        "Rebecca Mitchell"
+      ],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Molly Clay"
+        },
+        {
+          "number": "00",
+          "name": "Melinda Alvey"
+        },
+        {
+          "number": "00",
+          "name": "PETRA KOWALSKI"
+        },
+        {
+          "number": "00",
+          "name": "Megan Chan"
+        },
+        {
+          "number": "00",
+          "name": "RACHEL ACKER"
+        },
+        {
+          "number": "00",
+          "name": "Haley Love"
+        },
+        {
+          "number": "00",
+          "name": "Katelynn Benton"
+        },
+        {
+          "number": "00",
+          "name": "TARYN LANGLOIS"
+        },
+        {
+          "number": "00",
+          "name": "Christy Cheung"
+        },
+        {
+          "number": "00",
+          "name": "Hilary Walker"
+        },
+        {
+          "number": "02",
+          "name": "June Ng"
+        },
+        {
+          "number": "03",
+          "name": "Emily Stege"
+        },
+        {
+          "number": "07",
+          "name": "Carolyn Vlach"
+        },
+        {
+          "number": "09",
+          "name": "Elizabeth McCullagh"
+        },
+        {
+          "number": "11",
+          "name": "Andrea Belbusti"
+        },
+        {
+          "number": "13",
+          "name": "Maddie Pielert"
+        },
+        {
+          "number": "20",
+          "name": "Kenzie Weed"
+        },
+        {
+          "number": "21",
+          "name": "Hannah Matthys"
+        },
+        {
+          "number": "24",
+          "name": "Hilary Egan"
+        },
+        {
+          "number": "25",
+          "name": "Kati Turner"
+        },
+        {
+          "number": "28",
+          "name": "Candace Yeh"
+        },
+        {
+          "number": "35",
+          "name": "Sarah Hoistad"
+        },
+        {
+          "number": "36",
+          "name": "Lani Kawamoto"
+        }
+      ]
+    },
+    {
+      "name": "Jackwagon",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Boulder/Denver, Colorado",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Nina Janjic"
+        },
+        {
+          "number": "0",
+          "name": "Chelsea Gerleit"
+        },
+        {
+          "number": "0",
+          "name": "Jasmine Rodenburg"
+        },
+        {
+          "number": "0",
+          "name": "Alexandra (Ola) Czastkiewicz"
+        },
+        {
+          "number": "0",
+          "name": "Lucila Dunnington"
+        },
+        {
+          "number": "7",
+          "name": "Allison Boyd"
+        },
+        {
+          "number": "8",
+          "name": "Lauren Foster"
+        },
+        {
+          "number": "11",
+          "name": "Sadie Perkins"
+        },
+        {
+          "number": "11",
+          "name": "Megan Henderson"
+        },
+        {
+          "number": "12",
+          "name": "Claire Morrissy"
+        },
+        {
+          "number": "13",
+          "name": "Jessica Chesnut"
+        },
+        {
+          "number": "16",
+          "name": "Alyssa Worsham"
+        },
+        {
+          "number": "17",
+          "name": "Karla Rosario"
+        },
+        {
+          "number": "18",
+          "name": "Stephanie Schlosser"
+        },
+        {
+          "number": "19",
+          "name": "Kat Killingsworth"
+        },
+        {
+          "number": "21",
+          "name": "Rachel Street"
+        },
+        {
+          "number": "26",
+          "name": "Courtney Traore"
+        },
+        {
+          "number": "42",
+          "name": "RACHEL SEWELL"
+        },
+        {
+          "number": "45",
+          "name": "Laura Hamrick"
+        },
+        {
+          "number": "88",
+          "name": "Cristiana Falvo"
+        },
+        {
+          "number": "97",
+          "name": "Celeste Havener"
+        },
+        {
+          "number": "99",
+          "name": "Kelsey Bennett"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Rocky Mountain Women's Sectionals",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Colorado Small Batch",
+              "team2": "Jackwagon",
+              "score1": 12,
+              "score2": 7,
+              "datetime": "2015-08-30T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

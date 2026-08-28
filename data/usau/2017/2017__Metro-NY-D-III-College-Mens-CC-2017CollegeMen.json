@@ -1,0 +1,247 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2017/Metro-NY-D-III-College-Mens-CC-2017CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/Metro-NY-D-III-College-Mens-CC-2017/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:14.648645Z",
+  "event": {
+    "name": "Metro NY D-III College Men's CC 2017",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2017,
+    "city": "Hoboken",
+    "state": "NJ",
+    "country": "",
+    "startDate": "2017-04-22",
+    "endDate": "2017-04-22"
+  },
+  "teams": [
+    {
+      "name": "Stevens Tech",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Stevens Tech",
+        "location": "Hoboken, New Jersey",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "06",
+          "name": "Jonah Mania"
+        },
+        {
+          "number": "10",
+          "name": "Keyur Ved"
+        },
+        {
+          "number": "12",
+          "name": "Jonathan Bobkov"
+        },
+        {
+          "number": "14",
+          "name": "Miles Wascher"
+        },
+        {
+          "number": "17",
+          "name": "Scott Borgstedt"
+        },
+        {
+          "number": "19",
+          "name": "Nicolas Camporeale"
+        },
+        {
+          "number": "20",
+          "name": "Ryan Gutmann"
+        },
+        {
+          "number": "37",
+          "name": "Nicholas Dantuono"
+        },
+        {
+          "number": "38",
+          "name": "TJ Stanton"
+        },
+        {
+          "number": "49",
+          "name": "Ivan Dickson"
+        },
+        {
+          "number": "55",
+          "name": "Jeremy Doll"
+        },
+        {
+          "number": "84",
+          "name": "Luke Pacchiana"
+        },
+        {
+          "number": "92",
+          "name": "Michael Guglielmo"
+        },
+        {
+          "number": "95",
+          "name": "Ira Seidman"
+        },
+        {
+          "number": "96",
+          "name": "Ronald Ankner"
+        },
+        {
+          "number": "97",
+          "name": "Joseph Conway"
+        },
+        {
+          "number": "98",
+          "name": "Kyle Dew"
+        }
+      ]
+    },
+    {
+      "name": "College of New Jersey",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Revolution",
+        "location": "Ewing, New Jersey",
+        "website": "http://www.tcnj.edu/~frisbee/revolution/index.php",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Abin Alexander "
+        },
+        {
+          "number": "0",
+          "name": "Alexander Cretella"
+        },
+        {
+          "number": "0",
+          "name": "Andrew Cameron"
+        },
+        {
+          "number": "0",
+          "name": "Andrew Serian"
+        },
+        {
+          "number": "0",
+          "name": "Brian Marino"
+        },
+        {
+          "number": "0",
+          "name": "Brian Litt"
+        },
+        {
+          "number": "0",
+          "name": "Chris Shaffer"
+        },
+        {
+          "number": "0",
+          "name": "Christian DeSanctis"
+        },
+        {
+          "number": "0",
+          "name": "Joseph Mazzarella"
+        },
+        {
+          "number": "0",
+          "name": "Michael Anesini"
+        },
+        {
+          "number": "0",
+          "name": "Sudeep Peddireddy"
+        },
+        {
+          "number": "0",
+          "name": "Timothy Osborn"
+        },
+        {
+          "number": "13",
+          "name": "Nicholas Landolfi"
+        },
+        {
+          "number": "15",
+          "name": "Keller Gordon"
+        },
+        {
+          "number": "19",
+          "name": "William Jones"
+        },
+        {
+          "number": "20",
+          "name": "Kyle  Buechele"
+        },
+        {
+          "number": "22",
+          "name": "Nicholas Pellegrino"
+        },
+        {
+          "number": "23",
+          "name": "Otto Gomez"
+        },
+        {
+          "number": "26",
+          "name": "Philip Treu"
+        },
+        {
+          "number": "29",
+          "name": "Steven Powers"
+        },
+        {
+          "number": "31",
+          "name": "Henry Shen"
+        },
+        {
+          "number": "33",
+          "name": "Elijah Smith"
+        },
+        {
+          "number": "40",
+          "name": "Jordan Mattoon"
+        },
+        {
+          "number": "44",
+          "name": "Christian Iucolino"
+        },
+        {
+          "number": "77",
+          "name": "Zachary Johnson"
+        },
+        {
+          "number": "87",
+          "name": "Jacob Willsey"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "brackets",
+      "name": "Finals",
+      "groups": [
+        {
+          "name": "Championship Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Stevens Tech",
+              "team2": "College of New Jersey",
+              "score1": 14,
+              "score2": 13,
+              "datetime": "2017-04-22T14:30:00Z",
+              "round": "Round One",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2018/Florida-Womens-Sectional-Championship-2018Club-Women",
+  "sourceUrl": "https://play.usaultimate.org/events/Florida-Womens-Sectional-Championship-2018/schedule/Women/Club-Women/",
+  "scrapedAt": "2026-08-28T10:06:15.423060Z",
+  "event": {
+    "name": "Florida Women's Sectional Championship 2018",
+    "division": "Club - Women ",
+    "gender": "",
+    "season": 2018,
+    "city": "Kissimmee",
+    "state": "FL",
+    "country": "",
+    "startDate": "2018-09-08",
+    "endDate": "2018-09-09"
+  },
+  "teams": [
+    {
+      "name": "Tabby Rosa",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Gainesville, Florida",
+        "website": "",
+        "facebook": "https://www.facebook.com/TabbyRosaUltimate",
+        "twitter": "https://twitter.com/TabbyRosaFL"
+      },
+      "coaches": [
+        "Dustin Travaglini"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alexa Wood"
+        },
+        {
+          "number": "0",
+          "name": "Alleigh Grover"
+        },
+        {
+          "number": "0",
+          "name": "Carolyn Abbott"
+        },
+        {
+          "number": "0",
+          "name": "Chloe Baldino"
+        },
+        {
+          "number": "0",
+          "name": "Harley Peters"
+        },
+        {
+          "number": "0",
+          "name": "Jackie Borkowski"
+        },
+        {
+          "number": "0",
+          "name": "Kelsea LeBeau"
+        },
+        {
+          "number": "0",
+          "name": "Lauren Bahng"
+        },
+        {
+          "number": "0",
+          "name": "Sarah Cabrera"
+        },
+        {
+          "number": "0",
+          "name": "Shayna Brock"
+        },
+        {
+          "number": "0",
+          "name": "Sonya (Sunny) Harris"
+        },
+        {
+          "number": "0",
+          "name": "Nicole Feldman"
+        },
+        {
+          "number": "0",
+          "name": "Pilar Alvarez"
+        },
+        {
+          "number": "1",
+          "name": "Erin Goding"
+        },
+        {
+          "number": "5",
+          "name": "Lindsi Allman"
+        },
+        {
+          "number": "5",
+          "name": "Lisa Levine"
+        },
+        {
+          "number": "6",
+          "name": "Diana Elsner"
+        },
+        {
+          "number": "6",
+          "name": "Stephanie Williams"
+        },
+        {
+          "number": "11",
+          "name": "Sarah Cobbs "
+        },
+        {
+          "number": "12",
+          "name": "Gabrielle  Krajniak"
+        },
+        {
+          "number": "21",
+          "name": "Danielle Cordes"
+        },
+        {
+          "number": "47",
+          "name": "Stacie Coleman"
+        },
+        {
+          "number": "69",
+          "name": "Jenn Maresca"
+        }
+      ]
+    },
+    {
+      "name": "Fiasco",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Miami, Florida",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Angela Yang"
+        },
+        {
+          "number": "0",
+          "name": "Katie  Reed"
+        },
+        {
+          "number": "0",
+          "name": "Kristi Fowler"
+        },
+        {
+          "number": "0",
+          "name": "Lynn Grissom"
+        },
+        {
+          "number": "0",
+          "name": "Samantha Young"
+        },
+        {
+          "number": "1",
+          "name": "Stacy Werse"
+        },
+        {
+          "number": "2",
+          "name": "Catherine Linton"
+        },
+        {
+          "number": "8",
+          "name": "Lian Ortner"
+        },
+        {
+          "number": "11",
+          "name": "Andrea Jacoski"
+        },
+        {
+          "number": "12",
+          "name": "Larissa Ferreira"
+        },
+        {
+          "number": "13",
+          "name": "Natalia Figueroa"
+        },
+        {
+          "number": "14",
+          "name": "Megan Bock"
+        },
+        {
+          "number": "23",
+          "name": "Alissa Farina"
+        },
+        {
+          "number": "42",
+          "name": "Megan Reeves"
+        },
+        {
+          "number": "42",
+          "name": "Megan Grande"
+        },
+        {
+          "number": "44",
+          "name": "Rica Patel"
+        },
+        {
+          "number": "47",
+          "name": "ALEXANDRA HILEY"
+        },
+        {
+          "number": "66",
+          "name": "Darly Kittle"
+        },
+        {
+          "number": "85",
+          "name": "Rachael Thompson"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "brackets",
+      "name": "Finals",
+      "groups": [
+        {
+          "name": "Championship",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Tabby Rosa",
+              "team2": "Fiasco",
+              "score1": 13,
+              "score2": 11,
+              "datetime": "2018-09-08T10:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

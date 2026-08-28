@@ -1,0 +1,297 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2023/Texas-D-III-College-Mens-CC-2023CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/Texas-D-III-College-Mens-CC-2023/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:19.867071Z",
+  "event": {
+    "name": "Texas D-III College Men's CC 2023",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2023,
+    "city": "Houston",
+    "state": "TX",
+    "country": "",
+    "startDate": "2023-04-15",
+    "endDate": "2023-04-16"
+  },
+  "teams": [
+    {
+      "name": "Rice",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Cloud 9",
+        "location": "Houston, Texas",
+        "website": "cloud9.rice.edu",
+        "facebook": "",
+        "twitter": "@RiceMensUlti"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Akash Karanam"
+        },
+        {
+          "number": "0",
+          "name": "Alex Sansom"
+        },
+        {
+          "number": "0",
+          "name": "Alex Kornblum"
+        },
+        {
+          "number": "0",
+          "name": "Arvind Ramesh"
+        },
+        {
+          "number": "0",
+          "name": "Benjamin Otting"
+        },
+        {
+          "number": "0",
+          "name": "Benjamin Burstain"
+        },
+        {
+          "number": "0",
+          "name": "Brandon Zhang"
+        },
+        {
+          "number": "0",
+          "name": "Darrell  Good"
+        },
+        {
+          "number": "0",
+          "name": "Ethan Hsu"
+        },
+        {
+          "number": "0",
+          "name": "Ethan Quach"
+        },
+        {
+          "number": "0",
+          "name": "Ethan Zhang"
+        },
+        {
+          "number": "0",
+          "name": "Gavin Mason"
+        },
+        {
+          "number": "0",
+          "name": "Jacob Lurvey"
+        },
+        {
+          "number": "0",
+          "name": "Jared Boyd"
+        },
+        {
+          "number": "0",
+          "name": "Jonah Jimenez"
+        },
+        {
+          "number": "0",
+          "name": "Luke Moore"
+        },
+        {
+          "number": "0",
+          "name": "Nathan Moskowitz"
+        },
+        {
+          "number": "0",
+          "name": "Zarek Lu"
+        },
+        {
+          "number": "5",
+          "name": "Corey Tolbert"
+        },
+        {
+          "number": "11",
+          "name": "Samuel Zhou"
+        },
+        {
+          "number": "13",
+          "name": "Justin Guilak"
+        },
+        {
+          "number": "22",
+          "name": "John Altman"
+        },
+        {
+          "number": "42",
+          "name": "Max Kuhlman"
+        },
+        {
+          "number": "72",
+          "name": "Jake Sperry"
+        }
+      ]
+    },
+    {
+      "name": "Trinity",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Turbulence",
+        "location": "San Antonio, Texas",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Daniel Chapa"
+        },
+        {
+          "number": "0",
+          "name": "Deral Robison"
+        },
+        {
+          "number": "0",
+          "name": "Gabriel Manners"
+        },
+        {
+          "number": "0",
+          "name": "James Crosnoe"
+        },
+        {
+          "number": "0",
+          "name": "Joey Mattingly"
+        },
+        {
+          "number": "0",
+          "name": "Nicholas Stipanovic"
+        },
+        {
+          "number": "0",
+          "name": "Paul Jackson"
+        },
+        {
+          "number": "0",
+          "name": "Sam Crockett"
+        },
+        {
+          "number": "0",
+          "name": "Seth Owirodu"
+        },
+        {
+          "number": "0",
+          "name": "Trevor Skeen"
+        },
+        {
+          "number": "1",
+          "name": "Joshua Gammon"
+        },
+        {
+          "number": "4",
+          "name": "Maxwell Wu"
+        },
+        {
+          "number": "5",
+          "name": "William Abbott"
+        },
+        {
+          "number": "7",
+          "name": "Andrew Duong"
+        },
+        {
+          "number": "11",
+          "name": "Hugh Coleman"
+        },
+        {
+          "number": "13",
+          "name": "Jaedron Mueller"
+        },
+        {
+          "number": "21",
+          "name": "Jack Pittman"
+        },
+        {
+          "number": "23",
+          "name": "Elliott Conely"
+        },
+        {
+          "number": "27",
+          "name": "Jake Ridenbaugh"
+        },
+        {
+          "number": "42",
+          "name": "Holden Soderstrom"
+        },
+        {
+          "number": "66",
+          "name": "Nicholas  Chen"
+        },
+        {
+          "number": "67",
+          "name": "Spencer Olejniczak"
+        },
+        {
+          "number": "77",
+          "name": "Paul Kim"
+        },
+        {
+          "number": "99",
+          "name": "Nathan Ashworth"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "clusters",
+      "name": "Round of 3",
+      "groups": [
+        {
+          "name": "Game 1",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Rice",
+              "team2": "Trinity",
+              "score1": 12,
+              "score2": 4,
+              "datetime": "2023-04-15T10:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Game 2",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Rice",
+              "team2": "Trinity",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2023-04-15T12:15:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Game 3",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Rice",
+              "team2": "Trinity",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2023-04-15T14:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

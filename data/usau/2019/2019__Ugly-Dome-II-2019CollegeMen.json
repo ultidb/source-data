@@ -1,0 +1,765 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2019/Ugly-Dome-II-2019CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/Ugly-Dome-II-2019/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:17.464184Z",
+  "event": {
+    "name": "Ugly Dome II 2019",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2019,
+    "city": "MINNEAPOLIS",
+    "state": "MN",
+    "country": "",
+    "startDate": "2019-02-23",
+    "endDate": "2019-02-23"
+  },
+  "teams": [
+    {
+      "name": "Minnesota (B)",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Ugly Duckling",
+        "location": "Minneapolis, Minnesota",
+        "website": "http://mnuglyduckling.weebly.com/",
+        "facebook": "",
+        "twitter": "@UglyDucklingUMN"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Donovan Peterson"
+        },
+        {
+          "number": "0",
+          "name": "Erik Aadalen"
+        },
+        {
+          "number": "0",
+          "name": "Jake Holst"
+        },
+        {
+          "number": "0",
+          "name": "Kenji Her"
+        },
+        {
+          "number": "0",
+          "name": "Nathan VanBrunt"
+        },
+        {
+          "number": "0",
+          "name": "Riley  Neckermann"
+        },
+        {
+          "number": "0",
+          "name": "Thomas Bye"
+        },
+        {
+          "number": "2",
+          "name": "Jake O'Hara"
+        },
+        {
+          "number": "3",
+          "name": "Aaron Hallstrom"
+        },
+        {
+          "number": "5",
+          "name": "Julian Kinneavy"
+        },
+        {
+          "number": "7",
+          "name": "Henry Vander Hill"
+        },
+        {
+          "number": "17",
+          "name": "Kai Knudson"
+        },
+        {
+          "number": "20",
+          "name": "Graham Schneider"
+        },
+        {
+          "number": "24",
+          "name": "Christopher Clark"
+        },
+        {
+          "number": "25",
+          "name": "Sachchit Murali"
+        },
+        {
+          "number": "31",
+          "name": "Ross Screaton"
+        },
+        {
+          "number": "33",
+          "name": "Paul Rheinberger"
+        },
+        {
+          "number": "37",
+          "name": "Alex Zheng"
+        },
+        {
+          "number": "41",
+          "name": "Peter Diede"
+        },
+        {
+          "number": "43",
+          "name": "Alexander Perkins"
+        },
+        {
+          "number": "46",
+          "name": "Timothy Opdahl"
+        },
+        {
+          "number": "49",
+          "name": "Jacob Graff"
+        },
+        {
+          "number": "52",
+          "name": "Matthew Kryzer"
+        },
+        {
+          "number": "81",
+          "name": "Benjamin Holte"
+        },
+        {
+          "number": "97",
+          "name": "Grant Kohner"
+        },
+        {
+          "number": "99",
+          "name": "Nikhil Khurana"
+        }
+      ]
+    },
+    {
+      "name": "Wisconsin-Eau Claire",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "EauZone",
+        "location": "Eau Claire, Wisconsin",
+        "website": "",
+        "facebook": "https://www.facebook.com/pages/Eauzone/123562074416368",
+        "twitter": "https://twitter.com/eauzoneultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Eli Rubin-Calvert"
+        },
+        {
+          "number": "0",
+          "name": "Jacob Huffaker"
+        },
+        {
+          "number": "0",
+          "name": "Jayden Flipp Connolly"
+        },
+        {
+          "number": "0",
+          "name": "Riley Call"
+        },
+        {
+          "number": "3",
+          "name": "Jacob Ertz"
+        },
+        {
+          "number": "4",
+          "name": "Dalton Dowd"
+        },
+        {
+          "number": "7",
+          "name": "Kristian Johnson"
+        },
+        {
+          "number": "10",
+          "name": "Adam Egemo"
+        },
+        {
+          "number": "11",
+          "name": "Simon Koeper"
+        },
+        {
+          "number": "14",
+          "name": "Micah Link"
+        },
+        {
+          "number": "18",
+          "name": "Andrew Cotter"
+        },
+        {
+          "number": "24",
+          "name": "Spencer King"
+        },
+        {
+          "number": "27",
+          "name": "Josh Yira"
+        },
+        {
+          "number": "28",
+          "name": "Sawyer Brown"
+        },
+        {
+          "number": "33",
+          "name": "Ryan Schultz"
+        },
+        {
+          "number": "38",
+          "name": "Beck Ruzicka"
+        },
+        {
+          "number": "42",
+          "name": "Eric Stadtmueller"
+        },
+        {
+          "number": "44",
+          "name": "Colin Williams"
+        },
+        {
+          "number": "49",
+          "name": "Cordell Kapusta"
+        },
+        {
+          "number": "51",
+          "name": "Joshua Benning"
+        },
+        {
+          "number": "56",
+          "name": "Michael Ulbricht"
+        },
+        {
+          "number": "69",
+          "name": "Allen Thoresen"
+        },
+        {
+          "number": "74",
+          "name": "Patrick Eikens"
+        },
+        {
+          "number": "77",
+          "name": "Weston Martin"
+        },
+        {
+          "number": "82",
+          "name": "Anthony Doan"
+        },
+        {
+          "number": "83",
+          "name": "Joseph Schmitz"
+        },
+        {
+          "number": "99",
+          "name": "Michael Brandt"
+        }
+      ]
+    },
+    {
+      "name": "St. Thomas",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Purple Reign",
+        "location": "Saint Paul, Minnesota",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Jackson Gudorf"
+        },
+        {
+          "number": "0",
+          "name": "John Graumann"
+        },
+        {
+          "number": "0",
+          "name": "Paul Youngblood"
+        },
+        {
+          "number": "0",
+          "name": "Lucas  Tucker"
+        },
+        {
+          "number": "0",
+          "name": "Michael Gustin"
+        },
+        {
+          "number": "0",
+          "name": "Nathan Jacobsen"
+        },
+        {
+          "number": "5",
+          "name": "Kyle Mullin"
+        },
+        {
+          "number": "8",
+          "name": "Colby Flynn"
+        },
+        {
+          "number": "13",
+          "name": "Mitchell Allen"
+        },
+        {
+          "number": "39",
+          "name": "Brendan Corbin"
+        },
+        {
+          "number": "46",
+          "name": "Joe Lagorio"
+        },
+        {
+          "number": "72",
+          "name": "Blake Blotsky"
+        },
+        {
+          "number": "95",
+          "name": "Eric Volkmeier"
+        }
+      ]
+    },
+    {
+      "name": "Wisconsin- La Crosse",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "BadLUC",
+        "location": "La Crosse, Wisconsin",
+        "website": "https://uwlmyorgs.collegiatelink.net/organization/mensultimate",
+        "facebook": "https://www.facebook.com/UWLaCrosseUltimateClub/?ref=aymt_homepage_panel",
+        "twitter": "https://twitter.com/ultimateluc?lang=en"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alec  Burgoyne"
+        },
+        {
+          "number": "0",
+          "name": "Andrew Sutcliffe"
+        },
+        {
+          "number": "0",
+          "name": "Bradley Miller"
+        },
+        {
+          "number": "0",
+          "name": "Cody Suchla"
+        },
+        {
+          "number": "0",
+          "name": "Coleman Maher"
+        },
+        {
+          "number": "0",
+          "name": "Bryan Bauman"
+        },
+        {
+          "number": "0",
+          "name": "Jordan Hazard"
+        },
+        {
+          "number": "0",
+          "name": "Masan Polk"
+        },
+        {
+          "number": "0",
+          "name": "Max Ryder"
+        },
+        {
+          "number": "0",
+          "name": "Shee Yee Xiong"
+        },
+        {
+          "number": "6",
+          "name": "Dylan Dooley"
+        },
+        {
+          "number": "12",
+          "name": "Casey Gunderson"
+        },
+        {
+          "number": "16",
+          "name": "Andrew Ericson"
+        },
+        {
+          "number": "20",
+          "name": "Joseph Pucel"
+        },
+        {
+          "number": "22",
+          "name": "Eli Malmquist"
+        },
+        {
+          "number": "27",
+          "name": "Erik Read"
+        },
+        {
+          "number": "29",
+          "name": "Jack Nelson"
+        },
+        {
+          "number": "30",
+          "name": "Brandon Masnica"
+        },
+        {
+          "number": "32",
+          "name": "Hunter Froehlich"
+        },
+        {
+          "number": "82",
+          "name": "Jeremy Schuetz"
+        }
+      ]
+    },
+    {
+      "name": "Wisconsin (B)",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Fauxdags",
+        "location": "Madison, Wisconsin",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "01",
+          "name": "Edward Larson"
+        },
+        {
+          "number": "02",
+          "name": "Garrek Wierzba"
+        },
+        {
+          "number": "03",
+          "name": "Kye Hanson"
+        },
+        {
+          "number": "04",
+          "name": "Evan McNamara"
+        },
+        {
+          "number": "11",
+          "name": "Sam Dinerman"
+        },
+        {
+          "number": "12",
+          "name": "Malcolm Richardson"
+        },
+        {
+          "number": "14",
+          "name": "Matthew Ruegsegger"
+        },
+        {
+          "number": "16",
+          "name": "Mitchell Rose"
+        },
+        {
+          "number": "16",
+          "name": "Sean Markey"
+        },
+        {
+          "number": "17",
+          "name": "Alexander Gravatt"
+        },
+        {
+          "number": "21",
+          "name": "Andrew Cohen"
+        },
+        {
+          "number": "22",
+          "name": "Dylan Petersen"
+        },
+        {
+          "number": "29",
+          "name": "Jacob Calbaum"
+        },
+        {
+          "number": "31",
+          "name": "Arlo Strozewski"
+        },
+        {
+          "number": "33",
+          "name": "Peter Ullrich"
+        },
+        {
+          "number": "36",
+          "name": "Adam Friedman"
+        },
+        {
+          "number": "41",
+          "name": "Luke Boge"
+        },
+        {
+          "number": "63",
+          "name": "Benjamin Rubin"
+        },
+        {
+          "number": "69",
+          "name": "Isaac Fine"
+        },
+        {
+          "number": "77",
+          "name": "Kyle Fruhling"
+        },
+        {
+          "number": "81",
+          "name": "Alan Edwards"
+        }
+      ]
+    },
+    {
+      "name": "Drake",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "DUC",
+        "location": "Des Moines, Iowa",
+        "website": "",
+        "facebook": "https://www.facebook.com/drakeultimate",
+        "twitter": "https://twitter.com/Drake_Ultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Benjamin Clemenson"
+        },
+        {
+          "number": "0",
+          "name": "Graham Johnson"
+        },
+        {
+          "number": "0",
+          "name": "Jacob Lamont"
+        },
+        {
+          "number": "0",
+          "name": "Joseph Sheehan"
+        },
+        {
+          "number": "0",
+          "name": "Kevin Kiehne"
+        },
+        {
+          "number": "0",
+          "name": "Marcus Roussey"
+        },
+        {
+          "number": "0",
+          "name": "Noah Linder"
+        },
+        {
+          "number": "0",
+          "name": "Skyler Kaiser"
+        },
+        {
+          "number": "9",
+          "name": "Thomas Foersterling"
+        },
+        {
+          "number": "14",
+          "name": "Michael Grant"
+        },
+        {
+          "number": "22",
+          "name": "Tyler Walden"
+        },
+        {
+          "number": "23",
+          "name": "Connor Ellingson"
+        },
+        {
+          "number": "25",
+          "name": "Kenneth Caldwell"
+        },
+        {
+          "number": "33",
+          "name": "Matthew Kraus"
+        },
+        {
+          "number": "42",
+          "name": "Carter Genrick"
+        },
+        {
+          "number": "45",
+          "name": "Devon Lord"
+        },
+        {
+          "number": "55",
+          "name": "Riley Borst"
+        },
+        {
+          "number": "77",
+          "name": "Sean Cusick"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Round Robin",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Minnesota (B)",
+              "team2": "Wisconsin (B)",
+              "score1": 11,
+              "score2": 10,
+              "datetime": "2019-02-23T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Wisconsin- La Crosse",
+              "team2": "Wisconsin-Eau Claire",
+              "score1": 10,
+              "score2": 13,
+              "datetime": "2019-02-23T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Minnesota (B)",
+              "team2": "Drake",
+              "score1": 13,
+              "score2": 3,
+              "datetime": "2019-02-23T09:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Wisconsin-Eau Claire",
+              "team2": "St. Thomas",
+              "score1": 13,
+              "score2": 6,
+              "datetime": "2019-02-23T09:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Wisconsin (B)",
+              "team2": "St. Thomas",
+              "score1": 8,
+              "score2": 11,
+              "datetime": "2019-02-23T10:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Wisconsin- La Crosse",
+              "team2": "Drake",
+              "score1": 13,
+              "score2": 6,
+              "datetime": "2019-02-23T10:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Wisconsin- La Crosse",
+              "team2": "St. Thomas",
+              "score1": 10,
+              "score2": 13,
+              "datetime": "2019-02-23T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Wisconsin-Eau Claire",
+              "team2": "Drake",
+              "score1": 11,
+              "score2": 7,
+              "datetime": "2019-02-23T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Minnesota (B)",
+              "team2": "Wisconsin-Eau Claire",
+              "score1": 13,
+              "score2": 7,
+              "datetime": "2019-02-23T13:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Wisconsin (B)",
+              "team2": "Drake",
+              "score1": 13,
+              "score2": 5,
+              "datetime": "2019-02-23T13:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Minnesota (B)",
+              "team2": "Wisconsin- La Crosse",
+              "score1": 9,
+              "score2": 10,
+              "datetime": "2019-02-23T14:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Wisconsin-Eau Claire",
+              "team2": "Wisconsin (B)",
+              "score1": 10,
+              "score2": 8,
+              "datetime": "2019-02-23T14:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Wisconsin- La Crosse",
+              "team2": "Wisconsin (B)",
+              "score1": 11,
+              "score2": 6,
+              "datetime": "2019-02-23T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Drake",
+              "team2": "St. Thomas",
+              "score1": 7,
+              "score2": 13,
+              "datetime": "2019-02-23T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Minnesota (B)",
+              "team2": "St. Thomas",
+              "score1": 13,
+              "score2": 9,
+              "datetime": "2019-02-23T17:20:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

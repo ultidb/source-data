@@ -1,0 +1,273 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2024/SLOBowlClub-Women",
+  "sourceUrl": "https://play.usaultimate.org/events/SLOBowl/schedule/Women/Club-Women/",
+  "scrapedAt": "2026-08-28T10:06:21.047982Z",
+  "event": {
+    "name": "SLOBowl 2024",
+    "division": "Club - Women ",
+    "gender": "",
+    "season": 2024,
+    "city": "San Louis Obispo",
+    "state": "CA",
+    "country": "",
+    "startDate": "2024-08-04",
+    "endDate": "2024-08-04"
+  },
+  "teams": [
+    {
+      "name": "Ultraviolet",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Bay Area, California",
+        "website": "",
+        "facebook": "https://www.facebook.com/ultravioletultimate/",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alice Yang"
+        },
+        {
+          "number": "0",
+          "name": "Anya Prabowo"
+        },
+        {
+          "number": "0",
+          "name": "Celia Tsao"
+        },
+        {
+          "number": "0",
+          "name": "Christina  Aronhalt "
+        },
+        {
+          "number": "0",
+          "name": "Corinne Archer"
+        },
+        {
+          "number": "0",
+          "name": "Elaine Zhao"
+        },
+        {
+          "number": "0",
+          "name": "Ella Marden"
+        },
+        {
+          "number": "0",
+          "name": "Elyse Hallett"
+        },
+        {
+          "number": "0",
+          "name": "Emma Scheve"
+        },
+        {
+          "number": "0",
+          "name": "Po-Hsuan Wei"
+        },
+        {
+          "number": "0",
+          "name": "Sarah Lou"
+        },
+        {
+          "number": "0",
+          "name": "Serena Chen"
+        },
+        {
+          "number": "0",
+          "name": "Zoe Manzano"
+        },
+        {
+          "number": "18",
+          "name": "Nina Horowitz"
+        },
+        {
+          "number": "69",
+          "name": "Jesse Kim"
+        }
+      ]
+    },
+    {
+      "name": "Tempo",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Bay Area, California",
+        "website": "https://www.instagram.com/tempoultimate/?hl=en",
+        "facebook": "https://www.facebook.com/tempoultimate",
+        "twitter": "https://twitter.com/tempoultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Jayden Camarena"
+        },
+        {
+          "number": "0",
+          "name": "Kate Schroeder"
+        },
+        {
+          "number": "0",
+          "name": "Madeline Metz"
+        },
+        {
+          "number": "0",
+          "name": "Maya Sun"
+        },
+        {
+          "number": "0",
+          "name": "Phoebe Hall"
+        },
+        {
+          "number": "0",
+          "name": "Rathi Kashi"
+        },
+        {
+          "number": "0",
+          "name": "Sandra Hensel"
+        },
+        {
+          "number": "0",
+          "name": "Sarah Carter"
+        },
+        {
+          "number": "0",
+          "name": "Sophia Faaland"
+        },
+        {
+          "number": "0",
+          "name": "Valeria Gaona"
+        },
+        {
+          "number": "0",
+          "name": "Wenqian Deng"
+        },
+        {
+          "number": "0",
+          "name": "Althea Hurwitz"
+        },
+        {
+          "number": "0",
+          "name": "Avelle Campell"
+        },
+        {
+          "number": "0",
+          "name": "Cariann Perumal"
+        },
+        {
+          "number": "13",
+          "name": "Cynthia Ni"
+        }
+      ]
+    },
+    {
+      "name": "Just Add Water",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Long Beach, California",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Genesis Pena"
+        },
+        {
+          "number": "0",
+          "name": "Julie Xue"
+        },
+        {
+          "number": "0",
+          "name": "Naomi Sutton"
+        },
+        {
+          "number": "3",
+          "name": "Kendall McKeel"
+        },
+        {
+          "number": "5",
+          "name": "Courtney Conlan"
+        },
+        {
+          "number": "9",
+          "name": "Yazmin Nunez"
+        },
+        {
+          "number": "11",
+          "name": "Michelle Abramson"
+        },
+        {
+          "number": "14",
+          "name": "Tasha Pimentel"
+        },
+        {
+          "number": "18",
+          "name": "Elyse Bartelmey"
+        },
+        {
+          "number": "23",
+          "name": "Lisa Cheng"
+        },
+        {
+          "number": "26",
+          "name": "Katie Rusek"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "SLOBowl Pool",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Tempo",
+              "team2": "Ultraviolet",
+              "score1": 6,
+              "score2": 7,
+              "datetime": "2024-08-04T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Just Add Water",
+              "team2": "Ultraviolet",
+              "score1": 5,
+              "score2": 10,
+              "datetime": "2024-08-04T11:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Just Add Water",
+              "team2": "Tempo",
+              "score1": 2,
+              "score2": 10,
+              "datetime": "2024-08-04T12:40:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

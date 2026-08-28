@@ -1,0 +1,249 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2014/Boomtown-Invite2CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/Boomtown-Invite2/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:11.385706Z",
+  "event": {
+    "name": "Boomtown Invite 2014",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2014,
+    "city": "Evanston",
+    "state": "IL",
+    "country": "",
+    "startDate": "2014-03-15",
+    "endDate": "2014-03-15"
+  },
+  "teams": [
+    {
+      "name": "Northwestern",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "NUT",
+        "location": "Evanston, Illinois",
+        "website": "https://www.nutultimate.com",
+        "facebook": "https://www.facebook.com/NUTUltimate",
+        "twitter": "https://twitter.com/NUTUltimate"
+      },
+      "coaches": [
+        "Kevin Bruns"
+      ],
+      "roster": [
+        {
+          "number": "00",
+          "name": "TIMOTHY REILLY"
+        },
+        {
+          "number": "02",
+          "name": "Benjamin Spielman"
+        },
+        {
+          "number": "03",
+          "name": "Max Shepherd"
+        },
+        {
+          "number": "04",
+          "name": "Anthony Colucci"
+        },
+        {
+          "number": "10",
+          "name": "ALEX HOLTERMAN"
+        },
+        {
+          "number": "14",
+          "name": "Randall Waymire"
+        },
+        {
+          "number": "15",
+          "name": "SAMUEL HANSON"
+        },
+        {
+          "number": "16",
+          "name": "ZACK WOODRUFF"
+        },
+        {
+          "number": "17",
+          "name": "Nathan Yeazel"
+        },
+        {
+          "number": "18",
+          "name": "Anthony Luk"
+        },
+        {
+          "number": "19",
+          "name": "Jack Shey"
+        },
+        {
+          "number": "22",
+          "name": "Alex Champe"
+        },
+        {
+          "number": "24",
+          "name": "Kedric Daly"
+        },
+        {
+          "number": "27",
+          "name": "Edward Speyer"
+        },
+        {
+          "number": "28",
+          "name": "BEN RICHARDSON"
+        },
+        {
+          "number": "29",
+          "name": "Michael Koho"
+        },
+        {
+          "number": "37",
+          "name": "Drew Levorsen"
+        },
+        {
+          "number": "38",
+          "name": "Benjamin Walker"
+        },
+        {
+          "number": "42",
+          "name": "Henry Richey"
+        },
+        {
+          "number": "44",
+          "name": "Remy Smith"
+        },
+        {
+          "number": "49",
+          "name": "Ian Preston"
+        },
+        {
+          "number": "51",
+          "name": "Yiding Hou"
+        },
+        {
+          "number": "90",
+          "name": "Kyle Condron"
+        }
+      ]
+    },
+    {
+      "name": "Chicago",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Chicago Ultimate",
+        "location": "Chicago, Illinois",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Alejandro Younger"
+        },
+        {
+          "number": "02",
+          "name": "MAX BLUESTONE"
+        },
+        {
+          "number": "03",
+          "name": "Milo Korman"
+        },
+        {
+          "number": "05",
+          "name": "DANIEL SHEAR"
+        },
+        {
+          "number": "07",
+          "name": "MICHAEL LIU"
+        },
+        {
+          "number": "08",
+          "name": "Joshua Stevens-Stein"
+        },
+        {
+          "number": "09",
+          "name": "Eli Cohen"
+        },
+        {
+          "number": "10",
+          "name": "Dean Acheson"
+        },
+        {
+          "number": "11",
+          "name": "Eugene Chong"
+        },
+        {
+          "number": "20",
+          "name": "TERRANCE LIU"
+        },
+        {
+          "number": "24",
+          "name": "Michael Pardo"
+        },
+        {
+          "number": "26",
+          "name": "Jason Aerni"
+        },
+        {
+          "number": "30",
+          "name": "Nicholas McDonnell"
+        },
+        {
+          "number": "31",
+          "name": "MATTHEW CARTIER"
+        },
+        {
+          "number": "33",
+          "name": "Peter Alexieff"
+        },
+        {
+          "number": "34",
+          "name": "ABHISAAR YADAV"
+        },
+        {
+          "number": "35",
+          "name": "RYAN MCNAMARA"
+        },
+        {
+          "number": "36",
+          "name": "Percy Stogdon"
+        },
+        {
+          "number": "36",
+          "name": "ZIV DREYFUSS"
+        },
+        {
+          "number": "37",
+          "name": "Willem Longendyke"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "clusters",
+      "name": "Championship",
+      "groups": [
+        {
+          "name": "Championship",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Northwestern",
+              "team2": "Chicago",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2014-03-15T18:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

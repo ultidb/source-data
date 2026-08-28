@@ -1,0 +1,255 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2022/Pushovers-vs-PandamoniumClub-Mixed",
+  "sourceUrl": "https://play.usaultimate.org/events/Pushovers-vs-Pandamonium/schedule/Mixed/Club-Mixed",
+  "scrapedAt": "2026-08-28T10:06:18.954647Z",
+  "event": {
+    "name": "Pushovers vs Pandamonium 2022",
+    "division": "Club - Mixed ",
+    "gender": "",
+    "season": 2022,
+    "city": "St. Paul",
+    "state": "MN",
+    "country": "",
+    "startDate": "2022-08-17",
+    "endDate": "2022-08-17"
+  },
+  "teams": [
+    {
+      "name": "Pushovers",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Lake Elmo, Minnesota",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": " ",
+          "name": "Abigail Skerker"
+        },
+        {
+          "number": " ",
+          "name": "Arthur Harris"
+        },
+        {
+          "number": " ",
+          "name": "Carly Rasmussen"
+        },
+        {
+          "number": " ",
+          "name": "Derek Anderson"
+        },
+        {
+          "number": " ",
+          "name": "Eric Volkmeier"
+        },
+        {
+          "number": " ",
+          "name": "Michael Scharlau"
+        },
+        {
+          "number": " ",
+          "name": "Tyler Wolf Williams"
+        },
+        {
+          "number": "0",
+          "name": "Emma Gautier"
+        },
+        {
+          "number": "0",
+          "name": "Erick Knudson"
+        },
+        {
+          "number": "0",
+          "name": "Ethan Smith"
+        },
+        {
+          "number": "0",
+          "name": "Laura Osterlund"
+        },
+        {
+          "number": "0",
+          "name": "Donovan ODowd"
+        },
+        {
+          "number": "10",
+          "name": "Kyra Anderson"
+        },
+        {
+          "number": "12",
+          "name": "Joseph Ling"
+        },
+        {
+          "number": "15",
+          "name": "Harper Brooks-Kahn"
+        },
+        {
+          "number": "18",
+          "name": "Eleanor Vandel"
+        },
+        {
+          "number": "28",
+          "name": "Miriam Tibbetts"
+        },
+        {
+          "number": "30",
+          "name": "Liv Myers"
+        },
+        {
+          "number": "34",
+          "name": "Madeline Scott"
+        },
+        {
+          "number": "35",
+          "name": "Anders Zetterlund"
+        },
+        {
+          "number": "39",
+          "name": "Elizabeth Curtiss"
+        },
+        {
+          "number": "47",
+          "name": "Sam Berk-Hinckley"
+        },
+        {
+          "number": "62",
+          "name": "Marcus Cannon"
+        },
+        {
+          "number": "98",
+          "name": "Bryan Kim"
+        }
+      ]
+    },
+    {
+      "name": "Pandamonium",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Saint Paul, Minnesota",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/pandamentals"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Ben Finkelstein"
+        },
+        {
+          "number": "0",
+          "name": "Bryan Soto"
+        },
+        {
+          "number": "0",
+          "name": "Daniel Snyder"
+        },
+        {
+          "number": "0",
+          "name": "Erik Bredesen"
+        },
+        {
+          "number": "0",
+          "name": "Ian Andre-Knudsen"
+        },
+        {
+          "number": "0",
+          "name": "Ian Ehlert"
+        },
+        {
+          "number": "0",
+          "name": "Jesse Peterson-Brandt"
+        },
+        {
+          "number": "0",
+          "name": "Jessie Lambert"
+        },
+        {
+          "number": "0",
+          "name": "Julia Clare"
+        },
+        {
+          "number": "0",
+          "name": "Katelin Goebel"
+        },
+        {
+          "number": "0",
+          "name": "Katherine Frantz"
+        },
+        {
+          "number": "0",
+          "name": "Katherine Johnson"
+        },
+        {
+          "number": "0",
+          "name": "Kevin Pochatila"
+        },
+        {
+          "number": "0",
+          "name": "Kim Wurl"
+        },
+        {
+          "number": "0",
+          "name": "Linette Maeder"
+        },
+        {
+          "number": "0",
+          "name": "Matt Theisen"
+        },
+        {
+          "number": "0",
+          "name": "Micah Peterson-Brandt"
+        },
+        {
+          "number": "0",
+          "name": "Mikhail Golben"
+        },
+        {
+          "number": "0",
+          "name": "Raechell Nelson"
+        },
+        {
+          "number": "0",
+          "name": "Sarah Robinson"
+        },
+        {
+          "number": "0",
+          "name": "Stephanie O'Connor"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Game",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Pushovers",
+              "team2": "Pandamonium",
+              "score1": 10,
+              "score2": 8,
+              "datetime": "2022-08-17T19:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

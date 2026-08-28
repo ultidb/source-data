@@ -1,0 +1,956 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2018/Ohio-Valley-Dev-College-Mens-CC-2018CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/Ohio-Valley-Dev-College-Mens-CC-2018/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:15.719753Z",
+  "event": {
+    "name": "Ohio Valley Dev College Men's CC 2018",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2018,
+    "city": "University Park",
+    "state": "PA",
+    "country": "",
+    "startDate": "2018-04-14",
+    "endDate": "2018-04-15"
+  },
+  "teams": [
+    {
+      "name": "Pittsburgh (B)",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "En Sabah Nur-B",
+        "location": "Pittsburgh, Pennsylvania",
+        "website": "pittultimate.org",
+        "facebook": "",
+        "twitter": "https://twitter.com/pittb_ultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Ian Piper"
+        },
+        {
+          "number": "0",
+          "name": "Jacob Doss"
+        },
+        {
+          "number": "0",
+          "name": "Jake Davis"
+        },
+        {
+          "number": "0",
+          "name": "Jeffrey Zhou"
+        },
+        {
+          "number": "0",
+          "name": "Joseph Helgerman"
+        },
+        {
+          "number": "0",
+          "name": "Michael Sodini"
+        },
+        {
+          "number": "0",
+          "name": "Scott Branagan"
+        },
+        {
+          "number": "2",
+          "name": "Austin Snyder"
+        },
+        {
+          "number": "3",
+          "name": "Charles Lee"
+        },
+        {
+          "number": "11",
+          "name": "Ethan Murphy"
+        },
+        {
+          "number": "12",
+          "name": "Joshua Carroll"
+        },
+        {
+          "number": "18",
+          "name": "Simon Prushan"
+        },
+        {
+          "number": "19",
+          "name": "Mathieu Petit"
+        },
+        {
+          "number": "21",
+          "name": "Dillon Garrett"
+        },
+        {
+          "number": "31",
+          "name": "David Tulin"
+        },
+        {
+          "number": "33",
+          "name": "Christopher Turocy"
+        },
+        {
+          "number": "44",
+          "name": "Dylan Falk"
+        },
+        {
+          "number": "52",
+          "name": "Ryan Andersen"
+        },
+        {
+          "number": "54",
+          "name": "Riley Park"
+        },
+        {
+          "number": "81",
+          "name": "Steven Hocker"
+        }
+      ]
+    },
+    {
+      "name": "Ohio State (B)",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Big Buckin' Chicken",
+        "location": "Columbus, Ohio",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Temple (B)",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "False Alarm",
+        "location": "Philadelphia, Pennsylvania",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Christopher Kaye"
+        },
+        {
+          "number": "0",
+          "name": "Christopher Thiess"
+        },
+        {
+          "number": "0",
+          "name": "Dan Nguyen"
+        },
+        {
+          "number": "0",
+          "name": "James Diffenderfer"
+        },
+        {
+          "number": "0",
+          "name": "James Nierenberg"
+        },
+        {
+          "number": "0",
+          "name": "Jared Krieger"
+        },
+        {
+          "number": "0",
+          "name": "Joseph Byrnes"
+        },
+        {
+          "number": "0",
+          "name": "Marc Frattarelli"
+        },
+        {
+          "number": "0",
+          "name": "Noah Eiseman"
+        },
+        {
+          "number": "0",
+          "name": "Patrick Bischke"
+        },
+        {
+          "number": "0",
+          "name": "Patrick Mulderig"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Lieberman"
+        },
+        {
+          "number": "0",
+          "name": "William Bolendz"
+        },
+        {
+          "number": "2",
+          "name": "Kyle Betley"
+        },
+        {
+          "number": "2",
+          "name": "Gunnar Jackson"
+        },
+        {
+          "number": "5",
+          "name": "Che Raskin"
+        },
+        {
+          "number": "19",
+          "name": "Kyle Olstein"
+        },
+        {
+          "number": "21",
+          "name": "Paul Anouna"
+        },
+        {
+          "number": "22",
+          "name": "Evan Novacek"
+        },
+        {
+          "number": "23",
+          "name": "Joshua Cadwallader"
+        },
+        {
+          "number": "25",
+          "name": "Andrew McMenamin"
+        },
+        {
+          "number": "25",
+          "name": "Matthew Shafer"
+        },
+        {
+          "number": "44",
+          "name": "Jake Bolendz"
+        },
+        {
+          "number": "46",
+          "name": "John Logue"
+        },
+        {
+          "number": "51",
+          "name": "Alec Cohen"
+        },
+        {
+          "number": "53",
+          "name": "David Woyden"
+        }
+      ]
+    },
+    {
+      "name": "Penn State (B)",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "LoveTap",
+        "location": "University Park, Pennsylvania",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/LovetapDisc"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Adam Goldsmith"
+        },
+        {
+          "number": "0",
+          "name": "Austin Segura"
+        },
+        {
+          "number": "0",
+          "name": "Austin Williams"
+        },
+        {
+          "number": "0",
+          "name": "Brian Colosi"
+        },
+        {
+          "number": "0",
+          "name": "Douglas Rudzinski"
+        },
+        {
+          "number": "0",
+          "name": "Jacob Waldman"
+        },
+        {
+          "number": "0",
+          "name": "Jacob Newton-Tanzer"
+        },
+        {
+          "number": "0",
+          "name": "Lucas Forest"
+        },
+        {
+          "number": "0",
+          "name": "Nick Hardwick"
+        },
+        {
+          "number": "0",
+          "name": "Zebulun Swartley"
+        },
+        {
+          "number": "2",
+          "name": "Nicholas  Chamberlin"
+        },
+        {
+          "number": "4",
+          "name": "Jason Ehrich"
+        },
+        {
+          "number": "6",
+          "name": "Kyle Schmauk"
+        },
+        {
+          "number": "7",
+          "name": "Tyler Williams"
+        },
+        {
+          "number": "9",
+          "name": "Jack McKenna"
+        },
+        {
+          "number": "10",
+          "name": "Patrick Finn"
+        },
+        {
+          "number": "11",
+          "name": "Tristian Yanalitis"
+        },
+        {
+          "number": "12",
+          "name": "Yit Tung Foo"
+        },
+        {
+          "number": "12",
+          "name": "Stephen Dule"
+        },
+        {
+          "number": "13",
+          "name": "Uriah Frederick"
+        },
+        {
+          "number": "16",
+          "name": "Andrew Getsy"
+        },
+        {
+          "number": "24",
+          "name": "Norman Holloway"
+        },
+        {
+          "number": "25",
+          "name": "Jeffrey Ruffing"
+        },
+        {
+          "number": "34",
+          "name": "Thomas Bina"
+        },
+        {
+          "number": "37",
+          "name": "Trey Williams"
+        },
+        {
+          "number": "42",
+          "name": "Brendan Murphy"
+        },
+        {
+          "number": "71",
+          "name": "John Gurklis"
+        },
+        {
+          "number": "84",
+          "name": "Brian Getsie"
+        },
+        {
+          "number": "88",
+          "name": "Benjamin Chronister"
+        },
+        {
+          "number": "91",
+          "name": "John Haser"
+        }
+      ]
+    },
+    {
+      "name": "Case Western Reserve (B)",
+      "seed": 7,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Fighting Gobies",
+        "location": "Cleveland, Ohio",
+        "website": "ultimate.case.edu",
+        "facebook": "https://www.facebook.com/GobyWarriors",
+        "twitter": "https://twitter.com/FightingGobies"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Ankush Banerjee"
+        },
+        {
+          "number": "0",
+          "name": "Caleb Main"
+        },
+        {
+          "number": "0",
+          "name": "Daniel Luo"
+        },
+        {
+          "number": "0",
+          "name": "Felix Freeland"
+        },
+        {
+          "number": "0",
+          "name": "Kent Taylor"
+        },
+        {
+          "number": "0",
+          "name": "Kyle Boxeth"
+        },
+        {
+          "number": "0",
+          "name": "Leo Ndiaye"
+        },
+        {
+          "number": "0",
+          "name": "Michael Corridon"
+        },
+        {
+          "number": "0",
+          "name": "Mike Yang"
+        },
+        {
+          "number": "0",
+          "name": "Nathan Lee"
+        },
+        {
+          "number": "0",
+          "name": "Thomas Hotaling"
+        },
+        {
+          "number": "0",
+          "name": "Tim Krause"
+        },
+        {
+          "number": "0",
+          "name": "Tristan Greiner"
+        },
+        {
+          "number": "0",
+          "name": "Yidi Huang"
+        },
+        {
+          "number": "0",
+          "name": "Glenn Matamoros"
+        },
+        {
+          "number": "0",
+          "name": "Jonah Sachs-Wetstone"
+        },
+        {
+          "number": "7",
+          "name": "David Rodriguez"
+        },
+        {
+          "number": "24",
+          "name": "Justin Ji"
+        },
+        {
+          "number": "30",
+          "name": "Brian Lin"
+        },
+        {
+          "number": "33",
+          "name": "Alexandre Tilly"
+        },
+        {
+          "number": "42",
+          "name": "Gerome Spino"
+        },
+        {
+          "number": "61",
+          "name": "Derek Lin"
+        },
+        {
+          "number": "75",
+          "name": "Chester Nguyen"
+        },
+        {
+          "number": "97",
+          "name": "Michael Smith"
+        }
+      ]
+    },
+    {
+      "name": "Pennsylvania (B)",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Null",
+        "location": "Philadelphia, Pennsylvania",
+        "website": "voidultimate.com",
+        "facebook": "",
+        "twitter": "https://twitter.com/NullUltimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Anurag Makineni"
+        },
+        {
+          "number": "0",
+          "name": "Kasra Khadem"
+        },
+        {
+          "number": "4",
+          "name": "Peter Sheu"
+        },
+        {
+          "number": "5",
+          "name": "Chris Fischer"
+        },
+        {
+          "number": "6",
+          "name": "Riley Morrison"
+        },
+        {
+          "number": "7",
+          "name": "Trevin Gandhi"
+        },
+        {
+          "number": "9",
+          "name": "Nicholas Genovese"
+        },
+        {
+          "number": "12",
+          "name": "Benjamin Joffe"
+        },
+        {
+          "number": "16",
+          "name": "Emmett Neyman"
+        },
+        {
+          "number": "17",
+          "name": "Kyle Whiting"
+        },
+        {
+          "number": "18",
+          "name": "Keith Babitz"
+        },
+        {
+          "number": "23",
+          "name": "Kevin Babitz"
+        },
+        {
+          "number": "26",
+          "name": "Andrew Neale"
+        },
+        {
+          "number": "29",
+          "name": "Zachary Rovner"
+        },
+        {
+          "number": "30",
+          "name": "Connor McSwain"
+        },
+        {
+          "number": "31",
+          "name": "Joel Chacko"
+        },
+        {
+          "number": "33",
+          "name": "Ayaaz Versi"
+        },
+        {
+          "number": "35",
+          "name": "Ranvir Bhatia"
+        },
+        {
+          "number": "36",
+          "name": "Davis Christianson"
+        },
+        {
+          "number": "37",
+          "name": "Kevin Chazotte"
+        },
+        {
+          "number": "40",
+          "name": "Tyler Vandergriff "
+        },
+        {
+          "number": "41",
+          "name": "Jack Biddle"
+        },
+        {
+          "number": "42",
+          "name": "John Flahive"
+        },
+        {
+          "number": "44",
+          "name": "Tony Qiu"
+        },
+        {
+          "number": "45",
+          "name": "Oscar Tinney"
+        },
+        {
+          "number": "49",
+          "name": "Benjamin Hoover"
+        },
+        {
+          "number": "55",
+          "name": "Olaoluwa Owoputi"
+        },
+        {
+          "number": "62",
+          "name": "William Watkins"
+        },
+        {
+          "number": "73",
+          "name": "Nathaniel Watkins"
+        },
+        {
+          "number": "86",
+          "name": "Ryan Kortvelesy"
+        }
+      ]
+    },
+    {
+      "name": "West Chester (B)",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "West Chester",
+        "location": "West Chester, Pennsylvania",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Brandon Porter"
+        },
+        {
+          "number": "0",
+          "name": "Brian Schnell"
+        },
+        {
+          "number": "0",
+          "name": "Chris Popeck"
+        },
+        {
+          "number": "0",
+          "name": "Damien Yasipour"
+        },
+        {
+          "number": "0",
+          "name": "Keith Morey"
+        },
+        {
+          "number": "0",
+          "name": "Matt Weaver"
+        },
+        {
+          "number": "0",
+          "name": "Matthew Wentz"
+        },
+        {
+          "number": "0",
+          "name": "Max Peterman"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Fowler"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Carr"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Murray"
+        },
+        {
+          "number": "0",
+          "name": "steve gregor"
+        },
+        {
+          "number": "0",
+          "name": "Adam  Peters"
+        },
+        {
+          "number": "0",
+          "name": "Adjua Dashield"
+        },
+        {
+          "number": "0",
+          "name": "Zachary Colangelo"
+        },
+        {
+          "number": "14",
+          "name": "Abbas Husain"
+        },
+        {
+          "number": "16",
+          "name": "Alex Zamory"
+        },
+        {
+          "number": "28",
+          "name": "Timothy Czaja"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "West Chester (B)",
+              "team2": "Ohio State (B)",
+              "score1": 2,
+              "score2": 13,
+              "datetime": "2018-04-14T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Penn State (B)",
+              "team2": "Case Western Reserve (B)",
+              "score1": 13,
+              "score2": 5,
+              "datetime": "2018-04-14T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Temple (B)",
+              "team2": "Pennsylvania (B)",
+              "score1": 13,
+              "score2": 8,
+              "datetime": "2018-04-14T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Pittsburgh (B)",
+              "team2": "Pennsylvania (B)",
+              "score1": 13,
+              "score2": 2,
+              "datetime": "2018-04-14T10:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Penn State (B)",
+              "team2": "Ohio State (B)",
+              "score1": 7,
+              "score2": 9,
+              "datetime": "2018-04-14T10:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Temple (B)",
+              "team2": "Case Western Reserve (B)",
+              "score1": 12,
+              "score2": 5,
+              "datetime": "2018-04-14T10:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Pittsburgh (B)",
+              "team2": "Penn State (B)",
+              "score1": 9,
+              "score2": 5,
+              "datetime": "2018-04-14T12:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "West Chester (B)",
+              "team2": "Case Western Reserve (B)",
+              "score1": 0,
+              "score2": 10,
+              "datetime": "2018-04-14T12:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Temple (B)",
+              "team2": "Ohio State (B)",
+              "score1": 3,
+              "score2": 10,
+              "datetime": "2018-04-14T12:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Pittsburgh (B)",
+              "team2": "West Chester (B)",
+              "score1": 13,
+              "score2": 2,
+              "datetime": "2018-04-14T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Penn State (B)",
+              "team2": "Temple (B)",
+              "score1": 8,
+              "score2": 9,
+              "datetime": "2018-04-14T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Pennsylvania (B)",
+              "team2": "Ohio State (B)",
+              "score1": 6,
+              "score2": 13,
+              "datetime": "2018-04-14T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Pittsburgh (B)",
+              "team2": "Case Western Reserve (B)",
+              "score1": 13,
+              "score2": 5,
+              "datetime": "2018-04-14T15:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Pennsylvania (B)",
+              "team2": "West Chester (B)",
+              "score1": 13,
+              "score2": 0,
+              "datetime": "2018-04-14T15:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Ohio State (B)",
+              "team2": "Case Western Reserve (B)",
+              "score1": 13,
+              "score2": 7,
+              "datetime": "2018-04-15T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Pittsburgh (B)",
+              "team2": "Temple (B)",
+              "score1": 11,
+              "score2": 7,
+              "datetime": "2018-04-15T10:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Penn State (B)",
+              "team2": "West Chester (B)",
+              "score1": 13,
+              "score2": 1,
+              "datetime": "2018-04-15T10:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Pennsylvania (B)",
+              "team2": "Case Western Reserve (B)",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2018-04-15T10:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Pittsburgh (B)",
+              "team2": "Ohio State (B)",
+              "score1": 13,
+              "score2": 6,
+              "datetime": "2018-04-15T12:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Penn State (B)",
+              "team2": "Pennsylvania (B)",
+              "score1": 13,
+              "score2": 8,
+              "datetime": "2018-04-15T12:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Temple (B)",
+              "team2": "West Chester (B)",
+              "score1": 13,
+              "score2": 6,
+              "datetime": "2018-04-15T12:20:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Bracket Play - ONLY IF A TEAM DOES NOT GO 6-0 IN POOL PLAY",
+      "groups": [
+        {
+          "name": "Bracket Play",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Pittsburgh (B)",
+              "team2": "Penn State (B)",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2018-04-15T14:00:00Z",
+              "round": "1st Place Semis",
+              "status": "Cancelled"
+            },
+            {
+              "team1": "Ohio State (B)",
+              "team2": "Temple (B)",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2018-04-15T14:00:00Z",
+              "round": "1st Place Semis",
+              "status": "Cancelled"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

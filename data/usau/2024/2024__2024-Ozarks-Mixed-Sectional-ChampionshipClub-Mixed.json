@@ -1,0 +1,227 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2024/2024-Ozarks-Mixed-Sectional-ChampionshipClub-Mixed",
+  "sourceUrl": "https://play.usaultimate.org/events/2024-Ozarks-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
+  "scrapedAt": "2026-08-28T10:06:19.981714Z",
+  "event": {
+    "name": "2024 Ozarks Mixed Sectional Championship",
+    "division": "Club - Mixed ",
+    "gender": "",
+    "season": 2024,
+    "city": "Fayetteville",
+    "state": "AR",
+    "country": "",
+    "startDate": "2024-09-07",
+    "endDate": "2024-09-08"
+  },
+  "teams": [
+    {
+      "name": "solAR",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Little Rock, Arkansas",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Diana Duwe"
+        },
+        {
+          "number": "0",
+          "name": "Kyle  Walker"
+        },
+        {
+          "number": "0",
+          "name": "Libby Williams"
+        },
+        {
+          "number": "0",
+          "name": "Sara Jones"
+        },
+        {
+          "number": "0",
+          "name": "Shawnee Guillory"
+        },
+        {
+          "number": "1",
+          "name": "Anthony Farnam"
+        },
+        {
+          "number": "2",
+          "name": "Isaac Deaver"
+        },
+        {
+          "number": "3",
+          "name": "Eriq Deaver"
+        },
+        {
+          "number": "4",
+          "name": "Rachel Pruitt"
+        },
+        {
+          "number": "6",
+          "name": "KEVIN WILLIAMS"
+        },
+        {
+          "number": "7",
+          "name": "Mason Keeling"
+        },
+        {
+          "number": "8",
+          "name": "Raven Johnson"
+        },
+        {
+          "number": "11",
+          "name": "Frank Macon"
+        },
+        {
+          "number": "17",
+          "name": "Heather Downs"
+        },
+        {
+          "number": "20",
+          "name": "Brett Willimann"
+        },
+        {
+          "number": "21",
+          "name": "Jonah Stephens"
+        },
+        {
+          "number": "22",
+          "name": "Krystal Moore"
+        },
+        {
+          "number": "23",
+          "name": "Jackson Langhout "
+        },
+        {
+          "number": "24",
+          "name": "Destiny Owen"
+        },
+        {
+          "number": "26",
+          "name": "Ashley Whaley"
+        },
+        {
+          "number": "31",
+          "name": "Luc Sutherland"
+        },
+        {
+          "number": "34",
+          "name": "John Dellorto"
+        },
+        {
+          "number": "37",
+          "name": "Brandon Bates"
+        },
+        {
+          "number": "44",
+          "name": "Cameron Thompson"
+        },
+        {
+          "number": "52",
+          "name": "Ronald Short"
+        }
+      ]
+    },
+    {
+      "name": "Little Rock Social Club",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Little Rock, Arkansas",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Alexandra  Mitchell"
+        },
+        {
+          "number": "00",
+          "name": "Austin Kohrs"
+        },
+        {
+          "number": "00",
+          "name": "Braxton Funk"
+        },
+        {
+          "number": "00",
+          "name": "Drake Hill"
+        },
+        {
+          "number": "00",
+          "name": "Grant Elliott"
+        },
+        {
+          "number": "00",
+          "name": "Jeremiah Cascairo"
+        },
+        {
+          "number": "00",
+          "name": "Lani Snowden"
+        },
+        {
+          "number": "00",
+          "name": "Mary Staton"
+        },
+        {
+          "number": "00",
+          "name": "Matthew McKay"
+        },
+        {
+          "number": "00",
+          "name": "Maura Cascairo"
+        },
+        {
+          "number": "00",
+          "name": "Ryan Nam"
+        },
+        {
+          "number": "00",
+          "name": "Spencer Wilson"
+        },
+        {
+          "number": "00",
+          "name": "Victoria Hagan"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Head to Head",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "solAR",
+              "team2": "Little Rock Social Club",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2024-09-08T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

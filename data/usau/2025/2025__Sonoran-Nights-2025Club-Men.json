@@ -1,0 +1,220 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2025/Sonoran-Nights-2025Club-Men",
+  "sourceUrl": "https://play.usaultimate.org/events/Sonoran-Nights-2025/schedule/Men/Club-Men/",
+  "scrapedAt": "2026-08-28T10:06:21.857253Z",
+  "event": {
+    "name": "Sonoran Nights 2025",
+    "division": "Club - Men ",
+    "gender": "",
+    "season": 2025,
+    "city": "Oro Valley",
+    "state": "AZ",
+    "country": "",
+    "startDate": "2025-07-12",
+    "endDate": "2025-07-13"
+  },
+  "teams": [
+    {
+      "name": "Sonoran Dog",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Tucson, Arizona",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Mario Weiler"
+        },
+        {
+          "number": "00",
+          "name": "Sean Smith"
+        },
+        {
+          "number": "00",
+          "name": "Zachary Yang"
+        },
+        {
+          "number": "06",
+          "name": "Alan Flores"
+        },
+        {
+          "number": "08",
+          "name": "Mitchell Rutherford"
+        },
+        {
+          "number": "09",
+          "name": "Mason Shaffer"
+        },
+        {
+          "number": "11",
+          "name": "Sam Freitas"
+        },
+        {
+          "number": "14",
+          "name": "Chris Salazar"
+        },
+        {
+          "number": "15",
+          "name": "Tyler Kolzow"
+        },
+        {
+          "number": "16",
+          "name": "Ethan Olla"
+        },
+        {
+          "number": "22",
+          "name": "John Priest"
+        },
+        {
+          "number": "26",
+          "name": "John Cohen"
+        },
+        {
+          "number": "30",
+          "name": "Dylan South"
+        },
+        {
+          "number": "47",
+          "name": "Dylan Tooley"
+        },
+        {
+          "number": "71",
+          "name": "Burhanuddin Bhinderwala"
+        },
+        {
+          "number": "72",
+          "name": "Ted Glenn"
+        },
+        {
+          "number": "87",
+          "name": "Pavel Mazza"
+        },
+        {
+          "number": "99",
+          "name": "Matthew Northway"
+        }
+      ]
+    },
+    {
+      "name": "Monsoon",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Phoenix, Arizona",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "01",
+          "name": "Nathan Burres"
+        },
+        {
+          "number": "10",
+          "name": "Carlos Diaz"
+        },
+        {
+          "number": "12",
+          "name": "Carter Szukala"
+        },
+        {
+          "number": "17",
+          "name": "Adam Gaboury"
+        },
+        {
+          "number": "21",
+          "name": "Prakash Wiese"
+        },
+        {
+          "number": "23",
+          "name": "Sean Levine"
+        },
+        {
+          "number": "25",
+          "name": "Joe Blidy"
+        },
+        {
+          "number": "27",
+          "name": "John Wright"
+        },
+        {
+          "number": "34",
+          "name": "Ryan Burger"
+        },
+        {
+          "number": "35",
+          "name": "Trevor Walrath"
+        },
+        {
+          "number": "55",
+          "name": "Kevin Chang"
+        },
+        {
+          "number": "66",
+          "name": "Alejandro Ortiz Olivas"
+        },
+        {
+          "number": "71",
+          "name": "Hasmieu Jalloh"
+        },
+        {
+          "number": "81",
+          "name": "Jackson Kayser"
+        },
+        {
+          "number": "97",
+          "name": "Robert Hellinga"
+        },
+        {
+          "number": "99",
+          "name": "Drew Radfelder"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Double Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Monsoon",
+              "team2": "Sonoran Dog",
+              "score1": 11,
+              "score2": 12,
+              "datetime": "2025-07-12T18:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Sonoran Dog",
+              "team2": "Monsoon",
+              "score1": 12,
+              "score2": 11,
+              "datetime": "2025-07-12T20:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,818 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2023/Sprout-Round-RobinClub-Men",
+  "sourceUrl": "https://play.usaultimate.org/events/Sprout-Round-Robin/schedule/Men/Club-Men/",
+  "scrapedAt": "2026-08-28T10:06:19.797905Z",
+  "event": {
+    "name": "Sprout Round Robin 2023",
+    "division": "Club - Men ",
+    "gender": "",
+    "season": 2023,
+    "city": "Granby",
+    "state": "MA",
+    "country": "",
+    "startDate": "2023-06-18",
+    "endDate": "2023-06-18"
+  },
+  "teams": [
+    {
+      "name": "DiX",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Boston, Massachusetts",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Colin Sunde"
+        },
+        {
+          "number": "0",
+          "name": "Ethan Fortin"
+        },
+        {
+          "number": "0",
+          "name": "Griffin Gee"
+        },
+        {
+          "number": "0",
+          "name": "Josh Markette"
+        },
+        {
+          "number": "0",
+          "name": "Matthew Orr"
+        },
+        {
+          "number": "0",
+          "name": "Owen Cordes"
+        },
+        {
+          "number": "0",
+          "name": "Topher Davis"
+        },
+        {
+          "number": "0",
+          "name": "Turner Allen"
+        },
+        {
+          "number": "2",
+          "name": "Simon Carapella"
+        },
+        {
+          "number": "3",
+          "name": "Henry Laseter"
+        },
+        {
+          "number": "12",
+          "name": "Mac Hecht"
+        },
+        {
+          "number": "19",
+          "name": "Solomon Rueschemeyer-Bailey"
+        },
+        {
+          "number": "23",
+          "name": "Thomas Griffin"
+        },
+        {
+          "number": "27",
+          "name": "Caelan McSweeney"
+        },
+        {
+          "number": "42",
+          "name": "Leo Gordon"
+        }
+      ]
+    },
+    {
+      "name": "DiY",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Boston, Massachusetts",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Adrian Lin"
+        },
+        {
+          "number": "00",
+          "name": "Benjamin Kass-Mullet"
+        },
+        {
+          "number": "00",
+          "name": "Brendan McCann"
+        },
+        {
+          "number": "00",
+          "name": "Cole Davis-Brand"
+        },
+        {
+          "number": "00",
+          "name": "Cory McCormack"
+        },
+        {
+          "number": "00",
+          "name": "Eli Chang"
+        },
+        {
+          "number": "00",
+          "name": "Eli Standard"
+        },
+        {
+          "number": "00",
+          "name": "Gustav Haflin"
+        },
+        {
+          "number": "00",
+          "name": "Jac Carreiro"
+        },
+        {
+          "number": "00",
+          "name": "Jerry  Wang"
+        },
+        {
+          "number": "00",
+          "name": "Kristof Rohaly-Medved"
+        },
+        {
+          "number": "00",
+          "name": "Mark Donohue"
+        },
+        {
+          "number": "00",
+          "name": "Nathaniel Dick"
+        },
+        {
+          "number": "00",
+          "name": "Oscar Graff"
+        },
+        {
+          "number": "00",
+          "name": "Raymond Tetreault"
+        }
+      ]
+    },
+    {
+      "name": "DiZ",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Boston, Massachusetts",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Ben Chamis"
+        },
+        {
+          "number": "0",
+          "name": "Calvin Wicks"
+        },
+        {
+          "number": "0",
+          "name": "Dallon Archibald"
+        },
+        {
+          "number": "0",
+          "name": "David Pinto"
+        },
+        {
+          "number": "0",
+          "name": "Gabriel Colton"
+        },
+        {
+          "number": "0",
+          "name": "Joseph Michaud"
+        },
+        {
+          "number": "0",
+          "name": "Louis Douville Beaudoin"
+        },
+        {
+          "number": "0",
+          "name": "Max Hemeon"
+        },
+        {
+          "number": "0",
+          "name": "Orion Cable"
+        },
+        {
+          "number": "0",
+          "name": "Peter Boerth"
+        },
+        {
+          "number": "0",
+          "name": "Toshihiro Nagase"
+        },
+        {
+          "number": "3",
+          "name": "Ben Sadok"
+        },
+        {
+          "number": "5",
+          "name": "Noah Backer"
+        },
+        {
+          "number": "6",
+          "name": "Cole Moore"
+        },
+        {
+          "number": "33",
+          "name": "Reed Browning"
+        },
+        {
+          "number": "35",
+          "name": "Dan Goldstein"
+        }
+      ]
+    },
+    {
+      "name": "Blueprint",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Brooklyn, New York",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/nyc_blueprint"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Carter Wang"
+        },
+        {
+          "number": "0",
+          "name": "Christopher Bond"
+        },
+        {
+          "number": "0",
+          "name": "Dillon Cooke"
+        },
+        {
+          "number": "0",
+          "name": "Johnny Frohlichstein"
+        },
+        {
+          "number": "0",
+          "name": "Max Cohen"
+        },
+        {
+          "number": "0",
+          "name": "Nicolas Leitmann-Niimi"
+        },
+        {
+          "number": "0",
+          "name": "Noam Fisherman"
+        },
+        {
+          "number": "0",
+          "name": "Owen Marschall"
+        },
+        {
+          "number": "0",
+          "name": "Ruozhou Ye"
+        },
+        {
+          "number": "0",
+          "name": "Samuel Ross"
+        },
+        {
+          "number": "0",
+          "name": "Talor Gruenwald"
+        },
+        {
+          "number": "7",
+          "name": "Walter Roosa"
+        },
+        {
+          "number": "10",
+          "name": "Andrew Edelman"
+        },
+        {
+          "number": "15",
+          "name": "Daniel Meiland"
+        },
+        {
+          "number": "16",
+          "name": "Joseph Copeland"
+        },
+        {
+          "number": "24",
+          "name": "Jacob  Cowan"
+        },
+        {
+          "number": "25",
+          "name": "Drew Schnaudigel"
+        },
+        {
+          "number": "69",
+          "name": "Garrett Wibbelsman"
+        }
+      ]
+    },
+    {
+      "name": "Sprout",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Devens, Massachusetts",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Bryan Dole"
+        },
+        {
+          "number": "0",
+          "name": "Calan Kirkpatrick"
+        },
+        {
+          "number": "0",
+          "name": "Griffin Yas"
+        },
+        {
+          "number": "0",
+          "name": "Isaac Kaplan"
+        },
+        {
+          "number": "0",
+          "name": "Luca  Harwood"
+        },
+        {
+          "number": "0",
+          "name": "Matthew Xia"
+        },
+        {
+          "number": "0",
+          "name": "Will Christian"
+        },
+        {
+          "number": "5",
+          "name": "Daniel Kang"
+        },
+        {
+          "number": "9",
+          "name": "Dillon Monti"
+        },
+        {
+          "number": "10",
+          "name": "Rustin Ingold-Smith"
+        },
+        {
+          "number": "15",
+          "name": "James Cairn"
+        },
+        {
+          "number": "18",
+          "name": "Sam Green"
+        },
+        {
+          "number": "21",
+          "name": "Ben Ayres"
+        },
+        {
+          "number": "24",
+          "name": "Lyle Berkley"
+        },
+        {
+          "number": "33",
+          "name": "William Thornton"
+        },
+        {
+          "number": "41",
+          "name": "Noel Sierra"
+        },
+        {
+          "number": "42",
+          "name": "Liam Gallinagh"
+        },
+        {
+          "number": "58",
+          "name": "Giancarlo Cincotta"
+        },
+        {
+          "number": "80",
+          "name": "Chris Bartoli"
+        },
+        {
+          "number": "81",
+          "name": "Geir Hartl"
+        }
+      ]
+    },
+    {
+      "name": "Big Wrench",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Somerville, Massachusetts",
+        "website": "http://bigwrenchultimate.com",
+        "facebook": "https://www.facebook.com/BigWrenchUlt",
+        "twitter": "https://twitter.com/BigWrenchUlt"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Adrian Staples"
+        },
+        {
+          "number": "0",
+          "name": "Asa Thomson"
+        },
+        {
+          "number": "0",
+          "name": "Calvin Wardle"
+        },
+        {
+          "number": "0",
+          "name": "Chris Bubernak"
+        },
+        {
+          "number": "0",
+          "name": "Christopher Richmond"
+        },
+        {
+          "number": "0",
+          "name": "John Wellers"
+        },
+        {
+          "number": "0",
+          "name": "Joost Peeters"
+        },
+        {
+          "number": "0",
+          "name": "Josef Sears"
+        },
+        {
+          "number": "0",
+          "name": "Conor McManamy"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Kadet"
+        },
+        {
+          "number": "3",
+          "name": "Brian Wyer"
+        },
+        {
+          "number": "3",
+          "name": "Colin Mclaughlin"
+        },
+        {
+          "number": "4",
+          "name": "Samuel Laur"
+        },
+        {
+          "number": "5",
+          "name": "Alexander Riahi"
+        },
+        {
+          "number": "10",
+          "name": "Charlie Leightheiser"
+        },
+        {
+          "number": "11",
+          "name": "Samuel Letcher"
+        },
+        {
+          "number": "12",
+          "name": "Phillip Joyce"
+        },
+        {
+          "number": "17",
+          "name": "Andrew Zaccardi"
+        },
+        {
+          "number": "20",
+          "name": "Gene Buonaccorsi"
+        },
+        {
+          "number": "24",
+          "name": "Michael Klein"
+        },
+        {
+          "number": "24",
+          "name": "Benjamin Jafek"
+        },
+        {
+          "number": "25",
+          "name": "Ilya Yudkovich"
+        },
+        {
+          "number": "37",
+          "name": "Noah Weintraub"
+        },
+        {
+          "number": "50",
+          "name": "Roman Short"
+        }
+      ]
+    },
+    {
+      "name": "Retired",
+      "seed": 7,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Amherst, Massachusetts",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Benjamin Weinstein"
+        },
+        {
+          "number": "0",
+          "name": "Carl Crawford"
+        },
+        {
+          "number": "0",
+          "name": "Chase Drinkwater"
+        },
+        {
+          "number": "0",
+          "name": "Christopher Kiepert"
+        },
+        {
+          "number": "0",
+          "name": "Leo Sarandos"
+        },
+        {
+          "number": "0",
+          "name": "Nico Christakos"
+        },
+        {
+          "number": "9",
+          "name": "Jack Rice"
+        },
+        {
+          "number": "9",
+          "name": "Jae Lee"
+        },
+        {
+          "number": "22",
+          "name": "Zachary Watson-Stevens"
+        },
+        {
+          "number": "69",
+          "name": "Owen Young"
+        }
+      ]
+    },
+    {
+      "name": "Tire",
+      "seed": 8,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Amherst, Massachusetts",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Cedar Noonan"
+        },
+        {
+          "number": "0",
+          "name": "David Borden"
+        },
+        {
+          "number": "0",
+          "name": "Emmett Young"
+        },
+        {
+          "number": "0",
+          "name": "Gabriele Kautz"
+        },
+        {
+          "number": "0",
+          "name": "Jovan Strange"
+        },
+        {
+          "number": "0",
+          "name": "Moses Delane"
+        },
+        {
+          "number": "0",
+          "name": "Patrick Como"
+        },
+        {
+          "number": "19",
+          "name": "Beorn Morrow-Caron"
+        },
+        {
+          "number": "23",
+          "name": "Carter Stevens"
+        },
+        {
+          "number": "82",
+          "name": "Declan Kervick"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Round Robin",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "DiZ",
+              "team2": "Retired",
+              "score1": 13,
+              "score2": 10,
+              "datetime": "2023-06-18T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Big Wrench",
+              "team2": "Blueprint",
+              "score1": 10,
+              "score2": 13,
+              "datetime": "2023-06-18T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "DiY",
+              "team2": "DiX",
+              "score1": 10,
+              "score2": 13,
+              "datetime": "2023-06-18T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Sprout",
+              "team2": "Blueprint",
+              "score1": 8,
+              "score2": 13,
+              "datetime": "2023-06-18T10:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Big Wrench",
+              "team2": "DiZ",
+              "score1": 11,
+              "score2": 13,
+              "datetime": "2023-06-18T10:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "DiY",
+              "team2": "Tire",
+              "score1": 13,
+              "score2": 6,
+              "datetime": "2023-06-18T10:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Big Wrench",
+              "team2": "Sprout",
+              "score1": 11,
+              "score2": 13,
+              "datetime": "2023-06-18T12:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Blueprint",
+              "team2": "Tire",
+              "score1": 13,
+              "score2": 12,
+              "datetime": "2023-06-18T12:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "DiX",
+              "team2": "DiZ",
+              "score1": 9,
+              "score2": 5,
+              "datetime": "2023-06-18T12:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "DiY",
+              "team2": "Retired",
+              "score1": 13,
+              "score2": 6,
+              "datetime": "2023-06-18T12:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Sprout",
+              "team2": "Tire",
+              "score1": 13,
+              "score2": 5,
+              "datetime": "2023-06-18T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Blueprint",
+              "team2": "DiY",
+              "score1": 6,
+              "score2": 9,
+              "datetime": "2023-06-18T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "DiX",
+              "team2": "Retired",
+              "score1": 13,
+              "score2": 10,
+              "datetime": "2023-06-18T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Sprout",
+              "team2": "DiX",
+              "score1": 7,
+              "score2": 13,
+              "datetime": "2023-06-18T15:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Big Wrench",
+              "team2": "Retired",
+              "score1": 13,
+              "score2": 10,
+              "datetime": "2023-06-18T15:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "DiZ",
+              "team2": "Tire",
+              "score1": 13,
+              "score2": 6,
+              "datetime": "2023-06-18T15:40:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2016/Pittsburgh-Scrimmage-2016Club-Mixed",
+  "sourceUrl": "https://play.usaultimate.org/events/Pittsburgh-Scrimmage-2016/schedule/Mixed/Club-Mixed",
+  "scrapedAt": "2026-08-28T10:06:13.619765Z",
+  "event": {
+    "name": "Pittsburgh Scrimmage 2016",
+    "division": "Club - Mixed ",
+    "gender": "",
+    "season": 2016,
+    "city": "Pittsburgh",
+    "state": "PA",
+    "country": "",
+    "startDate": "2016-08-18",
+    "endDate": "2016-08-18"
+  },
+  "teams": [
+    {
+      "name": "LoveBomb",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Ben Avon, Pennsylvania",
+        "website": "",
+        "facebook": "",
+        "twitter": "@LoveBombFriz"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "RACHEL FILIAGGI"
+        },
+        {
+          "number": "7",
+          "name": "James Greeno"
+        },
+        {
+          "number": "03",
+          "name": "Katelyn Stavinga"
+        },
+        {
+          "number": "04",
+          "name": "David Vatz"
+        },
+        {
+          "number": "08",
+          "name": "Bailey Moorhead"
+        },
+        {
+          "number": "09",
+          "name": "Brian Grace"
+        },
+        {
+          "number": "22",
+          "name": "Jen Kacin"
+        },
+        {
+          "number": "23",
+          "name": "Edward Peters"
+        },
+        {
+          "number": "25",
+          "name": "Kelsey Lenard"
+        },
+        {
+          "number": "28",
+          "name": "Ethan Beardsley"
+        },
+        {
+          "number": "35",
+          "name": "Jacob Christian"
+        },
+        {
+          "number": "37",
+          "name": "Sarah Roth"
+        },
+        {
+          "number": "44",
+          "name": "Vivek Devaraj"
+        },
+        {
+          "number": "48",
+          "name": "Sam Schurer"
+        },
+        {
+          "number": "52",
+          "name": "Jesse Evans"
+        },
+        {
+          "number": "80",
+          "name": "Vaughan Skinker"
+        },
+        {
+          "number": "81",
+          "name": "Matt Stavinga"
+        }
+      ]
+    },
+    {
+      "name": "Crucible",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Pittsburgh, Pennsylvania",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "ANDREW MCCLURE"
+        },
+        {
+          "number": "6",
+          "name": "MIKE VANDERVOORT"
+        },
+        {
+          "number": "7",
+          "name": "Cory Ruff"
+        },
+        {
+          "number": "8",
+          "name": "Ronald Persico"
+        },
+        {
+          "number": "09",
+          "name": "Katelyn Bozich"
+        },
+        {
+          "number": "19",
+          "name": "Daniel Morrison"
+        },
+        {
+          "number": "20",
+          "name": "Andrew Turgeon"
+        },
+        {
+          "number": "21",
+          "name": "CLAYTON CHENG"
+        },
+        {
+          "number": "22",
+          "name": "Mallory Griffith"
+        },
+        {
+          "number": "23",
+          "name": "Matthew McDaniel"
+        },
+        {
+          "number": "24",
+          "name": "Yuan Chen"
+        },
+        {
+          "number": "25",
+          "name": "Rachel Olszewski"
+        },
+        {
+          "number": "27",
+          "name": "STEVE OLDRATI"
+        },
+        {
+          "number": "33",
+          "name": "Alex Carpenter"
+        },
+        {
+          "number": "33",
+          "name": "Taha Udyawar"
+        },
+        {
+          "number": "37",
+          "name": "Nick Bozich"
+        },
+        {
+          "number": "38",
+          "name": "Stephanie Clark"
+        },
+        {
+          "number": "42",
+          "name": "Rachel Parlock"
+        },
+        {
+          "number": "46",
+          "name": "Marisa DelSignore"
+        },
+        {
+          "number": "47",
+          "name": "CAROLYN NORWOOD"
+        },
+        {
+          "number": "52",
+          "name": "Glen Smithberger"
+        },
+        {
+          "number": "56",
+          "name": "Julia Lekht"
+        },
+        {
+          "number": "59",
+          "name": "Michael Driskell"
+        },
+        {
+          "number": "80",
+          "name": "Jay Walker"
+        },
+        {
+          "number": "89",
+          "name": "Eric Petrow"
+        },
+        {
+          "number": "96",
+          "name": "Eva Lucchino"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Match",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "LoveBomb",
+              "team2": "Crucible",
+              "score1": 14,
+              "score2": 10,
+              "datetime": "2016-08-18T19:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,948 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2019/2019-USA-Ultimate-Southwest-Grand-Masters-Mens-Regionalsgrand-masters-men",
+  "sourceUrl": "https://play.usaultimate.org/events/2019-USA-Ultimate-Southwest-Grand-Masters-Mens-Regionals/schedule/Men/grand-masters-men/",
+  "scrapedAt": "2026-08-28T10:06:16.360291Z",
+  "event": {
+    "name": "2019 USA Ultimate Southwest Grand Masters Men's Regionals",
+    "division": "Grand Masters - Men ",
+    "gender": "",
+    "season": 2019,
+    "city": "Dublin",
+    "state": "CA",
+    "country": "",
+    "startDate": "2019-06-08",
+    "endDate": "2019-06-09"
+  },
+  "teams": [
+    {
+      "name": "Eldors",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Santa Barbara, California",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Adam Glimme"
+        },
+        {
+          "number": "01",
+          "name": "Brandon Steets"
+        },
+        {
+          "number": "02",
+          "name": "Satoru Ishii"
+        },
+        {
+          "number": "06",
+          "name": "Idris Nolan"
+        },
+        {
+          "number": "07",
+          "name": "Matthew Owen"
+        },
+        {
+          "number": "08",
+          "name": "Benjamin Bergen"
+        },
+        {
+          "number": "09",
+          "name": "Ryan Yarbrough"
+        },
+        {
+          "number": "10",
+          "name": "Mark Miller"
+        },
+        {
+          "number": "11",
+          "name": "Kevin Buchanan"
+        },
+        {
+          "number": "15",
+          "name": "Chris McManus"
+        },
+        {
+          "number": "16",
+          "name": "Jason Seidler"
+        },
+        {
+          "number": "17",
+          "name": "Matthew Shaff"
+        },
+        {
+          "number": "19",
+          "name": "Dan Wachter"
+        },
+        {
+          "number": "19",
+          "name": "Nicholas Fiske"
+        },
+        {
+          "number": "20",
+          "name": "Rhett Nichols"
+        },
+        {
+          "number": "21",
+          "name": "Christopher Gavigan"
+        },
+        {
+          "number": "26",
+          "name": "Michael Namkung"
+        },
+        {
+          "number": "30",
+          "name": "Corey Sanford"
+        },
+        {
+          "number": "31",
+          "name": "Adam Ruderman"
+        },
+        {
+          "number": "32",
+          "name": "Adam Katzenmeier"
+        },
+        {
+          "number": "33",
+          "name": "Steven Dugan"
+        },
+        {
+          "number": "34",
+          "name": "Michael Weems"
+        },
+        {
+          "number": "36",
+          "name": "Stephen Chiang"
+        },
+        {
+          "number": "37",
+          "name": "Brian Zid"
+        },
+        {
+          "number": "43",
+          "name": "Thomas (Tommy) Burfeind"
+        },
+        {
+          "number": "55",
+          "name": "Michael Hall"
+        },
+        {
+          "number": "57",
+          "name": "James (Jimmy) Price"
+        },
+        {
+          "number": "83",
+          "name": "Greg Husak"
+        },
+        {
+          "number": "88",
+          "name": "Aaron Jacobs"
+        }
+      ]
+    },
+    {
+      "name": "Shadows",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Oakland, California",
+        "website": "",
+        "facebook": "https://www.facebook.com/Shadows-GM-Ultimate-2131866620156686/?ti=as",
+        "twitter": "@shadowsult"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "01",
+          "name": "Silas McDermott"
+        },
+        {
+          "number": "02",
+          "name": "Shasta Phillips"
+        },
+        {
+          "number": "03",
+          "name": "Christopher Doyle"
+        },
+        {
+          "number": "04",
+          "name": "Jeffrey Eastham"
+        },
+        {
+          "number": "07",
+          "name": "Clayton Hurd"
+        },
+        {
+          "number": "08",
+          "name": "Shaun Webb"
+        },
+        {
+          "number": "09",
+          "name": "Robert Briant"
+        },
+        {
+          "number": "10",
+          "name": "Matt Albinson"
+        },
+        {
+          "number": "11",
+          "name": "Kief Zangaro"
+        },
+        {
+          "number": "12",
+          "name": "Daniel Olstein"
+        },
+        {
+          "number": "15",
+          "name": "Stephen LaBonge"
+        },
+        {
+          "number": "21",
+          "name": "Jason Nettleton"
+        },
+        {
+          "number": "22",
+          "name": "David Bixler"
+        },
+        {
+          "number": "24",
+          "name": "Adam Leventhal"
+        },
+        {
+          "number": "27",
+          "name": "Jon Ingersoll"
+        },
+        {
+          "number": "29",
+          "name": "Jason Draut"
+        },
+        {
+          "number": "33",
+          "name": "Brett Mitchell"
+        },
+        {
+          "number": "37",
+          "name": "Wesley Chao"
+        },
+        {
+          "number": "40",
+          "name": "Matthew Elliott"
+        },
+        {
+          "number": "42",
+          "name": "Colin Smith"
+        },
+        {
+          "number": "47",
+          "name": "Harris Masket"
+        },
+        {
+          "number": "55",
+          "name": "Nikolas Radey"
+        },
+        {
+          "number": "75",
+          "name": "Jason Estrada"
+        },
+        {
+          "number": "77",
+          "name": "Joey Stewart"
+        },
+        {
+          "number": "85",
+          "name": "Ian Appleyard"
+        }
+      ]
+    },
+    {
+      "name": "Creaky",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Walnut Creek, California",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alex Darr"
+        },
+        {
+          "number": "01",
+          "name": "Ken Saito"
+        },
+        {
+          "number": "03",
+          "name": "Chandra Sivakumar"
+        },
+        {
+          "number": "04",
+          "name": "John Pearson"
+        },
+        {
+          "number": "05",
+          "name": "Jason Mark"
+        },
+        {
+          "number": "07",
+          "name": "Brendon Harrington"
+        },
+        {
+          "number": "09",
+          "name": "Young Yun"
+        },
+        {
+          "number": "12",
+          "name": "Timothy Warder"
+        },
+        {
+          "number": "13",
+          "name": "Brian Petteys"
+        },
+        {
+          "number": "14",
+          "name": "James Campbell"
+        },
+        {
+          "number": "16",
+          "name": "Jim Fung"
+        },
+        {
+          "number": "17",
+          "name": "William Lash"
+        },
+        {
+          "number": "20",
+          "name": "Rick Needham"
+        },
+        {
+          "number": "21",
+          "name": "Albert Lee"
+        },
+        {
+          "number": "29",
+          "name": "Phillip Hailey"
+        },
+        {
+          "number": "31",
+          "name": "Janson Wu"
+        },
+        {
+          "number": "33",
+          "name": "Gregg Tedeski"
+        },
+        {
+          "number": "42",
+          "name": "Josh Wulkan"
+        },
+        {
+          "number": "45",
+          "name": "Samir Gupta"
+        },
+        {
+          "number": "50",
+          "name": "Tommy Cortez"
+        },
+        {
+          "number": "77",
+          "name": "Delano Doelitzsch"
+        },
+        {
+          "number": "86",
+          "name": "Thomas Hoeffel"
+        },
+        {
+          "number": "88",
+          "name": "Edward Lee"
+        },
+        {
+          "number": "99",
+          "name": "Tony Sirna"
+        }
+      ]
+    },
+    {
+      "name": "Old Growth (OG)",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "OG",
+        "location": "Sunnyvale, California",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Gregg Donley"
+        },
+        {
+          "number": "01",
+          "name": "Tushar Moorti"
+        },
+        {
+          "number": "02",
+          "name": "Jason Chen"
+        },
+        {
+          "number": "03",
+          "name": "Gregory Dibb"
+        },
+        {
+          "number": "05",
+          "name": "Terry Osterdock"
+        },
+        {
+          "number": "06",
+          "name": "Vikram Makhija"
+        },
+        {
+          "number": "07",
+          "name": "Andrew Wong"
+        },
+        {
+          "number": "08",
+          "name": "Jonathan Nichols"
+        },
+        {
+          "number": "11",
+          "name": "Travis Finucane"
+        },
+        {
+          "number": "13",
+          "name": "Albert Wu"
+        },
+        {
+          "number": "14",
+          "name": "Daniel Kramer"
+        },
+        {
+          "number": "18",
+          "name": "Josh Sacks"
+        },
+        {
+          "number": "19",
+          "name": "Ben Rosner"
+        },
+        {
+          "number": "21",
+          "name": "Jim Wang"
+        },
+        {
+          "number": "23",
+          "name": "Albert Chu"
+        },
+        {
+          "number": "25",
+          "name": "Kevin Shen"
+        },
+        {
+          "number": "26",
+          "name": "George Matsumoto"
+        },
+        {
+          "number": "28",
+          "name": "Philip MacKenzie"
+        },
+        {
+          "number": "36",
+          "name": "Lee Sun"
+        },
+        {
+          "number": "40",
+          "name": "David Tran"
+        },
+        {
+          "number": "42",
+          "name": "David Chi"
+        },
+        {
+          "number": "48",
+          "name": "Russell Quong"
+        },
+        {
+          "number": "49",
+          "name": "Faisal Haq"
+        },
+        {
+          "number": "61",
+          "name": "Sherman Chan"
+        },
+        {
+          "number": "78",
+          "name": "Bobby Nguyen"
+        },
+        {
+          "number": "94",
+          "name": "Bryan Pon"
+        },
+        {
+          "number": "99",
+          "name": "Ron Ho"
+        }
+      ]
+    },
+    {
+      "name": "Endless Sunset",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "San Diego, California",
+        "website": "http://www.dudeultimate.com/t/endless-sunset/",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Bob Chan"
+        },
+        {
+          "number": "0",
+          "name": "Jacob Lewis"
+        },
+        {
+          "number": "0",
+          "name": "Robert Whitton"
+        },
+        {
+          "number": "0",
+          "name": "Russell Furr"
+        },
+        {
+          "number": "0",
+          "name": "Stewart Brock"
+        },
+        {
+          "number": "00",
+          "name": "Sean Munnelly"
+        },
+        {
+          "number": "00",
+          "name": "Steve Whitford"
+        },
+        {
+          "number": "00",
+          "name": "Steven Oldenburg"
+        },
+        {
+          "number": "00",
+          "name": "Tim Streit"
+        },
+        {
+          "number": "00",
+          "name": "William (Bill) Gigante"
+        },
+        {
+          "number": "00",
+          "name": "Matthew Stoloff"
+        },
+        {
+          "number": "00",
+          "name": "Felix Landerer"
+        },
+        {
+          "number": "00",
+          "name": "Galen Graham"
+        },
+        {
+          "number": "00",
+          "name": "Jason Yip"
+        },
+        {
+          "number": "00",
+          "name": "Jeffrey Nichols"
+        },
+        {
+          "number": "00",
+          "name": "Jessup Ferris"
+        },
+        {
+          "number": "00",
+          "name": "Keith Kreinbihl"
+        },
+        {
+          "number": "00",
+          "name": "Chris Mogan"
+        },
+        {
+          "number": "00",
+          "name": "Dan Parker"
+        },
+        {
+          "number": "00",
+          "name": "David Mallery"
+        },
+        {
+          "number": "00",
+          "name": "Dixon Oates"
+        },
+        {
+          "number": "00",
+          "name": "Dominic Scarfe"
+        },
+        {
+          "number": "03",
+          "name": "Dennis Kingery"
+        },
+        {
+          "number": "07",
+          "name": "Ryan Thoma"
+        },
+        {
+          "number": "09",
+          "name": "Mark Scott"
+        },
+        {
+          "number": "15",
+          "name": "Bryan Monroe"
+        },
+        {
+          "number": "21",
+          "name": "Doug Peterson"
+        },
+        {
+          "number": "69",
+          "name": "Tim Goldsmith"
+        },
+        {
+          "number": "84",
+          "name": "Clif Smith"
+        }
+      ]
+    },
+    {
+      "name": "Free Spirits of the Bay Area!",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Fremont, California",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "01",
+          "name": "Hsinchao Liao"
+        },
+        {
+          "number": "03",
+          "name": "Michael Klawansky"
+        },
+        {
+          "number": "04",
+          "name": "Douglas Louie"
+        },
+        {
+          "number": "05",
+          "name": "Michael McKaskle"
+        },
+        {
+          "number": "06",
+          "name": "Andrew Grangaard"
+        },
+        {
+          "number": "07",
+          "name": "Craig VonWaaden"
+        },
+        {
+          "number": "08",
+          "name": "Enver Casimir"
+        },
+        {
+          "number": "10",
+          "name": "Mike Wurtz"
+        },
+        {
+          "number": "11",
+          "name": "Carlos Villalba-Galea"
+        },
+        {
+          "number": "12",
+          "name": "Brendan Madden"
+        },
+        {
+          "number": "13",
+          "name": "Chris Wesley"
+        },
+        {
+          "number": "14",
+          "name": "Peter Schultze-Allen"
+        },
+        {
+          "number": "15",
+          "name": "Wally Wolk"
+        },
+        {
+          "number": "16",
+          "name": "Carlos Genest"
+        },
+        {
+          "number": "17",
+          "name": "Anthony Wright"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Eldors",
+              "team2": "Endless Sunset",
+              "score1": 13,
+              "score2": 9,
+              "datetime": "2019-06-08T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Shadows",
+              "team2": "Old Growth (OG)",
+              "score1": 13,
+              "score2": 3,
+              "datetime": "2019-06-08T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Creaky",
+              "team2": "Free Spirits of the Bay Area!",
+              "score1": 13,
+              "score2": 0,
+              "datetime": "2019-06-08T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Eldors",
+              "team2": "Shadows",
+              "score1": 13,
+              "score2": 8,
+              "datetime": "2019-06-08T12:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Endless Sunset",
+              "team2": "Creaky",
+              "score1": 9,
+              "score2": 10,
+              "datetime": "2019-06-08T12:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Old Growth (OG)",
+              "team2": "Free Spirits of the Bay Area!",
+              "score1": 13,
+              "score2": 2,
+              "datetime": "2019-06-08T12:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Eldors",
+              "team2": "Creaky",
+              "score1": 13,
+              "score2": 4,
+              "datetime": "2019-06-08T14:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Shadows",
+              "team2": "Free Spirits of the Bay Area!",
+              "score1": 13,
+              "score2": 2,
+              "datetime": "2019-06-08T14:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Endless Sunset",
+              "team2": "Old Growth (OG)",
+              "score1": 8,
+              "score2": 13,
+              "datetime": "2019-06-08T14:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Eldors",
+              "team2": "Free Spirits of the Bay Area!",
+              "score1": 13,
+              "score2": 1,
+              "datetime": "2019-06-08T16:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Shadows",
+              "team2": "Endless Sunset",
+              "score1": 13,
+              "score2": 10,
+              "datetime": "2019-06-08T16:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Creaky",
+              "team2": "Old Growth (OG)",
+              "score1": 13,
+              "score2": 8,
+              "datetime": "2019-06-08T16:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Eldors",
+              "team2": "Old Growth (OG)",
+              "score1": 13,
+              "score2": 2,
+              "datetime": "2019-06-09T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Shadows",
+              "team2": "Creaky",
+              "score1": 13,
+              "score2": 4,
+              "datetime": "2019-06-09T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Endless Sunset",
+              "team2": "Free Spirits of the Bay Area!",
+              "score1": 13,
+              "score2": 5,
+              "datetime": "2019-06-09T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Bracket Play",
+      "groups": [
+        {
+          "name": "1st Place Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Eldors",
+              "team2": "Shadows",
+              "score1": 13,
+              "score2": 10,
+              "datetime": "2019-06-09T14:15:00Z",
+              "round": "1st Place Bracket",
+              "status": "Final"
+            },
+            {
+              "team1": "Eldors",
+              "team2": "Endless Sunset",
+              "score1": 13,
+              "score2": 6,
+              "datetime": "2019-06-09T12:30:00Z",
+              "round": "1st Place Semis",
+              "status": "Final"
+            },
+            {
+              "team1": "Shadows",
+              "team2": "Creaky",
+              "score1": 13,
+              "score2": 3,
+              "datetime": "2019-06-09T12:30:00Z",
+              "round": "1st Place Semis",
+              "status": "Final"
+            },
+            {
+              "team1": "Old Growth (OG)",
+              "team2": "Endless Sunset",
+              "score1": 8,
+              "score2": 12,
+              "datetime": "2019-06-09T10:45:00Z",
+              "round": "1st Quarters",
+              "status": "Final"
+            },
+            {
+              "team1": "Creaky",
+              "team2": "Free Spirits of the Bay Area!",
+              "score1": 13,
+              "score2": 3,
+              "datetime": "2019-06-09T10:45:00Z",
+              "round": "1st Quarters",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "3rd Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Endless Sunset",
+              "team2": "Creaky",
+              "score1": 13,
+              "score2": 9,
+              "datetime": "2019-06-09T14:15:00Z",
+              "round": "3rd Place",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "5th Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Old Growth (OG)",
+              "team2": "Free Spirits of the Bay Area!",
+              "score1": 13,
+              "score2": 0,
+              "datetime": "2019-06-09T12:30:00Z",
+              "round": "5th Place",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

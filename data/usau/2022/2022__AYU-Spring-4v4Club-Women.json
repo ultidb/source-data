@@ -1,0 +1,326 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2022/AYU-Spring-4v4Club-Women",
+  "sourceUrl": "https://play.usaultimate.org/events/AYU-Spring-4v4/schedule/Women/Club-Women/",
+  "scrapedAt": "2026-08-28T10:06:18.239166Z",
+  "event": {
+    "name": "AYU Spring 4v4 2022",
+    "division": "Club - Women ",
+    "gender": "",
+    "season": 2022,
+    "city": "Golden",
+    "state": "CO",
+    "country": "",
+    "startDate": "2022-03-13",
+    "endDate": "2022-03-13"
+  },
+  "teams": [
+    {
+      "name": "Thunder Sisters",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Golden, Colorado",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Kelly Bolt"
+        },
+        {
+          "number": "0",
+          "name": "Lauren Foster"
+        },
+        {
+          "number": "0",
+          "name": "Merry Beth Evans"
+        },
+        {
+          "number": "0",
+          "name": "Stephanie Schlosser"
+        }
+      ]
+    },
+    {
+      "name": "the procrastinators",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Golden, Colorado",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Emma Cortright"
+        },
+        {
+          "number": "0",
+          "name": "Emma Williamson"
+        },
+        {
+          "number": "0",
+          "name": "Haley Sanner"
+        },
+        {
+          "number": "0",
+          "name": "Ingrid Petterson"
+        },
+        {
+          "number": "0",
+          "name": "Leilani Nelson"
+        },
+        {
+          "number": "0",
+          "name": "Liana Bradley"
+        },
+        {
+          "number": "0",
+          "name": "Marlee Akerson"
+        },
+        {
+          "number": "0",
+          "name": "Rachel Litz"
+        },
+        {
+          "number": "0",
+          "name": "Tara Santi"
+        }
+      ]
+    },
+    {
+      "name": "Denver Frisbee Friends (Y)",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Y",
+        "location": "Denver, Colorado",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alyssa Perez"
+        },
+        {
+          "number": "0",
+          "name": "Becca Wainess"
+        },
+        {
+          "number": "0",
+          "name": "Jessica Larson"
+        },
+        {
+          "number": "0",
+          "name": "Jordan Wilkins"
+        },
+        {
+          "number": "0",
+          "name": "Kelsey Mueller"
+        },
+        {
+          "number": "0",
+          "name": "Macy Lang"
+        },
+        {
+          "number": "0",
+          "name": "Mary Kurzweil"
+        },
+        {
+          "number": "0",
+          "name": "Sadie Norton"
+        },
+        {
+          "number": "0",
+          "name": "Sarah Litz"
+        }
+      ]
+    },
+    {
+      "name": "Denver Frisbee Friends (X)",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "X",
+        "location": "Denver, Colorado",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Claire Morrissy"
+        },
+        {
+          "number": "0",
+          "name": "Clarissa Guy"
+        },
+        {
+          "number": "0",
+          "name": "Hannah Mimmack"
+        },
+        {
+          "number": "0",
+          "name": "Julia Schmaltz"
+        },
+        {
+          "number": "0",
+          "name": "Lillian Bailey"
+        },
+        {
+          "number": "0",
+          "name": "Rena Kawabata"
+        },
+        {
+          "number": "0",
+          "name": "Samantha Loop"
+        },
+        {
+          "number": "0",
+          "name": "Samantha Namenyi"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Denver Frisbee Friends (X)",
+              "team2": "the procrastinators",
+              "score1": 1,
+              "score2": 2,
+              "datetime": "2022-03-13T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Denver Frisbee Friends (Y)",
+              "team2": "Thunder Sisters",
+              "score1": 2,
+              "score2": 1,
+              "datetime": "2022-03-13T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Denver Frisbee Friends (X)",
+              "team2": "Thunder Sisters",
+              "score1": 0,
+              "score2": 2,
+              "datetime": "2022-03-13T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Denver Frisbee Friends (Y)",
+              "team2": "the procrastinators",
+              "score1": 0,
+              "score2": 2,
+              "datetime": "2022-03-13T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Denver Frisbee Friends (X)",
+              "team2": "Denver Frisbee Friends (Y)",
+              "score1": 1,
+              "score2": 2,
+              "datetime": "2022-03-13T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "the procrastinators",
+              "team2": "Thunder Sisters",
+              "score1": 0,
+              "score2": 2,
+              "datetime": "2022-03-13T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Championship Bracket",
+      "groups": [
+        {
+          "name": "Championship Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Thunder Sisters",
+              "team2": "Denver Frisbee Friends (Y)",
+              "score1": 0,
+              "score2": 2,
+              "datetime": "2022-03-13T14:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Thunder Sisters",
+              "team2": "Denver Frisbee Friends (X)",
+              "score1": 2,
+              "score2": 0,
+              "datetime": "2022-03-13T13:00:00Z",
+              "round": "Semis",
+              "status": "Final"
+            },
+            {
+              "team1": "the procrastinators",
+              "team2": "Denver Frisbee Friends (Y)",
+              "score1": 0,
+              "score2": 2,
+              "datetime": "2022-03-13T13:00:00Z",
+              "round": "Semis",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "3rd Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Denver Frisbee Friends (X)",
+              "team2": "the procrastinators",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2022-03-13T14:00:00Z",
+              "round": "3rd Place",
+              "status": "Scheduled"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

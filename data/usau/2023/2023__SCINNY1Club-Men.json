@@ -1,0 +1,1774 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2023/SCINNY1Club-Men",
+  "sourceUrl": "https://play.usaultimate.org/events/SCINNY1/schedule/Men/Club-Men/",
+  "scrapedAt": "2026-08-28T10:06:19.735159Z",
+  "event": {
+    "name": "SCINNY 2023",
+    "division": "Club - Men ",
+    "gender": "",
+    "season": 2023,
+    "city": "Cincinnati",
+    "state": "OH",
+    "country": "",
+    "startDate": "2023-06-17",
+    "endDate": "2023-06-18"
+  },
+  "teams": [
+    {
+      "name": "Beacon",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Grand Rapids, Michigan",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/BeaconUlti"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "01",
+          "name": "Gabe Ecenbarger"
+        },
+        {
+          "number": "02",
+          "name": "Justin Perticone"
+        },
+        {
+          "number": "04",
+          "name": "Trevor Polisuk-Balfour"
+        },
+        {
+          "number": "05",
+          "name": "Zachary Turner"
+        },
+        {
+          "number": "06",
+          "name": "Jordan Gabrielse"
+        },
+        {
+          "number": "11",
+          "name": "Michael Mansfield"
+        },
+        {
+          "number": "14",
+          "name": "Sawyer Fil"
+        },
+        {
+          "number": "18",
+          "name": "Malachi Neil"
+        },
+        {
+          "number": "21",
+          "name": "Justin Von Kulajta Winn"
+        },
+        {
+          "number": "22",
+          "name": "Chase Rospond "
+        },
+        {
+          "number": "25",
+          "name": "Brendan Schwalm"
+        },
+        {
+          "number": "27",
+          "name": "Colin Fremeau"
+        },
+        {
+          "number": "30",
+          "name": "Austin Masselink"
+        },
+        {
+          "number": "31",
+          "name": "Caleb Holt"
+        },
+        {
+          "number": "34",
+          "name": "Colin Beauregard"
+        },
+        {
+          "number": "35",
+          "name": "Mitchell Savage"
+        },
+        {
+          "number": "49",
+          "name": "Nathan Zock"
+        },
+        {
+          "number": "51",
+          "name": "Joseph Cubitt"
+        },
+        {
+          "number": "54",
+          "name": "Aaron Schwieterman"
+        },
+        {
+          "number": "61",
+          "name": "Caleb Stanish"
+        },
+        {
+          "number": "77",
+          "name": "Matthew Martell"
+        },
+        {
+          "number": "81",
+          "name": "Alec DenBraber"
+        },
+        {
+          "number": "84",
+          "name": "Michael Weber"
+        }
+      ]
+    },
+    {
+      "name": "Diesel",
+      "seed": 9,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Ann Arbor, Michigan",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alex Barber"
+        },
+        {
+          "number": "0",
+          "name": "Austin Engel"
+        },
+        {
+          "number": "0",
+          "name": "Benjamin Clark"
+        },
+        {
+          "number": "0",
+          "name": "Brendan Parzynski"
+        },
+        {
+          "number": "0",
+          "name": "Dom Zampardo"
+        },
+        {
+          "number": "0",
+          "name": "Erik Huemiller"
+        },
+        {
+          "number": "0",
+          "name": "Jack Schmader"
+        },
+        {
+          "number": "0",
+          "name": "Jonna Frayer"
+        },
+        {
+          "number": "0",
+          "name": "Samuel Ingham"
+        },
+        {
+          "number": "0",
+          "name": "Simeon  Russell  "
+        },
+        {
+          "number": "2",
+          "name": "Isaac Plamondon"
+        },
+        {
+          "number": "5",
+          "name": "John-Mark Toth"
+        },
+        {
+          "number": "5",
+          "name": "Jon Gibson"
+        },
+        {
+          "number": "7",
+          "name": "Jack Bembenek"
+        },
+        {
+          "number": "12",
+          "name": "Andrew Vieregge"
+        },
+        {
+          "number": "18",
+          "name": "Neil Proefrock"
+        },
+        {
+          "number": "21",
+          "name": "Joseph Flynn"
+        },
+        {
+          "number": "24",
+          "name": "Jonathon Jamison"
+        },
+        {
+          "number": "27",
+          "name": "Hugh MacWilliams"
+        },
+        {
+          "number": "32",
+          "name": "Elliot Davis"
+        },
+        {
+          "number": "40",
+          "name": "Benjamin Cheer"
+        },
+        {
+          "number": "58",
+          "name": "Samuel Pierson"
+        },
+        {
+          "number": "76",
+          "name": "Matthew Bell"
+        },
+        {
+          "number": "85",
+          "name": "Dafeng Chen"
+        }
+      ]
+    },
+    {
+      "name": "Enigma",
+      "seed": 8,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Dayton, Ohio",
+        "website": "",
+        "facebook": "https://www.facebook.com/pages/Enigma/112703698822469?ref=hl",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Carl Ahlborg"
+        },
+        {
+          "number": "0",
+          "name": "Isaac Hubble"
+        },
+        {
+          "number": "0",
+          "name": "Tobiah Weyer"
+        },
+        {
+          "number": "8",
+          "name": "Nate Olander"
+        },
+        {
+          "number": "9",
+          "name": "Jake Blue"
+        },
+        {
+          "number": "10",
+          "name": "Riley Ulmer"
+        },
+        {
+          "number": "11",
+          "name": "Lloyd Goldstein"
+        },
+        {
+          "number": "16",
+          "name": "Taylor Chatfield"
+        },
+        {
+          "number": "17",
+          "name": "Sean Shields"
+        },
+        {
+          "number": "17",
+          "name": "Daniel MacManus"
+        },
+        {
+          "number": "21",
+          "name": "Ben Knoth"
+        },
+        {
+          "number": "23",
+          "name": "Derek Fitch"
+        },
+        {
+          "number": "31",
+          "name": "Chetan Gomatam"
+        },
+        {
+          "number": "33",
+          "name": "Andrew Fassler"
+        },
+        {
+          "number": "46",
+          "name": "Ian Ehlers "
+        },
+        {
+          "number": "59",
+          "name": "Brent Poynter"
+        },
+        {
+          "number": "98",
+          "name": "Jarod Garel"
+        }
+      ]
+    },
+    {
+      "name": "I-69",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Indianapolis, Indiana",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "69",
+          "name": "Andrew Sin"
+        },
+        {
+          "number": "69",
+          "name": "Anthony Grigoletti"
+        },
+        {
+          "number": "69",
+          "name": "Benjamin Close"
+        },
+        {
+          "number": "69",
+          "name": "CJ Knarr"
+        },
+        {
+          "number": "69",
+          "name": "Cole Hyzer"
+        },
+        {
+          "number": "69",
+          "name": "Eric Hoy"
+        },
+        {
+          "number": "69",
+          "name": "Gavin Hensley"
+        },
+        {
+          "number": "69",
+          "name": "Hank Havlin"
+        },
+        {
+          "number": "69",
+          "name": "Ian Vilevac"
+        },
+        {
+          "number": "69",
+          "name": "Jack Kempe"
+        },
+        {
+          "number": "69",
+          "name": "Jake Wahl"
+        },
+        {
+          "number": "69",
+          "name": "Jason Kempe"
+        },
+        {
+          "number": "69",
+          "name": "Jesse Rumsey"
+        },
+        {
+          "number": "69",
+          "name": "Joel Close"
+        },
+        {
+          "number": "69",
+          "name": "Jonathan Holladay"
+        },
+        {
+          "number": "69",
+          "name": "Kole Pempek"
+        },
+        {
+          "number": "69",
+          "name": "Logan Williams"
+        },
+        {
+          "number": "69",
+          "name": "Mace Chope"
+        },
+        {
+          "number": "69",
+          "name": "Marcus Evans"
+        },
+        {
+          "number": "69",
+          "name": "Matthew Weaver"
+        },
+        {
+          "number": "69",
+          "name": "Nathan Bussberg"
+        },
+        {
+          "number": "69",
+          "name": "Nathan Hershberger"
+        },
+        {
+          "number": "69",
+          "name": "Noah  Wahl"
+        }
+      ]
+    },
+    {
+      "name": "CMen",
+      "seed": 7,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Cincinnati, Ohio",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Harrison Warfel"
+        },
+        {
+          "number": "0",
+          "name": "Mazen Syed"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Hummel"
+        },
+        {
+          "number": "00",
+          "name": "Benjamin Adair"
+        },
+        {
+          "number": "01",
+          "name": "Bradley Caldwell"
+        },
+        {
+          "number": "01",
+          "name": "Declan Le Warn"
+        },
+        {
+          "number": "03",
+          "name": "Connor Hanson"
+        },
+        {
+          "number": "04",
+          "name": "Connor Driscoll-Natale"
+        },
+        {
+          "number": "05",
+          "name": "Ian Mack"
+        },
+        {
+          "number": "06",
+          "name": "Matthew  Pabin"
+        },
+        {
+          "number": "07",
+          "name": "Maxwell Hanson"
+        },
+        {
+          "number": "16",
+          "name": "Paul Zaleski"
+        },
+        {
+          "number": "17",
+          "name": "Trevor Russell"
+        },
+        {
+          "number": "19",
+          "name": "Sarun Va"
+        }
+      ]
+    },
+    {
+      "name": "Impulse",
+      "seed": 13,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Pittsburgh, Pennsylvania",
+        "website": "http://pittsburgh-ultimate.org/youth-club-teams",
+        "facebook": "",
+        "twitter": "https://twitter.com/impulseultimate"
+      },
+      "coaches": [
+        "Ben Morgenstern",
+        "Ayuna Uemura"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Matthew Chou"
+        },
+        {
+          "number": "2",
+          "name": "Matthew Lu"
+        },
+        {
+          "number": "4",
+          "name": "Joshua Morton"
+        },
+        {
+          "number": "5",
+          "name": "Drew Girard"
+        },
+        {
+          "number": "6",
+          "name": "Marco Butera"
+        },
+        {
+          "number": "7",
+          "name": "Jay Fu"
+        },
+        {
+          "number": "11",
+          "name": "William Chou"
+        },
+        {
+          "number": "12",
+          "name": "Andrew Dietrich"
+        },
+        {
+          "number": "16",
+          "name": "Jin Zhang"
+        },
+        {
+          "number": "17",
+          "name": "Peter Ricci"
+        },
+        {
+          "number": "18",
+          "name": "Grant Waltrip"
+        },
+        {
+          "number": "23",
+          "name": "Brendan Taylor"
+        },
+        {
+          "number": "26",
+          "name": "Hayden  Daley"
+        },
+        {
+          "number": "28",
+          "name": "Quincy Leczo"
+        },
+        {
+          "number": "30",
+          "name": "Jimmy Yin"
+        },
+        {
+          "number": "81",
+          "name": "Will Girard"
+        },
+        {
+          "number": "93",
+          "name": "Ben Tino"
+        }
+      ]
+    },
+    {
+      "name": "Chimney",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Cleveland, Ohio",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alex Warrington"
+        },
+        {
+          "number": "0",
+          "name": "Barry McCoy"
+        },
+        {
+          "number": "0",
+          "name": "Daniel Estrin"
+        },
+        {
+          "number": "0",
+          "name": "Dmitriy Estrin"
+        },
+        {
+          "number": "0",
+          "name": "Gabe Dombroski"
+        },
+        {
+          "number": "0",
+          "name": "Jarrell Imamura"
+        },
+        {
+          "number": "0",
+          "name": "Josh Shamburger"
+        },
+        {
+          "number": "0",
+          "name": "Kevin Nicholl"
+        },
+        {
+          "number": "0",
+          "name": "Leo Narbonne"
+        },
+        {
+          "number": "0",
+          "name": "Jacob Rollins"
+        },
+        {
+          "number": "0",
+          "name": "Matthew Sullivan"
+        },
+        {
+          "number": "0",
+          "name": "Nathaniel Poshkus"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Coneway"
+        },
+        {
+          "number": "0",
+          "name": "Sam King"
+        },
+        {
+          "number": "0",
+          "name": "Sean Newell"
+        },
+        {
+          "number": "0",
+          "name": "Tristan Greiner"
+        },
+        {
+          "number": "2",
+          "name": "Malachi Marshall"
+        },
+        {
+          "number": "4",
+          "name": "Jacob Bultman"
+        },
+        {
+          "number": "4",
+          "name": "Ben Fuguet"
+        },
+        {
+          "number": "8",
+          "name": "Graham Galts"
+        },
+        {
+          "number": "13",
+          "name": "Benjamin March"
+        },
+        {
+          "number": "14",
+          "name": "Osvaldo Velez-Martinez"
+        },
+        {
+          "number": "21",
+          "name": "Ben Alexander"
+        },
+        {
+          "number": "28",
+          "name": "Dillon Walls"
+        },
+        {
+          "number": "55",
+          "name": "Samuel Marshall"
+        },
+        {
+          "number": "77",
+          "name": "Will Oltjen "
+        }
+      ]
+    },
+    {
+      "name": "Hazard",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Pittsburgh, Pennsylvania",
+        "website": "https://www.instagram.com/hazard_pgh",
+        "facebook": "",
+        "twitter": "https://twitter.com/HazzyUltimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "03",
+          "name": "Keven Gregg"
+        },
+        {
+          "number": "07",
+          "name": "Eric Johnson"
+        },
+        {
+          "number": "09",
+          "name": "Justin Fraser"
+        },
+        {
+          "number": "10",
+          "name": "Blaine Taylor"
+        },
+        {
+          "number": "14",
+          "name": "Jake Davis"
+        },
+        {
+          "number": "15",
+          "name": "Brendan Copp"
+        },
+        {
+          "number": "16",
+          "name": "Kyle Halstater"
+        },
+        {
+          "number": "17",
+          "name": "Steven Bizon"
+        },
+        {
+          "number": "19",
+          "name": "Ryan Kindell"
+        },
+        {
+          "number": "23",
+          "name": "Ethan Campion"
+        },
+        {
+          "number": "42",
+          "name": "Isaac Degenholtz"
+        },
+        {
+          "number": "47",
+          "name": "Lawson Fisher"
+        },
+        {
+          "number": "50",
+          "name": "Zach Dahm"
+        },
+        {
+          "number": "52",
+          "name": "Jonathan McGee"
+        },
+        {
+          "number": "57",
+          "name": "Tyler Weinberger"
+        },
+        {
+          "number": "83",
+          "name": "Zachary Murray"
+        },
+        {
+          "number": "92",
+          "name": "Wally Gaida"
+        }
+      ]
+    },
+    {
+      "name": "Flying Pig",
+      "seed": 12,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Cincinnati, Ohio",
+        "website": "https://cincyultimate.org/youth/ycc",
+        "facebook": "",
+        "twitter": "https://twitter.com/Pigultimate"
+      },
+      "coaches": [
+        "Zach Kaylor"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Kyle Gromen"
+        },
+        {
+          "number": "00",
+          "name": "Zachary Lynch"
+        },
+        {
+          "number": "05",
+          "name": "Zachary Robinson"
+        },
+        {
+          "number": "07",
+          "name": "Gus Elovitz"
+        },
+        {
+          "number": "08",
+          "name": "Jeremy Weese"
+        },
+        {
+          "number": "09",
+          "name": "Brady Smith"
+        },
+        {
+          "number": "11",
+          "name": "William Wettengel"
+        },
+        {
+          "number": "16",
+          "name": "George Finn"
+        },
+        {
+          "number": "17",
+          "name": "Andrew Gasson"
+        },
+        {
+          "number": "18",
+          "name": "Joe Peyton"
+        },
+        {
+          "number": "19",
+          "name": "Ian Hailey"
+        },
+        {
+          "number": "20",
+          "name": "Colsten Spelman"
+        },
+        {
+          "number": "21",
+          "name": "Adam Thornton"
+        },
+        {
+          "number": "24",
+          "name": "Sai Pittala"
+        },
+        {
+          "number": "27",
+          "name": "Noah Lin"
+        },
+        {
+          "number": "31",
+          "name": "Kushal Kothapalli"
+        },
+        {
+          "number": "35",
+          "name": "Adithya Deepak"
+        },
+        {
+          "number": "42",
+          "name": "Christopher Fischer"
+        },
+        {
+          "number": "43",
+          "name": "Miles DiNardo"
+        },
+        {
+          "number": "44",
+          "name": "Gage Engles"
+        },
+        {
+          "number": "73",
+          "name": "Kale Kessler"
+        },
+        {
+          "number": "88",
+          "name": "Owen Ball"
+        }
+      ]
+    },
+    {
+      "name": "Flying Dutchmen",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Columbus, Ohio",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Adam Perks"
+        },
+        {
+          "number": "0",
+          "name": "Eric Wright"
+        },
+        {
+          "number": "0",
+          "name": "Eric Coglianese"
+        },
+        {
+          "number": "0",
+          "name": "Jason Wherry"
+        },
+        {
+          "number": "0",
+          "name": "Kenton Lawson"
+        },
+        {
+          "number": "0",
+          "name": "Calum Ridenour"
+        },
+        {
+          "number": "0",
+          "name": "Lucas Nestor"
+        },
+        {
+          "number": "0",
+          "name": "Nick Sophocleous"
+        },
+        {
+          "number": "3",
+          "name": "David Braden"
+        },
+        {
+          "number": "4",
+          "name": "David Hazlett"
+        },
+        {
+          "number": "7",
+          "name": "Brock Stephan"
+        },
+        {
+          "number": "9",
+          "name": "Austin Riegel"
+        },
+        {
+          "number": "11",
+          "name": "Andrew Thompson"
+        },
+        {
+          "number": "12",
+          "name": "Alec Mathena"
+        },
+        {
+          "number": "15",
+          "name": "Ben Haywood"
+        },
+        {
+          "number": "15",
+          "name": "Nicholas Kaiser"
+        },
+        {
+          "number": "16",
+          "name": "Anthony Sanderell"
+        },
+        {
+          "number": "17",
+          "name": "Nicholas Ondrejko"
+        },
+        {
+          "number": "19",
+          "name": "Avery Gleeson"
+        },
+        {
+          "number": "23",
+          "name": "Kyle Murray"
+        },
+        {
+          "number": "32",
+          "name": "Nate Dikeman"
+        },
+        {
+          "number": "72",
+          "name": "Shane Spiegel"
+        },
+        {
+          "number": "93",
+          "name": "Peter Zhang"
+        },
+        {
+          "number": "98",
+          "name": "Brian Griffiths"
+        }
+      ]
+    },
+    {
+      "name": "Black Lung",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Lexington, Kentucky",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/blacklungulti?lang=en"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Christopher Powers"
+        },
+        {
+          "number": "0",
+          "name": "Colin Winter"
+        },
+        {
+          "number": "0",
+          "name": "David Durrance"
+        },
+        {
+          "number": "0",
+          "name": "Andrew Blair"
+        },
+        {
+          "number": "0",
+          "name": "Jeffrey Durrance"
+        },
+        {
+          "number": "0",
+          "name": "Jeremy Davis"
+        },
+        {
+          "number": "0",
+          "name": "Joseph Neuzel"
+        },
+        {
+          "number": "0",
+          "name": "Justin Colon"
+        },
+        {
+          "number": "0",
+          "name": "Mason Montgomery"
+        },
+        {
+          "number": "0",
+          "name": "Matthew  John"
+        },
+        {
+          "number": "0",
+          "name": "Nathan Riffell"
+        },
+        {
+          "number": "0",
+          "name": "Nicholas Riffell"
+        },
+        {
+          "number": "0",
+          "name": "Spencer Barrios"
+        },
+        {
+          "number": "1",
+          "name": "Adam Houk"
+        },
+        {
+          "number": "2",
+          "name": "Tyler Karnes"
+        },
+        {
+          "number": "4",
+          "name": "Shane McCarthy"
+        },
+        {
+          "number": "5",
+          "name": "Joshua Wu"
+        },
+        {
+          "number": "8",
+          "name": "Nathan Meade"
+        },
+        {
+          "number": "10",
+          "name": "Larry Farmer Jr"
+        },
+        {
+          "number": "11",
+          "name": "Christopher Empie"
+        },
+        {
+          "number": "14",
+          "name": "Ezekiel Miller"
+        },
+        {
+          "number": "27",
+          "name": "Wyatt Driskell"
+        },
+        {
+          "number": "44",
+          "name": "Levi Branan"
+        },
+        {
+          "number": "53",
+          "name": "Jacob Gowan"
+        },
+        {
+          "number": "55",
+          "name": "John Blair"
+        },
+        {
+          "number": "72",
+          "name": "Jake Montgomery"
+        }
+      ]
+    },
+    {
+      "name": "On Ramp",
+      "seed": 11,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Indianapolis, Indiana",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "69",
+          "name": "Bradley Vaal"
+        },
+        {
+          "number": "69",
+          "name": "Brett Edwards"
+        },
+        {
+          "number": "69",
+          "name": "Chris Strawn"
+        },
+        {
+          "number": "69",
+          "name": "Connor Modglin"
+        },
+        {
+          "number": "69",
+          "name": "David Masengale"
+        },
+        {
+          "number": "69",
+          "name": "Drew Galle"
+        },
+        {
+          "number": "69",
+          "name": "Erik Olsen"
+        },
+        {
+          "number": "69",
+          "name": "Garrison Dowling"
+        },
+        {
+          "number": "69",
+          "name": "George Peterson"
+        },
+        {
+          "number": "69",
+          "name": "Hayden Monk"
+        },
+        {
+          "number": "69",
+          "name": "Jayson Thomas"
+        },
+        {
+          "number": "69",
+          "name": "Kellen Klapatch"
+        },
+        {
+          "number": "69",
+          "name": "Kelsen Bartley"
+        },
+        {
+          "number": "69",
+          "name": "Liam O'Rourke"
+        },
+        {
+          "number": "69",
+          "name": "Luke Titus"
+        },
+        {
+          "number": "69",
+          "name": "Nathaniel Close"
+        },
+        {
+          "number": "69",
+          "name": "Quintin Smith"
+        },
+        {
+          "number": "69",
+          "name": "Robby Fitzgerald"
+        },
+        {
+          "number": "69",
+          "name": "Ryan McCann"
+        },
+        {
+          "number": "69",
+          "name": "Spenser Ponsford"
+        },
+        {
+          "number": "69",
+          "name": "Tyler Robertson"
+        },
+        {
+          "number": "69",
+          "name": "William Lilegdon"
+        }
+      ]
+    },
+    {
+      "name": "Scoop",
+      "seed": 10,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Akron/Cleveland, Ohio",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "69",
+          "name": "Anna Farrington"
+        },
+        {
+          "number": "69",
+          "name": "Bella Perez"
+        },
+        {
+          "number": "69",
+          "name": "Brandon Sasser"
+        },
+        {
+          "number": "69",
+          "name": "Garrett Holman"
+        },
+        {
+          "number": "69",
+          "name": "Griffin Slesinger"
+        },
+        {
+          "number": "69",
+          "name": "Izabell McGreevy"
+        },
+        {
+          "number": "69",
+          "name": "Jan Woolfork"
+        },
+        {
+          "number": "69",
+          "name": "Jason Bailey"
+        },
+        {
+          "number": "69",
+          "name": "Joe Norton"
+        },
+        {
+          "number": "69",
+          "name": "Mario Sotelo"
+        },
+        {
+          "number": "69",
+          "name": "Mark Hribar"
+        },
+        {
+          "number": "69",
+          "name": "Mathew Wong"
+        },
+        {
+          "number": "69",
+          "name": "Michael Atkinson"
+        },
+        {
+          "number": "69",
+          "name": "Noah Spaetti"
+        },
+        {
+          "number": "69",
+          "name": "Philip Saba"
+        },
+        {
+          "number": "69",
+          "name": "Ryan Bailey"
+        },
+        {
+          "number": "69",
+          "name": "Sal Alsuwailem"
+        },
+        {
+          "number": "69",
+          "name": "Sydney Shobel"
+        },
+        {
+          "number": "69",
+          "name": "Tom Duellman"
+        },
+        {
+          "number": "69",
+          "name": "Vikas Balu"
+        },
+        {
+          "number": "69",
+          "name": "Zachary Loiter"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "SCINNY",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Beacon",
+              "team2": "Diesel",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2023-06-17T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Beacon",
+              "team2": "Enigma",
+              "score1": 15,
+              "score2": 3,
+              "datetime": "2023-06-17T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Enigma",
+              "team2": "Diesel",
+              "score1": 9,
+              "score2": 15,
+              "datetime": "2023-06-17T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool B",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "I-69",
+              "team2": "Impulse",
+              "score1": 15,
+              "score2": 3,
+              "datetime": "2023-06-17T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "I-69",
+              "team2": "CMen",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2023-06-17T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "CMen",
+              "team2": "Impulse",
+              "score1": 11,
+              "score2": 8,
+              "datetime": "2023-06-17T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool C",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Hazard",
+              "team2": "Flying Pig",
+              "score1": 11,
+              "score2": 8,
+              "datetime": "2023-06-17T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Hazard",
+              "team2": "Chimney",
+              "score1": 7,
+              "score2": 15,
+              "datetime": "2023-06-17T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Chimney",
+              "team2": "Flying Pig",
+              "score1": 15,
+              "score2": 5,
+              "datetime": "2023-06-17T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool D",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Black Lung",
+              "team2": "Scoop",
+              "score1": 13,
+              "score2": 0,
+              "datetime": "2023-06-17T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Flying Dutchmen",
+              "team2": "On Ramp",
+              "score1": 13,
+              "score2": 3,
+              "datetime": "2023-06-17T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Black Lung",
+              "team2": "On Ramp",
+              "score1": 13,
+              "score2": 9,
+              "datetime": "2023-06-17T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Flying Dutchmen",
+              "team2": "Scoop",
+              "score1": 13,
+              "score2": 0,
+              "datetime": "2023-06-17T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Black Lung",
+              "team2": "Flying Dutchmen",
+              "score1": 11,
+              "score2": 13,
+              "datetime": "2023-06-17T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Scoop",
+              "team2": "On Ramp",
+              "score1": 6,
+              "score2": 13,
+              "datetime": "2023-06-17T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "clusters",
+      "name": "Pre-Quarters",
+      "groups": [
+        {
+          "name": "Pre-Quarters",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Beacon",
+              "team2": "Chimney",
+              "score1": 15,
+              "score2": 5,
+              "datetime": "2023-06-17T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "I-69",
+              "team2": "Flying Dutchmen",
+              "score1": 13,
+              "score2": 8,
+              "datetime": "2023-06-17T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Championship",
+      "groups": [
+        {
+          "name": "Championship",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Beacon",
+              "team2": "I-69",
+              "score1": 14,
+              "score2": 7,
+              "datetime": "2023-06-18T13:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Beacon",
+              "team2": "Flying Dutchmen",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2023-06-18T11:00:00Z",
+              "round": "Semis",
+              "status": "Final"
+            },
+            {
+              "team1": "Black Lung",
+              "team2": "I-69",
+              "score1": 6,
+              "score2": 14,
+              "datetime": "2023-06-18T11:00:00Z",
+              "round": "Semis",
+              "status": "Final"
+            },
+            {
+              "team1": "Beacon",
+              "team2": "On Ramp",
+              "score1": 15,
+              "score2": 2,
+              "datetime": "2023-06-18T09:00:00Z",
+              "round": "Quarters",
+              "status": "Final"
+            },
+            {
+              "team1": "Flying Dutchmen",
+              "team2": "Hazard",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2023-06-18T09:00:00Z",
+              "round": "Quarters",
+              "status": "Final"
+            },
+            {
+              "team1": "Chimney",
+              "team2": "Black Lung",
+              "score1": 11,
+              "score2": 14,
+              "datetime": "2023-06-18T09:00:00Z",
+              "round": "Quarters",
+              "status": "Final"
+            },
+            {
+              "team1": "I-69",
+              "team2": "Diesel",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2023-06-18T09:00:00Z",
+              "round": "Quarters",
+              "status": "Final"
+            },
+            {
+              "team1": "CMen",
+              "team2": "On Ramp",
+              "score1": 14,
+              "score2": 15,
+              "datetime": "2023-06-17T16:00:00Z",
+              "round": "Pre-Quarters",
+              "status": "Final"
+            },
+            {
+              "team1": "Hazard",
+              "team2": "Enigma",
+              "score1": 15,
+              "score2": 2,
+              "datetime": "2023-06-17T16:00:00Z",
+              "round": "Pre-Quarters",
+              "status": "Final"
+            },
+            {
+              "team1": "Black Lung",
+              "team2": "Impulse",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2023-06-17T16:00:00Z",
+              "round": "Pre-Quarters",
+              "status": "Final"
+            },
+            {
+              "team1": "Diesel",
+              "team2": "Flying Pig",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2023-06-17T16:00:00Z",
+              "round": "Pre-Quarters",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Placement Games",
+      "groups": [
+        {
+          "name": "3rd Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Flying Dutchmen",
+              "team2": "Black Lung",
+              "score1": 11,
+              "score2": 12,
+              "datetime": "2023-06-18T13:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "5th Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Hazard",
+              "team2": "Diesel",
+              "score1": 7,
+              "score2": 4,
+              "datetime": "2023-06-18T13:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "On Ramp",
+              "team2": "Hazard",
+              "score1": 8,
+              "score2": 13,
+              "datetime": "2023-06-18T11:00:00Z",
+              "round": "Semis",
+              "status": "Final"
+            },
+            {
+              "team1": "Chimney",
+              "team2": "Diesel",
+              "score1": 8,
+              "score2": 13,
+              "datetime": "2023-06-18T11:00:00Z",
+              "round": "Semis",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "7th Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "On Ramp",
+              "team2": "Chimney",
+              "score1": 3,
+              "score2": 15,
+              "datetime": "2023-06-18T13:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "pools",
+      "name": "9th-11th Placement",
+      "groups": [
+        {
+          "name": "Pool E",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Scoop",
+              "team2": "Enigma",
+              "score1": 2,
+              "score2": 15,
+              "datetime": "2023-06-18T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Scoop",
+              "team2": "CMen",
+              "score1": 5,
+              "score2": 15,
+              "datetime": "2023-06-18T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "CMen",
+              "team2": "Enigma",
+              "score1": 12,
+              "score2": 13,
+              "datetime": "2023-06-18T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "pools",
+      "name": "Youth RR",
+      "groups": [
+        {
+          "name": "Pool F",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Flying Pig",
+              "team2": "Impulse",
+              "score1": 13,
+              "score2": 7,
+              "datetime": "2023-06-18T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

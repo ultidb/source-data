@@ -1,0 +1,167 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2024/Cache-Canes-ClassicClub-Men",
+  "sourceUrl": "https://play.usaultimate.org/events/Cache-Canes-Classic/schedule/Men/Club-Men/",
+  "scrapedAt": "2026-08-28T10:06:20.690315Z",
+  "event": {
+    "name": "Cache Cane's Classic 2024",
+    "division": "Club - Men ",
+    "gender": "",
+    "season": 2024,
+    "city": "Logan",
+    "state": "UT",
+    "country": "",
+    "startDate": "2024-07-13",
+    "endDate": "2024-07-14"
+  },
+  "teams": [
+    {
+      "name": "Utah Swarm U20 Boys",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Salt Lake City, Utah",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "Paul De Morgan",
+        "Howard (Jim) de St. Germain",
+        "Mike Holt"
+      ],
+      "roster": [
+        {
+          "number": "03",
+          "name": "Blake Holt"
+        },
+        {
+          "number": "04",
+          "name": "Henri de St. Germain"
+        },
+        {
+          "number": "05",
+          "name": "Jacob Hoffman"
+        },
+        {
+          "number": "05",
+          "name": "Riley  Hamilton"
+        },
+        {
+          "number": "07",
+          "name": "Maxwell Majersik"
+        },
+        {
+          "number": "24",
+          "name": "Sam Nichols"
+        },
+        {
+          "number": "28",
+          "name": "Silas Bell"
+        },
+        {
+          "number": "29",
+          "name": "Zachary Eakins"
+        },
+        {
+          "number": "31",
+          "name": "Nathan De Morgan"
+        },
+        {
+          "number": "33",
+          "name": "Truman Abbott"
+        }
+      ]
+    },
+    {
+      "name": "PowderHogs",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Salt Lake City, Utah",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/powderhogs"
+      },
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Sundance Kids",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Provo, Utah",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": []
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "PowderHogs",
+              "team2": "Sundance Kids",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2024-07-13T08:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Utah Swarm U20 Boys",
+              "team2": "Sundance Kids",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2024-07-13T09:30:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Utah Swarm U20 Boys",
+              "team2": "PowderHogs",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2024-07-13T11:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Bracket",
+      "groups": [
+        {
+          "name": "Championship Bracket",
+          "isChampionship": false,
+          "games": []
+        },
+        {
+          "name": "3rd Place",
+          "isChampionship": false,
+          "games": []
+        }
+      ]
+    }
+  ]
+}

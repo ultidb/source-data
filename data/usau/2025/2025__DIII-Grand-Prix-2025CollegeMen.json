@@ -1,0 +1,1324 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2025/DIII-Grand-Prix-2025CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/DIII-Grand-Prix-2025/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:21.536706Z",
+  "event": {
+    "name": "DIII Grand Prix 2025",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2025,
+    "city": "Portland",
+    "state": "OR",
+    "country": "",
+    "startDate": "2025-02-08",
+    "endDate": "2025-02-09"
+  },
+  "teams": [
+    {
+      "name": "Lewis & Clark",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Bacchus",
+        "location": "Portland, Oregon",
+        "website": "https://www.instagram.com/bacchusultimate/?hl=en",
+        "facebook": "https://www.facebook.com/bacchusultimate/",
+        "twitter": "https://twitter.com/BacchusUltimate?lang=en"
+      },
+      "coaches": [
+        "Benjamin Whitenack"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Aiden Jacobs"
+        },
+        {
+          "number": "0",
+          "name": "Ren Salisbury"
+        },
+        {
+          "number": "0",
+          "name": "Rowan Simoni"
+        },
+        {
+          "number": "0",
+          "name": "Sam London"
+        },
+        {
+          "number": "0",
+          "name": "Theodore Peterson"
+        },
+        {
+          "number": "0",
+          "name": "Noah Houchin"
+        },
+        {
+          "number": "0",
+          "name": "Zach Hungerford"
+        },
+        {
+          "number": "1",
+          "name": "Orlando Impas"
+        },
+        {
+          "number": "2",
+          "name": "Toby Rivera"
+        },
+        {
+          "number": "3",
+          "name": "Leo Farley"
+        },
+        {
+          "number": "4",
+          "name": "Charlie Wagner"
+        },
+        {
+          "number": "7",
+          "name": "Max Zwerin"
+        },
+        {
+          "number": "8",
+          "name": "Joniah Helperin-Lange"
+        },
+        {
+          "number": "9",
+          "name": "Ben Eichel"
+        },
+        {
+          "number": "10",
+          "name": "Jonas Bray"
+        },
+        {
+          "number": "10",
+          "name": "Topher Olson"
+        },
+        {
+          "number": "13",
+          "name": "Akshay Bhatia"
+        },
+        {
+          "number": "14",
+          "name": "Levi Stahl"
+        },
+        {
+          "number": "16",
+          "name": "Zoe Lang"
+        },
+        {
+          "number": "17",
+          "name": "Uri Boaz"
+        },
+        {
+          "number": "18",
+          "name": "David Allen"
+        },
+        {
+          "number": "21",
+          "name": "James Fishman-Morren"
+        },
+        {
+          "number": "28",
+          "name": "Jonas Kra-Caskey"
+        },
+        {
+          "number": "44",
+          "name": "Tyler Shelton"
+        },
+        {
+          "number": "52",
+          "name": "Rahul Konanur"
+        },
+        {
+          "number": "71",
+          "name": "William Ahlstrom"
+        },
+        {
+          "number": "83",
+          "name": "Jericho Stern"
+        }
+      ]
+    },
+    {
+      "name": "Whitman",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Whitman Sweets",
+        "location": "Walla Walla, Washington",
+        "website": "",
+        "facebook": "https://www.facebook.com/Whitman-Sweets-Mens-Ultimate-236959183065222/",
+        "twitter": "https://twitter.com/MWhitman_Sweets"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "02",
+          "name": "Owen Alvord"
+        },
+        {
+          "number": "03",
+          "name": "Sawyer Linehan"
+        },
+        {
+          "number": "04",
+          "name": "Grant Colburn"
+        },
+        {
+          "number": "07",
+          "name": "Colin Pfister"
+        },
+        {
+          "number": "08",
+          "name": "Dash Fitzgerald"
+        },
+        {
+          "number": "09",
+          "name": "brodie monohan"
+        },
+        {
+          "number": "10",
+          "name": "Hans Frautschi"
+        },
+        {
+          "number": "12",
+          "name": "Kainoa Taylor"
+        },
+        {
+          "number": "13",
+          "name": "Soren Severens"
+        },
+        {
+          "number": "16",
+          "name": "Eamon Winkelman"
+        },
+        {
+          "number": "18",
+          "name": "Henry Currie"
+        },
+        {
+          "number": "20",
+          "name": "Scott Hayes"
+        },
+        {
+          "number": "21",
+          "name": "Lyle Hahn"
+        },
+        {
+          "number": "22",
+          "name": "Nico Darringer"
+        },
+        {
+          "number": "23",
+          "name": "Jay Senstra"
+        },
+        {
+          "number": "29",
+          "name": "Cooper Andersen"
+        },
+        {
+          "number": "30",
+          "name": "Jasper Brown"
+        },
+        {
+          "number": "31",
+          "name": "Ethan Murray"
+        },
+        {
+          "number": "33",
+          "name": "Kai Kirsch"
+        },
+        {
+          "number": "34",
+          "name": "Liam O’Shea "
+        },
+        {
+          "number": "35",
+          "name": "Elan Siegler"
+        },
+        {
+          "number": "39",
+          "name": "Jeremiah Harder"
+        },
+        {
+          "number": "62",
+          "name": "Leo Dungan-Seaver"
+        },
+        {
+          "number": "99",
+          "name": "Alex  Moore"
+        }
+      ]
+    },
+    {
+      "name": "Colorado College",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Wasabi",
+        "location": "Colorado Springs, Colorado",
+        "website": "wabenith.com",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "Jimmy Donnellon"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Josh  Lillie "
+        },
+        {
+          "number": "1",
+          "name": "Matan Fields"
+        },
+        {
+          "number": "2",
+          "name": "Denver Brown"
+        },
+        {
+          "number": "4",
+          "name": "Cooper Quatrochi"
+        },
+        {
+          "number": "5",
+          "name": "Jack Hills"
+        },
+        {
+          "number": "6",
+          "name": "Filip Maleev"
+        },
+        {
+          "number": "9",
+          "name": "Oliver Wells"
+        },
+        {
+          "number": "03",
+          "name": "Tanner Flagg"
+        },
+        {
+          "number": "10",
+          "name": "Thomas Nielsen"
+        },
+        {
+          "number": "11",
+          "name": "Oliver van Linder"
+        },
+        {
+          "number": "13",
+          "name": "Owen Mortell"
+        },
+        {
+          "number": "19",
+          "name": "Leo McGaraghan"
+        },
+        {
+          "number": "23",
+          "name": "Miles Katzen"
+        },
+        {
+          "number": "25",
+          "name": "Lev Sugerman-Brozan"
+        },
+        {
+          "number": "30",
+          "name": "Mason Pancoast"
+        },
+        {
+          "number": "32",
+          "name": "Anders Pohlmann"
+        },
+        {
+          "number": "33",
+          "name": "Zachary Johnston"
+        },
+        {
+          "number": "37",
+          "name": "Oden Hoff"
+        },
+        {
+          "number": "44",
+          "name": "Nico Martinez"
+        },
+        {
+          "number": "74",
+          "name": "Eliot Kirkham"
+        },
+        {
+          "number": "81",
+          "name": "Cameron Thompson"
+        }
+      ]
+    },
+    {
+      "name": "Puget Sound",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Postmen",
+        "location": "Tacoma, Washington",
+        "website": "http://www.upsultimate.com/",
+        "facebook": "https://www.facebook.com/PugetSoundPostmen",
+        "twitter": "https://twitter.com/upsultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Aaron Donovan"
+        },
+        {
+          "number": "0",
+          "name": "Elliot Williams"
+        },
+        {
+          "number": "01",
+          "name": "Jackson Stapleton"
+        },
+        {
+          "number": "03",
+          "name": "Alex Rossmeissl"
+        },
+        {
+          "number": "05",
+          "name": "Oliver Eells"
+        },
+        {
+          "number": "09",
+          "name": "Nathan Ludington"
+        },
+        {
+          "number": "10",
+          "name": "Leo Miller"
+        },
+        {
+          "number": "11",
+          "name": "shota Fletcher"
+        },
+        {
+          "number": "12",
+          "name": "Kevin Cuda"
+        },
+        {
+          "number": "14",
+          "name": "Charles DeRussy"
+        },
+        {
+          "number": "15",
+          "name": "Lawson Hunt"
+        },
+        {
+          "number": "16",
+          "name": "Lucas Calaff"
+        },
+        {
+          "number": "18",
+          "name": "Tate Halbert"
+        },
+        {
+          "number": "20",
+          "name": "Jasper Hitchman"
+        },
+        {
+          "number": "34",
+          "name": "Jeremy Gordon"
+        },
+        {
+          "number": "50",
+          "name": "Nainoa Ohata"
+        },
+        {
+          "number": "64",
+          "name": "Daniel Johnson"
+        },
+        {
+          "number": "71",
+          "name": "Sahaj Olivar"
+        },
+        {
+          "number": "88",
+          "name": "Xander  Nobel Rudolph"
+        }
+      ]
+    },
+    {
+      "name": "Colorado Mines",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Entropy",
+        "location": "Golden, Colorado",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "Aaron (AJ) Abraham"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alexander Gilder"
+        },
+        {
+          "number": "0",
+          "name": "Benjamin Koller"
+        },
+        {
+          "number": "0",
+          "name": "Branton Rainey"
+        },
+        {
+          "number": "0",
+          "name": "Carter Eisenbach"
+        },
+        {
+          "number": "0",
+          "name": "Charlie Keigwin"
+        },
+        {
+          "number": "0",
+          "name": "Cooper Lappin"
+        },
+        {
+          "number": "0",
+          "name": "Drew Kaprielian"
+        },
+        {
+          "number": "0",
+          "name": "Hans Krull"
+        },
+        {
+          "number": "0",
+          "name": "Jack Fortune"
+        },
+        {
+          "number": "0",
+          "name": "Philip Altman"
+        },
+        {
+          "number": "1",
+          "name": "Randy Lahm"
+        },
+        {
+          "number": "2",
+          "name": "Mychael Holloran"
+        },
+        {
+          "number": "3",
+          "name": "Reed Gorner"
+        },
+        {
+          "number": "14",
+          "name": "Haden Cavalli"
+        },
+        {
+          "number": "20",
+          "name": "Adam Lisle"
+        },
+        {
+          "number": "23",
+          "name": "Derek Liebich"
+        },
+        {
+          "number": "23",
+          "name": "Spencer Weldon"
+        },
+        {
+          "number": "24",
+          "name": "Micai Shoots"
+        },
+        {
+          "number": "27",
+          "name": "Prashasth Satish"
+        },
+        {
+          "number": "28",
+          "name": "Quinton Lorenz"
+        },
+        {
+          "number": "32",
+          "name": "Ty Fleming"
+        },
+        {
+          "number": "49",
+          "name": "Stephen Pegher"
+        },
+        {
+          "number": "63",
+          "name": "Carter Gonzalez"
+        }
+      ]
+    },
+    {
+      "name": "Claremont",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Braineaters",
+        "location": "Claremont , California",
+        "website": "https://www.brainsultimate.com",
+        "facebook": "",
+        "twitter": "https://twitter.com/BrainsUltimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "1",
+          "name": "Josh Marx"
+        },
+        {
+          "number": "2",
+          "name": "Ryan Williams"
+        },
+        {
+          "number": "3",
+          "name": "Arenaria Cramer"
+        },
+        {
+          "number": "5",
+          "name": "Jacques Paradis"
+        },
+        {
+          "number": "7",
+          "name": "Elias Gradinger"
+        },
+        {
+          "number": "8",
+          "name": "Tomas Jimenez-Williams"
+        },
+        {
+          "number": "9",
+          "name": "Emmett Levine"
+        },
+        {
+          "number": "13",
+          "name": "Cid Maciel"
+        },
+        {
+          "number": "23",
+          "name": "Johnny Russell"
+        },
+        {
+          "number": "24",
+          "name": "Luca Davis"
+        },
+        {
+          "number": "28",
+          "name": "Jamie Miller"
+        },
+        {
+          "number": "30",
+          "name": "Isamu Masayoshi Sims"
+        },
+        {
+          "number": "31",
+          "name": "Sam Fischer"
+        },
+        {
+          "number": "44",
+          "name": "Eli Protas"
+        },
+        {
+          "number": "45",
+          "name": "Sebastian Harvey"
+        },
+        {
+          "number": "57",
+          "name": "Mitchell Yam"
+        },
+        {
+          "number": "63",
+          "name": "Leo Godsberg"
+        },
+        {
+          "number": "71",
+          "name": "Elijah Axt"
+        },
+        {
+          "number": "77",
+          "name": "Jeremy Kaufman"
+        },
+        {
+          "number": "80",
+          "name": "Isaiah Curtis "
+        },
+        {
+          "number": "88",
+          "name": "Noah Pershing"
+        },
+        {
+          "number": "93",
+          "name": "Jack Sheehan"
+        },
+        {
+          "number": "99",
+          "name": "Jacob Leichter Wilson"
+        }
+      ]
+    },
+    {
+      "name": "Occidental",
+      "seed": 9,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Detox",
+        "location": "Los Angeles, California",
+        "website": "",
+        "facebook": "https://www.facebook.com/detoxultimate/",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Liam O’Neill"
+        },
+        {
+          "number": "03",
+          "name": "Quentin Folds"
+        },
+        {
+          "number": "05",
+          "name": "Andrew Eisenberg"
+        },
+        {
+          "number": "06",
+          "name": "Noah Hebert-Lynch"
+        },
+        {
+          "number": "08",
+          "name": "Liam Schedler"
+        },
+        {
+          "number": "10",
+          "name": "Ian Terell"
+        },
+        {
+          "number": "11",
+          "name": "Alex Bukovec"
+        },
+        {
+          "number": "12",
+          "name": "Nathan Crawford"
+        },
+        {
+          "number": "16",
+          "name": "Jack Cheatham"
+        },
+        {
+          "number": "17",
+          "name": "William Crawford"
+        },
+        {
+          "number": "18",
+          "name": "Jay Wang"
+        },
+        {
+          "number": "20",
+          "name": "Emerson Staley"
+        },
+        {
+          "number": "20",
+          "name": "Tobias Wepman"
+        },
+        {
+          "number": "22",
+          "name": "Theodore Ellis Novotny"
+        },
+        {
+          "number": "23",
+          "name": "Elias  Davatzes"
+        },
+        {
+          "number": "24",
+          "name": "Theodore McGowan"
+        },
+        {
+          "number": "25",
+          "name": "Zane Wilson"
+        },
+        {
+          "number": "31",
+          "name": "Graham Hess"
+        },
+        {
+          "number": "32",
+          "name": "Will Carter"
+        },
+        {
+          "number": "36",
+          "name": "Dylan Feldman"
+        },
+        {
+          "number": "42",
+          "name": "Jessie Lowpensky"
+        },
+        {
+          "number": "73",
+          "name": "Max Brown"
+        }
+      ]
+    },
+    {
+      "name": "Air Force",
+      "seed": 8,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Afterburn",
+        "location": "USAF Academy, Colorado",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "02",
+          "name": "Easton McCarty"
+        },
+        {
+          "number": "06",
+          "name": "Tom Nguyen"
+        },
+        {
+          "number": "12",
+          "name": "Mason Daily"
+        },
+        {
+          "number": "15",
+          "name": "Simon Bidne"
+        },
+        {
+          "number": "16",
+          "name": "Mahesh Padhi"
+        },
+        {
+          "number": "17",
+          "name": "Cole Super"
+        },
+        {
+          "number": "19",
+          "name": "Cade Austin"
+        },
+        {
+          "number": "25",
+          "name": "Asher Speicher"
+        },
+        {
+          "number": "26",
+          "name": "Julian Whang"
+        },
+        {
+          "number": "28",
+          "name": "Bryan Cao"
+        },
+        {
+          "number": "32",
+          "name": "Philip Koshy"
+        },
+        {
+          "number": "39",
+          "name": "Geoffrey Freeman"
+        },
+        {
+          "number": "40",
+          "name": "Henry Stueber"
+        },
+        {
+          "number": "41",
+          "name": "Matthew Dickson"
+        },
+        {
+          "number": "49",
+          "name": "Joel Bryant"
+        },
+        {
+          "number": "72",
+          "name": "Zachary Krar"
+        },
+        {
+          "number": "81",
+          "name": "Evan Hoch"
+        },
+        {
+          "number": "96",
+          "name": "Jason Wang"
+        }
+      ]
+    },
+    {
+      "name": "Reed",
+      "seed": 7,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Hoot",
+        "location": "Portland, Oregon",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Andrew Sakahara"
+        },
+        {
+          "number": "0",
+          "name": "Bizuayehu Crouther"
+        },
+        {
+          "number": "0",
+          "name": "Caleb Fishman Miller"
+        },
+        {
+          "number": "0",
+          "name": "Chloe Jones"
+        },
+        {
+          "number": "0",
+          "name": "Elijah  Godsberg"
+        },
+        {
+          "number": "0",
+          "name": "Finn Mueller"
+        },
+        {
+          "number": "0",
+          "name": "Heath Nevis"
+        },
+        {
+          "number": "0",
+          "name": "Joaquin Fernandez Odell"
+        },
+        {
+          "number": "0",
+          "name": "Karina Bary"
+        },
+        {
+          "number": "0",
+          "name": "Lydia Longfritz"
+        },
+        {
+          "number": "0",
+          "name": "Mattia Cassell"
+        },
+        {
+          "number": "0",
+          "name": "Maya Hanser-Young"
+        },
+        {
+          "number": "0",
+          "name": "Aiden Hsu"
+        },
+        {
+          "number": "0",
+          "name": "Wade Sterns"
+        },
+        {
+          "number": "0",
+          "name": "Will Stevens"
+        },
+        {
+          "number": "5",
+          "name": "Tessa Corbet"
+        },
+        {
+          "number": "25",
+          "name": "Ally Willard"
+        },
+        {
+          "number": "51",
+          "name": "Rhys Lewis"
+        },
+        {
+          "number": "74",
+          "name": "Michael Hubbard"
+        }
+      ]
+    },
+    {
+      "name": "Pacific Lutheran",
+      "seed": 10,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Reign Men",
+        "location": "Parkland, Washington",
+        "website": "https://www.plu.edu/recreations/club-sports-teams/mens-ultimate-frisbee/",
+        "facebook": "",
+        "twitter": "https://twitter.com/ReignMenPLU"
+      },
+      "coaches": [
+        "Josiah Colby"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Casey Rittenhouse"
+        },
+        {
+          "number": "0",
+          "name": "Ej Carei"
+        },
+        {
+          "number": "0",
+          "name": "Elijah Singleton"
+        },
+        {
+          "number": "0",
+          "name": "Jaden Lash"
+        },
+        {
+          "number": "0",
+          "name": "John Weldon"
+        },
+        {
+          "number": "0",
+          "name": "Luke Van Tassel"
+        },
+        {
+          "number": "0",
+          "name": "Max Minjares"
+        },
+        {
+          "number": "0",
+          "name": "Micah Roschke"
+        },
+        {
+          "number": "4",
+          "name": "Joshua Sandoval"
+        },
+        {
+          "number": "00",
+          "name": "Denny Corson"
+        },
+        {
+          "number": "11",
+          "name": "Luke Sunderman"
+        },
+        {
+          "number": "13",
+          "name": "Henry Clark"
+        },
+        {
+          "number": "17",
+          "name": "Riley Judd"
+        },
+        {
+          "number": "18",
+          "name": "David Collier"
+        },
+        {
+          "number": "21",
+          "name": "Kellen Gonsalves"
+        },
+        {
+          "number": "39",
+          "name": "Joseph Middleton"
+        },
+        {
+          "number": "88",
+          "name": "Aaron Phillips"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Round Robin",
+      "groups": [
+        {
+          "name": "D3GP 25 M+",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Whitman",
+              "team2": "Occidental",
+              "score1": 13,
+              "score2": 10,
+              "datetime": "2025-02-08T08:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Lewis & Clark",
+              "team2": "Reed",
+              "score1": 13,
+              "score2": 5,
+              "datetime": "2025-02-08T08:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Colorado Mines",
+              "team2": "Claremont",
+              "score1": 13,
+              "score2": 7,
+              "datetime": "2025-02-08T08:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Pacific Lutheran",
+              "team2": "Colorado College",
+              "score1": 4,
+              "score2": 13,
+              "datetime": "2025-02-08T08:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Whitman",
+              "team2": "Air Force",
+              "score1": 13,
+              "score2": 6,
+              "datetime": "2025-02-08T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Pacific Lutheran",
+              "team2": "Claremont",
+              "score1": 6,
+              "score2": 12,
+              "datetime": "2025-02-08T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Puget Sound",
+              "team2": "Colorado Mines",
+              "score1": 13,
+              "score2": 10,
+              "datetime": "2025-02-08T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Colorado College",
+              "team2": "Lewis & Clark",
+              "score1": 8,
+              "score2": 12,
+              "datetime": "2025-02-08T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Pacific Lutheran",
+              "team2": "Air Force",
+              "score1": 8,
+              "score2": 13,
+              "datetime": "2025-02-08T11:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Colorado College",
+              "team2": "Puget Sound",
+              "score1": 13,
+              "score2": 10,
+              "datetime": "2025-02-08T11:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Occidental",
+              "team2": "Reed",
+              "score1": 11,
+              "score2": 10,
+              "datetime": "2025-02-08T11:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Lewis & Clark",
+              "team2": "Colorado Mines",
+              "score1": 13,
+              "score2": 5,
+              "datetime": "2025-02-08T11:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Occidental",
+              "team2": "Puget Sound",
+              "score1": 8,
+              "score2": 13,
+              "datetime": "2025-02-08T13:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Whitman",
+              "team2": "Colorado Mines",
+              "score1": 12,
+              "score2": 7,
+              "datetime": "2025-02-08T13:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Reed",
+              "team2": "Air Force",
+              "score1": 7,
+              "score2": 13,
+              "datetime": "2025-02-08T13:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Reed",
+              "team2": "Colorado Mines",
+              "score1": 6,
+              "score2": 13,
+              "datetime": "2025-02-09T08:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Whitman",
+              "team2": "Colorado College",
+              "score1": 9,
+              "score2": 11,
+              "datetime": "2025-02-09T08:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Claremont",
+              "team2": "Lewis & Clark",
+              "score1": 9,
+              "score2": 13,
+              "datetime": "2025-02-09T08:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Air Force",
+              "team2": "Occidental",
+              "score1": 9,
+              "score2": 13,
+              "datetime": "2025-02-09T08:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Puget Sound",
+              "team2": "Claremont",
+              "score1": 9,
+              "score2": 13,
+              "datetime": "2025-02-09T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Air Force",
+              "team2": "Lewis & Clark",
+              "score1": 8,
+              "score2": 13,
+              "datetime": "2025-02-09T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Colorado Mines",
+              "team2": "Pacific Lutheran",
+              "score1": 13,
+              "score2": 5,
+              "datetime": "2025-02-09T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Reed",
+              "team2": "Puget Sound",
+              "score1": 7,
+              "score2": 13,
+              "datetime": "2025-02-09T11:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Claremont",
+              "team2": "Colorado College",
+              "score1": 2,
+              "score2": 13,
+              "datetime": "2025-02-09T11:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Occidental",
+              "team2": "Pacific Lutheran",
+              "score1": 13,
+              "score2": 8,
+              "datetime": "2025-02-09T11:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Whitman",
+              "team2": "Lewis & Clark",
+              "score1": 13,
+              "score2": 11,
+              "datetime": "2025-02-09T11:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Air Force",
+              "team2": "Claremont",
+              "score1": 6,
+              "score2": 13,
+              "datetime": "2025-02-09T13:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Whitman",
+              "team2": "Puget Sound",
+              "score1": 13,
+              "score2": 9,
+              "datetime": "2025-02-09T13:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Reed",
+              "team2": "Pacific Lutheran",
+              "score1": 12,
+              "score2": 11,
+              "datetime": "2025-02-09T13:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Colorado College",
+              "team2": "Occidental",
+              "score1": 13,
+              "score2": 6,
+              "datetime": "2025-02-09T13:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

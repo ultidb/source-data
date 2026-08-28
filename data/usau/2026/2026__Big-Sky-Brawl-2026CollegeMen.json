@@ -1,0 +1,635 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2026/Big-Sky-Brawl-2026CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/Big-Sky-Brawl-2026/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:22.026591Z",
+  "event": {
+    "name": "Big Sky Brawl 2026",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2026,
+    "city": "Meridian",
+    "state": "ID",
+    "country": "",
+    "startDate": "2026-03-07",
+    "endDate": "2026-03-08"
+  },
+  "teams": [
+    {
+      "name": "Brigham Young (B)",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "CHI B",
+        "location": "Provo, Utah",
+        "website": "www.byuchiultimate.com",
+        "facebook": "http://facebook.com/byumensultimate",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Ammon Brock"
+        },
+        {
+          "number": "0",
+          "name": "Bennett Olson"
+        },
+        {
+          "number": "0",
+          "name": "Clayton Dunford"
+        },
+        {
+          "number": "0",
+          "name": "Ethan McEntire"
+        },
+        {
+          "number": "0",
+          "name": "Indiana Ivie"
+        },
+        {
+          "number": "0",
+          "name": "Jay Orchard"
+        },
+        {
+          "number": "0",
+          "name": "Abraham Alton"
+        },
+        {
+          "number": "0",
+          "name": "Adam Rose"
+        },
+        {
+          "number": "0",
+          "name": "Luke Stovall"
+        },
+        {
+          "number": "0",
+          "name": "Russell Ridd"
+        },
+        {
+          "number": "0",
+          "name": "Spencer Morgan"
+        },
+        {
+          "number": "0",
+          "name": "Steven Olson"
+        },
+        {
+          "number": "0",
+          "name": "Tyler Anderson"
+        },
+        {
+          "number": "7",
+          "name": "Alexander Gerber"
+        },
+        {
+          "number": "8",
+          "name": "Joshua Nielsen"
+        },
+        {
+          "number": "12",
+          "name": "Matthew Ashton"
+        },
+        {
+          "number": "27",
+          "name": "Trevor Wai"
+        },
+        {
+          "number": "62",
+          "name": "Spencer Boyer"
+        }
+      ]
+    },
+    {
+      "name": "Montana",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Smokejump",
+        "location": "Missoula, Montana",
+        "website": "",
+        "facebook": "",
+        "twitter": "http://@UMSmokejump"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Jace Thomas"
+        },
+        {
+          "number": "0",
+          "name": "Oliver Jepson"
+        },
+        {
+          "number": "0",
+          "name": "Riley Comstock"
+        },
+        {
+          "number": "0",
+          "name": "Matthew Camp"
+        },
+        {
+          "number": "3",
+          "name": "Tyler Fritz"
+        },
+        {
+          "number": "13",
+          "name": "William Wheeler"
+        },
+        {
+          "number": "16",
+          "name": "Will Mottram"
+        },
+        {
+          "number": "17",
+          "name": "Bela Browning"
+        },
+        {
+          "number": "22",
+          "name": "Lino Reaver"
+        },
+        {
+          "number": "37",
+          "name": "George McGervey"
+        },
+        {
+          "number": "67",
+          "name": "Matthew Doran"
+        }
+      ]
+    },
+    {
+      "name": "Washington State",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Air Raid",
+        "location": "Pullman, Washington",
+        "website": "",
+        "facebook": "https://www.facebook.com/wsuultimateclub",
+        "twitter": "https://twitter.com/WSU_Ultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alexander Sowers"
+        },
+        {
+          "number": "0",
+          "name": "Andrew Sowers"
+        },
+        {
+          "number": "0",
+          "name": "Carter Huffman"
+        },
+        {
+          "number": "0",
+          "name": "Jacob  Lyster"
+        },
+        {
+          "number": "3",
+          "name": "Michael Hantelman"
+        },
+        {
+          "number": "6",
+          "name": "Oliver Voss"
+        },
+        {
+          "number": "7",
+          "name": "Oliver Heck"
+        },
+        {
+          "number": "14",
+          "name": "Lars Moreland"
+        },
+        {
+          "number": "17",
+          "name": "Micah Nelson"
+        },
+        {
+          "number": "19",
+          "name": "Daniel Chinn"
+        },
+        {
+          "number": "22",
+          "name": "Noah Ryan"
+        },
+        {
+          "number": "28",
+          "name": "Ben Wright"
+        },
+        {
+          "number": "42",
+          "name": "Etienne Redpath"
+        },
+        {
+          "number": "82",
+          "name": "Christina MacPherson"
+        },
+        {
+          "number": "88",
+          "name": "Colin Cerise"
+        }
+      ]
+    },
+    {
+      "name": "Pacific Lutheran",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Reign Men",
+        "location": "Parkland, Washington",
+        "website": "https://www.plu.edu/recreations/club-sports-teams/mens-ultimate-frisbee/",
+        "facebook": "",
+        "twitter": "https://twitter.com/ReignMenPLU"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Ashton Benes"
+        },
+        {
+          "number": "0",
+          "name": "Ben Bernhagen-Marston"
+        },
+        {
+          "number": "0",
+          "name": "Dylan Rodger"
+        },
+        {
+          "number": "0",
+          "name": "Lucas Briggs"
+        },
+        {
+          "number": "0",
+          "name": "Theodore  Stringer"
+        },
+        {
+          "number": "0",
+          "name": "Thomas Mitchell"
+        },
+        {
+          "number": "0",
+          "name": "William Foley"
+        },
+        {
+          "number": "14",
+          "name": "Kai Kindem"
+        },
+        {
+          "number": "17",
+          "name": "Riley Judd"
+        },
+        {
+          "number": "21",
+          "name": "Kellen Gonsalves"
+        },
+        {
+          "number": "99",
+          "name": "Nicholas Minch"
+        }
+      ]
+    },
+    {
+      "name": "Boise State",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Mamu Zaldi",
+        "location": "Boise, Idaho",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "04",
+          "name": "Justin Estes"
+        },
+        {
+          "number": "06",
+          "name": "Seth Cordova"
+        },
+        {
+          "number": "07",
+          "name": "Triton Roberts"
+        },
+        {
+          "number": "11",
+          "name": "Noah Henderson"
+        },
+        {
+          "number": "16",
+          "name": "Noa Stailey"
+        },
+        {
+          "number": "18",
+          "name": "Michael Collins"
+        },
+        {
+          "number": "21",
+          "name": "Charles Johnson"
+        },
+        {
+          "number": "22",
+          "name": "Mohammed Widad"
+        },
+        {
+          "number": "24",
+          "name": "Trevor Ricker"
+        },
+        {
+          "number": "34",
+          "name": "Payton Ratliff"
+        },
+        {
+          "number": "37",
+          "name": "Andrew Thompson"
+        },
+        {
+          "number": "67",
+          "name": "Fynn Erman"
+        },
+        {
+          "number": "69",
+          "name": "Logan Wendel"
+        }
+      ]
+    },
+    {
+      "name": "Idaho",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Graffiti",
+        "location": "Moscow, Idaho",
+        "website": "https://www.uidaho.edu/current-students/recwell/sport-clubs/mens-ultimate-frisbee",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Annika Jewett"
+        },
+        {
+          "number": "0",
+          "name": "Caden Sampsel"
+        },
+        {
+          "number": "0",
+          "name": "David Price"
+        },
+        {
+          "number": "0",
+          "name": "James Hagman"
+        },
+        {
+          "number": "0",
+          "name": "Matthew Neely"
+        },
+        {
+          "number": "0",
+          "name": "Mayzie Carleton"
+        },
+        {
+          "number": "0",
+          "name": "Sean Sullivan"
+        },
+        {
+          "number": "7",
+          "name": "Carla Kolze"
+        },
+        {
+          "number": "9",
+          "name": "Ryan Shin"
+        },
+        {
+          "number": "20",
+          "name": "Julia Peppin"
+        },
+        {
+          "number": "69",
+          "name": "Alex Crisp"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Round Robin",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Brigham Young (B)",
+              "team2": "Pacific Lutheran",
+              "score1": 15,
+              "score2": 2,
+              "datetime": "2026-03-07T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Montana",
+              "team2": "Washington State",
+              "score1": 12,
+              "score2": 11,
+              "datetime": "2026-03-07T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Boise State",
+              "team2": "Idaho",
+              "score1": 11,
+              "score2": 7,
+              "datetime": "2026-03-07T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Brigham Young (B)",
+              "team2": "Montana",
+              "score1": 15,
+              "score2": 6,
+              "datetime": "2026-03-07T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Pacific Lutheran",
+              "team2": "Boise State",
+              "score1": 12,
+              "score2": 9,
+              "datetime": "2026-03-07T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Washington State",
+              "team2": "Idaho",
+              "score1": 15,
+              "score2": 5,
+              "datetime": "2026-03-07T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Brigham Young (B)",
+              "team2": "Boise State",
+              "score1": 15,
+              "score2": 6,
+              "datetime": "2026-03-07T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Montana",
+              "team2": "Idaho",
+              "score1": 15,
+              "score2": 1,
+              "datetime": "2026-03-07T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Pacific Lutheran",
+              "team2": "Washington State",
+              "score1": 4,
+              "score2": 14,
+              "datetime": "2026-03-07T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Brigham Young (B)",
+              "team2": "Idaho",
+              "score1": 15,
+              "score2": 1,
+              "datetime": "2026-03-07T14:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Montana",
+              "team2": "Pacific Lutheran",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2026-03-07T14:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Boise State",
+              "team2": "Washington State",
+              "score1": 6,
+              "score2": 15,
+              "datetime": "2026-03-07T14:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Brigham Young (B)",
+              "team2": "Washington State",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-03-08T09:00:00Z",
+              "round": "",
+              "status": "Cancelled"
+            },
+            {
+              "team1": "Montana",
+              "team2": "Boise State",
+              "score1": 14,
+              "score2": 7,
+              "datetime": "2026-03-08T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Pacific Lutheran",
+              "team2": "Idaho",
+              "score1": 10,
+              "score2": 5,
+              "datetime": "2026-03-08T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Bracket Play",
+      "groups": [
+        {
+          "name": "Championship Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Montana",
+              "team2": "Washington State",
+              "score1": 11,
+              "score2": 13,
+              "datetime": "2026-03-08T12:30:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Montana",
+              "team2": "Boise State",
+              "score1": 1,
+              "score2": 0,
+              "datetime": "2026-03-08T10:45:00Z",
+              "round": "Semis",
+              "status": "Final"
+            },
+            {
+              "team1": "Washington State",
+              "team2": "Pacific Lutheran",
+              "score1": 1,
+              "score2": 0,
+              "datetime": "2026-03-08T10:45:00Z",
+              "round": "Semis",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Third Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Boise State",
+              "team2": "Pacific Lutheran",
+              "score1": 11,
+              "score2": 8,
+              "datetime": "2026-03-08T12:30:00Z",
+              "round": "Third Place",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

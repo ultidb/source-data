@@ -1,0 +1,940 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2018/DiscThrow-Inferno-2K18CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/DiscThrow-Inferno-2K18/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:15.373669Z",
+  "event": {
+    "name": "DiscThrow Inferno 2K18 2018",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2018,
+    "city": "Granville",
+    "state": "OH",
+    "country": "",
+    "startDate": "2018-03-03",
+    "endDate": "2018-03-04"
+  },
+  "teams": [
+    {
+      "name": "Franciscan",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Fatal",
+        "location": "Steubenville, Ohio",
+        "website": "",
+        "facebook": "https://www.facebook.com/franciscanfatalultimate/?fref=ts",
+        "twitter": "https://twitter.com/FranciscanFATAL"
+      },
+      "coaches": [
+        "Ian Gill"
+      ],
+      "roster": [
+        {
+          "number": "1",
+          "name": "Matt Mirabello"
+        },
+        {
+          "number": "3",
+          "name": "Paul Henley"
+        },
+        {
+          "number": "4",
+          "name": "Nathaniel Belk"
+        },
+        {
+          "number": "5",
+          "name": "Nicholas OBrien"
+        },
+        {
+          "number": "6",
+          "name": "Thomas Lannen"
+        },
+        {
+          "number": "7",
+          "name": "Nick Judge"
+        },
+        {
+          "number": "9",
+          "name": "Edmund Colliflower"
+        },
+        {
+          "number": "10",
+          "name": "John Clemente"
+        },
+        {
+          "number": "11",
+          "name": "James Downs"
+        },
+        {
+          "number": "12",
+          "name": "Ben Lyle"
+        },
+        {
+          "number": "13",
+          "name": "Adam Hawk"
+        },
+        {
+          "number": "15",
+          "name": "Jared Stommes"
+        },
+        {
+          "number": "17",
+          "name": "Austin Volk"
+        },
+        {
+          "number": "19",
+          "name": "Justin Probst"
+        },
+        {
+          "number": "21",
+          "name": "Justin Bennett"
+        },
+        {
+          "number": "50",
+          "name": "Luke Strott"
+        },
+        {
+          "number": "97",
+          "name": "Scott Forrester"
+        },
+        {
+          "number": "99",
+          "name": "Dominic Gabriele"
+        }
+      ]
+    },
+    {
+      "name": "Wooster",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "RamJam",
+        "location": "Wooster, Ohio",
+        "website": "https://www.wooster.edu/students/organizations/sports/ultimate/",
+        "facebook": "https://m.facebook.com/RamJamUltimate/",
+        "twitter": "https://twitter.com/RAMJAMultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Daniel Renbaum-Koss"
+        },
+        {
+          "number": "0",
+          "name": "Dominic Muccio"
+        },
+        {
+          "number": "0",
+          "name": "Ezekiel Zelman"
+        },
+        {
+          "number": "0",
+          "name": "Harrison Davenport"
+        },
+        {
+          "number": "0",
+          "name": "Haven Wagner"
+        },
+        {
+          "number": "0",
+          "name": "Jack Rider"
+        },
+        {
+          "number": "0",
+          "name": "Jason Lillie"
+        },
+        {
+          "number": "0",
+          "name": "Marc Dehoorne"
+        },
+        {
+          "number": "0",
+          "name": "Michael Alber"
+        },
+        {
+          "number": "0",
+          "name": "Nicholas Kaipo Hagopian-Zirkel"
+        },
+        {
+          "number": "0",
+          "name": "Qaiser Zaidi"
+        },
+        {
+          "number": "0",
+          "name": "Robert Mueller"
+        },
+        {
+          "number": "0",
+          "name": "Weston Gray"
+        },
+        {
+          "number": "3",
+          "name": "Gabriel Gerry"
+        },
+        {
+          "number": "4",
+          "name": "Charles Quigley"
+        },
+        {
+          "number": "5",
+          "name": "Gregory  Bell"
+        },
+        {
+          "number": "14",
+          "name": "Mason Minerva"
+        },
+        {
+          "number": "14",
+          "name": "Jonah Kadens"
+        },
+        {
+          "number": "15",
+          "name": "Jacob Schwartz"
+        },
+        {
+          "number": "19",
+          "name": "Clark Wang"
+        },
+        {
+          "number": "21",
+          "name": "Ian Warren"
+        },
+        {
+          "number": "27",
+          "name": "Taylor Myers"
+        },
+        {
+          "number": "32",
+          "name": "Nick Huang"
+        },
+        {
+          "number": "52",
+          "name": "Collin Hendershot"
+        },
+        {
+          "number": "53",
+          "name": "Jack Felch"
+        },
+        {
+          "number": "76",
+          "name": "Liam Dingle"
+        }
+      ]
+    },
+    {
+      "name": "Allegheny",
+      "seed": 8,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Hellbender",
+        "location": "Meadville, Pennsylvania",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Charles Johnson"
+        },
+        {
+          "number": "00",
+          "name": "Eli Smith"
+        },
+        {
+          "number": "00",
+          "name": "Ethan  Kennelly"
+        },
+        {
+          "number": "00",
+          "name": "George Balot"
+        },
+        {
+          "number": "00",
+          "name": "Joseph Merante"
+        },
+        {
+          "number": "00",
+          "name": "Mitchell Lachat"
+        },
+        {
+          "number": "00",
+          "name": "Noah Goodwin-Bain"
+        },
+        {
+          "number": "00",
+          "name": "Steven Heine"
+        },
+        {
+          "number": "00",
+          "name": "Zach Dickinson"
+        },
+        {
+          "number": "09",
+          "name": "Justin Fraser"
+        },
+        {
+          "number": "18",
+          "name": "Billy Henshaw"
+        }
+      ]
+    },
+    {
+      "name": "Kent State",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Kent State Damn Gravity",
+        "location": "Kent, Ohio",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/kentultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Justin Kenney"
+        },
+        {
+          "number": "00",
+          "name": "Kyle Nethken"
+        },
+        {
+          "number": "02",
+          "name": "Matthew McCombs"
+        },
+        {
+          "number": "13",
+          "name": "Jared Ernst"
+        },
+        {
+          "number": "14",
+          "name": "Emily Phillips"
+        },
+        {
+          "number": "16",
+          "name": "Samantha Ricker"
+        },
+        {
+          "number": "25",
+          "name": "Allie Rodriguez"
+        },
+        {
+          "number": "43",
+          "name": "Alex Miller"
+        },
+        {
+          "number": "79",
+          "name": "Sadie Norton"
+        },
+        {
+          "number": "83",
+          "name": "Aaron Liszt"
+        }
+      ]
+    },
+    {
+      "name": "Oberlin",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Flying Horsecows",
+        "location": "Oberlin, Ohio",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Dante Giramma"
+        },
+        {
+          "number": "0",
+          "name": "George Hawk"
+        },
+        {
+          "number": "0",
+          "name": "Ilan Ackelsberg"
+        },
+        {
+          "number": "0",
+          "name": "Julian Bregstone"
+        },
+        {
+          "number": "0",
+          "name": "Lucien Fitzpatrick"
+        },
+        {
+          "number": "0",
+          "name": "Matt Skarha"
+        },
+        {
+          "number": "0",
+          "name": "Joaquin Cardozo"
+        },
+        {
+          "number": "0",
+          "name": "Noam Fisherman"
+        },
+        {
+          "number": "0",
+          "name": "Samuel Waranch"
+        },
+        {
+          "number": "0",
+          "name": "Talon Johnson"
+        },
+        {
+          "number": "12",
+          "name": "Tobias Harvey"
+        },
+        {
+          "number": "17",
+          "name": "Noah Zobel"
+        },
+        {
+          "number": "42",
+          "name": "Oliver Vickers Batzdorf"
+        },
+        {
+          "number": "69",
+          "name": "Jacob Arons"
+        },
+        {
+          "number": "81",
+          "name": "Jonathan Karpatkin"
+        }
+      ]
+    },
+    {
+      "name": "Miami (Ohio)",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Miami Boogiemen",
+        "location": "Oxford, Ohio",
+        "website": "",
+        "facebook": "https://www.facebook.com/miamiultimate/",
+        "twitter": "https://twitter.com/Miami_Ultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Kevin Haid"
+        },
+        {
+          "number": "01",
+          "name": "Kane Gormley"
+        },
+        {
+          "number": "03",
+          "name": "Trace Mortimer"
+        },
+        {
+          "number": "07",
+          "name": "Grant Roberts"
+        },
+        {
+          "number": "10",
+          "name": "Collin Murdock"
+        },
+        {
+          "number": "11",
+          "name": "Leland Schwartz"
+        },
+        {
+          "number": "12",
+          "name": "Tyler Davis"
+        },
+        {
+          "number": "14",
+          "name": "Martin Wagner"
+        },
+        {
+          "number": "15",
+          "name": "Nathan Reigle"
+        },
+        {
+          "number": "16",
+          "name": "Ryan Ballard"
+        },
+        {
+          "number": "18",
+          "name": "Leandros Tosko"
+        },
+        {
+          "number": "21",
+          "name": "William Sliwinski"
+        },
+        {
+          "number": "24",
+          "name": "Dustin Hadley"
+        },
+        {
+          "number": "25",
+          "name": "Nick Sophocleous"
+        },
+        {
+          "number": "59",
+          "name": "Mike Kittel"
+        },
+        {
+          "number": "69",
+          "name": "Nick Wehrle"
+        },
+        {
+          "number": "76",
+          "name": "Matthew Bell"
+        },
+        {
+          "number": "80",
+          "name": "Noah Hosack"
+        },
+        {
+          "number": "84",
+          "name": "Jacob Dilley"
+        },
+        {
+          "number": "99",
+          "name": "Kaitlin Gray"
+        }
+      ]
+    },
+    {
+      "name": "Denison",
+      "seed": 7,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Denison Frisbee Ultimate Club",
+        "location": "Granville, Ohio",
+        "website": "",
+        "facebook": "https://www.facebook.com/DenisonUltimate/",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Cole Rosenbloom"
+        },
+        {
+          "number": "0",
+          "name": "Dan Shapiro"
+        },
+        {
+          "number": "0",
+          "name": "Ben Dutkin"
+        },
+        {
+          "number": "0",
+          "name": "Brendan Murphy"
+        },
+        {
+          "number": "0",
+          "name": "Allen Primack"
+        },
+        {
+          "number": "0",
+          "name": "John Emory"
+        },
+        {
+          "number": "0",
+          "name": "Quinn Heinrich"
+        },
+        {
+          "number": "0",
+          "name": "Spencer Samson"
+        },
+        {
+          "number": "0",
+          "name": "WIll Morse"
+        },
+        {
+          "number": "0",
+          "name": "Zachary Schmidt"
+        },
+        {
+          "number": "0",
+          "name": "Josh Poe"
+        },
+        {
+          "number": "0",
+          "name": "Mihai Fratian"
+        },
+        {
+          "number": "9",
+          "name": "Graham Blehart"
+        },
+        {
+          "number": "18",
+          "name": "Cody Kessel"
+        },
+        {
+          "number": "20",
+          "name": "Abigail Edminster"
+        },
+        {
+          "number": "51",
+          "name": "Owen Crum"
+        },
+        {
+          "number": "69",
+          "name": "Greg Watson"
+        },
+        {
+          "number": "73",
+          "name": "Jorge De La Torre"
+        }
+      ]
+    },
+    {
+      "name": "Kettering",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Bulldogs",
+        "location": "Flint, Michigan",
+        "website": "https://www.instagram.com/kubulldogultimate/",
+        "facebook": "https://www.facebook.com/KUBulldogUltimate/",
+        "twitter": "https://twitter.com/KUultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "2",
+          "name": "Ian Merner"
+        },
+        {
+          "number": "4",
+          "name": "Matthew Donar"
+        },
+        {
+          "number": "7",
+          "name": "Bradley Krzywosinski"
+        },
+        {
+          "number": "9",
+          "name": "Akhil Sondor"
+        },
+        {
+          "number": "13",
+          "name": "Joshua  Kalahar"
+        },
+        {
+          "number": "14",
+          "name": "Casey Puckett"
+        },
+        {
+          "number": "15",
+          "name": "Connor McVannel"
+        },
+        {
+          "number": "18",
+          "name": "Jason Dietrich"
+        },
+        {
+          "number": "31",
+          "name": "Jeffrey Mahieu"
+        },
+        {
+          "number": "38",
+          "name": "Perry Heppe"
+        },
+        {
+          "number": "51",
+          "name": "Pietro Pellerito"
+        },
+        {
+          "number": "52",
+          "name": "Colin Donar"
+        },
+        {
+          "number": "67",
+          "name": "Logan Wykes"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Franciscan",
+              "team2": "Kent State",
+              "score1": 15,
+              "score2": 2,
+              "datetime": "2018-03-03T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Wooster",
+              "team2": "Allegheny",
+              "score1": 10,
+              "score2": 8,
+              "datetime": "2018-03-03T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Franciscan",
+              "team2": "Allegheny",
+              "score1": 13,
+              "score2": 8,
+              "datetime": "2018-03-03T11:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Wooster",
+              "team2": "Kent State",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2018-03-03T11:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Franciscan",
+              "team2": "Wooster",
+              "score1": 13,
+              "score2": 3,
+              "datetime": "2018-03-03T13:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Kent State",
+              "team2": "Allegheny",
+              "score1": 5,
+              "score2": 13,
+              "datetime": "2018-03-03T13:20:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool B",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Oberlin",
+              "team2": "Kettering",
+              "score1": 15,
+              "score2": 1,
+              "datetime": "2018-03-03T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Miami (Ohio)",
+              "team2": "Kettering",
+              "score1": 15,
+              "score2": 3,
+              "datetime": "2018-03-03T11:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Oberlin",
+              "team2": "Miami (Ohio)",
+              "score1": 15,
+              "score2": 11,
+              "datetime": "2018-03-03T13:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Miami (Ohio)",
+              "team2": "Denison",
+              "score1": 12,
+              "score2": 11,
+              "datetime": "2018-03-03T17:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Oberlin",
+              "team2": "Denison",
+              "score1": 15,
+              "score2": 5,
+              "datetime": "2018-03-03T18:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Kettering",
+              "team2": "Denison",
+              "score1": 3,
+              "score2": 11,
+              "datetime": "2018-03-03T20:20:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Bracket Play",
+      "groups": [
+        {
+          "name": "Championship Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Miami (Ohio)",
+              "team2": "Wooster",
+              "score1": 13,
+              "score2": 11,
+              "datetime": "2018-03-04T13:20:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Franciscan",
+              "team2": "Miami (Ohio)",
+              "score1": 14,
+              "score2": 15,
+              "datetime": "2018-03-04T23:40:00Z",
+              "round": "Semi-finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Oberlin",
+              "team2": "Wooster",
+              "score1": 10,
+              "score2": 11,
+              "datetime": "2018-03-04T23:40:00Z",
+              "round": "Semi-finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Franciscan",
+              "team2": "Kettering",
+              "score1": 1,
+              "score2": 0,
+              "datetime": "2018-03-04T10:00:00Z",
+              "round": "Quater-finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Miami (Ohio)",
+              "team2": "Allegheny",
+              "score1": 13,
+              "score2": 8,
+              "datetime": "2018-03-04T10:00:00Z",
+              "round": "Quater-finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Oberlin",
+              "team2": "Kent State",
+              "score1": 10,
+              "score2": 9,
+              "datetime": "2018-03-04T10:00:00Z",
+              "round": "Quater-finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Wooster",
+              "team2": "Denison",
+              "score1": 13,
+              "score2": 8,
+              "datetime": "2018-03-04T17:00:00Z",
+              "round": "Quater-finals",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "3rd Place Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Franciscan",
+              "team2": "Oberlin",
+              "score1": 0,
+              "score2": 1,
+              "datetime": "2018-03-04T13:20:00Z",
+              "round": "3rd Place Game",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "5th Place Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Allegheny",
+              "team2": "Kent State",
+              "score1": 11,
+              "score2": 8,
+              "datetime": "2018-03-04T13:20:00Z",
+              "round": "5th Place Game",
+              "status": "Final"
+            },
+            {
+              "team1": "Kettering",
+              "team2": "Allegheny",
+              "score1": 2,
+              "score2": 13,
+              "datetime": "2018-03-04T11:40:00Z",
+              "round": "Consolation Semi-finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Kent State",
+              "team2": "Denison",
+              "score1": 10,
+              "score2": 8,
+              "datetime": "2018-03-04T18:40:00Z",
+              "round": "Consolation Semi-finals",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "7th Place Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Kettering",
+              "team2": "Denison",
+              "score1": 6,
+              "score2": 12,
+              "datetime": "2018-03-05T03:20:00Z",
+              "round": "7th Place Game",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

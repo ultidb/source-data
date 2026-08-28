@@ -1,0 +1,347 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2025/Big-Sky-Brawl-2025CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/Big-Sky-Brawl-2025/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:21.469357Z",
+  "event": {
+    "name": "Big Sky Brawl 2025",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2025,
+    "city": "Meridian",
+    "state": "ID",
+    "country": "",
+    "startDate": "2025-03-01",
+    "endDate": "2025-03-02"
+  },
+  "teams": [
+    {
+      "name": "Nevada-Reno",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Elevation Ultimate",
+        "location": "Reno, Nevada",
+        "website": "https://nevadaultimate.weebly.com/",
+        "facebook": "https://www.facebook.com/NevadaUltimate/",
+        "twitter": "https://twitter.com/nevadaultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Donovan Davis"
+        },
+        {
+          "number": "0",
+          "name": "Dylan Lopes"
+        },
+        {
+          "number": "0",
+          "name": "Michael Caliz"
+        },
+        {
+          "number": "0",
+          "name": "Nicholas Corr"
+        },
+        {
+          "number": "0",
+          "name": "Nicolas Olson"
+        },
+        {
+          "number": "0",
+          "name": "Rodney Wolfgang"
+        },
+        {
+          "number": "0",
+          "name": "Steven Suzuki"
+        },
+        {
+          "number": "0",
+          "name": "William Kupper"
+        },
+        {
+          "number": "7",
+          "name": "Jack Stinson"
+        },
+        {
+          "number": "21",
+          "name": "Logan Beffort"
+        },
+        {
+          "number": "69",
+          "name": "Jalen Chan"
+        },
+        {
+          "number": "88",
+          "name": "Douglas Moffitt"
+        }
+      ]
+    },
+    {
+      "name": "Montana",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Smokejump",
+        "location": "Missoula, Montana",
+        "website": "",
+        "facebook": "",
+        "twitter": "@UMSmokejump"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Jace Thomas"
+        },
+        {
+          "number": "0",
+          "name": "Oliver Jepson"
+        },
+        {
+          "number": "0",
+          "name": "Riley Comstock"
+        },
+        {
+          "number": "3",
+          "name": "Tyler Fritz"
+        },
+        {
+          "number": "7",
+          "name": "Isaiah Anderson"
+        },
+        {
+          "number": "9",
+          "name": "Anthony Dimmick"
+        },
+        {
+          "number": "10",
+          "name": "Simon Amnuel "
+        },
+        {
+          "number": "11",
+          "name": "Timmy Glanville"
+        },
+        {
+          "number": "12",
+          "name": "Camden Nachtsheim"
+        },
+        {
+          "number": "16",
+          "name": "Will Mottram"
+        },
+        {
+          "number": "17",
+          "name": "Bela Browning"
+        },
+        {
+          "number": "22",
+          "name": "Lino Reaver"
+        },
+        {
+          "number": "23",
+          "name": "Cooper Webb"
+        },
+        {
+          "number": "69",
+          "name": "Phillip Tillman"
+        }
+      ]
+    },
+    {
+      "name": "Boise State",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Mamu Zaldi",
+        "location": "Boise, Idaho",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "03",
+          "name": "Devin Kirven"
+        },
+        {
+          "number": "08",
+          "name": "William Foulk"
+        },
+        {
+          "number": "10",
+          "name": "Noah Henderson"
+        },
+        {
+          "number": "11",
+          "name": "Ryan Martinez"
+        },
+        {
+          "number": "16",
+          "name": "Noa stailey"
+        },
+        {
+          "number": "17",
+          "name": "Felix Cameron"
+        },
+        {
+          "number": "18",
+          "name": "Michael Collins"
+        },
+        {
+          "number": "24",
+          "name": "Trevor Ricker"
+        },
+        {
+          "number": "33",
+          "name": "Fynn Erman"
+        },
+        {
+          "number": "35",
+          "name": "Lucas F"
+        },
+        {
+          "number": "37",
+          "name": "Andrew Thompson"
+        },
+        {
+          "number": "52",
+          "name": "Jacob Seid"
+        },
+        {
+          "number": "69",
+          "name": "Logan Wendel"
+        },
+        {
+          "number": "76",
+          "name": "Kosmos Sutter"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play Round 1",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Boise State",
+              "team2": "Montana",
+              "score1": 4,
+              "score2": 13,
+              "datetime": "2025-03-01T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Nevada-Reno",
+              "team2": "Montana",
+              "score1": 12,
+              "score2": 11,
+              "datetime": "2025-03-01T10:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Boise State",
+              "team2": "Nevada-Reno",
+              "score1": 5,
+              "score2": 9,
+              "datetime": "2025-03-01T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "pools",
+      "name": "Pool Play Round 2",
+      "groups": [
+        {
+          "name": "Pool B",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Boise State",
+              "team2": "Montana",
+              "score1": 9,
+              "score2": 7,
+              "datetime": "2025-03-01T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Nevada-Reno",
+              "team2": "Montana",
+              "score1": 4,
+              "score2": 9,
+              "datetime": "2025-03-01T15:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Boise State",
+              "team2": "Nevada-Reno",
+              "score1": 4,
+              "score2": 10,
+              "datetime": "2025-03-02T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "pools",
+      "name": "Pool Play Round 3",
+      "groups": [
+        {
+          "name": "Pool C",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Boise State",
+              "team2": "Montana",
+              "score1": 4,
+              "score2": 9,
+              "datetime": "2025-03-02T10:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Nevada-Reno",
+              "team2": "Montana",
+              "score1": 10,
+              "score2": 6,
+              "datetime": "2025-03-02T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Boise State",
+              "team2": "Nevada-Reno",
+              "score1": 6,
+              "score2": 12,
+              "datetime": "2025-03-02T13:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

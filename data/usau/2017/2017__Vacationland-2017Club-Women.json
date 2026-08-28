@@ -1,0 +1,169 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2017/Vacationland-2017Club-Women",
+  "sourceUrl": "https://play.usaultimate.org/events/Vacationland-2017/schedule/Women/Club-Women/",
+  "scrapedAt": "2026-08-28T10:06:14.952006Z",
+  "event": {
+    "name": "Vacationland 2017",
+    "division": "Club - Women ",
+    "gender": "",
+    "season": 2017,
+    "city": "South Portland",
+    "state": "ME",
+    "country": "",
+    "startDate": "2017-07-22",
+    "endDate": "2017-07-23"
+  },
+  "teams": [
+    {
+      "name": "Jinx",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Portland, Maine",
+        "website": "",
+        "facebook": "https://www.facebook.com/jinxultimatedisc/",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Vice",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Cambridge, Massachusetts",
+        "website": "http://viceultimate.wordpress.com/",
+        "facebook": "https://www.facebook.com/pages/Vice-Ultimate/206854616036601",
+        "twitter": "https://twitter.com/ViceUltimate"
+      },
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Rip Tide",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Portland, Maine",
+        "website": "http://www.maineultimate.org",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "HOPE",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Providence, Rhode Island",
+        "website": "https://www.HOPEultimateRI.weebly.com",
+        "facebook": "https://www.facebook.com/HOPEultimateri",
+        "twitter": "https://twitter.com/hopeultimateri"
+      },
+      "coaches": [],
+      "roster": []
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool E",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Vice",
+              "team2": "HOPE",
+              "score1": 13,
+              "score2": 1,
+              "datetime": "2017-07-22T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Rip Tide",
+              "team2": "Jinx",
+              "score1": 5,
+              "score2": 9,
+              "datetime": "2017-07-22T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Vice",
+              "team2": "Jinx",
+              "score1": 8,
+              "score2": 9,
+              "datetime": "2017-07-22T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Rip Tide",
+              "team2": "HOPE",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2017-07-22T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Vice",
+              "team2": "Rip Tide",
+              "score1": 13,
+              "score2": 4,
+              "datetime": "2017-07-22T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "HOPE",
+              "team2": "Jinx",
+              "score1": 1,
+              "score2": 15,
+              "datetime": "2017-07-22T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "1st Place",
+      "groups": [
+        {
+          "name": "1st Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Jinx",
+              "team2": "Vice",
+              "score1": 7,
+              "score2": 15,
+              "datetime": "2017-07-23T15:00:00Z",
+              "round": "1st Place Final",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

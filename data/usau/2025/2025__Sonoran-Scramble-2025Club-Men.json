@@ -1,0 +1,235 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2025/Sonoran-Scramble-2025Club-Men",
+  "sourceUrl": "https://play.usaultimate.org/events/Sonoran-Scramble-2025/schedule/Men/Club-Men/",
+  "scrapedAt": "2026-08-28T10:06:21.857668Z",
+  "event": {
+    "name": "Sonoran Scramble 2025",
+    "division": "Club - Men ",
+    "gender": "",
+    "season": 2025,
+    "city": "Tucson",
+    "state": "AZ",
+    "country": "",
+    "startDate": "2025-08-23",
+    "endDate": "2025-08-23"
+  },
+  "teams": [
+    {
+      "name": "Sonoran Dog",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Tucson, Arizona",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Chris Salazar"
+        },
+        {
+          "number": "0",
+          "name": "Christopher Pastore"
+        },
+        {
+          "number": "0",
+          "name": "Dylan South"
+        },
+        {
+          "number": "0",
+          "name": "Alan Flores"
+        },
+        {
+          "number": "0",
+          "name": "Ethan Olla"
+        },
+        {
+          "number": "0",
+          "name": "John Priest"
+        },
+        {
+          "number": "0",
+          "name": "Mario Weiler"
+        },
+        {
+          "number": "0",
+          "name": "Mitchell Rutherford"
+        },
+        {
+          "number": "0",
+          "name": "Samuel Skovran"
+        },
+        {
+          "number": "0",
+          "name": "Sean Smith"
+        },
+        {
+          "number": "0",
+          "name": "Tyler Kolzow"
+        },
+        {
+          "number": "7",
+          "name": "Kevin Farnam"
+        },
+        {
+          "number": "9",
+          "name": "Mason Shaffer"
+        },
+        {
+          "number": "11",
+          "name": "Sam Freitas"
+        },
+        {
+          "number": "12",
+          "name": "Tycho Yacub"
+        },
+        {
+          "number": "17",
+          "name": "Eric Eia"
+        },
+        {
+          "number": "19",
+          "name": "Michael Montiel"
+        },
+        {
+          "number": "26",
+          "name": "John Cohen"
+        },
+        {
+          "number": "41",
+          "name": "Zachary Yang"
+        },
+        {
+          "number": "47",
+          "name": "Dylan Tooley"
+        },
+        {
+          "number": "71",
+          "name": "Burhanuddin Bhinderwala"
+        },
+        {
+          "number": "92",
+          "name": "Ted Glenn"
+        }
+      ]
+    },
+    {
+      "name": "Monsoon",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Phoenix, Arizona",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "01",
+          "name": "Nathan Burres"
+        },
+        {
+          "number": "07",
+          "name": "Jacob Mumme"
+        },
+        {
+          "number": "12",
+          "name": "Carter Szukala"
+        },
+        {
+          "number": "17",
+          "name": "Adam Gaboury"
+        },
+        {
+          "number": "21",
+          "name": "Prakash Wiese"
+        },
+        {
+          "number": "25",
+          "name": "Joe Blidy"
+        },
+        {
+          "number": "27",
+          "name": "John Wright"
+        },
+        {
+          "number": "28",
+          "name": "Blake Civello"
+        },
+        {
+          "number": "30",
+          "name": "Brad Kutler"
+        },
+        {
+          "number": "34",
+          "name": "Ryan Burger"
+        },
+        {
+          "number": "35",
+          "name": "Trevor Walrath"
+        },
+        {
+          "number": "55",
+          "name": "Kevin Chang"
+        },
+        {
+          "number": "56",
+          "name": "Joaquin Buenviaje"
+        },
+        {
+          "number": "65",
+          "name": "Jeffrey Budd"
+        },
+        {
+          "number": "71",
+          "name": "Hasmieu Jalloh"
+        },
+        {
+          "number": "81",
+          "name": "Jackson Kayser"
+        },
+        {
+          "number": "97",
+          "name": "Robert Hellinga"
+        },
+        {
+          "number": "99",
+          "name": "Drew Radfelder"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "brackets",
+      "name": "The Scrambler",
+      "groups": [
+        {
+          "name": "One and Done",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Sonoran Dog",
+              "team2": "Monsoon",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2025-08-23T18:00:00Z",
+              "round": "Final",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

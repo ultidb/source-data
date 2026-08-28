@@ -1,0 +1,219 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2017/Texas-D-III-College-Mens-CC-2017CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/Texas-D-III-College-Mens-CC-2017/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:14.916221Z",
+  "event": {
+    "name": "Texas D-III College Men's CC 2017",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2017,
+    "city": "Houston",
+    "state": "TX",
+    "country": "",
+    "startDate": "2017-04-15",
+    "endDate": "2017-04-16"
+  },
+  "teams": [
+    {
+      "name": "Rice",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Cloud 9",
+        "location": "Houston, Texas",
+        "website": "cloud9.rice.edu",
+        "facebook": "",
+        "twitter": "@riceultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Andrew Clifton"
+        },
+        {
+          "number": "0",
+          "name": "Avery Zaleski"
+        },
+        {
+          "number": "0",
+          "name": "Collin Allen"
+        },
+        {
+          "number": "0",
+          "name": "Connor Stuart-Paul"
+        },
+        {
+          "number": "0",
+          "name": "ELI BADGIO"
+        },
+        {
+          "number": "0",
+          "name": "Gabriel Tugendstein"
+        },
+        {
+          "number": "0",
+          "name": "Gabriel Vacaliuc"
+        },
+        {
+          "number": "0",
+          "name": "Jack Kaplan"
+        },
+        {
+          "number": "0",
+          "name": "Joshua Vonderheide"
+        },
+        {
+          "number": "0",
+          "name": "Kevin Xi"
+        },
+        {
+          "number": "0",
+          "name": "Luke Howe-Kerr"
+        },
+        {
+          "number": "0",
+          "name": "Nicholas Leisle"
+        },
+        {
+          "number": "0",
+          "name": "Patrick Kelly"
+        },
+        {
+          "number": "0",
+          "name": "Qufei An"
+        },
+        {
+          "number": "0",
+          "name": "Raymond Yuan"
+        },
+        {
+          "number": "0",
+          "name": "Samuel Shadwell"
+        },
+        {
+          "number": "3",
+          "name": "Brian Walker"
+        },
+        {
+          "number": "3",
+          "name": "Abhijit  Brahme "
+        },
+        {
+          "number": "4",
+          "name": "Adrish Anand"
+        },
+        {
+          "number": "4",
+          "name": "Austin Benavides"
+        },
+        {
+          "number": "6",
+          "name": "Alexander Heath"
+        },
+        {
+          "number": "13",
+          "name": "Alexander Jiang"
+        },
+        {
+          "number": "19",
+          "name": "Andrew Marshall"
+        },
+        {
+          "number": "21",
+          "name": "Sam Burke"
+        },
+        {
+          "number": "23",
+          "name": "Michael Young"
+        }
+      ]
+    },
+    {
+      "name": "Sul Ross State",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Sul Ross Ultimate",
+        "location": "Alpine, Texas",
+        "website": "http://sulrossultimate.wixsite.com/brandem",
+        "facebook": "https://www.facebook.com/groups/198172446909871/",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "03",
+          "name": "Chancelor Ginithan"
+        },
+        {
+          "number": "09",
+          "name": "Samuel Green"
+        },
+        {
+          "number": "19",
+          "name": "rafael duran"
+        },
+        {
+          "number": "21",
+          "name": "Jayson Baldwin"
+        },
+        {
+          "number": "27",
+          "name": "Jeremy  Mantia"
+        },
+        {
+          "number": "29",
+          "name": "Timothy Allen Jr"
+        },
+        {
+          "number": "31",
+          "name": "Tyler Porter"
+        },
+        {
+          "number": "33",
+          "name": "Corey Mika"
+        },
+        {
+          "number": "35",
+          "name": "Kadean Solis"
+        },
+        {
+          "number": "39",
+          "name": "Tyler  Scherer"
+        },
+        {
+          "number": "41",
+          "name": "Coby McGonagill"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "brackets",
+      "name": "Championship",
+      "groups": [
+        {
+          "name": "Championship",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Rice",
+              "team2": "Sul Ross State",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2017-04-15T10:00:00Z",
+              "round": "Championship",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

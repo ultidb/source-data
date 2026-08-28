@@ -1,0 +1,44 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "Presidents-Day-Invite-2025/Club-Mixed",
+  "sourceUrl": "https://play.usaultimate.org/events/Presidents-Day-Invite-2025/schedule/Mixed/Club-Mixed/",
+  "scrapedAt": "2025-02-17T20:00:00Z",
+  "event": {
+    "name": "Presidents Day Invite 2025",
+    "division": "Club - Mixed",
+    "season": 2025,
+    "city": "San Diego",
+    "state": "CA",
+    "country": "",
+    "startDate": "2025-02-15",
+    "endDate": "2025-02-17"
+  },
+  "teams": [
+    { "name": "Kryptonite", "seed": 1, "sourceTeamId": "", "url": "", "info": null, "coaches": [], "roster": [] },
+    { "name": "Prow", "seed": 2, "sourceTeamId": "", "url": "", "info": null, "coaches": [], "roster": [] }
+  ],
+  "stages": [
+    {
+      "type": "clusters",
+      "name": "Saturday Pods",
+      "groups": [
+        {
+          "name": "Cluster 1",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Kryptonite",
+              "team2": "Prow",
+              "score1": 13,
+              "score2": 10,
+              "datetime": "2025-02-15T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

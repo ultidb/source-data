@@ -1,0 +1,992 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2024/DIII-Grand-PrixCollegeWomen",
+  "sourceUrl": "https://play.usaultimate.org/events/DIII-Grand-Prix/schedule/Women/CollegeWomen/",
+  "scrapedAt": "2026-08-28T10:06:20.738345Z",
+  "event": {
+    "name": "DIII Grand Prix 2024",
+    "division": "College - Women ",
+    "gender": "",
+    "season": 2024,
+    "city": "Portland",
+    "state": "OR",
+    "country": "",
+    "startDate": "2024-02-10",
+    "endDate": "2024-02-11"
+  },
+  "teams": [
+    {
+      "name": "Whitman",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Whitman Sweets",
+        "location": "Walla Walla, Washington",
+        "website": "whitmancollegesweets.squarespace.com",
+        "facebook": "https://www.facebook.com/pages/Whitman-College-Lady-Sweets/713665542065651",
+        "twitter": "https://twitter.com/WWladysweets"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Olivia Napadensky"
+        },
+        {
+          "number": "00",
+          "name": "Stella Vranes"
+        },
+        {
+          "number": "01",
+          "name": "Juliette Silvers"
+        },
+        {
+          "number": "02",
+          "name": "Gemma Munck"
+        },
+        {
+          "number": "03",
+          "name": "Dora Trinkle"
+        },
+        {
+          "number": "04",
+          "name": "Ollie Fox"
+        },
+        {
+          "number": "06",
+          "name": "Wyatt Albright"
+        },
+        {
+          "number": "09",
+          "name": "Isabel Arcaris"
+        },
+        {
+          "number": "18",
+          "name": "Tatum Huegel"
+        },
+        {
+          "number": "19",
+          "name": "Rebecca Bartig"
+        },
+        {
+          "number": "22",
+          "name": "Josephine Bygrave"
+        },
+        {
+          "number": "23",
+          "name": "Joanna (Joey) Biehl"
+        },
+        {
+          "number": "27",
+          "name": "Gabbie Campbell"
+        },
+        {
+          "number": "99",
+          "name": "Allee Garver"
+        },
+        {
+          "number": "99",
+          "name": "Eddie Buchko"
+        },
+        {
+          "number": "99",
+          "name": "Hahna Beaudoin"
+        },
+        {
+          "number": "99",
+          "name": "Ingrid Noren"
+        },
+        {
+          "number": "99",
+          "name": "Liza Lebo"
+        }
+      ]
+    },
+    {
+      "name": "Portland",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "UPRoar",
+        "location": "Portland, Oregon",
+        "website": "https://www.instagram.com/uproarfrisbee/",
+        "facebook": "https://www.facebook.com/upwomensultimate",
+        "twitter": "https://twitter.com/uproar_ultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "2",
+          "name": "Katie Anderson"
+        },
+        {
+          "number": "3",
+          "name": "Hana  Elawady "
+        },
+        {
+          "number": "5",
+          "name": "Emma Giamello"
+        },
+        {
+          "number": "6",
+          "name": "Summers Filion"
+        },
+        {
+          "number": "7",
+          "name": "Maryanne Maxwell"
+        },
+        {
+          "number": "9",
+          "name": "Romy Holland"
+        },
+        {
+          "number": "10",
+          "name": "Isabel Contreras"
+        },
+        {
+          "number": "11",
+          "name": "Audrey Dewey"
+        },
+        {
+          "number": "12",
+          "name": "Hayden Ashley"
+        },
+        {
+          "number": "13",
+          "name": "Anna Singley"
+        },
+        {
+          "number": "14",
+          "name": "Julianna Galian"
+        },
+        {
+          "number": "15",
+          "name": "Sydney Anderson"
+        },
+        {
+          "number": "16",
+          "name": "Frances Magnuson"
+        },
+        {
+          "number": "23",
+          "name": "Lucia Neyra"
+        },
+        {
+          "number": "24",
+          "name": "Gaby Dominguez"
+        },
+        {
+          "number": "25",
+          "name": "Gabrielle Weaver"
+        },
+        {
+          "number": "31",
+          "name": "Camryn Hines"
+        },
+        {
+          "number": "33",
+          "name": "Feliz Matthews"
+        },
+        {
+          "number": "34",
+          "name": "Lili Gudgel"
+        },
+        {
+          "number": "37",
+          "name": "Audrey Stineman"
+        },
+        {
+          "number": "40",
+          "name": "Annalise Korch"
+        },
+        {
+          "number": "41",
+          "name": "Bailee Spencer"
+        },
+        {
+          "number": "42",
+          "name": "Mallori Boddy"
+        },
+        {
+          "number": "44",
+          "name": "Jaclyn Murray"
+        },
+        {
+          "number": "52",
+          "name": "Charlie LaPorte"
+        }
+      ]
+    },
+    {
+      "name": "Colorado College",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Zenith",
+        "location": "Colorado Springs, Colorado",
+        "website": "",
+        "facebook": "https://www.facebook.com/ZenithUltimate/",
+        "twitter": "https://twitter.com/ZENITHultimate"
+      },
+      "coaches": [
+        "Rachael Maxwell",
+        "Monica Weindling"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alice O'Neal-Freeman"
+        },
+        {
+          "number": "0",
+          "name": "Anna  Matsui"
+        },
+        {
+          "number": "0",
+          "name": "Cassidy Recker"
+        },
+        {
+          "number": "0",
+          "name": "Elizabeth Blanning"
+        },
+        {
+          "number": "0",
+          "name": "Evie Angevine"
+        },
+        {
+          "number": "0",
+          "name": "Luca Pieretti"
+        },
+        {
+          "number": "0",
+          "name": "Mia Smith"
+        },
+        {
+          "number": "0",
+          "name": "Natalia Maahs"
+        },
+        {
+          "number": "0",
+          "name": "Nora Ito"
+        },
+        {
+          "number": "0",
+          "name": "Sabine Blumenthal"
+        },
+        {
+          "number": "0",
+          "name": "Sarah  Malone"
+        },
+        {
+          "number": "0",
+          "name": "Sophie Roback"
+        },
+        {
+          "number": "0",
+          "name": "Sophie  Addison"
+        },
+        {
+          "number": "0",
+          "name": "Katherine Bicks"
+        },
+        {
+          "number": "0",
+          "name": "Katie Craven"
+        },
+        {
+          "number": "0",
+          "name": "Zoe Posner"
+        },
+        {
+          "number": "7",
+          "name": "Casey Shaw-Merrigan"
+        },
+        {
+          "number": "15",
+          "name": "Isabel  Cody "
+        },
+        {
+          "number": "19",
+          "name": "Zoe Williamson"
+        },
+        {
+          "number": "23",
+          "name": "Claire Lindsey"
+        },
+        {
+          "number": "28",
+          "name": "Kelsey Viadro"
+        },
+        {
+          "number": "31",
+          "name": "Persis Baroody"
+        },
+        {
+          "number": "37",
+          "name": "Elsa Hoff"
+        },
+        {
+          "number": "88",
+          "name": "Galileo Fries"
+        }
+      ]
+    },
+    {
+      "name": "Carleton College-Eclipse",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Eclipse",
+        "location": "Northfield, Minnesota",
+        "website": "http://carletoneclipse.weebly.com/",
+        "facebook": "",
+        "twitter": "https://twitter.com/eclipsethedisc"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "2",
+          "name": "Natalie Lang-Ree"
+        },
+        {
+          "number": "3",
+          "name": "Laura Boyd"
+        },
+        {
+          "number": "5",
+          "name": "Rowan Dong"
+        },
+        {
+          "number": "6",
+          "name": "Caroline Cooper"
+        },
+        {
+          "number": "8",
+          "name": "Pilar Andruet"
+        },
+        {
+          "number": "9",
+          "name": "Elizabeth Swanson"
+        },
+        {
+          "number": "12",
+          "name": "Zoe Marquis"
+        },
+        {
+          "number": "13",
+          "name": "Hazel DeHarpporte"
+        },
+        {
+          "number": "15",
+          "name": "Molly Horstman Olson"
+        },
+        {
+          "number": "17",
+          "name": "Emily Lanegraff"
+        },
+        {
+          "number": "19",
+          "name": "Eve Mullen"
+        },
+        {
+          "number": "20",
+          "name": "Grace Prince"
+        },
+        {
+          "number": "22",
+          "name": "Alyssa Alvarez"
+        },
+        {
+          "number": "23",
+          "name": "Kyla Christie"
+        },
+        {
+          "number": "33",
+          "name": "Frankie Saraniti"
+        },
+        {
+          "number": "35",
+          "name": "Rachel Poppleton"
+        },
+        {
+          "number": "44",
+          "name": "Rebecca Hazen"
+        },
+        {
+          "number": "54",
+          "name": "Charlotte Gingo"
+        }
+      ]
+    },
+    {
+      "name": "Puget Sound",
+      "seed": 7,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Clearcut",
+        "location": "Tacoma, Washington",
+        "website": "https://www.upsultimate.com/",
+        "facebook": "https://www.facebook.com/upsclearcut/",
+        "twitter": "https://twitter.com/wutwutclearcut"
+      },
+      "coaches": [
+        "Taylor Kanemori",
+        "Lauren Louderback"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Eleanor Winterfeldt"
+        },
+        {
+          "number": "0",
+          "name": "Sam  Gerrish"
+        },
+        {
+          "number": "1",
+          "name": "Ellie Moore"
+        },
+        {
+          "number": "3",
+          "name": "Meredith Theis"
+        },
+        {
+          "number": "4",
+          "name": "Hayes Freeman"
+        },
+        {
+          "number": "5",
+          "name": "Erin Hurley"
+        },
+        {
+          "number": "7",
+          "name": "Estee Groff"
+        },
+        {
+          "number": "10",
+          "name": "Ophir Klein"
+        },
+        {
+          "number": "11",
+          "name": "Naomi Wurtzel"
+        },
+        {
+          "number": "12",
+          "name": "Sydney Gritters"
+        },
+        {
+          "number": "14",
+          "name": "Julia Garrison"
+        },
+        {
+          "number": "15",
+          "name": "Naomi Norton"
+        },
+        {
+          "number": "16",
+          "name": "Kendall Odell"
+        },
+        {
+          "number": "21",
+          "name": "Reese Vetsch"
+        },
+        {
+          "number": "25",
+          "name": "Luna  Wagner"
+        },
+        {
+          "number": "26",
+          "name": "Savannah Cobb"
+        },
+        {
+          "number": "30",
+          "name": "Ezra Thill"
+        },
+        {
+          "number": "33",
+          "name": "Molly Haag"
+        },
+        {
+          "number": "34",
+          "name": "Hannah Bechtel"
+        },
+        {
+          "number": "37",
+          "name": "Christina Culp"
+        },
+        {
+          "number": "72",
+          "name": "Kianna Davis"
+        }
+      ]
+    },
+    {
+      "name": "Lewis & Clark",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Artemis",
+        "location": "Portland, Oregon",
+        "website": "https://www.instagram.com/artemisultimate/",
+        "facebook": "https://www.facebook.com/artemisUlti/",
+        "twitter": "https://twitter.com/artemisultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Anna Ryan"
+        },
+        {
+          "number": "02",
+          "name": "Allison  Ryan "
+        },
+        {
+          "number": "05",
+          "name": "Georgia Corson"
+        },
+        {
+          "number": "07",
+          "name": "Julia Scott"
+        },
+        {
+          "number": "11",
+          "name": "Mette Peluce"
+        },
+        {
+          "number": "17",
+          "name": "Mira Larrance"
+        },
+        {
+          "number": "18",
+          "name": "Calista Aragon"
+        },
+        {
+          "number": "19",
+          "name": "Leah Marquez"
+        },
+        {
+          "number": "20",
+          "name": "Suzie Myles"
+        },
+        {
+          "number": "22",
+          "name": "Scarlett Deveno"
+        },
+        {
+          "number": "27",
+          "name": "Tova Benson"
+        },
+        {
+          "number": "29",
+          "name": "Amelie Steer"
+        },
+        {
+          "number": "30",
+          "name": "Rosa Rudolph"
+        },
+        {
+          "number": "31",
+          "name": "Madeline Fealy"
+        },
+        {
+          "number": "33",
+          "name": "Greta Wilbur"
+        },
+        {
+          "number": "36",
+          "name": "Erin Ries-Juncker"
+        },
+        {
+          "number": "42",
+          "name": "Lily Cahill"
+        },
+        {
+          "number": "51",
+          "name": "Ellie Crema"
+        },
+        {
+          "number": "63",
+          "name": "Kaia O’Neill"
+        },
+        {
+          "number": "77",
+          "name": "Mikah Keetch"
+        },
+        {
+          "number": "85",
+          "name": "Rachel Abrahams"
+        },
+        {
+          "number": "86",
+          "name": "Josie Fenske"
+        },
+        {
+          "number": "88",
+          "name": "Alexandra Flory"
+        },
+        {
+          "number": "97",
+          "name": "Presten Berg"
+        }
+      ]
+    },
+    {
+      "name": "Oregon State",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Dinos",
+        "location": "Corvallis, Oregon",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Anika Lechner Armitage"
+        },
+        {
+          "number": "0",
+          "name": "Auria Lee"
+        },
+        {
+          "number": "0",
+          "name": "Celia Guillemin"
+        },
+        {
+          "number": "0",
+          "name": "Ella Cave"
+        },
+        {
+          "number": "0",
+          "name": "Lena Freebury"
+        },
+        {
+          "number": "0",
+          "name": "Lilia Todorova"
+        },
+        {
+          "number": "0",
+          "name": "Rachel Woods"
+        },
+        {
+          "number": "0",
+          "name": "Sydney Olson"
+        },
+        {
+          "number": "0",
+          "name": "Sydney Templin"
+        },
+        {
+          "number": "2",
+          "name": "Sylvi Barnes"
+        },
+        {
+          "number": "5",
+          "name": "Charlotte Robison"
+        },
+        {
+          "number": "12",
+          "name": "Hannah  Christison"
+        },
+        {
+          "number": "13",
+          "name": "Willow Tix"
+        },
+        {
+          "number": "14",
+          "name": "Ava Peterson"
+        },
+        {
+          "number": "16",
+          "name": "Amelia Davis"
+        },
+        {
+          "number": "18",
+          "name": "Anna Kochaver"
+        },
+        {
+          "number": "22",
+          "name": "Mahina Hardin"
+        },
+        {
+          "number": "32",
+          "name": "Molly Jenkins"
+        },
+        {
+          "number": "47",
+          "name": "Hannah Homberg"
+        },
+        {
+          "number": "69",
+          "name": "Paige Edgar"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Round Robin",
+      "groups": [
+        {
+          "name": "Round Robin",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Whitman",
+              "team2": "Colorado College",
+              "score1": 13,
+              "score2": 6,
+              "datetime": "2024-02-10T08:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Portland",
+              "team2": "Oregon State",
+              "score1": 11,
+              "score2": 5,
+              "datetime": "2024-02-10T08:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Lewis & Clark",
+              "team2": "Puget Sound",
+              "score1": 7,
+              "score2": 8,
+              "datetime": "2024-02-10T08:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Whitman",
+              "team2": "Puget Sound",
+              "score1": 9,
+              "score2": 5,
+              "datetime": "2024-02-10T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Carleton College-Eclipse",
+              "team2": "Portland",
+              "score1": 5,
+              "score2": 8,
+              "datetime": "2024-02-10T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Lewis & Clark",
+              "team2": "Oregon State",
+              "score1": 8,
+              "score2": 6,
+              "datetime": "2024-02-10T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Whitman",
+              "team2": "Lewis & Clark",
+              "score1": 11,
+              "score2": 3,
+              "datetime": "2024-02-10T11:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Carleton College-Eclipse",
+              "team2": "Colorado College",
+              "score1": 8,
+              "score2": 10,
+              "datetime": "2024-02-10T11:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Carleton College-Eclipse",
+              "team2": "Puget Sound",
+              "score1": 12,
+              "score2": 4,
+              "datetime": "2024-02-10T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Portland",
+              "team2": "Colorado College",
+              "score1": 9,
+              "score2": 6,
+              "datetime": "2024-02-10T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Whitman",
+              "team2": "Oregon State",
+              "score1": 11,
+              "score2": 5,
+              "datetime": "2024-02-10T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Oregon State",
+              "team2": "Colorado College",
+              "score1": 2,
+              "score2": 13,
+              "datetime": "2024-02-10T14:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Carleton College-Eclipse",
+              "team2": "Lewis & Clark",
+              "score1": 11,
+              "score2": 7,
+              "datetime": "2024-02-10T14:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Portland",
+              "team2": "Puget Sound",
+              "score1": 8,
+              "score2": 4,
+              "datetime": "2024-02-10T14:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Oregon State",
+              "team2": "Puget Sound",
+              "score1": 5,
+              "score2": 7,
+              "datetime": "2024-02-11T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Colorado College",
+              "team2": "Puget Sound",
+              "score1": 10,
+              "score2": 2,
+              "datetime": "2024-02-11T09:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Carleton College-Eclipse",
+              "team2": "Whitman",
+              "score1": 10,
+              "score2": 7,
+              "datetime": "2024-02-11T09:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Portland",
+              "team2": "Lewis & Clark",
+              "score1": 9,
+              "score2": 4,
+              "datetime": "2024-02-11T09:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Carleton College-Eclipse",
+              "team2": "Oregon State",
+              "score1": 10,
+              "score2": 2,
+              "datetime": "2024-02-11T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Lewis & Clark",
+              "team2": "Colorado College",
+              "score1": 6,
+              "score2": 8,
+              "datetime": "2024-02-11T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Portland",
+              "team2": "Whitman",
+              "score1": 6,
+              "score2": 8,
+              "datetime": "2024-02-11T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Rematch Finals",
+      "groups": [
+        {
+          "name": "1st Place Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Whitman",
+              "team2": "Portland",
+              "score1": 7,
+              "score2": 3,
+              "datetime": "2024-02-11T12:30:00Z",
+              "round": "1st Place Game",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "3rd Place Game",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Colorado College",
+              "team2": "Carleton College-Eclipse",
+              "score1": 5,
+              "score2": 6,
+              "datetime": "2024-02-11T12:30:00Z",
+              "round": "3rd Place Game",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "5th Place Game",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Puget Sound",
+              "team2": "Lewis & Clark",
+              "score1": 3,
+              "score2": 9,
+              "datetime": "2024-02-11T12:30:00Z",
+              "round": "5th Place Game",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

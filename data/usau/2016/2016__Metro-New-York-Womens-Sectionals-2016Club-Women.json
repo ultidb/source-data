@@ -1,0 +1,249 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2016/Metro-New-York-Womens-Sectionals-2016Club-Women",
+  "sourceUrl": "https://play.usaultimate.org/events/Metro-New-York-Womens-Sectionals-2016/schedule/Women/Club-Women/",
+  "scrapedAt": "2026-08-28T10:06:13.478882Z",
+  "event": {
+    "name": "Metro New York Women's Sectionals 2016",
+    "division": "Club - Women ",
+    "gender": "",
+    "season": 2016,
+    "city": "Middletown",
+    "state": "NY",
+    "country": "",
+    "startDate": "2016-08-27",
+    "endDate": "2016-08-28"
+  },
+  "teams": [
+    {
+      "name": "Brooklyn Book Club",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Brooklyn, New York",
+        "website": "http://bkbookclubultimate.weebly.com/",
+        "facebook": "https://facebook.com/BrooklynBookClub",
+        "twitter": "https://mobile.twitter.com/bkbookclub"
+      },
+      "coaches": [
+        "Braden Paynter"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Leah Garber"
+        },
+        {
+          "number": "0",
+          "name": "Jessica Rosenqvist"
+        },
+        {
+          "number": "0",
+          "name": "Kylie Sale"
+        },
+        {
+          "number": "0",
+          "name": "Sarah McNabb"
+        },
+        {
+          "number": "0",
+          "name": "Eliza Herrero"
+        },
+        {
+          "number": "0",
+          "name": "Candace Hoefert"
+        },
+        {
+          "number": "0",
+          "name": "Denia Viera"
+        },
+        {
+          "number": "0",
+          "name": "Michelle Tao"
+        },
+        {
+          "number": "0",
+          "name": "Chloe Rinehart"
+        },
+        {
+          "number": "0",
+          "name": "Irene Golden"
+        },
+        {
+          "number": "0",
+          "name": "ELIZABETH COX"
+        },
+        {
+          "number": "0",
+          "name": "TRISHA TALAMANTEZ"
+        },
+        {
+          "number": "2",
+          "name": "Kristin Sprague"
+        },
+        {
+          "number": "3",
+          "name": "Sora Akiyoshi"
+        },
+        {
+          "number": "4",
+          "name": "Lyra Cooper"
+        },
+        {
+          "number": "5",
+          "name": "Kyla Dayer"
+        },
+        {
+          "number": "7",
+          "name": "Dagney Cooke"
+        },
+        {
+          "number": "9",
+          "name": "Larissa Wohl"
+        },
+        {
+          "number": "10",
+          "name": "Michal Pearl"
+        },
+        {
+          "number": "12",
+          "name": "Clara Gottesman"
+        },
+        {
+          "number": "14",
+          "name": "Brianna Dayer"
+        },
+        {
+          "number": "19",
+          "name": "Seneca Gray"
+        },
+        {
+          "number": "31",
+          "name": "REBECCA CHIN"
+        },
+        {
+          "number": "44",
+          "name": "Talia Kula"
+        },
+        {
+          "number": "48",
+          "name": "Cecilia Winter"
+        },
+        {
+          "number": "73",
+          "name": "Amanda Wach"
+        }
+      ]
+    },
+    {
+      "name": "Baywatch",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "New Britain, Connecticut",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Emily Giampaoli"
+        },
+        {
+          "number": "0",
+          "name": "Grace Castro"
+        },
+        {
+          "number": "0",
+          "name": "Barb Banz"
+        },
+        {
+          "number": "0",
+          "name": "Liv Erhard"
+        },
+        {
+          "number": "0",
+          "name": "Anna Schofer"
+        },
+        {
+          "number": "0",
+          "name": "Shannon Hall"
+        },
+        {
+          "number": "0",
+          "name": "Cassondra Hunter"
+        },
+        {
+          "number": "0",
+          "name": "Nora Mitchell"
+        },
+        {
+          "number": "0",
+          "name": "Stephanie Hubli"
+        },
+        {
+          "number": "0",
+          "name": "Lizzie Tilden"
+        },
+        {
+          "number": "0",
+          "name": "Emily Bonazelli"
+        },
+        {
+          "number": "0",
+          "name": "Iris Lam"
+        },
+        {
+          "number": "3",
+          "name": "Shannon Stolting"
+        },
+        {
+          "number": "5",
+          "name": "Jennifer Gobin"
+        },
+        {
+          "number": "9",
+          "name": "Victoria Sanchez"
+        },
+        {
+          "number": "42",
+          "name": "Claire Kimball"
+        },
+        {
+          "number": "77",
+          "name": "Maggie Emerick"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "clusters",
+      "name": "Womens Sectional Game",
+      "groups": [
+        {
+          "name": "Finals",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Brooklyn Book Club",
+              "team2": "Baywatch",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2016-08-27T11:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

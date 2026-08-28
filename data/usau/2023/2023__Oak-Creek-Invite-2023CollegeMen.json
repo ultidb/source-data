@@ -1,0 +1,949 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2023/Oak-Creek-Invite-2023CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/Oak-Creek-Invite-2023/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:19.662849Z",
+  "event": {
+    "name": "Oak Creek Invite 2023",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2023,
+    "city": "Axton",
+    "state": "VA",
+    "country": "",
+    "startDate": "2023-03-11",
+    "endDate": "2023-03-12"
+  },
+  "teams": [
+    {
+      "name": "Princeton",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Clockwork",
+        "location": "Princeton, New Jersey",
+        "website": "http://www.princeton.edu/~clockwrk/",
+        "facebook": "https://www.facebook.com/ClockworkUltimate",
+        "twitter": "https://twitter.com/clockworkultima"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Austin Fan"
+        },
+        {
+          "number": "0",
+          "name": "Creston Brooks"
+        },
+        {
+          "number": "0",
+          "name": "Dane Utley"
+        },
+        {
+          "number": "0",
+          "name": "David Hwang"
+        },
+        {
+          "number": "0",
+          "name": "Gregory Guggenmos"
+        },
+        {
+          "number": "0",
+          "name": "Hugh Shields"
+        },
+        {
+          "number": "0",
+          "name": "Isaac Wills"
+        },
+        {
+          "number": "0",
+          "name": "Isaiah Fletcher"
+        },
+        {
+          "number": "0",
+          "name": "Jeffrey Cheng"
+        },
+        {
+          "number": "0",
+          "name": "John Van Horn"
+        },
+        {
+          "number": "0",
+          "name": "Kevin Boateng"
+        },
+        {
+          "number": "0",
+          "name": "Lewin Levine"
+        },
+        {
+          "number": "0",
+          "name": "Na'im Ahdieh"
+        },
+        {
+          "number": "0",
+          "name": "Oren Swagel"
+        },
+        {
+          "number": "0",
+          "name": "Patrick Townsend"
+        },
+        {
+          "number": "0",
+          "name": "Paul Fletcher"
+        },
+        {
+          "number": "0",
+          "name": "Rahul Kalavagunta"
+        },
+        {
+          "number": "0",
+          "name": "Theo Mitchell"
+        },
+        {
+          "number": "17",
+          "name": "Nathaniel Hess"
+        },
+        {
+          "number": "28",
+          "name": "August Wietfeldt"
+        },
+        {
+          "number": "28",
+          "name": "Mark Gazzerro"
+        },
+        {
+          "number": "34",
+          "name": "Tam (Jimmy) Tran"
+        },
+        {
+          "number": "73",
+          "name": "Alex Baroody"
+        }
+      ]
+    },
+    {
+      "name": "RIT",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "RIT Spudheds",
+        "location": "Rochester, New York",
+        "website": "",
+        "facebook": "http://www.facebook.com/ritspudheds",
+        "twitter": "http://www.twitter.com/spudheds"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Daniel Pisetzner"
+        },
+        {
+          "number": "0",
+          "name": "Ethan Silver-Riskin"
+        },
+        {
+          "number": "0",
+          "name": "Ian Thompson"
+        },
+        {
+          "number": "0",
+          "name": "Logan Kelly"
+        },
+        {
+          "number": "0",
+          "name": "Max Deng"
+        },
+        {
+          "number": "0",
+          "name": "Nathan Begly"
+        },
+        {
+          "number": "0",
+          "name": "Patrick Collins"
+        },
+        {
+          "number": "0",
+          "name": "Paul Anzelone "
+        },
+        {
+          "number": "0",
+          "name": "Reilly Lawson"
+        },
+        {
+          "number": "0",
+          "name": "Jack Lowrey"
+        },
+        {
+          "number": "0",
+          "name": "Stephen Sampson"
+        },
+        {
+          "number": "0",
+          "name": "Tucker Routenberg"
+        },
+        {
+          "number": "2",
+          "name": "Ryan McManus"
+        },
+        {
+          "number": "8",
+          "name": "Nicholas Deis"
+        },
+        {
+          "number": "30",
+          "name": "Ethan Iannicelli"
+        },
+        {
+          "number": "31",
+          "name": "Kobe Oley"
+        },
+        {
+          "number": "32",
+          "name": "Isaac McClelland"
+        },
+        {
+          "number": "36",
+          "name": "Andrew Gallagher"
+        },
+        {
+          "number": "37",
+          "name": "James Murphy"
+        },
+        {
+          "number": "47",
+          "name": "Anthony Patti"
+        },
+        {
+          "number": "49",
+          "name": "Jensen Li"
+        },
+        {
+          "number": "57",
+          "name": "Bryce Roman"
+        },
+        {
+          "number": "67",
+          "name": "Cooper Pinaud"
+        }
+      ]
+    },
+    {
+      "name": "Liberty",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Flames",
+        "location": "Lynchburg, Virginia",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/LUmensUltimate"
+      },
+      "coaches": [
+        "Kevin Habermas"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alexander Read"
+        },
+        {
+          "number": "0",
+          "name": "Benjamin Thompson"
+        },
+        {
+          "number": "0",
+          "name": "Eli Lanter"
+        },
+        {
+          "number": "0",
+          "name": "Evan Robinson"
+        },
+        {
+          "number": "0",
+          "name": "Harrison  Ohmsieder"
+        },
+        {
+          "number": "0",
+          "name": "Isaac Lowe"
+        },
+        {
+          "number": "0",
+          "name": "Jackson Klingenberg"
+        },
+        {
+          "number": "0",
+          "name": "Jeremiah Lauderdale"
+        },
+        {
+          "number": "0",
+          "name": "Jonathan Caruvana"
+        },
+        {
+          "number": "0",
+          "name": "Josiah Dunlop"
+        },
+        {
+          "number": "0",
+          "name": "Luke Carlsen"
+        },
+        {
+          "number": "0",
+          "name": "Matthew  Rogers"
+        },
+        {
+          "number": "0",
+          "name": "Samuel Stow"
+        },
+        {
+          "number": "0",
+          "name": "Stephen Sharp"
+        },
+        {
+          "number": "0",
+          "name": "Zachary Lingenfelter"
+        },
+        {
+          "number": "3",
+          "name": "Joshua Duke"
+        },
+        {
+          "number": "4",
+          "name": "Jonathan  Shirk"
+        },
+        {
+          "number": "8",
+          "name": "Shawn Messick"
+        },
+        {
+          "number": "52",
+          "name": "Joshua Whitaker"
+        },
+        {
+          "number": "58",
+          "name": "Ian Rankin"
+        }
+      ]
+    },
+    {
+      "name": "Maryland",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Maryland Ultimate",
+        "location": "College Park, Maryland",
+        "website": "https://terplink.umd.edu/organization/maryland-ultimate",
+        "facebook": "",
+        "twitter": "https://twitter.com/umdmensultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Adam Carita"
+        },
+        {
+          "number": "0",
+          "name": "Alexander Kerr"
+        },
+        {
+          "number": "0",
+          "name": "Benjamin Roberts"
+        },
+        {
+          "number": "0",
+          "name": "Blake Pahlavan"
+        },
+        {
+          "number": "0",
+          "name": "Charlie Gardiner"
+        },
+        {
+          "number": "0",
+          "name": "Ethan Lay"
+        },
+        {
+          "number": "0",
+          "name": "Frederick Farah"
+        },
+        {
+          "number": "0",
+          "name": "Kaiwen Song"
+        },
+        {
+          "number": "0",
+          "name": "Kevin Shen"
+        },
+        {
+          "number": "0",
+          "name": "Kevin Jiang"
+        },
+        {
+          "number": "0",
+          "name": "Koushik Thiyagarajan"
+        },
+        {
+          "number": "0",
+          "name": "Jonathan Miller"
+        },
+        {
+          "number": "0",
+          "name": "Michael He"
+        },
+        {
+          "number": "0",
+          "name": "Michael Reeve"
+        },
+        {
+          "number": "0",
+          "name": "Samar Seth"
+        },
+        {
+          "number": "0",
+          "name": "Yoni Arzt"
+        },
+        {
+          "number": "1",
+          "name": "Benjamin Andersen-Taylor"
+        },
+        {
+          "number": "6",
+          "name": "Liam Allen"
+        },
+        {
+          "number": "6",
+          "name": "Jonathan Gong"
+        },
+        {
+          "number": "10",
+          "name": "Daylan Sears"
+        },
+        {
+          "number": "12",
+          "name": "Jacob Schwartz"
+        },
+        {
+          "number": "15",
+          "name": "Vincent Zhong"
+        },
+        {
+          "number": "16",
+          "name": "Thomas Maloney"
+        },
+        {
+          "number": "17",
+          "name": "Aaron Knishkowy"
+        },
+        {
+          "number": "19",
+          "name": "Jacob Mannes"
+        },
+        {
+          "number": "21",
+          "name": "Miles Grovic"
+        },
+        {
+          "number": "25",
+          "name": "Aaron Lavitsky"
+        },
+        {
+          "number": "44",
+          "name": "Austin Paynter"
+        },
+        {
+          "number": "57",
+          "name": "Daniel Oxman"
+        },
+        {
+          "number": "71",
+          "name": "Samuel Rennich"
+        }
+      ]
+    },
+    {
+      "name": "SUNY-Geneseo",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Snail",
+        "location": "Geneseo, New York",
+        "website": "",
+        "facebook": "",
+        "twitter": "@geneseoultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Andrew Thompson"
+        },
+        {
+          "number": "0",
+          "name": "Brian Gonzalez"
+        },
+        {
+          "number": "0",
+          "name": "Christian Arriaga"
+        },
+        {
+          "number": "0",
+          "name": "Christopher Pitre"
+        },
+        {
+          "number": "0",
+          "name": "Christopher Ventre"
+        },
+        {
+          "number": "0",
+          "name": "Colby Drechsler"
+        },
+        {
+          "number": "0",
+          "name": "Declan Fahy"
+        },
+        {
+          "number": "0",
+          "name": "Derek Johnson"
+        },
+        {
+          "number": "0",
+          "name": "Dylan Dariano"
+        },
+        {
+          "number": "0",
+          "name": "Jack Bazarewski"
+        },
+        {
+          "number": "0",
+          "name": "Jack Kirby"
+        },
+        {
+          "number": "0",
+          "name": "Jake Park"
+        },
+        {
+          "number": "0",
+          "name": "Jonathan Kelsch"
+        },
+        {
+          "number": "0",
+          "name": "Joseph Vafis"
+        },
+        {
+          "number": "0",
+          "name": "Josh Edelbach"
+        },
+        {
+          "number": "0",
+          "name": "Justin Blakesslee"
+        },
+        {
+          "number": "0",
+          "name": "Luke Widor"
+        },
+        {
+          "number": "0",
+          "name": "Nicholas Smolinski"
+        },
+        {
+          "number": "0",
+          "name": "Noah Longshore"
+        },
+        {
+          "number": "0",
+          "name": "Spencer Wagner"
+        },
+        {
+          "number": "13",
+          "name": "Noah Ofri-Akman"
+        }
+      ]
+    },
+    {
+      "name": "SUNY-Cortland",
+      "seed": 7,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Team Rocket",
+        "location": "Cortland, New York",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/cortlandulti?s=21"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Brian Wise"
+        },
+        {
+          "number": "0",
+          "name": "Connor Vicchiariello"
+        },
+        {
+          "number": "0",
+          "name": "Devon Blackwood"
+        },
+        {
+          "number": "0",
+          "name": "Michael Moran"
+        },
+        {
+          "number": "0",
+          "name": "Rob Oliver"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Joyce-Turner"
+        },
+        {
+          "number": "0",
+          "name": "zachary jackson"
+        },
+        {
+          "number": "2",
+          "name": "Luke Barrett"
+        },
+        {
+          "number": "9",
+          "name": "Christopher Caneiro"
+        },
+        {
+          "number": "10",
+          "name": "Leonardo  Rodriguez "
+        },
+        {
+          "number": "13",
+          "name": "Damon Carroll"
+        },
+        {
+          "number": "24",
+          "name": "Ryan Tart"
+        },
+        {
+          "number": "25",
+          "name": "Aidan Russo"
+        },
+        {
+          "number": "34",
+          "name": "Timothy Zorn"
+        },
+        {
+          "number": "48",
+          "name": "Jonathan Cangelosi"
+        },
+        {
+          "number": "75",
+          "name": "Dominick Pilo"
+        },
+        {
+          "number": "77",
+          "name": "Maxwell Tolan"
+        },
+        {
+          "number": "97",
+          "name": "James Marino"
+        }
+      ]
+    },
+    {
+      "name": "Maine",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Snositi",
+        "location": "Orono, Maine",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Brendan Stone"
+        },
+        {
+          "number": "0",
+          "name": "David Govoni"
+        },
+        {
+          "number": "0",
+          "name": "Garrett Dickinson"
+        },
+        {
+          "number": "0",
+          "name": "Jack Hogan"
+        },
+        {
+          "number": "0",
+          "name": "Justin Strout"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Berry"
+        },
+        {
+          "number": "0",
+          "name": "Tommy Young"
+        },
+        {
+          "number": "06",
+          "name": "Cole Moore"
+        },
+        {
+          "number": "13",
+          "name": "Ryan Thompson"
+        },
+        {
+          "number": "16",
+          "name": "Cullen Stevens"
+        },
+        {
+          "number": "17",
+          "name": "Dylan Ralph"
+        },
+        {
+          "number": "18",
+          "name": "Aidan Gorneau"
+        },
+        {
+          "number": "21",
+          "name": "Jake Dionne"
+        },
+        {
+          "number": "44",
+          "name": "Joe Jacobson"
+        },
+        {
+          "number": "44",
+          "name": "Aidan Hayes"
+        },
+        {
+          "number": "64",
+          "name": "Matisse Moser"
+        },
+        {
+          "number": "88",
+          "name": "Andrew Riley"
+        },
+        {
+          "number": "99",
+          "name": "Clayton Coffman"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Round Robin",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Maryland",
+              "team2": "SUNY-Cortland",
+              "score1": 13,
+              "score2": 4,
+              "datetime": "2023-03-11T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "RIT",
+              "team2": "Maine",
+              "score1": 13,
+              "score2": 7,
+              "datetime": "2023-03-11T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Liberty",
+              "team2": "Princeton",
+              "score1": 7,
+              "score2": 11,
+              "datetime": "2023-03-11T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Maryland",
+              "team2": "Liberty",
+              "score1": 8,
+              "score2": 11,
+              "datetime": "2023-03-11T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "RIT",
+              "team2": "SUNY-Geneseo",
+              "score1": 12,
+              "score2": 8,
+              "datetime": "2023-03-11T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Maine",
+              "team2": "SUNY-Cortland",
+              "score1": 5,
+              "score2": 7,
+              "datetime": "2023-03-11T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Maryland",
+              "team2": "RIT",
+              "score1": 12,
+              "score2": 11,
+              "datetime": "2023-03-11T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Liberty",
+              "team2": "SUNY-Geneseo",
+              "score1": 8,
+              "score2": 4,
+              "datetime": "2023-03-11T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Maine",
+              "team2": "Princeton",
+              "score1": 4,
+              "score2": 13,
+              "datetime": "2023-03-11T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Maine",
+              "team2": "Liberty",
+              "score1": 9,
+              "score2": 10,
+              "datetime": "2023-03-11T14:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Princeton",
+              "team2": "SUNY-Cortland",
+              "score1": 13,
+              "score2": 9,
+              "datetime": "2023-03-11T14:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Maryland",
+              "team2": "SUNY-Geneseo",
+              "score1": 13,
+              "score2": 7,
+              "datetime": "2023-03-11T14:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Princeton",
+              "team2": "SUNY-Geneseo",
+              "score1": 13,
+              "score2": 10,
+              "datetime": "2023-03-11T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "RIT",
+              "team2": "SUNY-Cortland",
+              "score1": 13,
+              "score2": 4,
+              "datetime": "2023-03-11T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "SUNY-Geneseo",
+              "team2": "SUNY-Cortland",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2023-03-12T08:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Maryland",
+              "team2": "Maine",
+              "score1": 13,
+              "score2": 8,
+              "datetime": "2023-03-12T10:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "RIT",
+              "team2": "Princeton",
+              "score1": 9,
+              "score2": 12,
+              "datetime": "2023-03-12T10:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Liberty",
+              "team2": "SUNY-Cortland",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2023-03-12T10:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Maine",
+              "team2": "SUNY-Geneseo",
+              "score1": 6,
+              "score2": 7,
+              "datetime": "2023-03-12T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Maryland",
+              "team2": "Princeton",
+              "score1": 9,
+              "score2": 12,
+              "datetime": "2023-03-12T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "RIT",
+              "team2": "Liberty",
+              "score1": 11,
+              "score2": 8,
+              "datetime": "2023-03-12T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

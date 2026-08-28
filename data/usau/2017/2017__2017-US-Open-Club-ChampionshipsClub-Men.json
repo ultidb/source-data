@@ -1,0 +1,1835 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2017/2017-US-Open-Club-ChampionshipsClub-Men",
+  "sourceUrl": "https://play.usaultimate.org/events/2017-US-Open-Club-Championships/schedule/Men/Club-Men/",
+  "scrapedAt": "2026-08-28T10:06:14.089491Z",
+  "event": {
+    "name": "2017 U.S. Open Club Championships",
+    "division": "Club - Men ",
+    "gender": "",
+    "season": 2017,
+    "city": "Blaine",
+    "state": "MN",
+    "country": "",
+    "startDate": "2017-08-04",
+    "endDate": "2017-08-07"
+  },
+  "teams": [
+    {
+      "name": "Sockeye",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Seattle, Washington",
+        "website": "http://www.seattlesockeye.org/",
+        "facebook": "https://www.facebook.com/SeattleSockeye/",
+        "twitter": "https://twitter.com/SeattleSockeye/"
+      },
+      "coaches": [
+        "Roger Crafts"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Jacob Janin"
+        },
+        {
+          "number": "01",
+          "name": "Donald Clark"
+        },
+        {
+          "number": "02",
+          "name": "Brice Dixon"
+        },
+        {
+          "number": "03",
+          "name": "Mario O'Brien"
+        },
+        {
+          "number": "06",
+          "name": "Phil Murray"
+        },
+        {
+          "number": "07",
+          "name": "Zane Rankin"
+        },
+        {
+          "number": "08",
+          "name": "Simon Montague"
+        },
+        {
+          "number": "09",
+          "name": "Sam Harkness"
+        },
+        {
+          "number": "10",
+          "name": "Dongyang Chen"
+        },
+        {
+          "number": "11",
+          "name": "Reid Koss"
+        },
+        {
+          "number": "16",
+          "name": "Trent Dillon"
+        },
+        {
+          "number": "19",
+          "name": "Husayn Carnegie"
+        },
+        {
+          "number": "22",
+          "name": "Matthew Russell"
+        },
+        {
+          "number": "23",
+          "name": "Danny Karlinsky"
+        },
+        {
+          "number": "24",
+          "name": "Joe Sefton"
+        },
+        {
+          "number": "26",
+          "name": "Cooper Schumacher"
+        },
+        {
+          "number": "27",
+          "name": "William Katz"
+        },
+        {
+          "number": "28",
+          "name": "Duncan Linn"
+        },
+        {
+          "number": "31",
+          "name": "Matthew Rehder"
+        },
+        {
+          "number": "33",
+          "name": "Samuel Hart"
+        },
+        {
+          "number": "35",
+          "name": "Dylan Freechild"
+        },
+        {
+          "number": "37",
+          "name": "Thomas  Kulczak"
+        },
+        {
+          "number": "55",
+          "name": "Will Chen"
+        },
+        {
+          "number": "70",
+          "name": "Julian Hausman"
+        },
+        {
+          "number": "77",
+          "name": "Ben Snell"
+        }
+      ]
+    },
+    {
+      "name": "Revolver",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "San Francisco, California",
+        "website": "http://www.revolverultimate.com/",
+        "facebook": "https://www.facebook.com/RevolverUltimate",
+        "twitter": "https://twitter.com/revolverult"
+      },
+      "coaches": [
+        "Mike Payne",
+        "Devon Anderson"
+      ],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Nathan White"
+        },
+        {
+          "number": "01",
+          "name": "Simon Higgins"
+        },
+        {
+          "number": "02",
+          "name": "Kevin Cocks"
+        },
+        {
+          "number": "03",
+          "name": "George Stubbs"
+        },
+        {
+          "number": "04",
+          "name": "Joel Schlachet"
+        },
+        {
+          "number": "07",
+          "name": "Russell Wynne"
+        },
+        {
+          "number": "09",
+          "name": "Cassidy Rasmussen"
+        },
+        {
+          "number": "11",
+          "name": "Zachary Travis"
+        },
+        {
+          "number": "15",
+          "name": "Michael Spear"
+        },
+        {
+          "number": "17",
+          "name": "Sawyer Thompson"
+        },
+        {
+          "number": "18",
+          "name": "Gregory Cohen"
+        },
+        {
+          "number": "22",
+          "name": "Marcelo Sanchez-Heredia"
+        },
+        {
+          "number": "23",
+          "name": "Antoine Davis"
+        },
+        {
+          "number": "24",
+          "name": "Elijah Kerns"
+        },
+        {
+          "number": "25",
+          "name": "Nick Stuart"
+        },
+        {
+          "number": "27",
+          "name": "Ashlin Joye"
+        },
+        {
+          "number": "29",
+          "name": "Christian Johnson"
+        },
+        {
+          "number": "32",
+          "name": "Jordan Marcy"
+        },
+        {
+          "number": "35",
+          "name": "Lucas Dallmann"
+        },
+        {
+          "number": "50",
+          "name": "Beau Kittredge"
+        },
+        {
+          "number": "53",
+          "name": "Eli Friedman"
+        },
+        {
+          "number": "88",
+          "name": "Byron Liu"
+        },
+        {
+          "number": "93",
+          "name": "Tom Doi"
+        }
+      ]
+    },
+    {
+      "name": "Ring of Fire",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Raleigh, North Carolina",
+        "website": "https://ringultimate.org/",
+        "facebook": "",
+        "twitter": "https://twitter.com/ringultimate"
+      },
+      "coaches": [
+        "David Allison",
+        "Michael Denardis"
+      ],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Jonathan Helton"
+        },
+        {
+          "number": "01",
+          "name": "Justin Allen"
+        },
+        {
+          "number": "02",
+          "name": "Hunter Taylor"
+        },
+        {
+          "number": "03",
+          "name": "Josh Mullen"
+        },
+        {
+          "number": "04",
+          "name": "Dillon Lanier"
+        },
+        {
+          "number": "05",
+          "name": "Matt Bode"
+        },
+        {
+          "number": "06",
+          "name": "Jeff Nordgren"
+        },
+        {
+          "number": "07",
+          "name": "Jonathan Nethercutt"
+        },
+        {
+          "number": "09",
+          "name": "JD Hastings"
+        },
+        {
+          "number": "10",
+          "name": "Henry Fisher"
+        },
+        {
+          "number": "11",
+          "name": "Evan Howey"
+        },
+        {
+          "number": "12",
+          "name": "Joey Cretella"
+        },
+        {
+          "number": "13",
+          "name": "Shane Sisco"
+        },
+        {
+          "number": "15",
+          "name": "Eric Taylor"
+        },
+        {
+          "number": "20",
+          "name": "Jacob Fairfax"
+        },
+        {
+          "number": "21",
+          "name": "Matt Gouchoe-Hanas"
+        },
+        {
+          "number": "22",
+          "name": "Solomon Yanuck"
+        },
+        {
+          "number": "24",
+          "name": "Noah Saul"
+        },
+        {
+          "number": "26",
+          "name": "Nathan Goff"
+        },
+        {
+          "number": "28",
+          "name": "Jack Williams"
+        },
+        {
+          "number": "31",
+          "name": "Bob Liu"
+        },
+        {
+          "number": "45",
+          "name": "Brett Matzuka"
+        },
+        {
+          "number": "51",
+          "name": "Tim McAllister"
+        },
+        {
+          "number": "84",
+          "name": "David Richardson"
+        },
+        {
+          "number": "99",
+          "name": "Joshua Hartzog"
+        }
+      ]
+    },
+    {
+      "name": "HIGH FIVE",
+      "seed": 8,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Ohio, Michigan",
+        "website": "",
+        "facebook": "https://www.facebook.com/HighFiveUlti/",
+        "twitter": "https://twitter.com/HighFiveUlti"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Jordan O'Neill"
+        },
+        {
+          "number": "01",
+          "name": "Alex Edinger"
+        },
+        {
+          "number": "02",
+          "name": "Tyler Kinley"
+        },
+        {
+          "number": "04",
+          "name": "Eric Schumacher"
+        },
+        {
+          "number": "06",
+          "name": "Kevin Coulter"
+        },
+        {
+          "number": "08",
+          "name": "Dan Donovan"
+        },
+        {
+          "number": "09",
+          "name": "Michael Meilstrup"
+        },
+        {
+          "number": "10",
+          "name": "David Bentrovato"
+        },
+        {
+          "number": "11",
+          "name": "Jordan Rhyne"
+        },
+        {
+          "number": "12",
+          "name": "Mitch Cihon"
+        },
+        {
+          "number": "17",
+          "name": "Keegan North"
+        },
+        {
+          "number": "19",
+          "name": "Paul Arters"
+        },
+        {
+          "number": "20",
+          "name": "Sam Greenwood"
+        },
+        {
+          "number": "22",
+          "name": "Michael Dagher-Margosian"
+        },
+        {
+          "number": "23",
+          "name": "Alex Kapiamba"
+        },
+        {
+          "number": "25",
+          "name": "Jake Steslicki"
+        },
+        {
+          "number": "27",
+          "name": "Alexander Russomanno"
+        },
+        {
+          "number": "41",
+          "name": "Daniel Lee"
+        },
+        {
+          "number": "42",
+          "name": "Mike Ogren"
+        },
+        {
+          "number": "45",
+          "name": "Kevin Baumann"
+        },
+        {
+          "number": "47",
+          "name": "Phil Cherosky"
+        },
+        {
+          "number": "55",
+          "name": "Johnny Bansfield"
+        },
+        {
+          "number": "71",
+          "name": "Jacob Turner"
+        },
+        {
+          "number": "77",
+          "name": "James Highsmith"
+        },
+        {
+          "number": "91",
+          "name": "Joe White"
+        }
+      ]
+    },
+    {
+      "name": "Sub Zero",
+      "seed": 12,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Minneapolis, Minnesota",
+        "website": "http://www.subzeroultimate.com/",
+        "facebook": "https://www.facebook.com/Sub-Zero-Ultimate-105463586149513/",
+        "twitter": "https://twitter.com/SubZeroUltimate"
+      },
+      "coaches": [
+        "Philip Bowen"
+      ],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Wystan Duhn"
+        },
+        {
+          "number": "01",
+          "name": "Ryan Osgar"
+        },
+        {
+          "number": "02",
+          "name": "Ben Feldman"
+        },
+        {
+          "number": "03",
+          "name": "Colin Berry"
+        },
+        {
+          "number": "04",
+          "name": "Gregory Cousins"
+        },
+        {
+          "number": "05",
+          "name": "Charles McCutcheon"
+        },
+        {
+          "number": "06",
+          "name": "Ethan Rasmussen"
+        },
+        {
+          "number": "08",
+          "name": "Cole Wallin"
+        },
+        {
+          "number": "10",
+          "name": "Josh Klane"
+        },
+        {
+          "number": "12",
+          "name": "Grayson Pangburn"
+        },
+        {
+          "number": "13",
+          "name": "Anthony Poletto"
+        },
+        {
+          "number": "15",
+          "name": "Logan Weiss"
+        },
+        {
+          "number": "21",
+          "name": "Eric Johnson"
+        },
+        {
+          "number": "23",
+          "name": "Michael (Mike) Petersen"
+        },
+        {
+          "number": "26",
+          "name": "Jack Lokowich"
+        },
+        {
+          "number": "32",
+          "name": "Sam Hammar"
+        },
+        {
+          "number": "33",
+          "name": "Connor Anderson"
+        },
+        {
+          "number": "41",
+          "name": "Samuel Bumsted"
+        },
+        {
+          "number": "42",
+          "name": "Matt Burkhardt"
+        },
+        {
+          "number": "48",
+          "name": "Wyatt Mekler"
+        },
+        {
+          "number": "49",
+          "name": "Caleb Denecour"
+        },
+        {
+          "number": "54",
+          "name": "Dylan DeClerck"
+        },
+        {
+          "number": "66",
+          "name": "Jason Tschida"
+        },
+        {
+          "number": "71",
+          "name": "Nicholas Simonelli"
+        },
+        {
+          "number": "77",
+          "name": "Elliot Trotter"
+        },
+        {
+          "number": "81",
+          "name": "Andrew Otterlei"
+        },
+        {
+          "number": "99",
+          "name": "Tristan Van De Moortele"
+        }
+      ]
+    },
+    {
+      "name": "CUS Bologna",
+      "seed": 9,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Bologna, Emilia Romagna IT",
+        "website": "http://www.bodisc.it/cusb-la-fotta/",
+        "facebook": "https://www.facebook.com/CusBolognaUltimate/",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "04",
+          "name": "Wolfgang Mitterer"
+        },
+        {
+          "number": "05",
+          "name": "Alessandro Franceschi"
+        },
+        {
+          "number": "07",
+          "name": "Andrea Mastroianni"
+        },
+        {
+          "number": "09",
+          "name": "Tommaso Francini"
+        },
+        {
+          "number": "11",
+          "name": "Ivan Cantu"
+        },
+        {
+          "number": "12",
+          "name": "Davide Morri"
+        },
+        {
+          "number": "13",
+          "name": "Arturo Laffi"
+        },
+        {
+          "number": "16",
+          "name": "Andrea Pagano"
+        },
+        {
+          "number": "19",
+          "name": "Stefano Sgubbi"
+        },
+        {
+          "number": "21",
+          "name": "Michele Farina"
+        },
+        {
+          "number": "22",
+          "name": "Fabio Coppi"
+        },
+        {
+          "number": "23",
+          "name": "Nicolò Felici"
+        },
+        {
+          "number": "24",
+          "name": "Andrea Gerosa"
+        },
+        {
+          "number": "27",
+          "name": "Giovanni Santucci"
+        },
+        {
+          "number": "28",
+          "name": "Alberto Tonelli"
+        },
+        {
+          "number": "31",
+          "name": "Massimo Vagliviello"
+        },
+        {
+          "number": "37",
+          "name": "Filippo Simonazzi"
+        },
+        {
+          "number": "58",
+          "name": "Paolo Prandi"
+        },
+        {
+          "number": "90",
+          "name": "Fabio Galli"
+        },
+        {
+          "number": "97",
+          "name": "Luca Tognetti"
+        }
+      ]
+    },
+    {
+      "name": "Johnny Bravo",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Denver, Colorado",
+        "website": "http://bravoultimate.org/",
+        "facebook": "https://www.facebook.com/Johnny-Bravo-Ultimate-111884215492137/",
+        "twitter": "https://twitter.com/BravoUltimate"
+      },
+      "coaches": [
+        "James (Jim) Schoettler"
+      ],
+      "roster": [
+        {
+          "number": "01",
+          "name": "Tom Tulett"
+        },
+        {
+          "number": "03",
+          "name": "Jesse Roehm"
+        },
+        {
+          "number": "05",
+          "name": "Elliott Erickson"
+        },
+        {
+          "number": "06",
+          "name": "Erik Hotaling"
+        },
+        {
+          "number": "07",
+          "name": "David Wheeler"
+        },
+        {
+          "number": "08",
+          "name": "Austin Gregersen"
+        },
+        {
+          "number": "09",
+          "name": "Ian Toner"
+        },
+        {
+          "number": "11",
+          "name": "Joshua Crane"
+        },
+        {
+          "number": "15",
+          "name": "Dennison Bechis"
+        },
+        {
+          "number": "19",
+          "name": "Nicholas Lance"
+        },
+        {
+          "number": "21",
+          "name": "Joseph Anderson"
+        },
+        {
+          "number": "22",
+          "name": "Stanley Peterson"
+        },
+        {
+          "number": "23",
+          "name": "Jimmy Mickle"
+        },
+        {
+          "number": "26",
+          "name": "Owen Westbrook"
+        },
+        {
+          "number": "32",
+          "name": "Kevin Johnson"
+        },
+        {
+          "number": "34",
+          "name": "Henry Konker"
+        },
+        {
+          "number": "35",
+          "name": "Todd Wolma"
+        },
+        {
+          "number": "42",
+          "name": "Ben Lohre"
+        },
+        {
+          "number": "45",
+          "name": "Will Lohre"
+        },
+        {
+          "number": "57",
+          "name": "J Wesley Chow"
+        },
+        {
+          "number": "66",
+          "name": "Matt Jackson"
+        },
+        {
+          "number": "99",
+          "name": "Alex Tatum"
+        }
+      ]
+    },
+    {
+      "name": "Truck Stop",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Washington, District of Columbia",
+        "website": "http://www.truckstopultimate.org",
+        "facebook": "https://www.facebook.com/TruckStopUltimate/",
+        "twitter": "https://twitter.com/truckstopulti"
+      },
+      "coaches": [
+        "Darryl Stanley"
+      ],
+      "roster": [
+        {
+          "number": "01",
+          "name": "Nathan Prior"
+        },
+        {
+          "number": "03",
+          "name": "Jackson Cochran"
+        },
+        {
+          "number": "04",
+          "name": "Delrico Johnson"
+        },
+        {
+          "number": "05",
+          "name": "David Cranston"
+        },
+        {
+          "number": "06",
+          "name": "Jonathan Neeley"
+        },
+        {
+          "number": "07",
+          "name": "Keven Moldenhauer"
+        },
+        {
+          "number": "10",
+          "name": "Tyler Monroe"
+        },
+        {
+          "number": "15",
+          "name": "Nathan Castine"
+        },
+        {
+          "number": "17",
+          "name": "Eric Miner"
+        },
+        {
+          "number": "21",
+          "name": "John Agan"
+        },
+        {
+          "number": "22",
+          "name": "Brian Marshall"
+        },
+        {
+          "number": "24",
+          "name": "Austin Bartenstein"
+        },
+        {
+          "number": "25",
+          "name": "Marcus Thaw"
+        },
+        {
+          "number": "26",
+          "name": "Allan Laviolette"
+        },
+        {
+          "number": "27",
+          "name": "Cody Johnston"
+        },
+        {
+          "number": "28",
+          "name": "Matthew Rowan McDonnell"
+        },
+        {
+          "number": "30",
+          "name": "David Bloodgood"
+        },
+        {
+          "number": "33",
+          "name": "Ryan Swift"
+        },
+        {
+          "number": "36",
+          "name": "Nick Spiva"
+        },
+        {
+          "number": "43",
+          "name": "Joe Freund"
+        },
+        {
+          "number": "45",
+          "name": "Jeff Wodatch"
+        },
+        {
+          "number": "47",
+          "name": "John Walden"
+        },
+        {
+          "number": "63",
+          "name": "David Shields"
+        },
+        {
+          "number": "84",
+          "name": "Chuck Cantone"
+        },
+        {
+          "number": "90",
+          "name": "Markham Shofner"
+        },
+        {
+          "number": "97",
+          "name": "Bradley Scott"
+        },
+        {
+          "number": "99",
+          "name": "Alan Kolick"
+        }
+      ]
+    },
+    {
+      "name": "Ironside",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Boston, Massachusetts",
+        "website": "",
+        "facebook": "https://www.facebook.com/BostonIronside/",
+        "twitter": "https://twitter.com/Boston_Ironside"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Jacob Taylor"
+        },
+        {
+          "number": "01",
+          "name": "Josh Markette"
+        },
+        {
+          "number": "02",
+          "name": "John Irvine"
+        },
+        {
+          "number": "03",
+          "name": "Kurt Gibson"
+        },
+        {
+          "number": "04",
+          "name": "Jason (Jay) Clark"
+        },
+        {
+          "number": "05",
+          "name": "Jordan Taylor"
+        },
+        {
+          "number": "07",
+          "name": "William Neff"
+        },
+        {
+          "number": "08",
+          "name": "Peter Prial"
+        },
+        {
+          "number": "09",
+          "name": "Eric Shaw"
+        },
+        {
+          "number": "10",
+          "name": "Tyler Chan"
+        },
+        {
+          "number": "11",
+          "name": "Christian Foster"
+        },
+        {
+          "number": "12",
+          "name": "Alex Simmons"
+        },
+        {
+          "number": "13",
+          "name": "Tom Annen"
+        },
+        {
+          "number": "14",
+          "name": "Andrew Hooker"
+        },
+        {
+          "number": "16",
+          "name": "David Ferraro"
+        },
+        {
+          "number": "17",
+          "name": "R. Thomas Sayre-McCord"
+        },
+        {
+          "number": "18",
+          "name": "Ryan Dinger"
+        },
+        {
+          "number": "19",
+          "name": "William Dean"
+        },
+        {
+          "number": "22",
+          "name": "Michael Voelpel"
+        },
+        {
+          "number": "24",
+          "name": "Davis Whitehead"
+        },
+        {
+          "number": "25",
+          "name": "John Stubbs"
+        },
+        {
+          "number": "27",
+          "name": "Jack Hatchett"
+        },
+        {
+          "number": "28",
+          "name": "Benjamin Katz"
+        },
+        {
+          "number": "31",
+          "name": "Brodie Smith"
+        },
+        {
+          "number": "33",
+          "name": "Nico Mueller"
+        },
+        {
+          "number": "35",
+          "name": "Piers MacNaughton"
+        },
+        {
+          "number": "74",
+          "name": "Mac Hecht"
+        }
+      ]
+    },
+    {
+      "name": "Clapham Ultimate",
+      "seed": 7,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "London, UK GB",
+        "website": "http://www,claphamultimate.com",
+        "facebook": "https://www.facebook.com/claphamultimate/",
+        "twitter": "https://www.twitter.com/cu_ultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "03",
+          "name": "Fred Shone"
+        },
+        {
+          "number": "05",
+          "name": "Hayden Slaughter"
+        },
+        {
+          "number": "07",
+          "name": "Matt Parslow"
+        },
+        {
+          "number": "08",
+          "name": "Robbie Haines"
+        },
+        {
+          "number": "13",
+          "name": "Joshua Briggs"
+        },
+        {
+          "number": "14",
+          "name": "OLLIE GORDON"
+        },
+        {
+          "number": "15",
+          "name": "Conrad Wilson"
+        },
+        {
+          "number": "17",
+          "name": "William Martin"
+        },
+        {
+          "number": "18",
+          "name": "RICHARD RAZ"
+        },
+        {
+          "number": "20",
+          "name": "Ashley Yeo"
+        },
+        {
+          "number": "21",
+          "name": "Joseph Thompson"
+        },
+        {
+          "number": "23",
+          "name": "DAVID STOBBS"
+        },
+        {
+          "number": "26",
+          "name": "Elliot Canning"
+        },
+        {
+          "number": "27",
+          "name": "BENJAMIN FUNK"
+        },
+        {
+          "number": "28",
+          "name": "Justin Foord"
+        },
+        {
+          "number": "32",
+          "name": "TOM ABRAMS"
+        },
+        {
+          "number": "37",
+          "name": "Andrew Hillman"
+        },
+        {
+          "number": "42",
+          "name": "Tim Sanders"
+        },
+        {
+          "number": "61",
+          "name": "Conor Hogan"
+        },
+        {
+          "number": "81",
+          "name": "MAGNUS WILSON"
+        },
+        {
+          "number": "87",
+          "name": "Andrew Jackson"
+        },
+        {
+          "number": "89",
+          "name": "James Freeman"
+        },
+        {
+          "number": "92",
+          "name": "Thomas Cartwright"
+        }
+      ]
+    },
+    {
+      "name": "Patrol",
+      "seed": 10,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Philadelphia, Pennsylvania",
+        "website": "",
+        "facebook": "https://www.facebook.com/phillypatrol/",
+        "twitter": "https://twitter.com/phillypatrol"
+      },
+      "coaches": [
+        "Charles Hoppes",
+        "Anthony Nunez"
+      ],
+      "roster": [
+        {
+          "number": "00",
+          "name": "David Brandolph"
+        },
+        {
+          "number": "01",
+          "name": "Colin McIntyre"
+        },
+        {
+          "number": "03",
+          "name": "Gabriel Colton"
+        },
+        {
+          "number": "06",
+          "name": "Leon Chou"
+        },
+        {
+          "number": "07",
+          "name": "Nick Hirannet"
+        },
+        {
+          "number": "08",
+          "name": "Nick Patel"
+        },
+        {
+          "number": "09",
+          "name": "Patrick Diviney"
+        },
+        {
+          "number": "10",
+          "name": "Matt Esser"
+        },
+        {
+          "number": "11",
+          "name": "Himalaya Mehta"
+        },
+        {
+          "number": "12",
+          "name": "Codi Wood"
+        },
+        {
+          "number": "13",
+          "name": "Quinn Hunziker"
+        },
+        {
+          "number": "14",
+          "name": "Matthew Glazer"
+        },
+        {
+          "number": "18",
+          "name": "William Sickles"
+        },
+        {
+          "number": "19",
+          "name": "Thomas Allen"
+        },
+        {
+          "number": "20",
+          "name": "David Baer"
+        },
+        {
+          "number": "21",
+          "name": "Michael Panna"
+        },
+        {
+          "number": "23",
+          "name": "James Zuraw"
+        },
+        {
+          "number": "24",
+          "name": "Ethan Peck"
+        },
+        {
+          "number": "25",
+          "name": "Trey (George) Katzenbach"
+        },
+        {
+          "number": "27",
+          "name": "Jake Rainwater"
+        },
+        {
+          "number": "28",
+          "name": "Andrew Nelson"
+        },
+        {
+          "number": "41",
+          "name": "Daniel Hartsoe"
+        },
+        {
+          "number": "48",
+          "name": "Ryan Weaver"
+        },
+        {
+          "number": "55",
+          "name": "Matt Paparone"
+        },
+        {
+          "number": "66",
+          "name": "Casey Vaughn"
+        },
+        {
+          "number": "81",
+          "name": "Sean Mott"
+        },
+        {
+          "number": "91",
+          "name": "Vincent Reydams"
+        }
+      ]
+    },
+    {
+      "name": "Inside Rakete",
+      "seed": 11,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Darmstadt, Hesse DE",
+        "website": "https://www.insiderakete.de/language/en/",
+        "facebook": "https://www.facebook.com/InsideRakete/",
+        "twitter": "https://twitter.com/InsideRakete"
+      },
+      "coaches": [
+        "MICHAEL (MIKE) NASH"
+      ],
+      "roster": [
+        {
+          "number": "07",
+          "name": "Rainer Beha"
+        },
+        {
+          "number": "08",
+          "name": "PHILIPP HAAS"
+        },
+        {
+          "number": "10",
+          "name": "Rob Schumacher"
+        },
+        {
+          "number": "13",
+          "name": "Niko Schulze"
+        },
+        {
+          "number": "17",
+          "name": "Marco Mueller"
+        },
+        {
+          "number": "20",
+          "name": "Lucas Klein"
+        },
+        {
+          "number": "21",
+          "name": "Markus Mock"
+        },
+        {
+          "number": "22",
+          "name": "Jan Schollaen"
+        },
+        {
+          "number": "27",
+          "name": "Riki Kiewe"
+        },
+        {
+          "number": "29",
+          "name": "Friedrich Wolf"
+        },
+        {
+          "number": "34",
+          "name": "Jonathan Kramer"
+        },
+        {
+          "number": "45",
+          "name": "Thomas Bretschneider"
+        },
+        {
+          "number": "53",
+          "name": "Arne Gross"
+        },
+        {
+          "number": "66",
+          "name": "Jan Schmidt"
+        },
+        {
+          "number": "69",
+          "name": "Lasse Hoogen"
+        },
+        {
+          "number": "70",
+          "name": "Felix Riemer"
+        },
+        {
+          "number": "71",
+          "name": "Martin Cronacher"
+        },
+        {
+          "number": "73",
+          "name": "Denis Holzer"
+        },
+        {
+          "number": "83",
+          "name": "Rene Hess"
+        },
+        {
+          "number": "99",
+          "name": "Lars Schmidt"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Revolver",
+              "team2": "Ring of Fire",
+              "score1": 15,
+              "score2": 11,
+              "datetime": "2017-08-04T08:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Sockeye",
+              "team2": "CUS Bologna",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2017-08-04T08:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "HIGH FIVE",
+              "team2": "Sub Zero",
+              "score1": 15,
+              "score2": 11,
+              "datetime": "2017-08-04T08:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Revolver",
+              "team2": "CUS Bologna",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2017-08-04T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Sockeye",
+              "team2": "HIGH FIVE",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2017-08-04T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Ring of Fire",
+              "team2": "Sub Zero",
+              "score1": 12,
+              "score2": 15,
+              "datetime": "2017-08-04T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Revolver",
+              "team2": "Sockeye",
+              "score1": 15,
+              "score2": 17,
+              "datetime": "2017-08-04T15:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Ring of Fire",
+              "team2": "HIGH FIVE",
+              "score1": 15,
+              "score2": 14,
+              "datetime": "2017-08-04T15:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "CUS Bologna",
+              "team2": "Sub Zero",
+              "score1": 11,
+              "score2": 14,
+              "datetime": "2017-08-04T15:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Revolver",
+              "team2": "HIGH FIVE",
+              "score1": 15,
+              "score2": 11,
+              "datetime": "2017-08-05T08:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Sockeye",
+              "team2": "Sub Zero",
+              "score1": 15,
+              "score2": 11,
+              "datetime": "2017-08-05T08:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Ring of Fire",
+              "team2": "CUS Bologna",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2017-08-05T08:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Revolver",
+              "team2": "Sub Zero",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2017-08-05T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Sockeye",
+              "team2": "Ring of Fire",
+              "score1": 13,
+              "score2": 15,
+              "datetime": "2017-08-05T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "HIGH FIVE",
+              "team2": "CUS Bologna",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2017-08-05T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool B",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Truck Stop",
+              "team2": "Johnny Bravo",
+              "score1": 13,
+              "score2": 15,
+              "datetime": "2017-08-04T08:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Ironside",
+              "team2": "Patrol",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2017-08-04T08:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Clapham Ultimate",
+              "team2": "Inside Rakete",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2017-08-04T08:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Truck Stop",
+              "team2": "Patrol",
+              "score1": 13,
+              "score2": 11,
+              "datetime": "2017-08-04T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Ironside",
+              "team2": "Clapham Ultimate",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2017-08-04T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Johnny Bravo",
+              "team2": "Inside Rakete",
+              "score1": 15,
+              "score2": 5,
+              "datetime": "2017-08-04T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Truck Stop",
+              "team2": "Ironside",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2017-08-04T15:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Johnny Bravo",
+              "team2": "Clapham Ultimate",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2017-08-04T15:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Patrol",
+              "team2": "Inside Rakete",
+              "score1": 14,
+              "score2": 12,
+              "datetime": "2017-08-04T15:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Truck Stop",
+              "team2": "Clapham Ultimate",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2017-08-05T08:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Ironside",
+              "team2": "Inside Rakete",
+              "score1": 16,
+              "score2": 15,
+              "datetime": "2017-08-05T08:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Johnny Bravo",
+              "team2": "Patrol",
+              "score1": 10,
+              "score2": 15,
+              "datetime": "2017-08-05T08:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Truck Stop",
+              "team2": "Inside Rakete",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2017-08-05T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Ironside",
+              "team2": "Johnny Bravo",
+              "score1": 12,
+              "score2": 15,
+              "datetime": "2017-08-05T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Clapham Ultimate",
+              "team2": "Patrol",
+              "score1": 15,
+              "score2": 13,
+              "datetime": "2017-08-05T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Bracket Play",
+      "groups": [
+        {
+          "name": "1st Place Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Sockeye",
+              "team2": "Revolver",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2017-08-06T12:30:00Z",
+              "round": "1st Place Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Sockeye",
+              "team2": "Truck Stop",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2017-08-05T15:30:00Z",
+              "round": "1st Place Semis",
+              "status": "Final"
+            },
+            {
+              "team1": "Revolver",
+              "team2": "Johnny Bravo",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2017-08-05T14:00:00Z",
+              "round": "1st Place Semis",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "5th Place Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Ring of Fire",
+              "team2": "HIGH FIVE",
+              "score1": 15,
+              "score2": 14,
+              "datetime": "2017-08-06T10:45:00Z",
+              "round": "5th Place Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Ring of Fire",
+              "team2": "Clapham Ultimate",
+              "score1": 15,
+              "score2": 13,
+              "datetime": "2017-08-05T13:00:00Z",
+              "round": "5th Place Semis",
+              "status": "Final"
+            },
+            {
+              "team1": "HIGH FIVE",
+              "team2": "Ironside",
+              "score1": 15,
+              "score2": 13,
+              "datetime": "2017-08-05T13:00:00Z",
+              "round": "5th Place Semis",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "7th Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Clapham Ultimate",
+              "team2": "Ironside",
+              "score1": 12,
+              "score2": 15,
+              "datetime": "2017-08-06T10:45:00Z",
+              "round": "7th Place",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "9th Place Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Sub Zero",
+              "team2": "Patrol",
+              "score1": 15,
+              "score2": 16,
+              "datetime": "2017-08-06T10:45:00Z",
+              "round": "9th Place Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Sub Zero",
+              "team2": "Inside Rakete",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2017-08-05T13:00:00Z",
+              "round": "9th Place Semis",
+              "status": "Final"
+            },
+            {
+              "team1": "CUS Bologna",
+              "team2": "Patrol",
+              "score1": 10,
+              "score2": 15,
+              "datetime": "2017-08-05T13:00:00Z",
+              "round": "9th Place Semis",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "11th Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Inside Rakete",
+              "team2": "CUS Bologna",
+              "score1": 8,
+              "score2": 15,
+              "datetime": "2017-08-06T10:45:00Z",
+              "round": "10th Place Finals",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "3rd Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Truck Stop",
+              "team2": "Johnny Bravo",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2017-08-06T10:45:00Z",
+              "round": "3rd Place Finals",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

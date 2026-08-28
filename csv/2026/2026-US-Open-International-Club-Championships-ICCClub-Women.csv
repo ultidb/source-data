@@ -27,9 +27,37 @@ coaches,Robert Brazile,Danny Clark
 88,Kate Gearing
 99,Lia Schwartz
 b,r,e,a,k
+Nightlock,11
+teamInfo,,"Bay Area, California",http://www.nightlockult.com/,https://www.facebook.com/NightlockUlt/,https://twitter.com/nightlockult/
+coaches,Eliza Chang,Loryn Kanemaru,Robert Srinivasiah,Anne Gordon
+00,Reeve Grobecker
+01,Goodness Nwakudu
+02,Marisa Rafter
+03,Connor Stuart-Paul
+04,Claire Leichter
+06,Amy Lu
+08,Angela Aie
+09,Arenaria Cramer
+12,Ziyue Chen
+15,Audrey  Sheehy
+16,Thalia Ward
+17,Julia Segre
+21,Nicole Canning
+24,Jackelyne Nguyen
+27,Cassidy Gilmore
+30,Nami Sumida
+31,Lauren Yamasaki-Liske
+36,Mars Bau
+42,Kai Agueros
+49,Elly Fireside-Ostergaard
+89,Zane Bird Smith
+91,Jin-Mi Matsunaga
+98,Janelle Lee
+99,Xinzhi Zou
+b,r,e,a,k
 Seattle Riot,8
 teamInfo,,"Seattle, Washington",http://seattleriot.org/,https://www.facebook.com/SeattleRiot,https://twitter.com/SeattleRiot
-coaches,Alyssa Weatherford
+coaches,Alyssa Weatherford,Rachel Bradshaw,Jinny Riedel
 0,Kyliah Mcroy
 01,Chloe Hakimi
 02,Karen Ehrhardt
@@ -56,34 +84,6 @@ coaches,Alyssa Weatherford
 55,Ella Bolan
 66,Bailey Shigley
 98,Ollie Bunson
-b,r,e,a,k
-Nightlock,11
-teamInfo,,"Bay Area, California",http://www.nightlockult.com/,https://www.facebook.com/NightlockUlt/,https://twitter.com/nightlockult/
-coaches,Eliza Chang,Loryn Kanemaru,Robert Srinivasiah
-00,Reeve Grobecker
-01,Goodness Nwakudu
-02,Marisa Rafter
-03,Connor Stuart-Paul
-04,Claire Leichter
-06,Amy Lu
-08,Angela Aie
-09,Arenaria Cramer
-12,Ziyue Chen
-15,Audrey  Sheehy
-16,Thalia Ward
-17,Julia Segre
-21,Nicole Canning
-24,Jackelyne Nguyen
-27,Cassidy Gilmore
-30,Nami Sumida
-31,Lauren Yamasaki-Liske
-36,Mars Bau
-42,Kai Agueros
-49,Elly Fireside-Ostergaard
-89,Zane Bird Smith
-91,Jin-Mi Matsunaga
-98,Janelle Lee
-99,Xinzhi Zou
 b,r,e,a,k
 Fury,2
 teamInfo,,"San Francisco, California",http://furyultimate.com/,https://www.facebook.com/furyultimate/,https://twitter.com/furyultimate
@@ -200,12 +200,12 @@ b,r,e,a,k
 Flipside,6
 teamInfo,,"San Diego, California",https://shop.beultimate.com/collections/california-flipside,https://www.instagram.com/flipsideultimate/,https://twitter.com/flipsideulti
 coaches,Brittany Cabriales,Amy Schlabach
-0,Margot Nissen
-3,Chip Yen
-5,Kaela Helton
-6,Malia Smith
-7,Monica O'Brien Saez
-9,Rebeca Ellis
+00,Margot Nissen
+03,Chip Yen
+05,Kaela Helton
+06,Malia Smith
+07,Monica O'Brien Saez
+09,Rebeca Ellis
 10,Jennifer Gobin
 12,Delilah Masket
 14,Leah Forester
@@ -234,7 +234,6 @@ teamInfo,,"Portland, Oregon",https://www.oregonschwa.com/,https://www.facebook.c
 11,Rachel Egan
 13,Mara Hindery-Glasinovic
 14,Julianna Galian
-15,Caitlin Fitzgerald
 17,Morgan Caldwell
 18,Samaya Madrone
 23,Abbe  Domenick
@@ -245,6 +244,7 @@ teamInfo,,"Portland, Oregon",https://www.oregonschwa.com/,https://www.facebook.c
 38,Emma Bartlett
 39,Anna Reed
 44,Emily Pozzy
+48,Caitlin Fitzgerald
 52,Luna  Wagner
 72,Ezra Weybright
 79,Zoe Luke
@@ -254,13 +254,13 @@ b,r,e,a,k
 Molly Brown,4
 teamInfo,,"Denver/Boulder, Colorado",http://www.mollybrownultimate.com/,https://www.facebook.com/MollyBrownTown,https://twitter.com/MollyBrownTown
 coaches,Bob Krier,Samantha Peletier
-2,Simone Pierotti
-3,Nhi Nguyen
-5,Mary Andrews
-6,Emma Capra
-7,Julia Lober
-8,Manuela Cardenas
-9,Alexandra Guy
+02,Simone Pierotti
+03,Nhi Nguyen
+05,Mary Andrews
+06,Emma Capra
+07,Julia Lober
+08,Manuela Cardenas
+09,Alexandra Guy
 11,Megan Henderson
 12,Kendra  Mitchell
 13,Alika Johnston
@@ -311,12 +311,11 @@ b,r,e,a,k
 Iris,10
 teamInfo,,"All over Quebec, Quebec CA",,https://www.facebook.com/irisultimate,https://www.twitter.com/iris_ultimate
 coaches,Alison Fischer,Jamie Hoover
-2,Laure Drouin-Jacques
-5,Sophie Belanger
-8,Léa Morneau
-9,Camille Leblanc
+02,Laure Drouin-Jacques
+05,Sophie Belanger
+08,Léa Morneau
+09,Camille Leblanc
 12,Julia Topart
-13,Maia List
 14,Roxanne Goderre
 15,Joy Zhou
 16,Nina Heloir
@@ -334,36 +333,62 @@ coaches,Alison Fischer,Jamie Hoover
 61,Alessia Vinet
 82,Florence Toews
 91,Florence Dionne
+97,Maia List
 b,r,e,a,k
 s,t,a,g,e,s
 pools,Friday Pool Play
 pool,Pool A
-Brute Squad,Nightlock,0,0,"07/31/2026, 08:30",Pool A,Scheduled
-Brute Squad,Seattle Riot,0,0,"07/31/2026, 10:45",Pool A,Scheduled
-Seattle Riot,Nightlock,0,0,"07/31/2026, 13:00",Pool A,Scheduled
+Brute Squad,Nightlock,15,8,"07/31/2026, 08:30",Pool A,Final
+Brute Squad,Seattle Riot,15,11,"07/31/2026, 10:45",Pool A,Final
+Seattle Riot,Nightlock,14,15,"07/31/2026, 13:00",Pool A,Final
 pool,Pool B
-Fury,Colorado Kelp,0,0,"07/31/2026, 08:30",Pool B,Scheduled
-Fury,6ixers,0,0,"07/31/2026, 10:45",Pool B,Scheduled
-6ixers,Colorado Kelp,0,0,"07/31/2026, 13:00",Pool B,Scheduled
+Fury,Colorado Kelp,15,7,"07/31/2026, 08:30",Pool B,Final
+Fury,6ixers,15,7,"07/31/2026, 10:45",Pool B,Final
+6ixers,Colorado Kelp,15,6,"07/31/2026, 13:00",Pool B,Final
 pool,Pool C
-Scandal,Schwa,0,0,"07/31/2026, 08:30",Pool C,Scheduled
-Scandal,Flipside,0,0,"07/31/2026, 10:45",Pool C,Scheduled
-Flipside,Schwa,0,0,"07/31/2026, 13:00",Pool C,Scheduled
+Scandal,Schwa,15,8,"07/31/2026, 08:30",Pool C,Final
+Scandal,Flipside,15,9,"07/31/2026, 10:45",Pool C,Final
+Flipside,Schwa,15,13,"07/31/2026, 13:00",Pool C,Final
 pool,Pool D
-Molly Brown,Iris,0,0,"07/31/2026, 08:30",Pool D,Scheduled
-Molly Brown,BENT,0,0,"07/31/2026, 10:45",Pool D,Scheduled
-BENT,Iris,0,0,"07/31/2026, 13:00",Pool D,Scheduled
+Molly Brown,Iris,15,5,"07/31/2026, 08:30",Pool D,Final
+Molly Brown,BENT,15,7,"07/31/2026, 10:45",Pool D,Final
+BENT,Iris,12,11,"07/31/2026, 13:00",Pool D,Final
 b,r,e,a,k
 clusters,Seeding Crossovers
+cluster,Seeding Crossovers
+Brute Squad,Scandal,11,15,"07/31/2026, 15:15",,Final
+Fury,Molly Brown,14,13,"07/31/2026, 15:15",,Final
 b,r,e,a,k
 brackets,2026 Women's International Club Championship
 bracket,Championship
+Scandal,Fury,15,10,"08/02/2026, 15:00",Final,Final
+Scandal,Molly Brown,15,14,"08/01/2026, 15:45",Semifinals,Final
+Brute Squad,Fury,12,15,"08/01/2026, 16:00",Semifinals,Final
+Scandal,6ixers,15,3,"08/01/2026, 10:45",Quarterfinals,Final
+Seattle Riot,Molly Brown,12,14,"08/01/2026, 10:45",Quarterfinals,Final
+Brute Squad,BENT,15,10,"08/01/2026, 10:45",Quarterfinals,Final
+Nightlock,Fury,8,15,"08/01/2026, 10:45",Quarterfinals,Final
+6ixers,Iris,15,9,"07/31/2026, 15:15",Prequarterfinals,Final
+Flipside,Seattle Riot,9,15,"07/31/2026, 15:15",Prequarterfinals,Final
+BENT,Colorado Kelp,12,9,"07/31/2026, 15:15",Prequarterfinals,Final
+Nightlock,Schwa,15,10,"07/31/2026, 15:15",Prequarterfinals,Final
 b,r,e,a,k
 brackets,Placement Brackets
 bracket,Third Place
+Molly Brown,Brute Squad,15,6,"08/02/2026, 08:30",Third Place,Final
 bracket,Fifth Place Bracket
+Seattle Riot,Nightlock,12,13,"08/02/2026, 08:30",Fifth Place,Final
+6ixers,Seattle Riot,9,15,"08/01/2026, 15:45",Fifth Place Semifinals,Final
+BENT,Nightlock,8,11,"08/01/2026, 15:45",Fifth Place Semifinals,Final
 bracket,Seventh Place
+6ixers,BENT,15,9,"08/02/2026, 08:30",Seventh Place,Final
 b,r,e,a,k
 pools,Ninth Place Pool
 pool,Pool E
+Schwa,Colorado Kelp,15,13,"08/01/2026, 13:30",Pool E,Final
+Iris,Flipside,13,14,"08/01/2026, 13:30",Pool E,Final
+Schwa,Flipside,14,13,"08/01/2026, 15:45",Pool E,Final
+Iris,Colorado Kelp,14,10,"08/01/2026, 15:45",Pool E,Final
+Schwa,Iris,12,13,"08/02/2026, 08:30",Pool E,Final
+Colorado Kelp,Flipside,6,15,"08/02/2026, 08:30",Pool E,Final
 b,r,e,a,k

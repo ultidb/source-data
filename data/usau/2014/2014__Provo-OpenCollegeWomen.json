@@ -1,0 +1,269 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2014/Provo-OpenCollegeWomen",
+  "sourceUrl": "https://play.usaultimate.org/events/Provo-Open/schedule/Women/CollegeWomen/",
+  "scrapedAt": "2026-08-28T10:06:11.843174Z",
+  "event": {
+    "name": "Provo Open 2014",
+    "division": "College - Women ",
+    "gender": "",
+    "season": 2014,
+    "city": "Provo",
+    "state": "UT",
+    "country": "",
+    "startDate": "2014-03-22",
+    "endDate": "2014-03-23"
+  },
+  "teams": [
+    {
+      "name": "Brigham Young",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "CHI",
+        "location": "Provo, Utah",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "SHANAE FOSTER"
+        },
+        {
+          "number": "0",
+          "name": "Jemi Ong"
+        },
+        {
+          "number": "0",
+          "name": "MIKAYLA DAVIS"
+        },
+        {
+          "number": "0",
+          "name": "Emily Heller"
+        },
+        {
+          "number": "0",
+          "name": "ALLISON WILSON"
+        },
+        {
+          "number": "0",
+          "name": "STEPHANIE TARDIFF"
+        },
+        {
+          "number": "0",
+          "name": "JORDAN STIRLING"
+        },
+        {
+          "number": "0",
+          "name": "Brittany McCready"
+        },
+        {
+          "number": "0",
+          "name": "Izolde Rhodes"
+        },
+        {
+          "number": "25",
+          "name": "Emma Cole"
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Spiral Jetty",
+        "location": "Salt Lake City, Utah",
+        "website": "spiraljettyultimate.weebly.com/",
+        "facebook": "https://www.facebook.com/pages/Spiral-Jetty-Ultimate/113676238733086",
+        "twitter": "@spiraljettyulti"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "KARI BARNARD"
+        },
+        {
+          "number": "0",
+          "name": "Jordan Vogel"
+        },
+        {
+          "number": "0",
+          "name": "Yuki Sakabe"
+        },
+        {
+          "number": "0",
+          "name": "Ariel Hyams"
+        },
+        {
+          "number": "0",
+          "name": "LAURA  TATHAM"
+        },
+        {
+          "number": "0",
+          "name": "SARAH DUENSING"
+        },
+        {
+          "number": "0",
+          "name": "Lauryn Cash"
+        },
+        {
+          "number": "0",
+          "name": "Kate Palmer"
+        },
+        {
+          "number": "0",
+          "name": "Kortnie Walker"
+        },
+        {
+          "number": "3",
+          "name": "Jessica Twombly"
+        },
+        {
+          "number": "5",
+          "name": "Molly Wheeler"
+        },
+        {
+          "number": "11",
+          "name": "Jacklyn Hallett"
+        },
+        {
+          "number": "18",
+          "name": "EMILY MCNARY"
+        },
+        {
+          "number": "19",
+          "name": "AJ Uthe"
+        },
+        {
+          "number": "23",
+          "name": "Anna Thorn"
+        },
+        {
+          "number": "25",
+          "name": "TASHAYLA OPENSHAW"
+        },
+        {
+          "number": "91",
+          "name": "Tessora Young"
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young-Idaho",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "T-Rexburg Women",
+        "location": "Rexburg, Idaho",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Heidi Neuenswander"
+        },
+        {
+          "number": "0",
+          "name": "Emily Hill"
+        },
+        {
+          "number": "0",
+          "name": "Jessica Hooton"
+        },
+        {
+          "number": "0",
+          "name": "Amanda Wilson"
+        },
+        {
+          "number": "0",
+          "name": "JESSICA HILL"
+        },
+        {
+          "number": "0",
+          "name": "Nicole  Westfall"
+        },
+        {
+          "number": "0",
+          "name": "Kendra England"
+        },
+        {
+          "number": "0",
+          "name": "Angela Zhang"
+        },
+        {
+          "number": "0",
+          "name": "Bonnie Burk"
+        },
+        {
+          "number": "0",
+          "name": "Norene Mamani"
+        },
+        {
+          "number": "0",
+          "name": "Courtney Poulsen"
+        },
+        {
+          "number": "0",
+          "name": "Courtney Fernelius"
+        },
+        {
+          "number": "0",
+          "name": "Katrina Harwood"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Brigham Young",
+              "team2": "Brigham Young-Idaho",
+              "score1": 13,
+              "score2": 6,
+              "datetime": "2014-03-22T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Utah",
+              "team2": "Brigham Young-Idaho",
+              "score1": 13,
+              "score2": 4,
+              "datetime": "2014-03-22T10:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Brigham Young",
+              "team2": "Utah",
+              "score1": 13,
+              "score2": 9,
+              "datetime": "2014-03-22T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

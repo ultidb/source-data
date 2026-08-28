@@ -1,0 +1,920 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2016/Great-Lakes-D-I-College-Womens-Regionals-2016CollegeWomen",
+  "sourceUrl": "https://play.usaultimate.org/events/Great-Lakes-D-I-College-Womens-Regionals-2016/schedule/Women/CollegeWomen/",
+  "scrapedAt": "2026-08-28T10:06:13.369038Z",
+  "event": {
+    "name": "Great Lakes D-I College Women's Regionals 2016",
+    "division": "College - Women ",
+    "gender": "",
+    "season": 2016,
+    "city": "Fair Oaks",
+    "state": "IN",
+    "country": "",
+    "startDate": "2016-04-30",
+    "endDate": "2016-05-01"
+  },
+  "teams": [
+    {
+      "name": "Michigan",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Flywheel",
+        "location": "Ann Arbor, Michigan",
+        "website": "www.flywheelultimate.com",
+        "facebook": "",
+        "twitter": "@UmichFlywheel"
+      },
+      "coaches": [
+        "Benjamin Murphy",
+        "Joseph Besser",
+        "Alyssa Abbey"
+      ],
+      "roster": [
+        {
+          "number": "01",
+          "name": "Kari Paine"
+        },
+        {
+          "number": "02",
+          "name": "Ali Jensen"
+        },
+        {
+          "number": "03",
+          "name": "Leslie Hamar"
+        },
+        {
+          "number": "06",
+          "name": "Olivia Perfetti"
+        },
+        {
+          "number": "07",
+          "name": "Elizabeth Benedetto"
+        },
+        {
+          "number": "09",
+          "name": "Nina Janjic"
+        },
+        {
+          "number": "10",
+          "name": "Brittany Wright"
+        },
+        {
+          "number": "11",
+          "name": "Tracey Lo"
+        },
+        {
+          "number": "13",
+          "name": "Mary Boyd"
+        },
+        {
+          "number": "14",
+          "name": "Meghan Campano"
+        },
+        {
+          "number": "15",
+          "name": "Emily Jameson"
+        },
+        {
+          "number": "17",
+          "name": "Maya Grumeretz"
+        },
+        {
+          "number": "20",
+          "name": "Emma Boyd"
+        },
+        {
+          "number": "22",
+          "name": "Talia Barth"
+        },
+        {
+          "number": "23",
+          "name": "Gina Sancricca"
+        },
+        {
+          "number": "27",
+          "name": "Bridget Karsten"
+        },
+        {
+          "number": "28",
+          "name": "Leah Bar-On Simmons"
+        },
+        {
+          "number": "37",
+          "name": "Hannah Henkin"
+        },
+        {
+          "number": "44",
+          "name": "Grace Denney"
+        },
+        {
+          "number": "46",
+          "name": "Amy Stoddard"
+        },
+        {
+          "number": "48",
+          "name": "Hannah Gannon"
+        },
+        {
+          "number": "66",
+          "name": "Tia Esposito"
+        },
+        {
+          "number": "77",
+          "name": "Phoebe Hopp"
+        }
+      ]
+    },
+    {
+      "name": "Northwestern",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "GungHo",
+        "location": "Evanston, Illinois",
+        "website": "http://nugungho.com",
+        "facebook": "https://www.facebook.com/NUgungho",
+        "twitter": "GungHoUltimate"
+      },
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Purdue",
+      "seed": 8,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "AMOC",
+        "location": "West Lafayette, Indiana",
+        "website": "http://purduewomensultimate.weebly.com/",
+        "facebook": "",
+        "twitter": "https://twitter.com/PurdueWomensUlt"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Jan Chia"
+        },
+        {
+          "number": "0",
+          "name": "Heather Gerber"
+        },
+        {
+          "number": "0",
+          "name": "Dakota Selburg"
+        },
+        {
+          "number": "0",
+          "name": "Elissa  Hall"
+        },
+        {
+          "number": "0",
+          "name": "Maggie Kline"
+        },
+        {
+          "number": "0",
+          "name": "Hannah Mackin Schenck"
+        },
+        {
+          "number": "2",
+          "name": "Amanda Postolowski"
+        },
+        {
+          "number": "5",
+          "name": "Megan Jarriel"
+        },
+        {
+          "number": "6",
+          "name": "Emily Beasley"
+        },
+        {
+          "number": "7",
+          "name": "Heather Strathearn"
+        },
+        {
+          "number": "8",
+          "name": "Margaret Nelson"
+        },
+        {
+          "number": "8",
+          "name": "Cheng Mun Loke"
+        },
+        {
+          "number": "12",
+          "name": "Shannon Jones"
+        },
+        {
+          "number": "14",
+          "name": "Haley Bartolomei"
+        },
+        {
+          "number": "18",
+          "name": "Katherine Schauer"
+        },
+        {
+          "number": "19",
+          "name": "Kristene Faun"
+        },
+        {
+          "number": "23",
+          "name": "MONICA LASLEY"
+        },
+        {
+          "number": "25",
+          "name": "Zaty Fazil"
+        },
+        {
+          "number": "26",
+          "name": "Kennedy Clark"
+        },
+        {
+          "number": "27",
+          "name": "Emilie Garnier"
+        },
+        {
+          "number": "29",
+          "name": "Ariel Black"
+        },
+        {
+          "number": "33",
+          "name": "TEEGAN ECKES"
+        },
+        {
+          "number": "34",
+          "name": "Darien Rodriguez"
+        },
+        {
+          "number": "56",
+          "name": "Brigid  Hayes"
+        },
+        {
+          "number": "63",
+          "name": "Jhoanna Sadural"
+        },
+        {
+          "number": "65",
+          "name": "Abigail Hallow"
+        }
+      ]
+    },
+    {
+      "name": "Chicago",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Supersnatch",
+        "location": "Chicago, Illinois",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/SnatchSuper"
+      },
+      "coaches": [
+        "Matthew Schiffman"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Anna Her"
+        },
+        {
+          "number": "0",
+          "name": "Alicia Zhao"
+        },
+        {
+          "number": "0",
+          "name": "Madison Moore"
+        },
+        {
+          "number": "0",
+          "name": "Lauren Poulson"
+        },
+        {
+          "number": "0",
+          "name": "Angela Li"
+        },
+        {
+          "number": "0",
+          "name": "Marta De Giuli"
+        },
+        {
+          "number": "0",
+          "name": "Hallie Parten"
+        },
+        {
+          "number": "0",
+          "name": "Larissa Clopton"
+        },
+        {
+          "number": "0",
+          "name": "Jessica Hanlon"
+        },
+        {
+          "number": "0",
+          "name": "LEAH KESSLER"
+        },
+        {
+          "number": "0",
+          "name": "Ruby An"
+        },
+        {
+          "number": "0",
+          "name": "Felicia Jiang"
+        },
+        {
+          "number": "0",
+          "name": "Jenny Wang"
+        },
+        {
+          "number": "0",
+          "name": "Audrey Fritz"
+        },
+        {
+          "number": "0",
+          "name": "Gabby Skifstad"
+        },
+        {
+          "number": "0",
+          "name": "Amber Frankland"
+        },
+        {
+          "number": "0",
+          "name": "Molly O’Donnell"
+        },
+        {
+          "number": "10",
+          "name": "Gianna Sparks"
+        },
+        {
+          "number": "21",
+          "name": "Megan Lau"
+        },
+        {
+          "number": "61",
+          "name": "Hani Pajela"
+        }
+      ]
+    },
+    {
+      "name": "Illinois",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Illinois",
+        "location": "Champaign-Urbana, Illinois",
+        "website": "http://illinoismenace.tumblr.com/",
+        "facebook": "https://www.facebook.com/IllinoisWomensUltimate",
+        "twitter": "https://twitter.com/IllinoisMenaceU"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Emily Sheridan"
+        },
+        {
+          "number": "00",
+          "name": "Chesca Calicdan"
+        },
+        {
+          "number": "00",
+          "name": "Rebekah Seyfert"
+        },
+        {
+          "number": "00",
+          "name": "Natalie Stephan"
+        },
+        {
+          "number": "02",
+          "name": "Candace Brahm"
+        },
+        {
+          "number": "04",
+          "name": "Joline Chang"
+        },
+        {
+          "number": "12",
+          "name": "Amy Copper"
+        },
+        {
+          "number": "14",
+          "name": "Mikayla Yoder"
+        },
+        {
+          "number": "16",
+          "name": "Allison Chmaj"
+        },
+        {
+          "number": "21",
+          "name": "Kelsey Thompson"
+        },
+        {
+          "number": "22",
+          "name": "Jamie Petroelje"
+        },
+        {
+          "number": "27",
+          "name": "Michelle Cabahug"
+        },
+        {
+          "number": "32",
+          "name": "Vivian Chu"
+        },
+        {
+          "number": "36",
+          "name": "Bianca Delgado"
+        },
+        {
+          "number": "38",
+          "name": "Cora Wessman"
+        }
+      ]
+    },
+    {
+      "name": "Notre Dame",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Womb",
+        "location": "Notre Dame, Indiana",
+        "website": "http://ndultimate.wordpress.com/",
+        "facebook": "",
+        "twitter": "https://twitter.com/ndultimate"
+      },
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Indiana",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Calamity Jane",
+        "location": "Bloomington, Indiana",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Blair Morton"
+        },
+        {
+          "number": "0",
+          "name": "VIRGINIA TALLEY"
+        },
+        {
+          "number": "0",
+          "name": "REBECCA FERBER"
+        },
+        {
+          "number": "0",
+          "name": "Madilynn Werbianskyj"
+        },
+        {
+          "number": "0",
+          "name": "Devin Collett"
+        },
+        {
+          "number": "0",
+          "name": "Catherine Penn"
+        },
+        {
+          "number": "3",
+          "name": "Danielle Zigulich"
+        },
+        {
+          "number": "5",
+          "name": "Hannah Powers"
+        },
+        {
+          "number": "7",
+          "name": "Cylie Miller"
+        },
+        {
+          "number": "9",
+          "name": "Marta Shocket"
+        },
+        {
+          "number": "10",
+          "name": "Rachel Enyeart"
+        },
+        {
+          "number": "17",
+          "name": "Sydney Raftery"
+        },
+        {
+          "number": "27",
+          "name": "Monica Villanueva"
+        },
+        {
+          "number": "29",
+          "name": "Alyssa Strickler"
+        },
+        {
+          "number": "37",
+          "name": "Courteney Fentz"
+        },
+        {
+          "number": "58",
+          "name": "Wini Henson"
+        }
+      ]
+    },
+    {
+      "name": "Michigan State",
+      "seed": 7,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Infamous",
+        "location": "East Lansing, Michigan",
+        "website": "http://infamousultimate.synthasite.com/",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "Patrick Abeli"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Heather  Bueche"
+        },
+        {
+          "number": "0",
+          "name": "Kristen Brown"
+        },
+        {
+          "number": "0",
+          "name": "Sydney Santoviz"
+        },
+        {
+          "number": "0",
+          "name": "MOLLY GAUDETTE"
+        },
+        {
+          "number": "0",
+          "name": "Nicole Vince"
+        },
+        {
+          "number": "0",
+          "name": "Elise Jensen"
+        },
+        {
+          "number": "0",
+          "name": "Sona Dagley"
+        },
+        {
+          "number": "0",
+          "name": "Rachel Bootka"
+        },
+        {
+          "number": "0",
+          "name": "Riley Bruen"
+        },
+        {
+          "number": "0",
+          "name": "Shelby Mroz "
+        },
+        {
+          "number": "0",
+          "name": "Ellen Grimes"
+        },
+        {
+          "number": "0",
+          "name": "Marley Marano"
+        },
+        {
+          "number": "0",
+          "name": "Natalee Dally"
+        },
+        {
+          "number": "0",
+          "name": "Katie Edwards"
+        },
+        {
+          "number": "0",
+          "name": "McKenna Curcio"
+        },
+        {
+          "number": "0",
+          "name": "Aubrey Loftus"
+        },
+        {
+          "number": "0",
+          "name": "Jill Gasche"
+        },
+        {
+          "number": "5",
+          "name": "Lindy Torvinen"
+        },
+        {
+          "number": "6",
+          "name": "Emily D'Imperio"
+        },
+        {
+          "number": "7",
+          "name": "Brandi Skanes"
+        },
+        {
+          "number": "8",
+          "name": "Jenna Ray"
+        },
+        {
+          "number": "9",
+          "name": "Anna McClurkan"
+        },
+        {
+          "number": "19",
+          "name": "Ida  Ahmady"
+        },
+        {
+          "number": "24",
+          "name": "Kotomi Obayashi"
+        },
+        {
+          "number": "33",
+          "name": "Kelsey Bowe"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Michigan",
+              "team2": "Chicago",
+              "score1": 13,
+              "score2": 1,
+              "datetime": "2016-04-30T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Northwestern",
+              "team2": "Purdue",
+              "score1": 10,
+              "score2": 5,
+              "datetime": "2016-04-30T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Michigan",
+              "team2": "Purdue",
+              "score1": 7,
+              "score2": 5,
+              "datetime": "2016-04-30T10:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Northwestern",
+              "team2": "Chicago",
+              "score1": 10,
+              "score2": 5,
+              "datetime": "2016-04-30T10:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Michigan",
+              "team2": "Northwestern",
+              "score1": 10,
+              "score2": 5,
+              "datetime": "2016-04-30T12:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Chicago",
+              "team2": "Purdue",
+              "score1": 7,
+              "score2": 8,
+              "datetime": "2016-04-30T12:20:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool B",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Notre Dame",
+              "team2": "Illinois",
+              "score1": 8,
+              "score2": 9,
+              "datetime": "2016-04-30T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Indiana",
+              "team2": "Michigan State",
+              "score1": 9,
+              "score2": 4,
+              "datetime": "2016-04-30T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Notre Dame",
+              "team2": "Michigan State",
+              "score1": 10,
+              "score2": 4,
+              "datetime": "2016-04-30T10:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Indiana",
+              "team2": "Illinois",
+              "score1": 6,
+              "score2": 7,
+              "datetime": "2016-04-30T10:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Notre Dame",
+              "team2": "Indiana",
+              "score1": 7,
+              "score2": 4,
+              "datetime": "2016-04-30T12:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Illinois",
+              "team2": "Michigan State",
+              "score1": 9,
+              "score2": 7,
+              "datetime": "2016-04-30T12:20:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Bracket Play",
+      "groups": [
+        {
+          "name": "1st Place Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Michigan",
+              "team2": "Northwestern",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2016-05-01T15:00:00Z",
+              "round": "1st Place Final",
+              "status": "Final"
+            },
+            {
+              "team1": "Michigan",
+              "team2": "Notre Dame",
+              "score1": 13,
+              "score2": 12,
+              "datetime": "2016-05-01T13:00:00Z",
+              "round": "1st Place Semis",
+              "status": "Final"
+            },
+            {
+              "team1": "Northwestern",
+              "team2": "Illinois",
+              "score1": 12,
+              "score2": 9,
+              "datetime": "2016-05-01T13:00:00Z",
+              "round": "1st Place Semis",
+              "status": "Final"
+            },
+            {
+              "team1": "Michigan",
+              "team2": "Michigan State",
+              "score1": 15,
+              "score2": 2,
+              "datetime": "2016-05-01T11:00:00Z",
+              "round": "1st Place Quarters",
+              "status": "Final"
+            },
+            {
+              "team1": "Notre Dame",
+              "team2": "Purdue",
+              "score1": 15,
+              "score2": 6,
+              "datetime": "2016-05-01T11:00:00Z",
+              "round": "1st Place Quarters",
+              "status": "Final"
+            },
+            {
+              "team1": "Northwestern",
+              "team2": "Indiana",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2016-05-01T11:00:00Z",
+              "round": "1st Place Quarters",
+              "status": "Final"
+            },
+            {
+              "team1": "Illinois",
+              "team2": "Chicago",
+              "score1": 9,
+              "score2": 8,
+              "datetime": "2016-05-01T11:00:00Z",
+              "round": "1st Place Quarters",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "5th Place Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Purdue",
+              "team2": "Chicago",
+              "score1": 10,
+              "score2": 11,
+              "datetime": "2016-05-01T15:00:00Z",
+              "round": "5th Place Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Michigan State",
+              "team2": "Purdue",
+              "score1": 9,
+              "score2": 15,
+              "datetime": "2016-05-01T13:00:00Z",
+              "round": "5th Place Semis",
+              "status": "Final"
+            },
+            {
+              "team1": "Indiana",
+              "team2": "Chicago",
+              "score1": 10,
+              "score2": 13,
+              "datetime": "2016-05-01T13:00:00Z",
+              "round": "5th Place Semis",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "3rd Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Notre Dame",
+              "team2": "Illinois",
+              "score1": 11,
+              "score2": 6,
+              "datetime": "2016-05-01T15:00:00Z",
+              "round": "3rd Place",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "7th Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Michigan State",
+              "team2": "Indiana",
+              "score1": 13,
+              "score2": 11,
+              "datetime": "2016-05-01T15:00:00Z",
+              "round": "7th Place",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
