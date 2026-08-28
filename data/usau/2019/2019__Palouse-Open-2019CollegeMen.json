@@ -1,0 +1,900 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2019/Palouse-Open-2019CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/Palouse-Open-2019/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:16.878987Z",
+  "event": {
+    "name": "Palouse Open 2019",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2019,
+    "city": "Pullman",
+    "state": "WA",
+    "country": "",
+    "startDate": "2019-03-09",
+    "endDate": "2019-03-10"
+  },
+  "teams": [
+    {
+      "name": "Oregon State",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Beavers",
+        "location": "Corvallis, Oregon",
+        "website": "http://osumensultimate.wix.com/oregon-state-ultimate",
+        "facebook": "https://www.facebook.com/osubeaversultimatedisc",
+        "twitter": "https://twitter.com/OSU_ultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "2",
+          "name": "Derrick Hirsch"
+        },
+        {
+          "number": "2",
+          "name": "Tyler MacMaster"
+        },
+        {
+          "number": "3",
+          "name": "Drew Peterschmidt"
+        },
+        {
+          "number": "5",
+          "name": "Kellen Murran"
+        },
+        {
+          "number": "7",
+          "name": "James Hynes-Petty"
+        },
+        {
+          "number": "9",
+          "name": "Xavier Ferris"
+        },
+        {
+          "number": "10",
+          "name": "Sean Duncan"
+        },
+        {
+          "number": "12",
+          "name": "Dan Baumgartner"
+        },
+        {
+          "number": "13",
+          "name": "Ian Shibley-Styer"
+        },
+        {
+          "number": "15",
+          "name": "Cole Eustis"
+        },
+        {
+          "number": "17",
+          "name": "Tobias Bird"
+        },
+        {
+          "number": "18",
+          "name": "Conner Stillwell"
+        },
+        {
+          "number": "20",
+          "name": "Drew Gehrke"
+        },
+        {
+          "number": "21",
+          "name": "Matthew Young"
+        },
+        {
+          "number": "24",
+          "name": "Colin Knechtel"
+        },
+        {
+          "number": "25",
+          "name": "William Rowley"
+        },
+        {
+          "number": "26",
+          "name": "Taylor White"
+        },
+        {
+          "number": "27",
+          "name": "Hugh MacWilliams"
+        },
+        {
+          "number": "45",
+          "name": "Zach Heiden"
+        },
+        {
+          "number": "47",
+          "name": "Lukas Dumestre"
+        },
+        {
+          "number": "62",
+          "name": "Quinn Buermeyer"
+        },
+        {
+          "number": "69",
+          "name": "Tony Robinson"
+        },
+        {
+          "number": "78",
+          "name": "Aaron Duda"
+        },
+        {
+          "number": "79",
+          "name": "Benjamin Liu-May"
+        },
+        {
+          "number": "82",
+          "name": "Owen Welch"
+        }
+      ]
+    },
+    {
+      "name": "Washington State",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Air Raid",
+        "location": "Pullman, Washington",
+        "website": "",
+        "facebook": "https://www.facebook.com/wsuultimateclub",
+        "twitter": "https://twitter.com/WSU_Ultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Austin Cornell"
+        },
+        {
+          "number": "0",
+          "name": "Austin Boschma"
+        },
+        {
+          "number": "0",
+          "name": "Benjamin Matthews"
+        },
+        {
+          "number": "0",
+          "name": "Daniel Schwartz"
+        },
+        {
+          "number": "0",
+          "name": "Fernando Yeung"
+        },
+        {
+          "number": "0",
+          "name": "Hugh McGough"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Quinn"
+        },
+        {
+          "number": "4",
+          "name": "Ryan Trivoli"
+        },
+        {
+          "number": "8",
+          "name": "Joseph Temme"
+        },
+        {
+          "number": "10",
+          "name": "Colin Jamieson"
+        },
+        {
+          "number": "13",
+          "name": "Thomas Sutton"
+        },
+        {
+          "number": "16",
+          "name": "Nischal Tamang"
+        },
+        {
+          "number": "17",
+          "name": "Brenden Campbell"
+        },
+        {
+          "number": "23",
+          "name": "Craig Naglestad"
+        },
+        {
+          "number": "24",
+          "name": "Grey Stigler"
+        },
+        {
+          "number": "28",
+          "name": "Ryan Spadia"
+        },
+        {
+          "number": "44",
+          "name": "Connor Donegan"
+        },
+        {
+          "number": "55",
+          "name": "Jim Floyd"
+        },
+        {
+          "number": "74",
+          "name": "Jack Kulju"
+        },
+        {
+          "number": "83",
+          "name": "Kenneth Reeck"
+        }
+      ]
+    },
+    {
+      "name": "Idaho",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Red Scare",
+        "location": "Moscow, Idaho",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Jacob Alderink"
+        },
+        {
+          "number": "02",
+          "name": "Cameron  Milbrath"
+        },
+        {
+          "number": "03",
+          "name": "Joshua Rudolph"
+        },
+        {
+          "number": "12",
+          "name": "Justin Knight"
+        },
+        {
+          "number": "13",
+          "name": "Malacki Ginner"
+        },
+        {
+          "number": "23",
+          "name": "Trevor Griffin"
+        },
+        {
+          "number": "26",
+          "name": "Michel Terry"
+        },
+        {
+          "number": "36",
+          "name": "Chase Anderson"
+        },
+        {
+          "number": "81",
+          "name": "Bradley Hummel"
+        },
+        {
+          "number": "86",
+          "name": "Teddy Ertel"
+        },
+        {
+          "number": "97",
+          "name": "Gavin Kohl"
+        },
+        {
+          "number": "99",
+          "name": "Patrick Paulus"
+        }
+      ]
+    },
+    {
+      "name": "Central Washington",
+      "seed": 8,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Wind Machin",
+        "location": "Ellensburg, Washington",
+        "website": "http://www.cwu.edu/sport-clubs/",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Alex Wyruchowski"
+        },
+        {
+          "number": "00",
+          "name": "Chase Aird"
+        },
+        {
+          "number": "00",
+          "name": "Curtis  Kovach"
+        },
+        {
+          "number": "00",
+          "name": "Jacob Davidson"
+        },
+        {
+          "number": "00",
+          "name": "Jacob O'Connell"
+        },
+        {
+          "number": "02",
+          "name": "Collin Ueltschi"
+        },
+        {
+          "number": "08",
+          "name": "Ryan Glessner"
+        },
+        {
+          "number": "28",
+          "name": "Brandon Kiely"
+        },
+        {
+          "number": "69",
+          "name": "Sam Gingrich"
+        }
+      ]
+    },
+    {
+      "name": "Whitworth",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Bangarang",
+        "location": "Spokane, Washington",
+        "website": "",
+        "facebook": "https://www.facebook.com/groups/163382877053175/",
+        "twitter": "https://twitter.com/Whitworth_Ulti?lang=en"
+      },
+      "coaches": [
+        "Anna Pritchard"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Caleb Crary"
+        },
+        {
+          "number": "0",
+          "name": "Carter Nickelson"
+        },
+        {
+          "number": "0",
+          "name": "Drew Thomas"
+        },
+        {
+          "number": "0",
+          "name": "Josh Seiersen"
+        },
+        {
+          "number": "0",
+          "name": "Lucas Knack"
+        },
+        {
+          "number": "0",
+          "name": "Michael Harris"
+        },
+        {
+          "number": "0",
+          "name": "Joe Spencer"
+        },
+        {
+          "number": "0",
+          "name": "Tanner Decker"
+        },
+        {
+          "number": "5",
+          "name": "Scott Maxa"
+        },
+        {
+          "number": "11",
+          "name": "Drew Cairns"
+        },
+        {
+          "number": "12",
+          "name": "James Holtz"
+        },
+        {
+          "number": "13",
+          "name": "Ryan Bax"
+        },
+        {
+          "number": "15",
+          "name": "Daniel Gimbel"
+        },
+        {
+          "number": "25",
+          "name": "Thomas Symons"
+        },
+        {
+          "number": "77",
+          "name": "Jonah Coffee"
+        }
+      ]
+    },
+    {
+      "name": "Western Washington University (B)",
+      "seed": 7,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "WWU MUD",
+        "location": "Bellingham, Washington",
+        "website": "",
+        "facebook": "https://www.facebook.com/WWUMUD/",
+        "twitter": "https://twitter.com/mudwwu"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Christopher Stovall"
+        },
+        {
+          "number": "0",
+          "name": "Collin Coughlin"
+        },
+        {
+          "number": "0",
+          "name": "Connor Farrand"
+        },
+        {
+          "number": "0",
+          "name": "Devri Langhelm"
+        },
+        {
+          "number": "0",
+          "name": "Dylan Bruce"
+        },
+        {
+          "number": "0",
+          "name": "Eli Santkuyl"
+        },
+        {
+          "number": "0",
+          "name": "Griffin Butler"
+        },
+        {
+          "number": "0",
+          "name": "Jack Kingsley"
+        },
+        {
+          "number": "0",
+          "name": "Aidan Clouse"
+        },
+        {
+          "number": "0",
+          "name": "Andrew Eaton"
+        },
+        {
+          "number": "0",
+          "name": "Jon Abramson"
+        },
+        {
+          "number": "0",
+          "name": "Logan Pashby"
+        },
+        {
+          "number": "0",
+          "name": "Maxwell Kinney"
+        },
+        {
+          "number": "0",
+          "name": "Nicholas Stringer"
+        },
+        {
+          "number": "02",
+          "name": "Denny Ng"
+        },
+        {
+          "number": "07",
+          "name": "Michael Sharrock"
+        },
+        {
+          "number": "09",
+          "name": "Chase Simerka"
+        },
+        {
+          "number": "13",
+          "name": "Jin Oh"
+        },
+        {
+          "number": "17",
+          "name": "Casey Gackle"
+        },
+        {
+          "number": "20",
+          "name": "Jean Salaya"
+        },
+        {
+          "number": "28",
+          "name": "Zachary Loomer"
+        },
+        {
+          "number": "31",
+          "name": "Kyle  Griffin"
+        },
+        {
+          "number": "35",
+          "name": "Steve Chang"
+        },
+        {
+          "number": "55",
+          "name": "Matthew Adams"
+        },
+        {
+          "number": "99",
+          "name": "Ryan McNamara"
+        }
+      ]
+    },
+    {
+      "name": "Boise State",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Mamu Zaldi",
+        "location": "Boise, Idaho",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Drew Lysne"
+        },
+        {
+          "number": "0",
+          "name": "Jacob Kemmer"
+        },
+        {
+          "number": "0",
+          "name": "jarred light"
+        },
+        {
+          "number": "0",
+          "name": "Jay Everett"
+        },
+        {
+          "number": "0",
+          "name": "Jordan Winberry"
+        },
+        {
+          "number": "0",
+          "name": "Josiah Frank"
+        },
+        {
+          "number": "0",
+          "name": "Charlie Daly"
+        },
+        {
+          "number": "0",
+          "name": "Makana Sabate"
+        },
+        {
+          "number": "0",
+          "name": "Michael Lizzarago"
+        },
+        {
+          "number": "0",
+          "name": "Owen Kempf"
+        },
+        {
+          "number": "4",
+          "name": "Nathaniel Dryden"
+        },
+        {
+          "number": "11",
+          "name": "Archey Charnou"
+        },
+        {
+          "number": "13",
+          "name": "Ryan Melvin"
+        },
+        {
+          "number": "17",
+          "name": "Lucas Brockman"
+        },
+        {
+          "number": "18",
+          "name": "Cody LaCoursiere "
+        },
+        {
+          "number": "85",
+          "name": "Will Merdgen"
+        }
+      ]
+    },
+    {
+      "name": "Portland State",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Vitruvious",
+        "location": "Portland, Oregon",
+        "website": "https://www.facebook.com/portlandstateultimate",
+        "facebook": "https://www.facebook.com/portlandstateultimate",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Nathan Schutt"
+        },
+        {
+          "number": "0",
+          "name": "Nicholas Guthrie"
+        },
+        {
+          "number": "21",
+          "name": "Damon McMahon"
+        },
+        {
+          "number": "22",
+          "name": "Victor Cowles"
+        },
+        {
+          "number": "23",
+          "name": "Joseph Balsama"
+        },
+        {
+          "number": "25",
+          "name": "Sean Oulashin"
+        },
+        {
+          "number": "44",
+          "name": "Rio Le"
+        },
+        {
+          "number": "75",
+          "name": "Luke Hanst"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Oregon State",
+              "team2": "Idaho",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2019-03-09T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Washington State",
+              "team2": "Central Washington",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2019-03-09T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Oregon State",
+              "team2": "Central Washington",
+              "score1": 15,
+              "score2": 5,
+              "datetime": "2019-03-09T10:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Washington State",
+              "team2": "Idaho",
+              "score1": 15,
+              "score2": 6,
+              "datetime": "2019-03-09T10:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Oregon State",
+              "team2": "Washington State",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2019-03-09T12:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Idaho",
+              "team2": "Central Washington",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2019-03-09T12:20:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool B",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Whitworth",
+              "team2": "Portland State",
+              "score1": 15,
+              "score2": 6,
+              "datetime": "2019-03-09T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Boise State",
+              "team2": "Western Washington University (B)",
+              "score1": 7,
+              "score2": 11,
+              "datetime": "2019-03-09T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Whitworth",
+              "team2": "Western Washington University (B)",
+              "score1": 13,
+              "score2": 11,
+              "datetime": "2019-03-09T10:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Boise State",
+              "team2": "Portland State",
+              "score1": 12,
+              "score2": 11,
+              "datetime": "2019-03-09T10:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Whitworth",
+              "team2": "Boise State",
+              "score1": 12,
+              "score2": 7,
+              "datetime": "2019-03-09T12:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Portland State",
+              "team2": "Western Washington University (B)",
+              "score1": 8,
+              "score2": 14,
+              "datetime": "2019-03-09T12:20:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Bracket Play",
+      "groups": [
+        {
+          "name": "Finals",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Oregon State",
+              "team2": "Whitworth",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2019-03-10T10:40:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Oregon State",
+              "team2": "Western Washington University (B)",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2019-03-10T09:00:00Z",
+              "round": "Semis",
+              "status": "Final"
+            },
+            {
+              "team1": "Whitworth",
+              "team2": "Washington State",
+              "score1": 12,
+              "score2": 11,
+              "datetime": "2019-03-10T09:00:00Z",
+              "round": "Semis",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "3rd Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Western Washington University (B)",
+              "team2": "Washington State",
+              "score1": 9,
+              "score2": 15,
+              "datetime": "2019-03-10T10:40:00Z",
+              "round": "3rd Place",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "5th Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Portland State",
+              "team2": "Boise State",
+              "score1": 13,
+              "score2": 15,
+              "datetime": "2019-03-10T10:40:00Z",
+              "round": "5th Place",
+              "status": "Final"
+            },
+            {
+              "team1": "Idaho",
+              "team2": "Portland State",
+              "score1": 12,
+              "score2": 15,
+              "datetime": "2019-03-10T09:00:00Z",
+              "round": "5th Place Semis",
+              "status": "Final"
+            },
+            {
+              "team1": "Boise State",
+              "team2": "Central Washington",
+              "score1": 10,
+              "score2": 9,
+              "datetime": "2019-03-10T09:00:00Z",
+              "round": "5th Place Semis",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "7th Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Idaho",
+              "team2": "Central Washington",
+              "score1": 8,
+              "score2": 15,
+              "datetime": "2019-03-10T10:40:00Z",
+              "round": "7th Place",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2023/Rochester-Round-Robin-2Club-Men",
+  "sourceUrl": "https://play.usaultimate.org/events/Rochester-Round-Robin-2/schedule/Men/Club-Men/",
+  "scrapedAt": "2026-08-28T10:06:19.728072Z",
+  "event": {
+    "name": "Rochester Round Robin 2 2023",
+    "division": "Club - Men ",
+    "gender": "",
+    "season": 2023,
+    "city": "Rochester",
+    "state": "NY",
+    "country": "",
+    "startDate": "2023-07-22",
+    "endDate": "2023-07-22"
+  },
+  "teams": [
+    {
+      "name": "Rochester Open Club",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Rochester, New York",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Dylan Ryder"
+        },
+        {
+          "number": "0",
+          "name": "Ethan Franz"
+        },
+        {
+          "number": "0",
+          "name": "Gabriel Gosink"
+        },
+        {
+          "number": "0",
+          "name": "Jack Lazenby"
+        },
+        {
+          "number": "0",
+          "name": "Joey Puma"
+        },
+        {
+          "number": "0",
+          "name": "John Vanderwege"
+        },
+        {
+          "number": "0",
+          "name": "Kyle  Behrenfeld"
+        },
+        {
+          "number": "0",
+          "name": "Logan McGee"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Lehmann"
+        },
+        {
+          "number": "0",
+          "name": "Stephen Sampson"
+        },
+        {
+          "number": "5",
+          "name": "Jackson Baldwin"
+        },
+        {
+          "number": "6",
+          "name": "Skylar Brunner"
+        },
+        {
+          "number": "11",
+          "name": "Jamie Falkovich "
+        },
+        {
+          "number": "13",
+          "name": "Braemen Twitchell"
+        },
+        {
+          "number": "25",
+          "name": "William McNamara"
+        }
+      ]
+    },
+    {
+      "name": "Mohawk Valley Wild",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Utica, New York",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Lewis Lewis"
+        },
+        {
+          "number": "2",
+          "name": "Jonathan Willman"
+        },
+        {
+          "number": "4",
+          "name": "Rene Sumanasuriya"
+        },
+        {
+          "number": "6",
+          "name": "Matthew Johnson"
+        },
+        {
+          "number": "8",
+          "name": "Larry Fredsell"
+        },
+        {
+          "number": "9",
+          "name": "Joel Young"
+        },
+        {
+          "number": "05",
+          "name": "Ryan  McGuire "
+        },
+        {
+          "number": "10",
+          "name": "John Carbone"
+        },
+        {
+          "number": "15",
+          "name": "Craig Garrow"
+        },
+        {
+          "number": "16",
+          "name": "Tim  Ha"
+        },
+        {
+          "number": "17",
+          "name": "Ryan Bouchard"
+        },
+        {
+          "number": "18",
+          "name": "Dasen Song"
+        },
+        {
+          "number": "21",
+          "name": "Dean Mealey"
+        },
+        {
+          "number": "25",
+          "name": "Austin Cipriano"
+        },
+        {
+          "number": "50",
+          "name": "Ryan Fish"
+        },
+        {
+          "number": "64",
+          "name": "Mason Raffo"
+        },
+        {
+          "number": "96",
+          "name": "Jordan Sovie"
+        }
+      ]
+    },
+    {
+      "name": "Buffalo Frostbite",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Buffalo, New York",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Chris Ritchie"
+        },
+        {
+          "number": "0",
+          "name": "Elliot Rivera"
+        },
+        {
+          "number": "0",
+          "name": "Gregory Pollock"
+        },
+        {
+          "number": "0",
+          "name": "Jeffrey Shevlin"
+        },
+        {
+          "number": "0",
+          "name": "Matthias  Williams"
+        },
+        {
+          "number": "0",
+          "name": "Nick Wong"
+        },
+        {
+          "number": "0",
+          "name": "Rohn Parylo"
+        },
+        {
+          "number": "7",
+          "name": "Ian Clingerman"
+        },
+        {
+          "number": "13",
+          "name": "Benjamin Goodman"
+        },
+        {
+          "number": "21",
+          "name": "Michael Palozzi"
+        },
+        {
+          "number": "21",
+          "name": "Lucas Seeley"
+        },
+        {
+          "number": "25",
+          "name": "Joe  Bachraty"
+        },
+        {
+          "number": "29",
+          "name": "Luke LaBoy"
+        },
+        {
+          "number": "69",
+          "name": "Zane Roth"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Morning Games",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Rochester Open Club",
+              "team2": "Mohawk Valley Wild",
+              "score1": 9,
+              "score2": 5,
+              "datetime": "2023-07-22T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Buffalo Frostbite",
+              "team2": "Mohawk Valley Wild",
+              "score1": 8,
+              "score2": 13,
+              "datetime": "2023-07-22T11:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Buffalo Frostbite",
+              "team2": "Rochester Open Club",
+              "score1": 4,
+              "score2": 11,
+              "datetime": "2023-07-22T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "clusters",
+      "name": "Afternoon Games",
+      "groups": [
+        {
+          "name": "Afternoon Games",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Rochester Open Club",
+              "team2": "Mohawk Valley Wild",
+              "score1": 9,
+              "score2": 8,
+              "datetime": "2023-07-22T13:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Buffalo Frostbite",
+              "team2": "Mohawk Valley Wild",
+              "score1": 5,
+              "score2": 13,
+              "datetime": "2023-07-22T15:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Buffalo Frostbite",
+              "team2": "Rochester Open Club",
+              "score1": 10,
+              "score2": 13,
+              "datetime": "2023-07-22T16:15:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

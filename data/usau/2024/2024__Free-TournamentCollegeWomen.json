@@ -1,0 +1,264 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2024/Free-TournamentCollegeWomen",
+  "sourceUrl": "https://play.usaultimate.org/events/Free-Tournament/schedule/Women/CollegeWomen/",
+  "scrapedAt": "2026-08-28T10:06:20.788830Z",
+  "event": {
+    "name": "Free Tournament 2024",
+    "division": "College - Women ",
+    "gender": "",
+    "season": 2024,
+    "city": "Princeton",
+    "state": "NJ",
+    "country": "",
+    "startDate": "2024-03-16",
+    "endDate": "2024-03-17"
+  },
+  "teams": [
+    {
+      "name": "Mount Holyoke",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Daisy Chain",
+        "location": "South Hadley, Massachusetts",
+        "website": "",
+        "facebook": "https://www.facebook.com/mhcult",
+        "twitter": "https://twitter.com/mhcdaisychain"
+      },
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Williams",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Nova",
+        "location": "Williamstown, Massachusetts",
+        "website": "https://www.williamsultimate.com",
+        "facebook": "",
+        "twitter": "https://twitter.com/lifewithnova69"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Aliza Cotton"
+        },
+        {
+          "number": "0",
+          "name": "Amina Levites-Cohen"
+        },
+        {
+          "number": "0",
+          "name": "Catherine Rhame"
+        },
+        {
+          "number": "0",
+          "name": "Corinna Rhum"
+        },
+        {
+          "number": "0",
+          "name": "Dahlia Miller"
+        },
+        {
+          "number": "0",
+          "name": "Emily Stanger"
+        },
+        {
+          "number": "0",
+          "name": "Emma Sandstrom"
+        },
+        {
+          "number": "0",
+          "name": "Hannah Bernhardt"
+        },
+        {
+          "number": "0",
+          "name": "Joanie Cha"
+        },
+        {
+          "number": "0",
+          "name": "Jocelyn Bliven"
+        },
+        {
+          "number": "0",
+          "name": "Katherine Yang"
+        },
+        {
+          "number": "0",
+          "name": "Lauren Ryan"
+        },
+        {
+          "number": "0",
+          "name": "Lily Muhlbaum"
+        },
+        {
+          "number": "0",
+          "name": "Luna  Castillo"
+        },
+        {
+          "number": "0",
+          "name": "Mary Pelosky"
+        },
+        {
+          "number": "0",
+          "name": "Mawusi  Sefogbe "
+        },
+        {
+          "number": "0",
+          "name": "Maxine George"
+        },
+        {
+          "number": "0",
+          "name": "Mya Waxman"
+        },
+        {
+          "number": "0",
+          "name": "Nawon Lee"
+        },
+        {
+          "number": "0",
+          "name": "Ndey Touray"
+        },
+        {
+          "number": "0",
+          "name": "Rebecca Call"
+        },
+        {
+          "number": "0",
+          "name": "Rosie Harris"
+        },
+        {
+          "number": "0",
+          "name": "Sasha Driver"
+        },
+        {
+          "number": "0",
+          "name": "Sonia Zinkin-Meyers"
+        },
+        {
+          "number": "0",
+          "name": "Susanna Boberg"
+        },
+        {
+          "number": "0",
+          "name": "Tahlia Gerger"
+        },
+        {
+          "number": "3",
+          "name": "Skylar Yarter"
+        }
+      ]
+    },
+    {
+      "name": "Temple",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "TUF",
+        "location": "Philadelphia, Pennsylvania",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": []
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Williams",
+              "team2": "Temple",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2024-03-16T09:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Mount Holyoke",
+              "team2": "Temple",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2024-03-16T10:15:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Mount Holyoke",
+              "team2": "Williams",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2024-03-16T11:30:00Z",
+              "round": "",
+              "status": "Scheduled"
+            }
+          ]
+        },
+        {
+          "name": "Pool B",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Williams",
+              "team2": "Temple",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2024-03-16T12:45:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Mount Holyoke",
+              "team2": "Temple",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2024-03-16T14:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Mount Holyoke",
+              "team2": "Williams",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2024-03-16T15:15:00Z",
+              "round": "",
+              "status": "Scheduled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Bracket",
+      "groups": [
+        {
+          "name": "Bracket",
+          "isChampionship": false,
+          "games": []
+        },
+        {
+          "name": "Game",
+          "isChampionship": false,
+          "games": []
+        }
+      ]
+    }
+  ]
+}

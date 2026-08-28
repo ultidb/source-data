@@ -1,0 +1,232 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2026/Midas-the-IIIClub-Mixed",
+  "sourceUrl": "https://play.usaultimate.org/events/Midas-the-III/schedule/Mixed/Club-Mixed",
+  "scrapedAt": "2026-08-28T10:06:22.887795Z",
+  "event": {
+    "name": "Midas the III 2026",
+    "division": "Club - Mixed ",
+    "gender": "",
+    "season": 2026,
+    "city": "Columbus",
+    "state": "MS",
+    "country": "",
+    "startDate": "2026-08-22",
+    "endDate": "2026-08-23"
+  },
+  "teams": [
+    {
+      "name": "Sugar High",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Grapevine, Texas",
+        "website": "https://www.sugarhighultimate.com/",
+        "facebook": "https://www.instagram.com/sugar.high.ultimate?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Brandon Locklear"
+        },
+        {
+          "number": "0",
+          "name": "Emily Corona"
+        },
+        {
+          "number": "0",
+          "name": "Dennis Miller II"
+        },
+        {
+          "number": "0",
+          "name": "Isaac Fuller"
+        },
+        {
+          "number": "0",
+          "name": "Kirstin Murr"
+        },
+        {
+          "number": "0",
+          "name": "Jacob Ryan"
+        },
+        {
+          "number": "0",
+          "name": "Hannah Lacefield"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Welch"
+        },
+        {
+          "number": "0",
+          "name": "Morgan Scott"
+        },
+        {
+          "number": "0",
+          "name": "Tyler Terpening"
+        },
+        {
+          "number": "0",
+          "name": "Laneah Cummins"
+        },
+        {
+          "number": "5",
+          "name": "Colton McDorman"
+        },
+        {
+          "number": "7",
+          "name": "Lindsey Kappen"
+        },
+        {
+          "number": "8",
+          "name": "Logan Dillman"
+        },
+        {
+          "number": "10",
+          "name": "David Peterson"
+        },
+        {
+          "number": "11",
+          "name": "Caleb Lacefield"
+        },
+        {
+          "number": "17",
+          "name": "Quinton Butler"
+        },
+        {
+          "number": "22",
+          "name": "William Brinkmeyer"
+        },
+        {
+          "number": "35",
+          "name": "Kelly (Skipper) Guilbeau"
+        },
+        {
+          "number": "36",
+          "name": "Katrina Songco"
+        },
+        {
+          "number": "39",
+          "name": "Mattina Maloney"
+        },
+        {
+          "number": "51",
+          "name": "Jordyn Armstrong"
+        },
+        {
+          "number": "78",
+          "name": "Jessica Hurlburt"
+        }
+      ]
+    },
+    {
+      "name": "Bald Eagles",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Bessemer, Alabama",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Pier Pressure",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Pensacola, Florida",
+        "website": "https://www.instagram.com/pierpressureultimate/",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": []
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Saturday",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Bald Eagles",
+              "team2": "Pier Pressure",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-08-22T09:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Sugar High",
+              "team2": "Pier Pressure",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-08-22T11:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Sugar High",
+              "team2": "Bald Eagles",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-08-22T13:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            }
+          ]
+        },
+        {
+          "name": "Sunday",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Sugar High",
+              "team2": "Pier Pressure",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-08-23T08:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Sugar High",
+              "team2": "Bald Eagles",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-08-23T10:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Bald Eagles",
+              "team2": "Pier Pressure",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-08-23T12:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2024/Meltdown-mini-tournamentCollegeWomen",
+  "sourceUrl": "https://play.usaultimate.org/events/Meltdown-mini-tournament/schedule/Women/CollegeWomen/",
+  "scrapedAt": "2026-08-28T10:06:20.864283Z",
+  "event": {
+    "name": "Meltdown mini tournament 2024",
+    "division": "College - Women ",
+    "gender": "",
+    "season": 2024,
+    "city": "Loves Park",
+    "state": "IL",
+    "country": "",
+    "startDate": "2024-03-23",
+    "endDate": "2024-03-24"
+  },
+  "teams": [
+    {
+      "name": "Michigan Tech",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Superior Ma's",
+        "location": "Houghton, Michigan",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/mtusupma"
+      },
+      "coaches": [
+        "Anna Browne",
+        "Donna Johnston",
+        "Michael Merwin"
+      ],
+      "roster": [
+        {
+          "number": "02",
+          "name": "Haniya Frayer"
+        },
+        {
+          "number": "03",
+          "name": "Sadie Bartels"
+        },
+        {
+          "number": "04",
+          "name": "Eleanor Bush"
+        },
+        {
+          "number": "05",
+          "name": "Adelyn Richard"
+        },
+        {
+          "number": "09",
+          "name": "Makenna Dawson"
+        },
+        {
+          "number": "10",
+          "name": "Teresa Sanchez"
+        },
+        {
+          "number": "10",
+          "name": "Harlo Plendl"
+        },
+        {
+          "number": "12",
+          "name": "Megan Kennedy"
+        },
+        {
+          "number": "15",
+          "name": "Kayli Roe"
+        },
+        {
+          "number": "16",
+          "name": "Lily Frayer"
+        },
+        {
+          "number": "23",
+          "name": "Ashlea Datto"
+        },
+        {
+          "number": "24",
+          "name": "Lauren Saulino"
+        },
+        {
+          "number": "39",
+          "name": "Serenity  Snyder"
+        },
+        {
+          "number": "44",
+          "name": "Tessa Meyer"
+        },
+        {
+          "number": "99",
+          "name": "Emma Elliot"
+        }
+      ]
+    },
+    {
+      "name": "Wheaton (Illinois)",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Illinois) (WestWind",
+        "location": "Wheaton , Illinois",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "Matthew Golz"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Mia Posey"
+        },
+        {
+          "number": "3",
+          "name": "Caroline Hanna"
+        },
+        {
+          "number": "18",
+          "name": "Sabrina Tracy"
+        },
+        {
+          "number": "21",
+          "name": "Arabela Escareno"
+        },
+        {
+          "number": "22",
+          "name": "Brystol  Beatley"
+        },
+        {
+          "number": "22",
+          "name": "Haili McConnell"
+        },
+        {
+          "number": "23",
+          "name": "Catherine Serfass"
+        },
+        {
+          "number": "25",
+          "name": "Abby Karls"
+        },
+        {
+          "number": "59",
+          "name": "Stephanie Kishi"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Wheaton Mini Tourney",
+      "groups": [
+        {
+          "name": "Round 1 Pool",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Michigan Tech",
+              "team2": "Wheaton (Illinois)",
+              "score1": 9,
+              "score2": 4,
+              "datetime": "2024-03-23T05:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Round 2 pool",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Michigan Tech",
+              "team2": "Wheaton (Illinois)",
+              "score1": 9,
+              "score2": 5,
+              "datetime": "2024-03-23T14:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

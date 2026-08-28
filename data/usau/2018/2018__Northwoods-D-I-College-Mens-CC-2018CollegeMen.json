@@ -1,0 +1,897 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2018/Northwoods-D-I-College-Mens-CC-2018CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/Northwoods-D-I-College-Mens-CC-2018/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:15.694075Z",
+  "event": {
+    "name": "Northwoods D-I College Men's CC 2018",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2018,
+    "city": "Fargo",
+    "state": "ND",
+    "country": "",
+    "startDate": "2018-04-21",
+    "endDate": "2018-04-22"
+  },
+  "teams": [
+    {
+      "name": "Carleton College",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "CUT)",
+        "location": "Northfield, Minnesota",
+        "website": "http://orgs.carleton.edu/cut/",
+        "facebook": "https://www.facebook.com/CUTrules",
+        "twitter": "https://twitter.com/cutrules"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "1",
+          "name": "Luke Webb"
+        },
+        {
+          "number": "2",
+          "name": "Solomon Yanuck"
+        },
+        {
+          "number": "3",
+          "name": "Tony Ngo"
+        },
+        {
+          "number": "5",
+          "name": "Liam Holloway-Bidwell"
+        },
+        {
+          "number": "6",
+          "name": "Alex Olson"
+        },
+        {
+          "number": "7",
+          "name": "Cameron Hastings"
+        },
+        {
+          "number": "10",
+          "name": "Henry Fisher"
+        },
+        {
+          "number": "11",
+          "name": "Kohl Sparrman"
+        },
+        {
+          "number": "12",
+          "name": "Tim Schoch"
+        },
+        {
+          "number": "13",
+          "name": "Chris Padilla"
+        },
+        {
+          "number": "13",
+          "name": "Alexander Walker"
+        },
+        {
+          "number": "14",
+          "name": "Dillon Lanier"
+        },
+        {
+          "number": "15",
+          "name": "Eric Taylor"
+        },
+        {
+          "number": "16",
+          "name": "Elias Levey-Swain"
+        },
+        {
+          "number": "17",
+          "name": "Adam Throne"
+        },
+        {
+          "number": "19",
+          "name": "Stanley Birdsong"
+        },
+        {
+          "number": "21",
+          "name": "Ethan Bloodworth"
+        },
+        {
+          "number": "22",
+          "name": "Austin Baxter"
+        },
+        {
+          "number": "23",
+          "name": "Alexander Kucich"
+        },
+        {
+          "number": "24",
+          "name": "Noah Cohen"
+        },
+        {
+          "number": "25",
+          "name": "Justin Washington"
+        },
+        {
+          "number": "27",
+          "name": "Harrison Wolff Landau"
+        },
+        {
+          "number": "32",
+          "name": "Andrew Roy"
+        },
+        {
+          "number": "51",
+          "name": "Jared Kannel"
+        },
+        {
+          "number": "53",
+          "name": "David O'Dea"
+        },
+        {
+          "number": "92",
+          "name": "Joe White"
+        }
+      ]
+    },
+    {
+      "name": "Minnesota",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Grey Duck",
+        "location": "Minneapolis, Minnesota",
+        "website": "http://mngreyduck.weebly.com/",
+        "facebook": "https://www.facebook.com/MNGreyDuck",
+        "twitter": "@1Duck1Love"
+      },
+      "coaches": [
+        "Tallis Boyd",
+        "Justin Gilbert"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Cash Barber"
+        },
+        {
+          "number": "0",
+          "name": "Joe Bosshardt"
+        },
+        {
+          "number": "0",
+          "name": "Sam Jordan-Wood"
+        },
+        {
+          "number": "0",
+          "name": "Samuel Morris"
+        },
+        {
+          "number": "0",
+          "name": "Trevor Graham"
+        },
+        {
+          "number": "2",
+          "name": "David Zheng"
+        },
+        {
+          "number": "3",
+          "name": "Malakai Stern"
+        },
+        {
+          "number": "6",
+          "name": "Brian Thompson"
+        },
+        {
+          "number": "7",
+          "name": "Zach Trosvig"
+        },
+        {
+          "number": "8",
+          "name": "Cole Wallin"
+        },
+        {
+          "number": "9",
+          "name": "Tom Duret"
+        },
+        {
+          "number": "11",
+          "name": "Sam Kaminsky"
+        },
+        {
+          "number": "12",
+          "name": "Wystan Duhn"
+        },
+        {
+          "number": "13",
+          "name": "Nicholas Hammer"
+        },
+        {
+          "number": "13",
+          "name": "Cole Jurek"
+        },
+        {
+          "number": "14",
+          "name": "Jackson Cade"
+        },
+        {
+          "number": "15",
+          "name": "Daniel Meiland"
+        },
+        {
+          "number": "18",
+          "name": "James Nguyen"
+        },
+        {
+          "number": "19",
+          "name": "Oscar Leinbach"
+        },
+        {
+          "number": "21",
+          "name": "Joshua Pratt"
+        },
+        {
+          "number": "21",
+          "name": "Codi Wood"
+        },
+        {
+          "number": "22",
+          "name": "Adam Meckstroth"
+        },
+        {
+          "number": "23",
+          "name": "Saurav Dubey"
+        },
+        {
+          "number": "25",
+          "name": "Jonah Malenfant"
+        },
+        {
+          "number": "28",
+          "name": "Aaron Raskin"
+        },
+        {
+          "number": "48",
+          "name": "Wyatt Mekler"
+        },
+        {
+          "number": "88",
+          "name": "Jonah Jossart"
+        },
+        {
+          "number": "99",
+          "name": "Tristan Van De Moortele"
+        }
+      ]
+    },
+    {
+      "name": "Minnesota-Duluth",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Northern Lights",
+        "location": "Duluth, Minnesota",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "9",
+          "name": "Alexander Chapman"
+        },
+        {
+          "number": "02",
+          "name": "Patrick Andresen"
+        },
+        {
+          "number": "04",
+          "name": "Mark Roos"
+        },
+        {
+          "number": "06",
+          "name": "Isaac Thompson"
+        },
+        {
+          "number": "07",
+          "name": "Josh Daniel"
+        },
+        {
+          "number": "10",
+          "name": "Alex Griswold"
+        },
+        {
+          "number": "12",
+          "name": "Frank Fairchild"
+        },
+        {
+          "number": "14",
+          "name": "Tyler Thomegreene"
+        },
+        {
+          "number": "15",
+          "name": "Jacob WIlson"
+        },
+        {
+          "number": "16",
+          "name": "Riley Siewert"
+        },
+        {
+          "number": "19",
+          "name": "Noah White"
+        },
+        {
+          "number": "20",
+          "name": "Marty Adams"
+        },
+        {
+          "number": "21",
+          "name": "Luke Henry"
+        },
+        {
+          "number": "24",
+          "name": "Nick Vanderlinde"
+        },
+        {
+          "number": "26",
+          "name": "Sam Bates"
+        },
+        {
+          "number": "29",
+          "name": "Garrett Geib"
+        },
+        {
+          "number": "33",
+          "name": "Aidan Brew"
+        },
+        {
+          "number": "36",
+          "name": "Reese Grailer"
+        },
+        {
+          "number": "42",
+          "name": "Raheem Ishaque"
+        },
+        {
+          "number": "45",
+          "name": "Aaron Kueffer"
+        },
+        {
+          "number": "51",
+          "name": "Max Stillman"
+        },
+        {
+          "number": "64",
+          "name": "Erik Johnson"
+        },
+        {
+          "number": "73",
+          "name": "Evan Schindler"
+        },
+        {
+          "number": "87",
+          "name": "Trent Brunner"
+        },
+        {
+          "number": "99",
+          "name": "Kyle DeJesus"
+        }
+      ]
+    },
+    {
+      "name": "Minnesota State-Mankato",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "BlueSkunks",
+        "location": "Mankato, Minnesota",
+        "website": "",
+        "facebook": "https://www.facebook.com/pages/BlueSkunk-Ultimate/260003914024228",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Derek Flattum"
+        },
+        {
+          "number": "0",
+          "name": "Jacob Shiek"
+        },
+        {
+          "number": "0",
+          "name": "Jacob Herbold-Budinger"
+        },
+        {
+          "number": "2",
+          "name": "Parker Erickson"
+        },
+        {
+          "number": "9",
+          "name": "Dustin Michienzi"
+        },
+        {
+          "number": "07",
+          "name": "Benjamin Doeden"
+        },
+        {
+          "number": "11",
+          "name": "Patrick La Course"
+        },
+        {
+          "number": "11",
+          "name": "Yuri Bronson"
+        },
+        {
+          "number": "11",
+          "name": "Jayson Sorvari"
+        },
+        {
+          "number": "15",
+          "name": "Chad Brinker"
+        },
+        {
+          "number": "16",
+          "name": "Jacob Chamberland"
+        },
+        {
+          "number": "20",
+          "name": "Adam Riley"
+        },
+        {
+          "number": "27",
+          "name": "Daniel Bates"
+        },
+        {
+          "number": "29",
+          "name": "Evan Chirpich"
+        },
+        {
+          "number": "36",
+          "name": "Jameson Bernhagen"
+        },
+        {
+          "number": "64",
+          "name": "Braden Reinke"
+        },
+        {
+          "number": "68",
+          "name": "Brandon Ballinger"
+        },
+        {
+          "number": "89",
+          "name": "Isaac  Leonard"
+        },
+        {
+          "number": "99",
+          "name": "Austin Clifford"
+        }
+      ]
+    },
+    {
+      "name": "Minnesota (B)",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Ugly Duckling",
+        "location": "Minneapolis, Minnesota",
+        "website": "http://mnuglyduckling.weebly.com/",
+        "facebook": "",
+        "twitter": "@UglyDucklingUMN"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "1",
+          "name": "Derek Anderson"
+        },
+        {
+          "number": "2",
+          "name": "Jake O'Hara"
+        },
+        {
+          "number": "4",
+          "name": "Joseph Cregan"
+        },
+        {
+          "number": "5",
+          "name": "Julian Kinneavy"
+        },
+        {
+          "number": "10",
+          "name": "Jonah Matthew"
+        },
+        {
+          "number": "12",
+          "name": "Patrick Norman"
+        },
+        {
+          "number": "17",
+          "name": "Kai Knudson"
+        },
+        {
+          "number": "20",
+          "name": "Graham Schneider"
+        },
+        {
+          "number": "23",
+          "name": "Nathan Swanson"
+        },
+        {
+          "number": "24",
+          "name": "Christopher Clark"
+        },
+        {
+          "number": "25",
+          "name": "Sachchit Murali"
+        },
+        {
+          "number": "26",
+          "name": "Bill Keane"
+        },
+        {
+          "number": "27",
+          "name": "Max Wolpert"
+        },
+        {
+          "number": "28",
+          "name": "Matthew Greenstein"
+        },
+        {
+          "number": "31",
+          "name": "Ross Screaton"
+        },
+        {
+          "number": "33",
+          "name": "Paul Rheinberger"
+        },
+        {
+          "number": "34",
+          "name": "Ian Wheeler"
+        },
+        {
+          "number": "36",
+          "name": "Donald Wood"
+        },
+        {
+          "number": "39",
+          "name": "Sam Berk-Hinckley"
+        },
+        {
+          "number": "41",
+          "name": "Peter Diede"
+        },
+        {
+          "number": "42",
+          "name": "Anders Zetterlund"
+        },
+        {
+          "number": "43",
+          "name": "Alexander Perkins"
+        },
+        {
+          "number": "46",
+          "name": "Timothy Opdahl"
+        },
+        {
+          "number": "49",
+          "name": "Jacob Graff"
+        },
+        {
+          "number": "81",
+          "name": "Benjamin Holte"
+        },
+        {
+          "number": "99",
+          "name": "Nikhil Khurana"
+        }
+      ]
+    },
+    {
+      "name": "North Dakota State",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Windbreak Ultimate Club",
+        "location": "Fargo, North Dakota",
+        "website": "",
+        "facebook": "",
+        "twitter": "@ND_Sky_Bison"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Dylan Runge"
+        },
+        {
+          "number": "0",
+          "name": "Jacob Edwards"
+        },
+        {
+          "number": "0",
+          "name": "Adam Berglund"
+        },
+        {
+          "number": "0",
+          "name": "Ally Fawver"
+        },
+        {
+          "number": "0",
+          "name": "John White"
+        },
+        {
+          "number": "0",
+          "name": "kang lee"
+        },
+        {
+          "number": "0",
+          "name": "Kirby Knutson"
+        },
+        {
+          "number": "7",
+          "name": "Kabor Namarra"
+        },
+        {
+          "number": "9",
+          "name": "Jeremy Rylicki"
+        },
+        {
+          "number": "12",
+          "name": "Joe Larson"
+        },
+        {
+          "number": "13",
+          "name": "Joshua Kuhn"
+        },
+        {
+          "number": "16",
+          "name": "Zach Foltz"
+        },
+        {
+          "number": "42",
+          "name": "BRETT OCH"
+        },
+        {
+          "number": "45",
+          "name": "JP Benedict"
+        },
+        {
+          "number": "64",
+          "name": "ANDREW WOLLA"
+        },
+        {
+          "number": "84",
+          "name": "Sean McMonagle"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Carleton College",
+              "team2": "Minnesota (B)",
+              "score1": 13,
+              "score2": 3,
+              "datetime": "2018-04-21T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Minnesota",
+              "team2": "Minnesota State-Mankato",
+              "score1": 13,
+              "score2": 9,
+              "datetime": "2018-04-21T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Minnesota-Duluth",
+              "team2": "North Dakota State",
+              "score1": 13,
+              "score2": 4,
+              "datetime": "2018-04-21T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Carleton College",
+              "team2": "Minnesota",
+              "score1": 13,
+              "score2": 11,
+              "datetime": "2018-04-21T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Minnesota (B)",
+              "team2": "Minnesota-Duluth",
+              "score1": 11,
+              "score2": 13,
+              "datetime": "2018-04-21T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Minnesota State-Mankato",
+              "team2": "North Dakota State",
+              "score1": 13,
+              "score2": 8,
+              "datetime": "2018-04-21T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Carleton College",
+              "team2": "Minnesota-Duluth",
+              "score1": 13,
+              "score2": 2,
+              "datetime": "2018-04-21T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Minnesota",
+              "team2": "North Dakota State",
+              "score1": 13,
+              "score2": 2,
+              "datetime": "2018-04-21T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Minnesota (B)",
+              "team2": "Minnesota State-Mankato",
+              "score1": 9,
+              "score2": 13,
+              "datetime": "2018-04-21T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Carleton College",
+              "team2": "North Dakota State",
+              "score1": 13,
+              "score2": 3,
+              "datetime": "2018-04-21T14:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Minnesota",
+              "team2": "Minnesota (B)",
+              "score1": 13,
+              "score2": 2,
+              "datetime": "2018-04-21T14:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Minnesota-Duluth",
+              "team2": "Minnesota State-Mankato",
+              "score1": 13,
+              "score2": 1,
+              "datetime": "2018-04-21T14:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Carleton College",
+              "team2": "Minnesota State-Mankato",
+              "score1": 13,
+              "score2": 1,
+              "datetime": "2018-04-22T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Minnesota",
+              "team2": "Minnesota-Duluth",
+              "score1": 13,
+              "score2": 5,
+              "datetime": "2018-04-22T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Minnesota (B)",
+              "team2": "North Dakota State",
+              "score1": 13,
+              "score2": 5,
+              "datetime": "2018-04-22T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Bracket Play",
+      "groups": [
+        {
+          "name": "1st Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Carleton College",
+              "team2": "Minnesota",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2018-04-22T11:00:00Z",
+              "round": "1st Place Finals",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "2nd Place Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Minnesota",
+              "team2": "Minnesota-Duluth",
+              "score1": 9,
+              "score2": 8,
+              "datetime": "2018-04-22T13:00:00Z",
+              "round": "2nd Place Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Minnesota-Duluth",
+              "team2": "Minnesota State-Mankato",
+              "score1": 15,
+              "score2": 6,
+              "datetime": "2018-04-22T11:00:00Z",
+              "round": "2nd Place Semis",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "4th Place Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Minnesota State-Mankato",
+              "team2": "Minnesota (B)",
+              "score1": 14,
+              "score2": 13,
+              "datetime": "2018-04-22T13:00:00Z",
+              "round": "4th Place Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Minnesota (B)",
+              "team2": "North Dakota State",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2018-04-22T11:00:00Z",
+              "round": "Round Name",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

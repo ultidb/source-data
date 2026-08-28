@@ -1,0 +1,252 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2018/WC-vs-UPenn-B-2018CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/WC-vs-UPenn-B-2018/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:16.251842Z",
+  "event": {
+    "name": "WC vs UPenn B 2018",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2018,
+    "city": "West Chester",
+    "state": "PA",
+    "country": "",
+    "startDate": "2018-03-28",
+    "endDate": "2018-03-28"
+  },
+  "teams": [
+    {
+      "name": "West Chester",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "West Chester A",
+        "location": "West Chester, Pennsylvania",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Calvin Green"
+        },
+        {
+          "number": "0",
+          "name": "James Tarantino"
+        },
+        {
+          "number": "0",
+          "name": "Nathan Smith"
+        },
+        {
+          "number": "0",
+          "name": "Vincent DiMondo"
+        },
+        {
+          "number": "1",
+          "name": "Mike Patuk"
+        },
+        {
+          "number": "17",
+          "name": "Devin Foster"
+        },
+        {
+          "number": "23",
+          "name": "Shadow Deyo"
+        },
+        {
+          "number": "41",
+          "name": "Charles Villano"
+        },
+        {
+          "number": "45",
+          "name": "Nicholas DiGiorgio"
+        }
+      ]
+    },
+    {
+      "name": "Pennsylvania (B)",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Null",
+        "location": "Philadelphia, Pennsylvania",
+        "website": "voidultimate.com",
+        "facebook": "",
+        "twitter": "https://twitter.com/NullUltimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Anurag Makineni"
+        },
+        {
+          "number": "00",
+          "name": "Kasra Khadem"
+        },
+        {
+          "number": "04",
+          "name": "Peter Sheu"
+        },
+        {
+          "number": "05",
+          "name": "Chris Fischer"
+        },
+        {
+          "number": "06",
+          "name": "Riley Morrison"
+        },
+        {
+          "number": "07",
+          "name": "Trevin Gandhi"
+        },
+        {
+          "number": "09",
+          "name": "Nicholas Genovese"
+        },
+        {
+          "number": "12",
+          "name": "Benjamin Joffe"
+        },
+        {
+          "number": "16",
+          "name": "Emmett Neyman"
+        },
+        {
+          "number": "17",
+          "name": "Kyle Whiting"
+        },
+        {
+          "number": "18",
+          "name": "Keith Babitz"
+        },
+        {
+          "number": "23",
+          "name": "Kevin Babitz"
+        },
+        {
+          "number": "26",
+          "name": "Andrew Neale"
+        },
+        {
+          "number": "29",
+          "name": "Zachary Rovner"
+        },
+        {
+          "number": "30",
+          "name": "Connor McSwain"
+        },
+        {
+          "number": "31",
+          "name": "Joel Chacko"
+        },
+        {
+          "number": "33",
+          "name": "Ayaaz Versi"
+        },
+        {
+          "number": "35",
+          "name": "Ranvir Bhatia"
+        },
+        {
+          "number": "36",
+          "name": "Davis Christianson"
+        },
+        {
+          "number": "37",
+          "name": "Kevin Chazotte"
+        },
+        {
+          "number": "40",
+          "name": "Tyler Vandergriff "
+        },
+        {
+          "number": "41",
+          "name": "Jack Biddle"
+        },
+        {
+          "number": "42",
+          "name": "John Flahive"
+        },
+        {
+          "number": "44",
+          "name": "Tony Qiu"
+        },
+        {
+          "number": "45",
+          "name": "Oscar Tinney"
+        },
+        {
+          "number": "49",
+          "name": "Benjamin Hoover"
+        },
+        {
+          "number": "55",
+          "name": "Olaoluwa Owoputi"
+        },
+        {
+          "number": "62",
+          "name": "William Watkins"
+        },
+        {
+          "number": "73",
+          "name": "Nathaniel Watkins"
+        },
+        {
+          "number": "86",
+          "name": "Ryan Kortvelesy"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "brackets",
+      "name": "Game 1",
+      "groups": [
+        {
+          "name": "Game 1",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "West Chester",
+              "team2": "Pennsylvania (B)",
+              "score1": 13,
+              "score2": 3,
+              "datetime": "2018-03-26T19:00:00Z",
+              "round": "Game 1",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Game 2",
+      "groups": [
+        {
+          "name": "Game 2",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "West Chester",
+              "team2": "Pennsylvania (B)",
+              "score1": 13,
+              "score2": 4,
+              "datetime": "2018-03-26T21:00:00Z",
+              "round": "Game 2",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

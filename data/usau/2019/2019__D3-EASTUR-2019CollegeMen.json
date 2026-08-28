@@ -1,0 +1,808 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2019/D3-EASTUR-2019CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/D3-EASTUR-2019/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:16.518799Z",
+  "event": {
+    "name": "D3 EASTUR 2019",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2019,
+    "city": "Varina",
+    "state": "VA",
+    "country": "",
+    "startDate": "2019-03-30",
+    "endDate": "2019-03-31"
+  },
+  "teams": [
+    {
+      "name": "Davidson",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "DUFF",
+        "location": "Davidson, North Carolina",
+        "website": "",
+        "facebook": "https://www.facebook.com/DavidsonUltimate/",
+        "twitter": "https://mobile.twitter.com/DUFF_Cats?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Avery White"
+        },
+        {
+          "number": "0",
+          "name": "Ben Leach"
+        },
+        {
+          "number": "0",
+          "name": "Connor  O’Leary"
+        },
+        {
+          "number": "0",
+          "name": "Harry Warren"
+        },
+        {
+          "number": "0",
+          "name": "Jack Hanson"
+        },
+        {
+          "number": "0",
+          "name": "Jack Swinson"
+        },
+        {
+          "number": "0",
+          "name": "Jack Helweg"
+        },
+        {
+          "number": "0",
+          "name": "Joel Maury-Holmes"
+        },
+        {
+          "number": "0",
+          "name": "John Rogers"
+        },
+        {
+          "number": "0",
+          "name": "Aidan O'Neill"
+        },
+        {
+          "number": "0",
+          "name": "Joshua Lodish"
+        },
+        {
+          "number": "0",
+          "name": "Kevin Escott"
+        },
+        {
+          "number": "0",
+          "name": "Landon Schabes"
+        },
+        {
+          "number": "0",
+          "name": "Mac Harris"
+        },
+        {
+          "number": "0",
+          "name": "Max Vierling"
+        },
+        {
+          "number": "0",
+          "name": "Michael Robertson"
+        },
+        {
+          "number": "0",
+          "name": "Michael Bauman"
+        },
+        {
+          "number": "0",
+          "name": "Satyajit Banerjee"
+        },
+        {
+          "number": "0",
+          "name": "Sean Higgins"
+        },
+        {
+          "number": "0",
+          "name": "William Stifel"
+        },
+        {
+          "number": "8",
+          "name": "Jonathan Phillips"
+        },
+        {
+          "number": "9",
+          "name": "Duncan Snider"
+        },
+        {
+          "number": "14",
+          "name": "Kevin Chen"
+        },
+        {
+          "number": "19",
+          "name": "Matthew Singleton"
+        },
+        {
+          "number": "27",
+          "name": "Alex Berro"
+        },
+        {
+          "number": "45",
+          "name": "Dustin Smith"
+        },
+        {
+          "number": "77",
+          "name": "Kaylen Alexis"
+        }
+      ]
+    },
+    {
+      "name": "Richmond",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Spidermonkeys",
+        "location": "Richmond, Virginia",
+        "website": "https://urspidermonkeys.wordpress.com",
+        "facebook": "",
+        "twitter": "https://twitter.com/urspidermonkeys?lang=en"
+      },
+      "coaches": [
+        "Matthew Graves"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "André Shannon"
+        },
+        {
+          "number": "0",
+          "name": "Andrew Cook"
+        },
+        {
+          "number": "0",
+          "name": "Emmett Rice"
+        },
+        {
+          "number": "0",
+          "name": "Ethan Ross"
+        },
+        {
+          "number": "0",
+          "name": "George Coffey"
+        },
+        {
+          "number": "0",
+          "name": "Hutson Williams"
+        },
+        {
+          "number": "0",
+          "name": "Jeremy Mednik"
+        },
+        {
+          "number": "0",
+          "name": "Josh Magee"
+        },
+        {
+          "number": "0",
+          "name": "Maxwell Wallach"
+        },
+        {
+          "number": "0",
+          "name": "Pranay Bhootra"
+        },
+        {
+          "number": "0",
+          "name": "Robert Silipigni"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Kern"
+        },
+        {
+          "number": "2",
+          "name": "Evan Steinfield"
+        },
+        {
+          "number": "6",
+          "name": "Tynan Englert"
+        },
+        {
+          "number": "8",
+          "name": "Ben Weinstein"
+        },
+        {
+          "number": "10",
+          "name": "Mitchell Lauria"
+        },
+        {
+          "number": "12",
+          "name": "Chester Todd"
+        },
+        {
+          "number": "13",
+          "name": "Liam Day"
+        },
+        {
+          "number": "16",
+          "name": "Christopher Selwood"
+        },
+        {
+          "number": "22",
+          "name": "Harris Cannon"
+        },
+        {
+          "number": "25",
+          "name": "Jacob Rich"
+        },
+        {
+          "number": "27",
+          "name": "Patrick  Murray"
+        },
+        {
+          "number": "30",
+          "name": "Graydon Cowan"
+        },
+        {
+          "number": "31",
+          "name": "Daniel Scherzer"
+        },
+        {
+          "number": "34",
+          "name": "Zachary Perkins"
+        },
+        {
+          "number": "39",
+          "name": "Xavier McCormick"
+        },
+        {
+          "number": "52",
+          "name": "Robert Croxson"
+        },
+        {
+          "number": "55",
+          "name": "Hunter Lang"
+        },
+        {
+          "number": "70",
+          "name": "Christopher Cassella"
+        },
+        {
+          "number": "99",
+          "name": "Alex Pistolesi"
+        }
+      ]
+    },
+    {
+      "name": "Wesleyan",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Nietzsch Factor",
+        "location": "Middletown, Connecticut",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/nietzschfactor"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Ari Westreich"
+        },
+        {
+          "number": "0",
+          "name": "Benjamin Rubel"
+        },
+        {
+          "number": "0",
+          "name": "Ernesto Ye Luo"
+        },
+        {
+          "number": "0",
+          "name": "Gaelin Kingston"
+        },
+        {
+          "number": "0",
+          "name": "Henry Walker-West"
+        },
+        {
+          "number": "0",
+          "name": "Jared Levine"
+        },
+        {
+          "number": "0",
+          "name": "Matthew Querdasi"
+        },
+        {
+          "number": "0",
+          "name": "Matthew Beetham"
+        },
+        {
+          "number": "0",
+          "name": "Nathan Krieger"
+        },
+        {
+          "number": "0",
+          "name": "Nick Franczak"
+        },
+        {
+          "number": "0",
+          "name": "Sam Ephron"
+        },
+        {
+          "number": "0",
+          "name": "Stephen Philipps"
+        },
+        {
+          "number": "0",
+          "name": "Wei  Li "
+        },
+        {
+          "number": "1",
+          "name": "Emilio  Weber"
+        },
+        {
+          "number": "2",
+          "name": "Jesse Broad-Cavanagh"
+        },
+        {
+          "number": "5",
+          "name": "Marcus Kener"
+        },
+        {
+          "number": "6",
+          "name": "Finnian Day"
+        },
+        {
+          "number": "7",
+          "name": "Jack Kwon"
+        },
+        {
+          "number": "8",
+          "name": "Daniel Kulick"
+        },
+        {
+          "number": "10",
+          "name": "Jacob Greene"
+        },
+        {
+          "number": "12",
+          "name": "Jonah Newmark"
+        },
+        {
+          "number": "13",
+          "name": "Matthew Erodici"
+        },
+        {
+          "number": "15",
+          "name": "Benjamin Bushnell"
+        },
+        {
+          "number": "17",
+          "name": "Eiji Frey"
+        },
+        {
+          "number": "23",
+          "name": "Finn Collom"
+        },
+        {
+          "number": "27",
+          "name": "Noah Kline"
+        },
+        {
+          "number": "29",
+          "name": "Noah Miller-Medzon"
+        },
+        {
+          "number": "42",
+          "name": "Harry Jacobs"
+        },
+        {
+          "number": "44",
+          "name": "Henry Fowler"
+        }
+      ]
+    },
+    {
+      "name": "Messiah",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Falcons",
+        "location": "Mechanicsburg, Pennsylvania",
+        "website": "messiah.edu",
+        "facebook": "https://www.facebook.com/messiahultimate",
+        "twitter": "https://www.twitter.com/messiahultimate"
+      },
+      "coaches": [
+        "Gabriella Cincotta"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Andrew Hernandez"
+        },
+        {
+          "number": "0",
+          "name": "Joshua Beiler"
+        },
+        {
+          "number": "0",
+          "name": "Matthew O'Neil"
+        },
+        {
+          "number": "0",
+          "name": "Xavier Diaz"
+        },
+        {
+          "number": "7",
+          "name": "Daniel Vallette"
+        },
+        {
+          "number": "11",
+          "name": "Mitchell Lauer"
+        },
+        {
+          "number": "14",
+          "name": "Billy Minner"
+        },
+        {
+          "number": "26",
+          "name": "Nathan Henry"
+        },
+        {
+          "number": "28",
+          "name": "Josh Kripas"
+        },
+        {
+          "number": "34",
+          "name": "Corey Bean"
+        },
+        {
+          "number": "36",
+          "name": "Jacob Whipple"
+        },
+        {
+          "number": "64",
+          "name": "Geoffrey McClary"
+        },
+        {
+          "number": "69",
+          "name": "Bryan Slusser"
+        },
+        {
+          "number": "81",
+          "name": "Zachary Feister"
+        },
+        {
+          "number": "94",
+          "name": "Nate Harnish"
+        }
+      ]
+    },
+    {
+      "name": "Shippensburg",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Scapegoats",
+        "location": "Shippensburg, Pennsylvania",
+        "website": "",
+        "facebook": "https://www.facebook.com/ShippensburgScapegoats",
+        "twitter": "https://twitter.com/ShipUltimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Jan Vazquez"
+        },
+        {
+          "number": "2",
+          "name": "James Roop"
+        },
+        {
+          "number": "3",
+          "name": "Evan Hake"
+        },
+        {
+          "number": "4",
+          "name": "Christopher Wurtz"
+        },
+        {
+          "number": "4",
+          "name": "Logan Hall"
+        },
+        {
+          "number": "5",
+          "name": "Grant Maurer"
+        },
+        {
+          "number": "6",
+          "name": "Anthony Rapposelli"
+        },
+        {
+          "number": "8",
+          "name": "Austin Moreno"
+        },
+        {
+          "number": "10",
+          "name": "Andrew DiTullio"
+        },
+        {
+          "number": "12",
+          "name": "Zachary Cahill"
+        },
+        {
+          "number": "21",
+          "name": "Ryan Kolimaga"
+        },
+        {
+          "number": "23",
+          "name": "Christopher Lehman"
+        },
+        {
+          "number": "24",
+          "name": "Brett Stewart"
+        },
+        {
+          "number": "26",
+          "name": "Ian Reid"
+        },
+        {
+          "number": "32",
+          "name": "Zack Hunsberger"
+        },
+        {
+          "number": "34",
+          "name": "Tanner Hepner"
+        }
+      ]
+    },
+    {
+      "name": "Ohio State-B",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Big Buckin' Chicken[B]",
+        "location": "Columbus, Ohio",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Curtis Guthrie"
+        },
+        {
+          "number": "0",
+          "name": "Justin Niehaus"
+        },
+        {
+          "number": "0",
+          "name": "Logan Walters"
+        },
+        {
+          "number": "7",
+          "name": "Adam Rupp"
+        },
+        {
+          "number": "7",
+          "name": "Brett Fowler"
+        },
+        {
+          "number": "14",
+          "name": "Alif Mohd-Amir"
+        },
+        {
+          "number": "21",
+          "name": "Andy Ark"
+        },
+        {
+          "number": "28",
+          "name": "Tony Rabe"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Round Robin",
+      "groups": [
+        {
+          "name": "Round Robin",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Messiah",
+              "team2": "Richmond",
+              "score1": 11,
+              "score2": 12,
+              "datetime": "2019-03-30T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Davidson",
+              "team2": "Ohio State-B",
+              "score1": 13,
+              "score2": 5,
+              "datetime": "2019-03-30T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Shippensburg",
+              "team2": "Wesleyan",
+              "score1": 8,
+              "score2": 13,
+              "datetime": "2019-03-30T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Messiah",
+              "team2": "Davidson",
+              "score1": 8,
+              "score2": 10,
+              "datetime": "2019-03-30T10:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Richmond",
+              "team2": "Shippensburg",
+              "score1": 12,
+              "score2": 7,
+              "datetime": "2019-03-30T10:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Ohio State-B",
+              "team2": "Wesleyan",
+              "score1": 8,
+              "score2": 13,
+              "datetime": "2019-03-30T10:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Messiah",
+              "team2": "Shippensburg",
+              "score1": 12,
+              "score2": 6,
+              "datetime": "2019-03-30T12:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Davidson",
+              "team2": "Wesleyan",
+              "score1": 12,
+              "score2": 7,
+              "datetime": "2019-03-30T12:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Richmond",
+              "team2": "Ohio State-B",
+              "score1": 13,
+              "score2": 5,
+              "datetime": "2019-03-30T12:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Messiah",
+              "team2": "Wesleyan",
+              "score1": 8,
+              "score2": 13,
+              "datetime": "2019-03-31T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Davidson",
+              "team2": "Richmond",
+              "score1": 13,
+              "score2": 5,
+              "datetime": "2019-03-31T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Shippensburg",
+              "team2": "Ohio State-B",
+              "score1": 13,
+              "score2": 8,
+              "datetime": "2019-03-31T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Messiah",
+              "team2": "Ohio State-B",
+              "score1": 9,
+              "score2": 13,
+              "datetime": "2019-03-31T10:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Davidson",
+              "team2": "Shippensburg",
+              "score1": 13,
+              "score2": 9,
+              "datetime": "2019-03-31T10:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Richmond",
+              "team2": "Wesleyan",
+              "score1": 12,
+              "score2": 11,
+              "datetime": "2019-03-31T10:40:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "clusters",
+      "name": "Placement Play",
+      "groups": [
+        {
+          "name": "Placement Play",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Davidson",
+              "team2": "Richmond",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2019-03-31T12:20:00Z",
+              "round": "",
+              "status": "Cancelled"
+            },
+            {
+              "team1": "Wesleyan",
+              "team2": "Messiah",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2019-03-31T12:20:00Z",
+              "round": "",
+              "status": "Cancelled"
+            },
+            {
+              "team1": "Shippensburg",
+              "team2": "Wesleyan",
+              "score1": 11,
+              "score2": 8,
+              "datetime": "2019-03-31T12:20:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

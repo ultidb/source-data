@@ -1,0 +1,292 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2026/Big-Sky-Brawl-2026CollegeWomen",
+  "sourceUrl": "https://play.usaultimate.org/events/Big-Sky-Brawl-2026/schedule/Women/CollegeWomen/",
+  "scrapedAt": "2026-08-28T10:06:22.027282Z",
+  "event": {
+    "name": "Big Sky Brawl 2026",
+    "division": "College - Women ",
+    "gender": "",
+    "season": 2026,
+    "city": "Meridian",
+    "state": "ID",
+    "country": "",
+    "startDate": "2026-03-07",
+    "endDate": "2026-03-08"
+  },
+  "teams": [
+    {
+      "name": "Montana",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "MT PillowFight",
+        "location": "Missoula, Montana",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/MTPillowFight"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Molly Woods"
+        },
+        {
+          "number": "02",
+          "name": "Anne Rehberger"
+        },
+        {
+          "number": "03",
+          "name": "Tegan Holme"
+        },
+        {
+          "number": "07",
+          "name": "Jillian Griggs"
+        },
+        {
+          "number": "08",
+          "name": "Harper McIntyre"
+        },
+        {
+          "number": "11",
+          "name": "Sophie Konerza"
+        },
+        {
+          "number": "13",
+          "name": "Charlotte Caistor"
+        },
+        {
+          "number": "15",
+          "name": "Abby Brown"
+        },
+        {
+          "number": "18",
+          "name": "Ruby Evans"
+        },
+        {
+          "number": "20",
+          "name": "Eva Hicks"
+        },
+        {
+          "number": "24",
+          "name": "Anneke McQuillen"
+        },
+        {
+          "number": "31",
+          "name": "Eva Santos"
+        },
+        {
+          "number": "32",
+          "name": "Ellie Burger"
+        }
+      ]
+    },
+    {
+      "name": "Montana State",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Cold Smoke",
+        "location": "Bozeman, Montana",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Anna Cucuzzella"
+        },
+        {
+          "number": "0",
+          "name": "Eva McIntosh"
+        },
+        {
+          "number": "0",
+          "name": "Grace Churchill"
+        },
+        {
+          "number": "0",
+          "name": "Claire Kushnick"
+        },
+        {
+          "number": "00",
+          "name": "Erin Hannon"
+        },
+        {
+          "number": "00",
+          "name": "Lily MacFarlane"
+        },
+        {
+          "number": "00",
+          "name": "Ruby Pruitt"
+        },
+        {
+          "number": "00",
+          "name": "Chloe Nelson"
+        },
+        {
+          "number": "05",
+          "name": "Allana Holderman"
+        },
+        {
+          "number": "09",
+          "name": "Sydney Young"
+        },
+        {
+          "number": "12",
+          "name": "Zora Holt"
+        },
+        {
+          "number": "25",
+          "name": "Charlotte Cox"
+        }
+      ]
+    },
+    {
+      "name": "Utah (B)",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Huckleberries",
+        "location": "Salt Lake City, Utah",
+        "website": "https://spiraljettyultimate.weebly.com/",
+        "facebook": "https://www.facebook.com/spiraljettyultimate/",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Aimi Ohno"
+        },
+        {
+          "number": "0",
+          "name": "Arden Fennimore"
+        },
+        {
+          "number": "0",
+          "name": "Kathryn Lawrence"
+        },
+        {
+          "number": "0",
+          "name": "Lily Nygard"
+        },
+        {
+          "number": "0",
+          "name": "Madison Hart"
+        },
+        {
+          "number": "0",
+          "name": "Megan Blommel"
+        },
+        {
+          "number": "0",
+          "name": "Niya Glover"
+        },
+        {
+          "number": "0",
+          "name": "Olivia Christmann"
+        },
+        {
+          "number": "0",
+          "name": "Sara Whitley"
+        },
+        {
+          "number": "0",
+          "name": "Spencer Ewing"
+        },
+        {
+          "number": "0",
+          "name": "Violet Eleson"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Round Robin 1",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Montana State",
+              "team2": "Utah (B)",
+              "score1": 11,
+              "score2": 6,
+              "datetime": "2026-03-07T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Montana",
+              "team2": "Utah (B)",
+              "score1": 9,
+              "score2": 2,
+              "datetime": "2026-03-07T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Montana",
+              "team2": "Montana State",
+              "score1": 9,
+              "score2": 5,
+              "datetime": "2026-03-07T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "pools",
+      "name": "Round Robin 2",
+      "groups": [
+        {
+          "name": "Pool B",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Montana",
+              "team2": "Montana State",
+              "score1": 8,
+              "score2": 7,
+              "datetime": "2026-03-07T14:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Montana State",
+              "team2": "Utah (B)",
+              "score1": 13,
+              "score2": 4,
+              "datetime": "2026-03-08T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Montana",
+              "team2": "Utah (B)",
+              "score1": 12,
+              "score2": 5,
+              "datetime": "2026-03-08T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

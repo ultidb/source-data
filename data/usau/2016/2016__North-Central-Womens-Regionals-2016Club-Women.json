@@ -1,0 +1,913 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2016/North-Central-Womens-Regionals-2016Club-Women",
+  "sourceUrl": "https://play.usaultimate.org/events/North-Central-Womens-Regionals-2016/schedule/Women/Club-Women/",
+  "scrapedAt": "2026-08-28T10:06:13.539052Z",
+  "event": {
+    "name": "North Central Women's Regionals 2016",
+    "division": "Club - Women ",
+    "gender": "",
+    "season": 2016,
+    "city": "Blaine",
+    "state": "MN",
+    "country": "",
+    "startDate": "2016-09-10",
+    "endDate": "2016-09-11"
+  },
+  "teams": [
+    {
+      "name": "Heist",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Madison, Wisconsin",
+        "website": "http://heistultimate.wordpress.com/",
+        "facebook": "https://www.facebook.com/heistultimate",
+        "twitter": "https://twitter.com/HeistUltimate"
+      },
+      "coaches": [
+        "Kelsen Alexander",
+        "Robyn Fennig"
+      ],
+      "roster": [
+        {
+          "number": "02",
+          "name": "Jessica Serednesky"
+        },
+        {
+          "number": "03",
+          "name": "Liza Minor"
+        },
+        {
+          "number": "05",
+          "name": "Rose Glinka"
+        },
+        {
+          "number": "07",
+          "name": "Austin Prucha"
+        },
+        {
+          "number": "08",
+          "name": "Adrienne Wells"
+        },
+        {
+          "number": "10",
+          "name": "Alison Vandegrift"
+        },
+        {
+          "number": "11",
+          "name": "Melissa Gibbs"
+        },
+        {
+          "number": "12",
+          "name": "Jasmine Draper-Matthew"
+        },
+        {
+          "number": "13",
+          "name": "Brittney Kokinos"
+        },
+        {
+          "number": "16",
+          "name": "Margaret Walker"
+        },
+        {
+          "number": "17",
+          "name": "KELLY WIESE"
+        },
+        {
+          "number": "19",
+          "name": "Kayla Emrick"
+        },
+        {
+          "number": "22",
+          "name": "Arthi Padmanabhan"
+        },
+        {
+          "number": "23",
+          "name": "Anna Williams"
+        },
+        {
+          "number": "24",
+          "name": "Kristen Brenner"
+        },
+        {
+          "number": "30",
+          "name": "Jean Huang"
+        },
+        {
+          "number": "31",
+          "name": "Mary VanDuyne"
+        },
+        {
+          "number": "33",
+          "name": "Emily Wehrwein"
+        },
+        {
+          "number": "40",
+          "name": "Amelia Cuarenta"
+        },
+        {
+          "number": "42",
+          "name": "Elizabeth Gronert"
+        },
+        {
+          "number": "44",
+          "name": "Hannah Frank"
+        },
+        {
+          "number": "45",
+          "name": "Becky LeDonne"
+        },
+        {
+          "number": "47",
+          "name": "STEPHANIE KNELL"
+        },
+        {
+          "number": "55",
+          "name": "Liz Narmour"
+        },
+        {
+          "number": "77",
+          "name": "Laurel Schmidt"
+        },
+        {
+          "number": "87",
+          "name": "Emily Langland"
+        },
+        {
+          "number": "91",
+          "name": "Georgia Bosscher"
+        }
+      ]
+    },
+    {
+      "name": "Pop",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Minneapolis, Minnesota",
+        "website": "http://popultimate.wordpress.com/",
+        "facebook": "https://www.facebook.com/pages/Pop-Ultimate/320308371344267?ref=hl",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Katie Godfrey"
+        },
+        {
+          "number": "0",
+          "name": "Kelsey Mueller"
+        },
+        {
+          "number": "0",
+          "name": "Biz Cook"
+        },
+        {
+          "number": "0",
+          "name": "Anna Reed"
+        },
+        {
+          "number": "0",
+          "name": "Elisabeth Biehl"
+        },
+        {
+          "number": "0",
+          "name": "Hannah Cowan"
+        },
+        {
+          "number": "0",
+          "name": "Rose Gruenhagen"
+        },
+        {
+          "number": "0",
+          "name": "Louise Beck"
+        },
+        {
+          "number": "0",
+          "name": "Colette Meller"
+        },
+        {
+          "number": "0",
+          "name": "Stephanie Wood"
+        },
+        {
+          "number": "0",
+          "name": "Rebecca Enders"
+        },
+        {
+          "number": "0",
+          "name": "Alyson Gagner"
+        },
+        {
+          "number": "0",
+          "name": "Ashley Green"
+        },
+        {
+          "number": "0",
+          "name": "LUCIA CHILDS-WALKER"
+        },
+        {
+          "number": "0",
+          "name": "Makella Daley"
+        },
+        {
+          "number": "0",
+          "name": "Rachel Gage"
+        },
+        {
+          "number": "0",
+          "name": "Rebekah Swanson"
+        },
+        {
+          "number": "0",
+          "name": "Heather Taylor"
+        },
+        {
+          "number": "5",
+          "name": "Kalli Poletto"
+        },
+        {
+          "number": "7",
+          "name": "Kristen Schultz"
+        },
+        {
+          "number": "7",
+          "name": "Melissa (Missy) Davey"
+        },
+        {
+          "number": "9",
+          "name": "Sara  Helm"
+        },
+        {
+          "number": "11",
+          "name": "Emma Peaslee"
+        },
+        {
+          "number": "11",
+          "name": "Andrea Jacoski"
+        },
+        {
+          "number": "17",
+          "name": "Kristina Golling"
+        },
+        {
+          "number": "19",
+          "name": "Alyssa Belsito"
+        },
+        {
+          "number": "97",
+          "name": "Andrea Uhl"
+        }
+      ]
+    },
+    {
+      "name": "Wicked",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Kansas City, Kansas",
+        "website": "Wickedultimate.com",
+        "facebook": "https://www.facebook.com/kcwickedultimate",
+        "twitter": "https://twitter.com/WickedUltimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Mackenzie Burns"
+        },
+        {
+          "number": "4",
+          "name": "Sadie Callison"
+        },
+        {
+          "number": "6",
+          "name": "Carey Jacquinot"
+        },
+        {
+          "number": "7",
+          "name": "Sydney Nelson"
+        },
+        {
+          "number": "8",
+          "name": "Stephanie Rupp"
+        },
+        {
+          "number": "9",
+          "name": "Brandi Schneider"
+        },
+        {
+          "number": "10",
+          "name": "McKenzie Geltz"
+        },
+        {
+          "number": "11",
+          "name": "Jordan Alonzo"
+        },
+        {
+          "number": "12",
+          "name": "Clare Frantz"
+        },
+        {
+          "number": "13",
+          "name": "Malaina Piyassaphan"
+        },
+        {
+          "number": "14",
+          "name": "Janani Ragothaman"
+        },
+        {
+          "number": "15",
+          "name": "Caitlin Fitzgerald"
+        },
+        {
+          "number": "17",
+          "name": "Laura Gehrt"
+        },
+        {
+          "number": "18",
+          "name": "Haley Johnson"
+        },
+        {
+          "number": "19",
+          "name": "Jenna Galletta"
+        },
+        {
+          "number": "20",
+          "name": "Nadine Rowen"
+        },
+        {
+          "number": "22",
+          "name": "Grace Roth"
+        },
+        {
+          "number": "24",
+          "name": "Katherine Lockee"
+        },
+        {
+          "number": "25",
+          "name": "Miriam Delrahim"
+        },
+        {
+          "number": "30",
+          "name": "Kristina Beckham"
+        },
+        {
+          "number": "33",
+          "name": "Chelsea Dalbey"
+        },
+        {
+          "number": "38",
+          "name": "Callie Warren"
+        },
+        {
+          "number": "47",
+          "name": "PAIGE PRIMOVIC"
+        },
+        {
+          "number": "86",
+          "name": "Amanda Johnson"
+        },
+        {
+          "number": "87",
+          "name": "Amanda Borders"
+        },
+        {
+          "number": "99",
+          "name": "Sarah Murphy"
+        }
+      ]
+    },
+    {
+      "name": "Snap",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Minneapolis, Minnesota",
+        "website": "",
+        "facebook": "https://www.facebook.com/SnapUltimate?ref=hl",
+        "twitter": "https://twitter.com/SnapUltimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "ALEXANDRA SACKETT"
+        },
+        {
+          "number": "1",
+          "name": "Caitlin Reis"
+        },
+        {
+          "number": "4",
+          "name": "Lisel Caldwell"
+        },
+        {
+          "number": "5",
+          "name": "Nora Sullivan"
+        },
+        {
+          "number": "7",
+          "name": "Emily Kampa"
+        },
+        {
+          "number": "10",
+          "name": "Emery Otopalik"
+        },
+        {
+          "number": "11",
+          "name": "KATHERINE KEYS"
+        },
+        {
+          "number": "12",
+          "name": "Rachel Johnson"
+        },
+        {
+          "number": "13",
+          "name": "Lauren Fleming"
+        },
+        {
+          "number": "14",
+          "name": "Elyssa Yesnes"
+        },
+        {
+          "number": "16",
+          "name": "Becky Boulton"
+        },
+        {
+          "number": "17",
+          "name": "Hanna Larson"
+        },
+        {
+          "number": "18",
+          "name": "Brenna Hokanson"
+        },
+        {
+          "number": "21",
+          "name": "Alyxandra Averkamp"
+        },
+        {
+          "number": "22",
+          "name": "KENZA SAHIR"
+        },
+        {
+          "number": "24",
+          "name": "Elizabeth Mosier"
+        },
+        {
+          "number": "29",
+          "name": "Anna Johnson"
+        },
+        {
+          "number": "32",
+          "name": "Vivian Chu"
+        },
+        {
+          "number": "33",
+          "name": "Martha (Mattie) Melin"
+        },
+        {
+          "number": "35",
+          "name": "Megan Barstead"
+        },
+        {
+          "number": "42",
+          "name": "Taylor Cousins"
+        },
+        {
+          "number": "66",
+          "name": "Elle Weeks"
+        },
+        {
+          "number": "73",
+          "name": "Sarah Thornburgh"
+        },
+        {
+          "number": "77",
+          "name": "Lindsay Miller"
+        }
+      ]
+    },
+    {
+      "name": "MystiKuE",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Milwaukee, Wisconsin",
+        "website": "http://mystikueultimate.weebly.com",
+        "facebook": "https://www.facebook.com/mystikueultimate/",
+        "twitter": "https://twitter.com/mystikueulti"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Sharon Cross"
+        },
+        {
+          "number": "0",
+          "name": "Kristin Pelzel"
+        },
+        {
+          "number": "0",
+          "name": "Kaleigh Wurster"
+        },
+        {
+          "number": "0",
+          "name": "JESSICA BAHLING"
+        },
+        {
+          "number": "0",
+          "name": "Lauren Williams"
+        },
+        {
+          "number": "0",
+          "name": "AMANDA LORENTZEN"
+        },
+        {
+          "number": "0",
+          "name": "Missy Craanen"
+        },
+        {
+          "number": "0",
+          "name": "Sarah Garstecki"
+        },
+        {
+          "number": "3",
+          "name": "Molly Burness"
+        },
+        {
+          "number": "4",
+          "name": "Erin Dugan"
+        },
+        {
+          "number": "5",
+          "name": "Tessa Mallegni"
+        },
+        {
+          "number": "6",
+          "name": "Maelyn Geisthardt"
+        },
+        {
+          "number": "10",
+          "name": "Laura Nelson"
+        },
+        {
+          "number": "13",
+          "name": "Stephanie Caucutt"
+        },
+        {
+          "number": "18",
+          "name": "Helen Koth"
+        },
+        {
+          "number": "19",
+          "name": "Hayley Smith"
+        },
+        {
+          "number": "19",
+          "name": "Heather Posl"
+        },
+        {
+          "number": "20",
+          "name": "Justine Espisito"
+        },
+        {
+          "number": "22",
+          "name": "Amy Donahue"
+        },
+        {
+          "number": "27",
+          "name": "Kalli Leutenegger"
+        },
+        {
+          "number": "31",
+          "name": "Mal Kaul"
+        },
+        {
+          "number": "33",
+          "name": "Mikaela Hagen"
+        },
+        {
+          "number": "42",
+          "name": "OLIVIA BARROW"
+        },
+        {
+          "number": "51",
+          "name": "Kelly Rehberg"
+        },
+        {
+          "number": "77",
+          "name": "Madeline Rittgers"
+        },
+        {
+          "number": "88",
+          "name": "Heather Vilbrandt"
+        },
+        {
+          "number": "99",
+          "name": "Kelsey Morrison"
+        }
+      ]
+    },
+    {
+      "name": "Lockdown",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Madison, Wisconsin",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Kristel McHugh"
+        },
+        {
+          "number": "0",
+          "name": "Mary Van Vleet"
+        },
+        {
+          "number": "3",
+          "name": "Cassandra Meixelsperger"
+        },
+        {
+          "number": "6",
+          "name": "STEPHANIE WRIGHT"
+        },
+        {
+          "number": "01",
+          "name": "Taylor Srebnick"
+        },
+        {
+          "number": "02",
+          "name": "Rachael Romaniak"
+        },
+        {
+          "number": "11",
+          "name": "Grace Compton"
+        },
+        {
+          "number": "12",
+          "name": "Diane Walters"
+        },
+        {
+          "number": "13",
+          "name": "Rachel Hildebrand"
+        },
+        {
+          "number": "14",
+          "name": "Margaret Little"
+        },
+        {
+          "number": "14",
+          "name": "Monica Kappes"
+        },
+        {
+          "number": "27",
+          "name": "LAURIE STEPHEY"
+        },
+        {
+          "number": "44",
+          "name": "Alex Mundy"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Heist",
+              "team2": "Wicked",
+              "score1": 12,
+              "score2": 4,
+              "datetime": "2016-09-10T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Pop",
+              "team2": "Snap",
+              "score1": 10,
+              "score2": 4,
+              "datetime": "2016-09-10T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "MystiKuE",
+              "team2": "Lockdown",
+              "score1": 13,
+              "score2": 4,
+              "datetime": "2016-09-10T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Heist",
+              "team2": "Pop",
+              "score1": 11,
+              "score2": 6,
+              "datetime": "2016-09-10T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Wicked",
+              "team2": "MystiKuE",
+              "score1": 13,
+              "score2": 2,
+              "datetime": "2016-09-10T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Snap",
+              "team2": "Lockdown",
+              "score1": 9,
+              "score2": 7,
+              "datetime": "2016-09-10T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Heist",
+              "team2": "MystiKuE",
+              "score1": 13,
+              "score2": 1,
+              "datetime": "2016-09-10T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Pop",
+              "team2": "Lockdown",
+              "score1": 13,
+              "score2": 0,
+              "datetime": "2016-09-10T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Wicked",
+              "team2": "Snap",
+              "score1": 10,
+              "score2": 6,
+              "datetime": "2016-09-10T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Heist",
+              "team2": "Lockdown",
+              "score1": 13,
+              "score2": 1,
+              "datetime": "2016-09-10T14:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Pop",
+              "team2": "Wicked",
+              "score1": 13,
+              "score2": 4,
+              "datetime": "2016-09-10T14:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "MystiKuE",
+              "team2": "Snap",
+              "score1": 3,
+              "score2": 10,
+              "datetime": "2016-09-10T14:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Heist",
+              "team2": "Snap",
+              "score1": 13,
+              "score2": 2,
+              "datetime": "2016-09-11T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Pop",
+              "team2": "MystiKuE",
+              "score1": 13,
+              "score2": 0,
+              "datetime": "2016-09-11T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Wicked",
+              "team2": "Lockdown",
+              "score1": 13,
+              "score2": 1,
+              "datetime": "2016-09-11T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Bracket Play",
+      "groups": [
+        {
+          "name": "1st Place Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Heist",
+              "team2": "Pop",
+              "score1": 13,
+              "score2": 10,
+              "datetime": "2016-09-11T13:00:00Z",
+              "round": "1st Place Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Heist",
+              "team2": "Snap",
+              "score1": 15,
+              "score2": 1,
+              "datetime": "2016-09-11T11:00:00Z",
+              "round": "1st Place semis",
+              "status": "Final"
+            },
+            {
+              "team1": "Pop",
+              "team2": "Wicked",
+              "score1": 13,
+              "score2": 11,
+              "datetime": "2016-09-11T11:00:00Z",
+              "round": "1st Place semis",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "5th Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "MystiKuE",
+              "team2": "Lockdown",
+              "score1": 12,
+              "score2": 4,
+              "datetime": "2016-09-11T11:00:00Z",
+              "round": "5th",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "3rd Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Snap",
+              "team2": "Wicked",
+              "score1": 6,
+              "score2": 10,
+              "datetime": "2016-09-11T13:00:00Z",
+              "round": "3rd place",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

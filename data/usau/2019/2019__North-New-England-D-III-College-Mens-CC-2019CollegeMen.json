@@ -1,0 +1,658 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2019/North-New-England-D-III-College-Mens-CC-2019CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/North-New-England-D-III-College-Mens-CC-2019/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:16.809167Z",
+  "event": {
+    "name": "North New England D-III College Men's CC 2019",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2019,
+    "city": "Brunswick",
+    "state": "ME",
+    "country": "",
+    "startDate": "2019-04-20",
+    "endDate": "2019-04-21"
+  },
+  "teams": [
+    {
+      "name": "Dartmouth",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Pain Train",
+        "location": "Hanover, New Hampshire",
+        "website": "http://www.dartmouth.edu/~ultimate/home.html",
+        "facebook": "",
+        "twitter": "https://twitter.com/DMouthPainTrain"
+      },
+      "coaches": [
+        "Colby Clarkson"
+      ],
+      "roster": [
+        {
+          "number": "01",
+          "name": "Alec Miller"
+        },
+        {
+          "number": "02",
+          "name": "John Elliott"
+        },
+        {
+          "number": "03",
+          "name": "Graham Sisson"
+        },
+        {
+          "number": "07",
+          "name": "Quinn Hottendorf"
+        },
+        {
+          "number": "08",
+          "name": "Connor Coale"
+        },
+        {
+          "number": "09",
+          "name": "Stephen Crowe"
+        },
+        {
+          "number": "10",
+          "name": "Isaac Gluck"
+        },
+        {
+          "number": "11",
+          "name": "Robert Livaudais"
+        },
+        {
+          "number": "13",
+          "name": "Oliver Chartock"
+        },
+        {
+          "number": "14",
+          "name": "Barrett Noone"
+        },
+        {
+          "number": "17",
+          "name": "Thanh Nguyen Jr"
+        },
+        {
+          "number": "18",
+          "name": "Brady McCallister"
+        },
+        {
+          "number": "19",
+          "name": "Rohan Bose"
+        },
+        {
+          "number": "22",
+          "name": "Garrett Rawlings"
+        },
+        {
+          "number": "24",
+          "name": "Benjamin Ashley"
+        },
+        {
+          "number": "27",
+          "name": "Callum Hening"
+        },
+        {
+          "number": "28",
+          "name": "Wendell Beane"
+        },
+        {
+          "number": "36",
+          "name": "Kevin Mercado"
+        },
+        {
+          "number": "72",
+          "name": "Garrett Johnston"
+        },
+        {
+          "number": "88",
+          "name": "Connor Haines"
+        },
+        {
+          "number": "95",
+          "name": "Dakota Thompson"
+        }
+      ]
+    },
+    {
+      "name": "Middlebury",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Pranksters",
+        "location": "Middlebury, Vermont",
+        "website": "https://go.middlebury.edu/uf",
+        "facebook": "",
+        "twitter": "https://twitter.com/pranksters69"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Adin Insoft"
+        },
+        {
+          "number": "0",
+          "name": "Asher Lantz"
+        },
+        {
+          "number": "0",
+          "name": "Benjamin Morris"
+        },
+        {
+          "number": "0",
+          "name": "Corey Scheinfeld"
+        },
+        {
+          "number": "0",
+          "name": "Daniel Grubbs-Donovan"
+        },
+        {
+          "number": "0",
+          "name": "Edward Hoffman"
+        },
+        {
+          "number": "0",
+          "name": "Kevin Strenski"
+        },
+        {
+          "number": "0",
+          "name": "Noah Fine"
+        },
+        {
+          "number": "0",
+          "name": "Zack Maluccio"
+        },
+        {
+          "number": "6",
+          "name": "Joshua Sims Speyer"
+        },
+        {
+          "number": "7",
+          "name": "Zach Levitt"
+        },
+        {
+          "number": "10",
+          "name": "Henry Ganey"
+        },
+        {
+          "number": "11",
+          "name": "Charles Caldwell"
+        },
+        {
+          "number": "11",
+          "name": "Walker Frankenberg"
+        },
+        {
+          "number": "14",
+          "name": "Kai DeLorenzo"
+        },
+        {
+          "number": "69",
+          "name": "Ian Hanson"
+        },
+        {
+          "number": "69",
+          "name": "Jack Landrigan"
+        },
+        {
+          "number": "69",
+          "name": "Sean Fallon"
+        },
+        {
+          "number": "69",
+          "name": "Leo Sovell-Fernandez"
+        },
+        {
+          "number": "69",
+          "name": "Eli Wolfgang"
+        },
+        {
+          "number": "69",
+          "name": "George Drumheller"
+        },
+        {
+          "number": "69",
+          "name": "Dylan Salzman"
+        },
+        {
+          "number": "69",
+          "name": "Benjamin Allan-Rahill"
+        },
+        {
+          "number": "69",
+          "name": "Alex Forde"
+        },
+        {
+          "number": "69",
+          "name": "Warren Lundsgaard"
+        }
+      ]
+    },
+    {
+      "name": "Colby",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Men's)",
+        "location": "Waterville, Maine",
+        "website": "http://web.colby.edu/ultimate/",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Matthew Johnson"
+        },
+        {
+          "number": "1",
+          "name": "Christopher Wang"
+        },
+        {
+          "number": "5",
+          "name": "Ethan vanderWilden"
+        },
+        {
+          "number": "10",
+          "name": "Matthew Sabin"
+        },
+        {
+          "number": "11",
+          "name": "Alan Leggett"
+        },
+        {
+          "number": "16",
+          "name": "Noah Gewirtz"
+        },
+        {
+          "number": "17",
+          "name": "Alec Jacobson"
+        },
+        {
+          "number": "18",
+          "name": "Michael Stone"
+        },
+        {
+          "number": "19",
+          "name": "Seth Bontrager"
+        },
+        {
+          "number": "24",
+          "name": "Andrew Turley"
+        },
+        {
+          "number": "25",
+          "name": "Sebastian Doiron"
+        },
+        {
+          "number": "26",
+          "name": "Bennett Allen"
+        },
+        {
+          "number": "27",
+          "name": "Riter Hoopes"
+        },
+        {
+          "number": "28",
+          "name": "James Ishiguro"
+        },
+        {
+          "number": "29",
+          "name": "Andrew Malia"
+        },
+        {
+          "number": "33",
+          "name": "Joshua Keith-Hardy"
+        },
+        {
+          "number": "34",
+          "name": "Dominic Malia"
+        },
+        {
+          "number": "36",
+          "name": "Josh Wilkinson"
+        },
+        {
+          "number": "50",
+          "name": "Henry Menz"
+        },
+        {
+          "number": "57",
+          "name": "Jacob Eichmann"
+        },
+        {
+          "number": "60",
+          "name": "Scott Batchelder"
+        },
+        {
+          "number": "72",
+          "name": "Josh Goldberg"
+        },
+        {
+          "number": "73",
+          "name": "Ben Retik"
+        },
+        {
+          "number": "77",
+          "name": "William O'Connor"
+        },
+        {
+          "number": "89",
+          "name": "Davis Ryan"
+        }
+      ]
+    },
+    {
+      "name": "Bowdoin",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Clown",
+        "location": "Brunswick, Maine",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Conor Belfield"
+        },
+        {
+          "number": "0",
+          "name": "Evan Knight"
+        },
+        {
+          "number": "0",
+          "name": "Nicolas Valette"
+        },
+        {
+          "number": "0",
+          "name": "Victor Dankens"
+        },
+        {
+          "number": "4",
+          "name": "Nathan Blum"
+        },
+        {
+          "number": "5",
+          "name": "Rowan Warren"
+        },
+        {
+          "number": "7",
+          "name": "Evan Brown"
+        },
+        {
+          "number": "8",
+          "name": "Dylan Sloan"
+        },
+        {
+          "number": "9",
+          "name": "Jonathan Liesman"
+        },
+        {
+          "number": "10",
+          "name": "Yuta Kobayashi"
+        },
+        {
+          "number": "13",
+          "name": "Tenzin Choezin"
+        },
+        {
+          "number": "14",
+          "name": "Will Savage"
+        },
+        {
+          "number": "15",
+          "name": "Conor McManamy"
+        },
+        {
+          "number": "16",
+          "name": "Joseph Copeland"
+        },
+        {
+          "number": "20",
+          "name": "Emanuel Coleman"
+        },
+        {
+          "number": "22",
+          "name": "Sam Kingsbury"
+        },
+        {
+          "number": "24",
+          "name": "Noah Keates"
+        },
+        {
+          "number": "30",
+          "name": "Sam Swindell"
+        },
+        {
+          "number": "36",
+          "name": "Thomas Jones"
+        },
+        {
+          "number": "40",
+          "name": "Andrew Treat"
+        },
+        {
+          "number": "40",
+          "name": "Jasper Gordon"
+        }
+      ]
+    },
+    {
+      "name": "Bates College",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Orange Whip",
+        "location": "Lewiston, Maine",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Benjamin Skiest"
+        },
+        {
+          "number": "0",
+          "name": "Cameron Brown"
+        },
+        {
+          "number": "0",
+          "name": "Christian Welch"
+        },
+        {
+          "number": "0",
+          "name": "Clay Hundertmark"
+        },
+        {
+          "number": "0",
+          "name": "Elliot Wilson"
+        },
+        {
+          "number": "0",
+          "name": "Luke Sedor Protti"
+        },
+        {
+          "number": "0",
+          "name": "Sam Hastings"
+        },
+        {
+          "number": "0",
+          "name": "Sebastian Jalowayski"
+        },
+        {
+          "number": "0",
+          "name": "Wilder Geier"
+        },
+        {
+          "number": "0",
+          "name": "William Sanders"
+        },
+        {
+          "number": "1",
+          "name": "William Davis"
+        },
+        {
+          "number": "1",
+          "name": "Kasey Shibayama"
+        },
+        {
+          "number": "3",
+          "name": "Nick Holmes"
+        },
+        {
+          "number": "9",
+          "name": "Dominique Frideger"
+        },
+        {
+          "number": "10",
+          "name": "Adam Banks"
+        },
+        {
+          "number": "12",
+          "name": "Jake Atwood"
+        },
+        {
+          "number": "16",
+          "name": "Nicholas Osborn"
+        },
+        {
+          "number": "19",
+          "name": "Harris Manganiello"
+        },
+        {
+          "number": "21",
+          "name": "Jan Cornelius-Knudsen"
+        },
+        {
+          "number": "77",
+          "name": "Max Rein"
+        },
+        {
+          "number": "89",
+          "name": "Sam Holmes"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Bowdoin",
+              "team2": "Bates College",
+              "score1": 13,
+              "score2": 5,
+              "datetime": "2019-04-20T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Dartmouth",
+              "team2": "Colby",
+              "score1": 13,
+              "score2": 4,
+              "datetime": "2019-04-20T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Middlebury",
+              "team2": "Colby",
+              "score1": 12,
+              "score2": 10,
+              "datetime": "2019-04-20T10:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Dartmouth",
+              "team2": "Bowdoin",
+              "score1": 13,
+              "score2": 7,
+              "datetime": "2019-04-20T10:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Middlebury",
+              "team2": "Bates College",
+              "score1": 10,
+              "score2": 8,
+              "datetime": "2019-04-20T12:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Colby",
+              "team2": "Bowdoin",
+              "score1": 13,
+              "score2": 10,
+              "datetime": "2019-04-20T12:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Dartmouth",
+              "team2": "Bates College",
+              "score1": 13,
+              "score2": 5,
+              "datetime": "2019-04-20T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Middlebury",
+              "team2": "Bowdoin",
+              "score1": 12,
+              "score2": 7,
+              "datetime": "2019-04-20T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Middlebury",
+              "team2": "Dartmouth",
+              "score1": 10,
+              "score2": 13,
+              "datetime": "2019-04-20T15:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Colby",
+              "team2": "Bates College",
+              "score1": 13,
+              "score2": 6,
+              "datetime": "2019-04-20T15:40:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

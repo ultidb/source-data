@@ -1,0 +1,937 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2014/Southwest-Dev-College-Mens-CCCollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/Southwest-Dev-College-Mens-CC/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:11.917287Z",
+  "event": {
+    "name": "Southwest Dev College Men's CC 2014",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2014,
+    "city": "Riverside",
+    "state": "CA",
+    "country": "",
+    "startDate": "2014-04-19",
+    "endDate": "2014-04-20"
+  },
+  "teams": [
+    {
+      "name": "Arizona State (B)",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Pleasure Ultimate B",
+        "location": "Tempe, Arizona",
+        "website": "www.arizonastateultimate.com",
+        "facebook": "https://www.facebook.com/pages/Pleasure-Ultimate/428479377237462",
+        "twitter": "https://twitter.com/pleASUre_ult"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "8",
+          "name": "Andrew North"
+        },
+        {
+          "number": "01",
+          "name": "VINCE QUINTANA"
+        },
+        {
+          "number": "02",
+          "name": "NICHOLAS LEFFERS"
+        },
+        {
+          "number": "03",
+          "name": "TYLER HOLLMANN"
+        },
+        {
+          "number": "11",
+          "name": "Dalton Heppler"
+        },
+        {
+          "number": "13",
+          "name": "BRYSON OLSON"
+        },
+        {
+          "number": "15",
+          "name": "Tyler Prime"
+        },
+        {
+          "number": "16",
+          "name": "JORDAN BARENBAUM"
+        },
+        {
+          "number": "21",
+          "name": "William Hanson"
+        },
+        {
+          "number": "25",
+          "name": "MICHAEL O'KEEFE"
+        },
+        {
+          "number": "28",
+          "name": "GLENNON MONTGOMERY"
+        },
+        {
+          "number": "30",
+          "name": "JAMES DURST"
+        },
+        {
+          "number": "33",
+          "name": "Mitchell Marois"
+        },
+        {
+          "number": "36",
+          "name": "ARANA SCHULKE"
+        },
+        {
+          "number": "37",
+          "name": "ERNEST MANTELL"
+        },
+        {
+          "number": "51",
+          "name": "Maximilian Christman"
+        },
+        {
+          "number": "88",
+          "name": "Thomas Balls"
+        },
+        {
+          "number": "95",
+          "name": "Kolton Nelder"
+        }
+      ]
+    },
+    {
+      "name": "UCLA (B)",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "UCLA B",
+        "location": "Los Angeles, California",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "10",
+          "name": "Mochi Li"
+        },
+        {
+          "number": "11",
+          "name": "David Clyde"
+        },
+        {
+          "number": "12",
+          "name": "William Henrikson"
+        },
+        {
+          "number": "13",
+          "name": "Evan Soskin"
+        },
+        {
+          "number": "14",
+          "name": "Joseph Gorelik"
+        },
+        {
+          "number": "15",
+          "name": "Carlos Ipuz-Rengifo"
+        },
+        {
+          "number": "16",
+          "name": "MIGUEL CUEVAS"
+        },
+        {
+          "number": "17",
+          "name": "Michael Del Spina"
+        },
+        {
+          "number": "19",
+          "name": "Szilard Gyalay"
+        },
+        {
+          "number": "27",
+          "name": "ERIC HIRSHFIELD-YAMANISHI"
+        },
+        {
+          "number": "69",
+          "name": "RYAN GILMORE"
+        },
+        {
+          "number": "79",
+          "name": "Elric Zhang"
+        },
+        {
+          "number": "85",
+          "name": "Siddhesh Naik"
+        },
+        {
+          "number": "99",
+          "name": "Jacob Vandel"
+        }
+      ]
+    },
+    {
+      "name": "Cal Poly-SLO (B)",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "SLO-B",
+        "location": "San Luis Obispo, California",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "1",
+          "name": "Sean Bybee"
+        },
+        {
+          "number": "6",
+          "name": "DAVID HAZLEBECK"
+        },
+        {
+          "number": "04",
+          "name": "Daniel Hoffman"
+        },
+        {
+          "number": "10",
+          "name": "Vikrant Marathe"
+        },
+        {
+          "number": "21",
+          "name": "Konrad Antoniuk"
+        },
+        {
+          "number": "26",
+          "name": "Camden Reynolds"
+        },
+        {
+          "number": "36",
+          "name": "Tommy Yath"
+        },
+        {
+          "number": "77",
+          "name": "Kyle Sisson"
+        },
+        {
+          "number": "81",
+          "name": "Zachary Antoyan"
+        },
+        {
+          "number": "86",
+          "name": "Joshua (Slater) Levey"
+        }
+      ]
+    },
+    {
+      "name": "California-Irvine (B)",
+      "seed": 8,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Nightlife B",
+        "location": "Irvine, California",
+        "website": "http://uciultimate.com/",
+        "facebook": "https://www.facebook.com/groups/nightlifeultimate/",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Nicholas Chen"
+        },
+        {
+          "number": "00",
+          "name": "Cody Woltz"
+        },
+        {
+          "number": "00",
+          "name": "Marc Abboud"
+        },
+        {
+          "number": "00",
+          "name": "TYLER CHRISTIAN"
+        },
+        {
+          "number": "00",
+          "name": "Justin Williams"
+        },
+        {
+          "number": "00",
+          "name": "Ethan Luong"
+        },
+        {
+          "number": "00",
+          "name": "Justin Shun"
+        },
+        {
+          "number": "00",
+          "name": "Kai Fong"
+        },
+        {
+          "number": "00",
+          "name": "Yoshitaka Yamamoto"
+        },
+        {
+          "number": "00",
+          "name": "Bryant Tran"
+        },
+        {
+          "number": "00",
+          "name": "DEVON STANLEY"
+        },
+        {
+          "number": "00",
+          "name": "Paul Sinclair"
+        },
+        {
+          "number": "00",
+          "name": "Jeremy \"River\" Rhoan"
+        },
+        {
+          "number": "03",
+          "name": "MARK ARCHER"
+        }
+      ]
+    },
+    {
+      "name": "Southern California (B)",
+      "seed": 9,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "USC Men's Ultimate B",
+        "location": "Los Angeles, California",
+        "website": "http://www.uscmensultimate.com/",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "KEVIN SUI"
+        },
+        {
+          "number": "0",
+          "name": "Khai-Hoan Pham"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Su"
+        },
+        {
+          "number": "0",
+          "name": "Daniel Mansperger"
+        },
+        {
+          "number": "0",
+          "name": "Ganesh Sivakumar"
+        },
+        {
+          "number": "0",
+          "name": "Derek Corbin"
+        },
+        {
+          "number": "0",
+          "name": "DAVE PASCARELLA"
+        },
+        {
+          "number": "0",
+          "name": "Zachary Manta"
+        },
+        {
+          "number": "0",
+          "name": "Alex Koh"
+        },
+        {
+          "number": "0",
+          "name": "Daniel Bae"
+        },
+        {
+          "number": "46",
+          "name": "ZACHARY BERGENFELD"
+        }
+      ]
+    },
+    {
+      "name": "California-San Diego (B)",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Air Squids- LITE B-team",
+        "location": "San Diego, California",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Nate Berls"
+        },
+        {
+          "number": "0",
+          "name": "Stephen Carrington"
+        },
+        {
+          "number": "0",
+          "name": "Andre Almeida"
+        },
+        {
+          "number": "0",
+          "name": "William Walker"
+        },
+        {
+          "number": "0",
+          "name": "Joaquin Reyna"
+        },
+        {
+          "number": "0",
+          "name": "STEPHAN SPANGENBERG"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Jay Sagucio"
+        },
+        {
+          "number": "0",
+          "name": "Brandon Babilonia"
+        },
+        {
+          "number": "0",
+          "name": "Jacob Gutkowski"
+        },
+        {
+          "number": "0",
+          "name": "Elliot Chiu"
+        },
+        {
+          "number": "0",
+          "name": "RYAN ANDERSON"
+        },
+        {
+          "number": "0",
+          "name": "Andrew Liao"
+        },
+        {
+          "number": "0",
+          "name": "SEAN ORTIZ"
+        },
+        {
+          "number": "0",
+          "name": "Nicholas Sun"
+        },
+        {
+          "number": "0",
+          "name": "Pulin Zhou"
+        },
+        {
+          "number": "0",
+          "name": "Matthew Young"
+        },
+        {
+          "number": "0",
+          "name": "Justin Hoang"
+        },
+        {
+          "number": "0",
+          "name": "David Tran"
+        },
+        {
+          "number": "0",
+          "name": "Collin Knybel"
+        },
+        {
+          "number": "0",
+          "name": "Grifen Buck"
+        },
+        {
+          "number": "0",
+          "name": "Nathaniel Goldberg"
+        },
+        {
+          "number": "0",
+          "name": "Kyle Pon"
+        },
+        {
+          "number": "0",
+          "name": "ALEXANDER KASSES"
+        },
+        {
+          "number": "0",
+          "name": "Abel Martinez"
+        },
+        {
+          "number": "0",
+          "name": "Alec Johnson"
+        },
+        {
+          "number": "0",
+          "name": "Sai Gundlapalli"
+        },
+        {
+          "number": "0",
+          "name": "Elijah Rickert"
+        },
+        {
+          "number": "0",
+          "name": "Eric Zhao"
+        },
+        {
+          "number": "0",
+          "name": "Jaime Ayala"
+        },
+        {
+          "number": "14",
+          "name": "ROBERT PADILLA"
+        },
+        {
+          "number": "17",
+          "name": "Brian Greenbaum"
+        },
+        {
+          "number": "19",
+          "name": "Joe McMinn"
+        },
+        {
+          "number": "24",
+          "name": "James Chianglin"
+        },
+        {
+          "number": "43",
+          "name": "Grant Chinn"
+        },
+        {
+          "number": "56",
+          "name": "Gabe Cohen"
+        },
+        {
+          "number": "71",
+          "name": "Storm Dotson"
+        },
+        {
+          "number": "91",
+          "name": "Mario Gaytan"
+        }
+      ]
+    },
+    {
+      "name": "California (B)",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Thugmo",
+        "location": "Berkeley, California",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Bryan Tran"
+        },
+        {
+          "number": "0",
+          "name": "Hayato Furuki"
+        },
+        {
+          "number": "0",
+          "name": "Gavin VonSeggern"
+        },
+        {
+          "number": "0",
+          "name": "JON WITTE"
+        },
+        {
+          "number": "0",
+          "name": "JOHN HO"
+        },
+        {
+          "number": "0",
+          "name": "JAMES FENG"
+        },
+        {
+          "number": "0",
+          "name": "Alexander Shearer"
+        },
+        {
+          "number": "10",
+          "name": "Charles Zhang"
+        },
+        {
+          "number": "11",
+          "name": "Leif Swenson"
+        },
+        {
+          "number": "18",
+          "name": "Michael Suey"
+        },
+        {
+          "number": "23",
+          "name": "Alexander Johnson"
+        },
+        {
+          "number": "31",
+          "name": "Justin Geffrey"
+        },
+        {
+          "number": "36",
+          "name": "Jenna Weiner"
+        }
+      ]
+    },
+    {
+      "name": "Arizona (B)",
+      "seed": 7,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Swashbucklers",
+        "location": "Tucson, Arizona",
+        "website": "sunburnultimate.com",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Ciaran Welland"
+        },
+        {
+          "number": "00",
+          "name": "Adam Gross"
+        },
+        {
+          "number": "00",
+          "name": "Dalmar Wiltshire"
+        },
+        {
+          "number": "00",
+          "name": "Brendon Hudnell"
+        },
+        {
+          "number": "00",
+          "name": "Brandon Alessini"
+        },
+        {
+          "number": "00",
+          "name": "JASON TOM"
+        },
+        {
+          "number": "00",
+          "name": "Eli Johnson"
+        },
+        {
+          "number": "00",
+          "name": "Garrick Bruening"
+        },
+        {
+          "number": "00",
+          "name": "Gordon Meyer"
+        },
+        {
+          "number": "00",
+          "name": "Robert Gonzalez"
+        },
+        {
+          "number": "00",
+          "name": "Timothy Wood"
+        },
+        {
+          "number": "00",
+          "name": "ALEX LINDAHL"
+        },
+        {
+          "number": "00",
+          "name": "Scott Williams"
+        }
+      ]
+    },
+    {
+      "name": "TEAM_NAME_NOT_FOUND",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": null,
+      "coaches": [],
+      "roster": []
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Arizona State (B)",
+              "team2": "Southern California (B)",
+              "score1": 13,
+              "score2": 0,
+              "datetime": "2014-04-19T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Cal Poly-SLO (B)",
+              "team2": "California-Irvine (B)",
+              "score1": 13,
+              "score2": 1,
+              "datetime": "2014-04-19T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Arizona State (B)",
+              "team2": "Cal Poly-SLO (B)",
+              "score1": 13,
+              "score2": 2,
+              "datetime": "2014-04-19T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "UCLA (B)",
+              "team2": "California-Irvine (B)",
+              "score1": 13,
+              "score2": 3,
+              "datetime": "2014-04-19T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "California-Irvine (B)",
+              "team2": "Southern California (B)",
+              "score1": 10,
+              "score2": 3,
+              "datetime": "2014-04-19T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "UCLA (B)",
+              "team2": "Cal Poly-SLO (B)",
+              "score1": 12,
+              "score2": 8,
+              "datetime": "2014-04-19T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Arizona State (B)",
+              "team2": "California-Irvine (B)",
+              "score1": 13,
+              "score2": 1,
+              "datetime": "2014-04-19T14:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "UCLA (B)",
+              "team2": "Southern California (B)",
+              "score1": 12,
+              "score2": 2,
+              "datetime": "2014-04-19T14:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Arizona State (B)",
+              "team2": "UCLA (B)",
+              "score1": 13,
+              "score2": 7,
+              "datetime": "2014-04-19T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Cal Poly-SLO (B)",
+              "team2": "Southern California (B)",
+              "score1": 13,
+              "score2": 0,
+              "datetime": "2014-04-19T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool B",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "California (B)",
+              "team2": "Arizona (B)",
+              "score1": 14,
+              "score2": 11,
+              "datetime": "2014-04-19T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "California-San Diego (B)",
+              "team2": "Arizona (B)",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2014-04-19T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "California (B)",
+              "team2": "California-San Diego (B)",
+              "score1": 9,
+              "score2": 13,
+              "datetime": "2014-04-19T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "SW Developmental Conference Championship",
+      "groups": [
+        {
+          "name": "Championship Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Arizona State (B)",
+              "team2": "Arizona (B)",
+              "score1": 15,
+              "score2": 5,
+              "datetime": "2014-04-20T09:00:00Z",
+              "round": "Quarters",
+              "status": "Final"
+            },
+            {
+              "team1": "California-San Diego (B)",
+              "team2": "Cal Poly-SLO (B)",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2014-04-20T09:00:00Z",
+              "round": "Quarters",
+              "status": "Final"
+            },
+            {
+              "team1": "UCLA (B)",
+              "team2": "California (B)",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2014-04-20T09:00:00Z",
+              "round": "Quarters",
+              "status": "Final"
+            },
+            {
+              "team1": "TEAM_NAME_NOT_FOUND",
+              "team2": "California-Irvine (B)",
+              "score1": 15,
+              "score2": 6,
+              "datetime": "2014-04-20T09:00:00Z",
+              "round": "Quarters",
+              "status": "Final"
+            },
+            {
+              "team1": "Arizona State (B)",
+              "team2": "California-San Diego (B)",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2014-04-20T23:00:00Z",
+              "round": "Semis",
+              "status": "Final"
+            },
+            {
+              "team1": "UCLA (B)",
+              "team2": "TEAM_NAME_NOT_FOUND",
+              "score1": 13,
+              "score2": 15,
+              "datetime": "2014-04-20T11:00:00Z",
+              "round": "Semis",
+              "status": "Final"
+            },
+            {
+              "team1": "Arizona State (B)",
+              "team2": "TEAM_NAME_NOT_FOUND",
+              "score1": 15,
+              "score2": 5,
+              "datetime": "2014-04-20T13:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Consolation Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Arizona (B)",
+              "team2": "Cal Poly-SLO (B)",
+              "score1": 15,
+              "score2": 11,
+              "datetime": "2014-04-20T11:00:00Z",
+              "round": "5th Place Semis",
+              "status": "Final"
+            },
+            {
+              "team1": "California (B)",
+              "team2": "California-Irvine (B)",
+              "score1": 1,
+              "score2": 0,
+              "datetime": "2014-04-20T11:00:00Z",
+              "round": "5th Place Semis",
+              "status": "Final"
+            },
+            {
+              "team1": "Arizona (B)",
+              "team2": "California (B)",
+              "score1": 0,
+              "score2": 1,
+              "datetime": "2014-04-20T13:00:00Z",
+              "round": "5th Place Finals",
+              "status": "Scheduled"
+            }
+          ]
+        },
+        {
+          "name": "7th Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Cal Poly-SLO (B)",
+              "team2": "California-Irvine (B)",
+              "score1": 1,
+              "score2": 0,
+              "datetime": "2014-04-20T13:00:00Z",
+              "round": "7th Place",
+              "status": "Scheduled"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

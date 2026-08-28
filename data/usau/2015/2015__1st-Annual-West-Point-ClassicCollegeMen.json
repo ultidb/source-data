@@ -1,0 +1,661 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2015/1st-Annual-West-Point-ClassicCollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/1st-Annual-West-Point-Classic/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:12.109622Z",
+  "event": {
+    "name": "1st Annual West Point Classic 2015",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2015,
+    "city": "West Point",
+    "state": "NY",
+    "country": "",
+    "startDate": "2015-02-28",
+    "endDate": "2015-03-01"
+  },
+  "teams": [
+    {
+      "name": "Bates",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Bates Orange Whip",
+        "location": "Lewiston, Maine",
+        "website": "http://abacus.bates.edu/people/orgs/ultimate/",
+        "facebook": "",
+        "twitter": "https://twitter.com/bateso_whip"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "2",
+          "name": "Matt Goldberg"
+        },
+        {
+          "number": "4",
+          "name": "HORACE HENRIQUES"
+        },
+        {
+          "number": "9",
+          "name": "RJ Bingham"
+        },
+        {
+          "number": "10",
+          "name": "Charles Beatty"
+        },
+        {
+          "number": "13",
+          "name": "Christopher Eddy"
+        },
+        {
+          "number": "17",
+          "name": "Benjamin Mardin"
+        },
+        {
+          "number": "18",
+          "name": "SPENCER GOOSSENS"
+        },
+        {
+          "number": "21",
+          "name": "JOSH GIESLER"
+        },
+        {
+          "number": "22",
+          "name": "Nate Levin"
+        },
+        {
+          "number": "23",
+          "name": "Tyler Sheffield"
+        },
+        {
+          "number": "25",
+          "name": "Chris Fox"
+        },
+        {
+          "number": "29",
+          "name": "NATHAN DANA"
+        },
+        {
+          "number": "34",
+          "name": "DYLAN LOPEZ"
+        },
+        {
+          "number": "35",
+          "name": "JAMES PARDO"
+        },
+        {
+          "number": "45",
+          "name": "Will McPherson"
+        },
+        {
+          "number": "48",
+          "name": "Ezra Oliff-Lieberman"
+        },
+        {
+          "number": "63",
+          "name": "Devin Ullerick"
+        },
+        {
+          "number": "80",
+          "name": "Jacob  Freedman"
+        },
+        {
+          "number": "87",
+          "name": "Colin Eimers"
+        }
+      ]
+    },
+    {
+      "name": "Hamilton",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Hot Saucers",
+        "location": "Clinton, New York",
+        "website": "https://hotsaucersultimate.wordpress.com/",
+        "facebook": "",
+        "twitter": "https://twitter.com/HCSTATE"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "ALEXANDER GRIECO"
+        },
+        {
+          "number": "1",
+          "name": "Alex Straus"
+        },
+        {
+          "number": "5",
+          "name": "Tyler Rhind"
+        },
+        {
+          "number": "7",
+          "name": "Thomas Morris"
+        },
+        {
+          "number": "9",
+          "name": "Robert Clayton"
+        },
+        {
+          "number": "10",
+          "name": "Ty Torregrosa"
+        },
+        {
+          "number": "11",
+          "name": "Brooks Rozelle"
+        },
+        {
+          "number": "13",
+          "name": "Gregory Peckham"
+        },
+        {
+          "number": "14",
+          "name": "JONAH BOUCHER"
+        },
+        {
+          "number": "17",
+          "name": "Kuhan Mahendraraj"
+        },
+        {
+          "number": "18",
+          "name": "Jonathan Shapiro"
+        },
+        {
+          "number": "18",
+          "name": "Alexander Miltenberg"
+        },
+        {
+          "number": "21",
+          "name": "Samuel Carletta"
+        },
+        {
+          "number": "22",
+          "name": "Logan Yu"
+        },
+        {
+          "number": "26",
+          "name": "Alec Neal"
+        },
+        {
+          "number": "27",
+          "name": "Bryce Lupoli"
+        },
+        {
+          "number": "31",
+          "name": "Daniel Horgan"
+        },
+        {
+          "number": "32",
+          "name": "Paul Westin"
+        },
+        {
+          "number": "33",
+          "name": "MINHOON SOHN"
+        },
+        {
+          "number": "34",
+          "name": "Ben Moody"
+        },
+        {
+          "number": "49",
+          "name": "Jack Anderson"
+        },
+        {
+          "number": "88",
+          "name": "Jeffrey Greenwald"
+        },
+        {
+          "number": "90",
+          "name": "Jared Mandelbaum"
+        },
+        {
+          "number": "99",
+          "name": "Nicholas Lucchesi"
+        }
+      ]
+    },
+    {
+      "name": "Army",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Black Magic",
+        "location": "West Point, New York",
+        "website": "http://www.usma.edu/ultimate/SitePages/Home.aspx",
+        "facebook": "https://www.facebook.com/groups/248329755207161/",
+        "twitter": "https://twitter.com/WestPointUlti"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Montana  Bilger"
+        },
+        {
+          "number": "0",
+          "name": "Joseph Woolfork"
+        },
+        {
+          "number": "0",
+          "name": "Ian Betzel"
+        },
+        {
+          "number": "0",
+          "name": "JULEN TOTORICA"
+        },
+        {
+          "number": "3",
+          "name": "SAMUEL HARTFORD"
+        },
+        {
+          "number": "4",
+          "name": "NATE PIERINGER"
+        },
+        {
+          "number": "6",
+          "name": "Lewis (Alec) Chosewood"
+        },
+        {
+          "number": "23",
+          "name": "MITCHELL SMITH"
+        },
+        {
+          "number": "44",
+          "name": "TYLER BERTLES"
+        }
+      ]
+    },
+    {
+      "name": "Central Connecticut State",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Blue Barracudas",
+        "location": "New Britain, Connecticut",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "David Pare"
+        },
+        {
+          "number": "0",
+          "name": "Nicholas Gurrieri"
+        },
+        {
+          "number": "0",
+          "name": "Bennett Records"
+        },
+        {
+          "number": "0",
+          "name": "Lucas Tyler"
+        },
+        {
+          "number": "1",
+          "name": "Ryan Douty"
+        },
+        {
+          "number": "3",
+          "name": "Christopher Monroe"
+        },
+        {
+          "number": "8",
+          "name": "Kyle  Summa"
+        },
+        {
+          "number": "9",
+          "name": "Tucker McMullin"
+        },
+        {
+          "number": "02",
+          "name": "Andrew Thai"
+        },
+        {
+          "number": "04",
+          "name": "Eric Renkewith"
+        },
+        {
+          "number": "05",
+          "name": "DANIEL FAVALE"
+        },
+        {
+          "number": "06",
+          "name": "Christopher Cox"
+        },
+        {
+          "number": "07",
+          "name": "Ricky Lewandowski"
+        },
+        {
+          "number": "12",
+          "name": "Enrique Bello"
+        },
+        {
+          "number": "17",
+          "name": "James Vitali"
+        },
+        {
+          "number": "18",
+          "name": "Dong Lam"
+        },
+        {
+          "number": "19",
+          "name": "Steven Servedio"
+        },
+        {
+          "number": "23",
+          "name": "Hunter Schwoerke"
+        },
+        {
+          "number": "41",
+          "name": "Steven Lee"
+        },
+        {
+          "number": "61",
+          "name": "Nick Pockoski"
+        },
+        {
+          "number": "66",
+          "name": "Garrett Santi"
+        },
+        {
+          "number": "69",
+          "name": "Damiaen Florian"
+        },
+        {
+          "number": "77",
+          "name": "Alexander Olendorf"
+        }
+      ]
+    },
+    {
+      "name": "Wentworth Tech",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Concrete Jungle",
+        "location": "Boston, Massachusetts",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/WITUltimate"
+      },
+      "coaches": [
+        "Mackenzie Kirby",
+        "Matthew Silverman"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "ROSS USINGER"
+        },
+        {
+          "number": "0",
+          "name": "Austin Phillips"
+        },
+        {
+          "number": "0",
+          "name": "Connor  Read"
+        },
+        {
+          "number": "0",
+          "name": "Michael McCarthy"
+        },
+        {
+          "number": "0",
+          "name": "Andre Clement"
+        },
+        {
+          "number": "0",
+          "name": "Will Rossi"
+        },
+        {
+          "number": "0",
+          "name": "JOSEPH MCKAIN"
+        },
+        {
+          "number": "0",
+          "name": "STEPHEN RANIERI"
+        },
+        {
+          "number": "0",
+          "name": "TOM CHIARELLI"
+        },
+        {
+          "number": "0",
+          "name": "BRETT POWERS"
+        },
+        {
+          "number": "4",
+          "name": "Zakary Laroche"
+        },
+        {
+          "number": "12",
+          "name": "Michael Carando"
+        },
+        {
+          "number": "25",
+          "name": "Simon Filippenko"
+        },
+        {
+          "number": "98",
+          "name": "Zackery Smith"
+        }
+      ]
+    },
+    {
+      "name": "Wesleyan",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Nietzsch Factor",
+        "location": "Middletown, Connecticut",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Sam Gord"
+        },
+        {
+          "number": "0",
+          "name": "LARS BERG"
+        },
+        {
+          "number": "0",
+          "name": "Henry Kinder"
+        },
+        {
+          "number": "0",
+          "name": "Noam Sandweiss-Back"
+        },
+        {
+          "number": "0",
+          "name": "Timothy Levin"
+        },
+        {
+          "number": "2",
+          "name": "Isaac Pollan"
+        },
+        {
+          "number": "13",
+          "name": "Emerson Obus"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Round Robin",
+      "groups": [
+        {
+          "name": "Round Robin Play",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Hamilton",
+              "team2": "Bates",
+              "score1": 7,
+              "score2": 8,
+              "datetime": "2015-02-28T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Central Connecticut State",
+              "team2": "Army",
+              "score1": 4,
+              "score2": 13,
+              "datetime": "2015-02-28T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Wentworth Tech",
+              "team2": "Central Connecticut State",
+              "score1": 5,
+              "score2": 9,
+              "datetime": "2015-02-28T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Wesleyan",
+              "team2": "Army",
+              "score1": 10,
+              "score2": 11,
+              "datetime": "2015-02-28T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Wesleyan",
+              "team2": "Bates",
+              "score1": 3,
+              "score2": 13,
+              "datetime": "2015-02-28T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Wentworth Tech",
+              "team2": "Hamilton",
+              "score1": 4,
+              "score2": 10,
+              "datetime": "2015-02-28T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Wentworth Tech",
+              "team2": "Army",
+              "score1": 5,
+              "score2": 11,
+              "datetime": "2015-02-28T14:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Hamilton",
+              "team2": "Central Connecticut State",
+              "score1": 9,
+              "score2": 7,
+              "datetime": "2015-02-28T14:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Wesleyan",
+              "team2": "Hamilton",
+              "score1": 5,
+              "score2": 13,
+              "datetime": "2015-03-01T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Bates",
+              "team2": "Army",
+              "score1": 13,
+              "score2": 8,
+              "datetime": "2015-03-01T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Wesleyan",
+              "team2": "Central Connecticut State",
+              "score1": 8,
+              "score2": 13,
+              "datetime": "2015-03-01T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Wentworth Tech",
+              "team2": "Bates",
+              "score1": 5,
+              "score2": 10,
+              "datetime": "2015-03-01T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Bracket Play",
+      "groups": [
+        {
+          "name": "1st",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Bates",
+              "team2": "Hamilton",
+              "score1": 7,
+              "score2": 13,
+              "datetime": "2015-03-01T12:30:00Z",
+              "round": "1st",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "3rd",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Army",
+              "team2": "Central Connecticut State",
+              "score1": 8,
+              "score2": 11,
+              "datetime": "2015-03-01T12:30:00Z",
+              "round": "3rd",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

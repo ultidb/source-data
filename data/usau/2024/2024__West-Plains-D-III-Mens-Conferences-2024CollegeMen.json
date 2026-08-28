@@ -1,0 +1,242 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2024/West-Plains-D-III-Mens-Conferences-2024CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/West-Plains-D-III-Mens-Conferences-2024/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:21.200938Z",
+  "event": {
+    "name": "West Plains D-III College Men's Conferences 2024",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2024,
+    "city": "Decorah",
+    "state": "IA",
+    "country": "",
+    "startDate": "2024-04-13",
+    "endDate": "2024-04-13"
+  },
+  "teams": [
+    {
+      "name": "Grinnell",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Grinnellephants",
+        "location": "Grinnell, Iowa",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/Grinnellephants"
+      },
+      "coaches": [
+        "Rebecca Crown",
+        "Nick Culver"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Benjamin Shulman"
+        },
+        {
+          "number": "2",
+          "name": "Joseph Barrows"
+        },
+        {
+          "number": "3",
+          "name": "Christopher  Stuckart"
+        },
+        {
+          "number": "8",
+          "name": "Jacob Unzicker"
+        },
+        {
+          "number": "10",
+          "name": "Sam Bigham"
+        },
+        {
+          "number": "11",
+          "name": "William Norry"
+        },
+        {
+          "number": "15",
+          "name": "Sam Emison"
+        },
+        {
+          "number": "17",
+          "name": "Eli Boeding"
+        },
+        {
+          "number": "18",
+          "name": "Ryan Lewis"
+        },
+        {
+          "number": "20",
+          "name": "Jack Connelly"
+        },
+        {
+          "number": "21",
+          "name": "Fergus Braun"
+        },
+        {
+          "number": "23",
+          "name": "Takeru Katayama"
+        },
+        {
+          "number": "25",
+          "name": "David Rhoades"
+        },
+        {
+          "number": "31",
+          "name": "Duncan Lambert"
+        },
+        {
+          "number": "44",
+          "name": "Duncan Steele-Maley"
+        },
+        {
+          "number": "52",
+          "name": "Solomon Golden"
+        },
+        {
+          "number": "55",
+          "name": "Benjamin Albrecht"
+        },
+        {
+          "number": "69",
+          "name": "Niko Vamvakides"
+        },
+        {
+          "number": "81",
+          "name": "Nolan McGrane-Moffitt"
+        },
+        {
+          "number": "85",
+          "name": "Colby Jaros"
+        },
+        {
+          "number": "87",
+          "name": "Dominic D’Ascenzo"
+        },
+        {
+          "number": "97",
+          "name": "Jacob Heinrich"
+        }
+      ]
+    },
+    {
+      "name": "Luther",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "LUFDA",
+        "location": "Decorah, Iowa",
+        "website": "https://www.luther.edu/mens-ultimate/",
+        "facebook": "https://www.facebook.com/lutherultimate",
+        "twitter": "https://twitter.com/LutherLUFDA"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Austin Wesenberg"
+        },
+        {
+          "number": "0",
+          "name": "Eli Miller"
+        },
+        {
+          "number": "0",
+          "name": "Henry Lenaburg"
+        },
+        {
+          "number": "0",
+          "name": "Huy Nguyen"
+        },
+        {
+          "number": "0",
+          "name": "Jack Grigsby"
+        },
+        {
+          "number": "0",
+          "name": "Minh Le"
+        },
+        {
+          "number": "0",
+          "name": "Muhammad Mughees Akbar Warraich"
+        },
+        {
+          "number": "0",
+          "name": "Neil Grube"
+        },
+        {
+          "number": "0",
+          "name": "Paul Ode"
+        },
+        {
+          "number": "0",
+          "name": "peter McBride"
+        },
+        {
+          "number": "0",
+          "name": "Sean Medcalfe"
+        },
+        {
+          "number": "0",
+          "name": "William Coffey"
+        },
+        {
+          "number": "0",
+          "name": "Zachary A Watson"
+        },
+        {
+          "number": "2",
+          "name": "Karlton Anderson"
+        },
+        {
+          "number": "7",
+          "name": "Griffin Glassel"
+        },
+        {
+          "number": "28",
+          "name": "Charles Jetton"
+        },
+        {
+          "number": "32",
+          "name": "Liam Edberg"
+        },
+        {
+          "number": "33",
+          "name": "Simon McDonald"
+        },
+        {
+          "number": "97",
+          "name": "Mark McCollor"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Saturday",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Grinnell",
+              "team2": "Luther",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2024-04-13T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

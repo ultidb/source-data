@@ -1,0 +1,263 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2019/2019-USA-Ultimate-North-Central-Great-Grand-Masters-Regionalsgreat-grand-masters-men",
+  "sourceUrl": "https://play.usaultimate.org/events/2019-USA-Ultimate-North-Central-Great-Grand-Masters-Regionals/schedule/Men/great-grand-masters-men/",
+  "scrapedAt": "2026-08-28T10:06:16.346325Z",
+  "event": {
+    "name": "2019 USA Ultimate North Central Great Grand Masters Regionals",
+    "division": "Great Grand Masters - Men ",
+    "gender": "",
+    "season": 2019,
+    "city": "New Richmond",
+    "state": "WI",
+    "country": "",
+    "startDate": "2019-06-08",
+    "endDate": "2019-06-09"
+  },
+  "teams": [
+    {
+      "name": "Surly",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Minneapolis, Minnesota",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "4",
+          "name": "Mark Houska"
+        },
+        {
+          "number": "00",
+          "name": "Larry (Butch) Brown"
+        },
+        {
+          "number": "00",
+          "name": "Adam Goff"
+        },
+        {
+          "number": "00",
+          "name": "Stephen LaCrosse"
+        },
+        {
+          "number": "03",
+          "name": "Marc Landau"
+        },
+        {
+          "number": "05",
+          "name": "Theodore Weldon III"
+        },
+        {
+          "number": "06",
+          "name": "Andrew Rutledge"
+        },
+        {
+          "number": "08",
+          "name": "Joe Cesario"
+        },
+        {
+          "number": "13",
+          "name": "Jeremy Alden"
+        },
+        {
+          "number": "14",
+          "name": "Tim O'Toole"
+        },
+        {
+          "number": "15",
+          "name": "Tim Duggan"
+        },
+        {
+          "number": "16",
+          "name": "David Steglich"
+        },
+        {
+          "number": "18",
+          "name": "Adam Smith"
+        },
+        {
+          "number": "19",
+          "name": "Tom Kremer"
+        },
+        {
+          "number": "21",
+          "name": "Daniel Zelle"
+        },
+        {
+          "number": "22",
+          "name": "Christopher Hickman"
+        },
+        {
+          "number": "23",
+          "name": "Joe Bendix"
+        },
+        {
+          "number": "24",
+          "name": "Paul Loaney"
+        },
+        {
+          "number": "27",
+          "name": "Miguel Cline"
+        },
+        {
+          "number": "28",
+          "name": "Eric Enge"
+        },
+        {
+          "number": "29",
+          "name": "Brian Corradi"
+        },
+        {
+          "number": "31",
+          "name": "Mike Balas"
+        },
+        {
+          "number": "33",
+          "name": "Christopher Reynolds"
+        },
+        {
+          "number": "34",
+          "name": "John Hock"
+        },
+        {
+          "number": "36",
+          "name": "Russ Adams"
+        },
+        {
+          "number": "37",
+          "name": "Brian Sullivan"
+        },
+        {
+          "number": "84",
+          "name": "Jack Curran"
+        }
+      ]
+    },
+    {
+      "name": "Throwback",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Madison, Wisconsin",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "David Bael"
+        },
+        {
+          "number": "00",
+          "name": "Andy Kohl"
+        },
+        {
+          "number": "00",
+          "name": "Jim Shope"
+        },
+        {
+          "number": "00",
+          "name": "RICHARD WAGNER"
+        },
+        {
+          "number": "00",
+          "name": "Roger Proksch"
+        },
+        {
+          "number": "00",
+          "name": "David Toland"
+        },
+        {
+          "number": "02",
+          "name": "Kevin Kinneavy"
+        },
+        {
+          "number": "09",
+          "name": "Geoffrey \"G\" Nourse"
+        },
+        {
+          "number": "11",
+          "name": "Samson Sackett"
+        },
+        {
+          "number": "12",
+          "name": "Brian Jakubowski"
+        },
+        {
+          "number": "13",
+          "name": "Sara Sackett"
+        },
+        {
+          "number": "14",
+          "name": "Jon Keevil"
+        },
+        {
+          "number": "15",
+          "name": "Jeff McFarland"
+        },
+        {
+          "number": "16",
+          "name": "Robert Popp"
+        },
+        {
+          "number": "26",
+          "name": "DAN LIEBERMAN"
+        },
+        {
+          "number": "37",
+          "name": "Michael Janney"
+        },
+        {
+          "number": "42",
+          "name": "David Fawcett"
+        },
+        {
+          "number": "47",
+          "name": "Jay Wyant"
+        },
+        {
+          "number": "97",
+          "name": "Jim Schewe"
+        },
+        {
+          "number": "99",
+          "name": "Philip Crawford"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Game to go",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Surly",
+              "team2": "Throwback",
+              "score1": 15,
+              "score2": 2,
+              "datetime": "2019-06-08T15:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

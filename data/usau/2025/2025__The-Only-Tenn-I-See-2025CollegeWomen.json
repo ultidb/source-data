@@ -1,0 +1,300 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2025/The-Only-Tenn-I-See-2025CollegeWomen",
+  "sourceUrl": "https://play.usaultimate.org/events/The-Only-Tenn-I-See-2025/schedule/Women/CollegeWomen/",
+  "scrapedAt": "2026-08-28T10:06:21.912710Z",
+  "event": {
+    "name": "The Only Tenn I See 2025",
+    "division": "College - Women ",
+    "gender": "",
+    "season": 2025,
+    "city": "Knoxville",
+    "state": "TN",
+    "country": "",
+    "startDate": "2025-03-08",
+    "endDate": "2025-03-09"
+  },
+  "teams": [
+    {
+      "name": "Tennessee",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Big Orange Screw",
+        "location": "Knoxville, Tennessee",
+        "website": "https://utk.campuslabs.com/engage/organization/womensultimate",
+        "facebook": "https://www.facebook.com/BosTennesseeUltimate",
+        "twitter": "https://twitter.com/bosultimate?lang=en"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Elizabeth Johnson"
+        },
+        {
+          "number": "0",
+          "name": "Sydney Walker"
+        },
+        {
+          "number": "5",
+          "name": "Samantha Borchmann"
+        },
+        {
+          "number": "9",
+          "name": "Laura Leaman"
+        },
+        {
+          "number": "11",
+          "name": "Addison Epperson-Frost"
+        },
+        {
+          "number": "18",
+          "name": "Samantha Foley"
+        },
+        {
+          "number": "20",
+          "name": "Emma Woodward"
+        },
+        {
+          "number": "21",
+          "name": "Atlee Elliott"
+        },
+        {
+          "number": "22",
+          "name": "Hannah McInturff"
+        },
+        {
+          "number": "42",
+          "name": "Julia Terrell"
+        },
+        {
+          "number": "42",
+          "name": "Emma Patterson"
+        },
+        {
+          "number": "55",
+          "name": "Ella MacNicoll"
+        }
+      ]
+    },
+    {
+      "name": "Clemson",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Tiger Lilies",
+        "location": "Clemson, South Carolina",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Abigail Barrett"
+        },
+        {
+          "number": "0",
+          "name": "Alexa Ivnik"
+        },
+        {
+          "number": "0",
+          "name": "Alexis Schubert"
+        },
+        {
+          "number": "0",
+          "name": "Amanda Lam"
+        },
+        {
+          "number": "0",
+          "name": "Cassandra Connelly"
+        },
+        {
+          "number": "0",
+          "name": "Disney Medeiros"
+        },
+        {
+          "number": "0",
+          "name": "Kendall Rees"
+        },
+        {
+          "number": "0",
+          "name": "Maura Korte"
+        },
+        {
+          "number": "0",
+          "name": "Rachel Parrish"
+        },
+        {
+          "number": "0",
+          "name": "Ragan Broussard"
+        },
+        {
+          "number": "0",
+          "name": "Riana Patel"
+        },
+        {
+          "number": "0",
+          "name": "Sabrina Fernandez"
+        },
+        {
+          "number": "9",
+          "name": "Eleanor Bolick"
+        },
+        {
+          "number": "01",
+          "name": "Eliza Haines"
+        },
+        {
+          "number": "10",
+          "name": "Isabella Solov"
+        }
+      ]
+    },
+    {
+      "name": "Tennessee-Chattanooga",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Moxie",
+        "location": "Chattanooga, Tennessee",
+        "website": "",
+        "facebook": "",
+        "twitter": "UTCMoxie"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "3",
+          "name": "Sydney Finch"
+        },
+        {
+          "number": "8",
+          "name": "Natalie Provence"
+        },
+        {
+          "number": "10",
+          "name": "AnnaClaire Loos"
+        },
+        {
+          "number": "12",
+          "name": "Lizzie Cohen"
+        },
+        {
+          "number": "19",
+          "name": "Riley Ottinger"
+        },
+        {
+          "number": "20",
+          "name": "Natalie Fowler"
+        },
+        {
+          "number": "21",
+          "name": "Aasta  Thurman "
+        },
+        {
+          "number": "27",
+          "name": "Jaci Weigand"
+        },
+        {
+          "number": "32",
+          "name": "Katie Gomes"
+        },
+        {
+          "number": "36",
+          "name": "Lucia Constantine"
+        },
+        {
+          "number": "89",
+          "name": "Ellis Thuresson"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Tennessee",
+              "team2": "Tennessee-Chattanooga",
+              "score1": 12,
+              "score2": 2,
+              "datetime": "2025-03-08T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Clemson",
+              "team2": "Tennessee-Chattanooga",
+              "score1": 13,
+              "score2": 1,
+              "datetime": "2025-03-08T13:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Clemson",
+              "team2": "Tennessee",
+              "score1": 8,
+              "score2": 9,
+              "datetime": "2025-03-08T15:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "clusters",
+      "name": "Championship",
+      "groups": [
+        {
+          "name": "Championship Pool",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Clemson",
+              "team2": "Tennessee-Chattanooga",
+              "score1": 12,
+              "score2": 7,
+              "datetime": "2025-03-09T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Tennessee",
+              "team2": "Tennessee-Chattanooga",
+              "score1": 13,
+              "score2": 1,
+              "datetime": "2025-03-09T11:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Tennessee",
+              "team2": "Clemson",
+              "score1": 11,
+              "score2": 6,
+              "datetime": "2025-03-09T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

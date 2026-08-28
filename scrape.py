@@ -15,7 +15,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 import time
 import uuid
-from parse import (
+from sources.usau.parse import (
     addRosterToTeam,
     addInfoToTeam,
     parseNewSchedule,

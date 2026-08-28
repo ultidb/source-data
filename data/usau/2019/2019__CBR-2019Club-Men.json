@@ -1,0 +1,985 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2019/CBR-2019Club-Men",
+  "sourceUrl": "https://play.usaultimate.org/events/CBR-2019/schedule/Men/Club-Men/",
+  "scrapedAt": "2026-08-28T10:06:16.432706Z",
+  "event": {
+    "name": "CBR 2019",
+    "division": "Club - Men ",
+    "gender": "",
+    "season": 2019,
+    "city": "Lacey",
+    "state": "WA",
+    "country": "",
+    "startDate": "2019-08-03",
+    "endDate": "2019-08-04"
+  },
+  "teams": [
+    {
+      "name": "Blackfish",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Vancouver, British Columbia CA",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Chris Small"
+        },
+        {
+          "number": "0",
+          "name": "Eddison Ng"
+        },
+        {
+          "number": "0",
+          "name": "Hamish Gibson"
+        },
+        {
+          "number": "0",
+          "name": "Hunter Juhasz"
+        },
+        {
+          "number": "0",
+          "name": "Jack Mills"
+        },
+        {
+          "number": "0",
+          "name": "Justin Chan"
+        },
+        {
+          "number": "0",
+          "name": "Aaron Chan"
+        },
+        {
+          "number": "0",
+          "name": "Aaron Loach"
+        },
+        {
+          "number": "0",
+          "name": "Marcus Yeung"
+        },
+        {
+          "number": "0",
+          "name": "Nicholas Cheng"
+        },
+        {
+          "number": "1",
+          "name": "Andrew Ling"
+        },
+        {
+          "number": "1",
+          "name": "Karim Jamal"
+        },
+        {
+          "number": "7",
+          "name": "Victor Cheng"
+        },
+        {
+          "number": "21",
+          "name": "Trevor McCann"
+        },
+        {
+          "number": "74",
+          "name": "Samuel Creed"
+        },
+        {
+          "number": "96",
+          "name": "Ryan Hoy"
+        },
+        {
+          "number": "97",
+          "name": "Nicholas Okuma"
+        }
+      ]
+    },
+    {
+      "name": "Dark Star",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Eugene, Oregon",
+        "website": "http://www.darkstarultimate.com",
+        "facebook": "",
+        "twitter": "https://twitter.com/eugenedarkstar"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Aaron Peterschmidt"
+        },
+        {
+          "number": "0",
+          "name": "Benjamin Liu-May"
+        },
+        {
+          "number": "0",
+          "name": "Cole Eustis"
+        },
+        {
+          "number": "0",
+          "name": "David Barram"
+        },
+        {
+          "number": "0",
+          "name": "Jesse Sample"
+        },
+        {
+          "number": "0",
+          "name": "Owen Welch"
+        },
+        {
+          "number": "0",
+          "name": "William Watkins"
+        },
+        {
+          "number": "2",
+          "name": "Tyler MacMaster"
+        },
+        {
+          "number": "3",
+          "name": "Drew Peterschmidt"
+        },
+        {
+          "number": "4",
+          "name": "Nicholas Hartwig"
+        },
+        {
+          "number": "11",
+          "name": "Jonathan Aycock"
+        },
+        {
+          "number": "12",
+          "name": "Dan Baumgartner"
+        },
+        {
+          "number": "13",
+          "name": "Steven Silvers"
+        },
+        {
+          "number": "17",
+          "name": "Matt Spadaro"
+        },
+        {
+          "number": "62",
+          "name": "Patrick Buermeyer"
+        },
+        {
+          "number": "62",
+          "name": "Quinn Buermeyer"
+        }
+      ]
+    },
+    {
+      "name": "PowderHogs",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Salt Lake City, Utah",
+        "website": "http://utahultimate.org/powder-hogs/",
+        "facebook": "https://www.facebook.com/UtahPowderHogs",
+        "twitter": "https://twitter.com/PowderHogs"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Jace Duennebeil"
+        },
+        {
+          "number": "3",
+          "name": "Eric Christensen"
+        },
+        {
+          "number": "7",
+          "name": "Denver Moore"
+        },
+        {
+          "number": "8",
+          "name": "Cole Stenseth"
+        },
+        {
+          "number": "9",
+          "name": "Aleksandar Maccabee"
+        },
+        {
+          "number": "10",
+          "name": "Austin Hasbrook"
+        },
+        {
+          "number": "13",
+          "name": "Branden Frieden"
+        },
+        {
+          "number": "17",
+          "name": "Scott Grimm"
+        },
+        {
+          "number": "20",
+          "name": "Russ Barr"
+        },
+        {
+          "number": "36",
+          "name": "Jeremy Moore"
+        },
+        {
+          "number": "42",
+          "name": "Christopher Pantle"
+        },
+        {
+          "number": "44",
+          "name": "Tyler Foster"
+        }
+      ]
+    },
+    {
+      "name": "Rip City",
+      "seed": 8,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Portland, Oregon",
+        "website": "https://instagram.com/ripcityultimate/",
+        "facebook": "https://www.facebook.com/ripcityultimate",
+        "twitter": "https://twitter.com/ripcityultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Caleb Dinino-Childers"
+        },
+        {
+          "number": "0",
+          "name": "Damon McMahon"
+        },
+        {
+          "number": "0",
+          "name": "Daniel Pham"
+        },
+        {
+          "number": "0",
+          "name": "Jack Hochberg"
+        },
+        {
+          "number": "0",
+          "name": "Alex Horn"
+        },
+        {
+          "number": "0",
+          "name": "Andrew Winterman"
+        },
+        {
+          "number": "0",
+          "name": "Jonas Miller-Stockie"
+        },
+        {
+          "number": "0",
+          "name": "Matt Brown"
+        },
+        {
+          "number": "0",
+          "name": "Michael Morris-Pearce"
+        },
+        {
+          "number": "0",
+          "name": "Prashant Baliga"
+        },
+        {
+          "number": "0",
+          "name": "Russell Mayhew"
+        },
+        {
+          "number": "0",
+          "name": "Torre Hargett"
+        },
+        {
+          "number": "0",
+          "name": "Zachary Feldman"
+        },
+        {
+          "number": "2",
+          "name": "Wes Mitchell"
+        },
+        {
+          "number": "2",
+          "name": "John Moore"
+        },
+        {
+          "number": "13",
+          "name": "August Schwartz"
+        },
+        {
+          "number": "22",
+          "name": "Kevin Carbonnier"
+        },
+        {
+          "number": "44",
+          "name": "Trevor Arbab"
+        },
+        {
+          "number": "57",
+          "name": "Bif Reiser"
+        },
+        {
+          "number": "64",
+          "name": "Jacob Apenes"
+        },
+        {
+          "number": "88",
+          "name": "Matt Overstreet"
+        }
+      ]
+    },
+    {
+      "name": "Ghost Train",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Seattle, Washington",
+        "website": "",
+        "facebook": "https://www.facebook.com/ghosttrainultimate",
+        "twitter": "https://twitter.com/GhostTrainUlti"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Adam Alexander"
+        },
+        {
+          "number": "0",
+          "name": "Alex Ho"
+        },
+        {
+          "number": "0",
+          "name": "Benjamin Stan"
+        },
+        {
+          "number": "0",
+          "name": "Brendan Bogel"
+        },
+        {
+          "number": "0",
+          "name": "Carl Richmond"
+        },
+        {
+          "number": "0",
+          "name": "Jeremy Parke-Hoffman"
+        },
+        {
+          "number": "0",
+          "name": "George Silva"
+        },
+        {
+          "number": "0",
+          "name": "Matthew Ostendorf"
+        },
+        {
+          "number": "0",
+          "name": "Morgan Gellert"
+        },
+        {
+          "number": "0",
+          "name": "Patrick Babbitt"
+        },
+        {
+          "number": "0",
+          "name": "Quinn Marshall"
+        },
+        {
+          "number": "0",
+          "name": "Robby Anderst"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Haddeland"
+        },
+        {
+          "number": "2",
+          "name": "Kevin Black"
+        },
+        {
+          "number": "3",
+          "name": "Conner Walsh"
+        },
+        {
+          "number": "5",
+          "name": "Ryan Strong"
+        },
+        {
+          "number": "8",
+          "name": "Jason Vallerga"
+        },
+        {
+          "number": "9",
+          "name": "John Mattes"
+        },
+        {
+          "number": "12",
+          "name": "David Langhals"
+        },
+        {
+          "number": "19",
+          "name": "Jack Aubin"
+        },
+        {
+          "number": "30",
+          "name": "Walter Kasprzycki"
+        },
+        {
+          "number": "38",
+          "name": "Keegan Taggart"
+        },
+        {
+          "number": "50",
+          "name": "Evan Hoover"
+        },
+        {
+          "number": "64",
+          "name": "Kenneth Lawler"
+        },
+        {
+          "number": "72",
+          "name": "Zachery Laycock"
+        },
+        {
+          "number": "93",
+          "name": "Bjorn Slater"
+        }
+      ]
+    },
+    {
+      "name": "Seattle Blacklist",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Seattle, Washington",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "Candace Hoefert",
+        "Rusty Brown"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Ian McCarthy"
+        },
+        {
+          "number": "3",
+          "name": "Joshua Rudolph"
+        },
+        {
+          "number": "5",
+          "name": "Daren Ruiz"
+        },
+        {
+          "number": "6",
+          "name": "Noah Schlenk"
+        },
+        {
+          "number": "7",
+          "name": "Christopher Gelon"
+        },
+        {
+          "number": "8",
+          "name": "Martin Le"
+        },
+        {
+          "number": "10",
+          "name": "Kevin Lee"
+        },
+        {
+          "number": "12",
+          "name": "Anthony Ataee"
+        },
+        {
+          "number": "13",
+          "name": "Adam Fischette"
+        },
+        {
+          "number": "15",
+          "name": "Ryan Scuderi"
+        },
+        {
+          "number": "17",
+          "name": "Eric Vernon"
+        },
+        {
+          "number": "20",
+          "name": "Will Herold"
+        },
+        {
+          "number": "21",
+          "name": "Nicholas Donadio"
+        },
+        {
+          "number": "26",
+          "name": "Max Ramstad"
+        },
+        {
+          "number": "28",
+          "name": "Connor Hanify"
+        },
+        {
+          "number": "29",
+          "name": "Peter Frost"
+        },
+        {
+          "number": "33",
+          "name": "Joshua Petter"
+        },
+        {
+          "number": "36",
+          "name": "Chase Anderson"
+        },
+        {
+          "number": "48",
+          "name": "Wesley von Dassow"
+        },
+        {
+          "number": "53",
+          "name": "Dylan Martin"
+        },
+        {
+          "number": "75",
+          "name": "Jacob Hoffman"
+        }
+      ]
+    },
+    {
+      "name": "Green River Swordfish",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Davis, California",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Anders Eckburg"
+        },
+        {
+          "number": "0",
+          "name": "Austin Lourie"
+        },
+        {
+          "number": "0",
+          "name": "Bradley Santi"
+        },
+        {
+          "number": "0",
+          "name": "David Croft"
+        },
+        {
+          "number": "0",
+          "name": "Devin Hom"
+        },
+        {
+          "number": "0",
+          "name": "Kramer Straube"
+        },
+        {
+          "number": "0",
+          "name": "Paul Riemenschneider"
+        },
+        {
+          "number": "0",
+          "name": "Trevor Ryder"
+        },
+        {
+          "number": "5",
+          "name": "Julius Vo"
+        },
+        {
+          "number": "7",
+          "name": "Benjamin Souvey"
+        },
+        {
+          "number": "9",
+          "name": "Rob Ross"
+        },
+        {
+          "number": "22",
+          "name": "Jefferson Laird"
+        },
+        {
+          "number": "55",
+          "name": "Joshua Cohen"
+        },
+        {
+          "number": "62",
+          "name": "Elliot Wilde"
+        },
+        {
+          "number": "69",
+          "name": "Cody Uhl"
+        }
+      ]
+    },
+    {
+      "name": "Cojones",
+      "seed": 7,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "San Francisco, California",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Christopher Dorn"
+        },
+        {
+          "number": "0",
+          "name": "Cody Bjorklund"
+        },
+        {
+          "number": "0",
+          "name": "Daniel Heynen"
+        },
+        {
+          "number": "0",
+          "name": "Douglas Perez"
+        },
+        {
+          "number": "0",
+          "name": "Enoch Wang"
+        },
+        {
+          "number": "0",
+          "name": "Jon Francis"
+        },
+        {
+          "number": "0",
+          "name": "Alex Klein"
+        },
+        {
+          "number": "0",
+          "name": "Bryan Hunt"
+        },
+        {
+          "number": "0",
+          "name": "Will Johnson"
+        },
+        {
+          "number": "26",
+          "name": "Alex Winter"
+        },
+        {
+          "number": "27",
+          "name": "Alex Vorce"
+        },
+        {
+          "number": "42",
+          "name": "Robert Singer"
+        },
+        {
+          "number": "44",
+          "name": "Seth Johnson"
+        },
+        {
+          "number": "73",
+          "name": "Chackgarin Brown"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Blackfish",
+              "team2": "Dark Star",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2019-08-03T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "PowderHogs",
+              "team2": "Rip City",
+              "score1": 15,
+              "score2": 6,
+              "datetime": "2019-08-03T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Blackfish",
+              "team2": "Rip City",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2019-08-03T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "PowderHogs",
+              "team2": "Dark Star",
+              "score1": 10,
+              "score2": 15,
+              "datetime": "2019-08-03T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Blackfish",
+              "team2": "PowderHogs",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2019-08-03T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Dark Star",
+              "team2": "Rip City",
+              "score1": 15,
+              "score2": 5,
+              "datetime": "2019-08-03T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool B",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Ghost Train",
+              "team2": "Seattle Blacklist",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2019-08-03T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Green River Swordfish",
+              "team2": "Cojones",
+              "score1": 15,
+              "score2": 13,
+              "datetime": "2019-08-03T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Ghost Train",
+              "team2": "Cojones",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2019-08-03T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Green River Swordfish",
+              "team2": "Seattle Blacklist",
+              "score1": 13,
+              "score2": 15,
+              "datetime": "2019-08-03T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Ghost Train",
+              "team2": "Green River Swordfish",
+              "score1": 15,
+              "score2": 6,
+              "datetime": "2019-08-03T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Seattle Blacklist",
+              "team2": "Cojones",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2019-08-03T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Championship",
+      "groups": [
+        {
+          "name": "Championship",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Blackfish",
+              "team2": "Ghost Train",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2019-08-04T13:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Blackfish",
+              "team2": "PowderHogs",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2019-08-04T11:00:00Z",
+              "round": "Round Name",
+              "status": "Final"
+            },
+            {
+              "team1": "Dark Star",
+              "team2": "Ghost Train",
+              "score1": 12,
+              "score2": 13,
+              "datetime": "2019-08-04T11:00:00Z",
+              "round": "Round Name",
+              "status": "Final"
+            },
+            {
+              "team1": "Blackfish",
+              "team2": "Cojones",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2019-08-04T09:00:00Z",
+              "round": "Pool Play",
+              "status": "Final"
+            },
+            {
+              "team1": "PowderHogs",
+              "team2": "Seattle Blacklist",
+              "score1": 14,
+              "score2": 12,
+              "datetime": "2019-08-04T09:00:00Z",
+              "round": "Pool Play",
+              "status": "Final"
+            },
+            {
+              "team1": "Dark Star",
+              "team2": "Green River Swordfish",
+              "score1": 15,
+              "score2": 14,
+              "datetime": "2019-08-04T09:00:00Z",
+              "round": "Pool Play",
+              "status": "Final"
+            },
+            {
+              "team1": "Rip City",
+              "team2": "Ghost Train",
+              "score1": 6,
+              "score2": 15,
+              "datetime": "2019-08-04T09:00:00Z",
+              "round": "Pool Play",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Consolation Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Seattle Blacklist",
+              "team2": "Rip City",
+              "score1": 15,
+              "score2": 11,
+              "datetime": "2019-08-04T13:00:00Z",
+              "round": "Consolation Bracket",
+              "status": "Final"
+            },
+            {
+              "team1": "Cojones",
+              "team2": "Seattle Blacklist",
+              "score1": 8,
+              "score2": 14,
+              "datetime": "2019-08-04T11:00:00Z",
+              "round": "Round Name",
+              "status": "Final"
+            },
+            {
+              "team1": "Green River Swordfish",
+              "team2": "Rip City",
+              "score1": 13,
+              "score2": 15,
+              "datetime": "2019-08-04T11:00:00Z",
+              "round": "Round Name",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "3rd Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "PowderHogs",
+              "team2": "Dark Star",
+              "score1": 0,
+              "score2": 1,
+              "datetime": "2019-08-04T13:00:00Z",
+              "round": "3rd Place",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "7th Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Cojones",
+              "team2": "Green River Swordfish",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2019-08-04T13:00:00Z",
+              "round": "7th Place",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

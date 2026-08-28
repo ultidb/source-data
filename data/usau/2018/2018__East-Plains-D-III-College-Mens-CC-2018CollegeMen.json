@@ -1,0 +1,277 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2018/East-Plains-D-III-College-Mens-CC-2018CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/East-Plains-D-III-College-Mens-CC-2018/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:15.392460Z",
+  "event": {
+    "name": "East Plains D-III College Men's CC 2018",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2018,
+    "city": "Evansville",
+    "state": "IN",
+    "country": "",
+    "startDate": "2018-04-21",
+    "endDate": "2018-04-22"
+  },
+  "teams": [
+    {
+      "name": "Valparaiso",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Deus Vult",
+        "location": "Valparaiso, Indiana",
+        "website": "",
+        "facebook": "https://www.facebook.com/ValpoUltimate",
+        "twitter": "https://twitter.com/ValpoUltimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Lucas Bieneman"
+        },
+        {
+          "number": "02",
+          "name": "Benjamin Ratschan"
+        },
+        {
+          "number": "03",
+          "name": "Daniel  Gilchrist "
+        },
+        {
+          "number": "05",
+          "name": "Tanner Lee Gesell"
+        },
+        {
+          "number": "08",
+          "name": "James Rolland"
+        },
+        {
+          "number": "09",
+          "name": "Raymond Pollalis"
+        },
+        {
+          "number": "15",
+          "name": "Fletcher Klein"
+        },
+        {
+          "number": "17",
+          "name": "Adam Albertin"
+        },
+        {
+          "number": "21",
+          "name": "Scott Stonis"
+        },
+        {
+          "number": "24",
+          "name": "Brian Barrett"
+        },
+        {
+          "number": "28",
+          "name": "Brian Schmit"
+        },
+        {
+          "number": "34",
+          "name": "John Readdy"
+        },
+        {
+          "number": "37",
+          "name": "Mike  Soldan"
+        },
+        {
+          "number": "44",
+          "name": "Samuel Rookstool"
+        },
+        {
+          "number": "69",
+          "name": "Nolan Filbert"
+        },
+        {
+          "number": "97",
+          "name": "Isaac Jauch"
+        }
+      ]
+    },
+    {
+      "name": "Rose-Hulman",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Elephantitis",
+        "location": "Terre Haute, Indiana",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "August Dailey"
+        },
+        {
+          "number": "0",
+          "name": "Chad Estill"
+        },
+        {
+          "number": "0",
+          "name": "Christopher Miller"
+        },
+        {
+          "number": "0",
+          "name": "Eric Moorman"
+        },
+        {
+          "number": "0",
+          "name": "Gabe Severyn"
+        },
+        {
+          "number": "0",
+          "name": "Katherine Meyer"
+        },
+        {
+          "number": "0",
+          "name": "Liang Jia"
+        },
+        {
+          "number": "0",
+          "name": "Matthew Gehrich"
+        },
+        {
+          "number": "0",
+          "name": "Nathaniel Lehrer"
+        },
+        {
+          "number": "0",
+          "name": "Timmy D'Avello"
+        },
+        {
+          "number": "1",
+          "name": "Alex Straczek"
+        },
+        {
+          "number": "1",
+          "name": "Clayton Richards"
+        },
+        {
+          "number": "22",
+          "name": "Noah Severyn"
+        },
+        {
+          "number": "71",
+          "name": "Worden Barr"
+        }
+      ]
+    },
+    {
+      "name": "Butler",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Butler Bulldogs",
+        "location": "Indianapolis, Indiana",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/BUultimatedisc"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alex Kelleher"
+        },
+        {
+          "number": "2",
+          "name": "Matthew Dickett"
+        },
+        {
+          "number": "4",
+          "name": "Emily Schlorf"
+        },
+        {
+          "number": "12",
+          "name": "Richard Ware"
+        },
+        {
+          "number": "16",
+          "name": "Harrison Hensel"
+        },
+        {
+          "number": "17",
+          "name": "Harry Winter"
+        },
+        {
+          "number": "20",
+          "name": "Robert Campbell"
+        },
+        {
+          "number": "23",
+          "name": "George Mertens"
+        },
+        {
+          "number": "24",
+          "name": "Alan Field"
+        },
+        {
+          "number": "34",
+          "name": "Ethan  Cunningham"
+        },
+        {
+          "number": "48",
+          "name": "Brendan Kelly"
+        },
+        {
+          "number": "89",
+          "name": "Colin Meade"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Rose-Hulman",
+              "team2": "Butler",
+              "score1": 13,
+              "score2": 12,
+              "datetime": "2018-04-21T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Valparaiso",
+              "team2": "Butler",
+              "score1": 13,
+              "score2": 8,
+              "datetime": "2018-04-21T10:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Valparaiso",
+              "team2": "Rose-Hulman",
+              "score1": 13,
+              "score2": 7,
+              "datetime": "2018-04-21T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

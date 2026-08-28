@@ -1,0 +1,693 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2021/Cavalier-Cup-2021CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/Cavalier-Cup-2021/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:17.733411Z",
+  "event": {
+    "name": "Cavalier Cup 2021",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2021,
+    "city": "Charlottesville",
+    "state": "VA",
+    "country": "",
+    "startDate": "2021-10-02",
+    "endDate": "2021-10-03"
+  },
+  "teams": [
+    {
+      "name": "Maryland",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Maryland Ultimate",
+        "location": "College Park, Maryland",
+        "website": "http://umd.orgsync.com/org/ultimate",
+        "facebook": "",
+        "twitter": "https://twitter.com/spacebastards?lang=en"
+      },
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Delaware",
+      "seed": 9,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Sideshow",
+        "location": "Newark, Delaware",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "George Mason",
+      "seed": 8,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Massacre",
+        "location": "Fairfax, Virginia",
+        "website": "http://www.masonultimate.com",
+        "facebook": "https://www.facebook.com/pages/George-Mason-Ultimate/355962851189291",
+        "twitter": "https://twitter.com/MasonUltimate"
+      },
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Virginia",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Night Train",
+        "location": "Charlottesville, Virginia",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/nighttrainatuva"
+      },
+      "coaches": [
+        "Jameson Hinkle"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Aidan Sheahan"
+        },
+        {
+          "number": "0",
+          "name": "Akiva Dienstfrey"
+        },
+        {
+          "number": "0",
+          "name": "Andrew London"
+        },
+        {
+          "number": "0",
+          "name": "Asher Rosen"
+        },
+        {
+          "number": "0",
+          "name": "Bart Turney"
+        },
+        {
+          "number": "0",
+          "name": "Brendan Selby"
+        },
+        {
+          "number": "0",
+          "name": "Ganesh Nanduru"
+        },
+        {
+          "number": "0",
+          "name": "Gregory Cho"
+        },
+        {
+          "number": "0",
+          "name": "Jack Vietmeyer "
+        },
+        {
+          "number": "0",
+          "name": "Jared Hart"
+        },
+        {
+          "number": "0",
+          "name": "Joseph Burton"
+        },
+        {
+          "number": "0",
+          "name": "Nathan Zeichner"
+        },
+        {
+          "number": "0",
+          "name": "Nathaniel Stevenson"
+        },
+        {
+          "number": "0",
+          "name": "Owen Solomon"
+        },
+        {
+          "number": "0",
+          "name": "Vivaswath Naini"
+        },
+        {
+          "number": "3",
+          "name": "Mason Chupka"
+        },
+        {
+          "number": "10",
+          "name": "Hayden Ratliff"
+        },
+        {
+          "number": "16",
+          "name": "Rohan van Heyningen"
+        },
+        {
+          "number": "24",
+          "name": "Andrew Sharpe"
+        },
+        {
+          "number": "25",
+          "name": "Ben Kuster"
+        },
+        {
+          "number": "27",
+          "name": "Joe Spaeth"
+        },
+        {
+          "number": "29",
+          "name": "Nick Robinson"
+        },
+        {
+          "number": "31",
+          "name": "Alex Turney"
+        },
+        {
+          "number": "42",
+          "name": "Christopher Letai"
+        },
+        {
+          "number": "42",
+          "name": "James Zhu"
+        },
+        {
+          "number": "44",
+          "name": "Stephen Dolan"
+        },
+        {
+          "number": "52",
+          "name": "Zeya Min-Fink"
+        }
+      ]
+    },
+    {
+      "name": "Virginia Commonwealth University",
+      "seed": 7,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Biscuit Villains",
+        "location": "Richmond, Virginia",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/vcu_villains"
+      },
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Christopher Newport",
+      "seed": 10,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Skymaul",
+        "location": "Newport News, Virginia",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/CNUultimate"
+      },
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "James Madison",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Hellfish",
+        "location": "Harrisonburg, Virginia",
+        "website": "jmu.edu",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Virginia Tech (B)",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Virginia Tech B",
+        "location": "Blacksburg, Virginia",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Virginia (B)",
+      "seed": 11,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Night Train B",
+        "location": "Charlottesville, Virginia",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Virginia Tech",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Burn",
+        "location": "Blacksburg, Virginia",
+        "website": "http://vtultimate.wix.com/virginiatechultimate",
+        "facebook": "",
+        "twitter": "https://twitter.com/VTBurn?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+      },
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Johns Hopkins",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Dangerzone",
+        "location": "Baltimore, Maryland",
+        "website": "",
+        "facebook": "https://www.facebook.com/Dangerzone-Johns-Hopkins-University-Ultimate-180573762009844",
+        "twitter": "https://twitter.com/dangerzoneulti"
+      },
+      "coaches": [
+        "Marshall Lian"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Chris Hwang"
+        },
+        {
+          "number": "0",
+          "name": "Daniel Wen"
+        },
+        {
+          "number": "0",
+          "name": "Ethan Bomhardt"
+        },
+        {
+          "number": "0",
+          "name": "Francisco  Lopez"
+        },
+        {
+          "number": "0",
+          "name": "Garrett Gregory"
+        },
+        {
+          "number": "0",
+          "name": "Jeffrey  Zhou"
+        },
+        {
+          "number": "0",
+          "name": "Jeremy Schwartz"
+        },
+        {
+          "number": "0",
+          "name": "Jesse Alonzo"
+        },
+        {
+          "number": "0",
+          "name": "Justin Waltrip"
+        },
+        {
+          "number": "0",
+          "name": "Lance Kotler"
+        },
+        {
+          "number": "0",
+          "name": "Luke Long"
+        },
+        {
+          "number": "0",
+          "name": "Nelson Shi"
+        },
+        {
+          "number": "0",
+          "name": "Quinn Hauck"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Onatzevitch"
+        },
+        {
+          "number": "1",
+          "name": "Kevin Zhang"
+        },
+        {
+          "number": "3",
+          "name": "Ethan Underweiser"
+        },
+        {
+          "number": "4",
+          "name": "Daniel Leongomez"
+        },
+        {
+          "number": "4",
+          "name": "Jed Cohen"
+        },
+        {
+          "number": "10",
+          "name": "Tanuj Alapati"
+        },
+        {
+          "number": "11",
+          "name": "Simon Allocca"
+        },
+        {
+          "number": "13",
+          "name": "Kyle Fisher"
+        },
+        {
+          "number": "16",
+          "name": "Pio Kim"
+        },
+        {
+          "number": "19",
+          "name": "Benjamin Schlesinger"
+        },
+        {
+          "number": "22",
+          "name": "Aiden Willis"
+        },
+        {
+          "number": "47",
+          "name": "Matt Brotman"
+        },
+        {
+          "number": "56",
+          "name": "James (Jimmy) Clarke"
+        }
+      ]
+    },
+    {
+      "name": "Virginia Commonwealth University (B)",
+      "seed": 12,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Yeastie Boyz",
+        "location": "Richmond, Virginia",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": []
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Saturday Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "George Mason",
+              "team2": "Delaware",
+              "score1": 2,
+              "score2": 13,
+              "datetime": "2021-10-02T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Maryland",
+              "team2": "Delaware",
+              "score1": 13,
+              "score2": 4,
+              "datetime": "2021-10-02T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Maryland",
+              "team2": "George Mason",
+              "score1": 13,
+              "score2": 0,
+              "datetime": "2021-10-02T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool B",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Virginia Commonwealth University",
+              "team2": "Christopher Newport",
+              "score1": 13,
+              "score2": 8,
+              "datetime": "2021-10-02T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Virginia",
+              "team2": "Christopher Newport",
+              "score1": 13,
+              "score2": 4,
+              "datetime": "2021-10-02T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Virginia",
+              "team2": "Virginia Commonwealth University",
+              "score1": 13,
+              "score2": 8,
+              "datetime": "2021-10-02T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool C",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Virginia Tech (B)",
+              "team2": "Virginia (B)",
+              "score1": 13,
+              "score2": 2,
+              "datetime": "2021-10-02T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "James Madison",
+              "team2": "Virginia (B)",
+              "score1": 13,
+              "score2": 2,
+              "datetime": "2021-10-02T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "James Madison",
+              "team2": "Virginia Tech (B)",
+              "score1": 13,
+              "score2": 7,
+              "datetime": "2021-10-02T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool D",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Virginia Tech",
+              "team2": "Virginia Commonwealth University (B)",
+              "score1": 13,
+              "score2": 2,
+              "datetime": "2021-10-02T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Johns Hopkins",
+              "team2": "Virginia Commonwealth University (B)",
+              "score1": 13,
+              "score2": 8,
+              "datetime": "2021-10-02T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Johns Hopkins",
+              "team2": "Virginia Tech",
+              "score1": 7,
+              "score2": 13,
+              "datetime": "2021-10-02T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "clusters",
+      "name": "Saturday Crossover",
+      "groups": [
+        {
+          "name": "1st Round Crossover",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Maryland",
+              "team2": "Virginia Tech (B)",
+              "score1": 13,
+              "score2": 6,
+              "datetime": "2021-10-02T14:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Virginia",
+              "team2": "Johns Hopkins",
+              "score1": 13,
+              "score2": 5,
+              "datetime": "2021-10-02T14:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Virginia Tech",
+              "team2": "George Mason",
+              "score1": 1,
+              "score2": 1,
+              "datetime": "2021-10-02T14:30:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Christopher Newport",
+              "team2": "Virginia Tech",
+              "score1": 12,
+              "score2": 13,
+              "datetime": "2021-10-02T14:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "2nd Round Crossover",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Virginia Commonwealth University (B)",
+              "team2": "Virginia (B)",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2021-10-02T04:15:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Delaware",
+              "team2": "Virginia Commonwealth University",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2021-10-02T04:15:00Z",
+              "round": "",
+              "status": "Scheduled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "clusters",
+      "name": "Sunday Crossover",
+      "groups": [
+        {
+          "name": "1st Round Crossover",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Maryland",
+              "team2": "Virginia Tech",
+              "score1": 13,
+              "score2": 8,
+              "datetime": "2021-10-03T14:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Virginia",
+              "team2": "Virginia Tech (B)",
+              "score1": 6,
+              "score2": 13,
+              "datetime": "2021-10-03T14:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Johns Hopkins",
+              "team2": "Virginia Commonwealth University",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2021-10-03T14:30:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Delaware",
+              "team2": "Virginia Commonwealth University (B)",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2021-10-03T14:30:00Z",
+              "round": "",
+              "status": "Scheduled"
+            }
+          ]
+        },
+        {
+          "name": "2nd Round Crossover",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Christopher Newport",
+              "team2": "Virginia (B)",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2021-10-03T16:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

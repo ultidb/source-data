@@ -1,0 +1,227 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2021/Metro-NY-D-III-College-Mens-CC-2021CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/Metro-NY-D-III-College-Mens-CC-2021/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:17.818560Z",
+  "event": {
+    "name": "Metro NY D-III College Men's CC 2021",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2021,
+    "city": "Ewing Township",
+    "state": "NJ",
+    "country": "",
+    "startDate": "2021-10-17",
+    "endDate": "2021-10-17"
+  },
+  "teams": [
+    {
+      "name": "Stevens Tech",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Stevens Tech",
+        "location": "Hoboken, New Jersey",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Brandon Ponna"
+        },
+        {
+          "number": "0",
+          "name": "Daniel Partika"
+        },
+        {
+          "number": "0",
+          "name": "Kayhan Durmus"
+        },
+        {
+          "number": "0",
+          "name": "Kevin Perez"
+        },
+        {
+          "number": "0",
+          "name": "Kyle Boberg"
+        },
+        {
+          "number": "0",
+          "name": "Zack Petrov"
+        },
+        {
+          "number": "3",
+          "name": "Matt Koerner"
+        },
+        {
+          "number": "14",
+          "name": "Cole Gardella"
+        },
+        {
+          "number": "24",
+          "name": "Dylan Regan"
+        },
+        {
+          "number": "25",
+          "name": "Caleb Choy"
+        },
+        {
+          "number": "27",
+          "name": "Matthew Evanego"
+        },
+        {
+          "number": "30",
+          "name": "Johnny Wong"
+        },
+        {
+          "number": "32",
+          "name": "Matthew Biehl"
+        },
+        {
+          "number": "98",
+          "name": "Kyle Dew"
+        }
+      ]
+    },
+    {
+      "name": "College of New Jersey",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Revolution",
+        "location": "Ewing, New Jersey",
+        "website": "http://www.tcnj.edu/~frisbee/revolution/index.php",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Casey Conti"
+        },
+        {
+          "number": "0",
+          "name": "Christopher Goodwin"
+        },
+        {
+          "number": "0",
+          "name": "Connor  Stine"
+        },
+        {
+          "number": "0",
+          "name": "Daniel Mariniello"
+        },
+        {
+          "number": "0",
+          "name": "Dominick Brown"
+        },
+        {
+          "number": "0",
+          "name": "Francis Aldridge"
+        },
+        {
+          "number": "0",
+          "name": "Macy Desmond"
+        },
+        {
+          "number": "0",
+          "name": "Nigel Pacheco"
+        },
+        {
+          "number": "0",
+          "name": "Philip Aufiero"
+        },
+        {
+          "number": "0",
+          "name": "Raahi Desai"
+        },
+        {
+          "number": "0",
+          "name": "Raymond Wright"
+        },
+        {
+          "number": "0",
+          "name": "Tyler Wheelwright"
+        },
+        {
+          "number": "0",
+          "name": "William Kimberly"
+        },
+        {
+          "number": "2",
+          "name": "Tyler Hallowell"
+        },
+        {
+          "number": "5",
+          "name": "Matt Mancuso"
+        },
+        {
+          "number": "13",
+          "name": "Josh Camacho"
+        },
+        {
+          "number": "14",
+          "name": "Joshua Simpson"
+        },
+        {
+          "number": "19",
+          "name": "Brian Slack"
+        },
+        {
+          "number": "22",
+          "name": "Brian Nigro"
+        },
+        {
+          "number": "28",
+          "name": "Robert Anderson"
+        },
+        {
+          "number": "33",
+          "name": "Elliott Nguyen"
+        },
+        {
+          "number": "34",
+          "name": "Brandon Reynoso"
+        },
+        {
+          "number": "36",
+          "name": "Kaleb Yuen"
+        },
+        {
+          "number": "69",
+          "name": "Krzysztof Piskorski"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Game",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "College of New Jersey",
+              "team2": "Stevens Tech",
+              "score1": 9,
+              "score2": 10,
+              "datetime": "2021-10-17T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,406 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2026/Rockford-Meltdown-26CollegeWomen",
+  "sourceUrl": "https://play.usaultimate.org/events/Rockford-Meltdown-26/schedule/Women/CollegeWomen/",
+  "scrapedAt": "2026-08-28T10:06:23.017382Z",
+  "event": {
+    "name": "Tally Classic XX 2026",
+    "division": "College - Women ",
+    "gender": "",
+    "season": 2026,
+    "city": "Rockford",
+    "state": "IL",
+    "country": "",
+    "startDate": "2026-03-21",
+    "endDate": "2026-03-22"
+  },
+  "teams": [
+    {
+      "name": "Harvard",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": null,
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Notre Dame",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": null,
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Florida State",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": null,
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "South Florida",
+      "seed": 8,
+      "sourceTeamId": "",
+      "url": "",
+      "info": null,
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Clemson",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": null,
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Jacksonville State",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": null,
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Georgia College",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": null,
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Notre Dame (B)",
+      "seed": 7,
+      "sourceTeamId": "",
+      "url": "",
+      "info": null,
+      "coaches": [],
+      "roster": []
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Notre Dame",
+              "team2": "Harvard",
+              "score1": 7,
+              "score2": 8,
+              "datetime": "2026-03-14T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Florida State",
+              "team2": "South Florida",
+              "score1": 8,
+              "score2": 5,
+              "datetime": "2026-03-14T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Notre Dame",
+              "team2": "South Florida",
+              "score1": 13,
+              "score2": 1,
+              "datetime": "2026-03-14T09:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Florida State",
+              "team2": "Harvard",
+              "score1": 3,
+              "score2": 9,
+              "datetime": "2026-03-14T09:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Notre Dame",
+              "team2": "Florida State",
+              "score1": 11,
+              "score2": 3,
+              "datetime": "2026-03-14T11:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Harvard",
+              "team2": "South Florida",
+              "score1": 13,
+              "score2": 4,
+              "datetime": "2026-03-14T11:20:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool B",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Jacksonville State",
+              "team2": "Georgia College",
+              "score1": 11,
+              "score2": 10,
+              "datetime": "2026-03-14T09:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Clemson",
+              "team2": "Notre Dame (B)",
+              "score1": 13,
+              "score2": 0,
+              "datetime": "2026-03-14T09:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Jacksonville State",
+              "team2": "Notre Dame (B)",
+              "score1": 10,
+              "score2": 1,
+              "datetime": "2026-03-14T11:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Clemson",
+              "team2": "Georgia College",
+              "score1": 13,
+              "score2": 9,
+              "datetime": "2026-03-14T11:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Jacksonville State",
+              "team2": "Clemson",
+              "score1": 4,
+              "score2": 13,
+              "datetime": "2026-03-14T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Georgia College",
+              "team2": "Notre Dame (B)",
+              "score1": 13,
+              "score2": 0,
+              "datetime": "2026-03-14T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "clusters",
+      "name": "Pre-Bracket Crossover",
+      "groups": [
+        {
+          "name": "Pre-Bracket Crossover",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Harvard",
+              "team2": "Clemson",
+              "score1": 10,
+              "score2": 11,
+              "datetime": "2026-03-14T14:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Notre Dame",
+              "team2": "Jacksonville State",
+              "score1": 13,
+              "score2": 4,
+              "datetime": "2026-03-14T14:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Florida State",
+              "team2": "Georgia College",
+              "score1": 4,
+              "score2": 12,
+              "datetime": "2026-03-14T14:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "South Florida",
+              "team2": "Notre Dame (B)",
+              "score1": 7,
+              "score2": 11,
+              "datetime": "2026-03-14T14:40:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Bracket Play",
+      "groups": [
+        {
+          "name": "1st Place Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Clemson",
+              "team2": "Notre Dame",
+              "score1": 5,
+              "score2": 11,
+              "datetime": "2026-03-15T12:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Clemson",
+              "team2": "Georgia College",
+              "score1": 12,
+              "score2": 7,
+              "datetime": "2026-03-15T10:00:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Notre Dame",
+              "team2": "Harvard",
+              "score1": 12,
+              "score2": 8,
+              "datetime": "2026-03-15T10:00:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Clemson",
+              "team2": "South Florida",
+              "score1": 15,
+              "score2": 3,
+              "datetime": "2026-03-15T08:00:00Z",
+              "round": "Quaterfinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Jacksonville State",
+              "team2": "Georgia College",
+              "score1": 7,
+              "score2": 11,
+              "datetime": "2026-03-15T08:00:00Z",
+              "round": "Quaterfinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Florida State",
+              "team2": "Notre Dame",
+              "score1": 2,
+              "score2": 14,
+              "datetime": "2026-03-15T08:00:00Z",
+              "round": "Quaterfinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Notre Dame (B)",
+              "team2": "Harvard",
+              "score1": 1,
+              "score2": 15,
+              "datetime": "2026-03-15T08:00:00Z",
+              "round": "Quaterfinals",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "3rd Place Game",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Georgia College",
+              "team2": "Harvard",
+              "score1": 8,
+              "score2": 11,
+              "datetime": "2026-03-15T12:00:00Z",
+              "round": "3rd Place Game",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "5th Place Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Jacksonville State",
+              "team2": "Florida State",
+              "score1": 10,
+              "score2": 3,
+              "datetime": "2026-03-15T12:00:00Z",
+              "round": "5th Place Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "South Florida",
+              "team2": "Jacksonville State",
+              "score1": 7,
+              "score2": 11,
+              "datetime": "2026-03-15T10:00:00Z",
+              "round": "5th Place Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Florida State",
+              "team2": "Notre Dame (B)",
+              "score1": 7,
+              "score2": 5,
+              "datetime": "2026-03-15T10:00:00Z",
+              "round": "5th Place Semifinals",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "7th Place Game",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "South Florida",
+              "team2": "Notre Dame (B)",
+              "score1": 5,
+              "score2": 6,
+              "datetime": "2026-03-15T12:00:00Z",
+              "round": "7th Place Game",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

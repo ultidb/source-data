@@ -1,0 +1,932 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2024/Starkville-QualifiersCollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/Starkville-Qualifiers/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:21.124875Z",
+  "event": {
+    "name": "Starkville Qualifiers 2024",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2024,
+    "city": "Starkville",
+    "state": "MS",
+    "country": "",
+    "startDate": "2024-01-20",
+    "endDate": "2024-01-21"
+  },
+  "teams": [
+    {
+      "name": "Georgia State",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Underground",
+        "location": "Atlanta, Georgia",
+        "website": "",
+        "facebook": "www.facebook.com/gsuultimate",
+        "twitter": "https://twitter.com/GSUnderground"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Allison Joy"
+        },
+        {
+          "number": "0",
+          "name": "Armaan Punjani"
+        },
+        {
+          "number": "0",
+          "name": "Jaden Medley-Fowlkes"
+        },
+        {
+          "number": "0",
+          "name": "Jeremiah Liu"
+        },
+        {
+          "number": "0",
+          "name": "Lennox Whitaker"
+        },
+        {
+          "number": "0",
+          "name": "Maxwell Lopez"
+        },
+        {
+          "number": "0",
+          "name": "William Sales"
+        },
+        {
+          "number": "1",
+          "name": "Spencer Pennington"
+        },
+        {
+          "number": "3",
+          "name": "Harrison  Briggs "
+        },
+        {
+          "number": "4",
+          "name": "Shaheer Khan"
+        },
+        {
+          "number": "9",
+          "name": "Charles Myers"
+        },
+        {
+          "number": "11",
+          "name": "Lee Phan"
+        },
+        {
+          "number": "16",
+          "name": "Tanjid Mitul"
+        },
+        {
+          "number": "21",
+          "name": "Andrew Frazer"
+        },
+        {
+          "number": "27",
+          "name": "Evan (mason) Gogstad"
+        }
+      ]
+    },
+    {
+      "name": "Mississippi State  (B)",
+      "seed": 7,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Trenches",
+        "location": "Starkvegas, Mississippi",
+        "website": "https://instagram.com/msudarkhorse?igshid=MzMyNGUyNmU2YQ%3D%3D&utm_source=qr",
+        "facebook": "",
+        "twitter": "https://twitter.com/HailStateUlt"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "01",
+          "name": "Will Kalahar"
+        },
+        {
+          "number": "05",
+          "name": "Daniel Grisham"
+        },
+        {
+          "number": "06",
+          "name": "Graham Williams"
+        },
+        {
+          "number": "07",
+          "name": "Ethan Kilpatrick"
+        },
+        {
+          "number": "08",
+          "name": "Daniel Hurley"
+        },
+        {
+          "number": "09",
+          "name": "Cooper Daras"
+        },
+        {
+          "number": "10",
+          "name": "Dawson Archer"
+        },
+        {
+          "number": "12",
+          "name": "Grant Houston"
+        },
+        {
+          "number": "14",
+          "name": "James Tindell"
+        },
+        {
+          "number": "15",
+          "name": "William Clark"
+        },
+        {
+          "number": "16",
+          "name": "Madison Glidewell"
+        },
+        {
+          "number": "17",
+          "name": "Joshua Hamann"
+        },
+        {
+          "number": "20",
+          "name": "Joshua Mitchell"
+        },
+        {
+          "number": "23",
+          "name": "Jacob Runnels"
+        },
+        {
+          "number": "26",
+          "name": "Nathan Reynolds"
+        },
+        {
+          "number": "27",
+          "name": "Bastian Tully"
+        }
+      ]
+    },
+    {
+      "name": "Harding",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Harding Apocalypse",
+        "location": "Searcy, Arkansas",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Thomas Hardy"
+        },
+        {
+          "number": "4",
+          "name": "Charles Cooper"
+        },
+        {
+          "number": "5",
+          "name": "Landon Crusa"
+        },
+        {
+          "number": "8",
+          "name": "Mike Mensah "
+        },
+        {
+          "number": "9",
+          "name": "Nicholas  Martin "
+        },
+        {
+          "number": "11",
+          "name": "Alex Hall"
+        },
+        {
+          "number": "25",
+          "name": "Denver Mitchell"
+        },
+        {
+          "number": "31",
+          "name": "Hunter Simmons"
+        },
+        {
+          "number": "34",
+          "name": "Nathanael Weber"
+        },
+        {
+          "number": "66",
+          "name": "Luke Bensinger"
+        },
+        {
+          "number": "99",
+          "name": "Micah Hill"
+        }
+      ]
+    },
+    {
+      "name": "LSU (B)",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Purple Haze",
+        "location": "Baton Rouge, Louisiana",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "Adam Brunner"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "connor lee"
+        },
+        {
+          "number": "0",
+          "name": "Dylan Shoemaker"
+        },
+        {
+          "number": "0",
+          "name": "Evan Duplessis"
+        },
+        {
+          "number": "0",
+          "name": "Jacob Hirsch"
+        },
+        {
+          "number": "0",
+          "name": "Max Collette"
+        },
+        {
+          "number": "0",
+          "name": "Spencer Lanning"
+        },
+        {
+          "number": "0",
+          "name": "Tristan Thompson"
+        },
+        {
+          "number": "0",
+          "name": "WIlliam Steinbock"
+        },
+        {
+          "number": "51",
+          "name": "Jose Avalos"
+        },
+        {
+          "number": "59",
+          "name": "Cameron Coatham"
+        }
+      ]
+    },
+    {
+      "name": "Mississippi State (C)",
+      "seed": 8,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Trenches B",
+        "location": "Strakville, Mississippi",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Noah Carpenter"
+        },
+        {
+          "number": "02",
+          "name": "Drake Robertson"
+        },
+        {
+          "number": "03",
+          "name": "Matt Blaylock"
+        },
+        {
+          "number": "04",
+          "name": "Logan White"
+        },
+        {
+          "number": "19",
+          "name": "Jordan Jaucian"
+        },
+        {
+          "number": "21",
+          "name": "Gideon Miller"
+        },
+        {
+          "number": "22",
+          "name": "Caleb Byers"
+        },
+        {
+          "number": "24",
+          "name": "Zachary Crane"
+        },
+        {
+          "number": "31",
+          "name": "Matthew Morin"
+        },
+        {
+          "number": "33",
+          "name": "Drew Laird"
+        },
+        {
+          "number": "35",
+          "name": "Noah Probst"
+        },
+        {
+          "number": "45",
+          "name": "Jeremy Baxter"
+        },
+        {
+          "number": "47",
+          "name": "Dawson Johns"
+        },
+        {
+          "number": "50",
+          "name": "Ka'Von Spivey"
+        },
+        {
+          "number": "69",
+          "name": "Diego Torrez"
+        },
+        {
+          "number": "70",
+          "name": "Peyton Raggio"
+        },
+        {
+          "number": "77",
+          "name": "Jackson Thomas"
+        },
+        {
+          "number": "78",
+          "name": "Barnes Lowry"
+        },
+        {
+          "number": "88",
+          "name": "Jared Tobin"
+        },
+        {
+          "number": "99",
+          "name": "Sean Glasgow"
+        }
+      ]
+    },
+    {
+      "name": "Georgia Tech (B)",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Tribe",
+        "location": "Atlanta, Georgia",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Aidan Pietruszka"
+        },
+        {
+          "number": "0",
+          "name": "Alex Kaylor"
+        },
+        {
+          "number": "0",
+          "name": "Alexander Laney"
+        },
+        {
+          "number": "0",
+          "name": "Avery Smith"
+        },
+        {
+          "number": "0",
+          "name": "Ayaan Huda"
+        },
+        {
+          "number": "0",
+          "name": "Benjamin Chee"
+        },
+        {
+          "number": "0",
+          "name": "Cade Jones"
+        },
+        {
+          "number": "0",
+          "name": "Caleb Yu"
+        },
+        {
+          "number": "0",
+          "name": "Collin McGee"
+        },
+        {
+          "number": "0",
+          "name": "Connor Case"
+        },
+        {
+          "number": "0",
+          "name": "Earl Harris"
+        },
+        {
+          "number": "0",
+          "name": "Harshsai Dhulipudi"
+        },
+        {
+          "number": "0",
+          "name": "Jack Lam"
+        },
+        {
+          "number": "0",
+          "name": "Joshua Perlmutter"
+        },
+        {
+          "number": "0",
+          "name": "Nicholas Andrews"
+        },
+        {
+          "number": "0",
+          "name": "sam granade"
+        },
+        {
+          "number": "0",
+          "name": "Santiago Garcia-Lavanchy"
+        },
+        {
+          "number": "0",
+          "name": "Steven Chi"
+        },
+        {
+          "number": "0",
+          "name": "Vincent Horvath"
+        },
+        {
+          "number": "4",
+          "name": "Ganden Fung"
+        },
+        {
+          "number": "00",
+          "name": "Lucas Ahrens"
+        },
+        {
+          "number": "11",
+          "name": "Carson Aycock"
+        },
+        {
+          "number": "11",
+          "name": "Thomas Ciaccia"
+        },
+        {
+          "number": "31",
+          "name": "Ethan Weinstock"
+        },
+        {
+          "number": "42",
+          "name": "Edo Bareket"
+        }
+      ]
+    },
+    {
+      "name": "Alabama (B)",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Yellow Hammer",
+        "location": "Tuscaloosa, Alabama",
+        "website": "alabamaultimate.wordpress.com",
+        "facebook": "https://www.facebook.com/AlabamaUltimate/",
+        "twitter": "twitter.com/bama_ultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Aiden King"
+        },
+        {
+          "number": "0",
+          "name": "Brandon Anderson"
+        },
+        {
+          "number": "0",
+          "name": "David Hunt"
+        },
+        {
+          "number": "0",
+          "name": "Ethan Timmer"
+        },
+        {
+          "number": "0",
+          "name": "Jason Mbana"
+        },
+        {
+          "number": "0",
+          "name": "Joseph Kelly"
+        },
+        {
+          "number": "0",
+          "name": "Kempster Horne"
+        },
+        {
+          "number": "0",
+          "name": "Luke Orr"
+        },
+        {
+          "number": "0",
+          "name": "Mark Bracken"
+        },
+        {
+          "number": "0",
+          "name": "Parker Scruggs"
+        },
+        {
+          "number": "0",
+          "name": "Pierce Miller"
+        },
+        {
+          "number": "0",
+          "name": "Preston Herring"
+        },
+        {
+          "number": "0",
+          "name": "Taylor Caswell"
+        },
+        {
+          "number": "0",
+          "name": "Thomas Reed"
+        },
+        {
+          "number": "0",
+          "name": "Timothy Sullivan IV"
+        },
+        {
+          "number": "0",
+          "name": "Will Hunt"
+        },
+        {
+          "number": "0",
+          "name": "Zachery hanger"
+        },
+        {
+          "number": "14",
+          "name": "Jack Libby"
+        },
+        {
+          "number": "22",
+          "name": "Drew Anderson"
+        },
+        {
+          "number": "77",
+          "name": "Joshua Scheuer Haeker"
+        }
+      ]
+    },
+    {
+      "name": "Southern Mississippi",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "SMOOTH",
+        "location": "Hattiesburg, Mississippi",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "03",
+          "name": "Abigail Hebert"
+        },
+        {
+          "number": "05",
+          "name": "Hunter Balius"
+        },
+        {
+          "number": "08",
+          "name": "olivia  pierce"
+        },
+        {
+          "number": "10",
+          "name": "Curtis Lankston"
+        },
+        {
+          "number": "11",
+          "name": "Charlotte Lamar"
+        },
+        {
+          "number": "19",
+          "name": "Spencer Barbier"
+        },
+        {
+          "number": "20",
+          "name": "Miya Robbins"
+        },
+        {
+          "number": "27",
+          "name": "Benjamin Ogden"
+        },
+        {
+          "number": "34",
+          "name": "Kenneth White"
+        },
+        {
+          "number": "48",
+          "name": "Joseph Reosti"
+        },
+        {
+          "number": "51",
+          "name": "James  Talamo"
+        },
+        {
+          "number": "69",
+          "name": "John Kupersmith"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Georgia State",
+              "team2": "LSU (B)",
+              "score1": 15,
+              "score2": 0,
+              "datetime": "2024-01-20T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Harding",
+              "team2": "Mississippi State  (B)",
+              "score1": 9,
+              "score2": 11,
+              "datetime": "2024-01-20T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Georgia State",
+              "team2": "Mississippi State  (B)",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2024-01-20T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Harding",
+              "team2": "LSU (B)",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2024-01-20T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Georgia State",
+              "team2": "Harding",
+              "score1": 13,
+              "score2": 6,
+              "datetime": "2024-01-20T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "LSU (B)",
+              "team2": "Mississippi State  (B)",
+              "score1": 0,
+              "score2": 15,
+              "datetime": "2024-01-20T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool B",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Georgia Tech (B)",
+              "team2": "Southern Mississippi",
+              "score1": 15,
+              "score2": 1,
+              "datetime": "2024-01-20T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Alabama (B)",
+              "team2": "Mississippi State (C)",
+              "score1": 9,
+              "score2": 13,
+              "datetime": "2024-01-20T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Georgia Tech (B)",
+              "team2": "Mississippi State (C)",
+              "score1": 8,
+              "score2": 9,
+              "datetime": "2024-01-20T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Alabama (B)",
+              "team2": "Southern Mississippi",
+              "score1": 13,
+              "score2": 9,
+              "datetime": "2024-01-20T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Georgia Tech (B)",
+              "team2": "Alabama (B)",
+              "score1": 9,
+              "score2": 7,
+              "datetime": "2024-01-20T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Southern Mississippi",
+              "team2": "Mississippi State (C)",
+              "score1": 1,
+              "score2": 13,
+              "datetime": "2024-01-20T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Bracket Play",
+      "groups": [
+        {
+          "name": "Championship Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Georgia State",
+              "team2": "Mississippi State  (B)",
+              "score1": 13,
+              "score2": 6,
+              "datetime": "2024-01-21T12:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Georgia State",
+              "team2": "Harding",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2024-01-21T10:00:00Z",
+              "round": "Semi-Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Mississippi State (C)",
+              "team2": "Mississippi State  (B)",
+              "score1": 11,
+              "score2": 12,
+              "datetime": "2024-01-21T10:00:00Z",
+              "round": "Semi-Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Georgia State",
+              "team2": "Southern Mississippi",
+              "score1": 15,
+              "score2": 2,
+              "datetime": "2024-01-21T08:00:00Z",
+              "round": "Quarter-Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Georgia Tech (B)",
+              "team2": "Harding",
+              "score1": 6,
+              "score2": 9,
+              "datetime": "2024-01-21T08:00:00Z",
+              "round": "Quarter-Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Mississippi State (C)",
+              "team2": "LSU (B)",
+              "score1": 15,
+              "score2": 1,
+              "datetime": "2024-01-21T08:00:00Z",
+              "round": "Quarter-Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Mississippi State  (B)",
+              "team2": "Alabama (B)",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2024-01-21T08:00:00Z",
+              "round": "Quarter-Finals",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "3rd Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Harding",
+              "team2": "Mississippi State (C)",
+              "score1": 12,
+              "score2": 10,
+              "datetime": "2024-01-21T12:00:00Z",
+              "round": "3rd Place Game",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "5th Place Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Georgia Tech (B)",
+              "team2": "Alabama (B)",
+              "score1": 13,
+              "score2": 12,
+              "datetime": "2024-01-21T12:00:00Z",
+              "round": "5th Place Game",
+              "status": "Final"
+            },
+            {
+              "team1": "Southern Mississippi",
+              "team2": "Georgia Tech (B)",
+              "score1": 1,
+              "score2": 15,
+              "datetime": "2024-01-21T10:00:00Z",
+              "round": "5th Place Play-In Games",
+              "status": "Final"
+            },
+            {
+              "team1": "LSU (B)",
+              "team2": "Alabama (B)",
+              "score1": 2,
+              "score2": 15,
+              "datetime": "2024-01-21T10:00:00Z",
+              "round": "5th Place Play-In Games",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "7th Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Southern Mississippi",
+              "team2": "LSU (B)",
+              "score1": 4,
+              "score2": 11,
+              "datetime": "2024-01-21T12:00:00Z",
+              "round": "7th Place Game",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

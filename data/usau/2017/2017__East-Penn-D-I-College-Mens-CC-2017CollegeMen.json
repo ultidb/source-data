@@ -1,0 +1,926 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2017/East-Penn-D-I-College-Mens-CC-2017CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/East-Penn-D-I-College-Mens-CC-2017/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:14.511099Z",
+  "event": {
+    "name": "East Penn D-I College Men's CC 2017",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2017,
+    "city": "Oaks",
+    "state": "PA",
+    "country": "",
+    "startDate": "2017-04-15",
+    "endDate": "2017-04-16"
+  },
+  "teams": [
+    {
+      "name": "Villanova",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Main Line Ultimate",
+        "location": "Villanova, Pennsylvania",
+        "website": "http://villanovaultimate.wixsite.com/mens",
+        "facebook": "",
+        "twitter": "https://twitter.com/VUMainLine"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Don Pontrelli"
+        },
+        {
+          "number": "3",
+          "name": "Peter Fedoryk"
+        },
+        {
+          "number": "5",
+          "name": "Christopher Betz"
+        },
+        {
+          "number": "7",
+          "name": "Thomas McKernan"
+        },
+        {
+          "number": "8",
+          "name": "Ethan Fortin"
+        },
+        {
+          "number": "9",
+          "name": "Casey Vaughn"
+        },
+        {
+          "number": "11",
+          "name": "Jon Feikens"
+        },
+        {
+          "number": "13",
+          "name": "Peter Psyllos"
+        },
+        {
+          "number": "14",
+          "name": "Chris Dixon"
+        },
+        {
+          "number": "15",
+          "name": "Dominic Martinez"
+        },
+        {
+          "number": "18",
+          "name": "Brendan Merrick"
+        },
+        {
+          "number": "19",
+          "name": "Dale Mittleman"
+        },
+        {
+          "number": "20",
+          "name": "Sam Olson"
+        },
+        {
+          "number": "21",
+          "name": "Ryan Caste"
+        },
+        {
+          "number": "23",
+          "name": "Jordan Ciccarone"
+        },
+        {
+          "number": "26",
+          "name": "GRIFFIN CRAFTS"
+        },
+        {
+          "number": "28",
+          "name": "Jonathan Collins"
+        },
+        {
+          "number": "29",
+          "name": "Stephen Gagnier"
+        },
+        {
+          "number": "31",
+          "name": "Sal Oliver"
+        },
+        {
+          "number": "33",
+          "name": "Andrew Deshler"
+        },
+        {
+          "number": "35",
+          "name": "Joe Donovan"
+        },
+        {
+          "number": "36",
+          "name": "Garrett Flott"
+        },
+        {
+          "number": "42",
+          "name": "Luke Natalo"
+        },
+        {
+          "number": "44",
+          "name": "Demetrios Kyriannis"
+        },
+        {
+          "number": "45",
+          "name": "Brent Studenroth"
+        },
+        {
+          "number": "88",
+          "name": "Christopher White"
+        }
+      ]
+    },
+    {
+      "name": "Temple",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Alert",
+        "location": "Philadelphia, Pennsylvania",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/templeultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alec Cohen"
+        },
+        {
+          "number": "0",
+          "name": "Alexander Reiner"
+        },
+        {
+          "number": "0",
+          "name": "Austin Quinn"
+        },
+        {
+          "number": "0",
+          "name": "Mitchell Gaylord"
+        },
+        {
+          "number": "0",
+          "name": "Zach Klee"
+        },
+        {
+          "number": "3",
+          "name": "Brandon Lamberty"
+        },
+        {
+          "number": "6",
+          "name": "Igor Smola"
+        },
+        {
+          "number": "7",
+          "name": "Kevin Woodring"
+        },
+        {
+          "number": "10",
+          "name": "Adriene Khon"
+        },
+        {
+          "number": "11",
+          "name": "JULIAN MAKARECHI"
+        },
+        {
+          "number": "13",
+          "name": "Luke Greenley"
+        },
+        {
+          "number": "17",
+          "name": "Andrew Ngo"
+        },
+        {
+          "number": "18",
+          "name": "Adam Novak"
+        },
+        {
+          "number": "20",
+          "name": "Nicholas LaRue"
+        },
+        {
+          "number": "21",
+          "name": "Francisco Gomez"
+        },
+        {
+          "number": "25",
+          "name": "Aidan Coyle"
+        },
+        {
+          "number": "32",
+          "name": "Robert Walker"
+        },
+        {
+          "number": "33",
+          "name": "Jeremy Fus"
+        },
+        {
+          "number": "35",
+          "name": "Matthew Wilson"
+        },
+        {
+          "number": "37",
+          "name": "Ryan Coughlan"
+        },
+        {
+          "number": "39",
+          "name": "Michael Facinelli"
+        },
+        {
+          "number": "54",
+          "name": "Andrew Menard"
+        },
+        {
+          "number": "80",
+          "name": "Benjamin Cozzolino"
+        },
+        {
+          "number": "99",
+          "name": "Jordan Clever"
+        }
+      ]
+    },
+    {
+      "name": "West Chester",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "West Chester A",
+        "location": "West Chester, Pennsylvania",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "ADAM LASALLE"
+        },
+        {
+          "number": "0",
+          "name": "Calvin Green"
+        },
+        {
+          "number": "0",
+          "name": "Damien Yasipour"
+        },
+        {
+          "number": "0",
+          "name": "Dan Ruban"
+        },
+        {
+          "number": "0",
+          "name": "Brian Crenny"
+        },
+        {
+          "number": "0",
+          "name": "Gabriel Myers"
+        },
+        {
+          "number": "0",
+          "name": "Matthew Brown"
+        },
+        {
+          "number": "0",
+          "name": "Sam Caldwell"
+        },
+        {
+          "number": "0",
+          "name": "Vincent DiMondo"
+        },
+        {
+          "number": "1",
+          "name": "Mike Patuk"
+        },
+        {
+          "number": "2",
+          "name": "Dominick Bussanich"
+        },
+        {
+          "number": "3",
+          "name": "Austin Lillis"
+        },
+        {
+          "number": "5",
+          "name": "Edward Eckert"
+        },
+        {
+          "number": "6",
+          "name": "Brendan Bittle"
+        },
+        {
+          "number": "7",
+          "name": "Zach Owen"
+        },
+        {
+          "number": "15",
+          "name": "Jonathan Anthony"
+        },
+        {
+          "number": "17",
+          "name": "Devin Foster"
+        },
+        {
+          "number": "19",
+          "name": "Daniel Monts"
+        },
+        {
+          "number": "23",
+          "name": "Shadow Deyo"
+        },
+        {
+          "number": "26",
+          "name": "Troy Quaile"
+        },
+        {
+          "number": "30",
+          "name": "Austin Doucette"
+        },
+        {
+          "number": "43",
+          "name": "Dustin Henken"
+        },
+        {
+          "number": "45",
+          "name": "Nicholas DiGiorgio"
+        }
+      ]
+    },
+    {
+      "name": "Pennsylvania",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Void",
+        "location": "Philadelphia, Pennsylvania",
+        "website": "voidultimate.com",
+        "facebook": "https://www.facebook.com/groups/2200077065/",
+        "twitter": "https://twitter.com/VoidUltimate"
+      },
+      "coaches": [
+        "David Baer"
+      ],
+      "roster": [
+        {
+          "number": "1",
+          "name": "Michael Becker"
+        },
+        {
+          "number": "2",
+          "name": "Solomon Goldfarb"
+        },
+        {
+          "number": "3",
+          "name": "Sean Cohen"
+        },
+        {
+          "number": "6",
+          "name": "Riley Morrison"
+        },
+        {
+          "number": "8",
+          "name": "Joseph Harrison"
+        },
+        {
+          "number": "10",
+          "name": "Jason Wright"
+        },
+        {
+          "number": "13",
+          "name": "CHRIS LU"
+        },
+        {
+          "number": "14",
+          "name": "Jason Schwartz"
+        },
+        {
+          "number": "15",
+          "name": "Max Fine"
+        },
+        {
+          "number": "18",
+          "name": "Connor Boyle"
+        },
+        {
+          "number": "18",
+          "name": "Saran Viswanathan"
+        },
+        {
+          "number": "20",
+          "name": "Grant Steiger"
+        },
+        {
+          "number": "24",
+          "name": "Brooks Gingrich"
+        },
+        {
+          "number": "25",
+          "name": "Haralambos Mourelatos"
+        },
+        {
+          "number": "27",
+          "name": "DANNY EDMAN"
+        },
+        {
+          "number": "29",
+          "name": "Per Loufman"
+        },
+        {
+          "number": "32",
+          "name": "Andrew Roberts"
+        },
+        {
+          "number": "33",
+          "name": "Ayaaz Versi"
+        },
+        {
+          "number": "34",
+          "name": "Tom Fry"
+        },
+        {
+          "number": "42",
+          "name": "PHILIP CHOU"
+        },
+        {
+          "number": "43",
+          "name": "John Bellwoar"
+        },
+        {
+          "number": "77",
+          "name": "Mahmood Ahmed"
+        },
+        {
+          "number": "99",
+          "name": "Edward Devlin"
+        }
+      ]
+    },
+    {
+      "name": "Drexel",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Dragons",
+        "location": "Philadelphia, Pennsylvania",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/DrexelUltimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Stuart Collymore"
+        },
+        {
+          "number": "01",
+          "name": "Gabriel Brieva"
+        },
+        {
+          "number": "02",
+          "name": "Christopher Markowitz"
+        },
+        {
+          "number": "03",
+          "name": "Adam Federbusch"
+        },
+        {
+          "number": "08",
+          "name": "Kyle Watson"
+        },
+        {
+          "number": "10",
+          "name": "Dylan Cohen"
+        },
+        {
+          "number": "11",
+          "name": "Kyle Shallow"
+        },
+        {
+          "number": "13",
+          "name": "Nicholas Nugent"
+        },
+        {
+          "number": "17",
+          "name": "Brian Doherty"
+        },
+        {
+          "number": "18",
+          "name": "Cameron Rabinowitz"
+        },
+        {
+          "number": "20",
+          "name": "John Madden"
+        },
+        {
+          "number": "22",
+          "name": "Dylan Smith"
+        },
+        {
+          "number": "23",
+          "name": "Allan Michel"
+        },
+        {
+          "number": "24",
+          "name": "Mike Worth"
+        },
+        {
+          "number": "25",
+          "name": "Nolan Boyle"
+        },
+        {
+          "number": "27",
+          "name": "Tim Brant"
+        },
+        {
+          "number": "32",
+          "name": "Chris Maher"
+        },
+        {
+          "number": "33",
+          "name": "ZACHARY JACOBS"
+        },
+        {
+          "number": "34",
+          "name": "Jacob Gilmore"
+        },
+        {
+          "number": "36",
+          "name": "Kent Hubert"
+        },
+        {
+          "number": "81",
+          "name": "Sean Simmons"
+        },
+        {
+          "number": "99",
+          "name": "Yehonatan Tamir"
+        }
+      ]
+    },
+    {
+      "name": "Millersville",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Moose",
+        "location": "Millersville, Pennsylvania",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Aaron Criswell"
+        },
+        {
+          "number": "0",
+          "name": "Andrew Presley"
+        },
+        {
+          "number": "0",
+          "name": "Austin Ackerman"
+        },
+        {
+          "number": "0",
+          "name": "Brendan nee"
+        },
+        {
+          "number": "0",
+          "name": "Colin Gale"
+        },
+        {
+          "number": "0",
+          "name": "Dillon Souder"
+        },
+        {
+          "number": "0",
+          "name": "Hunter Boal"
+        },
+        {
+          "number": "0",
+          "name": "Liam McTigue"
+        },
+        {
+          "number": "0",
+          "name": "Lucas Staub"
+        },
+        {
+          "number": "0",
+          "name": "Michea Wolfley"
+        },
+        {
+          "number": "0",
+          "name": "Nick Berent"
+        },
+        {
+          "number": "0",
+          "name": "Patrick Lewis"
+        },
+        {
+          "number": "0",
+          "name": "Richard Barrett"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Peterson"
+        },
+        {
+          "number": "0",
+          "name": "Samuel Carroll"
+        },
+        {
+          "number": "0",
+          "name": "Jon Parker"
+        },
+        {
+          "number": "0",
+          "name": "Skylar Keiser"
+        },
+        {
+          "number": "0",
+          "name": "Tate Gugino"
+        },
+        {
+          "number": "0",
+          "name": "Zachariah Sarmir"
+        },
+        {
+          "number": "20",
+          "name": "Dan Pagano"
+        },
+        {
+          "number": "22",
+          "name": "Shane Billbrough"
+        },
+        {
+          "number": "33",
+          "name": "Jon Cotton"
+        },
+        {
+          "number": "42",
+          "name": "Shane Bookhultz"
+        },
+        {
+          "number": "72",
+          "name": "Justin Creighton"
+        },
+        {
+          "number": "91",
+          "name": "Benjamin Johnson"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Villanova",
+              "team2": "West Chester",
+              "score1": 12,
+              "score2": 9,
+              "datetime": "2017-04-15T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Temple",
+              "team2": "Pennsylvania",
+              "score1": 13,
+              "score2": 11,
+              "datetime": "2017-04-15T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Drexel",
+              "team2": "Millersville",
+              "score1": 13,
+              "score2": 6,
+              "datetime": "2017-04-15T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Villanova",
+              "team2": "Temple",
+              "score1": 12,
+              "score2": 10,
+              "datetime": "2017-04-15T10:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "West Chester",
+              "team2": "Drexel",
+              "score1": 12,
+              "score2": 10,
+              "datetime": "2017-04-15T10:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Pennsylvania",
+              "team2": "Millersville",
+              "score1": 13,
+              "score2": 7,
+              "datetime": "2017-04-15T10:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Villanova",
+              "team2": "Drexel",
+              "score1": 13,
+              "score2": 6,
+              "datetime": "2017-04-15T12:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Temple",
+              "team2": "Millersville",
+              "score1": 11,
+              "score2": 6,
+              "datetime": "2017-04-15T12:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "West Chester",
+              "team2": "Pennsylvania",
+              "score1": 9,
+              "score2": 8,
+              "datetime": "2017-04-15T12:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Villanova",
+              "team2": "Millersville",
+              "score1": 13,
+              "score2": 5,
+              "datetime": "2017-04-15T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Temple",
+              "team2": "West Chester",
+              "score1": 10,
+              "score2": 7,
+              "datetime": "2017-04-15T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Drexel",
+              "team2": "Pennsylvania",
+              "score1": 6,
+              "score2": 12,
+              "datetime": "2017-04-15T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Villanova",
+              "team2": "Pennsylvania",
+              "score1": 12,
+              "score2": 9,
+              "datetime": "2017-04-16T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Temple",
+              "team2": "Drexel",
+              "score1": 13,
+              "score2": 11,
+              "datetime": "2017-04-16T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "West Chester",
+              "team2": "Millersville",
+              "score1": 13,
+              "score2": 8,
+              "datetime": "2017-04-16T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Bracket Play",
+      "groups": [
+        {
+          "name": "1st Place Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Villanova",
+              "team2": "Temple",
+              "score1": 11,
+              "score2": 10,
+              "datetime": "2017-04-16T14:45:00Z",
+              "round": "1st Place Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Villanova",
+              "team2": "Pennsylvania",
+              "score1": 13,
+              "score2": 3,
+              "datetime": "2017-04-16T12:45:00Z",
+              "round": "1st Place Semis",
+              "status": "Final"
+            },
+            {
+              "team1": "Temple",
+              "team2": "West Chester",
+              "score1": 10,
+              "score2": 9,
+              "datetime": "2017-04-16T12:45:00Z",
+              "round": "1st Place Semis",
+              "status": "Final"
+            },
+            {
+              "team1": "Pennsylvania",
+              "team2": "Drexel",
+              "score1": 12,
+              "score2": 11,
+              "datetime": "2017-04-16T10:45:00Z",
+              "round": "1st Place Quarters",
+              "status": "Final"
+            },
+            {
+              "team1": "West Chester",
+              "team2": "Millersville",
+              "score1": 13,
+              "score2": 5,
+              "datetime": "2017-04-16T10:45:00Z",
+              "round": "1st Place Quarters",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "3rd Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Pennsylvania",
+              "team2": "West Chester",
+              "score1": 9,
+              "score2": 11,
+              "datetime": "2017-04-16T14:45:00Z",
+              "round": "3rd Place",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "5th Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Drexel",
+              "team2": "Millersville",
+              "score1": 13,
+              "score2": 1,
+              "datetime": "2017-04-16T12:45:00Z",
+              "round": "5th Place",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

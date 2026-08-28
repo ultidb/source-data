@@ -1,0 +1,261 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2015/Small-Batch-vs-Molly-BrownClub-Women",
+  "sourceUrl": "https://play.usaultimate.org/events/Small-Batch-vs-Molly-Brown/schedule/Women/Club-Women/",
+  "scrapedAt": "2026-08-28T10:06:12.712823Z",
+  "event": {
+    "name": "Small Batch vs. Molly Brown 2015",
+    "division": "Club - Women ",
+    "gender": "",
+    "season": 2015,
+    "city": "Westminster",
+    "state": "CO",
+    "country": "",
+    "startDate": "2015-07-22",
+    "endDate": "2015-07-22"
+  },
+  "teams": [
+    {
+      "name": "Molly Brown",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Denver/Boulder, Colorado",
+        "website": "http://www.mollybrownultimate.com/",
+        "facebook": "https://www.facebook.com/MollyBrownTown",
+        "twitter": "https://twitter.com/MollyBrownTown"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "4",
+          "name": "Hilary Walker"
+        },
+        {
+          "number": "03",
+          "name": "Maggie Chen"
+        },
+        {
+          "number": "06",
+          "name": "Ashley Daly Morgan"
+        },
+        {
+          "number": "07",
+          "name": "Paige Applegate"
+        },
+        {
+          "number": "08",
+          "name": "Lisa Doan"
+        },
+        {
+          "number": "09",
+          "name": "Octavia Payne"
+        },
+        {
+          "number": "10",
+          "name": "Lindsey Cross"
+        },
+        {
+          "number": "11",
+          "name": "Dena Slattery"
+        },
+        {
+          "number": "14",
+          "name": "Katie Patterson"
+        },
+        {
+          "number": "15",
+          "name": "Dorothe Franklin"
+        },
+        {
+          "number": "16",
+          "name": "Megan Cousins"
+        },
+        {
+          "number": "17",
+          "name": "Anna Schott"
+        },
+        {
+          "number": "18",
+          "name": "Crystal Davis"
+        },
+        {
+          "number": "19",
+          "name": "Christina Mickle"
+        },
+        {
+          "number": "21",
+          "name": "Kristina Snodgrass"
+        },
+        {
+          "number": "23",
+          "name": "Lauren Boyle"
+        },
+        {
+          "number": "24",
+          "name": "Lisi Lohre"
+        },
+        {
+          "number": "25",
+          "name": "Kirstin Johnson"
+        },
+        {
+          "number": "27",
+          "name": "Tania Reitz"
+        },
+        {
+          "number": "28",
+          "name": "Sally Lambert"
+        },
+        {
+          "number": "32",
+          "name": "Christy Cheung"
+        },
+        {
+          "number": "42",
+          "name": "Carolyn Matthews"
+        },
+        {
+          "number": "47",
+          "name": "Rebecca Miller"
+        },
+        {
+          "number": "52",
+          "name": "Claire Chastain"
+        },
+        {
+          "number": "55",
+          "name": "Sara Taggart"
+        }
+      ]
+    },
+    {
+      "name": "Colorado Small Batch",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Denver, Colorado",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "Rebecca Mitchell"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "PETRA KOWALSKI"
+        },
+        {
+          "number": "0",
+          "name": "Katelynn Benton"
+        },
+        {
+          "number": "0",
+          "name": "TARYN LANGLOIS"
+        },
+        {
+          "number": "2",
+          "name": "June Ng"
+        },
+        {
+          "number": "3",
+          "name": "Molly Clay"
+        },
+        {
+          "number": "3",
+          "name": "Emily Stege"
+        },
+        {
+          "number": "3",
+          "name": "Megan Chan"
+        },
+        {
+          "number": "7",
+          "name": "Carolyn Vlach"
+        },
+        {
+          "number": "8",
+          "name": "RACHEL ACKER"
+        },
+        {
+          "number": "9",
+          "name": "Elizabeth McCullagh"
+        },
+        {
+          "number": "11",
+          "name": "Andrea Belbusti"
+        },
+        {
+          "number": "13",
+          "name": "Maddie Pielert"
+        },
+        {
+          "number": "17",
+          "name": "Melinda Alvey"
+        },
+        {
+          "number": "20",
+          "name": "Kenzie Weed"
+        },
+        {
+          "number": "21",
+          "name": "Hannah Matthys"
+        },
+        {
+          "number": "24",
+          "name": "Hilary Egan"
+        },
+        {
+          "number": "25",
+          "name": "Kati Turner"
+        },
+        {
+          "number": "28",
+          "name": "Candace Yeh"
+        },
+        {
+          "number": "35",
+          "name": "Sarah Hoistad"
+        },
+        {
+          "number": "36",
+          "name": "Lani Kawamoto"
+        },
+        {
+          "number": "42",
+          "name": "Haley Love"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "brackets",
+      "name": "Match Game",
+      "groups": [
+        {
+          "name": "Match Game",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Molly Brown",
+              "team2": "Colorado Small Batch",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2015-07-22T18:00:00Z",
+              "round": "Match Game",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

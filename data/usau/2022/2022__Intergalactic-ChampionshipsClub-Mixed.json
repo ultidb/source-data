@@ -1,0 +1,169 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2022/Intergalactic-ChampionshipsClub-Mixed",
+  "sourceUrl": "https://play.usaultimate.org/events/Intergalactic-Championships/schedule/Mixed/Club-Mixed",
+  "scrapedAt": "2026-08-28T10:06:18.821231Z",
+  "event": {
+    "name": "Intergalactic Championships 2022",
+    "division": "Club - Mixed ",
+    "gender": "",
+    "season": 2022,
+    "city": "Honolulu",
+    "state": "HI",
+    "country": "",
+    "startDate": "2022-12-03",
+    "endDate": "2022-12-04"
+  },
+  "teams": [
+    {
+      "name": "Team Earthling",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Colorado Springs, Colorado",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "Sam Callan"
+      ],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Sam Callan"
+        },
+        {
+          "number": "02",
+          "name": "Dana Jefferson"
+        },
+        {
+          "number": "03",
+          "name": "Will Deaver"
+        },
+        {
+          "number": "04",
+          "name": "Julia Lee"
+        },
+        {
+          "number": "10",
+          "name": "Ben Feng"
+        },
+        {
+          "number": "30",
+          "name": "Leah Dolan-Kelley"
+        },
+        {
+          "number": "53",
+          "name": "Sarah Nurmi"
+        }
+      ]
+    },
+    {
+      "name": "Team Martian",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Roswell, New Mexico",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "Dan Raabe"
+      ],
+      "roster": [
+        {
+          "number": "05",
+          "name": "Stacey Waldrup"
+        },
+        {
+          "number": "07",
+          "name": "Kirstin Graham"
+        },
+        {
+          "number": "11",
+          "name": "Joy Ferenbaugh"
+        },
+        {
+          "number": "13",
+          "name": "Carolina Gonzalez-Llanos"
+        },
+        {
+          "number": "17",
+          "name": "Stacey Waldrup"
+        },
+        {
+          "number": "27",
+          "name": "Joshua Murphy"
+        },
+        {
+          "number": "37",
+          "name": "David Raflo"
+        },
+        {
+          "number": "88",
+          "name": "Mike Helmecki"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "brackets",
+      "name": "Intergalactic Championships",
+      "groups": [
+        {
+          "name": "Finals",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Team Earthling",
+              "team2": "Team Martian",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2021-07-24T09:00:00Z",
+              "round": "Finals",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Team Earthling",
+              "team2": "Team Martian",
+              "score1": 2,
+              "score2": 3,
+              "datetime": "2021-07-20T05:00:00Z",
+              "round": "Semifinals",
+              "status": "Scheduled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Team Earthling",
+              "team2": "Team Martian",
+              "score1": 5,
+              "score2": 3,
+              "datetime": "2022-07-23T09:00:00Z",
+              "round": "",
+              "status": "In Progress"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

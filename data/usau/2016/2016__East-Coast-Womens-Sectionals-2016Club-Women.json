@@ -1,0 +1,267 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2016/East-Coast-Womens-Sectionals-2016Club-Women",
+  "sourceUrl": "https://play.usaultimate.org/events/East-Coast-Womens-Sectionals-2016/schedule/Women/Club-Women/",
+  "scrapedAt": "2026-08-28T10:06:13.284781Z",
+  "event": {
+    "name": "East Coast Women's Sectionals 2016",
+    "division": "Club - Women ",
+    "gender": "",
+    "season": 2016,
+    "city": "Nashville",
+    "state": "TN",
+    "country": "",
+    "startDate": "2016-08-27",
+    "endDate": "2016-08-28"
+  },
+  "teams": [
+    {
+      "name": "Encore",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Nashville, Tennessee",
+        "website": "",
+        "facebook": "https://www.facebook.com/encoreultimate",
+        "twitter": ""
+      },
+      "coaches": [
+        "Grant Gardner"
+      ],
+      "roster": [
+        {
+          "number": "02",
+          "name": "Julie Hilton"
+        },
+        {
+          "number": "04",
+          "name": "Kailee Karr"
+        },
+        {
+          "number": "05",
+          "name": "Katie  Barnes"
+        },
+        {
+          "number": "06",
+          "name": "AMY BESEK"
+        },
+        {
+          "number": "07",
+          "name": "Jessi Norman"
+        },
+        {
+          "number": "08",
+          "name": "Jennifer Stewart"
+        },
+        {
+          "number": "09",
+          "name": "Barbie Wright"
+        },
+        {
+          "number": "10",
+          "name": "Amanda Baker"
+        },
+        {
+          "number": "11",
+          "name": "MAYA WHITE"
+        },
+        {
+          "number": "12",
+          "name": "Colleen Wright"
+        },
+        {
+          "number": "14",
+          "name": "Kayla Ferguson"
+        },
+        {
+          "number": "15",
+          "name": "Kimberly Sabo"
+        },
+        {
+          "number": "16",
+          "name": "Rachel Shaw"
+        },
+        {
+          "number": "17",
+          "name": "Emily Harrell"
+        },
+        {
+          "number": "18",
+          "name": "Noel Holmes"
+        },
+        {
+          "number": "20",
+          "name": "Elise Shepard"
+        },
+        {
+          "number": "21",
+          "name": "Kelsey Foster"
+        },
+        {
+          "number": "22",
+          "name": "Heather Gardner"
+        },
+        {
+          "number": "23",
+          "name": "Elizabeth Barnes"
+        },
+        {
+          "number": "24",
+          "name": "Maggie Dayton"
+        },
+        {
+          "number": "27",
+          "name": "Kathryn Rachael"
+        },
+        {
+          "number": "31",
+          "name": "Christina \"Flex\" Effertz"
+        },
+        {
+          "number": "42",
+          "name": "Brianna Stedman"
+        },
+        {
+          "number": "51",
+          "name": "Kay Powell"
+        }
+      ]
+    },
+    {
+      "name": "Outbreak",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Atlanta, Georgia",
+        "website": "",
+        "facebook": "https://www.facebook.com/ATLOutbreak",
+        "twitter": "@ATLOutbreak"
+      },
+      "coaches": [
+        "Miranda Knowles"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Dana Rose"
+        },
+        {
+          "number": "01",
+          "name": "Cat Prueitt"
+        },
+        {
+          "number": "02",
+          "name": "Anna McKee"
+        },
+        {
+          "number": "03",
+          "name": "Rachel Thurston"
+        },
+        {
+          "number": "05",
+          "name": "Meredith Leahy"
+        },
+        {
+          "number": "08",
+          "name": "Alison Stargel"
+        },
+        {
+          "number": "09",
+          "name": "Kristen Cawley"
+        },
+        {
+          "number": "10",
+          "name": "Alexandra Mooney"
+        },
+        {
+          "number": "11",
+          "name": "Lauren Lee"
+        },
+        {
+          "number": "12",
+          "name": "Dorsey Norwood"
+        },
+        {
+          "number": "13",
+          "name": "Bridget Nabb"
+        },
+        {
+          "number": "14",
+          "name": "Sarah Nawrocki"
+        },
+        {
+          "number": "15",
+          "name": "MK Andersen"
+        },
+        {
+          "number": "16",
+          "name": "Madeleine (Maddy) Frey"
+        },
+        {
+          "number": "17",
+          "name": "Alicia Queen"
+        },
+        {
+          "number": "20",
+          "name": "Mirenli Negron"
+        },
+        {
+          "number": "21",
+          "name": "Katherine Smith"
+        },
+        {
+          "number": "33",
+          "name": "Nia Smith"
+        },
+        {
+          "number": "35",
+          "name": "Helen Samuel"
+        },
+        {
+          "number": "37",
+          "name": "Joanna Chen"
+        },
+        {
+          "number": "42",
+          "name": "Amy Salley"
+        },
+        {
+          "number": "55",
+          "name": "Rachel Shallenberger"
+        },
+        {
+          "number": "78",
+          "name": "Bess Renjilian"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "East Coast Sectionals",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Outbreak",
+              "team2": "Encore",
+              "score1": 8,
+              "score2": 11,
+              "datetime": "2016-08-27T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2026/Towsontown-Throwdown-2026CollegeWomen",
+  "sourceUrl": "https://play.usaultimate.org/events/Towsontown-Throwdown-2026/schedule/Women/CollegeWomen/",
+  "scrapedAt": "2026-08-28T10:06:23.108520Z",
+  "event": {
+    "name": "Towsontown Throwdown 2026",
+    "division": "College - Women ",
+    "gender": "",
+    "season": 2026,
+    "city": "Towson",
+    "state": "MD",
+    "country": "",
+    "startDate": "2026-03-28",
+    "endDate": "2026-03-28"
+  },
+  "teams": [
+    {
+      "name": "Towson",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Hammertime",
+        "location": "Towson, Maryland",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Emily Field"
+        },
+        {
+          "number": "0",
+          "name": "Jocelyn Cather"
+        },
+        {
+          "number": "0",
+          "name": "Kayla Polk"
+        },
+        {
+          "number": "0",
+          "name": "Kristina Watson"
+        },
+        {
+          "number": "0",
+          "name": "Peyton  Donnally"
+        },
+        {
+          "number": "0",
+          "name": "Rebecca Marian"
+        },
+        {
+          "number": "0",
+          "name": "Shana Gittleson"
+        },
+        {
+          "number": "0",
+          "name": "Sophia  Smithson"
+        },
+        {
+          "number": "0",
+          "name": "Alexa Galbraith"
+        },
+        {
+          "number": "0",
+          "name": "Alexandra Volat"
+        },
+        {
+          "number": "0",
+          "name": "Amie Yansane"
+        },
+        {
+          "number": "0",
+          "name": "Audrey Madden"
+        },
+        {
+          "number": "0",
+          "name": "Camille  Evans"
+        },
+        {
+          "number": "0",
+          "name": "Carissa Shue"
+        },
+        {
+          "number": "8",
+          "name": "Cate Ness"
+        }
+      ]
+    },
+    {
+      "name": "Johns Hopkins",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Blue-Footed Boobies",
+        "location": "Baltimore, Maryland",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "04",
+          "name": "Sofia Floody"
+        },
+        {
+          "number": "05",
+          "name": "Armelle Varillas"
+        },
+        {
+          "number": "06",
+          "name": "Elayne Jia"
+        },
+        {
+          "number": "07",
+          "name": "Emily Hung"
+        },
+        {
+          "number": "09",
+          "name": "Aminah Karamoua"
+        },
+        {
+          "number": "13",
+          "name": "Cecile Cadet"
+        },
+        {
+          "number": "16",
+          "name": "Megan Lincicum"
+        },
+        {
+          "number": "17",
+          "name": "Yvonne Zhang"
+        },
+        {
+          "number": "19",
+          "name": "Aisha Oyediran"
+        },
+        {
+          "number": "21",
+          "name": "Emily Zhang"
+        },
+        {
+          "number": "23",
+          "name": "Maddie Wee"
+        },
+        {
+          "number": "24",
+          "name": "Emily Yue Liang"
+        },
+        {
+          "number": "26",
+          "name": "Sadie Waldron"
+        },
+        {
+          "number": "31",
+          "name": "Ahn Litwiller"
+        },
+        {
+          "number": "35",
+          "name": "Sherry Chen"
+        },
+        {
+          "number": "37",
+          "name": "Sophia de Medeiros"
+        },
+        {
+          "number": "84",
+          "name": "Tram Nguyen"
+        }
+      ]
+    },
+    {
+      "name": "Maryland (B)",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Butter Cob",
+        "location": "College Park, Maryland",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Sarah Cole"
+        },
+        {
+          "number": "03",
+          "name": "Acacia Esser"
+        },
+        {
+          "number": "08",
+          "name": "Elizabeth Barski"
+        },
+        {
+          "number": "24",
+          "name": "Anna  Yegorova"
+        },
+        {
+          "number": "26",
+          "name": "Alyssa Chung"
+        },
+        {
+          "number": "28",
+          "name": "Zoe Edwards"
+        },
+        {
+          "number": "44",
+          "name": "Lana Fragale"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool A",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Towson",
+              "team2": "Johns Hopkins",
+              "score1": 6,
+              "score2": 4,
+              "datetime": "2026-03-28T09:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Maryland (B)",
+              "team2": "Johns Hopkins",
+              "score1": 5,
+              "score2": 7,
+              "datetime": "2026-03-28T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Maryland (B)",
+              "team2": "Towson",
+              "score1": 4,
+              "score2": 7,
+              "datetime": "2026-03-28T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

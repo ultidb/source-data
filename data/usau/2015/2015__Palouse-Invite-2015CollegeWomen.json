@@ -1,0 +1,255 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2015/Palouse-Invite-2015CollegeWomen",
+  "sourceUrl": "https://play.usaultimate.org/events/Palouse-Invite-2015/schedule/Women/CollegeWomen/",
+  "scrapedAt": "2026-08-28T10:06:12.664192Z",
+  "event": {
+    "name": "Palouse Invite 2015",
+    "division": "College - Women ",
+    "gender": "",
+    "season": 2015,
+    "city": "Pullman",
+    "state": "WA",
+    "country": "",
+    "startDate": "2015-03-28",
+    "endDate": "2015-03-29"
+  },
+  "teams": [
+    {
+      "name": "Idaho",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Jive Turkey",
+        "location": "Moscow, Idaho",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Tori Mehl"
+        },
+        {
+          "number": "0",
+          "name": "MIRIAM HERNANDEZ"
+        },
+        {
+          "number": "0",
+          "name": "Taylor Westlund"
+        },
+        {
+          "number": "0",
+          "name": "Sierra Christie"
+        },
+        {
+          "number": "0",
+          "name": "Margaret Fitzgerald"
+        },
+        {
+          "number": "0",
+          "name": "KELLY YANOSHEK"
+        },
+        {
+          "number": "0",
+          "name": "Shanti Friedman"
+        },
+        {
+          "number": "0",
+          "name": "Hannah Berry"
+        },
+        {
+          "number": "0",
+          "name": "Briana Zak"
+        },
+        {
+          "number": "0",
+          "name": "Payton  McGriff"
+        },
+        {
+          "number": "37",
+          "name": "Erica Wilkins"
+        }
+      ]
+    },
+    {
+      "name": "Montana State",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Booty Chest",
+        "location": "Bozeman, Montana",
+        "website": "",
+        "facebook": "https://www.facebook.com/groups/777434572302063/?fref=nf",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "05",
+          "name": "Zoe Kaatz"
+        },
+        {
+          "number": "06",
+          "name": "MADDY JONES"
+        },
+        {
+          "number": "08",
+          "name": "Corry Arnold"
+        },
+        {
+          "number": "10",
+          "name": "Kyla Bauman"
+        },
+        {
+          "number": "11",
+          "name": "Mackenzie Holton"
+        },
+        {
+          "number": "18",
+          "name": "Hannah Hoven"
+        },
+        {
+          "number": "21",
+          "name": "Elise Byron"
+        },
+        {
+          "number": "24",
+          "name": "Stephanie Neises"
+        },
+        {
+          "number": "33",
+          "name": "Danielle Woods"
+        },
+        {
+          "number": "34",
+          "name": "Heather Nold"
+        },
+        {
+          "number": "42",
+          "name": "Catie Carson"
+        }
+      ]
+    },
+    {
+      "name": "Gonzaga",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "ZULU",
+        "location": "Spokane, Washington",
+        "website": "",
+        "facebook": "https://www.facebook.com/groups/341725075923726/",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "8",
+          "name": "Kylie Muntean"
+        },
+        {
+          "number": "00",
+          "name": "JOHNNIE DUGUAY"
+        },
+        {
+          "number": "03",
+          "name": "PAIGE WENDLAND"
+        },
+        {
+          "number": "11",
+          "name": "BRYNA JOSEPH"
+        },
+        {
+          "number": "15",
+          "name": "Nikole Farler"
+        },
+        {
+          "number": "17",
+          "name": "RACHEL HITZEMANN"
+        },
+        {
+          "number": "19",
+          "name": "JAMIE GOINS"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Idaho",
+              "team2": "Gonzaga",
+              "score1": 10,
+              "score2": 7,
+              "datetime": "2015-03-28T00:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Montana State",
+              "team2": "Gonzaga",
+              "score1": 12,
+              "score2": 5,
+              "datetime": "2015-03-28T00:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Idaho",
+              "team2": "Montana State",
+              "score1": 8,
+              "score2": 7,
+              "datetime": "2015-03-28T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Championship",
+      "groups": [
+        {
+          "name": "Championship",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Montana State",
+              "team2": "Idaho",
+              "score1": 5,
+              "score2": 15,
+              "datetime": "2015-03-29T11:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Gonzaga",
+              "team2": "Montana State",
+              "score1": 6,
+              "score2": 14,
+              "datetime": "2015-03-29T15:00:00Z",
+              "round": "Semis",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

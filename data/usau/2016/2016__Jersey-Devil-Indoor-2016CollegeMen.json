@@ -1,0 +1,576 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2016/Jersey-Devil-Indoor-2016CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/Jersey-Devil-Indoor-2016/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:13.431793Z",
+  "event": {
+    "name": "Jersey Devil (Indoor) 2016",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2016,
+    "city": "Trenton",
+    "state": "NJ",
+    "country": "",
+    "startDate": "2016-02-20",
+    "endDate": "2016-02-21"
+  },
+  "teams": [
+    {
+      "name": "Maryland",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Maryland Ultimate",
+        "location": "College Park, Maryland",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "Ben Slade"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Matthew Rohrbaugh"
+        },
+        {
+          "number": "0",
+          "name": "Jeremy Knopf"
+        },
+        {
+          "number": "0",
+          "name": "Joe Sanz"
+        },
+        {
+          "number": "0",
+          "name": "Adam Weiss"
+        },
+        {
+          "number": "1",
+          "name": "Daniel Mehmedovich"
+        },
+        {
+          "number": "1",
+          "name": "Erik Larmore"
+        },
+        {
+          "number": "4",
+          "name": "Matthew Smith"
+        },
+        {
+          "number": "5",
+          "name": "Samuel Besse"
+        },
+        {
+          "number": "7",
+          "name": "Liam Toal"
+        },
+        {
+          "number": "8",
+          "name": "Sean Reischel"
+        },
+        {
+          "number": "9",
+          "name": "Thomas Kinton"
+        },
+        {
+          "number": "10",
+          "name": "Benjamin Lee"
+        },
+        {
+          "number": "11",
+          "name": "Lucas Denit"
+        },
+        {
+          "number": "14",
+          "name": "Mac Keller"
+        },
+        {
+          "number": "15",
+          "name": "William Xu"
+        },
+        {
+          "number": "16",
+          "name": "John Walden"
+        },
+        {
+          "number": "17",
+          "name": "Tom Noll"
+        },
+        {
+          "number": "18",
+          "name": "Christopher Bernard"
+        },
+        {
+          "number": "21",
+          "name": "Max Cassell"
+        },
+        {
+          "number": "22",
+          "name": "Ryan Swift"
+        },
+        {
+          "number": "27",
+          "name": "Myco Paulo"
+        },
+        {
+          "number": "32",
+          "name": "Eliot Fenton"
+        },
+        {
+          "number": "42",
+          "name": "Sean Manning"
+        },
+        {
+          "number": "74",
+          "name": "Andrew Creighton"
+        }
+      ]
+    },
+    {
+      "name": "West Chester",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "West Chester A",
+        "location": "West Chester, Pennsylvania",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "Kenneth Wells"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Jamil Henderson"
+        },
+        {
+          "number": "3",
+          "name": "Austin Lillis"
+        },
+        {
+          "number": "5",
+          "name": "Edward Eckert"
+        },
+        {
+          "number": "9",
+          "name": "Cole Drummond"
+        },
+        {
+          "number": "02",
+          "name": "Dominick Bussanich"
+        },
+        {
+          "number": "04",
+          "name": "Jimmy Thomas"
+        },
+        {
+          "number": "07",
+          "name": "Zach Owen"
+        },
+        {
+          "number": "10",
+          "name": "Christopher Pokorny"
+        },
+        {
+          "number": "15",
+          "name": "Jonathan Anthony"
+        },
+        {
+          "number": "17",
+          "name": "Devin Foster"
+        },
+        {
+          "number": "18",
+          "name": "Dustin Henken"
+        },
+        {
+          "number": "19",
+          "name": "Daniel Monts"
+        },
+        {
+          "number": "23",
+          "name": "LUKE KOWAL"
+        },
+        {
+          "number": "24",
+          "name": "Jack Yekel"
+        },
+        {
+          "number": "26",
+          "name": "Troy Quaile"
+        },
+        {
+          "number": "27",
+          "name": "Matt McKenna"
+        },
+        {
+          "number": "30",
+          "name": "Austin Doucette"
+        },
+        {
+          "number": "42",
+          "name": "Will Hoehne"
+        },
+        {
+          "number": "45",
+          "name": "Nicholas DiGiorgio"
+        },
+        {
+          "number": "49",
+          "name": "Emory Blackshir"
+        },
+        {
+          "number": "64",
+          "name": "Nathaniel Aponte"
+        },
+        {
+          "number": "69",
+          "name": "Alexie Torres"
+        },
+        {
+          "number": "93",
+          "name": "Dustin Sullivan"
+        }
+      ]
+    },
+    {
+      "name": "Drexel",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Dragons",
+        "location": "Philadelphia, Pennsylvania",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/DrexelUltimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "2",
+          "name": "Christopher Markowitz"
+        },
+        {
+          "number": "3",
+          "name": "Adam Federbusch"
+        },
+        {
+          "number": "7",
+          "name": "Mike Worth"
+        },
+        {
+          "number": "03",
+          "name": "Brian Doherty"
+        },
+        {
+          "number": "11",
+          "name": "James Hane"
+        },
+        {
+          "number": "12",
+          "name": "Gabriel Brieva"
+        },
+        {
+          "number": "13",
+          "name": "Nicholas Nugent"
+        },
+        {
+          "number": "14",
+          "name": "Ryan Mulholland"
+        },
+        {
+          "number": "15",
+          "name": "Kyle Shallow"
+        },
+        {
+          "number": "20",
+          "name": "John Madden"
+        },
+        {
+          "number": "22",
+          "name": "Dylan Smith"
+        },
+        {
+          "number": "23",
+          "name": "Allan Michel"
+        },
+        {
+          "number": "27",
+          "name": "Tim Brant"
+        },
+        {
+          "number": "32",
+          "name": "Chris Maher"
+        },
+        {
+          "number": "33",
+          "name": "ZACHARY JACOBS"
+        },
+        {
+          "number": "37",
+          "name": "EVAN OSTROW"
+        },
+        {
+          "number": "88",
+          "name": "ALEXANDER HAYNES"
+        }
+      ]
+    },
+    {
+      "name": "Skidmore",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Skidmore College ThoroughBEARS",
+        "location": "Saratoga Springs, New York",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "JONATHAN (JP) WEBEL"
+        },
+        {
+          "number": "0",
+          "name": "Rob Pierce"
+        },
+        {
+          "number": "0",
+          "name": "Reuben Graff"
+        },
+        {
+          "number": "13",
+          "name": "Antonio Valentin"
+        },
+        {
+          "number": "17",
+          "name": "John Wyetzner"
+        },
+        {
+          "number": "18",
+          "name": "Graham Turner"
+        },
+        {
+          "number": "29",
+          "name": "Charles Tetelman"
+        },
+        {
+          "number": "72",
+          "name": "Dylan Frank"
+        },
+        {
+          "number": "88",
+          "name": "Jules Evens"
+        }
+      ]
+    },
+    {
+      "name": "SUNY-Cortland",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Team Rocket",
+        "location": "Cortland, New York",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "RANDY WERKMEISTER"
+        },
+        {
+          "number": "0",
+          "name": "Tyler Arnold-Brown"
+        },
+        {
+          "number": "0",
+          "name": "Alex Pressman"
+        },
+        {
+          "number": "0",
+          "name": "Nicholas boyd"
+        },
+        {
+          "number": "0",
+          "name": "Arjun Ramani"
+        },
+        {
+          "number": "0",
+          "name": "Brian Lee"
+        },
+        {
+          "number": "0",
+          "name": "Adam Cusner"
+        },
+        {
+          "number": "0",
+          "name": "Stephen Bauso Jr."
+        },
+        {
+          "number": "0",
+          "name": "Eric London"
+        },
+        {
+          "number": "0",
+          "name": "David Geddes"
+        },
+        {
+          "number": "0",
+          "name": "Adam Marino"
+        },
+        {
+          "number": "0",
+          "name": "Joseph  Zambito"
+        },
+        {
+          "number": "3",
+          "name": "Richard Milleville"
+        },
+        {
+          "number": "10",
+          "name": "Ben Phillips"
+        },
+        {
+          "number": "13",
+          "name": "John McEntyre"
+        },
+        {
+          "number": "19",
+          "name": "Clayton DeVries"
+        },
+        {
+          "number": "59",
+          "name": "Joseph Rispoli"
+        },
+        {
+          "number": "80",
+          "name": "Anthony Coppola"
+        },
+        {
+          "number": "94",
+          "name": "James  O'Connell"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Jersey Devil Indoor",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Maryland",
+              "team2": "Drexel",
+              "score1": 13,
+              "score2": 5,
+              "datetime": "2016-02-19T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "SUNY-Cortland",
+              "team2": "Skidmore",
+              "score1": 9,
+              "score2": 10,
+              "datetime": "2016-02-19T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Maryland",
+              "team2": "SUNY-Cortland",
+              "score1": 11,
+              "score2": 6,
+              "datetime": "2016-02-19T01:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "West Chester",
+              "team2": "Skidmore",
+              "score1": 10,
+              "score2": 6,
+              "datetime": "2016-02-19T01:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Skidmore",
+              "team2": "Drexel",
+              "score1": 6,
+              "score2": 7,
+              "datetime": "2016-02-19T02:50:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "West Chester",
+              "team2": "SUNY-Cortland",
+              "score1": 12,
+              "score2": 4,
+              "datetime": "2016-02-19T02:50:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Maryland",
+              "team2": "Skidmore",
+              "score1": 13,
+              "score2": 2,
+              "datetime": "2016-02-19T04:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "West Chester",
+              "team2": "Drexel",
+              "score1": 10,
+              "score2": 3,
+              "datetime": "2016-02-19T04:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Maryland",
+              "team2": "West Chester",
+              "score1": 11,
+              "score2": 8,
+              "datetime": "2016-02-19T05:10:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "SUNY-Cortland",
+              "team2": "Drexel",
+              "score1": 6,
+              "score2": 11,
+              "datetime": "2016-02-19T05:10:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

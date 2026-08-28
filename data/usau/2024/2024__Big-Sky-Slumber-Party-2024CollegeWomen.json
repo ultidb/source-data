@@ -1,0 +1,212 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2024/Big-Sky-Slumber-Party-2024CollegeWomen",
+  "sourceUrl": "https://play.usaultimate.org/events/Big-Sky-Slumber-Party-2024/schedule/Women/CollegeWomen/",
+  "scrapedAt": "2026-08-28T10:06:20.674957Z",
+  "event": {
+    "name": "Big Sky Slumber Party 2024",
+    "division": "College - Women ",
+    "gender": "",
+    "season": 2024,
+    "city": "Missoula",
+    "state": "MT",
+    "country": "",
+    "startDate": "2024-03-30",
+    "endDate": "2024-03-30"
+  },
+  "teams": [
+    {
+      "name": "Montana",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "MT PillowFight",
+        "location": "Missoula, Montana",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/MTPillowFight"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Ellie McCarty"
+        },
+        {
+          "number": "0",
+          "name": "Eva Santos"
+        },
+        {
+          "number": "0",
+          "name": "Hattie Ransom"
+        },
+        {
+          "number": "0",
+          "name": "Molly Woods"
+        },
+        {
+          "number": "03",
+          "name": "Chloe Bougher"
+        },
+        {
+          "number": "07",
+          "name": "Gracie Hietala"
+        },
+        {
+          "number": "10",
+          "name": "Maggie Hauder"
+        },
+        {
+          "number": "18",
+          "name": "Emmi Kruhak"
+        },
+        {
+          "number": "19",
+          "name": "Nina Vermolen"
+        },
+        {
+          "number": "25",
+          "name": "Jacqueline Messa"
+        },
+        {
+          "number": "30",
+          "name": "Anna Cline"
+        },
+        {
+          "number": "33",
+          "name": "Bridget Benson"
+        },
+        {
+          "number": "39",
+          "name": "Lucia Meinig-Reeves"
+        },
+        {
+          "number": "42",
+          "name": "Dylan Kidd"
+        }
+      ]
+    },
+    {
+      "name": "Montana State",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Cold Smoke",
+        "location": "Bozeman, Montana",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Allyson Bomber"
+        },
+        {
+          "number": "0",
+          "name": "Andreina Rodoni"
+        },
+        {
+          "number": "0",
+          "name": "Celia Morris"
+        },
+        {
+          "number": "0",
+          "name": "Erin Hannon"
+        },
+        {
+          "number": "0",
+          "name": "Greta Wais"
+        },
+        {
+          "number": "0",
+          "name": "Jade Westrum"
+        },
+        {
+          "number": "0",
+          "name": "Leah Hackett"
+        },
+        {
+          "number": "0",
+          "name": "Madison Rauch"
+        },
+        {
+          "number": "0",
+          "name": "Olivia Moench"
+        },
+        {
+          "number": "0",
+          "name": "Ruby Pruitt"
+        },
+        {
+          "number": "0",
+          "name": "Willa  Hartl"
+        },
+        {
+          "number": "5",
+          "name": "Anna Chagnon"
+        },
+        {
+          "number": "23",
+          "name": "Chloe Silbernagel"
+        },
+        {
+          "number": "24",
+          "name": "Naomi Burkett"
+        },
+        {
+          "number": "67",
+          "name": "Ryan Connolly"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Big Sky Slumber Pary",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Montana",
+              "team2": "Montana State",
+              "score1": 13,
+              "score2": 3,
+              "datetime": "2024-03-30T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Big Sky Slumber Party",
+      "groups": [
+        {
+          "name": "Finals",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Montana",
+              "team2": "Montana State",
+              "score1": 10,
+              "score2": 8,
+              "datetime": "2024-03-30T12:30:00Z",
+              "round": "Finals",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

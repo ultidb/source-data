@@ -1,0 +1,866 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2017/Western-North-Central-D-I-College-Womens-CC-2017CollegeWomen",
+  "sourceUrl": "https://play.usaultimate.org/events/Western-North-Central-D-I-College-Womens-CC-2017/schedule/Women/CollegeWomen/",
+  "scrapedAt": "2026-08-28T10:06:15.182476Z",
+  "event": {
+    "name": "Western North Central D-I College Women's CC 2017",
+    "division": "College - Women ",
+    "gender": "",
+    "season": 2017,
+    "city": "Ames",
+    "state": "IA",
+    "country": "",
+    "startDate": "2017-04-15",
+    "endDate": "2017-04-16"
+  },
+  "teams": [
+    {
+      "name": "Carleton College",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Syzygy",
+        "location": "Northfield, Minnesota",
+        "website": "http://carletonsyzygy.weebly.com",
+        "facebook": "https://www.facebook.com/Syzygy-Carleton-Womens-Ultimate-15998745997/",
+        "twitter": "https://twitter.com/SyzygyUltimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Chessy Cantrell"
+        },
+        {
+          "number": "02",
+          "name": "Isabel Olson"
+        },
+        {
+          "number": "03",
+          "name": "Emma Gautier"
+        },
+        {
+          "number": "04",
+          "name": "Connor Kasch"
+        },
+        {
+          "number": "05",
+          "name": "Claire Thallon"
+        },
+        {
+          "number": "07",
+          "name": "Emily Kampa"
+        },
+        {
+          "number": "09",
+          "name": "Ellen Jacobus"
+        },
+        {
+          "number": "10",
+          "name": "Anika Thomas-Toth"
+        },
+        {
+          "number": "11",
+          "name": "Emma Nicosia"
+        },
+        {
+          "number": "12",
+          "name": "Zoe Denckla"
+        },
+        {
+          "number": "13",
+          "name": "Laura Soter"
+        },
+        {
+          "number": "14",
+          "name": "Claire Rostov"
+        },
+        {
+          "number": "17",
+          "name": "Madeleine Preiss"
+        },
+        {
+          "number": "18",
+          "name": "Mackenzie Korpi"
+        },
+        {
+          "number": "21",
+          "name": "Eliza Skoler"
+        },
+        {
+          "number": "23",
+          "name": "Caroline Sheffield"
+        },
+        {
+          "number": "24",
+          "name": "Naomi Price-Lazarus"
+        },
+        {
+          "number": "25",
+          "name": "Elaine Sundberg"
+        },
+        {
+          "number": "26",
+          "name": "Hannah Barnstone"
+        },
+        {
+          "number": "28",
+          "name": "Maya Powell"
+        },
+        {
+          "number": "32",
+          "name": "Emma Goidel"
+        },
+        {
+          "number": "37",
+          "name": "Sylvie Polonsky"
+        },
+        {
+          "number": "42",
+          "name": "Anna Stubbs"
+        },
+        {
+          "number": "45",
+          "name": "Katie Ciaglo"
+        }
+      ]
+    },
+    {
+      "name": "Iowa State",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Woman Scorned",
+        "location": "Ames, Iowa",
+        "website": "http://iswomanscorned.blogspot.com/",
+        "facebook": "https://www.facebook.com/pages/Woman-Scorned-Ultimate/245315626189",
+        "twitter": "https://twitter.com/ISUWomanScorned"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "2",
+          "name": "Jean Colangelo"
+        },
+        {
+          "number": "4",
+          "name": "Brittnee Grimshaw"
+        },
+        {
+          "number": "5",
+          "name": "Megan Halverson"
+        },
+        {
+          "number": "7",
+          "name": "Jessica Mazzio"
+        },
+        {
+          "number": "8",
+          "name": "Emily Fung"
+        },
+        {
+          "number": "9",
+          "name": "Samantha Kokjohn"
+        },
+        {
+          "number": "12",
+          "name": "Linda Morton"
+        },
+        {
+          "number": "14",
+          "name": "Taylor Reth"
+        },
+        {
+          "number": "18",
+          "name": "Sarah Leichty"
+        },
+        {
+          "number": "19",
+          "name": "Maddison True"
+        },
+        {
+          "number": "20",
+          "name": "Caitlin Durston"
+        },
+        {
+          "number": "21",
+          "name": "Abby Nissen"
+        },
+        {
+          "number": "22",
+          "name": "Nicole Wolf"
+        },
+        {
+          "number": "23",
+          "name": "Lauren Meyer"
+        },
+        {
+          "number": "24",
+          "name": "Megan Jameson"
+        },
+        {
+          "number": "33",
+          "name": "Sarah Tallman"
+        },
+        {
+          "number": "41",
+          "name": "Natalie Bidner"
+        },
+        {
+          "number": "52",
+          "name": "Rachel Bates"
+        },
+        {
+          "number": "73",
+          "name": "Kaitlyn Christiansen"
+        }
+      ]
+    },
+    {
+      "name": "Minnesota",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Ninjas",
+        "location": "Minneapolis, Minnesota",
+        "website": "http://ninjawomensultimate.weebly.com",
+        "facebook": "https://www.facebook.com/NinjaWomensUltimate",
+        "twitter": "https://twitter.com/NinjaUltimate"
+      },
+      "coaches": [
+        "Patrick Niles",
+        "Sarah Meckstroth",
+        "Katie Godfrey"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Sarah Espinoza"
+        },
+        {
+          "number": "03",
+          "name": "Makella Daley"
+        },
+        {
+          "number": "04",
+          "name": "Emma Leith"
+        },
+        {
+          "number": "05",
+          "name": "Ellie Sjordal "
+        },
+        {
+          "number": "07",
+          "name": "Danica Cutshall"
+        },
+        {
+          "number": "08",
+          "name": "Katelin Goebel"
+        },
+        {
+          "number": "09",
+          "name": "Hannah Wood"
+        },
+        {
+          "number": "11",
+          "name": "Aarilee  Lorenzen"
+        },
+        {
+          "number": "12",
+          "name": "Ali Pollard"
+        },
+        {
+          "number": "13",
+          "name": "Maggie Peck"
+        },
+        {
+          "number": "14",
+          "name": "Emma Jaschke"
+        },
+        {
+          "number": "15",
+          "name": "Dina Carpenter-Graffy"
+        },
+        {
+          "number": "16",
+          "name": "Carolyn Brand"
+        },
+        {
+          "number": "18",
+          "name": "Anna Miller"
+        },
+        {
+          "number": "19",
+          "name": "Sadie Reding"
+        },
+        {
+          "number": "20",
+          "name": "Sofie Fitzsimmons"
+        },
+        {
+          "number": "21",
+          "name": "Julia Barton"
+        },
+        {
+          "number": "22",
+          "name": "Rachel Elbing"
+        },
+        {
+          "number": "23",
+          "name": "Lily Johnson"
+        },
+        {
+          "number": "24",
+          "name": "Lindy Sowmick"
+        },
+        {
+          "number": "24",
+          "name": "Sara Sandlass"
+        },
+        {
+          "number": "26",
+          "name": "Katrina Renacia"
+        },
+        {
+          "number": "30",
+          "name": "Louise Beck"
+        },
+        {
+          "number": "33",
+          "name": "Kayla Blanek"
+        },
+        {
+          "number": "34",
+          "name": "Anna Albitz"
+        },
+        {
+          "number": "39",
+          "name": "Jessica Halverson"
+        },
+        {
+          "number": "42",
+          "name": "Mara Stephan"
+        },
+        {
+          "number": "52",
+          "name": "Jailene Lopez"
+        },
+        {
+          "number": "53",
+          "name": "Hannah Cowan"
+        },
+        {
+          "number": "58",
+          "name": "Carly Zimmerman"
+        }
+      ]
+    },
+    {
+      "name": "Iowa",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Saucy Nancy",
+        "location": "Iowa City, Iowa",
+        "website": "http://saucynancyultimate.weebly.com/",
+        "facebook": "https://www.facebook.com/pages/Saucy-Nancy-Ultimate/134360866670281",
+        "twitter": "https://twitter.com/SaucyNancyIowa"
+      },
+      "coaches": [
+        "Jacob Grund"
+      ],
+      "roster": [
+        {
+          "number": "03",
+          "name": "Hain Moon"
+        },
+        {
+          "number": "04",
+          "name": "Tahlia Simon"
+        },
+        {
+          "number": "08",
+          "name": "Brooke O'Hollearn"
+        },
+        {
+          "number": "10",
+          "name": "Chloe Malkinson"
+        },
+        {
+          "number": "11",
+          "name": "Sarah Kersten"
+        },
+        {
+          "number": "13",
+          "name": "Alexandra Haugen"
+        },
+        {
+          "number": "14",
+          "name": "Esther Chovan"
+        },
+        {
+          "number": "15",
+          "name": "Michele Siamis"
+        },
+        {
+          "number": "19",
+          "name": "Johanna Chambers"
+        },
+        {
+          "number": "20",
+          "name": "Rebecca Crown"
+        },
+        {
+          "number": "23",
+          "name": "Clarisse Chia"
+        },
+        {
+          "number": "24",
+          "name": "Faradis Lindblom"
+        },
+        {
+          "number": "28",
+          "name": "Maureen Hughes"
+        },
+        {
+          "number": "31",
+          "name": "Emily Novick"
+        },
+        {
+          "number": "33",
+          "name": "Kaitlin Brooks"
+        },
+        {
+          "number": "35",
+          "name": "Alexis Abbeduto"
+        },
+        {
+          "number": "36",
+          "name": "Stevie Watts"
+        },
+        {
+          "number": "42",
+          "name": "Raleke Hughes"
+        },
+        {
+          "number": "48",
+          "name": "Anya Kim"
+        },
+        {
+          "number": "55",
+          "name": "Elizabeth Gronert"
+        },
+        {
+          "number": "77",
+          "name": "Allison Lorey"
+        },
+        {
+          "number": "82",
+          "name": "Bridget Joers"
+        },
+        {
+          "number": "84",
+          "name": "Nicole Havel"
+        },
+        {
+          "number": "89",
+          "name": "Leigha Meredith"
+        }
+      ]
+    },
+    {
+      "name": "Nebraska",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Cuddle Raptors",
+        "location": "Lincoln, Nebraska",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Amelia  Baker"
+        },
+        {
+          "number": "0",
+          "name": "Ashley Lloyd"
+        },
+        {
+          "number": "0",
+          "name": "Shauntaa Burkhalter"
+        },
+        {
+          "number": "4",
+          "name": "Kaitlin Buhler"
+        },
+        {
+          "number": "5",
+          "name": "Hannah Gavle"
+        },
+        {
+          "number": "10",
+          "name": "Christa Fisher"
+        },
+        {
+          "number": "15",
+          "name": "Tracy Kuper"
+        },
+        {
+          "number": "17",
+          "name": "Emily Nichols"
+        },
+        {
+          "number": "18",
+          "name": "Michaela Daugherty"
+        },
+        {
+          "number": "21",
+          "name": "Sierra Schurman"
+        },
+        {
+          "number": "24",
+          "name": "Megan  Chang"
+        },
+        {
+          "number": "27",
+          "name": "Megan EisenVos"
+        },
+        {
+          "number": "28",
+          "name": "Lauren Uhlig"
+        },
+        {
+          "number": "33",
+          "name": "Paige Steinbauer"
+        },
+        {
+          "number": "35",
+          "name": "Kaitlyn Waszak"
+        },
+        {
+          "number": "45",
+          "name": "Abbie Leschinsky"
+        },
+        {
+          "number": "52",
+          "name": "Amy Morris"
+        },
+        {
+          "number": "96",
+          "name": "SHADID DE LA ROSA"
+        }
+      ]
+    },
+    {
+      "name": "Minnesota-Duluth",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "LakEffect",
+        "location": "Duluth, Minnesota",
+        "website": "www.umdwomensultimate.wordpress.com",
+        "facebook": "https://www.facebook.com/groups/401771953206863/",
+        "twitter": "https://twitter.com/UMDLakEffect"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Heather McGahan"
+        },
+        {
+          "number": "0",
+          "name": "Isabel Drees"
+        },
+        {
+          "number": "0",
+          "name": "Lauren Hibbard"
+        },
+        {
+          "number": "0",
+          "name": "Rachael Wright"
+        },
+        {
+          "number": "07",
+          "name": "Madeline Crockett"
+        },
+        {
+          "number": "12",
+          "name": "Camille Marsten"
+        },
+        {
+          "number": "22",
+          "name": "Sam Munkeby"
+        },
+        {
+          "number": "27",
+          "name": "Leah Barrett"
+        },
+        {
+          "number": "28",
+          "name": "ALLISON UREVIG"
+        },
+        {
+          "number": "30",
+          "name": "MELISSA PEIRSON"
+        },
+        {
+          "number": "31",
+          "name": "Kelly Chase"
+        },
+        {
+          "number": "70",
+          "name": "Hannah Peterson"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Carleton College",
+              "team2": "Minnesota",
+              "score1": 12,
+              "score2": 4,
+              "datetime": "2017-04-15T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Iowa State",
+              "team2": "Nebraska",
+              "score1": 13,
+              "score2": 2,
+              "datetime": "2017-04-15T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Iowa",
+              "team2": "Minnesota-Duluth",
+              "score1": 13,
+              "score2": 3,
+              "datetime": "2017-04-15T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Carleton College",
+              "team2": "Iowa State",
+              "score1": 9,
+              "score2": 7,
+              "datetime": "2017-04-15T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Minnesota",
+              "team2": "Iowa",
+              "score1": 11,
+              "score2": 4,
+              "datetime": "2017-04-15T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Nebraska",
+              "team2": "Minnesota-Duluth",
+              "score1": 9,
+              "score2": 5,
+              "datetime": "2017-04-15T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Carleton College",
+              "team2": "Iowa",
+              "score1": 10,
+              "score2": 3,
+              "datetime": "2017-04-15T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Iowa State",
+              "team2": "Minnesota-Duluth",
+              "score1": 13,
+              "score2": 0,
+              "datetime": "2017-04-15T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Minnesota",
+              "team2": "Nebraska",
+              "score1": 13,
+              "score2": 4,
+              "datetime": "2017-04-15T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Carleton College",
+              "team2": "Minnesota-Duluth",
+              "score1": 13,
+              "score2": 3,
+              "datetime": "2017-04-15T15:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Iowa State",
+              "team2": "Minnesota",
+              "score1": 11,
+              "score2": 9,
+              "datetime": "2017-04-15T15:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Iowa",
+              "team2": "Nebraska",
+              "score1": 9,
+              "score2": 6,
+              "datetime": "2017-04-15T15:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Carleton College",
+              "team2": "Nebraska",
+              "score1": 13,
+              "score2": 2,
+              "datetime": "2017-04-16T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Iowa State",
+              "team2": "Iowa",
+              "score1": 9,
+              "score2": 8,
+              "datetime": "2017-04-16T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Minnesota",
+              "team2": "Minnesota-Duluth",
+              "score1": 11,
+              "score2": 2,
+              "datetime": "2017-04-16T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Bracket Play",
+      "groups": [
+        {
+          "name": "1st Place Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Carleton College",
+              "team2": "Iowa State",
+              "score1": 11,
+              "score2": 13,
+              "datetime": "2017-04-16T15:00:00Z",
+              "round": "1st Place Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Carleton College",
+              "team2": "Iowa",
+              "score1": 12,
+              "score2": 4,
+              "datetime": "2017-04-16T13:00:00Z",
+              "round": "1st Place Semis",
+              "status": "Final"
+            },
+            {
+              "team1": "Iowa State",
+              "team2": "Minnesota",
+              "score1": 11,
+              "score2": 3,
+              "datetime": "2017-04-16T13:00:00Z",
+              "round": "1st Place Semis",
+              "status": "Final"
+            },
+            {
+              "team1": "Iowa",
+              "team2": "Nebraska",
+              "score1": 9,
+              "score2": 6,
+              "datetime": "2017-04-16T11:00:00Z",
+              "round": "1st Place Quarters",
+              "status": "Final"
+            },
+            {
+              "team1": "Minnesota",
+              "team2": "Minnesota-Duluth",
+              "score1": 11,
+              "score2": 1,
+              "datetime": "2017-04-16T11:00:00Z",
+              "round": "1st Place Quarters",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "3rd Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Iowa",
+              "team2": "Minnesota",
+              "score1": 5,
+              "score2": 12,
+              "datetime": "2017-04-16T15:00:00Z",
+              "round": "3rd Place",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "5th Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Nebraska",
+              "team2": "Minnesota-Duluth",
+              "score1": 12,
+              "score2": 5,
+              "datetime": "2017-04-16T13:00:00Z",
+              "round": "5th Place",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

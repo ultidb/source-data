@@ -1,0 +1,913 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2021/Southeast-D-I-College-Womens-Regionals-2021CollegeWomen",
+  "sourceUrl": "https://play.usaultimate.org/events/Southeast-D-I-College-Womens-Regionals-2021/schedule/Women/CollegeWomen/",
+  "scrapedAt": "2026-08-28T10:06:17.943767Z",
+  "event": {
+    "name": "Southeast D-I College Women's Regionals 2021",
+    "division": "College - Women ",
+    "gender": "",
+    "season": 2021,
+    "city": "Tallahassee",
+    "state": "FL",
+    "country": "",
+    "startDate": "2021-11-20",
+    "endDate": "2021-11-21"
+  },
+  "teams": [
+    {
+      "name": "Georgia",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Athena",
+        "location": "Athens, Georgia",
+        "website": "https://georgiawomensultimate.weebly.com/",
+        "facebook": "https://www.facebook.com/UniversityOfGeorgiaWomensUltimate/",
+        "twitter": "https://twitter.com/UGAUltimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Amanda Sarkady"
+        },
+        {
+          "number": "00",
+          "name": "Ashley Duong"
+        },
+        {
+          "number": "00",
+          "name": "Courtney Campagna"
+        },
+        {
+          "number": "00",
+          "name": "Jane Brock"
+        },
+        {
+          "number": "00",
+          "name": "Julia Terrell"
+        },
+        {
+          "number": "00",
+          "name": "Mia Tomay Bongcaron"
+        },
+        {
+          "number": "00",
+          "name": "Paige Robinson"
+        },
+        {
+          "number": "01",
+          "name": "Katharine Suarez"
+        },
+        {
+          "number": "02",
+          "name": "Martha Wilber"
+        },
+        {
+          "number": "03",
+          "name": "Fiona Cashin"
+        },
+        {
+          "number": "09",
+          "name": "Elle Mayer"
+        },
+        {
+          "number": "13",
+          "name": "Emma Jones"
+        },
+        {
+          "number": "14",
+          "name": "Tianna  Jordan"
+        },
+        {
+          "number": "20",
+          "name": "Ariba Lakhani"
+        },
+        {
+          "number": "23",
+          "name": "Bailey Lawson"
+        },
+        {
+          "number": "25",
+          "name": "Erin Klima"
+        },
+        {
+          "number": "33",
+          "name": "Maggie Miller"
+        },
+        {
+          "number": "72",
+          "name": "Molly Schneider"
+        },
+        {
+          "number": "77",
+          "name": "Anik Regan"
+        },
+        {
+          "number": "99",
+          "name": "Marie Perivier"
+        }
+      ]
+    },
+    {
+      "name": "Florida",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "FUEL",
+        "location": "Gainesville, Florida",
+        "website": "http://gvilleultimate.com/FUEL/#!/",
+        "facebook": "https://www.facebook.com/FUELenfuego",
+        "twitter": "https://twitter.com/FUELenfuego"
+      },
+      "coaches": [
+        "Dustin Travaglini"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alex Richardson"
+        },
+        {
+          "number": "0",
+          "name": "Natalie Laywell"
+        },
+        {
+          "number": "02",
+          "name": "Matya Kaye"
+        },
+        {
+          "number": "03",
+          "name": "Hannah Amaya"
+        },
+        {
+          "number": "04",
+          "name": "Ava DuBose"
+        },
+        {
+          "number": "05",
+          "name": "Ashley Collins"
+        },
+        {
+          "number": "06",
+          "name": "Kathryn Chase"
+        },
+        {
+          "number": "08",
+          "name": "CeCe Collinson"
+        },
+        {
+          "number": "10",
+          "name": "Emily Turner"
+        },
+        {
+          "number": "11",
+          "name": "Kaylen Chiang"
+        },
+        {
+          "number": "12",
+          "name": "Natalie Baumgarten"
+        },
+        {
+          "number": "13",
+          "name": "Tessa Ricker"
+        },
+        {
+          "number": "14",
+          "name": "Sydney Weiner"
+        },
+        {
+          "number": "15",
+          "name": "Adriana Kanarek"
+        },
+        {
+          "number": "17",
+          "name": "Faith Gonzalez"
+        },
+        {
+          "number": "18",
+          "name": "Julia Kirkendall"
+        },
+        {
+          "number": "19",
+          "name": "Jaylynne Hocutt"
+        },
+        {
+          "number": "24",
+          "name": "Mariska Ursel"
+        },
+        {
+          "number": "25",
+          "name": "Roxane Van Horn"
+        },
+        {
+          "number": "28",
+          "name": "Anatolia Legaspi"
+        },
+        {
+          "number": "69",
+          "name": "Jenn Maresca"
+        },
+        {
+          "number": "83",
+          "name": "Nevena Stanojevic"
+        },
+        {
+          "number": "86",
+          "name": "Tori Dew"
+        }
+      ]
+    },
+    {
+      "name": "Alabama",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Ramma Jamma",
+        "location": "Tuscaloosa, Alabama",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/RammaJammaULT"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Abigail Sunday"
+        },
+        {
+          "number": "0",
+          "name": "Adrienne Hyams"
+        },
+        {
+          "number": "0",
+          "name": "Alyssa  Brown"
+        },
+        {
+          "number": "0",
+          "name": "Anna Crumpton"
+        },
+        {
+          "number": "0",
+          "name": "Audrey Lockridge"
+        },
+        {
+          "number": "0",
+          "name": "Autumn Koonce"
+        },
+        {
+          "number": "0",
+          "name": "Caroline Bostick"
+        },
+        {
+          "number": "0",
+          "name": "Caroline Curry"
+        },
+        {
+          "number": "0",
+          "name": "Cora Barnard"
+        },
+        {
+          "number": "0",
+          "name": "Kayli Lucas"
+        },
+        {
+          "number": "0",
+          "name": "Mary  McKinley"
+        },
+        {
+          "number": "0",
+          "name": "Riley Fisher"
+        },
+        {
+          "number": "0",
+          "name": "Sydney Sachs"
+        },
+        {
+          "number": "0",
+          "name": "Zoe Ford"
+        },
+        {
+          "number": "2",
+          "name": "Emma Bostick"
+        },
+        {
+          "number": "5",
+          "name": "Sophia  Almanza "
+        },
+        {
+          "number": "6",
+          "name": "Hallie Hudson"
+        },
+        {
+          "number": "11",
+          "name": "Ashley Spiller"
+        },
+        {
+          "number": "16",
+          "name": "Madison Nickel"
+        },
+        {
+          "number": "18",
+          "name": "Rachael Kern"
+        },
+        {
+          "number": "19",
+          "name": "Julia Becker"
+        },
+        {
+          "number": "21",
+          "name": "Alison Brooks"
+        },
+        {
+          "number": "27",
+          "name": "Caroline Lawrence"
+        },
+        {
+          "number": "34",
+          "name": "Corrie LaBelle"
+        },
+        {
+          "number": "56",
+          "name": "Lydia Olson"
+        }
+      ]
+    },
+    {
+      "name": "Georgia Tech",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Wreck",
+        "location": "Atlanta, Georgia",
+        "website": "https://wreckultimate.wordpress.com/",
+        "facebook": "https://www.facebook.com/gtwrecku/",
+        "twitter": "@GTWreckU"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Dana Rose"
+        },
+        {
+          "number": "0",
+          "name": "MacKenzie York"
+        },
+        {
+          "number": "02",
+          "name": "Erin Piacitelli"
+        },
+        {
+          "number": "04",
+          "name": "Efiotu Jagun"
+        },
+        {
+          "number": "07",
+          "name": "Lisa Thiergart"
+        },
+        {
+          "number": "07",
+          "name": "Katherine Mittleider"
+        },
+        {
+          "number": "12",
+          "name": "Tara Poteat"
+        },
+        {
+          "number": "17",
+          "name": "Savannah Lo"
+        },
+        {
+          "number": "20",
+          "name": "Nasim Motaghedi"
+        },
+        {
+          "number": "21",
+          "name": "Janani Guru"
+        },
+        {
+          "number": "23",
+          "name": "Johanna Hall"
+        },
+        {
+          "number": "24",
+          "name": "Sarah Chen"
+        },
+        {
+          "number": "27",
+          "name": "Katie Dai"
+        },
+        {
+          "number": "30",
+          "name": "Harley Ovell"
+        },
+        {
+          "number": "32",
+          "name": "Grace Erlinger"
+        },
+        {
+          "number": "48",
+          "name": "Anna Cobb"
+        },
+        {
+          "number": "49",
+          "name": "Gennie Mansi"
+        },
+        {
+          "number": "50",
+          "name": "Zion Oh"
+        },
+        {
+          "number": "59",
+          "name": "Min Hsuan (May) Lin"
+        },
+        {
+          "number": "65",
+          "name": "Gleymi Hernandez"
+        },
+        {
+          "number": "70",
+          "name": "Caitlin Aycock"
+        },
+        {
+          "number": "71",
+          "name": "Claire Haskell"
+        },
+        {
+          "number": "80",
+          "name": "Kate Hubbard"
+        },
+        {
+          "number": "81",
+          "name": "Samantha Loop"
+        },
+        {
+          "number": "84",
+          "name": "Amanda McAuley"
+        },
+        {
+          "number": "98",
+          "name": "Lycia Tran"
+        }
+      ]
+    },
+    {
+      "name": "Florida State",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Seminole Ladies",
+        "location": "Tallahassee, Florida",
+        "website": "http://seminoleladies.wixsite.com/fsultimate",
+        "facebook": "https://www.facebook.com/SeminoleLadies",
+        "twitter": "https://twitter.com/seminoleladies"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Abigail Lowrimore"
+        },
+        {
+          "number": "0",
+          "name": "Ander Barreto"
+        },
+        {
+          "number": "0",
+          "name": "Annika Daniels"
+        },
+        {
+          "number": "0",
+          "name": "Ashlyn O'Connor"
+        },
+        {
+          "number": "0",
+          "name": "Cameron Lamont"
+        },
+        {
+          "number": "0",
+          "name": "Camryn Curvey"
+        },
+        {
+          "number": "0",
+          "name": "Chloe Gordon"
+        },
+        {
+          "number": "0",
+          "name": "Emma Kyes"
+        },
+        {
+          "number": "0",
+          "name": "Isabel Bradley"
+        },
+        {
+          "number": "0",
+          "name": "Jenna Prunty"
+        },
+        {
+          "number": "0",
+          "name": "Lauren Kuhlman"
+        },
+        {
+          "number": "0",
+          "name": "Lily Gullett"
+        },
+        {
+          "number": "0",
+          "name": "Mary Broling"
+        },
+        {
+          "number": "0",
+          "name": "Megan Randell"
+        },
+        {
+          "number": "0",
+          "name": "Michaela Warren"
+        },
+        {
+          "number": "0",
+          "name": "Natalie Wilson"
+        },
+        {
+          "number": "0",
+          "name": "Veronica Santamaria"
+        },
+        {
+          "number": "0",
+          "name": "Victoria Crowder"
+        },
+        {
+          "number": "15",
+          "name": "Lindsi Allman"
+        },
+        {
+          "number": "26",
+          "name": "Hannah Grimes"
+        }
+      ]
+    },
+    {
+      "name": "Auburn",
+      "seed": 7,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Ares",
+        "location": "Auburn, Alabama",
+        "website": "https://auburn.campuslabs.com/engage/organization/womensultimatefrisbee",
+        "facebook": "",
+        "twitter": "AuburnAres"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Anna Graham"
+        },
+        {
+          "number": "0",
+          "name": "Corinne Mari Arcenal"
+        },
+        {
+          "number": "0",
+          "name": "Lindsey King"
+        },
+        {
+          "number": "0",
+          "name": "Maggie Goodson"
+        },
+        {
+          "number": "0",
+          "name": "Mauren Baker"
+        },
+        {
+          "number": "1",
+          "name": "Stephanie Peters"
+        },
+        {
+          "number": "5",
+          "name": "Caroline  Burbank"
+        },
+        {
+          "number": "8",
+          "name": "Katherine  McCormick"
+        },
+        {
+          "number": "08",
+          "name": "Era Moellering"
+        },
+        {
+          "number": "11",
+          "name": "Lauren McFaden"
+        }
+      ]
+    },
+    {
+      "name": "Tennessee",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Big Orange Screw",
+        "location": "Knoxville, Tennessee",
+        "website": "https://utk.campuslabs.com/engage/organization/womensultimate",
+        "facebook": "https://www.facebook.com/BosTennesseeUltimate",
+        "twitter": "https://twitter.com/bosultimate?lang=en"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Aeryn Longuevan"
+        },
+        {
+          "number": "0",
+          "name": "Allison Farley"
+        },
+        {
+          "number": "0",
+          "name": "Alyssa Kimbrell"
+        },
+        {
+          "number": "0",
+          "name": "Ella MacNicoll"
+        },
+        {
+          "number": "0",
+          "name": "Emma Lakatosh"
+        },
+        {
+          "number": "0",
+          "name": "Kate Blankenship"
+        },
+        {
+          "number": "0",
+          "name": "Kiersten Hamilton"
+        },
+        {
+          "number": "0",
+          "name": "Micah Roberts"
+        },
+        {
+          "number": "0",
+          "name": "Morgan Freshour"
+        },
+        {
+          "number": "0",
+          "name": "Navit Nachmias"
+        },
+        {
+          "number": "0",
+          "name": "Sara Long"
+        },
+        {
+          "number": "22",
+          "name": "Macy Hudson"
+        },
+        {
+          "number": "38",
+          "name": "Emma Marrs"
+        },
+        {
+          "number": "42",
+          "name": "Emma Patterson"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool A",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Georgia",
+              "team2": "Alabama",
+              "score1": 13,
+              "score2": 5,
+              "datetime": "2021-11-20T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Florida",
+              "team2": "Alabama",
+              "score1": 13,
+              "score2": 2,
+              "datetime": "2021-11-20T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Georgia",
+              "team2": "Florida",
+              "score1": 13,
+              "score2": 5,
+              "datetime": "2021-11-20T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Pool B Bracket",
+      "groups": [
+        {
+          "name": "Pool B (1st Place)",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Georgia Tech",
+              "team2": "Florida State",
+              "score1": 8,
+              "score2": 9,
+              "datetime": "2021-11-20T13:00:00Z",
+              "round": "1st Place",
+              "status": "Final"
+            },
+            {
+              "team1": "Georgia Tech",
+              "team2": "Auburn",
+              "score1": 11,
+              "score2": 6,
+              "datetime": "2021-11-20T11:00:00Z",
+              "round": "Round 1",
+              "status": "Final"
+            },
+            {
+              "team1": "Florida State",
+              "team2": "Tennessee",
+              "score1": 13,
+              "score2": 10,
+              "datetime": "2021-11-20T11:00:00Z",
+              "round": "Round 1",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool B (3rd Place)",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Auburn",
+              "team2": "Tennessee",
+              "score1": 12,
+              "score2": 13,
+              "datetime": "2021-11-20T13:00:00Z",
+              "round": "Pool B (3rd Place)",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "clusters",
+      "name": "Crossover",
+      "groups": [
+        {
+          "name": "Pool A/B Crossover",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Florida",
+              "team2": "Tennessee",
+              "score1": 13,
+              "score2": 2,
+              "datetime": "2021-11-20T15:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Alabama",
+              "team2": "Georgia Tech",
+              "score1": 4,
+              "score2": 13,
+              "datetime": "2021-11-20T15:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Bracket Play",
+      "groups": [
+        {
+          "name": "Championship",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Georgia",
+              "team2": "Florida",
+              "score1": 13,
+              "score2": 2,
+              "datetime": "2021-11-21T11:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Georgia",
+              "team2": "Georgia Tech",
+              "score1": 13,
+              "score2": 4,
+              "datetime": "2021-11-21T09:00:00Z",
+              "round": "Semis",
+              "status": "Final"
+            },
+            {
+              "team1": "Florida State",
+              "team2": "Florida",
+              "score1": 9,
+              "score2": 10,
+              "datetime": "2021-11-21T09:00:00Z",
+              "round": "Semis",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Game to Go",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Florida",
+              "team2": "Florida State",
+              "score1": 12,
+              "score2": 13,
+              "datetime": "2021-11-21T13:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Georgia Tech",
+              "team2": "Florida State",
+              "score1": 9,
+              "score2": 12,
+              "datetime": "2021-11-21T11:00:00Z",
+              "round": "Round Name",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "pools",
+      "name": "Sunday Round Robin",
+      "groups": [
+        {
+          "name": "Pool B",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Alabama",
+              "team2": "Tennessee",
+              "score1": 9,
+              "score2": 13,
+              "datetime": "2021-11-21T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Tennessee",
+              "team2": "Auburn",
+              "score1": 9,
+              "score2": 13,
+              "datetime": "2021-11-21T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Alabama",
+              "team2": "Auburn",
+              "score1": 3,
+              "score2": 13,
+              "datetime": "2021-11-21T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

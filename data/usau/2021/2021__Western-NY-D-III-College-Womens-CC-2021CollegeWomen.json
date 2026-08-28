@@ -1,0 +1,213 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2021/Western-NY-D-III-College-Womens-CC-2021CollegeWomen",
+  "sourceUrl": "https://play.usaultimate.org/events/Western-NY-D-III-College-Womens-CC-2021/schedule/Women/CollegeWomen/",
+  "scrapedAt": "2026-08-28T10:06:18.026504Z",
+  "event": {
+    "name": "Western NY D-III College Women's CC 2021",
+    "division": "College - Women ",
+    "gender": "",
+    "season": 2021,
+    "city": "Youngstown",
+    "state": "NY",
+    "country": "",
+    "startDate": "2021-10-16",
+    "endDate": "2021-10-17"
+  },
+  "teams": [
+    {
+      "name": "Rochester",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "EZ Women",
+        "location": "Rochester, New York",
+        "website": "https://rochesterezs.wixsite.com/home",
+        "facebook": "https://www.facebook.com/RochesterEZs",
+        "twitter": "https://twitter.com/RochesterEZs"
+      },
+      "coaches": [
+        "Chelsea Rybak"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Yinghan Yu"
+        },
+        {
+          "number": "4",
+          "name": "Kaitlynn  McCay"
+        },
+        {
+          "number": "7",
+          "name": "Puck Moser"
+        },
+        {
+          "number": "9",
+          "name": "Claire Breitinger"
+        },
+        {
+          "number": "02",
+          "name": "Mimi Jung"
+        },
+        {
+          "number": "05",
+          "name": "Brighid Bugos"
+        },
+        {
+          "number": "08",
+          "name": "Qingyuan Jia"
+        },
+        {
+          "number": "10",
+          "name": "Kristina Medina"
+        },
+        {
+          "number": "11",
+          "name": "Allison Kuck"
+        },
+        {
+          "number": "13",
+          "name": "Kaitlin Chung"
+        },
+        {
+          "number": "15",
+          "name": "Wendy Zimmerman"
+        },
+        {
+          "number": "16",
+          "name": "Katie Phillips"
+        },
+        {
+          "number": "17",
+          "name": "Madeline White"
+        },
+        {
+          "number": "20",
+          "name": "Madison Lang"
+        },
+        {
+          "number": "24",
+          "name": "Maggie MacAdam"
+        },
+        {
+          "number": "27",
+          "name": "Emily Xu"
+        },
+        {
+          "number": "30",
+          "name": "Carina Giordano"
+        },
+        {
+          "number": "33",
+          "name": "Sophie Stahl"
+        },
+        {
+          "number": "35",
+          "name": "Olivia Silsby"
+        },
+        {
+          "number": "66",
+          "name": "Jiayun Yu"
+        },
+        {
+          "number": "68",
+          "name": "Brynn Schauman"
+        },
+        {
+          "number": "82",
+          "name": "Ivy Chang"
+        },
+        {
+          "number": "96",
+          "name": "April Loy"
+        },
+        {
+          "number": "98",
+          "name": "Eileen Bequette"
+        }
+      ]
+    },
+    {
+      "name": "SUNY-Fredonia",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Shell Raisers",
+        "location": "Fredonia, New York",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/turtles_t"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alexa Stein"
+        },
+        {
+          "number": "0",
+          "name": "Katie Bilicki"
+        },
+        {
+          "number": "0",
+          "name": "Maegan Klugh"
+        },
+        {
+          "number": "0",
+          "name": "Meagan Picard"
+        },
+        {
+          "number": "0",
+          "name": "Rachael Mayou"
+        },
+        {
+          "number": "0",
+          "name": "Rachel  Blake"
+        },
+        {
+          "number": "0",
+          "name": "Samara Lindberg"
+        },
+        {
+          "number": "0",
+          "name": "Sarah Petti"
+        },
+        {
+          "number": "28",
+          "name": "Macenzie Bigness"
+        },
+        {
+          "number": "40",
+          "name": "Dakotah Mikulski"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "SUNY-Fredonia",
+              "team2": "Rochester",
+              "score1": 6,
+              "score2": 7,
+              "datetime": "2021-10-16T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

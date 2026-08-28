@@ -1,0 +1,221 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2020/Castle-Classic-2020CollegeWomen",
+  "sourceUrl": "https://play.usaultimate.org/events/Castle-Classic-2020/schedule/Women/CollegeWomen/",
+  "scrapedAt": "2026-08-28T10:06:17.541209Z",
+  "event": {
+    "name": "Castle Classic 2020",
+    "division": "College - Women ",
+    "gender": "",
+    "season": 2020,
+    "city": "Winston-Salem",
+    "state": "NC",
+    "country": "",
+    "startDate": "2020-02-01",
+    "endDate": "2020-02-02"
+  },
+  "teams": [
+    {
+      "name": "Wake Forest",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Ruckus",
+        "location": "Winston-Salem, North Carolina",
+        "website": "http://wfuwomensultimate.weebly.com/",
+        "facebook": "https://www.facebook.com/groups/440939869267260/",
+        "twitter": "https://twitter.com/WfRuckus"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "04",
+          "name": "Anna Price"
+        },
+        {
+          "number": "07",
+          "name": "Lauren Latham"
+        },
+        {
+          "number": "08",
+          "name": "Elizabeth MacDonald"
+        },
+        {
+          "number": "11",
+          "name": "Paige Bryan"
+        },
+        {
+          "number": "12",
+          "name": "Jessy Ren"
+        },
+        {
+          "number": "13",
+          "name": "Alice Hauser"
+        },
+        {
+          "number": "14",
+          "name": "Lauren DeMarco"
+        },
+        {
+          "number": "17",
+          "name": "Rebecca Knapp"
+        },
+        {
+          "number": "18",
+          "name": "Alondra Janicek"
+        }
+      ]
+    },
+    {
+      "name": "University of North Carolina - Asheville",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Hellbenders",
+        "location": "Asheville, North Carolina",
+        "website": "",
+        "facebook": "https://www.facebook.com/uncaultimate",
+        "twitter": "https://twitter.com/UNCAhellbenders"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Amy Rush"
+        },
+        {
+          "number": "0",
+          "name": "Emma Appleby"
+        },
+        {
+          "number": "0",
+          "name": "Hadassah Smolianski"
+        },
+        {
+          "number": "0",
+          "name": "Hailey Wunder"
+        },
+        {
+          "number": "0",
+          "name": "Sabra Freeman"
+        },
+        {
+          "number": "0",
+          "name": "Veronica Judson"
+        },
+        {
+          "number": "28",
+          "name": "Katrina Schubert"
+        }
+      ]
+    },
+    {
+      "name": "Miami",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Southern Tropical Depressions",
+        "location": "Coral Gables, Florida",
+        "website": "",
+        "facebook": "https://tinyurl.com/umwultimate",
+        "twitter": "https://twitter.com/UMWultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Emma Lagno"
+        },
+        {
+          "number": "0",
+          "name": "Begona Alberdi"
+        },
+        {
+          "number": "7",
+          "name": "Yunting Zhao"
+        },
+        {
+          "number": "9",
+          "name": "Leanna Pfeffer"
+        },
+        {
+          "number": "04",
+          "name": "Laura Rosok"
+        },
+        {
+          "number": "06",
+          "name": "Hannah Eiger"
+        },
+        {
+          "number": "08",
+          "name": "Katherine Malahias"
+        },
+        {
+          "number": "13",
+          "name": "Hannah Lerner"
+        },
+        {
+          "number": "15",
+          "name": "Emily Conti"
+        },
+        {
+          "number": "19",
+          "name": "Daniela Rodriguez"
+        },
+        {
+          "number": "78",
+          "name": "Sabrina Ullman"
+        },
+        {
+          "number": "99",
+          "name": "Hiba Farhan"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "University of North Carolina - Asheville",
+              "team2": "Wake Forest",
+              "score1": 6,
+              "score2": 9,
+              "datetime": "2020-02-02T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Miami",
+              "team2": "Wake Forest",
+              "score1": 7,
+              "score2": 10,
+              "datetime": "2020-02-02T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Miami",
+              "team2": "University of North Carolina - Asheville",
+              "score1": 6,
+              "score2": 9,
+              "datetime": "2020-02-02T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

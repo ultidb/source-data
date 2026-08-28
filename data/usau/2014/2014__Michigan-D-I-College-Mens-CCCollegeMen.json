@@ -1,0 +1,656 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2014/Michigan-D-I-College-Mens-CCCollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/Michigan-D-I-College-Mens-CC/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:11.680314Z",
+  "event": {
+    "name": "Michigan D-I College Men's CC 2014",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2014,
+    "city": "Kalamazoo",
+    "state": "MI",
+    "country": "",
+    "startDate": "2014-04-12",
+    "endDate": "2014-04-13"
+  },
+  "teams": [
+    {
+      "name": "Michigan",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "MagnUM",
+        "location": "Ann Arbor, Michigan",
+        "website": "http://www.magnumultimate.com/",
+        "facebook": "",
+        "twitter": "https://twitter.com/magnUMultimate"
+      },
+      "coaches": [
+        "Richard (Ricky) Eikstadt"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Wesley Chen"
+        },
+        {
+          "number": "0",
+          "name": "JORDAN MACOCHA"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Schechtman"
+        },
+        {
+          "number": "0",
+          "name": "Robert (Bobby) Moyer"
+        },
+        {
+          "number": "0",
+          "name": "ALEXANDER HEATLIE"
+        },
+        {
+          "number": "0",
+          "name": "Alexander Russomanno"
+        },
+        {
+          "number": "0",
+          "name": "Benjamin Page"
+        },
+        {
+          "number": "0",
+          "name": "Matthew Orr"
+        },
+        {
+          "number": "0",
+          "name": "Andy Yu"
+        },
+        {
+          "number": "0",
+          "name": "Zachary Goulson"
+        },
+        {
+          "number": "0",
+          "name": "YONATAN (YONI) RAFAEL"
+        },
+        {
+          "number": "0",
+          "name": "Andrew Purugganan"
+        },
+        {
+          "number": "0",
+          "name": "ERIC WIENSCH"
+        },
+        {
+          "number": "0",
+          "name": "Max Teener"
+        },
+        {
+          "number": "0",
+          "name": "ELI LEONARD"
+        },
+        {
+          "number": "0",
+          "name": "ANDREW DYER JR"
+        },
+        {
+          "number": "0",
+          "name": "MICHAEL ROBERTS"
+        },
+        {
+          "number": "0",
+          "name": "Travis Compo"
+        },
+        {
+          "number": "0",
+          "name": "Dan Calabrese"
+        },
+        {
+          "number": "4",
+          "name": "Jonathan Paruk"
+        },
+        {
+          "number": "5",
+          "name": "Elijah Graves"
+        },
+        {
+          "number": "5",
+          "name": "Noah Backer"
+        },
+        {
+          "number": "6",
+          "name": "Jesse Haji-Sheikh"
+        },
+        {
+          "number": "12",
+          "name": "Krishna Mahajan"
+        },
+        {
+          "number": "15",
+          "name": "Sam Greenwood"
+        },
+        {
+          "number": "17",
+          "name": "Jake Moyer"
+        },
+        {
+          "number": "18",
+          "name": "Daniel DeTone"
+        },
+        {
+          "number": "34",
+          "name": "Jesse Buchsbaum"
+        },
+        {
+          "number": "41",
+          "name": "Daniel Lee"
+        },
+        {
+          "number": "48",
+          "name": "CHARLES HYDE"
+        }
+      ]
+    },
+    {
+      "name": "Eastern Michigan",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Fighting Hellfish",
+        "location": "Ypsilanti, Michigan",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/emuhellfish"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "5",
+          "name": "Austin Engel"
+        },
+        {
+          "number": "6",
+          "name": "James Highsmith"
+        },
+        {
+          "number": "7",
+          "name": "Jonathan Lee"
+        },
+        {
+          "number": "8",
+          "name": "Trey Taliaferro"
+        },
+        {
+          "number": "11",
+          "name": "Andrew Adler"
+        },
+        {
+          "number": "15",
+          "name": "Alexander Belanger"
+        },
+        {
+          "number": "16",
+          "name": "JACOB NOEL"
+        },
+        {
+          "number": "17",
+          "name": "BRENNAN FLYNN"
+        },
+        {
+          "number": "19",
+          "name": "SCOTT DICKSON"
+        },
+        {
+          "number": "21",
+          "name": "ALEX THEISS"
+        },
+        {
+          "number": "22",
+          "name": "Joshua Osinski"
+        },
+        {
+          "number": "25",
+          "name": "GARY GRANT"
+        },
+        {
+          "number": "27",
+          "name": "GRANT FURNIER"
+        },
+        {
+          "number": "36",
+          "name": "Daniel Boynton"
+        },
+        {
+          "number": "55",
+          "name": "Johnny Bansfield"
+        }
+      ]
+    },
+    {
+      "name": "Michigan State",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "ARC",
+        "location": "East Lansing, Michigan",
+        "website": "http://msultimate.com/",
+        "facebook": "https://www.facebook.com/michiganstateultimate?ref=hl",
+        "twitter": "https://twitter.com/msu_ARC"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "1",
+          "name": "Andrew Tang"
+        },
+        {
+          "number": "2",
+          "name": "Nate Boddy"
+        },
+        {
+          "number": "3",
+          "name": "Croix Jastrow"
+        },
+        {
+          "number": "5",
+          "name": "Braeden Emrick"
+        },
+        {
+          "number": "6",
+          "name": "Ian Stirton"
+        },
+        {
+          "number": "7",
+          "name": "BRAD PERRI"
+        },
+        {
+          "number": "9",
+          "name": "ERIC GAVIGLIO"
+        },
+        {
+          "number": "12",
+          "name": "Kyle Nussdorfer"
+        },
+        {
+          "number": "13",
+          "name": "Tom O'Brien"
+        },
+        {
+          "number": "14",
+          "name": "Jay Andreani"
+        },
+        {
+          "number": "19",
+          "name": "Bjarne Laursen"
+        },
+        {
+          "number": "22",
+          "name": "William Lorick"
+        },
+        {
+          "number": "26",
+          "name": "Nathan Cottrell"
+        },
+        {
+          "number": "31",
+          "name": "James Guest"
+        },
+        {
+          "number": "32",
+          "name": "Daniel Egner"
+        },
+        {
+          "number": "37",
+          "name": "EITAN SPIVAK"
+        },
+        {
+          "number": "39",
+          "name": "BRIAN WYSS"
+        },
+        {
+          "number": "42",
+          "name": "Mohamadou Diatta"
+        },
+        {
+          "number": "54",
+          "name": "Sam Reenders"
+        },
+        {
+          "number": "90",
+          "name": "Michael Giles"
+        },
+        {
+          "number": "91",
+          "name": "GABRIEL VANHORSSEN"
+        }
+      ]
+    },
+    {
+      "name": "Western Michigan",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Dark Horse",
+        "location": "Kalamazoo, Michigan",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/DarkHorseUlt"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Evan Weese"
+        },
+        {
+          "number": "3",
+          "name": "RICHARD YOUNG"
+        },
+        {
+          "number": "6",
+          "name": "ROBERT PAUL"
+        },
+        {
+          "number": "07",
+          "name": "MATT BRACEY"
+        },
+        {
+          "number": "11",
+          "name": "ADAM HASTINGS"
+        },
+        {
+          "number": "11",
+          "name": "KOLTEN CHAUVEZ"
+        },
+        {
+          "number": "12",
+          "name": "EVANN POTTS"
+        },
+        {
+          "number": "15",
+          "name": "Alex Bertoia"
+        },
+        {
+          "number": "17",
+          "name": "CALE SIMANSKEY"
+        },
+        {
+          "number": "19",
+          "name": "NICHOLAS MUNYAN"
+        },
+        {
+          "number": "22",
+          "name": "JACOB AFTON"
+        },
+        {
+          "number": "30",
+          "name": "Ryan Shore"
+        },
+        {
+          "number": "36",
+          "name": "Peter Galea"
+        },
+        {
+          "number": "44",
+          "name": "Patrick Devine"
+        },
+        {
+          "number": "67",
+          "name": "Ross Osborn"
+        },
+        {
+          "number": "69",
+          "name": "Noah Gillespie"
+        },
+        {
+          "number": "77",
+          "name": "Cole Osborn"
+        },
+        {
+          "number": "99",
+          "name": "Michael Sharp"
+        }
+      ]
+    },
+    {
+      "name": "Grand Valley",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "First Class Layouts",
+        "location": "Allendale, Michigan",
+        "website": "",
+        "facebook": "https://www.facebook.com/groups/182842255119145/",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "3",
+          "name": "RICHARD NILES"
+        },
+        {
+          "number": "4",
+          "name": "Samuel Helderop"
+        },
+        {
+          "number": "5",
+          "name": "Evan Berkas"
+        },
+        {
+          "number": "7",
+          "name": "Logan Bollaert"
+        },
+        {
+          "number": "10",
+          "name": "Connor Lukas"
+        },
+        {
+          "number": "13",
+          "name": "John Akers"
+        },
+        {
+          "number": "18",
+          "name": "Aaron Riess"
+        },
+        {
+          "number": "22",
+          "name": "ANDREW WADAGA"
+        },
+        {
+          "number": "25",
+          "name": "MATT HAAN"
+        },
+        {
+          "number": "29",
+          "name": "Steve Pravato"
+        },
+        {
+          "number": "35",
+          "name": "Dan Remski"
+        },
+        {
+          "number": "77",
+          "name": "STEVEN NORTHUP-SMITH"
+        },
+        {
+          "number": "95",
+          "name": "Andrew Michienzi"
+        },
+        {
+          "number": "98",
+          "name": "Zach Jawahir"
+        },
+        {
+          "number": "99",
+          "name": "John Kaiser III"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Western Michigan",
+              "team2": "Grand Valley",
+              "score1": 13,
+              "score2": 11,
+              "datetime": "2014-04-12T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Eastern Michigan",
+              "team2": "Michigan State",
+              "score1": 13,
+              "score2": 9,
+              "datetime": "2014-04-12T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Western Michigan",
+              "team2": "Eastern Michigan",
+              "score1": 6,
+              "score2": 13,
+              "datetime": "2014-04-12T10:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Michigan",
+              "team2": "Michigan State",
+              "score1": 13,
+              "score2": 3,
+              "datetime": "2014-04-12T10:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Michigan State",
+              "team2": "Grand Valley",
+              "score1": 12,
+              "score2": 4,
+              "datetime": "2014-04-12T12:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Michigan",
+              "team2": "Eastern Michigan",
+              "score1": 13,
+              "score2": 6,
+              "datetime": "2014-04-12T12:20:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Western Michigan",
+              "team2": "Michigan State",
+              "score1": 10,
+              "score2": 13,
+              "datetime": "2014-04-12T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Michigan",
+              "team2": "Grand Valley",
+              "score1": 13,
+              "score2": 1,
+              "datetime": "2014-04-12T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Western Michigan",
+              "team2": "Michigan",
+              "score1": 5,
+              "score2": 13,
+              "datetime": "2014-04-12T15:40:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Eastern Michigan",
+              "team2": "Grand Valley",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2014-04-12T15:40:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Bracket Play",
+      "groups": [
+        {
+          "name": "2nd/3rd",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Eastern Michigan",
+              "team2": "Western Michigan",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2014-04-13T11:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Eastern Michigan",
+              "team2": "Grand Valley",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2014-04-13T09:00:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Western Michigan",
+              "team2": "Michigan State",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2014-04-13T09:00:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "4th Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Grand Valley",
+              "team2": "Michigan State",
+              "score1": 13,
+              "score2": 15,
+              "datetime": "2014-04-13T11:00:00Z",
+              "round": "4th Place",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

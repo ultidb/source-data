@@ -1,0 +1,261 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2026/Illinois-D-III-Mens-Conferences-2026CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/Illinois-D-III-Mens-Conferences-2026/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:22.843305Z",
+  "event": {
+    "name": "Illinois D-III Men's Conferences 2026",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2026,
+    "city": "Elgin",
+    "state": "IL",
+    "country": "",
+    "startDate": "2026-04-18",
+    "endDate": "2026-04-19"
+  },
+  "teams": [
+    {
+      "name": "Bradley",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Angry Otters",
+        "location": "Peoria, Illinois",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Benjamin Watts"
+        },
+        {
+          "number": "0",
+          "name": "Jake Aimone"
+        },
+        {
+          "number": "03",
+          "name": "Porter Staloch"
+        },
+        {
+          "number": "05",
+          "name": "Matas Mikuckas"
+        },
+        {
+          "number": "05",
+          "name": "Andrew Dallinger-Eaker"
+        },
+        {
+          "number": "09",
+          "name": "Andrew Kurtz"
+        },
+        {
+          "number": "09",
+          "name": "Elliott Hohulin"
+        },
+        {
+          "number": "10",
+          "name": "Alex Svoboda"
+        },
+        {
+          "number": "22",
+          "name": "Alex Phan"
+        },
+        {
+          "number": "27",
+          "name": "Daniel Sikora"
+        },
+        {
+          "number": "73",
+          "name": "Nick Svoboda"
+        }
+      ]
+    },
+    {
+      "name": "Knox",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "River Rats",
+        "location": "Galesburg, Illinois",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Adwin Castellanos"
+        },
+        {
+          "number": "0",
+          "name": "Samarth Aursang"
+        },
+        {
+          "number": "0",
+          "name": "Mohsin Asad"
+        },
+        {
+          "number": "0",
+          "name": "Francesco Porcasi"
+        },
+        {
+          "number": "0",
+          "name": "Robert Cabrera"
+        },
+        {
+          "number": "0",
+          "name": "Junow Iwasaki"
+        },
+        {
+          "number": "0",
+          "name": "Lincoln Sather"
+        },
+        {
+          "number": "0",
+          "name": "Daria Klinck"
+        },
+        {
+          "number": "00",
+          "name": "Richie Dix"
+        },
+        {
+          "number": "00",
+          "name": "Zachary Benson"
+        },
+        {
+          "number": "00",
+          "name": "Jack Lubbs"
+        },
+        {
+          "number": "00",
+          "name": "Jacob Calan-Tolle"
+        },
+        {
+          "number": "00",
+          "name": "Divyesh Shrestha"
+        },
+        {
+          "number": "22",
+          "name": "Max Hoffman"
+        },
+        {
+          "number": "67",
+          "name": "Tioluwani Olubunmi"
+        }
+      ]
+    },
+    {
+      "name": "North Park",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Vikings",
+        "location": "Chicago, Illinois",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Arthur Gonzales"
+        },
+        {
+          "number": "0",
+          "name": "Avaree  Dimalibot"
+        },
+        {
+          "number": "0",
+          "name": "Ellyn Miller"
+        },
+        {
+          "number": "0",
+          "name": "Jasmine Rebollo"
+        },
+        {
+          "number": "0",
+          "name": "Jessica Dudas"
+        },
+        {
+          "number": "0",
+          "name": "Kacie Cooper"
+        },
+        {
+          "number": "0",
+          "name": "Maddy Vander Ploeg"
+        },
+        {
+          "number": "0",
+          "name": "Yujung Lee"
+        },
+        {
+          "number": "0",
+          "name": "Vincent Linsmo"
+        },
+        {
+          "number": "0",
+          "name": "Evan Foster"
+        },
+        {
+          "number": "00",
+          "name": "Adrian  Martinez-Jones"
+        },
+        {
+          "number": "00",
+          "name": "Ty Hawkinson"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "North Park",
+              "team2": "Bradley",
+              "score1": 4,
+              "score2": 15,
+              "datetime": "2026-04-18T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Knox",
+              "team2": "Bradley",
+              "score1": 6,
+              "score2": 12,
+              "datetime": "2026-04-18T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "North Park",
+              "team2": "Knox",
+              "score1": 0,
+              "score2": 15,
+              "datetime": "2026-04-18T15:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

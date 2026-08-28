@@ -1,0 +1,215 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2023/Fall-Brawl-2023youth-club-u-20-girls",
+  "sourceUrl": "https://play.usaultimate.org/events/Fall-Brawl-2023/schedule/Girls/youth-club-u-20-girls/",
+  "scrapedAt": "2026-08-28T10:06:19.467587Z",
+  "event": {
+    "name": "Fall Brawl 2023",
+    "division": "Youth Club U-20 - Girls ",
+    "gender": "",
+    "season": 2023,
+    "city": "Efland",
+    "state": "NC",
+    "country": "",
+    "startDate": "2023-10-21",
+    "endDate": "2023-10-22"
+  },
+  "teams": [
+    {
+      "name": "Jordan High School",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Jordan Falcons Girls",
+        "location": "Durham, North Carolina",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": " ",
+          "name": "Anna"
+        },
+        {
+          "number": " ",
+          "name": "Lyran"
+        },
+        {
+          "number": "0",
+          "name": "Maya Makarushka-Napp"
+        },
+        {
+          "number": "0",
+          "name": "Phoebe Artin"
+        },
+        {
+          "number": "0",
+          "name": "Sonya Buckley"
+        },
+        {
+          "number": "0",
+          "name": "Caroleen DeWolf"
+        },
+        {
+          "number": "0",
+          "name": "Alina Handel"
+        },
+        {
+          "number": "0",
+          "name": "Lily Brooks"
+        },
+        {
+          "number": "18",
+          "name": "Elise Hetland"
+        }
+      ]
+    },
+    {
+      "name": "East Chapel Hill High School",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "East Chapel Hill Girls",
+        "location": "Chapel Hills, North Carolina",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "Alex Hecht"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Eliza Elk"
+        },
+        {
+          "number": "0",
+          "name": "Kayla Outterson"
+        },
+        {
+          "number": "0",
+          "name": "Keira Linnane"
+        },
+        {
+          "number": "0",
+          "name": "Kendra Schwartz"
+        },
+        {
+          "number": "0",
+          "name": "Maisy Kavanaugh"
+        },
+        {
+          "number": "0",
+          "name": "Olivia Yang"
+        },
+        {
+          "number": "0",
+          "name": "Ruby Mae Garland"
+        },
+        {
+          "number": "0",
+          "name": "Sophie Kushnir"
+        },
+        {
+          "number": "0",
+          "name": "Tatiana Buynitzky"
+        }
+      ]
+    },
+    {
+      "name": "Carolina Friends School",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Carolina Friends School Girls",
+        "location": "Durham, North Carolina",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Adah King"
+        },
+        {
+          "number": "0",
+          "name": "Belle Bolick"
+        },
+        {
+          "number": "0",
+          "name": "Charlie Bowers"
+        },
+        {
+          "number": "0",
+          "name": "Chelsea O'Barr"
+        },
+        {
+          "number": "0",
+          "name": "Hazel Grine"
+        },
+        {
+          "number": "0",
+          "name": "Sarah Miller"
+        },
+        {
+          "number": "0",
+          "name": "Sumi Farrell"
+        },
+        {
+          "number": "0",
+          "name": "Virginia Bolick"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "U20 Girls Round Robin",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Carolina Friends School",
+              "team2": "Jordan High School",
+              "score1": 1,
+              "score2": 15,
+              "datetime": "2023-10-22T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "East Chapel Hill High School",
+              "team2": "Jordan High School",
+              "score1": 2,
+              "score2": 12,
+              "datetime": "2023-10-22T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "East Chapel Hill High School",
+              "team2": "Carolina Friends School",
+              "score1": 13,
+              "score2": 6,
+              "datetime": "2023-10-22T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

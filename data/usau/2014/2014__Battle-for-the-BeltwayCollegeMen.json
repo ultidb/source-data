@@ -1,0 +1,255 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2014/Battle-for-the-BeltwayCollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/Battle-for-the-Beltway/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:11.365855Z",
+  "event": {
+    "name": "Battle for the Beltway 2014",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2014,
+    "city": "Lorton",
+    "state": "VA",
+    "country": "",
+    "startDate": "2014-03-23",
+    "endDate": "2014-03-23"
+  },
+  "teams": [
+    {
+      "name": "American",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Stall 11",
+        "location": "Washington, District of Columbia",
+        "website": "http://www.americanultimate.com/main-site#!__main-site",
+        "facebook": "https://www.facebook.com/stall11",
+        "twitter": "twitter.com/AU_Ultimate/"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "ZACH DUEY"
+        },
+        {
+          "number": "0",
+          "name": "SAWYER GILBERT"
+        },
+        {
+          "number": "0",
+          "name": "Cole Flournoy"
+        },
+        {
+          "number": "0",
+          "name": "Cortland Broyles"
+        },
+        {
+          "number": "0",
+          "name": "Aaron Langley"
+        },
+        {
+          "number": "0",
+          "name": "Eric Tagliaferre"
+        },
+        {
+          "number": "0",
+          "name": "Raymond Mendoza"
+        },
+        {
+          "number": "0",
+          "name": "Joshua King"
+        },
+        {
+          "number": "2",
+          "name": "JORDAN NATELSON"
+        },
+        {
+          "number": "5",
+          "name": "KRISTOPHER M. GUNDERSEN"
+        },
+        {
+          "number": "7",
+          "name": "DAVID SHIRBROUN"
+        },
+        {
+          "number": "10",
+          "name": "PAUL BETTENCOURT"
+        },
+        {
+          "number": "17",
+          "name": "Aaron Besser"
+        },
+        {
+          "number": "23",
+          "name": "Norris Kpamegan"
+        },
+        {
+          "number": "24",
+          "name": "MICHAEL CIPRIANO"
+        },
+        {
+          "number": "27",
+          "name": "Bretton Caws"
+        },
+        {
+          "number": "43",
+          "name": "ANTHONY MALINAUSKAS"
+        },
+        {
+          "number": "56",
+          "name": "Robert Gilmor"
+        },
+        {
+          "number": "77",
+          "name": "KEVIN COLLINS"
+        },
+        {
+          "number": "89",
+          "name": "SAM STERLING"
+        },
+        {
+          "number": "96",
+          "name": "LEONARD DONADIO"
+        }
+      ]
+    },
+    {
+      "name": "George Washington",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "gdub ultimate",
+        "location": "Washington, District of Columbia",
+        "website": "http://gdubultimate.com/",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Ryan Nam"
+        },
+        {
+          "number": "0",
+          "name": "HENRY BETTS"
+        },
+        {
+          "number": "0",
+          "name": "TURNER SHAW"
+        },
+        {
+          "number": "0",
+          "name": "Daniel Bernstein"
+        },
+        {
+          "number": "0",
+          "name": "Jeremy Neff"
+        },
+        {
+          "number": "0",
+          "name": "David Heller"
+        },
+        {
+          "number": "0",
+          "name": "ERIK BETHKE"
+        },
+        {
+          "number": "1",
+          "name": "Samuel (Sammy) Mernick"
+        },
+        {
+          "number": "3",
+          "name": "Chris Kocher"
+        },
+        {
+          "number": "6",
+          "name": "SHAHAR ABRAMS"
+        },
+        {
+          "number": "8",
+          "name": "Mark Dang"
+        },
+        {
+          "number": "11",
+          "name": "Matthew Kostman"
+        },
+        {
+          "number": "12",
+          "name": "Andrew Ziegler"
+        },
+        {
+          "number": "22",
+          "name": "Marc Gottschalk"
+        },
+        {
+          "number": "23",
+          "name": "ROSS WEISMAN"
+        },
+        {
+          "number": "26",
+          "name": "MICHAEL KOZAR"
+        },
+        {
+          "number": "33",
+          "name": "Gabriel Fernandez"
+        },
+        {
+          "number": "34",
+          "name": "SAMUEL SCHAFFER-MORRISON"
+        },
+        {
+          "number": "49",
+          "name": "Alexander Davis"
+        },
+        {
+          "number": "51",
+          "name": "James Midkiff"
+        },
+        {
+          "number": "64",
+          "name": "Jeffrey DeSorbo"
+        },
+        {
+          "number": "84",
+          "name": "Jason Davidson"
+        },
+        {
+          "number": "87",
+          "name": "Tyler Monroe"
+        },
+        {
+          "number": "94",
+          "name": "Alex Davis"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "brackets",
+      "name": "Bracket Play",
+      "groups": [
+        {
+          "name": "Championship Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "American",
+              "team2": "George Washington",
+              "score1": 9,
+              "score2": 14,
+              "datetime": "2014-03-23T15:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

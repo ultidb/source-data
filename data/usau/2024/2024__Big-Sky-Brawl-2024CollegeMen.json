@@ -1,0 +1,727 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2024/Big-Sky-Brawl-2024CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/Big-Sky-Brawl-2024/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:20.671718Z",
+  "event": {
+    "name": "Big Sky Brawl 2024",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2024,
+    "city": "Boise",
+    "state": "ID",
+    "country": "",
+    "startDate": "2024-03-09",
+    "endDate": "2024-03-10"
+  },
+  "teams": [
+    {
+      "name": "Utah Valley",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Utah Valley Ultimate",
+        "location": "Orem, Utah",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Aaron Pullan"
+        },
+        {
+          "number": "0",
+          "name": "Aleksei Felt"
+        },
+        {
+          "number": "0",
+          "name": "Cameron Barney"
+        },
+        {
+          "number": "0",
+          "name": "Derik Knighton"
+        },
+        {
+          "number": "0",
+          "name": "Dilan Fernando"
+        },
+        {
+          "number": "0",
+          "name": "Jared Sorensen"
+        },
+        {
+          "number": "0",
+          "name": "Jason Eames"
+        },
+        {
+          "number": "0",
+          "name": "Jonah Erb"
+        },
+        {
+          "number": "0",
+          "name": "Kale Winterton"
+        },
+        {
+          "number": "0",
+          "name": "Kimball Pew"
+        },
+        {
+          "number": "0",
+          "name": "Porter Stobbe"
+        },
+        {
+          "number": "0",
+          "name": "Thomas Curtis"
+        },
+        {
+          "number": "2",
+          "name": "Spencer Barney"
+        },
+        {
+          "number": "3",
+          "name": "Brock Jensen"
+        },
+        {
+          "number": "6",
+          "name": "Isaac Arnold"
+        },
+        {
+          "number": "10",
+          "name": "Caleb Warner"
+        },
+        {
+          "number": "11",
+          "name": "Matt Jamison"
+        },
+        {
+          "number": "12",
+          "name": "Mason Gordon"
+        },
+        {
+          "number": "13",
+          "name": "Landon Walters"
+        },
+        {
+          "number": "17",
+          "name": "Porter Oyler"
+        },
+        {
+          "number": "18",
+          "name": "Kolton Wild"
+        },
+        {
+          "number": "31",
+          "name": "Logan Bonzo"
+        },
+        {
+          "number": "40",
+          "name": "Cade Barnes"
+        },
+        {
+          "number": "82",
+          "name": "Austin Baird"
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young (B)",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "CHI B",
+        "location": "Provo, Utah",
+        "website": "www.byuchiultimate.com",
+        "facebook": "facebook.com/byumensultimate",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Abraham Alton"
+        },
+        {
+          "number": "0",
+          "name": "Alexander Gerber"
+        },
+        {
+          "number": "0",
+          "name": "Ammon BROCK"
+        },
+        {
+          "number": "0",
+          "name": "Calder Allen"
+        },
+        {
+          "number": "0",
+          "name": "Dallin Barlow"
+        },
+        {
+          "number": "0",
+          "name": "Dallin Jacobs"
+        },
+        {
+          "number": "0",
+          "name": "Philip  Armond"
+        },
+        {
+          "number": "0",
+          "name": "Russell Ridd"
+        },
+        {
+          "number": "0",
+          "name": "Spencer Morgan"
+        },
+        {
+          "number": "0",
+          "name": "Stuart Card"
+        },
+        {
+          "number": "0",
+          "name": "Joshua Rust"
+        },
+        {
+          "number": "0",
+          "name": "Kyler Bloxham"
+        },
+        {
+          "number": "0",
+          "name": "Trevor Wai"
+        },
+        {
+          "number": "0",
+          "name": "Tyler Wadell"
+        },
+        {
+          "number": "8",
+          "name": "Joshua Nielsen"
+        },
+        {
+          "number": "11",
+          "name": "Talmage Sanders"
+        },
+        {
+          "number": "11",
+          "name": "Adam Simpson"
+        },
+        {
+          "number": "21",
+          "name": "Devin Lewis"
+        },
+        {
+          "number": "24",
+          "name": "Jackson Chambers"
+        },
+        {
+          "number": "32",
+          "name": "Braden Meyers"
+        },
+        {
+          "number": "52",
+          "name": "James Spencer"
+        },
+        {
+          "number": "98",
+          "name": "Morrison Cheney"
+        }
+      ]
+    },
+    {
+      "name": "Northern Arizona",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "El Ponderoso",
+        "location": "Flagstaff, Arizona",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/ElPonderosoNAU"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Colin Whitehead"
+        },
+        {
+          "number": "0",
+          "name": "Dominic Borja"
+        },
+        {
+          "number": "4",
+          "name": "Angelo Paffumi"
+        },
+        {
+          "number": "11",
+          "name": "Harrison Hess"
+        },
+        {
+          "number": "16",
+          "name": "Ryan Fletcher"
+        },
+        {
+          "number": "22",
+          "name": "Ian Willeke"
+        },
+        {
+          "number": "28",
+          "name": "Torrey King"
+        },
+        {
+          "number": "42",
+          "name": "Maxwell Sewell"
+        },
+        {
+          "number": "55",
+          "name": "Gabriel Sensibar"
+        },
+        {
+          "number": "57",
+          "name": "Tyler Prough"
+        },
+        {
+          "number": "77",
+          "name": "Liam Swanson"
+        },
+        {
+          "number": "87",
+          "name": "Michael Kiricoples"
+        },
+        {
+          "number": "97",
+          "name": "Kaleb Pickering"
+        },
+        {
+          "number": "99",
+          "name": "Alec Pier"
+        },
+        {
+          "number": "99",
+          "name": "Atticus Abraham"
+        }
+      ]
+    },
+    {
+      "name": "Montana",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Smokejump",
+        "location": "Missoula, Montana",
+        "website": "",
+        "facebook": "",
+        "twitter": "@UMSmokejump"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Cooper Webb"
+        },
+        {
+          "number": "0",
+          "name": "Finnian Bentler"
+        },
+        {
+          "number": "0",
+          "name": "Jace Thomas"
+        },
+        {
+          "number": "0",
+          "name": "Jacob Blockhan"
+        },
+        {
+          "number": "0",
+          "name": "Oliver Jepson"
+        },
+        {
+          "number": "0",
+          "name": "Riley Comstock"
+        },
+        {
+          "number": "3",
+          "name": "Tyler Fritz"
+        },
+        {
+          "number": "6",
+          "name": "Carson Brandt"
+        },
+        {
+          "number": "10",
+          "name": "McGil  Sabado"
+        },
+        {
+          "number": "11",
+          "name": "Timmy Glanville"
+        },
+        {
+          "number": "14",
+          "name": "cameron rasmussen"
+        },
+        {
+          "number": "16",
+          "name": "Will Mottram"
+        },
+        {
+          "number": "69",
+          "name": "Alex Crisp"
+        },
+        {
+          "number": "80",
+          "name": "Nick Monsos"
+        },
+        {
+          "number": "99",
+          "name": "Jack Gauthier"
+        }
+      ]
+    },
+    {
+      "name": "Nevada-Reno",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Elevation Ultimate",
+        "location": "Reno, Nevada",
+        "website": "https://nevadaultimate.weebly.com/",
+        "facebook": "https://www.facebook.com/NevadaUltimate/",
+        "twitter": "https://twitter.com/nevadaultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Brandon Bajada"
+        },
+        {
+          "number": "0",
+          "name": "Brody Moreno-McClure"
+        },
+        {
+          "number": "0",
+          "name": "Douglas Moffitt"
+        },
+        {
+          "number": "0",
+          "name": "Erick Bandala Sanchez"
+        },
+        {
+          "number": "0",
+          "name": "Evan Johansson"
+        },
+        {
+          "number": "0",
+          "name": "Marcus Fredrickson"
+        },
+        {
+          "number": "0",
+          "name": "Michael Caliz"
+        },
+        {
+          "number": "0",
+          "name": "Mithran Mathiraj"
+        },
+        {
+          "number": "0",
+          "name": "Nathan Russo"
+        },
+        {
+          "number": "0",
+          "name": "Rodney Wolfgang"
+        },
+        {
+          "number": "0",
+          "name": "Steven Suzuki"
+        },
+        {
+          "number": "2",
+          "name": "Douglas Pieplow"
+        },
+        {
+          "number": "21",
+          "name": "Logan Beffort"
+        },
+        {
+          "number": "35",
+          "name": "Christopher Carter"
+        },
+        {
+          "number": "38",
+          "name": "David Leonhardt"
+        },
+        {
+          "number": "42",
+          "name": "Richard Scheen-Stribling"
+        }
+      ]
+    },
+    {
+      "name": "Boise State",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Mamu Zaldi",
+        "location": "Boise, Idaho",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Evan Holcomb"
+        },
+        {
+          "number": "5",
+          "name": "Nathan Nevarez"
+        },
+        {
+          "number": "12",
+          "name": "Damon Wargo"
+        },
+        {
+          "number": "15",
+          "name": "Devin Kirven"
+        },
+        {
+          "number": "17",
+          "name": "Ryan Martinez"
+        },
+        {
+          "number": "18",
+          "name": "Kierran Ware"
+        },
+        {
+          "number": "24",
+          "name": "Trevor Ricker"
+        },
+        {
+          "number": "26",
+          "name": "Gabriell Mccown"
+        },
+        {
+          "number": "55",
+          "name": "Jack Stanton"
+        },
+        {
+          "number": "59",
+          "name": "Jake George"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Utah Valley",
+              "team2": "Nevada-Reno",
+              "score1": 13,
+              "score2": 4,
+              "datetime": "2024-03-09T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Brigham Young (B)",
+              "team2": "Montana",
+              "score1": 10,
+              "score2": 4,
+              "datetime": "2024-03-09T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Northern Arizona",
+              "team2": "Boise State",
+              "score1": 11,
+              "score2": 2,
+              "datetime": "2024-03-09T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Utah Valley",
+              "team2": "Brigham Young (B)",
+              "score1": 9,
+              "score2": 4,
+              "datetime": "2024-03-09T10:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Nevada-Reno",
+              "team2": "Northern Arizona",
+              "score1": 3,
+              "score2": 8,
+              "datetime": "2024-03-09T10:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Montana",
+              "team2": "Boise State",
+              "score1": 5,
+              "score2": 3,
+              "datetime": "2024-03-09T10:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Utah Valley",
+              "team2": "Northern Arizona",
+              "score1": 9,
+              "score2": 3,
+              "datetime": "2024-03-09T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Brigham Young (B)",
+              "team2": "Boise State",
+              "score1": 10,
+              "score2": 0,
+              "datetime": "2024-03-09T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Nevada-Reno",
+              "team2": "Montana",
+              "score1": 5,
+              "score2": 8,
+              "datetime": "2024-03-09T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Utah Valley",
+              "team2": "Boise State",
+              "score1": 13,
+              "score2": 0,
+              "datetime": "2024-03-09T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Brigham Young (B)",
+              "team2": "Nevada-Reno",
+              "score1": 13,
+              "score2": 0,
+              "datetime": "2024-03-09T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Northern Arizona",
+              "team2": "Montana",
+              "score1": 8,
+              "score2": 7,
+              "datetime": "2024-03-09T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Utah Valley",
+              "team2": "Montana",
+              "score1": 13,
+              "score2": 4,
+              "datetime": "2024-03-10T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Brigham Young (B)",
+              "team2": "Northern Arizona",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2024-03-10T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Nevada-Reno",
+              "team2": "Boise State",
+              "score1": 8,
+              "score2": 4,
+              "datetime": "2024-03-10T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Bracket",
+      "groups": [
+        {
+          "name": "Top 4 Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Utah Valley",
+              "team2": "Northern Arizona",
+              "score1": 13,
+              "score2": 1,
+              "datetime": "2024-03-10T12:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Utah Valley",
+              "team2": "Nevada-Reno",
+              "score1": 13,
+              "score2": 1,
+              "datetime": "2024-03-10T10:30:00Z",
+              "round": "Semis",
+              "status": "Final"
+            },
+            {
+              "team1": "Northern Arizona",
+              "team2": "Montana",
+              "score1": 10,
+              "score2": 5,
+              "datetime": "2024-03-10T10:30:00Z",
+              "round": "Semis",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "3rd Place Game",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Nevada-Reno",
+              "team2": "Montana",
+              "score1": 1,
+              "score2": 7,
+              "datetime": "2024-03-10T12:00:00Z",
+              "round": "3rd Place",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

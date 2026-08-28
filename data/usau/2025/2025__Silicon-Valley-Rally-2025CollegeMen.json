@@ -1,0 +1,695 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2025/Silicon-Valley-Rally-2025CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/Silicon-Valley-Rally-2025/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:21.840746Z",
+  "event": {
+    "name": "Silicon Valley Rally 2025",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2025,
+    "city": "San Jose",
+    "state": "CA",
+    "country": "",
+    "startDate": "2025-03-15",
+    "endDate": "2025-03-16"
+  },
+  "teams": [
+    {
+      "name": "San Jose State",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Spartans",
+        "location": "San Jose, California",
+        "website": "https://sjsusports.com/sports/ultimate",
+        "facebook": "https://www.facebook.com/SJSUUltimate/",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Edwin Lu"
+        },
+        {
+          "number": "0",
+          "name": "Joshua Krone"
+        },
+        {
+          "number": "1",
+          "name": "Ryan Novinsky"
+        },
+        {
+          "number": "3",
+          "name": "Jacob Linares"
+        },
+        {
+          "number": "5",
+          "name": "Xavier Herrera"
+        },
+        {
+          "number": "7",
+          "name": "Jake Dapiran"
+        },
+        {
+          "number": "8",
+          "name": "Joseph Faso"
+        },
+        {
+          "number": "10",
+          "name": "Daniel Thompson"
+        },
+        {
+          "number": "11",
+          "name": "Tanner Yue"
+        },
+        {
+          "number": "13",
+          "name": "Tadeas Horn"
+        },
+        {
+          "number": "14",
+          "name": "Jakob  Lail"
+        },
+        {
+          "number": "15",
+          "name": "Roman Leigh"
+        },
+        {
+          "number": "16",
+          "name": "Isaac Thongthap"
+        },
+        {
+          "number": "17",
+          "name": "Ryan-Phi Nguyen"
+        },
+        {
+          "number": "19",
+          "name": "Christopher Pantaleon"
+        },
+        {
+          "number": "21",
+          "name": "Kevin Camelin"
+        },
+        {
+          "number": "23",
+          "name": "Sakhin Anooj Selvamani"
+        },
+        {
+          "number": "29",
+          "name": "Caleb Mok"
+        },
+        {
+          "number": "42",
+          "name": "Vincent Cook"
+        },
+        {
+          "number": "77",
+          "name": "Mark Blackburn"
+        },
+        {
+          "number": "98",
+          "name": "Charles Torpey"
+        },
+        {
+          "number": "99",
+          "name": "Rafael  Antipuesto"
+        }
+      ]
+    },
+    {
+      "name": "California-Santa Cruz (B)",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Ooze",
+        "location": "Santa Cruz, California",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "Justin Cheng"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Aidan Hewitt"
+        },
+        {
+          "number": "0",
+          "name": "Aryan Dasika"
+        },
+        {
+          "number": "0",
+          "name": "Cole Lukens"
+        },
+        {
+          "number": "0",
+          "name": "Cole Pine"
+        },
+        {
+          "number": "0",
+          "name": "Daniel Perlov"
+        },
+        {
+          "number": "0",
+          "name": "Eetai Shwartz"
+        },
+        {
+          "number": "0",
+          "name": "Evangel Hightower-Rojas"
+        },
+        {
+          "number": "0",
+          "name": "Henry Bellevin"
+        },
+        {
+          "number": "0",
+          "name": "Joseph Donovan"
+        },
+        {
+          "number": "0",
+          "name": "Julien Tremblay"
+        },
+        {
+          "number": "0",
+          "name": "Lincoln Zaltas"
+        },
+        {
+          "number": "0",
+          "name": "Luca Guiga"
+        },
+        {
+          "number": "0",
+          "name": "Mateo Monroy"
+        },
+        {
+          "number": "0",
+          "name": "Milo Ridenour"
+        },
+        {
+          "number": "0",
+          "name": "Mithilesh Kowshik"
+        },
+        {
+          "number": "0",
+          "name": "Paul Leibovitch"
+        },
+        {
+          "number": "0",
+          "name": "Peter Van Esch"
+        },
+        {
+          "number": "0",
+          "name": "Richard An"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Chapman"
+        },
+        {
+          "number": "0",
+          "name": "Skye Loomis"
+        },
+        {
+          "number": "0",
+          "name": "Theodore Poor"
+        },
+        {
+          "number": "0",
+          "name": "Thomas Farmer"
+        },
+        {
+          "number": "0",
+          "name": "Tim Doan"
+        },
+        {
+          "number": "0",
+          "name": "Tripp Daon"
+        },
+        {
+          "number": "0",
+          "name": "Yali Goldstein"
+        }
+      ]
+    },
+    {
+      "name": "Cal Poly-Humboldt",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Humboldt Buds",
+        "location": "Arcata, California",
+        "website": "https://recsports.humboldt.edu/",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "2",
+          "name": "Cameron Fox"
+        },
+        {
+          "number": "3",
+          "name": "Kristopher Turner"
+        },
+        {
+          "number": "5",
+          "name": "Joaquin Bartosh"
+        },
+        {
+          "number": "6",
+          "name": "Gabriel Sekel"
+        },
+        {
+          "number": "7",
+          "name": "Aiden Ott"
+        },
+        {
+          "number": "8",
+          "name": "Carles Montijano"
+        },
+        {
+          "number": "9",
+          "name": "Griffin Jarrell-Desch"
+        },
+        {
+          "number": "13",
+          "name": "Matteo Bowman"
+        },
+        {
+          "number": "16",
+          "name": "Asher Duben"
+        },
+        {
+          "number": "17",
+          "name": "Yuval Bochner Loewenberg"
+        },
+        {
+          "number": "22",
+          "name": "Jimmy Carrerad"
+        },
+        {
+          "number": "23",
+          "name": "Andre Sargissian"
+        },
+        {
+          "number": "33",
+          "name": "Connor McGinley"
+        },
+        {
+          "number": "42",
+          "name": "Javier Margarito"
+        },
+        {
+          "number": "88",
+          "name": "Adonis Diaz Torres"
+        }
+      ]
+    },
+    {
+      "name": "California (B)",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Ursa Minor",
+        "location": "Berkeley, California",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Aarush Panda"
+        },
+        {
+          "number": "0",
+          "name": "Alex Parikh-Briggs"
+        },
+        {
+          "number": "0",
+          "name": "Anson Tan"
+        },
+        {
+          "number": "0",
+          "name": "Ari Katz"
+        },
+        {
+          "number": "0",
+          "name": "Ben Farfan"
+        },
+        {
+          "number": "0",
+          "name": "Brian Zheng"
+        },
+        {
+          "number": "0",
+          "name": "ChenYou (Yoyo) Tang"
+        },
+        {
+          "number": "0",
+          "name": "Christopher Liang"
+        },
+        {
+          "number": "0",
+          "name": "Connor Fagan"
+        },
+        {
+          "number": "0",
+          "name": "Benjamin Ronell"
+        },
+        {
+          "number": "0",
+          "name": "Elias Korchin"
+        },
+        {
+          "number": "0",
+          "name": "Jared Kazhe"
+        },
+        {
+          "number": "0",
+          "name": "Jiashu Jiang"
+        },
+        {
+          "number": "0",
+          "name": "Kengo Hotta"
+        },
+        {
+          "number": "0",
+          "name": "Oscar Lu"
+        },
+        {
+          "number": "0",
+          "name": "Samuel Callahan"
+        },
+        {
+          "number": "0",
+          "name": "Timothy Brugarolas"
+        },
+        {
+          "number": "0",
+          "name": "Toby Lamorte"
+        },
+        {
+          "number": "18",
+          "name": "Derrick Leong"
+        },
+        {
+          "number": "21",
+          "name": "Bowie Yang"
+        },
+        {
+          "number": "32",
+          "name": "Samuel Kemball-Cook"
+        },
+        {
+          "number": "44",
+          "name": "Jayden Pulickal "
+        },
+        {
+          "number": "48",
+          "name": "Benjamin Karish"
+        },
+        {
+          "number": "81",
+          "name": "Dylan Miller"
+        },
+        {
+          "number": "96",
+          "name": "Sriram Sridhar"
+        },
+        {
+          "number": "99",
+          "name": "William Tang"
+        }
+      ]
+    },
+    {
+      "name": "Chico State",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Chico State",
+        "location": "Chico, California",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Colby Downs"
+        },
+        {
+          "number": "0",
+          "name": "forrest lefebvre"
+        },
+        {
+          "number": "0",
+          "name": "Noa Grossi"
+        },
+        {
+          "number": "0",
+          "name": "Stephen Kodur"
+        },
+        {
+          "number": "0",
+          "name": "Zachary Bursek"
+        },
+        {
+          "number": "1",
+          "name": "Elliott Schwarz"
+        },
+        {
+          "number": "2",
+          "name": "Ryan Niizawa"
+        },
+        {
+          "number": "3",
+          "name": "Reilly Bernal"
+        },
+        {
+          "number": "4",
+          "name": "Spencer Carr"
+        },
+        {
+          "number": "13",
+          "name": "Alexander Ballou"
+        },
+        {
+          "number": "17",
+          "name": "Dane Wright"
+        },
+        {
+          "number": "23",
+          "name": "Ryan Branca"
+        },
+        {
+          "number": "33",
+          "name": "Erik Stenstrom"
+        },
+        {
+          "number": "52",
+          "name": "Jason Ellis"
+        },
+        {
+          "number": "72",
+          "name": "Kaleb Paige"
+        },
+        {
+          "number": "75",
+          "name": "Garrett Holt"
+        },
+        {
+          "number": "88",
+          "name": "Owen Onatanian"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Round Robin",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "San Jose State",
+              "team2": "California (B)",
+              "score1": 10,
+              "score2": 6,
+              "datetime": "2025-03-15T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Cal Poly-Humboldt",
+              "team2": "Chico State",
+              "score1": 11,
+              "score2": 8,
+              "datetime": "2025-03-15T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "San Jose State",
+              "team2": "Cal Poly-Humboldt",
+              "score1": 11,
+              "score2": 7,
+              "datetime": "2025-03-15T09:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "California-Santa Cruz (B)",
+              "team2": "Chico State",
+              "score1": 13,
+              "score2": 3,
+              "datetime": "2025-03-15T09:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "San Jose State",
+              "team2": "California-Santa Cruz (B)",
+              "score1": 9,
+              "score2": 8,
+              "datetime": "2025-03-15T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Cal Poly-Humboldt",
+              "team2": "California (B)",
+              "score1": 13,
+              "score2": 9,
+              "datetime": "2025-03-15T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "San Jose State",
+              "team2": "Chico State",
+              "score1": 12,
+              "score2": 7,
+              "datetime": "2025-03-15T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "California-Santa Cruz (B)",
+              "team2": "California (B)",
+              "score1": 10,
+              "score2": 5,
+              "datetime": "2025-03-15T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Chico State",
+              "team2": "California (B)",
+              "score1": 8,
+              "score2": 9,
+              "datetime": "2025-03-15T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "California-Santa Cruz (B)",
+              "team2": "Cal Poly-Humboldt",
+              "score1": 11,
+              "score2": 8,
+              "datetime": "2025-03-15T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "clusters",
+      "name": "Modified Bracket Play",
+      "groups": [
+        {
+          "name": "Round 1",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "San Jose State",
+              "team2": "Cal Poly-Humboldt",
+              "score1": 10,
+              "score2": 7,
+              "datetime": "2025-03-16T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "California-Santa Cruz (B)",
+              "team2": "California (B)",
+              "score1": 10,
+              "score2": 5,
+              "datetime": "2025-03-16T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Round 2",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "San Jose State",
+              "team2": "California-Santa Cruz (B)",
+              "score1": 7,
+              "score2": 8,
+              "datetime": "2025-03-16T10:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Cal Poly-Humboldt",
+              "team2": "Chico State",
+              "score1": 10,
+              "score2": 7,
+              "datetime": "2025-03-16T10:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Round 3",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "California (B)",
+              "team2": "Chico State",
+              "score1": 9,
+              "score2": 8,
+              "datetime": "2025-03-16T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

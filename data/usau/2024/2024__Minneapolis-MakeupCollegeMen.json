@@ -1,0 +1,684 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2024/Minneapolis-MakeupCollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/Minneapolis-Makeup/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:20.886003Z",
+  "event": {
+    "name": "Minneapolis Makeup 2024",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2024,
+    "city": "Minneapolis",
+    "state": "MN",
+    "country": "",
+    "startDate": "2024-03-21",
+    "endDate": "2024-03-28"
+  },
+  "teams": [
+    {
+      "name": "Minnesota (B)",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Ugly Duckling",
+        "location": "Minneapolis, Minnesota",
+        "website": "http://mnuglyduckling.weebly.com/",
+        "facebook": "",
+        "twitter": "@UglyDucklingUMN"
+      },
+      "coaches": [
+        "Donald Wood",
+        "Jacob Graff",
+        "Allegra Johnson McKee"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Benjamin Brauer"
+        },
+        {
+          "number": "0",
+          "name": "Everett Ries"
+        },
+        {
+          "number": "0",
+          "name": "Frank Toft"
+        },
+        {
+          "number": "0",
+          "name": "Gabriel Ramirez"
+        },
+        {
+          "number": "0",
+          "name": "Gavin Johnson"
+        },
+        {
+          "number": "0",
+          "name": "Dashiell Stevanovich"
+        },
+        {
+          "number": "0",
+          "name": "Drew Bonnabeau"
+        },
+        {
+          "number": "0",
+          "name": "Hudson Borchardt"
+        },
+        {
+          "number": "0",
+          "name": "Jack Larson"
+        },
+        {
+          "number": "1",
+          "name": "John Destross"
+        },
+        {
+          "number": "2",
+          "name": "Loren Pope"
+        },
+        {
+          "number": "3",
+          "name": "Ishaan Lukhey"
+        },
+        {
+          "number": "3",
+          "name": "Caleb Reed"
+        },
+        {
+          "number": "4",
+          "name": "Alex Kozitza"
+        },
+        {
+          "number": "5",
+          "name": "Joshua Sereno"
+        },
+        {
+          "number": "5",
+          "name": "Sebastian Blue"
+        },
+        {
+          "number": "7",
+          "name": "Charles Schulz"
+        },
+        {
+          "number": "8",
+          "name": "Eli Schmelzer"
+        },
+        {
+          "number": "9",
+          "name": "Patrick Wozniak"
+        },
+        {
+          "number": "11",
+          "name": "Max Siqveland"
+        },
+        {
+          "number": "13",
+          "name": "Malcolm Duellman"
+        },
+        {
+          "number": "16",
+          "name": "Joe McGurgan"
+        },
+        {
+          "number": "26",
+          "name": "Tony Tran"
+        },
+        {
+          "number": "33",
+          "name": "Bela Konkoly"
+        },
+        {
+          "number": "35",
+          "name": "Henry Lyne"
+        },
+        {
+          "number": "90",
+          "name": "Ishan Sodhi"
+        }
+      ]
+    },
+    {
+      "name": "Macalester",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Macalester Open Ultimate",
+        "location": "Saint Paul, Minnesota",
+        "website": "https://macalesteropenulti.weebly.com/",
+        "facebook": "",
+        "twitter": "https://twitter.com/macalesterulti"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alex Brinkman"
+        },
+        {
+          "number": "0",
+          "name": "Ben Arnold"
+        },
+        {
+          "number": "0",
+          "name": "Boaz Lieberman"
+        },
+        {
+          "number": "0",
+          "name": "Caleb Bartlett"
+        },
+        {
+          "number": "0",
+          "name": "Emory Shoaff"
+        },
+        {
+          "number": "0",
+          "name": "Ezra Korn-Meyer"
+        },
+        {
+          "number": "0",
+          "name": "Isaac Powers"
+        },
+        {
+          "number": "0",
+          "name": "Kyle Suelflow"
+        },
+        {
+          "number": "0",
+          "name": "Liam Athas"
+        },
+        {
+          "number": "0",
+          "name": "Martin Bernsten"
+        },
+        {
+          "number": "0",
+          "name": "Owen Suelflow"
+        },
+        {
+          "number": "0",
+          "name": "Roy Gao"
+        },
+        {
+          "number": "0",
+          "name": "Xander Hall"
+        },
+        {
+          "number": "3",
+          "name": "Ezra Cohen"
+        },
+        {
+          "number": "7",
+          "name": "Rocky Slaymaker"
+        },
+        {
+          "number": "9",
+          "name": "Benjamin Richardson"
+        },
+        {
+          "number": "11",
+          "name": "Stellah Marienthal-Legendre"
+        },
+        {
+          "number": "14",
+          "name": "Andrew Dong"
+        },
+        {
+          "number": "22",
+          "name": "Nicholas Miller"
+        },
+        {
+          "number": "23",
+          "name": "Noah Chen"
+        },
+        {
+          "number": "24",
+          "name": "Emilio Gray"
+        },
+        {
+          "number": "26",
+          "name": "Jack Sorlie"
+        },
+        {
+          "number": "36",
+          "name": "Gavin Davis"
+        },
+        {
+          "number": "37",
+          "name": "Seamus McMurrer"
+        },
+        {
+          "number": "69",
+          "name": "Dylan Lian"
+        },
+        {
+          "number": "72",
+          "name": "Jack Keller"
+        },
+        {
+          "number": "82",
+          "name": "Caedmon Kolllmer-Dorsey"
+        }
+      ]
+    },
+    {
+      "name": "Minnesota-Duluth",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Northern Lights",
+        "location": "Duluth, Minnesota",
+        "website": "",
+        "facebook": "https://www.facebook.com/lights33",
+        "twitter": "https://twitter.com/UMD_Lights"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alex Roth"
+        },
+        {
+          "number": "0",
+          "name": "Ben Donahue"
+        },
+        {
+          "number": "0",
+          "name": "Charlie Johnson"
+        },
+        {
+          "number": "0",
+          "name": "Diego Umana"
+        },
+        {
+          "number": "0",
+          "name": "Joseph Carland"
+        },
+        {
+          "number": "0",
+          "name": "Nathan Salberg"
+        },
+        {
+          "number": "0",
+          "name": "Sean Haley"
+        },
+        {
+          "number": "0",
+          "name": "Wyatt Hall"
+        },
+        {
+          "number": "0",
+          "name": "Yunchan Hur"
+        },
+        {
+          "number": "0",
+          "name": "Zachary Huffaker"
+        },
+        {
+          "number": "3",
+          "name": "Thomas Donahue"
+        },
+        {
+          "number": "4",
+          "name": "Garrett Erickson"
+        },
+        {
+          "number": "6",
+          "name": "Ben Blahosky"
+        },
+        {
+          "number": "7",
+          "name": "Alexander Vasil"
+        },
+        {
+          "number": "8",
+          "name": "Henry Liebl"
+        },
+        {
+          "number": "16",
+          "name": "Alex Hubley"
+        },
+        {
+          "number": "20",
+          "name": "Cory Kurkowski"
+        },
+        {
+          "number": "21",
+          "name": "Joseph Peterson"
+        },
+        {
+          "number": "24",
+          "name": "Aaron Reiser"
+        },
+        {
+          "number": "26",
+          "name": "Jack Fritschel"
+        },
+        {
+          "number": "28",
+          "name": "Devon DeFoe"
+        },
+        {
+          "number": "30",
+          "name": "Trever Shellum"
+        },
+        {
+          "number": "81",
+          "name": "Hayden Buss"
+        }
+      ]
+    },
+    {
+      "name": "St Thomas",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Purple Reign",
+        "location": "Saint Paul, Minnesota",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "CJ Aul"
+        },
+        {
+          "number": "0",
+          "name": "Dominick Navarre"
+        },
+        {
+          "number": "0",
+          "name": "Leo Klein"
+        },
+        {
+          "number": "0",
+          "name": "Liam Laskow"
+        },
+        {
+          "number": "9",
+          "name": "Riley Vang"
+        },
+        {
+          "number": "02",
+          "name": "Tyler Wolf Williams"
+        },
+        {
+          "number": "11",
+          "name": "Joel Thomas"
+        },
+        {
+          "number": "18",
+          "name": "Brendan Kelley"
+        },
+        {
+          "number": "21",
+          "name": "Aidan Huber"
+        },
+        {
+          "number": "36",
+          "name": "Quintin Knuth"
+        },
+        {
+          "number": "42",
+          "name": "Michael Vogel"
+        },
+        {
+          "number": "87",
+          "name": "Alex  Cahill"
+        }
+      ]
+    },
+    {
+      "name": "Bethel",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Bethel Ultimate",
+        "location": "Saint Paul, Minnesota",
+        "website": "https://www.tinyurl.com/bethelultimate",
+        "facebook": "https://www.facebook.com/BethelUltimateClub/",
+        "twitter": "https://twitter.com/BethelUltimate?lang=en"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Brandt Botterill"
+        },
+        {
+          "number": "0",
+          "name": "Elijah Posavad"
+        },
+        {
+          "number": "0",
+          "name": "Gavin Shady"
+        },
+        {
+          "number": "0",
+          "name": "Ian Mugglin"
+        },
+        {
+          "number": "0",
+          "name": "Ian Ottaviani"
+        },
+        {
+          "number": "0",
+          "name": "Jacob Moreno"
+        },
+        {
+          "number": "0",
+          "name": "Katherine Storlie"
+        },
+        {
+          "number": "0",
+          "name": "Micah Lind"
+        },
+        {
+          "number": "0",
+          "name": "Michael Murphy"
+        },
+        {
+          "number": "0",
+          "name": "Samuel Mellema"
+        },
+        {
+          "number": "10",
+          "name": "Abby Rau"
+        },
+        {
+          "number": "35",
+          "name": "Joshua Anderson"
+        }
+      ]
+    },
+    {
+      "name": "Minnesota (C)",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Rubber Ducky",
+        "location": "Minneapolis, Minnesota",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Aiden Gorman"
+        },
+        {
+          "number": "0",
+          "name": "Avi Prager"
+        },
+        {
+          "number": "0",
+          "name": "Ben Christenson"
+        },
+        {
+          "number": "0",
+          "name": "Benjamin Dockerty"
+        },
+        {
+          "number": "0",
+          "name": "Caleb Fravel"
+        },
+        {
+          "number": "0",
+          "name": "Dillon Steeves"
+        },
+        {
+          "number": "0",
+          "name": "Dylan Ringer"
+        },
+        {
+          "number": "0",
+          "name": "Mason Overman "
+        },
+        {
+          "number": "0",
+          "name": "Neil Roy"
+        },
+        {
+          "number": "0",
+          "name": "Nikolas Van Nelson"
+        },
+        {
+          "number": "0",
+          "name": "Will Beaumaster"
+        },
+        {
+          "number": "7",
+          "name": "Ty Sibinski"
+        },
+        {
+          "number": "8",
+          "name": "Ian Wang"
+        },
+        {
+          "number": "10",
+          "name": "Parker Jelen"
+        },
+        {
+          "number": "13",
+          "name": "Johannes Laurila"
+        },
+        {
+          "number": "16",
+          "name": "Peter Nuon"
+        },
+        {
+          "number": "17",
+          "name": "Sam Revermann"
+        },
+        {
+          "number": "19",
+          "name": "Ben Hunter"
+        },
+        {
+          "number": "24",
+          "name": "Jonathan Ip"
+        },
+        {
+          "number": "27",
+          "name": "Anders Bergren"
+        },
+        {
+          "number": "32",
+          "name": "Mason Hamar"
+        },
+        {
+          "number": "37",
+          "name": "Dev Patel"
+        },
+        {
+          "number": "42",
+          "name": "Vincent Norton"
+        },
+        {
+          "number": "99",
+          "name": "Ian Brudnak Voss"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Field",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Minnesota (B)",
+              "team2": "St Thomas",
+              "score1": 11,
+              "score2": 8,
+              "datetime": "2024-03-21T21:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Minnesota (B)",
+              "team2": "Minnesota-Duluth",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2024-03-23T09:30:00Z",
+              "round": "",
+              "status": "Cancelled"
+            },
+            {
+              "team1": "Macalester",
+              "team2": "Minnesota-Duluth",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2024-03-23T10:45:00Z",
+              "round": "",
+              "status": "Cancelled"
+            },
+            {
+              "team1": "Macalester",
+              "team2": "Minnesota (B)",
+              "score1": 7,
+              "score2": 6,
+              "datetime": "2024-03-23T12:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Minnesota (B)",
+              "team2": "Bethel",
+              "score1": 11,
+              "score2": 3,
+              "datetime": "2024-03-23T13:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Minnesota (B)",
+              "team2": "Minnesota (C)",
+              "score1": 11,
+              "score2": 1,
+              "datetime": "2024-03-28T21:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2023/2023-Womens-East-Coast-Sectional-ChampionshipClub-Women",
+  "sourceUrl": "https://play.usaultimate.org/events/2023-Womens-East-Coast-Sectional-Championship/schedule/Women/Club-Women/",
+  "scrapedAt": "2026-08-28T10:06:19.332643Z",
+  "event": {
+    "name": "2023 Women's East Coast Sectional Championship",
+    "division": "Club - Women ",
+    "gender": "",
+    "season": 2023,
+    "city": "Chattanooga",
+    "state": "TN",
+    "country": "",
+    "startDate": "2023-09-09",
+    "endDate": "2023-09-10"
+  },
+  "teams": [
+    {
+      "name": "Magma",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Marietta, Georgia",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Caitlin Aycock"
+        },
+        {
+          "number": "0",
+          "name": "Caroline Ponticelli"
+        },
+        {
+          "number": "0",
+          "name": "Charlene Hawkins"
+        },
+        {
+          "number": "0",
+          "name": "Elise Erickson"
+        },
+        {
+          "number": "0",
+          "name": "Ella Dittmer"
+        },
+        {
+          "number": "0",
+          "name": "Elshaddai Girma"
+        },
+        {
+          "number": "0",
+          "name": "Elyse Anderson"
+        },
+        {
+          "number": "0",
+          "name": "Gennie Mansi"
+        },
+        {
+          "number": "0",
+          "name": "Gloria Wu"
+        },
+        {
+          "number": "0",
+          "name": "Juliana Thomas"
+        },
+        {
+          "number": "0",
+          "name": "Katherine Mittleider"
+        },
+        {
+          "number": "0",
+          "name": "Kylie Murphy"
+        },
+        {
+          "number": "0",
+          "name": "Kylie Mink"
+        },
+        {
+          "number": "0",
+          "name": "Anna Gustafson"
+        },
+        {
+          "number": "0",
+          "name": "Annalise Paul"
+        },
+        {
+          "number": "0",
+          "name": "Ari Key"
+        },
+        {
+          "number": "0",
+          "name": "Valerie Sandoval"
+        },
+        {
+          "number": "0",
+          "name": "Vivian Goddard"
+        },
+        {
+          "number": "0",
+          "name": "Zion Oh"
+        },
+        {
+          "number": "16",
+          "name": "Madeleine Frey"
+        },
+        {
+          "number": "20",
+          "name": "Sydney Tucker"
+        },
+        {
+          "number": "20",
+          "name": "Ariba Lakhani"
+        },
+        {
+          "number": "26",
+          "name": "Sarah Rodriguez"
+        },
+        {
+          "number": "55",
+          "name": "Esme Ruengvivatpant"
+        },
+        {
+          "number": "72",
+          "name": "Mechelle Chen"
+        }
+      ]
+    },
+    {
+      "name": "KnoxFusion",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Knoxville, Tennessee",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "3",
+          "name": "Metta Devine-Qin"
+        },
+        {
+          "number": "5",
+          "name": "Amaya Yarid"
+        },
+        {
+          "number": "6",
+          "name": "Julianne Cook"
+        },
+        {
+          "number": "7",
+          "name": "Michelle Van Guilder"
+        },
+        {
+          "number": "9",
+          "name": "Sarah Hunter"
+        },
+        {
+          "number": "01",
+          "name": "Ellie Stanfield"
+        },
+        {
+          "number": "04",
+          "name": "Ashley West"
+        },
+        {
+          "number": "13",
+          "name": "Rachel Sproles"
+        },
+        {
+          "number": "21",
+          "name": "MaryKate Leatherwood"
+        },
+        {
+          "number": "22",
+          "name": "Cait Gagnon"
+        },
+        {
+          "number": "23",
+          "name": "Grace Fielder"
+        },
+        {
+          "number": "24",
+          "name": "Emily  Branson"
+        },
+        {
+          "number": "26",
+          "name": "Bethany Bailey"
+        },
+        {
+          "number": "47",
+          "name": "Josephine Millington"
+        },
+        {
+          "number": "48",
+          "name": "Nettie Kimery"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "East Coast Women's Sectionals",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "KnoxFusion",
+              "team2": "Magma",
+              "score1": 9,
+              "score2": 12,
+              "datetime": "2023-09-10T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

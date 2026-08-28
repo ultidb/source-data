@@ -1,0 +1,263 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2021/Hudson-Valley-D-I-College-Mens-CC-2021CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/Hudson-Valley-D-I-College-Mens-CC-2021/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:17.803280Z",
+  "event": {
+    "name": "Hudson Valley D-I College Men's CC 2021",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2021,
+    "city": "Saratoga Springs",
+    "state": "NY",
+    "country": "",
+    "startDate": "2021-10-16",
+    "endDate": "2021-10-17"
+  },
+  "teams": [
+    {
+      "name": "Yale",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Süperfly",
+        "location": "New Haven, Connecticut",
+        "website": "http://superfly.sites.yale.edu",
+        "facebook": "https://www.facebook.com/SuperflyUltimate",
+        "twitter": "https://twitter.com/yalesuperfly"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Ben Chaimberg"
+        },
+        {
+          "number": "0",
+          "name": "Charlie Loitman"
+        },
+        {
+          "number": "0",
+          "name": "Daniel Liu"
+        },
+        {
+          "number": "0",
+          "name": "Daniel Ortega"
+        },
+        {
+          "number": "0",
+          "name": "Dashiell Stevanovich"
+        },
+        {
+          "number": "0",
+          "name": "Elijah  Kennard"
+        },
+        {
+          "number": "0",
+          "name": "Harry Greenblatt"
+        },
+        {
+          "number": "0",
+          "name": "Neal Ma"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Chiao"
+        },
+        {
+          "number": "0",
+          "name": "Thomas Nardini"
+        },
+        {
+          "number": "0",
+          "name": "Zubin Birnbach"
+        },
+        {
+          "number": "1",
+          "name": "Masayuki Nagase"
+        },
+        {
+          "number": "2",
+          "name": "Daniel Monteagudo"
+        },
+        {
+          "number": "4",
+          "name": "Jackson du Pont"
+        },
+        {
+          "number": "4",
+          "name": "Seho Young"
+        },
+        {
+          "number": "5",
+          "name": "Javier Pardo"
+        },
+        {
+          "number": "6",
+          "name": "Leo Lehrer-Small"
+        },
+        {
+          "number": "9",
+          "name": "Nayan Birnbach"
+        },
+        {
+          "number": "12",
+          "name": "Kent Perlmutter"
+        },
+        {
+          "number": "17",
+          "name": "Kosuke Tominaga"
+        },
+        {
+          "number": "21",
+          "name": "Andrew Weitzman"
+        },
+        {
+          "number": "38",
+          "name": "Robert  Luo"
+        },
+        {
+          "number": "64",
+          "name": "George Reichenbach"
+        },
+        {
+          "number": "69",
+          "name": "Gandhar Mahadeshwar"
+        },
+        {
+          "number": "98",
+          "name": "Jonah Sparling"
+        },
+        {
+          "number": "99",
+          "name": "Micah Derringer"
+        }
+      ]
+    },
+    {
+      "name": "SUNY-Albany",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "SCAM",
+        "location": "Albany, New York",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Daniel Bishop"
+        },
+        {
+          "number": "0",
+          "name": "Sean White"
+        },
+        {
+          "number": "0",
+          "name": "Spencer Li"
+        },
+        {
+          "number": "01",
+          "name": "Griffin Malcolm"
+        },
+        {
+          "number": "03",
+          "name": "Aidan Mclaren"
+        },
+        {
+          "number": "06",
+          "name": "Matthew O'Brien"
+        },
+        {
+          "number": "10",
+          "name": "Christopher Munsch"
+        },
+        {
+          "number": "11",
+          "name": "Jacob Buono"
+        },
+        {
+          "number": "12",
+          "name": "Nathaniel Simons"
+        },
+        {
+          "number": "13",
+          "name": "Max Weissman"
+        },
+        {
+          "number": "22",
+          "name": "Joseph Regan"
+        },
+        {
+          "number": "25",
+          "name": "Anthony Provenzano"
+        },
+        {
+          "number": "27",
+          "name": "Kyle  Behrenfeld"
+        },
+        {
+          "number": "37",
+          "name": "Edwin Rodriguez"
+        },
+        {
+          "number": "38",
+          "name": "Kenny Eckenberg"
+        },
+        {
+          "number": "45",
+          "name": "Dean Schepisi"
+        },
+        {
+          "number": "53",
+          "name": "Kevin  Gelabert"
+        },
+        {
+          "number": "54",
+          "name": "Zachary Bruno"
+        },
+        {
+          "number": "67",
+          "name": "Greg Hemmes"
+        },
+        {
+          "number": "77",
+          "name": "Winter Exley"
+        },
+        {
+          "number": "94",
+          "name": "Kevin Schoenau"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Championship",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Yale",
+              "team2": "SUNY-Albany",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2021-10-17T13:10:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

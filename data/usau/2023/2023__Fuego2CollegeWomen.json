@@ -1,0 +1,240 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2023/Fuego2CollegeWomen",
+  "sourceUrl": "https://play.usaultimate.org/events/Fuego2/schedule/Women/CollegeWomen/",
+  "scrapedAt": "2026-08-28T10:06:19.483580Z",
+  "event": {
+    "name": "Fuego 2023",
+    "division": "College - Women ",
+    "gender": "",
+    "season": 2023,
+    "city": "Vineland",
+    "state": "NJ",
+    "country": "",
+    "startDate": "2023-04-01",
+    "endDate": "2023-04-02"
+  },
+  "teams": [
+    {
+      "name": "West Chester",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "West Chester",
+        "location": "West Chester, Pennsylvania",
+        "website": "https://dubcultimate.wixsite.com/wcuwomensultimate",
+        "facebook": "https://www.facebook.com/westchesterultimate/",
+        "twitter": "@WcuWomens"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Kaitlyn Gundersen"
+        },
+        {
+          "number": "0",
+          "name": "Karis Lawrence "
+        },
+        {
+          "number": "0",
+          "name": "Kelly Loughin"
+        },
+        {
+          "number": "0",
+          "name": "Kiley Watson"
+        },
+        {
+          "number": "0",
+          "name": "Krista Maurizi"
+        },
+        {
+          "number": "0",
+          "name": "Madelyn McCullough"
+        },
+        {
+          "number": "0",
+          "name": "Rachel Scranton"
+        },
+        {
+          "number": "0",
+          "name": "Sophia Cordes"
+        },
+        {
+          "number": "0",
+          "name": "Abigail Goodwin"
+        },
+        {
+          "number": "0",
+          "name": "Ashley Goodwin"
+        },
+        {
+          "number": "0",
+          "name": "Bela Soriano"
+        },
+        {
+          "number": "0",
+          "name": "Bridget  Clarke "
+        },
+        {
+          "number": "0",
+          "name": "Edna Masic"
+        },
+        {
+          "number": "0",
+          "name": "Emma Hamilton"
+        },
+        {
+          "number": "2",
+          "name": "Jules Sherner"
+        },
+        {
+          "number": "29",
+          "name": "Diana Vu"
+        }
+      ]
+    },
+    {
+      "name": "Dickinson",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Junkyard Turkeys",
+        "location": "Carlisle, Pennsylvania",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/jfturks"
+      },
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Temple  (B)",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "T.U.B",
+        "location": "Philadelphia, Pennsylvania",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Abby Greendyk"
+        },
+        {
+          "number": "0",
+          "name": "Arianna Reischer"
+        },
+        {
+          "number": "0",
+          "name": "Clarissa Powell"
+        },
+        {
+          "number": "0",
+          "name": "Denerie Jewel Monces"
+        },
+        {
+          "number": "0",
+          "name": "Emma Battista "
+        },
+        {
+          "number": "0",
+          "name": "Grace Mooney"
+        },
+        {
+          "number": "0",
+          "name": "Hannah Seeley"
+        },
+        {
+          "number": "0",
+          "name": "Isabel Gallard"
+        },
+        {
+          "number": "0",
+          "name": "Julia Kraynak"
+        },
+        {
+          "number": "0",
+          "name": "Julia Fidgett"
+        },
+        {
+          "number": "0",
+          "name": "Maddie Grande"
+        },
+        {
+          "number": "0",
+          "name": "Marcie Grayson"
+        },
+        {
+          "number": "0",
+          "name": "Margaret Zimmer"
+        },
+        {
+          "number": "0",
+          "name": "Sam Zelling"
+        },
+        {
+          "number": "0",
+          "name": "Sydney Basinger"
+        },
+        {
+          "number": "0",
+          "name": "Willow Neske"
+        },
+        {
+          "number": "12",
+          "name": "Yaxin Wang"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Dickinson",
+              "team2": "Temple  (B)",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2023-04-01T10:30:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "West Chester",
+              "team2": "Temple  (B)",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2023-04-01T12:10:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "West Chester",
+              "team2": "Dickinson",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2023-04-01T13:50:00Z",
+              "round": "",
+              "status": "Scheduled"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

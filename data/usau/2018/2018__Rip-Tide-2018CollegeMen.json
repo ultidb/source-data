@@ -1,0 +1,876 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2018/Rip-Tide-2018CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/Rip-Tide-2018/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:15.774376Z",
+  "event": {
+    "name": "Rip Tide 2018",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2018,
+    "city": "North Myrtle Beach",
+    "state": "SC",
+    "country": "",
+    "startDate": "2018-03-17",
+    "endDate": "2018-03-18"
+  },
+  "teams": [
+    {
+      "name": "Maryland-Baltimore County",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Booya",
+        "location": "Baltimore, Maryland",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "6",
+          "name": "Collin Muhler"
+        },
+        {
+          "number": "7",
+          "name": "Joseph Ricks"
+        },
+        {
+          "number": "14",
+          "name": "Ethan Griffin"
+        },
+        {
+          "number": "16",
+          "name": "Garrett Goltz"
+        },
+        {
+          "number": "18",
+          "name": "Nandu Rami"
+        },
+        {
+          "number": "19",
+          "name": "Ben Rampolla"
+        },
+        {
+          "number": "20",
+          "name": "Noah Wallack"
+        },
+        {
+          "number": "21",
+          "name": "Will Oktavec"
+        },
+        {
+          "number": "24",
+          "name": "Justin Taylor"
+        },
+        {
+          "number": "25",
+          "name": "Colby Agar"
+        },
+        {
+          "number": "27",
+          "name": "Scott Bennett"
+        },
+        {
+          "number": "32",
+          "name": "Christopher McCormick"
+        },
+        {
+          "number": "37",
+          "name": "Max Trifillis"
+        },
+        {
+          "number": "47",
+          "name": "Brandon Turnbaugh"
+        },
+        {
+          "number": "55",
+          "name": "Anmol Tewari"
+        },
+        {
+          "number": "57",
+          "name": "Jason Chang"
+        },
+        {
+          "number": "69",
+          "name": "Manuel Miranda"
+        },
+        {
+          "number": "72",
+          "name": "Derek Frazer"
+        },
+        {
+          "number": "77",
+          "name": "Ryan Johnston"
+        },
+        {
+          "number": "78",
+          "name": "Samuel Butler"
+        },
+        {
+          "number": "81",
+          "name": "Michael Healey"
+        },
+        {
+          "number": "82",
+          "name": "James Ducey"
+        },
+        {
+          "number": "83",
+          "name": "Sean Hill"
+        }
+      ]
+    },
+    {
+      "name": "SUNY-Fredonia",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Terrifying Turtles",
+        "location": "Fredonia, New York",
+        "website": "",
+        "facebook": "https://www.facebook.com/groups/248344905192884/",
+        "twitter": "https://twitter.com/fredoniault"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Graham Jones"
+        },
+        {
+          "number": "0",
+          "name": "Jacob Favret"
+        },
+        {
+          "number": "0",
+          "name": "Jason Opferbeck "
+        },
+        {
+          "number": "0",
+          "name": "Kevin Siracuse"
+        },
+        {
+          "number": "0",
+          "name": "Luke Lockwood"
+        },
+        {
+          "number": "0",
+          "name": "Martin Moellendorf"
+        },
+        {
+          "number": "0",
+          "name": "Matthew Rhule"
+        },
+        {
+          "number": "0",
+          "name": "Michael Castellano"
+        },
+        {
+          "number": "0",
+          "name": "Mitchell Storm"
+        },
+        {
+          "number": "0",
+          "name": "Morgan Brown"
+        },
+        {
+          "number": "0",
+          "name": "Nicholas Gamble"
+        },
+        {
+          "number": "0",
+          "name": "Patrick Legg"
+        },
+        {
+          "number": "0",
+          "name": "Zac Holbrook"
+        },
+        {
+          "number": "2",
+          "name": "Adam Bubb"
+        },
+        {
+          "number": "8",
+          "name": "Shane Watts"
+        },
+        {
+          "number": "8",
+          "name": "Shawn Watts"
+        },
+        {
+          "number": "8",
+          "name": "Josh Goodhue"
+        },
+        {
+          "number": "9",
+          "name": "Jonathan Gill"
+        },
+        {
+          "number": "23",
+          "name": "Tyler Seegars"
+        },
+        {
+          "number": "26",
+          "name": "Lucas Natali"
+        },
+        {
+          "number": "34",
+          "name": "Josiel Tejada"
+        },
+        {
+          "number": "50",
+          "name": "Jake McKay"
+        },
+        {
+          "number": "69",
+          "name": "Kolton Stow"
+        }
+      ]
+    },
+    {
+      "name": "Messiah",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Falcons",
+        "location": "Mechanicsburg, Pennsylvania",
+        "website": "messiah.edu",
+        "facebook": "https://www.facebook.com/messiahultimate",
+        "twitter": "https://www.twitter.com/messiahultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Andrew Hernandez"
+        },
+        {
+          "number": "0",
+          "name": "Brandon Bickom"
+        },
+        {
+          "number": "0",
+          "name": "Caleb Danehower "
+        },
+        {
+          "number": "0",
+          "name": "Evan Poust"
+        },
+        {
+          "number": "0",
+          "name": "Matthew O'Neil"
+        },
+        {
+          "number": "0",
+          "name": "Matthew Brown"
+        },
+        {
+          "number": "0",
+          "name": "Matthew Hura"
+        },
+        {
+          "number": "0",
+          "name": "Joshua Beiler"
+        },
+        {
+          "number": "0",
+          "name": "Nathan Baum"
+        },
+        {
+          "number": "7",
+          "name": "Daniel Vallette"
+        },
+        {
+          "number": "10",
+          "name": "Logan Knepper"
+        },
+        {
+          "number": "11",
+          "name": "Mitchell Lauer"
+        },
+        {
+          "number": "14",
+          "name": "Billy Minner"
+        },
+        {
+          "number": "17",
+          "name": "Aaron Olney"
+        },
+        {
+          "number": "18",
+          "name": "Daniel Sidell"
+        },
+        {
+          "number": "25",
+          "name": "Aaron Lucas"
+        },
+        {
+          "number": "28",
+          "name": "Josh Kripas"
+        },
+        {
+          "number": "34",
+          "name": "Corey Bean"
+        },
+        {
+          "number": "38",
+          "name": "Jake Lucas"
+        },
+        {
+          "number": "50",
+          "name": "Matt Burkhead"
+        },
+        {
+          "number": "64",
+          "name": "Geoffrey McClary"
+        },
+        {
+          "number": "81",
+          "name": "Zachary Feister"
+        },
+        {
+          "number": "94",
+          "name": "Nate Harnish"
+        }
+      ]
+    },
+    {
+      "name": "Carleton College-Hot Karls",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Hot Karls",
+        "location": "Northfield, Minnesota",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/HotKarlsAreOK"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "2",
+          "name": "Tim Adler"
+        },
+        {
+          "number": "3",
+          "name": "Fin Ouweleen"
+        },
+        {
+          "number": "6",
+          "name": "David Gallagher"
+        },
+        {
+          "number": "9",
+          "name": "Micah Nacht"
+        },
+        {
+          "number": "04",
+          "name": "Ben Sirulnik"
+        },
+        {
+          "number": "07",
+          "name": "Will Thompson"
+        },
+        {
+          "number": "08",
+          "name": "Blake Johnson"
+        },
+        {
+          "number": "10",
+          "name": "Simon Bilsky-Rollins"
+        },
+        {
+          "number": "11",
+          "name": "Samuel Miles"
+        },
+        {
+          "number": "12",
+          "name": "Samuel Nozaki"
+        },
+        {
+          "number": "14",
+          "name": "Eli Inkelas"
+        },
+        {
+          "number": "15",
+          "name": "Tim Mikulski"
+        },
+        {
+          "number": "16",
+          "name": "Nick Leeke"
+        },
+        {
+          "number": "17",
+          "name": "Sam Stevenson"
+        },
+        {
+          "number": "18",
+          "name": "Ishmael Maxwell"
+        },
+        {
+          "number": "19",
+          "name": "Samuel Terwilliger"
+        },
+        {
+          "number": "20",
+          "name": "Christopher Leppink-Shands"
+        },
+        {
+          "number": "21",
+          "name": "Dennis Wei"
+        },
+        {
+          "number": "22",
+          "name": "Gavin Young"
+        },
+        {
+          "number": "23",
+          "name": "Gabriel Lobet"
+        },
+        {
+          "number": "24",
+          "name": "Julian Szieff"
+        },
+        {
+          "number": "25",
+          "name": "Finnian Tierney"
+        },
+        {
+          "number": "26",
+          "name": "Zach DiNardo"
+        },
+        {
+          "number": "33",
+          "name": "Silas Monahan"
+        },
+        {
+          "number": "34",
+          "name": "Louis Stein"
+        },
+        {
+          "number": "36",
+          "name": "Miko Zeldes-Roth"
+        },
+        {
+          "number": "42",
+          "name": "Caleb Rosen"
+        },
+        {
+          "number": "43",
+          "name": "Aidan Wolff-King"
+        },
+        {
+          "number": "49",
+          "name": "Alex Adamczyk"
+        },
+        {
+          "number": "58",
+          "name": "Daniel Atkins"
+        },
+        {
+          "number": "69",
+          "name": "Ezra  Ward-Packard"
+        },
+        {
+          "number": "94",
+          "name": "Ethan Ta"
+        }
+      ]
+    },
+    {
+      "name": "Wisconsin-Milwaukee (B)",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "BLACKOUT",
+        "location": "Milwaukee, Wisconsin",
+        "website": "",
+        "facebook": "https://www.facebook.com/BlackCatUltimate/",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Andrew Moyer"
+        },
+        {
+          "number": "1",
+          "name": "Tyler Dworshok"
+        },
+        {
+          "number": "2",
+          "name": "Adam Hunter"
+        },
+        {
+          "number": "8",
+          "name": "brenden nihart"
+        },
+        {
+          "number": "8",
+          "name": "Simon Sweeney"
+        },
+        {
+          "number": "10",
+          "name": "Ty Stetler"
+        },
+        {
+          "number": "11",
+          "name": "Cal Martin"
+        },
+        {
+          "number": "12",
+          "name": "Jeremiah Sprengel"
+        },
+        {
+          "number": "13",
+          "name": "Nicholas King"
+        },
+        {
+          "number": "17",
+          "name": "Mark Taylor"
+        },
+        {
+          "number": "21",
+          "name": "Brett Zingler"
+        },
+        {
+          "number": "23",
+          "name": "Nicholas  Janezic"
+        },
+        {
+          "number": "27",
+          "name": "Jacob Christopherson"
+        },
+        {
+          "number": "28",
+          "name": "Corvan Kotlarek"
+        },
+        {
+          "number": "31",
+          "name": "Edwin deWerff"
+        }
+      ]
+    },
+    {
+      "name": "St Lawrence",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Ruckus Bus",
+        "location": "Canton, New York",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Hartel Smith"
+        },
+        {
+          "number": "03",
+          "name": "Jean-Pierre Torras"
+        },
+        {
+          "number": "04",
+          "name": "Hannah Jones"
+        },
+        {
+          "number": "07",
+          "name": "Christopher Denham"
+        },
+        {
+          "number": "08",
+          "name": "Helen Eifert"
+        },
+        {
+          "number": "09",
+          "name": "Jack Greene"
+        },
+        {
+          "number": "10",
+          "name": "Matthew Bitzer"
+        },
+        {
+          "number": "13",
+          "name": "Brock Meaker"
+        },
+        {
+          "number": "14",
+          "name": "Acacia Farber-Krug"
+        },
+        {
+          "number": "15",
+          "name": "Nicholas Lynn"
+        },
+        {
+          "number": "18",
+          "name": "Conner Shumway"
+        },
+        {
+          "number": "26",
+          "name": "John Hoefler"
+        },
+        {
+          "number": "40",
+          "name": "James Lehner"
+        },
+        {
+          "number": "82",
+          "name": "Quinlan Ashmore"
+        },
+        {
+          "number": "88",
+          "name": "Joshua Elmer"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Men's Day 1",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Messiah",
+              "team2": "Carleton College-Hot Karls",
+              "score1": 11,
+              "score2": 8,
+              "datetime": "2018-03-17T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Messiah",
+              "team2": "SUNY-Fredonia",
+              "score1": 8,
+              "score2": 11,
+              "datetime": "2018-03-17T13:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Maryland-Baltimore County",
+              "team2": "SUNY-Fredonia",
+              "score1": 13,
+              "score2": 4,
+              "datetime": "2018-03-17T15:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Maryland-Baltimore County",
+              "team2": "Carleton College-Hot Karls",
+              "score1": 13,
+              "score2": 8,
+              "datetime": "2018-03-17T16:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Messiah",
+              "team2": "Maryland-Baltimore County",
+              "score1": 7,
+              "score2": 13,
+              "datetime": "2018-03-17T18:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "SUNY-Fredonia",
+              "team2": "Carleton College-Hot Karls",
+              "score1": 10,
+              "score2": 9,
+              "datetime": "2018-03-17T18:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "SUNY-Fredonia",
+              "team2": "Wisconsin-Milwaukee (B)",
+              "score1": 13,
+              "score2": 4,
+              "datetime": "2018-03-18T00:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Maryland-Baltimore County",
+              "team2": "Wisconsin-Milwaukee (B)",
+              "score1": 13,
+              "score2": 2,
+              "datetime": "2018-03-18T01:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Wisconsin-Milwaukee (B)",
+              "team2": "Carleton College-Hot Karls",
+              "score1": 4,
+              "score2": 13,
+              "datetime": "2018-03-18T03:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Messiah",
+              "team2": "Wisconsin-Milwaukee (B)",
+              "score1": 13,
+              "score2": 2,
+              "datetime": "2018-03-18T04:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "pools",
+      "name": "2 Pools",
+      "groups": [
+        {
+          "name": "Pool B",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Messiah",
+              "team2": "Carleton College-Hot Karls",
+              "score1": 7,
+              "score2": 10,
+              "datetime": "2018-03-18T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Wisconsin-Milwaukee (B)",
+              "team2": "Carleton College-Hot Karls",
+              "score1": 6,
+              "score2": 11,
+              "datetime": "2018-03-18T23:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Messiah",
+              "team2": "Wisconsin-Milwaukee (B)",
+              "score1": 11,
+              "score2": 5,
+              "datetime": "2018-03-19T02:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool C",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "SUNY-Fredonia",
+              "team2": "St Lawrence",
+              "score1": 10,
+              "score2": 8,
+              "datetime": "2018-03-18T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Maryland-Baltimore County",
+              "team2": "St Lawrence",
+              "score1": 13,
+              "score2": 8,
+              "datetime": "2018-03-18T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Maryland-Baltimore County",
+              "team2": "SUNY-Fredonia",
+              "score1": 9,
+              "score2": 10,
+              "datetime": "2018-03-18T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "clusters",
+      "name": "Crossover Games",
+      "groups": [
+        {
+          "name": "Crossover",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Messiah",
+              "team2": "Maryland-Baltimore County",
+              "score1": 12,
+              "score2": 7,
+              "datetime": "2018-03-18T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Carleton College-Hot Karls",
+              "team2": "St Lawrence",
+              "score1": 13,
+              "score2": 5,
+              "datetime": "2018-03-18T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "SUNY-Fredonia",
+              "team2": "Wisconsin-Milwaukee (B)",
+              "score1": 11,
+              "score2": 3,
+              "datetime": "2018-03-19T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Finals",
+      "groups": [
+        {
+          "name": "Finals",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "SUNY-Fredonia",
+              "team2": "Carleton College-Hot Karls",
+              "score1": 10,
+              "score2": 7,
+              "datetime": "2018-03-18T15:45:00Z",
+              "round": "Finals",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

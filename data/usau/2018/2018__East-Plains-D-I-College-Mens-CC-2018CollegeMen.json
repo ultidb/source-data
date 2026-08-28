@@ -1,0 +1,884 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2018/East-Plains-D-I-College-Mens-CC-2018CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/East-Plains-D-I-College-Mens-CC-2018/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:15.391815Z",
+  "event": {
+    "name": "East Plains D-I College Men's CC 2018",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2018,
+    "city": "Evansville",
+    "state": "IN",
+    "country": "",
+    "startDate": "2018-04-21",
+    "endDate": "2018-04-22"
+  },
+  "teams": [
+    {
+      "name": "Notre Dame",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Papal Rage",
+        "location": "Notre Dame, Indiana",
+        "website": "https://ndultimate.wordpress.com/",
+        "facebook": "",
+        "twitter": "@ndultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Benjamin Elder"
+        },
+        {
+          "number": "0",
+          "name": "Christopher Connolly"
+        },
+        {
+          "number": "0",
+          "name": "Connor Bert"
+        },
+        {
+          "number": "0",
+          "name": "Isaac Bushue"
+        },
+        {
+          "number": "0",
+          "name": "Jesse Shank"
+        },
+        {
+          "number": "0",
+          "name": "Joe Nolan"
+        },
+        {
+          "number": "0",
+          "name": "Mike Rozelsky"
+        },
+        {
+          "number": "0",
+          "name": "Thomas Lawton"
+        },
+        {
+          "number": "0",
+          "name": "Tyler Hull"
+        },
+        {
+          "number": "2",
+          "name": "Stephen Babcock"
+        },
+        {
+          "number": "3",
+          "name": "Bailey Blum"
+        },
+        {
+          "number": "6",
+          "name": "Colin MacGregor"
+        },
+        {
+          "number": "7",
+          "name": "Luke Brennan"
+        },
+        {
+          "number": "8",
+          "name": "Sean Howley"
+        },
+        {
+          "number": "10",
+          "name": "William OBrien"
+        },
+        {
+          "number": "12",
+          "name": "Charlie Amrein"
+        },
+        {
+          "number": "18",
+          "name": "Steven Campillo"
+        },
+        {
+          "number": "19",
+          "name": "Sebastian Miner"
+        },
+        {
+          "number": "21",
+          "name": "Connor Buckley"
+        },
+        {
+          "number": "27",
+          "name": "Austin Walter"
+        },
+        {
+          "number": "30",
+          "name": "Oliver Hirn"
+        },
+        {
+          "number": "34",
+          "name": "Collin Klenke"
+        },
+        {
+          "number": "35",
+          "name": "Benjamin Seasly"
+        },
+        {
+          "number": "41",
+          "name": "Joseph Oswald"
+        },
+        {
+          "number": "48",
+          "name": "Luke Shanahan"
+        },
+        {
+          "number": "63",
+          "name": "Kel  Beatty"
+        },
+        {
+          "number": "69",
+          "name": "Nick Loughran"
+        },
+        {
+          "number": "76",
+          "name": "Steven Wagner"
+        }
+      ]
+    },
+    {
+      "name": "Purdue",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Undue Ultimate",
+        "location": "West Lafayette, Indiana",
+        "website": "http://web.ics.purdue.edu/~ultimate/",
+        "facebook": "https://www.facebook.com/pages/Purdue-Ultimate-Frisbee/128269583915564",
+        "twitter": "https://twitter.com/UndueUltimate"
+      },
+      "coaches": [
+        "Trevor Kyle"
+      ],
+      "roster": [
+        {
+          "number": "2",
+          "name": "Lowell Knight"
+        },
+        {
+          "number": "3",
+          "name": "Chris Schwappach"
+        },
+        {
+          "number": "5",
+          "name": "Collin Marshall"
+        },
+        {
+          "number": "7",
+          "name": "Shane Bonness"
+        },
+        {
+          "number": "10",
+          "name": "Tucker Born"
+        },
+        {
+          "number": "13",
+          "name": "Jacob Just"
+        },
+        {
+          "number": "14",
+          "name": "Justin Bowling"
+        },
+        {
+          "number": "19",
+          "name": "Conor Smith"
+        },
+        {
+          "number": "22",
+          "name": "Nick Tilford"
+        },
+        {
+          "number": "23",
+          "name": "Sam Ellison"
+        },
+        {
+          "number": "24",
+          "name": "Elliott Eve"
+        },
+        {
+          "number": "26",
+          "name": "Jack Havey"
+        },
+        {
+          "number": "30",
+          "name": "Mike Benner"
+        },
+        {
+          "number": "31",
+          "name": "Matthew VanDokkenburg"
+        },
+        {
+          "number": "33",
+          "name": "Erik Rundlett"
+        },
+        {
+          "number": "36",
+          "name": "Robert Miller"
+        },
+        {
+          "number": "54",
+          "name": "Drew Hirsch"
+        },
+        {
+          "number": "55",
+          "name": "Josh Majors"
+        },
+        {
+          "number": "56",
+          "name": "Zachary Piontek"
+        },
+        {
+          "number": "66",
+          "name": "Patrick Dunn"
+        },
+        {
+          "number": "73",
+          "name": "Alex Green"
+        },
+        {
+          "number": "87",
+          "name": "Chris Vitagliano"
+        },
+        {
+          "number": "88",
+          "name": "Thomas Wadelton"
+        },
+        {
+          "number": "90",
+          "name": "Cody Rice"
+        }
+      ]
+    },
+    {
+      "name": "Kentucky",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "KULT",
+        "location": "Lexington, Kentucky",
+        "website": "http://www.kyultimate.com/",
+        "facebook": "",
+        "twitter": "https://twitter.com/KYUltimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Brandon Guyton"
+        },
+        {
+          "number": "0",
+          "name": "Jay White"
+        },
+        {
+          "number": "1",
+          "name": "Adam Houk"
+        },
+        {
+          "number": "2",
+          "name": "Wei Yang"
+        },
+        {
+          "number": "4",
+          "name": "Daniel Poston"
+        },
+        {
+          "number": "5",
+          "name": "Jeremy Staab"
+        },
+        {
+          "number": "8",
+          "name": "Peyton  Schock"
+        },
+        {
+          "number": "10",
+          "name": "Benjamin Crane"
+        },
+        {
+          "number": "11",
+          "name": "Christopher Empie"
+        },
+        {
+          "number": "15",
+          "name": "Collin O'Donnell"
+        },
+        {
+          "number": "19",
+          "name": "Stephen Hendrickson"
+        },
+        {
+          "number": "21",
+          "name": "Logan Graham"
+        },
+        {
+          "number": "22",
+          "name": "Charlie Fleming"
+        },
+        {
+          "number": "27",
+          "name": "Jacob Royster"
+        },
+        {
+          "number": "29",
+          "name": "Mark Lawhorn Jr"
+        },
+        {
+          "number": "31",
+          "name": "Jackson Bell"
+        },
+        {
+          "number": "33",
+          "name": "Jake Carrico"
+        },
+        {
+          "number": "34",
+          "name": "Luke Huffman"
+        },
+        {
+          "number": "35",
+          "name": "Zachary Stambaugh"
+        },
+        {
+          "number": "44",
+          "name": "Jake Hughes"
+        },
+        {
+          "number": "93",
+          "name": "Richard Murt"
+        },
+        {
+          "number": "94",
+          "name": "Austin Obenauf"
+        }
+      ]
+    },
+    {
+      "name": "Indiana",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "HoosierMama?s",
+        "location": "Bloomington, Indiana",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "1",
+          "name": "Trevor Cook"
+        },
+        {
+          "number": "2",
+          "name": "Blake Fitz"
+        },
+        {
+          "number": "3",
+          "name": "Adrian Golay"
+        },
+        {
+          "number": "4",
+          "name": "Jack Segal"
+        },
+        {
+          "number": "10",
+          "name": "Andrew Fleck"
+        },
+        {
+          "number": "11",
+          "name": "Joe Dweck"
+        },
+        {
+          "number": "14",
+          "name": "Stephen Conner Henderson"
+        },
+        {
+          "number": "17",
+          "name": "Daniel Sullivan"
+        },
+        {
+          "number": "19",
+          "name": "Benjamin Adams"
+        },
+        {
+          "number": "21",
+          "name": "Matthew Nadler"
+        },
+        {
+          "number": "22",
+          "name": "Eric Benenson"
+        },
+        {
+          "number": "23",
+          "name": "Clark Barco"
+        },
+        {
+          "number": "24",
+          "name": "Peter Tavolacci"
+        },
+        {
+          "number": "26",
+          "name": "Sam Resnick"
+        },
+        {
+          "number": "32",
+          "name": "Robert Woodcock"
+        },
+        {
+          "number": "37",
+          "name": "William Carter"
+        },
+        {
+          "number": "42",
+          "name": "Jake Frederickson"
+        },
+        {
+          "number": "47",
+          "name": "Gabriel Wray"
+        },
+        {
+          "number": "51",
+          "name": "Max Hamilton"
+        },
+        {
+          "number": "55",
+          "name": "Eric Hannan"
+        },
+        {
+          "number": "56",
+          "name": "Cullen Booth"
+        },
+        {
+          "number": "73",
+          "name": "Nathan Roush"
+        },
+        {
+          "number": "81",
+          "name": "Matthew McHugh"
+        },
+        {
+          "number": "85",
+          "name": "Kwunho Wu"
+        }
+      ]
+    },
+    {
+      "name": "Ball State",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Cardinals",
+        "location": "Muncie, Indiana",
+        "website": "http://ballstateultimate.com",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Bradley Kennis"
+        },
+        {
+          "number": "0",
+          "name": "Caleb Spatt"
+        },
+        {
+          "number": "0",
+          "name": "Colby Parker"
+        },
+        {
+          "number": "0",
+          "name": "Damon Huntley"
+        },
+        {
+          "number": "0",
+          "name": "Alex Warfield"
+        },
+        {
+          "number": "0",
+          "name": "Derek Burks"
+        },
+        {
+          "number": "0",
+          "name": "Justin Hess"
+        },
+        {
+          "number": "0",
+          "name": "Justin Martinez-Beckmann"
+        },
+        {
+          "number": "0",
+          "name": "Matthew Nemeth"
+        },
+        {
+          "number": "0",
+          "name": "Noah Pumphrey"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Everton"
+        },
+        {
+          "number": "2",
+          "name": "Nathan Hershberger"
+        },
+        {
+          "number": "4",
+          "name": "Matthew Hentz"
+        },
+        {
+          "number": "11",
+          "name": "Jaden Jarrett"
+        },
+        {
+          "number": "13",
+          "name": "Jullian Thomas"
+        },
+        {
+          "number": "19",
+          "name": "Patrick Murphy"
+        },
+        {
+          "number": "21",
+          "name": "Nik Risser"
+        },
+        {
+          "number": "26",
+          "name": "Joseph Overton"
+        },
+        {
+          "number": "37",
+          "name": "Ben Schwartz"
+        },
+        {
+          "number": "44",
+          "name": "Trenton Schroeder"
+        },
+        {
+          "number": "52",
+          "name": "Garrett Fuelling"
+        },
+        {
+          "number": "70",
+          "name": "Daniel Stephens"
+        }
+      ]
+    },
+    {
+      "name": "Southern Indiana",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Fusion",
+        "location": "Evansville, Indiana",
+        "website": "http://usiultimatefrisbee.weebly.com/",
+        "facebook": "",
+        "twitter": "fUSIonFlatball"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Luc Prevost"
+        },
+        {
+          "number": "01",
+          "name": "Bret Fleetwood"
+        },
+        {
+          "number": "07",
+          "name": "Nathan Sevenish"
+        },
+        {
+          "number": "10",
+          "name": "Blake Altstadt"
+        },
+        {
+          "number": "11",
+          "name": "Isaac Hoffman"
+        },
+        {
+          "number": "12",
+          "name": "Caleb Freeland"
+        },
+        {
+          "number": "13",
+          "name": "Josh Winger"
+        },
+        {
+          "number": "20",
+          "name": "Rafael Gonzalez"
+        },
+        {
+          "number": "24",
+          "name": "Ryan Fehrenbacher"
+        },
+        {
+          "number": "25",
+          "name": "Nicholas Clevidence"
+        },
+        {
+          "number": "28",
+          "name": "Cody Flamion"
+        },
+        {
+          "number": "37",
+          "name": "Montana Muehlbauer"
+        },
+        {
+          "number": "56",
+          "name": "Frank Durchholz"
+        },
+        {
+          "number": "77",
+          "name": "Jack Anderson"
+        },
+        {
+          "number": "88",
+          "name": "Connor Modglin"
+        },
+        {
+          "number": "98",
+          "name": "Mark Wallace-Deynes"
+        },
+        {
+          "number": "99",
+          "name": "Fabian Becerra"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Notre Dame",
+              "team2": "Purdue",
+              "score1": 8,
+              "score2": 7,
+              "datetime": "2018-04-21T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Kentucky",
+              "team2": "Ball State",
+              "score1": 13,
+              "score2": 3,
+              "datetime": "2018-04-21T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Indiana",
+              "team2": "Southern Indiana",
+              "score1": 9,
+              "score2": 8,
+              "datetime": "2018-04-21T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Notre Dame",
+              "team2": "Kentucky",
+              "score1": 13,
+              "score2": 11,
+              "datetime": "2018-04-21T10:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Purdue",
+              "team2": "Indiana",
+              "score1": 11,
+              "score2": 9,
+              "datetime": "2018-04-21T10:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Ball State",
+              "team2": "Southern Indiana",
+              "score1": 12,
+              "score2": 6,
+              "datetime": "2018-04-21T10:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Notre Dame",
+              "team2": "Indiana",
+              "score1": 13,
+              "score2": 7,
+              "datetime": "2018-04-21T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Kentucky",
+              "team2": "Southern Indiana",
+              "score1": 13,
+              "score2": 6,
+              "datetime": "2018-04-21T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Purdue",
+              "team2": "Ball State",
+              "score1": 12,
+              "score2": 7,
+              "datetime": "2018-04-21T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Notre Dame",
+              "team2": "Southern Indiana",
+              "score1": 13,
+              "score2": 4,
+              "datetime": "2018-04-21T13:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Kentucky",
+              "team2": "Purdue",
+              "score1": 7,
+              "score2": 9,
+              "datetime": "2018-04-21T13:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Indiana",
+              "team2": "Ball State",
+              "score1": 13,
+              "score2": 4,
+              "datetime": "2018-04-21T13:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Notre Dame",
+              "team2": "Ball State",
+              "score1": 13,
+              "score2": 4,
+              "datetime": "2018-04-22T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Kentucky",
+              "team2": "Indiana",
+              "score1": 13,
+              "score2": 7,
+              "datetime": "2018-04-22T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Purdue",
+              "team2": "Southern Indiana",
+              "score1": 13,
+              "score2": 3,
+              "datetime": "2018-04-22T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Bracket Play",
+      "groups": [
+        {
+          "name": "1st Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Notre Dame",
+              "team2": "Purdue",
+              "score1": 13,
+              "score2": 7,
+              "datetime": "2018-04-22T10:30:00Z",
+              "round": "1st Place Finals",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "2nd Place Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Purdue",
+              "team2": "Kentucky",
+              "score1": 9,
+              "score2": 6,
+              "datetime": "2018-04-22T12:00:00Z",
+              "round": "2nd Place Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Kentucky",
+              "team2": "Indiana",
+              "score1": 12,
+              "score2": 7,
+              "datetime": "2018-04-22T10:30:00Z",
+              "round": "2nd Place Semis",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "4th Place Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Indiana",
+              "team2": "Southern Indiana",
+              "score1": 11,
+              "score2": 7,
+              "datetime": "2018-04-22T12:00:00Z",
+              "round": "4th Place Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Ball State",
+              "team2": "Southern Indiana",
+              "score1": 11,
+              "score2": 12,
+              "datetime": "2018-04-22T10:30:00Z",
+              "round": "Round Name",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

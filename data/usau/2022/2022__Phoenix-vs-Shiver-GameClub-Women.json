@@ -1,0 +1,242 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2022/Phoenix-vs-Shiver-GameClub-Women",
+  "sourceUrl": "https://play.usaultimate.org/events/Phoenix-vs-Shiver-Game/schedule/Women/Club-Women/",
+  "scrapedAt": "2026-08-28T10:06:18.949978Z",
+  "event": {
+    "name": "Phoenix vs Shiver Game 2022",
+    "division": "Club - Women ",
+    "gender": "",
+    "season": 2022,
+    "city": "Morrisville",
+    "state": "NC",
+    "country": "",
+    "startDate": "2022-08-27",
+    "endDate": "2022-08-28"
+  },
+  "teams": [
+    {
+      "name": "Phoenix",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Raleigh, North Carolina",
+        "website": "http://phoenixultimate.com",
+        "facebook": "https://www.facebook.com/PhxUltimate",
+        "twitter": "https://twitter.com/PhxUltimate"
+      },
+      "coaches": [
+        "David Allison",
+        "Allan Laviolette"
+      ],
+      "roster": [
+        {
+          "number": " ",
+          "name": "Ashley Powell"
+        },
+        {
+          "number": " ",
+          "name": "Jessica Jones"
+        },
+        {
+          "number": " ",
+          "name": "Jinny Riedel"
+        },
+        {
+          "number": "0",
+          "name": "Julia Zwierzynski"
+        },
+        {
+          "number": "0",
+          "name": "Kameryn Groom"
+        },
+        {
+          "number": "0",
+          "name": "Karen Ehrhardt"
+        },
+        {
+          "number": "0",
+          "name": "Keila Strick"
+        },
+        {
+          "number": "0",
+          "name": "Claire Bidigare-Curtis"
+        },
+        {
+          "number": "0",
+          "name": "Ella Juengst"
+        },
+        {
+          "number": "0",
+          "name": "Grace Conerly"
+        },
+        {
+          "number": "0",
+          "name": "Audrey Lyman"
+        },
+        {
+          "number": "0",
+          "name": "Austin Prucha"
+        },
+        {
+          "number": "0",
+          "name": "Alexandra Barnett"
+        },
+        {
+          "number": "0",
+          "name": "Caitlin Gross"
+        },
+        {
+          "number": "0",
+          "name": "Michelle Landis"
+        },
+        {
+          "number": "0",
+          "name": "Sarah McKee"
+        },
+        {
+          "number": "0",
+          "name": "Sarah Meckstroth"
+        },
+        {
+          "number": "0",
+          "name": "Tyler Smith"
+        },
+        {
+          "number": "0",
+          "name": "Mary Rippe"
+        },
+        {
+          "number": "11",
+          "name": "Dawn Culton"
+        },
+        {
+          "number": "14",
+          "name": "Lyla Stanland"
+        },
+        {
+          "number": "15",
+          "name": "Carmen Tormey"
+        },
+        {
+          "number": "20",
+          "name": "Bridget Mizener"
+        },
+        {
+          "number": "22",
+          "name": "Anne Worth"
+        },
+        {
+          "number": "28",
+          "name": "Claire Revere"
+        },
+        {
+          "number": "48",
+          "name": "Maya Powell"
+        }
+      ]
+    },
+    {
+      "name": "Shiver",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Durham, North Carolina",
+        "website": "",
+        "facebook": "https://www.facebook.com/ShiverUltimate",
+        "twitter": "https://twitter.com/shiverultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": " ",
+          "name": "Andrea Spence"
+        },
+        {
+          "number": " ",
+          "name": "Morgan Baxter"
+        },
+        {
+          "number": " ",
+          "name": "Taylor Lewis"
+        },
+        {
+          "number": " ",
+          "name": "Tiffany Wei"
+        },
+        {
+          "number": "0",
+          "name": "Torey Vayer"
+        },
+        {
+          "number": "11",
+          "name": "Anna Butler"
+        },
+        {
+          "number": "19",
+          "name": "Lisa Wei"
+        },
+        {
+          "number": "22",
+          "name": "Brandi Nguyen"
+        },
+        {
+          "number": "24",
+          "name": "Grace Xiang"
+        },
+        {
+          "number": "24",
+          "name": "Alice Wang"
+        },
+        {
+          "number": "28",
+          "name": "Estonia Black"
+        },
+        {
+          "number": "33",
+          "name": "Emma Cole"
+        },
+        {
+          "number": "42",
+          "name": "Fiona Gable"
+        },
+        {
+          "number": "45",
+          "name": "Jennifer Lin"
+        },
+        {
+          "number": "84",
+          "name": "Lissette Rodriguez"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Game 1",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Phoenix",
+              "team2": "Shiver",
+              "score1": 13,
+              "score2": 1,
+              "datetime": "2022-08-27T11:15:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

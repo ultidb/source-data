@@ -1,0 +1,252 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2022/Bourbon-Bash-2022Club-Women",
+  "sourceUrl": "https://play.usaultimate.org/events/Bourbon-Bash-2022/schedule/Women/Club-Women/",
+  "scrapedAt": "2026-08-28T10:06:18.275103Z",
+  "event": {
+    "name": "Bourbon Bash 2022",
+    "division": "Club - Women ",
+    "gender": "",
+    "season": 2022,
+    "city": "Lexington",
+    "state": "KY",
+    "country": "",
+    "startDate": "2022-07-16",
+    "endDate": "2022-07-17"
+  },
+  "teams": [
+    {
+      "name": "Y'all",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Lexington, Kentucky",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/yalltimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": " ",
+          "name": "Margaret Blair"
+        },
+        {
+          "number": "0",
+          "name": "Molly Merchant"
+        },
+        {
+          "number": "0",
+          "name": "Morgan Young"
+        },
+        {
+          "number": "0",
+          "name": "Olivia Hagg"
+        },
+        {
+          "number": "0",
+          "name": "Sarah Cawood"
+        },
+        {
+          "number": "0",
+          "name": "Taylor Baldwin"
+        },
+        {
+          "number": "0",
+          "name": "Aimee Lindemuth"
+        },
+        {
+          "number": "0",
+          "name": "Amber Cox "
+        },
+        {
+          "number": "0",
+          "name": "Anna Goulson"
+        },
+        {
+          "number": "0",
+          "name": "Darcy Fryer"
+        },
+        {
+          "number": "0",
+          "name": "Elise Ketz"
+        },
+        {
+          "number": "0",
+          "name": "Elizabeth Meyer"
+        },
+        {
+          "number": "0",
+          "name": "Emily Brereton"
+        },
+        {
+          "number": "0",
+          "name": "Emily Ashburn"
+        },
+        {
+          "number": "0",
+          "name": "Esther White"
+        },
+        {
+          "number": "0",
+          "name": "Grace Goulson"
+        },
+        {
+          "number": "0",
+          "name": "Halley McLean"
+        },
+        {
+          "number": "0",
+          "name": "Lucy Davis"
+        }
+      ]
+    },
+    {
+      "name": "Sureshot",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Cincinnati, Ohio",
+        "website": "",
+        "facebook": "https://www.facebook.com/sureshotultimate/",
+        "twitter": "https://twitter.com/cincysureshot"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Erin  McDonough"
+        },
+        {
+          "number": "0",
+          "name": "Grace Bao"
+        },
+        {
+          "number": "04",
+          "name": "Kirsten Smith"
+        },
+        {
+          "number": "05",
+          "name": "Sara Kula"
+        },
+        {
+          "number": "06",
+          "name": "Meredith Eichenlaub"
+        },
+        {
+          "number": "08",
+          "name": "Amanda McAuley"
+        },
+        {
+          "number": "10",
+          "name": "Daniela Escalante"
+        },
+        {
+          "number": "11",
+          "name": "Grace Harley"
+        },
+        {
+          "number": "12",
+          "name": "Gretchen Spears"
+        },
+        {
+          "number": "13",
+          "name": "Kate McInerney"
+        },
+        {
+          "number": "14",
+          "name": "Emelia Hinds"
+        },
+        {
+          "number": "19",
+          "name": "Chelsea Partusch"
+        },
+        {
+          "number": "20",
+          "name": "Kristen Coughlin"
+        },
+        {
+          "number": "21",
+          "name": "Liz Anderson"
+        },
+        {
+          "number": "25",
+          "name": "Sydney Bowie"
+        },
+        {
+          "number": "27",
+          "name": "Emilee Armbruster"
+        },
+        {
+          "number": "35",
+          "name": "Lauren Klein"
+        },
+        {
+          "number": "44",
+          "name": "Malika Smoot"
+        },
+        {
+          "number": "45",
+          "name": "Gabriela Alvarado"
+        },
+        {
+          "number": "72",
+          "name": "Kristen Stultz"
+        },
+        {
+          "number": "79",
+          "name": "Jessica Honerlaw"
+        },
+        {
+          "number": "81",
+          "name": "Alex Easterday"
+        },
+        {
+          "number": "82",
+          "name": "Madeline Bonfield"
+        },
+        {
+          "number": "94",
+          "name": "Julie Sebastian"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "clusters",
+      "name": "Bourbon Bash",
+      "groups": [
+        {
+          "name": "Sanctioned Matches",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Y'all",
+              "team2": "Sureshot",
+              "score1": 12,
+              "score2": 8,
+              "datetime": "2022-07-16T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Y'all",
+              "team2": "Sureshot",
+              "score1": 14,
+              "score2": 4,
+              "datetime": "2022-07-16T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

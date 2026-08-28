@@ -1,0 +1,195 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2024/Kernel-Kup-2024CollegeWomen",
+  "sourceUrl": "https://play.usaultimate.org/events/Kernel-Kup-2024/schedule/Women/CollegeWomen/",
+  "scrapedAt": "2026-08-28T10:06:20.840293Z",
+  "event": {
+    "name": "Kernel Kup 2024",
+    "division": "College - Women ",
+    "gender": "",
+    "season": 2024,
+    "city": "College Park",
+    "state": "MD",
+    "country": "",
+    "startDate": "2024-03-09",
+    "endDate": "2024-03-09"
+  },
+  "teams": [
+    {
+      "name": "Maryland",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Helpful Corn",
+        "location": "College Park, Maryland",
+        "website": "https://sites.google.com/site/umdwomensultimate/",
+        "facebook": "https://www.instagram.com/umdwultimate/",
+        "twitter": "https://twitter.com/UMD_HelpfulCorn"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Annika Kuchel"
+        },
+        {
+          "number": "0",
+          "name": "Charlotte Krisetya"
+        },
+        {
+          "number": "0",
+          "name": "Ella Kesler"
+        },
+        {
+          "number": "0",
+          "name": "Eva Shudt"
+        },
+        {
+          "number": "0",
+          "name": "Hannah Holloway"
+        },
+        {
+          "number": "0",
+          "name": "Sarah Joffrion"
+        },
+        {
+          "number": "5",
+          "name": "Alys Shah"
+        },
+        {
+          "number": "7",
+          "name": "Larissa Sakaria"
+        },
+        {
+          "number": "10",
+          "name": "Vanessa Fan"
+        },
+        {
+          "number": "11",
+          "name": "Isabella Wahl"
+        },
+        {
+          "number": "14",
+          "name": "Zoe Barbour"
+        },
+        {
+          "number": "17",
+          "name": "Macy Donahoe"
+        },
+        {
+          "number": "19",
+          "name": "Whitney Orloff"
+        },
+        {
+          "number": "22",
+          "name": "Ellen Rauck"
+        },
+        {
+          "number": "24",
+          "name": "Jeanette Meek"
+        },
+        {
+          "number": "26",
+          "name": "Christina Lee"
+        },
+        {
+          "number": "31",
+          "name": "Sabine May"
+        },
+        {
+          "number": "47",
+          "name": "Maddie Brennan"
+        }
+      ]
+    },
+    {
+      "name": "Towson",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Hammertime",
+        "location": "Towson, Maryland",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Jocelyn Cather"
+        },
+        {
+          "number": "0",
+          "name": "Katherine  Walsh "
+        },
+        {
+          "number": "0",
+          "name": "Kristina Watson"
+        },
+        {
+          "number": "0",
+          "name": "LoRae Dortch"
+        },
+        {
+          "number": "0",
+          "name": "Sarah Schultz"
+        },
+        {
+          "number": "0",
+          "name": "shana Gittleson"
+        },
+        {
+          "number": "0",
+          "name": "Tamara Vallejo-Schmidt"
+        },
+        {
+          "number": "0",
+          "name": "Teodora Consoli"
+        },
+        {
+          "number": "0",
+          "name": "Annelise Riordan"
+        },
+        {
+          "number": "0",
+          "name": "Brooke Davidson"
+        },
+        {
+          "number": "0",
+          "name": "Camille Hoffman"
+        },
+        {
+          "number": "8",
+          "name": "Cate Ness"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Maryland",
+              "team2": "Towson",
+              "score1": 12,
+              "score2": 6,
+              "datetime": "2024-03-09T13:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

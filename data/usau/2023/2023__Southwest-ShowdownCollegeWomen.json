@@ -1,0 +1,682 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2023/Southwest-ShowdownCollegeWomen",
+  "sourceUrl": "https://play.usaultimate.org/events/Southwest-Showdown/schedule/Women/CollegeWomen/",
+  "scrapedAt": "2026-08-28T10:06:19.791828Z",
+  "event": {
+    "name": "Southwest Showdown 2023",
+    "division": "College - Women ",
+    "gender": "",
+    "season": 2023,
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "",
+    "startDate": "2023-04-01",
+    "endDate": "2023-04-02"
+  },
+  "teams": [
+    {
+      "name": "Occidental",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "WAC",
+        "location": "Los Angeles, California",
+        "website": "",
+        "facebook": "https://www.facebook.com/ultimatewomen.oxy/",
+        "twitter": "https://twitter.com/OxyUltimateWAC"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Abbott Hoeven"
+        },
+        {
+          "number": "0",
+          "name": "Abigail Montopoli"
+        },
+        {
+          "number": "0",
+          "name": "Adeline Fabel"
+        },
+        {
+          "number": "0",
+          "name": "Amanda Iglesias"
+        },
+        {
+          "number": "0",
+          "name": "Audrey AlQatami"
+        },
+        {
+          "number": "0",
+          "name": "Ava Letterie"
+        },
+        {
+          "number": "0",
+          "name": "Caitlin Simmons"
+        },
+        {
+          "number": "0",
+          "name": "Claire Wilson-Black"
+        },
+        {
+          "number": "0",
+          "name": "Cynthia Jaquez Sapia-Bosch"
+        },
+        {
+          "number": "0",
+          "name": "Halle Steckel"
+        },
+        {
+          "number": "0",
+          "name": "Holly Frank"
+        },
+        {
+          "number": "0",
+          "name": "Jaya Duckworth"
+        },
+        {
+          "number": "0",
+          "name": "Julia Lindemuth"
+        },
+        {
+          "number": "0",
+          "name": "Justine Brandes"
+        },
+        {
+          "number": "0",
+          "name": "Lily van Linder"
+        },
+        {
+          "number": "0",
+          "name": "Lily Pesikoff"
+        },
+        {
+          "number": "0",
+          "name": "Livia Reider"
+        },
+        {
+          "number": "0",
+          "name": "Meiyi Weisbord"
+        },
+        {
+          "number": "0",
+          "name": "Nora Youngelson"
+        },
+        {
+          "number": "0",
+          "name": "Olivia Burkley"
+        },
+        {
+          "number": "0",
+          "name": "Rachel Schachter"
+        },
+        {
+          "number": "0",
+          "name": "Sarah Jageler"
+        }
+      ]
+    },
+    {
+      "name": "Utah State",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Utah State",
+        "location": "Logan, Utah",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "4",
+          "name": "Corinne Taylor"
+        },
+        {
+          "number": "11",
+          "name": "McKadie Garside"
+        },
+        {
+          "number": "12",
+          "name": "Jadalyn Jensen"
+        },
+        {
+          "number": "13",
+          "name": "Nicole Merrill"
+        },
+        {
+          "number": "16",
+          "name": "Emisha Barnard"
+        },
+        {
+          "number": "18",
+          "name": "Ayzia Ford"
+        },
+        {
+          "number": "20",
+          "name": "Tamma Bahr"
+        },
+        {
+          "number": "23",
+          "name": "Abbey Waechtler"
+        },
+        {
+          "number": "27",
+          "name": "Megan Martin"
+        },
+        {
+          "number": "30",
+          "name": "Kaitlyn Radmall"
+        }
+      ]
+    },
+    {
+      "name": "Grand Canyon",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "FalLopes",
+        "location": "Phoenix, Arizona",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alexis Lambert"
+        },
+        {
+          "number": "0",
+          "name": "Audra Wallenmeyer"
+        },
+        {
+          "number": "0",
+          "name": "Catharine Ball"
+        },
+        {
+          "number": "0",
+          "name": "Chloe Brandow"
+        },
+        {
+          "number": "0",
+          "name": "Halianne Accetturo"
+        },
+        {
+          "number": "0",
+          "name": "Jadia Blake"
+        },
+        {
+          "number": "0",
+          "name": "JoAnn Walker"
+        },
+        {
+          "number": "0",
+          "name": "Lindley Webster"
+        },
+        {
+          "number": "0",
+          "name": "Marissa  Hurst"
+        },
+        {
+          "number": "0",
+          "name": "Megan Close"
+        },
+        {
+          "number": "0",
+          "name": "Rachel  Spoelstra"
+        },
+        {
+          "number": "33",
+          "name": "Manjun Gao"
+        }
+      ]
+    },
+    {
+      "name": "Northern Arizona",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Jines in the Pines",
+        "location": "Flagstaff, Arizona",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Savannah Martinez"
+        },
+        {
+          "number": "02",
+          "name": "Hallie Calhan"
+        },
+        {
+          "number": "03",
+          "name": "Megan Ruby"
+        },
+        {
+          "number": "04",
+          "name": "Alexis Mohler"
+        },
+        {
+          "number": "09",
+          "name": "Edie Cotton"
+        },
+        {
+          "number": "11",
+          "name": "Rachel Kanyur"
+        },
+        {
+          "number": "15",
+          "name": "Kate Martin"
+        },
+        {
+          "number": "19",
+          "name": "Alexandra McGraw"
+        },
+        {
+          "number": "19",
+          "name": "suzel van duyse"
+        },
+        {
+          "number": "21",
+          "name": "Jenna Ta"
+        },
+        {
+          "number": "41",
+          "name": "Rosie Nuccio"
+        },
+        {
+          "number": "89",
+          "name": "Sierra Bostwick"
+        },
+        {
+          "number": "99",
+          "name": "Tara Zurick"
+        }
+      ]
+    },
+    {
+      "name": "California-Davis (B)",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Rogue B",
+        "location": "Davis, California",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alana O'Brien"
+        },
+        {
+          "number": "0",
+          "name": "alexa estoque"
+        },
+        {
+          "number": "0",
+          "name": "Alice  Wydick "
+        },
+        {
+          "number": "0",
+          "name": "Ayaka Chapman"
+        },
+        {
+          "number": "0",
+          "name": "Bailey Sokol"
+        },
+        {
+          "number": "0",
+          "name": "Charlotte Noroian"
+        },
+        {
+          "number": "0",
+          "name": "Diana Wang"
+        },
+        {
+          "number": "0",
+          "name": "Gabriela  Moreno"
+        },
+        {
+          "number": "0",
+          "name": "Grace Cureton"
+        },
+        {
+          "number": "0",
+          "name": "I-Shin Ju"
+        },
+        {
+          "number": "0",
+          "name": "Isabella Tan"
+        },
+        {
+          "number": "0",
+          "name": "Jada Co"
+        },
+        {
+          "number": "0",
+          "name": "Kaelin Campbell"
+        },
+        {
+          "number": "0",
+          "name": "Karly Thomas"
+        },
+        {
+          "number": "0",
+          "name": "Kelly Fowler"
+        },
+        {
+          "number": "0",
+          "name": "Mai-Ly Wilkinson"
+        },
+        {
+          "number": "0",
+          "name": "Malia Reiss"
+        },
+        {
+          "number": "0",
+          "name": "Mara Feldman"
+        },
+        {
+          "number": "0",
+          "name": "Megumi Ponce"
+        },
+        {
+          "number": "0",
+          "name": "Nya Osterberg"
+        },
+        {
+          "number": "0",
+          "name": "Sofia Massingill"
+        },
+        {
+          "number": "0",
+          "name": "Sravya Dandamudi"
+        },
+        {
+          "number": "0",
+          "name": "Tasneem Mukarrama"
+        },
+        {
+          "number": "0",
+          "name": "Tierney Kilgariff"
+        },
+        {
+          "number": "0",
+          "name": "Yang Wu"
+        },
+        {
+          "number": "0",
+          "name": "Yiran Su"
+        },
+        {
+          "number": "0",
+          "name": "Yung Ting Chang"
+        }
+      ]
+    },
+    {
+      "name": "Arizona (B)",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Sirens",
+        "location": "Tucson, Arizona",
+        "website": "http://scorchultimate.weebly.com",
+        "facebook": "https://www.facebook.com/ArizonaScorchUltimate",
+        "twitter": "https://twitter.com/Scorchapolis"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "George Ballenger"
+        },
+        {
+          "number": "0",
+          "name": "Grace Gousman"
+        },
+        {
+          "number": "0",
+          "name": "Heather Kuhl"
+        },
+        {
+          "number": "0",
+          "name": "Heather Broyles"
+        },
+        {
+          "number": "0",
+          "name": "Jill Eliel"
+        },
+        {
+          "number": "0",
+          "name": "Leah Sickman"
+        },
+        {
+          "number": "0",
+          "name": "Brooke  McKalip"
+        },
+        {
+          "number": "0",
+          "name": "Madeline Boose"
+        },
+        {
+          "number": "0",
+          "name": "Sammi Meeks "
+        },
+        {
+          "number": "15",
+          "name": "Madalyne Johnson"
+        },
+        {
+          "number": "18",
+          "name": "Maddie Schur"
+        },
+        {
+          "number": "54",
+          "name": "Cami Wetz"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "California-Davis (B)",
+              "team2": "Utah State",
+              "score1": 5,
+              "score2": 15,
+              "datetime": "2023-04-01T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Occidental",
+              "team2": "Arizona (B)",
+              "score1": 15,
+              "score2": 0,
+              "datetime": "2023-04-01T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Occidental",
+              "team2": "Grand Canyon",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2023-04-01T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Northern Arizona",
+              "team2": "Utah State",
+              "score1": 5,
+              "score2": 11,
+              "datetime": "2023-04-01T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Northern Arizona",
+              "team2": "Arizona (B)",
+              "score1": 15,
+              "score2": 3,
+              "datetime": "2023-04-01T14:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Occidental",
+              "team2": "California-Davis (B)",
+              "score1": 13,
+              "score2": 2,
+              "datetime": "2023-04-01T14:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Grand Canyon",
+              "team2": "Utah State",
+              "score1": 7,
+              "score2": 11,
+              "datetime": "2023-04-01T14:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Occidental",
+              "team2": "Northern Arizona",
+              "score1": 15,
+              "score2": 5,
+              "datetime": "2023-04-01T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Grand Canyon",
+              "team2": "California-Davis (B)",
+              "score1": 7,
+              "score2": 4,
+              "datetime": "2023-04-01T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Arizona (B)",
+              "team2": "Utah State",
+              "score1": 4,
+              "score2": 15,
+              "datetime": "2023-04-01T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Northern Arizona",
+              "team2": "Grand Canyon",
+              "score1": 6,
+              "score2": 8,
+              "datetime": "2023-04-02T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "California-Davis (B)",
+              "team2": "Arizona (B)",
+              "score1": 12,
+              "score2": 5,
+              "datetime": "2023-04-02T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Championship Bracket",
+      "groups": [
+        {
+          "name": "Championship Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Occidental",
+              "team2": "Northern Arizona",
+              "score1": 10,
+              "score2": 2,
+              "datetime": "2023-04-02T12:30:00Z",
+              "round": "Championship",
+              "status": "Final"
+            },
+            {
+              "team1": "Occidental",
+              "team2": "Arizona (B)",
+              "score1": 15,
+              "score2": 0,
+              "datetime": "2023-04-02T10:45:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Northern Arizona",
+              "team2": "California-Davis (B)",
+              "score1": 7,
+              "score2": 4,
+              "datetime": "2023-04-02T10:45:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "3rd Place",
+      "groups": [
+        {
+          "name": "3rd Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Arizona (B)",
+              "team2": "California-Davis (B)",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2023-04-02T12:30:00Z",
+              "round": "Finals",
+              "status": "Cancelled"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

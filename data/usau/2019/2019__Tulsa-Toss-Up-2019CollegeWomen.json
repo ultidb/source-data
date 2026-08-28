@@ -1,0 +1,257 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2019/Tulsa-Toss-Up-2019CollegeWomen",
+  "sourceUrl": "https://play.usaultimate.org/events/Tulsa-Toss-Up-2019/schedule/Women/CollegeWomen/",
+  "scrapedAt": "2026-08-28T10:06:17.455300Z",
+  "event": {
+    "name": "Tulsa Toss Up 2019",
+    "division": "College - Women ",
+    "gender": "",
+    "season": 2019,
+    "city": "Tulsa",
+    "state": "OK",
+    "country": "",
+    "startDate": "2019-03-31",
+    "endDate": "2019-03-31"
+  },
+  "teams": [
+    {
+      "name": "John Brown",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Savage Skies",
+        "location": "Siloam Springs, Arkansas",
+        "website": "www.jbu.edu",
+        "facebook": "https://www.facebook.com/jbultimate",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Anna Carlson"
+        },
+        {
+          "number": "0",
+          "name": "Annika Pollard"
+        },
+        {
+          "number": "0",
+          "name": "Christi Cobb"
+        },
+        {
+          "number": "0",
+          "name": "Emma  Erickson"
+        },
+        {
+          "number": "0",
+          "name": "Katelyn Patterson"
+        },
+        {
+          "number": "0",
+          "name": "Makayla Kilmer"
+        },
+        {
+          "number": "0",
+          "name": "Megan Koontz "
+        },
+        {
+          "number": "8",
+          "name": "Hope Smith"
+        },
+        {
+          "number": "22",
+          "name": "Beth Abdo"
+        },
+        {
+          "number": "24",
+          "name": "Abby Acker"
+        },
+        {
+          "number": "26",
+          "name": "Anna Brodnick"
+        },
+        {
+          "number": "27",
+          "name": "Emma Kastens"
+        }
+      ]
+    },
+    {
+      "name": "Kansas State",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Cheshire",
+        "location": "Manhattan, Kansas",
+        "website": "cheshireultimate.weebly.com",
+        "facebook": "https://www.facebook.com/CheshireUltimate",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Haylee Eaton"
+        },
+        {
+          "number": "0",
+          "name": "Madeline Kyle"
+        },
+        {
+          "number": "09",
+          "name": "Christina Griese"
+        },
+        {
+          "number": "13",
+          "name": "Abigail Brandl"
+        },
+        {
+          "number": "18",
+          "name": "Rebecca Spachek"
+        },
+        {
+          "number": "20",
+          "name": "Courtney Neilson"
+        },
+        {
+          "number": "22",
+          "name": "Holly Webb"
+        }
+      ]
+    },
+    {
+      "name": "Tulsa",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Coriolis Force",
+        "location": "Tulsa, Oklahoma",
+        "website": "",
+        "facebook": "https://www.facebook.com/tulsaCoriolis/",
+        "twitter": ""
+      },
+      "coaches": [
+        "Tyler Tiger"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Avery Smith"
+        },
+        {
+          "number": "0",
+          "name": "Claudia  Sahm"
+        },
+        {
+          "number": "0",
+          "name": "Jessica Keys"
+        },
+        {
+          "number": "6",
+          "name": "Anna Wentling"
+        },
+        {
+          "number": "11",
+          "name": "Skylar Fuser"
+        },
+        {
+          "number": "13",
+          "name": "Julia Bohnert"
+        },
+        {
+          "number": "14",
+          "name": "Rachel Deeds"
+        },
+        {
+          "number": "17",
+          "name": "Jade Johnson"
+        },
+        {
+          "number": "23",
+          "name": "Christina Helgeson"
+        },
+        {
+          "number": "42",
+          "name": "Kacy Luker"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Tulsa",
+              "team2": "Kansas State",
+              "score1": 5,
+              "score2": 11,
+              "datetime": "2019-03-31T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "John Brown",
+              "team2": "Kansas State",
+              "score1": 8,
+              "score2": 4,
+              "datetime": "2019-03-31T10:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "John Brown",
+              "team2": "Tulsa",
+              "score1": 10,
+              "score2": 7,
+              "datetime": "2019-03-31T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Championship",
+      "groups": [
+        {
+          "name": "Championship",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Tulsa",
+              "team2": "John Brown",
+              "score1": 0,
+              "score2": 7,
+              "datetime": "2019-03-31T15:00:00Z",
+              "round": "1",
+              "status": "Final"
+            },
+            {
+              "team1": "Tulsa",
+              "team2": "Kansas State",
+              "score1": 8,
+              "score2": 7,
+              "datetime": "2019-03-31T13:30:00Z",
+              "round": "Round Name",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

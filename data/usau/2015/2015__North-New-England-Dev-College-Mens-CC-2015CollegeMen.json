@@ -1,0 +1,333 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2015/North-New-England-Dev-College-Mens-CC-2015CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/North-New-England-Dev-College-Mens-CC-2015/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:12.579385Z",
+  "event": {
+    "name": "North New England Dev College Men's CC 2015",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2015,
+    "city": "Durham",
+    "state": "NH",
+    "country": "",
+    "startDate": "2015-04-12",
+    "endDate": "2015-04-12"
+  },
+  "teams": [
+    {
+      "name": "Vermont (B)",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Chill",
+        "location": "Burlington, Vermont",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "KYLE ABRAMS"
+        },
+        {
+          "number": "0",
+          "name": "Jackson Berman"
+        },
+        {
+          "number": "0",
+          "name": "Eric Chen"
+        },
+        {
+          "number": "0",
+          "name": "GABRIEL SHEIR"
+        },
+        {
+          "number": "0",
+          "name": "BRIAN CHARASH"
+        },
+        {
+          "number": "7",
+          "name": "Jeremy Fischer"
+        },
+        {
+          "number": "24",
+          "name": "Michael Morris"
+        },
+        {
+          "number": "29",
+          "name": "Samuel Hanlon"
+        },
+        {
+          "number": "31",
+          "name": "JAGGER LINSKY"
+        },
+        {
+          "number": "42",
+          "name": "James Cataldo"
+        }
+      ]
+    },
+    {
+      "name": "Dartmouth (B)",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Discomfort Trolley",
+        "location": "Hanover, New Hampshire",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Charles Smith"
+        },
+        {
+          "number": "0",
+          "name": "Dylan Cahill"
+        },
+        {
+          "number": "0",
+          "name": "Brian Keare"
+        },
+        {
+          "number": "0",
+          "name": "Yesuto Shaw"
+        },
+        {
+          "number": "1",
+          "name": "Avery Feingold"
+        },
+        {
+          "number": "00",
+          "name": "Eric Brunner"
+        },
+        {
+          "number": "12",
+          "name": "Walker Chieffe"
+        },
+        {
+          "number": "12",
+          "name": "Matthew West"
+        },
+        {
+          "number": "64",
+          "name": "Joshua Cetron"
+        },
+        {
+          "number": "70",
+          "name": "PHILIP ADAMSON"
+        }
+      ]
+    },
+    {
+      "name": "Middlebury (B)",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Pranksters B",
+        "location": "Middlebury, Vermont",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Ari Grant-Sasson"
+        },
+        {
+          "number": "00",
+          "name": "Don Jones"
+        },
+        {
+          "number": "00",
+          "name": "Jack Turnage"
+        },
+        {
+          "number": "00",
+          "name": "Jake Simon"
+        },
+        {
+          "number": "00",
+          "name": "James Callison"
+        },
+        {
+          "number": "00",
+          "name": "JAMES RONAN"
+        },
+        {
+          "number": "00",
+          "name": "NICHOLAS CAMINITI"
+        },
+        {
+          "number": "00",
+          "name": "Peter Huffman"
+        },
+        {
+          "number": "00",
+          "name": "Roger Winters"
+        },
+        {
+          "number": "00",
+          "name": "William Knox"
+        }
+      ]
+    },
+    {
+      "name": "New Hampshire (B)",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "New Hampshire-B",
+        "location": "Durham, New Hampshire",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Charles Rickarby"
+        },
+        {
+          "number": "0",
+          "name": "Argus Murphy"
+        },
+        {
+          "number": "0",
+          "name": "Matthew McGinnis"
+        },
+        {
+          "number": "0",
+          "name": "Jonathan  Dean"
+        },
+        {
+          "number": "0",
+          "name": "Josh White"
+        },
+        {
+          "number": "0",
+          "name": "Drue Seksinsky"
+        },
+        {
+          "number": "0",
+          "name": "ANDREW MCEVOY"
+        },
+        {
+          "number": "0",
+          "name": "TREVOR KIEFABER"
+        },
+        {
+          "number": "0",
+          "name": "Michael Barbieri"
+        },
+        {
+          "number": "97",
+          "name": "Chris Grinley"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Vermont (B)",
+              "team2": "Middlebury (B)",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2015-04-11T09:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Dartmouth (B)",
+              "team2": "New Hampshire (B)",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2015-04-11T09:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Vermont (B)",
+              "team2": "New Hampshire (B)",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2015-04-11T10:30:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Dartmouth (B)",
+              "team2": "Middlebury (B)",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2015-04-11T10:30:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Vermont (B)",
+              "team2": "Dartmouth (B)",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2015-04-11T12:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Middlebury (B)",
+              "team2": "New Hampshire (B)",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2015-04-11T12:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Bracket Play (if no 3-0 team)",
+      "groups": [
+        {
+          "name": "1st Place Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Dartmouth (B)",
+              "team2": "Vermont (B)",
+              "score1": 0,
+              "score2": 1,
+              "datetime": "2015-04-11T13:30:00Z",
+              "round": "1st Place Semis",
+              "status": "Scheduled"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2019/Virginia-Showcase-Series-2019-2919CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/Virginia-Showcase-Series-2019-2919/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:17.476024Z",
+  "event": {
+    "name": "Virginia Showcase Series 2019 (2/9/19)",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2019,
+    "city": "Williamsburg",
+    "state": "VA",
+    "country": "",
+    "startDate": "2019-02-09",
+    "endDate": "2019-02-09"
+  },
+  "teams": [
+    {
+      "name": "William & Mary",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Darkhorse",
+        "location": "Williamsburg, Virginia",
+        "website": "https://mensultimate.sites.wm.edu/",
+        "facebook": "https://www.facebook.com/WMUltimate/",
+        "twitter": "https://twitter.com/wmultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Bryce Whitney"
+        },
+        {
+          "number": "0",
+          "name": "Carl Lasker"
+        },
+        {
+          "number": "0",
+          "name": "David Hill"
+        },
+        {
+          "number": "0",
+          "name": "Aidan O'Connell"
+        },
+        {
+          "number": "0",
+          "name": "David Bishop"
+        },
+        {
+          "number": "0",
+          "name": "Ethan Dewald"
+        },
+        {
+          "number": "0",
+          "name": "Gabe Westergren"
+        },
+        {
+          "number": "0",
+          "name": "Gavin Grossman"
+        },
+        {
+          "number": "0",
+          "name": "Greg Garnhart"
+        },
+        {
+          "number": "0",
+          "name": "Gus Norrbom"
+        },
+        {
+          "number": "0",
+          "name": "Harrison Littel"
+        },
+        {
+          "number": "0",
+          "name": "Jack Helms"
+        },
+        {
+          "number": "0",
+          "name": "John Buchholz"
+        },
+        {
+          "number": "0",
+          "name": "Jonathan Collins"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Cooper"
+        },
+        {
+          "number": "0",
+          "name": "Scott Kilmer"
+        },
+        {
+          "number": "0",
+          "name": "Taylor Gilman"
+        },
+        {
+          "number": "0",
+          "name": "Joshua Zinger"
+        },
+        {
+          "number": "0",
+          "name": "Kyle  Vanhoy"
+        },
+        {
+          "number": "1",
+          "name": "Aaron Groves"
+        },
+        {
+          "number": "4",
+          "name": "Lucas Reichert"
+        },
+        {
+          "number": "5",
+          "name": "Ethan Ruh"
+        },
+        {
+          "number": "20",
+          "name": "Tomas Sommer"
+        },
+        {
+          "number": "21",
+          "name": "August Wagner"
+        },
+        {
+          "number": "53",
+          "name": "Jonny Malks"
+        },
+        {
+          "number": "74",
+          "name": "David Jensen"
+        }
+      ]
+    },
+    {
+      "name": "Mary Washington",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Mother of George",
+        "location": "Fredericksburg, Virginia",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Beau De Koninck"
+        },
+        {
+          "number": "0",
+          "name": "James Fendley"
+        },
+        {
+          "number": "0",
+          "name": "Jared Height"
+        },
+        {
+          "number": "0",
+          "name": "Owen Donovan"
+        },
+        {
+          "number": "0",
+          "name": "Simon Maybee"
+        },
+        {
+          "number": "1",
+          "name": "Anthony Clark"
+        },
+        {
+          "number": "2",
+          "name": "Orran Mandt"
+        },
+        {
+          "number": "4",
+          "name": "William Carpenter"
+        },
+        {
+          "number": "7",
+          "name": "Zack Richardson"
+        },
+        {
+          "number": "15",
+          "name": "Sam Wainwright"
+        },
+        {
+          "number": "17",
+          "name": "Landrum Beard "
+        },
+        {
+          "number": "21",
+          "name": "Harper James"
+        },
+        {
+          "number": "24",
+          "name": "Andrew Sharpe"
+        },
+        {
+          "number": "27",
+          "name": "Amos Dufore"
+        },
+        {
+          "number": "47",
+          "name": "Daniel Schlichtig"
+        },
+        {
+          "number": "52",
+          "name": "Benjamin Masse"
+        },
+        {
+          "number": "68",
+          "name": "Caleb Picard"
+        },
+        {
+          "number": "77",
+          "name": "Matthew Sutherland"
+        },
+        {
+          "number": "99",
+          "name": "Joseph Richards"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "brackets",
+      "name": "Showcase Game",
+      "groups": [
+        {
+          "name": "Mary Washington v. William and Mary",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "William & Mary",
+              "team2": "Mary Washington",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2019-02-09T17:00:00Z",
+              "round": "Showcase Game",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

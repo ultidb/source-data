@@ -1,0 +1,231 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2016/Ok-Corral-2016Club-Men",
+  "sourceUrl": "https://play.usaultimate.org/events/Ok-Corral-2016/schedule/Men/Club-Men/",
+  "scrapedAt": "2026-08-28T10:06:13.587575Z",
+  "event": {
+    "name": "Ok Corral 2016",
+    "division": "Club - Men ",
+    "gender": "",
+    "season": 2016,
+    "city": "Tulsa",
+    "state": "OK",
+    "country": "",
+    "startDate": "2016-07-29",
+    "endDate": "2016-07-31"
+  },
+  "teams": [
+    {
+      "name": "Dreadnought",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Fayetteville, Arkansas",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "Thomas Dockery"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "KYLE DYER"
+        },
+        {
+          "number": "0",
+          "name": "Luc Sutherland"
+        },
+        {
+          "number": "0",
+          "name": "GERALD ETHEREDGE"
+        },
+        {
+          "number": "1",
+          "name": "Luke Dockery"
+        },
+        {
+          "number": "2",
+          "name": "Thomas Dockery"
+        },
+        {
+          "number": "14",
+          "name": "Ethan Penner"
+        },
+        {
+          "number": "15",
+          "name": "Jacob Moore"
+        },
+        {
+          "number": "20",
+          "name": "Aric Powers"
+        },
+        {
+          "number": "24",
+          "name": "Taylor Stamps"
+        },
+        {
+          "number": "24",
+          "name": "Braxton Furlong"
+        },
+        {
+          "number": "28",
+          "name": "Taren Goins"
+        },
+        {
+          "number": "29",
+          "name": "Tucker Bankston"
+        },
+        {
+          "number": "32",
+          "name": "Drew Taylor"
+        },
+        {
+          "number": "67",
+          "name": "Spencer Patterson"
+        }
+      ]
+    },
+    {
+      "name": "Rawhide",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Tulsa, Oklahoma",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Skyler Wittman"
+        },
+        {
+          "number": "0",
+          "name": "Colby Craige"
+        },
+        {
+          "number": "0",
+          "name": "Chris Thibeault"
+        },
+        {
+          "number": "0",
+          "name": "Gabriel Sanchez"
+        },
+        {
+          "number": "0",
+          "name": "Benjamin Howard"
+        },
+        {
+          "number": "0",
+          "name": "David Sanford"
+        },
+        {
+          "number": "0",
+          "name": "RESTON DOOLY"
+        },
+        {
+          "number": "1",
+          "name": "Chris Passmore"
+        },
+        {
+          "number": "6",
+          "name": "Merl Prichard"
+        },
+        {
+          "number": "8",
+          "name": "Cameron Guidry"
+        },
+        {
+          "number": "14",
+          "name": "Robert Housh"
+        },
+        {
+          "number": "23",
+          "name": "Terrell Hoagland"
+        },
+        {
+          "number": "33",
+          "name": "Marcus Smith"
+        },
+        {
+          "number": "36",
+          "name": "Eric Hurd"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "OK Corral",
+      "groups": [
+        {
+          "name": "1",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Dreadnought",
+              "team2": "Rawhide",
+              "score1": 11,
+              "score2": 7,
+              "datetime": "2016-07-29T20:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "pools",
+      "name": "OK Corral",
+      "groups": [
+        {
+          "name": "2",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Dreadnought",
+              "team2": "Rawhide",
+              "score1": 9,
+              "score2": 11,
+              "datetime": "2016-07-30T18:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "pools",
+      "name": "OK Corral",
+      "groups": [
+        {
+          "name": "3",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Dreadnought",
+              "team2": "Rawhide",
+              "score1": 11,
+              "score2": 7,
+              "datetime": "2016-07-30T20:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

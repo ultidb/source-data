@@ -14,7 +14,9 @@ against whatever is registered here without further changes.
 """
 from core.registry import register
 from sources.example.source import ExampleSource
+from sources.usau.source import UsauSource
 from sources.wfdf.source import WfdfSource
 
 register(ExampleSource())
+register(UsauSource())
 register(WfdfSource())

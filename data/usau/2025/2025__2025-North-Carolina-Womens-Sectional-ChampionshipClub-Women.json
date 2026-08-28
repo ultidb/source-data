@@ -1,0 +1,249 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2025/2025-North-Carolina-Womens-Sectional-ChampionshipClub-Women",
+  "sourceUrl": "http://play.usaultimate.org/events/2025-North-Carolina-Womens-Sectional-Championship/schedule/Women/Club-Women/",
+  "scrapedAt": "2026-08-28T10:06:21.294962Z",
+  "event": {
+    "name": "2025 North Carolina Women's Sectional Championship",
+    "division": "Club - Women ",
+    "gender": "",
+    "season": 2025,
+    "city": "Winston-Salem",
+    "state": "NC",
+    "country": "",
+    "startDate": "2025-09-06",
+    "endDate": "2025-09-07"
+  },
+  "teams": [
+    {
+      "name": "Shiver",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Durham, North Carolina",
+        "website": "",
+        "facebook": "https://www.facebook.com/ShiverUltimate",
+        "twitter": "https://twitter.com/shiverultimate"
+      },
+      "coaches": [
+        "Ken Rehder"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Melissa Gronske"
+        },
+        {
+          "number": "0",
+          "name": "Naomi Kantor"
+        },
+        {
+          "number": "3",
+          "name": "Leslie Willis"
+        },
+        {
+          "number": "6",
+          "name": "Katherine Li"
+        },
+        {
+          "number": "7",
+          "name": "Allyson Fion"
+        },
+        {
+          "number": "13",
+          "name": "Anna Routh"
+        },
+        {
+          "number": "14",
+          "name": "Madelyn Morrison"
+        },
+        {
+          "number": "16",
+          "name": "Lauren Cao"
+        },
+        {
+          "number": "17",
+          "name": "Sabrina Talley"
+        },
+        {
+          "number": "22",
+          "name": "Emma Gautier"
+        },
+        {
+          "number": "23",
+          "name": "Zoe Feil"
+        },
+        {
+          "number": "24",
+          "name": "Grace Xiang"
+        },
+        {
+          "number": "25",
+          "name": "Lauren Wyatt"
+        },
+        {
+          "number": "26",
+          "name": "Georgia Paulig"
+        },
+        {
+          "number": "27",
+          "name": "Tree Konvalinka"
+        },
+        {
+          "number": "32",
+          "name": "Brianna Kuo"
+        },
+        {
+          "number": "45",
+          "name": "Jennifer Lin"
+        },
+        {
+          "number": "47",
+          "name": "Madeline Steinmetz"
+        },
+        {
+          "number": "61",
+          "name": "Nubia Robles Santiago"
+        },
+        {
+          "number": "74",
+          "name": "Sydney Merrell"
+        }
+      ]
+    },
+    {
+      "name": "Juice Box",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Charlotte and Asheville, North Carolina",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Ashley King"
+        },
+        {
+          "number": "0",
+          "name": "Cora McIntosh"
+        },
+        {
+          "number": "0",
+          "name": "Jessica Vance"
+        },
+        {
+          "number": "0",
+          "name": "Jordan Vanasdale"
+        },
+        {
+          "number": "0",
+          "name": "Jordyn Dezago"
+        },
+        {
+          "number": "0",
+          "name": "Allison  Parker"
+        },
+        {
+          "number": "0",
+          "name": "Amy Gilbert"
+        },
+        {
+          "number": "0",
+          "name": "Olivia Moody"
+        },
+        {
+          "number": "0",
+          "name": "Patricia Romaine"
+        },
+        {
+          "number": "0",
+          "name": "Rachel Winner"
+        },
+        {
+          "number": "0",
+          "name": "Shauna Gross"
+        },
+        {
+          "number": "0",
+          "name": "Marika Samuelsson"
+        },
+        {
+          "number": "0",
+          "name": "Marlee Henninge"
+        },
+        {
+          "number": "0",
+          "name": "Xena Jaffe"
+        },
+        {
+          "number": "4",
+          "name": "Sophie Terry"
+        },
+        {
+          "number": "5",
+          "name": "Lauren Brauer"
+        },
+        {
+          "number": "5",
+          "name": "Natalie Watt"
+        },
+        {
+          "number": "11",
+          "name": "Addison Epperson-Frost"
+        },
+        {
+          "number": "13",
+          "name": "Kathryn (K.C.) Olds"
+        },
+        {
+          "number": "13",
+          "name": "Kelly Rigsbee"
+        },
+        {
+          "number": "18",
+          "name": "Laura Borth"
+        },
+        {
+          "number": "19",
+          "name": "Andrea Shaw"
+        },
+        {
+          "number": "42",
+          "name": "Alexandra Harvey"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "brackets",
+      "name": "Championship",
+      "groups": [
+        {
+          "name": "Championship",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Shiver",
+              "team2": "Juice Box",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2025-09-07T11:30:00Z",
+              "round": "Championship",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2017/2017-West-New-England-Womens-SectionalsClub-Women",
+  "sourceUrl": "https://play.usaultimate.org/events/2017-West-New-England-Womens-Sectionals/schedule/Women/Club-Women/",
+  "scrapedAt": "2026-08-28T10:06:14.143484Z",
+  "event": {
+    "name": "2017 West New England Women's Sectionals",
+    "division": "Club - Women ",
+    "gender": "",
+    "season": 2017,
+    "city": "Northampton",
+    "state": "MA",
+    "country": "",
+    "startDate": "2017-09-09",
+    "endDate": "2017-09-10"
+  },
+  "teams": [
+    {
+      "name": "WOLP",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Northampton, Massachusetts",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Alexis Dimitriou"
+        },
+        {
+          "number": "00",
+          "name": "Charissa Doerr"
+        },
+        {
+          "number": "00",
+          "name": "Claire Babbott-Bryan"
+        },
+        {
+          "number": "00",
+          "name": "Dana Hopkins McGill"
+        },
+        {
+          "number": "00",
+          "name": "Isabel Ahlstrom"
+        },
+        {
+          "number": "00",
+          "name": "Justinne Guarin"
+        },
+        {
+          "number": "00",
+          "name": "Lauren Weiss"
+        },
+        {
+          "number": "00",
+          "name": "Livvy Weld"
+        },
+        {
+          "number": "00",
+          "name": "Mary Andrews"
+        },
+        {
+          "number": "00",
+          "name": "Rachel Levitt"
+        },
+        {
+          "number": "00",
+          "name": "Rachel Huggett"
+        },
+        {
+          "number": "00",
+          "name": "Rebecca Marmor"
+        },
+        {
+          "number": "00",
+          "name": "Sarah Teichman"
+        },
+        {
+          "number": "00",
+          "name": "Sophie Gill"
+        },
+        {
+          "number": "00",
+          "name": "Victoria Zhang"
+        },
+        {
+          "number": "00",
+          "name": "Xihu Arfa"
+        }
+      ]
+    },
+    {
+      "name": "PLOW",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Northampton, Massachusetts",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Abigail Cough"
+        },
+        {
+          "number": "00",
+          "name": "Alison Fowler"
+        },
+        {
+          "number": "00",
+          "name": "Anja Nordstrom"
+        },
+        {
+          "number": "00",
+          "name": "Aviva Weinbaum"
+        },
+        {
+          "number": "00",
+          "name": "Elsa Wood"
+        },
+        {
+          "number": "00",
+          "name": "Katherine Aidala"
+        },
+        {
+          "number": "00",
+          "name": "Katrina Meserve"
+        },
+        {
+          "number": "00",
+          "name": "Kendra  Bonde "
+        },
+        {
+          "number": "00",
+          "name": "Elizabeth Knapp"
+        },
+        {
+          "number": "00",
+          "name": "Lucy Grossman"
+        },
+        {
+          "number": "00",
+          "name": "Meg Nicoll"
+        },
+        {
+          "number": "00",
+          "name": "Piper  Lacy"
+        },
+        {
+          "number": "00",
+          "name": "Rachel Oram-Brown"
+        },
+        {
+          "number": "00",
+          "name": "Rose Kelly"
+        },
+        {
+          "number": "00",
+          "name": "Rose Dennis"
+        },
+        {
+          "number": "00",
+          "name": "Sophia Cable"
+        },
+        {
+          "number": "00",
+          "name": "Zoe Lemos"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Finals",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "PLOW",
+              "team2": "WOLP",
+              "score1": 12,
+              "score2": 14,
+              "datetime": "2017-09-10T13:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2019/2019-USA-Ultimate-Northwest-Great-Grand-Masters-Regionalsgreat-grand-masters-men",
+  "sourceUrl": "https://play.usaultimate.org/events/2019-USA-Ultimate-Northwest-Great-Grand-Masters-Regionals/schedule/Men/great-grand-masters-men/",
+  "scrapedAt": "2026-08-28T10:06:16.351598Z",
+  "event": {
+    "name": "2019 USA Ultimate Northwest Great Grand Masters Regionals",
+    "division": "Great Grand Masters - Men ",
+    "gender": "",
+    "season": 2019,
+    "city": "Lacey",
+    "state": "WA",
+    "country": "",
+    "startDate": "2019-06-15",
+    "endDate": "2019-06-16"
+  },
+  "teams": [
+    {
+      "name": "Afterburn",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Portland, Oregon",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alain Kagi"
+        },
+        {
+          "number": "0",
+          "name": "David Kruse"
+        },
+        {
+          "number": "0",
+          "name": "Michael Rodriguez"
+        },
+        {
+          "number": "0",
+          "name": "Mike Butler"
+        },
+        {
+          "number": "0",
+          "name": "Steve Kelly"
+        },
+        {
+          "number": "0",
+          "name": "Timothy Koch"
+        },
+        {
+          "number": "00",
+          "name": "Kenneth Ludwa"
+        },
+        {
+          "number": "00",
+          "name": "Tai Wu"
+        },
+        {
+          "number": "00",
+          "name": "Patrick Callahan"
+        },
+        {
+          "number": "00",
+          "name": "Eric Park"
+        },
+        {
+          "number": "00",
+          "name": "Jim McCarty"
+        },
+        {
+          "number": "11",
+          "name": "Don Wright"
+        },
+        {
+          "number": "23",
+          "name": "Patrick Harris"
+        },
+        {
+          "number": "27",
+          "name": "Pepper Williams"
+        },
+        {
+          "number": "32",
+          "name": "Robert Ransdell"
+        },
+        {
+          "number": "42",
+          "name": "Jeff Skoke"
+        },
+        {
+          "number": "50",
+          "name": "Andrew Buermeyer"
+        },
+        {
+          "number": "76",
+          "name": "Roger Geller"
+        },
+        {
+          "number": "99",
+          "name": "Joe (Jerome) Millon"
+        }
+      ]
+    },
+    {
+      "name": "Kingdome",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Seattle, Washington",
+        "website": "",
+        "facebook": "",
+        "twitter": "@kingdomedisc"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Ben Goldfarb"
+        },
+        {
+          "number": "00",
+          "name": "Bill Penrose"
+        },
+        {
+          "number": "00",
+          "name": "Brian Holloway"
+        },
+        {
+          "number": "00",
+          "name": "Brian O'Hea"
+        },
+        {
+          "number": "00",
+          "name": "Bryan McGriff"
+        },
+        {
+          "number": "00",
+          "name": "Calvin Lin"
+        },
+        {
+          "number": "00",
+          "name": "Craig Chambers"
+        },
+        {
+          "number": "00",
+          "name": "Darrin \"Bly\" Byle"
+        },
+        {
+          "number": "00",
+          "name": "David Chickering"
+        },
+        {
+          "number": "00",
+          "name": "David Pacey"
+        },
+        {
+          "number": "00",
+          "name": "Delfino Cornali"
+        },
+        {
+          "number": "00",
+          "name": "Dennis Wise"
+        },
+        {
+          "number": "00",
+          "name": "Dylan Righi"
+        },
+        {
+          "number": "00",
+          "name": "Eric Goetz"
+        },
+        {
+          "number": "00",
+          "name": "Hans Frederick"
+        },
+        {
+          "number": "00",
+          "name": "James Matsusaka"
+        },
+        {
+          "number": "00",
+          "name": "John Springer"
+        },
+        {
+          "number": "00",
+          "name": "Jude Johnson"
+        },
+        {
+          "number": "00",
+          "name": "Mel Greiser"
+        },
+        {
+          "number": "00",
+          "name": "Mike Heffron"
+        },
+        {
+          "number": "00",
+          "name": "Robert Vogel"
+        },
+        {
+          "number": "00",
+          "name": "Ryan  Dean"
+        },
+        {
+          "number": "00",
+          "name": "Stephen Gillett"
+        },
+        {
+          "number": "00",
+          "name": "Terrence Crowley"
+        },
+        {
+          "number": "00",
+          "name": "Thomas Moriarty"
+        },
+        {
+          "number": "00",
+          "name": "Alex Blanton"
+        },
+        {
+          "number": "00",
+          "name": "Baird Johnson"
+        },
+        {
+          "number": "11",
+          "name": "Jude LaRene"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "round 1",
+      "groups": [
+        {
+          "name": "game to 15",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Kingdome",
+              "team2": "Afterburn",
+              "score1": 11,
+              "score2": 12,
+              "datetime": "2019-06-15T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "pools",
+      "name": "game 2",
+      "groups": [
+        {
+          "name": "game to 15",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Kingdome",
+              "team2": "Afterburn",
+              "score1": 13,
+              "score2": 10,
+              "datetime": "2019-06-15T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "pools",
+      "name": "game 3 if needed",
+      "groups": [
+        {
+          "name": "game to 15",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Kingdome",
+              "team2": "Afterburn",
+              "score1": 14,
+              "score2": 11,
+              "datetime": "2019-06-15T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

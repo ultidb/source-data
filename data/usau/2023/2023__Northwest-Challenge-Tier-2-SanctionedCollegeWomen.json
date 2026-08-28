@@ -1,0 +1,247 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2023/Northwest-Challenge-Tier-2-SanctionedCollegeWomen",
+  "sourceUrl": "https://play.usaultimate.org/events/Northwest-Challenge-Tier-2-Sanctioned/schedule/Women/CollegeWomen/",
+  "scrapedAt": "2026-08-28T10:06:19.649582Z",
+  "event": {
+    "name": "Northwest Challenge Tier 2 Sanctioned 2023",
+    "division": "College - Women ",
+    "gender": "",
+    "season": 2023,
+    "city": "Burlington",
+    "state": "WA",
+    "country": "",
+    "startDate": "2023-04-01",
+    "endDate": "2023-04-02"
+  },
+  "teams": [
+    {
+      "name": "Portland",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "UPRoar",
+        "location": "Portland, Oregon",
+        "website": "https://www.instagram.com/uproarfrisbee/",
+        "facebook": "https://www.facebook.com/upwomensultimate",
+        "twitter": "https://twitter.com/uproar_ultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Hana  Elawady "
+        },
+        {
+          "number": "0",
+          "name": "Presley Denkinger"
+        },
+        {
+          "number": "2",
+          "name": "Elena Forristall"
+        },
+        {
+          "number": "4",
+          "name": "Makaley Krueger"
+        },
+        {
+          "number": "5",
+          "name": "Emma Giamello"
+        },
+        {
+          "number": "6",
+          "name": "Christine Burchinal"
+        },
+        {
+          "number": "7",
+          "name": "Maryanne Maxwell"
+        },
+        {
+          "number": "8",
+          "name": "Quinn Day"
+        },
+        {
+          "number": "9",
+          "name": "Romy Holland"
+        },
+        {
+          "number": "10",
+          "name": "Isabel Contreras"
+        },
+        {
+          "number": "11",
+          "name": "Audrey Dewey"
+        },
+        {
+          "number": "12",
+          "name": "Hayden Ashley"
+        },
+        {
+          "number": "14",
+          "name": "Julianna Galian"
+        },
+        {
+          "number": "15",
+          "name": "Sydney Anderson"
+        },
+        {
+          "number": "16",
+          "name": "Elli VanBrabant"
+        },
+        {
+          "number": "17",
+          "name": "Mairead  McManus "
+        },
+        {
+          "number": "19",
+          "name": "Julia Hanly"
+        },
+        {
+          "number": "20",
+          "name": "Mia Taylor"
+        },
+        {
+          "number": "23",
+          "name": "Kelly Westberg"
+        },
+        {
+          "number": "24",
+          "name": "Emily West"
+        },
+        {
+          "number": "25",
+          "name": "Gabrielle Weaver"
+        },
+        {
+          "number": "26",
+          "name": "Kiah Dihle"
+        },
+        {
+          "number": "29",
+          "name": "Olivia DiAna"
+        },
+        {
+          "number": "33",
+          "name": "Feliz Matthews"
+        },
+        {
+          "number": "37",
+          "name": "Audrey Stineman"
+        },
+        {
+          "number": "40",
+          "name": "Annalise Korch"
+        },
+        {
+          "number": "42",
+          "name": "Mallori Boddy"
+        },
+        {
+          "number": "44",
+          "name": "Morgan Bridges"
+        },
+        {
+          "number": "52",
+          "name": "Charlie LaPorte"
+        },
+        {
+          "number": "99",
+          "name": "Allison Wells"
+        }
+      ]
+    },
+    {
+      "name": "Whitman",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Whitman Sweets",
+        "location": "Walla Walla, Washington",
+        "website": "whitmancollegesweets.squarespace.com",
+        "facebook": "https://www.facebook.com/pages/Whitman-College-Lady-Sweets/713665542065651",
+        "twitter": "https://twitter.com/WWladysweets"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Olivia Napadensky"
+        },
+        {
+          "number": "2",
+          "name": "Gemma Munck"
+        },
+        {
+          "number": "3",
+          "name": "Dora Trinkle"
+        },
+        {
+          "number": "4",
+          "name": "Ollie Fox"
+        },
+        {
+          "number": "6",
+          "name": "Wyatt Albright"
+        },
+        {
+          "number": "11",
+          "name": "Claire Jenkins"
+        },
+        {
+          "number": "14",
+          "name": "Margaret Tookey"
+        },
+        {
+          "number": "19",
+          "name": "Rebecca Bartig"
+        },
+        {
+          "number": "22",
+          "name": "Josephine Bygrave"
+        },
+        {
+          "number": "23",
+          "name": "Joanna (Joey) Biehl"
+        },
+        {
+          "number": "27",
+          "name": "Gabbie Campbell"
+        },
+        {
+          "number": "28",
+          "name": "Ella Johnson"
+        },
+        {
+          "number": "99",
+          "name": "Amelia Atack"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Portland",
+              "team2": "Whitman",
+              "score1": 10,
+              "score2": 9,
+              "datetime": "2023-04-01T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

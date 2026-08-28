@@ -1,0 +1,223 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2018/North-Carolina-Womens-Sectional-Championship-2018Club-Women",
+  "sourceUrl": "https://play.usaultimate.org/events/North-Carolina-Womens-Sectional-Championship-2018/schedule/Women/Club-Women/",
+  "scrapedAt": "2026-08-28T10:06:15.619399Z",
+  "event": {
+    "name": "North Carolina Women's Sectional Championship 2018",
+    "division": "Club - Women ",
+    "gender": "",
+    "season": 2018,
+    "city": "Raleigh",
+    "state": "NC",
+    "country": "",
+    "startDate": "2018-09-08",
+    "endDate": "2018-09-09"
+  },
+  "teams": [
+    {
+      "name": "Phoenix",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Durham, North Carolina",
+        "website": "http://phoenixultimate.com",
+        "facebook": "https://www.facebook.com/PhxUltimate",
+        "twitter": "https://twitter.com/PhxUltimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "2",
+          "name": "Savannah Erwin"
+        },
+        {
+          "number": "3",
+          "name": "Brandi Skanes"
+        },
+        {
+          "number": "5",
+          "name": "Jessica Jones"
+        },
+        {
+          "number": "6",
+          "name": "Qing (Jenny) Wei"
+        },
+        {
+          "number": "7",
+          "name": "Cacey-Jane Bunch"
+        },
+        {
+          "number": "8",
+          "name": "Georgia Tse"
+        },
+        {
+          "number": "9",
+          "name": "Jinny Riedel"
+        },
+        {
+          "number": "12",
+          "name": "Alix Robbins"
+        },
+        {
+          "number": "13",
+          "name": "Amanda Murphy"
+        },
+        {
+          "number": "14",
+          "name": "Lyla Stanland"
+        },
+        {
+          "number": "15",
+          "name": "Ashley Powell"
+        },
+        {
+          "number": "15",
+          "name": "Carmen Tormey"
+        },
+        {
+          "number": "16",
+          "name": "Briana Campbell"
+        },
+        {
+          "number": "17",
+          "name": "Jenna Dahl"
+        },
+        {
+          "number": "21",
+          "name": "Kyra Catabay"
+        },
+        {
+          "number": "22",
+          "name": "Anne Worth"
+        },
+        {
+          "number": "27",
+          "name": "Mary Rippe"
+        },
+        {
+          "number": "33",
+          "name": "Kumiko Fioramonti"
+        },
+        {
+          "number": "42",
+          "name": "Rebecca Fagan"
+        },
+        {
+          "number": "48",
+          "name": "Kaye Eshelman"
+        },
+        {
+          "number": "52",
+          "name": "Sydney Harris"
+        },
+        {
+          "number": "55",
+          "name": "Klara Calderon-Guthe"
+        },
+        {
+          "number": "57",
+          "name": "Elisabeth Parker"
+        },
+        {
+          "number": "58",
+          "name": "Rowan Jaynes"
+        },
+        {
+          "number": "62",
+          "name": "Becky Widmayer"
+        }
+      ]
+    },
+    {
+      "name": "Taco Truck",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Chapel Hill, North Carolina",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Christiana Chang"
+        },
+        {
+          "number": "0",
+          "name": "Corinna Keeler"
+        },
+        {
+          "number": "0",
+          "name": "Elaine (Elle) Glenny"
+        },
+        {
+          "number": "0",
+          "name": "Ivy Johnson"
+        },
+        {
+          "number": "0",
+          "name": "Madeleine Shade"
+        },
+        {
+          "number": "0",
+          "name": "Manhua Zhu"
+        },
+        {
+          "number": "0",
+          "name": "Megan Goldsby"
+        },
+        {
+          "number": "0",
+          "name": "Paige Cary"
+        },
+        {
+          "number": "0",
+          "name": "Peyton Schafer"
+        },
+        {
+          "number": "0",
+          "name": "Alice Wang"
+        },
+        {
+          "number": "36",
+          "name": "Leslie Weaver"
+        },
+        {
+          "number": "47",
+          "name": "Anna Kenan"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "brackets",
+      "name": "Finals",
+      "groups": [
+        {
+          "name": "Championship",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Phoenix",
+              "team2": "Taco Truck",
+              "score1": 13,
+              "score2": 3,
+              "datetime": "2018-09-08T09:30:00Z",
+              "round": "Finals",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

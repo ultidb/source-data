@@ -1,0 +1,841 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2023/Big-Sky-Brawl1CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/Big-Sky-Brawl1/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:19.366381Z",
+  "event": {
+    "name": "Big Sky Brawl 2023",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2023,
+    "city": "Meridian",
+    "state": "ID",
+    "country": "",
+    "startDate": "2023-03-04",
+    "endDate": "2023-03-05"
+  },
+  "teams": [
+    {
+      "name": "Utah",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Zion Curtain",
+        "location": "Salt Lake City, Utah",
+        "website": "https://www.zioncurtainultimate.com/",
+        "facebook": "https://www.facebook.com/pages/ZCU-Zion-Curtain-Ultimate/162698807137761",
+        "twitter": "https://twitter.com/zioncurtainulti"
+      },
+      "coaches": [
+        "Eric Christensen"
+      ],
+      "roster": [
+        {
+          "number": "2",
+          "name": "Jace Duennebeil"
+        },
+        {
+          "number": "3",
+          "name": "Aiden Coutin"
+        },
+        {
+          "number": "8",
+          "name": "Oliver Cecchini"
+        },
+        {
+          "number": "9",
+          "name": "Ethan Hilding"
+        },
+        {
+          "number": "12",
+          "name": "Jack Hollis"
+        },
+        {
+          "number": "17",
+          "name": "Austin Hasbrook"
+        },
+        {
+          "number": "18",
+          "name": "Joey Ginsburg "
+        },
+        {
+          "number": "22",
+          "name": "John Mismash"
+        },
+        {
+          "number": "36",
+          "name": "Will Ginsburg"
+        },
+        {
+          "number": "37",
+          "name": "Jarom Brandow"
+        },
+        {
+          "number": "66",
+          "name": "Jack Valentine"
+        },
+        {
+          "number": "82",
+          "name": "Andrew Elliott"
+        },
+        {
+          "number": "88",
+          "name": "Elijah Watchalotone"
+        }
+      ]
+    },
+    {
+      "name": "Nevada-Reno",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Elevation Ultimate",
+        "location": "Reno, Nevada",
+        "website": "https://nevadaultimate.weebly.com/",
+        "facebook": "https://www.facebook.com/NevadaUltimate/",
+        "twitter": "https://twitter.com/nevadaultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Brody Moreno-McClure"
+        },
+        {
+          "number": "0",
+          "name": "Davis Berry"
+        },
+        {
+          "number": "0",
+          "name": "Erick Bandala Sanchez"
+        },
+        {
+          "number": "0",
+          "name": "Logan Beffort"
+        },
+        {
+          "number": "0",
+          "name": "Marcus Fredrickson"
+        },
+        {
+          "number": "0",
+          "name": "Michael Caliz"
+        },
+        {
+          "number": "0",
+          "name": "Moeses Chavez"
+        },
+        {
+          "number": "0",
+          "name": "Nicholas Kutter"
+        },
+        {
+          "number": "0",
+          "name": "Nicolas Olson"
+        },
+        {
+          "number": "0",
+          "name": "Rodney Wolfgang"
+        },
+        {
+          "number": "0",
+          "name": "Zachary Wilhite"
+        },
+        {
+          "number": "2",
+          "name": "Douglas Pieplow"
+        },
+        {
+          "number": "8",
+          "name": "Spencer Lee"
+        },
+        {
+          "number": "33",
+          "name": "Jeremiah Haumeder"
+        },
+        {
+          "number": "35",
+          "name": "Christopher Carter"
+        },
+        {
+          "number": "55",
+          "name": "Jonathon Lau"
+        },
+        {
+          "number": "77",
+          "name": "Jack Stinson"
+        },
+        {
+          "number": "95",
+          "name": "Justin MacQuiddy"
+        }
+      ]
+    },
+    {
+      "name": "Montana State",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Rum Runners",
+        "location": "Bozeman, Montana",
+        "website": "",
+        "facebook": "https://www.facebook.com/MSUultimate/",
+        "twitter": "https://twitter.com/RumRunnersMT"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Aiden Killeen"
+        },
+        {
+          "number": "0",
+          "name": "Artie Battaglin"
+        },
+        {
+          "number": "0",
+          "name": "Gus Downey"
+        },
+        {
+          "number": "0",
+          "name": "Jake Ralston"
+        },
+        {
+          "number": "0",
+          "name": "Jasper Goldman"
+        },
+        {
+          "number": "0",
+          "name": "Jerome Jerome"
+        },
+        {
+          "number": "0",
+          "name": "Joel Harvey"
+        },
+        {
+          "number": "0",
+          "name": "Kyler Thompson"
+        },
+        {
+          "number": "0",
+          "name": "Noah Dean-Erlander"
+        },
+        {
+          "number": "0",
+          "name": "William Jordan"
+        },
+        {
+          "number": "4",
+          "name": "Elliott Harris-Musack"
+        },
+        {
+          "number": "11",
+          "name": "Rabi Phelan"
+        },
+        {
+          "number": "12",
+          "name": "Logan Sadler"
+        },
+        {
+          "number": "14",
+          "name": "Ian Ray"
+        },
+        {
+          "number": "16",
+          "name": "Aaron Rhoderick"
+        },
+        {
+          "number": "23",
+          "name": "Zachary Danielson"
+        },
+        {
+          "number": "42",
+          "name": "Sean McAneney"
+        }
+      ]
+    },
+    {
+      "name": "Idaho",
+      "seed": 8,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Graffiti",
+        "location": "Moscow, Idaho",
+        "website": "https://www.uidaho.edu/current-students/recwell/sport-clubs/mens-ultimate-frisbee",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Andrew Davies"
+        },
+        {
+          "number": "0",
+          "name": "Ethan Rouen"
+        },
+        {
+          "number": "0",
+          "name": "Ike Blough"
+        },
+        {
+          "number": "0",
+          "name": "James McDonald"
+        },
+        {
+          "number": "0",
+          "name": "James Hagman"
+        },
+        {
+          "number": "0",
+          "name": "Jeremiah Boswell"
+        },
+        {
+          "number": "0",
+          "name": "Julian Collins"
+        },
+        {
+          "number": "07",
+          "name": "Brian Healy"
+        },
+        {
+          "number": "12",
+          "name": "Logan Thompson"
+        },
+        {
+          "number": "15",
+          "name": "Benjamin Borkowski"
+        },
+        {
+          "number": "89",
+          "name": "Devon Schneider"
+        }
+      ]
+    },
+    {
+      "name": "Washington State",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Air Raid",
+        "location": "Pullman, Washington",
+        "website": "",
+        "facebook": "https://www.facebook.com/wsuultimateclub",
+        "twitter": "https://twitter.com/WSU_Ultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Andren Buehler"
+        },
+        {
+          "number": "0",
+          "name": "Nicholas Hnatovic"
+        },
+        {
+          "number": "00",
+          "name": "Ryan Quinn"
+        },
+        {
+          "number": "00",
+          "name": "Stefanie Hale"
+        },
+        {
+          "number": "00",
+          "name": "Zachary Bisbee"
+        },
+        {
+          "number": "00",
+          "name": "Lars Moreland"
+        },
+        {
+          "number": "00",
+          "name": "Makiko Kawakami"
+        },
+        {
+          "number": "00",
+          "name": "Marshall Ham"
+        },
+        {
+          "number": "00",
+          "name": "Maxwell Cheeseman "
+        },
+        {
+          "number": "00",
+          "name": "Nathan Campbell"
+        },
+        {
+          "number": "00",
+          "name": "Brice Folkert"
+        },
+        {
+          "number": "00",
+          "name": "Cole Dinwoodie"
+        },
+        {
+          "number": "00",
+          "name": "Davis Gerard"
+        },
+        {
+          "number": "00",
+          "name": "Eli Lathrop"
+        },
+        {
+          "number": "03",
+          "name": "Jedi Casas"
+        },
+        {
+          "number": "05",
+          "name": "Connor Concannon"
+        },
+        {
+          "number": "06",
+          "name": "Greg Johnson"
+        },
+        {
+          "number": "07",
+          "name": "Jake Lewis"
+        },
+        {
+          "number": "13",
+          "name": "Dallas Martin"
+        },
+        {
+          "number": "22",
+          "name": "Christopher Tang"
+        },
+        {
+          "number": "46",
+          "name": "Cavin Yap"
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young (B)",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "CHI B",
+        "location": "Provo, Utah",
+        "website": "www.byuchiultimate.com",
+        "facebook": "facebook.com/byumensultimate",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Abraham Alton"
+        },
+        {
+          "number": "0",
+          "name": "Benjamin McBride"
+        },
+        {
+          "number": "0",
+          "name": "Jacob Boyce"
+        },
+        {
+          "number": "0",
+          "name": "Jeron Dastrup"
+        },
+        {
+          "number": "0",
+          "name": "Joshua Rust"
+        },
+        {
+          "number": "0",
+          "name": "Koven Card"
+        },
+        {
+          "number": "0",
+          "name": "RJ Christensen"
+        },
+        {
+          "number": "0",
+          "name": "Russell Ridd"
+        },
+        {
+          "number": "0",
+          "name": "Samuel Powell"
+        },
+        {
+          "number": "0",
+          "name": "Spencer Morgan"
+        },
+        {
+          "number": "0",
+          "name": "Trevor Wai"
+        },
+        {
+          "number": "1",
+          "name": "Alex Merrifield"
+        },
+        {
+          "number": "11",
+          "name": "Adam Simpson"
+        },
+        {
+          "number": "19",
+          "name": "Zachary Saetrum"
+        },
+        {
+          "number": "24",
+          "name": "Darren Burdette"
+        },
+        {
+          "number": "28",
+          "name": "Clinton James"
+        },
+        {
+          "number": "40",
+          "name": "Salem Davis"
+        }
+      ]
+    },
+    {
+      "name": "Boise State",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Mamu Zaldi",
+        "location": "Boise, Idaho",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Evan Holcomb"
+        },
+        {
+          "number": "0",
+          "name": "James Kubish"
+        },
+        {
+          "number": "3",
+          "name": "Jay Everett"
+        },
+        {
+          "number": "4",
+          "name": "Nathaniel Dryden"
+        },
+        {
+          "number": "5",
+          "name": "Nathan Nevarez"
+        },
+        {
+          "number": "8",
+          "name": "Hudson Thornton"
+        },
+        {
+          "number": "9",
+          "name": "Jacob Kemmer"
+        },
+        {
+          "number": "14",
+          "name": "Zachry Weber"
+        },
+        {
+          "number": "17",
+          "name": "Ryan Martinez"
+        },
+        {
+          "number": "21",
+          "name": "Christopher Maund"
+        },
+        {
+          "number": "24",
+          "name": "Trevor Ricker"
+        },
+        {
+          "number": "26",
+          "name": "Gabriell Mccown"
+        },
+        {
+          "number": "27",
+          "name": "Connor Olson"
+        },
+        {
+          "number": "32",
+          "name": "Chris Miller"
+        },
+        {
+          "number": "59",
+          "name": "Jake George"
+        },
+        {
+          "number": "81",
+          "name": "Aaron Liu"
+        },
+        {
+          "number": "89",
+          "name": "Mason Guidotti"
+        }
+      ]
+    },
+    {
+      "name": "Montana",
+      "seed": 7,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Smokejump",
+        "location": "Missoula, Montana",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Brandon Dieujuste"
+        },
+        {
+          "number": "0",
+          "name": "Cadence Waller"
+        },
+        {
+          "number": "0",
+          "name": "Jacob Blockhan"
+        },
+        {
+          "number": "0",
+          "name": "Oliver Jepson"
+        },
+        {
+          "number": "0",
+          "name": "Riley Comstock"
+        },
+        {
+          "number": "0",
+          "name": "Tyler Fritz"
+        },
+        {
+          "number": "02",
+          "name": "Finnian Bentler"
+        },
+        {
+          "number": "16",
+          "name": "Will Mottram"
+        },
+        {
+          "number": "28",
+          "name": "Trevor Monsos"
+        },
+        {
+          "number": "49",
+          "name": "James Meyer"
+        },
+        {
+          "number": "85",
+          "name": "Levi Danielson "
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Utah",
+              "team2": "Montana State",
+              "score1": 9,
+              "score2": 7,
+              "datetime": "2023-03-04T09:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Nevada-Reno",
+              "team2": "Idaho",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2023-03-04T09:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Utah",
+              "team2": "Idaho",
+              "score1": 15,
+              "score2": 2,
+              "datetime": "2023-03-04T11:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Nevada-Reno",
+              "team2": "Montana State",
+              "score1": 10,
+              "score2": 8,
+              "datetime": "2023-03-04T11:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Utah",
+              "team2": "Nevada-Reno",
+              "score1": 10,
+              "score2": 8,
+              "datetime": "2023-03-04T13:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Montana State",
+              "team2": "Idaho",
+              "score1": 13,
+              "score2": 4,
+              "datetime": "2023-03-04T13:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool B",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Brigham Young (B)",
+              "team2": "Boise State",
+              "score1": 15,
+              "score2": 6,
+              "datetime": "2023-03-04T09:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Washington State",
+              "team2": "Montana",
+              "score1": 15,
+              "score2": 5,
+              "datetime": "2023-03-04T09:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Brigham Young (B)",
+              "team2": "Montana",
+              "score1": 15,
+              "score2": 5,
+              "datetime": "2023-03-04T11:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Washington State",
+              "team2": "Boise State",
+              "score1": 11,
+              "score2": 10,
+              "datetime": "2023-03-04T11:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Brigham Young (B)",
+              "team2": "Washington State",
+              "score1": 4,
+              "score2": 13,
+              "datetime": "2023-03-04T13:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Boise State",
+              "team2": "Montana",
+              "score1": 11,
+              "score2": 4,
+              "datetime": "2023-03-04T13:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Bracket Play",
+      "groups": [
+        {
+          "name": "Championship Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Utah",
+              "team2": "Montana",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2023-03-05T09:00:00Z",
+              "round": "Quarter Finals",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Brigham Young (B)",
+              "team2": "Montana State",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2023-03-05T09:00:00Z",
+              "round": "Quarter Finals",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Washington State",
+              "team2": "Idaho",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2023-03-05T09:00:00Z",
+              "round": "Quarter Finals",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Nevada-Reno",
+              "team2": "Boise State",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2023-03-05T09:00:00Z",
+              "round": "Quarter Finals",
+              "status": "Scheduled"
+            }
+          ]
+        },
+        {
+          "name": "3rd/4th Place Game",
+          "isChampionship": false,
+          "games": []
+        },
+        {
+          "name": "5th/6th Place Bracket",
+          "isChampionship": false,
+          "games": []
+        },
+        {
+          "name": "7th/8th Place Game",
+          "isChampionship": false,
+          "games": []
+        }
+      ]
+    }
+  ]
+}

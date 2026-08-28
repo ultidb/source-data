@@ -1,0 +1,975 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2015/Florida-D-I-College-Mens-CC-2015CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/Florida-D-I-College-Mens-CC-2015/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:12.340298Z",
+  "event": {
+    "name": "Florida D-I College Men's CC 2015",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2015,
+    "city": "Kissimmee",
+    "state": "FL",
+    "country": "",
+    "startDate": "2015-04-11",
+    "endDate": "2015-04-12"
+  },
+  "teams": [
+    {
+      "name": "Florida",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Florida",
+        "location": "Gainesville, Florida",
+        "website": "http://gvilleultimate.com/",
+        "facebook": "https://www.facebook.com/floridaultimate",
+        "twitter": "https://twitter.com/FloridaUltimate/"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "02",
+          "name": "Billy O'Bryan"
+        },
+        {
+          "number": "03",
+          "name": "James Dahl"
+        },
+        {
+          "number": "04",
+          "name": "Bradley Seuntjens"
+        },
+        {
+          "number": "05",
+          "name": "Ryan Hiser"
+        },
+        {
+          "number": "06",
+          "name": "Danny Bishop"
+        },
+        {
+          "number": "09",
+          "name": "Bobby Ley"
+        },
+        {
+          "number": "10",
+          "name": "Matt Thompson"
+        },
+        {
+          "number": "11",
+          "name": "Jacob Dummeldinger"
+        },
+        {
+          "number": "12",
+          "name": "Samuel Shaffer"
+        },
+        {
+          "number": "13",
+          "name": "MATTHEW TERZA"
+        },
+        {
+          "number": "15",
+          "name": "Tanner Repasky"
+        },
+        {
+          "number": "16",
+          "name": "Ryan Goetz"
+        },
+        {
+          "number": "18",
+          "name": "Hayden Wachob"
+        },
+        {
+          "number": "19",
+          "name": "Doug Terza"
+        },
+        {
+          "number": "24",
+          "name": "Alec Cutajar"
+        },
+        {
+          "number": "26",
+          "name": "Aaron Spector"
+        },
+        {
+          "number": "32",
+          "name": "Patrick Gettino"
+        },
+        {
+          "number": "33",
+          "name": "BRIAN BENGE"
+        },
+        {
+          "number": "39",
+          "name": "Evan Murray"
+        },
+        {
+          "number": "50",
+          "name": "JARED BRODY"
+        }
+      ]
+    },
+    {
+      "name": "Florida State",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "DUF",
+        "location": "Tallahassee, Florida",
+        "website": "fsultimate.com",
+        "facebook": "https://www.facebook.com/FSUltimate",
+        "twitter": "https://twitter.com/DUFtrainroll"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "William Boor"
+        },
+        {
+          "number": "0",
+          "name": "Stephen  Muir"
+        },
+        {
+          "number": "1",
+          "name": "Jason Holleran"
+        },
+        {
+          "number": "2",
+          "name": "Bobby Patterson"
+        },
+        {
+          "number": "3",
+          "name": "Andrew Roney"
+        },
+        {
+          "number": "5",
+          "name": "Thomas Mazza"
+        },
+        {
+          "number": "8",
+          "name": "CHENTE ORTIZ"
+        },
+        {
+          "number": "11",
+          "name": "LIAM RAWSON"
+        },
+        {
+          "number": "12",
+          "name": "WAYDE VOSS"
+        },
+        {
+          "number": "14",
+          "name": "Austin Bass"
+        },
+        {
+          "number": "16",
+          "name": "ZACH WERNICK"
+        },
+        {
+          "number": "18",
+          "name": "Chris LaRocque"
+        },
+        {
+          "number": "19",
+          "name": "Bryce Vokus"
+        },
+        {
+          "number": "20",
+          "name": "Keno Catabay"
+        },
+        {
+          "number": "21",
+          "name": "Robert Larsen"
+        },
+        {
+          "number": "22",
+          "name": "Spencer Howett"
+        },
+        {
+          "number": "23",
+          "name": "Peter Van Brussel"
+        },
+        {
+          "number": "25",
+          "name": "Cole Friedes"
+        },
+        {
+          "number": "27",
+          "name": "Connor Holcombe"
+        },
+        {
+          "number": "28",
+          "name": "Andrew Larocque"
+        },
+        {
+          "number": "33",
+          "name": "Kody Cotton"
+        },
+        {
+          "number": "35",
+          "name": "James Dobson"
+        },
+        {
+          "number": "46",
+          "name": "Brian Phillips"
+        },
+        {
+          "number": "87",
+          "name": "Daniel Miller"
+        },
+        {
+          "number": "88",
+          "name": "Scott Moore"
+        }
+      ]
+    },
+    {
+      "name": "Central Florida",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Dogs of War",
+        "location": "Orlando, Florida",
+        "website": "http://centralfloridaultimate.com/",
+        "facebook": "https://www.facebook.com/CentralFloridaUltimate",
+        "twitter": "https://twitter.com/PupsofConflict"
+      },
+      "coaches": [
+        "Andrew Roca",
+        "Daniel Jakob"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Adam Lapikas"
+        },
+        {
+          "number": "1",
+          "name": "Brawley Adams"
+        },
+        {
+          "number": "2",
+          "name": "Kameron Knight"
+        },
+        {
+          "number": "3",
+          "name": "Terence Murphy"
+        },
+        {
+          "number": "4",
+          "name": "Kyle Reedy"
+        },
+        {
+          "number": "5",
+          "name": "Michael Fairley"
+        },
+        {
+          "number": "6",
+          "name": "Kyle Lockwood"
+        },
+        {
+          "number": "7",
+          "name": "JOHN COLLINS"
+        },
+        {
+          "number": "8",
+          "name": "Alex Bullock"
+        },
+        {
+          "number": "9",
+          "name": "JACOB RADFORD"
+        },
+        {
+          "number": "10",
+          "name": "James Dangler"
+        },
+        {
+          "number": "12",
+          "name": "Matt Helms"
+        },
+        {
+          "number": "13",
+          "name": "Zachary Marks"
+        },
+        {
+          "number": "15",
+          "name": "Chad Russom"
+        },
+        {
+          "number": "25",
+          "name": "Jeremy Langdon"
+        },
+        {
+          "number": "26",
+          "name": "Thomas Schulte"
+        },
+        {
+          "number": "27",
+          "name": "Austin Mercadante"
+        },
+        {
+          "number": "30",
+          "name": "Andrew McKelvey"
+        },
+        {
+          "number": "32",
+          "name": "Austin Malone"
+        },
+        {
+          "number": "44",
+          "name": "DAVID HANKIN"
+        },
+        {
+          "number": "45",
+          "name": "Jeffrey Shapiro"
+        },
+        {
+          "number": "51",
+          "name": "Michael Taylor"
+        },
+        {
+          "number": "74",
+          "name": "Stuart Little"
+        }
+      ]
+    },
+    {
+      "name": "South Florida",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "ScallyWags",
+        "location": "Tampa, Florida",
+        "website": "",
+        "facebook": "facebook.com/usfultimate",
+        "twitter": "twitter.com/usfultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Vikrant Pendharkar"
+        },
+        {
+          "number": "0",
+          "name": "Ian Lynch"
+        },
+        {
+          "number": "0",
+          "name": "Connor Vice"
+        },
+        {
+          "number": "0",
+          "name": "Scott DeLuca"
+        },
+        {
+          "number": "0",
+          "name": "Shane Voshell"
+        },
+        {
+          "number": "0",
+          "name": "JOSEPH BUSTABAD"
+        },
+        {
+          "number": "0",
+          "name": "Sagar Shahani"
+        },
+        {
+          "number": "0",
+          "name": "BENJAMIN BREWER"
+        },
+        {
+          "number": "1",
+          "name": "Jody Louis"
+        },
+        {
+          "number": "2",
+          "name": "JASON TACKETT"
+        },
+        {
+          "number": "9",
+          "name": "Clay Hewett"
+        },
+        {
+          "number": "16",
+          "name": "Nathan Callihan"
+        },
+        {
+          "number": "18",
+          "name": "Alex DeSouza"
+        },
+        {
+          "number": "21",
+          "name": "Keith Patterson"
+        },
+        {
+          "number": "27",
+          "name": "Francisco Benito-Agostini "
+        },
+        {
+          "number": "33",
+          "name": "JESSE GOLDSMITH"
+        },
+        {
+          "number": "51",
+          "name": "Patrick Dougherty"
+        },
+        {
+          "number": "87",
+          "name": "TAD PALMER"
+        },
+        {
+          "number": "88",
+          "name": "Matt Chandler"
+        },
+        {
+          "number": "99",
+          "name": "Garth Reimann"
+        }
+      ]
+    },
+    {
+      "name": "Miami",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "UMiami Cartel",
+        "location": "Coral Gables, Florida",
+        "website": "http://umstudentactivities.orgsync.com/org/ultimatefrisbee/home",
+        "facebook": "https://www.facebook.com/UniversityOfMiamiUltimateClub",
+        "twitter": "https://twitter.com/UMiamiUltimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "7",
+          "name": "David Machado"
+        },
+        {
+          "number": "01",
+          "name": "Richard Hankins"
+        },
+        {
+          "number": "02",
+          "name": "Connor Smith"
+        },
+        {
+          "number": "05",
+          "name": "Alex Zacharkiewicz"
+        },
+        {
+          "number": "06",
+          "name": "Loren Tanksley"
+        },
+        {
+          "number": "08",
+          "name": "Daniel Scribner"
+        },
+        {
+          "number": "09",
+          "name": "Benjamin O'Brien"
+        },
+        {
+          "number": "11",
+          "name": "Eric Harkaway"
+        },
+        {
+          "number": "13",
+          "name": "Carlos Morales"
+        },
+        {
+          "number": "14",
+          "name": "Zachary Silberberg"
+        },
+        {
+          "number": "17",
+          "name": "Brian Morgenlander"
+        },
+        {
+          "number": "18",
+          "name": "Peter Khoury"
+        },
+        {
+          "number": "20",
+          "name": "Daniel McDermott"
+        },
+        {
+          "number": "21",
+          "name": "Byron Fang"
+        },
+        {
+          "number": "24",
+          "name": "JOE BARRA"
+        },
+        {
+          "number": "26",
+          "name": "Logan Riddick"
+        },
+        {
+          "number": "27",
+          "name": "Carson Mullins"
+        },
+        {
+          "number": "28",
+          "name": "Matthew Walter"
+        },
+        {
+          "number": "36",
+          "name": "Benjamin Caplan"
+        },
+        {
+          "number": "42",
+          "name": "Daniel Richter"
+        },
+        {
+          "number": "44",
+          "name": "LUKE FRENTSOS"
+        },
+        {
+          "number": "49",
+          "name": "Dimitri Alexis"
+        },
+        {
+          "number": "51",
+          "name": "Joachim Lopez"
+        },
+        {
+          "number": "52",
+          "name": "Matthew Colonero"
+        }
+      ]
+    },
+    {
+      "name": "Florida Gulf Coast",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "FGCU Eagles",
+        "location": "Fort Myers, Florida",
+        "website": "",
+        "facebook": "https://www.facebook.com/groups/867685003261127/",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "GOCE ANDONOVSKI"
+        },
+        {
+          "number": "0",
+          "name": "Dylan Mertzlufft"
+        },
+        {
+          "number": "0",
+          "name": "Dylan Eskridge"
+        },
+        {
+          "number": "0",
+          "name": "ADAM LINN"
+        },
+        {
+          "number": "0",
+          "name": "Adam Tardif"
+        },
+        {
+          "number": "0",
+          "name": "Michael Earles"
+        },
+        {
+          "number": "2",
+          "name": "Brandon Dessingue"
+        },
+        {
+          "number": "8",
+          "name": "JOSH MCAULIFFE"
+        },
+        {
+          "number": "20",
+          "name": "Austin Arden"
+        },
+        {
+          "number": "33",
+          "name": "Matthew Frisbee"
+        },
+        {
+          "number": "47",
+          "name": "Austin Koffarnus"
+        },
+        {
+          "number": "99",
+          "name": "Zachary Domrase"
+        }
+      ]
+    },
+    {
+      "name": "North Florida",
+      "seed": 7,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Category 5",
+        "location": "Jacksonville, Florida",
+        "website": "",
+        "facebook": "https://www.facebook.com/groups/653951534617192/",
+        "twitter": "https://twitter.com/UNF_Category5"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Luke Gindlesperger"
+        },
+        {
+          "number": "0",
+          "name": "Aaron Johnson"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Coe"
+        },
+        {
+          "number": "0",
+          "name": "Charlie Markovich"
+        },
+        {
+          "number": "0",
+          "name": "Connor Shelton"
+        },
+        {
+          "number": "0",
+          "name": "Jacob Bradley"
+        },
+        {
+          "number": "2",
+          "name": "Ian Gray"
+        },
+        {
+          "number": "3",
+          "name": "JOSEPH MONTEAU"
+        },
+        {
+          "number": "7",
+          "name": "Lucas Franklin"
+        },
+        {
+          "number": "13",
+          "name": "Tyler Falcao"
+        },
+        {
+          "number": "17",
+          "name": "GARRETT TEAL"
+        },
+        {
+          "number": "20",
+          "name": "Vincent Sansone"
+        },
+        {
+          "number": "21",
+          "name": "Daniel Pickens"
+        },
+        {
+          "number": "22",
+          "name": "Matthew Weatherhead"
+        },
+        {
+          "number": "24",
+          "name": "Evan Jason"
+        },
+        {
+          "number": "55",
+          "name": "Vinny Losito"
+        },
+        {
+          "number": "63",
+          "name": "CHAD GERMANY"
+        },
+        {
+          "number": "64",
+          "name": "Stephen Grondin"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "South Florida",
+              "team2": "Florida Gulf Coast",
+              "score1": 13,
+              "score2": 7,
+              "datetime": "2015-04-11T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Florida",
+              "team2": "Miami",
+              "score1": 13,
+              "score2": 2,
+              "datetime": "2015-04-11T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Central Florida",
+              "team2": "North Florida",
+              "score1": 13,
+              "score2": 2,
+              "datetime": "2015-04-11T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Florida State",
+              "team2": "Miami",
+              "score1": 13,
+              "score2": 6,
+              "datetime": "2015-04-11T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Central Florida",
+              "team2": "Florida Gulf Coast",
+              "score1": 13,
+              "score2": 3,
+              "datetime": "2015-04-11T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Florida",
+              "team2": "North Florida",
+              "score1": 13,
+              "score2": 2,
+              "datetime": "2015-04-11T10:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Florida State",
+              "team2": "Central Florida",
+              "score1": 12,
+              "score2": 11,
+              "datetime": "2015-04-11T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "South Florida",
+              "team2": "North Florida",
+              "score1": 12,
+              "score2": 5,
+              "datetime": "2015-04-11T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Florida",
+              "team2": "Florida Gulf Coast",
+              "score1": 13,
+              "score2": 5,
+              "datetime": "2015-04-11T12:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Florida State",
+              "team2": "South Florida",
+              "score1": 13,
+              "score2": 6,
+              "datetime": "2015-04-11T14:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Miami",
+              "team2": "Florida Gulf Coast",
+              "score1": 13,
+              "score2": 9,
+              "datetime": "2015-04-11T14:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Central Florida",
+              "team2": "Florida",
+              "score1": 9,
+              "score2": 13,
+              "datetime": "2015-04-11T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Miami",
+              "team2": "South Florida",
+              "score1": 10,
+              "score2": 12,
+              "datetime": "2015-04-11T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Florida State",
+              "team2": "North Florida",
+              "score1": 13,
+              "score2": 4,
+              "datetime": "2015-04-11T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Florida Gulf Coast",
+              "team2": "North Florida",
+              "score1": 11,
+              "score2": 9,
+              "datetime": "2015-04-12T08:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Florida State",
+              "team2": "Florida",
+              "score1": 11,
+              "score2": 13,
+              "datetime": "2015-04-12T09:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Central Florida",
+              "team2": "South Florida",
+              "score1": 12,
+              "score2": 4,
+              "datetime": "2015-04-12T09:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Miami",
+              "team2": "North Florida",
+              "score1": 12,
+              "score2": 8,
+              "datetime": "2015-04-12T09:45:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Florida State",
+              "team2": "Florida Gulf Coast",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2015-04-12T11:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Central Florida",
+              "team2": "Miami",
+              "score1": 13,
+              "score2": 5,
+              "datetime": "2015-04-12T11:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Florida",
+              "team2": "South Florida",
+              "score1": 10,
+              "score2": 12,
+              "datetime": "2015-04-12T11:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Bracket Play",
+      "groups": [
+        {
+          "name": "1st Place",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Florida",
+              "team2": "Florida State",
+              "score1": 8,
+              "score2": 13,
+              "datetime": "2015-04-12T13:15:00Z",
+              "round": "1st Place",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "2nd Place Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Florida",
+              "team2": "Central Florida",
+              "score1": 9,
+              "score2": 12,
+              "datetime": "2015-04-12T15:00:00Z",
+              "round": "2nd Place Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Central Florida",
+              "team2": "South Florida",
+              "score1": 13,
+              "score2": 6,
+              "datetime": "2015-04-12T13:15:00Z",
+              "round": "2nd Place Semis",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "4th Place Bracket",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "South Florida",
+              "team2": "Miami",
+              "score1": 7,
+              "score2": 9,
+              "datetime": "2015-04-12T15:00:00Z",
+              "round": "4th Place Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Miami",
+              "team2": "North Florida",
+              "score1": 1,
+              "score2": 0,
+              "datetime": "2015-04-12T13:15:00Z",
+              "round": "4th Place Semis",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

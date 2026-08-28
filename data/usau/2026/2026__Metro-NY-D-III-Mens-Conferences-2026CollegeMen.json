@@ -1,0 +1,269 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2026/Metro-NY-D-III-Mens-Conferences-2026CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/Metro-NY-D-III-Mens-Conferences-2026/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:22.884346Z",
+  "event": {
+    "name": "Metro NY D-III Men's Conferences 2026",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2026,
+    "city": "Ewing",
+    "state": "NJ",
+    "country": "",
+    "startDate": "2026-04-11",
+    "endDate": "2026-04-12"
+  },
+  "teams": [
+    {
+      "name": "Stevens Tech",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Stevens Tech",
+        "location": "Hoboken, New Jersey",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Andy Chen"
+        },
+        {
+          "number": "0",
+          "name": "Darren Kluesner"
+        },
+        {
+          "number": "0",
+          "name": "Jake Stinton"
+        },
+        {
+          "number": "0",
+          "name": "Nicholas Valenza"
+        },
+        {
+          "number": "0",
+          "name": "Nikhil Marel"
+        },
+        {
+          "number": "0",
+          "name": "Ryder Bowden"
+        },
+        {
+          "number": "00",
+          "name": "Noah DeMichele-Roberts"
+        },
+        {
+          "number": "00",
+          "name": "Aidan Ouckama"
+        },
+        {
+          "number": "00",
+          "name": "Jerson Yang"
+        },
+        {
+          "number": "00",
+          "name": "Luke Brevoort"
+        },
+        {
+          "number": "00",
+          "name": "Elliott Iwaki"
+        },
+        {
+          "number": "00",
+          "name": "Benjamin Herring"
+        },
+        {
+          "number": "00",
+          "name": "Caeleb Chendorain"
+        },
+        {
+          "number": "07",
+          "name": "Stanislav Daaboul"
+        },
+        {
+          "number": "08",
+          "name": "Anthony Smoaks"
+        },
+        {
+          "number": "13",
+          "name": "Oscar Schlimer"
+        },
+        {
+          "number": "13",
+          "name": "Peter Servedio"
+        },
+        {
+          "number": "23",
+          "name": "Ryan Breen"
+        },
+        {
+          "number": "25",
+          "name": "Samuel Strassburger"
+        },
+        {
+          "number": "28",
+          "name": "Jack Morrison"
+        },
+        {
+          "number": "31",
+          "name": "William Hines"
+        },
+        {
+          "number": "88",
+          "name": "Aidan Beheran"
+        }
+      ]
+    },
+    {
+      "name": "College of New Jersey",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Revolution",
+        "location": "Ewing, New Jersey",
+        "website": "http://www.tcnj.edu/~frisbee/revolution/index.php",
+        "facebook": "",
+        "twitter": "https://twitter.com/TCNJ_Revolution"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Zackary Moore"
+        },
+        {
+          "number": "0",
+          "name": "Marc Gleason"
+        },
+        {
+          "number": "0",
+          "name": "Nicholas Hein"
+        },
+        {
+          "number": "0",
+          "name": "Joshua Carey"
+        },
+        {
+          "number": "0",
+          "name": "Ken Thyne"
+        },
+        {
+          "number": "0",
+          "name": "Dante Ragazzo"
+        },
+        {
+          "number": "00",
+          "name": "Sean Willi"
+        },
+        {
+          "number": "00",
+          "name": "Robert Rallo"
+        },
+        {
+          "number": "00",
+          "name": "Joseph Pappone"
+        },
+        {
+          "number": "00",
+          "name": "Matthew Moradian"
+        },
+        {
+          "number": "00",
+          "name": "Nayan Patel"
+        },
+        {
+          "number": "00",
+          "name": "Aaron Zimmer"
+        },
+        {
+          "number": "00",
+          "name": "Brian Dettlinger"
+        },
+        {
+          "number": "00",
+          "name": "Brian Devlin"
+        },
+        {
+          "number": "00",
+          "name": "Ethan Krempel"
+        },
+        {
+          "number": "00",
+          "name": "Shawn McStravock"
+        },
+        {
+          "number": "00",
+          "name": "John Van Horn"
+        },
+        {
+          "number": "06",
+          "name": "Julian Paré"
+        },
+        {
+          "number": "08",
+          "name": "James Fencik"
+        },
+        {
+          "number": "27",
+          "name": "Cormac Riley"
+        },
+        {
+          "number": "61",
+          "name": "Ryan Boyle"
+        },
+        {
+          "number": "88",
+          "name": "Shawn Liu"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "clusters",
+      "name": "Best of 3",
+      "groups": [
+        {
+          "name": "Best of 3",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Stevens Tech",
+              "team2": "College of New Jersey",
+              "score1": 10,
+              "score2": 12,
+              "datetime": "2026-04-11T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Stevens Tech",
+              "team2": "College of New Jersey",
+              "score1": 13,
+              "score2": 8,
+              "datetime": "2026-04-11T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Stevens Tech",
+              "team2": "College of New Jersey",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2026-04-11T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

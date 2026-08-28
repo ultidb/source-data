@@ -1,0 +1,256 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2024/PDX-Round-Robin-2024CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/PDX-Round-Robin-2024/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:20.989195Z",
+  "event": {
+    "name": "PDX Round Robin 2024",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2024,
+    "city": "Portland",
+    "state": "OR",
+    "country": "",
+    "startDate": "2024-03-31",
+    "endDate": "2024-03-31"
+  },
+  "teams": [
+    {
+      "name": "Puget Sound",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Postmen",
+        "location": "Tacoma, Washington",
+        "website": "http://www.upsultimate.com/",
+        "facebook": "https://www.facebook.com/PugetSoundPostmen",
+        "twitter": "https://twitter.com/upsultimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "August Medley"
+        },
+        {
+          "number": "0",
+          "name": "Elliot Williams"
+        },
+        {
+          "number": "0",
+          "name": "Gabriel Guinn"
+        },
+        {
+          "number": "0",
+          "name": "Kevin Cuda"
+        },
+        {
+          "number": "0",
+          "name": "Lucas Calaff"
+        },
+        {
+          "number": "0",
+          "name": "Chris Nicol"
+        },
+        {
+          "number": "0",
+          "name": "Cooper Lawrenz"
+        },
+        {
+          "number": "0",
+          "name": "shota Fletcher"
+        },
+        {
+          "number": "0",
+          "name": "Xander  Nobel Rudolph"
+        },
+        {
+          "number": "3",
+          "name": "Samuel Olesek"
+        },
+        {
+          "number": "3",
+          "name": "Alex Rossmeissl"
+        },
+        {
+          "number": "7",
+          "name": "Sahaj Olivar"
+        },
+        {
+          "number": "14",
+          "name": "Charles DeRussy"
+        },
+        {
+          "number": "20",
+          "name": "Jasper Hitchman"
+        },
+        {
+          "number": "24",
+          "name": "Quinn Rosen"
+        },
+        {
+          "number": "34",
+          "name": "Jeremy Gordon"
+        },
+        {
+          "number": "37",
+          "name": "Samuel Bequette"
+        },
+        {
+          "number": "48",
+          "name": "Aidan Thiele"
+        },
+        {
+          "number": "50",
+          "name": "Nainoa Ohata"
+        },
+        {
+          "number": "64",
+          "name": "Daniel Johnson"
+        },
+        {
+          "number": "69",
+          "name": "Nathan Ludington"
+        },
+        {
+          "number": "72",
+          "name": "Noah Hornecker"
+        }
+      ]
+    },
+    {
+      "name": "Portland State",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Vitruvious",
+        "location": "Portland, Oregon",
+        "website": "https://www.instagram.com/portlandstateultimate/?hl=en",
+        "facebook": "https://www.instagram.com/portlandstateultimate/?hl=en",
+        "twitter": "https://twitter.com/psujuicy"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Ada Carley"
+        },
+        {
+          "number": "0",
+          "name": "Anya Krzoska"
+        },
+        {
+          "number": "0",
+          "name": "Calder  Kibben"
+        },
+        {
+          "number": "0",
+          "name": "Evan Holliday"
+        },
+        {
+          "number": "0",
+          "name": "Finnegan Murray"
+        },
+        {
+          "number": "0",
+          "name": "Jonah Goldberg"
+        },
+        {
+          "number": "0",
+          "name": "Mayo Costanza"
+        },
+        {
+          "number": "0",
+          "name": "Oliver Harris"
+        },
+        {
+          "number": "0",
+          "name": "Riley Wunderlich"
+        },
+        {
+          "number": "0",
+          "name": "Shunsuke Kainuma"
+        },
+        {
+          "number": "0",
+          "name": "Shuta Fujimoto"
+        },
+        {
+          "number": "0",
+          "name": "Soren Burwell"
+        },
+        {
+          "number": "0",
+          "name": "Wrin Grasmick"
+        },
+        {
+          "number": "2",
+          "name": "Daniel Karabatsos"
+        },
+        {
+          "number": "8",
+          "name": "Kate Beegle"
+        },
+        {
+          "number": "12",
+          "name": "Hank Munro"
+        },
+        {
+          "number": "22",
+          "name": "Victor Cowles"
+        },
+        {
+          "number": "25",
+          "name": "Aaron Dawson"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Game 1",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Puget Sound",
+              "team2": "Portland State",
+              "score1": 13,
+              "score2": 2,
+              "datetime": "2024-03-31T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "pools",
+      "name": "Game 2",
+      "groups": [
+        {
+          "name": "Pool B",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Puget Sound",
+              "team2": "Portland State",
+              "score1": 13,
+              "score2": 3,
+              "datetime": "2024-03-31T12:45:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

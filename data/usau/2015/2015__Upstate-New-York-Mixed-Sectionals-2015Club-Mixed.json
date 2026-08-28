@@ -1,0 +1,243 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2015/Upstate-New-York-Mixed-Sectionals-2015Club-Mixed",
+  "sourceUrl": "https://play.usaultimate.org/events/Upstate-New-York-Mixed-Sectionals-2015/schedule/Mixed/Club-Mixed",
+  "scrapedAt": "2026-08-28T10:06:12.954570Z",
+  "event": {
+    "name": "Upstate New York Mixed Sectionals 2015",
+    "division": "Club - Mixed ",
+    "gender": "",
+    "season": 2015,
+    "city": "Oneonta",
+    "state": "NY",
+    "country": "",
+    "startDate": "2015-08-29",
+    "endDate": "2015-08-30"
+  },
+  "teams": [
+    {
+      "name": "Lake Avengers",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Buffalo, New York",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "02",
+          "name": "Christina Lembke"
+        },
+        {
+          "number": "05",
+          "name": "Erica Stamboulian"
+        },
+        {
+          "number": "08",
+          "name": "Sarah Burns"
+        },
+        {
+          "number": "09",
+          "name": "Michael Kanaby"
+        },
+        {
+          "number": "11",
+          "name": "David Mohan"
+        },
+        {
+          "number": "12",
+          "name": "ELLIOT LOUISOS"
+        },
+        {
+          "number": "16",
+          "name": "Dave Schneggenburger"
+        },
+        {
+          "number": "17",
+          "name": "MITCHELL WHEELER"
+        },
+        {
+          "number": "22",
+          "name": "Kelsey Scanlon"
+        },
+        {
+          "number": "27",
+          "name": "Dana Lembke"
+        },
+        {
+          "number": "28",
+          "name": "Timothy (TJ) Burns"
+        },
+        {
+          "number": "32",
+          "name": "CHRIS NASH"
+        },
+        {
+          "number": "56",
+          "name": "JEFFREY GRUNDTISCH"
+        },
+        {
+          "number": "71",
+          "name": "BRITTANY BUNCH"
+        },
+        {
+          "number": "87",
+          "name": "George Scheibel"
+        },
+        {
+          "number": "88",
+          "name": "JOSEPH ONORIO"
+        }
+      ]
+    },
+    {
+      "name": "Townies",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Ithaca, New York",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Brandon Kahler"
+        },
+        {
+          "number": "0",
+          "name": "Helene Strange"
+        },
+        {
+          "number": "0",
+          "name": "ASHLEY GANNON"
+        },
+        {
+          "number": "0",
+          "name": "Emily Zitek"
+        },
+        {
+          "number": "0",
+          "name": "LUCAS LANDAETA"
+        },
+        {
+          "number": "0",
+          "name": "VALERIE LOUCKS"
+        },
+        {
+          "number": "0",
+          "name": "Niki Lesniak"
+        },
+        {
+          "number": "0",
+          "name": "CRAIG MANAHAN"
+        },
+        {
+          "number": "0",
+          "name": "Alec Tucker"
+        },
+        {
+          "number": "0",
+          "name": "Jeff Hartline"
+        },
+        {
+          "number": "0",
+          "name": "Jennie Stewart"
+        },
+        {
+          "number": "0",
+          "name": "ANDREI ISRAEL"
+        },
+        {
+          "number": "0",
+          "name": "Benjamin Kammerman"
+        },
+        {
+          "number": "0",
+          "name": "Raymond Yee"
+        },
+        {
+          "number": "6",
+          "name": "Josiah Peck"
+        },
+        {
+          "number": "9",
+          "name": "Justin Pierce"
+        },
+        {
+          "number": "14",
+          "name": "Joshua Norton"
+        },
+        {
+          "number": "17",
+          "name": "Aaron Olney"
+        },
+        {
+          "number": "19",
+          "name": "Veronica Pillar"
+        },
+        {
+          "number": "21",
+          "name": "Hannah Smalley"
+        },
+        {
+          "number": "24",
+          "name": "Zuzanna Rybicka"
+        },
+        {
+          "number": "27",
+          "name": "Taylor Simpson"
+        },
+        {
+          "number": "36",
+          "name": "Nicolas LoPresto"
+        },
+        {
+          "number": "55",
+          "name": "Theodore Weisman"
+        },
+        {
+          "number": "68",
+          "name": "Andrew Parmet"
+        },
+        {
+          "number": "69",
+          "name": "Daniel Percival"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "brackets",
+      "name": "Final",
+      "groups": [
+        {
+          "name": "Sectionals",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Lake Avengers",
+              "team2": "Townies",
+              "score1": 12,
+              "score2": 15,
+              "datetime": "2015-08-29T11:00:00Z",
+              "round": "Sectional Final",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

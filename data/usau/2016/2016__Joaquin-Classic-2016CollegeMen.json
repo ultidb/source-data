@@ -1,0 +1,789 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2016/Joaquin-Classic-2016CollegeMen",
+  "sourceUrl": "https://play.usaultimate.org/events/Joaquin-Classic-2016/schedule/Men/CollegeMen/",
+  "scrapedAt": "2026-08-28T10:06:13.433166Z",
+  "event": {
+    "name": "Joaquin Classic 2016",
+    "division": "College - Men ",
+    "gender": "",
+    "season": 2016,
+    "city": "Halethorpe",
+    "state": "MD",
+    "country": "",
+    "startDate": "2016-03-26",
+    "endDate": "2016-03-26"
+  },
+  "teams": [
+    {
+      "name": "Maryland-Baltimore County",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Booya",
+        "location": "Baltimore, Maryland",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "05",
+          "name": "Emmett Cummings"
+        },
+        {
+          "number": "09",
+          "name": "Collin Muhler"
+        },
+        {
+          "number": "11",
+          "name": "Zachary Johnson"
+        },
+        {
+          "number": "13",
+          "name": "Jacob Crouse"
+        },
+        {
+          "number": "15",
+          "name": "Dale Appleman"
+        },
+        {
+          "number": "19",
+          "name": "Ben Rampolla"
+        },
+        {
+          "number": "20",
+          "name": "Noah Wallack"
+        },
+        {
+          "number": "21",
+          "name": "Will Oktavec"
+        },
+        {
+          "number": "22",
+          "name": "Jas Raj Singh"
+        },
+        {
+          "number": "24",
+          "name": "Justin Taylor"
+        },
+        {
+          "number": "25",
+          "name": "Colby Agar"
+        },
+        {
+          "number": "27",
+          "name": "Jason Pon"
+        },
+        {
+          "number": "29",
+          "name": "Kyle Lynch"
+        },
+        {
+          "number": "33",
+          "name": "Justin Bettencourt"
+        },
+        {
+          "number": "37",
+          "name": "Max Trifillis"
+        },
+        {
+          "number": "55",
+          "name": "Yuval Reiss"
+        },
+        {
+          "number": "66",
+          "name": "Logan Beckner"
+        },
+        {
+          "number": "70",
+          "name": "Brennan Wight"
+        },
+        {
+          "number": "88",
+          "name": "Ryan Gordon"
+        },
+        {
+          "number": "99",
+          "name": "Benjamin Price"
+        }
+      ]
+    },
+    {
+      "name": "Lehigh (B)",
+      "seed": 3,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Lehigh-B",
+        "location": "Bethlehem, Pennsylvania",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "9",
+          "name": "Correll French"
+        },
+        {
+          "number": "10",
+          "name": "Christian Chapis"
+        },
+        {
+          "number": "12",
+          "name": "Steven Imburgio"
+        },
+        {
+          "number": "13",
+          "name": "Thomas Ferris"
+        },
+        {
+          "number": "16",
+          "name": "Jadon Sargeant"
+        },
+        {
+          "number": "19",
+          "name": "Andrew Gibson"
+        },
+        {
+          "number": "23",
+          "name": "Zachary Fisher"
+        },
+        {
+          "number": "25",
+          "name": "Jonathan Chisholm"
+        },
+        {
+          "number": "29",
+          "name": "Simon  Hwang"
+        },
+        {
+          "number": "31",
+          "name": "NITIS UDORNPIM"
+        },
+        {
+          "number": "32",
+          "name": "John Clark"
+        },
+        {
+          "number": "37",
+          "name": "Sean Cranney"
+        },
+        {
+          "number": "44",
+          "name": "Charlie Lu"
+        },
+        {
+          "number": "47",
+          "name": "Daniel Patracuolla"
+        },
+        {
+          "number": "50",
+          "name": "Anmol Madaan"
+        },
+        {
+          "number": "54",
+          "name": "Noah Haber"
+        },
+        {
+          "number": "60",
+          "name": "Michael Trongone"
+        },
+        {
+          "number": "61",
+          "name": "Timothy Predmore"
+        },
+        {
+          "number": "64",
+          "name": "Jericho Kashulines"
+        },
+        {
+          "number": "67",
+          "name": "Vito Scocozzo"
+        },
+        {
+          "number": "71",
+          "name": "David Widdowson"
+        },
+        {
+          "number": "72",
+          "name": "Juan Shiraishi"
+        },
+        {
+          "number": "75",
+          "name": "Marshall Stallings"
+        },
+        {
+          "number": "83",
+          "name": "Noah Katz"
+        },
+        {
+          "number": "88",
+          "name": "William Delucia"
+        },
+        {
+          "number": "90",
+          "name": "TROY WILLIAMS"
+        },
+        {
+          "number": "93",
+          "name": "Thomas McManus"
+        },
+        {
+          "number": "95",
+          "name": "Justin Landowne"
+        },
+        {
+          "number": "96",
+          "name": "Noah Michaeli"
+        },
+        {
+          "number": "98",
+          "name": "Troy Egar"
+        }
+      ]
+    },
+    {
+      "name": "Johns Hopkins (B)",
+      "seed": 5,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Friendzone",
+        "location": "Baltimore, Maryland",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Isaac Bernstein"
+        },
+        {
+          "number": "0",
+          "name": "Oliver Hammond"
+        },
+        {
+          "number": "0",
+          "name": "Willy Cosgarea"
+        },
+        {
+          "number": "0",
+          "name": "WILLY MATTESON"
+        },
+        {
+          "number": "0",
+          "name": "Sean Jost"
+        },
+        {
+          "number": "0",
+          "name": "William Snyder"
+        },
+        {
+          "number": "0",
+          "name": "Chetan Kamath"
+        },
+        {
+          "number": "0",
+          "name": "Daniel Park"
+        },
+        {
+          "number": "0",
+          "name": "Austin Granmoe"
+        },
+        {
+          "number": "0",
+          "name": "Adam Munn"
+        },
+        {
+          "number": "0",
+          "name": "Abhilash Suresh"
+        },
+        {
+          "number": "5",
+          "name": "Daniel Shade"
+        },
+        {
+          "number": "6",
+          "name": "William Franceschi"
+        },
+        {
+          "number": "9",
+          "name": "Elorm Awuyah"
+        },
+        {
+          "number": "11",
+          "name": "Bilal Sadik"
+        },
+        {
+          "number": "12",
+          "name": "Lucas Winch"
+        },
+        {
+          "number": "13",
+          "name": "Jonathan Chen"
+        },
+        {
+          "number": "13",
+          "name": "ZHIWEI YUE"
+        },
+        {
+          "number": "20",
+          "name": "Brian McConnell"
+        },
+        {
+          "number": "21",
+          "name": "DARIUS TOLBERT"
+        },
+        {
+          "number": "28",
+          "name": "Brian Fogelson"
+        },
+        {
+          "number": "30",
+          "name": "GRAHAM SMITH"
+        },
+        {
+          "number": "73",
+          "name": "DYLAN VARGAS"
+        }
+      ]
+    },
+    {
+      "name": "George Washington (B)",
+      "seed": 4,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "G-Dub B Bus Stop",
+        "location": "Washington, D.C., District of Columbia",
+        "website": "http://gdubultimate.com/",
+        "facebook": "",
+        "twitter": "https://twitter.com/GDub_B"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Ethan Young"
+        },
+        {
+          "number": "0",
+          "name": "Jason Freedberg"
+        },
+        {
+          "number": "0",
+          "name": "Noah Thomas"
+        },
+        {
+          "number": "0",
+          "name": "Matthew Medeiros"
+        },
+        {
+          "number": "0",
+          "name": "Thomas Martin"
+        },
+        {
+          "number": "0",
+          "name": "Caleb Pallaria"
+        },
+        {
+          "number": "0",
+          "name": "Alex Kassin"
+        },
+        {
+          "number": "0",
+          "name": "Zachary Mumbauer"
+        },
+        {
+          "number": "0",
+          "name": "Michael Heifetz"
+        },
+        {
+          "number": "0",
+          "name": "Grant Gourley"
+        },
+        {
+          "number": "4",
+          "name": "Gabe Murphy"
+        },
+        {
+          "number": "6",
+          "name": "Reuben Bank"
+        },
+        {
+          "number": "18",
+          "name": "Michael Falco"
+        },
+        {
+          "number": "24",
+          "name": "LJ Conley-Arneson"
+        },
+        {
+          "number": "26",
+          "name": "Donald York"
+        },
+        {
+          "number": "29",
+          "name": "Jonas Frumkin"
+        },
+        {
+          "number": "31",
+          "name": "Seamus Malley"
+        },
+        {
+          "number": "39",
+          "name": "Christian Roatta"
+        },
+        {
+          "number": "46",
+          "name": "billy ott"
+        },
+        {
+          "number": "54",
+          "name": "W. Wesley Waterhouse"
+        },
+        {
+          "number": "80",
+          "name": "Benjamin Banaag"
+        },
+        {
+          "number": "91",
+          "name": "Maverick Raile"
+        }
+      ]
+    },
+    {
+      "name": "St Mary's (Maryland)",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "SMUT",
+        "location": "St. Marys City, Maryland",
+        "website": "http://stmarysultimate.webs.com/",
+        "facebook": "https://www.facebook.com/StMarysUltimateTeam",
+        "twitter": "https://twitter.com/M_SMUT"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "STUART BADGER"
+        },
+        {
+          "number": "0",
+          "name": "Brian Cadden"
+        },
+        {
+          "number": "0",
+          "name": "DRAKE LENTZ"
+        },
+        {
+          "number": "0",
+          "name": "Jacob Fusco"
+        },
+        {
+          "number": "0",
+          "name": "Frederick Frost"
+        },
+        {
+          "number": "0",
+          "name": "Abram Shaw"
+        },
+        {
+          "number": "1",
+          "name": "Kyle Flanagan"
+        },
+        {
+          "number": "4",
+          "name": "Caleb Bailey"
+        },
+        {
+          "number": "7",
+          "name": "Joseph Chazin"
+        },
+        {
+          "number": "8",
+          "name": "Dylan Gugerty"
+        },
+        {
+          "number": "10",
+          "name": "Joseph Miller"
+        },
+        {
+          "number": "17",
+          "name": "Thomas Miller"
+        },
+        {
+          "number": "23",
+          "name": "LUCAS IRVIN"
+        },
+        {
+          "number": "26",
+          "name": "Ryan Mahoney"
+        },
+        {
+          "number": "27",
+          "name": "Salahadine Khanjari"
+        },
+        {
+          "number": "33",
+          "name": "Alexander Cantor"
+        },
+        {
+          "number": "45",
+          "name": "Noah Walsh"
+        },
+        {
+          "number": "52",
+          "name": "Ronald Drescher"
+        },
+        {
+          "number": "54",
+          "name": "Wesley Merrick"
+        }
+      ]
+    },
+    {
+      "name": "Maryland-Baltimore County (B)",
+      "seed": 6,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Beez Nuts",
+        "location": "Baltimore, Maryland",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "3",
+          "name": "Mitchel Hallworth"
+        },
+        {
+          "number": "4",
+          "name": "Alexander Scott"
+        },
+        {
+          "number": "6",
+          "name": "Ayaz Hussain"
+        },
+        {
+          "number": "12",
+          "name": "Sahil Patel"
+        },
+        {
+          "number": "14",
+          "name": "ANDREW POTVIN"
+        },
+        {
+          "number": "17",
+          "name": "Harrison Boyle"
+        },
+        {
+          "number": "23",
+          "name": "Nathaniel (Bob Ross) Dorr"
+        },
+        {
+          "number": "26",
+          "name": "Adam Brinsfield"
+        },
+        {
+          "number": "42",
+          "name": "Jared Kimmey"
+        },
+        {
+          "number": "44",
+          "name": "Josh Ford"
+        },
+        {
+          "number": "47",
+          "name": "Brandon Turnbaugh"
+        },
+        {
+          "number": "52",
+          "name": "Blake Hipsley"
+        },
+        {
+          "number": "57",
+          "name": "Jason Chang"
+        },
+        {
+          "number": "59",
+          "name": "BENJAMIN SPARKLIN"
+        },
+        {
+          "number": "71",
+          "name": "Nicholas Rabuck"
+        },
+        {
+          "number": "72",
+          "name": "Derek Frazer"
+        },
+        {
+          "number": "96",
+          "name": "Hao Wu"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Joaquin Classic",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Maryland-Baltimore County",
+              "team2": "Johns Hopkins (B)",
+              "score1": 13,
+              "score2": 1,
+              "datetime": "2016-03-26T08:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Maryland-Baltimore County",
+              "team2": "Lehigh (B)",
+              "score1": 13,
+              "score2": 3,
+              "datetime": "2016-03-26T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Johns Hopkins (B)",
+              "team2": "Lehigh (B)",
+              "score1": 4,
+              "score2": 13,
+              "datetime": "2016-03-26T11:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool B",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "George Washington (B)",
+              "team2": "Maryland-Baltimore County (B)",
+              "score1": 13,
+              "score2": 0,
+              "datetime": "2016-03-26T08:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "George Washington (B)",
+              "team2": "St Mary's (Maryland)",
+              "score1": 10,
+              "score2": 7,
+              "datetime": "2016-03-26T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "St Mary's (Maryland)",
+              "team2": "Maryland-Baltimore County (B)",
+              "score1": 12,
+              "score2": 6,
+              "datetime": "2016-03-26T11:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool C",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Maryland-Baltimore County",
+              "team2": "George Washington (B)",
+              "score1": 13,
+              "score2": 3,
+              "datetime": "2016-03-26T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Lehigh (B)",
+              "team2": "Maryland-Baltimore County (B)",
+              "score1": 13,
+              "score2": 1,
+              "datetime": "2016-03-26T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Lehigh (B)",
+              "team2": "George Washington (B)",
+              "score1": 10,
+              "score2": 4,
+              "datetime": "2016-03-26T14:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "St Mary's (Maryland)",
+              "team2": "Johns Hopkins (B)",
+              "score1": 9,
+              "score2": 5,
+              "datetime": "2016-03-26T14:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Maryland-Baltimore County",
+              "team2": "St Mary's (Maryland)",
+              "score1": 13,
+              "score2": 5,
+              "datetime": "2016-03-26T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Johns Hopkins (B)",
+              "team2": "Maryland-Baltimore County (B)",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2016-03-26T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool D",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Maryland-Baltimore County",
+              "team2": "St Mary's (Maryland)",
+              "score1": 13,
+              "score2": 5,
+              "datetime": "2016-03-26T17:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2019/Atlantic-Coast-Showcase-32919CollegeWomen",
+  "sourceUrl": "https://play.usaultimate.org/events/Atlantic-Coast-Showcase-32919/schedule/Women/CollegeWomen/",
+  "scrapedAt": "2026-08-28T10:06:16.398881Z",
+  "event": {
+    "name": "Atlantic Coast Showcase (3/29/19) 2019",
+    "division": "College - Women ",
+    "gender": "",
+    "season": 2019,
+    "city": "Raleigh",
+    "state": "NC",
+    "country": "",
+    "startDate": "2019-03-29",
+    "endDate": "2019-03-29"
+  },
+  "teams": [
+    {
+      "name": "North Carolina-Wilmington",
+      "seed": 1,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Seaweed",
+        "location": "Wilmington, North Carolina",
+        "website": "",
+        "facebook": "https://www.facebook.com/Seaweed-Ultimate-112707882088022/?fref=ts",
+        "twitter": "https://twitter.com/SeaweedUltimate"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "1",
+          "name": "Shannon Hardy"
+        },
+        {
+          "number": "2",
+          "name": "Shanna Huffman"
+        },
+        {
+          "number": "3",
+          "name": "Lydia Brenneman"
+        },
+        {
+          "number": "4",
+          "name": "Shannon Sullivan"
+        },
+        {
+          "number": "11",
+          "name": "Hannah Samuelson"
+        },
+        {
+          "number": "13",
+          "name": "Meredith Wiedenheft"
+        },
+        {
+          "number": "15",
+          "name": "Kellee Meiners"
+        },
+        {
+          "number": "18",
+          "name": "Eliza Rich"
+        },
+        {
+          "number": "20",
+          "name": "Anakin Gerics"
+        },
+        {
+          "number": "21",
+          "name": "Kathryn O'Leary"
+        },
+        {
+          "number": "22",
+          "name": "Kristen Reed"
+        },
+        {
+          "number": "23",
+          "name": "Sydney Meadows"
+        },
+        {
+          "number": "24",
+          "name": "Hannah Boettcher"
+        },
+        {
+          "number": "31",
+          "name": "Claire Sorensen"
+        },
+        {
+          "number": "33",
+          "name": "Cameron Nix"
+        },
+        {
+          "number": "98",
+          "name": "Julia Machado"
+        },
+        {
+          "number": "99",
+          "name": "Kelly McGillicuddy"
+        }
+      ]
+    },
+    {
+      "name": "North Carolina State",
+      "seed": 2,
+      "sourceTeamId": "",
+      "url": "",
+      "info": {
+        "nickname": "Jaga Monsta",
+        "location": "Raleigh, North Carolina",
+        "website": "",
+        "facebook": "https://www.facebook.com/pages/J%C3%A4ga-NCSU-Womens-Ultimate/153552627991990",
+        "twitter": "https://twitter.com/NCSUJagaMonsta"
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Caroline Vande Berg"
+        },
+        {
+          "number": "0",
+          "name": "Charity Robinett"
+        },
+        {
+          "number": "0",
+          "name": "Danielle Sawyer"
+        },
+        {
+          "number": "0",
+          "name": "Emily Nicholos"
+        },
+        {
+          "number": "0",
+          "name": "Emma Bartlett"
+        },
+        {
+          "number": "0",
+          "name": "Jacqueline Hausle"
+        },
+        {
+          "number": "0",
+          "name": "Jen Bradley"
+        },
+        {
+          "number": "0",
+          "name": "Abigail Campbell"
+        },
+        {
+          "number": "0",
+          "name": "Alice Widman"
+        },
+        {
+          "number": "0",
+          "name": "Allison Church"
+        },
+        {
+          "number": "0",
+          "name": "Ana Solberg"
+        },
+        {
+          "number": "0",
+          "name": "Ashley Nelson"
+        },
+        {
+          "number": "0",
+          "name": "Becky Widmayer"
+        },
+        {
+          "number": "0",
+          "name": "Lisa Keller"
+        },
+        {
+          "number": "0",
+          "name": "Melissa Gronske"
+        },
+        {
+          "number": "0",
+          "name": "Sarah Lewis"
+        },
+        {
+          "number": "0",
+          "name": "Torey Vayer"
+        },
+        {
+          "number": "5",
+          "name": "Katie Cubrilovic"
+        },
+        {
+          "number": "6",
+          "name": "Carmen Tormey"
+        },
+        {
+          "number": "27",
+          "name": "Mary Clarke Worthington"
+        },
+        {
+          "number": "58",
+          "name": "Rowan Jaynes"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "brackets",
+      "name": "Game1",
+      "groups": [
+        {
+          "name": "Women",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "North Carolina-Wilmington",
+              "team2": "North Carolina State",
+              "score1": 13,
+              "score2": 6,
+              "datetime": "2019-03-29T18:30:00Z",
+              "round": "Game1",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
