@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "87012fbc5b25b8559768d9c1c6b4bcab1146981706881a0385b1e0df7ebeaf89"
+            "sha256": "040a6c94fb0a2c81ba83a297a8faa1f8fbd32c4cab066ddfeb208859876af42b"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -1366,6 +1366,10 @@
             ],
             "markers": "python_version >= '3.9'",
             "version": "==2.6.3"
+        },
+        "usau-scraper": {
+            "editable": true,
+            "file": "."
         },
         "websocket-client": {
             "hashes": [
