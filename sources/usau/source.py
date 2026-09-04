@@ -6,10 +6,17 @@ Wired into both cli.py's `scrape year --source=usau` and app.py's USAU
 scheduler jobs (`scrapeOngoingUsauEvents` etc.), driven through the shared
 `core.pipeline.run_pipeline` like every other registered source. Also
 covered directly by golden fixtures (tests/test_usau_fixtures.py).
+
+`live`/`refresh_rosters` mirror WfdfSource's knobs of the same name
+(sources/wfdf/source.py): `live=True` forces the tournament page (schedule/
+pools/scores) to always be refetched; `refresh_rosters=True` additionally
+bypasses the team-page cache TTL (TEAM_MAX_AGE_SECONDS below), forcing every
+team page to be refetched too.
 """
 from __future__ import annotations
 
 import logging as log
+import os
 from datetime import date
 from typing import Dict, List, Optional
 
@@ -28,14 +35,28 @@ from sources.usau.parse import (
 COLLEGE_SCHEDULE_URL = "https://usaultimate.org/college/schedule/"
 CLUB_SCHEDULE_URL = "https://usaultimate.org/club/schedule/"
 
+# How long a cached team page is considered fresh, in seconds. Rosters
+# barely change once a tournament starts -- unlike the tournament page
+# (schedule/pools/scores), which is refetched on every live run -- so team
+# pages are served from cache until they age past this TTL. Override with
+# USAU_TEAM_MAX_AGE_SECONDS.
+TEAM_MAX_AGE_SECONDS = float(os.environ.get("USAU_TEAM_MAX_AGE_SECONDS", str(12 * 60 * 60)))
+
 
 class UsauSource(Source):
     id = "usau"
 
-    def __init__(self, *, transport=None):
+    def __init__(self, *, transport=None, live: bool = False, refresh_rosters: bool = False):
         # Overridable so tests can inject a fake transport instead of the
         # real Selenium+Tor stack -- mirrors WfdfSource's events= override.
         self._transport = transport
+
+        # `live=True` forces the tournament page (schedule/pools/scores --
+        # the stuff that changes as a tournament progresses) to always be
+        # refetched. `refresh_rosters=True` additionally bypasses the team
+        # page TTL above, forcing every team page to be refetched too.
+        self._live = live
+        self._refresh_rosters = refresh_rosters
 
     # -- Source contract -----------------------------------------------
 
@@ -91,7 +112,9 @@ class UsauSource(Source):
         return key
 
     def fetch_event(self, ref: EventRef, cache: Cache) -> FetchedPages:
-        tournament_bytes = cache.fetch("tournament", ref.url)
+        # Always refetch when live (schedule/pools/scores change as the
+        # tournament progresses); otherwise normal cache behaviour.
+        tournament_bytes = cache.fetch("tournament", ref.url, refresh=self._live)
         pages: FetchedPages = {"tournament": tournament_bytes}
 
         # Parse once, discarding the roster-less Tournament, purely to
@@ -108,7 +131,12 @@ class UsauSource(Source):
             if team.name == "TEAM_NAME_NOT_FOUND":
                 continue
             key = f"team:{team.id}"
-            pages[key] = cache.fetch(key, team.url)
+            # Team pages are served from cache unless stale (or
+            # refresh_rosters forces it) -- unlike the tournament page
+            # above, which always refetches when live.
+            pages[key] = cache.fetch(
+                key, team.url, refresh=self._refresh_rosters, max_age=TEAM_MAX_AGE_SECONDS
+            )
 
         return pages
 

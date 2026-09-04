@@ -173,7 +173,7 @@ def scrapeRecentlyEndedTournaments():
     # commitAndPush()
 
 
-def _run_usau_events(refs, *, label, post=True, commit=True):
+def _run_usau_events(refs, *, label, post=True, commit=True, live=False, refresh_rosters=False):
     """Drive core.pipeline.run_pipeline over a specific USAU EventRef subset
     (ongoing / upcoming / recently-ended -- bucketed by scrapeCalendar()
     into ongoingUsauEventRefs/upcomingUsauEventRefs/
@@ -182,16 +182,16 @@ def _run_usau_events(refs, *, label, post=True, commit=True):
 
     `post`/`commit` default to True (mirroring scrapeOngoingTournaments/
     scrapeOngoingTournamentsRefreshTeams/scrapeUpcomingTournaments's
-    commitAndPush() calls today); scrapeRecentlyEndedUsauEvents passes
-    both False to preserve today's scrapeRecentlyEndedTournaments behaviour
-    (scrape only -- its commitAndPush() call is commented out in production
-    today, so recently-ended results are neither committed nor posted)."""
+    commitAndPush() calls today). `live`/`refresh_rosters` are threaded into
+    UsauSource's constructor of the same names (see sources/usau/source.py)
+    -- each job below passes the flags matching legacy's `disableCache`
+    behaviour for that job (scrape.py:259-260)."""
     if not refs:
         log.info(f"usau: no events to scrape ({label})")
         return
 
     secrets = get_secrets()
-    src = UsauSource()
+    src = UsauSource(live=live, refresh_rosters=refresh_rosters)
     try:
         documents = run_pipeline(
             src,
@@ -210,26 +210,34 @@ def _run_usau_events(refs, *, label, post=True, commit=True):
 
 
 def scrapeOngoingUsauEvents():
-    _run_usau_events(ongoingUsauEventRefs, label="ongoing")
+    # live=True: needs fresh scores every run. refresh_rosters left default
+    # (team pages served from cache/TTL -- that's what
+    # scrapeOngoingUsauEventsRefreshTeams and the TTL constant are for).
+    _run_usau_events(ongoingUsauEventRefs, label="ongoing", live=True)
 
 
 def scrapeOngoingUsauEventsRefreshTeams():
-    # UsauSource has no refresh/live-equivalent knob (unlike WfdfSource's
-    # refresh_rosters=) to force team pages past the on-disk cache TTL, so
-    # this currently behaves identically to scrapeOngoingUsauEvents -- see
-    # the task report. Kept as a separate function/job (registered at
-    # sched_config.ongoing_team_refresh_interval_hours, a different cadence
-    # than scrapeOngoingUsauEvents) so the distinction is easy to restore
-    # once UsauSource grows that knob.
-    _run_usau_events(ongoingUsauEventRefs, label="ongoing-refresh-teams")
+    # live=True (still wants fresh scores on its own less-frequent run) and
+    # refresh_rosters=True (forces team pages to bypass the cache/TTL --
+    # this is the actual "refresh teams" behaviour).
+    _run_usau_events(
+        ongoingUsauEventRefs, label="ongoing-refresh-teams", live=True, refresh_rosters=True
+    )
 
 
 def scrapeUpcomingUsauEvents():
+    # No flags: upcoming events have no live scores yet, so normal caching
+    # is fine -- nothing "live" is being missed.
     _run_usau_events(upcomingUsauEventRefs, label="upcoming")
 
 
 def scrapeRecentlyEndedUsauEvents():
-    _run_usau_events(recentlyEndedUsauEventRefs, label="recently-ended", post=False, commit=False)
+    # live=True to catch late score corrections, matching legacy's
+    # live=True for this job (scrape.py:259-260). post/commit now default
+    # to True like the other jobs -- previously this job scraped but never
+    # posted or committed (scrapeRecentlyEndedTournaments's commitAndPush()
+    # call is commented out in production), a dormant bug, not intentional.
+    _run_usau_events(recentlyEndedUsauEventRefs, label="recently-ended", live=True)
 
 
 def _run_wfdf_events(events, *, live, refresh_rosters):

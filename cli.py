@@ -87,13 +87,14 @@ def scrape():
 @click.option(
     "--live",
     is_flag=True,
-    help="WFDF only: force a refetch of live-changing pages (reference/games -- pools, scores, "
-    "structure). Roster pages still honour their cache TTL unless --refresh-rosters is also given.",
+    help="WFDF/USAU only: force a refetch of live-changing pages (WFDF: reference/games -- pools, "
+    "scores, structure; USAU: the tournament schedule/pools/scores page). Roster/team pages still "
+    "honour their cache TTL unless --refresh-rosters is also given.",
 )
 @click.option(
     "--refresh-rosters",
     is_flag=True,
-    help="WFDF only: also force a refetch of every roster page, bypassing their cache TTL.",
+    help="WFDF/USAU only: also force a refetch of every roster/team page, bypassing their cache TTL.",
 )
 @click.option("--debug", is_flag=True, help="Enable debug logging")
 def scrape_year_cmd(
@@ -137,9 +138,9 @@ def _scrape_year_with_source(
     from core.pipeline import run_pipeline
     from core.registry import get_source
 
-    if (live or refresh_rosters) and source_id != "wfdf":
+    if (live or refresh_rosters) and source_id not in ("wfdf", "usau"):
         raise click.UsageError(
-            f"--live/--refresh-rosters are WFDF-specific (source={source_id!r} doesn't take them)"
+            f"--live/--refresh-rosters are WFDF/USAU-specific (source={source_id!r} doesn't take them)"
         )
 
     if source_id == "wfdf":
@@ -149,6 +150,13 @@ def _scrape_year_with_source(
         from sources.wfdf.source import WfdfSource
 
         src = WfdfSource(live=live, refresh_rosters=refresh_rosters)
+    elif source_id == "usau":
+        # Same reasoning as the wfdf branch above -- get_source() returns a
+        # plain no-args instance, so build UsauSource directly to thread
+        # live/refresh_rosters through (see sources/usau/source.py).
+        from sources.usau.source import UsauSource
+
+        src = UsauSource(live=live, refresh_rosters=refresh_rosters)
     else:
         src = get_source(source_id)
 
