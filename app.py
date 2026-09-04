@@ -429,6 +429,13 @@ def setup_scheduler(config=None):
         config = _app_config
 
     sched_config = config.scheduler
+    # apscheduler logs "Running job ..."/"Job ... executed successfully" at
+    # INFO for every tick of every job (e.g. every 10 minutes for the
+    # ongoing jobs), regardless of whether there was anything to scrape --
+    # pure noise once the scheduler is known to be working. Job errors still
+    # surface: apscheduler logs those at ERROR/WARNING, above this floor.
+    log.getLogger("apscheduler").setLevel(log.WARNING)
+
     # Single-worker executor: jobs queue and run one at a time instead of
     # overlapping, since several of them run `git commit`/`git push` against
     # the same working directory and can't safely run concurrently.
