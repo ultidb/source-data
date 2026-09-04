@@ -50,17 +50,24 @@ def scrape():
     "--source",
     default="usau",
     help=(
-        "Source id to scrape (default: usau). NOTE: USAU is not ported onto the "
-        "sources/ plugin path yet -- that's Phase 3 of MULTI-SOURCE-REDESIGN.md. "
-        "--source=usau (the default) always uses today's existing parse.py/scrape.py "
-        "CSV code path, unchanged. Any other registered source id (see `scraper "
-        "sources`) uses the new core.Source plugin path: discover -> fetch_event -> "
-        "parse_event -> tournament_to_document -> write_document."
+        "Source id to scrape (default: usau). Uses the registry-backed core.Source "
+        "plugin path: discover -> fetch_event -> parse_event -> tournament_to_document "
+        "-> write_document (see `scraper sources` for every registered id)."
     ),
 )
-@click.option("-d", "--disable-cache", is_flag=True, help="Ignore cached HTML files")
-@click.option("-o", "--overwrite", is_flag=True, help="Overwrite existing CSV files")
-@click.option("--calendar-only", is_flag=True, help="Only scrape calendar, not tournaments (usau only)")
+@click.option(
+    "-d", "--disable-cache", is_flag=True,
+    help="Unused by the registry-backed Source path (kept for `scrape tournament`/`scrape calendar`/"
+    "`scrape retry`, which still use scrape.py's CSV cache directly)",
+)
+@click.option(
+    "-o", "--overwrite", is_flag=True,
+    help="Unused by the registry-backed Source path (see --disable-cache)",
+)
+@click.option(
+    "--calendar-only", is_flag=True,
+    help="Unused by the registry-backed Source path (see --disable-cache)",
+)
 @click.option(
     "--post", is_flag=True, help="POST emitted documents to the ingest API (registry-backed sources only)"
 )
@@ -104,20 +111,6 @@ def scrape_year_cmd(
 ):
     """Scrape all tournaments for a given year."""
     setup_logging(debug)
-
-    if source == "usau":
-        if live or refresh_rosters:
-            raise click.UsageError(
-                "--live/--refresh-rosters are WFDF-specific; not supported for --source=usau"
-            )
-        # USAU is not ported yet (Phase 3) -- keep delegating to today's
-        # existing CSV scrape code path unchanged. See the --source help text.
-        from scrape import ScrapeOptions, scrapeCurrentYear
-
-        log.info(f"Scraping year: {year}")
-        config = ScrapeOptions(year, disable_cache, overwrite, live=False, calendarOnly=calendar_only)
-        scrapeCurrentYear(config)
-        return
 
     _scrape_year_with_source(
         source, year, post=post, out_dir=out_dir, api_url=api_url,

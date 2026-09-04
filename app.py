@@ -18,6 +18,8 @@ from video.video import scrapeVideos, scrapeUltiworldAndSave
 import db
 
 from core.pipeline import run_pipeline
+from core.source import EventRef
+from sources.usau.source import UsauSource
 from sources.wfdf.events import (
     ongoing_events as wfdf_ongoing_events,
     recently_ended_events as wfdf_recently_ended_events,
@@ -29,6 +31,9 @@ from sources.wfdf.source import WfdfSource
 ongoingTournaments = []
 upcomingTournaments = []
 recentlyEndedTournaments = []
+ongoingUsauEventRefs = []
+upcomingUsauEventRefs = []
+recentlyEndedUsauEventRefs = []
 year = str(date.today().year)
 
 # Load secrets from config module
@@ -46,21 +51,33 @@ def print_date_time():
 
 
 def isOngoing(startDate, endDate):
-    return startDate.date() <= datetime.today().date() <= endDate.date()
+    return startDate <= date.today() <= endDate
 
 
 def isUpcoming(startDate):
-    start = startDate.date()
-    today = datetime.today().date()
-
-    return start > today and start <= (today + timedelta(days=10))
+    today = date.today()
+    return startDate > today and startDate <= (today + timedelta(days=10))
 
 
 def isRecentlyEnded(endDate):
-    end = endDate.date()
-    today = datetime.today().date()
+    today = date.today()
+    return endDate < today and endDate >= (today - timedelta(days=30))
 
-    return end < today and end >= (today - timedelta(days=30))
+
+def _usau_event_ref_from_row(row, scrape_year):
+    """Same calendar CSV row shape scrapeCalendar()/readInfoFromCalendarCSV
+    already read (url, city, state, startDate, endDate as ISO strings) --
+    built into an EventRef so the four job functions below can drive
+    core.pipeline.run_pipeline's `refs=` escape hatch instead of
+    scrape.py's positional-dict shape."""
+    return EventRef(
+        url=row[0],
+        city=row[1],
+        state=row[2],
+        start_date=date.fromisoformat(row[3]),
+        end_date=date.fromisoformat(row[4]),
+        extra={"year": scrape_year},
+    )
 
 
 def scrapeCalendar(disableCache=True):
@@ -77,16 +94,22 @@ def scrapeCalendar(disableCache=True):
     global ongoingTournaments
     global upcomingTournaments
     global recentlyEndedTournaments
+    global ongoingUsauEventRefs
+    global upcomingUsauEventRefs
+    global recentlyEndedUsauEventRefs
     ongoingTournaments = []
     upcomingTournaments = []
     recentlyEndedTournaments = []
+    ongoingUsauEventRefs = []
+    upcomingUsauEventRefs = []
+    recentlyEndedUsauEventRefs = []
 
     with open(f"csv/{year}/_calendar.csv", newline="") as csvfile:
         reader = csv.reader(csvfile, delimiter=",", quotechar='"')
         for row in reader:
             if row[3] != "":
-                startDate = datetime.strptime(row[3], "%Y-%m-%d")
-                endDate = datetime.strptime(row[4], "%Y-%m-%d")
+                startDate = date.fromisoformat(row[3])
+                endDate = date.fromisoformat(row[4])
                 if isOngoing(startDate, endDate):
                     ongoingTournaments.append(
                         {
@@ -97,6 +120,7 @@ def scrapeCalendar(disableCache=True):
                             "url": row[0],
                         }
                     )
+                    ongoingUsauEventRefs.append(_usau_event_ref_from_row(row, int(year)))
                 elif isUpcoming(startDate):
                     upcomingTournaments.append(
                         {
@@ -107,6 +131,7 @@ def scrapeCalendar(disableCache=True):
                             "url": row[0],
                         }
                     )
+                    upcomingUsauEventRefs.append(_usau_event_ref_from_row(row, int(year)))
                 elif isRecentlyEnded(endDate):
                     recentlyEndedTournaments.append(
                         {
@@ -117,6 +142,7 @@ def scrapeCalendar(disableCache=True):
                             "url": row[0],
                         }
                     )
+                    recentlyEndedUsauEventRefs.append(_usau_event_ref_from_row(row, int(year)))
 
     log.info(f"found {len(ongoingTournaments)} ongoing tournaments")
     log.info(f"found {len(upcomingTournaments)} upcoming tournaments")
@@ -145,6 +171,65 @@ def scrapeRecentlyEndedTournaments():
     config = ScrapeOptions(int(year), True, True, True, False)
     scrapeListOfTournamentUrls(config, recentlyEndedTournaments)
     # commitAndPush()
+
+
+def _run_usau_events(refs, *, label, post=True, commit=True):
+    """Drive core.pipeline.run_pipeline over a specific USAU EventRef subset
+    (ongoing / upcoming / recently-ended -- bucketed by scrapeCalendar()
+    into ongoingUsauEventRefs/upcomingUsauEventRefs/
+    recentlyEndedUsauEventRefs), mirroring _run_wfdf_events above but for
+    UsauSource.
+
+    `post`/`commit` default to True (mirroring scrapeOngoingTournaments/
+    scrapeOngoingTournamentsRefreshTeams/scrapeUpcomingTournaments's
+    commitAndPush() calls today); scrapeRecentlyEndedUsauEvents passes
+    both False to preserve today's scrapeRecentlyEndedTournaments behaviour
+    (scrape only -- its commitAndPush() call is commented out in production
+    today, so recently-ended results are neither committed nor posted)."""
+    if not refs:
+        log.info(f"usau: no events to scrape ({label})")
+        return
+
+    secrets = get_secrets()
+    src = UsauSource()
+    try:
+        documents = run_pipeline(
+            src,
+            int(year),
+            refs=refs,
+            post=POST_TO_API and post,
+            api_url=secrets.api_url,
+            ingest_token=secrets.ingest_token,
+        )
+    except Exception:
+        log.exception(f"usau: pipeline failed ({label})")
+        return
+
+    if commit and COMMIT_AND_PUSH and documents:
+        commitSourceData()
+
+
+def scrapeOngoingUsauEvents():
+    _run_usau_events(ongoingUsauEventRefs, label="ongoing")
+
+
+def scrapeOngoingUsauEventsRefreshTeams():
+    # UsauSource has no refresh/live-equivalent knob (unlike WfdfSource's
+    # refresh_rosters=) to force team pages past the on-disk cache TTL, so
+    # this currently behaves identically to scrapeOngoingUsauEvents -- see
+    # the task report. Kept as a separate function/job (registered at
+    # sched_config.ongoing_team_refresh_interval_hours, a different cadence
+    # than scrapeOngoingUsauEvents) so the distinction is easy to restore
+    # once UsauSource grows that knob.
+    _run_usau_events(ongoingUsauEventRefs, label="ongoing-refresh-teams")
+
+
+def scrapeUpcomingUsauEvents():
+    _run_usau_events(upcomingUsauEventRefs, label="upcoming")
+
+
+def scrapeRecentlyEndedUsauEvents():
+    _run_usau_events(recentlyEndedUsauEventRefs, label="recently-ended", post=False, commit=False)
 
 
 def _run_wfdf_events(events, *, live, refresh_rosters):
@@ -189,17 +274,20 @@ def _run_wfdf_events(events, *, live, refresh_rosters):
             log.exception(f"wfdf: pipeline failed for year={scrape_year}")
 
     if COMMIT_AND_PUSH and any_documents:
-        commitWfdfData()
+        commitSourceData()
 
 
-def commitWfdfData():
-    """WFDF emits versioned JSON under data/<source>/<year>/, not CSV under
-    csv/ (see MULTI-SOURCE-REDESIGN.md's repo layout). listUpdatedFiles()
-    and commitToGit() already take an arbitrary path/directory -- neither
-    is actually CSV-specific -- so this reuses them directly rather than
+def commitSourceData():
+    """Every core.Source implementation (WFDF, USAU) emits versioned JSON
+    under data/<source>/<year>/, not CSV under csv/ (see
+    MULTI-SOURCE-REDESIGN.md's repo layout). listUpdatedFiles() and
+    commitToGit() already take an arbitrary path/directory -- neither is
+    actually CSV-specific -- so this reuses them directly rather than
     duplicating commitAndPush()'s CSV-only listUpdatedCsvs()/v1-ingest path,
-    which does not apply here (WFDF posts self-contained v2 documents, not
-    CSV path suffixes)."""
+    which does not apply here (Source plugins post self-contained v2
+    documents, not CSV path suffixes). Source-agnostic (data/ covers every
+    source), so both _run_wfdf_events and _run_usau_events call this same
+    function rather than each having their own copy."""
     docs = listUpdatedFiles("data/")
     if len(docs) > 0:
         commitToGit("data")
@@ -338,10 +426,10 @@ def setup_scheduler(config=None):
     # the same working directory and can't safely run concurrently.
     scheduler = BackgroundScheduler(executors={"default": ThreadPoolExecutor(max_workers=1)})
     scheduler.add_job(func=scrapeCalendar, trigger="interval", hours=sched_config.calendar_interval_hours)
-    scheduler.add_job(func=scrapeOngoingTournaments, trigger="interval", minutes=sched_config.ongoing_interval_minutes)
-    scheduler.add_job(func=scrapeOngoingTournamentsRefreshTeams, trigger="interval", hours=sched_config.ongoing_team_refresh_interval_hours)
-    scheduler.add_job(func=scrapeUpcomingTournaments, trigger="interval", hours=sched_config.upcoming_interval_hours)
-    scheduler.add_job(func=scrapeRecentlyEndedTournaments, trigger="interval", hours=sched_config.recently_ended_interval_hours)
+    scheduler.add_job(func=scrapeOngoingUsauEvents, trigger="interval", minutes=sched_config.ongoing_interval_minutes)
+    scheduler.add_job(func=scrapeOngoingUsauEventsRefreshTeams, trigger="interval", hours=sched_config.ongoing_team_refresh_interval_hours)
+    scheduler.add_job(func=scrapeUpcomingUsauEvents, trigger="interval", hours=sched_config.upcoming_interval_hours)
+    scheduler.add_job(func=scrapeRecentlyEndedUsauEvents, trigger="interval", hours=sched_config.recently_ended_interval_hours)
     scheduler.add_job(func=scrapeAndPushVideos, trigger="interval", hours=sched_config.videos_interval_hours)
     scheduler.add_job(func=scrapeOngoingWfdfEvents, trigger="interval", minutes=sched_config.wfdf_ongoing_interval_minutes)
     scheduler.add_job(func=scrapeWfdfEventsRefreshRosters, trigger="interval", hours=sched_config.wfdf_roster_refresh_interval_hours)
@@ -359,8 +447,8 @@ def prodSetup(config=None):
     setupTor()
     setup_scheduler(config)
     scrapeCalendar(True)
-    scrapeUpcomingTournaments()
-    # scrapeRecentlyEndedTournaments()
+    scrapeUpcomingUsauEvents()
+    # scrapeRecentlyEndedUsauEvents()
 
 
 log.basicConfig(
