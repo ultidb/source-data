@@ -148,19 +148,35 @@ def extractBreadcrumbTournamentSlug(page_source):
     return tournament_links[1]["href"].rstrip("/").split("/")[-1]
 
 
+def expectedTournamentSlugFromUrl(url):
+    """The tournament slug a schedule-page URL should resolve to (the path
+    segment right after "events/"), or None if `url` isn't a schedule page.
+
+    Only tournament *schedule* pages (".../events/<slug>/schedule/...",
+    built by parseNewSchedule) carry a breadcrumb linking back to
+    "events/<slug>" -- that's what makeProxiedRequestSelenium's content
+    validation checks the fetched page against. Team pages
+    (".../events/teams/?EventTeamId=...", from convertTeamLinkToTeam) also
+    contain "/events/" but aren't schedule pages and have no such breadcrumb
+    to check; requiring "/schedule/" too excludes them, so
+    expected_tournament_slug is None and validation is skipped for them, as
+    it always has been (a real team page never carries an events/<slug>
+    breadcrumb, so validating it against one would always "fail")."""
+    if "/events/" not in url or "/schedule/" not in url:
+        return None
+    parts = url.split("/")
+    for i, part in enumerate(parts):
+        if part == "events" and i + 1 < len(parts):
+            return parts[i + 1]
+    return None
+
+
 def makeProxiedRequestSelenium(url):
     log.debug(f"Making proxied Selenium request to {url}")
 
     driver = getSeleniumDriver()
 
-    # Extract expected tournament slug from URL for validation
-    expected_tournament_slug = None
-    if "/events/" in url:
-        parts = url.split("/")
-        for i, part in enumerate(parts):
-            if part == "events" and i + 1 < len(parts):
-                expected_tournament_slug = parts[i + 1]
-                break
+    expected_tournament_slug = expectedTournamentSlugFromUrl(url)
 
     max_retries = 3
     for retry in range(max_retries):
