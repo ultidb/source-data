@@ -132,6 +132,22 @@ def cleanupSeleniumDriver():
         _selenium_driver = None
 
 
+def extractBreadcrumbTournamentSlug(page_source):
+    """The tournament slug named in `page_source`'s breadcrumb nav (second
+    link's href, e.g. ".../events/<slug>/" -> "<slug>"), or None if there's
+    no breadcrumb nav, it has fewer than two links, or the second link has
+    no href -- all of which indicate a blank, failed, or otherwise unusable
+    page load (see makeProxiedRequestSelenium's content validation)."""
+    soup = BeautifulSoup(page_source, "html.parser")
+    breadcrumbs = soup.find("div", {"class": "breadcrumbs"})
+    if not breadcrumbs:
+        return None
+    tournament_links = breadcrumbs.find_all("a")
+    if len(tournament_links) < 2 or not tournament_links[1].get("href"):
+        return None
+    return tournament_links[1]["href"].rstrip("/").split("/")[-1]
+
+
 def makeProxiedRequestSelenium(url):
     log.debug(f"Making proxied Selenium request to {url}")
 
@@ -195,37 +211,32 @@ def makeProxiedRequestSelenium(url):
             # Get the page source
             page_source = driver.page_source
 
-            # CRITICAL: Validate that the loaded content matches the requested tournament
+            # CRITICAL: Validate that the loaded content matches the requested tournament.
+            # A failed/blank navigation (empty <body>, no breadcrumbs at all) must be
+            # treated as a validation failure exactly like a slug mismatch -- previously
+            # `if breadcrumbs:` silently skipped validation entirely when breadcrumbs
+            # were missing, letting an empty `<html><head></head><body></body></html>`
+            # page through as if it were a successful fetch.
             if expected_tournament_slug:
-                # Parse the page to verify tournament identity
-                from bs4 import BeautifulSoup
-                soup = BeautifulSoup(page_source, "html.parser")
+                actual_slug = extractBreadcrumbTournamentSlug(page_source)
 
-                # Check breadcrumbs for tournament link
-                breadcrumbs = soup.find("div", {"class": "breadcrumbs"})
-                if breadcrumbs:
-                    tournament_links = breadcrumbs.find_all("a")
-                    if len(tournament_links) >= 2:
-                        tournament_link = tournament_links[1]
-                        if tournament_link.get("href"):
-                            actual_slug = tournament_link["href"].rstrip("/").split("/")[-1]
-
-                            if actual_slug != expected_tournament_slug:
-                                log.warning(
-                                    f"Content mismatch on attempt {retry + 1}/{max_retries}: "
-                                    f"expected tournament '{expected_tournament_slug}' but got '{actual_slug}'. "
-                                    f"Retrying..."
-                                )
-                                if retry < max_retries - 1:
-                                    # Force reload by adding a small delay and clearing any cached state
-                                    time.sleep(1)
-                                    continue
-                                else:
-                                    log.error(
-                                        f"Failed to load correct tournament after {max_retries} attempts. "
-                                        f"Expected '{expected_tournament_slug}' but consistently got '{actual_slug}'"
-                                    )
-                                    raise Exception("Tournament content validation failed")
+                if actual_slug != expected_tournament_slug:
+                    got_description = repr(actual_slug) if actual_slug is not None else "no breadcrumbs (blank/failed page load)"
+                    log.warning(
+                        f"Content validation failed on attempt {retry + 1}/{max_retries} for {url}: "
+                        f"expected tournament '{expected_tournament_slug}' but got {got_description}. "
+                        f"Retrying..."
+                    )
+                    if retry < max_retries - 1:
+                        # Force reload by adding a small delay and clearing any cached state
+                        time.sleep(1)
+                        continue
+                    else:
+                        log.error(
+                            f"Failed to load valid content for {url} after {max_retries} attempts "
+                            f"(expected tournament '{expected_tournament_slug}')"
+                        )
+                        raise Exception("Tournament content validation failed")
 
             # Convert to bytes to match the return type of makeProxiedRequest
             return page_source.encode('utf-8')
