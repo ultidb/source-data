@@ -128,10 +128,10 @@ def _scrape_year_with_source(
     live: bool = False,
     refresh_rosters: bool = False,
 ):
-    """Drive a registry-backed (non-usau) Source through the shared
+    """Drive a registry-backed Source through the shared
     core.pipeline.run_pipeline: discover -> fetch_event -> parse_event ->
     tournament_to_document -> write_document, optionally POSTing the
-    results. app.py's WFDF scheduler jobs call the same run_pipeline
+    results. app.py's WFDF/USAU scheduler jobs call the same run_pipeline
     function over a specific event subset -- see core/pipeline.py."""
     import sources  # noqa: F401  (import side effect: registers every known source)
     from core.pipeline import run_pipeline

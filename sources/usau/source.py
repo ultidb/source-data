@@ -2,13 +2,10 @@
 pages (play.usaultimate.org), built on the HTML parsing moved into
 sources/usau/parse.py (MULTI-SOURCE-REDESIGN.md Phase 3).
 
-Registering this source is inert for production traffic today: cli.py's
-`scrape year --source=usau` (the default) branches to the legacy
-scrape.py/parse.py CSV path *before* it ever consults the source registry,
-so nothing here is reachable from the live CLI or scheduler yet. That
-cutover is a deliberately separate, later step -- this class exists to be
-tested against golden fixtures (tests/test_usau_fixtures.py) and driven
-explicitly (`get_source("usau")`, `core.pipeline.run_pipeline`).
+Wired into both cli.py's `scrape year --source=usau` and app.py's USAU
+scheduler jobs (`scrapeOngoingUsauEvents` etc.), driven through the shared
+`core.pipeline.run_pipeline` like every other registered source. Also
+covered directly by golden fixtures (tests/test_usau_fixtures.py).
 """
 from __future__ import annotations
 
