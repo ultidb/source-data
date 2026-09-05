@@ -9,9 +9,10 @@ module's docstring. `convertTeamLinkToTeam`'s seed extraction now goes
 through `core.parsing.parse_seeded_name` too; unlike the old inline
 backward-scan, `parse_seeded_name` doesn't raise on a malformed name like
 "Team()", so that one case now falls back to "TEAM_NAME_NOT_FOUND" instead of
-crashing. Everything else, including the currently-uncalled
-`parseTournamentCalendar` / `pullLinksFromCalendar` (no caller anywhere in
-the codebase today), is unchanged.
+crashing. `parseTournamentCalendar` / `pullLinksFromCalendar` (the legacy
+SeasonId calendar-page parser, superseded by UsauSource.discover's
+parseNewSchedule path) were dropped as dead code -- no caller anywhere in
+the codebase. Everything else is unchanged.
 """
 from bs4 import BeautifulSoup, NavigableString, Tag
 import logging as log
@@ -469,90 +470,6 @@ def parseTournament(html, info, fileName, year):
         division,
         stages,
     )
-
-
-def pullLinksFromCalendar(calendar):
-    # list of links to specific divisons within tournaments
-    page_links = []
-
-    # find specific tournament divison pages that should have teams
-    for t in calendar:
-        try:
-            cells = t.findAll("td")
-            city = cells[2].contents[0].strip()
-            state = cells[3].contents[0].strip()
-            dateString = cells[5].contents[0].strip()
-        except Exception as e:
-            continue
-
-        dates = dateString.split(" - ")
-        startDate = ""
-        endDate = ""
-        if len(dates) == 2:
-            startDate = dates[0]
-            endDate = dates[1]
-        elif len(dates) == 1:
-            startDate = dates[0]
-            endDate = dates[0]
-
-        if startDate != "":
-            startDate = datetime.strptime(startDate, "%b %d, %Y").strftime("%Y-%m-%d")
-        if endDate != "":
-            endDate = datetime.strptime(endDate, "%b %d, %Y").strftime("%Y-%m-%d")
-
-        # iterate through each divison of a tournament
-        for num in t.findAll("li"):
-            # link to overall tournament page
-            link = t.find("a").get("href")
-
-            # check to see if a division has more than 1 team in the division
-            if int(num.contents[1].contents[0][1:-1]) > 1:
-                # add link of specific divison page to list
-                division_name = num.contents[0].strip()
-                division_path = get_division_path(division_name)
-                if division_path is None:
-                    log.debug(f"Unknown division: {division_name} from {link}")
-                    continue
-
-                url = link + "/schedule/" + division_path
-                lower = url.lower()
-                if not url.startswith("https://play.usaultimate.org"):
-                    url = "https://play.usaultimate.org" + url
-
-                if not ("high-school" in lower or "middle-school" in lower):
-                    d = {
-                        "city": city,
-                        "state": state,
-                        "startDate": startDate,
-                        "endDate": endDate,
-                        "url": url,
-                    }
-                    page_links.append(d)
-
-    log.info(f"Found {len(page_links)} tournament pages to scrape")
-
-    return page_links
-
-
-def parseTournamentCalendar(html):
-    """scrape tournament data for entire usau tournament calendar webpage"""
-
-    # create html parser for specfici url
-    soup = BeautifulSoup(html, "html.parser")
-
-    # access table of tournmanets
-    # calendar = soup.find("table", {"class": "global_table"}).findAll("tr")[1:]
-    upcoming_calendar = soup.find(
-        "table", {"id": "CT_HP_Mid_1_gvCurrentUpcomingEvents"}
-    ).findAll("tr")[1:]
-    past_events_calendar = soup.find(
-        "table", {"id": "CT_HP_Mid_1_gvPastEvents"}
-    ).findAll("tr")[1:]
-    # list of links to specific divisons within tournaments
-    upcoming_links = pullLinksFromCalendar(upcoming_calendar)
-    past_links = pullLinksFromCalendar(past_events_calendar)
-
-    return upcoming_links + past_links
 
 
 def parseNewSchedule(html, year, isCollege=False):

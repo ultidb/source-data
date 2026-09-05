@@ -103,12 +103,11 @@ def _run_usau_events(refs, *, label, post=True, commit=True, live=False, refresh
     recentlyEndedUsauEventRefs), mirroring _run_wfdf_events above but for
     UsauSource.
 
-    `post`/`commit` default to True (mirroring scrapeOngoingTournaments/
-    scrapeOngoingTournamentsRefreshTeams/scrapeUpcomingTournaments's
-    commitAndPush() calls today). `live`/`refresh_rosters` are threaded into
-    UsauSource's constructor of the same names (see sources/usau/source.py)
-    -- each job below passes the flags matching legacy's `disableCache`
-    behaviour for that job (scrape.py:259-260)."""
+    `post`/`commit` default to True, matching the always-post-and-commit
+    behaviour of the legacy CSV-era jobs this replaced. `live`/`refresh_rosters`
+    are threaded into UsauSource's constructor of the same names (see
+    sources/usau/source.py) -- each job below passes the flags matching that
+    job's freshness needs (see the comment on each job function)."""
     if not refs:
         log.info(f"usau: no events to scrape ({label})")
         return
@@ -155,11 +154,10 @@ def scrapeUpcomingUsauEvents():
 
 
 def scrapeRecentlyEndedUsauEvents():
-    # live=True to catch late score corrections, matching legacy's
-    # live=True for this job (scrape.py:259-260). post/commit now default
-    # to True like the other jobs -- previously this job scraped but never
-    # posted or committed (scrapeRecentlyEndedTournaments's commitAndPush()
-    # call is commented out in production), a dormant bug, not intentional.
+    # live=True to catch late score corrections. post/commit default to True
+    # like the other jobs -- the legacy equivalent of this job scraped but
+    # never posted or committed (its commit call was commented out in
+    # production), a dormant bug, not intentional.
     _run_usau_events(recentlyEndedUsauEventRefs, label="recently-ended", live=True)
 
 
@@ -214,7 +212,7 @@ def commitSourceData():
     MULTI-SOURCE-REDESIGN.md's repo layout). listUpdatedFiles() and
     commitToGit() already take an arbitrary path/directory -- neither is
     actually CSV-specific -- so this reuses them directly rather than
-    duplicating commitAndPush()'s CSV-only listUpdatedCsvs()/v1-ingest path,
+    reimplementing the legacy CSV-only listUpdatedCsvs()/v1-ingest path,
     which does not apply here (Source plugins post self-contained v2
     documents, not CSV path suffixes). Source-agnostic (data/ covers every
     source), so both _run_wfdf_events and _run_usau_events call this same
