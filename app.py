@@ -462,7 +462,7 @@ def prodSetup(config=None):
     setupTor()
     setup_scheduler(config)
     scrapeCalendar(True)
-    scrapeUpcomingUsauEvents()
+    # scrapeUpcomingUsauEvents()
     # scrapeRecentlyEndedUsauEvents()
 
 
