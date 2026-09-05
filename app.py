@@ -1,7 +1,6 @@
 import json
 import logging as log
 import atexit
-import csv
 import subprocess
 import time
 
@@ -17,7 +16,6 @@ from video.video import scrapeVideos, scrapeUltiworldAndSave
 import db
 
 from core.pipeline import run_pipeline
-from core.source import EventRef
 from sources.usau.source import UsauSource
 from sources.wfdf.events import (
     ongoing_events as wfdf_ongoing_events,
@@ -27,9 +25,6 @@ from sources.wfdf.events import (
 from sources.wfdf.source import WfdfSource
 
 # Runtime state
-ongoingTournaments = []
-upcomingTournaments = []
-recentlyEndedTournaments = []
 ongoingUsauEventRefs = []
 upcomingUsauEventRefs = []
 recentlyEndedUsauEventRefs = []
@@ -63,89 +58,42 @@ def isRecentlyEnded(endDate):
     return endDate < today and endDate >= (today - timedelta(days=30))
 
 
-def _usau_event_ref_from_row(row, scrape_year):
-    """Same calendar CSV row shape scrapeCalendar()/readInfoFromCalendarCSV
-    already read (url, city, state, startDate, endDate as ISO strings) --
-    built into an EventRef so the four job functions below can drive
-    core.pipeline.run_pipeline's `refs=` escape hatch instead of
-    scrape.py's positional-dict shape."""
-    return EventRef(
-        url=row[0],
-        city=row[1],
-        state=row[2],
-        start_date=date.fromisoformat(row[3]),
-        end_date=date.fromisoformat(row[4]),
-        extra={"year": scrape_year},
-    )
-
-
 def scrapeCalendar(disableCache=True):
+    """Discover this year's USAU events directly through UsauSource (no
+    subprocess, no CSV) and bucket the resulting EventRefs into
+    ongoingUsauEventRefs/upcomingUsauEventRefs/recentlyEndedUsauEventRefs --
+    the lists the USAU scheduler jobs below (_run_usau_events and friends)
+    actually consume.
+
+    `disableCache` is accepted for backward compatibility with callers
+    (prodSetup, the scheduler job) but UsauSource.discover() always fetches
+    the two schedule pages fresh -- discover() takes no Cache, per the
+    Source contract -- so there is nothing to toggle here today."""
     global year
     year = str(date.today().year)
     log.info(f"scraping calendar for {year}")
 
-    d = "--disableCache"
-    if not disableCache:
-        d = ""
-
-    subprocess.run(["python", "scrape.py", "-y", year, "--calendarOnly", d])
-
-    global ongoingTournaments
-    global upcomingTournaments
-    global recentlyEndedTournaments
     global ongoingUsauEventRefs
     global upcomingUsauEventRefs
     global recentlyEndedUsauEventRefs
-    ongoingTournaments = []
-    upcomingTournaments = []
-    recentlyEndedTournaments = []
     ongoingUsauEventRefs = []
     upcomingUsauEventRefs = []
     recentlyEndedUsauEventRefs = []
 
-    with open(f"csv/{year}/_calendar.csv", newline="") as csvfile:
-        reader = csv.reader(csvfile, delimiter=",", quotechar='"')
-        for row in reader:
-            if row[3] != "":
-                startDate = date.fromisoformat(row[3])
-                endDate = date.fromisoformat(row[4])
-                if isOngoing(startDate, endDate):
-                    ongoingTournaments.append(
-                        {
-                            "city": row[1],
-                            "state": row[2],
-                            "startDate": row[3],
-                            "endDate": row[4],
-                            "url": row[0],
-                        }
-                    )
-                    ongoingUsauEventRefs.append(_usau_event_ref_from_row(row, int(year)))
-                elif isUpcoming(startDate):
-                    upcomingTournaments.append(
-                        {
-                            "city": row[1],
-                            "state": row[2],
-                            "startDate": row[3],
-                            "endDate": row[4],
-                            "url": row[0],
-                        }
-                    )
-                    upcomingUsauEventRefs.append(_usau_event_ref_from_row(row, int(year)))
-                elif isRecentlyEnded(endDate):
-                    recentlyEndedTournaments.append(
-                        {
-                            "city": row[1],
-                            "state": row[2],
-                            "startDate": row[3],
-                            "endDate": row[4],
-                            "url": row[0],
-                        }
-                    )
-                    recentlyEndedUsauEventRefs.append(_usau_event_ref_from_row(row, int(year)))
+    refs = UsauSource().discover(int(year))
+    for ref in refs:
+        if ref.start_date is None:
+            continue
+        if isOngoing(ref.start_date, ref.end_date):
+            ongoingUsauEventRefs.append(ref)
+        elif isUpcoming(ref.start_date):
+            upcomingUsauEventRefs.append(ref)
+        elif isRecentlyEnded(ref.end_date):
+            recentlyEndedUsauEventRefs.append(ref)
 
-    log.info(f"found {len(ongoingTournaments)} ongoing tournaments")
-    log.info(f"found {len(upcomingTournaments)} upcoming tournaments")
-    log.info(f"found {len(recentlyEndedTournaments)} recently ended tournaments")
+    log.info(f"found {len(ongoingUsauEventRefs)} ongoing tournaments")
+    log.info(f"found {len(upcomingUsauEventRefs)} upcoming tournaments")
+    log.info(f"found {len(recentlyEndedUsauEventRefs)} recently ended tournaments")
 
 
 def _run_usau_events(refs, *, label, post=True, commit=True, live=False, refresh_rosters=False):
@@ -417,9 +365,9 @@ def create_app(config=None):
     @flask_app.route("/health-check")
     def healthCheck():
         output = {
-            "ongoingTournaments": len(ongoingTournaments),
-            "upcomingTournaments": len(upcomingTournaments),
-            "recentlyEndedTournaments": len(recentlyEndedTournaments),
+            "ongoingTournaments": len(ongoingUsauEventRefs),
+            "upcomingTournaments": len(upcomingUsauEventRefs),
+            "recentlyEndedTournaments": len(recentlyEndedUsauEventRefs),
             "wfdfOngoingEvents": len(wfdf_ongoing_events()),
             "wfdfUpcomingEvents": len(wfdf_upcoming_events()),
             "wfdfRecentlyEndedEvents": len(wfdf_recently_ended_events()),
