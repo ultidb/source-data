@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Pro-ChampionshipsClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Pro-Championships/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-05T16:44:08.249223Z",
+  "scrapedAt": "2026-09-05T16:54:04.951419Z",
   "event": {
     "name": "2026 Pro Championships",
     "division": "Club - Mixed ",
@@ -16,122 +16,6 @@
     "endDate": "2026-09-07"
   },
   "teams": [
-    {
-      "name": "Drag'n Thrust",
-      "seed": 7,
-      "sourceTeamId": "v5oJ72oO%2bycOci5jpKZgf7Jt0j7Ie1jj1w8Ng03wjB8%3d",
-      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=v5oJ72oO%2bycOci5jpKZgf7Jt0j7Ie1jj1w8Ng03wjB8%3d",
-      "info": {
-        "nickname": "",
-        "location": "Minneapolis, Minnesota",
-        "website": "http://www.dragnthrust.com",
-        "facebook": "https://www.facebook.com/dragnthrust",
-        "twitter": "https://twitter.com/dragNthrust"
-      },
-      "coaches": [
-        "coaches",
-        "Maggie Peck",
-        "David Klink"
-      ],
-      "roster": [
-        {
-          "number": "00",
-          "name": "Bret Bergmeier"
-        },
-        {
-          "number": "01",
-          "name": "Gabriel Jagt"
-        },
-        {
-          "number": "02",
-          "name": "Alyssa Ehrhardt"
-        },
-        {
-          "number": "03",
-          "name": "Bryan Vohnoutka"
-        },
-        {
-          "number": "05",
-          "name": "Justin Burnett"
-        },
-        {
-          "number": "06",
-          "name": "Kyle Suelflow"
-        },
-        {
-          "number": "07",
-          "name": "Danielle Byers"
-        },
-        {
-          "number": "10",
-          "name": "Jane Koch"
-        },
-        {
-          "number": "11",
-          "name": "Rachel Johnson"
-        },
-        {
-          "number": "12",
-          "name": "Marty Adams"
-        },
-        {
-          "number": "14",
-          "name": "Tanner Barcus"
-        },
-        {
-          "number": "18",
-          "name": "Ben Joerger"
-        },
-        {
-          "number": "19",
-          "name": "Emily Cohen"
-        },
-        {
-          "number": "20",
-          "name": "Aria Kischner"
-        },
-        {
-          "number": "21",
-          "name": "Sarah Mondschein"
-        },
-        {
-          "number": "22",
-          "name": "Liz Hart"
-        },
-        {
-          "number": "23",
-          "name": "Ian Mccosky"
-        },
-        {
-          "number": "24",
-          "name": "Allegra Johnson McKee"
-        },
-        {
-          "number": "26",
-          "name": "Emma Peaslee"
-        },
-        {
-          "number": "28",
-          "name": "Claire Lee"
-        },
-        {
-          "number": "35",
-          "name": "Ryan Pesch"
-        },
-        {
-          "number": "47",
-          "name": "Cassidy Krawczak-Kummrow"
-        },
-        {
-          "number": "49",
-          "name": "Caleb Denecour"
-        },
-        {
-          "number": "77",
-          "name": "Owen Suelflow"
-        }
-      ]
-    },
     {
       "name": "Hybrid",
       "seed": 1,
@@ -249,6 +133,122 @@
         {
           "number": "97",
           "name": "Eileen Bequette"
+        }
+      ]
+    },
+    {
+      "name": "Drag'n Thrust",
+      "seed": 7,
+      "sourceTeamId": "v5oJ72oO%2bycOci5jpKZgf7Jt0j7Ie1jj1w8Ng03wjB8%3d",
+      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=v5oJ72oO%2bycOci5jpKZgf7Jt0j7Ie1jj1w8Ng03wjB8%3d",
+      "info": {
+        "nickname": "",
+        "location": "Minneapolis, Minnesota",
+        "website": "http://www.dragnthrust.com",
+        "facebook": "https://www.facebook.com/dragnthrust",
+        "twitter": "https://twitter.com/dragNthrust"
+      },
+      "coaches": [
+        "coaches",
+        "Maggie Peck",
+        "David Klink"
+      ],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Bret Bergmeier"
+        },
+        {
+          "number": "01",
+          "name": "Gabriel Jagt"
+        },
+        {
+          "number": "02",
+          "name": "Alyssa Ehrhardt"
+        },
+        {
+          "number": "03",
+          "name": "Bryan Vohnoutka"
+        },
+        {
+          "number": "05",
+          "name": "Justin Burnett"
+        },
+        {
+          "number": "06",
+          "name": "Kyle Suelflow"
+        },
+        {
+          "number": "07",
+          "name": "Danielle Byers"
+        },
+        {
+          "number": "10",
+          "name": "Jane Koch"
+        },
+        {
+          "number": "11",
+          "name": "Rachel Johnson"
+        },
+        {
+          "number": "12",
+          "name": "Marty Adams"
+        },
+        {
+          "number": "14",
+          "name": "Tanner Barcus"
+        },
+        {
+          "number": "18",
+          "name": "Ben Joerger"
+        },
+        {
+          "number": "19",
+          "name": "Emily Cohen"
+        },
+        {
+          "number": "20",
+          "name": "Aria Kischner"
+        },
+        {
+          "number": "21",
+          "name": "Sarah Mondschein"
+        },
+        {
+          "number": "22",
+          "name": "Liz Hart"
+        },
+        {
+          "number": "23",
+          "name": "Ian Mccosky"
+        },
+        {
+          "number": "24",
+          "name": "Allegra Johnson McKee"
+        },
+        {
+          "number": "26",
+          "name": "Emma Peaslee"
+        },
+        {
+          "number": "28",
+          "name": "Claire Lee"
+        },
+        {
+          "number": "35",
+          "name": "Ryan Pesch"
+        },
+        {
+          "number": "47",
+          "name": "Cassidy Krawczak-Kummrow"
+        },
+        {
+          "number": "49",
+          "name": "Caleb Denecour"
+        },
+        {
+          "number": "77",
+          "name": "Owen Suelflow"
         }
       ]
     },
@@ -993,11 +993,11 @@
             {
               "team1": "Hybrid",
               "team2": "Drag'n Thrust",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 10,
               "datetime": "2026-09-05T11:15:00Z",
               "round": "Pool A",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "shame.",
