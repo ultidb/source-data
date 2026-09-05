@@ -1,7 +1,6 @@
 import json
 import logging as log
 import atexit
-import csv
 import subprocess
 import time
 
@@ -12,13 +11,11 @@ from apscheduler.schedulers.background import BackgroundScheduler
 from apscheduler.executors.pool import ThreadPoolExecutor
 
 from config import get_config, get_secrets
-from scrape import scrapeListOfTournamentUrls, ScrapeOptions
 from tor import startTorServer, torIsRunning
 from video.video import scrapeVideos, scrapeUltiworldAndSave
 import db
 
 from core.pipeline import run_pipeline
-from core.source import EventRef
 from sources.usau.source import UsauSource
 from sources.wfdf.events import (
     ongoing_events as wfdf_ongoing_events,
@@ -28,9 +25,6 @@ from sources.wfdf.events import (
 from sources.wfdf.source import WfdfSource
 
 # Runtime state
-ongoingTournaments = []
-upcomingTournaments = []
-recentlyEndedTournaments = []
 ongoingUsauEventRefs = []
 upcomingUsauEventRefs = []
 recentlyEndedUsauEventRefs = []
@@ -64,113 +58,42 @@ def isRecentlyEnded(endDate):
     return endDate < today and endDate >= (today - timedelta(days=30))
 
 
-def _usau_event_ref_from_row(row, scrape_year):
-    """Same calendar CSV row shape scrapeCalendar()/readInfoFromCalendarCSV
-    already read (url, city, state, startDate, endDate as ISO strings) --
-    built into an EventRef so the four job functions below can drive
-    core.pipeline.run_pipeline's `refs=` escape hatch instead of
-    scrape.py's positional-dict shape."""
-    return EventRef(
-        url=row[0],
-        city=row[1],
-        state=row[2],
-        start_date=date.fromisoformat(row[3]),
-        end_date=date.fromisoformat(row[4]),
-        extra={"year": scrape_year},
-    )
-
-
 def scrapeCalendar(disableCache=True):
+    """Discover this year's USAU events directly through UsauSource (no
+    subprocess, no CSV) and bucket the resulting EventRefs into
+    ongoingUsauEventRefs/upcomingUsauEventRefs/recentlyEndedUsauEventRefs --
+    the lists the USAU scheduler jobs below (_run_usau_events and friends)
+    actually consume.
+
+    `disableCache` is accepted for backward compatibility with callers
+    (prodSetup, the scheduler job) but UsauSource.discover() always fetches
+    the two schedule pages fresh -- discover() takes no Cache, per the
+    Source contract -- so there is nothing to toggle here today."""
     global year
     year = str(date.today().year)
     log.info(f"scraping calendar for {year}")
 
-    d = "--disableCache"
-    if not disableCache:
-        d = ""
-
-    subprocess.run(["python", "scrape.py", "-y", year, "--calendarOnly", d])
-
-    global ongoingTournaments
-    global upcomingTournaments
-    global recentlyEndedTournaments
     global ongoingUsauEventRefs
     global upcomingUsauEventRefs
     global recentlyEndedUsauEventRefs
-    ongoingTournaments = []
-    upcomingTournaments = []
-    recentlyEndedTournaments = []
     ongoingUsauEventRefs = []
     upcomingUsauEventRefs = []
     recentlyEndedUsauEventRefs = []
 
-    with open(f"csv/{year}/_calendar.csv", newline="") as csvfile:
-        reader = csv.reader(csvfile, delimiter=",", quotechar='"')
-        for row in reader:
-            if row[3] != "":
-                startDate = date.fromisoformat(row[3])
-                endDate = date.fromisoformat(row[4])
-                if isOngoing(startDate, endDate):
-                    ongoingTournaments.append(
-                        {
-                            "city": row[1],
-                            "state": row[2],
-                            "startDate": row[3],
-                            "endDate": row[4],
-                            "url": row[0],
-                        }
-                    )
-                    ongoingUsauEventRefs.append(_usau_event_ref_from_row(row, int(year)))
-                elif isUpcoming(startDate):
-                    upcomingTournaments.append(
-                        {
-                            "city": row[1],
-                            "state": row[2],
-                            "startDate": row[3],
-                            "endDate": row[4],
-                            "url": row[0],
-                        }
-                    )
-                    upcomingUsauEventRefs.append(_usau_event_ref_from_row(row, int(year)))
-                elif isRecentlyEnded(endDate):
-                    recentlyEndedTournaments.append(
-                        {
-                            "city": row[1],
-                            "state": row[2],
-                            "startDate": row[3],
-                            "endDate": row[4],
-                            "url": row[0],
-                        }
-                    )
-                    recentlyEndedUsauEventRefs.append(_usau_event_ref_from_row(row, int(year)))
+    refs = UsauSource().discover(int(year))
+    for ref in refs:
+        if ref.start_date is None:
+            continue
+        if isOngoing(ref.start_date, ref.end_date):
+            ongoingUsauEventRefs.append(ref)
+        elif isUpcoming(ref.start_date):
+            upcomingUsauEventRefs.append(ref)
+        elif isRecentlyEnded(ref.end_date):
+            recentlyEndedUsauEventRefs.append(ref)
 
-    log.info(f"found {len(ongoingTournaments)} ongoing tournaments")
-    log.info(f"found {len(upcomingTournaments)} upcoming tournaments")
-    log.info(f"found {len(recentlyEndedTournaments)} recently ended tournaments")
-
-
-def scrapeOngoingTournaments():
-    config = ScrapeOptions(int(year), False, True, True, False)
-    scrapeListOfTournamentUrls(config, ongoingTournaments)
-    commitAndPush(True)
-
-
-def scrapeOngoingTournamentsRefreshTeams():
-    config = ScrapeOptions(int(year), True, True, True, False)
-    scrapeListOfTournamentUrls(config, ongoingTournaments)
-    commitAndPush(True)
-
-
-def scrapeUpcomingTournaments():
-    config = ScrapeOptions(int(year), True, True, False, False)
-    scrapeListOfTournamentUrls(config, upcomingTournaments)
-    commitAndPush()
-
-
-def scrapeRecentlyEndedTournaments():
-    config = ScrapeOptions(int(year), True, True, True, False)
-    scrapeListOfTournamentUrls(config, recentlyEndedTournaments)
-    # commitAndPush()
+    log.info(f"found {len(ongoingUsauEventRefs)} ongoing tournaments")
+    log.info(f"found {len(upcomingUsauEventRefs)} upcoming tournaments")
+    log.info(f"found {len(recentlyEndedUsauEventRefs)} recently ended tournaments")
 
 
 def _run_usau_events(refs, *, label, post=True, commit=True, live=False, refresh_rosters=False):
@@ -180,12 +103,11 @@ def _run_usau_events(refs, *, label, post=True, commit=True, live=False, refresh
     recentlyEndedUsauEventRefs), mirroring _run_wfdf_events above but for
     UsauSource.
 
-    `post`/`commit` default to True (mirroring scrapeOngoingTournaments/
-    scrapeOngoingTournamentsRefreshTeams/scrapeUpcomingTournaments's
-    commitAndPush() calls today). `live`/`refresh_rosters` are threaded into
-    UsauSource's constructor of the same names (see sources/usau/source.py)
-    -- each job below passes the flags matching legacy's `disableCache`
-    behaviour for that job (scrape.py:259-260)."""
+    `post`/`commit` default to True, matching the always-post-and-commit
+    behaviour of the legacy CSV-era jobs this replaced. `live`/`refresh_rosters`
+    are threaded into UsauSource's constructor of the same names (see
+    sources/usau/source.py) -- each job below passes the flags matching that
+    job's freshness needs (see the comment on each job function)."""
     if not refs:
         log.info(f"usau: no events to scrape ({label})")
         return
@@ -232,11 +154,10 @@ def scrapeUpcomingUsauEvents():
 
 
 def scrapeRecentlyEndedUsauEvents():
-    # live=True to catch late score corrections, matching legacy's
-    # live=True for this job (scrape.py:259-260). post/commit now default
-    # to True like the other jobs -- previously this job scraped but never
-    # posted or committed (scrapeRecentlyEndedTournaments's commitAndPush()
-    # call is commented out in production), a dormant bug, not intentional.
+    # live=True to catch late score corrections. post/commit default to True
+    # like the other jobs -- the legacy equivalent of this job scraped but
+    # never posted or committed (its commit call was commented out in
+    # production), a dormant bug, not intentional.
     _run_usau_events(recentlyEndedUsauEventRefs, label="recently-ended", live=True)
 
 
@@ -291,7 +212,7 @@ def commitSourceData():
     MULTI-SOURCE-REDESIGN.md's repo layout). listUpdatedFiles() and
     commitToGit() already take an arbitrary path/directory -- neither is
     actually CSV-specific -- so this reuses them directly rather than
-    duplicating commitAndPush()'s CSV-only listUpdatedCsvs()/v1-ingest path,
+    reimplementing the legacy CSV-only listUpdatedCsvs()/v1-ingest path,
     which does not apply here (Source plugins post self-contained v2
     documents, not CSV path suffixes). Source-agnostic (data/ covers every
     source), so both _run_wfdf_events and _run_usau_events call this same
@@ -317,23 +238,6 @@ def scrapeAndPushVideos():
     scrapeVideos()
     commitAndPushVideos()
 
-def scrapeOneTournamentByUrl(url):
-    with open(f"csv/{year}/_calendar.csv", newline="") as csvfile:
-        reader = csv.reader(csvfile, delimiter=",", quotechar='"')
-        tournaments = []
-        for row in reader:
-            if row[0] == url:
-                tournaments.append({
-                            "city": row[1],
-                            "state": row[2],
-                            "startDate": row[3],
-                            "endDate": row[4],
-                            "url": row[0],
-                        })
-        config = ScrapeOptions(int(year), True, True, False, False)
-        scrapeListOfTournamentUrls(config, tournaments)
-
-
 def commitAndPushVideos():
     csvs = listUpdatedVideos()
     if len(csvs) > 0:
@@ -343,29 +247,12 @@ def commitAndPushVideos():
             postUpdatedCsvListToAPI(csvs)
 
 
-def commitAndPush(isOngoing=False):
-    csvs = listUpdatedCsvs()
-    if len(csvs) > 0:
-        if COMMIT_AND_PUSH:
-            commitToGit("csv")
-        if POST_TO_API:
-            time.sleep(5)
-            if isOngoing:
-                postUpdatedCsvListToAPI(csvs, False, True, False)
-            else:
-                postUpdatedCsvListToAPI(csvs)
-
-
 def commitToGit(directory):
     subprocess.run(["git", "checkout", "live"])
     subprocess.run(["git", "add", directory])
     message = f"Scraper run: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
     subprocess.run(["git", "commit", "-m", message])
     subprocess.run(["git", "push", "origin", "live"])
-
-
-def listUpdatedCsvs():
-    return listUpdatedFiles("csv/")
 
 
 def listUpdatedVideos():
@@ -386,10 +273,6 @@ def listUpdatedFiles(path):
         ):
             output.append(filename)
     return output
-
-
-def resendFailedCSVs():
-    postUpdatedCsvListToAPI(db.listFailedCSVs())
 
 
 def postUpdatedCsvListToAPI(csvs, UpdatePlayers=True, checkExisting=True, DryRun=False):
@@ -480,9 +363,9 @@ def create_app(config=None):
     @flask_app.route("/health-check")
     def healthCheck():
         output = {
-            "ongoingTournaments": len(ongoingTournaments),
-            "upcomingTournaments": len(upcomingTournaments),
-            "recentlyEndedTournaments": len(recentlyEndedTournaments),
+            "ongoingTournaments": len(ongoingUsauEventRefs),
+            "upcomingTournaments": len(upcomingUsauEventRefs),
+            "recentlyEndedTournaments": len(recentlyEndedUsauEventRefs),
             "wfdfOngoingEvents": len(wfdf_ongoing_events()),
             "wfdfUpcomingEvents": len(wfdf_upcoming_events()),
             "wfdfRecentlyEndedEvents": len(wfdf_recently_ended_events()),

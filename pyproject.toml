@@ -12,5 +12,5 @@ requires = ["setuptools"]
 build-backend = "setuptools.build_meta"
 
 [tool.setuptools]
-py-modules = ["cli", "config", "scrape", "parse", "models", "db", "tor", "receiver", "app"]
+py-modules = ["cli", "config", "scrape", "models", "db", "tor", "app"]
 packages = ["video", "tests", "core", "sources", "sources.example", "sources.usau", "sources.wfdf"]
