@@ -12,7 +12,6 @@ from apscheduler.schedulers.background import BackgroundScheduler
 from apscheduler.executors.pool import ThreadPoolExecutor
 
 from config import get_config, get_secrets
-from scrape import scrapeListOfTournamentUrls, ScrapeOptions
 from tor import startTorServer, torIsRunning
 from video.video import scrapeVideos, scrapeUltiworldAndSave
 import db
@@ -147,30 +146,6 @@ def scrapeCalendar(disableCache=True):
     log.info(f"found {len(ongoingTournaments)} ongoing tournaments")
     log.info(f"found {len(upcomingTournaments)} upcoming tournaments")
     log.info(f"found {len(recentlyEndedTournaments)} recently ended tournaments")
-
-
-def scrapeOngoingTournaments():
-    config = ScrapeOptions(int(year), False, True, True, False)
-    scrapeListOfTournamentUrls(config, ongoingTournaments)
-    commitAndPush(True)
-
-
-def scrapeOngoingTournamentsRefreshTeams():
-    config = ScrapeOptions(int(year), True, True, True, False)
-    scrapeListOfTournamentUrls(config, ongoingTournaments)
-    commitAndPush(True)
-
-
-def scrapeUpcomingTournaments():
-    config = ScrapeOptions(int(year), True, True, False, False)
-    scrapeListOfTournamentUrls(config, upcomingTournaments)
-    commitAndPush()
-
-
-def scrapeRecentlyEndedTournaments():
-    config = ScrapeOptions(int(year), True, True, True, False)
-    scrapeListOfTournamentUrls(config, recentlyEndedTournaments)
-    # commitAndPush()
 
 
 def _run_usau_events(refs, *, label, post=True, commit=True, live=False, refresh_rosters=False):
@@ -317,23 +292,6 @@ def scrapeAndPushVideos():
     scrapeVideos()
     commitAndPushVideos()
 
-def scrapeOneTournamentByUrl(url):
-    with open(f"csv/{year}/_calendar.csv", newline="") as csvfile:
-        reader = csv.reader(csvfile, delimiter=",", quotechar='"')
-        tournaments = []
-        for row in reader:
-            if row[0] == url:
-                tournaments.append({
-                            "city": row[1],
-                            "state": row[2],
-                            "startDate": row[3],
-                            "endDate": row[4],
-                            "url": row[0],
-                        })
-        config = ScrapeOptions(int(year), True, True, False, False)
-        scrapeListOfTournamentUrls(config, tournaments)
-
-
 def commitAndPushVideos():
     csvs = listUpdatedVideos()
     if len(csvs) > 0:
@@ -343,29 +301,12 @@ def commitAndPushVideos():
             postUpdatedCsvListToAPI(csvs)
 
 
-def commitAndPush(isOngoing=False):
-    csvs = listUpdatedCsvs()
-    if len(csvs) > 0:
-        if COMMIT_AND_PUSH:
-            commitToGit("csv")
-        if POST_TO_API:
-            time.sleep(5)
-            if isOngoing:
-                postUpdatedCsvListToAPI(csvs, False, True, False)
-            else:
-                postUpdatedCsvListToAPI(csvs)
-
-
 def commitToGit(directory):
     subprocess.run(["git", "checkout", "live"])
     subprocess.run(["git", "add", directory])
     message = f"Scraper run: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
     subprocess.run(["git", "commit", "-m", message])
     subprocess.run(["git", "push", "origin", "live"])
-
-
-def listUpdatedCsvs():
-    return listUpdatedFiles("csv/")
 
 
 def listUpdatedVideos():
@@ -386,10 +327,6 @@ def listUpdatedFiles(path):
         ):
             output.append(filename)
     return output
-
-
-def resendFailedCSVs():
-    postUpdatedCsvListToAPI(db.listFailedCSVs())
 
 
 def postUpdatedCsvListToAPI(csvs, UpdatePlayers=True, checkExisting=True, DryRun=False):
