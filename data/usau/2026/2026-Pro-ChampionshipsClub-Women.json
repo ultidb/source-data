@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Pro-ChampionshipsClub-Women",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Pro-Championships/schedule/Women/Club-Women/",
-  "scrapedAt": "2026-09-06T19:14:15.612614Z",
+  "scrapedAt": "2026-09-06T19:24:16.040831Z",
   "event": {
     "name": "2026 Pro Championships",
     "division": "Club - Women ",
@@ -1188,13 +1188,22 @@
           "isChampionship": false,
           "games": [
             {
-              "team1": "Grit",
-              "team2": "Phoenix",
+              "team1": "Phoenix",
+              "team2": "Parcha",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-07T08:30:00Z",
+              "round": "Fifth Place",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Grit",
+              "team2": "Phoenix",
+              "score1": 11,
+              "score2": 12,
               "datetime": "2026-09-06T13:30:00Z",
               "round": "Fifth Place Semifinal",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Parcha",
@@ -1210,7 +1219,17 @@
         {
           "name": "Seventh Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Grit",
+              "team2": "Agency",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-07T10:45:00Z",
+              "round": "Seventh Place",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     }
