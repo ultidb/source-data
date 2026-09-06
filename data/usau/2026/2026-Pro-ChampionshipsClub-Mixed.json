@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Pro-ChampionshipsClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Pro-Championships/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-06T20:54:05.553514Z",
+  "scrapedAt": "2026-09-06T21:04:02.951248Z",
   "event": {
     "name": "2026 Pro Championships",
     "division": "Club - Mixed ",
@@ -1100,21 +1100,30 @@
           "games": [
             {
               "team1": "Hybrid",
+              "team2": "Austin Disco Club",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-07T13:30:00Z",
+              "round": "Final",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Hybrid",
               "team2": "shame.",
-              "score1": 12,
-              "score2": 9,
+              "score1": 15,
+              "score2": 10,
               "datetime": "2026-09-06T15:45:00Z",
               "round": "Semifinals",
-              "status": "In Progress"
+              "status": "Final"
             },
             {
               "team1": "Austin Disco Club",
               "team2": "Drag'n Thrust",
-              "score1": 14,
-              "score2": 8,
+              "score1": 15,
+              "score2": 9,
               "datetime": "2026-09-06T15:45:00Z",
               "round": "Semifinals",
-              "status": "In Progress"
+              "status": "Final"
             },
             {
               "team1": "Hybrid",
@@ -1163,7 +1172,17 @@
         {
           "name": "Third Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "shame.",
+              "team2": "Drag'n Thrust",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-07T10:45:00Z",
+              "round": "Third Place",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "Fifth Place Bracket",
@@ -1172,11 +1191,11 @@
             {
               "team1": "Lawless",
               "team2": "Sprocket",
-              "score1": 0,
-              "score2": 0,
+              "score1": 10,
+              "score2": 10,
               "datetime": "2026-09-06T15:45:00Z",
               "round": "Fifth Place Semifinals",
-              "status": "Scheduled"
+              "status": "In Progress"
             },
             {
               "team1": "Toro",
