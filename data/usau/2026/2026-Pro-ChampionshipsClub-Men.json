@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Pro-ChampionshipsClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Pro-Championships/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-06T21:13:54.249293Z",
+  "scrapedAt": "2026-09-06T21:23:50.416342Z",
   "event": {
     "name": "2026 Pro Championships",
     "division": "Club - Men ",
@@ -1162,6 +1162,15 @@
           "games": [
             {
               "team1": "Doublewide",
+              "team2": "Mephisto",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-07T08:30:00Z",
+              "round": "Fifth Place",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Doublewide",
               "team2": "Vault",
               "score1": 15,
               "score2": 6,
@@ -1176,14 +1185,24 @@
               "score2": 15,
               "datetime": "2026-09-06T15:45:00Z",
               "round": "Fifth Place Semifinals",
-              "status": "In Progress"
+              "status": "Final"
             }
           ]
         },
         {
           "name": "Seventh Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Vault",
+              "team2": "Florida Untied",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-07T08:30:00Z",
+              "round": "Seventh Place",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     }
