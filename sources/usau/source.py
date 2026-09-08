@@ -72,9 +72,9 @@ class UsauSource(Source):
         # discover() gets no Cache (per the Source contract -- WfdfSource's
         # discover() doesn't fetch the network at all), so the two schedule
         # pages are fetched uncached, once per call. This is the new-schedule
-        # shape (parseNewSchedule) that today's live scrapeCurrentYear uses;
-        # the legacy SeasonId calendar shape (parseTournamentCalendar) has no
-        # caller anywhere in the codebase today and isn't wired in here.
+        # shape (parseNewSchedule), not the legacy SeasonId calendar shape
+        # (parseTournamentCalendar), which has no caller anywhere in the
+        # codebase today and isn't wired in here.
         transport = self.make_transport()
         college_html = transport(COLLEGE_SCHEDULE_URL)
         club_html = transport(CLUB_SCHEDULE_URL)

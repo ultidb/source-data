@@ -1,15 +1,19 @@
 """Table tests for the pure calendar-bucketing logic app.py uses to drive
 USAU's new core.pipeline.run_pipeline path (see the USAU v2 cutover task):
-the CSV-row -> EventRef adapter (_usau_event_ref_from_row) and the
-isOngoing/isUpcoming/isRecentlyEnded date predicates, which now take `date`
-objects directly (previously `datetime`).
+the isOngoing/isUpcoming/isRecentlyEnded date predicates (which now take
+`date` objects directly -- previously `datetime`), and scrapeCalendar()'s
+discover-and-bucket logic, which calls UsauSource().discover(year) directly
+(no subprocess, no CSV) and buckets the resulting EventRefs by date using
+those same predicates.
 
 No network, no filesystem, no Flask app instance -- these are the same
-pure functions scrapeCalendar() calls while bucketing _calendar.csv rows.
+pure functions/logic scrapeCalendar() uses, with UsauSource.discover()
+faked out via monkeypatch so no real HTTP/Selenium/Tor happens.
 """
 from datetime import date, timedelta
 
 import app
+from core.source import EventRef
 
 
 TODAY = date.today()
@@ -60,25 +64,56 @@ class TestIsRecentlyEnded:
         assert not app.isRecentlyEnded(TODAY - timedelta(days=31))
 
 
-class TestUsauEventRefFromRow:
-    def test_builds_event_ref_from_calendar_row(self):
-        row = [
-            "https://play.usaultimate.org/events/Commonwealth-Cup-2026/schedule/Women/CollegeWomen/",
-            "Axton",
-            "VA",
-            "2026-02-21",
-            "2026-02-22",
-        ]
-        ref = app._usau_event_ref_from_row(row, 2026)
+class _StubUsauSource:
+    """Fake UsauSource used to drive scrapeCalendar()'s bucketing logic
+    without any real HTTP/Selenium/Tor -- mirrors test_pipeline.py's
+    _FlakySource pattern of faking a Source's discover() to isolate the
+    caller's own logic."""
 
-        assert ref.url == row[0]
-        assert ref.city == "Axton"
-        assert ref.state == "VA"
-        assert ref.start_date == date(2026, 2, 21)
-        assert ref.end_date == date(2026, 2, 22)
-        assert ref.extra == {"year": 2026}
+    def __init__(self, refs):
+        self._refs = refs
 
-    def test_extra_year_is_the_passed_scrape_year_not_parsed_from_dates(self):
-        row = ["https://play.usaultimate.org/events/x/schedule/Women/CollegeWomen/", "", "", "2025-12-30", "2026-01-02"]
-        ref = app._usau_event_ref_from_row(row, 2026)
-        assert ref.extra["year"] == 2026
+    def discover(self, year):
+        return self._refs
+
+
+class TestScrapeCalendar:
+    def test_buckets_refs_by_date_into_the_three_usau_event_ref_lists(self, monkeypatch):
+        ongoing_ref = EventRef(
+            url="https://play.usaultimate.org/events/ongoing/schedule/Women/CollegeWomen/",
+            start_date=TODAY - timedelta(days=1),
+            end_date=TODAY + timedelta(days=1),
+        )
+        upcoming_ref = EventRef(
+            url="https://play.usaultimate.org/events/upcoming/schedule/Women/CollegeWomen/",
+            start_date=TODAY + timedelta(days=5),
+            end_date=TODAY + timedelta(days=6),
+        )
+        recently_ended_ref = EventRef(
+            url="https://play.usaultimate.org/events/ended/schedule/Women/CollegeWomen/",
+            start_date=TODAY - timedelta(days=20),
+            end_date=TODAY - timedelta(days=19),
+        )
+        refs = [ongoing_ref, upcoming_ref, recently_ended_ref]
+
+        monkeypatch.setattr(app, "UsauSource", lambda: _StubUsauSource(refs))
+
+        app.scrapeCalendar()
+
+        assert app.ongoingUsauEventRefs == [ongoing_ref]
+        assert app.upcomingUsauEventRefs == [upcoming_ref]
+        assert app.recentlyEndedUsauEventRefs == [recently_ended_ref]
+
+    def test_refs_with_no_start_date_are_skipped(self, monkeypatch):
+        no_date_ref = EventRef(
+            url="https://play.usaultimate.org/events/tbd/schedule/Women/CollegeWomen/",
+            start_date=None,
+            end_date=None,
+        )
+        monkeypatch.setattr(app, "UsauSource", lambda: _StubUsauSource([no_date_ref]))
+
+        app.scrapeCalendar()
+
+        assert app.ongoingUsauEventRefs == []
+        assert app.upcomingUsauEventRefs == []
+        assert app.recentlyEndedUsauEventRefs == []
