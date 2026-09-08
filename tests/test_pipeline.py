@@ -50,6 +50,18 @@ class TestRunPipelineBasics:
         documents = run_pipeline(source, YEAR, refs=all_refs, out_dir=tmp_path)
         assert len(documents) == 1
 
+    def test_logs_which_event_is_being_scraped(self, tmp_path, caplog):
+        # Previously the only sign of progress was the final "produced N
+        # document(s)" summary -- nothing named which event was in flight,
+        # so a slow or hung fetch gave no indication of which tournament to
+        # look at (unlike the legacy scraper's "Scraping tournament 1/84
+        # <name>" line).
+        source = ExampleSource()
+        with caplog.at_level("INFO"):
+            run_pipeline(source, YEAR, out_dir=tmp_path)
+
+        assert any("scraping 1/1" in r.message for r in caplog.records)
+
 
 class TestRunPipelinePosting:
     def test_posts_documents_when_requested(self, tmp_path, monkeypatch):

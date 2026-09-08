@@ -6,6 +6,8 @@ fetch_event) using a fake transport over the same checked-in fixtures, plus
 one end-to-end discover -> fetch_event -> parse_event -> tournament_to_document
 run mirroring test_wfdf.py's TestFullPipeline style.
 """
+import os
+import time
 from pathlib import Path
 
 import pytest
@@ -165,3 +167,136 @@ class TestFullPipeline:
         Document.model_validate(dumped)  # must not raise
         assert len(doc.teams) == len(TEAM_HTML_BY_URL)
         assert {s.type for s in doc.stages} == {"pools", "brackets"}
+
+
+# ---------------------------------------------------------------------------
+# Live fetch policy: the tournament page always refetches when live; team
+# pages are served from cache unless stale or refresh_rosters forces it.
+# Mirrors test_wfdf.py's TestLiveFetchPolicy -- see the USAU source task
+# (Bug 2: UsauSource previously had no cache-bypass knob at all).
+# ---------------------------------------------------------------------------
+
+
+class _CountingFakeTransport:
+    """Wraps `_fake_transport` and records every URL it's asked to fetch, so
+    tests can assert exact call counts without a real network."""
+
+    def __init__(self):
+        self.calls = []
+        self._inner = _fake_transport()
+
+    def __call__(self, url: str) -> bytes:
+        self.calls.append(url)
+        return self._inner(url)
+
+    @property
+    def tournament_calls(self):
+        return [u for u in self.calls if u == SOURCE_URL]
+
+    @property
+    def team_calls(self):
+        return [u for u in self.calls if u in TEAM_HTML_BY_URL]
+
+
+class TestLiveFetchPolicy:
+    def _ref(self):
+        from datetime import date
+
+        from core.source import EventRef
+
+        return EventRef(
+            url=SOURCE_URL, city="Axton", state="VA",
+            start_date=date(2026, 2, 21), end_date=date(2026, 2, 22),
+            extra={"year": YEAR},
+        )
+
+    def test_live_with_warm_team_cache_fetches_only_tournament(self, tmp_path):
+        transport = _CountingFakeTransport()
+        source = UsauSource(transport=transport, live=True)
+        ref = self._ref()
+        key = source.event_key(ref)
+        cache = FileCache("usau", YEAR, key, transport, base_dir=tmp_path)
+
+        cache.put("tournament", TOURNAMENT_HTML)
+        provisional = parseTournament(TOURNAMENT_HTML, source._info_dict(ref), "", YEAR)
+        for team in provisional.teams:
+            if team.name == "TEAM_NAME_NOT_FOUND":
+                continue
+            cache.put(f"team:{team.id}", TEAM_HTML_BY_URL[team.url])
+
+        pages = source.fetch_event(ref, cache)
+
+        assert len(transport.tournament_calls) == 1
+        assert transport.team_calls == []
+        assert len(transport.calls) == 1
+        assert len(pages) == 1 + len(TEAM_HTML_BY_URL)
+
+    def test_refresh_rosters_true_fetches_every_team_even_if_fresh(self, tmp_path):
+        transport = _CountingFakeTransport()
+        source = UsauSource(transport=transport, live=True, refresh_rosters=True)
+        ref = self._ref()
+        key = source.event_key(ref)
+        cache = FileCache("usau", YEAR, key, transport, base_dir=tmp_path)
+
+        cache.put("tournament", TOURNAMENT_HTML)
+        provisional = parseTournament(TOURNAMENT_HTML, source._info_dict(ref), "", YEAR)
+        team_ids = []
+        for team in provisional.teams:
+            if team.name == "TEAM_NAME_NOT_FOUND":
+                continue
+            team_ids.append(team.id)
+            cache.put(f"team:{team.id}", TEAM_HTML_BY_URL[team.url])  # fresh
+
+        source.fetch_event(ref, cache)
+
+        assert len(transport.team_calls) == len(team_ids)
+
+    def test_stale_team_entries_are_refetched_fresh_ones_are_not(self, tmp_path, monkeypatch):
+        import sources.usau.source as usau_source_module
+
+        monkeypatch.setattr(usau_source_module, "TEAM_MAX_AGE_SECONDS", 100)
+
+        transport = _CountingFakeTransport()
+        source = UsauSource(transport=transport, live=True)
+        ref = self._ref()
+        key = source.event_key(ref)
+        cache = FileCache("usau", YEAR, key, transport, base_dir=tmp_path)
+
+        cache.put("tournament", TOURNAMENT_HTML)
+        provisional = parseTournament(TOURNAMENT_HTML, source._info_dict(ref), "", YEAR)
+        teams = [t for t in provisional.teams if t.name != "TEAM_NAME_NOT_FOUND"]
+        stale_teams = teams[:2]
+        fresh_teams = teams[2:]
+
+        now = time.time()
+        for team in teams:
+            cache.put(f"team:{team.id}", TEAM_HTML_BY_URL[team.url])
+            path = cache._path_for(f"team:{team.id}")
+            if team in stale_teams:
+                os.utime(path, (now - 200, now - 200))  # older than the 100s TTL
+            # fresh_teams left at "just written" mtime.
+
+        source.fetch_event(ref, cache)
+
+        fetched_urls = set(transport.team_calls)
+        assert fetched_urls == {t.url for t in stale_teams}
+        assert not (fetched_urls & {t.url for t in fresh_teams})
+
+    def test_not_live_uses_normal_cache_behaviour_for_tournament(self, tmp_path):
+        transport = _CountingFakeTransport()
+        source = UsauSource(transport=transport, live=False)
+        ref = self._ref()
+        key = source.event_key(ref)
+        cache = FileCache("usau", YEAR, key, transport, base_dir=tmp_path)
+
+        cache.put("tournament", TOURNAMENT_HTML)
+        provisional = parseTournament(TOURNAMENT_HTML, source._info_dict(ref), "", YEAR)
+        for team in provisional.teams:
+            if team.name == "TEAM_NAME_NOT_FOUND":
+                continue
+            cache.put(f"team:{team.id}", TEAM_HTML_BY_URL[team.url])
+
+        source.fetch_event(ref, cache)
+
+        assert transport.tournament_calls == []
+        assert transport.team_calls == []

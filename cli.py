@@ -4,15 +4,12 @@ Unified CLI for the USAU scraper.
 
 Usage:
     python cli.py scrape year 2026
-    python cli.py scrape tournament <url> -y 2026
-    python cli.py scrape full --commit --post
+    python cli.py scrape year 2026 --source=wfdf --post
     python cli.py serve --no-scheduler
 """
 
-import atexit
 import json
 import logging as log
-import subprocess
 from datetime import datetime
 from pathlib import Path
 
@@ -50,17 +47,11 @@ def scrape():
     "--source",
     default="usau",
     help=(
-        "Source id to scrape (default: usau). NOTE: USAU is not ported onto the "
-        "sources/ plugin path yet -- that's Phase 3 of MULTI-SOURCE-REDESIGN.md. "
-        "--source=usau (the default) always uses today's existing parse.py/scrape.py "
-        "CSV code path, unchanged. Any other registered source id (see `scraper "
-        "sources`) uses the new core.Source plugin path: discover -> fetch_event -> "
-        "parse_event -> tournament_to_document -> write_document."
+        "Source id to scrape (default: usau). Uses the registry-backed core.Source "
+        "plugin path: discover -> fetch_event -> parse_event -> tournament_to_document "
+        "-> write_document (see `scraper sources` for every registered id)."
     ),
 )
-@click.option("-d", "--disable-cache", is_flag=True, help="Ignore cached HTML files")
-@click.option("-o", "--overwrite", is_flag=True, help="Overwrite existing CSV files")
-@click.option("--calendar-only", is_flag=True, help="Only scrape calendar, not tournaments (usau only)")
 @click.option(
     "--post", is_flag=True, help="POST emitted documents to the ingest API (registry-backed sources only)"
 )
@@ -80,21 +71,19 @@ def scrape():
 @click.option(
     "--live",
     is_flag=True,
-    help="WFDF only: force a refetch of live-changing pages (reference/games -- pools, scores, "
-    "structure). Roster pages still honour their cache TTL unless --refresh-rosters is also given.",
+    help="WFDF/USAU only: force a refetch of live-changing pages (WFDF: reference/games -- pools, "
+    "scores, structure; USAU: the tournament schedule/pools/scores page). Roster/team pages still "
+    "honour their cache TTL unless --refresh-rosters is also given.",
 )
 @click.option(
     "--refresh-rosters",
     is_flag=True,
-    help="WFDF only: also force a refetch of every roster page, bypassing their cache TTL.",
+    help="WFDF/USAU only: also force a refetch of every roster/team page, bypassing their cache TTL.",
 )
 @click.option("--debug", is_flag=True, help="Enable debug logging")
 def scrape_year_cmd(
     year: int,
     source: str,
-    disable_cache: bool,
-    overwrite: bool,
-    calendar_only: bool,
     post: bool,
     out_dir: str,
     api_url: str,
@@ -104,20 +93,6 @@ def scrape_year_cmd(
 ):
     """Scrape all tournaments for a given year."""
     setup_logging(debug)
-
-    if source == "usau":
-        if live or refresh_rosters:
-            raise click.UsageError(
-                "--live/--refresh-rosters are WFDF-specific; not supported for --source=usau"
-            )
-        # USAU is not ported yet (Phase 3) -- keep delegating to today's
-        # existing CSV scrape code path unchanged. See the --source help text.
-        from scrape import ScrapeOptions, scrapeCurrentYear
-
-        log.info(f"Scraping year: {year}")
-        config = ScrapeOptions(year, disable_cache, overwrite, live=False, calendarOnly=calendar_only)
-        scrapeCurrentYear(config)
-        return
 
     _scrape_year_with_source(
         source, year, post=post, out_dir=out_dir, api_url=api_url,
@@ -135,18 +110,18 @@ def _scrape_year_with_source(
     live: bool = False,
     refresh_rosters: bool = False,
 ):
-    """Drive a registry-backed (non-usau) Source through the shared
+    """Drive a registry-backed Source through the shared
     core.pipeline.run_pipeline: discover -> fetch_event -> parse_event ->
     tournament_to_document -> write_document, optionally POSTing the
-    results. app.py's WFDF scheduler jobs call the same run_pipeline
+    results. app.py's WFDF/USAU scheduler jobs call the same run_pipeline
     function over a specific event subset -- see core/pipeline.py."""
     import sources  # noqa: F401  (import side effect: registers every known source)
     from core.pipeline import run_pipeline
     from core.registry import get_source
 
-    if (live or refresh_rosters) and source_id != "wfdf":
+    if (live or refresh_rosters) and source_id not in ("wfdf", "usau"):
         raise click.UsageError(
-            f"--live/--refresh-rosters are WFDF-specific (source={source_id!r} doesn't take them)"
+            f"--live/--refresh-rosters are WFDF/USAU-specific (source={source_id!r} doesn't take them)"
         )
 
     if source_id == "wfdf":
@@ -156,6 +131,13 @@ def _scrape_year_with_source(
         from sources.wfdf.source import WfdfSource
 
         src = WfdfSource(live=live, refresh_rosters=refresh_rosters)
+    elif source_id == "usau":
+        # Same reasoning as the wfdf branch above -- get_source() returns a
+        # plain no-args instance, so build UsauSource directly to thread
+        # live/refresh_rosters through (see sources/usau/source.py).
+        from sources.usau.source import UsauSource
+
+        src = UsauSource(live=live, refresh_rosters=refresh_rosters)
     else:
         src = get_source(source_id)
 
@@ -177,144 +159,6 @@ def _scrape_year_with_source(
         ingest_token=ingest_token,
     )
     log.info(f"scraped {len(documents)} document(s) for source={source_id} year={year}")
-
-
-@scrape.command("tournament")
-@click.argument("url")
-@click.option("-y", "--year", type=int, required=True, help="Year for the tournament")
-@click.option("-d", "--disable-cache", is_flag=True, help="Ignore cached HTML files")
-@click.option("-o", "--overwrite", is_flag=True, help="Overwrite existing CSV files")
-@click.option("-l", "--live", is_flag=True, help="Live scraping mode")
-@click.option("--debug", is_flag=True, help="Enable debug logging")
-def scrape_tournament_cmd(url: str, year: int, disable_cache: bool, overwrite: bool, live: bool, debug: bool):
-    """Scrape a single tournament by URL."""
-    setup_logging(debug)
-
-    from scrape import ScrapeOptions, scrapeTournament, readInfoFromCalendarCSV
-
-    log.info(f"Scraping tournament: {url}")
-    config = ScrapeOptions(year, disable_cache, overwrite, live=live, calendarOnly=False)
-    tournament_info = readInfoFromCalendarCSV(year, url)
-
-    # Skip if tournament not found in calendar
-    if tournament_info is None:
-        log.error(f"Tournament URL not found in calendar CSV: {url}")
-        log.error(f"Please scrape the calendar first: python cli.py scrape calendar -y {year}")
-        return
-
-    scrapeTournament(config, tournament_info, 0, 1)
-
-
-@scrape.command("calendar")
-@click.option("-y", "--year", type=int, default=None, help="Year to scrape (default: current year)")
-@click.option("-d", "--disable-cache", is_flag=True, help="Ignore cached HTML files")
-@click.option("--debug", is_flag=True, help="Enable debug logging")
-def scrape_calendar_cmd(year: int, disable_cache: bool, debug: bool):
-    """Scrape only the tournament calendar."""
-    setup_logging(debug)
-
-    from datetime import date
-    from scrape import ScrapeOptions, scrapeCurrentYear
-
-    if year is None:
-        year = date.today().year
-
-    log.info(f"Scraping calendar for year: {year}")
-    config = ScrapeOptions(year, disable_cache, overwriteCSVs=False, live=False, calendarOnly=True)
-    scrapeCurrentYear(config)
-
-
-@scrape.command("retry")
-@click.argument("year", type=int)
-@click.option("-d", "--disable-cache", is_flag=True, help="Ignore cached HTML files")
-@click.option("-o", "--overwrite", is_flag=True, help="Overwrite existing CSV files")
-@click.option("--debug", is_flag=True, help="Enable debug logging")
-def scrape_retry_cmd(year: int, disable_cache: bool, overwrite: bool, debug: bool):
-    """Retry failed tournaments from errors.txt."""
-    setup_logging(debug)
-
-    from scrape import ScrapeOptions, retryErrors
-
-    log.info(f"Retrying failed tournaments for year: {year}")
-    config = ScrapeOptions(year, disable_cache, overwrite, live=False, calendarOnly=False)
-    retryErrors(config)
-
-
-@scrape.command("full")
-@click.option("-y", "--year", type=int, default=None, help="Year to scrape (default: current year)")
-@click.option("--commit", is_flag=True, help="Commit changes to git and push")
-@click.option("--post", is_flag=True, help="Post updated CSVs to API")
-@click.option("--debug", is_flag=True, help="Enable debug logging")
-def scrape_full_cmd(year: int, commit: bool, post: bool, debug: bool):
-    """Full scrape workflow: scrape all tournaments, optionally commit and post."""
-    setup_logging(debug)
-
-    from datetime import date
-    from scrape import ScrapeOptions, scrapeCurrentYear
-    from tor import startTorServer, torIsRunning
-
-    if year is None:
-        year = date.today().year
-
-    log.info(f"=== Starting {year} Tournament Scraper ===")
-
-    # Setup Tor
-    if not torIsRunning():
-        log.info("Starting Tor server...")
-        tor_process = startTorServer()
-        atexit.register(tor_process.kill)
-    else:
-        log.info("Tor already running")
-
-    # Scrape
-    log.info(f"Scraping all {year} tournaments...")
-    config = ScrapeOptions(year, disableCache=True, overwriteCSVs=True, live=False, calendarOnly=False)
-    scrapeCurrentYear(config)
-    log.info("Finished scraping tournaments")
-
-    # Get updated CSVs
-    csvs = _list_updated_csvs()
-
-    if len(csvs) > 0:
-        # Bug fix (documented in MULTI-SOURCE-REDESIGN.md's "Pre-existing
-        # bugs" list): this used to call CLI-local _commit_to_git() /
-        # _post_to_receiver(), which duplicated app.py's commitToGit() /
-        # postUpdatedCsvListToAPI() minus the db.py bookkeeping -- so
-        # CLI-triggered posts silently skipped failure tracking
-        # (db.updateFailedCSVs / db.updateSuccesfulCSVs, consumed by
-        # db.listFailedCSVs / app.resendFailedCSVs). Importing app.py's
-        # versions instead of reimplementing them means CLI-triggered posts
-        # get the same failure tracking as the scheduler-triggered ones.
-        # Lazy-imported (matching this file's existing convention, e.g. the
-        # `serve`/`videos` commands below) so importing cli.py itself
-        # doesn't drag in Flask/apscheduler for commands that never call
-        # this path.
-        if commit:
-            from app import commitToGit
-
-            commitToGit("csv")
-        if post:
-            from app import postUpdatedCsvListToAPI
-
-            postUpdatedCsvListToAPI(csvs)
-    else:
-        log.info("No updated CSVs found, skipping commit and post")
-
-    log.info("=== Done ===")
-
-
-def _list_updated_csvs():
-    """Get list of updated CSV files from git status."""
-    proc = subprocess.run(["git", "status", "-s"], capture_output=True)
-    status = proc.stdout.decode("utf-8")
-    output = []
-    for line in status.split("\n"):
-        items = line.strip().split(" ")
-        filename = items[-1]
-        if len(items) > 1 and not filename.endswith("_calendar.csv") and filename.startswith("csv/"):
-            output.append(filename)
-    log.info(f"Found {len(output)} updated CSV files")
-    return output
 
 
 @cli.command()

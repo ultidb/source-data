@@ -62,9 +62,10 @@ def run_pipeline(
     transport = src.make_transport()
 
     documents: List[Document] = []
-    for ref in refs:
+    for i, ref in enumerate(refs, start=1):
         try:
             key = src.event_key(ref)
+            log.info(f"pipeline: scraping {i}/{len(refs)} {key} ({ref.url})")
             cache = FileCache(src.id, year, key, transport)
             pages = src.fetch_event(ref, cache)
             tournament = src.parse_event(pages, ref, year)

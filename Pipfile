@@ -21,6 +21,7 @@ pydantic = "*"
 pydantic-settings = "*"
 pyyaml = "*"
 click = "*"
+usau-scraper = {file = ".", editable = true}
 
 [dev-packages]
 autopep8 = "*"
