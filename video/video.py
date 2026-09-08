@@ -215,6 +215,9 @@ def scrapeUltiworld():
         "https://ultiworld.com/video/?years=2026&divisions=usau-club-mens&packages=&event=&tags=#filtered",
         "https://ultiworld.com/video/?years=2026&divisions=usau-club-mixed&packages=&event=&tags=#filtered",
         "https://ultiworld.com/video/?years=2026&divisions=usau-club-womens&packages=&event=&tags=#filtered",
+        "https://ultiworld.com/video/?years=2026&divisions=wfdf-club-mixed&packages=&event=&tags=#filtered",
+        "https://ultiworld.com/video/?years=2026&divisions=wfdf-club-open&packages=&event=&tags=#filtered",
+        "https://ultiworld.com/video/?years=2026&divisions=wfdf-club-womens&packages=&event=&tags=#filtered",
     ]
 
     chrome_options = Options()
