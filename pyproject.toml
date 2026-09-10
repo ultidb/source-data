@@ -13,4 +13,4 @@ build-backend = "setuptools.build_meta"
 
 [tool.setuptools]
 py-modules = ["cli", "config", "scrape", "models", "db", "tor", "app"]
-packages = ["video", "tests", "core", "sources", "sources.example", "sources.usau", "sources.wfdf"]
+packages = ["video", "tests", "core", "sources", "sources.example", "sources.usau", "sources.wfdf", "sources.wfdf_legacy"]

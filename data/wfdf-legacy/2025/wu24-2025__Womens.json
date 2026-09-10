@@ -1,0 +1,1982 @@
+{
+  "schemaVersion": "1.0",
+  "source": "wfdf-legacy",
+  "sourceEventId": "wu24-2025/Women's",
+  "sourceUrl": "https://results.wfdf.sport/wu24",
+  "scrapedAt": "2026-09-10T16:20:49.185427Z",
+  "event": {
+    "name": "WFDF World Under-24 Ultimate Championships 2025",
+    "division": "international-u24",
+    "gender": "womens",
+    "season": 2025,
+    "city": "Logroño",
+    "state": "",
+    "country": "Spain",
+    "startDate": "2025-06-22",
+    "endDate": "2025-06-28"
+  },
+  "teams": [
+    {
+      "name": "Australia",
+      "seed": 5,
+      "sourceTeamId": "2",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Australia",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "1",
+          "name": "Thea Osmond"
+        },
+        {
+          "number": "2",
+          "name": "Maya Osmond"
+        },
+        {
+          "number": "6",
+          "name": "´╗┐Alisha Nguyen"
+        },
+        {
+          "number": "7",
+          "name": "Emer Spiers"
+        },
+        {
+          "number": "8",
+          "name": "Kat Buckser"
+        },
+        {
+          "number": "10",
+          "name": "Angelina Lee"
+        },
+        {
+          "number": "11",
+          "name": "Evelyn Ha"
+        },
+        {
+          "number": "17",
+          "name": "Charlotte Botham-Clarke"
+        },
+        {
+          "number": "20",
+          "name": "Trinity Doan"
+        },
+        {
+          "number": "21",
+          "name": "Briony Kwon"
+        },
+        {
+          "number": "22",
+          "name": "Miranda Wang"
+        },
+        {
+          "number": "23",
+          "name": "Jenna Kim"
+        },
+        {
+          "number": "24",
+          "name": "Hannah Sheers"
+        },
+        {
+          "number": "25",
+          "name": "Anita Ung"
+        },
+        {
+          "number": "28",
+          "name": "Olivia Hanrahan"
+        },
+        {
+          "number": "30",
+          "name": "Paige McKay"
+        },
+        {
+          "number": "33",
+          "name": "Megan Lee"
+        },
+        {
+          "number": "35",
+          "name": "Bronte Sleath"
+        },
+        {
+          "number": "36",
+          "name": "Ida Rosenthal"
+        },
+        {
+          "number": "37",
+          "name": "Mayley Gao"
+        },
+        {
+          "number": "62",
+          "name": "Eleanor Koning"
+        },
+        {
+          "number": "72",
+          "name": "Yvonne Jiang"
+        },
+        {
+          "number": "90",
+          "name": "Kate Pankhurst"
+        },
+        {
+          "number": "99",
+          "name": "My Ly"
+        }
+      ]
+    },
+    {
+      "name": "Austria",
+      "seed": 11,
+      "sourceTeamId": "5",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Austria",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "7",
+          "name": "Franziska Derka"
+        },
+        {
+          "number": "12",
+          "name": "Theresa Grossmann"
+        },
+        {
+          "number": "16",
+          "name": "Philippa Podstatzky"
+        },
+        {
+          "number": "21",
+          "name": "Isabella Häfner"
+        },
+        {
+          "number": "26",
+          "name": "Flora Jöbstl"
+        },
+        {
+          "number": "28",
+          "name": "Livia Justich"
+        },
+        {
+          "number": "29",
+          "name": "Larissa Mooshammer"
+        },
+        {
+          "number": "30",
+          "name": "Daria Scheruga"
+        },
+        {
+          "number": "33",
+          "name": "Johanna Dorr"
+        },
+        {
+          "number": "36",
+          "name": "Ella Höfinger"
+        },
+        {
+          "number": "37",
+          "name": "Johanna Roy"
+        },
+        {
+          "number": "45",
+          "name": "Sophia Plank"
+        },
+        {
+          "number": "52",
+          "name": "Lea Simon"
+        },
+        {
+          "number": "68",
+          "name": "Teresa Rauch"
+        },
+        {
+          "number": "70",
+          "name": "Stefanie Krivda"
+        },
+        {
+          "number": "73",
+          "name": "Sophia Gstirner"
+        },
+        {
+          "number": "82",
+          "name": "Mia Meister"
+        },
+        {
+          "number": "84",
+          "name": "Julia Frischmann"
+        },
+        {
+          "number": "90",
+          "name": "Leni Meister"
+        },
+        {
+          "number": "98",
+          "name": "Franziska Baur"
+        }
+      ]
+    },
+    {
+      "name": "Canada",
+      "seed": 4,
+      "sourceTeamId": "50",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Canada",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "2",
+          "name": "Emma Beaulieu"
+        },
+        {
+          "number": "5",
+          "name": "Tiffany Zhang"
+        },
+        {
+          "number": "7",
+          "name": "Grace Liu"
+        },
+        {
+          "number": "9",
+          "name": "Lauren Szeto-Fung"
+        },
+        {
+          "number": "11",
+          "name": "Ericka Edgell"
+        },
+        {
+          "number": "12",
+          "name": "Abba Brudney"
+        },
+        {
+          "number": "13",
+          "name": "Nikki Gobert"
+        },
+        {
+          "number": "15",
+          "name": "Emilie Beausoleil"
+        },
+        {
+          "number": "17",
+          "name": "Emily Cho"
+        },
+        {
+          "number": "19",
+          "name": "Mandy Li"
+        },
+        {
+          "number": "21",
+          "name": "Lilianne Shannon"
+        },
+        {
+          "number": "22",
+          "name": "Millie Wright"
+        },
+        {
+          "number": "23",
+          "name": "Valerie Lyonnais"
+        },
+        {
+          "number": "30",
+          "name": "Monica Wang"
+        },
+        {
+          "number": "34",
+          "name": "Madoka Wowk"
+        },
+        {
+          "number": "35",
+          "name": "Amelie Marshall"
+        },
+        {
+          "number": "36",
+          "name": "Bryelle Wong"
+        },
+        {
+          "number": "38",
+          "name": "Sophie Lyonnais"
+        },
+        {
+          "number": "39",
+          "name": "Emma Urness"
+        },
+        {
+          "number": "40",
+          "name": "Brooklyn Cheer"
+        },
+        {
+          "number": "66",
+          "name": "Georgia Cameron"
+        },
+        {
+          "number": "73",
+          "name": "Jamie Jung"
+        },
+        {
+          "number": "80",
+          "name": "Léa Morneau"
+        },
+        {
+          "number": "88",
+          "name": "Nina Heloir"
+        }
+      ]
+    },
+    {
+      "name": "Colombia",
+      "seed": 8,
+      "sourceTeamId": "11",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Colombia",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "4",
+          "name": "MARÍA ANGÉLICA BOHORQUEZ"
+        },
+        {
+          "number": "6",
+          "name": "ANDREA BUSTAMANTE"
+        },
+        {
+          "number": "11",
+          "name": "ANTONIA GRISALES"
+        },
+        {
+          "number": "12",
+          "name": "JESSICA MORALES"
+        },
+        {
+          "number": "17",
+          "name": "LAURA TABORDA"
+        },
+        {
+          "number": "18",
+          "name": "SOFIA MARIN"
+        },
+        {
+          "number": "21",
+          "name": "CATALINA CRUZ"
+        },
+        {
+          "number": "22",
+          "name": "SOFIA  ECHEVERRY"
+        },
+        {
+          "number": "23",
+          "name": "MARIANA LOPEZ"
+        },
+        {
+          "number": "24",
+          "name": "Laura Dueñas"
+        },
+        {
+          "number": "26",
+          "name": "MARIA PAULA LLANOS"
+        },
+        {
+          "number": "27",
+          "name": "VALERIA MORENO MARTINEZ"
+        },
+        {
+          "number": "28",
+          "name": "JUANA CARVAJAL"
+        },
+        {
+          "number": "31",
+          "name": "MARIA SUSANA VASQUEZ"
+        },
+        {
+          "number": "32",
+          "name": "SOFIA BETANCOURT"
+        },
+        {
+          "number": "41",
+          "name": "ANA MARIA ZAMBRANO"
+        },
+        {
+          "number": "44",
+          "name": "SALOME ATEHORTUA"
+        },
+        {
+          "number": "50",
+          "name": "LAURA ZAMBRANO"
+        },
+        {
+          "number": "97",
+          "name": "MARIABELEN RESTREPO CASTRO"
+        }
+      ]
+    },
+    {
+      "name": "Spain",
+      "seed": 12,
+      "sourceTeamId": "44",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Spain",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Mónica Organero"
+        },
+        {
+          "number": "1",
+          "name": "Carla  Weitkamp G."
+        },
+        {
+          "number": "3",
+          "name": "Mariona Trullàs Serra"
+        },
+        {
+          "number": "4",
+          "name": "Carla  Martín López"
+        },
+        {
+          "number": "5",
+          "name": "Olaya  Barcelona"
+        },
+        {
+          "number": "7",
+          "name": "Isabel Alonso"
+        },
+        {
+          "number": "8",
+          "name": "Angela Pērez Pērez"
+        },
+        {
+          "number": "10",
+          "name": "Julieta Ramirez Soldado"
+        },
+        {
+          "number": "14",
+          "name": "Angie  Toledo"
+        },
+        {
+          "number": "15",
+          "name": "Nerea García"
+        },
+        {
+          "number": "16",
+          "name": "Cristina Marcos"
+        },
+        {
+          "number": "20",
+          "name": "Nora Garrell"
+        },
+        {
+          "number": "21",
+          "name": "Júlia  Bieg"
+        },
+        {
+          "number": "22",
+          "name": "María  Lara"
+        },
+        {
+          "number": "25",
+          "name": "Laia  Tió"
+        },
+        {
+          "number": "30",
+          "name": "Trini Manoslava"
+        },
+        {
+          "number": "33",
+          "name": "María  Gómez"
+        },
+        {
+          "number": "37",
+          "name": "Edēn Santana Gonzalez-Mohino"
+        },
+        {
+          "number": "39",
+          "name": "Leire Millán"
+        },
+        {
+          "number": "74",
+          "name": "Josefina Calsamiglia Garcia"
+        },
+        {
+          "number": "93",
+          "name": "Clàudia Bernabé"
+        }
+      ]
+    },
+    {
+      "name": "Great Britain",
+      "seed": 6,
+      "sourceTeamId": "16",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Great Britain",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "2",
+          "name": "Frances Mak"
+        },
+        {
+          "number": "5",
+          "name": "Arwen Zhang"
+        },
+        {
+          "number": "7",
+          "name": "Naomi Bond"
+        },
+        {
+          "number": "8",
+          "name": "Marissa Choong"
+        },
+        {
+          "number": "9",
+          "name": "Cat Johnson"
+        },
+        {
+          "number": "10",
+          "name": "Sophie Chowgule"
+        },
+        {
+          "number": "11",
+          "name": "Emma Chambers"
+        },
+        {
+          "number": "12",
+          "name": "Sophie Wilson"
+        },
+        {
+          "number": "15",
+          "name": "Alex Niouma"
+        },
+        {
+          "number": "16",
+          "name": "Ellen Johnson"
+        },
+        {
+          "number": "17",
+          "name": "Keeva Morrell"
+        },
+        {
+          "number": "21",
+          "name": "Lottie Woolf"
+        },
+        {
+          "number": "22",
+          "name": "Madeleine Leong"
+        },
+        {
+          "number": "23",
+          "name": "Sophie Harris"
+        },
+        {
+          "number": "25",
+          "name": "Carmelle Ellis"
+        },
+        {
+          "number": "26",
+          "name": "Emily Hill"
+        },
+        {
+          "number": "27",
+          "name": "Leo Burton"
+        },
+        {
+          "number": "32",
+          "name": "Rachel Thompson"
+        },
+        {
+          "number": "36",
+          "name": "Emily Stewart"
+        },
+        {
+          "number": "49",
+          "name": "Rosie Coward"
+        },
+        {
+          "number": "52",
+          "name": "Beatrix Towers"
+        },
+        {
+          "number": "71",
+          "name": "Lucy Peevers"
+        },
+        {
+          "number": "72",
+          "name": "Hannah Quinn"
+        },
+        {
+          "number": "80",
+          "name": "Hannah Darlami"
+        },
+        {
+          "number": "95",
+          "name": "Ailsa Cameron"
+        }
+      ]
+    },
+    {
+      "name": "Germany",
+      "seed": 3,
+      "sourceTeamId": "19",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Germany",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "5",
+          "name": "Luisa Naumann"
+        },
+        {
+          "number": "7",
+          "name": "Leona Albinger"
+        },
+        {
+          "number": "8",
+          "name": "Josefa Kasper"
+        },
+        {
+          "number": "11",
+          "name": "Melanie Wolfangel"
+        },
+        {
+          "number": "12",
+          "name": "Charlotte Göpfert"
+        },
+        {
+          "number": "14",
+          "name": "Paula Wagner"
+        },
+        {
+          "number": "19",
+          "name": "Lilli Heßling"
+        },
+        {
+          "number": "20",
+          "name": "Lena Winter"
+        },
+        {
+          "number": "26",
+          "name": "Paulina Getzlaff"
+        },
+        {
+          "number": "27",
+          "name": "Hanna Godehardt"
+        },
+        {
+          "number": "32",
+          "name": "Emily Wiebers"
+        },
+        {
+          "number": "47",
+          "name": "Hanna-Lisette Sontag"
+        },
+        {
+          "number": "53",
+          "name": "Mia Blood-Schiffers"
+        },
+        {
+          "number": "57",
+          "name": "Lena Sandig"
+        },
+        {
+          "number": "63",
+          "name": "Pauline Boss"
+        },
+        {
+          "number": "65",
+          "name": "Eva Stoffels"
+        },
+        {
+          "number": "76",
+          "name": "Sandy Spiegel"
+        },
+        {
+          "number": "77",
+          "name": "Isabell Wolf"
+        },
+        {
+          "number": "84",
+          "name": "Wunna Schultz-Wild"
+        },
+        {
+          "number": "90",
+          "name": "Emily Bolduan"
+        },
+        {
+          "number": "97",
+          "name": "Marta Orzechowski"
+        }
+      ]
+    },
+    {
+      "name": "Italy",
+      "seed": 7,
+      "sourceTeamId": "26",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Italy",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "2",
+          "name": "Brugnoli Teresa"
+        },
+        {
+          "number": "4",
+          "name": "Degli Stefani Marta"
+        },
+        {
+          "number": "8",
+          "name": "Caterina Pavarini"
+        },
+        {
+          "number": "11",
+          "name": "Martinini Asia"
+        },
+        {
+          "number": "13",
+          "name": "Nicotra Margherita"
+        },
+        {
+          "number": "14",
+          "name": "Baiocchi Nicole"
+        },
+        {
+          "number": "17",
+          "name": "Giovannini Margherita"
+        },
+        {
+          "number": "21",
+          "name": "Giulia Merli"
+        },
+        {
+          "number": "22",
+          "name": "Di Lauro Beatrice"
+        },
+        {
+          "number": "24",
+          "name": "Grossi Lucrezia"
+        },
+        {
+          "number": "25",
+          "name": "Cosentino Agnese"
+        },
+        {
+          "number": "27",
+          "name": "Suriano Giorgia"
+        },
+        {
+          "number": "30",
+          "name": "Fayed Sarah Karim"
+        },
+        {
+          "number": "35",
+          "name": "Bartoli Martina"
+        },
+        {
+          "number": "44",
+          "name": "Bisceglia Marilina"
+        },
+        {
+          "number": "48",
+          "name": "Passini Anna"
+        },
+        {
+          "number": "73",
+          "name": "Negroni Lucia"
+        },
+        {
+          "number": "85",
+          "name": "Giordani Irene"
+        },
+        {
+          "number": "93",
+          "name": "Pivetta Alessandra"
+        },
+        {
+          "number": "99",
+          "name": "Aidonis Maria"
+        }
+      ]
+    },
+    {
+      "name": "Japan",
+      "seed": 2,
+      "sourceTeamId": "29",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Japan",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "1",
+          "name": "Mana Horiguchi"
+        },
+        {
+          "number": "2",
+          "name": "Kanna Sogabe"
+        },
+        {
+          "number": "3",
+          "name": "Kasumi Nasu"
+        },
+        {
+          "number": "4",
+          "name": "Aoi Okada"
+        },
+        {
+          "number": "5",
+          "name": "Aya Hinago"
+        },
+        {
+          "number": "6",
+          "name": "Ikuho Yoshida"
+        },
+        {
+          "number": "7",
+          "name": "Mai Ishikawa"
+        },
+        {
+          "number": "8",
+          "name": "Ikumi Kishida"
+        },
+        {
+          "number": "10",
+          "name": "Yuriko Toyoshima"
+        },
+        {
+          "number": "12",
+          "name": "Nozomi Ikeda"
+        },
+        {
+          "number": "14",
+          "name": "Yui Aiki"
+        },
+        {
+          "number": "16",
+          "name": "Toa Nakao"
+        },
+        {
+          "number": "17",
+          "name": "Anna Yamakawa"
+        },
+        {
+          "number": "21",
+          "name": "Minaho Shimada"
+        },
+        {
+          "number": "29",
+          "name": "Hana Michijima"
+        },
+        {
+          "number": "31",
+          "name": "Mai Hirano"
+        },
+        {
+          "number": "33",
+          "name": "Riyu Shimizu"
+        },
+        {
+          "number": "38",
+          "name": "Kurumi Kakuda"
+        },
+        {
+          "number": "50",
+          "name": "Saki Shibata"
+        },
+        {
+          "number": "71",
+          "name": "Kou Ikegami"
+        },
+        {
+          "number": "77",
+          "name": "Nanase Kato"
+        },
+        {
+          "number": "87",
+          "name": "Haruna Matsuoka"
+        },
+        {
+          "number": "89",
+          "name": "Hikari Hashizume"
+        },
+        {
+          "number": "90",
+          "name": "Ayuri Kawayanagi"
+        },
+        {
+          "number": "93",
+          "name": "Karen Kato"
+        },
+        {
+          "number": "99",
+          "name": "Kana Yoshida"
+        }
+      ]
+    },
+    {
+      "name": "New Zealand",
+      "seed": 13,
+      "sourceTeamId": "35",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "New Zealand",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Letycia Chang"
+        },
+        {
+          "number": "4",
+          "name": "Ai Nee Looi"
+        },
+        {
+          "number": "8",
+          "name": "Helena Cvitanovich"
+        },
+        {
+          "number": "10",
+          "name": "Alliah Jasmine Gulanes"
+        },
+        {
+          "number": "11",
+          "name": "Katherine Fulton"
+        },
+        {
+          "number": "12",
+          "name": "Ellen Sanders"
+        },
+        {
+          "number": "13",
+          "name": "Hannah McCall"
+        },
+        {
+          "number": "20",
+          "name": "Amy Slogrove"
+        },
+        {
+          "number": "21",
+          "name": "Grace Gan"
+        },
+        {
+          "number": "22",
+          "name": "Elise Matthews"
+        },
+        {
+          "number": "23",
+          "name": "Jessica Frost"
+        },
+        {
+          "number": "24",
+          "name": "Ocean Simard"
+        },
+        {
+          "number": "30",
+          "name": "Rebecca Liddell"
+        },
+        {
+          "number": "31",
+          "name": "Lily-Belle Sawyer"
+        },
+        {
+          "number": "34",
+          "name": "Catrin Ogilvie"
+        },
+        {
+          "number": "38",
+          "name": "Tessa Swinson"
+        },
+        {
+          "number": "41",
+          "name": "Emily Stone"
+        },
+        {
+          "number": "73",
+          "name": "Jessica Cook"
+        },
+        {
+          "number": "84",
+          "name": "Zara Bowen"
+        }
+      ]
+    },
+    {
+      "name": "Philippines",
+      "seed": 9,
+      "sourceTeamId": "37",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Philippines",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "3",
+          "name": "Jeymi Katzen Adelaide Oliva"
+        },
+        {
+          "number": "5",
+          "name": "Denielle Ann Manansala"
+        },
+        {
+          "number": "7",
+          "name": "Aaliyah Gutierrez"
+        },
+        {
+          "number": "8",
+          "name": "Jen Ranielle Santos"
+        },
+        {
+          "number": "11",
+          "name": "Liberty Pearl Lebuna"
+        },
+        {
+          "number": "12",
+          "name": "Nicole Isabel Amurao"
+        },
+        {
+          "number": "14",
+          "name": "Jamina Ursula Sadie"
+        },
+        {
+          "number": "21",
+          "name": "Mary Grace Larisca"
+        },
+        {
+          "number": "22",
+          "name": "Patricia Ma. Jose Fermin"
+        },
+        {
+          "number": "29",
+          "name": "Sophia Isabel Regino"
+        },
+        {
+          "number": "30",
+          "name": "Julienne Franz Untalan"
+        },
+        {
+          "number": "33",
+          "name": "Margarita Lucia Racho"
+        },
+        {
+          "number": "37",
+          "name": "Mikaela Juliana Torrevillas"
+        },
+        {
+          "number": "47",
+          "name": "Gaia Remigio"
+        },
+        {
+          "number": "82",
+          "name": "Vera Katherine Goyena"
+        },
+        {
+          "number": "88",
+          "name": "Camille Rebecca Cruz"
+        },
+        {
+          "number": "92",
+          "name": "Kezziah Nichole Absin"
+        },
+        {
+          "number": "99",
+          "name": "Zarina Gabrielle Bawalan"
+        }
+      ]
+    },
+    {
+      "name": "Singapore",
+      "seed": 10,
+      "sourceTeamId": "41",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Singapore",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "2",
+          "name": "En Tong Lim"
+        },
+        {
+          "number": "3",
+          "name": "Chloe Lim Ee Shuang"
+        },
+        {
+          "number": "5",
+          "name": "Kelly Tan Shu Min"
+        },
+        {
+          "number": "6",
+          "name": "Felicia Lau Yarn Yarn"
+        },
+        {
+          "number": "7",
+          "name": "Shannon Ng Xuan Ning"
+        },
+        {
+          "number": "8",
+          "name": "Liu Ying Chua"
+        },
+        {
+          "number": "9",
+          "name": "Nurul Amanda Binte Ali"
+        },
+        {
+          "number": "11",
+          "name": "´╗┐Shi Jia Lai"
+        },
+        {
+          "number": "13",
+          "name": "Yu Xi Huang"
+        },
+        {
+          "number": "14",
+          "name": "Kristel Koh Xiulin"
+        },
+        {
+          "number": "17",
+          "name": "Kaylee Chang Yee Hsuan"
+        },
+        {
+          "number": "18",
+          "name": "Yiyin Cao"
+        },
+        {
+          "number": "21",
+          "name": "Maya Elisha  binte Azrin Shah"
+        },
+        {
+          "number": "24",
+          "name": "Megan Cheah Shi Qi"
+        },
+        {
+          "number": "26",
+          "name": "Siang Yee Lim"
+        },
+        {
+          "number": "27",
+          "name": "May Phu Pwint"
+        },
+        {
+          "number": "34",
+          "name": "Yu Qian Koh"
+        },
+        {
+          "number": "42",
+          "name": "Priscilla Lim Yu Min"
+        },
+        {
+          "number": "71",
+          "name": "Tania Teo Rui'En"
+        },
+        {
+          "number": "76",
+          "name": "Zayn Tan Huai Ying"
+        },
+        {
+          "number": "81",
+          "name": "Wei Qiang"
+        },
+        {
+          "number": "88",
+          "name": "Tiffany Lee Qian"
+        },
+        {
+          "number": "95",
+          "name": "Vera Yong Qi Zhen"
+        },
+        {
+          "number": "98",
+          "name": "Nicole Ong Qian Hui"
+        }
+      ]
+    },
+    {
+      "name": "United States of America",
+      "seed": 1,
+      "sourceTeamId": "48",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "United States of America",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "2",
+          "name": "Emily Kemp"
+        },
+        {
+          "number": "3",
+          "name": "Faye Burdick"
+        },
+        {
+          "number": "4",
+          "name": "Lily Terpstra"
+        },
+        {
+          "number": "5",
+          "name": "Lauren Goddu"
+        },
+        {
+          "number": "6",
+          "name": "Ella Widmyer"
+        },
+        {
+          "number": "7",
+          "name": "Kelly Tam"
+        },
+        {
+          "number": "8",
+          "name": "Clil Phillips"
+        },
+        {
+          "number": "9",
+          "name": "Syris Linkfield"
+        },
+        {
+          "number": "11",
+          "name": "Sophie Harvey"
+        },
+        {
+          "number": "12",
+          "name": "Kyliah McRoy"
+        },
+        {
+          "number": "13",
+          "name": "ZsaZsa Gelfand"
+        },
+        {
+          "number": "14",
+          "name": "Devin Quinn"
+        },
+        {
+          "number": "15",
+          "name": "Ella Bolan"
+        },
+        {
+          "number": "16",
+          "name": "Milo Brown"
+        },
+        {
+          "number": "17",
+          "name": "Chagall Gelfand"
+        },
+        {
+          "number": "18",
+          "name": "Eugenia Garza"
+        },
+        {
+          "number": "19",
+          "name": "Grace Maroon"
+        },
+        {
+          "number": "22",
+          "name": "Jolie Krebs"
+        },
+        {
+          "number": "24",
+          "name": "Sarah Combs"
+        },
+        {
+          "number": "28",
+          "name": "Acacia Hahn"
+        },
+        {
+          "number": "50",
+          "name": "Jocelyn Sun"
+        },
+        {
+          "number": "72",
+          "name": "Trout Weybright"
+        },
+        {
+          "number": "77",
+          "name": "Emma Williamson"
+        },
+        {
+          "number": "99",
+          "name": "Lia Schwartz"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pools",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Australia",
+              "team2": "Philippines",
+              "score1": 15,
+              "score2": 3,
+              "datetime": "2025-06-22T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "United States of America",
+              "team2": "Colombia",
+              "score1": 15,
+              "score2": 5,
+              "datetime": "2025-06-22T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Germany",
+              "team2": "Austria",
+              "score1": 4,
+              "score2": 15,
+              "datetime": "2025-06-22T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "United States of America",
+              "team2": "Australia",
+              "score1": 15,
+              "score2": 1,
+              "datetime": "2025-06-23T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Colombia",
+              "team2": "Austria",
+              "score1": 12,
+              "score2": 13,
+              "datetime": "2025-06-23T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Germany",
+              "team2": "Philippines",
+              "score1": 11,
+              "score2": 8,
+              "datetime": "2025-06-23T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Colombia",
+              "team2": "Philippines",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2025-06-23T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Germany",
+              "team2": "Australia",
+              "score1": 5,
+              "score2": 15,
+              "datetime": "2025-06-23T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "United States of America",
+              "team2": "Austria",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2025-06-23T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Australia",
+              "team2": "Colombia",
+              "score1": 9,
+              "score2": 13,
+              "datetime": "2025-06-24T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Philippines",
+              "team2": "Austria",
+              "score1": 8,
+              "score2": 15,
+              "datetime": "2025-06-24T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "United States of America",
+              "team2": "Germany",
+              "score1": 15,
+              "score2": 1,
+              "datetime": "2025-06-24T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "United States of America",
+              "team2": "Philippines",
+              "score1": 15,
+              "score2": 0,
+              "datetime": "2025-06-25T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Germany",
+              "team2": "Colombia",
+              "score1": 4,
+              "score2": 12,
+              "datetime": "2025-06-25T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Australia",
+              "team2": "Austria",
+              "score1": 6,
+              "score2": 13,
+              "datetime": "2025-06-25T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool B",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Canada",
+              "team2": "Italy",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2025-06-22T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Japan",
+              "team2": "Great Britain",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2025-06-22T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Singapore",
+              "team2": "Spain",
+              "score1": 15,
+              "score2": 1,
+              "datetime": "2025-06-22T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Italy",
+              "team2": "Spain",
+              "score1": 15,
+              "score2": 1,
+              "datetime": "2025-06-22T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Singapore",
+              "team2": "New Zealand",
+              "score1": 15,
+              "score2": 13,
+              "datetime": "2025-06-22T18:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Japan",
+              "team2": "New Zealand",
+              "score1": 15,
+              "score2": 3,
+              "datetime": "2025-06-23T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Italy",
+              "team2": "Singapore",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2025-06-23T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Canada",
+              "team2": "Great Britain",
+              "score1": 15,
+              "score2": 11,
+              "datetime": "2025-06-23T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Canada",
+              "team2": "Spain",
+              "score1": 15,
+              "score2": 0,
+              "datetime": "2025-06-23T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Japan",
+              "team2": "Singapore",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2025-06-23T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Great Britain",
+              "team2": "New Zealand",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2025-06-23T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Japan",
+              "team2": "Spain",
+              "score1": 15,
+              "score2": 0,
+              "datetime": "2025-06-24T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Great Britain",
+              "team2": "Italy",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2025-06-24T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Canada",
+              "team2": "Singapore",
+              "score1": 15,
+              "score2": 3,
+              "datetime": "2025-06-24T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Italy",
+              "team2": "New Zealand",
+              "score1": 14,
+              "score2": 11,
+              "datetime": "2025-06-24T15:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Japan",
+              "team2": "Canada",
+              "score1": 13,
+              "score2": 14,
+              "datetime": "2025-06-24T15:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Great Britain",
+              "team2": "Spain",
+              "score1": 15,
+              "score2": 1,
+              "datetime": "2025-06-24T15:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Spain",
+              "team2": "New Zealand",
+              "score1": 4,
+              "score2": 15,
+              "datetime": "2025-06-25T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Japan",
+              "team2": "Italy",
+              "score1": 15,
+              "score2": 2,
+              "datetime": "2025-06-25T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Great Britain",
+              "team2": "Singapore",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2025-06-25T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Canada",
+              "team2": "New Zealand",
+              "score1": 15,
+              "score2": 6,
+              "datetime": "2025-06-25T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool C",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "United States of America",
+              "team2": "Japan",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2025-06-26T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Colombia",
+              "team2": "Italy",
+              "score1": 13,
+              "score2": 12,
+              "datetime": "2025-06-26T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Japan",
+              "team2": "Colombia",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2025-06-26T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "United States of America",
+              "team2": "Italy",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2025-06-26T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool D",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Canada",
+              "team2": "Austria",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2025-06-26T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Great Britain",
+              "team2": "Australia",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2025-06-26T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Austria",
+              "team2": "Great Britain",
+              "score1": 8,
+              "score2": 15,
+              "datetime": "2025-06-26T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Canada",
+              "team2": "Australia",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2025-06-26T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool E (9-13)",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Germany",
+              "team2": "Singapore",
+              "score1": 6,
+              "score2": 15,
+              "datetime": "2025-06-26T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "New Zealand",
+              "team2": "Philippines",
+              "score1": 15,
+              "score2": 5,
+              "datetime": "2025-06-26T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Philippines",
+              "team2": "Spain",
+              "score1": 15,
+              "score2": 6,
+              "datetime": "2025-06-26T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Germany",
+              "team2": "New Zealand",
+              "score1": 9,
+              "score2": 15,
+              "datetime": "2025-06-26T15:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Singapore",
+              "team2": "Spain",
+              "score1": 15,
+              "score2": 3,
+              "datetime": "2025-06-26T17:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Singapore",
+              "team2": "Philippines",
+              "score1": 15,
+              "score2": 1,
+              "datetime": "2025-06-27T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "New Zealand",
+              "team2": "Spain",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2025-06-27T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Germany",
+              "team2": "Philippines",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2025-06-27T14:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Singapore",
+              "team2": "New Zealand",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2025-06-27T16:30:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Germany",
+              "team2": "Spain",
+              "score1": 15,
+              "score2": 2,
+              "datetime": "2025-06-27T18:30:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Brackets",
+      "groups": [
+        {
+          "name": "Playoff (1-4)",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Canada",
+              "team2": "Japan",
+              "score1": 12,
+              "score2": 13,
+              "datetime": "2025-06-27T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "United States of America",
+              "team2": "Great Britain",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2025-06-27T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Great Britain",
+              "team2": "Canada",
+              "score1": 15,
+              "score2": 11,
+              "datetime": "2025-06-27T16:30:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "United States of America",
+              "team2": "Japan",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2025-06-28T14:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Playoff (5-8)",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Colombia",
+              "team2": "Australia",
+              "score1": 14,
+              "score2": 15,
+              "datetime": "2025-06-27T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Italy",
+              "team2": "Austria",
+              "score1": 13,
+              "score2": 15,
+              "datetime": "2025-06-27T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Australia",
+              "team2": "Austria",
+              "score1": 13,
+              "score2": 15,
+              "datetime": "2025-06-27T16:30:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Colombia",
+              "team2": "Italy",
+              "score1": 8,
+              "score2": 15,
+              "datetime": "2025-06-27T18:30:00Z",
+              "round": "Finals",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

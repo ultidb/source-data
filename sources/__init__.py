@@ -16,7 +16,9 @@ from core.registry import register
 from sources.example.source import ExampleSource
 from sources.usau.source import UsauSource
 from sources.wfdf.source import WfdfSource
+from sources.wfdf_legacy.source import WfdfLegacySource
 
 register(ExampleSource())
 register(UsauSource())
 register(WfdfSource())
+register(WfdfLegacySource())

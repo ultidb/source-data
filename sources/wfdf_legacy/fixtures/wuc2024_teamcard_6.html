@@ -1,0 +1,470 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+		<html xmlns='http://www.w3.org/1999/xhtml' xml:lang='en' lang='en'><head>
+		<meta http-equiv="Content-Style-Type" content="text/css"/>
+		<meta http-equiv="Content-Script-Type" content="text/javascript"/><meta http-equiv="Pragma" content="no-cache"/><meta http-equiv="Expires" content="-1"/><meta name='viewport' content='width=device-width, initial-scale=1.0'><link rel='icon' type='image/png' href='cust/wuc-2024/favicon.png' />
+		<title>Austria Open</title>
+		<link rel="stylesheet" href="cust/wuc-2024/layout.css?v=15" type="text/css" />
+		<link rel="stylesheet" href="cust/wuc-2024/font.css?v=15" type="text/css" />
+		<link rel="stylesheet" href="cust/wuc-2024/default.css?v=15" type="text/css" />
+<script type="text/javascript">
+<!--
+function checkAll(field)
+	{
+	var form = document.getElementById(field);
+		 
+		for (var i=1; i < form.elements.length; i++) 
+		{
+		 form.elements[i].checked = !form.elements[i].checked;
+		}
+	}
+
+function setId(id) 
+	{
+	var input = document.getElementById("hiddenDeleteId");
+	input.value = id;
+	}
+
+function changeseason(id){
+	var url = location.href;
+	
+	var param = "selseason";
+	var re = new RegExp("([?|&])" + param + "=.*?(&|$)","i");
+    if (url.match(re)){
+        url=url.replace(re,'$1' + param + "=" + id + '$2');
+    }else{
+        
+		if(location.href.search("view=") !=-1){
+			url = url + '&' + param + "=" + id;
+		}else{
+			url = url.substring(0,url.lastIndexOf('/'));
+			url = url + "/index.php?"+ param + "=" + id; 
+		}
+	}
+	location.href=url;
+}
+
+
+function changeseason2(id){
+	var url = location.href;
+	
+	var param = "selseason";
+
+  url = url.substring(0,url.lastIndexOf('/'));
+  //url = url + "/index.php?view=games&season=" + id + "&filter=today&group=all&"+ param + "=" + id; 
+  url = url + "/index.php?view=games&season=" + id + "&filter=tournaments&group=all&"+ param + "=" + id; 
+	location.href=url;
+}
+
+
+//-->
+</script>
+</head><body style='overflow-y:scroll;' >
+<div class='page'>
+<div class='page_top'>
+<div class='top_banner_space'></div>
+<form action='?view=teamcard&amp;team=6' method='post'><table border='0' cellpadding='0' cellspacing='0' style='width:100%;white-space: nowrap;'><tr>
+<td class='topheader_left'>
+<img class='menu_button' onclick='menu_toggle()' src='images/bars-solid.svg' alt='menu'><a href='https://www.wfdf.sport/' class='header_text' target='_blank'><img class='header_logo' style='width:auto;height:30px;margin: 10px 10px;' src='cust/wuc-2024/wfdf-logo.jpg' alt='WFDF'/></a>
+<a href='https://wuc2024.sport/' class='header_text' target='_blank'><img class='header_logo' style='width:auto;height:50px;margin: 0px 10px;' src='cust/wuc-2024/logo-small.png' alt='WUC 2024'/></a>
+</td><td class='topheader_right'><table border='0' cellpadding='0' cellspacing='0' style='width:95%;white-space: nowrap;'>
+<tr>
+<td class='right' style='padding-top:5px'>&nbsp;</td></tr>
+</table></td></tr></table></form>
+</div>
+<div class='navigation_bar'><p class='navigation_bar_text'><span style='color: grey;'>Nav. History: </span> Austria Open</p></div><div class='page_middle'>
+<table style='border:1px solid #fff;background-color: #ffffff;'><tr><td id='menu_left' class='menu_left'><table class='leftmenulinks'>
+<tr><td class='menuseasonlevel'><a class='seasonnav' style='text-align:center;' href='?view=teams&season=WUC2024&amp;list=bystandings'>WUC 2024</a></td></tr>
+<tr><td><a class='nav' href='?view=games&amp;season=WUC2024&amp;filter=tournaments&amp;group=all'>Games</a></td></tr>
+<tr><td><a class='nav' href='?view=teams&amp;season=WUC2024&amp;list=allteams'>Teams</a></td></tr>
+<tr><td class='menuseparator'></td></tr>
+<tr><td class='menuserieslevel'><a class='subnav' href='?view=seriesstatus&amp;series=2'>Open</a></td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=1'>&raquo; Pool A</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=2'>&raquo; Pool B</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=3'>&raquo; Pool C</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=4'>&raquo; Pool D</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=11'>&raquo; Pool E</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=12'>&raquo; Pool F</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=13'>&raquo; Pool G</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=14'>&raquo; Pool H</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=22'>&raquo; Crossover</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=24'>&raquo; Playoff (1-8)</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=25'>&raquo; Playoff (9-16)</a>
+</td></tr>
+<tr><td class='menupoollevel'><a class='navpoollink' href='?view=spiritstatus&amp;series=2'>Spirit Scores</a></td></tr>
+<tr><td class='menuserieslevel'><a class='subnav' href='?view=seriesstatus&amp;series=3'>Women&#039;s</a></td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=5'>&raquo; Pool A</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=6'>&raquo; Pool B</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=15'>&raquo; Pool C</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=16'>&raquo; Pool D</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=17'>&raquo; Pool E</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=23'>&raquo; Crossover</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=30'>&raquo; Playoff (1-4)</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=31'>&raquo; Playoff (5-8)</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=32'>&raquo; Playoff (9-12)</a>
+</td></tr>
+<tr><td class='menupoollevel'><a class='navpoollink' href='?view=spiritstatus&amp;series=3'>Spirit Scores</a></td></tr>
+<tr><td class='menuserieslevel'><a class='subnav' href='?view=seriesstatus&amp;series=1'>Mixed</a></td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=7'>&raquo; Pool A</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=8'>&raquo; Pool B</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=9'>&raquo; Pool C</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=10'>&raquo; Pool D</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=18'>&raquo; Pool E</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=19'>&raquo; Pool F</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=20'>&raquo; Pool G</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=21'>&raquo; Pool H</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=36'>&raquo; Playoff (1-8)</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=37'>&raquo; Playoff (9-16)</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=38'>&raquo; Pool J</a>
+</td></tr>
+<tr><td class='menupoollevel'><a class='navpoollink' href='?view=spiritstatus&amp;series=1'>Spirit Scores</a></td></tr>
+<tr><td class='menuserieslevel'><a class='subnav' href='?view=seriesstatus&amp;series=6'>Guts Open</a></td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=43'>&raquo; Pool A</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=45'>&raquo; Brackets GM1-3</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=46'>&raquo; Brackets GM4-5</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=49'>&raquo; Brackets GM6</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=50'>&raquo; Brackets GM7-8</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=48'>&raquo; Brackets GM9-10</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=51'>&raquo; Brackets GM11-12</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=52'>&raquo; Brackets GM13</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=53'>&raquo; Brackets GM14</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=54'>&raquo; Brackets GM15</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=55'>&raquo; Brackets GM16 (Final)</a>
+</td></tr>
+<tr><td class='menupoollevel'><a class='navpoollink' href='?view=spiritstatus&amp;series=6'>Spirit Scores</a></td></tr>
+<tr><td class='menuserieslevel'><a class='subnav' href='?view=seriesstatus&amp;series=7'>Guts Women&#039;s</a></td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=44'>&raquo; Pool A</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=47'>&raquo; Brackets GM1-2</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=56'>&raquo; Brackets GM3</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=57'>&raquo; Brackets GM4</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=58'>&raquo; Brackets GM5</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=59'>&raquo; Brackets GM6 (Final)</a>
+</td></tr>
+<tr><td class='menupoollevel'><a class='navpoollink' href='?view=spiritstatus&amp;series=7'>Spirit Scores</a></td></tr>
+</table>
+<table class='leftmenulinks'>
+<tr><td class='menuseasonlevel'>Event Links</td></tr>
+<tr><td></td></tr>
+<tr><td><a class='subnav' style='background: url(./images/linkicons/feed_14x14.png) no-repeat 0 50%; padding: 0 0 0 19px;' href='./ext/rss.php?feed=all'>Result Feed</a>
+</td></tr>
+</table>
+<table class='leftmenulinks'>
+<tr><td class='menuseasonlevel'>Statistics</td></tr>
+<tr><td><a class='subnav' href="?view=seasonlist">&raquo; Events</a>
+<a class='subnav' href="?view=allplayers">&raquo; Players</a>
+<a class='subnav' href="?view=allteams">&raquo; Teams</a>
+<a class='subnav' href="?view=allclubs">&raquo; Clubs</a>
+<a class='subnav' href="?view=allcountries">&raquo; Countries</a>
+<a class='subnav' href="?view=statistics&amp;list=teamstandings">&raquo; All time</a></td></tr>
+</table><table class='leftmenulinks'>
+<tr><td class='menuseasonlevel' width=20px></td><td class='menuseasonlevel'>Links</td><td class='menuseasonlevel' width=20px><a class='seasonnav hiddenlink' href='login'>&nbsp;</a></td></tr>
+<tr><td colspan='3'></td></tr>
+</table><table style='width:90%'>
+<tr><td class='guides'><a href='?view=user_guide'>User Guide</a> | 
+<a href='?view=privacy'>Privacy Policy</a>
+</td></tr></table></td>
+
+<td align='left' valign='top' class='tdcontent'><div class='content'>
+<h1>Austria Open (Open)</h1><p><img height='10' src='images/flags/tiny/Austria.png' alt=''/>&nbsp;<a class='headerlink' href='?view=countrycard&amp;country=1012'>Austria</a></p><p><span class='profileheader'>WUC 2024 roster:</span></p>
+<table style='width:80%'>
+<tr><th class='center' style='width:5%'>#</th>
+    <th style='width:35%'>Name</th>
+		<th class='center' style='width:15%'>Games</th>
+		<th class='center' style='width:15%'>Assists</th>
+		<th class='center' style='width:15%'>Goals</th>
+		<th class='center' style='width:15%'>Total</th></tr>
+<tr><td class='right' style='padding-right:1ex;'>3</td><td><a href='?view=playercard&amp;series=0&amp;player=114'>Jakob Dunshirn</a></td><td class='center'>9</td><td class='center'>12</td><td class='center'>7</td><td class='center'>19</td></tr>
+<tr><td class='right' style='padding-right:1ex;'>5</td><td><a href='?view=playercard&amp;series=0&amp;player=121'>Lorenz K&ouml;llbichler</a></td><td class='center'>10</td><td class='center'>5</td><td class='center'>1</td><td class='center'>6</td></tr>
+<tr><td class='right' style='padding-right:1ex;'>7</td><td><a href='?view=playercard&amp;series=0&amp;player=1244'>Eric Allmer</a></td><td class='center'>10</td><td class='center'>1</td><td class='center'>5</td><td class='center'>6</td></tr>
+<tr><td class='right' style='padding-right:1ex;'>8</td><td><a href='?view=playercard&amp;series=0&amp;player=1245'>Jakob Mory</a></td><td class='center'>10</td><td class='center'>3</td><td class='center'>2</td><td class='center'>5</td></tr>
+<tr><td class='right' style='padding-right:1ex;'>11</td><td><a href='?view=playercard&amp;series=0&amp;player=123'>Jan Nowak</a></td><td class='center'>10</td><td class='center'>11</td><td class='center'>3</td><td class='center'>14</td></tr>
+<tr><td class='right' style='padding-right:1ex;'>12</td><td><a href='?view=playercard&amp;series=0&amp;player=108'>Jonas Barth</a></td><td class='center'>10</td><td class='center'>7</td><td class='center'>8</td><td class='center'>15</td></tr>
+<tr><td class='right' style='padding-right:1ex;'>13</td><td><a href='?view=playercard&amp;series=0&amp;player=115'>Valentin Fischer</a></td><td class='center'>9</td><td class='center'>20</td><td class='center'>1</td><td class='center'>21</td></tr>
+<tr><td class='right' style='padding-right:1ex;'>17</td><td><a href='?view=playercard&amp;series=0&amp;player=109'>Florian Bayr</a></td><td class='center'>10</td><td class='center'>0</td><td class='center'>2</td><td class='center'>2</td></tr>
+<tr><td class='right' style='padding-right:1ex;'>18</td><td><a href='?view=playercard&amp;series=0&amp;player=110'>Jan Bobinec</a></td><td class='center'>10</td><td class='center'>6</td><td class='center'>1</td><td class='center'>7</td></tr>
+<tr><td class='right' style='padding-right:1ex;'>21</td><td><a href='?view=playercard&amp;series=0&amp;player=112'>Adrian Collantes</a></td><td class='center'>10</td><td class='center'>1</td><td class='center'>7</td><td class='center'>8</td></tr>
+<tr><td class='right' style='padding-right:1ex;'>23</td><td><a href='?view=playercard&amp;series=0&amp;player=113'>Valentin Deutsch-Baier</a></td><td class='center'>10</td><td class='center'>10</td><td class='center'>3</td><td class='center'>13</td></tr>
+<tr><td class='right' style='padding-right:1ex;'>27</td><td><a href='?view=playercard&amp;series=0&amp;player=111'>Jonathan Breitenthaler</a></td><td class='center'>10</td><td class='center'>1</td><td class='center'>12</td><td class='center'>13</td></tr>
+<tr><td class='right' style='padding-right:1ex;'>33</td><td><a href='?view=playercard&amp;series=0&amp;player=118'>Marius Hochmeier</a></td><td class='center'>10</td><td class='center'>2</td><td class='center'>9</td><td class='center'>11</td></tr>
+<tr><td class='right' style='padding-right:1ex;'>40</td><td><a href='?view=playercard&amp;series=0&amp;player=129'>Leon Dovits</a></td><td class='center'>1</td><td class='center'>0</td><td class='center'>0</td><td class='center'>0</td></tr>
+<tr><td class='right' style='padding-right:1ex;'>43</td><td><a href='?view=playercard&amp;series=0&amp;player=125'>Jakob Petz</a></td><td class='center'>10</td><td class='center'>2</td><td class='center'>3</td><td class='center'>5</td></tr>
+<tr><td class='right' style='padding-right:1ex;'>44</td><td><a href='?view=playercard&amp;series=0&amp;player=120'>Clemens Kogard</a></td><td class='center'>10</td><td class='center'>4</td><td class='center'>2</td><td class='center'>6</td></tr>
+<tr><td class='right' style='padding-right:1ex;'>46</td><td><a href='?view=playercard&amp;series=0&amp;player=124'>Raphael Panic</a></td><td class='center'>10</td><td class='center'>2</td><td class='center'>2</td><td class='center'>4</td></tr>
+<tr><td class='right' style='padding-right:1ex;'>49</td><td><a href='?view=playercard&amp;series=0&amp;player=119'>Sven Kleinhapl</a></td><td class='center'>10</td><td class='center'>8</td><td class='center'>16</td><td class='center'>24</td></tr>
+<tr><td class='right' style='padding-right:1ex;'>56</td><td><a href='?view=playercard&amp;series=0&amp;player=117'>Markus Hammerl</a></td><td class='center'>10</td><td class='center'>1</td><td class='center'>5</td><td class='center'>6</td></tr>
+<tr><td class='right' style='padding-right:1ex;'>63</td><td><a href='?view=playercard&amp;series=0&amp;player=122'>Jakob Kratky</a></td><td class='center'>10</td><td class='center'>3</td><td class='center'>5</td><td class='center'>8</td></tr>
+<tr><td class='right' style='padding-right:1ex;'>67</td><td><a href='?view=playercard&amp;series=0&amp;player=116'>Noah Haider</a></td><td class='center'>10</td><td class='center'>0</td><td class='center'>8</td><td class='center'>8</td></tr>
+<tr><td class='right' style='padding-right:1ex;'>72</td><td><a href='?view=playercard&amp;series=0&amp;player=126'>Paul Ressl</a></td><td class='center'>1</td><td class='center'>0</td><td class='center'>0</td><td class='center'>0</td></tr>
+<tr><td class='right' style='padding-right:1ex;'>77</td><td><a href='?view=playercard&amp;series=0&amp;player=1256'>Sebastian H&ouml;finger</a></td><td class='center'>9</td><td class='center'>2</td><td class='center'>3</td><td class='center'>5</td></tr>
+<tr><td class='right' style='padding-right:1ex;'>78</td><td><a href='?view=playercard&amp;series=0&amp;player=106'>Christoph Angetter</a></td><td class='center'>10</td><td class='center'>7</td><td class='center'>2</td><td class='center'>9</td></tr>
+<tr><td class='right' style='padding-right:1ex;'>87</td><td><a href='?view=playercard&amp;series=0&amp;player=107'>Constantin Angetter</a></td><td class='center'>10</td><td class='center'>4</td><td class='center'>1</td><td class='center'>5</td></tr>
+<tr><td class='right' style='padding-right:1ex;'>92</td><td><a href='?view=playercard&amp;series=0&amp;player=127'>Maximilian Schmied</a></td><td class='center'>10</td><td class='center'>2</td><td class='center'>6</td><td class='center'>8</td></tr>
+<tr><td class='right' style='padding-right:1ex;'>97</td><td><a href='?view=playercard&amp;series=0&amp;player=128'>Alexander Spahlholz</a></td><td class='center'>1</td><td class='center'>0</td><td class='center'>0</td><td class='center'>0</td></tr>
+</table>
+<h2>WUC 2024:</h2>
+<p>Division: <a href='?view=poolstatus&amp;series=2'>Open</a></p><table style='width:80%'>
+<tr style='width:100%'>
+<td style='width:100px;text-align:right;'><span>United States of America Open</span></td>
+<td style='width:16px;text-align:center;;font-weight:bold'><span>15</span>&nbsp;<span style='color: #aaaaaa;'>(11)</span></td>
+<td style='width:5px;text-align:center'><span>-</span></td>
+<td style='width:16px;text-align:center;;font-weight:bold'><span>7</span>&nbsp;<span style='color: #aaaaaa;'>(10)</span></td>
+<td style='width:100px;'><span>Austria Open</span></td>
+<td style='width:50px;'></td>
+<td style='width:30px;;white-space: nowrap;'></td>
+<td class='right' style='width:75px;'><span>&nbsp;<a href='?view=gameplay&amp;game=2'>Game play</a></span></td>
+</tr>
+<tr style='width:100%'>
+<td style='width:100px;text-align:right;'><span>Great Britain Open</span></td>
+<td style='width:16px;text-align:center;;font-weight:bold'><span>15</span>&nbsp;<span style='color: #aaaaaa;'>(9)</span></td>
+<td style='width:5px;text-align:center'><span>-</span></td>
+<td style='width:16px;text-align:center;;font-weight:bold'><span>9</span>&nbsp;<span style='color: #aaaaaa;'>(9)</span></td>
+<td style='width:100px;'><span>Austria Open</span></td>
+<td style='width:50px;'></td>
+<td style='width:30px;;white-space: nowrap;'></td>
+<td class='right' style='width:75px;'><span>&nbsp;<a href='?view=gameplay&amp;game=5'>Game play</a></span></td>
+</tr>
+<tr style='width:100%'>
+<td style='width:100px;text-align:right;'><span>Austria Open</span></td>
+<td style='width:16px;text-align:center;;font-weight:bold'><span>15</span>&nbsp;<span style='color: #aaaaaa;'>(9)</span></td>
+<td style='width:5px;text-align:center'><span>-</span></td>
+<td style='width:16px;text-align:center;;font-weight:bold'><span>3</span>&nbsp;<span style='color: #aaaaaa;'>(12)</span></td>
+<td style='width:100px;'><span>Hong Kong, China Open</span></td>
+<td style='width:50px;'></td>
+<td style='width:30px;;white-space: nowrap;'></td>
+<td class='right' style='width:75px;'><span>&nbsp;<a href='?view=gameplay&amp;game=6'>Game play</a></span></td>
+</tr>
+<tr style='width:100%'>
+<td style='width:100px;text-align:right;'><span>Austria Open</span></td>
+<td style='width:16px;text-align:center;;font-weight:bold'><span>15</span>&nbsp;<span style='color: #aaaaaa;'>(9)</span></td>
+<td style='width:5px;text-align:center'><span>-</span></td>
+<td style='width:16px;text-align:center;;font-weight:bold'><span>3</span>&nbsp;<span style='color: #aaaaaa;'>(10)</span></td>
+<td style='width:100px;'><span>People&#039;s Republic of China Open</span></td>
+<td style='width:50px;'></td>
+<td style='width:30px;;white-space: nowrap;'></td>
+<td class='right' style='width:75px;'><span>&nbsp;<a href='?view=gameplay&amp;game=120'>Game play</a></span></td>
+</tr>
+<tr style='width:100%'>
+<td style='width:100px;text-align:right;'><span>Austria Open</span></td>
+<td style='width:16px;text-align:center;;font-weight:bold'><span>12</span>&nbsp;<span style='color: #aaaaaa;'>(11)</span></td>
+<td style='width:5px;text-align:center'><span>-</span></td>
+<td style='width:16px;text-align:center;;font-weight:bold'><span>9</span>&nbsp;<span style='color: #aaaaaa;'>(11)</span></td>
+<td style='width:100px;'><span>Chinese Taipei Open</span></td>
+<td style='width:50px;'></td>
+<td style='width:30px;;white-space: nowrap;'></td>
+<td class='right' style='width:75px;'><span>&nbsp;<a href='?view=gameplay&amp;game=118'>Game play</a></span></td>
+</tr>
+<tr style='width:100%'>
+<td style='width:100px;text-align:right;'><span>Austria Open</span></td>
+<td style='width:16px;text-align:center;;font-weight:bold'><span>8</span>&nbsp;<span style='color: #aaaaaa;'>(13)</span></td>
+<td style='width:5px;text-align:center'><span>-</span></td>
+<td style='width:16px;text-align:center;;font-weight:bold'><span>15</span>&nbsp;<span style='color: #aaaaaa;'>(12)</span></td>
+<td style='width:100px;'><span>New Zealand Open</span></td>
+<td style='width:50px;'></td>
+<td style='width:30px;;white-space: nowrap;'></td>
+<td class='right' style='width:75px;'><span>&nbsp;<a href='?view=gameplay&amp;game=119'>Game play</a></span></td>
+</tr>
+<tr style='width:100%'>
+<td style='width:100px;text-align:right;'><span>Colombia Open</span></td>
+<td style='width:16px;text-align:center;;font-weight:bold'><span>15</span>&nbsp;<span style='color: #aaaaaa;'>(14)</span></td>
+<td style='width:5px;text-align:center'><span>-</span></td>
+<td style='width:16px;text-align:center;;font-weight:bold'><span>6</span>&nbsp;<span style='color: #aaaaaa;'>(10)</span></td>
+<td style='width:100px;'><span>Austria Open</span></td>
+<td style='width:50px;'><span>Game 1</span></td>
+<td style='width:30px;;white-space: nowrap;'></td>
+<td class='right' style='width:75px;'><span>&nbsp;<a href='?view=gameplay&amp;game=164'>Game play</a></span></td>
+</tr>
+<tr style='width:100%'>
+<td style='width:100px;text-align:right;'><span>Austria Open</span></td>
+<td style='width:16px;text-align:center;;font-weight:bold'><span>15</span>&nbsp;<span style='color: #aaaaaa;'>(11)</span></td>
+<td style='width:5px;text-align:center'><span>-</span></td>
+<td style='width:16px;text-align:center;;font-weight:bold'><span>9</span>&nbsp;<span style='color: #aaaaaa;'>(10)</span></td>
+<td style='width:100px;'><span>Singapore Open</span></td>
+<td style='width:50px;'><span>Game 11</span></td>
+<td style='width:30px;;white-space: nowrap;'></td>
+<td class='right' style='width:75px;'><span>&nbsp;<a href='?view=gameplay&amp;game=187'>Game play</a></span></td>
+</tr>
+<tr style='width:100%'>
+<td style='width:100px;text-align:right;'><span>France Open</span></td>
+<td style='width:16px;text-align:center;;font-weight:bold'><span>15</span>&nbsp;<span style='color: #aaaaaa;'>(10)</span></td>
+<td style='width:5px;text-align:center'><span>-</span></td>
+<td style='width:16px;text-align:center;;font-weight:bold'><span>13</span>&nbsp;<span style='color: #aaaaaa;'>(11)</span></td>
+<td style='width:100px;'><span>Austria Open</span></td>
+<td style='width:50px;'><span>Game 18</span></td>
+<td style='width:30px;;white-space: nowrap;'></td>
+<td class='right' style='width:75px;'><span>&nbsp;<a href='?view=gameplay&amp;game=189'>Game play</a></span></td>
+</tr>
+<tr style='width:100%'>
+<td style='width:100px;text-align:right;'><span>Italy Open</span></td>
+<td style='width:16px;text-align:center;;font-weight:bold'><span>15</span>&nbsp;<span style='color: #aaaaaa;'>(7)</span></td>
+<td style='width:5px;text-align:center'><span>-</span></td>
+<td style='width:16px;text-align:center;;font-weight:bold'><span>14</span>&nbsp;<span style='color: #aaaaaa;'>(8)</span></td>
+<td style='width:100px;'><span>Austria Open</span></td>
+<td style='width:50px;'><span>11th Place</span></td>
+<td style='width:30px;;white-space: nowrap;'></td>
+<td class='right' style='width:75px;'><span>&nbsp;<a href='?view=gameplay&amp;game=193'>Game play</a></span></td>
+</tr>
+</table>
+<h2>History:</h2>
+<table border='1' width='100%'><tr>
+	<th>Event type</th>
+	<th>Games</th>
+	<th>Wins</th>
+	<th>Losses</th>
+	<th>Win-%</th>
+	<th>Goals for</th>
+	<th>GF/game</th>
+	<th>Goals against</th>
+	<th>GA/game</th>
+	<th>Goal diff</th>
+	</tr><tr><td>outdoor</td><td>10</td><td>4</td><td>6</td><td>40.0 %</td><td>114</td><td>11.4</td><td>114</td><td>11.4</td><td>0</td></tr><tr class='highlight'><td>Total</td><td>10</td><td>4</td><td>6</td><td>40.0 %</td><td>114</td><td>11.4</td><td>114</td><td>11.4</td><td>0</td></tr></table><table border='1' cellspacing='0' width='100%'><tr>
+		<th>Event</th>
+		<th>Division</th>
+		<th>Pos.</th>
+		<th>Games</th>
+		<th>Wins</th>
+		<th>Losses</th>
+		<th>Win-%</th>
+		<th>Goals for</th>
+		<th>GF/game</th>
+		<th>Goals against</th>
+		<th>GA/game</th>
+		<th>Goal diff</th>
+		</tr><tr class='highlight'><td>WUC 2024</td><td>Open</td><td>12</td><td>10</td><td>4</td><td>6</td><td>40.0%</td><td>114</td><td>11.4</td><td>114</td><td>11.4</td><td>0</td></tr></table><p></p><h3>Spirit points received:</h3>
+<table width='100%' border='1'>
+<tr><th style='width: 18%'>Given by</th>
+    <th class='center' style='width: 7%'>Rules</th>
+    <th class='center' style='width: 7%'>Fouls</th>
+	  <th class='center' style='width: 7%'>Fair.</th>
+    <th class='center' style='width: 7%'>Attit.</th>
+    <th class='center' style='width: 7%'>Comm.</th>
+    <th class='center' style='width: 7%'>Total</th><th style='width: 40%'>Comments</th></tr>
+<td>United States of America Open</td><td class='center'>2</td><td class='center'>1</td><td class='center'>2</td><td class='center'>3</td><td class='center'>2</td><td class='center'><b>10</b></td><td></td></tr>
+<td>Great Britain Open</td><td class='center'>2</td><td class='center'>2</td><td class='center'>1</td><td class='center'>2</td><td class='center'>2</td><td class='center'><b>9</b></td><td></td></tr>
+<td>Hong Kong, China Open</td><td class='center'>2</td><td class='center'>1</td><td class='center'>2</td><td class='center'>2</td><td class='center'>2</td><td class='center'><b>9</b></td><td>Felt there was still too much pushing in the play and stepping into/onto feet in running lanes. Congratulations on the win, throws in the wind were too good </td></tr>
+<td>People&#039;s Republic of China Open</td><td class='center'>2</td><td class='center'>2</td><td class='center'>2</td><td class='center'>2</td><td class='center'>1</td><td class='center'><b>9</b></td><td>56#bad attitude .no line up. Unfriendly communication with us</td></tr>
+<td>Chinese Taipei Open</td><td class='center'>2</td><td class='center'>2</td><td class='center'>3</td><td class='center'>2</td><td class='center'>2</td><td class='center'><b>11</b></td><td></td></tr>
+<td>New Zealand Open</td><td class='center'>3</td><td class='center'>2</td><td class='center'>3</td><td class='center'>2</td><td class='center'>3</td><td class='center'><b>13</b></td><td></td></tr>
+<td>Colombia Open</td><td class='center'>2</td><td class='center'>2</td><td class='center'>2</td><td class='center'>2</td><td class='center'>2</td><td class='center'><b>10</b></td><td>Thanks for a great game Austria. We felt that you heard when we asked you to reduce the physicality, and you had a very good communication throughout the game. We encourage you to keep it up, and be careful with the dangerous plays (1). We also want to address the situation when your player wasn’t sure if he caught the goal (4-7). Maybe when in doubt, the player who’s not sure might ask to go to the video because no other player had a perspective. Best of lucks and thanks again!</td></tr>
+<td>Singapore Open</td><td class='center'>2</td><td class='center'>2</td><td class='center'>2</td><td class='center'>3</td><td class='center'>2</td><td class='center'><b>11</b></td><td></td></tr>
+<td>France Open</td><td class='center'>2</td><td class='center'>2</td><td class='center'>3</td><td class='center'>2</td><td class='center'>2</td><td class='center'><b>11</b></td><td>Some living examples of fair-mindedness when Austrian players were able to retract their call, following the guidance of the sideline, their own teammates or even after a moment of breathing, from themselves !
+Thanks again !</td></tr>
+<td>Italy Open</td><td class='center'>3</td><td class='center'>1</td><td class='center'>2</td><td class='center'>1</td><td class='center'>1</td><td class='center'><b>8</b></td><td></td></tr>
+</table><h3>Spirit points given to the other teams:</h3>
+<table width='100%' border='1'>
+<tr><th style='width: 18%'>Given for</th>
+    <th class='center' style='width: 7%'>Rules</th>
+    <th class='center' style='width: 7%'>Fouls</th>
+	  <th class='center' style='width: 7%'>Fair.</th>
+    <th class='center' style='width: 7%'>Attit.</th>
+    <th class='center' style='width: 7%'>Comm.</th>
+    <th class='center' style='width: 7%'>Total</th><th style='width: 40%'>Comments</th></tr>
+<td>United States of America Open</td><td class='center'>2</td><td class='center'>2</td><td class='center'>2</td><td class='center'>3</td><td class='center'>2</td><td class='center'><b>11</b></td><td></td></tr>
+<td>Great Britain Open</td><td class='center'>2</td><td class='center'>2</td><td class='center'>2</td><td class='center'>1</td><td class='center'>2</td><td class='center'><b>9</b></td><td></td></tr>
+<td>Hong Kong, China Open</td><td class='center'>2</td><td class='center'>2</td><td class='center'>3</td><td class='center'>3</td><td class='center'>2</td><td class='center'><b>12</b></td><td></td></tr>
+<td>People&#039;s Republic of China Open</td><td class='center'>2</td><td class='center'>2</td><td class='center'>1</td><td class='center'>3</td><td class='center'>2</td><td class='center'><b>10</b></td><td></td></tr>
+<td>Chinese Taipei Open</td><td class='center'>2</td><td class='center'>2</td><td class='center'>2</td><td class='center'>3</td><td class='center'>2</td><td class='center'><b>11</b></td><td></td></tr>
+<td>New Zealand Open</td><td class='center'>2</td><td class='center'>2</td><td class='center'>2</td><td class='center'>3</td><td class='center'>3</td><td class='center'><b>12</b></td><td></td></tr>
+<td>Colombia Open</td><td class='center'>2</td><td class='center'>2</td><td class='center'>4</td><td class='center'>3</td><td class='center'>3</td><td class='center'><b>14</b></td><td>It was very clear that they trusted us to make the right calls, communicated respectfully and informed teammates about wrong and unnecessary calls</td></tr>
+<td>Singapore Open</td><td class='center'>2</td><td class='center'>1</td><td class='center'>2</td><td class='center'>3</td><td class='center'>2</td><td class='center'><b>10</b></td><td></td></tr>
+<td>France Open</td><td class='center'>2</td><td class='center'>2</td><td class='center'>2</td><td class='center'>2</td><td class='center'>2</td><td class='center'><b>10</b></td><td>Positive Attitude was very good and deserving of a 3, however self control especially in reaction to calls is the reason for there only being a two.</td></tr>
+<td>Italy Open</td><td class='center'>1</td><td class='center'>2</td><td class='center'>1</td><td class='center'>2</td><td class='center'>1</td><td class='center'><b>7</b></td><td>Feedback given to the spirit captain after the game. We had the impression the team was split on spirit aspects of the game and a few players were trying to establish a better Spirit and communication in the team.</td></tr>
+</table>
+</div></td></tr></table></div>
+<script>function menu_toggle() {
+    var x = document.getElementById('menu_left');
+    if (x.style.display === 'block') {
+      x.style.display = 'none';
+    } else {
+      x.style.display = 'block';
+    }
+  }</script><div class='page_bottom'></div></div></body></html>

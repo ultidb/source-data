@@ -1,0 +1,940 @@
+{
+  "schemaVersion": "1.0",
+  "source": "wfdf-legacy",
+  "sourceEventId": "WU24-2023/Open",
+  "sourceUrl": "https://results.wfdf.sport/wu24-2023",
+  "scrapedAt": "2026-09-10T16:38:35.284507Z",
+  "event": {
+    "name": "WFDF World Under-24 Ultimate Championships 2023",
+    "division": "international-u24",
+    "gender": "open",
+    "season": 2023,
+    "city": "Nottingham",
+    "state": "England",
+    "country": "United Kingdom",
+    "startDate": "2023-07-02",
+    "endDate": "2023-07-08"
+  },
+  "teams": [
+    {
+      "name": "Australia",
+      "seed": 5,
+      "sourceTeamId": "1",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Australia",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Austria",
+      "seed": 11,
+      "sourceTeamId": "2",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Austria",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Belgium",
+      "seed": 7,
+      "sourceTeamId": "3",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Belgium",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Canada",
+      "seed": 2,
+      "sourceTeamId": "4",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Canada",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "People's Republic of China",
+      "seed": 15,
+      "sourceTeamId": "5",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "People's Republic of China",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Colombia",
+      "seed": 6,
+      "sourceTeamId": "6",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Colombia",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Great Britain",
+      "seed": 8,
+      "sourceTeamId": "7",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Great Britain",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Germany",
+      "seed": 9,
+      "sourceTeamId": "8",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Germany",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Ireland",
+      "seed": 10,
+      "sourceTeamId": "9",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Ireland",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Italy",
+      "seed": 3,
+      "sourceTeamId": "10",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Italy",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Japan",
+      "seed": 4,
+      "sourceTeamId": "11",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Japan",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Netherlands",
+      "seed": 13,
+      "sourceTeamId": "12",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Netherlands",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "New Zealand",
+      "seed": 12,
+      "sourceTeamId": "13",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "New Zealand",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "Singapore",
+      "seed": 14,
+      "sourceTeamId": "14",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Singapore",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": []
+    },
+    {
+      "name": "United States of America",
+      "seed": 1,
+      "sourceTeamId": "15",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "United States of America",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": []
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pools",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Colombia",
+              "team2": "Singapore",
+              "score1": 9,
+              "score2": 11,
+              "datetime": "2023-07-02T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Italy",
+              "team2": "Austria",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2023-07-02T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "United States of America",
+              "team2": "Germany",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2023-07-02T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "United States of America",
+              "team2": "Great Britain",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2023-07-02T17:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Colombia",
+              "team2": "Germany",
+              "score1": 10,
+              "score2": 15,
+              "datetime": "2023-07-03T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Italy",
+              "team2": "Singapore",
+              "score1": 15,
+              "score2": 6,
+              "datetime": "2023-07-03T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Austria",
+              "team2": "Singapore",
+              "score1": 11,
+              "score2": 10,
+              "datetime": "2023-07-03T17:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "United States of America",
+              "team2": "Colombia",
+              "score1": 15,
+              "score2": 6,
+              "datetime": "2023-07-03T17:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Great Britain",
+              "team2": "Germany",
+              "score1": 12,
+              "score2": 15,
+              "datetime": "2023-07-03T17:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Germany",
+              "team2": "Singapore",
+              "score1": 15,
+              "score2": 6,
+              "datetime": "2023-07-04T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Italy",
+              "team2": "Great Britain",
+              "score1": 15,
+              "score2": 11,
+              "datetime": "2023-07-04T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Colombia",
+              "team2": "Austria",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2023-07-04T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Great Britain",
+              "team2": "Austria",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2023-07-04T15:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Italy",
+              "team2": "Colombia",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2023-07-04T17:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "United States of America",
+              "team2": "Singapore",
+              "score1": 15,
+              "score2": 3,
+              "datetime": "2023-07-04T17:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Italy",
+              "team2": "Germany",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2023-07-05T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Great Britain",
+              "team2": "Singapore",
+              "score1": 15,
+              "score2": 4,
+              "datetime": "2023-07-05T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "United States of America",
+              "team2": "Austria",
+              "score1": 15,
+              "score2": 5,
+              "datetime": "2023-07-05T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "United States of America",
+              "team2": "Italy",
+              "score1": 15,
+              "score2": 2,
+              "datetime": "2023-07-05T17:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Colombia",
+              "team2": "Great Britain",
+              "score1": 11,
+              "score2": 15,
+              "datetime": "2023-07-05T17:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Germany",
+              "team2": "Austria",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2023-07-05T17:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool B",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Japan",
+              "team2": "New Zealand",
+              "score1": 14,
+              "score2": 13,
+              "datetime": "2023-07-02T17:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Australia",
+              "team2": "Netherlands",
+              "score1": 13,
+              "score2": 14,
+              "datetime": "2023-07-02T17:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Canada",
+              "team2": "Ireland",
+              "score1": 15,
+              "score2": 3,
+              "datetime": "2023-07-02T17:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Belgium",
+              "team2": "People's Republic of China",
+              "score1": 15,
+              "score2": 3,
+              "datetime": "2023-07-02T17:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "New Zealand",
+              "team2": "People's Republic of China",
+              "score1": 15,
+              "score2": 2,
+              "datetime": "2023-07-03T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Canada",
+              "team2": "Belgium",
+              "score1": 7,
+              "score2": 13,
+              "datetime": "2023-07-03T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Australia",
+              "team2": "Ireland",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2023-07-03T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Japan",
+              "team2": "Netherlands",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2023-07-03T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Canada",
+              "team2": "Australia",
+              "score1": 13,
+              "score2": 8,
+              "datetime": "2023-07-03T17:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Belgium",
+              "team2": "Ireland",
+              "score1": 15,
+              "score2": 2,
+              "datetime": "2023-07-03T17:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Japan",
+              "team2": "People's Republic of China",
+              "score1": 15,
+              "score2": 6,
+              "datetime": "2023-07-03T17:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "New Zealand",
+              "team2": "Netherlands",
+              "score1": 15,
+              "score2": 14,
+              "datetime": "2023-07-03T17:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Ireland",
+              "team2": "Netherlands",
+              "score1": 11,
+              "score2": 15,
+              "datetime": "2023-07-04T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Australia",
+              "team2": "New Zealand",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2023-07-04T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Japan",
+              "team2": "Belgium",
+              "score1": 12,
+              "score2": 13,
+              "datetime": "2023-07-04T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Canada",
+              "team2": "People's Republic of China",
+              "score1": 15,
+              "score2": 1,
+              "datetime": "2023-07-04T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Belgium",
+              "team2": "New Zealand",
+              "score1": 15,
+              "score2": 5,
+              "datetime": "2023-07-04T17:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Japan",
+              "team2": "Australia",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2023-07-04T17:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Canada",
+              "team2": "Netherlands",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2023-07-04T17:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Ireland",
+              "team2": "People's Republic of China",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2023-07-04T17:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Canada",
+              "team2": "New Zealand",
+              "score1": 15,
+              "score2": 11,
+              "datetime": "2023-07-05T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Japan",
+              "team2": "Ireland",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2023-07-05T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Belgium",
+              "team2": "Netherlands",
+              "score1": 15,
+              "score2": 5,
+              "datetime": "2023-07-05T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Australia",
+              "team2": "People's Republic of China",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2023-07-05T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Canada",
+              "team2": "Japan",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2023-07-05T17:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Netherlands",
+              "team2": "People's Republic of China",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2023-07-05T17:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Ireland",
+              "team2": "New Zealand",
+              "score1": 14,
+              "score2": 15,
+              "datetime": "2023-07-05T17:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Australia",
+              "team2": "Belgium",
+              "score1": 11,
+              "score2": 12,
+              "datetime": "2023-07-05T17:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool C (9-15)",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Colombia",
+              "team2": "Ireland",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2023-07-06T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Singapore",
+              "team2": "New Zealand",
+              "score1": 8,
+              "score2": 15,
+              "datetime": "2023-07-06T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Austria",
+              "team2": "People's Republic of China",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2023-07-06T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "New Zealand",
+              "team2": "Austria",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2023-07-06T17:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Netherlands",
+              "team2": "Colombia",
+              "score1": 13,
+              "score2": 15,
+              "datetime": "2023-07-06T17:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Singapore",
+              "team2": "People's Republic of China",
+              "score1": 15,
+              "score2": 6,
+              "datetime": "2023-07-06T17:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Colombia",
+              "team2": "People's Republic of China",
+              "score1": 15,
+              "score2": 5,
+              "datetime": "2023-07-07T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Singapore",
+              "team2": "Ireland",
+              "score1": 9,
+              "score2": 15,
+              "datetime": "2023-07-07T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Netherlands",
+              "team2": "Austria",
+              "score1": 14,
+              "score2": 13,
+              "datetime": "2023-07-07T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Singapore",
+              "team2": "Netherlands",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2023-07-07T17:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Colombia",
+              "team2": "New Zealand",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2023-07-07T17:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Austria",
+              "team2": "Ireland",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2023-07-07T17:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Brackets",
+      "groups": [
+        {
+          "name": "Bracket (1-8)",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "United States of America",
+              "team2": "Australia",
+              "score1": 15,
+              "score2": 6,
+              "datetime": "2023-07-06T15:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Canada",
+              "team2": "Germany",
+              "score1": 10,
+              "score2": 15,
+              "datetime": "2023-07-06T15:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Belgium",
+              "team2": "Great Britain",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2023-07-06T17:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Italy",
+              "team2": "Japan",
+              "score1": 14,
+              "score2": 13,
+              "datetime": "2023-07-06T17:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Australia",
+              "team2": "Canada",
+              "score1": 6,
+              "score2": 15,
+              "datetime": "2023-07-07T11:00:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Japan",
+              "team2": "Great Britain",
+              "score1": 15,
+              "score2": 13,
+              "datetime": "2023-07-07T11:00:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Italy",
+              "team2": "Belgium",
+              "score1": 12,
+              "score2": 15,
+              "datetime": "2023-07-07T13:00:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "United States of America",
+              "team2": "Germany",
+              "score1": 15,
+              "score2": 5,
+              "datetime": "2023-07-07T13:00:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Canada",
+              "team2": "Japan",
+              "score1": 13,
+              "score2": 15,
+              "datetime": "2023-07-07T15:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Australia",
+              "team2": "Great Britain",
+              "score1": 11,
+              "score2": 15,
+              "datetime": "2023-07-07T15:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Germany",
+              "team2": "Italy",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2023-07-07T17:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "United States of America",
+              "team2": "Belgium",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2023-07-08T14:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

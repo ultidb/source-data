@@ -1,0 +1,2520 @@
+{
+  "schemaVersion": "1.0",
+  "source": "wfdf-legacy",
+  "sourceEventId": "wu24-2025/Open",
+  "sourceUrl": "https://results.wfdf.sport/wu24",
+  "scrapedAt": "2026-09-10T16:20:08.037024Z",
+  "event": {
+    "name": "WFDF World Under-24 Ultimate Championships 2025",
+    "division": "international-u24",
+    "gender": "open",
+    "season": 2025,
+    "city": "Logroño",
+    "state": "",
+    "country": "Spain",
+    "startDate": "2025-06-22",
+    "endDate": "2025-06-28"
+  },
+  "teams": [
+    {
+      "name": "Australia",
+      "seed": 8,
+      "sourceTeamId": "1",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Australia",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Zachary Zabel"
+        },
+        {
+          "number": "2",
+          "name": "Abdul Siddique"
+        },
+        {
+          "number": "3",
+          "name": "Justin Byron"
+        },
+        {
+          "number": "5",
+          "name": "Max Miller"
+        },
+        {
+          "number": "7",
+          "name": "Daniel Roberts"
+        },
+        {
+          "number": "8",
+          "name": "Josh Philip"
+        },
+        {
+          "number": "10",
+          "name": "Benjamin Philip"
+        },
+        {
+          "number": "11",
+          "name": "Thomas Le"
+        },
+        {
+          "number": "12",
+          "name": "Noah Moss"
+        },
+        {
+          "number": "14",
+          "name": "Callum Dungey"
+        },
+        {
+          "number": "25",
+          "name": "Patrick Bethune"
+        },
+        {
+          "number": "34",
+          "name": "Sasha Bell"
+        },
+        {
+          "number": "35",
+          "name": "Alecsandre Swan"
+        },
+        {
+          "number": "40",
+          "name": "Oscar Turnbull"
+        },
+        {
+          "number": "42",
+          "name": "Reagan Turner"
+        },
+        {
+          "number": "47",
+          "name": "Dane Kluken"
+        },
+        {
+          "number": "48",
+          "name": "Matthew Zabel"
+        },
+        {
+          "number": "52",
+          "name": "Justus Honey"
+        },
+        {
+          "number": "56",
+          "name": "Matthew Calder"
+        },
+        {
+          "number": "58",
+          "name": "Jake Upton"
+        },
+        {
+          "number": "95",
+          "name": "Edison Wong"
+        },
+        {
+          "number": "99",
+          "name": "Oliver Huang"
+        }
+      ]
+    },
+    {
+      "name": "Austria",
+      "seed": 13,
+      "sourceTeamId": "4",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Austria",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Jeremia Prochaska"
+        },
+        {
+          "number": "1",
+          "name": "Emmanuel Mveto"
+        },
+        {
+          "number": "2",
+          "name": "Kilian Karner"
+        },
+        {
+          "number": "3",
+          "name": "Andreas Vanek"
+        },
+        {
+          "number": "10",
+          "name": "Theodor Riegler"
+        },
+        {
+          "number": "12",
+          "name": "Jonas Barth"
+        },
+        {
+          "number": "20",
+          "name": "Ferdinand Jauk"
+        },
+        {
+          "number": "21",
+          "name": "Jakob Mory"
+        },
+        {
+          "number": "22",
+          "name": "Max Ertl"
+        },
+        {
+          "number": "23",
+          "name": "Valentin Deutsch-Baier"
+        },
+        {
+          "number": "36",
+          "name": "Emil Pirker"
+        },
+        {
+          "number": "55",
+          "name": "Benjamin Gaudernak"
+        },
+        {
+          "number": "56",
+          "name": "Markus Hammerl"
+        },
+        {
+          "number": "63",
+          "name": "Jakob Kratky"
+        },
+        {
+          "number": "71",
+          "name": "Vincent Coyle"
+        },
+        {
+          "number": "73",
+          "name": "Jakob Lienhart"
+        },
+        {
+          "number": "77",
+          "name": "Sebastian Höfinger"
+        },
+        {
+          "number": "78",
+          "name": "Christoph Angetter"
+        },
+        {
+          "number": "87",
+          "name": "Constantin Angetter"
+        },
+        {
+          "number": "89",
+          "name": "Elias Haider"
+        },
+        {
+          "number": "97",
+          "name": "Clemens Jägersberger"
+        },
+        {
+          "number": "99",
+          "name": "Jakob Mitsche"
+        }
+      ]
+    },
+    {
+      "name": "Belgium",
+      "seed": 2,
+      "sourceTeamId": "6",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Belgium",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "3",
+          "name": "Stan Vanhecke"
+        },
+        {
+          "number": "4",
+          "name": "Tuur Geernaert"
+        },
+        {
+          "number": "9",
+          "name": "Sofiene Bontemps"
+        },
+        {
+          "number": "11",
+          "name": "Emile Willems"
+        },
+        {
+          "number": "12",
+          "name": "Raven Proot"
+        },
+        {
+          "number": "13",
+          "name": "Jonas Taquin"
+        },
+        {
+          "number": "14",
+          "name": "Jérôme Deridder"
+        },
+        {
+          "number": "15",
+          "name": "Cédric Feller"
+        },
+        {
+          "number": "17",
+          "name": "Louis Bétrancourt"
+        },
+        {
+          "number": "19",
+          "name": "george donnet"
+        },
+        {
+          "number": "21",
+          "name": "Louis Corthout"
+        },
+        {
+          "number": "22",
+          "name": "Staf Decraene"
+        },
+        {
+          "number": "23",
+          "name": "Samir Boumalal"
+        },
+        {
+          "number": "32",
+          "name": "Louis Dawans"
+        },
+        {
+          "number": "33",
+          "name": "Tobe Decraene"
+        },
+        {
+          "number": "34",
+          "name": "Wolf Oosterlinck"
+        },
+        {
+          "number": "39",
+          "name": "Arne Geernaert"
+        },
+        {
+          "number": "50",
+          "name": "Lander Decraene"
+        },
+        {
+          "number": "57",
+          "name": "casper thijs"
+        },
+        {
+          "number": "61",
+          "name": "Kamiel Van Mullem"
+        },
+        {
+          "number": "72",
+          "name": "Lucca Rogissart"
+        },
+        {
+          "number": "81",
+          "name": "Aaron Vlieghe"
+        },
+        {
+          "number": "84",
+          "name": "Wolf Pannemans"
+        },
+        {
+          "number": "96",
+          "name": "Robbe Wets"
+        },
+        {
+          "number": "98",
+          "name": "Victor  Weller"
+        }
+      ]
+    },
+    {
+      "name": "Canada",
+      "seed": 6,
+      "sourceTeamId": "7",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Canada",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "1",
+          "name": "Nyle Lebbell"
+        },
+        {
+          "number": "2",
+          "name": "Ben Bolan"
+        },
+        {
+          "number": "4",
+          "name": "Griffin McKee"
+        },
+        {
+          "number": "5",
+          "name": "Nathanaël Le Marois"
+        },
+        {
+          "number": "6",
+          "name": "Dylan MacDonald"
+        },
+        {
+          "number": "7",
+          "name": "Christian Belus"
+        },
+        {
+          "number": "8",
+          "name": "Tyler Gunasekera"
+        },
+        {
+          "number": "9",
+          "name": "Logan Keillor"
+        },
+        {
+          "number": "10",
+          "name": "Kai O'Donnell"
+        },
+        {
+          "number": "11",
+          "name": "Rex Yuen"
+        },
+        {
+          "number": "12",
+          "name": "Ricky Tran"
+        },
+        {
+          "number": "14",
+          "name": "Philippe Gagnon"
+        },
+        {
+          "number": "16",
+          "name": "Miles Wong"
+        },
+        {
+          "number": "21",
+          "name": "Dax Miller"
+        },
+        {
+          "number": "22",
+          "name": "Justin Podnar"
+        },
+        {
+          "number": "23",
+          "name": "Carter Bayer"
+        },
+        {
+          "number": "25",
+          "name": "Bryn McColl"
+        },
+        {
+          "number": "26",
+          "name": "Jonathan Baril"
+        },
+        {
+          "number": "29",
+          "name": "Melvyn Brichet"
+        },
+        {
+          "number": "33",
+          "name": "Marty Gallant"
+        },
+        {
+          "number": "49",
+          "name": "Max Pettenuzzo"
+        },
+        {
+          "number": "67",
+          "name": "Nick McFaddin"
+        },
+        {
+          "number": "74",
+          "name": "Ryan Loui-Ying"
+        },
+        {
+          "number": "77",
+          "name": "Araav Sehgal"
+        },
+        {
+          "number": "83",
+          "name": "Maxime Ayad"
+        },
+        {
+          "number": "88",
+          "name": "Oscar Stonehouse"
+        }
+      ]
+    },
+    {
+      "name": "Colombia",
+      "seed": 9,
+      "sourceTeamId": "10",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Colombia",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "4",
+          "name": "SEBASTIAN DIMATE"
+        },
+        {
+          "number": "8",
+          "name": "GUSTAVO MENDEZ"
+        },
+        {
+          "number": "11",
+          "name": "JUAN ESTEBAN MONTENEGRO"
+        },
+        {
+          "number": "14",
+          "name": "JUAN DAVID GUZMAN QUINTERO"
+        },
+        {
+          "number": "15",
+          "name": "JUAN PABLO CORREAL"
+        },
+        {
+          "number": "16",
+          "name": "NICOLAS CERVERA"
+        },
+        {
+          "number": "17",
+          "name": "JUAN ESTEBAN  RODRIGUEZ"
+        },
+        {
+          "number": "20",
+          "name": "JORGE MARIN"
+        },
+        {
+          "number": "22",
+          "name": "JACOBO MORA"
+        },
+        {
+          "number": "24",
+          "name": "JUAN PABLO RICO MEDINA"
+        },
+        {
+          "number": "41",
+          "name": "DANTE CARVAJALINO"
+        },
+        {
+          "number": "44",
+          "name": "JUAN FELIPE CARDENAS"
+        },
+        {
+          "number": "64",
+          "name": "ZAFNAT ANGARITA"
+        },
+        {
+          "number": "65",
+          "name": "DAVID GONZALEZ"
+        },
+        {
+          "number": "66",
+          "name": "JEISON MONROY"
+        },
+        {
+          "number": "71",
+          "name": "CRISTOBAL ESLAVA"
+        },
+        {
+          "number": "80",
+          "name": "NICOLAS GONZALEZ"
+        },
+        {
+          "number": "86",
+          "name": "DAVID CEBALLOS"
+        },
+        {
+          "number": "91",
+          "name": "JOHAN GONZÁLEZ"
+        },
+        {
+          "number": "95",
+          "name": "IVAN HERNANDEZ"
+        }
+      ]
+    },
+    {
+      "name": "Spain",
+      "seed": 12,
+      "sourceTeamId": "43",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Spain",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "ÁNGEL GONZALEZ LAVÍN"
+        },
+        {
+          "number": "1",
+          "name": "DAVID TIZNE"
+        },
+        {
+          "number": "3",
+          "name": "Alex RODRÍGUEZ"
+        },
+        {
+          "number": "9",
+          "name": "Alberto Emilio RUBIO"
+        },
+        {
+          "number": "10",
+          "name": "Marcos Gómez Robres"
+        },
+        {
+          "number": "11",
+          "name": "Pau  MORA OLCINA"
+        },
+        {
+          "number": "13",
+          "name": "Andrés REYERO"
+        },
+        {
+          "number": "14",
+          "name": "David  Camps Repiso"
+        },
+        {
+          "number": "16",
+          "name": "Telmo HERNANZ"
+        },
+        {
+          "number": "18",
+          "name": "David CAYADO"
+        },
+        {
+          "number": "26",
+          "name": "Fernando WILLIAM"
+        },
+        {
+          "number": "29",
+          "name": "David CHAMIZO"
+        },
+        {
+          "number": "30",
+          "name": "Bruno Andres MARIJANOVIC"
+        },
+        {
+          "number": "33",
+          "name": "Aaron Porras"
+        },
+        {
+          "number": "37",
+          "name": "Hector MONTOYO"
+        },
+        {
+          "number": "38",
+          "name": "Nicolás FUENTES"
+        },
+        {
+          "number": "66",
+          "name": "Guillermo  Chillarón"
+        },
+        {
+          "number": "73",
+          "name": "Martí Dalmases Vilà"
+        },
+        {
+          "number": "83",
+          "name": "Eleder ANDRES"
+        },
+        {
+          "number": "99",
+          "name": "Manuel  GOMEZ"
+        }
+      ]
+    },
+    {
+      "name": "Great Britain",
+      "seed": 7,
+      "sourceTeamId": "15",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Great Britain",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "1",
+          "name": "Toby Nicholas"
+        },
+        {
+          "number": "2",
+          "name": "James Blount"
+        },
+        {
+          "number": "7",
+          "name": "Tom Oliver"
+        },
+        {
+          "number": "9",
+          "name": "Ben Tennant"
+        },
+        {
+          "number": "10",
+          "name": "Enrique Albarracin"
+        },
+        {
+          "number": "12",
+          "name": "Archie Ainsworth"
+        },
+        {
+          "number": "13",
+          "name": "Will Jackson"
+        },
+        {
+          "number": "14",
+          "name": "Timothy Cort"
+        },
+        {
+          "number": "16",
+          "name": "Sam Hill"
+        },
+        {
+          "number": "17",
+          "name": "Myles Vinh Farr"
+        },
+        {
+          "number": "18",
+          "name": "Lloyd Thomas"
+        },
+        {
+          "number": "19",
+          "name": "Morgan Garland"
+        },
+        {
+          "number": "19",
+          "name": "Tyler East"
+        },
+        {
+          "number": "23",
+          "name": "Tony Kavalam"
+        },
+        {
+          "number": "24",
+          "name": "Ryley Ross"
+        },
+        {
+          "number": "28",
+          "name": "Ronan Kelly"
+        },
+        {
+          "number": "31",
+          "name": "Matvei Morozov"
+        },
+        {
+          "number": "33",
+          "name": "Cameron Weir"
+        },
+        {
+          "number": "35",
+          "name": "Alex Bradshaw"
+        },
+        {
+          "number": "37",
+          "name": "Jet Hilborne"
+        },
+        {
+          "number": "73",
+          "name": "Sam Leggott"
+        },
+        {
+          "number": "89",
+          "name": "Wil Moore"
+        },
+        {
+          "number": "90",
+          "name": "Luke Haywood"
+        }
+      ]
+    },
+    {
+      "name": "Germany",
+      "seed": 3,
+      "sourceTeamId": "18",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Germany",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "2",
+          "name": "Jakob Faß"
+        },
+        {
+          "number": "5",
+          "name": "Franz Oßmann"
+        },
+        {
+          "number": "7",
+          "name": "Mohamed Alsaleh"
+        },
+        {
+          "number": "9",
+          "name": "Gero Böhm"
+        },
+        {
+          "number": "11",
+          "name": "Clemens Wolfangel"
+        },
+        {
+          "number": "12",
+          "name": "Finn Leiner"
+        },
+        {
+          "number": "13",
+          "name": "John Petersen"
+        },
+        {
+          "number": "15",
+          "name": "Yanick Feller"
+        },
+        {
+          "number": "16",
+          "name": "Anton Franz"
+        },
+        {
+          "number": "17",
+          "name": "Leopold Boehm"
+        },
+        {
+          "number": "19",
+          "name": "Dylan Pearson"
+        },
+        {
+          "number": "21",
+          "name": "Moritz Lehmann"
+        },
+        {
+          "number": "22",
+          "name": "Maximilian Matschulat"
+        },
+        {
+          "number": "23",
+          "name": "Sebastian Maierhofer"
+        },
+        {
+          "number": "30",
+          "name": "Felix Meyer"
+        },
+        {
+          "number": "32",
+          "name": "Elija Spies"
+        },
+        {
+          "number": "33",
+          "name": "Finn Mädge"
+        },
+        {
+          "number": "36",
+          "name": "Yannick Marburg"
+        },
+        {
+          "number": "42",
+          "name": "Felix Dach"
+        },
+        {
+          "number": "44",
+          "name": "Fabià Boixadós Meinhard"
+        },
+        {
+          "number": "47",
+          "name": "Felix von Falkenhausen"
+        },
+        {
+          "number": "50",
+          "name": "Simon Scheer"
+        },
+        {
+          "number": "78",
+          "name": "Marco Mono"
+        },
+        {
+          "number": "95",
+          "name": "Simon Heese"
+        }
+      ]
+    },
+    {
+      "name": "Hong Kong, China",
+      "seed": 16,
+      "sourceTeamId": "21",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Hong Kong, China",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "4",
+          "name": "Kai On Issac Lee"
+        },
+        {
+          "number": "5",
+          "name": "Rohan Ghosh"
+        },
+        {
+          "number": "7",
+          "name": "Nicholas Langyi  Cox"
+        },
+        {
+          "number": "8",
+          "name": "Elias Haotian Meilink"
+        },
+        {
+          "number": "9",
+          "name": "Samson Suen"
+        },
+        {
+          "number": "11",
+          "name": "Yik Hon Zhuang"
+        },
+        {
+          "number": "12",
+          "name": "Jason Elton Chu"
+        },
+        {
+          "number": "13",
+          "name": "Kai Lok Yung"
+        },
+        {
+          "number": "17",
+          "name": "Nga Tong Lee"
+        },
+        {
+          "number": "19",
+          "name": "Colin Hung Chan"
+        },
+        {
+          "number": "20",
+          "name": "Sze Pak LEUNG"
+        },
+        {
+          "number": "21",
+          "name": "Matthew Hao Jun  Lee"
+        },
+        {
+          "number": "25",
+          "name": "Tsz Hin Tsang"
+        },
+        {
+          "number": "30",
+          "name": "Yushuo Liao"
+        },
+        {
+          "number": "34",
+          "name": "Yiu Chong Ip"
+        },
+        {
+          "number": "46",
+          "name": "Zihan Wang"
+        },
+        {
+          "number": "66",
+          "name": "Pok Shing Chiu"
+        },
+        {
+          "number": "77",
+          "name": "Ka Hei Chan"
+        },
+        {
+          "number": "95",
+          "name": "Kyle Chan"
+        },
+        {
+          "number": "97",
+          "name": "Yuheng Liao"
+        },
+        {
+          "number": "99",
+          "name": "Tsz Ho Lau"
+        }
+      ]
+    },
+    {
+      "name": "Ireland",
+      "seed": 14,
+      "sourceTeamId": "23",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Ireland",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Luke Brophy"
+        },
+        {
+          "number": "3",
+          "name": "James Ahern"
+        },
+        {
+          "number": "4",
+          "name": "Fionn Murphy"
+        },
+        {
+          "number": "5",
+          "name": "Sean Hill"
+        },
+        {
+          "number": "6",
+          "name": "Ruadhan Clarke"
+        },
+        {
+          "number": "7",
+          "name": "Daniel Nolan"
+        },
+        {
+          "number": "10",
+          "name": "Rowan O'Brien"
+        },
+        {
+          "number": "11",
+          "name": "Daniel O'Tighearnaigh"
+        },
+        {
+          "number": "12",
+          "name": "Mark Murphy"
+        },
+        {
+          "number": "14",
+          "name": "Anthony Steyn"
+        },
+        {
+          "number": "15",
+          "name": "Hugh Dolan"
+        },
+        {
+          "number": "21",
+          "name": "Adam  Martin"
+        },
+        {
+          "number": "24",
+          "name": "Luca Venturi"
+        },
+        {
+          "number": "29",
+          "name": "Ivan Walsh"
+        },
+        {
+          "number": "33",
+          "name": "Will Zamsky"
+        },
+        {
+          "number": "42",
+          "name": "Hugh Mc Govern"
+        },
+        {
+          "number": "44",
+          "name": "Robbie O'Grady"
+        },
+        {
+          "number": "45",
+          "name": "James Wilson O'Callaghan"
+        },
+        {
+          "number": "47",
+          "name": "Ruairi O'Brolchain"
+        },
+        {
+          "number": "57",
+          "name": "David  Varma"
+        },
+        {
+          "number": "69",
+          "name": "Thomas Sloane"
+        },
+        {
+          "number": "78",
+          "name": "Samuel Maher"
+        },
+        {
+          "number": "95",
+          "name": "Nathan Boissier"
+        },
+        {
+          "number": "96",
+          "name": "Matthew Cleary"
+        },
+        {
+          "number": "97",
+          "name": "Moby Dolan"
+        },
+        {
+          "number": "99",
+          "name": "Samo Kobe"
+        }
+      ]
+    },
+    {
+      "name": "Italy",
+      "seed": 4,
+      "sourceTeamId": "25",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Italy",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Comirato Zeno Alberto"
+        },
+        {
+          "number": "1",
+          "name": "Vici Stefano"
+        },
+        {
+          "number": "6",
+          "name": "Brini Mattia"
+        },
+        {
+          "number": "7",
+          "name": "Giuliani Martin"
+        },
+        {
+          "number": "9",
+          "name": "Bulgarelli Andrea"
+        },
+        {
+          "number": "10",
+          "name": "Corazza Riccardo"
+        },
+        {
+          "number": "11",
+          "name": "Fantini Andrea"
+        },
+        {
+          "number": "13",
+          "name": "Laffi Alberto"
+        },
+        {
+          "number": "15",
+          "name": "Paradisi Matteo"
+        },
+        {
+          "number": "16",
+          "name": "Rosi Giacomo"
+        },
+        {
+          "number": "17",
+          "name": "Simonazzi Lorenzo"
+        },
+        {
+          "number": "18",
+          "name": "Saracco Giovanni"
+        },
+        {
+          "number": "22",
+          "name": "Pablo di Grazia"
+        },
+        {
+          "number": "23",
+          "name": "Fabbri Edoardo"
+        },
+        {
+          "number": "26",
+          "name": "Solmi Francesco"
+        },
+        {
+          "number": "27",
+          "name": "Algisi Gabriele"
+        },
+        {
+          "number": "32",
+          "name": "Poltock Joshua"
+        },
+        {
+          "number": "38",
+          "name": "Cassanelli Alberto"
+        },
+        {
+          "number": "54",
+          "name": "Olivieri Michael"
+        },
+        {
+          "number": "64",
+          "name": "Grazzini Michele"
+        },
+        {
+          "number": "69",
+          "name": "Rigoni Luca"
+        },
+        {
+          "number": "80",
+          "name": "Zanni Tommaso"
+        },
+        {
+          "number": "90",
+          "name": "Mancinelli Matteo"
+        },
+        {
+          "number": "96",
+          "name": "Ruscello Samuele"
+        },
+        {
+          "number": "99",
+          "name": "Bruni Luca"
+        }
+      ]
+    },
+    {
+      "name": "Japan",
+      "seed": 5,
+      "sourceTeamId": "28",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Japan",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Mizuki Nakano"
+        },
+        {
+          "number": "1",
+          "name": "Takumi Fukumori"
+        },
+        {
+          "number": "2",
+          "name": "Yusuke Kawasaki"
+        },
+        {
+          "number": "3",
+          "name": "Yosei Ishiguro"
+        },
+        {
+          "number": "4",
+          "name": "Taisei Hayashi"
+        },
+        {
+          "number": "5",
+          "name": "Takuto Sawada"
+        },
+        {
+          "number": "6",
+          "name": "Ikumi Otani"
+        },
+        {
+          "number": "7",
+          "name": "Shohei Nakae"
+        },
+        {
+          "number": "8",
+          "name": "Yoshiharu Hashimoto"
+        },
+        {
+          "number": "9",
+          "name": "Ryuki Mashimo"
+        },
+        {
+          "number": "10",
+          "name": "Hayato Takimoto"
+        },
+        {
+          "number": "11",
+          "name": "Kaito Ouchi"
+        },
+        {
+          "number": "13",
+          "name": "Sora Ishikawa"
+        },
+        {
+          "number": "14",
+          "name": "Daigo Suzuki"
+        },
+        {
+          "number": "15",
+          "name": "Masatoshi Tsujino"
+        },
+        {
+          "number": "18",
+          "name": "Kenta Isobe"
+        },
+        {
+          "number": "21",
+          "name": "Satoshi Kawai"
+        },
+        {
+          "number": "25",
+          "name": "Hayato Takahashi"
+        },
+        {
+          "number": "27",
+          "name": "Tetta Akimoto"
+        },
+        {
+          "number": "34",
+          "name": "Haruki Jikumaru"
+        },
+        {
+          "number": "38",
+          "name": "Shunsuke Kiguchi"
+        },
+        {
+          "number": "77",
+          "name": "Kyota Homochi"
+        },
+        {
+          "number": "81",
+          "name": "Iori Hosoya"
+        },
+        {
+          "number": "88",
+          "name": "Ryuta Fukui"
+        },
+        {
+          "number": "98",
+          "name": "Gaku Yonehana"
+        },
+        {
+          "number": "99",
+          "name": "Ryosuke Ohara"
+        }
+      ]
+    },
+    {
+      "name": "New Zealand",
+      "seed": 10,
+      "sourceTeamId": "34",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "New Zealand",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Thomas Chapple"
+        },
+        {
+          "number": "6",
+          "name": "Josh Cooper"
+        },
+        {
+          "number": "8",
+          "name": "Agasthya Jadeja"
+        },
+        {
+          "number": "9",
+          "name": "Kane Harper Tubbs"
+        },
+        {
+          "number": "10",
+          "name": "Max Noel Pantinople"
+        },
+        {
+          "number": "11",
+          "name": "Daniel Schulz"
+        },
+        {
+          "number": "13",
+          "name": "Mackean Stevenson"
+        },
+        {
+          "number": "14",
+          "name": "Stanley Readings"
+        },
+        {
+          "number": "17",
+          "name": "Miles Hutchison"
+        },
+        {
+          "number": "18",
+          "name": "Ben Simpkin"
+        },
+        {
+          "number": "21",
+          "name": "Braden Jones"
+        },
+        {
+          "number": "22",
+          "name": "Shaedon Macfarlane"
+        },
+        {
+          "number": "28",
+          "name": "Finn McKenzie"
+        },
+        {
+          "number": "49",
+          "name": "Jack Lewis"
+        },
+        {
+          "number": "55",
+          "name": "Ronnie Readings"
+        },
+        {
+          "number": "64",
+          "name": "Theodore Wilson Missen"
+        },
+        {
+          "number": "77",
+          "name": "Bryn Douglas"
+        },
+        {
+          "number": "82",
+          "name": "Taylor Te Puni"
+        },
+        {
+          "number": "83",
+          "name": "Pierre Lilley"
+        },
+        {
+          "number": "95",
+          "name": "Leo Poliko"
+        }
+      ]
+    },
+    {
+      "name": "Singapore",
+      "seed": 11,
+      "sourceTeamId": "40",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Singapore",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Zhe Rui Chen"
+        },
+        {
+          "number": "1",
+          "name": "Damian Marcus Oliveiro"
+        },
+        {
+          "number": "2",
+          "name": "Jun Xi Tan"
+        },
+        {
+          "number": "4",
+          "name": "Xiang Jie Lim"
+        },
+        {
+          "number": "5",
+          "name": "Jun Yang Quek"
+        },
+        {
+          "number": "6",
+          "name": "Mark Tong"
+        },
+        {
+          "number": "7",
+          "name": "Nikheil  Kalaichelvan"
+        },
+        {
+          "number": "9",
+          "name": "Nicholas Lim Zi Xian"
+        },
+        {
+          "number": "10",
+          "name": "Muhammad Syahiran Bin Safudin"
+        },
+        {
+          "number": "15",
+          "name": "Benjamin Aw Jun Jie"
+        },
+        {
+          "number": "16",
+          "name": "Tze Hsien Lim"
+        },
+        {
+          "number": "18",
+          "name": "Sun Yao Er"
+        },
+        {
+          "number": "19",
+          "name": "Joshua Raymond Ng"
+        },
+        {
+          "number": "21",
+          "name": "Javier Kiew Guang He"
+        },
+        {
+          "number": "22",
+          "name": "Zach Tan Xian Ye"
+        },
+        {
+          "number": "23",
+          "name": "Matthan Foo Ce Xiang"
+        },
+        {
+          "number": "28",
+          "name": "Joshua Ong Rong Xin"
+        },
+        {
+          "number": "37",
+          "name": "Nelson Ser Jia Rong"
+        },
+        {
+          "number": "48",
+          "name": "Daniel Wu Kai Yi"
+        },
+        {
+          "number": "69",
+          "name": "Iden Tan Jian Hua"
+        },
+        {
+          "number": "77",
+          "name": "Sean Teo Shao Ze"
+        },
+        {
+          "number": "85",
+          "name": "´╗┐Caden Yew Zhixin"
+        }
+      ]
+    },
+    {
+      "name": "Switzerland",
+      "seed": 15,
+      "sourceTeamId": "46",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "Switzerland",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Pino Bernard"
+        },
+        {
+          "number": "1",
+          "name": "Tatsuaki Yamamoto"
+        },
+        {
+          "number": "3",
+          "name": "Luzi Stauffer"
+        },
+        {
+          "number": "4",
+          "name": "Ralph Daucourt"
+        },
+        {
+          "number": "8",
+          "name": "Leon Vitaliano"
+        },
+        {
+          "number": "9",
+          "name": "Silvan Hartmann"
+        },
+        {
+          "number": "11",
+          "name": "Kota Schnider"
+        },
+        {
+          "number": "12",
+          "name": "Andri Limacher"
+        },
+        {
+          "number": "16",
+          "name": "Luis Bysäth"
+        },
+        {
+          "number": "17",
+          "name": "Eneas Mutter"
+        },
+        {
+          "number": "19",
+          "name": "Dominik Christen"
+        },
+        {
+          "number": "20",
+          "name": "Marco Zurkirch"
+        },
+        {
+          "number": "23",
+          "name": "Noah Burkart"
+        },
+        {
+          "number": "24",
+          "name": "Elio Bysäth"
+        },
+        {
+          "number": "25",
+          "name": "Louis Brunner"
+        },
+        {
+          "number": "27",
+          "name": "Dea Faedi"
+        },
+        {
+          "number": "31",
+          "name": "Jona Odermatt"
+        },
+        {
+          "number": "32",
+          "name": "Serafin Gossenreiter"
+        },
+        {
+          "number": "35",
+          "name": "Fadri Buchli"
+        },
+        {
+          "number": "45",
+          "name": "Moritz Hinkel"
+        },
+        {
+          "number": "61",
+          "name": "Simon Hinkel"
+        },
+        {
+          "number": "72",
+          "name": "Julien Libiszewski"
+        },
+        {
+          "number": "89",
+          "name": "Moritz Wicki"
+        },
+        {
+          "number": "99",
+          "name": "Noël Müller"
+        }
+      ]
+    },
+    {
+      "name": "United States of America",
+      "seed": 1,
+      "sourceTeamId": "47",
+      "url": "",
+      "info": {
+        "nickname": "",
+        "location": "United States of America",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Tobias Brooks"
+        },
+        {
+          "number": "1",
+          "name": "Zeke Thoreson"
+        },
+        {
+          "number": "2",
+          "name": "Grayson Trowbridge"
+        },
+        {
+          "number": "2",
+          "name": "Robin Vickers Batzdorf"
+        },
+        {
+          "number": "5",
+          "name": "Justin Burnett"
+        },
+        {
+          "number": "6",
+          "name": "Oscar Graff"
+        },
+        {
+          "number": "7",
+          "name": "Felix Moren"
+        },
+        {
+          "number": "8",
+          "name": "Isaac Lee"
+        },
+        {
+          "number": "11",
+          "name": "Will Brandt"
+        },
+        {
+          "number": "12",
+          "name": "Peter Boerth"
+        },
+        {
+          "number": "14",
+          "name": "Dexter Clyburn"
+        },
+        {
+          "number": "15",
+          "name": "Rutledge Smith"
+        },
+        {
+          "number": "21",
+          "name": "Josh Singleton"
+        },
+        {
+          "number": "22",
+          "name": "Declan Miller"
+        },
+        {
+          "number": "23",
+          "name": "Paul Krenik"
+        },
+        {
+          "number": "32",
+          "name": "Cedar Hines"
+        },
+        {
+          "number": "35",
+          "name": "Xander Wilcox"
+        },
+        {
+          "number": "37",
+          "name": "Miles Grovic"
+        },
+        {
+          "number": "42",
+          "name": "Adam Grossberg"
+        },
+        {
+          "number": "45",
+          "name": "Alex Nelson"
+        },
+        {
+          "number": "50",
+          "name": "Kyle Lew"
+        },
+        {
+          "number": "66",
+          "name": "Eli Fried"
+        },
+        {
+          "number": "77",
+          "name": "William Wettengel"
+        },
+        {
+          "number": "94",
+          "name": "Gavin Abrahamsson"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pools",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "United States of America",
+              "team2": "New Zealand",
+              "score1": 15,
+              "score2": 3,
+              "datetime": "2025-06-22T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Great Britain",
+              "team2": "Ireland",
+              "score1": 15,
+              "score2": 2,
+              "datetime": "2025-06-22T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "United States of America",
+              "team2": "Ireland",
+              "score1": 15,
+              "score2": 1,
+              "datetime": "2025-06-23T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Great Britain",
+              "team2": "New Zealand",
+              "score1": 15,
+              "score2": 13,
+              "datetime": "2025-06-23T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "New Zealand",
+              "team2": "Ireland",
+              "score1": 15,
+              "score2": 6,
+              "datetime": "2025-06-23T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "United States of America",
+              "team2": "Great Britain",
+              "score1": 15,
+              "score2": 2,
+              "datetime": "2025-06-23T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool B",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Australia",
+              "team2": "Austria",
+              "score1": 14,
+              "score2": 15,
+              "datetime": "2025-06-22T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Belgium",
+              "team2": "Singapore",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2025-06-22T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Belgium",
+              "team2": "Austria",
+              "score1": 13,
+              "score2": 11,
+              "datetime": "2025-06-23T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Australia",
+              "team2": "Singapore",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2025-06-23T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Singapore",
+              "team2": "Austria",
+              "score1": 10,
+              "score2": 15,
+              "datetime": "2025-06-23T15:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Belgium",
+              "team2": "Australia",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2025-06-23T15:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool C",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Germany",
+              "team2": "Colombia",
+              "score1": 9,
+              "score2": 15,
+              "datetime": "2025-06-22T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Japan",
+              "team2": "Switzerland",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2025-06-22T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Germany",
+              "team2": "Japan",
+              "score1": 4,
+              "score2": 15,
+              "datetime": "2025-06-22T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Colombia",
+              "team2": "Switzerland",
+              "score1": 15,
+              "score2": 13,
+              "datetime": "2025-06-22T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Japan",
+              "team2": "Colombia",
+              "score1": 11,
+              "score2": 14,
+              "datetime": "2025-06-23T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Germany",
+              "team2": "Switzerland",
+              "score1": 15,
+              "score2": 13,
+              "datetime": "2025-06-23T13:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool D",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Italy",
+              "team2": "Spain",
+              "score1": 15,
+              "score2": 2,
+              "datetime": "2025-06-22T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Canada",
+              "team2": "Hong Kong, China",
+              "score1": 15,
+              "score2": 2,
+              "datetime": "2025-06-22T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Spain",
+              "team2": "Hong Kong, China",
+              "score1": 15,
+              "score2": 14,
+              "datetime": "2025-06-22T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Italy",
+              "team2": "Canada",
+              "score1": 12,
+              "score2": 14,
+              "datetime": "2025-06-22T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Italy",
+              "team2": "Hong Kong, China",
+              "score1": 15,
+              "score2": 2,
+              "datetime": "2025-06-23T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Canada",
+              "team2": "Spain",
+              "score1": 15,
+              "score2": 0,
+              "datetime": "2025-06-23T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool E",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "United States of America",
+              "team2": "Austria",
+              "score1": 15,
+              "score2": 3,
+              "datetime": "2025-06-24T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Colombia",
+              "team2": "Italy",
+              "score1": 8,
+              "score2": 15,
+              "datetime": "2025-06-24T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "United States of America",
+              "team2": "Italy",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2025-06-24T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Colombia",
+              "team2": "Austria",
+              "score1": 9,
+              "score2": 15,
+              "datetime": "2025-06-24T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Austria",
+              "team2": "Italy",
+              "score1": 4,
+              "score2": 15,
+              "datetime": "2025-06-25T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "United States of America",
+              "team2": "Colombia",
+              "score1": 15,
+              "score2": 1,
+              "datetime": "2025-06-25T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool F",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Belgium",
+              "team2": "Great Britain",
+              "score1": 15,
+              "score2": 2,
+              "datetime": "2025-06-24T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Canada",
+              "team2": "Japan",
+              "score1": 13,
+              "score2": 11,
+              "datetime": "2025-06-24T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Belgium",
+              "team2": "Japan",
+              "score1": 14,
+              "score2": 12,
+              "datetime": "2025-06-24T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Canada",
+              "team2": "Great Britain",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2025-06-24T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Belgium",
+              "team2": "Canada",
+              "score1": 15,
+              "score2": 11,
+              "datetime": "2025-06-25T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Great Britain",
+              "team2": "Japan",
+              "score1": 11,
+              "score2": 14,
+              "datetime": "2025-06-25T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool G",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Spain",
+              "team2": "Ireland",
+              "score1": 9,
+              "score2": 15,
+              "datetime": "2025-06-24T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Australia",
+              "team2": "Switzerland",
+              "score1": 15,
+              "score2": 13,
+              "datetime": "2025-06-24T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Spain",
+              "team2": "Switzerland",
+              "score1": 5,
+              "score2": 15,
+              "datetime": "2025-06-24T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Australia",
+              "team2": "Ireland",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2025-06-24T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Switzerland",
+              "team2": "Ireland",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2025-06-25T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Australia",
+              "team2": "Spain",
+              "score1": 15,
+              "score2": 1,
+              "datetime": "2025-06-25T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Pool H",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "New Zealand",
+              "team2": "Singapore",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2025-06-24T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Germany",
+              "team2": "Hong Kong, China",
+              "score1": 15,
+              "score2": 3,
+              "datetime": "2025-06-24T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "New Zealand",
+              "team2": "Hong Kong, China",
+              "score1": 15,
+              "score2": 1,
+              "datetime": "2025-06-24T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Germany",
+              "team2": "Singapore",
+              "score1": 14,
+              "score2": 6,
+              "datetime": "2025-06-24T14:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "New Zealand",
+              "team2": "Germany",
+              "score1": 10,
+              "score2": 15,
+              "datetime": "2025-06-25T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Singapore",
+              "team2": "Hong Kong, China",
+              "score1": 15,
+              "score2": 2,
+              "datetime": "2025-06-25T11:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Brackets",
+      "groups": [
+        {
+          "name": "Pre-Quarters",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Colombia",
+              "team2": "Germany",
+              "score1": 14,
+              "score2": 13,
+              "datetime": "2025-06-25T15:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Austria",
+              "team2": "New Zealand",
+              "score1": 15,
+              "score2": 14,
+              "datetime": "2025-06-25T15:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Japan",
+              "team2": "Switzerland",
+              "score1": 15,
+              "score2": 5,
+              "datetime": "2025-06-25T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Great Britain",
+              "team2": "Australia",
+              "score1": 6,
+              "score2": 15,
+              "datetime": "2025-06-25T16:00:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Playoff (1-8)",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Japan",
+              "team2": "Italy",
+              "score1": 10,
+              "score2": 13,
+              "datetime": "2025-06-26T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Belgium",
+              "team2": "Colombia",
+              "score1": 15,
+              "score2": 13,
+              "datetime": "2025-06-26T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "United States of America",
+              "team2": "Australia",
+              "score1": 15,
+              "score2": 3,
+              "datetime": "2025-06-26T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Canada",
+              "team2": "Austria",
+              "score1": 15,
+              "score2": 11,
+              "datetime": "2025-06-26T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Japan",
+              "team2": "Colombia",
+              "score1": 15,
+              "score2": 5,
+              "datetime": "2025-06-26T18:00:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Australia",
+              "team2": "Austria",
+              "score1": 13,
+              "score2": 14,
+              "datetime": "2025-06-26T18:00:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Italy",
+              "team2": "Belgium",
+              "score1": 14,
+              "score2": 15,
+              "datetime": "2025-06-27T14:30:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "United States of America",
+              "team2": "Canada",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2025-06-27T14:30:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Austria",
+              "team2": "Japan",
+              "score1": 8,
+              "score2": 15,
+              "datetime": "2025-06-27T12:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Australia",
+              "team2": "Colombia",
+              "score1": 14,
+              "score2": 15,
+              "datetime": "2025-06-27T12:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Canada",
+              "team2": "Italy",
+              "score1": 14,
+              "score2": 11,
+              "datetime": "2025-06-27T18:30:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "United States of America",
+              "team2": "Belgium",
+              "score1": 15,
+              "score2": 6,
+              "datetime": "2025-06-28T16:30:00Z",
+              "round": "Finals",
+              "status": "Final"
+            }
+          ]
+        },
+        {
+          "name": "Playoff (9-16)",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Germany",
+              "team2": "Spain",
+              "score1": 15,
+              "score2": 1,
+              "datetime": "2025-06-26T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Switzerland",
+              "team2": "Singapore",
+              "score1": 15,
+              "score2": 11,
+              "datetime": "2025-06-26T10:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Great Britain",
+              "team2": "Hong Kong, China",
+              "score1": 15,
+              "score2": 2,
+              "datetime": "2025-06-26T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "New Zealand",
+              "team2": "Ireland",
+              "score1": 15,
+              "score2": 14,
+              "datetime": "2025-06-26T12:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Germany",
+              "team2": "Switzerland",
+              "score1": 14,
+              "score2": 15,
+              "datetime": "2025-06-26T16:00:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Great Britain",
+              "team2": "New Zealand",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2025-06-26T16:00:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Spain",
+              "team2": "Singapore",
+              "score1": 6,
+              "score2": 15,
+              "datetime": "2025-06-26T16:00:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Hong Kong, China",
+              "team2": "Ireland",
+              "score1": 3,
+              "score2": 15,
+              "datetime": "2025-06-26T16:00:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Switzerland",
+              "team2": "Great Britain",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2025-06-27T09:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Germany",
+              "team2": "New Zealand",
+              "score1": 10,
+              "score2": 15,
+              "datetime": "2025-06-27T09:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Spain",
+              "team2": "Hong Kong, China",
+              "score1": 13,
+              "score2": 9,
+              "datetime": "2025-06-27T10:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Singapore",
+              "team2": "Ireland",
+              "score1": 11,
+              "score2": 15,
+              "datetime": "2025-06-27T10:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

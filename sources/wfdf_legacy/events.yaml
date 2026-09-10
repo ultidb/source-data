@@ -1,0 +1,103 @@
+# WFDF legacy-results event list. Hand-authored, not crawled: this old
+# results platform has no calendar/index endpoint, and per user direction
+# these historical events are added manually as they're identified (see
+# sources/wfdf_legacy/events.py's module docstring).
+#
+# Unlike sources/wfdf/events.yaml, series are NOT keyed by a hardcoded
+# numeric id -- the legacy site's own left-nav sidebar exposes
+# `series_id -> series_name` on every page, so `WfdfLegacySource.discover()`
+# matches by name at fetch time instead of trusting a hand-typed id that
+# could drift across events. See events.py's WfdfLegacySeries docstring.
+
+- year: 2024
+  base_url: "https://results.wfdf.sport/wuc"
+  season_id: "WUC2024"
+  # Wire division name (ingest-contract.md section 4) -- senior/elite
+  # worlds, no age qualifier.
+  division: "international"
+  name: "WFDF World Ultimate Championships 2024"
+  city: "Gold Coast"
+  state: "Queensland"
+  country: "Australia"
+  # Informational only -- the authoritative dates on the wire document come
+  # from the min/max of every game's own date, read off the page's <h3>
+  # day headers (see WfdfLegacySource.parse_event).
+  start_date: 2024-08-31
+  end_date: 2024-09-07
+  series:
+    - name: "Open"
+      gender: "open"
+    - name: "Women's"
+      gender: "womens"
+    - name: "Mixed"
+      gender: "mixed"
+  # Guts Open / Guts Women's intentionally absent -- WFDF Guts is a
+  # different disc sport (target-accuracy game), not Ultimate. discover()
+  # errors loudly (not silently) if a configured series name below isn't
+  # found on the page, but never auto-includes an unconfigured one.
+
+- year: 2025
+  base_url: "https://results.wfdf.sport/wu24"
+  season_id: "wu24-2025"
+  # Wire division name (ingest-contract.md section 4) -- U24 national-team
+  # worlds, distinct from plain "international" (WUC) and "international-u20"
+  # (WJUC).
+  division: "international-u24"
+  name: "WFDF World Under-24 Ultimate Championships 2025"
+  city: "Logroño"
+  state: ""
+  country: "Spain"
+  start_date: 2025-06-21
+  end_date: 2025-06-28
+  series:
+    - name: "Open"
+      gender: "open"
+    - name: "Women's"
+      gender: "womens"
+    - name: "Mixed"
+      gender: "mixed"
+  # No Guts divisions on this event's site at all (unlike WUC2024) --
+  # nothing to exclude here.
+
+- year: 2024
+  base_url: "https://results.wfdf.sport/wjuc-2024"
+  season_id: "WJUC2024"
+  # Wire division name (ingest-contract.md section 4) -- junior (U20)
+  # national-team worlds.
+  division: "international-u20"
+  name: "WFDF World Junior Ultimate Championships 2024"
+  city: "Birmingham"
+  state: "England"
+  country: "United Kingdom"
+  start_date: 2024-07-21
+  end_date: 2024-07-27
+  series:
+    - name: "Open"
+      gender: "open"
+    - name: "Women's"
+      gender: "womens"
+    - name: "Mixed"
+      gender: "mixed"
+  # No Guts divisions on this event's site -- nothing to exclude.
+
+- year: 2023
+  base_url: "https://results.wfdf.sport/wu24-2023"
+  season_id: "WU24-2023"
+  division: "international-u24"
+  name: "WFDF World Under-24 Ultimate Championships 2023"
+  city: "Nottingham"
+  state: "England"
+  country: "United Kingdom"
+  start_date: 2023-07-02
+  end_date: 2023-07-08
+  series:
+    - name: "Open"
+      gender: "open"
+    - name: "Women's"
+      gender: "womens"
+    - name: "Mixed"
+      gender: "mixed"
+  # No Guts divisions on this event's site -- nothing to exclude. This
+  # event's bracket pools are spelled "Bracket (a-b)"/"Brackets (a-b)"
+  # (singular for Open, plural for Mixed/Women's) rather than "Playoff
+  # (a-b)" -- see parse.py's `_NUMBERED_BRACKET_RE`.

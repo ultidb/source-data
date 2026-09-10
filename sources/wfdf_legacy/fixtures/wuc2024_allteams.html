@@ -1,0 +1,422 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+		<html xmlns='http://www.w3.org/1999/xhtml' xml:lang='en' lang='en'><head>
+		<meta http-equiv="Content-Style-Type" content="text/css"/>
+		<meta http-equiv="Content-Script-Type" content="text/javascript"/><meta http-equiv="Pragma" content="no-cache"/><meta http-equiv="Expires" content="-1"/><meta name='viewport' content='width=device-width, initial-scale=1.0'><link rel='icon' type='image/png' href='cust/wuc-2024/favicon.png' />
+		<title>Teams</title>
+		<link rel="stylesheet" href="cust/wuc-2024/layout.css?v=15" type="text/css" />
+		<link rel="stylesheet" href="cust/wuc-2024/font.css?v=15" type="text/css" />
+		<link rel="stylesheet" href="cust/wuc-2024/default.css?v=15" type="text/css" />
+<script type="text/javascript">
+<!--
+function checkAll(field)
+	{
+	var form = document.getElementById(field);
+		 
+		for (var i=1; i < form.elements.length; i++) 
+		{
+		 form.elements[i].checked = !form.elements[i].checked;
+		}
+	}
+
+function setId(id) 
+	{
+	var input = document.getElementById("hiddenDeleteId");
+	input.value = id;
+	}
+
+function changeseason(id){
+	var url = location.href;
+	
+	var param = "selseason";
+	var re = new RegExp("([?|&])" + param + "=.*?(&|$)","i");
+    if (url.match(re)){
+        url=url.replace(re,'$1' + param + "=" + id + '$2');
+    }else{
+        
+		if(location.href.search("view=") !=-1){
+			url = url + '&' + param + "=" + id;
+		}else{
+			url = url.substring(0,url.lastIndexOf('/'));
+			url = url + "/index.php?"+ param + "=" + id; 
+		}
+	}
+	location.href=url;
+}
+
+
+function changeseason2(id){
+	var url = location.href;
+	
+	var param = "selseason";
+
+  url = url.substring(0,url.lastIndexOf('/'));
+  //url = url + "/index.php?view=games&season=" + id + "&filter=today&group=all&"+ param + "=" + id; 
+  url = url + "/index.php?view=games&season=" + id + "&filter=tournaments&group=all&"+ param + "=" + id; 
+	location.href=url;
+}
+
+
+//-->
+</script>
+</head><body style='overflow-y:scroll;' >
+<div class='page'>
+<div class='page_top'>
+<div class='top_banner_space'></div>
+<form action='?view=teams&amp;season=WUC2024&amp;list=allteams' method='post'><table border='0' cellpadding='0' cellspacing='0' style='width:100%;white-space: nowrap;'><tr>
+<td class='topheader_left'>
+<img class='menu_button' onclick='menu_toggle()' src='images/bars-solid.svg' alt='menu'><a href='https://www.wfdf.sport/' class='header_text' target='_blank'><img class='header_logo' style='width:auto;height:30px;margin: 10px 10px;' src='cust/wuc-2024/wfdf-logo.jpg' alt='WFDF'/></a>
+<a href='https://wuc2024.sport/' class='header_text' target='_blank'><img class='header_logo' style='width:auto;height:50px;margin: 0px 10px;' src='cust/wuc-2024/logo-small.png' alt='WUC 2024'/></a>
+</td><td class='topheader_right'><table border='0' cellpadding='0' cellspacing='0' style='width:95%;white-space: nowrap;'>
+<tr>
+<td class='right' style='padding-top:5px'>&nbsp;</td></tr>
+</table></td></tr></table></form>
+</div>
+<div class='navigation_bar'><p class='navigation_bar_text'><span style='color: grey;'>Nav. History: </span> Teams</p></div><div class='page_middle'>
+<table style='border:1px solid #fff;background-color: #ffffff;'><tr><td id='menu_left' class='menu_left'><table class='leftmenulinks'>
+<tr><td class='menuseasonlevel'><a class='seasonnav' style='text-align:center;' href='?view=teams&season=WUC2024&amp;list=bystandings'>WUC 2024</a></td></tr>
+<tr><td><a class='nav' href='?view=games&amp;season=WUC2024&amp;filter=tournaments&amp;group=all'>Games</a></td></tr>
+<tr><td><a class='nav' href='?view=teams&amp;season=WUC2024&amp;list=allteams'>Teams</a></td></tr>
+<tr><td class='menuseparator'></td></tr>
+<tr><td class='menuserieslevel'><a class='subnav' href='?view=seriesstatus&amp;series=2'>Open</a></td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=1'>&raquo; Pool A</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=2'>&raquo; Pool B</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=3'>&raquo; Pool C</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=4'>&raquo; Pool D</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=11'>&raquo; Pool E</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=12'>&raquo; Pool F</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=13'>&raquo; Pool G</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=14'>&raquo; Pool H</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=22'>&raquo; Crossover</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=24'>&raquo; Playoff (1-8)</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=25'>&raquo; Playoff (9-16)</a>
+</td></tr>
+<tr><td class='menupoollevel'><a class='navpoollink' href='?view=spiritstatus&amp;series=2'>Spirit Scores</a></td></tr>
+<tr><td class='menuserieslevel'><a class='subnav' href='?view=seriesstatus&amp;series=3'>Women&#039;s</a></td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=5'>&raquo; Pool A</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=6'>&raquo; Pool B</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=15'>&raquo; Pool C</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=16'>&raquo; Pool D</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=17'>&raquo; Pool E</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=23'>&raquo; Crossover</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=30'>&raquo; Playoff (1-4)</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=31'>&raquo; Playoff (5-8)</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=32'>&raquo; Playoff (9-12)</a>
+</td></tr>
+<tr><td class='menupoollevel'><a class='navpoollink' href='?view=spiritstatus&amp;series=3'>Spirit Scores</a></td></tr>
+<tr><td class='menuserieslevel'><a class='subnav' href='?view=seriesstatus&amp;series=1'>Mixed</a></td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=7'>&raquo; Pool A</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=8'>&raquo; Pool B</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=9'>&raquo; Pool C</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=10'>&raquo; Pool D</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=18'>&raquo; Pool E</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=19'>&raquo; Pool F</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=20'>&raquo; Pool G</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=21'>&raquo; Pool H</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=36'>&raquo; Playoff (1-8)</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=37'>&raquo; Playoff (9-16)</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=38'>&raquo; Pool J</a>
+</td></tr>
+<tr><td class='menupoollevel'><a class='navpoollink' href='?view=spiritstatus&amp;series=1'>Spirit Scores</a></td></tr>
+<tr><td class='menuserieslevel'><a class='subnav' href='?view=seriesstatus&amp;series=6'>Guts Open</a></td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=43'>&raquo; Pool A</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=45'>&raquo; Brackets GM1-3</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=46'>&raquo; Brackets GM4-5</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=49'>&raquo; Brackets GM6</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=50'>&raquo; Brackets GM7-8</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=48'>&raquo; Brackets GM9-10</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=51'>&raquo; Brackets GM11-12</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=52'>&raquo; Brackets GM13</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=53'>&raquo; Brackets GM14</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=54'>&raquo; Brackets GM15</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=55'>&raquo; Brackets GM16 (Final)</a>
+</td></tr>
+<tr><td class='menupoollevel'><a class='navpoollink' href='?view=spiritstatus&amp;series=6'>Spirit Scores</a></td></tr>
+<tr><td class='menuserieslevel'><a class='subnav' href='?view=seriesstatus&amp;series=7'>Guts Women&#039;s</a></td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=44'>&raquo; Pool A</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=47'>&raquo; Brackets GM1-2</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=56'>&raquo; Brackets GM3</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=57'>&raquo; Brackets GM4</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=58'>&raquo; Brackets GM5</a>
+</td></tr>
+<tr><td class='menupoollevel'>
+<a class='navpoollink' href='?view=poolstatus&amp;pool=59'>&raquo; Brackets GM6 (Final)</a>
+</td></tr>
+<tr><td class='menupoollevel'><a class='navpoollink' href='?view=spiritstatus&amp;series=7'>Spirit Scores</a></td></tr>
+</table>
+<table class='leftmenulinks'>
+<tr><td class='menuseasonlevel'>Event Links</td></tr>
+<tr><td></td></tr>
+<tr><td><a class='subnav' style='background: url(./images/linkicons/feed_14x14.png) no-repeat 0 50%; padding: 0 0 0 19px;' href='./ext/rss.php?feed=all'>Result Feed</a>
+</td></tr>
+</table>
+<table class='leftmenulinks'>
+<tr><td class='menuseasonlevel'>Statistics</td></tr>
+<tr><td><a class='subnav' href="?view=seasonlist">&raquo; Events</a>
+<a class='subnav' href="?view=allplayers">&raquo; Players</a>
+<a class='subnav' href="?view=allteams">&raquo; Teams</a>
+<a class='subnav' href="?view=allclubs">&raquo; Clubs</a>
+<a class='subnav' href="?view=allcountries">&raquo; Countries</a>
+<a class='subnav' href="?view=statistics&amp;list=teamstandings">&raquo; All time</a></td></tr>
+</table><table class='leftmenulinks'>
+<tr><td class='menuseasonlevel' width=20px></td><td class='menuseasonlevel'>Links</td><td class='menuseasonlevel' width=20px><a class='seasonnav hiddenlink' href='login'>&nbsp;</a></td></tr>
+<tr><td colspan='3'></td></tr>
+</table><table style='width:90%'>
+<tr><td class='guides'><a href='?view=user_guide'>User Guide</a> | 
+<a href='?view=privacy'>Privacy Policy</a>
+</td></tr></table></td>
+
+<td align='left' valign='top' class='tdcontent'><div class='content'>
+
+<!-- on page menu -->
+<div class='pagemenu_container'>
+<ul id='pagemenu'>
+<li><a class='current' href='?view=teams&amp;season=WUC2024&amp;list=allteams'>By division</a></li>
+<li><a href='?view=teams&amp;season=WUC2024&amp;list=bypool'>By pool</a></li>
+<li><a href='?view=teams&amp;season=WUC2024&amp;list=byseeding'>By seeding</a></li>
+<li><a href='?view=teams&amp;season=WUC2024&amp;list=bystandings'>By result</a></li>
+</ul>
+</div>
+<p style='clear:both'></p>
+<h1>Teams</h1><table border='0' cellspacing='0' cellpadding='2' width='100%'>
+<tr><th colspan='3'>Open</th>
+</tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=2'>Australia Open</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/Australia.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1011'>Australia</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=2'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=2'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=2&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=6'>Austria Open</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/Austria.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1012'>Austria</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=6'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=6'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=6&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=63'>Belgium Open</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/Belgium.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1018'>Belgium</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=63'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=63'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=63&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=8'>Canada Open</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/Canada.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1034'>Canada</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=8'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=8'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=8&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=47'>Chinese Taipei Open</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/Chinese_Taipei.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1187'>Chinese Taipei</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=47'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=47'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=47&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=14'>Colombia Open</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/Colombia.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1044'>Colombia</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=14'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=14'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=14&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=17'>France Open</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/France.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1065'>France</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=17'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=17'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=17&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=20'>Germany Open</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/Germany.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1073'>Germany</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=20'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=20'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=20&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=23'>Great Britain Open</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/United_Kingdom.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1069'>Great Britain</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=23'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=23'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=23&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=26'>Hong Kong, China Open</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/Hong_Kong.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1082'>Hong Kong, China</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=26'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=26'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=26&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=29'>Italy Open</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/Italy.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1093'>Italy</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=29'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=29'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=29&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=31'>Japan Open</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/Japan.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1097'>Japan</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=31'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=31'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=31&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=39'>New Zealand Open</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/New_Zealand.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1141'>New Zealand</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=39'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=39'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=39&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=11'>People&#039;s Republic of China Open</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/China.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1039'>People&#039;s Republic of China</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=11'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=11'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=11&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=43'>Singapore Open</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/Singapore.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1163'>Singapore</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=43'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=43'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=43&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=60'>United States of America Open</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/United_States_of_America.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1196'>United States of America</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=60'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=60'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=60&amp;singleview=1'>Games</a></td></tr>
+</table>
+<table border='0' cellspacing='0' cellpadding='2' width='100%'>
+<tr><th colspan='3'>Women&#039;s</th>
+</tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=3'>Australia Women&#039;s</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/Australia.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1011'>Australia</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=3'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=3'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=3&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=9'>Canada Women&#039;s</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/Canada.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1034'>Canada</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=9'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=9'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=9&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=48'>Chinese Taipei Women&#039;s</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/Chinese_Taipei.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1187'>Chinese Taipei</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=48'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=48'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=48&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=15'>Colombia Women&#039;s</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/Colombia.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1044'>Colombia</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=15'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=15'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=15&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=18'>France Women&#039;s</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/France.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1065'>France</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=18'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=18'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=18&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=21'>Germany Women&#039;s</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/Germany.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1073'>Germany</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=21'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=21'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=21&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=24'>Great Britain Women&#039;s</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/United_Kingdom.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1069'>Great Britain</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=24'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=24'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=24&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=32'>Japan Women&#039;s</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/Japan.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1097'>Japan</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=32'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=32'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=32&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=40'>New Zealand Women&#039;s</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/New_Zealand.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1141'>New Zealand</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=40'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=40'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=40&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=12'>People&#039;s Republic of China Women&#039;s</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/China.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1039'>People&#039;s Republic of China</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=12'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=12'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=12&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=44'>Singapore Women&#039;s</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/Singapore.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1163'>Singapore</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=44'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=44'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=44&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=61'>United States of America Women&#039;s</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/United_States_of_America.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1196'>United States of America</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=61'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=61'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=61&amp;singleview=1'>Games</a></td></tr>
+</table>
+<table border='0' cellspacing='0' cellpadding='2' width='100%'>
+<tr><th colspan='3'>Mixed</th>
+</tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=1'>Argentina Mixed</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/Argentina.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1007'>Argentina</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=1'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=1'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=1&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=4'>Australia Mixed</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/Australia.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1011'>Australia</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=4'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=4'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=4&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=7'>Austria Mixed</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/Austria.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1012'>Austria</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=7'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=7'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=7&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=10'>Canada Mixed</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/Canada.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1034'>Canada</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=10'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=10'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=10&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=49'>Chinese Taipei Mixed</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/Chinese_Taipei.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1187'>Chinese Taipei</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=49'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=49'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=49&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=16'>Colombia Mixed</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/Colombia.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1044'>Colombia</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=16'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=16'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=16&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=19'>France Mixed</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/France.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1065'>France</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=19'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=19'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=19&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=22'>Germany Mixed</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/Germany.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1073'>Germany</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=22'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=22'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=22&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=25'>Great Britain Mixed</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/United_Kingdom.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1069'>Great Britain</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=25'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=25'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=25&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=27'>Hong Kong, China Mixed</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/Hong_Kong.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1082'>Hong Kong, China</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=27'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=27'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=27&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=28'>India Mixed</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/India.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1086'>India</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=28'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=28'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=28&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=30'>Italy Mixed</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/Italy.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1093'>Italy</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=30'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=30'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=30&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=33'>Japan Mixed</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/Japan.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1097'>Japan</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=33'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=33'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=33&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=64'>Malaysia Mixed</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/Malaysia.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1117'>Malaysia</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=64'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=64'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=64&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=41'>New Zealand Mixed</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/New_Zealand.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1141'>New Zealand</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=41'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=41'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=41&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=42'>Panama Mixed</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/Panama.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1144'>Panama</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=42'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=42'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=42&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=13'>People&#039;s Republic of China Mixed</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/China.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1039'>People&#039;s Republic of China</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=13'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=13'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=13&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=37'>Republic of Korea Mixed</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/South_Korea.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1102'>Republic of Korea</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=37'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=37'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=37&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=45'>Singapore Mixed</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/Singapore.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1163'>Singapore</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=45'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=45'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=45&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=46'>Switzerland Mixed</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/Switzerland.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1174'>Switzerland</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=46'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=46'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=46&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=62'>United States of America Mixed</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/United_States_of_America.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1196'>United States of America</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=62'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=62'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=62&amp;singleview=1'>Games</a></td></tr>
+</table>
+<table border='0' cellspacing='0' cellpadding='2' width='100%'>
+<tr><th colspan='3'>Guts Open</th>
+</tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=65'>Australia Guts Open</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/Australia.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1011'>Australia</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=65'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=65'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=65&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=70'>Chinese Taipei Guts Open #1</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/Chinese_Taipei.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1187'>Chinese Taipei</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=70'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=70'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=70&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=71'>Chinese Taipei Guts Open #2</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/Chinese_Taipei.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1187'>Chinese Taipei</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=71'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=71'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=71&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=66'>Japan Guts Open #1</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/Japan.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1097'>Japan</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=66'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=66'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=66&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=67'>Japan Guts Open #2</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/Japan.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1097'>Japan</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=67'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=67'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=67&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=73'>Thailand Guts Open</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/Thailand.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1182'>Thailand</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=73'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=73'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=73&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=76'>USA Guts Open #1</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/United_States_of_America.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1196'>United States of America</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=76'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=76'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=76&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=77'>USA Guts Open #2</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/United_States_of_America.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1196'>United States of America</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=77'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=77'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=77&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=78'>USA Guts Open #3</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/United_States_of_America.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1196'>United States of America</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=78'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=78'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=78&amp;singleview=1'>Games</a></td></tr>
+</table>
+<table border='0' cellspacing='0' cellpadding='2' width='100%'>
+<tr><th colspan='3'>Guts Women&#039;s</th>
+</tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=72'>Chinese Taipei Guts Women&#039;s</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/Chinese_Taipei.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1187'>Chinese Taipei</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=72'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=72'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=72&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=68'>Japan Guts Women&#039;s</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/Japan.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1097'>Japan</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=68'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=68'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=68&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=74'>Thailand Guts Women&#039;s #1</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/Thailand.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1182'>Thailand</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=74'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=74'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=74&amp;singleview=1'>Games</a></td></tr>
+<tr><td style='width:200px'><a href='?view=teamcard&amp;team=75'>Thailand Guts Women&#039;s #2</a></td><td style='width:150px'><img height='10' src='images/flags/tiny/Thailand.png' alt=''/>&nbsp;<a href='?view=countrycard&amp;country=1182'>Thailand</a></td><td class='right' style='white-space: nowrap;width:15%'>
+<a href='?view=playerlist&amp;team=75'>Roster</a>&nbsp;&nbsp;<a href='?view=scorestatus&amp;team=75'>Scoreboard</a>&nbsp;&nbsp;<a href='?view=games&amp;team=75&amp;singleview=1'>Games</a></td></tr>
+</table>
+
+</div></td></tr></table></div>
+<script>function menu_toggle() {
+    var x = document.getElementById('menu_left');
+    if (x.style.display === 'block') {
+      x.style.display = 'none';
+    } else {
+      x.style.display = 'block';
+    }
+  }</script><div class='page_bottom'></div></div></body></html>
