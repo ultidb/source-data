@@ -5,7 +5,6 @@ config.py
 db.py
 models.py
 pyproject.toml
-receiver.py
 scrape.py
 tor.py
 core/__init__.py
@@ -31,8 +30,13 @@ sources/wfdf/event_gen.py
 sources/wfdf/events.py
 sources/wfdf/parse.py
 sources/wfdf/source.py
+sources/wfdf_legacy/__init__.py
+sources/wfdf_legacy/events.py
+sources/wfdf_legacy/parse.py
+sources/wfdf_legacy/source.py
 tests/__init__.py
 tests/conftest.py
+tests/test_app_usau_events.py
 tests/test_cache.py
 tests/test_core_parsing.py
 tests/test_example_source.py
@@ -43,11 +47,13 @@ tests/test_legacy_equivalence.py
 tests/test_pipeline.py
 tests/test_registry.py
 tests/test_schema.py
+tests/test_scrape_content_validation.py
 tests/test_serialize.py
 tests/test_usau_fixtures.py
 tests/test_usau_source.py
 tests/test_wfdf.py
 tests/test_wfdf_event_gen.py
+tests/test_wfdf_legacy.py
 usau_scraper.egg-info/PKG-INFO
 usau_scraper.egg-info/SOURCES.txt
 usau_scraper.egg-info/dependency_links.txt

@@ -6,7 +6,7 @@ Scrapes tournament data from USA Ultimate's website.
 
 ### Dependencies
 
-- Python 3.9+
+- Python 3.12+
 - pipenv
 - Tor (for proxied requests)
 - Chrome/Chromium (for Selenium)

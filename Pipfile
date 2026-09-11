@@ -6,7 +6,6 @@ name = "pypi"
 [packages]
 beautifulsoup4 = "*"
 requests = "*"
-cchardet = "*"
 python-dotenv = "*"
 stem = "*"
 pysocks = "*"
@@ -29,4 +28,4 @@ pytest = "*"
 pytest-cov = "*"
 
 [requires]
-python_version = "3.9"
+python_version = "3.12"

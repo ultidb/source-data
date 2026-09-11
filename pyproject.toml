@@ -2,7 +2,7 @@
 name = "usau-scraper"
 version = "1.0.0"
 description = "USAU Tournament Scraper"
-requires-python = ">=3.9"
+requires-python = ">=3.12"
 
 [project.scripts]
 scraper = "cli:cli"
