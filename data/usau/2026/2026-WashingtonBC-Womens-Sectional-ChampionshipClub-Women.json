@@ -1,0 +1,784 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2026-WashingtonBC-Womens-Sectional-ChampionshipClub-Women",
+  "sourceUrl": "http://play.usaultimate.org/events/2026-WashingtonBC-Womens-Sectional-Championship/schedule/Women/Club-Women/",
+  "scrapedAt": "2026-09-12T06:31:07.413804Z",
+  "event": {
+    "name": "2026 Washington/BC Womens Sectional Championship",
+    "division": "Club - Women ",
+    "gender": "",
+    "season": 2026,
+    "city": "Burlington",
+    "state": "WA",
+    "country": "",
+    "startDate": "2026-09-12",
+    "endDate": "2026-09-13"
+  },
+  "teams": [
+    {
+      "name": "Drift",
+      "seed": 1,
+      "sourceTeamId": "q7G7rScHcrkJufYCPS1flk%2f1qu%2bQVQp5Xfjumew%2b%2bBs%3d",
+      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=q7G7rScHcrkJufYCPS1flk%2f1qu%2bQVQp5Xfjumew%2b%2bBs%3d",
+      "info": {
+        "nickname": "",
+        "location": "Vancouver, British Columbia CA",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "coaches",
+        "Karen Wright",
+        "Áine Gilheany",
+        "Wendy Lebreton"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Amelia Keenan"
+        },
+        {
+          "number": "0",
+          "name": "Jenna Mcdonald"
+        },
+        {
+          "number": "0",
+          "name": "Wendy Ma"
+        },
+        {
+          "number": "6",
+          "name": "Clodagh Keely"
+        },
+        {
+          "number": "8",
+          "name": "Kate  Feldstein"
+        },
+        {
+          "number": "9",
+          "name": "Minjoo Koo"
+        },
+        {
+          "number": "02",
+          "name": "Abigail Grunenberg"
+        },
+        {
+          "number": "05",
+          "name": "Kimberly Ng"
+        },
+        {
+          "number": "10",
+          "name": "Janelle Siwa"
+        },
+        {
+          "number": "11",
+          "name": "AT Turner"
+        },
+        {
+          "number": "12",
+          "name": "Audrey Nichols"
+        },
+        {
+          "number": "15",
+          "name": "Courtney Ng"
+        },
+        {
+          "number": "16",
+          "name": "Emma Young"
+        },
+        {
+          "number": "18",
+          "name": "Xiaoyu Feng"
+        },
+        {
+          "number": "23",
+          "name": "Annie Wang"
+        },
+        {
+          "number": "24",
+          "name": "Kiyah Cho"
+        },
+        {
+          "number": "34",
+          "name": "Maya Kasubuchi"
+        },
+        {
+          "number": "38",
+          "name": "Katherine Greene"
+        },
+        {
+          "number": "42",
+          "name": "Alicia Hu"
+        },
+        {
+          "number": "44",
+          "name": "Theresa Xiao"
+        },
+        {
+          "number": "55",
+          "name": "Bernice Xiao"
+        },
+        {
+          "number": "74",
+          "name": "Jun Fu (Michelle) Yang"
+        },
+        {
+          "number": "99",
+          "name": "Khrystianne Peralta"
+        }
+      ]
+    },
+    {
+      "name": "Dogfish",
+      "seed": 4,
+      "sourceTeamId": "TIPO7nPeCtO5fNXc1SXJHGQ6Nt6875277FXb8v9%2f5uE%3d",
+      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=TIPO7nPeCtO5fNXc1SXJHGQ6Nt6875277FXb8v9%2f5uE%3d",
+      "info": {
+        "nickname": "",
+        "location": "Seattle, Washington",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "coaches"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Eleanor Davis"
+        },
+        {
+          "number": "2",
+          "name": "Tien Hoang"
+        },
+        {
+          "number": "3",
+          "name": "Abigail Czekaj"
+        },
+        {
+          "number": "4",
+          "name": "Chloe Fugle"
+        },
+        {
+          "number": "5",
+          "name": "Rachelle Muzones"
+        },
+        {
+          "number": "6",
+          "name": "Vi Truong"
+        },
+        {
+          "number": "8",
+          "name": "Jessica Louie"
+        },
+        {
+          "number": "9",
+          "name": "Carli Waterman"
+        },
+        {
+          "number": "10",
+          "name": "Jane Kennedy"
+        },
+        {
+          "number": "11",
+          "name": "Sophie Redila"
+        },
+        {
+          "number": "12",
+          "name": "Jessica Red"
+        },
+        {
+          "number": "13",
+          "name": "Shylynn Rodrigues"
+        },
+        {
+          "number": "15",
+          "name": "Naomi Liftman"
+        },
+        {
+          "number": "16",
+          "name": "Anna Okounkova"
+        },
+        {
+          "number": "18",
+          "name": "Andrea Ma"
+        },
+        {
+          "number": "19",
+          "name": "Yundi Wang"
+        },
+        {
+          "number": "21",
+          "name": "Ana Monda"
+        },
+        {
+          "number": "22",
+          "name": "Miranda Gormley"
+        },
+        {
+          "number": "23",
+          "name": "Glejae Osia"
+        },
+        {
+          "number": "33",
+          "name": "Natalie Babitzke"
+        },
+        {
+          "number": "55",
+          "name": "Sevonne Hirt"
+        },
+        {
+          "number": "56",
+          "name": "Kayla Tran"
+        },
+        {
+          "number": "57",
+          "name": "Gena Lee"
+        },
+        {
+          "number": "64",
+          "name": "Erika Blackburn"
+        },
+        {
+          "number": "99",
+          "name": "Clara Bass"
+        }
+      ]
+    },
+    {
+      "name": "Seattle Soul",
+      "seed": 6,
+      "sourceTeamId": "YgLqjVCayoXmTC5QMeeZvinKCJgqW4fLc4PFw%2bxaXgg%3d",
+      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=YgLqjVCayoXmTC5QMeeZvinKCJgqW4fLc4PFw%2bxaXgg%3d",
+      "info": {
+        "nickname": "",
+        "location": "Seattle, Washington",
+        "website": "",
+        "facebook": "https://www.facebook.com/seattlesoulultimate/",
+        "twitter": "https://twitter.com/seasoulultimate"
+      },
+      "coaches": [
+        "coaches",
+        "Corinne Pingul"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Hazel Brown"
+        },
+        {
+          "number": "0",
+          "name": "Hannah Newcombe"
+        },
+        {
+          "number": "0",
+          "name": "Isabelle Abbasi"
+        },
+        {
+          "number": "0",
+          "name": "Chamonix Reynolds"
+        },
+        {
+          "number": "0",
+          "name": "Jasley Custodio"
+        },
+        {
+          "number": "0",
+          "name": "Margaret Yim"
+        },
+        {
+          "number": "0",
+          "name": "Marie Hoeger"
+        },
+        {
+          "number": "0",
+          "name": "Alexandra Lewis"
+        },
+        {
+          "number": "0",
+          "name": "Anna Krutsinger"
+        },
+        {
+          "number": "0",
+          "name": "Caroline Mueller"
+        },
+        {
+          "number": "0",
+          "name": "Camille King"
+        },
+        {
+          "number": "0",
+          "name": "Bella Steedly"
+        },
+        {
+          "number": "0",
+          "name": "Annika Jewett"
+        },
+        {
+          "number": "0",
+          "name": "Lena Millard-Kish"
+        },
+        {
+          "number": "0",
+          "name": "Sylvie Kromer"
+        },
+        {
+          "number": "0",
+          "name": "Maelle Thomelin"
+        },
+        {
+          "number": "0",
+          "name": "ZiQi Chau"
+        },
+        {
+          "number": "0",
+          "name": "Rachel Ressmeyer"
+        },
+        {
+          "number": "0",
+          "name": "Philippa Steinberg"
+        },
+        {
+          "number": "0",
+          "name": "Yiwei Shen"
+        },
+        {
+          "number": "0",
+          "name": "Serena Su"
+        },
+        {
+          "number": "1",
+          "name": "Jackie Welsch"
+        },
+        {
+          "number": "8",
+          "name": "Grace Baron"
+        },
+        {
+          "number": "11",
+          "name": "Mayzie Carleton"
+        },
+        {
+          "number": "17",
+          "name": "Harley Mueller"
+        },
+        {
+          "number": "77",
+          "name": "Tess Cullaz"
+        }
+      ]
+    },
+    {
+      "name": "Komodos",
+      "seed": 2,
+      "sourceTeamId": "Z%2fGrT9yTpApib42DkQuV1TvcMTOspwEE3wGg6ebSqGo%3d",
+      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=Z%2fGrT9yTpApib42DkQuV1TvcMTOspwEE3wGg6ebSqGo%3d",
+      "info": {
+        "nickname": "",
+        "location": "Vancouver, British Columbia CA",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "coaches",
+        "Edward Guo"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Mijoo Lee"
+        },
+        {
+          "number": "0",
+          "name": "Noor Al-Tabbaa"
+        },
+        {
+          "number": "0",
+          "name": "Makenzi Basas Harris"
+        },
+        {
+          "number": "0",
+          "name": "Phoebe Chen"
+        },
+        {
+          "number": "0",
+          "name": "Liza Ng"
+        },
+        {
+          "number": "0",
+          "name": "Kathy Huang"
+        },
+        {
+          "number": "0",
+          "name": "Julianna Tan"
+        },
+        {
+          "number": "0",
+          "name": "Zellema Mot"
+        },
+        {
+          "number": "0",
+          "name": "Tessa Bell"
+        },
+        {
+          "number": "0",
+          "name": "Zee He"
+        },
+        {
+          "number": "0",
+          "name": "Tallulah Chan"
+        },
+        {
+          "number": "0",
+          "name": "Suki Liang"
+        },
+        {
+          "number": "0",
+          "name": "Adeline Hui"
+        },
+        {
+          "number": "0",
+          "name": "Charisse Aquino"
+        },
+        {
+          "number": "0",
+          "name": "Daphne Bell"
+        },
+        {
+          "number": "0",
+          "name": "Isabella  Lin"
+        },
+        {
+          "number": "0",
+          "name": "Emily Ma"
+        },
+        {
+          "number": "0",
+          "name": "Grace Paley"
+        },
+        {
+          "number": "00",
+          "name": "Julia Zhou"
+        }
+      ]
+    },
+    {
+      "name": "ditto",
+      "seed": 3,
+      "sourceTeamId": "YrVK601dJAgbz95MYDjr4dDFvsSBpfS4yWly4RyZWMk%3d",
+      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=YrVK601dJAgbz95MYDjr4dDFvsSBpfS4yWly4RyZWMk%3d",
+      "info": {
+        "nickname": "",
+        "location": "Seattle, Washington",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "coaches"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Kelly Bruno"
+        },
+        {
+          "number": "0",
+          "name": "Christy Cheung"
+        },
+        {
+          "number": "0",
+          "name": "Lauren Louderback"
+        },
+        {
+          "number": "0",
+          "name": "Elizabeth Wisdom"
+        },
+        {
+          "number": "0",
+          "name": "Emily Berman"
+        },
+        {
+          "number": "0",
+          "name": "Emily Zhang"
+        },
+        {
+          "number": "0",
+          "name": "Christine Wolf"
+        },
+        {
+          "number": "0",
+          "name": "Angel Yu"
+        },
+        {
+          "number": "0",
+          "name": "Ashley Chan"
+        },
+        {
+          "number": "0",
+          "name": "Anna Meyendorff"
+        },
+        {
+          "number": "0",
+          "name": "Lyda Harris"
+        },
+        {
+          "number": "0",
+          "name": "Rachel Beaton"
+        },
+        {
+          "number": "0",
+          "name": "Seraphie Allen"
+        },
+        {
+          "number": "0",
+          "name": "Sandrine Girard"
+        },
+        {
+          "number": "0",
+          "name": "Tiffany Wong"
+        },
+        {
+          "number": "0",
+          "name": "Annie Fu"
+        },
+        {
+          "number": "0",
+          "name": "Meghan Quigley"
+        },
+        {
+          "number": "0",
+          "name": "Sam Weiler"
+        },
+        {
+          "number": "7",
+          "name": "Bryna Cortes"
+        },
+        {
+          "number": "15",
+          "name": "Ann Huang"
+        },
+        {
+          "number": "24",
+          "name": "Elizabeth Gates"
+        },
+        {
+          "number": "36",
+          "name": "Ruoshi Gao"
+        },
+        {
+          "number": "69",
+          "name": "Taylor Martin"
+        }
+      ]
+    },
+    {
+      "name": "Portland Rain Check",
+      "seed": 5,
+      "sourceTeamId": "%2b2X2lRyrBWoyA86u0CMRp4MN9%2fixfZI4s0Pned6skds%3d",
+      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=%2b2X2lRyrBWoyA86u0CMRp4MN9%2fixfZI4s0Pned6skds%3d",
+      "info": {
+        "nickname": "",
+        "location": "Portland, Oregon",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "coaches",
+        "Jessica Whelan"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Anna Zimmerman"
+        },
+        {
+          "number": "0",
+          "name": "Anna Zeren"
+        },
+        {
+          "number": "0",
+          "name": "Caitlin Hegg"
+        },
+        {
+          "number": "0",
+          "name": "Emily Hays"
+        },
+        {
+          "number": "0",
+          "name": "Emmilea Perkins"
+        },
+        {
+          "number": "0",
+          "name": "Melanie Sawyer"
+        },
+        {
+          "number": "0",
+          "name": "Leah Kenney"
+        },
+        {
+          "number": "0",
+          "name": "Maryanne Maxwell"
+        },
+        {
+          "number": "0",
+          "name": "Kayla Cutter"
+        },
+        {
+          "number": "0",
+          "name": "Kelsey Korbe"
+        },
+        {
+          "number": "0",
+          "name": "Summers Filion"
+        },
+        {
+          "number": "0",
+          "name": "Rachel Woods"
+        },
+        {
+          "number": "0",
+          "name": "Momo Scarboro-Ford"
+        },
+        {
+          "number": "0",
+          "name": "Sydney Gould"
+        },
+        {
+          "number": "0",
+          "name": "Willa Chambers"
+        },
+        {
+          "number": "1",
+          "name": "Sammy GarbageTruck"
+        },
+        {
+          "number": "20",
+          "name": "Suzie Myles"
+        },
+        {
+          "number": "27",
+          "name": "Leslie Boey"
+        },
+        {
+          "number": "31",
+          "name": "Kelly Marx"
+        },
+        {
+          "number": "32",
+          "name": "Robin Joyce"
+        },
+        {
+          "number": "32",
+          "name": "Ysabella Zaloudek-Luba"
+        },
+        {
+          "number": "34",
+          "name": "Lili Gudgel"
+        },
+        {
+          "number": "40",
+          "name": "Annalise Korch"
+        },
+        {
+          "number": "47",
+          "name": "Wren  Schley"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Saturday Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Drift",
+              "team2": "Seattle Soul",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T09:00:00Z",
+              "round": "Pool A",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Drift",
+              "team2": "Dogfish",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T10:45:00Z",
+              "round": "Pool A",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Dogfish",
+              "team2": "Seattle Soul",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T12:30:00Z",
+              "round": "Pool A",
+              "status": "Scheduled"
+            }
+          ]
+        },
+        {
+          "name": "Pool B",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Komodos",
+              "team2": "Portland Rain Check",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T09:00:00Z",
+              "round": "Pool B",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Komodos",
+              "team2": "ditto",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T10:45:00Z",
+              "round": "Pool B",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "ditto",
+              "team2": "Portland Rain Check",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T12:30:00Z",
+              "round": "Pool B",
+              "status": "Scheduled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Saturday Brackets",
+      "groups": [
+        {
+          "name": "1st Place",
+          "isChampionship": false,
+          "games": []
+        },
+        {
+          "name": "5th Place",
+          "isChampionship": false,
+          "games": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2026-Florida-Womens-Sectional-ChampionshipClub-Women",
+  "sourceUrl": "http://play.usaultimate.org/events/2026-Florida-Womens-Sectional-Championship/schedule/Women/Club-Women/",
+  "scrapedAt": "2026-09-12T06:05:58.251730Z",
+  "event": {
+    "name": "2026 Florida Womens Sectional Championship",
+    "division": "Club - Women ",
+    "gender": "",
+    "season": 2026,
+    "city": "Apopka",
+    "state": "FL",
+    "country": "",
+    "startDate": "2026-09-12",
+    "endDate": "2026-09-13"
+  },
+  "teams": [
+    {
+      "name": "Calypso",
+      "seed": 1,
+      "sourceTeamId": "LQASY9jnBZ85McS%2bh7MNHAIMsQy85972fSNtQX2lE40%3d",
+      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=LQASY9jnBZ85McS%2bh7MNHAIMsQy85972fSNtQX2lE40%3d",
+      "info": {
+        "nickname": "",
+        "location": "Tampa, Florida",
+        "website": "",
+        "facebook": "https://www.facebook.com/tampacalypso/",
+        "twitter": "https://twitter.com/tampacalypso"
+      },
+      "coaches": [
+        "coaches"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Georgia Sullivan"
+        },
+        {
+          "number": "0",
+          "name": "Jia Johnson"
+        },
+        {
+          "number": "0",
+          "name": "Haley Bushman"
+        },
+        {
+          "number": "0",
+          "name": "loni Hagen"
+        },
+        {
+          "number": "0",
+          "name": "Jordan Harrow"
+        },
+        {
+          "number": "0",
+          "name": "Heather Hansen"
+        },
+        {
+          "number": "0",
+          "name": "Rhianna Seferian"
+        },
+        {
+          "number": "0",
+          "name": "Adelaide Oman"
+        },
+        {
+          "number": "0",
+          "name": "Amanda Rogas"
+        },
+        {
+          "number": "0",
+          "name": "Charlotte King"
+        },
+        {
+          "number": "0",
+          "name": "Ava DuBose"
+        },
+        {
+          "number": "0",
+          "name": "Faith Gonzalez"
+        },
+        {
+          "number": "0",
+          "name": "Amy Godshall"
+        },
+        {
+          "number": "0",
+          "name": "Sydney Hostelley"
+        },
+        {
+          "number": "0",
+          "name": "Sara Hostelley"
+        },
+        {
+          "number": "0",
+          "name": "Skyler Cripps"
+        },
+        {
+          "number": "0",
+          "name": "Sonya Harding"
+        },
+        {
+          "number": "0",
+          "name": "Roxane Van Horn"
+        },
+        {
+          "number": "17",
+          "name": "Tyana Ruiz"
+        },
+        {
+          "number": "85",
+          "name": "Rachael Thompson"
+        }
+      ]
+    },
+    {
+      "name": "Levels",
+      "seed": 2,
+      "sourceTeamId": "W2WFIpuUDdmLeC19KWIVC%2fJztgUyUKPzgsrg2sk2hV0%3d",
+      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=W2WFIpuUDdmLeC19KWIVC%2fJztgUyUKPzgsrg2sk2hV0%3d",
+      "info": {
+        "nickname": "",
+        "location": "Gainesville, Florida",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "coaches"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Brielle LeClear"
+        },
+        {
+          "number": "0",
+          "name": "Katelyn Travaglini"
+        },
+        {
+          "number": "1",
+          "name": "Hailey Rohlfing"
+        },
+        {
+          "number": "3",
+          "name": "Lenna Kuffner"
+        },
+        {
+          "number": "6",
+          "name": "Ashley Allen"
+        },
+        {
+          "number": "7",
+          "name": "Carolyn Abbott"
+        },
+        {
+          "number": "12",
+          "name": "Vanessa  Stobe"
+        },
+        {
+          "number": "15",
+          "name": "Isabella Katz"
+        },
+        {
+          "number": "23",
+          "name": "Jessica  Peterson"
+        },
+        {
+          "number": "30",
+          "name": "Lucia Summerford"
+        },
+        {
+          "number": "75",
+          "name": "Quinn Kahle"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Round Robin",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Calypso",
+              "team2": "Levels",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T09:00:00Z",
+              "round": "Pool A",
+              "status": "Scheduled"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

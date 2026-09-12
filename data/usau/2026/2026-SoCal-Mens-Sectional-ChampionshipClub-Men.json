@@ -1,0 +1,854 @@
+{
+  "schemaVersion": "1.0",
+  "source": "usau",
+  "sourceEventId": "2026-SoCal-Mens-Sectional-ChampionshipClub-Men",
+  "sourceUrl": "http://play.usaultimate.org/events/2026-SoCal-Mens-Sectional-Championship/schedule/Men/Club-Men/",
+  "scrapedAt": "2026-09-12T06:23:03.732027Z",
+  "event": {
+    "name": "2026 SoCal Mens Sectional Championship",
+    "division": "Club - Men ",
+    "gender": "",
+    "season": 2026,
+    "city": "Tucson",
+    "state": "AZ",
+    "country": "",
+    "startDate": "2026-09-12",
+    "endDate": "2026-09-13"
+  },
+  "teams": [
+    {
+      "name": "Nighthawk",
+      "seed": 1,
+      "sourceTeamId": "zjbzHxVSwLknrCBz7NZzpq0ve0Ao24T1N%2bUPAYUEeF8%3d",
+      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=zjbzHxVSwLknrCBz7NZzpq0ve0Ao24T1N%2bUPAYUEeF8%3d",
+      "info": {
+        "nickname": "",
+        "location": "Phoenix, Arizona",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "coaches"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Andrew Kohl"
+        },
+        {
+          "number": "0",
+          "name": "Mario Verdugo"
+        },
+        {
+          "number": "2",
+          "name": "Kakeru Chiba"
+        },
+        {
+          "number": "3",
+          "name": "Joshua Saad"
+        },
+        {
+          "number": "5",
+          "name": "Brandon Watabe"
+        },
+        {
+          "number": "6",
+          "name": "Harrison Tratnik"
+        },
+        {
+          "number": "7",
+          "name": "Jake Hageman"
+        },
+        {
+          "number": "8",
+          "name": "Elijah Salmon"
+        },
+        {
+          "number": "9",
+          "name": "Jake Paulson"
+        },
+        {
+          "number": "12",
+          "name": "Ethan Gaiser"
+        },
+        {
+          "number": "14",
+          "name": "Kento Araki"
+        },
+        {
+          "number": "25",
+          "name": "Jake Thomason"
+        },
+        {
+          "number": "29",
+          "name": "Marshall Crawford"
+        },
+        {
+          "number": "33",
+          "name": "Jonah  Rominski"
+        },
+        {
+          "number": "34",
+          "name": "Nathan Paauw"
+        },
+        {
+          "number": "42",
+          "name": "Cael Kubly"
+        },
+        {
+          "number": "50",
+          "name": "Samuel Besse"
+        },
+        {
+          "number": "51",
+          "name": "Nathan Page"
+        },
+        {
+          "number": "59",
+          "name": "Jeremy Harris"
+        },
+        {
+          "number": "67",
+          "name": "Taylor Gilman"
+        },
+        {
+          "number": "72",
+          "name": "Alex Van Der Geest"
+        },
+        {
+          "number": "76",
+          "name": "Connor Garrison"
+        },
+        {
+          "number": "80",
+          "name": "Travis Dunn"
+        },
+        {
+          "number": "81",
+          "name": "Caden Sigerud"
+        },
+        {
+          "number": "88",
+          "name": "Garrett Hable"
+        },
+        {
+          "number": "89",
+          "name": "Adam Whitton"
+        }
+      ]
+    },
+    {
+      "name": "Hazard",
+      "seed": 2,
+      "sourceTeamId": "tL46ZvWtPCz58K4OPz5qnqJhuNuA4wKs8tvLodVtZmU%3d",
+      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=tL46ZvWtPCz58K4OPz5qnqJhuNuA4wKs8tvLodVtZmU%3d",
+      "info": {
+        "nickname": "",
+        "location": "Los Angeles, California",
+        "website": "https://www.instagram.com/hazardultimate/",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "coaches"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Camden Mah"
+        },
+        {
+          "number": "01",
+          "name": "Zachary Ewing"
+        },
+        {
+          "number": "02",
+          "name": "Liam Bestian"
+        },
+        {
+          "number": "02",
+          "name": "Louis Gosart"
+        },
+        {
+          "number": "09",
+          "name": "Thomas Anderson"
+        },
+        {
+          "number": "10",
+          "name": "Ryan Tuthill"
+        },
+        {
+          "number": "11",
+          "name": "Tayte Olson"
+        },
+        {
+          "number": "13",
+          "name": "James Ivey"
+        },
+        {
+          "number": "14",
+          "name": "Booker  Jay"
+        },
+        {
+          "number": "18",
+          "name": "Andrew Laeuger"
+        },
+        {
+          "number": "20",
+          "name": "Adam Paicely"
+        },
+        {
+          "number": "20",
+          "name": "Mateo Nacusi"
+        },
+        {
+          "number": "21",
+          "name": "Eetai Shwartz"
+        },
+        {
+          "number": "23",
+          "name": "Kevin Sparacino"
+        },
+        {
+          "number": "24",
+          "name": "Andrew LeMaster"
+        },
+        {
+          "number": "25",
+          "name": "Marshall Wildmann"
+        },
+        {
+          "number": "28",
+          "name": "Nolan Emis"
+        },
+        {
+          "number": "30",
+          "name": "Tomasso AbramsonWard"
+        },
+        {
+          "number": "33",
+          "name": "Tucker Lemos"
+        },
+        {
+          "number": "42",
+          "name": "Devin Cox"
+        },
+        {
+          "number": "44",
+          "name": "Remy Smith"
+        },
+        {
+          "number": "48",
+          "name": "Levi Brown"
+        },
+        {
+          "number": "63",
+          "name": "Victor Zhivich"
+        },
+        {
+          "number": "77",
+          "name": "Hudson Stuck"
+        },
+        {
+          "number": "87",
+          "name": "Ryan Trinh"
+        },
+        {
+          "number": "88",
+          "name": "Jason Paul"
+        }
+      ]
+    },
+    {
+      "name": "Skipjack",
+      "seed": 3,
+      "sourceTeamId": "Lm0eVmytouy%2byRijX94r0e8VYlUKOiKGJ2qXU2XTlF8%3d",
+      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=Lm0eVmytouy%2byRijX94r0e8VYlUKOiKGJ2qXU2XTlF8%3d",
+      "info": {
+        "nickname": "",
+        "location": "San Diego, California",
+        "website": "",
+        "facebook": "https://www.facebook.com/sdstreetgang",
+        "twitter": "https://twitter.com/SDskipjack"
+      },
+      "coaches": [
+        "coaches"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Aaron Zeng"
+        },
+        {
+          "number": "0",
+          "name": "Carlos Garcia"
+        },
+        {
+          "number": "0",
+          "name": "Camden Lunceford"
+        },
+        {
+          "number": "0",
+          "name": "Eric Biggs"
+        },
+        {
+          "number": "0",
+          "name": "David Schwartz"
+        },
+        {
+          "number": "0",
+          "name": "Mark Mendelevitz"
+        },
+        {
+          "number": "0",
+          "name": "Samuel Altshuler"
+        },
+        {
+          "number": "0",
+          "name": "Reno Wilson"
+        },
+        {
+          "number": "0",
+          "name": "Tyler Kurpanek"
+        },
+        {
+          "number": "0",
+          "name": "Wyatt Dunn"
+        },
+        {
+          "number": "0",
+          "name": "Tyler Bourke"
+        },
+        {
+          "number": "2",
+          "name": "Alejandro Reyes"
+        },
+        {
+          "number": "10",
+          "name": "Christopher Pagliaro"
+        },
+        {
+          "number": "11",
+          "name": "Graham Gerhart"
+        },
+        {
+          "number": "16",
+          "name": "Landon  McDowell"
+        },
+        {
+          "number": "19",
+          "name": "Joe Roberts"
+        },
+        {
+          "number": "24",
+          "name": "Javid Aceil"
+        },
+        {
+          "number": "26",
+          "name": "Jake Hooper"
+        },
+        {
+          "number": "27",
+          "name": "Landon Block"
+        },
+        {
+          "number": "56",
+          "name": "Alex Bindschadler"
+        },
+        {
+          "number": "68",
+          "name": "Vivek Gadicherla"
+        },
+        {
+          "number": "82",
+          "name": "Jeff Taylor"
+        },
+        {
+          "number": "91",
+          "name": "Nico Nonemaker"
+        },
+        {
+          "number": "99",
+          "name": "Brandon Yee"
+        },
+        {
+          "number": "99",
+          "name": "Steven Brooks"
+        }
+      ]
+    },
+    {
+      "name": "OC Crows",
+      "seed": 4,
+      "sourceTeamId": "uTEyzLQU5vprafWVtTn70iiC8Q9QdiBLIZJ9Nv%2fwG14%3d",
+      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=uTEyzLQU5vprafWVtTn70iiC8Q9QdiBLIZJ9Nv%2fwG14%3d",
+      "info": {
+        "nickname": "",
+        "location": "Irvine, California",
+        "website": "https://www.instagram.com/crowsultimate/",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "coaches"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alan Yuen"
+        },
+        {
+          "number": "0",
+          "name": "Ben Schroeder"
+        },
+        {
+          "number": "0",
+          "name": "Christian Chang"
+        },
+        {
+          "number": "0",
+          "name": "Jacob Groner"
+        },
+        {
+          "number": "0",
+          "name": "Kanle Yao"
+        },
+        {
+          "number": "0",
+          "name": "Wayne Lu"
+        },
+        {
+          "number": "0",
+          "name": "Matthew Lu"
+        },
+        {
+          "number": "0",
+          "name": "Layne Sutton"
+        },
+        {
+          "number": "0",
+          "name": "Zachary Tanabe"
+        },
+        {
+          "number": "0",
+          "name": "Sam Kennedy"
+        },
+        {
+          "number": "0",
+          "name": "Joacim Zamora"
+        },
+        {
+          "number": "0",
+          "name": "Jesse Packel"
+        },
+        {
+          "number": "3",
+          "name": "Jacob Walsh"
+        },
+        {
+          "number": "5",
+          "name": "Bryce  Wilson"
+        },
+        {
+          "number": "9",
+          "name": "Garrett Heisinger"
+        },
+        {
+          "number": "14",
+          "name": "August Soderberg"
+        },
+        {
+          "number": "18",
+          "name": "Anthony Phan"
+        },
+        {
+          "number": "21",
+          "name": "Isaiah Hernandez"
+        },
+        {
+          "number": "78",
+          "name": "Kevin Wakakuwa"
+        }
+      ]
+    },
+    {
+      "name": "Arizona Frisbee Club",
+      "seed": 5,
+      "sourceTeamId": "BqKZ9sH9zfqd7KL5NF1YkURdnjcHLKJ9mqN8qzP3uuM%3d",
+      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=BqKZ9sH9zfqd7KL5NF1YkURdnjcHLKJ9mqN8qzP3uuM%3d",
+      "info": {
+        "nickname": "",
+        "location": "Tucson, Arizona",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "coaches"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Adam Gaboury"
+        },
+        {
+          "number": "0",
+          "name": "Asher Rosoff"
+        },
+        {
+          "number": "0",
+          "name": "Joaquin Buenviaje"
+        },
+        {
+          "number": "0",
+          "name": "Drew Radfelder"
+        },
+        {
+          "number": "0",
+          "name": "Jackson Kayser"
+        },
+        {
+          "number": "0",
+          "name": "Dwayne Engstrom"
+        },
+        {
+          "number": "0",
+          "name": "Grant Katanick"
+        },
+        {
+          "number": "0",
+          "name": "Kevin Chang"
+        },
+        {
+          "number": "0",
+          "name": "Robert Hellinga"
+        },
+        {
+          "number": "0",
+          "name": "Mason Shaffer"
+        },
+        {
+          "number": "0",
+          "name": "Phillip Samuels"
+        },
+        {
+          "number": "0",
+          "name": "Mario Weiler"
+        },
+        {
+          "number": "0",
+          "name": "Matthew Dankwerth"
+        },
+        {
+          "number": "0",
+          "name": "Riley Greene"
+        },
+        {
+          "number": "0",
+          "name": "Shivam Kedia"
+        },
+        {
+          "number": "6",
+          "name": "Alan Flores"
+        },
+        {
+          "number": "8",
+          "name": "Mitchell Rutherford"
+        },
+        {
+          "number": "11",
+          "name": "Sam Freitas"
+        },
+        {
+          "number": "14",
+          "name": "Chris Salazar"
+        },
+        {
+          "number": "15",
+          "name": "Carlos Diaz"
+        },
+        {
+          "number": "21",
+          "name": "Brendan Carriel"
+        },
+        {
+          "number": "22",
+          "name": "John Priest"
+        },
+        {
+          "number": "60",
+          "name": "Joe Sobansky"
+        },
+        {
+          "number": "86",
+          "name": "Kianu Dolce"
+        },
+        {
+          "number": "92",
+          "name": "Ted Glenn"
+        }
+      ]
+    },
+    {
+      "name": "Bonsoon",
+      "seed": 6,
+      "sourceTeamId": "DMqbalzguLrhQn9zpgLrF6%2f9aOwJqmIW0wdFSuQJNgQ%3d",
+      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=DMqbalzguLrhQn9zpgLrF6%2f9aOwJqmIW0wdFSuQJNgQ%3d",
+      "info": {
+        "nickname": "",
+        "location": "Tempe, Arizona",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "coaches"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Joshua Furo"
+        },
+        {
+          "number": "0",
+          "name": "Hayato Nakamura"
+        },
+        {
+          "number": "15",
+          "name": "Alvin Miles"
+        },
+        {
+          "number": "31",
+          "name": "Hederik Kosten"
+        },
+        {
+          "number": "67",
+          "name": "Alessandro Marcolini"
+        },
+        {
+          "number": "67",
+          "name": "Cameron Jazmin"
+        },
+        {
+          "number": "67",
+          "name": "Asher Moore"
+        },
+        {
+          "number": "67",
+          "name": "Luke Owen"
+        },
+        {
+          "number": "67",
+          "name": "Joseph LaMacchia"
+        },
+        {
+          "number": "67",
+          "name": "Hibiki Jige"
+        },
+        {
+          "number": "67",
+          "name": "Kyle Cagno"
+        },
+        {
+          "number": "67",
+          "name": "Hudson Mazzanti"
+        },
+        {
+          "number": "67",
+          "name": "Josuha Bonnie"
+        },
+        {
+          "number": "67",
+          "name": "Jared van Loben Sels"
+        },
+        {
+          "number": "67",
+          "name": "Stephen Smith"
+        },
+        {
+          "number": "67",
+          "name": "Sebastian Puerta"
+        },
+        {
+          "number": "67",
+          "name": "Tyler McKeown"
+        },
+        {
+          "number": "67",
+          "name": "Nemin Jia"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "type": "pools",
+      "name": "Pool Play",
+      "groups": [
+        {
+          "name": "Pool A",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Nighthawk",
+              "team2": "Skipjack",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T08:30:00Z",
+              "round": "Pool A",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Hazard",
+              "team2": "Arizona Frisbee Club",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T08:30:00Z",
+              "round": "Pool A",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "OC Crows",
+              "team2": "Bonsoon",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T08:30:00Z",
+              "round": "Pool A",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Nighthawk",
+              "team2": "Hazard",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T10:15:00Z",
+              "round": "Pool A",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Skipjack",
+              "team2": "OC Crows",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T10:15:00Z",
+              "round": "Pool A",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Arizona Frisbee Club",
+              "team2": "Bonsoon",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T10:15:00Z",
+              "round": "Pool A",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Nighthawk",
+              "team2": "OC Crows",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T12:00:00Z",
+              "round": "Pool A",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Hazard",
+              "team2": "Bonsoon",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T12:00:00Z",
+              "round": "Pool A",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Skipjack",
+              "team2": "Arizona Frisbee Club",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T12:00:00Z",
+              "round": "Pool A",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Nighthawk",
+              "team2": "Bonsoon",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T13:45:00Z",
+              "round": "Pool A",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Hazard",
+              "team2": "Skipjack",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T13:45:00Z",
+              "round": "Pool A",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "OC Crows",
+              "team2": "Arizona Frisbee Club",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T13:45:00Z",
+              "round": "Pool A",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Nighthawk",
+              "team2": "Arizona Frisbee Club",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T08:30:00Z",
+              "round": "Pool A",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Hazard",
+              "team2": "OC Crows",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T08:30:00Z",
+              "round": "Pool A",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Skipjack",
+              "team2": "Bonsoon",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T08:30:00Z",
+              "round": "Pool A",
+              "status": "Scheduled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "brackets",
+      "name": "Bracket Play",
+      "groups": [
+        {
+          "name": "Championship",
+          "isChampionship": false,
+          "games": []
+        },
+        {
+          "name": "Second Place",
+          "isChampionship": false,
+          "games": []
+        },
+        {
+          "name": "Fourth Place (Game to Go)",
+          "isChampionship": false,
+          "games": []
+        }
+      ]
+    }
+  ]
+}
