@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-East-Plains-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-East-Plains-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-12T20:18:19.972595Z",
+  "scrapedAt": "2026-09-12T20:38:24.704596Z",
   "event": {
     "name": "2026 East Plains Mens Sectional Championship",
     "division": "Club - Men ",
@@ -1536,11 +1536,11 @@
             {
               "team1": "Flying Dutchmen",
               "team2": "Dynasty",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 8,
               "datetime": "2026-09-12T15:30:00Z",
               "round": "Pool A",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -1656,11 +1656,11 @@
             {
               "team1": "Black Lung",
               "team2": "Mayhem",
-              "score1": 0,
+              "score1": 13,
               "score2": 0,
               "datetime": "2026-09-12T15:30:00Z",
               "round": "Pool D 3rd Place",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         }
@@ -1688,7 +1688,17 @@
         {
           "name": "6th Place Bracket",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Mischief",
+              "team2": "Black Lung",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T17:15:00Z",
+              "round": "6th Prequarters",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "8th Place Bracket",

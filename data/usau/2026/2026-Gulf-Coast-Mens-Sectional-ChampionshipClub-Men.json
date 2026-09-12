@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Gulf-Coast-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Gulf-Coast-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-12T20:20:13.319726Z",
+  "scrapedAt": "2026-09-12T20:40:25.354901Z",
   "event": {
     "name": "2026 Gulf Coast Mens Sectional Championship",
     "division": "Club - Men ",
@@ -941,20 +941,20 @@
             {
               "team1": "Apollo",
               "team2": "Alliance",
-              "score1": 0,
-              "score2": 0,
+              "score1": 12,
+              "score2": 7,
               "datetime": "2026-09-12T12:30:00Z",
               "round": "Pool A",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Barefoot",
               "team2": "Southern Hospitality",
-              "score1": 0,
-              "score2": 0,
+              "score1": 8,
+              "score2": 13,
               "datetime": "2026-09-12T12:30:00Z",
               "round": "Pool A",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -1001,20 +1001,20 @@
             {
               "team1": "Cookie Mon$terz",
               "team2": "Battleship",
-              "score1": 0,
-              "score2": 0,
+              "score1": 12,
+              "score2": 13,
               "datetime": "2026-09-12T12:30:00Z",
               "round": "Pool B",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Gang Of Disc",
               "team2": "Afterburner",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 8,
               "datetime": "2026-09-12T12:30:00Z",
               "round": "Pool B",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         }
@@ -1027,7 +1027,26 @@
         {
           "name": "Championship Bracket",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Gang Of Disc",
+              "team2": "Southern Hospitality",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T14:15:00Z",
+              "round": "Quarters",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Alliance",
+              "team2": "Cookie Mon$terz",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T14:15:00Z",
+              "round": "Quarters",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "Third Place Bracket",

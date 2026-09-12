@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Central-Plains-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Central-Plains-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-12T20:17:03.764879Z",
+  "scrapedAt": "2026-09-12T20:37:05.363838Z",
   "event": {
     "name": "2026 Central Plains Mens Sectional Championship",
     "division": "Club - Men ",
@@ -1423,11 +1423,11 @@
             {
               "team1": "I-69",
               "team2": "Trident",
-              "score1": 12,
+              "score1": 13,
               "score2": 6,
               "datetime": "2026-09-12T15:30:00Z",
               "round": "Pool C",
-              "status": "In Progress"
+              "status": "Final"
             },
             {
               "team1": "On Ramp",
@@ -1498,8 +1498,8 @@
             {
               "team1": "Roundhouse",
               "team2": "Omen",
-              "score1": 8,
-              "score2": 4,
+              "score1": 9,
+              "score2": 6,
               "datetime": "2026-09-12T15:30:00Z",
               "round": "L1 vs W2",
               "status": "In Progress"
@@ -1513,8 +1513,8 @@
             {
               "team1": "Shift",
               "team2": "Maumee Boys",
-              "score1": 6,
-              "score2": 7,
+              "score1": 7,
+              "score2": 9,
               "datetime": "2026-09-12T15:30:00Z",
               "round": "L2 vs W3",
               "status": "In Progress"
@@ -1530,7 +1530,17 @@
         {
           "name": "1st Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Haymaker",
+              "team2": "I-69",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "1st Place",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "2nd Place",
@@ -1556,7 +1566,17 @@
         {
           "name": "Pool D",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Satellite",
+              "team2": "Knockout",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "Pool D",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     }

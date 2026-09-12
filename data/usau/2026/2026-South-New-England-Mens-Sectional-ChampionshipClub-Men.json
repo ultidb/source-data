@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-South-New-England-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-South-New-England-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-12T20:27:46.049187Z",
+  "scrapedAt": "2026-09-12T20:48:13.224395Z",
   "event": {
     "name": "2026 South New England Mens Sectional Championship",
     "division": "Club - Men ",
@@ -1546,6 +1546,15 @@
           "games": [
             {
               "team1": "Sprout",
+              "team2": "Big Wrench",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "1st",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Sprout",
               "team2": "Iditarod",
               "score1": 15,
               "score2": 7,
@@ -1556,11 +1565,11 @@
             {
               "team1": "Providence Poultry",
               "team2": "Big Wrench",
-              "score1": 0,
-              "score2": 0,
+              "score1": 4,
+              "score2": 15,
               "datetime": "2026-09-13T14:15:00Z",
               "round": "Round Name",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -1568,6 +1577,24 @@
           "name": "2nd place",
           "isChampionship": false,
           "games": [
+            {
+              "team1": "Providence Poultry",
+              "team2": "BAG",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "quarters",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Odyssey",
+              "team2": "Iditarod",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "quarters",
+              "status": "Scheduled"
+            },
             {
               "team1": "MBTA",
               "team2": "BAG",
@@ -1584,7 +1611,7 @@
               "score2": 15,
               "datetime": "2026-09-12T14:15:00Z",
               "round": "pre-q",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -1597,6 +1624,15 @@
           "name": "Game to Go",
           "isChampionship": false,
           "games": [
+            {
+              "team1": "Skeleton Squad",
+              "team2": "Riverside Riptide",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "q",
+              "status": "Scheduled"
+            },
             {
               "team1": "Lantern",
               "team2": "MBTA",
