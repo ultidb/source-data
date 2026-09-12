@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-East-Plains-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-East-Plains-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-12T13:18:39.764832Z",
+  "scrapedAt": "2026-09-12T13:38:37.164686Z",
   "event": {
     "name": "2026 East Plains Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -1789,11 +1789,20 @@
           "isChampionship": false,
           "games": [
             {
+              "team1": "Toast!",
+              "team2": "Columbus Chaos",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T12:00:00Z",
+              "round": "Pool A",
+              "status": "Scheduled"
+            },
+            {
               "team1": "Union",
               "team2": "Columbus Chaos",
               "score1": 0,
               "score2": 0,
-              "datetime": "2026-09-12T09:00:00Z",
+              "datetime": "2026-09-12T13:45:00Z",
               "round": "Pool A",
               "status": "Scheduled"
             },
@@ -1802,16 +1811,7 @@
               "team2": "Toast!",
               "score1": 0,
               "score2": 0,
-              "datetime": "2026-09-12T11:00:00Z",
-              "round": "Pool A",
-              "status": "Scheduled"
-            },
-            {
-              "team1": "Toast!",
-              "team2": "Columbus Chaos",
-              "score1": 0,
-              "score2": 0,
-              "datetime": "2026-09-12T13:00:00Z",
+              "datetime": "2026-09-12T15:30:00Z",
               "round": "Pool A",
               "status": "Scheduled"
             }
@@ -1826,7 +1826,7 @@
               "team2": "Melonheads",
               "score1": 0,
               "score2": 0,
-              "datetime": "2026-09-12T09:00:00Z",
+              "datetime": "2026-09-12T12:00:00Z",
               "round": "Pool B",
               "status": "Scheduled"
             },
@@ -1835,7 +1835,7 @@
               "team2": "BLERF",
               "score1": 0,
               "score2": 0,
-              "datetime": "2026-09-12T09:00:00Z",
+              "datetime": "2026-09-12T12:00:00Z",
               "round": "Pool B",
               "status": "Scheduled"
             },
@@ -1844,7 +1844,7 @@
               "team2": "BLERF",
               "score1": 0,
               "score2": 0,
-              "datetime": "2026-09-12T11:00:00Z",
+              "datetime": "2026-09-12T13:45:00Z",
               "round": "Pool B",
               "status": "Scheduled"
             },
@@ -1853,7 +1853,7 @@
               "team2": "Melonheads",
               "score1": 0,
               "score2": 0,
-              "datetime": "2026-09-12T11:00:00Z",
+              "datetime": "2026-09-12T13:45:00Z",
               "round": "Pool B",
               "status": "Scheduled"
             },
@@ -1862,7 +1862,7 @@
               "team2": "Lightning",
               "score1": 0,
               "score2": 0,
-              "datetime": "2026-09-12T13:00:00Z",
+              "datetime": "2026-09-12T15:30:00Z",
               "round": "Pool B",
               "status": "Scheduled"
             },
@@ -1871,7 +1871,7 @@
               "team2": "BLERF",
               "score1": 0,
               "score2": 0,
-              "datetime": "2026-09-12T13:00:00Z",
+              "datetime": "2026-09-12T15:30:00Z",
               "round": "Pool B",
               "status": "Scheduled"
             }
@@ -1886,7 +1886,7 @@
               "team2": "WORM",
               "score1": 0,
               "score2": 0,
-              "datetime": "2026-09-12T09:00:00Z",
+              "datetime": "2026-09-12T12:00:00Z",
               "round": "Pool C",
               "status": "Scheduled"
             },
@@ -1895,7 +1895,7 @@
               "team2": "Columbus Cohesion",
               "score1": 0,
               "score2": 0,
-              "datetime": "2026-09-12T09:00:00Z",
+              "datetime": "2026-09-12T12:00:00Z",
               "round": "Pool C",
               "status": "Scheduled"
             },
@@ -1904,7 +1904,7 @@
               "team2": "Columbus Cohesion",
               "score1": 0,
               "score2": 0,
-              "datetime": "2026-09-12T11:00:00Z",
+              "datetime": "2026-09-12T13:45:00Z",
               "round": "Pool C",
               "status": "Scheduled"
             },
@@ -1913,7 +1913,7 @@
               "team2": "WORM",
               "score1": 0,
               "score2": 0,
-              "datetime": "2026-09-12T11:00:00Z",
+              "datetime": "2026-09-12T13:45:00Z",
               "round": "Pool C",
               "status": "Scheduled"
             },
@@ -1922,7 +1922,7 @@
               "team2": "Akron Nimb",
               "score1": 0,
               "score2": 0,
-              "datetime": "2026-09-12T13:00:00Z",
+              "datetime": "2026-09-12T15:30:00Z",
               "round": "Pool C",
               "status": "Scheduled"
             },
@@ -1931,7 +1931,7 @@
               "team2": "Columbus Cohesion",
               "score1": 0,
               "score2": 0,
-              "datetime": "2026-09-12T13:00:00Z",
+              "datetime": "2026-09-12T15:30:00Z",
               "round": "Pool C",
               "status": "Scheduled"
             }
@@ -1946,7 +1946,7 @@
               "team2": "Thunderpants the Magic Dragon",
               "score1": 0,
               "score2": 0,
-              "datetime": "2026-09-12T09:00:00Z",
+              "datetime": "2026-09-12T12:00:00Z",
               "round": "Pool D",
               "status": "Scheduled"
             },
@@ -1955,7 +1955,7 @@
               "team2": "Pixel",
               "score1": 0,
               "score2": 0,
-              "datetime": "2026-09-12T09:00:00Z",
+              "datetime": "2026-09-12T12:00:00Z",
               "round": "Pool D",
               "status": "Scheduled"
             },
@@ -1964,7 +1964,7 @@
               "team2": "Pixel",
               "score1": 0,
               "score2": 0,
-              "datetime": "2026-09-12T11:00:00Z",
+              "datetime": "2026-09-12T13:45:00Z",
               "round": "Pool D",
               "status": "Scheduled"
             },
@@ -1973,7 +1973,7 @@
               "team2": "Thunderpants the Magic Dragon",
               "score1": 0,
               "score2": 0,
-              "datetime": "2026-09-12T11:00:00Z",
+              "datetime": "2026-09-12T13:45:00Z",
               "round": "Pool D",
               "status": "Scheduled"
             },
@@ -1982,7 +1982,7 @@
               "team2": "Queen City Gambit",
               "score1": 0,
               "score2": 0,
-              "datetime": "2026-09-12T13:00:00Z",
+              "datetime": "2026-09-12T15:30:00Z",
               "round": "Pool D",
               "status": "Scheduled"
             },
@@ -1991,7 +1991,7 @@
               "team2": "Pixel",
               "score1": 0,
               "score2": 0,
-              "datetime": "2026-09-12T13:00:00Z",
+              "datetime": "2026-09-12T15:30:00Z",
               "round": "Pool D",
               "status": "Scheduled"
             }
