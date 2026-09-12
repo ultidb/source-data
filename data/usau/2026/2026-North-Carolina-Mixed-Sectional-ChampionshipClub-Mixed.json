@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-North-Carolina-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-North-Carolina-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-12T14:02:51.687054Z",
+  "scrapedAt": "2026-09-12T14:22:55.451465Z",
   "event": {
     "name": "2026 North Carolina Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -16,128 +16,6 @@
     "endDate": "2026-09-13"
   },
   "teams": [
-    {
-      "name": "Brunch Club",
-      "seed": 1,
-      "sourceTeamId": "m%2b6Qmy7R7DfBYHLo8sMG2yvZ6uKij4w3NiiHrx27Zfo%3d",
-      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=m%2b6Qmy7R7DfBYHLo8sMG2yvZ6uKij4w3NiiHrx27Zfo%3d",
-      "info": {
-        "nickname": "",
-        "location": "Durham, North Carolina",
-        "website": "",
-        "facebook": "",
-        "twitter": ""
-      },
-      "coaches": [
-        "coaches"
-      ],
-      "roster": [
-        {
-          "number": "0",
-          "name": "Patrick Ledlee"
-        },
-        {
-          "number": "01",
-          "name": "Alex Bienkowski"
-        },
-        {
-          "number": "02",
-          "name": "Savannah Erwin"
-        },
-        {
-          "number": "04",
-          "name": "Evan Howey"
-        },
-        {
-          "number": "06",
-          "name": "Qing (Jenny) Wei"
-        },
-        {
-          "number": "07",
-          "name": "Britt Mercadante"
-        },
-        {
-          "number": "08",
-          "name": "Heather Zimmerman"
-        },
-        {
-          "number": "10",
-          "name": "Matt Chun"
-        },
-        {
-          "number": "11",
-          "name": "George Guthrie"
-        },
-        {
-          "number": "13",
-          "name": "Mason Gardner"
-        },
-        {
-          "number": "17",
-          "name": "Dylan Shields"
-        },
-        {
-          "number": "18",
-          "name": "Kelly Merhar"
-        },
-        {
-          "number": "20",
-          "name": "Brenna Murray"
-        },
-        {
-          "number": "22",
-          "name": "Chelsea Zhu"
-        },
-        {
-          "number": "25",
-          "name": "Judy Ledlee"
-        },
-        {
-          "number": "25",
-          "name": "Michael Pannone"
-        },
-        {
-          "number": "28",
-          "name": "Amy Melena"
-        },
-        {
-          "number": "33",
-          "name": "Abigail Lyle"
-        },
-        {
-          "number": "45",
-          "name": "Nathan Lyle"
-        },
-        {
-          "number": "59",
-          "name": "Audrey Lyman"
-        },
-        {
-          "number": "72",
-          "name": "Nick Longo"
-        },
-        {
-          "number": "77",
-          "name": "Cole Osborn"
-        },
-        {
-          "number": "85",
-          "name": "Ted Randby"
-        },
-        {
-          "number": "87",
-          "name": "Alyssa Irons"
-        },
-        {
-          "number": "88",
-          "name": "Christine Bookhout"
-        },
-        {
-          "number": "93",
-          "name": "Emily Vickery"
-        }
-      ]
-    },
     {
       "name": "Catalyst",
       "seed": 4,
@@ -263,6 +141,128 @@
         {
           "number": "72",
           "name": "John Christiansen"
+        }
+      ]
+    },
+    {
+      "name": "Brunch Club",
+      "seed": 1,
+      "sourceTeamId": "m%2b6Qmy7R7DfBYHLo8sMG2yvZ6uKij4w3NiiHrx27Zfo%3d",
+      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=m%2b6Qmy7R7DfBYHLo8sMG2yvZ6uKij4w3NiiHrx27Zfo%3d",
+      "info": {
+        "nickname": "",
+        "location": "Durham, North Carolina",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "coaches"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Patrick Ledlee"
+        },
+        {
+          "number": "01",
+          "name": "Alex Bienkowski"
+        },
+        {
+          "number": "02",
+          "name": "Savannah Erwin"
+        },
+        {
+          "number": "04",
+          "name": "Evan Howey"
+        },
+        {
+          "number": "06",
+          "name": "Qing (Jenny) Wei"
+        },
+        {
+          "number": "07",
+          "name": "Britt Mercadante"
+        },
+        {
+          "number": "08",
+          "name": "Heather Zimmerman"
+        },
+        {
+          "number": "10",
+          "name": "Matt Chun"
+        },
+        {
+          "number": "11",
+          "name": "George Guthrie"
+        },
+        {
+          "number": "13",
+          "name": "Mason Gardner"
+        },
+        {
+          "number": "17",
+          "name": "Dylan Shields"
+        },
+        {
+          "number": "18",
+          "name": "Kelly Merhar"
+        },
+        {
+          "number": "20",
+          "name": "Brenna Murray"
+        },
+        {
+          "number": "22",
+          "name": "Chelsea Zhu"
+        },
+        {
+          "number": "25",
+          "name": "Judy Ledlee"
+        },
+        {
+          "number": "25",
+          "name": "Michael Pannone"
+        },
+        {
+          "number": "28",
+          "name": "Amy Melena"
+        },
+        {
+          "number": "33",
+          "name": "Abigail Lyle"
+        },
+        {
+          "number": "45",
+          "name": "Nathan Lyle"
+        },
+        {
+          "number": "59",
+          "name": "Audrey Lyman"
+        },
+        {
+          "number": "72",
+          "name": "Nick Longo"
+        },
+        {
+          "number": "77",
+          "name": "Cole Osborn"
+        },
+        {
+          "number": "85",
+          "name": "Ted Randby"
+        },
+        {
+          "number": "87",
+          "name": "Alyssa Irons"
+        },
+        {
+          "number": "88",
+          "name": "Christine Bookhout"
+        },
+        {
+          "number": "93",
+          "name": "Emily Vickery"
         }
       ]
     },
@@ -511,128 +511,6 @@
       ]
     },
     {
-      "name": "Asheville Parliament",
-      "seed": 2,
-      "sourceTeamId": "%2fhOMxxakejnLyYoOdVKvzwvpeRdav8veIBHbkpnENbI%3d",
-      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=%2fhOMxxakejnLyYoOdVKvzwvpeRdav8veIBHbkpnENbI%3d",
-      "info": {
-        "nickname": "",
-        "location": "Asheville, North Carolina",
-        "website": "",
-        "facebook": "",
-        "twitter": ""
-      },
-      "coaches": [
-        "coaches"
-      ],
-      "roster": [
-        {
-          "number": "0",
-          "name": "Lucy Murray"
-        },
-        {
-          "number": "01",
-          "name": "Allison Bashford"
-        },
-        {
-          "number": "02",
-          "name": "Leo Murray"
-        },
-        {
-          "number": "06",
-          "name": "Adam Carr"
-        },
-        {
-          "number": "07",
-          "name": "Mya Burrows-Kurr"
-        },
-        {
-          "number": "08",
-          "name": "Bailey Wu"
-        },
-        {
-          "number": "09",
-          "name": "Walker Sanders"
-        },
-        {
-          "number": "10",
-          "name": "Chad Gerber"
-        },
-        {
-          "number": "13",
-          "name": "Isabela Galeano"
-        },
-        {
-          "number": "14",
-          "name": "Dillon Lanier"
-        },
-        {
-          "number": "15",
-          "name": "Matt Green"
-        },
-        {
-          "number": "16",
-          "name": "Audrey Brown"
-        },
-        {
-          "number": "17",
-          "name": "Dean Merritt"
-        },
-        {
-          "number": "18",
-          "name": "Ashley West"
-        },
-        {
-          "number": "19",
-          "name": "Lilli Gerber"
-        },
-        {
-          "number": "24",
-          "name": "Matthew Sui"
-        },
-        {
-          "number": "28",
-          "name": "Hannah Moore"
-        },
-        {
-          "number": "29",
-          "name": "Mark Stumpf"
-        },
-        {
-          "number": "30",
-          "name": "Aidan Todd"
-        },
-        {
-          "number": "43",
-          "name": "Gwyn Kelley"
-        },
-        {
-          "number": "71",
-          "name": "Clint McSherry"
-        },
-        {
-          "number": "72",
-          "name": "Brandon Bass"
-        },
-        {
-          "number": "77",
-          "name": "Dustin Rooffener"
-        },
-        {
-          "number": "81",
-          "name": "Claire Meyer"
-        },
-        {
-          "number": "88",
-          "name": "Samuel Fontaine"
-        },
-        {
-          "number": "92",
-          "name": "Tori Taylor"
-        }
-      ]
-    },
-    {
       "name": "FlyTrap",
       "seed": 3,
       "sourceTeamId": "vYsHiljuvVvQTVcVpZKVSSAP5ueIgv0KK5xIq6Vwnf8%3d",
@@ -751,6 +629,128 @@
         {
           "number": "88",
           "name": "Dalton Vestal"
+        }
+      ]
+    },
+    {
+      "name": "Asheville Parliament",
+      "seed": 2,
+      "sourceTeamId": "%2fhOMxxakejnLyYoOdVKvzwvpeRdav8veIBHbkpnENbI%3d",
+      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=%2fhOMxxakejnLyYoOdVKvzwvpeRdav8veIBHbkpnENbI%3d",
+      "info": {
+        "nickname": "",
+        "location": "Asheville, North Carolina",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "coaches"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Lucy Murray"
+        },
+        {
+          "number": "01",
+          "name": "Allison Bashford"
+        },
+        {
+          "number": "02",
+          "name": "Leo Murray"
+        },
+        {
+          "number": "06",
+          "name": "Adam Carr"
+        },
+        {
+          "number": "07",
+          "name": "Mya Burrows-Kurr"
+        },
+        {
+          "number": "08",
+          "name": "Bailey Wu"
+        },
+        {
+          "number": "09",
+          "name": "Walker Sanders"
+        },
+        {
+          "number": "10",
+          "name": "Chad Gerber"
+        },
+        {
+          "number": "13",
+          "name": "Isabela Galeano"
+        },
+        {
+          "number": "14",
+          "name": "Dillon Lanier"
+        },
+        {
+          "number": "15",
+          "name": "Matt Green"
+        },
+        {
+          "number": "16",
+          "name": "Audrey Brown"
+        },
+        {
+          "number": "17",
+          "name": "Dean Merritt"
+        },
+        {
+          "number": "18",
+          "name": "Ashley West"
+        },
+        {
+          "number": "19",
+          "name": "Lilli Gerber"
+        },
+        {
+          "number": "24",
+          "name": "Matthew Sui"
+        },
+        {
+          "number": "28",
+          "name": "Hannah Moore"
+        },
+        {
+          "number": "29",
+          "name": "Mark Stumpf"
+        },
+        {
+          "number": "30",
+          "name": "Aidan Todd"
+        },
+        {
+          "number": "43",
+          "name": "Gwyn Kelley"
+        },
+        {
+          "number": "71",
+          "name": "Clint McSherry"
+        },
+        {
+          "number": "72",
+          "name": "Brandon Bass"
+        },
+        {
+          "number": "77",
+          "name": "Dustin Rooffener"
+        },
+        {
+          "number": "81",
+          "name": "Claire Meyer"
+        },
+        {
+          "number": "88",
+          "name": "Samuel Fontaine"
+        },
+        {
+          "number": "92",
+          "name": "Tori Taylor"
         }
       ]
     },
@@ -1011,20 +1011,20 @@
             {
               "team1": "Brunch Club",
               "team2": "Blue Ridge Sasquatch",
-              "score1": 11,
-              "score2": 6,
+              "score1": 13,
+              "score2": 8,
               "datetime": "2026-09-12T09:00:00Z",
               "round": "Pool A",
-              "status": "In Progress"
+              "status": "Final"
             },
             {
               "team1": "Catalyst",
               "team2": "Rampage",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 7,
               "datetime": "2026-09-12T09:00:00Z",
               "round": "Pool A",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Brunch Club",
@@ -1071,20 +1071,20 @@
             {
               "team1": "Asheville Parliament",
               "team2": "Malice in Wonderland",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 9,
               "datetime": "2026-09-12T09:00:00Z",
               "round": "Pool B",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "FlyTrap",
               "team2": "Magnanimouse",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 7,
               "datetime": "2026-09-12T09:00:00Z",
               "round": "Pool B",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Asheville Parliament",
