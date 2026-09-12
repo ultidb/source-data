@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Upstate-New-York-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Upstate-New-York-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-12T16:29:00.814544Z",
+  "scrapedAt": "2026-09-12T16:48:49.161072Z",
   "event": {
     "name": "2026 Upstate New York Mens Sectional Championship",
     "division": "Club - Men ",
@@ -583,88 +583,6 @@
       ]
     },
     {
-      "name": "Los Buds",
-      "seed": 4,
-      "sourceTeamId": "WI8vf8n3ZsaqoQ7mAnh%2f1%2fRX6UhWj4Kh26QHu772VXY%3d",
-      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=WI8vf8n3ZsaqoQ7mAnh%2f1%2fRX6UhWj4Kh26QHu772VXY%3d",
-      "info": {
-        "nickname": "",
-        "location": "Ithaca, New York",
-        "website": "",
-        "facebook": "",
-        "twitter": ""
-      },
-      "coaches": [
-        "coaches"
-      ],
-      "roster": [
-        {
-          "number": "0",
-          "name": "Bobby Henkelmann"
-        },
-        {
-          "number": "0",
-          "name": "Miles Lamble"
-        },
-        {
-          "number": "0",
-          "name": "Henry Henkelmann"
-        },
-        {
-          "number": "0",
-          "name": "Kazim Hall"
-        },
-        {
-          "number": "0",
-          "name": "Parker Ashworth"
-        },
-        {
-          "number": "0",
-          "name": "Grzegorz Guron"
-        },
-        {
-          "number": "0",
-          "name": "Ian Olenich"
-        },
-        {
-          "number": "0",
-          "name": "Jaden Zou"
-        },
-        {
-          "number": "0",
-          "name": "Ethan Roitman"
-        },
-        {
-          "number": "0",
-          "name": "Sam Karmarkar"
-        },
-        {
-          "number": "0",
-          "name": "William Canlis"
-        },
-        {
-          "number": "1",
-          "name": "Brendan Moran"
-        },
-        {
-          "number": "5",
-          "name": "Benjamin Packard"
-        },
-        {
-          "number": "15",
-          "name": "Dylan Kenniff"
-        },
-        {
-          "number": "23",
-          "name": "Benjamin Nusbaum"
-        },
-        {
-          "number": "42",
-          "name": "Milan Grbovic"
-        }
-      ]
-    },
-    {
       "name": "DAP LAB",
       "seed": 5,
       "sourceTeamId": "IEgu8SwGy7Ikkwbch7PE%2bxUg4oDsJSmj7BMLRsstGHk%3d",
@@ -763,6 +681,88 @@
         {
           "number": "89",
           "name": "Brice Moncada"
+        }
+      ]
+    },
+    {
+      "name": "Los Buds",
+      "seed": 4,
+      "sourceTeamId": "WI8vf8n3ZsaqoQ7mAnh%2f1%2fRX6UhWj4Kh26QHu772VXY%3d",
+      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=WI8vf8n3ZsaqoQ7mAnh%2f1%2fRX6UhWj4Kh26QHu772VXY%3d",
+      "info": {
+        "nickname": "",
+        "location": "Ithaca, New York",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "coaches"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Bobby Henkelmann"
+        },
+        {
+          "number": "0",
+          "name": "Miles Lamble"
+        },
+        {
+          "number": "0",
+          "name": "Henry Henkelmann"
+        },
+        {
+          "number": "0",
+          "name": "Kazim Hall"
+        },
+        {
+          "number": "0",
+          "name": "Parker Ashworth"
+        },
+        {
+          "number": "0",
+          "name": "Grzegorz Guron"
+        },
+        {
+          "number": "0",
+          "name": "Ian Olenich"
+        },
+        {
+          "number": "0",
+          "name": "Jaden Zou"
+        },
+        {
+          "number": "0",
+          "name": "Ethan Roitman"
+        },
+        {
+          "number": "0",
+          "name": "Sam Karmarkar"
+        },
+        {
+          "number": "0",
+          "name": "William Canlis"
+        },
+        {
+          "number": "1",
+          "name": "Brendan Moran"
+        },
+        {
+          "number": "5",
+          "name": "Benjamin Packard"
+        },
+        {
+          "number": "15",
+          "name": "Dylan Kenniff"
+        },
+        {
+          "number": "23",
+          "name": "Benjamin Nusbaum"
+        },
+        {
+          "number": "42",
+          "name": "Milan Grbovic"
         }
       ]
     },
@@ -975,11 +975,11 @@
             {
               "team1": "Los Buds",
               "team2": "DAP LAB",
-              "score1": 0,
-              "score2": 0,
+              "score1": 10,
+              "score2": 11,
               "datetime": "2026-09-12T11:00:00Z",
               "round": "Pool B",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "DAPPER",
