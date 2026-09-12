@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Upstate-New-York-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Upstate-New-York-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-12T21:28:51.447159Z",
+  "scrapedAt": "2026-09-12T21:49:11.416759Z",
   "event": {
     "name": "2026 Upstate New York Mens Sectional Championship",
     "division": "Club - Men ",
@@ -1045,6 +1045,15 @@
           "isChampionship": false,
           "games": [
             {
+              "team1": "DAP LAB",
+              "team2": "Buffalo Frostbite",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "GtG^3",
+              "status": "Scheduled"
+            },
+            {
               "team1": "Alibi",
               "team2": "Los Buds",
               "score1": 0,
@@ -1056,11 +1065,11 @@
             {
               "team1": "Buffalo Frostbite",
               "team2": "Motive",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 10,
               "datetime": "2026-09-12T15:00:00Z",
               "round": "Play-in",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Los Buds",
@@ -1076,7 +1085,17 @@
         {
           "name": "7th/8th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Motive",
+              "team2": "Frostchomp",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "I got out of bed for this?",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "5th/6th Place",

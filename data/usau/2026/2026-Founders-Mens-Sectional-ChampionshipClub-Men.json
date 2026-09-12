@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Founders-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Founders-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-12T21:19:33.192051Z",
+  "scrapedAt": "2026-09-12T21:39:40.251914Z",
   "event": {
     "name": "2026 Founders Mens Sectional Championship",
     "division": "Club - Men ",
@@ -264,104 +264,6 @@
       ]
     },
     {
-      "name": "Great Effort Every Body",
-      "seed": 9,
-      "sourceTeamId": "fLQcx%2fDNqR5LRPIYRUDrDjTA0uozOtPWddBV6OD7pH4%3d",
-      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=fLQcx%2fDNqR5LRPIYRUDrDjTA0uozOtPWddBV6OD7pH4%3d",
-      "info": {
-        "nickname": "",
-        "location": "Yardley, Pennsylvania",
-        "website": "",
-        "facebook": "",
-        "twitter": ""
-      },
-      "coaches": [
-        "coaches"
-      ],
-      "roster": [
-        {
-          "number": "00",
-          "name": "Tre Draine III"
-        },
-        {
-          "number": "03",
-          "name": "Cameron Byer"
-        },
-        {
-          "number": "05",
-          "name": "Ben Bruzek"
-        },
-        {
-          "number": "05",
-          "name": "Drake Wu"
-        },
-        {
-          "number": "06",
-          "name": "Christian Lee"
-        },
-        {
-          "number": "09",
-          "name": "Will Mullen"
-        },
-        {
-          "number": "10",
-          "name": "Miguel Romero-Stevenson"
-        },
-        {
-          "number": "11",
-          "name": "Levy Morrison"
-        },
-        {
-          "number": "11",
-          "name": "John Joyce"
-        },
-        {
-          "number": "12",
-          "name": "Nicholas Alexander"
-        },
-        {
-          "number": "13",
-          "name": "Diego Asencio"
-        },
-        {
-          "number": "19",
-          "name": "Christopher Sun"
-        },
-        {
-          "number": "20",
-          "name": "Nicolas Salamandra"
-        },
-        {
-          "number": "22",
-          "name": "Johnny Cruz"
-        },
-        {
-          "number": "27",
-          "name": "Kyle Ford"
-        },
-        {
-          "number": "33",
-          "name": "Myles Harris"
-        },
-        {
-          "number": "42",
-          "name": "Marley Kervick"
-        },
-        {
-          "number": "44",
-          "name": "Zachary Vadakot"
-        },
-        {
-          "number": "49",
-          "name": "Carlos Eckert"
-        },
-        {
-          "number": "72",
-          "name": "Nicholas Railey"
-        }
-      ]
-    },
-    {
       "name": "New Jersey Gemini",
       "seed": 6,
       "sourceTeamId": "dI54OsNkres5kqxUJPmQ3WfQ8EXsv%2beREi1VlnGGhuE%3d",
@@ -472,6 +374,104 @@
         {
           "number": "91",
           "name": "Michael Breda"
+        }
+      ]
+    },
+    {
+      "name": "Great Effort Every Body",
+      "seed": 9,
+      "sourceTeamId": "fLQcx%2fDNqR5LRPIYRUDrDjTA0uozOtPWddBV6OD7pH4%3d",
+      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=fLQcx%2fDNqR5LRPIYRUDrDjTA0uozOtPWddBV6OD7pH4%3d",
+      "info": {
+        "nickname": "",
+        "location": "Yardley, Pennsylvania",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "coaches"
+      ],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Tre Draine III"
+        },
+        {
+          "number": "03",
+          "name": "Cameron Byer"
+        },
+        {
+          "number": "05",
+          "name": "Ben Bruzek"
+        },
+        {
+          "number": "05",
+          "name": "Drake Wu"
+        },
+        {
+          "number": "06",
+          "name": "Christian Lee"
+        },
+        {
+          "number": "09",
+          "name": "Will Mullen"
+        },
+        {
+          "number": "10",
+          "name": "Miguel Romero-Stevenson"
+        },
+        {
+          "number": "11",
+          "name": "Levy Morrison"
+        },
+        {
+          "number": "11",
+          "name": "John Joyce"
+        },
+        {
+          "number": "12",
+          "name": "Nicholas Alexander"
+        },
+        {
+          "number": "13",
+          "name": "Diego Asencio"
+        },
+        {
+          "number": "19",
+          "name": "Christopher Sun"
+        },
+        {
+          "number": "20",
+          "name": "Nicolas Salamandra"
+        },
+        {
+          "number": "22",
+          "name": "Johnny Cruz"
+        },
+        {
+          "number": "27",
+          "name": "Kyle Ford"
+        },
+        {
+          "number": "33",
+          "name": "Myles Harris"
+        },
+        {
+          "number": "42",
+          "name": "Marley Kervick"
+        },
+        {
+          "number": "44",
+          "name": "Zachary Vadakot"
+        },
+        {
+          "number": "49",
+          "name": "Carlos Eckert"
+        },
+        {
+          "number": "72",
+          "name": "Nicholas Railey"
         }
       ]
     },
@@ -1257,11 +1257,11 @@
             {
               "team1": "New Jersey Gemini",
               "team2": "Great Effort Every Body",
-              "score1": 0,
-              "score2": 0,
+              "score1": 12,
+              "score2": 11,
               "datetime": "2026-09-12T16:00:00Z",
               "round": "Pool A",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -1370,17 +1370,65 @@
         {
           "name": "1st Final",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Rumspringa",
+              "team2": "UPDOG",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "1st Final",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "2nd Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Garden State Ultimate",
+              "team2": "Rebels",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "2nd Quarters",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "New Jersey Gemini",
+              "team2": "CITYWIDE Special",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "2nd Quarters",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "Game to Go (5th Place)",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Great Effort Every Body",
+              "team2": "we love drinking juice",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "5th Quarters",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "EZ",
+              "team2": "Dub Club",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "5th Quarters",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "7th Place",

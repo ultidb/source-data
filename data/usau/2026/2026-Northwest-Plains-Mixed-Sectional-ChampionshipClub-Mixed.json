@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Northwest-Plains-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Northwest-Plains-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-12T21:24:42.119797Z",
+  "scrapedAt": "2026-09-12T21:44:57.154566Z",
   "event": {
     "name": "2026 Northwest Plains Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -1594,21 +1594,30 @@
           "games": [
             {
               "team1": "Minnesota Star Power",
-              "team2": "Pushovers",
+              "team2": "No Touching!",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "1st Place",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Minnesota Star Power",
+              "team2": "Pushovers",
+              "score1": 14,
+              "score2": 10,
               "datetime": "2026-09-12T15:00:00Z",
               "round": "Semifinals",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Bird",
               "team2": "No Touching!",
-              "score1": 0,
-              "score2": 0,
+              "score1": 9,
+              "score2": 15,
               "datetime": "2026-09-12T15:00:00Z",
               "round": "Semifinals",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -1616,6 +1625,15 @@
           "name": "2nd Place",
           "isChampionship": false,
           "games": [
+            {
+              "team1": "Pandamonium",
+              "team2": "Pushovers",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "2nd Quarters",
+              "status": "Scheduled"
+            },
             {
               "team1": "Lemonade Ultimate",
               "team2": "Limbo",
@@ -1628,11 +1646,11 @@
             {
               "team1": "Pandamonium",
               "team2": "The Force",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 6,
               "datetime": "2026-09-12T15:00:00Z",
               "round": "2nd Octos",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -1640,6 +1658,15 @@
           "name": "Game to Go",
           "isChampionship": false,
           "games": [
+            {
+              "team1": "The Force",
+              "team2": "Melt",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "5th Quarters",
+              "status": "Scheduled"
+            },
             {
               "team1": "Melt",
               "team2": "Ultraviolet",

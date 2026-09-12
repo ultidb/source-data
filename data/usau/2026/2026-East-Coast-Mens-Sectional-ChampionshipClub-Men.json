@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-East-Coast-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-East-Coast-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-12T21:17:37.009945Z",
+  "scrapedAt": "2026-09-12T21:37:41.490535Z",
   "event": {
     "name": "2026 East Coast Mens Sectional Championship",
     "division": "Club - Men ",
@@ -2076,6 +2076,15 @@
           "isChampionship": false,
           "games": [
             {
+              "team1": "Romulus",
+              "team2": "Harvest Moon",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "4th Place Quarters",
+              "status": "Scheduled"
+            },
+            {
               "team1": "Atlanta Outlaws",
               "team2": "Old & Nasti",
               "score1": 0,
@@ -2087,11 +2096,11 @@
             {
               "team1": "Nocturnal",
               "team2": "Romulus",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 14,
               "datetime": "2026-09-12T15:00:00Z",
               "round": "4th Place PreQs",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Atlanta Outlaws",

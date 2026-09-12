@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-South-New-England-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-South-New-England-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-12T21:27:48.828649Z",
+  "scrapedAt": "2026-09-12T21:48:08.670726Z",
   "event": {
     "name": "2026 South New England Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -1485,11 +1485,11 @@
             {
               "team1": "Darkwing",
               "team2": "Scarecrow",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 4,
               "datetime": "2026-09-12T16:00:00Z",
               "round": "Pool C",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Obscure",
@@ -1568,12 +1568,41 @@
         {
           "name": "The Champs",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Wild Card",
+              "team2": "Obscure",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "semis",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Quahogs",
+              "team2": "Darkwing",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "semis",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "3rd place (!)",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "T Party",
+              "team2": "Scarecrow",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "THE GAME TO GO TO THE GAME TO GO TO THE GAME TO GO",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "5th place",
@@ -1594,7 +1623,17 @@
         {
           "name": "9-11 round robin",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Young and the Restless",
+              "team2": "Beached Whales",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "9-11 round robin",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     }

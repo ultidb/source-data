@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-North-Plains-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-North-Plains-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-12T21:23:51.206306Z",
+  "scrapedAt": "2026-09-12T21:44:05.928964Z",
   "event": {
     "name": "2026 North Plains Mens Sectional Championship",
     "division": "Club - Men ",
@@ -929,22 +929,13 @@
               "status": "Final"
             },
             {
-              "team1": "Zoboomafoo",
-              "team2": "Milwaukee Breaker",
-              "score1": 0,
-              "score2": 0,
-              "datetime": "2026-09-12T11:00:00Z",
-              "round": "Pool B",
-              "status": "Scheduled"
-            },
-            {
               "team1": "Fuse",
               "team2": "Zoboomafoo",
-              "score1": 0,
-              "score2": 0,
+              "score1": 12,
+              "score2": 14,
               "datetime": "2026-09-12T11:00:00Z",
               "round": "Pool B",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Conspiracy Theory",
@@ -962,7 +953,77 @@
     {
       "type": "clusters",
       "name": "Day 2 Placement Games",
-      "groups": []
+      "groups": [
+        {
+          "name": "Day 2 Placement",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Mad Men",
+              "team2": "Zoboomafoo",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Fuse",
+              "team2": "Rubicon Rapids",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Timber",
+              "team2": "Milwaukee Breaker",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Fuse",
+              "team2": "Timber",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Rubicon Rapids",
+              "team2": "Conspiracy Theory",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Timber",
+              "team2": "Conspiracy Theory",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T13:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Rubicon Rapids",
+              "team2": "Milwaukee Breaker",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T13:00:00Z",
+              "round": "",
+              "status": "Scheduled"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
