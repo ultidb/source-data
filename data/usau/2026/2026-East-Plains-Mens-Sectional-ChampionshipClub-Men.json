@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-East-Plains-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-East-Plains-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-12T20:38:24.704596Z",
+  "scrapedAt": "2026-09-12T20:58:38.023666Z",
   "event": {
     "name": "2026 East Plains Mens Sectional Championship",
     "division": "Club - Men ",
@@ -1569,11 +1569,11 @@
             {
               "team1": "ELDL",
               "team2": "Forest City",
-              "score1": 0,
-              "score2": 0,
+              "score1": 11,
+              "score2": 13,
               "datetime": "2026-09-12T15:30:00Z",
               "round": "Pool B",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -1673,7 +1673,26 @@
         {
           "name": "1st Place Bracket",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Flying Dutchmen",
+              "team2": "Colonels",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T17:15:00Z",
+              "round": "1st Quarters",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Dynasty",
+              "team2": "ELDL",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T17:15:00Z",
+              "round": "1st Quarters",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "2nd Place Bracket",

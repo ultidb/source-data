@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Big-Sky-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Big-Sky-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-12T20:35:21.926750Z",
+  "scrapedAt": "2026-09-12T20:55:23.319672Z",
   "event": {
     "name": "2026 Big Sky Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -139,6 +139,108 @@
       ]
     },
     {
+      "name": "Bozos",
+      "seed": 5,
+      "sourceTeamId": "DNJm7Q03Y8KIpWHNxiztsiRTLHUdopMofSyb4D1DOLM%3d",
+      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=DNJm7Q03Y8KIpWHNxiztsiRTLHUdopMofSyb4D1DOLM%3d",
+      "info": {
+        "nickname": "",
+        "location": "Bozeman, Montana",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "coaches"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Isaiah Curtis"
+        },
+        {
+          "number": "0",
+          "name": "Jane Andrews"
+        },
+        {
+          "number": "0",
+          "name": "Cole Buller"
+        },
+        {
+          "number": "0",
+          "name": "Quinn Sweeney"
+        },
+        {
+          "number": "0",
+          "name": "Katherine Wimberly"
+        },
+        {
+          "number": "0",
+          "name": "john hofacre"
+        },
+        {
+          "number": "0",
+          "name": "Mia Wafer"
+        },
+        {
+          "number": "0",
+          "name": "Kathleen  Scanlan"
+        },
+        {
+          "number": "0",
+          "name": "Kostubh Agarwal"
+        },
+        {
+          "number": "0",
+          "name": "Richard Rudnicki"
+        },
+        {
+          "number": "0",
+          "name": "Bailey Jensen"
+        },
+        {
+          "number": "0",
+          "name": "Taylor Abrams"
+        },
+        {
+          "number": "0",
+          "name": "Ron Warren"
+        },
+        {
+          "number": "0",
+          "name": "Tyler Smith"
+        },
+        {
+          "number": "3",
+          "name": "Andrew Bassett"
+        },
+        {
+          "number": "13",
+          "name": "Steven Kassebaum"
+        },
+        {
+          "number": "17",
+          "name": "Victoria Easton"
+        },
+        {
+          "number": "21",
+          "name": "Stella Wenczel"
+        },
+        {
+          "number": "22",
+          "name": "Mason Overman"
+        },
+        {
+          "number": "37",
+          "name": "Rhian Alley"
+        },
+        {
+          "number": "99",
+          "name": "Eric Folsom"
+        }
+      ]
+    },
+    {
       "name": "Fault Line",
       "seed": 4,
       "sourceTeamId": "oP8Hm%2fOZVMP4vbWhxbvJID1%2bVo7K6hsUDLI%2bLG94xPQ%3d",
@@ -249,108 +351,6 @@
         {
           "number": "91",
           "name": "Ainsley Holmes"
-        }
-      ]
-    },
-    {
-      "name": "Bozos",
-      "seed": 5,
-      "sourceTeamId": "DNJm7Q03Y8KIpWHNxiztsiRTLHUdopMofSyb4D1DOLM%3d",
-      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=DNJm7Q03Y8KIpWHNxiztsiRTLHUdopMofSyb4D1DOLM%3d",
-      "info": {
-        "nickname": "",
-        "location": "Bozeman, Montana",
-        "website": "",
-        "facebook": "",
-        "twitter": ""
-      },
-      "coaches": [
-        "coaches"
-      ],
-      "roster": [
-        {
-          "number": "0",
-          "name": "Isaiah Curtis"
-        },
-        {
-          "number": "0",
-          "name": "Jane Andrews"
-        },
-        {
-          "number": "0",
-          "name": "Cole Buller"
-        },
-        {
-          "number": "0",
-          "name": "Quinn Sweeney"
-        },
-        {
-          "number": "0",
-          "name": "Katherine Wimberly"
-        },
-        {
-          "number": "0",
-          "name": "john hofacre"
-        },
-        {
-          "number": "0",
-          "name": "Mia Wafer"
-        },
-        {
-          "number": "0",
-          "name": "Kathleen  Scanlan"
-        },
-        {
-          "number": "0",
-          "name": "Kostubh Agarwal"
-        },
-        {
-          "number": "0",
-          "name": "Richard Rudnicki"
-        },
-        {
-          "number": "0",
-          "name": "Bailey Jensen"
-        },
-        {
-          "number": "0",
-          "name": "Taylor Abrams"
-        },
-        {
-          "number": "0",
-          "name": "Ron Warren"
-        },
-        {
-          "number": "0",
-          "name": "Tyler Smith"
-        },
-        {
-          "number": "3",
-          "name": "Andrew Bassett"
-        },
-        {
-          "number": "13",
-          "name": "Steven Kassebaum"
-        },
-        {
-          "number": "17",
-          "name": "Victoria Easton"
-        },
-        {
-          "number": "21",
-          "name": "Stella Wenczel"
-        },
-        {
-          "number": "22",
-          "name": "Mason Overman"
-        },
-        {
-          "number": "37",
-          "name": "Rhian Alley"
-        },
-        {
-          "number": "99",
-          "name": "Eric Folsom"
         }
       ]
     },
@@ -723,11 +723,11 @@
             {
               "team1": "Fault Line",
               "team2": "Bozos",
-              "score1": 0,
-              "score2": 0,
+              "score1": 10,
+              "score2": 15,
               "datetime": "2026-09-12T13:00:00Z",
               "round": "Pool A",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -760,7 +760,7 @@
               "score2": 8,
               "datetime": "2026-09-12T13:00:00Z",
               "round": "Pool B",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         }
@@ -773,7 +773,26 @@
         {
           "name": "First Place Bracket",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Fault Line",
+              "team2": "Utah Sundrift",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T15:00:00Z",
+              "round": "Quarters",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Dixon Melons",
+              "team2": "Bozos",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T15:00:00Z",
+              "round": "Quarters",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "Third Place",
