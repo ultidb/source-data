@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-South-Texas-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-South-Texas-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-12T17:08:29.346288Z",
+  "scrapedAt": "2026-09-12T17:28:37.805935Z",
   "event": {
     "name": "2026 South Texas Mens Sectional Championship",
     "division": "Club - Men ",
@@ -1615,11 +1615,11 @@
             {
               "team1": "Texas Duffy",
               "team2": "Forge",
-              "score1": 0,
-              "score2": 0,
+              "score1": 12,
+              "score2": 10,
               "datetime": "2026-09-12T10:45:00Z",
               "round": "Pool A",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -1648,11 +1648,11 @@
             {
               "team1": "Cozy Boys",
               "team2": "Bonzaiiiii!!",
-              "score1": 0,
-              "score2": 0,
+              "score1": 7,
+              "score2": 11,
               "datetime": "2026-09-12T10:45:00Z",
               "round": "Pool B",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -1723,11 +1723,11 @@
             {
               "team1": "Texas Tea",
               "team2": "H.I.P",
-              "score1": 0,
-              "score2": 0,
+              "score1": 11,
+              "score2": 13,
               "datetime": "2026-09-12T10:45:00Z",
               "round": "Pool D",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Black Gold",
@@ -1749,7 +1749,44 @@
         {
           "name": "1st Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Doublewide",
+              "team2": "Bonzaiiiii!!",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T12:15:00Z",
+              "round": "Quarterfinals",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Rice Box",
+              "team2": "H.I.P",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T12:15:00Z",
+              "round": "Quarterfinals",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Riverside",
+              "team2": "Texas Tea",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T12:15:00Z",
+              "round": "Quarterfinals",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Texas Duffy",
+              "team2": "Alamode",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T12:15:00Z",
+              "round": "Quarterfinals",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "2nd Place",
@@ -1759,7 +1796,26 @@
         {
           "name": "5th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "STX HEAT",
+              "team2": "San Antonio Warhawks",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T12:15:00Z",
+              "round": "Wildcards",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Black Gold",
+              "team2": "Team Waco (Not a Cult)",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T12:15:00Z",
+              "round": "Wildcards",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "11th Place",

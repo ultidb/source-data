@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Central-Plains-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Central-Plains-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-12T16:57:00.631642Z",
+  "scrapedAt": "2026-09-12T17:17:07.213064Z",
   "event": {
     "name": "2026 Central Plains Mens Sectional Championship",
     "division": "Club - Men ",
@@ -1336,11 +1336,11 @@
             {
               "team1": "Roundhouse",
               "team2": "Shift",
-              "score1": 9,
-              "score2": 4,
+              "score1": 13,
+              "score2": 7,
               "datetime": "2026-09-12T12:00:00Z",
               "round": "Pool B",
-              "status": "In Progress"
+              "status": "Final"
             }
           ]
         },
@@ -1387,8 +1387,8 @@
             {
               "team1": "Knockout",
               "team2": "Shenanigans",
-              "score1": 5,
-              "score2": 8,
+              "score1": 9,
+              "score2": 10,
               "datetime": "2026-09-12T12:00:00Z",
               "round": "Pool C",
               "status": "In Progress"
@@ -1449,17 +1449,47 @@
         {
           "name": "A1 vs B1",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Haymaker",
+              "team2": "Roundhouse",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T13:45:00Z",
+              "round": "A1 vs B1",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "A2 vs B2",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Omen",
+              "team2": "Shift",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T13:45:00Z",
+              "round": "A2 vs B2",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "A3 vs B3",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Maumee Boys",
+              "team2": "Satellite",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T13:45:00Z",
+              "round": "A3 vs B3",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "L1 vs W2",

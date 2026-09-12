@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-WashingtonBC-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-WashingtonBC-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-12T17:09:57.988765Z",
+  "scrapedAt": "2026-09-12T17:30:05.686565Z",
   "event": {
     "name": "2026 Washington/BC Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -1534,116 +1534,6 @@
       ]
     },
     {
-      "name": "BOP",
-      "seed": 13,
-      "sourceTeamId": "qEjQwBu%2bHYderUgtH%2bZEEiXzpyND2RQSmzQJCuFZs3Q%3d",
-      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=qEjQwBu%2bHYderUgtH%2bZEEiXzpyND2RQSmzQJCuFZs3Q%3d",
-      "info": {
-        "nickname": "",
-        "location": "Seattle, Washington",
-        "website": "",
-        "facebook": "",
-        "twitter": ""
-      },
-      "coaches": [
-        "coaches"
-      ],
-      "roster": [
-        {
-          "number": "0",
-          "name": "Clara Amorosi"
-        },
-        {
-          "number": "0",
-          "name": "Dillon Cox"
-        },
-        {
-          "number": "0",
-          "name": "Jack Ceverha"
-        },
-        {
-          "number": "0",
-          "name": "Jon Abramson"
-        },
-        {
-          "number": "0",
-          "name": "Joshua Blome"
-        },
-        {
-          "number": "0",
-          "name": "Jessica Pan"
-        },
-        {
-          "number": "0",
-          "name": "Melanie Jochheim-Atkins"
-        },
-        {
-          "number": "0",
-          "name": "Victoria Knutson"
-        },
-        {
-          "number": "0",
-          "name": "Rebecca Ferber"
-        },
-        {
-          "number": "0",
-          "name": "Nicolas Sherman"
-        },
-        {
-          "number": "2",
-          "name": "Linda Phan"
-        },
-        {
-          "number": "2",
-          "name": "Sam Cheatham"
-        },
-        {
-          "number": "03",
-          "name": "Josh Rudolph"
-        },
-        {
-          "number": "10",
-          "name": "Jena Douville"
-        },
-        {
-          "number": "12",
-          "name": "Blythe Eickerman"
-        },
-        {
-          "number": "13",
-          "name": "Lillian Montalvo"
-        },
-        {
-          "number": "19",
-          "name": "Alyssa Joy De Guzman"
-        },
-        {
-          "number": "27",
-          "name": "Madison Browne"
-        },
-        {
-          "number": "27",
-          "name": "Samantha Sauerbrei"
-        },
-        {
-          "number": "52",
-          "name": "Christopher Vandervoort"
-        },
-        {
-          "number": "59",
-          "name": "Michael Makar"
-        },
-        {
-          "number": "69",
-          "name": "Keivaun Waugh"
-        },
-        {
-          "number": "99",
-          "name": "Jonathan Red"
-        }
-      ]
-    },
-    {
       "name": "Seattle Soft Serve",
       "seed": 6,
       "sourceTeamId": "zDcBZOPvzM2%2buqQCztNdwc%2bycA2wFNvawSvDAv%2bJIGc%3d",
@@ -1762,6 +1652,116 @@
         {
           "number": "99",
           "name": "Wade Hankin"
+        }
+      ]
+    },
+    {
+      "name": "BOP",
+      "seed": 13,
+      "sourceTeamId": "qEjQwBu%2bHYderUgtH%2bZEEiXzpyND2RQSmzQJCuFZs3Q%3d",
+      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=qEjQwBu%2bHYderUgtH%2bZEEiXzpyND2RQSmzQJCuFZs3Q%3d",
+      "info": {
+        "nickname": "",
+        "location": "Seattle, Washington",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "coaches"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Clara Amorosi"
+        },
+        {
+          "number": "0",
+          "name": "Dillon Cox"
+        },
+        {
+          "number": "0",
+          "name": "Jack Ceverha"
+        },
+        {
+          "number": "0",
+          "name": "Jon Abramson"
+        },
+        {
+          "number": "0",
+          "name": "Joshua Blome"
+        },
+        {
+          "number": "0",
+          "name": "Jessica Pan"
+        },
+        {
+          "number": "0",
+          "name": "Melanie Jochheim-Atkins"
+        },
+        {
+          "number": "0",
+          "name": "Victoria Knutson"
+        },
+        {
+          "number": "0",
+          "name": "Rebecca Ferber"
+        },
+        {
+          "number": "0",
+          "name": "Nicolas Sherman"
+        },
+        {
+          "number": "2",
+          "name": "Linda Phan"
+        },
+        {
+          "number": "2",
+          "name": "Sam Cheatham"
+        },
+        {
+          "number": "03",
+          "name": "Josh Rudolph"
+        },
+        {
+          "number": "10",
+          "name": "Jena Douville"
+        },
+        {
+          "number": "12",
+          "name": "Blythe Eickerman"
+        },
+        {
+          "number": "13",
+          "name": "Lillian Montalvo"
+        },
+        {
+          "number": "19",
+          "name": "Alyssa Joy De Guzman"
+        },
+        {
+          "number": "27",
+          "name": "Madison Browne"
+        },
+        {
+          "number": "27",
+          "name": "Samantha Sauerbrei"
+        },
+        {
+          "number": "52",
+          "name": "Christopher Vandervoort"
+        },
+        {
+          "number": "59",
+          "name": "Michael Makar"
+        },
+        {
+          "number": "69",
+          "name": "Keivaun Waugh"
+        },
+        {
+          "number": "99",
+          "name": "Jonathan Red"
         }
       ]
     },
@@ -1959,8 +1959,8 @@
             {
               "team1": "TT",
               "team2": "Smack!",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 9,
               "datetime": "2026-09-12T09:00:00Z",
               "round": "C Pool R1",
               "status": "Scheduled"
@@ -1978,28 +1978,47 @@
           "games": [
             {
               "team1": "Lights Out",
-              "team2": "BOP",
+              "team2": "Seattle Soft Serve",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-12T11:00:00Z",
+              "round": "D Pool Champ",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Lights Out",
+              "team2": "BOP",
+              "score1": 13,
+              "score2": 3,
               "datetime": "2026-09-12T09:00:00Z",
               "round": "D Pool R1",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Seattle Soft Serve",
               "team2": "Heat Wave",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 7,
               "datetime": "2026-09-12T09:00:00Z",
               "round": "D Pool R1",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
         {
           "name": "Pool D 2",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "BOP",
+              "team2": "Heat Wave",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T11:00:00Z",
+              "round": "D Pool R2",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     },

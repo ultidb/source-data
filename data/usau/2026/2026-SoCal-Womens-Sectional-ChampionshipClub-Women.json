@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-SoCal-Womens-Sectional-ChampionshipClub-Women",
   "sourceUrl": "http://play.usaultimate.org/events/2026-SoCal-Womens-Sectional-Championship/schedule/Women/Club-Women/",
-  "scrapedAt": "2026-09-12T17:07:37.421779Z",
+  "scrapedAt": "2026-09-12T17:27:46.220713Z",
   "event": {
     "name": "2026 SoCal Womens Sectional Championship",
     "division": "Club - Women ",
@@ -221,6 +221,92 @@
       ]
     },
     {
+      "name": "Gila Monster",
+      "seed": 4,
+      "sourceTeamId": "5cxPrAPgfl0Nn10y96oEMe1nTlWK0HL4rfgwzbJyE6c%3d",
+      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=5cxPrAPgfl0Nn10y96oEMe1nTlWK0HL4rfgwzbJyE6c%3d",
+      "info": {
+        "nickname": "",
+        "location": "Tucson, Arizona",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "coaches"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Annika Liston"
+        },
+        {
+          "number": "0",
+          "name": "Courtney King"
+        },
+        {
+          "number": "0",
+          "name": "Darrien Dorr"
+        },
+        {
+          "number": "0",
+          "name": "Chaucer Langbert"
+        },
+        {
+          "number": "0",
+          "name": "Jessica Rick"
+        },
+        {
+          "number": "0",
+          "name": "Michelle Tanner"
+        },
+        {
+          "number": "0",
+          "name": "Erin Prucha"
+        },
+        {
+          "number": "0",
+          "name": "Kareina Lee"
+        },
+        {
+          "number": "0",
+          "name": "Katelynn Carroll"
+        },
+        {
+          "number": "0",
+          "name": "Taylor Musser"
+        },
+        {
+          "number": "0",
+          "name": "Rebecca Kemper"
+        },
+        {
+          "number": "0",
+          "name": "Molly Gans"
+        },
+        {
+          "number": "2",
+          "name": "Marlana Hinkley"
+        },
+        {
+          "number": "12",
+          "name": "Miranda Delgado"
+        },
+        {
+          "number": "21",
+          "name": "Mari Clark"
+        },
+        {
+          "number": "23",
+          "name": "Brianna Smith"
+        },
+        {
+          "number": "43",
+          "name": "Adrianne Leeks"
+        }
+      ]
+    },
+    {
       "name": "Rampage",
       "seed": 3,
       "sourceTeamId": "xHTw%2bJ7dzKpfyjqMIOViW6Tbfb%2b0QHSQbW19ty%2bk8OY%3d",
@@ -309,92 +395,6 @@
           "name": "Amanda Wilson"
         }
       ]
-    },
-    {
-      "name": "Gila Monster",
-      "seed": 4,
-      "sourceTeamId": "5cxPrAPgfl0Nn10y96oEMe1nTlWK0HL4rfgwzbJyE6c%3d",
-      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=5cxPrAPgfl0Nn10y96oEMe1nTlWK0HL4rfgwzbJyE6c%3d",
-      "info": {
-        "nickname": "",
-        "location": "Tucson, Arizona",
-        "website": "",
-        "facebook": "",
-        "twitter": ""
-      },
-      "coaches": [
-        "coaches"
-      ],
-      "roster": [
-        {
-          "number": "0",
-          "name": "Annika Liston"
-        },
-        {
-          "number": "0",
-          "name": "Courtney King"
-        },
-        {
-          "number": "0",
-          "name": "Darrien Dorr"
-        },
-        {
-          "number": "0",
-          "name": "Chaucer Langbert"
-        },
-        {
-          "number": "0",
-          "name": "Jessica Rick"
-        },
-        {
-          "number": "0",
-          "name": "Michelle Tanner"
-        },
-        {
-          "number": "0",
-          "name": "Erin Prucha"
-        },
-        {
-          "number": "0",
-          "name": "Kareina Lee"
-        },
-        {
-          "number": "0",
-          "name": "Katelynn Carroll"
-        },
-        {
-          "number": "0",
-          "name": "Taylor Musser"
-        },
-        {
-          "number": "0",
-          "name": "Rebecca Kemper"
-        },
-        {
-          "number": "0",
-          "name": "Molly Gans"
-        },
-        {
-          "number": "2",
-          "name": "Marlana Hinkley"
-        },
-        {
-          "number": "12",
-          "name": "Miranda Delgado"
-        },
-        {
-          "number": "21",
-          "name": "Mari Clark"
-        },
-        {
-          "number": "23",
-          "name": "Brianna Smith"
-        },
-        {
-          "number": "43",
-          "name": "Adrianne Leeks"
-        }
-      ]
     }
   ],
   "stages": [
@@ -409,11 +409,11 @@
             {
               "team1": "Wildfire",
               "team2": "Rampage",
-              "score1": 0,
-              "score2": 0,
+              "score1": 14,
+              "score2": 8,
               "datetime": "2026-09-12T08:30:00Z",
               "round": "Pool A",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Haboob",
