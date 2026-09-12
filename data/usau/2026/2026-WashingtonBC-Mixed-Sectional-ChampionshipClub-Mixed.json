@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-WashingtonBC-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-WashingtonBC-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-12T22:29:39.754942Z",
+  "scrapedAt": "2026-09-12T22:49:51.124097Z",
   "event": {
     "name": "2026 Washington/BC Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -2088,13 +2088,22 @@
           "isChampionship": false,
           "games": [
             {
-              "team1": "BFG",
-              "team2": "Pegasus",
+              "team1": "Spoke",
+              "team2": "Vancouver Victors",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-12T15:00:00Z",
+              "round": "1st Place Semis",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "BFG",
+              "team2": "Pegasus",
+              "score1": 15,
+              "score2": 2,
               "datetime": "2026-09-12T13:00:00Z",
               "round": "1st Place Qs",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "TT",
@@ -2117,18 +2126,28 @@
             {
               "team1": "Bullet Train",
               "team2": "Vancouver Victors",
-              "score1": 0,
-              "score2": 0,
+              "score1": 12,
+              "score2": 13,
               "datetime": "2026-09-12T13:00:00Z",
               "round": "1st Place Qs",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
         {
           "name": "2nd Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Seattle Soft Serve",
+              "team2": "Bullet Train",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T15:00:00Z",
+              "round": "2nd Place PQs",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "4th Place",
@@ -2141,6 +2160,24 @@
           "games": [
             {
               "team1": "Grit City",
+              "team2": "Squid Inc.",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T15:00:00Z",
+              "round": "6th Place PreQs",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Heat Wave",
+              "team2": "Nova",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T15:00:00Z",
+              "round": "6th Place PreQs",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Grit City",
               "team2": "Mola Mola",
               "score1": 15,
               "score2": 10,
@@ -2151,20 +2188,20 @@
             {
               "team1": "Squid Inc.",
               "team2": "BOP",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 8,
               "datetime": "2026-09-12T13:00:00Z",
               "round": "6th Place Elite8",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Smack!",
               "team2": "Heat Wave",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 14,
               "datetime": "2026-09-12T13:00:00Z",
               "round": "6th Place Elite8",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Gallopin' Gerties",
@@ -2196,7 +2233,26 @@
         {
           "name": "13th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Mola Mola",
+              "team2": "BOP",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T15:00:00Z",
+              "round": "13th Place Semis",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Smack!",
+              "team2": "Gallopin' Gerties",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T15:00:00Z",
+              "round": "13th Place Semis",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "15th Place",

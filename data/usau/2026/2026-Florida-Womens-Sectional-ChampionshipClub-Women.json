@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Florida-Womens-Sectional-ChampionshipClub-Women",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Florida-Womens-Sectional-Championship/schedule/Women/Club-Women/",
-  "scrapedAt": "2026-09-12T22:19:16.594955Z",
+  "scrapedAt": "2026-09-12T22:39:18.595453Z",
   "event": {
     "name": "2026 Florida Womens Sectional Championship",
     "division": "Club - Women ",
@@ -16,6 +16,68 @@
     "endDate": "2026-09-13"
   },
   "teams": [
+    {
+      "name": "Levels",
+      "seed": 2,
+      "sourceTeamId": "W2WFIpuUDdmLeC19KWIVC%2fJztgUyUKPzgsrg2sk2hV0%3d",
+      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=W2WFIpuUDdmLeC19KWIVC%2fJztgUyUKPzgsrg2sk2hV0%3d",
+      "info": {
+        "nickname": "",
+        "location": "Gainesville, Florida",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "coaches"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Brielle LeClear"
+        },
+        {
+          "number": "0",
+          "name": "Katelyn Travaglini"
+        },
+        {
+          "number": "1",
+          "name": "Hailey Rohlfing"
+        },
+        {
+          "number": "3",
+          "name": "Lenna Kuffner"
+        },
+        {
+          "number": "6",
+          "name": "Ashley Allen"
+        },
+        {
+          "number": "7",
+          "name": "Carolyn Abbott"
+        },
+        {
+          "number": "12",
+          "name": "Vanessa  Stobe"
+        },
+        {
+          "number": "15",
+          "name": "Isabella Katz"
+        },
+        {
+          "number": "23",
+          "name": "Jessica  Peterson"
+        },
+        {
+          "number": "30",
+          "name": "Lucia Summerford"
+        },
+        {
+          "number": "75",
+          "name": "Quinn Kahle"
+        }
+      ]
+    },
     {
       "name": "Calypso",
       "seed": 1,
@@ -113,68 +175,6 @@
           "name": "Rachael Thompson"
         }
       ]
-    },
-    {
-      "name": "Levels",
-      "seed": 2,
-      "sourceTeamId": "W2WFIpuUDdmLeC19KWIVC%2fJztgUyUKPzgsrg2sk2hV0%3d",
-      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=W2WFIpuUDdmLeC19KWIVC%2fJztgUyUKPzgsrg2sk2hV0%3d",
-      "info": {
-        "nickname": "",
-        "location": "Gainesville, Florida",
-        "website": "",
-        "facebook": "",
-        "twitter": ""
-      },
-      "coaches": [
-        "coaches"
-      ],
-      "roster": [
-        {
-          "number": "0",
-          "name": "Brielle LeClear"
-        },
-        {
-          "number": "0",
-          "name": "Katelyn Travaglini"
-        },
-        {
-          "number": "1",
-          "name": "Hailey Rohlfing"
-        },
-        {
-          "number": "3",
-          "name": "Lenna Kuffner"
-        },
-        {
-          "number": "6",
-          "name": "Ashley Allen"
-        },
-        {
-          "number": "7",
-          "name": "Carolyn Abbott"
-        },
-        {
-          "number": "12",
-          "name": "Vanessa  Stobe"
-        },
-        {
-          "number": "15",
-          "name": "Isabella Katz"
-        },
-        {
-          "number": "23",
-          "name": "Jessica  Peterson"
-        },
-        {
-          "number": "30",
-          "name": "Lucia Summerford"
-        },
-        {
-          "number": "75",
-          "name": "Quinn Kahle"
-        }
-      ]
     }
   ],
   "stages": [
@@ -189,11 +189,11 @@
             {
               "team1": "Calypso",
               "team2": "Levels",
-              "score1": 0,
-              "score2": 0,
+              "score1": 9,
+              "score2": 14,
               "datetime": "2026-09-12T09:00:00Z",
               "round": "Pool A",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         }

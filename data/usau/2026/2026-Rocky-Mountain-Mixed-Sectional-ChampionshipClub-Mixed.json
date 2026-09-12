@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Rocky-Mountain-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Rocky-Mountain-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-12T22:26:29.385469Z",
+  "scrapedAt": "2026-09-12T22:46:37.836185Z",
   "event": {
     "name": "2026 Rocky Mountain Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -1110,6 +1110,15 @@
           "isChampionship": false,
           "games": [
             {
+              "team1": "Flight Club",
+              "team2": "Green Chiles",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "1st Semis",
+              "status": "Scheduled"
+            },
+            {
               "team1": "Sin Nombre",
               "team2": "Space Ghosts",
               "score1": 0,
@@ -1121,11 +1130,11 @@
             {
               "team1": "Green Chiles",
               "team2": "The Strangers",
-              "score1": 12,
+              "score1": 15,
               "score2": 10,
               "datetime": "2026-09-12T15:00:00Z",
               "round": "1st Quarters",
-              "status": "In Progress"
+              "status": "Final"
             },
             {
               "team1": "Sin Nombre",
@@ -1142,6 +1151,15 @@
           "name": "3rd Place",
           "isChampionship": false,
           "games": [
+            {
+              "team1": "Cowpoke",
+              "team2": "The Strangers",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "3rd Quarters",
+              "status": "Scheduled"
+            },
             {
               "team1": "Yesterday's Jam",
               "team2": "All Jeeps, All Night.",

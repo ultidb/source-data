@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-West-Plains-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-West-Plains-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-12T22:30:45.386905Z",
+  "scrapedAt": "2026-09-12T22:50:54.403755Z",
   "event": {
     "name": "2026 West Plains Mens Sectional Championship",
     "division": "Club - Men ",
@@ -1249,11 +1249,11 @@
             {
               "team1": "Lounar",
               "team2": "STL Moonar",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 2,
               "datetime": "2026-09-12T10:45:00Z",
               "round": "Pool A",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "DeMo",
@@ -1425,7 +1425,26 @@
         {
           "name": "First Place Bracket",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "DeMo",
+              "team2": "Zodiac",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "1st Place Semi's",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Kansas City Smokestack",
+              "team2": "Lounar",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "1st Place Semi's",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "Second Place Bracket",
@@ -1435,12 +1454,41 @@
         {
           "name": "Fifth Place Bracket",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Dinodisc",
+              "team2": "NOx",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "5th Place",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "Sixth Place Bracket",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Scythe",
+              "team2": "Friendly Fire",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "6th Place Quarters",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "STL Moonar",
+              "team2": "Kansas City Northern Lines",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "6th Place Quarters",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     }
