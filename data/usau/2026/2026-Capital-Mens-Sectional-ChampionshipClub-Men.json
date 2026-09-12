@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Capital-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Capital-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-12T19:35:44.586579Z",
+  "scrapedAt": "2026-09-12T19:55:47.275956Z",
   "event": {
     "name": "2026 Capital Mens Sectional Championship",
     "division": "Club - Men ",
@@ -1782,6 +1782,15 @@
           "isChampionship": false,
           "games": [
             {
+              "team1": "Vault",
+              "team2": "Crypt",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T16:00:00Z",
+              "round": "1st Place Semis",
+              "status": "Scheduled"
+            },
+            {
               "team1": "John Doe",
               "team2": "Oak Grove Boys",
               "score1": 0,
@@ -1802,11 +1811,11 @@
             {
               "team1": "Crypt",
               "team2": "Beef Depot",
-              "score1": 9,
+              "score1": 15,
               "score2": 6,
               "datetime": "2026-09-12T14:15:00Z",
               "round": "1st Place Quarters",
-              "status": "In Progress"
+              "status": "Final"
             },
             {
               "team1": "John Doe",
@@ -1833,6 +1842,15 @@
           "isChampionship": false,
           "games": [
             {
+              "team1": "Give Me Death",
+              "team2": "Beef Depot",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T16:00:00Z",
+              "round": "2nd Place PQ",
+              "status": "Scheduled"
+            },
+            {
               "team1": "My Guys",
               "team2": "L.U.T $ack",
               "score1": 0,
@@ -1848,22 +1866,40 @@
           "isChampionship": false,
           "games": [
             {
+              "team1": "Winc City Fog",
+              "team2": "Reckers",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T16:00:00Z",
+              "round": "5th Place PQ",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Fort Reno Flatball Club",
+              "team2": "Town Hall Stars",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T16:00:00Z",
+              "round": "5th Place PQ",
+              "status": "Scheduled"
+            },
+            {
               "team1": "Reckers",
               "team2": "Aces",
-              "score1": 10,
-              "score2": 5,
+              "score1": 11,
+              "score2": 6,
               "datetime": "2026-09-12T14:15:00Z",
               "round": "5th Place R1",
-              "status": "In Progress"
+              "status": "Final"
             },
             {
               "team1": "Fort Reno Flatball Club",
               "team2": "Tofu Junction",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 5,
               "datetime": "2026-09-12T14:15:00Z",
               "round": "5th Place R1",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },

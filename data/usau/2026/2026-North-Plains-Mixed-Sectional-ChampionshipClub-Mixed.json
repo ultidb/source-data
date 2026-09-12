@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-North-Plains-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-North-Plains-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-12T19:46:46.433931Z",
+  "scrapedAt": "2026-09-12T20:04:14.793911Z",
   "event": {
     "name": "2026 North Plains Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -1541,11 +1541,11 @@
             {
               "team1": "Madison United Mixed Ultimate",
               "team2": "Mad Udderburn",
-              "score1": 0,
-              "score2": 0,
+              "score1": 10,
+              "score2": 9,
               "datetime": "2026-09-12T13:00:00Z",
               "round": "Pool C",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -1591,17 +1591,47 @@
         {
           "name": "1st Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Northern Comfort",
+              "team2": "Madison United Mixed Ultimate",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T15:00:00Z",
+              "round": "1st Semis",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "2nd Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "BADIES",
+              "team2": "Mad Udderburn",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T15:00:00Z",
+              "round": "2nd Pre-quarters",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "5th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Frostbite",
+              "team2": "Dinosaur Fancy",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T15:00:00Z",
+              "round": "5th Pre-quarters",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "9th Place",

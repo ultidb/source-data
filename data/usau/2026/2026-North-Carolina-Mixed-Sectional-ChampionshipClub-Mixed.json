@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-North-Carolina-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-North-Carolina-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-12T19:45:32.180018Z",
+  "scrapedAt": "2026-09-12T20:02:59.620215Z",
   "event": {
     "name": "2026 North Carolina Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -1135,6 +1135,15 @@
           "isChampionship": false,
           "games": [
             {
+              "team1": "Malice in Wonderland",
+              "team2": "Asheville Parliament",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "Semis",
+              "status": "Scheduled"
+            },
+            {
               "team1": "FlyTrap",
               "team2": "Rampage",
               "score1": 0,
@@ -1146,11 +1155,11 @@
             {
               "team1": "Catalyst",
               "team2": "Malice in Wonderland",
-              "score1": 0,
-              "score2": 0,
+              "score1": 12,
+              "score2": 13,
               "datetime": "2026-09-12T14:15:00Z",
               "round": "Qtrs (GtG)",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -1162,7 +1171,17 @@
         {
           "name": "4th/5th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Blue Ridge Sasquatch",
+              "team2": "Catalyst",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "4th Qtr",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "6th/7th/8th Place",

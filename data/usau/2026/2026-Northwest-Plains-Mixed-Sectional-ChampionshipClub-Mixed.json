@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Northwest-Plains-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Northwest-Plains-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-12T19:47:30.658461Z",
+  "scrapedAt": "2026-09-12T20:04:53.086898Z",
   "event": {
     "name": "2026 Northwest Plains Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -1475,11 +1475,11 @@
             {
               "team1": "Lemonade Ultimate",
               "team2": "Melt",
-              "score1": 0,
-              "score2": 0,
+              "score1": 11,
+              "score2": 10,
               "datetime": "2026-09-12T13:00:00Z",
               "round": "Pool A",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -1591,17 +1591,47 @@
         {
           "name": "Championship",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Minnesota Star Power",
+              "team2": "Pushovers",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T15:00:00Z",
+              "round": "Semifinals",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "2nd Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Lemonade Ultimate",
+              "team2": "Limbo",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T15:00:00Z",
+              "round": "2nd Octos",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "Game to Go",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Melt",
+              "team2": "Ultraviolet",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T15:00:00Z",
+              "round": "5th Octos",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "7th Place",
