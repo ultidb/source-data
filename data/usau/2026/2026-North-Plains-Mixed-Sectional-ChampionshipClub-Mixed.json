@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-North-Plains-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-North-Plains-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-12T22:04:04.966644Z",
+  "scrapedAt": "2026-09-12T22:24:00.974480Z",
   "event": {
     "name": "2026 North Plains Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -1635,6 +1635,15 @@
               "status": "Scheduled"
             },
             {
+              "team1": "Mousetrap",
+              "team2": "Mad Udderburn",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "2nd Quarters",
+              "status": "Scheduled"
+            },
+            {
               "team1": "The Midwest Goodbye",
               "team2": "Boomtown Pandas",
               "score1": 3,
@@ -1646,11 +1655,11 @@
             {
               "team1": "BADIES",
               "team2": "Mad Udderburn",
-              "score1": 0,
-              "score2": 0,
+              "score1": 9,
+              "score2": 12,
               "datetime": "2026-09-12T15:00:00Z",
               "round": "2nd Pre-quarters",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -1658,6 +1667,15 @@
           "name": "5th Place",
           "isChampionship": false,
           "games": [
+            {
+              "team1": "BADIES",
+              "team2": "Mastodon",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "5th Quarters",
+              "status": "Scheduled"
+            },
             {
               "team1": "Frostbite",
               "team2": "The Midwest Goodbye",
@@ -1670,11 +1688,11 @@
             {
               "team1": "Mastodon",
               "team2": "NEW Groove",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 10,
               "datetime": "2026-09-12T15:00:00Z",
               "round": "5th Pre-quarters",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Frostbite",
@@ -1695,7 +1713,17 @@
         {
           "name": "11th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "NEW Groove",
+              "team2": "Dinosaur Fancy",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "11th Place",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     }
