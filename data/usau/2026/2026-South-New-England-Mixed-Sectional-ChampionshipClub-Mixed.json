@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-South-New-England-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-South-New-England-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-12T17:47:55.666270Z",
+  "scrapedAt": "2026-09-12T18:07:44.749365Z",
   "event": {
     "name": "2026 South New England Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -1392,11 +1392,11 @@
             {
               "team1": "T Party",
               "team2": "Beached Whales",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 8,
               "datetime": "2026-09-12T12:30:00Z",
               "round": "Pool B",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         }
@@ -1405,7 +1405,41 @@
     {
       "type": "clusters",
       "name": "AB Crossovers",
-      "groups": []
+      "groups": [
+        {
+          "name": "AB",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Wild Card",
+              "team2": "Quahogs",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T14:15:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Lampshade",
+              "team2": "T Party",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T14:15:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Rainbow",
+              "team2": "Beached Whales",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T14:15:00Z",
+              "round": "",
+              "status": "Scheduled"
+            }
+          ]
+        }
+      ]
     },
     {
       "type": "pools",
