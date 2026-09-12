@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-North-Plains-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-North-Plains-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-12T21:44:18.821399Z",
+  "scrapedAt": "2026-09-12T22:04:04.966644Z",
   "event": {
     "name": "2026 North Plains Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -1475,11 +1475,11 @@
             {
               "team1": "NOISE",
               "team2": "Mastodon",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 8,
               "datetime": "2026-09-12T13:00:00Z",
               "round": "Pool A",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -1593,6 +1593,24 @@
           "isChampionship": false,
           "games": [
             {
+              "team1": "NOISE",
+              "team2": "Northern Comfort",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "1st Place",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "NOISE",
+              "team2": "Mousetrap",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2026-09-12T15:00:00Z",
+              "round": "1st Semis",
+              "status": "Final"
+            },
+            {
               "team1": "Northern Comfort",
               "team2": "Madison United Mixed Ultimate",
               "score1": 15,
@@ -1608,6 +1626,24 @@
           "isChampionship": false,
           "games": [
             {
+              "team1": "Madison United Mixed Ultimate",
+              "team2": "Boomtown Pandas",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "2nd Quarters",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "The Midwest Goodbye",
+              "team2": "Boomtown Pandas",
+              "score1": 3,
+              "score2": 15,
+              "datetime": "2026-09-12T15:00:00Z",
+              "round": "2nd Pre-quarters",
+              "status": "Final"
+            },
+            {
               "team1": "BADIES",
               "team2": "Mad Udderburn",
               "score1": 0,
@@ -1622,6 +1658,24 @@
           "name": "5th Place",
           "isChampionship": false,
           "games": [
+            {
+              "team1": "Frostbite",
+              "team2": "The Midwest Goodbye",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "5th Quarters",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Mastodon",
+              "team2": "NEW Groove",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T15:00:00Z",
+              "round": "5th Pre-quarters",
+              "status": "Scheduled"
+            },
             {
               "team1": "Frostbite",
               "team2": "Dinosaur Fancy",

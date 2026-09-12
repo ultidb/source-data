@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Northwest-Plains-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Northwest-Plains-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-12T21:44:57.154566Z",
+  "scrapedAt": "2026-09-12T22:04:42.374516Z",
   "event": {
     "name": "2026 Northwest Plains Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -1626,6 +1626,15 @@
           "isChampionship": false,
           "games": [
             {
+              "team1": "Bird",
+              "team2": "Limbo",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "2nd Quarters",
+              "status": "Scheduled"
+            },
+            {
               "team1": "Pandamonium",
               "team2": "Pushovers",
               "score1": 0,
@@ -1637,11 +1646,11 @@
             {
               "team1": "Lemonade Ultimate",
               "team2": "Limbo",
-              "score1": 0,
-              "score2": 0,
+              "score1": 9,
+              "score2": 10,
               "datetime": "2026-09-12T15:00:00Z",
               "round": "2nd Octos",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Pandamonium",

@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-West-Plains-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-West-Plains-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-12T21:51:23.035769Z",
+  "scrapedAt": "2026-09-12T22:11:07.645666Z",
   "event": {
     "name": "2026 West Plains Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -1187,20 +1187,20 @@
             {
               "team1": "Fatal Attraction",
               "team2": "CLX",
-              "score1": 0,
-              "score2": 0,
+              "score1": 12,
+              "score2": 10,
               "datetime": "2026-09-12T16:00:00Z",
               "round": "Pool B",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Spirit Howl",
               "team2": "The New Deal Herd",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 4,
               "datetime": "2026-09-12T16:00:00Z",
               "round": "Pool B",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         }
@@ -1213,17 +1213,56 @@
         {
           "name": "1st Place Bracket",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Good Company",
+              "team2": "Fatal Attraction",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "Finals",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "2nd Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "QCO",
+              "team2": "CLX",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "2nd Place Semi",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "4th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "ConSTLation",
+              "team2": "Spirit Howl",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "4th Place Quarters",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "STL CELESTIAL",
+              "team2": "Arms Race",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "4th Place Quarters",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     },
