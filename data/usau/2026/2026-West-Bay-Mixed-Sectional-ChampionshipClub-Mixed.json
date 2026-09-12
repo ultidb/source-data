@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-West-Bay-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-West-Bay-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-12T23:10:35.303959Z",
+  "scrapedAt": "2026-09-12T23:30:14.252110Z",
   "event": {
     "name": "2026 West Bay Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -1957,21 +1957,30 @@
           "games": [
             {
               "team1": "Polar Bears",
-              "team2": "American Barbecue",
+              "team2": "Classy",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "1st Place Semis",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Polar Bears",
+              "team2": "American Barbecue",
+              "score1": 15,
+              "score2": 6,
               "datetime": "2026-09-12T14:15:00Z",
               "round": "1st Place Quarters",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "BW Ultimate",
               "team2": "Classy",
-              "score1": 0,
-              "score2": 0,
+              "score1": 9,
+              "score2": 10,
               "datetime": "2026-09-12T14:15:00Z",
               "round": "1st Place Quarters",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Donuts",
@@ -1996,7 +2005,17 @@
         {
           "name": "2nd Place Bracket",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "American Barbecue",
+              "team2": "BW Ultimate",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "2nd Place Round 1",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "4th Place",

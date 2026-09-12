@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-NorCal-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-NorCal-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-12T23:02:10.238286Z",
+  "scrapedAt": "2026-09-12T23:21:57.172703Z",
   "event": {
     "name": "2026 NorCal Mens Sectional Championship",
     "division": "Club - Men ",
@@ -984,6 +984,15 @@
           "games": [
             {
               "team1": "OAT",
+              "team2": "Swordfish",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T13:00:00Z",
+              "round": "Championship",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "OAT",
               "team2": "Sauce",
               "score1": 15,
               "score2": 6,
@@ -994,11 +1003,11 @@
             {
               "team1": "Firefall",
               "team2": "Swordfish",
-              "score1": 0,
-              "score2": 0,
+              "score1": 9,
+              "score2": 15,
               "datetime": "2026-09-12T14:15:00Z",
               "round": "Semifinals",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -1009,6 +1018,15 @@
             {
               "team1": "Sauce",
               "team2": "East Bay Earthworms",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "Second Place Quarterfinals",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Scooby Coupy COUP",
+              "team2": "Firefall",
               "score1": 0,
               "score2": 0,
               "datetime": "2026-09-13T11:00:00Z",
@@ -1027,11 +1045,11 @@
             {
               "team1": "Scooby Coupy COUP",
               "team2": "Bay Dog",
-              "score1": 0,
-              "score2": 0,
+              "score1": 11,
+              "score2": 9,
               "datetime": "2026-09-12T14:15:00Z",
               "round": "Second Place First Round",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -1043,7 +1061,17 @@
         {
           "name": "Seventh Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Float",
+              "team2": "Bay Dog",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "Seventh Place",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     }
