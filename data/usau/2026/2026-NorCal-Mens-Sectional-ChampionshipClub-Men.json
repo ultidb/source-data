@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-NorCal-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-NorCal-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-12T21:02:25.575560Z",
+  "scrapedAt": "2026-09-12T21:22:01.319242Z",
   "event": {
     "name": "2026 NorCal Mens Sectional Championship",
     "division": "Club - Men ",
@@ -964,11 +964,11 @@
             {
               "team1": "Sauce",
               "team2": "East Bay Earthworms",
-              "score1": 0,
-              "score2": 0,
+              "score1": 12,
+              "score2": 8,
               "datetime": "2026-09-12T12:30:00Z",
               "round": "Pool B",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         }
@@ -981,12 +981,50 @@
         {
           "name": "Championship",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "OAT",
+              "team2": "Sauce",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T14:15:00Z",
+              "round": "Semifinals",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Firefall",
+              "team2": "Swordfish",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T14:15:00Z",
+              "round": "Semifinals",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "Second Place (Game to Go)",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Float",
+              "team2": "East Bay Earthworms",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T14:15:00Z",
+              "round": "Second Place First Round",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Scooby Coupy COUP",
+              "team2": "Bay Dog",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T14:15:00Z",
+              "round": "Second Place First Round",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "Fifth Place",

@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Capital-Womens-Sectional-ChampionshipClub-Women",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Capital-Womens-Sectional-Championship/schedule/Women/Club-Women/",
-  "scrapedAt": "2026-09-12T20:56:16.069901Z",
+  "scrapedAt": "2026-09-12T21:16:08.659147Z",
   "event": {
     "name": "2026 Capital Womens Sectional Championship",
     "division": "Club - Women ",
@@ -903,22 +903,40 @@
           "isChampionship": false,
           "games": [
             {
-              "team1": "C’ville Sirens",
-              "team2": "Aces",
+              "team1": "Agency",
+              "team2": "C’ville Sirens",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "Semis",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Virginia Rebellion",
+              "team2": "Dissent",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "Semis",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "C’ville Sirens",
+              "team2": "Aces",
+              "score1": 13,
+              "score2": 8,
               "datetime": "2026-09-12T15:00:00Z",
               "round": "Quarters",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Dissent",
               "team2": "Incline",
-              "score1": 0,
-              "score2": 0,
+              "score1": 12,
+              "score2": 10,
               "datetime": "2026-09-12T15:00:00Z",
               "round": "Quarters",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -936,7 +954,35 @@
         {
           "name": "Pool C",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Aces",
+              "team2": "Incline",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T00:00:00Z",
+              "round": "Pool C",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Wave",
+              "team2": "Incline",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T00:00:00Z",
+              "round": "Pool C",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Wave",
+              "team2": "Aces",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T00:00:00Z",
+              "round": "Pool C",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     }

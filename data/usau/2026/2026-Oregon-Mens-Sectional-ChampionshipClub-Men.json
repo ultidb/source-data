@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Oregon-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Oregon-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-12T21:05:33.367080Z",
+  "scrapedAt": "2026-09-12T21:25:06.194630Z",
   "event": {
     "name": "2026 Oregon Mens Sectional Championship",
     "division": "Club - Men ",
@@ -16,128 +16,6 @@
     "endDate": "2026-09-13"
   },
   "teams": [
-    {
-      "name": "Portland TremOR",
-      "seed": 2,
-      "sourceTeamId": "Dj0QUt4mll3sGtpJ%2fpieTu0E2Z0caKHMoQEjMNCwIao%3d",
-      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=Dj0QUt4mll3sGtpJ%2fpieTu0E2Z0caKHMoQEjMNCwIao%3d",
-      "info": {
-        "nickname": "",
-        "location": "Portland, Oregon",
-        "website": "",
-        "facebook": "",
-        "twitter": ""
-      },
-      "coaches": [
-        "coaches"
-      ],
-      "roster": [
-        {
-          "number": "0",
-          "name": "David Pearce"
-        },
-        {
-          "number": "0",
-          "name": "Elijah Meeuwsen"
-        },
-        {
-          "number": "0",
-          "name": "Joel Soltman"
-        },
-        {
-          "number": "0",
-          "name": "Henry Nelson"
-        },
-        {
-          "number": "0",
-          "name": "Elliot Brandt"
-        },
-        {
-          "number": "0",
-          "name": "Everett O'Leary"
-        },
-        {
-          "number": "0",
-          "name": "Eliot Incorvia"
-        },
-        {
-          "number": "0",
-          "name": "Henry AvRuskin"
-        },
-        {
-          "number": "0",
-          "name": "Samuel Harrington"
-        },
-        {
-          "number": "0",
-          "name": "Zach Heiden"
-        },
-        {
-          "number": "0",
-          "name": "Owen Poissant"
-        },
-        {
-          "number": "0",
-          "name": "Kieran Wagner"
-        },
-        {
-          "number": "0",
-          "name": "Micah Harter"
-        },
-        {
-          "number": "0",
-          "name": "Miles Renbarger"
-        },
-        {
-          "number": "1",
-          "name": "Nathaniel Griffith"
-        },
-        {
-          "number": "2",
-          "name": "Tyler MacMaster"
-        },
-        {
-          "number": "2",
-          "name": "Jack Nelson"
-        },
-        {
-          "number": "7",
-          "name": "Evan Mack"
-        },
-        {
-          "number": "11",
-          "name": "Connor Klitgaard"
-        },
-        {
-          "number": "13",
-          "name": "Carter Cripe"
-        },
-        {
-          "number": "14",
-          "name": "Michael Wise"
-        },
-        {
-          "number": "34",
-          "name": "Adam McNichols"
-        },
-        {
-          "number": "42",
-          "name": "Quinn Alaeddine"
-        },
-        {
-          "number": "51",
-          "name": "Charlie DeKlotz"
-        },
-        {
-          "number": "67",
-          "name": "Matt Rix"
-        },
-        {
-          "number": "81",
-          "name": "Ryan Wolfe"
-        }
-      ]
-    },
     {
       "name": "Dark Star",
       "seed": 1,
@@ -257,6 +135,128 @@
         {
           "number": "78",
           "name": "Oliver Hughes"
+        }
+      ]
+    },
+    {
+      "name": "Portland TremOR",
+      "seed": 2,
+      "sourceTeamId": "Dj0QUt4mll3sGtpJ%2fpieTu0E2Z0caKHMoQEjMNCwIao%3d",
+      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=Dj0QUt4mll3sGtpJ%2fpieTu0E2Z0caKHMoQEjMNCwIao%3d",
+      "info": {
+        "nickname": "",
+        "location": "Portland, Oregon",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "coaches"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "David Pearce"
+        },
+        {
+          "number": "0",
+          "name": "Elijah Meeuwsen"
+        },
+        {
+          "number": "0",
+          "name": "Joel Soltman"
+        },
+        {
+          "number": "0",
+          "name": "Henry Nelson"
+        },
+        {
+          "number": "0",
+          "name": "Elliot Brandt"
+        },
+        {
+          "number": "0",
+          "name": "Everett O'Leary"
+        },
+        {
+          "number": "0",
+          "name": "Eliot Incorvia"
+        },
+        {
+          "number": "0",
+          "name": "Henry AvRuskin"
+        },
+        {
+          "number": "0",
+          "name": "Samuel Harrington"
+        },
+        {
+          "number": "0",
+          "name": "Zach Heiden"
+        },
+        {
+          "number": "0",
+          "name": "Owen Poissant"
+        },
+        {
+          "number": "0",
+          "name": "Kieran Wagner"
+        },
+        {
+          "number": "0",
+          "name": "Micah Harter"
+        },
+        {
+          "number": "0",
+          "name": "Miles Renbarger"
+        },
+        {
+          "number": "1",
+          "name": "Nathaniel Griffith"
+        },
+        {
+          "number": "2",
+          "name": "Tyler MacMaster"
+        },
+        {
+          "number": "2",
+          "name": "Jack Nelson"
+        },
+        {
+          "number": "7",
+          "name": "Evan Mack"
+        },
+        {
+          "number": "11",
+          "name": "Connor Klitgaard"
+        },
+        {
+          "number": "13",
+          "name": "Carter Cripe"
+        },
+        {
+          "number": "14",
+          "name": "Michael Wise"
+        },
+        {
+          "number": "34",
+          "name": "Adam McNichols"
+        },
+        {
+          "number": "42",
+          "name": "Quinn Alaeddine"
+        },
+        {
+          "number": "51",
+          "name": "Charlie DeKlotz"
+        },
+        {
+          "number": "67",
+          "name": "Matt Rix"
+        },
+        {
+          "number": "81",
+          "name": "Ryan Wolfe"
         }
       ]
     },
@@ -413,11 +413,11 @@
             {
               "team1": "Dark Star",
               "team2": "Portland TremOR",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 10,
               "datetime": "2026-09-12T13:00:00Z",
               "round": "Pool A",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         }
