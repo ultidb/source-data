@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Central-Plains-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Central-Plains-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-12T13:37:03.264740Z",
+  "scrapedAt": "2026-09-12T13:56:59.415441Z",
   "event": {
     "name": "2026 Central Plains Mens Sectional Championship",
     "division": "Club - Men ",
@@ -16,6 +16,96 @@
     "endDate": "2026-09-13"
   },
   "teams": [
+    {
+      "name": "Omen",
+      "seed": 10,
+      "sourceTeamId": "cj9tz46KZo18vEShe4X8zf%2fzA3PbMLiMi5bgkM9Vu08%3d",
+      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=cj9tz46KZo18vEShe4X8zf%2fzA3PbMLiMi5bgkM9Vu08%3d",
+      "info": {
+        "nickname": "",
+        "location": "Champaign, Illinois",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "coaches"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Dominic Romeo"
+        },
+        {
+          "number": "0",
+          "name": "Aston Wang"
+        },
+        {
+          "number": "0",
+          "name": "Jake Fujiwara"
+        },
+        {
+          "number": "0",
+          "name": "Judah Kim"
+        },
+        {
+          "number": "0",
+          "name": "Kushal Kothapalli"
+        },
+        {
+          "number": "0",
+          "name": "Wyatt Caudle"
+        },
+        {
+          "number": "0",
+          "name": "Mehlum Anjarwala"
+        },
+        {
+          "number": "0",
+          "name": "Rohil Saxena"
+        },
+        {
+          "number": "2",
+          "name": "Arjun Samudrala"
+        },
+        {
+          "number": "4",
+          "name": "Eddie Zhao"
+        },
+        {
+          "number": "8",
+          "name": "Jason Yi"
+        },
+        {
+          "number": "11",
+          "name": "Aadit Bhatia"
+        },
+        {
+          "number": "26",
+          "name": "Evan Driscoll"
+        },
+        {
+          "number": "34",
+          "name": "Carson Splear"
+        },
+        {
+          "number": "44",
+          "name": "Christopher Roberts"
+        },
+        {
+          "number": "77",
+          "name": "James Thomas"
+        },
+        {
+          "number": "83",
+          "name": "Eric Cai"
+        },
+        {
+          "number": "88",
+          "name": "Joe Pozen"
+        }
+      ]
+    },
     {
       "name": "Haymaker",
       "seed": 1,
@@ -249,96 +339,6 @@
         {
           "number": "81",
           "name": "Dylan Arango"
-        }
-      ]
-    },
-    {
-      "name": "Omen",
-      "seed": 10,
-      "sourceTeamId": "cj9tz46KZo18vEShe4X8zf%2fzA3PbMLiMi5bgkM9Vu08%3d",
-      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=cj9tz46KZo18vEShe4X8zf%2fzA3PbMLiMi5bgkM9Vu08%3d",
-      "info": {
-        "nickname": "",
-        "location": "Champaign, Illinois",
-        "website": "",
-        "facebook": "",
-        "twitter": ""
-      },
-      "coaches": [
-        "coaches"
-      ],
-      "roster": [
-        {
-          "number": "0",
-          "name": "Dominic Romeo"
-        },
-        {
-          "number": "0",
-          "name": "Aston Wang"
-        },
-        {
-          "number": "0",
-          "name": "Jake Fujiwara"
-        },
-        {
-          "number": "0",
-          "name": "Judah Kim"
-        },
-        {
-          "number": "0",
-          "name": "Kushal Kothapalli"
-        },
-        {
-          "number": "0",
-          "name": "Wyatt Caudle"
-        },
-        {
-          "number": "0",
-          "name": "Mehlum Anjarwala"
-        },
-        {
-          "number": "0",
-          "name": "Rohil Saxena"
-        },
-        {
-          "number": "2",
-          "name": "Arjun Samudrala"
-        },
-        {
-          "number": "4",
-          "name": "Eddie Zhao"
-        },
-        {
-          "number": "8",
-          "name": "Jason Yi"
-        },
-        {
-          "number": "11",
-          "name": "Aadit Bhatia"
-        },
-        {
-          "number": "26",
-          "name": "Evan Driscoll"
-        },
-        {
-          "number": "34",
-          "name": "Carson Splear"
-        },
-        {
-          "number": "44",
-          "name": "Christopher Roberts"
-        },
-        {
-          "number": "77",
-          "name": "James Thomas"
-        },
-        {
-          "number": "83",
-          "name": "Eric Cai"
-        },
-        {
-          "number": "88",
-          "name": "Joe Pozen"
         }
       ]
     },
@@ -1285,11 +1285,11 @@
             {
               "team1": "Maumee Boys",
               "team2": "Omen",
-              "score1": 9,
-              "score2": 10,
+              "score1": 11,
+              "score2": 13,
               "datetime": "2026-09-12T08:30:00Z",
               "round": "Pool A",
-              "status": "In Progress"
+              "status": "Final"
             },
             {
               "team1": "Haymaker",
@@ -1318,8 +1318,8 @@
             {
               "team1": "Shift",
               "team2": "Satellite",
-              "score1": 9,
-              "score2": 7,
+              "score1": 11,
+              "score2": 11,
               "datetime": "2026-09-12T08:30:00Z",
               "round": "Pool B",
               "status": "In Progress"
