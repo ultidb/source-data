@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-South-Texas-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-South-Texas-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-12T20:08:32.170558Z",
+  "scrapedAt": "2026-09-12T20:28:26.325828Z",
   "event": {
     "name": "2026 South Texas Mens Sectional Championship",
     "division": "Club - Men ",
@@ -1835,6 +1835,15 @@
           "isChampionship": false,
           "games": [
             {
+              "team1": "San Antonio Warhawks",
+              "team2": "Cozy Boys",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T14:20:00Z",
+              "round": "Pre-quarters 5",
+              "status": "Scheduled"
+            },
+            {
               "team1": "Forge",
               "team2": "Team Waco (Not a Cult)",
               "score1": 0,
@@ -1846,11 +1855,11 @@
             {
               "team1": "STX HEAT",
               "team2": "San Antonio Warhawks",
-              "score1": 0,
-              "score2": 0,
+              "score1": 9,
+              "score2": 11,
               "datetime": "2026-09-12T12:20:00Z",
               "round": "Wildcards",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Black Gold",

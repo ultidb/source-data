@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Oregon-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Oregon-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-12T20:05:30.677421Z",
+  "scrapedAt": "2026-09-12T20:25:28.818491Z",
   "event": {
     "name": "2026 Oregon Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -261,84 +261,6 @@
       ]
     },
     {
-      "name": "SOUPA",
-      "seed": 10,
-      "sourceTeamId": "xwZhLbgpjyNDIYRsao9lqudxjfvYLO13dMkED3tqDMY%3d",
-      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=xwZhLbgpjyNDIYRsao9lqudxjfvYLO13dMkED3tqDMY%3d",
-      "info": {
-        "nickname": "",
-        "location": "Talent, Oregon",
-        "website": "",
-        "facebook": "",
-        "twitter": ""
-      },
-      "coaches": [
-        "coaches"
-      ],
-      "roster": [
-        {
-          "number": "0",
-          "name": "Derek Seymour"
-        },
-        {
-          "number": "00",
-          "name": "Courtney Dale"
-        },
-        {
-          "number": "03",
-          "name": "Kyle Blaeuer"
-        },
-        {
-          "number": "05",
-          "name": "Noah Kotler"
-        },
-        {
-          "number": "07",
-          "name": "Phoenix Adams"
-        },
-        {
-          "number": "08",
-          "name": "Maya Stewart"
-        },
-        {
-          "number": "15",
-          "name": "Kaitlyn Waszak"
-        },
-        {
-          "number": "21",
-          "name": "Joseph Gipner"
-        },
-        {
-          "number": "22",
-          "name": "Sara Millies-Lucke"
-        },
-        {
-          "number": "24",
-          "name": "Jade Schaeffer"
-        },
-        {
-          "number": "26",
-          "name": "Greg Starbird"
-        },
-        {
-          "number": "28",
-          "name": "Cassie  Jantzer"
-        },
-        {
-          "number": "32",
-          "name": "Travis Jantzer"
-        },
-        {
-          "number": "33",
-          "name": "Connor Dumont"
-        },
-        {
-          "number": "44",
-          "name": "Kye Butler"
-        }
-      ]
-    },
-    {
       "name": "Viking Blood",
       "seed": 3,
       "sourceTeamId": "udS9%2bawhHJSKHVRh7%2fvRp53v0lmnB4A7%2fm4jnWV2pzo%3d",
@@ -425,6 +347,84 @@
         {
           "number": "72",
           "name": "Revere Jacobson"
+        }
+      ]
+    },
+    {
+      "name": "SOUPA",
+      "seed": 10,
+      "sourceTeamId": "xwZhLbgpjyNDIYRsao9lqudxjfvYLO13dMkED3tqDMY%3d",
+      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=xwZhLbgpjyNDIYRsao9lqudxjfvYLO13dMkED3tqDMY%3d",
+      "info": {
+        "nickname": "",
+        "location": "Talent, Oregon",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "coaches"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Derek Seymour"
+        },
+        {
+          "number": "00",
+          "name": "Courtney Dale"
+        },
+        {
+          "number": "03",
+          "name": "Kyle Blaeuer"
+        },
+        {
+          "number": "05",
+          "name": "Noah Kotler"
+        },
+        {
+          "number": "07",
+          "name": "Phoenix Adams"
+        },
+        {
+          "number": "08",
+          "name": "Maya Stewart"
+        },
+        {
+          "number": "15",
+          "name": "Kaitlyn Waszak"
+        },
+        {
+          "number": "21",
+          "name": "Joseph Gipner"
+        },
+        {
+          "number": "22",
+          "name": "Sara Millies-Lucke"
+        },
+        {
+          "number": "24",
+          "name": "Jade Schaeffer"
+        },
+        {
+          "number": "26",
+          "name": "Greg Starbird"
+        },
+        {
+          "number": "28",
+          "name": "Cassie  Jantzer"
+        },
+        {
+          "number": "32",
+          "name": "Travis Jantzer"
+        },
+        {
+          "number": "33",
+          "name": "Connor Dumont"
+        },
+        {
+          "number": "44",
+          "name": "Kye Butler"
         }
       ]
     },
@@ -1189,20 +1189,20 @@
             {
               "team1": "Drip",
               "team2": "Goose Run",
-              "score1": 0,
-              "score2": 0,
+              "score1": 7,
+              "score2": 5,
               "datetime": "2026-09-12T12:20:00Z",
               "round": "Pool A",
-              "status": "Scheduled"
+              "status": "In Progress"
             },
             {
               "team1": "Viking Blood",
               "team2": "SOUPA",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 3,
               "datetime": "2026-09-12T12:20:00Z",
               "round": "Pool A",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Oregon Scorch",
