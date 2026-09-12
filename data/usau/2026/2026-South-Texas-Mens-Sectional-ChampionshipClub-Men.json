@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-South-Texas-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-South-Texas-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-12T18:44:12.649788Z",
+  "scrapedAt": "2026-09-12T19:08:32.848335Z",
   "event": {
     "name": "2026 South Texas Mens Sectional Championship",
     "division": "Club - Men ",
@@ -1760,6 +1760,15 @@
               "status": "Scheduled"
             },
             {
+              "team1": "Texas Tea",
+              "team2": "Alamode",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T14:20:00Z",
+              "round": "Semifinals",
+              "status": "Scheduled"
+            },
+            {
               "team1": "Doublewide",
               "team2": "Bonzaiiiii!!",
               "score1": 15,
@@ -1780,11 +1789,11 @@
             {
               "team1": "Riverside",
               "team2": "Texas Tea",
-              "score1": 0,
-              "score2": 0,
+              "score1": 9,
+              "score2": 10,
               "datetime": "2026-09-12T12:20:00Z",
               "round": "Quarterfinals",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Texas Duffy",
@@ -1809,6 +1818,15 @@
               "datetime": "2026-09-12T14:20:00Z",
               "round": "Pre-quarters 2",
               "status": "Scheduled"
+            },
+            {
+              "team1": "Riverside",
+              "team2": "Texas Duffy",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T14:20:00Z",
+              "round": "Pre-quarters 2",
+              "status": "Scheduled"
             }
           ]
         },
@@ -1816,6 +1834,15 @@
           "name": "5th Place",
           "isChampionship": false,
           "games": [
+            {
+              "team1": "Forge",
+              "team2": "Team Waco (Not a Cult)",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T14:20:00Z",
+              "round": "Pre-quarters 5",
+              "status": "Scheduled"
+            },
             {
               "team1": "STX HEAT",
               "team2": "San Antonio Warhawks",
@@ -1828,11 +1855,11 @@
             {
               "team1": "Black Gold",
               "team2": "Team Waco (Not a Cult)",
-              "score1": 0,
-              "score2": 0,
+              "score1": 7,
+              "score2": 10,
               "datetime": "2026-09-12T12:20:00Z",
               "round": "Wildcards",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },

@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-NorCal-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-NorCal-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-12T18:31:19.390247Z",
+  "scrapedAt": "2026-09-12T19:02:06.368167Z",
   "event": {
     "name": "2026 NorCal Mens Sectional Championship",
     "division": "Club - Men ",
@@ -263,80 +263,6 @@
       ]
     },
     {
-      "name": "Float",
-      "seed": 8,
-      "sourceTeamId": "L30YAO%2fxvyEyJaJZ3l2Erwc6Nmllr0EoILqWj8ACDtc%3d",
-      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=L30YAO%2fxvyEyJaJZ3l2Erwc6Nmllr0EoILqWj8ACDtc%3d",
-      "info": {
-        "nickname": "",
-        "location": "Chico, California",
-        "website": "https://www.instagram.com/chicofloat/profilecard/?igsh=NTc4MTIwNjQ2YQ==",
-        "facebook": "",
-        "twitter": ""
-      },
-      "coaches": [
-        "coaches"
-      ],
-      "roster": [
-        {
-          "number": "0",
-          "name": "Brandon  Garcia Flores"
-        },
-        {
-          "number": "0",
-          "name": "Erik Stenstrom"
-        },
-        {
-          "number": "0",
-          "name": "Brent Garbers"
-        },
-        {
-          "number": "0",
-          "name": "Kaleb Paige"
-        },
-        {
-          "number": "0",
-          "name": "Stephen Kodur"
-        },
-        {
-          "number": "0",
-          "name": "Gabriel Drobny"
-        },
-        {
-          "number": "0",
-          "name": "Jack Donnell"
-        },
-        {
-          "number": "1",
-          "name": "Elliott Schwarz"
-        },
-        {
-          "number": "4",
-          "name": "James Ross"
-        },
-        {
-          "number": "12",
-          "name": "Ryan Branca"
-        },
-        {
-          "number": "22",
-          "name": "John Anthony"
-        },
-        {
-          "number": "32",
-          "name": "Alexander Vina"
-        },
-        {
-          "number": "52",
-          "name": "forrest lefebvre"
-        },
-        {
-          "number": "88",
-          "name": "Owen Onatanian"
-        }
-      ]
-    },
-    {
       "name": "Firefall",
       "seed": 6,
       "sourceTeamId": "%2bFm%2bYH6EhK4v7qv%2fSCC3qIZouVHxrBLTomsIi8l4mog%3d",
@@ -443,6 +369,80 @@
         {
           "number": "47",
           "name": "Lucas Parnell"
+        }
+      ]
+    },
+    {
+      "name": "Float",
+      "seed": 8,
+      "sourceTeamId": "L30YAO%2fxvyEyJaJZ3l2Erwc6Nmllr0EoILqWj8ACDtc%3d",
+      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=L30YAO%2fxvyEyJaJZ3l2Erwc6Nmllr0EoILqWj8ACDtc%3d",
+      "info": {
+        "nickname": "",
+        "location": "Chico, California",
+        "website": "https://www.instagram.com/chicofloat/profilecard/?igsh=NTc4MTIwNjQ2YQ==",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "coaches"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Brandon  Garcia Flores"
+        },
+        {
+          "number": "0",
+          "name": "Erik Stenstrom"
+        },
+        {
+          "number": "0",
+          "name": "Brent Garbers"
+        },
+        {
+          "number": "0",
+          "name": "Kaleb Paige"
+        },
+        {
+          "number": "0",
+          "name": "Stephen Kodur"
+        },
+        {
+          "number": "0",
+          "name": "Gabriel Drobny"
+        },
+        {
+          "number": "0",
+          "name": "Jack Donnell"
+        },
+        {
+          "number": "1",
+          "name": "Elliott Schwarz"
+        },
+        {
+          "number": "4",
+          "name": "James Ross"
+        },
+        {
+          "number": "12",
+          "name": "Ryan Branca"
+        },
+        {
+          "number": "22",
+          "name": "John Anthony"
+        },
+        {
+          "number": "32",
+          "name": "Alexander Vina"
+        },
+        {
+          "number": "52",
+          "name": "forrest lefebvre"
+        },
+        {
+          "number": "88",
+          "name": "Owen Onatanian"
         }
       ]
     },
@@ -877,11 +877,11 @@
             {
               "team1": "OAT",
               "team2": "Float",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 1,
               "datetime": "2026-09-12T10:45:00Z",
               "round": "Pool A",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Scooby Coupy COUP",
