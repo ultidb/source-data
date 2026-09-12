@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-NorCal-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-NorCal-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-12T17:22:14.339929Z",
+  "scrapedAt": "2026-09-12T17:42:03.665554Z",
   "event": {
     "name": "2026 NorCal Mens Sectional Championship",
     "division": "Club - Men ",
@@ -447,6 +447,84 @@
       ]
     },
     {
+      "name": "Bay Dog",
+      "seed": 4,
+      "sourceTeamId": "LOR8lgN5kDzNgDv7PHUOsU6ysI5sJVFkc3pk%2fFvDr4E%3d",
+      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=LOR8lgN5kDzNgDv7PHUOsU6ysI5sJVFkc3pk%2fFvDr4E%3d",
+      "info": {
+        "nickname": "",
+        "location": "Albany, California",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "coaches"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alex Chen"
+        },
+        {
+          "number": "0",
+          "name": "Dmitri Meyer"
+        },
+        {
+          "number": "0",
+          "name": "Eli Denny"
+        },
+        {
+          "number": "0",
+          "name": "Ryan Weng"
+        },
+        {
+          "number": "0",
+          "name": "Jonah Brochard"
+        },
+        {
+          "number": "0",
+          "name": "Malcolm Burns"
+        },
+        {
+          "number": "1",
+          "name": "Muhammad Hussain"
+        },
+        {
+          "number": "4",
+          "name": "Skyler  Martin"
+        },
+        {
+          "number": "8",
+          "name": "Paolo Soriano"
+        },
+        {
+          "number": "8",
+          "name": "Ethan Owen"
+        },
+        {
+          "number": "13",
+          "name": "Roman Leigh"
+        },
+        {
+          "number": "14",
+          "name": "Joseph Wolfman"
+        },
+        {
+          "number": "26",
+          "name": "Eric Denio"
+        },
+        {
+          "number": "45",
+          "name": "Tyler Weng"
+        },
+        {
+          "number": "99",
+          "name": "Douglas Goodwin"
+        }
+      ]
+    },
+    {
       "name": "Swordfish",
       "seed": 2,
       "sourceTeamId": "GgskWepIVHEztjro4Ds4w%2bj2MfaOJJXHuQKsV1YtuZ8%3d",
@@ -565,84 +643,6 @@
         {
           "number": "95",
           "name": "Brandon Widner"
-        }
-      ]
-    },
-    {
-      "name": "Bay Dog",
-      "seed": 4,
-      "sourceTeamId": "LOR8lgN5kDzNgDv7PHUOsU6ysI5sJVFkc3pk%2fFvDr4E%3d",
-      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=LOR8lgN5kDzNgDv7PHUOsU6ysI5sJVFkc3pk%2fFvDr4E%3d",
-      "info": {
-        "nickname": "",
-        "location": "Albany, California",
-        "website": "",
-        "facebook": "",
-        "twitter": ""
-      },
-      "coaches": [
-        "coaches"
-      ],
-      "roster": [
-        {
-          "number": "0",
-          "name": "Alex Chen"
-        },
-        {
-          "number": "0",
-          "name": "Dmitri Meyer"
-        },
-        {
-          "number": "0",
-          "name": "Eli Denny"
-        },
-        {
-          "number": "0",
-          "name": "Ryan Weng"
-        },
-        {
-          "number": "0",
-          "name": "Jonah Brochard"
-        },
-        {
-          "number": "0",
-          "name": "Malcolm Burns"
-        },
-        {
-          "number": "1",
-          "name": "Muhammad Hussain"
-        },
-        {
-          "number": "4",
-          "name": "Skyler  Martin"
-        },
-        {
-          "number": "8",
-          "name": "Paolo Soriano"
-        },
-        {
-          "number": "8",
-          "name": "Ethan Owen"
-        },
-        {
-          "number": "13",
-          "name": "Roman Leigh"
-        },
-        {
-          "number": "14",
-          "name": "Joseph Wolfman"
-        },
-        {
-          "number": "26",
-          "name": "Eric Denio"
-        },
-        {
-          "number": "45",
-          "name": "Tyler Weng"
-        },
-        {
-          "number": "99",
-          "name": "Douglas Goodwin"
         }
       ]
     },
@@ -919,11 +919,11 @@
             {
               "team1": "Swordfish",
               "team2": "Sauce",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 8,
               "datetime": "2026-09-12T09:00:00Z",
               "round": "Pool B",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Bay Dog",
