@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Upstate-New-York-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Upstate-New-York-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-12T18:08:46.845564Z",
+  "scrapedAt": "2026-09-12T18:45:20.611248Z",
   "event": {
     "name": "2026 Upstate New York Mens Sectional Championship",
     "division": "Club - Men ",
@@ -933,11 +933,11 @@
             {
               "team1": "Buffalo Frostbite",
               "team2": "Frostchomp",
-              "score1": 0,
-              "score2": 0,
+              "score1": 11,
+              "score2": 6,
               "datetime": "2026-09-12T13:00:00Z",
               "round": "Pool A",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -993,11 +993,11 @@
             {
               "team1": "DAP LAB",
               "team2": "Motive",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 6,
               "datetime": "2026-09-12T13:00:00Z",
               "round": "Pool B",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         }
@@ -1010,12 +1010,50 @@
         {
           "name": "First Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Phoenix",
+              "team2": "DAP LAB",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T15:00:00Z",
+              "round": "Semis",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "DAPPER",
+              "team2": "Alibi",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T15:00:00Z",
+              "round": "Semis",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "Second Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Buffalo Frostbite",
+              "team2": "Motive",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T15:00:00Z",
+              "round": "Play-in",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Los Buds",
+              "team2": "Frostchomp",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T15:00:00Z",
+              "round": "Play-in",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "7th/8th Place",

@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Red-River-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Red-River-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-12T18:05:38.449238Z",
+  "scrapedAt": "2026-09-12T18:38:35.351917Z",
   "event": {
     "name": "2026 Red River Mens Sectional Championship",
     "division": "Club - Men ",
@@ -505,6 +505,100 @@
       ]
     },
     {
+      "name": "Apollo",
+      "seed": 7,
+      "sourceTeamId": "WSlkcZ9AgYiXhXwTIK8LHIRWUB%2fjjD%2b7M9vJXNRmO14%3d",
+      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=WSlkcZ9AgYiXhXwTIK8LHIRWUB%2fjjD%2b7M9vJXNRmO14%3d",
+      "info": {
+        "nickname": "",
+        "location": "Little Rock, Arkansas",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "coaches"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Chris Stewart"
+        },
+        {
+          "number": "0",
+          "name": "Bret Vallun"
+        },
+        {
+          "number": "0",
+          "name": "Bryce Daniels"
+        },
+        {
+          "number": "0",
+          "name": "Dillon Simmons"
+        },
+        {
+          "number": "0",
+          "name": "Jeremiah Cascairo"
+        },
+        {
+          "number": "0",
+          "name": "Peter DelNero"
+        },
+        {
+          "number": "0",
+          "name": "Drake Hill"
+        },
+        {
+          "number": "0",
+          "name": "Jason Trumble"
+        },
+        {
+          "number": "0",
+          "name": "John Dellorto"
+        },
+        {
+          "number": "0",
+          "name": "Edward Jones"
+        },
+        {
+          "number": "0",
+          "name": "Dustin Brannam"
+        },
+        {
+          "number": "0",
+          "name": "Glenn McCracken"
+        },
+        {
+          "number": "0",
+          "name": "Alf Satterfield"
+        },
+        {
+          "number": "0",
+          "name": "Samuel Eckerd"
+        },
+        {
+          "number": "0",
+          "name": "Zach Siebenmann"
+        },
+        {
+          "number": "0",
+          "name": "Phil Murphy"
+        },
+        {
+          "number": "17",
+          "name": "Ryan Gernert"
+        },
+        {
+          "number": "26",
+          "name": "Tom Coffin"
+        },
+        {
+          "number": "34",
+          "name": "Austin Kohrs"
+        }
+      ]
+    },
+    {
       "name": "Rawhide",
       "seed": 4,
       "sourceTeamId": "V8Xnn9izJfP01IVvBmoSo4vHKxZA9MjEPkJhnAYsPLM%3d",
@@ -731,100 +825,6 @@
           "name": "Nathan Nordbrock"
         }
       ]
-    },
-    {
-      "name": "Apollo",
-      "seed": 7,
-      "sourceTeamId": "WSlkcZ9AgYiXhXwTIK8LHIRWUB%2fjjD%2b7M9vJXNRmO14%3d",
-      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=WSlkcZ9AgYiXhXwTIK8LHIRWUB%2fjjD%2b7M9vJXNRmO14%3d",
-      "info": {
-        "nickname": "",
-        "location": "Little Rock, Arkansas",
-        "website": "",
-        "facebook": "",
-        "twitter": ""
-      },
-      "coaches": [
-        "coaches"
-      ],
-      "roster": [
-        {
-          "number": "0",
-          "name": "Chris Stewart"
-        },
-        {
-          "number": "0",
-          "name": "Bret Vallun"
-        },
-        {
-          "number": "0",
-          "name": "Bryce Daniels"
-        },
-        {
-          "number": "0",
-          "name": "Dillon Simmons"
-        },
-        {
-          "number": "0",
-          "name": "Jeremiah Cascairo"
-        },
-        {
-          "number": "0",
-          "name": "Peter DelNero"
-        },
-        {
-          "number": "0",
-          "name": "Drake Hill"
-        },
-        {
-          "number": "0",
-          "name": "Jason Trumble"
-        },
-        {
-          "number": "0",
-          "name": "John Dellorto"
-        },
-        {
-          "number": "0",
-          "name": "Edward Jones"
-        },
-        {
-          "number": "0",
-          "name": "Dustin Brannam"
-        },
-        {
-          "number": "0",
-          "name": "Glenn McCracken"
-        },
-        {
-          "number": "0",
-          "name": "Alf Satterfield"
-        },
-        {
-          "number": "0",
-          "name": "Samuel Eckerd"
-        },
-        {
-          "number": "0",
-          "name": "Zach Siebenmann"
-        },
-        {
-          "number": "0",
-          "name": "Phil Murphy"
-        },
-        {
-          "number": "17",
-          "name": "Ryan Gernert"
-        },
-        {
-          "number": "26",
-          "name": "Tom Coffin"
-        },
-        {
-          "number": "34",
-          "name": "Austin Kohrs"
-        }
-      ]
     }
   ],
   "stages": [
@@ -857,11 +857,11 @@
             {
               "team1": "Dreadnought",
               "team2": "Dreadnought: Battleship",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 2,
               "datetime": "2026-09-12T11:30:00Z",
               "round": "Pool A",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -889,39 +889,21 @@
             },
             {
               "team1": "Texas BBQ",
-              "team2": "Supercell",
-              "score1": 0,
-              "score2": 0,
-              "datetime": "2026-09-12T11:30:00Z",
-              "round": "Pool B",
-              "status": "Scheduled"
-            },
-            {
-              "team1": "Rawhide",
-              "team2": "Apollo",
-              "score1": 0,
-              "score2": 0,
-              "datetime": "2026-09-12T11:30:00Z",
-              "round": "Pool B",
-              "status": "Scheduled"
-            },
-            {
-              "team1": "Texas BBQ",
               "team2": "Rawhide",
-              "score1": 0,
-              "score2": 0,
+              "score1": 14,
+              "score2": 6,
               "datetime": "2026-09-12T11:30:00Z",
               "round": "Pool B",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Supercell",
               "team2": "Apollo",
-              "score1": 0,
-              "score2": 0,
+              "score1": 9,
+              "score2": 14,
               "datetime": "2026-09-12T11:30:00Z",
               "round": "Pool B",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         }
@@ -934,7 +916,26 @@
         {
           "name": "Bracket for 1st",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "ZOO",
+              "team2": "Apollo",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T13:15:00Z",
+              "round": "Semis",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Dreadnought",
+              "team2": "Texas BBQ",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T13:15:00Z",
+              "round": "Semis",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "Bracket for 2nd and 3rd",
@@ -944,7 +945,17 @@
         {
           "name": "Bracket for 4th",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Dreadnought: Battleship",
+              "team2": "Supercell",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T13:15:00Z",
+              "round": "Elimination",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     }

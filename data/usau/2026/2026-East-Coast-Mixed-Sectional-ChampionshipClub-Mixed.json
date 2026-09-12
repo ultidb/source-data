@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-East-Coast-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-East-Coast-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-12T17:57:50.198546Z",
+  "scrapedAt": "2026-09-12T18:22:09.675847Z",
   "event": {
     "name": "2026 East Coast Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -989,25 +989,25 @@
               "score2": 4,
               "datetime": "2026-09-12T09:00:00Z",
               "round": "Pool A",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Murmur",
               "team2": "Verdant",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 6,
               "datetime": "2026-09-12T09:00:00Z",
               "round": "Pool A",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Roma Ultima",
               "team2": "Verdant",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 3,
               "datetime": "2026-09-12T10:45:00Z",
               "round": "Pool A",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Murmur",
@@ -1016,25 +1016,25 @@
               "score2": 6,
               "datetime": "2026-09-12T10:45:00Z",
               "round": "Pool A",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Roma Ultima",
               "team2": "Murmur",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 11,
               "datetime": "2026-09-12T12:30:00Z",
               "round": "Pool A",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Tempo",
               "team2": "Verdant",
-              "score1": 0,
-              "score2": 0,
+              "score1": 10,
+              "score2": 9,
               "datetime": "2026-09-12T12:30:00Z",
               "round": "Pool A",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -1107,7 +1107,44 @@
         {
           "name": "Championship",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Roma Ultima",
+              "team2": "MoonPi",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T14:30:00Z",
+              "round": "Quarterfinals",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Bar None",
+              "team2": "Tempo",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T14:30:00Z",
+              "round": "Quarterfinals",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Murmur",
+              "team2": "Conspiracy",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T14:30:00Z",
+              "round": "Quarterfinals",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "'Shine",
+              "team2": "Verdant",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T14:30:00Z",
+              "round": "Quarterfinals",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "3rd Place",

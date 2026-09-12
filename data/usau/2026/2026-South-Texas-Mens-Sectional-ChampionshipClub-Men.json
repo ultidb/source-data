@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-South-Texas-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-South-Texas-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-12T18:08:09.691179Z",
+  "scrapedAt": "2026-09-12T18:44:12.649788Z",
   "event": {
     "name": "2026 South Texas Mens Sectional Championship",
     "division": "Club - Men ",
@@ -1752,21 +1752,30 @@
           "games": [
             {
               "team1": "Doublewide",
-              "team2": "Bonzaiiiii!!",
+              "team2": "H.I.P",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-12T14:20:00Z",
+              "round": "Semifinals",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Doublewide",
+              "team2": "Bonzaiiiii!!",
+              "score1": 15,
+              "score2": 2,
               "datetime": "2026-09-12T12:20:00Z",
               "round": "Quarterfinals",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Rice Box",
               "team2": "H.I.P",
-              "score1": 0,
-              "score2": 0,
+              "score1": 7,
+              "score2": 15,
               "datetime": "2026-09-12T12:20:00Z",
               "round": "Quarterfinals",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Riverside",
@@ -1780,18 +1789,28 @@
             {
               "team1": "Texas Duffy",
               "team2": "Alamode",
-              "score1": 0,
-              "score2": 0,
+              "score1": 4,
+              "score2": 15,
               "datetime": "2026-09-12T12:20:00Z",
               "round": "Quarterfinals",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
         {
           "name": "2nd Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Bonzaiiiii!!",
+              "team2": "Rice Box",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T14:20:00Z",
+              "round": "Pre-quarters 2",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "5th Place",
