@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-East-Plains-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-East-Plains-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-12T22:38:15.529635Z",
+  "scrapedAt": "2026-09-12T22:58:24.423383Z",
   "event": {
     "name": "2026 East Plains Mens Sectional Championship",
     "division": "Club - Men ",
@@ -1676,12 +1676,30 @@
           "games": [
             {
               "team1": "Flying Dutchmen",
-              "team2": "Colonels",
+              "team2": "Endgame",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T08:30:00Z",
+              "round": "1st Semis",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Houndd",
+              "team2": "ELDL",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T08:30:00Z",
+              "round": "1st Semis",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Flying Dutchmen",
+              "team2": "Colonels",
+              "score1": 15,
+              "score2": 8,
               "datetime": "2026-09-12T17:15:00Z",
               "round": "1st Quarters",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "EtobiCoke",
@@ -1704,18 +1722,37 @@
             {
               "team1": "Dynasty",
               "team2": "ELDL",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 15,
               "datetime": "2026-09-12T17:15:00Z",
               "round": "1st Quarters",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
         {
           "name": "2nd Place Bracket",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Colonels",
+              "team2": "EtobiCoke",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T08:30:00Z",
+              "round": "2nd Prequarters",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Enigma",
+              "team2": "Dynasty",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T08:30:00Z",
+              "round": "2nd Prequarters",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "4th Place Bracket",
@@ -1729,11 +1766,11 @@
             {
               "team1": "Mischief",
               "team2": "Black Lung",
-              "score1": 0,
-              "score2": 0,
+              "score1": 9,
+              "score2": 15,
               "datetime": "2026-09-12T17:15:00Z",
               "round": "6th Prequarters",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Burning River",
@@ -1774,7 +1811,17 @@
         {
           "name": "Pool D",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Mischief",
+              "team2": "Mayhem",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T08:30:00Z",
+              "round": "Pool D",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     }
