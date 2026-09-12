@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-South-Texas-Womens-Sectional-ChampionshipClub-Women",
   "sourceUrl": "http://play.usaultimate.org/events/2026-South-Texas-Womens-Sectional-Championship/schedule/Women/Club-Women/",
-  "scrapedAt": "2026-09-12T19:08:59.195199Z",
+  "scrapedAt": "2026-09-12T19:29:28.909434Z",
   "event": {
     "name": "2026 South Texas Womens Sectional Championship",
     "division": "Club - Women ",
@@ -732,11 +732,11 @@
             {
               "team1": "San Antonio Problems",
               "team2": "Firewheel",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 1,
               "datetime": "2026-09-12T12:00:00Z",
               "round": "Pool B",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         }
@@ -749,17 +749,47 @@
         {
           "name": "1st Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Dimes",
+              "team2": "Vengeance",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T08:00:00Z",
+              "round": "1st Place Final",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "2nd Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "San Antonio Problems",
+              "team2": "Crush City",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T08:00:00Z",
+              "round": "2nd Place Semis",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "4th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Firewheel",
+              "team2": "Inferno",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T08:00:00Z",
+              "round": "4th Place Semis",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     }
