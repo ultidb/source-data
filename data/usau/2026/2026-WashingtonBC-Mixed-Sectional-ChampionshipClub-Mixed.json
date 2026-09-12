@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-WashingtonBC-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-WashingtonBC-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-12T19:30:35.125206Z",
+  "scrapedAt": "2026-09-12T19:52:34.467966Z",
   "event": {
     "name": "2026 Washington/BC Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -1973,11 +1973,11 @@
             {
               "team1": "Mola Mola",
               "team2": "Nova",
-              "score1": 0,
-              "score2": 0,
+              "score1": 11,
+              "score2": 13,
               "datetime": "2026-09-12T11:00:00Z",
               "round": "B Pool R2",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -2021,11 +2021,11 @@
             {
               "team1": "Squid Inc.",
               "team2": "Smack!",
-              "score1": 0,
-              "score2": 0,
+              "score1": 12,
+              "score2": 13,
               "datetime": "2026-09-12T11:00:00Z",
               "round": "C Pool R2",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -2086,7 +2086,26 @@
         {
           "name": "Sectionals Championship",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "TT",
+              "team2": "Lights Out",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T13:00:00Z",
+              "round": "1st Place Qs",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Spoke",
+              "team2": "Seattle Soft Serve",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T13:00:00Z",
+              "round": "1st Place Qs",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "2nd Place",
@@ -2101,7 +2120,35 @@
         {
           "name": "6th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Grit City",
+              "team2": "Mola Mola",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T13:00:00Z",
+              "round": "6th Place Elite8",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Squid Inc.",
+              "team2": "BOP",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T13:00:00Z",
+              "round": "6th Place Elite8",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Smack!",
+              "team2": "Heat Wave",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T13:00:00Z",
+              "round": "6th Place Elite8",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     },

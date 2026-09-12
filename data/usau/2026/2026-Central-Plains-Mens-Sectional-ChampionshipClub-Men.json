@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Central-Plains-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Central-Plains-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-12T19:17:01.620092Z",
+  "scrapedAt": "2026-09-12T19:39:36.121723Z",
   "event": {
     "name": "2026 Central Plains Mens Sectional Championship",
     "division": "Club - Men ",
@@ -1423,20 +1423,20 @@
             {
               "team1": "I-69",
               "team2": "Trident",
-              "score1": 0,
-              "score2": 0,
+              "score1": 3,
+              "score2": 2,
               "datetime": "2026-09-12T15:30:00Z",
               "round": "Pool C",
-              "status": "Scheduled"
+              "status": "In Progress"
             },
             {
               "team1": "On Ramp",
               "team2": "Shenanigans",
-              "score1": 0,
-              "score2": 0,
+              "score1": 5,
+              "score2": 1,
               "datetime": "2026-09-12T15:30:00Z",
               "round": "Pool C",
-              "status": "Scheduled"
+              "status": "In Progress"
             }
           ]
         }
@@ -1453,11 +1453,11 @@
             {
               "team1": "Haymaker",
               "team2": "Roundhouse",
-              "score1": 12,
+              "score1": 13,
               "score2": 3,
               "datetime": "2026-09-12T13:45:00Z",
               "round": "A1 vs B1",
-              "status": "In Progress"
+              "status": "Final"
             }
           ]
         },
@@ -1483,23 +1483,43 @@
             {
               "team1": "Maumee Boys",
               "team2": "Satellite",
-              "score1": 12,
+              "score1": 13,
               "score2": 9,
               "datetime": "2026-09-12T13:45:00Z",
               "round": "A3 vs B3",
-              "status": "In Progress"
+              "status": "Final"
             }
           ]
         },
         {
           "name": "L1 vs W2",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Roundhouse",
+              "team2": "Omen",
+              "score1": 1,
+              "score2": 2,
+              "datetime": "2026-09-12T15:30:00Z",
+              "round": "L1 vs W2",
+              "status": "In Progress"
+            }
+          ]
         },
         {
           "name": "L2 vs W3",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Shift",
+              "team2": "Maumee Boys",
+              "score1": 1,
+              "score2": 1,
+              "datetime": "2026-09-12T15:30:00Z",
+              "round": "L2 vs W3",
+              "status": "In Progress"
+            }
+          ]
         }
       ]
     },

@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Capital-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Capital-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-12T19:15:44.996983Z",
+  "scrapedAt": "2026-09-12T19:35:44.586579Z",
   "event": {
     "name": "2026 Capital Mens Sectional Championship",
     "division": "Club - Men ",
@@ -1782,6 +1782,15 @@
           "isChampionship": false,
           "games": [
             {
+              "team1": "John Doe",
+              "team2": "Oak Grove Boys",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T16:00:00Z",
+              "round": "1st Place Semis",
+              "status": "Scheduled"
+            },
+            {
               "team1": "Vault",
               "team2": "Give Me Death",
               "score1": 15,
@@ -1802,27 +1811,37 @@
             {
               "team1": "John Doe",
               "team2": "My Guys",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 8,
               "datetime": "2026-09-12T14:15:00Z",
               "round": "1st Place Quarters",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Oak Grove Boys",
               "team2": "L.U.T $ack",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 2,
               "datetime": "2026-09-12T14:15:00Z",
               "round": "1st Place Quarters",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
         {
           "name": "2nd Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "My Guys",
+              "team2": "L.U.T $ack",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T16:00:00Z",
+              "round": "2nd Place PQ",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "5th Place",
@@ -1831,11 +1850,11 @@
             {
               "team1": "Reckers",
               "team2": "Aces",
-              "score1": 0,
-              "score2": 0,
+              "score1": 10,
+              "score2": 5,
               "datetime": "2026-09-12T14:15:00Z",
               "round": "5th Place R1",
-              "status": "Scheduled"
+              "status": "In Progress"
             },
             {
               "team1": "Fort Reno Flatball Club",
