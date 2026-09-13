@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-North-New-England-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-North-New-England-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-12T23:43:13.407228Z",
+  "scrapedAt": "2026-09-13T00:03:30.190101Z",
   "event": {
     "name": "2026 North New England Mens Sectional Championship",
     "division": "Club - Men ",
@@ -640,11 +640,11 @@
             {
               "team1": "Mephisto",
               "team2": "BANG",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 4,
               "datetime": "2026-09-12T17:00:00Z",
               "round": "Pool A",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Magnitude (Quake)",
@@ -666,12 +666,32 @@
         {
           "name": "Championship",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Mephisto",
+              "team2": "Magnitude (Quake)",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "Final",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "Second Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Resurgam Ultimate",
+              "team2": "Red Circus",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "Second Place Semifinal",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "Optional Fourth Place Game",
