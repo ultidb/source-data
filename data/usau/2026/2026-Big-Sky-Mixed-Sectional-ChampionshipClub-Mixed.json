@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Big-Sky-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Big-Sky-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-13T01:55:18.310889Z",
+  "scrapedAt": "2026-09-13T02:15:19.150881Z",
   "event": {
     "name": "2026 Big Sky Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -820,7 +820,17 @@
         {
           "name": "Fifth Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Fault Line",
+              "team2": "Dixon Melons",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "Fifth Place",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     }

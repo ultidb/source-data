@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-WashingtonBC-Womens-Sectional-ChampionshipClub-Women",
   "sourceUrl": "http://play.usaultimate.org/events/2026-WashingtonBC-Womens-Sectional-Championship/schedule/Women/Club-Women/",
-  "scrapedAt": "2026-09-13T02:10:06.158086Z",
+  "scrapedAt": "2026-09-13T02:29:58.933999Z",
   "event": {
     "name": "2026 Washington/BC Womens Sectional Championship",
     "division": "Club - Women ",
@@ -774,6 +774,15 @@
           "games": [
             {
               "team1": "Drift",
+              "team2": "Komodos",
+              "score1": 12,
+              "score2": 8,
+              "datetime": "2026-09-12T16:00:00Z",
+              "round": "Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "Drift",
               "team2": "ditto",
               "score1": 11,
               "score2": 5,
@@ -784,11 +793,11 @@
             {
               "team1": "Dogfish",
               "team2": "Komodos",
-              "score1": 0,
-              "score2": 0,
+              "score1": 8,
+              "score2": 11,
               "datetime": "2026-09-12T14:15:00Z",
               "round": "Semis",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -810,7 +819,17 @@
         {
           "name": "Optional 3rd Place Game",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "ditto",
+              "team2": "Dogfish",
+              "score1": 13,
+              "score2": 4,
+              "datetime": "2026-09-12T16:00:00Z",
+              "round": "3rd Place",
+              "status": "Final"
+            }
+          ]
         }
       ]
     }
