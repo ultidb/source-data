@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Metro-New-York-Mixed-Sectional-ChampionshipsClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Metro-New-York-Mixed-Sectional-Championships/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-13T00:41:38.346842Z",
+  "scrapedAt": "2026-09-13T01:01:31.931211Z",
   "event": {
     "name": "2026 Metro New York Mixed Sectional Championships",
     "division": "Club - Mixed ",
@@ -1516,11 +1516,11 @@
             {
               "team1": "Brooklyn Hive",
               "team2": "Hartford Current",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 8,
               "datetime": "2026-09-12T16:30:00Z",
               "round": "",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         }
@@ -1559,7 +1559,17 @@
         {
           "name": "Consolation",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Hartford Current",
+              "team2": "Domino Effect",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "Consolation",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     }
