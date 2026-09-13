@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-SoCal-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-SoCal-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-13T04:47:01.836441Z",
+  "scrapedAt": "2026-09-13T05:07:22.439683Z",
   "event": {
     "name": "2026 SoCal Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -1874,21 +1874,30 @@
           "games": [
             {
               "team1": "California Burrito",
-              "team2": "Shipwreck",
+              "team2": "Lotus",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T10:15:00Z",
+              "round": "1st Pl Final",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "California Burrito",
+              "team2": "Shipwreck",
+              "score1": 15,
+              "score2": 3,
               "datetime": "2026-09-12T15:30:00Z",
               "round": "1st Pl Semis",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Landsharks",
               "team2": "Lotus",
-              "score1": 0,
-              "score2": 0,
+              "score1": 8,
+              "score2": 11,
               "datetime": "2026-09-12T15:30:00Z",
               "round": "1st Pl Semis",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "California Burrito",
@@ -1933,13 +1942,31 @@
           "isChampionship": false,
           "games": [
             {
-              "team1": "Robot",
-              "team2": "Octonauts",
+              "team1": "Octonauts",
+              "team2": "Landsharks",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T08:30:00Z",
+              "round": "2nd Pl Quarters",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Shipwreck",
+              "team2": "Phlagstaff Ultimate",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T08:30:00Z",
+              "round": "2nd Pl Quarters",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Robot",
+              "team2": "Octonauts",
+              "score1": 7,
+              "score2": 11,
               "datetime": "2026-09-12T15:30:00Z",
               "round": "2nd Pl Prequarters",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Phlagstaff Ultimate",
@@ -1963,7 +1990,25 @@
           "games": [
             {
               "team1": "Karma",
+              "team2": "Robot",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T08:30:00Z",
+              "round": "6th Pl Quarters",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Karma",
               "team2": "Party Wave",
+              "score1": 13,
+              "score2": 11,
+              "datetime": "2026-09-12T15:30:00Z",
+              "round": "6th Pl Prequarters",
+              "status": "Final"
+            },
+            {
+              "team1": "Birds of Paradise",
+              "team2": "Spoiler Alert",
               "score1": 0,
               "score2": 0,
               "datetime": "2026-09-12T15:30:00Z",
@@ -1986,7 +2031,7 @@
               "score2": 7,
               "datetime": "2026-09-12T13:45:00Z",
               "round": "6th Pl Qualifiers",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -1998,7 +2043,17 @@
         {
           "name": "Tenth Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Boxcar",
+              "team2": "Party Wave",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T08:30:00Z",
+              "round": "10th Pl Quarters",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "Thirteenth Place",
