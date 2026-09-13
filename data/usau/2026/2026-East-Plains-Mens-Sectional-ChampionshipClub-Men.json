@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-East-Plains-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-East-Plains-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-13T16:59:23.062505Z",
+  "scrapedAt": "2026-09-13T17:29:11.936999Z",
   "event": {
     "name": "2026 East Plains Mens Sectional Championship",
     "division": "Club - Men ",
@@ -1797,11 +1797,11 @@
             {
               "team1": "Colonels",
               "team2": "Endgame",
-              "score1": 0,
-              "score2": 0,
+              "score1": 9,
+              "score2": 12,
               "datetime": "2026-09-13T12:00:00Z",
               "round": "4th Semis",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -1872,18 +1872,28 @@
             {
               "team1": "EtobiCoke",
               "team2": "Enigma",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 9,
               "datetime": "2026-09-13T12:00:00Z",
               "round": "8th Semis",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
         {
           "name": "10th Place Bracket",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Enigma",
+              "team2": "Mischief",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T13:45:00Z",
+              "round": "10th Place (Game-To-Go)",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     },
@@ -1916,11 +1926,11 @@
             {
               "team1": "Burning River",
               "team2": "Mischief",
-              "score1": 0,
-              "score2": 0,
+              "score1": 6,
+              "score2": 14,
               "datetime": "2026-09-13T12:00:00Z",
               "round": "Pool D",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         }

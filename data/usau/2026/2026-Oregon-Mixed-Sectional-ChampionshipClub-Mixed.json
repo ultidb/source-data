@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Oregon-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Oregon-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-13T17:07:54.242661Z",
+  "scrapedAt": "2026-09-13T17:38:12.259088Z",
   "event": {
     "name": "2026 Oregon Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -1350,28 +1350,47 @@
           "games": [
             {
               "team1": "Oregon Scorch",
-              "team2": "Hive",
+              "team2": "Porch Bears",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "1st Place",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Oregon Scorch",
+              "team2": "Hive",
+              "score1": 15,
+              "score2": 8,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "Semis",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Viking Blood",
               "team2": "Porch Bears",
-              "score1": 0,
-              "score2": 0,
+              "score1": 6,
+              "score2": 15,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "Semis",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
         {
           "name": "2/3 Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Hive",
+              "team2": "Viking Blood",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "2nd Semis",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "5th Place",

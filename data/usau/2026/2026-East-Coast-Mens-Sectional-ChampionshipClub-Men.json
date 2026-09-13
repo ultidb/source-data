@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-East-Coast-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-East-Coast-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-13T16:58:31.240986Z",
+  "scrapedAt": "2026-09-13T17:28:24.222080Z",
   "event": {
     "name": "2026 East Coast Mens Sectional Championship",
     "division": "Club - Men ",
@@ -2003,11 +2003,11 @@
             {
               "team1": "Tanasi",
               "team2": "Mint",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 12,
               "datetime": "2026-09-13T11:00:00Z",
               "round": "Championship",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Tanasi",
@@ -2034,13 +2034,22 @@
           "isChampionship": false,
           "games": [
             {
-              "team1": "Charleston Heat Stroke",
-              "team2": "Atlanta Arson",
+              "team1": "Atlanta Arson",
+              "team2": "Mint",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T13:00:00Z",
+              "round": "2nd Place Finals",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Charleston Heat Stroke",
+              "team2": "Atlanta Arson",
+              "score1": 7,
+              "score2": 15,
               "datetime": "2026-09-13T11:00:00Z",
               "round": "2nd Place Semis",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Harvest Moon",
@@ -2086,12 +2095,21 @@
           "games": [
             {
               "team1": "WOMP",
-              "team2": "Harvest Moon",
+              "team2": "Charleston Heat Stroke",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T13:00:00Z",
+              "round": "4th Place Finals (GtG)",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "WOMP",
+              "team2": "Harvest Moon",
+              "score1": 15,
+              "score2": 5,
               "datetime": "2026-09-13T11:00:00Z",
               "round": "4th Place Semis",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "WOMP",
@@ -2155,6 +2173,15 @@
           "games": [
             {
               "team1": "Atlanta Outlaws",
+              "team2": "Harvest Moon",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T13:00:00Z",
+              "round": "6th Place Game",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Atlanta Outlaws",
               "team2": "Romulus",
               "score1": 15,
               "score2": 11,
@@ -2170,12 +2197,21 @@
           "games": [
             {
               "team1": "Nocturnal",
-              "team2": "Old & Nasti",
+              "team2": "Romulus",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T13:00:00Z",
+              "round": "8th Place Finals",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Nocturnal",
+              "team2": "Old & Nasti",
+              "score1": 15,
+              "score2": 8,
               "datetime": "2026-09-13T11:00:00Z",
               "round": "8th Place Semis",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Nocturnal",
@@ -2240,11 +2276,11 @@
             {
               "team1": "Savannah Wild",
               "team2": "ElecTriCity",
-              "score1": 0,
-              "score2": 0,
+              "score1": 12,
+              "score2": 15,
               "datetime": "2026-09-13T11:00:00Z",
               "round": "11th Place Game",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },

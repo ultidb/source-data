@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Founders-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Founders-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-13T17:01:08.912952Z",
+  "scrapedAt": "2026-09-13T17:31:08.604033Z",
   "event": {
     "name": "2026 Founders Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -1257,22 +1257,31 @@
           "isChampionship": false,
           "games": [
             {
+              "team1": "Columbia HS Mixed",
+              "team2": "Philly Twist",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T13:45:00Z",
+              "round": "Game To Go",
+              "status": "Scheduled"
+            },
+            {
               "team1": "Axolotls",
               "team2": "Columbia HS Mixed",
-              "score1": 6,
-              "score2": 5,
+              "score1": 8,
+              "score2": 9,
               "datetime": "2026-09-13T12:00:00Z",
               "round": "Game to Go Semis",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Skooks",
               "team2": "Philly Twist",
-              "score1": 5,
-              "score2": 9,
+              "score1": 7,
+              "score2": 15,
               "datetime": "2026-09-13T12:00:00Z",
               "round": "Game to Go Semis",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         }
@@ -1285,7 +1294,35 @@
         {
           "name": "Pool C",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Axolotls",
+              "team2": "Skooks",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T00:00:00Z",
+              "round": "Pool C",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "JAWN",
+              "team2": "Skooks",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T13:45:00Z",
+              "round": "Pool C",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "JAWN",
+              "team2": "Axolotls",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T13:45:00Z",
+              "round": "Pool C",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     }

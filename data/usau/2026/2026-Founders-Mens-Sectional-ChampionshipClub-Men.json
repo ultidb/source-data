@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Founders-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Founders-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-13T17:00:53.109557Z",
+  "scrapedAt": "2026-09-13T17:30:51.090427Z",
   "event": {
     "name": "2026 Founders Mens Sectional Championship",
     "division": "Club - Men ",
@@ -1388,21 +1388,30 @@
           "games": [
             {
               "team1": "Garden State Ultimate",
-              "team2": "Rebels",
+              "team2": "CITYWIDE Special",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T15:30:00Z",
+              "round": "2nd Semis",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Garden State Ultimate",
+              "team2": "Rebels",
+              "score1": 12,
+              "score2": 9,
               "datetime": "2026-09-13T12:00:00Z",
               "round": "2nd Quarters",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "New Jersey Gemini",
               "team2": "CITYWIDE Special",
-              "score1": 0,
-              "score2": 0,
+              "score1": 12,
+              "score2": 15,
               "datetime": "2026-09-13T12:00:00Z",
               "round": "2nd Quarters",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -1410,6 +1419,15 @@
           "name": "Game to Go (5th Place)",
           "isChampionship": false,
           "games": [
+            {
+              "team1": "Rebels",
+              "team2": "Great Effort Every Body",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T13:45:00Z",
+              "round": "5th Semis",
+              "status": "Scheduled"
+            },
             {
               "team1": "Great Effort Every Body",
               "team2": "we love drinking juice",
@@ -1422,11 +1440,11 @@
             {
               "team1": "EZ",
               "team2": "Dub Club",
-              "score1": 0,
-              "score2": 0,
+              "score1": 7,
+              "score2": 9,
               "datetime": "2026-09-13T12:00:00Z",
               "round": "5th Quarters",
-              "status": "Scheduled"
+              "status": "In Progress"
             }
           ]
         },

@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-West-Bay-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-West-Bay-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-13T17:14:06.378156Z",
+  "scrapedAt": "2026-09-13T17:44:34.047975Z",
   "event": {
     "name": "2026 West Bay Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -1957,21 +1957,30 @@
           "games": [
             {
               "team1": "Polar Bears",
-              "team2": "Classy",
+              "team2": "Mischief",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T12:30:00Z",
+              "round": "1st Place",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Polar Bears",
+              "team2": "Classy",
+              "score1": 15,
+              "score2": 4,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "1st Place Semis",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Donuts",
               "team2": "Mischief",
-              "score1": 0,
-              "score2": 0,
+              "score1": 10,
+              "score2": 13,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "1st Place Semis",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Polar Bears",
@@ -2016,22 +2025,40 @@
           "isChampionship": false,
           "games": [
             {
-              "team1": "American Barbecue",
+              "team1": "Donuts",
               "team2": "BW Ultimate",
               "score1": 0,
               "score2": 0,
-              "datetime": "2026-09-13T09:00:00Z",
-              "round": "2nd Place Round 1",
+              "datetime": "2026-09-13T10:45:00Z",
+              "round": "2nd Place Quarters",
               "status": "Scheduled"
             },
             {
               "team1": "LIT Ultimate",
-              "team2": "Mochi",
+              "team2": "Classy",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T10:45:00Z",
+              "round": "2nd Place Quarters",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "American Barbecue",
+              "team2": "BW Ultimate",
+              "score1": 6,
+              "score2": 11,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "2nd Place Round 1",
-              "status": "Scheduled"
+              "status": "Final"
+            },
+            {
+              "team1": "LIT Ultimate",
+              "team2": "Mochi",
+              "score1": 13,
+              "score2": 7,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "2nd Place Round 1",
+              "status": "Final"
             }
           ]
         },
@@ -2045,22 +2072,40 @@
           "isChampionship": false,
           "games": [
             {
-              "team1": "Mango",
-              "team2": "Cutthroat",
+              "team1": "American Barbecue",
+              "team2": "Mango",
               "score1": 0,
               "score2": 0,
-              "datetime": "2026-09-13T09:00:00Z",
-              "round": "6th Place R2",
+              "datetime": "2026-09-13T10:45:00Z",
+              "round": "6th Place Quarters",
               "status": "Scheduled"
             },
             {
               "team1": "Ghostbusters",
-              "team2": "Goose Chase",
+              "team2": "Mochi",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T10:45:00Z",
+              "round": "6th Place Quarters",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Mango",
+              "team2": "Cutthroat",
+              "score1": 12,
+              "score2": 5,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "6th Place R2",
-              "status": "Scheduled"
+              "status": "Final"
+            },
+            {
+              "team1": "Ghostbusters",
+              "team2": "Goose Chase",
+              "score1": 15,
+              "score2": 8,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "6th Place R2",
+              "status": "Final"
             },
             {
               "team1": "Mango",
@@ -2099,7 +2144,17 @@
         {
           "name": "10th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Cutthroat",
+              "team2": "Goose Chase",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T12:30:00Z",
+              "round": "10th Place Semis",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     },
