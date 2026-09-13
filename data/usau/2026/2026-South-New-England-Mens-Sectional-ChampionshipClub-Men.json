@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-South-New-England-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-South-New-England-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-13T17:41:03.209014Z",
+  "scrapedAt": "2026-09-13T18:11:01.458954Z",
   "event": {
     "name": "2026 South New England Mens Sectional Championship",
     "division": "Club - Men ",
@@ -1578,13 +1578,22 @@
           "isChampionship": false,
           "games": [
             {
-              "team1": "BAG",
+              "team1": "Big Wrench",
               "team2": "Odyssey",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T13:00:00Z",
+              "round": "2nd Place",
+              "status": "Cancelled"
+            },
+            {
+              "team1": "BAG",
+              "team2": "Odyssey",
+              "score1": 13,
+              "score2": 15,
               "datetime": "2026-09-13T11:00:00Z",
               "round": "semis",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Providence Poultry",
@@ -1628,6 +1637,15 @@
           "name": "4th",
           "isChampionship": false,
           "games": [
+            {
+              "team1": "BAG",
+              "team2": "Iditarod",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T13:00:00Z",
+              "round": "4th",
+              "status": "Cancelled"
+            },
             {
               "team1": "Providence Poultry",
               "team2": "Iditarod",

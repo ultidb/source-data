@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Oregon-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Oregon-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-13T17:38:12.259088Z",
+  "scrapedAt": "2026-09-13T18:08:03.609140Z",
   "event": {
     "name": "2026 Oregon Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -1413,28 +1413,47 @@
           "games": [
             {
               "team1": "SOUPA",
-              "team2": "SkyLab",
+              "team2": "Choco Ghost House",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "6th Semis",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "SOUPA",
+              "team2": "SkyLab",
+              "score1": 13,
+              "score2": 8,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "6th Quarters",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Goose Run",
               "team2": "Choco Ghost House",
-              "score1": 0,
-              "score2": 0,
+              "score1": 8,
+              "score2": 15,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "6th Quarters",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
         {
           "name": "9th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "SkyLab",
+              "team2": "Goose Run",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "9th Place",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     }

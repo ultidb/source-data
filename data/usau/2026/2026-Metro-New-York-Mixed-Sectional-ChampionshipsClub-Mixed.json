@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Metro-New-York-Mixed-Sectional-ChampionshipsClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Metro-New-York-Mixed-Sectional-Championships/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-13T17:33:23.822843Z",
+  "scrapedAt": "2026-09-13T18:03:21.076973Z",
   "event": {
     "name": "2026 Metro New York Mixed Sectional Championships",
     "division": "Club - Mixed ",
@@ -1537,11 +1537,11 @@
             {
               "team1": "Grand Army",
               "team2": "Friends and Lovers",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 5,
               "datetime": "2026-09-13T11:00:00Z",
               "round": "Finals",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Grand Army",
@@ -1569,6 +1569,15 @@
           "games": [
             {
               "team1": "Funk",
+              "team2": "NY Swipes",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T13:00:00Z",
+              "round": "3rd Place",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Funk",
               "team2": "FLI",
               "score1": 15,
               "score2": 5,
@@ -1579,11 +1588,11 @@
             {
               "team1": "NY Swipes",
               "team2": "Heat Wave",
-              "score1": 0,
-              "score2": 0,
+              "score1": 11,
+              "score2": 9,
               "datetime": "2026-09-13T11:00:00Z",
               "round": "3rd semis",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "FLI",
@@ -1608,7 +1617,17 @@
         {
           "name": "5th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Heat Wave",
+              "team2": "FLI",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T13:00:00Z",
+              "round": "5th Place",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "7th Place",
@@ -1647,11 +1666,11 @@
             {
               "team1": "PterodaCTyl",
               "team2": "Domino Effect",
-              "score1": 0,
-              "score2": 0,
+              "score1": 14,
+              "score2": 12,
               "datetime": "2026-09-13T11:00:00Z",
               "round": "Consolation",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "PterodaCTyl",

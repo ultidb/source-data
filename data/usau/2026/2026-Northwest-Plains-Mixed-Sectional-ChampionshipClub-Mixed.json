@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Northwest-Plains-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Northwest-Plains-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-13T17:37:24.293244Z",
+  "scrapedAt": "2026-09-13T18:07:18.114910Z",
   "event": {
     "name": "2026 Northwest Plains Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -1595,11 +1595,11 @@
             {
               "team1": "Minnesota Star Power",
               "team2": "No Touching!",
-              "score1": 0,
-              "score2": 0,
+              "score1": 10,
+              "score2": 13,
               "datetime": "2026-09-13T11:00:00Z",
               "round": "1st Place",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Minnesota Star Power",
@@ -1626,13 +1626,22 @@
           "isChampionship": false,
           "games": [
             {
-              "team1": "Bird",
-              "team2": "Pandamonium",
+              "team1": "Minnesota Star Power",
+              "team2": "Bird",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T13:00:00Z",
+              "round": "2nd/3rd",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Bird",
+              "team2": "Pandamonium",
+              "score1": 15,
+              "score2": 10,
               "datetime": "2026-09-13T11:00:00Z",
               "round": "2nd Semi",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Bird",

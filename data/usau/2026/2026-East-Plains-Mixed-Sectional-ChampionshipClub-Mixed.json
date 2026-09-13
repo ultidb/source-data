@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-East-Plains-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-East-Plains-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-13T17:29:34.048760Z",
+  "scrapedAt": "2026-09-13T17:59:29.654013Z",
   "event": {
     "name": "2026 East Plains Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -2144,12 +2144,21 @@
           "games": [
             {
               "team1": "Queen City Gambit",
-              "team2": "WORM",
+              "team2": "Columbus Chaos",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T13:00:00Z",
+              "round": "7th Finals",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Queen City Gambit",
+              "team2": "WORM",
+              "score1": 15,
+              "score2": 11,
               "datetime": "2026-09-13T11:00:00Z",
               "round": "7th Semis",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Columbus Chaos",
@@ -2216,7 +2225,17 @@
         {
           "name": "9th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "WORM",
+              "team2": "Melonheads",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T13:00:00Z",
+              "round": "9th Finals",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "11th Place",
