@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Northwest-Plains-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Northwest-Plains-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-13T21:29:44.409817Z",
+  "scrapedAt": "2026-09-13T22:22:42.159588Z",
   "event": {
     "name": "2026 Northwest Plains Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -1771,28 +1771,47 @@
           "games": [
             {
               "team1": "Lemonade Ultimate",
+              "team2": "Melt",
+              "score1": 7,
+              "score2": 13,
+              "datetime": "2026-09-13T13:00:00Z",
+              "round": "9th Place",
+              "status": "Final"
+            },
+            {
+              "team1": "Lemonade Ultimate",
               "team2": "Ultraviolet",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 6,
               "datetime": "2026-09-13T11:00:00Z",
               "round": "9th Semis",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Lake Superior Disc",
               "team2": "Melt",
-              "score1": 0,
-              "score2": 0,
+              "score1": 11,
+              "score2": 14,
               "datetime": "2026-09-13T11:00:00Z",
               "round": "9th Semis",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
         {
           "name": "11th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Ultraviolet",
+              "team2": "Lake Superior Disc",
+              "score1": 11,
+              "score2": 12,
+              "datetime": "2026-09-13T13:00:00Z",
+              "round": "11th Place",
+              "status": "Final"
+            }
+          ]
         }
       ]
     }

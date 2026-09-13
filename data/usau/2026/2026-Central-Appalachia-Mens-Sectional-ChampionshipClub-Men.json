@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Central-Appalachia-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Central-Appalachia-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-13T21:17:22.453513Z",
+  "scrapedAt": "2026-09-13T22:14:13.207304Z",
   "event": {
     "name": "2026 Central Appalachia Mens Sectional Championship",
     "division": "Club - Men ",
@@ -1079,11 +1079,11 @@
             {
               "team1": "Pittsburgh Temper",
               "team2": "MOB Ultimate",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 6,
               "datetime": "2026-09-13T14:45:00Z",
               "round": "1st Place",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -1092,13 +1092,22 @@
           "isChampionship": false,
           "games": [
             {
-              "team1": "Hazard",
-              "team2": "Gummy Bear Hitmen",
+              "team1": "MOB Ultimate",
+              "team2": "Hazard",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T16:30:00Z",
+              "round": "2nd Place",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Hazard",
+              "team2": "Gummy Bear Hitmen",
+              "score1": 12,
+              "score2": 8,
               "datetime": "2026-09-13T14:45:00Z",
               "round": "2nd Place Semifinal",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -1107,13 +1116,22 @@
           "isChampionship": false,
           "games": [
             {
-              "team1": "Pittsburgh Stealers",
-              "team2": "Chemical X",
+              "team1": "Gummy Bear Hitmen",
+              "team2": "Pittsburgh Stealers",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T16:30:00Z",
+              "round": "4th Place G2G",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Pittsburgh Stealers",
+              "team2": "Chemical X",
+              "score1": 13,
+              "score2": 9,
               "datetime": "2026-09-13T14:45:00Z",
               "round": "4th Place Semifinal",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Pittsburgh Stealers",
@@ -1142,11 +1160,11 @@
             {
               "team1": "Smogborn",
               "team2": "Pittsburgh Puppies",
-              "score1": 0,
+              "score1": 1,
               "score2": 0,
               "datetime": "2026-09-13T14:45:00Z",
               "round": "7th Place",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         }
