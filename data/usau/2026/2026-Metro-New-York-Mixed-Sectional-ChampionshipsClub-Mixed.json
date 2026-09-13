@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Metro-New-York-Mixed-Sectional-ChampionshipsClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Metro-New-York-Mixed-Sectional-Championships/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-13T14:33:05.409077Z",
+  "scrapedAt": "2026-09-13T15:03:02.130765Z",
   "event": {
     "name": "2026 Metro New York Mixed Sectional Championships",
     "division": "Club - Mixed ",
@@ -1536,6 +1536,15 @@
           "games": [
             {
               "team1": "Grand Army",
+              "team2": "Friends and Lovers",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "Finals",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Grand Army",
               "team2": "Funk",
               "score1": 15,
               "score2": 6,
@@ -1546,11 +1555,11 @@
             {
               "team1": "Heat Wave",
               "team2": "Friends and Lovers",
-              "score1": 0,
-              "score2": 0,
+              "score1": 10,
+              "score2": 14,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "Semis",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -1559,22 +1568,40 @@
           "isChampionship": false,
           "games": [
             {
-              "team1": "FLI",
-              "team2": "Champignons",
+              "team1": "Funk",
+              "team2": "FLI",
               "score1": 0,
               "score2": 0,
-              "datetime": "2026-09-13T09:00:00Z",
-              "round": "3rd quarters",
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "3rd semis",
               "status": "Scheduled"
             },
             {
               "team1": "NY Swipes",
-              "team2": "Brooklyn Hive",
+              "team2": "Heat Wave",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "3rd semis",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "FLI",
+              "team2": "Champignons",
+              "score1": 11,
+              "score2": 9,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "3rd quarters",
-              "status": "Scheduled"
+              "status": "Final"
+            },
+            {
+              "team1": "NY Swipes",
+              "team2": "Brooklyn Hive",
+              "score1": 10,
+              "score2": 7,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "3rd quarters",
+              "status": "Final"
             }
           ]
         },
@@ -1586,7 +1613,17 @@
         {
           "name": "7th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Champignons",
+              "team2": "Brooklyn Hive",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "7th Place",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     },
@@ -1601,11 +1638,11 @@
             {
               "team1": "Hartford Current",
               "team2": "Domino Effect",
-              "score1": 0,
-              "score2": 0,
+              "score1": 7,
+              "score2": 15,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "Consolation",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "PterodaCTyl",

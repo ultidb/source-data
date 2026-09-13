@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-East-Coast-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-East-Coast-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-13T14:28:19.914537Z",
+  "scrapedAt": "2026-09-13T14:58:18.092415Z",
   "event": {
     "name": "2026 East Coast Mens Sectional Championship",
     "division": "Club - Men ",
@@ -2086,21 +2086,30 @@
           "games": [
             {
               "team1": "WOMP",
-              "team2": "Atlanta Outlaws",
+              "team2": "Harvest Moon",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "4th Place Semis",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "WOMP",
+              "team2": "Atlanta Outlaws",
+              "score1": 15,
+              "score2": 9,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "4th Place Quarters",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Romulus",
               "team2": "Harvest Moon",
-              "score1": 0,
-              "score2": 0,
+              "score1": 12,
+              "score2": 13,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "4th Place Quarters",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Atlanta Outlaws",
@@ -2143,7 +2152,17 @@
         {
           "name": "6th Place Bracket",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Atlanta Outlaws",
+              "team2": "Romulus",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "6th Place Semi",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "8th Place Bracket",
@@ -2151,21 +2170,30 @@
           "games": [
             {
               "team1": "Nocturnal",
-              "team2": "Savannah Wild",
+              "team2": "Old & Nasti",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "8th Place Semis",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Nocturnal",
+              "team2": "Savannah Wild",
+              "score1": 13,
+              "score2": 11,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "8th Place Quarters",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "ElecTriCity",
               "team2": "Old & Nasti",
-              "score1": 0,
-              "score2": 0,
+              "score1": 12,
+              "score2": 15,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "8th Place Quarters",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Savannah Wild",
@@ -2208,7 +2236,17 @@
         {
           "name": "11th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Savannah Wild",
+              "team2": "ElecTriCity",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "11th Place Game",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "13th Place",
@@ -2218,10 +2256,10 @@
               "team1": "Tennessee Folklore",
               "team2": "Unknowns",
               "score1": 0,
-              "score2": 0,
+              "score2": 1,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "13th Place Game",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -2232,11 +2270,11 @@
             {
               "team1": "Pulp",
               "team2": "Hex Panthers",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 11,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "15th Place Game",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         }

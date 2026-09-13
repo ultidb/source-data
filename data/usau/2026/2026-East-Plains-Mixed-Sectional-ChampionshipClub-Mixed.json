@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-East-Plains-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-East-Plains-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-13T14:29:22.762667Z",
+  "scrapedAt": "2026-09-13T14:59:19.329985Z",
   "event": {
     "name": "2026 East Plains Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -2009,21 +2009,30 @@
           "games": [
             {
               "team1": "Union",
-              "team2": "Twist",
+              "team2": "Dispatch",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "1st Finals",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Union",
+              "team2": "Twist",
+              "score1": 15,
+              "score2": 5,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "1st Semis",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Steamboat",
               "team2": "Dispatch",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 15,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "1st Semis",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Union",
@@ -2066,7 +2075,17 @@
         {
           "name": "2nd Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Twist",
+              "team2": "Steamboat",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "2nd Semis",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "4th Place",
@@ -2084,11 +2103,11 @@
             {
               "team1": "Queen City Gambit",
               "team2": "Toast!",
-              "score1": 0,
-              "score2": 0,
+              "score1": 14,
+              "score2": 15,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "4th Quarters",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -2108,11 +2127,11 @@
             {
               "team1": "Thunderpants the Magic Dragon",
               "team2": "Columbus Chaos",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 15,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "7th Quarters",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Pixel",
@@ -2158,6 +2177,15 @@
           "name": "11th Place",
           "isChampionship": false,
           "games": [
+            {
+              "team1": "Thunderpants the Magic Dragon",
+              "team2": "Pixel",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "11th Semis",
+              "status": "Scheduled"
+            },
             {
               "team1": "Columbus Cohesion",
               "team2": "BLERF",

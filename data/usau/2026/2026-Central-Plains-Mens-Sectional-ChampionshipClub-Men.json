@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Central-Plains-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Central-Plains-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-13T14:27:31.423187Z",
+  "scrapedAt": "2026-09-13T14:57:32.154863Z",
   "event": {
     "name": "2026 Central Plains Mens Sectional Championship",
     "division": "Club - Men ",
@@ -1563,12 +1563,21 @@
           "games": [
             {
               "team1": "Omen",
+              "team2": "On Ramp",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "4th Place Semis",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Omen",
               "team2": "Shenanigans",
-              "score1": 10,
-              "score2": 5,
+              "score1": 15,
+              "score2": 7,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "4th Place Quarters",
-              "status": "In Progress"
+              "status": "Final"
             },
             {
               "team1": "Maumee Boys",
@@ -1584,7 +1593,17 @@
         {
           "name": "7th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Shenanigans",
+              "team2": "Maumee Boys",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "7th Place Finals",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     },

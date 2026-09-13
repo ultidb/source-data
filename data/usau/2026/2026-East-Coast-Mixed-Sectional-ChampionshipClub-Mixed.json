@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-East-Coast-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-East-Coast-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-13T14:28:35.854016Z",
+  "scrapedAt": "2026-09-13T14:58:33.189878Z",
   "event": {
     "name": "2026 East Coast Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -1110,21 +1110,30 @@
           "games": [
             {
               "team1": "Roma Ultima",
-              "team2": "Bar None",
+              "team2": "'Shine",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "Finals",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Roma Ultima",
+              "team2": "Bar None",
+              "score1": 15,
+              "score2": 7,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "Semifinals (G2G)",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Conspiracy",
               "team2": "'Shine",
-              "score1": 0,
-              "score2": 0,
+              "score1": 11,
+              "score2": 15,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "Semifinals (G2G)",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Roma Ultima",
@@ -1170,21 +1179,39 @@
           "games": [
             {
               "team1": "MoonPi",
-              "team2": "Tempo",
+              "team2": "Bar None",
               "score1": 0,
               "score2": 0,
-              "datetime": "2026-09-13T09:00:00Z",
-              "round": "3rd Place Quarterfinals",
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "3rd Place Semifinals (G2G)",
               "status": "Scheduled"
             },
             {
               "team1": "Murmur",
-              "team2": "Verdant",
+              "team2": "Conspiracy",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "3rd Place Semifinals (G2G)",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "MoonPi",
+              "team2": "Tempo",
+              "score1": 15,
+              "score2": 12,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "3rd Place Quarterfinals",
-              "status": "Scheduled"
+              "status": "Final"
+            },
+            {
+              "team1": "Murmur",
+              "team2": "Verdant",
+              "score1": 15,
+              "score2": 1,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "3rd Place Quarterfinals",
+              "status": "Final"
             }
           ]
         },
@@ -1196,7 +1223,17 @@
         {
           "name": "7th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Tempo",
+              "team2": "Verdant",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "7th Place",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     }

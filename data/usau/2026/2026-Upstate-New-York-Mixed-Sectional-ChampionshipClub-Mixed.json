@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Upstate-New-York-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Upstate-New-York-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-13T14:42:09.847403Z",
+  "scrapedAt": "2026-09-13T15:12:15.802157Z",
   "event": {
     "name": "2026 Upstate New York Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -1258,22 +1258,31 @@
           "isChampionship": false,
           "games": [
             {
-              "team1": "Buffalo Brain Freeze",
-              "team2": "UFO Ultimate",
+              "team1": "UFO Ultimate",
+              "team2": "Garbage Pla(C)e",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "GTGTGTG",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Buffalo Brain Freeze",
+              "team2": "UFO Ultimate",
+              "score1": 10,
+              "score2": 12,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "3/4 Crossover",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Mashed",
               "team2": "Garbage Pla(C)e",
-              "score1": 0,
-              "score2": 0,
+              "score1": 10,
+              "score2": 12,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "3/4 Crossover",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         }
@@ -1286,17 +1295,47 @@
         {
           "name": "7/8/9 Placement 1",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Compost Plates",
+              "team2": "Buffalo Brain Freeze",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "RR 1",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "Placement 2",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Buffalo Brain Freeze",
+              "team2": "Mashed",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T12:30:00Z",
+              "round": "RR2",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "Placement 3",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Mashed",
+              "team2": "Compost Plates",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T14:00:00Z",
+              "round": "RR3",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     }

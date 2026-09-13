@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Capital-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Capital-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-13T14:26:01.306624Z",
+  "scrapedAt": "2026-09-13T14:56:01.375920Z",
   "event": {
     "name": "2026 Capital Mens Sectional Championship",
     "division": "Club - Men ",
@@ -1852,6 +1852,15 @@
           "games": [
             {
               "team1": "John Doe",
+              "team2": "Crypt",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T10:45:00Z",
+              "round": "2nd Place Semis",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "John Doe",
               "team2": "Give Me Death",
               "score1": 15,
               "score2": 7,
@@ -1862,11 +1871,11 @@
             {
               "team1": "My Guys",
               "team2": "Crypt",
-              "score1": 3,
-              "score2": 4,
+              "score1": 10,
+              "score2": 13,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "2nd Place Quarters",
-              "status": "In Progress"
+              "status": "Final"
             },
             {
               "team1": "Give Me Death",
@@ -1893,22 +1902,40 @@
           "isChampionship": false,
           "games": [
             {
-              "team1": "L.U.T $ack",
-              "team2": "Winc City Fog",
+              "team1": "Give Me Death",
+              "team2": "L.U.T $ack",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T10:45:00Z",
+              "round": "5th Place Semis",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Beef Depot",
+              "team2": "My Guys",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T10:45:00Z",
+              "round": "5th Place Semis",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "L.U.T $ack",
+              "team2": "Winc City Fog",
+              "score1": 15,
+              "score2": 9,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "5th Place Quarters",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Town Hall Stars",
               "team2": "Beef Depot",
-              "score1": 4,
-              "score2": 8,
+              "score1": 11,
+              "score2": 13,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "5th Place Quarters",
-              "status": "In Progress"
+              "status": "Final"
             },
             {
               "team1": "Winc City Fog",
@@ -1956,7 +1983,17 @@
         {
           "name": "9th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Winc City Fog",
+              "team2": "Town Hall Stars",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T12:30:00Z",
+              "round": "9th Place Finals",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "11th Place",
@@ -1975,7 +2012,7 @@
               "team1": "Aces",
               "team2": "Tofu Junction",
               "score1": 12,
-              "score2": 9,
+              "score2": 8,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "11th Place Semis",
               "status": "Final"

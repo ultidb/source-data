@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Florida-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Florida-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-13T14:29:52.487937Z",
+  "scrapedAt": "2026-09-13T14:59:49.069275Z",
   "event": {
     "name": "2026 Florida Mens Sectional Championship",
     "division": "Club - Men ",
@@ -934,7 +934,7 @@
               "team1": "Florida Untied",
               "team2": "Florida Flo",
               "score1": 13,
-              "score2": 1,
+              "score2": 6,
               "datetime": "2026-09-12T09:00:00Z",
               "round": "Pool A",
               "status": "Final"
@@ -1091,21 +1091,30 @@
           "games": [
             {
               "team1": "El Niño",
-              "team2": "Florida Flo",
+              "team2": "UpRoar",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "2nd Place Semifinals",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "El Niño",
+              "team2": "Florida Flo",
+              "score1": 15,
+              "score2": 7,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "2nd Place Quarterfinals",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Psychedelic",
               "team2": "UpRoar",
-              "score1": 0,
-              "score2": 0,
+              "score1": 11,
+              "score2": 12,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "2nd Place Quarterfinals",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Florida Flo",
@@ -1130,7 +1139,17 @@
         {
           "name": "5th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Florida Flo",
+              "team2": "Psychedelic",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "5th Place",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "7th Place",
@@ -1139,11 +1158,11 @@
             {
               "team1": "Tampa Players",
               "team2": "Flux",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 5,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "7th Place",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         }
