@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-WashingtonBC-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-WashingtonBC-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-13T00:29:36.984399Z",
+  "scrapedAt": "2026-09-13T00:49:53.730941Z",
   "event": {
     "name": "2026 Washington/BC Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -2290,6 +2290,15 @@
           "isChampionship": false,
           "games": [
             {
+              "team1": "BOP",
+              "team2": "Smack!",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "13th Place Final",
+              "status": "Scheduled"
+            },
+            {
               "team1": "Mola Mola",
               "team2": "BOP",
               "score1": 9,
@@ -2301,18 +2310,28 @@
             {
               "team1": "Smack!",
               "team2": "Gallopin' Gerties",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 8,
               "datetime": "2026-09-12T15:00:00Z",
               "round": "13th Place Semis",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
         {
           "name": "15th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Mola Mola",
+              "team2": "Gallopin' Gerties",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "15th Place",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     }

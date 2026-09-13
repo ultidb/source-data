@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Metro-New-York-Mens-Sectional-ChampionshipsClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Metro-New-York-Mens-Sectional-Championships/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-13T00:21:18.161036Z",
+  "scrapedAt": "2026-09-13T00:41:25.505429Z",
   "event": {
     "name": "2026 Metro New York Mens Sectional Championships",
     "division": "Club - Men ",
@@ -1391,16 +1391,16 @@
               "score2": 1,
               "datetime": "2026-09-12T16:30:00Z",
               "round": "Pool C",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Magma Bears",
               "team2": "Bodega Cats",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 5,
               "datetime": "2026-09-12T16:30:00Z",
               "round": "Pool C",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         }
@@ -1448,7 +1448,7 @@
               "score2": 10,
               "datetime": "2026-09-12T16:30:00Z",
               "round": "",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Sungho Moon",
@@ -1470,12 +1470,41 @@
         {
           "name": "1st Place Bracket",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Blueprint",
+              "team2": "Magma Bears",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "1st Place Semifinal Game to Go",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Shade",
+              "team2": "Colt",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "1st Place Semifinal Game to Go",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "3rd Place Bracket",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Connecticut 9 to 5",
+              "team2": "Spring Break '93",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "3rd Place Quarterfinals",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "5th Place Bracket",
@@ -1496,7 +1525,17 @@
         {
           "name": "Pool D",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Bodega Cats",
+              "team2": "Stuyvesant Sticky Fingers",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "Pool D",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     }

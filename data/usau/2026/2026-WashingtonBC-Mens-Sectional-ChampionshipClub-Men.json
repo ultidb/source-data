@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-WashingtonBC-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-WashingtonBC-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-13T00:29:23.853505Z",
+  "scrapedAt": "2026-09-13T00:49:40.590386Z",
   "event": {
     "name": "2026 Washington/BC Mens Sectional Championship",
     "division": "Club - Men ",
@@ -1536,21 +1536,30 @@
           "games": [
             {
               "team1": "Furious George",
-              "team2": "Surf",
+              "team2": "AVE",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "Finals",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Furious George",
+              "team2": "Surf",
+              "score1": 15,
+              "score2": 7,
               "datetime": "2026-09-12T15:00:00Z",
               "round": "Semis",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "AVE",
               "team2": "Grudge",
-              "score1": 0,
-              "score2": 0,
+              "score1": 14,
+              "score2": 13,
               "datetime": "2026-09-12T15:00:00Z",
               "round": "Semis",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -1559,13 +1568,22 @@
           "isChampionship": false,
           "games": [
             {
-              "team1": "Blackfish",
+              "team1": "Grudge",
               "team2": "Switchback",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "2nd Place Quarter (G2G)",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Blackfish",
+              "team2": "Switchback",
+              "score1": 11,
+              "score2": 15,
               "datetime": "2026-09-12T15:00:00Z",
               "round": "2nd Place Crossover",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "SOUF",
@@ -1582,6 +1600,15 @@
           "name": "Game to Go Bracket",
           "isChampionship": false,
           "games": [
+            {
+              "team1": "Blackfish",
+              "team2": "Heartbreak",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "G2G Quarters",
+              "status": "Scheduled"
+            },
             {
               "team1": "Heartbreak",
               "team2": "Gravy Transportation and Logistics LLC, A Washington Limited Liability Corporation",
