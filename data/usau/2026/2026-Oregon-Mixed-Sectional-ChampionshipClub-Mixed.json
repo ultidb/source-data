@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Oregon-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Oregon-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-13T18:39:50.105319Z",
+  "scrapedAt": "2026-09-13T19:41:02.734157Z",
   "event": {
     "name": "2026 Oregon Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -1351,11 +1351,11 @@
             {
               "team1": "Oregon Scorch",
               "team2": "Porch Bears",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 9,
               "datetime": "2026-09-13T11:00:00Z",
               "round": "1st Place",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Oregon Scorch",
@@ -1383,12 +1383,21 @@
           "games": [
             {
               "team1": "Hive",
-              "team2": "Viking Blood",
+              "team2": "Porch Bears",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T13:00:00Z",
+              "round": "2nd Place",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Hive",
+              "team2": "Viking Blood",
+              "score1": 15,
+              "score2": 8,
               "datetime": "2026-09-13T11:00:00Z",
               "round": "2nd Semis",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -1399,11 +1408,11 @@
             {
               "team1": "Drip",
               "team2": "Igneous Ultimate",
-              "score1": 0,
-              "score2": 0,
+              "score1": 4,
+              "score2": 8,
               "datetime": "2026-09-13T11:00:00Z",
               "round": "5th Place",
-              "status": "Scheduled"
+              "status": "In Progress"
             }
           ]
         },
@@ -1414,11 +1423,11 @@
             {
               "team1": "SOUPA",
               "team2": "Choco Ghost House",
-              "score1": 0,
-              "score2": 0,
+              "score1": 6,
+              "score2": 15,
               "datetime": "2026-09-13T11:00:00Z",
               "round": "6th Semis",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "SOUPA",
@@ -1447,11 +1456,11 @@
             {
               "team1": "SkyLab",
               "team2": "Goose Run",
-              "score1": 0,
-              "score2": 0,
+              "score1": 8,
+              "score2": 15,
               "datetime": "2026-09-13T11:00:00Z",
               "round": "9th Place",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         }

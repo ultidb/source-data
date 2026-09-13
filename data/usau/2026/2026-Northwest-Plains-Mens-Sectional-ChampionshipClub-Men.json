@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Northwest-Plains-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Northwest-Plains-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-13T18:38:45.900724Z",
+  "scrapedAt": "2026-09-13T19:37:11.469739Z",
   "event": {
     "name": "2026 Northwest Plains Mens Sectional Championship",
     "division": "Club - Men ",
@@ -1148,13 +1148,31 @@
           "isChampionship": false,
           "games": [
             {
+              "team1": "Surly",
+              "team2": "DINGWOP",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2026-09-13T13:00:00Z",
+              "round": "Fourth Place Finals",
+              "status": "Final"
+            },
+            {
+              "team1": "OPE",
+              "team2": "DINGWOP",
+              "score1": 9,
+              "score2": 14,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "Fourth Place Semis",
+              "status": "Final"
+            },
+            {
               "team1": "OPE",
               "team2": "M.Y.T.H.O.S.",
               "score1": 14,
               "score2": 11,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "Fourth Place Quarters",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Nomads",
@@ -1170,7 +1188,17 @@
         {
           "name": "Seventh Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "M.Y.T.H.O.S.",
+              "team2": "Nomads",
+              "score1": 14,
+              "score2": 13,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "Seventh Place",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     }

@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-SoCal-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-SoCal-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-13T18:41:54.138689Z",
+  "scrapedAt": "2026-09-13T19:47:34.421116Z",
   "event": {
     "name": "2026 SoCal Mens Sectional Championship",
     "division": "Club - Men ",
@@ -840,11 +840,11 @@
             {
               "team1": "Nighthawk",
               "team2": "Hazard",
-              "score1": 0,
-              "score2": 0,
+              "score1": 14,
+              "score2": 10,
               "datetime": "2026-09-13T10:15:00Z",
               "round": "Championship",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -853,13 +853,22 @@
           "isChampionship": false,
           "games": [
             {
-              "team1": "OC Crows",
+              "team1": "Hazard",
               "team2": "Skipjack",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T12:15:00Z",
+              "round": "Second Place Final",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "OC Crows",
+              "team2": "Skipjack",
+              "score1": 7,
+              "score2": 12,
               "datetime": "2026-09-13T10:15:00Z",
               "round": "Second Place Semifinal",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -868,13 +877,22 @@
           "isChampionship": false,
           "games": [
             {
+              "team1": "OC Crows",
+              "team2": "Arizona Frisbee Club",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T12:15:00Z",
+              "round": "Fourth Place Final",
+              "status": "Scheduled"
+            },
+            {
               "team1": "Arizona Frisbee Club",
               "team2": "Bonsoon",
-              "score1": 5,
-              "score2": 7,
+              "score1": 13,
+              "score2": 12,
               "datetime": "2026-09-13T10:15:00Z",
               "round": "Fourth Place Semifinal",
-              "status": "In Progress"
+              "status": "Final"
             }
           ]
         }

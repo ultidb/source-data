@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Central-Appalachia-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Central-Appalachia-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-13T18:27:59.923230Z",
+  "scrapedAt": "2026-09-13T19:02:42.618304Z",
   "event": {
     "name": "2026 Central Appalachia Mens Sectional Championship",
     "division": "Club - Men ",
@@ -1108,12 +1108,21 @@
           "games": [
             {
               "team1": "Pittsburgh Stealers",
-              "team2": "Smogborn",
+              "team2": "Chemical X",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T14:45:00Z",
+              "round": "4th Place Semifinal",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Pittsburgh Stealers",
+              "team2": "Smogborn",
+              "score1": 15,
+              "score2": 10,
               "datetime": "2026-09-13T13:00:00Z",
               "round": "4th Place Quarterfinal",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Pittsburgh Puppies",
@@ -1129,7 +1138,17 @@
         {
           "name": "7th Place Bracket",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Smogborn",
+              "team2": "Pittsburgh Puppies",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T14:45:00Z",
+              "round": "7th Place",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     }

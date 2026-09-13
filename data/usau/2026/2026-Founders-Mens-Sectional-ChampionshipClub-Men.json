@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Founders-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Founders-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-13T18:32:12.276763Z",
+  "scrapedAt": "2026-09-13T19:17:53.108715Z",
   "event": {
     "name": "2026 Founders Mens Sectional Championship",
     "division": "Club - Men ",
@@ -1421,12 +1421,30 @@
           "games": [
             {
               "team1": "Rebels",
-              "team2": "Great Effort Every Body",
+              "team2": "New Jersey Gemini",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T15:30:00Z",
+              "round": "Game to Go",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Rebels",
+              "team2": "Great Effort Every Body",
+              "score1": 11,
+              "score2": 9,
               "datetime": "2026-09-13T13:45:00Z",
               "round": "5th Semis",
-              "status": "Scheduled"
+              "status": "Final"
+            },
+            {
+              "team1": "Dub Club",
+              "team2": "New Jersey Gemini",
+              "score1": 10,
+              "score2": 11,
+              "datetime": "2026-09-13T13:45:00Z",
+              "round": "5th Semis",
+              "status": "Final"
             },
             {
               "team1": "Great Effort Every Body",
@@ -1440,23 +1458,43 @@
             {
               "team1": "EZ",
               "team2": "Dub Club",
-              "score1": 7,
-              "score2": 9,
+              "score1": 11,
+              "score2": 12,
               "datetime": "2026-09-13T12:00:00Z",
               "round": "5th Quarters",
-              "status": "In Progress"
+              "status": "Final"
             }
           ]
         },
         {
           "name": "7th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Great Effort Every Body",
+              "team2": "Dub Club",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T00:00:00Z",
+              "round": "7th Final (Optional)",
+              "status": "Cancelled"
+            }
+          ]
         },
         {
           "name": "9th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "we love drinking juice",
+              "team2": "EZ",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T13:45:00Z",
+              "round": "9th Final",
+              "status": "Cancelled"
+            }
+          ]
         }
       ]
     }
