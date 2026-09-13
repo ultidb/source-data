@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-South-Texas-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-South-Texas-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-13T14:11:01.590355Z",
+  "scrapedAt": "2026-09-13T14:41:07.994370Z",
   "event": {
     "name": "2026 South Texas Mens Sectional Championship",
     "division": "Club - Men ",
@@ -1752,6 +1752,15 @@
           "games": [
             {
               "team1": "Doublewide",
+              "team2": "Alamode",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T10:40:00Z",
+              "round": "South Texas Champions",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Doublewide",
               "team2": "H.I.P",
               "score1": 15,
               "score2": 13,
@@ -1762,11 +1771,11 @@
             {
               "team1": "Texas Tea",
               "team2": "Alamode",
-              "score1": 0,
-              "score2": 0,
+              "score1": 8,
+              "score2": 12,
               "datetime": "2026-09-13T07:30:00Z",
               "round": "Semifinals",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Doublewide",
@@ -1810,6 +1819,15 @@
           "name": "2nd Place",
           "isChampionship": false,
           "games": [
+            {
+              "team1": "Rice Box",
+              "team2": "Texas Tea",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:05:00Z",
+              "round": "Quarterfinals 2",
+              "status": "Scheduled"
+            },
             {
               "team1": "H.I.P",
               "team2": "Riverside",

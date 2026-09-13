@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Upstate-New-York-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Upstate-New-York-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-13T14:11:46.163027Z",
+  "scrapedAt": "2026-09-13T14:41:53.693413Z",
   "event": {
     "name": "2026 Upstate New York Mens Sectional Championship",
     "division": "Club - Men ",
@@ -1046,21 +1046,30 @@
           "games": [
             {
               "team1": "DAP LAB",
-              "team2": "Buffalo Frostbite",
+              "team2": "Alibi",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "Game to Go to Game to Go",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "DAP LAB",
+              "team2": "Buffalo Frostbite",
+              "score1": 15,
+              "score2": 6,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "GtG^3",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Alibi",
               "team2": "Los Buds",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 3,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "GtG^3",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Buffalo Frostbite",
@@ -1100,7 +1109,17 @@
         {
           "name": "5th/6th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Buffalo Frostbite",
+              "team2": "Los Buds",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "The Lonely Road",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     }

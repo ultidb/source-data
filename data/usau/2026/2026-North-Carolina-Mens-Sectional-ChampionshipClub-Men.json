@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-North-Carolina-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-North-Carolina-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-13T14:04:14.391081Z",
+  "scrapedAt": "2026-09-13T14:34:19.554160Z",
   "event": {
     "name": "2026 North Carolina Mens Sectional Championship",
     "division": "Club - Men ",
@@ -1396,28 +1396,47 @@
           "games": [
             {
               "team1": "Queen City Kings",
-              "team2": "Whittz Boyz",
+              "team2": "Hydra",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "4th Semi (L6)",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Queen City Kings",
+              "team2": "Whittz Boyz",
+              "score1": 15,
+              "score2": 7,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "4th Qtrs",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Hydra",
               "team2": "NC Brickhouse",
-              "score1": 10,
-              "score2": 5,
+              "score1": 15,
+              "score2": 10,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "4th Qtrs",
-              "status": "In Progress"
+              "status": "Final"
             }
           ]
         },
         {
           "name": "7th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Whittz Boyz",
+              "team2": "NC Brickhouse",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "7th Place",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "8th/9th/10th Place",

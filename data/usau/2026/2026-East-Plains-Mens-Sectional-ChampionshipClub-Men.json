@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-East-Plains-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-East-Plains-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-13T13:59:02.991330Z",
+  "scrapedAt": "2026-09-13T14:29:06.650506Z",
   "event": {
     "name": "2026 East Plains Mens Sectional Championship",
     "division": "Club - Men ",
@@ -1676,21 +1676,30 @@
           "games": [
             {
               "team1": "Flying Dutchmen",
-              "team2": "Endgame",
+              "team2": "Houndd",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T10:15:00Z",
+              "round": "1st Finals",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Flying Dutchmen",
+              "team2": "Endgame",
+              "score1": 15,
+              "score2": 12,
               "datetime": "2026-09-13T08:30:00Z",
               "round": "1st Semis",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Houndd",
               "team2": "ELDL",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 12,
               "datetime": "2026-09-13T08:30:00Z",
               "round": "1st Semis",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Flying Dutchmen",
@@ -1735,6 +1744,24 @@
           "isChampionship": false,
           "games": [
             {
+              "team1": "ELDL",
+              "team2": "Colonels",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T10:15:00Z",
+              "round": "2nd Quarters",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Dynasty",
+              "team2": "Endgame",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T10:15:00Z",
+              "round": "2nd Quarters",
+              "status": "Scheduled"
+            },
+            {
               "team1": "Colonels",
               "team2": "EtobiCoke",
               "score1": 15,
@@ -1746,11 +1773,11 @@
             {
               "team1": "Enigma",
               "team2": "Dynasty",
-              "score1": 5,
-              "score2": 7,
+              "score1": 8,
+              "score2": 15,
               "datetime": "2026-09-13T08:30:00Z",
               "round": "2nd Prequarters",
-              "status": "In Progress"
+              "status": "Final"
             }
           ]
         },
@@ -1766,6 +1793,15 @@
             {
               "team1": "Black Lung",
               "team2": "EtobiCoke",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T10:15:00Z",
+              "round": "6th Quarters",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Enigma",
+              "team2": "Forest City",
               "score1": 0,
               "score2": 0,
               "datetime": "2026-09-13T10:15:00Z",

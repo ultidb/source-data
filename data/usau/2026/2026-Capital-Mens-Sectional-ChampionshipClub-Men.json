@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Capital-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Capital-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-13T13:56:01.988518Z",
+  "scrapedAt": "2026-09-13T14:26:01.306624Z",
   "event": {
     "name": "2026 Capital Mens Sectional Championship",
     "division": "Club - Men ",
@@ -1853,11 +1853,11 @@
             {
               "team1": "John Doe",
               "team2": "Give Me Death",
-              "score1": 8,
-              "score2": 4,
+              "score1": 15,
+              "score2": 7,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "2nd Place Quarters",
-              "status": "In Progress"
+              "status": "Final"
             },
             {
               "team1": "My Guys",
@@ -1964,28 +1964,47 @@
           "games": [
             {
               "team1": "Aces",
-              "team2": "Tofu Junction",
+              "team2": "Fort Reno Flatball Club",
               "score1": 0,
-              "score2": 1,
+              "score2": 0,
+              "datetime": "2026-09-13T10:45:00Z",
+              "round": "11th Place Finals",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Aces",
+              "team2": "Tofu Junction",
+              "score1": 12,
+              "score2": 9,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "11th Place Semis",
-              "status": "In Progress"
+              "status": "Final"
             },
             {
               "team1": "Fort Reno Flatball Club",
               "team2": "Reckers",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 9,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "11th Place Semis",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
         {
           "name": "13th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Tofu Junction",
+              "team2": "Reckers",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T10:45:00Z",
+              "round": "13th Place Finals",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     }
