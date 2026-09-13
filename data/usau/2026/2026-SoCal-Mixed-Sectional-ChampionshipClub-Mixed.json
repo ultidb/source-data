@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-SoCal-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-SoCal-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-13T02:47:12.834166Z",
+  "scrapedAt": "2026-09-13T03:07:01.163874Z",
   "event": {
     "name": "2026 SoCal Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -1874,46 +1874,83 @@
           "games": [
             {
               "team1": "California Burrito",
-              "team2": "Robot",
-              "score1": 0,
-              "score2": 0,
-              "datetime": "2026-09-12T13:45:00Z",
-              "round": "1st Pl Quarters",
-              "status": "Scheduled"
-            },
-            {
-              "team1": "Octonauts",
               "team2": "Shipwreck",
               "score1": 0,
               "score2": 0,
-              "datetime": "2026-09-12T13:45:00Z",
-              "round": "1st Pl Quarters",
+              "datetime": "2026-09-12T15:30:00Z",
+              "round": "1st Pl Semis",
               "status": "Scheduled"
             },
             {
               "team1": "Landsharks",
-              "team2": "Phlagstaff Ultimate",
+              "team2": "Lotus",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-12T15:30:00Z",
+              "round": "1st Pl Semis",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "California Burrito",
+              "team2": "Robot",
+              "score1": 13,
+              "score2": 8,
               "datetime": "2026-09-12T13:45:00Z",
               "round": "1st Pl Quarters",
-              "status": "Scheduled"
+              "status": "Final"
+            },
+            {
+              "team1": "Octonauts",
+              "team2": "Shipwreck",
+              "score1": 10,
+              "score2": 11,
+              "datetime": "2026-09-12T13:45:00Z",
+              "round": "1st Pl Quarters",
+              "status": "Final"
+            },
+            {
+              "team1": "Landsharks",
+              "team2": "Phlagstaff Ultimate",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2026-09-12T13:45:00Z",
+              "round": "1st Pl Quarters",
+              "status": "Final"
             },
             {
               "team1": "Lotus",
               "team2": "Family Style",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 2,
               "datetime": "2026-09-12T13:45:00Z",
               "round": "1st Pl Quarters",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
         {
           "name": "Second Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Robot",
+              "team2": "Octonauts",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T15:30:00Z",
+              "round": "2nd Pl Prequarters",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Phlagstaff Ultimate",
+              "team2": "Family Style",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T15:30:00Z",
+              "round": "2nd Pl Prequarters",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "Fourth Place",
@@ -1925,19 +1962,28 @@
           "isChampionship": false,
           "games": [
             {
-              "team1": "Party Wave",
-              "team2": "Erosion",
+              "team1": "Karma",
+              "team2": "Party Wave",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-12T15:30:00Z",
+              "round": "6th Pl Prequarters",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Party Wave",
+              "team2": "Erosion",
+              "score1": 14,
+              "score2": 7,
               "datetime": "2026-09-12T13:45:00Z",
               "round": "6th Pl Qualifiers",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Birds of Paradise",
               "team2": "Boxcar",
-              "score1": 0,
-              "score2": 0,
+              "score1": 10,
+              "score2": 7,
               "datetime": "2026-09-12T13:45:00Z",
               "round": "6th Pl Qualifiers",
               "status": "Scheduled"
