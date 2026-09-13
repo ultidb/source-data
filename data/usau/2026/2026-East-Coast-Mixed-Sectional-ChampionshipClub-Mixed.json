@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-East-Coast-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-East-Coast-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-13T19:09:49.560419Z",
+  "scrapedAt": "2026-09-13T20:19:31.991603Z",
   "event": {
     "name": "2026 East Coast Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -1178,6 +1178,15 @@
           "isChampionship": false,
           "games": [
             {
+              "team1": "Bar None",
+              "team2": "Murmur",
+              "score1": 7,
+              "score2": 15,
+              "datetime": "2026-09-13T13:00:00Z",
+              "round": "3rd Place",
+              "status": "Final"
+            },
+            {
               "team1": "MoonPi",
               "team2": "Bar None",
               "score1": 8,
@@ -1189,11 +1198,11 @@
             {
               "team1": "Murmur",
               "team2": "Conspiracy",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 6,
               "datetime": "2026-09-13T11:00:00Z",
               "round": "3rd Place Semifinals (G2G)",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "MoonPi",
@@ -1218,7 +1227,17 @@
         {
           "name": "5th Place G2G",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "MoonPi",
+              "team2": "Conspiracy",
+              "score1": 10,
+              "score2": 15,
+              "datetime": "2026-09-13T13:00:00Z",
+              "round": "5th Place G2G",
+              "status": "In Progress"
+            }
+          ]
         },
         {
           "name": "7th Place",
@@ -1231,7 +1250,7 @@
               "score2": 9,
               "datetime": "2026-09-13T11:00:00Z",
               "round": "7th Place",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         }

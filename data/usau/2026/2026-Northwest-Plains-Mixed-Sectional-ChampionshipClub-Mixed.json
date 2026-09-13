@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Northwest-Plains-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Northwest-Plains-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-13T19:38:40.058534Z",
+  "scrapedAt": "2026-09-13T20:30:37.637319Z",
   "event": {
     "name": "2026 Northwest Plains Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -1628,11 +1628,11 @@
             {
               "team1": "Minnesota Star Power",
               "team2": "Bird",
-              "score1": 0,
-              "score2": 0,
+              "score1": 14,
+              "score2": 12,
               "datetime": "2026-09-13T13:00:00Z",
               "round": "2nd/3rd",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Bird",
@@ -1687,12 +1687,21 @@
           "games": [
             {
               "team1": "Limbo",
+              "team2": "Pushovers",
+              "score1": 10,
+              "score2": 13,
+              "datetime": "2026-09-13T13:00:00Z",
+              "round": "Game to Go (5th Place)",
+              "status": "Final"
+            },
+            {
+              "team1": "Limbo",
               "team2": "The Force",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 13,
               "datetime": "2026-09-13T11:00:00Z",
               "round": "5th Semis",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Great Minnesota Get Together",
@@ -1744,7 +1753,17 @@
         {
           "name": "7th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "The Force",
+              "team2": "Great Minnesota Get Together",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T13:00:00Z",
+              "round": "7th Place",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "9th Place",

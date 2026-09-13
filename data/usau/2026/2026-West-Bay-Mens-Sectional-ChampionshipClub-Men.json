@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-West-Bay-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-West-Bay-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-13T20:06:26.735994Z",
+  "scrapedAt": "2026-09-13T20:38:22.114437Z",
   "event": {
     "name": "2026 West Bay Mens Sectional Championship",
     "division": "Club - Men ",
@@ -1251,12 +1251,21 @@
           "games": [
             {
               "team1": "Ghost Train",
-              "team2": "Digit",
+              "team2": "ALT",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T13:00:00Z",
+              "round": "Fourth Place Semifinal",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Ghost Train",
+              "team2": "Digit",
+              "score1": 15,
+              "score2": 7,
               "datetime": "2026-09-13T11:00:00Z",
               "round": "Fourth Place Quarterfinals",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Journeymen",
@@ -1272,7 +1281,17 @@
         {
           "name": "Seventh Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Digit",
+              "team2": "Journeymen",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T13:00:00Z",
+              "round": "Seventh Place",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     }

@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-West-Plains-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-West-Plains-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-13T20:11:42.802239Z",
+  "scrapedAt": "2026-09-13T20:39:29.149725Z",
   "event": {
     "name": "2026 West Plains Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -1254,13 +1254,22 @@
           "isChampionship": false,
           "games": [
             {
-              "team1": "ConSTLation",
-              "team2": "STL CELESTIAL",
+              "team1": "QCO",
+              "team2": "ConSTLation",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T15:15:00Z",
+              "round": "4th Place Finals",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "ConSTLation",
+              "team2": "STL CELESTIAL",
+              "score1": 15,
+              "score2": 8,
               "datetime": "2026-09-13T11:50:00Z",
               "round": "Game to go",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "ConSTLation",
@@ -1299,7 +1308,7 @@
               "score2": 6,
               "datetime": "2026-09-13T11:50:00Z",
               "round": "Pool C",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Spirit Howl",
