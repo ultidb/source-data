@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-WashingtonBC-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-WashingtonBC-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-13T22:27:47.237081Z",
+  "scrapedAt": "2026-09-13T23:07:24.842819Z",
   "event": {
     "name": "2026 Washington/BC Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -2090,11 +2090,11 @@
             {
               "team1": "BFG",
               "team2": "Spoke",
-              "score1": 0,
-              "score2": 0,
+              "score1": 11,
+              "score2": 10,
               "datetime": "2026-09-13T11:00:00Z",
               "round": "1st Place Final",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "BFG",
@@ -2157,13 +2157,22 @@
           "isChampionship": false,
           "games": [
             {
-              "team1": "Vancouver Victors",
-              "team2": "Lights Out",
+              "team1": "Lights Out",
+              "team2": "Spoke",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T13:00:00Z",
+              "round": "2nd Place Final",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Vancouver Victors",
+              "team2": "Lights Out",
+              "score1": 9,
+              "score2": 12,
               "datetime": "2026-09-13T11:00:00Z",
               "round": "2nd Place Semis",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Vancouver Victors",
@@ -2207,6 +2216,15 @@
           "name": "4th Place",
           "isChampionship": false,
           "games": [
+            {
+              "team1": "Vancouver Victors",
+              "team2": "Pegasus",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T13:00:00Z",
+              "round": "4th Place Final",
+              "status": "Scheduled"
+            },
             {
               "team1": "Pegasus",
               "team2": "Seattle Soft Serve",

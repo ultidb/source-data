@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-WashingtonBC-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-WashingtonBC-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-13T22:27:33.724738Z",
+  "scrapedAt": "2026-09-13T23:07:11.602481Z",
   "event": {
     "name": "2026 Washington/BC Mens Sectional Championship",
     "division": "Club - Men ",
@@ -1572,13 +1572,22 @@
           "isChampionship": false,
           "games": [
             {
-              "team1": "Grudge",
+              "team1": "AVE",
               "team2": "Surf",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T13:00:00Z",
+              "round": "2nd Place Game",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Grudge",
+              "team2": "Surf",
+              "score1": 8,
+              "score2": 15,
               "datetime": "2026-09-13T11:00:00Z",
               "round": "2nd Place Semi",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Grudge",
