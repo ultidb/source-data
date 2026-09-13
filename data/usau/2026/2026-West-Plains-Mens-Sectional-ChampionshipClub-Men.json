@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-West-Plains-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-West-Plains-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-13T21:08:47.076757Z",
+  "scrapedAt": "2026-09-13T21:38:42.126059Z",
   "event": {
     "name": "2026 West Plains Mens Sectional Championship",
     "division": "Club - Men ",
@@ -1460,13 +1460,22 @@
           "isChampionship": false,
           "games": [
             {
+              "team1": "Kansas City Smokestack",
+              "team2": "DeMo",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2026-09-13T13:50:00Z",
+              "round": "2nd Place",
+              "status": "Final"
+            },
+            {
               "team1": "Zodiac",
               "team2": "Kansas City Smokestack",
-              "score1": 0,
-              "score2": 0,
+              "score1": 6,
+              "score2": 13,
               "datetime": "2026-09-13T11:50:00Z",
               "round": "2nd Place Play in",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
