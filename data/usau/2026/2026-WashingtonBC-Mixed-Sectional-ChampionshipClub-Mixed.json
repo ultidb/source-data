@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-WashingtonBC-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-WashingtonBC-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-13T00:10:02.440047Z",
+  "scrapedAt": "2026-09-13T00:29:36.984399Z",
   "event": {
     "name": "2026 Washington/BC Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -2088,6 +2088,24 @@
           "isChampionship": false,
           "games": [
             {
+              "team1": "BFG",
+              "team2": "Spoke",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "1st Place Final",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "BFG",
+              "team2": "Lights Out",
+              "score1": 14,
+              "score2": 10,
+              "datetime": "2026-09-12T15:00:00Z",
+              "round": "1st Place Semis",
+              "status": "Final"
+            },
+            {
               "team1": "Spoke",
               "team2": "Vancouver Victors",
               "score1": 15,
@@ -2112,7 +2130,7 @@
               "score2": 15,
               "datetime": "2026-09-12T13:00:00Z",
               "round": "1st Place Qs",
-              "status": "In Progress"
+              "status": "Final"
             },
             {
               "team1": "Spoke",
@@ -2138,6 +2156,24 @@
           "name": "2nd Place",
           "isChampionship": false,
           "games": [
+            {
+              "team1": "Seattle Soft Serve",
+              "team2": "Lights Out",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "2nd Place Qs",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Pegasus",
+              "team2": "TT",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-12T15:00:00Z",
+              "round": "2nd Place PQs",
+              "status": "Scheduled"
+            },
             {
               "team1": "Seattle Soft Serve",
               "team2": "Bullet Train",
@@ -2170,11 +2206,11 @@
             {
               "team1": "Grit City",
               "team2": "Squid Inc.",
-              "score1": 14,
+              "score1": 15,
               "score2": 4,
               "datetime": "2026-09-12T15:00:00Z",
               "round": "6th Place PreQs",
-              "status": "In Progress"
+              "status": "Final"
             },
             {
               "team1": "Heat Wave",
@@ -2237,7 +2273,17 @@
         {
           "name": "11th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Squid Inc.",
+              "team2": "Nova",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "11th Place Final",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "13th Place",

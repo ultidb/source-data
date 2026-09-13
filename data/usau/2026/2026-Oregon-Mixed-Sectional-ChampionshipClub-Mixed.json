@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Oregon-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Oregon-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-13T00:05:36.548557Z",
+  "scrapedAt": "2026-09-13T00:25:12.862596Z",
   "event": {
     "name": "2026 Oregon Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -1330,11 +1330,11 @@
             {
               "team1": "Hive",
               "team2": "Choco Ghost House",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 8,
               "datetime": "2026-09-12T15:40:00Z",
               "round": "Pool B",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         }
@@ -1347,7 +1347,26 @@
         {
           "name": "Championship",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Oregon Scorch",
+              "team2": "Hive",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "Semis",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Viking Blood",
+              "team2": "Porch Bears",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "Semis",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "2/3 Place",
@@ -1357,12 +1376,41 @@
         {
           "name": "5th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Drip",
+              "team2": "Igneous Ultimate",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "5th Place",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "6th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "SOUPA",
+              "team2": "SkyLab",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "6th Quarters",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Goose Run",
+              "team2": "Choco Ghost House",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "6th Quarters",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "9th Place",
