@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-South-New-England-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-South-New-England-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-13T16:15:06.904666Z",
+  "scrapedAt": "2026-09-13T16:40:37.254702Z",
   "event": {
     "name": "2026 South New England Mens Sectional Championship",
     "division": "Club - Men ",
@@ -1631,11 +1631,11 @@
             {
               "team1": "Providence Poultry",
               "team2": "Iditarod",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 15,
               "datetime": "2026-09-13T11:00:00Z",
               "round": "semi",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -1644,13 +1644,22 @@
           "isChampionship": false,
           "games": [
             {
-              "team1": "Skeleton Squad",
-              "team2": "Lantern",
+              "team1": "Providence Poultry",
+              "team2": "Skeleton Squad",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T13:00:00Z",
+              "round": "Game to Go",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Skeleton Squad",
+              "team2": "Lantern",
+              "score1": 14,
+              "score2": 6,
               "datetime": "2026-09-13T11:00:00Z",
               "round": "semi",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Skeleton Squad",
@@ -1695,13 +1704,22 @@
           "isChampionship": false,
           "games": [
             {
-              "team1": "Riverside Riptide",
-              "team2": "MBTA",
+              "team1": "Lantern",
+              "team2": "Riverside Riptide",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T13:00:00Z",
+              "round": "placement",
+              "status": "Cancelled"
+            },
+            {
+              "team1": "Riverside Riptide",
+              "team2": "MBTA",
+              "score1": 13,
+              "score2": 11,
               "datetime": "2026-09-13T11:00:00Z",
               "round": "Round Name",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
