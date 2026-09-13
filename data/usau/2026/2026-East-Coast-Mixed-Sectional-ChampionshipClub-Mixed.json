@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-East-Coast-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-East-Coast-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-13T09:29:18.396071Z",
+  "scrapedAt": "2026-09-13T09:58:54.445860Z",
   "event": {
     "name": "2026 East Coast Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -1109,6 +1109,15 @@
           "isChampionship": false,
           "games": [
             {
+              "team1": "Roma Ultima",
+              "team2": "Bar None",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "Semifinals (G2G)",
+              "status": "Scheduled"
+            },
+            {
               "team1": "Conspiracy",
               "team2": "'Shine",
               "score1": 0,
@@ -1133,7 +1142,7 @@
               "score2": 9,
               "datetime": "2026-09-12T14:30:00Z",
               "round": "Quarterfinals",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Murmur",
@@ -1159,6 +1168,15 @@
           "name": "3rd Place",
           "isChampionship": false,
           "games": [
+            {
+              "team1": "MoonPi",
+              "team2": "Tempo",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "3rd Place Quarterfinals",
+              "status": "Scheduled"
+            },
             {
               "team1": "Murmur",
               "team2": "Verdant",
