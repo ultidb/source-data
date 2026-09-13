@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-East-Coast-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-East-Coast-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-13T03:17:34.129443Z",
+  "scrapedAt": "2026-09-13T03:37:38.402336Z",
   "event": {
     "name": "2026 East Coast Mens Sectional Championship",
     "division": "Club - Men ",
@@ -2034,6 +2034,15 @@
           "isChampionship": false,
           "games": [
             {
+              "team1": "Charleston Heat Stroke",
+              "team2": "Atlanta Arson",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "2nd Place Semis",
+              "status": "Scheduled"
+            },
+            {
               "team1": "Harvest Moon",
               "team2": "Charleston Heat Stroke",
               "score1": 10,
@@ -2045,11 +2054,11 @@
             {
               "team1": "Atlanta Arson",
               "team2": "WOMP",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 9,
               "datetime": "2026-09-12T15:00:00Z",
               "round": "2nd Place Quarters",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Old & Nasti",
@@ -2076,6 +2085,15 @@
           "isChampionship": false,
           "games": [
             {
+              "team1": "WOMP",
+              "team2": "Atlanta Outlaws",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "4th Place Quarters",
+              "status": "Scheduled"
+            },
+            {
               "team1": "Romulus",
               "team2": "Harvest Moon",
               "score1": 0,
@@ -2091,7 +2109,7 @@
               "score2": 12,
               "datetime": "2026-09-12T15:00:00Z",
               "round": "4th Place PreQs",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Nocturnal",
@@ -2132,22 +2150,40 @@
           "isChampionship": false,
           "games": [
             {
-              "team1": "Savannah Wild",
-              "team2": "Tennessee Folklore",
+              "team1": "Nocturnal",
+              "team2": "Savannah Wild",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "8th Place Quarters",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "ElecTriCity",
+              "team2": "Old & Nasti",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "8th Place Quarters",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Savannah Wild",
+              "team2": "Tennessee Folklore",
+              "score1": 15,
+              "score2": 8,
               "datetime": "2026-09-12T15:00:00Z",
               "round": "8th Place PreQs",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Unknowns",
               "team2": "ElecTriCity",
-              "score1": 0,
-              "score2": 0,
+              "score1": 12,
+              "score2": 15,
               "datetime": "2026-09-12T15:00:00Z",
               "round": "8th Place PreQs",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Savannah Wild",
@@ -2177,7 +2213,17 @@
         {
           "name": "13th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Tennessee Folklore",
+              "team2": "Unknowns",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "13th Place Game",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "15th Place",
