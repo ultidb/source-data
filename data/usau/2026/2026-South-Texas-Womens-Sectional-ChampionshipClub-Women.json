@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-South-Texas-Womens-Sectional-ChampionshipClub-Women",
   "sourceUrl": "http://play.usaultimate.org/events/2026-South-Texas-Womens-Sectional-Championship/schedule/Women/Club-Women/",
-  "scrapedAt": "2026-09-13T15:11:43.423196Z",
+  "scrapedAt": "2026-09-13T15:43:36.023255Z",
   "event": {
     "name": "2026 South Texas Womens Sectional Championship",
     "division": "Club - Women ",
@@ -753,11 +753,11 @@
             {
               "team1": "Dimes",
               "team2": "Vengeance",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 7,
               "datetime": "2026-09-13T08:00:00Z",
               "round": "1st Place Final",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -765,6 +765,15 @@
           "name": "2nd Place",
           "isChampionship": false,
           "games": [
+            {
+              "team1": "Vengeance",
+              "team2": "San Antonio Problems",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T10:00:00Z",
+              "round": "2nd Place Final",
+              "status": "Scheduled"
+            },
             {
               "team1": "San Antonio Problems",
               "team2": "Crush City",
