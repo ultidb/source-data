@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-West-Plains-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-West-Plains-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-13T16:44:52.845188Z",
+  "scrapedAt": "2026-09-13T17:14:53.537589Z",
   "event": {
     "name": "2026 West Plains Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -1230,13 +1230,22 @@
           "isChampionship": false,
           "games": [
             {
-              "team1": "QCO",
+              "team1": "Fatal Attraction",
               "team2": "CLX",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T11:50:00Z",
+              "round": "Finals",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "QCO",
+              "team2": "CLX",
+              "score1": 9,
+              "score2": 15,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "2nd Place Semi",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -1246,12 +1255,21 @@
           "games": [
             {
               "team1": "ConSTLation",
-              "team2": "Spirit Howl",
+              "team2": "STL CELESTIAL",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T11:50:00Z",
+              "round": "Game to go",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "ConSTLation",
+              "team2": "Spirit Howl",
+              "score1": 15,
+              "score2": 7,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "4th Place Quarters",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "STL CELESTIAL",
@@ -1280,6 +1298,24 @@
               "score1": 0,
               "score2": 0,
               "datetime": "2026-09-13T11:50:00Z",
+              "round": "Pool C",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Spirit Howl",
+              "team2": "The New Deal Herd",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T13:50:00Z",
+              "round": "Pool C",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Spirit Howl",
+              "team2": "Arms Race",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T15:50:00Z",
               "round": "Pool C",
               "status": "Scheduled"
             }

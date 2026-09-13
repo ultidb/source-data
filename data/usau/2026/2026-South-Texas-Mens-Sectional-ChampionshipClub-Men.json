@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-South-Texas-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-South-Texas-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-13T16:41:24.788649Z",
+  "scrapedAt": "2026-09-13T17:11:33.126096Z",
   "event": {
     "name": "2026 South Texas Mens Sectional Championship",
     "division": "Club - Men ",
@@ -1820,13 +1820,22 @@
           "isChampionship": false,
           "games": [
             {
-              "team1": "Texas Tea",
+              "team1": "Alamode",
               "team2": "H.I.P",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T12:15:00Z",
+              "round": "2nd Place",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Texas Tea",
+              "team2": "H.I.P",
+              "score1": 8,
+              "score2": 14,
               "datetime": "2026-09-13T10:40:00Z",
               "round": "Semifinals 2",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Rice Box",
@@ -1882,11 +1891,11 @@
             {
               "team1": "Bonzaiiiii!!",
               "team2": "Riverside",
-              "score1": 0,
-              "score2": 0,
+              "score1": 7,
+              "score2": 15,
               "datetime": "2026-09-13T10:40:00Z",
               "round": "Semifinals 5",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Texas Duffy",
@@ -1984,11 +1993,11 @@
             {
               "team1": "STX HEAT",
               "team2": "Black Gold",
-              "score1": 0,
-              "score2": 0,
+              "score1": 7,
+              "score2": 11,
               "datetime": "2026-09-13T10:50:00Z",
               "round": "13th Place",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },

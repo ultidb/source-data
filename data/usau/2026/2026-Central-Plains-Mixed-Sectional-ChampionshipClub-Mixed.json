@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Central-Plains-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Central-Plains-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-13T16:27:55.344288Z",
+  "scrapedAt": "2026-09-13T16:57:56.238361Z",
   "event": {
     "name": "2026 Central Plains Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -1428,21 +1428,30 @@
           "games": [
             {
               "team1": "Spectre",
+              "team2": "RAMP",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T13:00:00Z",
+              "round": "1st Finals",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Spectre",
               "team2": "Indiana Pterodactyl Attack (IPA)",
-              "score1": 12,
-              "score2": 10,
+              "score1": 14,
+              "score2": 12,
               "datetime": "2026-09-13T11:00:00Z",
               "round": "1st Semis",
-              "status": "In Progress"
+              "status": "Final"
             },
             {
               "team1": "RAMP",
               "team2": "Stackcats",
-              "score1": 14,
-              "score2": 8,
+              "score1": 15,
+              "score2": 9,
               "datetime": "2026-09-13T11:00:00Z",
               "round": "1st Semis",
-              "status": "In Progress"
+              "status": "Final"
             },
             {
               "team1": "Indiana Pterodactyl Attack (IPA)",
@@ -1467,7 +1476,17 @@
         {
           "name": "3rd Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Indiana Pterodactyl Attack (IPA)",
+              "team2": "Stackcats",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T13:00:00Z",
+              "round": "3rd Finals",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "5th Place",
@@ -1476,11 +1495,11 @@
             {
               "team1": "Prion",
               "team2": "Skyhawks",
-              "score1": 13,
-              "score2": 7,
+              "score1": 15,
+              "score2": 9,
               "datetime": "2026-09-13T11:00:00Z",
               "round": "5th Finals",
-              "status": "In Progress"
+              "status": "Final"
             }
           ]
         },
@@ -1489,13 +1508,22 @@
           "isChampionship": false,
           "games": [
             {
+              "team1": "Skyhawks",
+              "team2": "Chicago Parlay",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T13:00:00Z",
+              "round": "6th Finals",
+              "status": "Scheduled"
+            },
+            {
               "team1": "Nothing's Great Again (aka Babymaker)",
               "team2": "Chicago Parlay",
               "score1": 5,
               "score2": 15,
               "datetime": "2026-09-13T11:00:00Z",
               "round": "6th Semis",
-              "status": "In Progress"
+              "status": "Final"
             },
             {
               "team1": "Nothing's Great Again (aka Babymaker)",
@@ -1522,13 +1550,22 @@
           "isChampionship": false,
           "games": [
             {
+              "team1": "Nothing's Great Again (aka Babymaker)",
+              "team2": "Jabba",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T13:00:00Z",
+              "round": "8th Finals",
+              "status": "Scheduled"
+            },
+            {
               "team1": "Jabba",
               "team2": "ELevate",
-              "score1": 7,
-              "score2": 11,
+              "score1": 13,
+              "score2": 12,
               "datetime": "2026-09-13T11:00:00Z",
               "round": "8th Semis",
-              "status": "In Progress"
+              "status": "Final"
             }
           ]
         }

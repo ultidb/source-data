@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Central-Appalachia-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Central-Appalachia-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-13T16:27:08.687231Z",
+  "scrapedAt": "2026-09-13T16:57:05.678153Z",
   "event": {
     "name": "2026 Central Appalachia Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -970,6 +970,15 @@
           "games": [
             {
               "team1": "Pittsburgh Port Authority",
+              "team2": "Anthem",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T13:00:00Z",
+              "round": "Finals",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Pittsburgh Port Authority",
               "team2": "Farm Show",
               "score1": 15,
               "score2": 5,
@@ -980,11 +989,11 @@
             {
               "team1": "Heavy Flow",
               "team2": "Anthem",
-              "score1": 0,
-              "score2": 0,
+              "score1": 7,
+              "score2": 15,
               "datetime": "2026-09-13T11:00:00Z",
               "round": "Semis",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Crucible",
@@ -1015,7 +1024,17 @@
         {
           "name": "3rd Place Game to Go",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Farm Show",
+              "team2": "Heavy Flow",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T13:00:00Z",
+              "round": "Game to Go ",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     },

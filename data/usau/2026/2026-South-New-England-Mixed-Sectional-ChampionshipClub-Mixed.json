@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-South-New-England-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-South-New-England-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-13T16:40:53.669291Z",
+  "scrapedAt": "2026-09-13T17:11:02.676059Z",
   "event": {
     "name": "2026 South New England Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -1604,6 +1604,15 @@
           "games": [
             {
               "team1": "Obscure",
+              "team2": "Quahogs",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T13:00:00Z",
+              "round": "THE GAME TO GO",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Obscure",
               "team2": "T Party",
               "score1": 15,
               "score2": 7,
@@ -1614,11 +1623,11 @@
             {
               "team1": "League of Shadows",
               "team2": "Quahogs",
-              "score1": 0,
-              "score2": 0,
+              "score1": 12,
+              "score2": 15,
               "datetime": "2026-09-13T11:00:00Z",
               "round": "THE GAME TO GO TO THE GAME TO GO",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "T Party",
@@ -1643,7 +1652,17 @@
         {
           "name": "5th place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "T Party",
+              "team2": "League of Shadows",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T13:00:00Z",
+              "round": "fivnals",
+              "status": "Cancelled"
+            }
+          ]
         },
         {
           "name": "7th place",
@@ -1677,7 +1696,7 @@
               "score2": 14,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "9-11 round robin",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Young and the Restless",

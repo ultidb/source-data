@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-SoCal-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-SoCal-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-13T16:40:08.028311Z",
+  "scrapedAt": "2026-09-13T17:10:16.205936Z",
   "event": {
     "name": "2026 SoCal Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -1942,22 +1942,31 @@
           "isChampionship": false,
           "games": [
             {
-              "team1": "Octonauts",
-              "team2": "Landsharks",
+              "team1": "Landsharks",
+              "team2": "Shipwreck",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T10:15:00Z",
+              "round": "2nd Pl Semi",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Octonauts",
+              "team2": "Landsharks",
+              "score1": 6,
+              "score2": 10,
               "datetime": "2026-09-13T08:30:00Z",
               "round": "2nd Pl Quarters",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Shipwreck",
               "team2": "Phlagstaff Ultimate",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 6,
               "datetime": "2026-09-13T08:30:00Z",
               "round": "2nd Pl Quarters",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Robot",
@@ -1982,7 +1991,17 @@
         {
           "name": "Fourth Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Octonauts",
+              "team2": "Phlagstaff Ultimate",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T10:15:00Z",
+              "round": "4th Pl Semi",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "Sixth Place (Game to Go)",
@@ -1991,11 +2010,11 @@
             {
               "team1": "Karma",
               "team2": "Robot",
-              "score1": 0,
-              "score2": 0,
+              "score1": 8,
+              "score2": 9,
               "datetime": "2026-09-13T08:30:00Z",
               "round": "6th Pl Quarters",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Family Style",
@@ -2056,8 +2075,8 @@
             {
               "team1": "Erosion",
               "team2": "Birds of Paradise",
-              "score1": 0,
-              "score2": 0,
+              "score1": 11,
+              "score2": 7,
               "datetime": "2026-09-13T08:30:00Z",
               "round": "10th Pl Quarters",
               "status": "Scheduled"
@@ -2065,11 +2084,11 @@
             {
               "team1": "Boxcar",
               "team2": "Party Wave",
-              "score1": 0,
-              "score2": 0,
+              "score1": 9,
+              "score2": 13,
               "datetime": "2026-09-13T08:30:00Z",
               "round": "10th Pl Quarters",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },

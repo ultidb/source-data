@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Rocky-Mountain-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Rocky-Mountain-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-13T16:39:00.214342Z",
+  "scrapedAt": "2026-09-13T17:09:10.910481Z",
   "event": {
     "name": "2026 Rocky Mountain Mens Sectional Championship",
     "division": "Club - Men ",
@@ -1379,6 +1379,15 @@
           "games": [
             {
               "team1": "Fungi",
+              "team2": "ISO Atmo",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "Finals",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Fungi",
               "team2": "Tugboat",
               "score1": 15,
               "score2": 6,
@@ -1389,18 +1398,28 @@
             {
               "team1": "(washed)",
               "team2": "ISO Atmo",
-              "score1": 11,
-              "score2": 14,
+              "score1": 13,
+              "score2": 15,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "Semis",
-              "status": "In Progress"
+              "status": "Final"
             }
           ]
         },
         {
           "name": "Second Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Tugboat",
+              "team2": "(washed)",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "2nd Place Semis",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "5th Place Game",

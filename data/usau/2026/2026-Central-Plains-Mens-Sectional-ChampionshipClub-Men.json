@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Central-Plains-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Central-Plains-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-13T16:27:38.328410Z",
+  "scrapedAt": "2026-09-13T16:57:38.739222Z",
   "event": {
     "name": "2026 Central Plains Mens Sectional Championship",
     "division": "Club - Men ",
@@ -1547,13 +1547,22 @@
           "isChampionship": false,
           "games": [
             {
+              "team1": "I-69",
+              "team2": "Trident",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T13:00:00Z",
+              "round": "2nd Place Finals",
+              "status": "Scheduled"
+            },
+            {
               "team1": "Roundhouse",
               "team2": "Trident",
-              "score1": 9,
-              "score2": 9,
+              "score1": 11,
+              "score2": 13,
               "datetime": "2026-09-13T11:00:00Z",
               "round": "2nd Place Semis",
-              "status": "In Progress"
+              "status": "Final"
             }
           ]
         },
@@ -1562,13 +1571,22 @@
           "isChampionship": false,
           "games": [
             {
+              "team1": "Roundhouse",
+              "team2": "Omen",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T13:00:00Z",
+              "round": "4th Place Finals",
+              "status": "Scheduled"
+            },
+            {
               "team1": "Omen",
               "team2": "On Ramp",
-              "score1": 14,
-              "score2": 10,
+              "score1": 15,
+              "score2": 11,
               "datetime": "2026-09-13T11:00:00Z",
               "round": "4th Place Semis",
-              "status": "In Progress"
+              "status": "Final"
             },
             {
               "team1": "Omen",
@@ -1597,11 +1615,11 @@
             {
               "team1": "Shenanigans",
               "team2": "Maumee Boys",
-              "score1": 13,
-              "score2": 13,
+              "score1": 14,
+              "score2": 15,
               "datetime": "2026-09-13T11:00:00Z",
               "round": "7th Place Finals",
-              "status": "In Progress"
+              "status": "Final"
             }
           ]
         }
@@ -1627,11 +1645,11 @@
             {
               "team1": "Satellite",
               "team2": "Knockout",
-              "score1": 8,
-              "score2": 5,
+              "score1": 13,
+              "score2": 6,
               "datetime": "2026-09-13T11:00:00Z",
               "round": "Pool D",
-              "status": "In Progress"
+              "status": "Final"
             },
             {
               "team1": "Satellite",
