@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-South-Texas-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-South-Texas-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-13T15:43:05.922141Z",
+  "scrapedAt": "2026-09-13T16:16:13.991698Z",
   "event": {
     "name": "2026 South Texas Mens Sectional Championship",
     "division": "Club - Men ",
@@ -1820,13 +1820,22 @@
           "isChampionship": false,
           "games": [
             {
-              "team1": "Rice Box",
-              "team2": "Texas Tea",
+              "team1": "Texas Tea",
+              "team2": "H.I.P",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T10:40:00Z",
+              "round": "Semifinals 2",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Rice Box",
+              "team2": "Texas Tea",
+              "score1": 7,
+              "score2": 9,
               "datetime": "2026-09-13T09:05:00Z",
               "round": "Quarterfinals 2",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "H.I.P",
@@ -1862,6 +1871,15 @@
           "isChampionship": false,
           "games": [
             {
+              "team1": "Rice Box",
+              "team2": "Cozy Boys",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T10:40:00Z",
+              "round": "Semifinals 5",
+              "status": "Scheduled"
+            },
+            {
               "team1": "Bonzaiiiii!!",
               "team2": "Riverside",
               "score1": 0,
@@ -1873,11 +1891,11 @@
             {
               "team1": "Texas Duffy",
               "team2": "Cozy Boys",
-              "score1": 0,
-              "score2": 0,
+              "score1": 9,
+              "score2": 10,
               "datetime": "2026-09-13T09:05:00Z",
               "round": "Quarterfinals 5",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Forge",
@@ -1931,29 +1949,48 @@
           "isChampionship": false,
           "games": [
             {
-              "team1": "STX HEAT",
-              "team2": "Team Waco (Not a Cult)",
+              "team1": "Team Waco (Not a Cult)",
+              "team2": "San Antonio Warhawks",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T10:50:00Z",
+              "round": "11th Place",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "STX HEAT",
+              "team2": "Team Waco (Not a Cult)",
+              "score1": 8,
+              "score2": 9,
               "datetime": "2026-09-13T09:05:00Z",
               "round": "Semifinals 11",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Black Gold",
               "team2": "San Antonio Warhawks",
-              "score1": 0,
-              "score2": 0,
+              "score1": 8,
+              "score2": 10,
               "datetime": "2026-09-13T09:05:00Z",
               "round": "Semifinals 11",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
         {
           "name": "13th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "STX HEAT",
+              "team2": "Black Gold",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T10:50:00Z",
+              "round": "13th Place",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "7th Place",
@@ -1963,7 +2000,17 @@
         {
           "name": "9th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Texas Duffy",
+              "team2": "Forge",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T10:50:00Z",
+              "round": "9th Place",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     }

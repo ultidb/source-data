@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Capital-Womens-Sectional-ChampionshipClub-Women",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Capital-Womens-Sectional-Championship/schedule/Women/Club-Women/",
-  "scrapedAt": "2026-09-13T15:26:36.937728Z",
+  "scrapedAt": "2026-09-13T15:56:37.422433Z",
   "event": {
     "name": "2026 Capital Womens Sectional Championship",
     "division": "Club - Women ",
@@ -904,6 +904,15 @@
           "games": [
             {
               "team1": "Agency",
+              "team2": "Virginia Rebellion",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "1st Place",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Agency",
               "team2": "C’ville Sirens",
               "score1": 15,
               "score2": 3,
@@ -914,11 +923,11 @@
             {
               "team1": "Virginia Rebellion",
               "team2": "Dissent",
-              "score1": 0,
-              "score2": 0,
+              "score1": 11,
+              "score2": 7,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "Semis",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "C’ville Sirens",
@@ -943,7 +952,17 @@
         {
           "name": "3rd Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "C’ville Sirens",
+              "team2": "Dissent",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "3rd Place",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     },
@@ -958,11 +977,11 @@
             {
               "team1": "Wave",
               "team2": "Incline",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 10,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "Pool C",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Aces",
