@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-WashingtonBC-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-WashingtonBC-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-13T01:30:12.636126Z",
+  "scrapedAt": "2026-09-13T01:49:53.384724Z",
   "event": {
     "name": "2026 Washington/BC Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -2157,6 +2157,15 @@
           "isChampionship": false,
           "games": [
             {
+              "team1": "Vancouver Victors",
+              "team2": "Pegasus",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "2nd Place Qs",
+              "status": "Scheduled"
+            },
+            {
               "team1": "Seattle Soft Serve",
               "team2": "Lights Out",
               "score1": 0,
@@ -2172,7 +2181,7 @@
               "score2": 9,
               "datetime": "2026-09-12T15:00:00Z",
               "round": "2nd Place PQs",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Seattle Soft Serve",
@@ -2194,6 +2203,15 @@
           "name": "6th Place",
           "isChampionship": false,
           "games": [
+            {
+              "team1": "TT",
+              "team2": "Grit City",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "6th Place Qs",
+              "status": "Scheduled"
+            },
             {
               "team1": "Heat Wave",
               "team2": "Bullet Train",
