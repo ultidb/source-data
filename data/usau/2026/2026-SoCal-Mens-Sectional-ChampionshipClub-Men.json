@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-SoCal-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-SoCal-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-13T02:27:02.894265Z",
+  "scrapedAt": "2026-09-13T02:46:58.964718Z",
   "event": {
     "name": "2026 SoCal Mens Sectional Championship",
     "division": "Club - Men ",
@@ -139,100 +139,6 @@
       ]
     },
     {
-      "name": "OC Crows",
-      "seed": 4,
-      "sourceTeamId": "uTEyzLQU5vprafWVtTn70iiC8Q9QdiBLIZJ9Nv%2fwG14%3d",
-      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=uTEyzLQU5vprafWVtTn70iiC8Q9QdiBLIZJ9Nv%2fwG14%3d",
-      "info": {
-        "nickname": "",
-        "location": "Irvine, California",
-        "website": "https://www.instagram.com/crowsultimate/",
-        "facebook": "",
-        "twitter": ""
-      },
-      "coaches": [
-        "coaches"
-      ],
-      "roster": [
-        {
-          "number": "0",
-          "name": "Alan Yuen"
-        },
-        {
-          "number": "0",
-          "name": "Ben Schroeder"
-        },
-        {
-          "number": "0",
-          "name": "Christian Chang"
-        },
-        {
-          "number": "0",
-          "name": "Jacob Groner"
-        },
-        {
-          "number": "0",
-          "name": "Kanle Yao"
-        },
-        {
-          "number": "0",
-          "name": "Wayne Lu"
-        },
-        {
-          "number": "0",
-          "name": "Matthew Lu"
-        },
-        {
-          "number": "0",
-          "name": "Layne Sutton"
-        },
-        {
-          "number": "0",
-          "name": "Zachary Tanabe"
-        },
-        {
-          "number": "0",
-          "name": "Sam Kennedy"
-        },
-        {
-          "number": "0",
-          "name": "Joacim Zamora"
-        },
-        {
-          "number": "0",
-          "name": "Jesse Packel"
-        },
-        {
-          "number": "3",
-          "name": "Jacob Walsh"
-        },
-        {
-          "number": "5",
-          "name": "Bryce  Wilson"
-        },
-        {
-          "number": "9",
-          "name": "Garrett Heisinger"
-        },
-        {
-          "number": "14",
-          "name": "August Soderberg"
-        },
-        {
-          "number": "18",
-          "name": "Anthony Phan"
-        },
-        {
-          "number": "21",
-          "name": "Isaiah Hernandez"
-        },
-        {
-          "number": "78",
-          "name": "Kevin Wakakuwa"
-        }
-      ]
-    },
-    {
       "name": "Hazard",
       "seed": 2,
       "sourceTeamId": "tL46ZvWtPCz58K4OPz5qnqJhuNuA4wKs8tvLodVtZmU%3d",
@@ -351,6 +257,100 @@
         {
           "number": "88",
           "name": "Jason Paul"
+        }
+      ]
+    },
+    {
+      "name": "OC Crows",
+      "seed": 4,
+      "sourceTeamId": "uTEyzLQU5vprafWVtTn70iiC8Q9QdiBLIZJ9Nv%2fwG14%3d",
+      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=uTEyzLQU5vprafWVtTn70iiC8Q9QdiBLIZJ9Nv%2fwG14%3d",
+      "info": {
+        "nickname": "",
+        "location": "Irvine, California",
+        "website": "https://www.instagram.com/crowsultimate/",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "coaches"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Alan Yuen"
+        },
+        {
+          "number": "0",
+          "name": "Ben Schroeder"
+        },
+        {
+          "number": "0",
+          "name": "Christian Chang"
+        },
+        {
+          "number": "0",
+          "name": "Jacob Groner"
+        },
+        {
+          "number": "0",
+          "name": "Kanle Yao"
+        },
+        {
+          "number": "0",
+          "name": "Wayne Lu"
+        },
+        {
+          "number": "0",
+          "name": "Matthew Lu"
+        },
+        {
+          "number": "0",
+          "name": "Layne Sutton"
+        },
+        {
+          "number": "0",
+          "name": "Zachary Tanabe"
+        },
+        {
+          "number": "0",
+          "name": "Sam Kennedy"
+        },
+        {
+          "number": "0",
+          "name": "Joacim Zamora"
+        },
+        {
+          "number": "0",
+          "name": "Jesse Packel"
+        },
+        {
+          "number": "3",
+          "name": "Jacob Walsh"
+        },
+        {
+          "number": "5",
+          "name": "Bryce  Wilson"
+        },
+        {
+          "number": "9",
+          "name": "Garrett Heisinger"
+        },
+        {
+          "number": "14",
+          "name": "August Soderberg"
+        },
+        {
+          "number": "18",
+          "name": "Anthony Phan"
+        },
+        {
+          "number": "21",
+          "name": "Isaiah Hernandez"
+        },
+        {
+          "number": "78",
+          "name": "Kevin Wakakuwa"
         }
       ]
     },
@@ -783,11 +783,11 @@
             {
               "team1": "Hazard",
               "team2": "Skipjack",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 6,
               "datetime": "2026-09-12T18:30:00Z",
               "round": "Pool A",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "OC Crows",
