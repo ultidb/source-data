@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Metro-New-York-Mens-Sectional-ChampionshipsClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Metro-New-York-Mens-Sectional-Championships/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-13T01:01:18.743629Z",
+  "scrapedAt": "2026-09-13T01:21:32.294421Z",
   "event": {
     "name": "2026 Metro New York Mens Sectional Championships",
     "division": "Club - Men ",
@@ -1453,11 +1453,11 @@
             {
               "team1": "Sungho Moon",
               "team2": "Purple Blaze",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 5,
               "datetime": "2026-09-12T16:30:00Z",
               "round": "",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         }
@@ -1503,6 +1503,15 @@
               "datetime": "2026-09-13T09:00:00Z",
               "round": "3rd Place Quarterfinals",
               "status": "Scheduled"
+            },
+            {
+              "team1": "Long Island Riff Raff",
+              "team2": "Sungho Moon",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "3rd Place Quarterfinals",
+              "status": "Scheduled"
             }
           ]
         },
@@ -1527,11 +1536,29 @@
           "isChampionship": false,
           "games": [
             {
+              "team1": "Purple Blaze",
+              "team2": "Stuyvesant Sticky Fingers",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T09:00:00Z",
+              "round": "Pool D",
+              "status": "Scheduled"
+            },
+            {
               "team1": "Bodega Cats",
               "team2": "Stuyvesant Sticky Fingers",
               "score1": 0,
               "score2": 0,
               "datetime": "2026-09-13T11:00:00Z",
+              "round": "Pool D",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Bodega Cats",
+              "team2": "Purple Blaze",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T13:00:00Z",
               "round": "Pool D",
               "status": "Scheduled"
             }
