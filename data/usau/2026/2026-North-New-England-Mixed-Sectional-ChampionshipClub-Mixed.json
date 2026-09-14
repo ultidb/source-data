@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-North-New-England-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-North-New-England-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-14T12:33:29.996809Z",
+  "scrapedAt": "2026-09-14T13:12:04.715609Z",
   "event": {
     "name": "2026 North New England Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -894,27 +894,36 @@
           "games": [
             {
               "team1": "Big Rig",
-              "team2": "The Buoy Association",
+              "team2": "Zero Strategy",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "1st Place",
+              "status": "Final"
+            },
+            {
+              "team1": "Big Rig",
+              "team2": "The Buoy Association",
+              "score1": 14,
+              "score2": 10,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "Semis - Sunday",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Zero Strategy",
               "team2": "Who, ME",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 7,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "Semis - Sunday",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "The Buoy Association",
               "team2": "Taproot",
-              "score1": 15,
-              "score2": 7,
+              "score1": 12,
+              "score2": 8,
               "datetime": "2026-09-12T15:15:00Z",
               "round": "Quarters - Saturday",
               "status": "Final"
@@ -933,7 +942,17 @@
         {
           "name": "Game-to-Go 3rd Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "The Buoy Association",
+              "team2": "Who, ME",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T11:00:00Z",
+              "round": "3rd Place",
+              "status": "Final"
+            }
+          ]
         }
       ]
     },
@@ -948,29 +967,29 @@
             {
               "team1": "Sugar Shack",
               "team2": "Taproot",
-              "score1": 0,
-              "score2": 0,
+              "score1": 2,
+              "score2": 13,
               "datetime": "2026-09-13T09:00:00Z",
               "round": "",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "UV Rays",
               "team2": "Taproot",
-              "score1": 0,
-              "score2": 0,
+              "score1": 8,
+              "score2": 12,
               "datetime": "2026-09-13T10:15:00Z",
               "round": "",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "UV Rays",
               "team2": "Sugar Shack",
-              "score1": 0,
-              "score2": 0,
+              "score1": 10,
+              "score2": 4,
               "datetime": "2026-09-13T11:30:00Z",
               "round": "",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         }
