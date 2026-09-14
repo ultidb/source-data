@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Upstate-New-York-Mixed-Sectional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Upstate-New-York-Mixed-Sectional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-13T23:46:40.839697Z",
+  "scrapedAt": "2026-09-14T00:26:14.090252Z",
   "event": {
     "name": "2026 Upstate New York Mixed Sectional Championship",
     "division": "Club - Mixed ",
@@ -1267,13 +1267,22 @@
           "isChampionship": false,
           "games": [
             {
+              "team1": "Garbage Plates",
+              "team2": "Garbage Pla(C)e",
+              "score1": 15,
+              "score2": 3,
+              "datetime": "2026-09-13T13:00:00Z",
+              "round": "GTG",
+              "status": "Final"
+            },
+            {
               "team1": "UFO Ultimate",
               "team2": "Garbage Pla(C)e",
-              "score1": 0,
-              "score2": 0,
+              "score1": 9,
+              "score2": 14,
               "datetime": "2026-09-13T11:00:00Z",
               "round": "GTGTGTG",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Buffalo Brain Freeze",
@@ -1312,7 +1321,7 @@
               "score2": 0,
               "datetime": "2026-09-13T11:00:00Z",
               "round": "RR 1",
-              "status": "Scheduled"
+              "status": "Cancelled"
             }
           ]
         },
@@ -1324,10 +1333,10 @@
               "team1": "Buffalo Brain Freeze",
               "team2": "Mashed",
               "score1": 0,
-              "score2": 0,
+              "score2": 1,
               "datetime": "2026-09-13T12:30:00Z",
               "round": "RR2",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -1342,7 +1351,7 @@
               "score2": 0,
               "datetime": "2026-09-13T14:00:00Z",
               "round": "RR3",
-              "status": "Scheduled"
+              "status": "Cancelled"
             }
           ]
         }
