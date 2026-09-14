@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-NorCal-Mens-Sectional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-NorCal-Mens-Sectional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-14T00:58:55.542673Z",
+  "scrapedAt": "2026-09-14T01:40:32.390394Z",
   "event": {
     "name": "2026 NorCal Mens Sectional Championship",
     "division": "Club - Men ",
@@ -1017,6 +1017,15 @@
           "games": [
             {
               "team1": "Firefall",
+              "team2": "Sauce",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T13:00:00Z",
+              "round": "2nd Place Semis",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Firefall",
               "team2": "East Bay Earthworms",
               "score1": 14,
               "score2": 7,
@@ -1031,7 +1040,7 @@
               "score2": 15,
               "datetime": "2026-09-13T11:00:00Z",
               "round": "Second Place Quarterfinals",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Float",
@@ -1056,7 +1065,17 @@
         {
           "name": "Fifth Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "East Bay Earthworms",
+              "team2": "Scooby Coupy COUP",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-13T13:00:00Z",
+              "round": "Fifth Place",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "Seventh Place",
