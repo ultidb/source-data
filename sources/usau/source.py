@@ -121,9 +121,17 @@ class UsauSource(Source):
         # discover each team's id/url -- mirrors WfdfSource.fetch_event's
         # double-parse of `reference` to get team_ids, rather than inventing
         # a new partial-parse API just for this.
-        provisional = parseTournament(
-            tournament_bytes, self._info_dict(ref), "", ref.extra.get("year", 0)
-        )
+        year = ref.extra.get("year", 0)
+        provisional = parseTournament(tournament_bytes, self._info_dict(ref), "", year)
+        if provisional is None and not self._live:
+            # A cached page with no schedule is USAU's "Event schedule is
+            # coming soon" placeholder (regionals/sectionals are listed on
+            # the calendar well before pools are posted). Serving that from
+            # cache would pin the event as empty until it goes live, so
+            # refetch in case the schedule has been published since.
+            tournament_bytes = cache.fetch("tournament", ref.url, refresh=True)
+            pages["tournament"] = tournament_bytes
+            provisional = parseTournament(tournament_bytes, self._info_dict(ref), "", year)
         if provisional is None:
             return pages
 

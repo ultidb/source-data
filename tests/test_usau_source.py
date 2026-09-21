@@ -300,3 +300,20 @@ class TestLiveFetchPolicy:
 
         assert transport.tournament_calls == []
         assert transport.team_calls == []
+
+    def test_not_live_refetches_cached_page_with_no_schedule_yet(self, tmp_path):
+        # USAU serves a "coming soon" page (no stage tabs) until pools are
+        # posted; a cached copy of that must not stick for upcoming events.
+        transport = _CountingFakeTransport()
+        source = UsauSource(transport=transport, live=False)
+        ref = self._ref()
+        key = source.event_key(ref)
+        cache = FileCache("usau", YEAR, key, transport, base_dir=tmp_path)
+
+        cache.put("tournament", b"<html><body><p>Event schedule is coming soon.</p></body></html>")
+
+        pages = source.fetch_event(ref, cache)
+
+        assert len(transport.tournament_calls) == 1
+        assert pages["tournament"] == TOURNAMENT_HTML
+        assert len(transport.team_calls) == len(TEAM_HTML_BY_URL)
