@@ -16,6 +16,7 @@ from __future__ import annotations
 import json
 import re
 import time
+from datetime import date, timedelta
 from pathlib import Path
 from typing import Callable, Optional
 
@@ -27,6 +28,28 @@ _REPO_ROOT = Path(__file__).resolve().parent.parent
 _UNSAFE_CHARS = re.compile(r"[^A-Za-z0-9._ -]")
 
 _EXTENSIONS = ("json", "html")
+
+# How long after an event ends its schedule/results pages are still assumed
+# to change (late score corrections, bracket fixes). Matches app.py's
+# "recently ended" window.
+SETTLED_AFTER_DAYS = 30
+
+
+def event_page_max_age(
+    end_date: Optional[date], ttl: float, *, today: Optional[date] = None
+) -> Optional[float]:
+    """`max_age` for an event's schedule/pools/results pages: `ttl` while the
+    event could still change (upcoming, ongoing, recently ended, or end date
+    unknown), None -- cache forever -- once it ended more than
+    SETTLED_AFTER_DAYS ago. Organizers reshuffle pools right up until an
+    event starts, so a non-live run must not pin a stale schedule; settled
+    events stay cached so historical backfills don't refetch everything."""
+    if end_date is None:
+        return ttl
+    today = today or date.today()
+    if end_date < today - timedelta(days=SETTLED_AFTER_DAYS):
+        return None
+    return ttl
 
 
 def _extension_for(content: bytes) -> str:

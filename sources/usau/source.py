@@ -9,9 +9,10 @@ covered directly by golden fixtures (tests/test_usau_fixtures.py).
 
 `live`/`refresh_rosters` mirror WfdfSource's knobs of the same name
 (sources/wfdf/source.py): `live=True` forces the tournament page (schedule/
-pools/scores) to always be refetched; `refresh_rosters=True` additionally
-bypasses the team-page cache TTL (TEAM_MAX_AGE_SECONDS below), forcing every
-team page to be refetched too.
+pools/scores) to always be refetched (otherwise it's refetched once older
+than SCHEDULE_MAX_AGE_SECONDS, until the event has settled);
+`refresh_rosters=True` additionally bypasses the team-page cache TTL
+(TEAM_MAX_AGE_SECONDS below), forcing every team page to be refetched too.
 """
 from __future__ import annotations
 
@@ -23,6 +24,7 @@ from typing import Dict, List, Optional
 from bs4 import BeautifulSoup
 
 import models
+from core.cache import event_page_max_age
 from core.source import Cache, EventRef, FetchedPages, Source
 from sources.usau.parse import (
     addInfoToTeam,
@@ -41,6 +43,13 @@ CLUB_SCHEDULE_URL = "https://usaultimate.org/club/schedule/"
 # pages are served from cache until they age past this TTL. Override with
 # USAU_TEAM_MAX_AGE_SECONDS.
 TEAM_MAX_AGE_SECONDS = float(os.environ.get("USAU_TEAM_MAX_AGE_SECONDS", str(12 * 60 * 60)))
+
+# How long a cached tournament page (schedule/pools/scores) is considered
+# fresh on a non-live run, for events that haven't settled yet (see
+# core.cache.event_page_max_age). USAU edits pools after first publishing
+# them, so an upcoming event's page must be refetched rather than pinned to
+# the first scrape. Override with USAU_SCHEDULE_MAX_AGE_SECONDS.
+SCHEDULE_MAX_AGE_SECONDS = float(os.environ.get("USAU_SCHEDULE_MAX_AGE_SECONDS", str(60 * 60)))
 
 
 class UsauSource(Source):
@@ -113,8 +122,14 @@ class UsauSource(Source):
 
     def fetch_event(self, ref: EventRef, cache: Cache) -> FetchedPages:
         # Always refetch when live (schedule/pools/scores change as the
-        # tournament progresses); otherwise normal cache behaviour.
-        tournament_bytes = cache.fetch("tournament", ref.url, refresh=self._live)
+        # tournament progresses); otherwise refetch once the cached copy
+        # outlives SCHEDULE_MAX_AGE_SECONDS, unless the event has settled.
+        tournament_bytes = cache.fetch(
+            "tournament",
+            ref.url,
+            refresh=self._live,
+            max_age=event_page_max_age(ref.end_date, SCHEDULE_MAX_AGE_SECONDS),
+        )
         pages: FetchedPages = {"tournament": tournament_bytes}
 
         # Parse once, discarding the roster-less Tournament, purely to

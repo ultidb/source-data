@@ -80,7 +80,7 @@ The server provides a health check endpoint and runs background scrapers on a sc
 Background jobs (configurable in `config.yaml`):
 - Calendar scrape: every 8 hours
 - Ongoing tournaments: every 10 minutes
-- Upcoming tournaments: every 12 hours
+- Upcoming tournaments: every 6 hours
 - Recently ended: every 4 hours
 - Videos: every 24 hours
 

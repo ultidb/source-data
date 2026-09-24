@@ -42,7 +42,7 @@ class SchedulerConfig(BaseModel):
     calendar_interval_hours: int = 8
     ongoing_interval_minutes: int = 10
     ongoing_team_refresh_interval_hours: int = 12
-    upcoming_interval_hours: int = 12
+    upcoming_interval_hours: int = 6
     recently_ended_interval_hours: int = 8
     videos_interval_hours: int = 24
     # WFDF equivalents of the USAU intervals above (see the WFDF source

@@ -897,10 +897,10 @@ class TestLiveFetchPolicy:
         assert fetched_team_ids == stale_ids
 
     def test_not_live_uses_normal_cache_behaviour_for_reference_and_games(self, tmp_path):
-        # live=False (the default) -- a warm reference/games cache must be
-        # served without hitting the network at all.
+        # live=False (the default) -- a warm reference/games cache for a
+        # settled event must be served without hitting the network at all.
         transport = _CountingFixtureTransport()
-        source = WfdfSource(live=False)
+        source = WfdfSource(events=[replace(WUCC_EVENT, end_date=date(2020, 1, 1))], live=False)
         ref = next(r for r in source.discover(YEAR) if r.extra["series_id"] == self.SERIES_ID)
         key = source.event_key(ref)
         cache = FileCache("wfdf", YEAR, key, transport, base_dir=tmp_path)
@@ -915,6 +915,42 @@ class TestLiveFetchPolicy:
         assert transport.games_calls == []
         assert transport.roster_calls == []
 
+
+    def test_not_live_refetches_stale_reference_and_games_for_upcoming_event(
+        self, tmp_path, monkeypatch
+    ):
+        # Pools/structure can change before an event starts, so a non-live
+        # run must refetch reference/games once they outlive
+        # SCHEDULE_MAX_AGE_SECONDS rather than pinning the first scrape.
+        from datetime import timedelta
+
+        import sources.wfdf.source as wfdf_source_module
+
+        monkeypatch.setattr(wfdf_source_module, "SCHEDULE_MAX_AGE_SECONDS", 100)
+
+        upcoming = replace(
+            WUCC_EVENT,
+            start_date=date.today() + timedelta(days=3),
+            end_date=date.today() + timedelta(days=8),
+        )
+        transport = _CountingFixtureTransport()
+        source = WfdfSource(events=[upcoming], live=False)
+        ref = next(r for r in source.discover(YEAR) if r.extra["series_id"] == self.SERIES_ID)
+        key = source.event_key(ref)
+        cache = FileCache("wfdf", YEAR, key, transport, base_dir=tmp_path)
+        cache.put("reference", REFERENCE_BYTES)
+        cache.put("games", GAMES_BYTES)
+        now = time.time()
+        for page in ("reference", "games"):
+            os.utime(cache._path_for(page), (now - 200, now - 200))
+        for team_id in _team_ids_for_series(self.SERIES_ID):
+            cache.put(f"teams:{team_id}", b'{"players": []}')
+
+        source.fetch_event(ref, cache)
+
+        assert len(transport.reference_calls) == 1
+        assert len(transport.games_calls) == 1
+        assert transport.roster_calls == []
 
 class TestThreeSeriesMemoizationUnderLive:
     def test_reference_and_games_fetched_once_across_all_three_series(self, tmp_path):

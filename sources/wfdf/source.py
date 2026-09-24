@@ -17,6 +17,7 @@ from datetime import datetime, time as dtime
 from typing import Dict, List, Optional
 
 import models
+from core.cache import event_page_max_age
 from core.source import Cache, EventRef, FetchedPages, Source
 
 from sources.wfdf import parse
@@ -39,6 +40,12 @@ REQUEST_DELAY_RANGE = (
 # they're served from cache until they age past this TTL. Override with
 # WFDF_ROSTER_MAX_AGE_SECONDS.
 ROSTER_MAX_AGE_SECONDS = float(os.environ.get("WFDF_ROSTER_MAX_AGE_SECONDS", str(12 * 60 * 60)))
+
+# How long cached `_reference`/`_games` pages are considered fresh on a
+# non-live run, for events that haven't settled yet (see
+# core.cache.event_page_max_age) -- pools/structure can change before an
+# event starts. Override with WFDF_SCHEDULE_MAX_AGE_SECONDS.
+SCHEDULE_MAX_AGE_SECONDS = float(os.environ.get("WFDF_SCHEDULE_MAX_AGE_SECONDS", str(60 * 60)))
 
 
 class WfdfSource(Source):
@@ -111,8 +118,11 @@ class WfdfSource(Source):
                         city=event.city,
                         state=event.state,
                         country=event.country,
-                        start_date=None,
-                        end_date=None,
+                        # Hardcoded scheduling dates from events.yaml; used
+                        # only for cache staleness in fetch_event. The wire
+                        # document's dates still come from `_reference`.
+                        start_date=event.start_date,
+                        end_date=event.end_date,
                         extra={
                             "base_url": event.base_url,
                             "data_path": event.data_path,
@@ -133,9 +143,10 @@ class WfdfSource(Source):
         season_id = ref.extra["season_id"]
         series_id = ref.extra["series_id"]
 
+        max_age = event_page_max_age(ref.end_date, SCHEDULE_MAX_AGE_SECONDS)
         pages: FetchedPages = {
-            "reference": self._fetch_reference(base_url, data_path, season_id, cache),
-            "games": self._fetch_games(base_url, data_path, season_id, cache),
+            "reference": self._fetch_reference(base_url, data_path, season_id, cache, max_age),
+            "games": self._fetch_games(base_url, data_path, season_id, cache, max_age),
         }
 
         reference = json.loads(pages["reference"].decode("utf-8"))
@@ -247,7 +258,9 @@ class WfdfSource(Source):
         # also gets called with test-constructed strings.
         return f"{base_url.rstrip('/')}/{data_path.strip('/')}/{name}.json?cb={cache_buster}"
 
-    def _fetch_reference(self, base_url: str, data_path: str, season_id: str, cache: Cache) -> bytes:
+    def _fetch_reference(
+        self, base_url: str, data_path: str, season_id: str, cache: Cache, max_age: Optional[float]
+    ) -> bytes:
         cached = self._reference_bytes.get(season_id)
         if cached is not None:
             # Already fetched for another series in this run -- warm this
@@ -257,19 +270,21 @@ class WfdfSource(Source):
             return cached
         url = self._build_url(base_url, data_path, season_id, "reference")
         # Always refetch when live (pools/structure change as the
-        # tournament progresses); otherwise normal cache behaviour.
-        raw = cache.fetch("reference", url, refresh=self.live)
+        # tournament progresses); otherwise refetch once stale.
+        raw = cache.fetch("reference", url, refresh=self.live, max_age=max_age)
         self._reference_bytes[season_id] = raw
         return raw
 
-    def _fetch_games(self, base_url: str, data_path: str, season_id: str, cache: Cache) -> bytes:
+    def _fetch_games(
+        self, base_url: str, data_path: str, season_id: str, cache: Cache, max_age: Optional[float]
+    ) -> bytes:
         cached = self._games_bytes.get(season_id)
         if cached is not None:
             cache.put("games", cached)
             return cached
         url = self._build_url(base_url, data_path, season_id, "games")
         # Always refetch when live (scores/status change constantly);
-        # otherwise normal cache behaviour.
-        raw = cache.fetch("games", url, refresh=self.live)
+        # otherwise refetch once stale.
+        raw = cache.fetch("games", url, refresh=self.live, max_age=max_age)
         self._games_bytes[season_id] = raw
         return raw

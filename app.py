@@ -148,8 +148,10 @@ def scrapeOngoingUsauEventsRefreshTeams():
 
 
 def scrapeUpcomingUsauEvents():
-    # No flags: upcoming events have no live scores yet, so normal caching
-    # is fine -- nothing "live" is being missed.
+    # No flags: upcoming events have no live scores yet. Pools can still be
+    # reshuffled, but UsauSource refetches the tournament page once its
+    # cached copy outlives SCHEDULE_MAX_AGE_SECONDS, so every run of this
+    # job picks up schedule changes.
     _run_usau_events(upcomingUsauEventRefs, label="upcoming")
 
 

@@ -317,3 +317,119 @@ class TestLiveFetchPolicy:
         assert len(transport.tournament_calls) == 1
         assert pages["tournament"] == TOURNAMENT_HTML
         assert len(transport.team_calls) == len(TEAM_HTML_BY_URL)
+
+
+# ---------------------------------------------------------------------------
+# Schedule staleness on non-live runs: USAU edits pools after first
+# publishing them, so an unsettled event's cached tournament page must be
+# refetched once it outlives SCHEDULE_MAX_AGE_SECONDS -- otherwise the
+# upcoming job would pin the first-scraped pools until the event goes live.
+# ---------------------------------------------------------------------------
+
+
+class TestScheduleStaleness:
+    def _ref(self, end_date):
+        from core.source import EventRef
+
+        return EventRef(
+            url=SOURCE_URL, city="Axton", state="VA",
+            start_date=end_date, end_date=end_date,
+            extra={"year": YEAR},
+        )
+
+    def _warm(self, cache, source, ref, tournament_bytes, tournament_age):
+        cache.put("tournament", tournament_bytes)
+        now = time.time()
+        path = cache._path_for("tournament")
+        os.utime(path, (now - tournament_age, now - tournament_age))
+        provisional = parseTournament(TOURNAMENT_HTML, source._info_dict(ref), "", YEAR)
+        for team in provisional.teams:
+            if team.name == "TEAM_NAME_NOT_FOUND":
+                continue
+            cache.put(f"team:{team.id}", TEAM_HTML_BY_URL[team.url])
+
+    def _setup(self, tmp_path, monkeypatch, end_date, tournament_bytes, tournament_age):
+        import sources.usau.source as usau_source_module
+
+        monkeypatch.setattr(usau_source_module, "SCHEDULE_MAX_AGE_SECONDS", 100)
+        transport = _CountingFakeTransport()
+        source = UsauSource(transport=transport, live=False)
+        ref = self._ref(end_date)
+        cache = FileCache("usau", YEAR, source.event_key(ref), transport, base_dir=tmp_path)
+        self._warm(cache, source, ref, tournament_bytes, tournament_age)
+        return transport, source, ref, cache
+
+    def test_upcoming_event_with_stale_schedule_is_refetched(self, tmp_path, monkeypatch):
+        from datetime import date, timedelta
+
+        # The cached copy is an older revision of the schedule (a pool
+        # reshuffle is modelled as any byte difference).
+        old_html = TOURNAMENT_HTML.replace(b"</body>", b"<!-- old revision --></body>")
+        transport, source, ref, cache = self._setup(
+            tmp_path, monkeypatch, date.today() + timedelta(days=2), old_html, tournament_age=200
+        )
+
+        pages = source.fetch_event(ref, cache)
+
+        assert len(transport.tournament_calls) == 1
+        assert pages["tournament"] == TOURNAMENT_HTML
+        assert cache.get("tournament") == TOURNAMENT_HTML
+        # Rosters still honour their own (fresh) TTL.
+        assert transport.team_calls == []
+
+    def test_refetched_schedule_updates_parsed_pools(self, tmp_path, monkeypatch):
+        from datetime import date, timedelta
+
+        # Swap two teams' names in the cached copy so its pools differ from
+        # the live page, then check the parsed output follows the live page.
+        ref = self._ref(date.today() + timedelta(days=2))
+        info = UsauSource()._info_dict(ref)
+        provisional = parseTournament(TOURNAMENT_HTML, info, "", YEAR)
+        a, b = [t.name for t in provisional.teams if t.name != "TEAM_NAME_NOT_FOUND"][:2]
+        old_html = (
+            TOURNAMENT_HTML.replace(a.encode(), b"\x00")
+            .replace(b.encode(), a.encode())
+            .replace(b"\x00", b.encode())
+        )
+
+        def pool_games(t):
+            return [
+                (p.name, [(g.teamA.name, g.teamB.name) for g in p.games])
+                for s in t.stages
+                for p in (getattr(s, "pools", None) or [])
+            ]
+
+        expected = pool_games(parseTournament(TOURNAMENT_HTML, info, "", YEAR))
+        assert pool_games(parseTournament(old_html, info, "", YEAR)) != expected
+
+        transport, source, ref, cache = self._setup(
+            tmp_path, monkeypatch, ref.end_date, old_html, tournament_age=200
+        )
+
+        pages = source.fetch_event(ref, cache)
+        tournament = source.parse_event(pages, ref, YEAR)
+
+        assert pool_games(tournament) == expected
+
+    def test_upcoming_event_with_fresh_schedule_is_served_from_cache(self, tmp_path, monkeypatch):
+        from datetime import date, timedelta
+
+        transport, source, ref, cache = self._setup(
+            tmp_path, monkeypatch, date.today() + timedelta(days=2), TOURNAMENT_HTML, tournament_age=50
+        )
+
+        source.fetch_event(ref, cache)
+
+        assert transport.calls == []
+
+    def test_settled_event_is_served_from_cache_however_old(self, tmp_path, monkeypatch):
+        from datetime import date, timedelta
+
+        transport, source, ref, cache = self._setup(
+            tmp_path, monkeypatch, date.today() - timedelta(days=365), TOURNAMENT_HTML,
+            tournament_age=10_000_000,
+        )
+
+        source.fetch_event(ref, cache)
+
+        assert transport.calls == []

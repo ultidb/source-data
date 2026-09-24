@@ -6,10 +6,11 @@ from __future__ import annotations
 
 import os
 import time
+from datetime import date, timedelta
 
 import pytest
 
-from core.cache import FileCache
+from core.cache import SETTLED_AFTER_DAYS, FileCache, event_page_max_age
 
 
 def _transport_counting(calls):
@@ -149,3 +150,21 @@ class TestAge:
         cache.put("k", b"bytes")
 
         assert cache.age("k") == pytest.approx(0, abs=1.0)
+
+
+class TestEventPageMaxAge:
+    TODAY = date(2026, 9, 24)
+
+    def test_unknown_end_date_uses_ttl(self):
+        assert event_page_max_age(None, 60, today=self.TODAY) == 60
+
+    def test_upcoming_event_uses_ttl(self):
+        assert event_page_max_age(date(2026, 9, 27), 60, today=self.TODAY) == 60
+
+    def test_recently_ended_event_uses_ttl(self):
+        ended = self.TODAY - timedelta(days=SETTLED_AFTER_DAYS)
+        assert event_page_max_age(ended, 60, today=self.TODAY) == 60
+
+    def test_settled_event_is_cached_forever(self):
+        ended = self.TODAY - timedelta(days=SETTLED_AFTER_DAYS + 1)
+        assert event_page_max_age(ended, 60, today=self.TODAY) is None
