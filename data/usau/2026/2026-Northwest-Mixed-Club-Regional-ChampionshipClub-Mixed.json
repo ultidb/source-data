@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Northwest-Mixed-Club-Regional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Northwest-Mixed-Club-Regional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-26T19:42:06.134943Z",
+  "scrapedAt": "2026-09-26T19:52:37.225088Z",
   "event": {
     "name": "2026 Northwest Mixed Club Regional Championship",
     "division": "Club - Mixed ",
@@ -2052,11 +2052,11 @@
             {
               "team1": "Hive",
               "team2": "Grit City",
-              "score1": 0,
-              "score2": 0,
+              "score1": 14,
+              "score2": 10,
               "datetime": "2026-09-26T11:00:00Z",
               "round": "2nd Round 1",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         }
@@ -2095,7 +2095,17 @@
         {
           "name": "Pool A",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Porch Bears",
+              "team2": "Grit City",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-26T13:00:00Z",
+              "round": "Pool A",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     }

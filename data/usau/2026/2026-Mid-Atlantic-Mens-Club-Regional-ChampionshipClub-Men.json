@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Mid-Atlantic-Mens-Club-Regional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Mid-Atlantic-Mens-Club-Regional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-26T19:39:56.335903Z",
+  "scrapedAt": "2026-09-26T19:50:15.869055Z",
   "event": {
     "name": "2026 Mid-Atlantic Mens Club Regional Championship",
     "division": "Club - Men ",
@@ -2121,6 +2121,15 @@
               "status": "Scheduled"
             },
             {
+              "team1": "MOB Ultimate",
+              "team2": "Garden State Ultimate",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-26T14:45:00Z",
+              "round": "2nd-Second Rd",
+              "status": "Scheduled"
+            },
+            {
               "team1": "Pittsburgh Stealers",
               "team2": "CITYWIDE Special",
               "score1": 11,
@@ -2150,11 +2159,11 @@
             {
               "team1": "MOB Ultimate",
               "team2": "Rebels",
-              "score1": 0,
-              "score2": 0,
+              "score1": 12,
+              "score2": 6,
               "datetime": "2026-09-26T11:15:00Z",
               "round": "2nd-First Rd",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -2208,11 +2217,38 @@
               "status": "Scheduled"
             },
             {
+              "team1": "Hazard",
+              "team2": "Rebels",
+              "score1": 14,
+              "score2": 10,
+              "datetime": "2026-09-26T13:00:00Z",
+              "round": "Pool A",
+              "status": "Final"
+            },
+            {
               "team1": "Pittsburgh Stealers",
               "team2": "Hazard",
               "score1": 0,
               "score2": 0,
               "datetime": "2026-09-27T10:00:00Z",
+              "round": "Pool A",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "John Doe",
+              "team2": "Rebels",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T10:00:00Z",
+              "round": "Pool A",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Pittsburgh Stealers",
+              "team2": "Rebels",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T12:00:00Z",
               "round": "Pool A",
               "status": "Scheduled"
             },
