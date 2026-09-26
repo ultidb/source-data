@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Great-Lakes-Womens-Club-Regional-ChampionshipClub-Women",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Great-Lakes-Womens-Club-Regional-Championship/schedule/Women/Club-Women/",
-  "scrapedAt": "2026-09-26T17:49:42.694142Z",
+  "scrapedAt": "2026-09-26T17:59:42.265777Z",
   "event": {
     "name": "2026 Great Lakes Womens Club Regional Championship",
     "division": "Club - Women ",
@@ -597,6 +597,104 @@
       ]
     },
     {
+      "name": "Sureshot",
+      "seed": 4,
+      "sourceTeamId": "lo4clg%2b2wTDGNZGMoSAmMykKmG7CZrkHUpIZVDI4BQE%3d",
+      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=lo4clg%2b2wTDGNZGMoSAmMykKmG7CZrkHUpIZVDI4BQE%3d",
+      "info": {
+        "nickname": "",
+        "location": "Cincinnati, Ohio",
+        "website": "",
+        "facebook": "https://www.facebook.com/sureshotultimate/",
+        "twitter": "https://twitter.com/cincysureshot"
+      },
+      "coaches": [
+        "coaches"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Josie Early"
+        },
+        {
+          "number": "03",
+          "name": "Kimberly Cooper"
+        },
+        {
+          "number": "05",
+          "name": "Sara Kula"
+        },
+        {
+          "number": "06",
+          "name": "Meredith Eichenlaub"
+        },
+        {
+          "number": "11",
+          "name": "Stephanie Kramer"
+        },
+        {
+          "number": "14",
+          "name": "Holly Kallmeyer"
+        },
+        {
+          "number": "17",
+          "name": "Sarah Carter"
+        },
+        {
+          "number": "18",
+          "name": "Lucy Michel"
+        },
+        {
+          "number": "20",
+          "name": "Kristen Wentzel"
+        },
+        {
+          "number": "21",
+          "name": "Liz Anderson"
+        },
+        {
+          "number": "22",
+          "name": "Julia Lindenschmidt"
+        },
+        {
+          "number": "23",
+          "name": "Yelenis Rivera"
+        },
+        {
+          "number": "24",
+          "name": "Mary Timmons"
+        },
+        {
+          "number": "27",
+          "name": "Emilee Armbruster"
+        },
+        {
+          "number": "31",
+          "name": "Amelia Kennedy"
+        },
+        {
+          "number": "44",
+          "name": "Laura Madigan"
+        },
+        {
+          "number": "47",
+          "name": "Jackie Sapienza"
+        },
+        {
+          "number": "72",
+          "name": "Abigail Pettinger"
+        },
+        {
+          "number": "81",
+          "name": "Alex Easterday"
+        },
+        {
+          "number": "94",
+          "name": "Julie Sebastian"
+        }
+      ]
+    },
+    {
       "name": "Dish",
       "seed": 7,
       "sourceTeamId": "GtvE%2fVWRdSNB3rUGqBeSe8Wg6k4m6jglZKRliWji98w%3d",
@@ -707,104 +805,6 @@
         {
           "number": "88",
           "name": "Ellie Cloe"
-        }
-      ]
-    },
-    {
-      "name": "Sureshot",
-      "seed": 4,
-      "sourceTeamId": "lo4clg%2b2wTDGNZGMoSAmMykKmG7CZrkHUpIZVDI4BQE%3d",
-      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=lo4clg%2b2wTDGNZGMoSAmMykKmG7CZrkHUpIZVDI4BQE%3d",
-      "info": {
-        "nickname": "",
-        "location": "Cincinnati, Ohio",
-        "website": "",
-        "facebook": "https://www.facebook.com/sureshotultimate/",
-        "twitter": "https://twitter.com/cincysureshot"
-      },
-      "coaches": [
-        "coaches"
-      ],
-      "roster": [
-        {
-          "number": "0",
-          "name": "Josie Early"
-        },
-        {
-          "number": "03",
-          "name": "Kimberly Cooper"
-        },
-        {
-          "number": "05",
-          "name": "Sara Kula"
-        },
-        {
-          "number": "06",
-          "name": "Meredith Eichenlaub"
-        },
-        {
-          "number": "11",
-          "name": "Stephanie Kramer"
-        },
-        {
-          "number": "14",
-          "name": "Holly Kallmeyer"
-        },
-        {
-          "number": "17",
-          "name": "Sarah Carter"
-        },
-        {
-          "number": "18",
-          "name": "Lucy Michel"
-        },
-        {
-          "number": "20",
-          "name": "Kristen Wentzel"
-        },
-        {
-          "number": "21",
-          "name": "Liz Anderson"
-        },
-        {
-          "number": "22",
-          "name": "Julia Lindenschmidt"
-        },
-        {
-          "number": "23",
-          "name": "Yelenis Rivera"
-        },
-        {
-          "number": "24",
-          "name": "Mary Timmons"
-        },
-        {
-          "number": "27",
-          "name": "Emilee Armbruster"
-        },
-        {
-          "number": "31",
-          "name": "Amelia Kennedy"
-        },
-        {
-          "number": "44",
-          "name": "Laura Madigan"
-        },
-        {
-          "number": "47",
-          "name": "Jackie Sapienza"
-        },
-        {
-          "number": "72",
-          "name": "Abigail Pettinger"
-        },
-        {
-          "number": "81",
-          "name": "Alex Easterday"
-        },
-        {
-          "number": "94",
-          "name": "Julie Sebastian"
         }
       ]
     },
@@ -1035,11 +1035,11 @@
             {
               "team1": "Nemesis",
               "team2": "Sureshot",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 1,
               "datetime": "2026-09-26T13:00:00Z",
               "round": "Pool B",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Solstice",
