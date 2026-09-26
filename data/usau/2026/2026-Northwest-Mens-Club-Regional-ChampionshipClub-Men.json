@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Northwest-Mens-Club-Regional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Northwest-Mens-Club-Regional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-26T22:41:54.369509Z",
+  "scrapedAt": "2026-09-26T22:52:09.998588Z",
   "event": {
     "name": "2026 Northwest Mens Club Regional Championship",
     "division": "Club - Men ",
@@ -1638,29 +1638,29 @@
             {
               "team1": "SOUF",
               "team2": "Switchback",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 13,
               "datetime": "2026-09-26T14:15:00Z",
               "round": "",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Portland TremOR",
               "team2": "Lil’ Huckers",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 12,
               "datetime": "2026-09-26T14:15:00Z",
               "round": "",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Grudge",
               "team2": "AVE",
-              "score1": 0,
-              "score2": 0,
+              "score1": 14,
+              "score2": 15,
               "datetime": "2026-09-26T14:15:00Z",
               "round": "",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         }
@@ -1673,7 +1673,26 @@
         {
           "name": "Finals",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Furious George",
+              "team2": "Surf",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-26T16:15:00Z",
+              "round": "1st Place Quarters",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "AVE",
+              "team2": "Sockeye",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-26T16:15:00Z",
+              "round": "1st Place Quarters",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     },
@@ -1717,7 +1736,26 @@
         {
           "name": "9th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Sawtooth",
+              "team2": "Switchback",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T09:00:00Z",
+              "round": "9th Place Semi",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Lil’ Huckers",
+              "team2": "Grudge",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T09:00:00Z",
+              "round": "9th Place Semi",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     },
