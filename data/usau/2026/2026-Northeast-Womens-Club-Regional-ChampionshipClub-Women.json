@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Northeast-Womens-Club-Regional-ChampionshipClub-Women",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Northeast-Womens-Club-Regional-Championship/schedule/Women/Club-Women/",
-  "scrapedAt": "2026-09-26T19:11:52.238881Z",
+  "scrapedAt": "2026-09-26T19:21:40.813889Z",
   "event": {
     "name": "2026 Northeast Womens Club Regional Championship",
     "division": "Club - Women ",
@@ -16,126 +16,6 @@
     "endDate": "2026-09-27"
   },
   "teams": [
-    {
-      "name": "Iris",
-      "seed": 3,
-      "sourceTeamId": "PwJG1Iv5l7r%2fStMhGNAwW%2bq33KpvEckfnlCB11JOxqc%3d",
-      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=PwJG1Iv5l7r%2fStMhGNAwW%2bq33KpvEckfnlCB11JOxqc%3d",
-      "info": {
-        "nickname": "",
-        "location": "All over Quebec, Quebec CA",
-        "website": "",
-        "facebook": "https://www.facebook.com/irisultimate",
-        "twitter": "https://www.twitter.com/iris_ultimate"
-      },
-      "coaches": [
-        "coaches",
-        "Jamie Hoover",
-        "Alison Fischer"
-      ],
-      "roster": [
-        {
-          "number": "0",
-          "name": "Amelia Rae"
-        },
-        {
-          "number": "0",
-          "name": "Camille Tremblay"
-        },
-        {
-          "number": "0",
-          "name": "Elsa Gagliardi"
-        },
-        {
-          "number": "0",
-          "name": "Éva Manzi"
-        },
-        {
-          "number": "0",
-          "name": "Marianne Fortier"
-        },
-        {
-          "number": "5",
-          "name": "Sophie Belanger"
-        },
-        {
-          "number": "9",
-          "name": "Camille Leblanc"
-        },
-        {
-          "number": "01",
-          "name": "Virginie Côté"
-        },
-        {
-          "number": "03",
-          "name": "Virginie Maltais"
-        },
-        {
-          "number": "08",
-          "name": "Léa Morneau"
-        },
-        {
-          "number": "12",
-          "name": "Julia Topart"
-        },
-        {
-          "number": "15",
-          "name": "Joy Zhou"
-        },
-        {
-          "number": "16",
-          "name": "Nina Heloir"
-        },
-        {
-          "number": "17",
-          "name": "Lianne Campbell"
-        },
-        {
-          "number": "18",
-          "name": "Mathilde Laforce"
-        },
-        {
-          "number": "19",
-          "name": "Marie Levesque"
-        },
-        {
-          "number": "22",
-          "name": "Mia-Catherine Lussier"
-        },
-        {
-          "number": "31",
-          "name": "Maélys Lechasseur"
-        },
-        {
-          "number": "33",
-          "name": "Charlotte Christin"
-        },
-        {
-          "number": "38",
-          "name": "Sophie Lyonnais"
-        },
-        {
-          "number": "39",
-          "name": "Emma Urness"
-        },
-        {
-          "number": "53",
-          "name": "Anne Lefebvre"
-        },
-        {
-          "number": "61",
-          "name": "Alessia Vinet"
-        },
-        {
-          "number": "82",
-          "name": "Florence Toews"
-        },
-        {
-          "number": "97",
-          "name": "Maia List"
-        }
-      ]
-    },
     {
       "name": "Brute Squad",
       "seed": 1,
@@ -257,6 +137,126 @@
         {
           "number": "99",
           "name": "Lia Schwartz"
+        }
+      ]
+    },
+    {
+      "name": "Iris",
+      "seed": 3,
+      "sourceTeamId": "PwJG1Iv5l7r%2fStMhGNAwW%2bq33KpvEckfnlCB11JOxqc%3d",
+      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=PwJG1Iv5l7r%2fStMhGNAwW%2bq33KpvEckfnlCB11JOxqc%3d",
+      "info": {
+        "nickname": "",
+        "location": "All over Quebec, Quebec CA",
+        "website": "",
+        "facebook": "https://www.facebook.com/irisultimate",
+        "twitter": "https://www.twitter.com/iris_ultimate"
+      },
+      "coaches": [
+        "coaches",
+        "Jamie Hoover",
+        "Alison Fischer"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Amelia Rae"
+        },
+        {
+          "number": "0",
+          "name": "Camille Tremblay"
+        },
+        {
+          "number": "0",
+          "name": "Elsa Gagliardi"
+        },
+        {
+          "number": "0",
+          "name": "Éva Manzi"
+        },
+        {
+          "number": "0",
+          "name": "Marianne Fortier"
+        },
+        {
+          "number": "5",
+          "name": "Sophie Belanger"
+        },
+        {
+          "number": "9",
+          "name": "Camille Leblanc"
+        },
+        {
+          "number": "01",
+          "name": "Virginie Côté"
+        },
+        {
+          "number": "03",
+          "name": "Virginie Maltais"
+        },
+        {
+          "number": "08",
+          "name": "Léa Morneau"
+        },
+        {
+          "number": "12",
+          "name": "Julia Topart"
+        },
+        {
+          "number": "15",
+          "name": "Joy Zhou"
+        },
+        {
+          "number": "16",
+          "name": "Nina Heloir"
+        },
+        {
+          "number": "17",
+          "name": "Lianne Campbell"
+        },
+        {
+          "number": "18",
+          "name": "Mathilde Laforce"
+        },
+        {
+          "number": "19",
+          "name": "Marie Levesque"
+        },
+        {
+          "number": "22",
+          "name": "Mia-Catherine Lussier"
+        },
+        {
+          "number": "31",
+          "name": "Maélys Lechasseur"
+        },
+        {
+          "number": "33",
+          "name": "Charlotte Christin"
+        },
+        {
+          "number": "38",
+          "name": "Sophie Lyonnais"
+        },
+        {
+          "number": "39",
+          "name": "Emma Urness"
+        },
+        {
+          "number": "53",
+          "name": "Anne Lefebvre"
+        },
+        {
+          "number": "61",
+          "name": "Alessia Vinet"
+        },
+        {
+          "number": "82",
+          "name": "Florence Toews"
+        },
+        {
+          "number": "97",
+          "name": "Maia List"
         }
       ]
     },
@@ -1301,11 +1301,11 @@
             {
               "team1": "Brute Squad",
               "team2": "Vice",
-              "score1": 0,
+              "score1": 13,
               "score2": 0,
               "datetime": "2026-09-26T14:30:00Z",
               "round": "Pool A",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Iris",
