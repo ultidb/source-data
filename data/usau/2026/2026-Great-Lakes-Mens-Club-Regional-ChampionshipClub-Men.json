@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Great-Lakes-Mens-Club-Regional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Great-Lakes-Mens-Club-Regional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-26T18:39:17.474221Z",
+  "scrapedAt": "2026-09-26T18:49:19.015834Z",
   "event": {
     "name": "2026 Great Lakes Mens Club Regional Championship",
     "division": "Club - Men ",
@@ -2117,6 +2117,15 @@
               "status": "Scheduled"
             },
             {
+              "team1": "Black Lung",
+              "team2": "ELDL",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-26T15:00:00Z",
+              "round": "2nd - R4",
+              "status": "Scheduled"
+            },
+            {
               "team1": "Trident",
               "team2": "Endgame",
               "score1": 14,
@@ -2146,11 +2155,11 @@
             {
               "team1": "Dynasty",
               "team2": "ELDL",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 14,
               "datetime": "2026-09-26T13:00:00Z",
               "round": "2nd - R3",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Mischief",
@@ -2205,6 +2214,15 @@
           "name": "7th Place",
           "isChampionship": false,
           "games": [
+            {
+              "team1": "Dynasty",
+              "team2": "Trident",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-26T15:00:00Z",
+              "round": "7th Place - R4",
+              "status": "Scheduled"
+            },
             {
               "team1": "Colonels",
               "team2": "Houndd",

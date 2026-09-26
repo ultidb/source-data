@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Mid-Atlantic-Womens-Club-Regional-ChampionshipClub-Women",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Mid-Atlantic-Womens-Club-Regional-Championship/schedule/Women/Club-Women/",
-  "scrapedAt": "2026-09-26T18:40:23.843751Z",
+  "scrapedAt": "2026-09-26T18:50:25.129330Z",
   "event": {
     "name": "2026 Mid-Atlantic Womens Club Regional Championship",
     "division": "Club - Women ",
@@ -1617,11 +1617,11 @@
             {
               "team1": "Zephyr",
               "team2": "Dissent",
-              "score1": 0,
-              "score2": 0,
+              "score1": 10,
+              "score2": 7,
               "datetime": "2026-09-26T13:00:00Z",
               "round": "Pool C",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -1698,11 +1698,11 @@
             {
               "team1": "Wave",
               "team2": "Incline",
-              "score1": 0,
-              "score2": 0,
+              "score1": 10,
+              "score2": 7,
               "datetime": "2026-09-26T13:00:00Z",
               "round": "Pool B",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         }
@@ -1711,7 +1711,41 @@
     {
       "type": "clusters",
       "name": "Crossovers",
-      "groups": []
+      "groups": [
+        {
+          "name": "Crossovers",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Flight",
+              "team2": "Grit",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-26T14:45:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Pine Baroness",
+              "team2": "Splurge",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-26T14:45:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Agency",
+              "team2": "Wave",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-26T14:45:00Z",
+              "round": "",
+              "status": "Scheduled"
+            }
+          ]
+        }
+      ]
     },
     {
       "type": "brackets",
