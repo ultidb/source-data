@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Southeast-Womens-Club-Regional-ChampionshipClub-Women",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Southeast-Womens-Club-Regional-Championship/schedule/Women/Club-Women/",
-  "scrapedAt": "2026-09-26T19:33:49.109387Z",
+  "scrapedAt": "2026-09-26T19:43:37.468936Z",
   "event": {
     "name": "2026 Southeast Womens Club Regional Championship",
     "division": "Club - Women ",
@@ -980,11 +980,11 @@
             {
               "team1": "Phoenix",
               "team2": "Magma",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 4,
               "datetime": "2026-09-26T13:00:00Z",
               "round": "Pool A",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Shiver",
@@ -1066,7 +1066,44 @@
         {
           "name": "Championship Bracket",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Phoenix",
+              "team2": "Dolly For President",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T08:00:00Z",
+              "round": "Quarters",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Takedown",
+              "team2": "Shiver",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T08:00:00Z",
+              "round": "Quarters",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Magma",
+              "team2": "Ozone",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T08:00:00Z",
+              "round": "Quarters",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Calypso",
+              "team2": "CHAOS",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T08:00:00Z",
+              "round": "Quarters",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "3rd Place",

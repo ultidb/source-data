@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-South-Central-Mixed-Club-Regional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-South-Central-Mixed-Club-Regional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-26T19:32:54.121617Z",
+  "scrapedAt": "2026-09-26T19:42:45.006340Z",
   "event": {
     "name": "2026 South Central Mixed Club Regional Championship",
     "division": "Club - Mixed ",
@@ -16,128 +16,6 @@
     "endDate": "2026-09-27"
   },
   "teams": [
-    {
-      "name": "Green Chiles",
-      "seed": 7,
-      "sourceTeamId": "ZTQtB2uvGdJT9Sa2N9NdweEE61mHw5gzF2JNwIPivHI%3d",
-      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=ZTQtB2uvGdJT9Sa2N9NdweEE61mHw5gzF2JNwIPivHI%3d",
-      "info": {
-        "nickname": "",
-        "location": "Denver, Colorado",
-        "website": "https://www.instagram.com/greenchilesultimate/",
-        "facebook": "",
-        "twitter": ""
-      },
-      "coaches": [
-        "coaches"
-      ],
-      "roster": [
-        {
-          "number": "0",
-          "name": "Luke Britsch"
-        },
-        {
-          "number": "02",
-          "name": "Thomas Parry"
-        },
-        {
-          "number": "03",
-          "name": "Hannah Dryke"
-        },
-        {
-          "number": "05",
-          "name": "Stephen Lin"
-        },
-        {
-          "number": "07",
-          "name": "Kelly Moses"
-        },
-        {
-          "number": "09",
-          "name": "Cate Brady"
-        },
-        {
-          "number": "10",
-          "name": "Nico Cappella"
-        },
-        {
-          "number": "11",
-          "name": "Lindsey Hua"
-        },
-        {
-          "number": "11",
-          "name": "Augy Cohn"
-        },
-        {
-          "number": "12",
-          "name": "Patrick  Morgan"
-        },
-        {
-          "number": "13",
-          "name": "Anna Browne"
-        },
-        {
-          "number": "20",
-          "name": "Anna Lockwood"
-        },
-        {
-          "number": "22",
-          "name": "Heather  Beck"
-        },
-        {
-          "number": "23",
-          "name": "Ahanu Reiva"
-        },
-        {
-          "number": "24",
-          "name": "Chandler Shelton-Swenson"
-        },
-        {
-          "number": "25",
-          "name": "Jessica Horii"
-        },
-        {
-          "number": "27",
-          "name": "Scott Harper"
-        },
-        {
-          "number": "30",
-          "name": "Sten Larson"
-        },
-        {
-          "number": "31",
-          "name": "Carrie Nickel"
-        },
-        {
-          "number": "36",
-          "name": "Ian Whitman"
-        },
-        {
-          "number": "41",
-          "name": "Mary Kurzweil"
-        },
-        {
-          "number": "45",
-          "name": "Zac Wise"
-        },
-        {
-          "number": "51",
-          "name": "Sarah Fee"
-        },
-        {
-          "number": "55",
-          "name": "Max Cormier"
-        },
-        {
-          "number": "72",
-          "name": "Kianna Davis"
-        },
-        {
-          "number": "85",
-          "name": "Elena Miyasato"
-        }
-      ]
-    },
     {
       "name": "Austin Disco Club",
       "seed": 1,
@@ -259,6 +137,128 @@
         {
           "number": "81",
           "name": "Jake Worthington"
+        }
+      ]
+    },
+    {
+      "name": "Green Chiles",
+      "seed": 7,
+      "sourceTeamId": "ZTQtB2uvGdJT9Sa2N9NdweEE61mHw5gzF2JNwIPivHI%3d",
+      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=ZTQtB2uvGdJT9Sa2N9NdweEE61mHw5gzF2JNwIPivHI%3d",
+      "info": {
+        "nickname": "",
+        "location": "Denver, Colorado",
+        "website": "https://www.instagram.com/greenchilesultimate/",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "coaches"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Luke Britsch"
+        },
+        {
+          "number": "02",
+          "name": "Thomas Parry"
+        },
+        {
+          "number": "03",
+          "name": "Hannah Dryke"
+        },
+        {
+          "number": "05",
+          "name": "Stephen Lin"
+        },
+        {
+          "number": "07",
+          "name": "Kelly Moses"
+        },
+        {
+          "number": "09",
+          "name": "Cate Brady"
+        },
+        {
+          "number": "10",
+          "name": "Nico Cappella"
+        },
+        {
+          "number": "11",
+          "name": "Lindsey Hua"
+        },
+        {
+          "number": "11",
+          "name": "Augy Cohn"
+        },
+        {
+          "number": "12",
+          "name": "Patrick  Morgan"
+        },
+        {
+          "number": "13",
+          "name": "Anna Browne"
+        },
+        {
+          "number": "20",
+          "name": "Anna Lockwood"
+        },
+        {
+          "number": "22",
+          "name": "Heather  Beck"
+        },
+        {
+          "number": "23",
+          "name": "Ahanu Reiva"
+        },
+        {
+          "number": "24",
+          "name": "Chandler Shelton-Swenson"
+        },
+        {
+          "number": "25",
+          "name": "Jessica Horii"
+        },
+        {
+          "number": "27",
+          "name": "Scott Harper"
+        },
+        {
+          "number": "30",
+          "name": "Sten Larson"
+        },
+        {
+          "number": "31",
+          "name": "Carrie Nickel"
+        },
+        {
+          "number": "36",
+          "name": "Ian Whitman"
+        },
+        {
+          "number": "41",
+          "name": "Mary Kurzweil"
+        },
+        {
+          "number": "45",
+          "name": "Zac Wise"
+        },
+        {
+          "number": "51",
+          "name": "Sarah Fee"
+        },
+        {
+          "number": "55",
+          "name": "Max Cormier"
+        },
+        {
+          "number": "72",
+          "name": "Kianna Davis"
+        },
+        {
+          "number": "85",
+          "name": "Elena Miyasato"
         }
       ]
     },
@@ -625,128 +625,6 @@
       ]
     },
     {
-      "name": "Mile High Trash",
-      "seed": 3,
-      "sourceTeamId": "kwoc%2fUjBMR5MpgX5Pyhiwtwn8tPV4QfaDM78cJqGtbc%3d",
-      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=kwoc%2fUjBMR5MpgX5Pyhiwtwn8tPV4QfaDM78cJqGtbc%3d",
-      "info": {
-        "nickname": "",
-        "location": "Denver, Colorado",
-        "website": "",
-        "facebook": "",
-        "twitter": ""
-      },
-      "coaches": [
-        "coaches"
-      ],
-      "roster": [
-        {
-          "number": "0",
-          "name": "Hilary “lefty noodles” Walker"
-        },
-        {
-          "number": "1",
-          "name": "Jack “Scrub Daddy” Hinchsliff"
-        },
-        {
-          "number": "4",
-          "name": "Felix \"Lil Country\" Pronove"
-        },
-        {
-          "number": "7",
-          "name": "Janie \"you cant steal my joy\" Mockrish"
-        },
-        {
-          "number": "9",
-          "name": "Charlie \"Tobe DeBussy\" Cannon"
-        },
-        {
-          "number": "10",
-          "name": "Joshua \"half claw\" Crane"
-        },
-        {
-          "number": "11",
-          "name": "Grace “lizard queen” Brown"
-        },
-        {
-          "number": "12",
-          "name": "Bristol \"Show Hole\" Lovoy"
-        },
-        {
-          "number": "13",
-          "name": "Emily \"one boop please\" Kraus"
-        },
-        {
-          "number": "13",
-          "name": "Tyler \"like the Creator\" Reinhardt"
-        },
-        {
-          "number": "14",
-          "name": "Dexter “Noah Alleman” Shafer-White"
-        },
-        {
-          "number": "15",
-          "name": "Zach “Noah’s dad??” Nager"
-        },
-        {
-          "number": "16",
-          "name": "Abigail \"clear out so I can catch it\" Thorpe"
-        },
-        {
-          "number": "17",
-          "name": "Molly \"wmpttmtd\" Wieringa"
-        },
-        {
-          "number": "20",
-          "name": "Ari \"Shawty Bae\" Nelson"
-        },
-        {
-          "number": "21",
-          "name": "Julia \"upside down only\" Longinotti"
-        },
-        {
-          "number": "27",
-          "name": "Collin “Big Country” Rassel"
-        },
-        {
-          "number": "30",
-          "name": "Jonathan \"I CAN SEE\" Stirk"
-        },
-        {
-          "number": "32",
-          "name": "Andrew \"Bigger Country\" Muller"
-        },
-        {
-          "number": "32",
-          "name": "Chaily \"chacha\" Derecskey"
-        },
-        {
-          "number": "37",
-          "name": "Molly “effin” Clay"
-        },
-        {
-          "number": "51",
-          "name": "Maxwell “You Can Call Me Al” Hamilton"
-        },
-        {
-          "number": "78",
-          "name": "Drew “heeeeeeeeee” Rasmussen"
-        },
-        {
-          "number": "84",
-          "name": "Hallie \"minus 1 appendix plus 6 vert\" Dunham"
-        },
-        {
-          "number": "89",
-          "name": "Milan \"Milly Dawg\" Ravenell"
-        },
-        {
-          "number": "95",
-          "name": "Noah \"Dexter Shafer-White\" Alleman"
-        }
-      ]
-    },
-    {
       "name": "shame.",
       "seed": 2,
       "sourceTeamId": "DO1hvlJxTuwhfJjMo0xRj1Doaiek4%2bqRa20C9Ne0xmA%3d",
@@ -867,6 +745,128 @@
         {
           "number": "99",
           "name": "Rory Veldman"
+        }
+      ]
+    },
+    {
+      "name": "Mile High Trash",
+      "seed": 3,
+      "sourceTeamId": "kwoc%2fUjBMR5MpgX5Pyhiwtwn8tPV4QfaDM78cJqGtbc%3d",
+      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=kwoc%2fUjBMR5MpgX5Pyhiwtwn8tPV4QfaDM78cJqGtbc%3d",
+      "info": {
+        "nickname": "",
+        "location": "Denver, Colorado",
+        "website": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "coaches": [
+        "coaches"
+      ],
+      "roster": [
+        {
+          "number": "0",
+          "name": "Hilary “lefty noodles” Walker"
+        },
+        {
+          "number": "1",
+          "name": "Jack “Scrub Daddy” Hinchsliff"
+        },
+        {
+          "number": "4",
+          "name": "Felix \"Lil Country\" Pronove"
+        },
+        {
+          "number": "7",
+          "name": "Janie \"you cant steal my joy\" Mockrish"
+        },
+        {
+          "number": "9",
+          "name": "Charlie \"Tobe DeBussy\" Cannon"
+        },
+        {
+          "number": "10",
+          "name": "Joshua \"half claw\" Crane"
+        },
+        {
+          "number": "11",
+          "name": "Grace “lizard queen” Brown"
+        },
+        {
+          "number": "12",
+          "name": "Bristol \"Show Hole\" Lovoy"
+        },
+        {
+          "number": "13",
+          "name": "Emily \"one boop please\" Kraus"
+        },
+        {
+          "number": "13",
+          "name": "Tyler \"like the Creator\" Reinhardt"
+        },
+        {
+          "number": "14",
+          "name": "Dexter “Noah Alleman” Shafer-White"
+        },
+        {
+          "number": "15",
+          "name": "Zach “Noah’s dad??” Nager"
+        },
+        {
+          "number": "16",
+          "name": "Abigail \"clear out so I can catch it\" Thorpe"
+        },
+        {
+          "number": "17",
+          "name": "Molly \"wmpttmtd\" Wieringa"
+        },
+        {
+          "number": "20",
+          "name": "Ari \"Shawty Bae\" Nelson"
+        },
+        {
+          "number": "21",
+          "name": "Julia \"upside down only\" Longinotti"
+        },
+        {
+          "number": "27",
+          "name": "Collin “Big Country” Rassel"
+        },
+        {
+          "number": "30",
+          "name": "Jonathan \"I CAN SEE\" Stirk"
+        },
+        {
+          "number": "32",
+          "name": "Andrew \"Bigger Country\" Muller"
+        },
+        {
+          "number": "32",
+          "name": "Chaily \"chacha\" Derecskey"
+        },
+        {
+          "number": "37",
+          "name": "Molly “effin” Clay"
+        },
+        {
+          "number": "51",
+          "name": "Maxwell “You Can Call Me Al” Hamilton"
+        },
+        {
+          "number": "78",
+          "name": "Drew “heeeeeeeeee” Rasmussen"
+        },
+        {
+          "number": "84",
+          "name": "Hallie \"minus 1 appendix plus 6 vert\" Dunham"
+        },
+        {
+          "number": "89",
+          "name": "Milan \"Milly Dawg\" Ravenell"
+        },
+        {
+          "number": "95",
+          "name": "Noah \"Dexter Shafer-White\" Alleman"
         }
       ]
     },
@@ -1286,11 +1286,11 @@
             {
               "team1": "Austin Disco Club",
               "team2": "Armory",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 3,
               "datetime": "2026-09-26T12:40:00Z",
               "round": "Pool A",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Impact",
@@ -1382,11 +1382,11 @@
             {
               "team1": "shame.",
               "team2": "Flight Club",
-              "score1": 7,
-              "score2": 2,
+              "score1": 13,
+              "score2": 3,
               "datetime": "2026-09-26T12:40:00Z",
               "round": "Pool B",
-              "status": "In Progress"
+              "status": "Final"
             },
             {
               "team1": "Moontower",
