@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Southwest-Mens-Club-Regional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Southwest-Mens-Club-Regional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-26T22:54:15.739103Z",
+  "scrapedAt": "2026-09-26T23:07:37.893144Z",
   "event": {
     "name": "2026 Southwest Mens Club Regional Championship",
     "division": "Club - Men ",
@@ -1579,6 +1579,15 @@
           "isChampionship": false,
           "games": [
             {
+              "team1": "SoCal Condors",
+              "team2": "Swordfish",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T08:30:00Z",
+              "round": "Quarterfinals",
+              "status": "Scheduled"
+            },
+            {
               "team1": "Skipjack",
               "team2": "Hazard",
               "score1": 0,
@@ -1608,11 +1617,11 @@
             {
               "team1": "Sebastopol Orchard",
               "team2": "Swordfish",
-              "score1": 0,
-              "score2": 0,
+              "score1": 9,
+              "score2": 15,
               "datetime": "2026-09-26T14:15:00Z",
               "round": "Crossovers",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
