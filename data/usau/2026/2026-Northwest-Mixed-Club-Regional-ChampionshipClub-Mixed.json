@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Northwest-Mixed-Club-Regional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Northwest-Mixed-Club-Regional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-26T20:32:07.349309Z",
+  "scrapedAt": "2026-09-26T20:42:06.997492Z",
   "event": {
     "name": "2026 Northwest Mixed Club Regional Championship",
     "division": "Club - Mixed ",
@@ -1959,11 +1959,11 @@
             {
               "team1": "Bullet Train",
               "team2": "Seattle Mixtape",
-              "score1": 0,
-              "score2": 0,
+              "score1": 4,
+              "score2": 15,
               "datetime": "2026-09-26T11:00:00Z",
               "round": "Quarters",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Oregon Scorch",
@@ -2086,6 +2086,15 @@
               "status": "Scheduled"
             },
             {
+              "team1": "Bullet Train",
+              "team2": "Pegasus",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-26T13:00:00Z",
+              "round": "2nd Round 2",
+              "status": "Scheduled"
+            },
+            {
               "team1": "Igneous Ultimate",
               "team2": "MOONDOG",
               "score1": 2,
@@ -2106,11 +2115,11 @@
             {
               "team1": "Heat Wave",
               "team2": "Pegasus",
-              "score1": 0,
-              "score2": 0,
+              "score1": 10,
+              "score2": 15,
               "datetime": "2026-09-26T11:00:00Z",
               "round": "2nd Round 1",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Hive",
@@ -2160,6 +2169,15 @@
           "isChampionship": false,
           "games": [
             {
+              "team1": "Igneous Ultimate",
+              "team2": "Heat Wave",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-26T13:00:00Z",
+              "round": "Pool A",
+              "status": "Scheduled"
+            },
+            {
               "team1": "Porch Bears",
               "team2": "Grit City",
               "score1": 0,
@@ -2178,8 +2196,26 @@
               "status": "Scheduled"
             },
             {
+              "team1": "Porch Bears",
+              "team2": "Heat Wave",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T09:00:00Z",
+              "round": "Pool A",
+              "status": "Scheduled"
+            },
+            {
               "team1": "Igneous Ultimate",
               "team2": "Porch Bears",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T11:00:00Z",
+              "round": "Pool A",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Heat Wave",
+              "team2": "Grit City",
               "score1": 0,
               "score2": 0,
               "datetime": "2026-09-27T11:00:00Z",
