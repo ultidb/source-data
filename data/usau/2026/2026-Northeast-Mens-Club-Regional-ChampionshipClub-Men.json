@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Northeast-Mens-Club-Regional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Northeast-Mens-Club-Regional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-26T17:21:26.432144Z",
+  "scrapedAt": "2026-09-26T17:31:12.778524Z",
   "event": {
     "name": "2026 Northeast Mens Club Regional Championship",
     "division": "Club - Men ",
@@ -2105,20 +2105,20 @@
             {
               "team1": "Mephisto",
               "team2": "Blueprint",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 11,
               "datetime": "2026-09-26T11:45:00Z",
               "round": "Pool D",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Colt",
               "team2": "DAP LAB",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 4,
               "datetime": "2026-09-26T11:45:00Z",
               "round": "Pool D",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         }
@@ -2142,6 +2142,15 @@
               "status": "Scheduled"
             },
             {
+              "team1": "DiG",
+              "team2": "Mephisto",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-26T13:45:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
               "team1": "Big Wrench",
               "team2": "Shade",
               "score1": 0,
@@ -2153,6 +2162,24 @@
             {
               "team1": "Sprout",
               "team2": "BAG",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-26T13:45:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Phoenix",
+              "team2": "Colt",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-26T13:45:00Z",
+              "round": "",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Blueprint",
+              "team2": "DAPPER",
               "score1": 0,
               "score2": 0,
               "datetime": "2026-09-26T13:45:00Z",
@@ -2248,6 +2275,24 @@
             },
             {
               "team1": "Lantern",
+              "team2": "DAP LAB",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-26T01:45:00Z",
+              "round": "Pool E",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Magma Bears",
+              "team2": "DAP LAB",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T09:00:00Z",
+              "round": "Pool E",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Lantern",
               "team2": "Buffalo Frostbite",
               "score1": 0,
               "score2": 0,
@@ -2258,6 +2303,15 @@
             {
               "team1": "Magma Bears",
               "team2": "Lantern",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T11:00:00Z",
+              "round": "Pool E",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Buffalo Frostbite",
+              "team2": "DAP LAB",
               "score1": 0,
               "score2": 0,
               "datetime": "2026-09-27T11:00:00Z",
