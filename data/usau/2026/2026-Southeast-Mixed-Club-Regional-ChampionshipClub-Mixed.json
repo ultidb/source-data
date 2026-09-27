@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Southeast-Mixed-Club-Regional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Southeast-Mixed-Club-Regional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-27T15:37:26.831184Z",
+  "scrapedAt": "2026-09-27T15:43:33.701424Z",
   "event": {
     "name": "2026 Southeast Mixed Club Regional Championship",
     "division": "Club - Mixed ",
@@ -2248,12 +2248,21 @@
           "games": [
             {
               "team1": "Toro",
-              "team2": "Space Force",
+              "team2": "Roma Ultima",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-27T12:00:00Z",
+              "round": "1st Place Final (GtG)",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Toro",
+              "team2": "Space Force",
+              "score1": 15,
+              "score2": 11,
               "datetime": "2026-09-27T10:00:00Z",
               "round": "1st Place Semis",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Roma Ultima",
@@ -2305,7 +2314,17 @@
         {
           "name": "3rd Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Space Force",
+              "team2": "'Shine",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T12:00:00Z",
+              "round": "3rd Place Final",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "5th Place",
@@ -2343,11 +2362,11 @@
             {
               "team1": "Catalyst",
               "team2": "Conspiracy",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 12,
               "datetime": "2026-09-27T10:00:00Z",
               "round": "9th Place Semis",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Malice in Wonderland",
