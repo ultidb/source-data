@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Great-Lakes-Womens-Club-Regional-ChampionshipClub-Women",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Great-Lakes-Womens-Club-Regional-Championship/schedule/Women/Club-Women/",
-  "scrapedAt": "2026-09-27T16:29:44.885537Z",
+  "scrapedAt": "2026-09-27T17:04:40.278405Z",
   "event": {
     "name": "2026 Great Lakes Womens Club Regional Championship",
     "division": "Club - Women ",
@@ -1074,11 +1074,11 @@
             {
               "team1": "Indy Rogue",
               "team2": "Nemesis",
-              "score1": 0,
-              "score2": 0,
+              "score1": 5,
+              "score2": 15,
               "datetime": "2026-09-27T11:00:00Z",
               "round": "Semifinals",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "6ixers",
@@ -1135,28 +1135,47 @@
           "games": [
             {
               "team1": "Solstice",
-              "team2": "Dish",
+              "team2": "Sureshot",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-27T13:00:00Z",
+              "round": "Fifth Place",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Solstice",
+              "team2": "Dish",
+              "score1": 15,
+              "score2": 11,
               "datetime": "2026-09-27T11:00:00Z",
               "round": "Fifth Place Semifinals",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Sureshot",
               "team2": "Frosted",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 6,
               "datetime": "2026-09-27T11:00:00Z",
               "round": "Fifth Place Semifinals",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
         {
           "name": "Seventh Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Dish",
+              "team2": "Frosted",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T13:00:00Z",
+              "round": "Seventh Place",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     }

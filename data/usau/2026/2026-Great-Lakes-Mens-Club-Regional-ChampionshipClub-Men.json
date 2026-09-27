@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Great-Lakes-Mens-Club-Regional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Great-Lakes-Mens-Club-Regional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-27T16:29:19.127221Z",
+  "scrapedAt": "2026-09-27T17:02:26.788162Z",
   "event": {
     "name": "2026 Great Lakes Mens Club Regional Championship",
     "division": "Club - Men ",
@@ -1972,11 +1972,11 @@
             {
               "team1": "Chicago Machine",
               "team2": "GOAT",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 10,
               "datetime": "2026-09-27T11:00:00Z",
               "round": "Championship - R6",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Chicago Machine",
@@ -2118,6 +2118,15 @@
           "games": [
             {
               "team1": "I-69",
+              "team2": "Flying Dutchmen",
+              "score1": 12,
+              "score2": 15,
+              "datetime": "2026-09-27T11:00:00Z",
+              "round": "2nd - R6",
+              "status": "Final"
+            },
+            {
+              "team1": "I-69",
               "team2": "Haymaker",
               "score1": 15,
               "score2": 10,
@@ -2128,11 +2137,11 @@
             {
               "team1": "ELDL",
               "team2": "Flying Dutchmen",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 15,
               "datetime": "2026-09-27T09:00:00Z",
               "round": "2nd - R5",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Endgame",
@@ -2235,7 +2244,17 @@
         {
           "name": "Select Flight Placements (5th / 6th)",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Haymaker",
+              "team2": "ELDL",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T11:00:00Z",
+              "round": "5th Place - R6",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "7th Place",
@@ -2244,11 +2263,11 @@
             {
               "team1": "Endgame",
               "team2": "Colonels",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 11,
               "datetime": "2026-09-27T11:00:00Z",
               "round": "7th Place - R6",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Endgame",

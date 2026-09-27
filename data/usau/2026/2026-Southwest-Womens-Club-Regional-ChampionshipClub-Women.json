@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Southwest-Womens-Club-Regional-ChampionshipClub-Women",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Southwest-Womens-Club-Regional-Championship/schedule/Women/Club-Women/",
-  "scrapedAt": "2026-09-27T16:35:15.028181Z",
+  "scrapedAt": "2026-09-27T17:37:56.841679Z",
   "event": {
     "name": "2026 Southwest Womens Club Regional Championship",
     "division": "Club - Women ",
@@ -1574,21 +1574,30 @@
           "games": [
             {
               "team1": "Fury",
-              "team2": "LOL",
+              "team2": "Flipside",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-27T10:30:00Z",
+              "round": "Finals",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Fury",
+              "team2": "LOL",
+              "score1": 15,
+              "score2": 4,
               "datetime": "2026-09-27T08:30:00Z",
               "round": "Semis",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Flipside",
               "team2": "Nightlock",
-              "score1": 9,
-              "score2": 7,
+              "score1": 15,
+              "score2": 14,
               "datetime": "2026-09-27T08:30:00Z",
               "round": "Semis",
-              "status": "In Progress"
+              "status": "Final"
             },
             {
               "team1": "Fury",
@@ -1633,29 +1642,57 @@
           "isChampionship": false,
           "games": [
             {
-              "team1": "Void Cat Rewind",
-              "team2": "FAB",
+              "team1": "FAB",
+              "team2": "Nightlock",
               "score1": 0,
               "score2": 0,
-              "datetime": "2026-09-27T08:30:00Z",
-              "round": "3rd Place Quarters",
+              "datetime": "2026-09-27T10:30:00Z",
+              "round": "3rd Place Semis",
               "status": "Scheduled"
             },
             {
               "team1": "Wildfire",
-              "team2": "Sacramento Delta",
+              "team2": "LOL",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-27T10:30:00Z",
+              "round": "3rd Place Semis",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Void Cat Rewind",
+              "team2": "FAB",
+              "score1": 8,
+              "score2": 13,
               "datetime": "2026-09-27T08:30:00Z",
               "round": "3rd Place Quarters",
-              "status": "Scheduled"
+              "status": "Final"
+            },
+            {
+              "team1": "Wildfire",
+              "team2": "Sacramento Delta",
+              "score1": 15,
+              "score2": 11,
+              "datetime": "2026-09-27T08:30:00Z",
+              "round": "3rd Place Quarters",
+              "status": "Final"
             }
           ]
         },
         {
           "name": "7/8th",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Sacramento Delta",
+              "team2": "Void Cat Rewind",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T10:30:00Z",
+              "round": "7th Place Game",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "5/6th Place",
@@ -1668,28 +1705,47 @@
           "games": [
             {
               "team1": "Rampage",
-              "team2": "Ultraviolet",
+              "team2": "Haboob",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-27T10:30:00Z",
+              "round": "9th Place Game",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Rampage",
+              "team2": "Ultraviolet",
+              "score1": 15,
+              "score2": 8,
               "datetime": "2026-09-27T08:30:00Z",
               "round": "9th Place Semis",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Haboob",
               "team2": "Tempo",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 7,
               "datetime": "2026-09-27T08:30:00Z",
               "round": "9th Place Semis",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
         {
           "name": "11th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Ultraviolet",
+              "team2": "Tempo",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T10:30:00Z",
+              "round": "11th Place Game",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     }

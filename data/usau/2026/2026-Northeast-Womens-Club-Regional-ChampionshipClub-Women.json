@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Northeast-Womens-Club-Regional-ChampionshipClub-Women",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Northeast-Womens-Club-Regional-Championship/schedule/Women/Club-Women/",
-  "scrapedAt": "2026-09-27T16:32:14.945746Z",
+  "scrapedAt": "2026-09-27T17:29:36.301549Z",
   "event": {
     "name": "2026 Northeast Womens Club Regional Championship",
     "division": "Club - Women ",
@@ -1493,11 +1493,11 @@
             {
               "team1": "Stella",
               "team2": "Iris",
-              "score1": 0,
-              "score2": 0,
+              "score1": 12,
+              "score2": 9,
               "datetime": "2026-09-27T11:00:00Z",
               "round": "Third Semis",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Vice",
@@ -1541,29 +1541,48 @@
           "isChampionship": false,
           "games": [
             {
-              "team1": "Pizza Rat",
-              "team2": "Siege",
+              "team1": "Siege",
+              "team2": "Brooklyn Book Club",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-27T13:00:00Z",
+              "round": "Select Flight ",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Pizza Rat",
+              "team2": "Siege",
+              "score1": 7,
+              "score2": 9,
               "datetime": "2026-09-27T11:00:00Z",
               "round": "Select Flight Semi",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Polar Vortex",
               "team2": "Brooklyn Book Club",
-              "score1": 0,
-              "score2": 0,
+              "score1": 2,
+              "score2": 15,
               "datetime": "2026-09-27T11:00:00Z",
               "round": "Select Flight Semi",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
         {
           "name": "Ninth Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Pizza Rat",
+              "team2": "Polar Vortex",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T13:00:00Z",
+              "round": "Ninth place",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     }
