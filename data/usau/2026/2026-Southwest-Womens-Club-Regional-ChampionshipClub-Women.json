@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Southwest-Womens-Club-Regional-ChampionshipClub-Women",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Southwest-Womens-Club-Regional-Championship/schedule/Women/Club-Women/",
-  "scrapedAt": "2026-09-27T00:34:22.822847Z",
+  "scrapedAt": "2026-09-27T00:54:20.811401Z",
   "event": {
     "name": "2026 Southwest Womens Club Regional Championship",
     "division": "Club - Women ",
@@ -1574,6 +1574,24 @@
           "games": [
             {
               "team1": "Fury",
+              "team2": "LOL",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T08:30:00Z",
+              "round": "Semis",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Flipside",
+              "team2": "Nightlock",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T08:30:00Z",
+              "round": "Semis",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Fury",
               "team2": "Void Cat Rewind",
               "score1": 15,
               "score2": 0,
@@ -1584,20 +1602,20 @@
             {
               "team1": "FAB",
               "team2": "LOL",
-              "score1": 0,
-              "score2": 0,
+              "score1": 11,
+              "score2": 15,
               "datetime": "2026-09-26T16:15:00Z",
               "round": "Quarters",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Flipside",
               "team2": "Wildfire",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 6,
               "datetime": "2026-09-26T16:15:00Z",
               "round": "Quarters",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Sacramento Delta",
@@ -1613,7 +1631,26 @@
         {
           "name": "3rd Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Void Cat Rewind",
+              "team2": "FAB",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T08:30:00Z",
+              "round": "3rd Place Quarters",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Wildfire",
+              "team2": "Sacramento Delta",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T08:30:00Z",
+              "round": "3rd Place Quarters",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "7/8th",
