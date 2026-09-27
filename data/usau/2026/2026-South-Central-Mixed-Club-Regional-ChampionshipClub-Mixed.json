@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-South-Central-Mixed-Club-Regional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-South-Central-Mixed-Club-Regional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-27T15:23:04.322239Z",
+  "scrapedAt": "2026-09-27T15:36:45.093048Z",
   "event": {
     "name": "2026 South Central Mixed Club Regional Championship",
     "division": "Club - Mixed ",
@@ -1461,22 +1461,31 @@
           "isChampionship": false,
           "games": [
             {
+              "team1": "Space Ghosts",
+              "team2": "Mile High Trash",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T10:00:00Z",
+              "round": "2nd Place Semis",
+              "status": "Scheduled"
+            },
+            {
               "team1": "Impact",
               "team2": "Space Ghosts",
-              "score1": 5,
-              "score2": 8,
+              "score1": 8,
+              "score2": 15,
               "datetime": "2026-09-27T08:00:00Z",
               "round": "2nd Place Quarters",
-              "status": "In Progress"
+              "status": "Final"
             },
             {
               "team1": "Green Chiles",
               "team2": "Mile High Trash",
-              "score1": 2,
-              "score2": 8,
+              "score1": 4,
+              "score2": 15,
               "datetime": "2026-09-27T08:00:00Z",
               "round": "2nd Place Quarters",
-              "status": "In Progress"
+              "status": "Final"
             }
           ]
         }
@@ -1489,7 +1498,17 @@
         {
           "name": "5th/6th",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Impact",
+              "team2": "Green Chiles",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T10:00:00Z",
+              "round": "5th Place",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "7th Place",
@@ -1497,28 +1516,47 @@
           "games": [
             {
               "team1": "Zero Turn Lawnmower",
-              "team2": "Flight Club",
+              "team2": "Moontower",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-27T10:00:00Z",
+              "round": "7th Place",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Zero Turn Lawnmower",
+              "team2": "Flight Club",
+              "score1": 15,
+              "score2": 8,
               "datetime": "2026-09-27T08:00:00Z",
               "round": "7th Semis",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Armory",
               "team2": "Moontower",
-              "score1": 0,
-              "score2": 0,
+              "score1": 7,
+              "score2": 15,
               "datetime": "2026-09-27T08:00:00Z",
               "round": "7th Semis",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
         {
           "name": "9th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Flight Club",
+              "team2": "Armory",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T10:00:00Z",
+              "round": "9th Place",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     }

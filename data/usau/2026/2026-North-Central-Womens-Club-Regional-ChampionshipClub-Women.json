@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-North-Central-Womens-Club-Regional-ChampionshipClub-Women",
   "sourceUrl": "http://play.usaultimate.org/events/2026-North-Central-Womens-Club-Regional-Championship/schedule/Women/Club-Women/",
-  "scrapedAt": "2026-09-27T15:21:01.259478Z",
+  "scrapedAt": "2026-09-27T15:34:57.783487Z",
   "event": {
     "name": "2026 North Central Womens Club Regional Championship",
     "division": "Club - Women ",
@@ -790,6 +790,15 @@
           "games": [
             {
               "team1": "Pop",
+              "team2": "Heist",
+              "score1": 8,
+              "score2": 7,
+              "datetime": "2026-09-27T10:00:00Z",
+              "round": "Finals",
+              "status": "In Progress"
+            },
+            {
+              "team1": "Pop",
               "team2": "Wicked",
               "score1": 15,
               "score2": 6,
@@ -800,11 +809,11 @@
             {
               "team1": "Heist",
               "team2": "Stellar",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 9,
               "datetime": "2026-09-27T08:00:00Z",
               "round": "Semis",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Compact Disc",
@@ -835,7 +844,17 @@
         {
           "name": "3rd place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Wicked",
+              "team2": "Stellar",
+              "score1": 7,
+              "score2": 8,
+              "datetime": "2026-09-27T10:00:00Z",
+              "round": "3rd place",
+              "status": "In Progress"
+            }
+          ]
         }
       ]
     },

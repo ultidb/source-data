@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-South-Central-Womens-Regional-ChampionshipClub-Women",
   "sourceUrl": "http://play.usaultimate.org/events/2026-South-Central-Womens-Regional-Championship/schedule/Women/Club-Women/",
-  "scrapedAt": "2026-09-27T15:23:17.576663Z",
+  "scrapedAt": "2026-09-27T15:36:59.165993Z",
   "event": {
     "name": "2026 South Central Womens Club Regional Championship",
     "division": "Club - Women ",
@@ -1239,12 +1239,21 @@
           "games": [
             {
               "team1": "Vengeance",
-              "team2": "Trainwreck",
+              "team2": "Colorado Kelp",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-27T10:00:00Z",
+              "round": "2nd Place SF",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Vengeance",
+              "team2": "Trainwreck",
+              "score1": 15,
+              "score2": 5,
               "datetime": "2026-09-27T08:00:00Z",
               "round": "2nd Place QF",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Crush City",
@@ -1260,7 +1269,17 @@
         {
           "name": "5th/6th",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Trainwreck",
+              "team2": "Crush City",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2020-09-27T10:00:00Z",
+              "round": "5th Place",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     },
