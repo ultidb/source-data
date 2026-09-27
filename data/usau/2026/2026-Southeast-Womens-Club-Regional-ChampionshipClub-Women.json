@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Southeast-Womens-Club-Regional-ChampionshipClub-Women",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Southeast-Womens-Club-Regional-Championship/schedule/Women/Club-Women/",
-  "scrapedAt": "2026-09-27T15:43:47.328188Z",
+  "scrapedAt": "2026-09-27T15:54:05.782184Z",
   "event": {
     "name": "2026 Southeast Womens Club Regional Championship",
     "division": "Club - Women ",
@@ -1069,12 +1069,21 @@
           "games": [
             {
               "team1": "Phoenix",
-              "team2": "Takedown",
+              "team2": "Ozone",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-27T12:00:00Z",
+              "round": "Championship",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Phoenix",
+              "team2": "Takedown",
+              "score1": 15,
+              "score2": 3,
               "datetime": "2026-09-27T10:00:00Z",
               "round": "Semis",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Ozone",
@@ -1126,36 +1135,65 @@
         {
           "name": "3rd Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Takedown",
+              "team2": "Calypso",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T12:00:00Z",
+              "round": "3rd Place",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "5th Place Bracket",
           "isChampionship": false,
           "games": [
             {
-              "team1": "Dolly For President",
-              "team2": "Shiver",
+              "team1": "Shiver",
+              "team2": "Magma",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-27T12:00:00Z",
+              "round": "5th Place Finals",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Dolly For President",
+              "team2": "Shiver",
+              "score1": 8,
+              "score2": 13,
               "datetime": "2026-09-27T10:00:00Z",
               "round": "5th Place Semis",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Magma",
               "team2": "CHAOS",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 7,
               "datetime": "2026-09-27T10:00:00Z",
               "round": "5th Place Semis",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
         {
           "name": "7th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Dolly For President",
+              "team2": "CHAOS",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T12:00:00Z",
+              "round": "7th Place",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     }

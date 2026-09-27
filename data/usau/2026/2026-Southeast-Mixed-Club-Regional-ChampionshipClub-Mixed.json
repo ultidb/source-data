@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Southeast-Mixed-Club-Regional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Southeast-Mixed-Club-Regional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-27T15:43:33.701424Z",
+  "scrapedAt": "2026-09-27T15:53:51.814568Z",
   "event": {
     "name": "2026 Southeast Mixed Club Regional Championship",
     "division": "Club - Mixed ",
@@ -2332,6 +2332,15 @@
           "games": [
             {
               "team1": "Asheville Parliament",
+              "team2": "Bar None",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T12:00:00Z",
+              "round": "5th Place Final",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Asheville Parliament",
               "team2": "Murmur",
               "score1": 15,
               "score2": 7,
@@ -2342,18 +2351,28 @@
             {
               "team1": "FlyTrap",
               "team2": "Bar None",
-              "score1": 0,
-              "score2": 0,
+              "score1": 12,
+              "score2": 15,
               "datetime": "2026-09-27T10:00:00Z",
               "round": "5th Place Semis",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
         {
           "name": "7th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Murmur",
+              "team2": "FlyTrap",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T12:00:00Z",
+              "round": "7th Place Final",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "9th Place",
@@ -2426,6 +2445,15 @@
           "games": [
             {
               "team1": "Blue Ridge Sasquatch",
+              "team2": "Amber",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T12:00:00Z",
+              "round": "13th Place Final",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Blue Ridge Sasquatch",
               "team2": "Southern Gothic",
               "score1": 15,
               "score2": 4,
@@ -2436,18 +2464,28 @@
             {
               "team1": "BUMS",
               "team2": "Amber",
-              "score1": 0,
-              "score2": 0,
+              "score1": 9,
+              "score2": 13,
               "datetime": "2026-09-27T10:00:00Z",
               "round": "13th Place Semis",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
         {
           "name": "15th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Southern Gothic",
+              "team2": "BUMS",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T12:00:00Z",
+              "round": "15th Place Final",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     }
