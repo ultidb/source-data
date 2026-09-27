@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Mid-Atlantic-Womens-Club-Regional-ChampionshipClub-Women",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Mid-Atlantic-Womens-Club-Regional-Championship/schedule/Women/Club-Women/",
-  "scrapedAt": "2026-09-27T22:16:00.172224Z",
+  "scrapedAt": "2026-09-27T22:38:14.442716Z",
   "event": {
     "name": "2026 Mid-Atlantic Womens Club Regional Championship",
     "division": "Club - Women ",
@@ -1852,6 +1852,15 @@
           "isChampionship": false,
           "games": [
             {
+              "team1": "Parcha",
+              "team2": "Grit",
+              "score1": 13,
+              "score2": 10,
+              "datetime": "2026-09-27T14:00:00Z",
+              "round": "3rd Place",
+              "status": "Final"
+            },
+            {
               "team1": "Pine Baroness",
               "team2": "Parcha",
               "score1": 4,
@@ -1863,11 +1872,11 @@
             {
               "team1": "Agency",
               "team2": "Grit",
-              "score1": 0,
-              "score2": 0,
+              "score1": 6,
+              "score2": 9,
               "datetime": "2026-09-27T12:00:00Z",
               "round": "3rd Semis",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Pine Baroness",
@@ -1892,7 +1901,17 @@
         {
           "name": "5th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Pine Baroness",
+              "team2": "Agency",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T14:00:00Z",
+              "round": "5th Place",
+              "status": "Final"
+            }
+          ]
         },
         {
           "name": "7th Place (Select Flight)",
@@ -1901,11 +1920,11 @@
             {
               "team1": "Zephyr",
               "team2": "Dissent",
-              "score1": 0,
-              "score2": 0,
+              "score1": 11,
+              "score2": 7,
               "datetime": "2026-09-27T12:00:00Z",
               "round": "7th Place",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
