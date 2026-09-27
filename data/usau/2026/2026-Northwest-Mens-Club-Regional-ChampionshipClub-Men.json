@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Northwest-Mens-Club-Regional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Northwest-Mens-Club-Regional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-27T18:59:05.791112Z",
+  "scrapedAt": "2026-09-27T19:24:13.853110Z",
   "event": {
     "name": "2026 Northwest Mens Club Regional Championship",
     "division": "Club - Men ",
@@ -1752,11 +1752,11 @@
             {
               "team1": "Furious George",
               "team2": "SOUF",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 7,
               "datetime": "2026-09-27T11:00:00Z",
               "round": "3rd Place Semis",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Surf",
@@ -1811,11 +1811,11 @@
             {
               "team1": "Portland TremOR",
               "team2": "AVE",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 10,
               "datetime": "2026-09-27T11:00:00Z",
               "round": "7th Place",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         }
@@ -1830,6 +1830,15 @@
           "isChampionship": false,
           "games": [
             {
+              "team1": "Switchback",
+              "team2": "Grudge",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T13:00:00Z",
+              "round": "9th Place",
+              "status": "Scheduled"
+            },
+            {
               "team1": "Sawtooth",
               "team2": "Switchback",
               "score1": 7,
@@ -1841,11 +1850,11 @@
             {
               "team1": "Lil’ Huckers",
               "team2": "Grudge",
-              "score1": 0,
-              "score2": 0,
+              "score1": 14,
+              "score2": 15,
               "datetime": "2026-09-27T09:00:00Z",
               "round": "9th Place Semi",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         }
@@ -1858,7 +1867,17 @@
         {
           "name": "11th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Sawtooth",
+              "team2": "Lil’ Huckers",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T11:00:00Z",
+              "round": "11th Place",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     }

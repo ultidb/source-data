@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Southwest-Mixed-Club-Regional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Southwest-Mixed-Club-Regional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-27T19:01:47.343223Z",
+  "scrapedAt": "2026-09-27T19:26:34.065777Z",
   "event": {
     "name": "2026 Southwest Mixed Club Regional Championship",
     "division": "Club - Mixed ",
@@ -2195,13 +2195,22 @@
           "isChampionship": false,
           "games": [
             {
+              "team1": "California Burrito",
+              "team2": "Polar Bears",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T12:30:00Z",
+              "round": "2nd Place",
+              "status": "Scheduled"
+            },
+            {
               "team1": "Mischief",
               "team2": "Polar Bears",
-              "score1": 11,
-              "score2": 9,
+              "score1": 12,
+              "score2": 15,
               "datetime": "2026-09-27T10:30:00Z",
               "round": "2nd Place Semifinal",
-              "status": "In Progress"
+              "status": "Final"
             },
             {
               "team1": "Mischief",
@@ -2245,6 +2254,15 @@
           "name": "4th Place GTG",
           "isChampionship": false,
           "games": [
+            {
+              "team1": "Mischief",
+              "team2": "Lotus",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T12:30:00Z",
+              "round": "4th Place",
+              "status": "Scheduled"
+            },
             {
               "team1": "Lotus",
               "team2": "Lawless",
@@ -2332,11 +2350,11 @@
             {
               "team1": "Classy",
               "team2": "Shipwreck",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 10,
               "datetime": "2026-09-27T10:30:00Z",
               "round": "8th Place Semifinal",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Classy",

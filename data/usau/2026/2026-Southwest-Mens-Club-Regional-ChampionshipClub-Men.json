@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Southwest-Mens-Club-Regional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Southwest-Mens-Club-Regional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-27T19:01:33.378835Z",
+  "scrapedAt": "2026-09-27T19:26:19.952148Z",
   "event": {
     "name": "2026 Southwest Mens Club Regional Championship",
     "division": "Club - Men ",
@@ -1700,28 +1700,47 @@
           "games": [
             {
               "team1": "Skipjack",
-              "team2": "OAT",
+              "team2": "Wavestorms",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-27T12:30:00Z",
+              "round": "Fifth Place",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Skipjack",
+              "team2": "OAT",
+              "score1": 15,
+              "score2": 7,
               "datetime": "2026-09-27T10:30:00Z",
               "round": "Fifth Place Semifinals",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Wavestorms",
               "team2": "Swordfish",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 12,
               "datetime": "2026-09-27T10:30:00Z",
               "round": "Fifth Place Semifinals",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
         {
           "name": "Seventh Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "OAT",
+              "team2": "Swordfish",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T12:30:00Z",
+              "round": "Seventh Place",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "Ninth Place",
@@ -1730,11 +1749,11 @@
             {
               "team1": "Hazard",
               "team2": "OC Crows",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 8,
               "datetime": "2026-09-27T10:30:00Z",
               "round": "Ninth Place",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Hazard",
@@ -1763,11 +1782,11 @@
             {
               "team1": "Sebastopol Orchard",
               "team2": "Battery",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 11,
               "datetime": "2026-09-27T10:30:00Z",
               "round": "Eleventh Place",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         }
