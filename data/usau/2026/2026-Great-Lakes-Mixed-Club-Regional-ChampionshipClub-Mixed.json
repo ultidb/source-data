@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Great-Lakes-Mixed-Club-Regional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Great-Lakes-Mixed-Club-Regional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-27T14:49:29.870610Z",
+  "scrapedAt": "2026-09-27T14:59:44.849161Z",
   "event": {
     "name": "2026 Great Lakes Mixed Club Regional Championship",
     "division": "Club - Mixed ",
@@ -2272,13 +2272,22 @@
           "isChampionship": false,
           "games": [
             {
-              "team1": "Stackcats",
-              "team2": "Prion",
+              "team1": "Prion",
+              "team2": "Dispatch",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-26T11:00:00Z",
+              "round": "9th Finals",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Stackcats",
+              "team2": "Prion",
+              "score1": 10,
+              "score2": 14,
               "datetime": "2026-09-27T09:00:00Z",
               "round": "9th Semis",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Dispatch",
@@ -2330,12 +2339,31 @@
         {
           "name": "11th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Stackcats",
+              "team2": "Jabba",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T11:00:00Z",
+              "round": "11th Finals",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "13th Place",
           "isChampionship": false,
           "games": [
+            {
+              "team1": "Indiana Pterodactyl Attack (IPA)",
+              "team2": "Toast!",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T11:00:00Z",
+              "round": "13th Finals",
+              "status": "Scheduled"
+            },
             {
               "team1": "Indiana Pterodactyl Attack (IPA)",
               "team2": "Queen City Gambit",
@@ -2348,18 +2376,28 @@
             {
               "team1": "Toast!",
               "team2": "Skyhawks",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 13,
               "datetime": "2026-09-27T09:00:00Z",
               "round": "13th Semis",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
         {
           "name": "15th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Queen City Gambit",
+              "team2": "Skyhawks",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T11:00:00Z",
+              "round": "15th Finals",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     },

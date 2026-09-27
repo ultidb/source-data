@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Northeast-Womens-Club-Regional-ChampionshipClub-Women",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Northeast-Womens-Club-Regional-Championship/schedule/Women/Club-Women/",
-  "scrapedAt": "2026-09-27T14:52:02.111868Z",
+  "scrapedAt": "2026-09-27T15:02:00.920962Z",
   "event": {
     "name": "2026 Northeast Womens Club Regional Championship",
     "division": "Club - Women ",
@@ -1444,6 +1444,15 @@
           "games": [
             {
               "team1": "Brute Squad",
+              "team2": "BENT",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T23:00:00Z",
+              "round": "Finals",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Brute Squad",
               "team2": "Starling",
               "score1": 15,
               "score2": 3,
@@ -1454,11 +1463,11 @@
             {
               "team1": "Iris",
               "team2": "BENT",
-              "score1": 0,
-              "score2": 0,
+              "score1": 9,
+              "score2": 13,
               "datetime": "2026-09-27T09:00:00Z",
               "round": "Semis",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         }
@@ -1473,13 +1482,31 @@
           "isChampionship": false,
           "games": [
             {
-              "team1": "Vice",
-              "team2": "Pizza Rat",
+              "team1": "Starling",
+              "team2": "Vice",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-27T11:00:00Z",
+              "round": "Third Semis",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Stella",
+              "team2": "Iris",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T11:00:00Z",
+              "round": "Third Semis",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Vice",
+              "team2": "Pizza Rat",
+              "score1": 9,
+              "score2": 6,
               "datetime": "2026-09-27T09:00:00Z",
               "round": "Third Quarters",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Brooklyn Book Club",
@@ -1513,6 +1540,15 @@
           "name": "Seventh",
           "isChampionship": false,
           "games": [
+            {
+              "team1": "Pizza Rat",
+              "team2": "Siege",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T11:00:00Z",
+              "round": "Select Flight Semi",
+              "status": "Scheduled"
+            },
             {
               "team1": "Polar Vortex",
               "team2": "Brooklyn Book Club",
