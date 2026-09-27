@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Northwest-Womens-Club-Regional-ChampionshipClub-Women",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Northwest-Womens-Club-Regional-Championship/schedule/Women/Club-Women/",
-  "scrapedAt": "2026-09-27T00:52:22.348362Z",
+  "scrapedAt": "2026-09-27T01:02:17.849004Z",
   "event": {
     "name": "2026 Northwest Womens Club Regional Championship",
     "division": "Club - Women ",
@@ -1351,11 +1351,11 @@
             {
               "team1": "Schwa",
               "team2": "Traffic",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 9,
               "datetime": "2026-09-26T16:00:00Z",
               "round": "Pool B",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Drift",
@@ -1377,12 +1377,41 @@
         {
           "name": "1st Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Seattle Riot",
+              "team2": "Schwa",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T11:00:00Z",
+              "round": "Finals",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "2nd Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Komodos",
+              "team2": "Drift",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T09:00:00Z",
+              "round": "2nd Place Qs",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Dark Sky",
+              "team2": "Traffic",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T09:00:00Z",
+              "round": "2nd Place Qs",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "5th Place",
@@ -1392,7 +1421,26 @@
         {
           "name": "7th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "ditto",
+              "team2": "Seven Devils",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T09:00:00Z",
+              "round": "7th Semi",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Seattle Soul",
+              "team2": "Dogfish",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T09:00:00Z",
+              "round": "7th Semi",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "9th Place",
