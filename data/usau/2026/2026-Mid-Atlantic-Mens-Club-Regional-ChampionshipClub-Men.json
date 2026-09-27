@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Mid-Atlantic-Mens-Club-Regional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Mid-Atlantic-Mens-Club-Regional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-27T17:48:41.126618Z",
+  "scrapedAt": "2026-09-27T18:17:24.795647Z",
   "event": {
     "name": "2026 Mid-Atlantic Mens Club Regional Championship",
     "division": "Club - Men ",
@@ -2095,12 +2095,21 @@
           "games": [
             {
               "team1": "Vault",
-              "team2": "Oak Grove Boys",
+              "team2": "Pittsburgh Temper",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-27T12:00:00Z",
+              "round": "2nd Semis",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Vault",
+              "team2": "Oak Grove Boys",
+              "score1": 12,
+              "score2": 11,
               "datetime": "2026-09-27T10:00:00Z",
               "round": "2nd Quarters",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Pittsburgh Temper",
@@ -2206,7 +2215,17 @@
         {
           "name": "5th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Oak Grove Boys",
+              "team2": "UPDOG",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T12:00:00Z",
+              "round": "5th Place",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "7th Place",
