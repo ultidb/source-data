@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Mid-Atlantic-Mixed-Club-Regional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Mid-Atlantic-Mixed-Club-Regional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-27T00:00:09.804161Z",
+  "scrapedAt": "2026-09-27T00:10:47.933175Z",
   "event": {
     "name": "2026 Mid-Atlantic Mixed Club Regional Championship",
     "division": "Club - Mixed ",
@@ -2153,8 +2153,8 @@
             {
               "team1": "Ant Madness",
               "team2": "Jughandle",
-              "score1": 0,
-              "score2": 1,
+              "score1": 9,
+              "score2": 11,
               "datetime": "2026-09-26T14:45:00Z",
               "round": "2nd-Second Rd",
               "status": "Final"
@@ -2231,6 +2231,15 @@
           "isChampionship": false,
           "games": [
             {
+              "team1": "Fireball",
+              "team2": "Ant Madness",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T10:00:00Z",
+              "round": "9th Place",
+              "status": "Scheduled"
+            },
+            {
               "team1": "Delabear",
               "team2": "Fireball",
               "score1": 6,
@@ -2242,18 +2251,28 @@
             {
               "team1": "Ant Madness",
               "team2": "Cupcakes",
-              "score1": 0,
-              "score2": 0,
+              "score1": 11,
+              "score2": 8,
               "datetime": "2026-09-26T16:30:00Z",
               "round": "9th Semis",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
         {
           "name": "11th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Delabear",
+              "team2": "Cupcakes",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T10:00:00Z",
+              "round": "11th Place",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     },
