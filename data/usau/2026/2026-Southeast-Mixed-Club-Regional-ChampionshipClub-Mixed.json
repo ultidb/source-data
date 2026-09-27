@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Southeast-Mixed-Club-Regional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Southeast-Mixed-Club-Regional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-27T16:04:11.942857Z",
+  "scrapedAt": "2026-09-27T16:13:40.725720Z",
   "event": {
     "name": "2026 Southeast Mixed Club Regional Championship",
     "division": "Club - Mixed ",
@@ -2380,6 +2380,15 @@
           "games": [
             {
               "team1": "Catalyst",
+              "team2": "Brunch Club",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T12:00:00Z",
+              "round": "9th Place Final",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Catalyst",
               "team2": "Conspiracy",
               "score1": 15,
               "score2": 12,
@@ -2390,11 +2399,11 @@
             {
               "team1": "Malice in Wonderland",
               "team2": "Brunch Club",
-              "score1": 0,
-              "score2": 0,
+              "score1": 10,
+              "score2": 15,
               "datetime": "2026-09-27T10:00:00Z",
               "round": "9th Place Semis",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Catalyst",
@@ -2437,7 +2446,17 @@
         {
           "name": "11th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Conspiracy",
+              "team2": "Malice in Wonderland",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T12:00:00Z",
+              "round": "11th Place Final",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "13th Place",
