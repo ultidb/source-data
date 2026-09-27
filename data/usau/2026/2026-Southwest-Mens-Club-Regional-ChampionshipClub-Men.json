@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Southwest-Mens-Club-Regional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Southwest-Mens-Club-Regional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-27T17:36:52.899923Z",
+  "scrapedAt": "2026-09-27T17:58:56.886361Z",
   "event": {
     "name": "2026 Southwest Mens Club Regional Championship",
     "division": "Club - Men ",
@@ -1710,6 +1710,15 @@
           "games": [
             {
               "team1": "Hazard",
+              "team2": "OC Crows",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T10:30:00Z",
+              "round": "Ninth Place",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Hazard",
               "team2": "Sebastopol Orchard",
               "score1": 15,
               "score2": 6,
@@ -1731,7 +1740,17 @@
         {
           "name": "Eleventh Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Sebastopol Orchard",
+              "team2": "Battery",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T10:30:00Z",
+              "round": "Eleventh Place",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     }

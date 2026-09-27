@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Northwest-Mens-Club-Regional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Northwest-Mens-Club-Regional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-27T17:30:28.990578Z",
+  "scrapedAt": "2026-09-27T17:50:50.083293Z",
   "event": {
     "name": "2026 Northwest Mens Club Regional Championship",
     "division": "Club - Men ",
@@ -1676,21 +1676,30 @@
           "games": [
             {
               "team1": "Rhino Slam!",
-              "team2": "Dark Star",
+              "team2": "Sockeye",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-27T11:00:00Z",
+              "round": "Finals",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Rhino Slam!",
+              "team2": "Dark Star",
+              "score1": 15,
+              "score2": 5,
               "datetime": "2026-09-27T09:00:00Z",
               "round": "1st Place Semis",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Furious George",
               "team2": "Sockeye",
-              "score1": 6,
-              "score2": 8,
+              "score1": 9,
+              "score2": 15,
               "datetime": "2026-09-27T09:00:00Z",
               "round": "1st Place Semis",
-              "status": "In Progress"
+              "status": "Final"
             },
             {
               "team1": "Rhino Slam!",
@@ -1741,6 +1750,24 @@
           "isChampionship": false,
           "games": [
             {
+              "team1": "Furious George",
+              "team2": "SOUF",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T11:00:00Z",
+              "round": "3rd Place Semis",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Surf",
+              "team2": "Dark Star",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T11:00:00Z",
+              "round": "3rd Place Semis",
+              "status": "Scheduled"
+            },
+            {
               "team1": "Portland TremOR",
               "team2": "SOUF",
               "score1": 9,
@@ -1752,11 +1779,11 @@
             {
               "team1": "Surf",
               "team2": "AVE",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 12,
               "datetime": "2026-09-27T09:00:00Z",
               "round": "3rd Place Quarters",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         }
@@ -1780,7 +1807,17 @@
         {
           "name": "7th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Portland TremOR",
+              "team2": "AVE",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T11:00:00Z",
+              "round": "7th Place",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     },
@@ -1795,11 +1832,11 @@
             {
               "team1": "Sawtooth",
               "team2": "Switchback",
-              "score1": 0,
-              "score2": 0,
+              "score1": 7,
+              "score2": 15,
               "datetime": "2026-09-27T09:00:00Z",
               "round": "9th Place Semi",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Lil’ Huckers",

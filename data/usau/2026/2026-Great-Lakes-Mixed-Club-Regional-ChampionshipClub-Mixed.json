@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Great-Lakes-Mixed-Club-Regional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Great-Lakes-Mixed-Club-Regional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-27T17:03:55.205613Z",
+  "scrapedAt": "2026-09-27T17:48:06.960239Z",
   "event": {
     "name": "2026 Great Lakes Mixed Club Regional Championship",
     "division": "Club - Mixed ",
@@ -1974,11 +1974,11 @@
             {
               "team1": "Hybrid",
               "team2": "Union",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 8,
               "datetime": "2026-09-27T11:00:00Z",
               "round": "1st Finals",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Hybrid",
@@ -2112,6 +2112,15 @@
           "name": "2nd Place",
           "isChampionship": false,
           "games": [
+            {
+              "team1": "Union",
+              "team2": "Spectre",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T13:00:00Z",
+              "round": "2nd Finals",
+              "status": "Scheduled"
+            },
             {
               "team1": "RAMP",
               "team2": "Spectre",
@@ -2259,11 +2268,11 @@
             {
               "team1": "Twist",
               "team2": "Akron Nimb",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 10,
               "datetime": "2026-09-27T11:00:00Z",
               "round": "7th Finals",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
