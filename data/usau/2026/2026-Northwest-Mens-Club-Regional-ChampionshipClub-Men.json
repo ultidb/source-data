@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Northwest-Mens-Club-Regional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Northwest-Mens-Club-Regional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-27T19:24:13.853110Z",
+  "scrapedAt": "2026-09-27T19:39:58.690385Z",
   "event": {
     "name": "2026 Northwest Mens Club Regional Championship",
     "division": "Club - Men ",
@@ -1751,6 +1751,15 @@
           "games": [
             {
               "team1": "Furious George",
+              "team2": "Dark Star",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T13:00:00Z",
+              "round": "3rd Place GtG",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Furious George",
               "team2": "SOUF",
               "score1": 15,
               "score2": 7,
@@ -1761,11 +1770,11 @@
             {
               "team1": "Surf",
               "team2": "Dark Star",
-              "score1": 0,
-              "score2": 0,
+              "score1": 12,
+              "score2": 15,
               "datetime": "2026-09-27T11:00:00Z",
               "round": "3rd Place Semis",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Portland TremOR",
@@ -1796,7 +1805,17 @@
         {
           "name": "5th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "SOUF",
+              "team2": "Surf",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T13:00:00Z",
+              "round": "5th Place",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     },
