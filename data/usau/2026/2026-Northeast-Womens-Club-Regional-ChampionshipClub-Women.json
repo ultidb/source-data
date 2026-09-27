@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Northeast-Womens-Club-Regional-ChampionshipClub-Women",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Northeast-Womens-Club-Regional-Championship/schedule/Women/Club-Women/",
-  "scrapedAt": "2026-09-27T18:19:13.124345Z",
+  "scrapedAt": "2026-09-27T18:37:53.008267Z",
   "event": {
     "name": "2026 Northeast Womens Club Regional Championship",
     "division": "Club - Women ",
@@ -1483,12 +1483,21 @@
           "games": [
             {
               "team1": "Starling",
-              "team2": "Vice",
+              "team2": "Stella",
               "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T13:00:00Z",
+              "round": "Third Place",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Starling",
+              "team2": "Vice",
+              "score1": 1,
               "score2": 0,
               "datetime": "2026-09-27T11:00:00Z",
               "round": "Third Semis",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Stella",
@@ -1528,7 +1537,17 @@
         {
           "name": "Fifth Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Vice",
+              "team2": "Iris",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T13:00:00Z",
+              "round": "Fifth Place",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     },
