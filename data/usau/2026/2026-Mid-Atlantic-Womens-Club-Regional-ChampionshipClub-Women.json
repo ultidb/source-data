@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Mid-Atlantic-Womens-Club-Regional-ChampionshipClub-Women",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Mid-Atlantic-Womens-Club-Regional-Championship/schedule/Women/Club-Women/",
-  "scrapedAt": "2026-09-26T23:31:35.796476Z",
+  "scrapedAt": "2026-09-27T00:00:22.986434Z",
   "event": {
     "name": "2026 Mid-Atlantic Womens Club Regional Championship",
     "division": "Club - Women ",
@@ -1783,6 +1783,15 @@
           "isChampionship": false,
           "games": [
             {
+              "team1": "Scandal",
+              "team2": "Grit",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T10:00:00Z",
+              "round": "Semis",
+              "status": "Scheduled"
+            },
+            {
               "team1": "Parcha",
               "team2": "Flight",
               "score1": 0,
@@ -1794,11 +1803,11 @@
             {
               "team1": "Scandal",
               "team2": "Pine Baroness",
-              "score1": 0,
+              "score1": 15,
               "score2": 0,
               "datetime": "2026-09-26T16:30:00Z",
               "round": "Quarters",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Zephyr",
@@ -1834,6 +1843,15 @@
           "isChampionship": false,
           "games": [
             {
+              "team1": "Pine Baroness",
+              "team2": "Zephyr",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T10:00:00Z",
+              "round": "3rd Quarters",
+              "status": "Scheduled"
+            },
+            {
               "team1": "Agency",
               "team2": "Dissent",
               "score1": 0,
@@ -1859,22 +1877,31 @@
           "isChampionship": false,
           "games": [
             {
-              "team1": "C’ville Sirens",
-              "team2": "Virginia Rebellion",
+              "team1": "Virginia Rebellion",
+              "team2": "Wave",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-27T10:00:00Z",
+              "round": "9th Place",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "C’ville Sirens",
+              "team2": "Virginia Rebellion",
+              "score1": 10,
+              "score2": 11,
               "datetime": "2026-09-26T16:30:00Z",
               "round": "9th Semis",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Splurge",
               "team2": "Wave",
-              "score1": 0,
-              "score2": 0,
+              "score1": 5,
+              "score2": 7,
               "datetime": "2026-09-26T16:30:00Z",
               "round": "9th Semis",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         }
@@ -1887,7 +1914,35 @@
         {
           "name": "Pool 11-13",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Incline",
+              "team2": "Splurge",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T10:00:00Z",
+              "round": "Pool 11-13",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Incline",
+              "team2": "C’ville Sirens",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T12:00:00Z",
+              "round": "Pool 11-13",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "C’ville Sirens",
+              "team2": "Splurge",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T14:00:00Z",
+              "round": "Pool 11-13",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     }

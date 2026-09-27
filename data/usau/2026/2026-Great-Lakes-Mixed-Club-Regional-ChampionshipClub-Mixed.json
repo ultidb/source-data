@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Great-Lakes-Mixed-Club-Regional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Great-Lakes-Mixed-Club-Regional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-26T23:29:54.567384Z",
+  "scrapedAt": "2026-09-26T23:59:29.891283Z",
   "event": {
     "name": "2026 Great Lakes Mixed Club Regional Championship",
     "division": "Club - Mixed ",
@@ -2253,6 +2253,15 @@
           "isChampionship": false,
           "games": [
             {
+              "team1": "Stackcats",
+              "team2": "Prion",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T09:00:00Z",
+              "round": "9th Semis",
+              "status": "Scheduled"
+            },
+            {
               "team1": "Dispatch",
               "team2": "Jabba",
               "score1": 0,
@@ -2260,6 +2269,24 @@
               "datetime": "2026-09-27T09:00:00Z",
               "round": "9th Semis",
               "status": "Scheduled"
+            },
+            {
+              "team1": "Indiana Pterodactyl Attack (IPA)",
+              "team2": "Stackcats",
+              "score1": 12,
+              "score2": 15,
+              "datetime": "2026-09-26T15:00:00Z",
+              "round": "9th Quarters",
+              "status": "Final"
+            },
+            {
+              "team1": "Prion",
+              "team2": "Queen City Gambit",
+              "score1": 12,
+              "score2": 11,
+              "datetime": "2026-09-26T15:00:00Z",
+              "round": "9th Quarters",
+              "status": "Final"
             },
             {
               "team1": "Dispatch",
@@ -2290,6 +2317,15 @@
           "name": "13th Place",
           "isChampionship": false,
           "games": [
+            {
+              "team1": "Indiana Pterodactyl Attack (IPA)",
+              "team2": "Queen City Gambit",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T09:00:00Z",
+              "round": "13th Semis",
+              "status": "Scheduled"
+            },
             {
               "team1": "Toast!",
               "team2": "Skyhawks",
@@ -2328,11 +2364,11 @@
             {
               "team1": "Queen City Gambit",
               "team2": "Stackcats",
-              "score1": 0,
-              "score2": 0,
+              "score1": 14,
+              "score2": 9,
               "datetime": "2026-09-26T13:00:00Z",
               "round": "",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         }
