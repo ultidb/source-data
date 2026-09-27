@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Southeast-Mens-Club-Regional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Southeast-Mens-Club-Regional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-27T15:53:37.961836Z",
+  "scrapedAt": "2026-09-27T16:03:58.317109Z",
   "event": {
     "name": "2026 Southeast Mens Club Regional Championship",
     "division": "Club - Men ",
@@ -2118,6 +2118,15 @@
           "isChampionship": false,
           "games": [
             {
+              "team1": "baNC",
+              "team2": "Florida Untied",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T10:00:00Z",
+              "round": "Backdoor Semis",
+              "status": "Scheduled"
+            },
+            {
               "team1": "Tanasi",
               "team2": "baNC",
               "score1": 12,
@@ -2129,11 +2138,11 @@
             {
               "team1": "Florida Untied",
               "team2": "Raleigh-Durham United",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 14,
               "datetime": "2026-09-27T08:00:00Z",
               "round": "Backdoor Quarters",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Mint",
@@ -2236,7 +2245,17 @@
         {
           "name": "Fifth Place Bracket",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Tanasi",
+              "team2": "Raleigh-Durham United",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T10:00:00Z",
+              "round": "Fifth Place",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "Seventh Place Bracket",
