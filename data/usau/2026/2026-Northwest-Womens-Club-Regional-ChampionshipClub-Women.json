@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Northwest-Womens-Club-Regional-ChampionshipClub-Women",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Northwest-Womens-Club-Regional-Championship/schedule/Women/Club-Women/",
-  "scrapedAt": "2026-09-27T22:40:17.962361Z",
+  "scrapedAt": "2026-09-27T22:58:04.891584Z",
   "event": {
     "name": "2026 Northwest Womens Club Regional Championship",
     "division": "Club - Women ",
@@ -1424,12 +1424,21 @@
           "games": [
             {
               "team1": "ditto",
+              "team2": "Dogfish",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T11:00:00Z",
+              "round": "7th Place",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "ditto",
               "team2": "Seven Devils",
               "score1": 13,
               "score2": 9,
               "datetime": "2026-09-27T09:00:00Z",
               "round": "7th Semi",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Seattle Soul",
@@ -1445,7 +1454,17 @@
         {
           "name": "9th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Seven Devils",
+              "team2": "Seattle Soul",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T11:00:00Z",
+              "round": "9th Place",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     }
