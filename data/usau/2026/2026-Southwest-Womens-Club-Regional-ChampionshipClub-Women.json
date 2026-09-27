@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Southwest-Womens-Club-Regional-ChampionshipClub-Women",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Southwest-Womens-Club-Regional-Championship/schedule/Women/Club-Women/",
-  "scrapedAt": "2026-09-27T18:41:14.711271Z",
+  "scrapedAt": "2026-09-27T19:02:11.447722Z",
   "event": {
     "name": "2026 Southwest Womens Club Regional Championship",
     "division": "Club - Women ",
@@ -1575,11 +1575,11 @@
             {
               "team1": "Fury",
               "team2": "Flipside",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 8,
               "datetime": "2026-09-27T10:30:00Z",
               "round": "Finals",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Fury",
@@ -1642,22 +1642,31 @@
           "isChampionship": false,
           "games": [
             {
-              "team1": "FAB",
-              "team2": "Nightlock",
+              "team1": "Nightlock",
+              "team2": "LOL",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-27T12:30:00Z",
+              "round": "3rd Place (Game-to-Go)",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "FAB",
+              "team2": "Nightlock",
+              "score1": 5,
+              "score2": 15,
               "datetime": "2026-09-27T10:30:00Z",
               "round": "3rd Place Semis",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Wildfire",
               "team2": "LOL",
-              "score1": 0,
-              "score2": 0,
+              "score1": 5,
+              "score2": 15,
               "datetime": "2026-09-27T10:30:00Z",
               "round": "3rd Place Semis",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Void Cat Rewind",
@@ -1697,7 +1706,17 @@
         {
           "name": "5/6th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Wildfire",
+              "team2": "FAB",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T12:30:00Z",
+              "round": "5th Place Game",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "9th Place Bracket",
@@ -1706,11 +1725,11 @@
             {
               "team1": "Rampage",
               "team2": "Haboob",
-              "score1": 0,
-              "score2": 0,
+              "score1": 8,
+              "score2": 15,
               "datetime": "2026-09-27T10:30:00Z",
               "round": "9th Place Game",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Rampage",

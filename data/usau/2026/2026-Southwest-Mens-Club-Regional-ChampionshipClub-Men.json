@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Southwest-Mens-Club-Regional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Southwest-Mens-Club-Regional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-09-27T18:40:45.623453Z",
+  "scrapedAt": "2026-09-27T19:01:33.378835Z",
   "event": {
     "name": "2026 Southwest Mens Club Regional Championship",
     "division": "Club - Men ",
@@ -1580,21 +1580,30 @@
           "games": [
             {
               "team1": "Revolver",
-              "team2": "Zodiac",
+              "team2": "SoCal Condors",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-27T12:30:00Z",
+              "round": "Final",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Revolver",
+              "team2": "Zodiac",
+              "score1": 15,
+              "score2": 9,
               "datetime": "2026-09-27T10:30:00Z",
               "round": "Semifinals",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Nighthawk",
               "team2": "SoCal Condors",
-              "score1": 0,
-              "score2": 0,
+              "score1": 6,
+              "score2": 15,
               "datetime": "2026-09-27T10:30:00Z",
               "round": "Semifinals",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Revolver",
@@ -1673,7 +1682,17 @@
         {
           "name": "Third Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Zodiac",
+              "team2": "Nighthawk",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-09-27T12:30:00Z",
+              "round": "Third Place",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "Fifth Place",

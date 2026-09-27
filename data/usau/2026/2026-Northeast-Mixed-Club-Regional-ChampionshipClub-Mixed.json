@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Northeast-Mixed-Club-Regional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Northeast-Mixed-Club-Regional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-09-27T18:37:40.042948Z",
+  "scrapedAt": "2026-09-27T18:58:12.374999Z",
   "event": {
     "name": "2026 Northeast Mixed Club Regional Championship",
     "division": "Club - Mixed ",
@@ -2132,13 +2132,22 @@
           "isChampionship": false,
           "games": [
             {
-              "team1": "Darkwing",
+              "team1": "Slow",
               "team2": "Sprocket",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-09-27T13:00:00Z",
+              "round": "Game to Go",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Darkwing",
+              "team2": "Sprocket",
+              "score1": 5,
+              "score2": 15,
               "datetime": "2026-09-27T11:00:00Z",
               "round": "THE GAME TO GO TO THE GAME TO GO",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Darkwing",
