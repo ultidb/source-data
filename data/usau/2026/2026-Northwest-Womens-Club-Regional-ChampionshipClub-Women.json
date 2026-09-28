@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-Northwest-Womens-Club-Regional-ChampionshipClub-Women",
   "sourceUrl": "http://play.usaultimate.org/events/2026-Northwest-Womens-Club-Regional-Championship/schedule/Women/Club-Women/",
-  "scrapedAt": "2026-09-28T00:37:49.842022Z",
+  "scrapedAt": "2026-09-28T00:57:40.304209Z",
   "event": {
     "name": "2026 Northwest Womens Club Regional Championship",
     "division": "Club - Women ",
@@ -1394,13 +1394,22 @@
           "isChampionship": false,
           "games": [
             {
+              "team1": "Traffic",
+              "team2": "Schwa",
+              "score1": 12,
+              "score2": 13,
+              "datetime": "2026-09-27T13:00:00Z",
+              "round": "Game to Go",
+              "status": "Final"
+            },
+            {
               "team1": "Komodos",
               "team2": "Traffic",
-              "score1": 0,
-              "score2": 0,
+              "score1": 5,
+              "score2": 15,
               "datetime": "2026-09-27T11:00:00Z",
               "round": "2nd Place Semi",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Komodos",
