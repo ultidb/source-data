@@ -433,3 +433,24 @@ class TestScheduleStaleness:
         source.fetch_event(ref, cache)
 
         assert transport.calls == []
+
+
+def test_addInfoToTeam_coaches_are_names_only():
+    """Regression: the "coaches" CSV row label used to be seeded into the
+    coaches list itself, so it reached the JSON document (and the DB) as a
+    coach named "Coaches"."""
+    from bs4 import BeautifulSoup
+
+    import models
+    from sources.usau.parse import addInfoToTeam
+
+    html = """<div class="profile_info"><h4><a>Team (Nick)</a></h4>
+      <dl><dt>Coaches:</dt><dd>Jane Doe (Head)<br/>John Roe</dd></dl></div>"""
+    team = models.Team("Team", 1, "")
+    addInfoToTeam(BeautifulSoup(html, "html.parser"), team)
+    assert team.info.coaches == ["Jane Doe", "John Roe"]
+    assert team.info.to_csv()[1] == ["coaches", "Jane Doe", "John Roe"]
+
+    addInfoToTeam(BeautifulSoup('<div class="profile_info"></div>', "html.parser"), team)
+    assert team.info.coaches == []
+    assert len(team.info.to_csv()) == 1

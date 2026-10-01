@@ -86,8 +86,8 @@ class TeamInfo:
 
     def to_csv(self):
         output = [['teamInfo',self.nickname, self.location, self.website, self.facebook, self.twitter]]
-        if (len(self.coaches) > 1):
-            output.append(self.coaches)
+        if self.coaches:
+            output.append(['coaches'] + list(self.coaches))
 
         return output
 

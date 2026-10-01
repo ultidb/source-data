@@ -142,7 +142,7 @@ def addInfoToTeam(soup, team):
     website = ""
     facebook = ""
     twitter = ""
-    coaches = ["coaches"]
+    coaches = []
     for entry in entries:
         if entry.find("dt").contents[0] == "Coaches:":
             coaches += parseCoaches(entry.find("dd").contents)
