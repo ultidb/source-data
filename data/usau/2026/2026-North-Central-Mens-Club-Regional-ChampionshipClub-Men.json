@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-North-Central-Mens-Club-Regional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-North-Central-Mens-Club-Regional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-10-03T22:28:12.096797Z",
+  "scrapedAt": "2026-10-03T22:38:12.007479Z",
   "event": {
     "name": "2026 North Central Mens Club Regional Championship",
     "division": "Club - Men ",
@@ -1370,11 +1370,11 @@
             {
               "team1": "Fuse",
               "team2": "Rubicon Rapids",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 9,
               "datetime": "2026-10-03T12:30:00Z",
               "round": "Pool B",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Kansas City Smokestack",
@@ -1397,11 +1397,11 @@
             {
               "team1": "Mad Men",
               "team2": "Rubicon Rapids",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 2,
               "datetime": "2026-10-03T16:00:00Z",
               "round": "Pool B",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Kansas City Smokestack",
@@ -1423,7 +1423,44 @@
         {
           "name": "Championship Bracket",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Sub Zero",
+              "team2": "Fuse",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-10-04T09:00:00Z",
+              "round": "Quarterfinals",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Kansas City Smokestack",
+              "team2": "Zoboomafoo",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-10-04T09:00:00Z",
+              "round": "Quarterfinals",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Lounar",
+              "team2": "Knights of Ni",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-10-04T09:00:00Z",
+              "round": "Quarterfinals",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Mad Men",
+              "team2": "DeMo",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-10-04T09:00:00Z",
+              "round": "Quarterfinals",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "3rd Place",
@@ -1443,7 +1480,17 @@
         {
           "name": "9th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "OPE",
+              "team2": "Rubicon Rapids",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-10-04T09:00:00Z",
+              "round": "9th Place Final",
+              "status": "Scheduled"
+            }
+          ]
         }
       ]
     }
