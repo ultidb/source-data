@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-North-Central-Mixed-Club-Regional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-North-Central-Mixed-Club-Regional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-10-03T19:18:27.098370Z",
+  "scrapedAt": "2026-10-03T19:38:27.394622Z",
   "event": {
     "name": "2026 North Central Mixed Club Regional Championship",
     "division": "Club - Mixed ",
@@ -1481,20 +1481,20 @@
             {
               "team1": "Drag'n Thrust",
               "team2": "Fatal Attraction",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 5,
               "datetime": "2026-10-03T11:00:00Z",
               "round": "Pool A",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Fatal Attraction",
               "team2": "Boomtown Pandas",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 10,
               "datetime": "2026-10-03T13:00:00Z",
               "round": "Pool A",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -1589,11 +1589,11 @@
             {
               "team1": "Minnesota Star Power",
               "team2": "Pushovers",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 14,
               "datetime": "2026-10-03T13:00:00Z",
               "round": "Pool D",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         }
@@ -1606,7 +1606,26 @@
         {
           "name": "1st Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "No Touching!",
+              "team2": "Boomtown Pandas",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-10-03T15:00:00Z",
+              "round": "Pre-Quarters",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Fatal Attraction",
+              "team2": "Pushovers",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-10-03T15:00:00Z",
+              "round": "Pre-Quarters",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "5th Place",
