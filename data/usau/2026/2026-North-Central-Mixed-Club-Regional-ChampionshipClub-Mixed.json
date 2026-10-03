@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-North-Central-Mixed-Club-Regional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-North-Central-Mixed-Club-Regional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-10-03T19:38:27.394622Z",
+  "scrapedAt": "2026-10-03T19:48:30.109006Z",
   "event": {
     "name": "2026 North Central Mixed Club Regional Championship",
     "division": "Club - Mixed ",
@@ -1523,11 +1523,11 @@
             {
               "team1": "CLX",
               "team2": "Mousetrap",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 9,
               "datetime": "2026-10-03T13:00:00Z",
               "round": "Pool B",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -1556,11 +1556,11 @@
             {
               "team1": "Bird",
               "team2": "Mad Udderburn",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 12,
               "datetime": "2026-10-03T13:00:00Z",
               "round": "Pool C",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -1607,6 +1607,24 @@
           "name": "1st Place",
           "isChampionship": false,
           "games": [
+            {
+              "team1": "CLX",
+              "team2": "Mad Udderburn",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-10-03T15:00:00Z",
+              "round": "Pre-Quarters",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Northern Comfort",
+              "team2": "Mousetrap",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-10-03T15:00:00Z",
+              "round": "Pre-Quarters",
+              "status": "Scheduled"
+            },
             {
               "team1": "No Touching!",
               "team2": "Boomtown Pandas",
