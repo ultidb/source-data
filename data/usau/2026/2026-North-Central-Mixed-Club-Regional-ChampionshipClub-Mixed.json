@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-North-Central-Mixed-Club-Regional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-North-Central-Mixed-Club-Regional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-10-03T21:28:28.330305Z",
+  "scrapedAt": "2026-10-03T21:38:26.631936Z",
   "event": {
     "name": "2026 North Central Mixed Club Regional Championship",
     "division": "Club - Mixed ",
@@ -1608,6 +1608,15 @@
           "isChampionship": false,
           "games": [
             {
+              "team1": "Drag'n Thrust",
+              "team2": "CLX",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-10-04T09:00:00Z",
+              "round": "Quarters",
+              "status": "Scheduled"
+            },
+            {
               "team1": "Fatal Attraction",
               "team2": "Good Company",
               "score1": 0,
@@ -1619,11 +1628,11 @@
             {
               "team1": "CLX",
               "team2": "Mad Udderburn",
-              "score1": 0,
-              "score2": 0,
+              "score1": 12,
+              "score2": 8,
               "datetime": "2026-10-03T15:00:00Z",
               "round": "Pre-Quarters",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Northern Comfort",
