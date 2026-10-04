@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-North-Central-Mens-Club-Regional-ChampionshipClub-Men",
   "sourceUrl": "http://play.usaultimate.org/events/2026-North-Central-Mens-Club-Regional-Championship/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-10-04T17:58:14.138683Z",
+  "scrapedAt": "2026-10-04T18:08:34.350736Z",
   "event": {
     "name": "2026 North Central Mens Club Regional Championship",
     "division": "Club - Men ",
@@ -1510,12 +1510,21 @@
           "games": [
             {
               "team1": "Fuse",
-              "team2": "Zoboomafoo",
+              "team2": "Knights of Ni",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-10-04T13:00:00Z",
+              "round": "5th Place Final",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Fuse",
+              "team2": "Zoboomafoo",
+              "score1": 13,
+              "score2": 11,
               "datetime": "2026-10-04T11:00:00Z",
               "round": "5th Place Semifinals",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Knights of Ni",
@@ -1531,7 +1540,17 @@
         {
           "name": "7th Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Zoboomafoo",
+              "team2": "DeMo",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-10-04T13:00:00Z",
+              "round": "7th Place Final",
+              "status": "Scheduled"
+            }
+          ]
         },
         {
           "name": "9th Place",
