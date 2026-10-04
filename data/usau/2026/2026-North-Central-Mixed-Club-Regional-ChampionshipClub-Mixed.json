@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-North-Central-Mixed-Club-Regional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-North-Central-Mixed-Club-Regional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-10-04T17:38:27.498735Z",
+  "scrapedAt": "2026-10-04T17:48:26.299821Z",
   "event": {
     "name": "2026 North Central Mixed Club Regional Championship",
     "division": "Club - Mixed ",
@@ -1609,12 +1609,21 @@
           "games": [
             {
               "team1": "Drag'n Thrust",
-              "team2": "Minnesota Star Power",
+              "team2": "Good Company",
               "score1": 0,
               "score2": 0,
+              "datetime": "2026-10-04T13:00:00Z",
+              "round": "1st Place",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Drag'n Thrust",
+              "team2": "Minnesota Star Power",
+              "score1": 15,
+              "score2": 8,
               "datetime": "2026-10-04T11:00:00Z",
               "round": "Semis",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Bird",
@@ -1704,6 +1713,15 @@
           "isChampionship": false,
           "games": [
             {
+              "team1": "Northern Comfort",
+              "team2": "Fatal Attraction",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-10-04T13:00:00Z",
+              "round": "5th Place",
+              "status": "Scheduled"
+            },
+            {
               "team1": "CLX",
               "team2": "Northern Comfort",
               "score1": 10,
@@ -1715,11 +1733,11 @@
             {
               "team1": "No Touching!",
               "team2": "Fatal Attraction",
-              "score1": 0,
-              "score2": 0,
+              "score1": 12,
+              "score2": 15,
               "datetime": "2026-10-04T11:00:00Z",
               "round": "5th Semis",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
