@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-North-Central-Mixed-Club-Regional-ChampionshipClub-Mixed",
   "sourceUrl": "http://play.usaultimate.org/events/2026-North-Central-Mixed-Club-Regional-Championship/schedule/Mixed/Club-Mixed",
-  "scrapedAt": "2026-10-04T15:38:29.124475Z",
+  "scrapedAt": "2026-10-04T15:48:25.761832Z",
   "event": {
     "name": "2026 North Central Mixed Club Regional Championship",
     "division": "Club - Mixed ",
@@ -1617,6 +1617,15 @@
               "status": "Scheduled"
             },
             {
+              "team1": "Bird",
+              "team2": "Good Company",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-10-04T11:00:00Z",
+              "round": "Semis",
+              "status": "Scheduled"
+            },
+            {
               "team1": "Drag'n Thrust",
               "team2": "CLX",
               "score1": 15,
@@ -1637,20 +1646,20 @@
             {
               "team1": "Bird",
               "team2": "No Touching!",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 10,
               "datetime": "2026-10-04T09:00:00Z",
               "round": "Quarters",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Fatal Attraction",
               "team2": "Good Company",
-              "score1": 0,
-              "score2": 0,
+              "score1": 10,
+              "score2": 14,
               "datetime": "2026-10-04T09:00:00Z",
               "round": "Quarters",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "CLX",
@@ -1702,6 +1711,15 @@
               "datetime": "2026-10-04T11:00:00Z",
               "round": "5th Semis",
               "status": "Scheduled"
+            },
+            {
+              "team1": "No Touching!",
+              "team2": "Fatal Attraction",
+              "score1": 0,
+              "score2": 0,
+              "datetime": "2026-10-04T11:00:00Z",
+              "round": "5th Semis",
+              "status": "Scheduled"
             }
           ]
         },
@@ -1712,11 +1730,11 @@
             {
               "team1": "Mad Udderburn",
               "team2": "Mousetrap",
-              "score1": 0,
-              "score2": 0,
+              "score1": 10,
+              "score2": 14,
               "datetime": "2026-10-04T09:00:00Z",
               "round": "9th Semis",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Boomtown Pandas",
