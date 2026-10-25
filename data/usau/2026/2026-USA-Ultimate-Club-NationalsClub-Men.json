@@ -3,7 +3,7 @@
   "source": "usau",
   "sourceEventId": "2026-USA-Ultimate-Club-NationalsClub-Men",
   "sourceUrl": "https://play.usaultimate.org/events/2026-USA-Ultimate-Club-Nationals/schedule/Men/Club-Men/",
-  "scrapedAt": "2026-10-22T02:51:50.420536Z",
+  "scrapedAt": "2026-10-25T23:20:28.372266Z",
   "event": {
     "name": "2026 USA Ultimate Club Nationals",
     "division": "Club - Men ",
@@ -16,6 +16,129 @@
     "endDate": "2026-10-25"
   },
   "teams": [
+    {
+      "name": "Ring of Fire",
+      "seed": 8,
+      "sourceTeamId": "j1517WDa8Un5D%2fij%2bgbLl2zjU7EWbHCY5hNJQnr3IT4%3d",
+      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=j1517WDa8Un5D%2fij%2bgbLl2zjU7EWbHCY5hNJQnr3IT4%3d",
+      "info": {
+        "nickname": "",
+        "location": "Raleigh, North Carolina",
+        "website": "https://ringultimate.org/",
+        "facebook": "",
+        "twitter": "https://twitter.com/ringultimate"
+      },
+      "coaches": [
+        "David Allison",
+        "Michael Avila"
+      ],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Brayden Morrison"
+        },
+        {
+          "number": "02",
+          "name": "Suhas Madiraju"
+        },
+        {
+          "number": "04",
+          "name": "Suraj Madiraju"
+        },
+        {
+          "number": "05",
+          "name": "Andrew Li"
+        },
+        {
+          "number": "06",
+          "name": "Dylan Hawkins"
+        },
+        {
+          "number": "07",
+          "name": "John McDonnell"
+        },
+        {
+          "number": "10",
+          "name": "Owen Stout"
+        },
+        {
+          "number": "11",
+          "name": "Jake Thorne"
+        },
+        {
+          "number": "12",
+          "name": "Liam Searles-Bohs"
+        },
+        {
+          "number": "13",
+          "name": "Aiden Fields"
+        },
+        {
+          "number": "14",
+          "name": "Josh Singleton"
+        },
+        {
+          "number": "15",
+          "name": "Andrew Swanson"
+        },
+        {
+          "number": "16",
+          "name": "Henri Lessard"
+        },
+        {
+          "number": "19",
+          "name": "Justin-Cooper Williams"
+        },
+        {
+          "number": "21",
+          "name": "Matt Gouchoe-Hanas"
+        },
+        {
+          "number": "22",
+          "name": "Solomon Yanuck"
+        },
+        {
+          "number": "23",
+          "name": "Walker Matthews"
+        },
+        {
+          "number": "24",
+          "name": "Michael Lee"
+        },
+        {
+          "number": "32",
+          "name": "Christian Belus"
+        },
+        {
+          "number": "35",
+          "name": "Matthew Barcellos"
+        },
+        {
+          "number": "51",
+          "name": "Kevin Pignone"
+        },
+        {
+          "number": "61",
+          "name": "Brian Trowbridge"
+        },
+        {
+          "number": "66",
+          "name": "Eli Fried"
+        },
+        {
+          "number": "76",
+          "name": "Trevor Lynch"
+        },
+        {
+          "number": "96",
+          "name": "Henry Fisher"
+        },
+        {
+          "number": "98",
+          "name": "Tanner Roberts"
+        }
+      ]
+    },
     {
       "name": "Chicago Machine",
       "seed": 1,
@@ -139,129 +262,6 @@
         {
           "number": "91",
           "name": "William Wettengel"
-        }
-      ]
-    },
-    {
-      "name": "Ring of Fire",
-      "seed": 8,
-      "sourceTeamId": "j1517WDa8Un5D%2fij%2bgbLl2zjU7EWbHCY5hNJQnr3IT4%3d",
-      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=j1517WDa8Un5D%2fij%2bgbLl2zjU7EWbHCY5hNJQnr3IT4%3d",
-      "info": {
-        "nickname": "",
-        "location": "Raleigh, North Carolina",
-        "website": "https://ringultimate.org/",
-        "facebook": "",
-        "twitter": "https://twitter.com/ringultimate"
-      },
-      "coaches": [
-        "David Allison",
-        "Michael Avila"
-      ],
-      "roster": [
-        {
-          "number": "00",
-          "name": "Brayden Morrison"
-        },
-        {
-          "number": "02",
-          "name": "Suhas Madiraju"
-        },
-        {
-          "number": "04",
-          "name": "Suraj Madiraju"
-        },
-        {
-          "number": "05",
-          "name": "Andrew Li"
-        },
-        {
-          "number": "06",
-          "name": "Dylan Hawkins"
-        },
-        {
-          "number": "07",
-          "name": "John McDonnell"
-        },
-        {
-          "number": "10",
-          "name": "Owen Stout"
-        },
-        {
-          "number": "11",
-          "name": "Jake Thorne"
-        },
-        {
-          "number": "12",
-          "name": "Liam Searles-Bohs"
-        },
-        {
-          "number": "13",
-          "name": "Aiden Fields"
-        },
-        {
-          "number": "14",
-          "name": "Josh Singleton"
-        },
-        {
-          "number": "15",
-          "name": "Andrew Swanson"
-        },
-        {
-          "number": "16",
-          "name": "Henri Lessard"
-        },
-        {
-          "number": "19",
-          "name": "Justin-Cooper Williams"
-        },
-        {
-          "number": "21",
-          "name": "Matt Gouchoe-Hanas"
-        },
-        {
-          "number": "22",
-          "name": "Solomon Yanuck"
-        },
-        {
-          "number": "23",
-          "name": "Walker Matthews"
-        },
-        {
-          "number": "24",
-          "name": "Michael Lee"
-        },
-        {
-          "number": "32",
-          "name": "Christian Belus"
-        },
-        {
-          "number": "35",
-          "name": "Matthew Barcellos"
-        },
-        {
-          "number": "51",
-          "name": "Kevin Pignone"
-        },
-        {
-          "number": "61",
-          "name": "Brian Trowbridge"
-        },
-        {
-          "number": "66",
-          "name": "Eli Fried"
-        },
-        {
-          "number": "76",
-          "name": "Trevor Lynch"
-        },
-        {
-          "number": "96",
-          "name": "Henry Fisher"
-        },
-        {
-          "number": "98",
-          "name": "Tanner Roberts"
         }
       ]
     },
@@ -757,6 +757,125 @@
       ]
     },
     {
+      "name": "Johnny Bravo",
+      "seed": 14,
+      "sourceTeamId": "xZeP2gXv43%2fBCtLGsdU6iSIjakIEHOaZJrC7jscAlEc%3d",
+      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=xZeP2gXv43%2fBCtLGsdU6iSIjakIEHOaZJrC7jscAlEc%3d",
+      "info": {
+        "nickname": "",
+        "location": "Colorado, Colorado",
+        "website": "",
+        "facebook": "",
+        "twitter": "https://twitter.com/BravoUltimate"
+      },
+      "coaches": [
+        "Bryce Merrill",
+        "Todd Wolma"
+      ],
+      "roster": [
+        {
+          "number": "02",
+          "name": "Jay Froude"
+        },
+        {
+          "number": "03",
+          "name": "Jackson Cochran"
+        },
+        {
+          "number": "04",
+          "name": "Sammy Pew"
+        },
+        {
+          "number": "06",
+          "name": "Erik Hotaling"
+        },
+        {
+          "number": "07",
+          "name": "Jonathan Nethercutt"
+        },
+        {
+          "number": "08",
+          "name": "Daniel Landesman"
+        },
+        {
+          "number": "09",
+          "name": "Rami Rifaat"
+        },
+        {
+          "number": "11",
+          "name": "Hunter May"
+        },
+        {
+          "number": "14",
+          "name": "Sam Kilgore"
+        },
+        {
+          "number": "15",
+          "name": "Dennison Bechis"
+        },
+        {
+          "number": "16",
+          "name": "Alex Piper"
+        },
+        {
+          "number": "18",
+          "name": "Kimball Pew"
+        },
+        {
+          "number": "24",
+          "name": "Mathieu Agee"
+        },
+        {
+          "number": "31",
+          "name": "Kai Marshall"
+        },
+        {
+          "number": "33",
+          "name": "John Sickles"
+        },
+        {
+          "number": "46",
+          "name": "Nanda Min-Fink"
+        },
+        {
+          "number": "55",
+          "name": "Daniel Bauman"
+        },
+        {
+          "number": "66",
+          "name": "Jordan Kerr"
+        },
+        {
+          "number": "69",
+          "name": "Kuochuan Ponzio"
+        },
+        {
+          "number": "72",
+          "name": "Geoffrey Tucker Kalmus"
+        },
+        {
+          "number": "75",
+          "name": "Matt Jackson"
+        },
+        {
+          "number": "81",
+          "name": "Nathan Buchholz"
+        },
+        {
+          "number": "84",
+          "name": "Sam VanDusen"
+        },
+        {
+          "number": "88",
+          "name": "Quinn Finer"
+        },
+        {
+          "number": "99",
+          "name": "Alex Tatum"
+        }
+      ]
+    },
+    {
       "name": "Sockeye",
       "seed": 11,
       "sourceTeamId": "OOwjbp2jWZyHsKIB9NffDh1a%2bAlalN8e08fezpztvpA%3d",
@@ -880,125 +999,6 @@
       ]
     },
     {
-      "name": "Johnny Bravo",
-      "seed": 14,
-      "sourceTeamId": "xZeP2gXv43%2fBCtLGsdU6iSIjakIEHOaZJrC7jscAlEc%3d",
-      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=xZeP2gXv43%2fBCtLGsdU6iSIjakIEHOaZJrC7jscAlEc%3d",
-      "info": {
-        "nickname": "",
-        "location": "Colorado, Colorado",
-        "website": "",
-        "facebook": "",
-        "twitter": "https://twitter.com/BravoUltimate"
-      },
-      "coaches": [
-        "Bryce Merrill",
-        "Todd Wolma"
-      ],
-      "roster": [
-        {
-          "number": "02",
-          "name": "Jay Froude"
-        },
-        {
-          "number": "03",
-          "name": "Jackson Cochran"
-        },
-        {
-          "number": "04",
-          "name": "Sammy Pew"
-        },
-        {
-          "number": "06",
-          "name": "Erik Hotaling"
-        },
-        {
-          "number": "07",
-          "name": "Jonathan Nethercutt"
-        },
-        {
-          "number": "08",
-          "name": "Daniel Landesman"
-        },
-        {
-          "number": "09",
-          "name": "Rami Rifaat"
-        },
-        {
-          "number": "11",
-          "name": "Hunter May"
-        },
-        {
-          "number": "14",
-          "name": "Sam Kilgore"
-        },
-        {
-          "number": "15",
-          "name": "Dennison Bechis"
-        },
-        {
-          "number": "16",
-          "name": "Alex Piper"
-        },
-        {
-          "number": "18",
-          "name": "Kimball Pew"
-        },
-        {
-          "number": "24",
-          "name": "Mathieu Agee"
-        },
-        {
-          "number": "31",
-          "name": "Kai Marshall"
-        },
-        {
-          "number": "33",
-          "name": "John Sickles"
-        },
-        {
-          "number": "46",
-          "name": "Nanda Min-Fink"
-        },
-        {
-          "number": "55",
-          "name": "Daniel Bauman"
-        },
-        {
-          "number": "66",
-          "name": "Jordan Kerr"
-        },
-        {
-          "number": "69",
-          "name": "Kuochuan Ponzio"
-        },
-        {
-          "number": "72",
-          "name": "Geoffrey Tucker Kalmus"
-        },
-        {
-          "number": "75",
-          "name": "Matt Jackson"
-        },
-        {
-          "number": "81",
-          "name": "Nathan Buchholz"
-        },
-        {
-          "number": "84",
-          "name": "Sam VanDusen"
-        },
-        {
-          "number": "88",
-          "name": "Quinn Finer"
-        },
-        {
-          "number": "99",
-          "name": "Alex Tatum"
-        }
-      ]
-    },
-    {
       "name": "Rhino Slam!",
       "seed": 3,
       "sourceTeamId": "86BatnsQ7EAbXmmO5qta%2fmNI9mZyks1U1zHk8CCy0Ys%3d",
@@ -1118,124 +1118,6 @@
         {
           "number": "99",
           "name": "Callahan Bosworth"
-        }
-      ]
-    },
-    {
-      "name": "Sub Zero",
-      "seed": 6,
-      "sourceTeamId": "qv0YMfQI7CpthWhY9qsXJ%2by6Ei3s9LCNLNWgirgJ4RE%3d",
-      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=qv0YMfQI7CpthWhY9qsXJ%2by6Ei3s9LCNLNWgirgJ4RE%3d",
-      "info": {
-        "nickname": "",
-        "location": "Minneapolis, Minnesota",
-        "website": "https://www.subzeroultimate.org/",
-        "facebook": "https://www.facebook.com/Sub-Zero-Ultimate-105463586149513/",
-        "twitter": ""
-      },
-      "coaches": [
-        "Raj Maitra"
-      ],
-      "roster": [
-        {
-          "number": "00",
-          "name": "Zach Morton"
-        },
-        {
-          "number": "02",
-          "name": "Michael Walsh"
-        },
-        {
-          "number": "03",
-          "name": "Leo Sovell-Fernandez"
-        },
-        {
-          "number": "04",
-          "name": "Noah Hanson"
-        },
-        {
-          "number": "07",
-          "name": "Eric Crosby Lehmann"
-        },
-        {
-          "number": "09",
-          "name": "Sebastian Brauer"
-        },
-        {
-          "number": "10",
-          "name": "Ryan duSaire"
-        },
-        {
-          "number": "11",
-          "name": "Will Casperson"
-        },
-        {
-          "number": "12",
-          "name": "Gordon Larson"
-        },
-        {
-          "number": "13",
-          "name": "Peter Mans"
-        },
-        {
-          "number": "14",
-          "name": "Max Heirigs"
-        },
-        {
-          "number": "17",
-          "name": "Ian Hahn"
-        },
-        {
-          "number": "18",
-          "name": "Thomas Shope"
-        },
-        {
-          "number": "19",
-          "name": "Austin King"
-        },
-        {
-          "number": "22",
-          "name": "Danny Hobday"
-        },
-        {
-          "number": "23",
-          "name": "Paul Krenik"
-        },
-        {
-          "number": "24",
-          "name": "Aiden  Lomen"
-        },
-        {
-          "number": "30",
-          "name": "Becker Mathie"
-        },
-        {
-          "number": "31",
-          "name": "Nathan De Morgan"
-        },
-        {
-          "number": "33",
-          "name": "Leo Farley"
-        },
-        {
-          "number": "34",
-          "name": "Levi Dohman"
-        },
-        {
-          "number": "44",
-          "name": "Ethan Ode"
-        },
-        {
-          "number": "51",
-          "name": "Blake Krapfl"
-        },
-        {
-          "number": "88",
-          "name": "Micah Davis"
-        },
-        {
-          "number": "96",
-          "name": "Max Hanscom"
         }
       ]
     },
@@ -1365,6 +1247,124 @@
       ]
     },
     {
+      "name": "Sub Zero",
+      "seed": 6,
+      "sourceTeamId": "qv0YMfQI7CpthWhY9qsXJ%2by6Ei3s9LCNLNWgirgJ4RE%3d",
+      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=qv0YMfQI7CpthWhY9qsXJ%2by6Ei3s9LCNLNWgirgJ4RE%3d",
+      "info": {
+        "nickname": "",
+        "location": "Minneapolis, Minnesota",
+        "website": "https://www.subzeroultimate.org/",
+        "facebook": "https://www.facebook.com/Sub-Zero-Ultimate-105463586149513/",
+        "twitter": ""
+      },
+      "coaches": [
+        "Raj Maitra"
+      ],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Zach Morton"
+        },
+        {
+          "number": "02",
+          "name": "Michael Walsh"
+        },
+        {
+          "number": "03",
+          "name": "Leo Sovell-Fernandez"
+        },
+        {
+          "number": "04",
+          "name": "Noah Hanson"
+        },
+        {
+          "number": "07",
+          "name": "Eric Crosby Lehmann"
+        },
+        {
+          "number": "09",
+          "name": "Sebastian Brauer"
+        },
+        {
+          "number": "10",
+          "name": "Ryan duSaire"
+        },
+        {
+          "number": "11",
+          "name": "Will Casperson"
+        },
+        {
+          "number": "12",
+          "name": "Gordon Larson"
+        },
+        {
+          "number": "13",
+          "name": "Peter Mans"
+        },
+        {
+          "number": "14",
+          "name": "Max Heirigs"
+        },
+        {
+          "number": "17",
+          "name": "Ian Hahn"
+        },
+        {
+          "number": "18",
+          "name": "Thomas Shope"
+        },
+        {
+          "number": "19",
+          "name": "Austin King"
+        },
+        {
+          "number": "22",
+          "name": "Danny Hobday"
+        },
+        {
+          "number": "23",
+          "name": "Paul Krenik"
+        },
+        {
+          "number": "24",
+          "name": "Aiden  Lomen"
+        },
+        {
+          "number": "30",
+          "name": "Becker Mathie"
+        },
+        {
+          "number": "31",
+          "name": "Nathan De Morgan"
+        },
+        {
+          "number": "33",
+          "name": "Leo Farley"
+        },
+        {
+          "number": "34",
+          "name": "Levi Dohman"
+        },
+        {
+          "number": "44",
+          "name": "Ethan Ode"
+        },
+        {
+          "number": "51",
+          "name": "Blake Krapfl"
+        },
+        {
+          "number": "88",
+          "name": "Micah Davis"
+        },
+        {
+          "number": "96",
+          "name": "Max Hanscom"
+        }
+      ]
+    },
+    {
       "name": "Mephisto",
       "seed": 15,
       "sourceTeamId": "8yZ4PuA%2b4WS64mWQ3jW5gjWKO7bgMuGSxjEdZXFZmfc%3d",
@@ -1482,127 +1482,6 @@
         {
           "number": "86",
           "name": "Jakob Brissette"
-        }
-      ]
-    },
-    {
-      "name": "DiG",
-      "seed": 4,
-      "sourceTeamId": "c%2b%2bYxB0QIhKk0R7zimS8cT42I6wOMXEdZWsE18NOWTY%3d",
-      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=c%2b%2bYxB0QIhKk0R7zimS8cT42I6wOMXEdZWsE18NOWTY%3d",
-      "info": {
-        "nickname": "",
-        "location": "Boston, Massachusetts",
-        "website": "https://instagram.com/digultimate/",
-        "facebook": "https://www.facebook.com/digultimate",
-        "twitter": "https://twitter.com/digultimate"
-      },
-      "coaches": [
-        "James Smart",
-        "Jerry  Wang",
-        "Dan Hourigan",
-        "Samuel Lehman"
-      ],
-      "roster": [
-        {
-          "number": "00",
-          "name": "Christopher Parinella"
-        },
-        {
-          "number": "01",
-          "name": "Peter Kotz"
-        },
-        {
-          "number": "02",
-          "name": "Simon Ruelle"
-        },
-        {
-          "number": "03",
-          "name": "Gabriel Colton"
-        },
-        {
-          "number": "05",
-          "name": "Calvin Stoughton"
-        },
-        {
-          "number": "07",
-          "name": "Oscar Graff"
-        },
-        {
-          "number": "08",
-          "name": "Thomas Edmonds"
-        },
-        {
-          "number": "09",
-          "name": "Jason Tapper"
-        },
-        {
-          "number": "10",
-          "name": "Simon Carapella"
-        },
-        {
-          "number": "11",
-          "name": "Peter Boerth"
-        },
-        {
-          "number": "13",
-          "name": "Brendan McCann"
-        },
-        {
-          "number": "14",
-          "name": "Francisco Fernandez"
-        },
-        {
-          "number": "15",
-          "name": "Jack Conroy"
-        },
-        {
-          "number": "22",
-          "name": "Ryan Dinger"
-        },
-        {
-          "number": "26",
-          "name": "Nathaniel Dick"
-        },
-        {
-          "number": "27",
-          "name": "Orion Cable"
-        },
-        {
-          "number": "28",
-          "name": "Jacob Kaplan"
-        },
-        {
-          "number": "32",
-          "name": "Albert Yuan"
-        },
-        {
-          "number": "33",
-          "name": "Tobe Decraene"
-        },
-        {
-          "number": "44",
-          "name": "Quentin Bonnaud"
-        },
-        {
-          "number": "50",
-          "name": "Lander Decraene"
-        },
-        {
-          "number": "55",
-          "name": "Pawel Janas"
-        },
-        {
-          "number": "66",
-          "name": "Cameron Levine"
-        },
-        {
-          "number": "87",
-          "name": "Jeffrey Babbitt"
-        },
-        {
-          "number": "93",
-          "name": "Cole Davis-Brand"
         }
       ]
     },
@@ -1730,6 +1609,127 @@
       ]
     },
     {
+      "name": "DiG",
+      "seed": 4,
+      "sourceTeamId": "c%2b%2bYxB0QIhKk0R7zimS8cT42I6wOMXEdZWsE18NOWTY%3d",
+      "url": "https://play.usaultimate.org/events/teams/?EventTeamId=c%2b%2bYxB0QIhKk0R7zimS8cT42I6wOMXEdZWsE18NOWTY%3d",
+      "info": {
+        "nickname": "",
+        "location": "Boston, Massachusetts",
+        "website": "https://instagram.com/digultimate/",
+        "facebook": "https://www.facebook.com/digultimate",
+        "twitter": "https://twitter.com/digultimate"
+      },
+      "coaches": [
+        "James Smart",
+        "Jerry  Wang",
+        "Dan Hourigan",
+        "Samuel Lehman"
+      ],
+      "roster": [
+        {
+          "number": "00",
+          "name": "Christopher Parinella"
+        },
+        {
+          "number": "01",
+          "name": "Peter Kotz"
+        },
+        {
+          "number": "02",
+          "name": "Simon Ruelle"
+        },
+        {
+          "number": "03",
+          "name": "Gabriel Colton"
+        },
+        {
+          "number": "05",
+          "name": "Calvin Stoughton"
+        },
+        {
+          "number": "07",
+          "name": "Oscar Graff"
+        },
+        {
+          "number": "08",
+          "name": "Thomas Edmonds"
+        },
+        {
+          "number": "09",
+          "name": "Jason Tapper"
+        },
+        {
+          "number": "10",
+          "name": "Simon Carapella"
+        },
+        {
+          "number": "11",
+          "name": "Peter Boerth"
+        },
+        {
+          "number": "13",
+          "name": "Brendan McCann"
+        },
+        {
+          "number": "14",
+          "name": "Francisco Fernandez"
+        },
+        {
+          "number": "15",
+          "name": "Jack Conroy"
+        },
+        {
+          "number": "22",
+          "name": "Ryan Dinger"
+        },
+        {
+          "number": "26",
+          "name": "Nathaniel Dick"
+        },
+        {
+          "number": "27",
+          "name": "Orion Cable"
+        },
+        {
+          "number": "28",
+          "name": "Jacob Kaplan"
+        },
+        {
+          "number": "32",
+          "name": "Albert Yuan"
+        },
+        {
+          "number": "33",
+          "name": "Tobe Decraene"
+        },
+        {
+          "number": "44",
+          "name": "Quentin Bonnaud"
+        },
+        {
+          "number": "50",
+          "name": "Lander Decraene"
+        },
+        {
+          "number": "55",
+          "name": "Pawel Janas"
+        },
+        {
+          "number": "66",
+          "name": "Cameron Levine"
+        },
+        {
+          "number": "87",
+          "name": "Jeffrey Babbitt"
+        },
+        {
+          "number": "93",
+          "name": "Cole Davis-Brand"
+        }
+      ]
+    },
+    {
       "name": "Truck Stop",
       "seed": 9,
       "sourceTeamId": "gt4EMm%2fSH4jnxbKnOAHJRENMiSShWjTkKj9DsTLPsLw%3d",
@@ -1772,6 +1772,10 @@
           "name": "Tyler Monroe"
         },
         {
+          "number": "11",
+          "name": "Jacob Loveranes"
+        },
+        {
           "number": "13",
           "name": "Cole Jurek"
         },
@@ -1790,10 +1794,6 @@
         {
           "number": "18",
           "name": "Wiebe van den Brink"
-        },
-        {
-          "number": "23",
-          "name": "Jacob Loveranes"
         },
         {
           "number": "24",
@@ -1973,7 +1973,7 @@
   "stages": [
     {
       "type": "pools",
-      "name": "Thursday Pool Play",
+      "name": "Friday Pool Play",
       "groups": [
         {
           "name": "Pool A",
@@ -1982,56 +1982,56 @@
             {
               "team1": "Chicago Machine",
               "team2": "GOAT",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 12,
               "datetime": "2026-10-23T09:00:00Z",
               "round": "Pool A",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Ring of Fire",
               "team2": "Furious George",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 6,
               "datetime": "2026-10-23T09:00:00Z",
               "round": "Pool A",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Chicago Machine",
               "team2": "Furious George",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 14,
               "datetime": "2026-10-23T11:15:00Z",
               "round": "Pool A",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Ring of Fire",
               "team2": "GOAT",
-              "score1": 0,
-              "score2": 0,
+              "score1": 14,
+              "score2": 12,
               "datetime": "2026-10-23T11:15:00Z",
               "round": "Pool A",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Chicago Machine",
               "team2": "Ring of Fire",
-              "score1": 0,
-              "score2": 0,
+              "score1": 13,
+              "score2": 14,
               "datetime": "2026-10-23T13:30:00Z",
               "round": "Pool A",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "GOAT",
               "team2": "Furious George",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 13,
               "datetime": "2026-10-23T13:30:00Z",
               "round": "Pool A",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -2042,56 +2042,56 @@
             {
               "team1": "PoNY",
               "team2": "Sockeye",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 12,
               "datetime": "2026-10-23T11:15:00Z",
               "round": "Pool B",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Chain Lightning",
               "team2": "Johnny Bravo",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 10,
               "datetime": "2026-10-23T11:15:00Z",
               "round": "Pool B",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "PoNY",
               "team2": "Johnny Bravo",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 12,
               "datetime": "2026-10-23T13:30:00Z",
               "round": "Pool B",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Chain Lightning",
               "team2": "Sockeye",
-              "score1": 0,
-              "score2": 0,
+              "score1": 14,
+              "score2": 12,
               "datetime": "2026-10-23T13:30:00Z",
               "round": "Pool B",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "PoNY",
               "team2": "Chain Lightning",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 14,
               "datetime": "2026-10-23T15:45:00Z",
               "round": "Pool B",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Sockeye",
               "team2": "Johnny Bravo",
-              "score1": 0,
-              "score2": 0,
+              "score1": 12,
+              "score2": 15,
               "datetime": "2026-10-23T15:45:00Z",
               "round": "Pool B",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -2102,56 +2102,56 @@
             {
               "team1": "Rhino Slam!",
               "team2": "Philadelphia Pacmen",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 14,
               "datetime": "2026-10-23T09:00:00Z",
               "round": "Pool C",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Sub Zero",
               "team2": "Mephisto",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 12,
               "datetime": "2026-10-23T09:00:00Z",
               "round": "Pool C",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Rhino Slam!",
               "team2": "Mephisto",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 13,
               "datetime": "2026-10-23T13:30:00Z",
               "round": "Pool C",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Sub Zero",
               "team2": "Philadelphia Pacmen",
-              "score1": 0,
-              "score2": 0,
+              "score1": 11,
+              "score2": 15,
               "datetime": "2026-10-23T13:30:00Z",
               "round": "Pool C",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Rhino Slam!",
               "team2": "Sub Zero",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 12,
               "datetime": "2026-10-23T15:45:00Z",
               "round": "Pool C",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Philadelphia Pacmen",
               "team2": "Mephisto",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 10,
               "datetime": "2026-10-23T15:45:00Z",
               "round": "Pool C",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         },
@@ -2162,56 +2162,56 @@
             {
               "team1": "Revolver",
               "team2": "Doublewide",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 5,
               "datetime": "2026-10-23T09:00:00Z",
               "round": "Pool D",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "DiG",
               "team2": "Truck Stop",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 10,
               "datetime": "2026-10-23T09:00:00Z",
               "round": "Pool D",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Revolver",
               "team2": "Truck Stop",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 12,
               "datetime": "2026-10-23T11:15:00Z",
               "round": "Pool D",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "DiG",
               "team2": "Doublewide",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 9,
               "datetime": "2026-10-23T11:15:00Z",
               "round": "Pool D",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Revolver",
               "team2": "DiG",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 14,
               "datetime": "2026-10-23T15:45:00Z",
               "round": "Pool D",
-              "status": "Scheduled"
+              "status": "Final"
             },
             {
               "team1": "Truck Stop",
               "team2": "Doublewide",
-              "score1": 0,
-              "score2": 0,
+              "score1": 15,
+              "score2": 7,
               "datetime": "2026-10-23T15:45:00Z",
               "round": "Pool D",
-              "status": "Scheduled"
+              "status": "Final"
             }
           ]
         }
@@ -2224,14 +2224,139 @@
         {
           "name": "Championship",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Ring of Fire",
+              "team2": "Chicago Machine",
+              "score1": 8,
+              "score2": 5,
+              "datetime": "2026-10-25T15:45:00Z",
+              "round": "Final",
+              "status": "Scheduled"
+            },
+            {
+              "team1": "Ring of Fire",
+              "team2": "Revolver",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2026-10-25T11:15:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Rhino Slam!",
+              "team2": "Chicago Machine",
+              "score1": 14,
+              "score2": 15,
+              "datetime": "2026-10-25T11:15:00Z",
+              "round": "Semifinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Ring of Fire",
+              "team2": "Sub Zero",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2026-10-24T15:45:00Z",
+              "round": "Quarterfinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Johnny Bravo",
+              "team2": "Revolver",
+              "score1": 11,
+              "score2": 15,
+              "datetime": "2026-10-24T15:45:00Z",
+              "round": "Quarterfinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Rhino Slam!",
+              "team2": "GOAT",
+              "score1": 15,
+              "score2": 11,
+              "datetime": "2026-10-24T15:45:00Z",
+              "round": "Quarterfinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Chicago Machine",
+              "team2": "PoNY",
+              "score1": 15,
+              "score2": 14,
+              "datetime": "2026-10-24T15:45:00Z",
+              "round": "Quarterfinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Chain Lightning",
+              "team2": "Sub Zero",
+              "score1": 14,
+              "score2": 15,
+              "datetime": "2026-10-24T11:15:00Z",
+              "round": "Prequarterfinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Johnny Bravo",
+              "team2": "Philadelphia Pacmen",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2026-10-24T11:15:00Z",
+              "round": "Prequarterfinals",
+              "status": "Final"
+            },
+            {
+              "team1": "DiG",
+              "team2": "GOAT",
+              "score1": 12,
+              "score2": 15,
+              "datetime": "2026-10-24T11:15:00Z",
+              "round": "Prequarterfinals",
+              "status": "Final"
+            },
+            {
+              "team1": "Truck Stop",
+              "team2": "Chicago Machine",
+              "score1": 8,
+              "score2": 15,
+              "datetime": "2026-10-24T11:15:00Z",
+              "round": "Prequarterfinals",
+              "status": "Final"
+            }
+          ]
         }
       ]
     },
     {
       "type": "clusters",
       "name": "Fourth Place Crossovers",
-      "groups": []
+      "groups": [
+        {
+          "name": "Crossover",
+          "isChampionship": false,
+          "games": [
+            {
+              "team1": "Sockeye",
+              "team2": "Mephisto",
+              "score1": 15,
+              "score2": 9,
+              "datetime": "2026-10-24T11:15:00Z",
+              "round": "",
+              "status": "Final"
+            },
+            {
+              "team1": "Furious George",
+              "team2": "Doublewide",
+              "score1": 13,
+              "score2": 14,
+              "datetime": "2026-10-24T11:15:00Z",
+              "round": "",
+              "status": "Final"
+            }
+          ]
+        }
+      ]
     },
     {
       "type": "brackets",
@@ -2240,17 +2365,119 @@
         {
           "name": "Fifth Place Bracket",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "PoNY",
+              "team2": "Sub Zero",
+              "score1": 15,
+              "score2": 13,
+              "datetime": "2026-10-25T11:15:00Z",
+              "round": "Fifth Place",
+              "status": "Final"
+            },
+            {
+              "team1": "PoNY",
+              "team2": "Johnny Bravo",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2026-10-25T09:00:00Z",
+              "round": "Fifth Place Semifinal",
+              "status": "Final"
+            },
+            {
+              "team1": "GOAT",
+              "team2": "Sub Zero",
+              "score1": 14,
+              "score2": 15,
+              "datetime": "2026-10-25T09:00:00Z",
+              "round": "Fifth Place Semifinal",
+              "status": "Final"
+            }
+          ]
         },
         {
           "name": "Pro Flight Play In (A)",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Johnny Bravo",
+              "team2": "DiG",
+              "score1": 12,
+              "score2": 15,
+              "datetime": "2026-10-25T11:15:00Z",
+              "round": "Pro Flight Play In / 7th Place (tie)",
+              "status": "Final"
+            },
+            {
+              "team1": "DiG",
+              "team2": "Philadelphia Pacmen",
+              "score1": 15,
+              "score2": 11,
+              "datetime": "2026-10-25T09:00:00Z",
+              "round": "Seventh Place Semifinal",
+              "status": "Final"
+            },
+            {
+              "team1": "DiG",
+              "team2": "Furious George",
+              "score1": 15,
+              "score2": 10,
+              "datetime": "2026-10-24T15:45:00Z",
+              "round": "Seventh Place Quarterfinal",
+              "status": "Final"
+            },
+            {
+              "team1": "Sockeye",
+              "team2": "Philadelphia Pacmen",
+              "score1": 14,
+              "score2": 15,
+              "datetime": "2026-10-24T15:45:00Z",
+              "round": "Seventh Place Quarterfinal",
+              "status": "Final"
+            }
+          ]
         },
         {
           "name": "Pro Flight Play In (B)",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Truck Stop",
+              "team2": "GOAT",
+              "score1": 14,
+              "score2": 13,
+              "datetime": "2026-10-25T11:15:00Z",
+              "round": "Pro Flight Play In / 7th Place (tie)",
+              "status": "Final"
+            },
+            {
+              "team1": "Truck Stop",
+              "team2": "Chain Lightning",
+              "score1": 15,
+              "score2": 14,
+              "datetime": "2026-10-25T09:00:00Z",
+              "round": "Seventh Place Semifinal",
+              "status": "Final"
+            },
+            {
+              "team1": "Truck Stop",
+              "team2": "Doublewide",
+              "score1": 15,
+              "score2": 7,
+              "datetime": "2026-10-24T15:45:00Z",
+              "round": "Seventh Place Quarterfinal",
+              "status": "Final"
+            },
+            {
+              "team1": "Mephisto",
+              "team2": "Chain Lightning",
+              "score1": 13,
+              "score2": 15,
+              "datetime": "2026-10-24T15:45:00Z",
+              "round": "Seventh Place Quarterfinal",
+              "status": "Final"
+            }
+          ]
         }
       ]
     },
@@ -2261,17 +2488,65 @@
         {
           "name": "Eleventh Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Philadelphia Pacmen",
+              "team2": "Chain Lightning",
+              "score1": 15,
+              "score2": 14,
+              "datetime": "2026-10-25T11:15:00Z",
+              "round": "Eleventh Place",
+              "status": "Final"
+            }
+          ]
         },
         {
           "name": "Thirteenth Place Bracket",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Sockeye",
+              "team2": "Doublewide",
+              "score1": 15,
+              "score2": 12,
+              "datetime": "2026-10-25T11:15:00Z",
+              "round": "Thirteenth Place",
+              "status": "Final"
+            },
+            {
+              "team1": "Furious George",
+              "team2": "Sockeye",
+              "score1": 9,
+              "score2": 15,
+              "datetime": "2026-10-25T09:00:00Z",
+              "round": "Thirteenth Place Semifinal",
+              "status": "Final"
+            },
+            {
+              "team1": "Doublewide",
+              "team2": "Mephisto",
+              "score1": 14,
+              "score2": 13,
+              "datetime": "2026-10-25T09:00:00Z",
+              "round": "Thirteenth Place Semifinal",
+              "status": "Final"
+            }
+          ]
         },
         {
           "name": "Fifteenth Place",
           "isChampionship": false,
-          "games": []
+          "games": [
+            {
+              "team1": "Furious George",
+              "team2": "Mephisto",
+              "score1": 14,
+              "score2": 10,
+              "datetime": "2026-10-25T11:15:00Z",
+              "round": "Fifteenth Place",
+              "status": "Final"
+            }
+          ]
         }
       ]
     }
